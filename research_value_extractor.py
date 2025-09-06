@@ -17,6 +17,11 @@ import os
 from typing import List, Dict, Any, Union, Optional
 from pathlib import Path
 import io
+import dotenv
+
+from util.decoders import ResponseJSONDecoder
+
+dotenv.load_dotenv()
 
 try:
     from pypdf import PdfReader
@@ -26,6 +31,7 @@ except ImportError:
 
 try:
     import openai
+    from openai import OpenAI
 except ImportError:
     print("Error: openai library not found. Install with: pip install openai")
     exit(1)
@@ -114,14 +120,16 @@ inputs = {{
             model: OpenAI model to use for extraction
         """
         self.model = model
-        
+
         # Set up OpenAI client
         if openai_api_key:
-            openai.api_key = openai_api_key
+            self.client = OpenAI(api_key=openai_api_key)
         else:
-            openai.api_key = os.getenv("OPENAI_API_KEY")
+            print("Using OPENAI_API_KEY from environment variable", os.getenv("OPENAI_API_KEY"))
             
-        if not openai.api_key:
+            self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+        if not self.client:
             raise ValueError("OpenAI API key not provided. Set OPENAI_API_KEY environment variable or pass openai_api_key parameter.")
 
     def extract_text_from_pdf(self, pdf_path: Union[str, Path, bytes]) -> str:
@@ -291,8 +299,7 @@ inputs = {{
         )
         
         try:
-            # Call OpenAI API
-            response = openai.ChatCompletion.create(
+            response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[
                     {"role": "user", "content": prompt}
@@ -306,7 +313,7 @@ inputs = {{
             
             # Try to parse as JSON
             try:
-                result = json.loads(result_text)
+                result = json.loads(result_text, cls=ResponseJSONDecoder)
                 return {
                     "success": True,
                     "result": result,
