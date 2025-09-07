@@ -6,7 +6,6 @@ __pycache__/
 *.db
 *.sqlite3
 *.log
-*.yaml
 *.pdf
 *.json
 *.xlsx
@@ -17,7 +16,6 @@ __pycache__/
 *.cfg
 *.env
 *.env.*
-*.yml
 *.pickle
 *.pkl
 *.egg-info/

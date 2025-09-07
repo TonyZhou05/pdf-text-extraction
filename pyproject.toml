@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "research-extractor"
+version = "0.1.0"
+description = "Extract structured values from research abstracts and papers"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Your Name" }]
+
+# Runtime deps (edit to match your code)
+dependencies = [
+  "pypdf>=4.0",
+  "requests>=2.31",
+  "pandas>=2.0",
+  "tqdm>=4.66",
+  "pypdf>=4.0",
+  "openai>=1.00",
+  "python-dotenv>=1.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pypdf>=4.0",
+  "pytest>=8",
+  "openai>=1.00",
+  "pandas>=2.0",
+  "python-dotenv>=1.0"
+]
+
+# Find *all* packages under research_extractor
+[tool.setuptools]
+packages = { find = { where = ["."] } }
+
+# Console entry point: installs a `run-experiment` command
+[project.scripts]
+run-experiment = "research_extractor.scripts.run_experiment:main"
