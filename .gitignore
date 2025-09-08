@@ -17,7 +17,6 @@ __pycache__/
 *.cfg
 *.env
 *.env.*
-*.yml
 *.pickle
 *.pkl
 *.egg-info/
