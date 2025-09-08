@@ -2,7 +2,7 @@ name: experiment
 on:
   workflow_dispatch:
   push:
-    branches: ["**"]
+    branches: [ main ]
     paths:
       - 'research_extractor/**'
       - '.github/workflows/experiment.yml'
