@@ -2,7 +2,11 @@ name: experiment
 on:
   workflow_dispatch:
   push:
+<<<<<<< HEAD
     branches: ["**"]
+=======
+    branches: [ main ]
+>>>>>>> main
     paths:
       - 'research_extractor/**'
       - '.github/workflows/experiment.yml'
@@ -82,6 +86,7 @@ jobs:
         run: |
           python -m research_extractor.scripts.run_experiment \
             --input research_extractor/data/abstract.sample.jsonl \
+<<<<<<< HEAD
             --out research_extractor/outputs/results-azure.jsonl \
             --provider 'azure'
       
@@ -104,3 +109,7 @@ jobs:
             research_extractor/outputs/results-azure.jsonl
             research_extractor/outputs/metrics-azure.json
             research_extractor/outputs/report-azure.md
+=======
+            --out research_extractor/outputs/results.jsonl \
+            --provider 'azure'
+>>>>>>> main
