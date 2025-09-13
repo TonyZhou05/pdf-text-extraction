@@ -2,7 +2,11 @@ name: experiment
 on:
   workflow_dispatch:
   push:
+<<<<<<< HEAD
+    branches: ["**"]
+=======
     branches: [ main ]
+>>>>>>> main
     paths:
       - 'research_extractor/**'
       - '.github/workflows/experiment.yml'
@@ -35,28 +39,28 @@ jobs:
         run: |
           python -m research_extractor.scripts.run_experiment \
             --input research_extractor/data/abstract.sample.jsonl \
-            --out research_extractor/outputs/results.jsonl \
+            --out research_extractor/outputs/results-fake.jsonl \
             --provider 'fake'
 
       - name: Job summary
         if: always()
         run: |
           echo "## Experiment summary" >> $GITHUB_STEP_SUMMARY
-          if [ -f research_extractor/outputs/report.md ]; then
-            cat research_extractor/outputs/report.md >> $GITHUB_STEP_SUMMARY
+          if [ -f research_extractor/outputs/report-fake.md ]; then
+            cat research_extractor/outputs/report-fake.md >> $GITHUB_STEP_SUMMARY
           else
-            echo "No report.md found." >> $GITHUB_STEP_SUMMARY
+            echo "No report-fake.md found." >> $GITHUB_STEP_SUMMARY
           fi
 
       - name: Upload outputs
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: results-${{ github.run_id }}
+          name: results-${{ github.job }}-${{ github.run_id }}
           path: |
-            research_extractor/outputs/results.jsonl
-            research_extractor/outputs/metrics.json
-            research_extractor/outputs/report.md
+            research_extractor/outputs/results-fake.jsonl
+            research_extractor/outputs/metrics-fake.json
+            research_extractor/outputs/report-fake.md
 
   integration:
     needs: run_dummy
@@ -82,5 +86,30 @@ jobs:
         run: |
           python -m research_extractor.scripts.run_experiment \
             --input research_extractor/data/abstract.sample.jsonl \
+<<<<<<< HEAD
+            --out research_extractor/outputs/results-azure.jsonl \
+            --provider 'azure'
+      
+      - name: Job summary
+        if: always()
+        run: |
+          echo "## Experiment summary" >> $GITHUB_STEP_SUMMARY
+          if [ -f research_extractor/outputs/report-azure.md ]; then
+            cat research_extractor/outputs/report-azure.md >> $GITHUB_STEP_SUMMARY
+          else
+            echo "No report-azure.md found." >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Upload outputs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: results-${{ github.job }}-${{ github.run_id }}
+          path: |
+            research_extractor/outputs/results-azure.jsonl
+            research_extractor/outputs/metrics-azure.json
+            research_extractor/outputs/report-azure.md
+=======
             --out research_extractor/outputs/results.jsonl \
             --provider 'azure'
+>>>>>>> main
