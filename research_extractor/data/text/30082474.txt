@@ -1,0 +1,843 @@
+Source: 30082474.pdf
+Extracted on: Sat Sep 13 00:00:49 PDT 2025
+==================================================
+
+--- Page 1 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Abemaciclib in Combination with Single-Agent Options in Patients
+with Stage IV Non–Small Cell Lung Cancer: A Phase 1b Study
+Edward S. Kim1, Karen Kelly2, Luis G. Paz-Ares3, Pilar Garrido4, Shadia Jalal5,
+Daruka Mahadevan6, Martin Gutierrez7, Mariano Provencio8, Eric Schaefer9, Monte Shaheen10,
+Erica L. Johnston11, P. Kellie Turner11, Siva Rama Prasad Kambhampati11*, Richard Beckmann11,
+Anwar Hossain11, William J. John11**, Jonathan W. Goldman12
+1Levine Cancer Institute, Atrium Health, Charlotte, North Carolina
+2University of California Davis Comprehensive Cancer Center, Sacramento, California
+3Servicio de Oncología Médica, University Hospital Doce de Octubre, CNIO, Complutense University
+and CiberOnc, Madrid, Spain
+4Hospital Universitario Ramon y Cajal, IRYCIS. Universidad de Alcalá, CiberOnc, Madrid, Spain
+5Indiana University School of Medicine, Indianapolis, Indiana
+6 University of Arizona Cancer Center, Tucson, Arizona
+7Hackensack University Medical Center, Hackensack, New Jersey
+8Servicio de Oncología Médica, Hospital Universitario Puerta de Hierro, Madrid, Spain
+9Highlands Oncology Group, Fayetteville, Arkansas
+10 University of Arizona, Department of Medicine and Cancer Center, Tucson, Arizona
+11Eli Lilly and Company, Indianapolis, Indiana
+12University of California at Los Angeles, Los Angeles, California
+*Current affiliation: PK/PD and Pharmacometrics, Akros Pharma Inc., Princeton, NJ
+**Current affiliation: MedPace, Cincinnati, OH
+Running title: Phase 1b Study of Abemaciclib in NSCLC
+Abbreviations: AE, adverse event; AUC , area under the concentration time curve from time 0 to last
+(0–last)
+observed concentration; CDK, cyclin-dependent kinase; C , maximum plasma concentration; CV,
+max
+coefficient of variation; DCR, disease control rate; DLT, dose-limiting toxicity; DET, DLT-equivalent
+toxicity; MTD, maximum tolerated dose; NSCLC, non–small cell lung cancer; PFS, progression-free
+survival; SAS, Statistical Analyses System; TEAE, treatment-emergent adverse event.
+Corresponding Author: Edward S. Kim, Solid Tumor Oncology and Investigational Therapeutics,
+Donald S. Kim Distinguished Chair for Cancer Research, Levine Cancer Institute, Atrium Health, 1021
+Morehead Medical Drive, Suite 3100, Charlotte, NC 28204.
+Phone: 980-442-3105; Fax: 980-442-3101; E-mail: Edward.Kim@carolinashealthcare.org
+Potential Conflicts of Interest
+ESK reports personal fees from Eli Lilly during the conduct of the study, and personal fees from Celgene,
+AstraZeneca, and Boehringer Ingelheim, outside the submitted work. KK reports personal fees from Lilly
+Advisory Board outside the submitted work. LGP-A reports personal fees and serving in a Medical
+Advisory capacity for Roche, Eli Lilly, MSD, BMS, Novartis, AstraZeneca, Boehringer Ingelheim,
+Pfizer, Amgen, and Clovis, outside the submitted work. PG is on the Advisory Board for Eli Lilly, Roche,
+Astra-Zeneca, MSD, AbbVie, Boehringer, BMS, Pfizer, and Guardant; has received personal fees from
+Roche, MSD, Boehringer, and BMS, and a grant from Guardant. MG reports personal fees from Eli Lilly
+outside the submitted work. MP reports investigational funds from Lilly. JWG has received research
+grants and is on an Advisory Board for Eli Lilly and Company. ELJ, PKT, SRPK, RB, AH, WJJ are
+employees of Eli Lilly and Company. All other authors have nothing to disclose.
+___________________________________________________________________
+This is the author's manuscript of the article published in final edited form as:
+Kim, E. S., Kelly, K., Paz-Ares, L. G., Garrido, P., Jalal, S., Mahadevan, D., … Goldman, J. W. (2018). Abemaciclib in
+Combination with Single-Agent Options in Patients with Stage IV Non–Small Cell Lung Cancer: A Phase Ib Study. Clinical
+Cancer Research, 24(22), 5543–5551. https://doi.org/10.1158/1078-0432.CCR-18-0651
+
+--- Page 2 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Translational Relevance
+Despite advances in prolonging survival of patients with metastatic NSCLC, treatment options after
+progression on second-line treatment remain an area of significant unmet medical need. Pemetrexed,
+gemcitabine, and ramucirumab are indicated for advanced NSCLC treatment. The addition of abemaciclib
+to single-agent chemotherapy or antiangiogenic therapy already approved in NSCLC may achieve
+additional clinical benefit. Preclinical studies in NSCLC models indicated potential additive benefit for
+the combination of single-agent treatments with abemaciclib. The JPBA phase 1 study demonstrated
+abemaciclib monotherapy activity in NSCLC, and recently, abemaciclib received Food and Drug
+Administration approval as single-agent or in combination with endocrine therapy for breast cancer. The
+objective of the JPBJ phase 1b study was to identify a tolerable abemaciclib dose, characterize its
+pharmacokinetics, and evaluate its antitumor activity when combined with single-agent chemotherapy or
+antiangiogenic therapy for the treatment of metastatic NSCLC. These results have potential as a
+foundation for future clinical development.
+2
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 3 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Abstract
+Introduction: Abemaciclib, a dual inhibitor of cyclin-dependent kinases 4 and 6, has demonstrated
+preclinical activity in non–small cell lung cancer (NSCLC). A multicenter, nonrandomized, open-label
+phase 1b study was conducted to test safety, maximum tolerated dose (MTD), pharmacokinetics, and
+preliminary antitumor activity of abemaciclib in combination with other therapies for treatment in patients
+with metastatic NSCLC.
+Methods: An initial dose escalation phase was used to determine the MTD of twice-daily oral
+abemaciclib (150, 200 mg) plus pemetrexed, gemcitabine, or ramucirumab, followed by an expansion
+phase for each drug combination. Pemetrexed and gemcitabine were administered according to label. The
+abemaciclib plus ramucirumab study examined two dosing schedules.
+Results: The three study parts enrolled 86 patients; all received ≥1 dose of combination therapy. Across
+arms, the most common treatment-emergent adverse events were fatigue, diarrhea, neutropenia, decreased
+appetite, and nausea. The trial did not identify an abemaciclib MTD for the combination with pemetrexed
+or gemcitabine but did so for the combination of abemaciclib with days 1,8 ramucirumab (8mg/kg).
+Plasma sample analysis showed that abemaciclib did not influence the pharmacokinetics of the
+combination agents and the combinations agents did not affect abemaciclib exposure. The disease control
+rate was 57% for patients treated with abemaciclib-pemetrexed, 25% for abemaciclib-gemcitabine, and
+54% for abemaciclib-ramucirumab. Median progression-free survival was 5.55, 1.58, and 4.83 months,
+respectively.
+Conclusions: Abemaciclib demonstrated an acceptable safety profile when dosed on a continuous twice-
+daily schedule in combination with pemetrexed, gemcitabine, or ramucirumab. Abemaciclib exposures
+remained consistent with those observed in single-agent studies.
+3
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 4 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Introduction
+Lung cancer is the most common cancer worldwide and the leading cause of cancer-related
+mortality (1). Non–small cell lung cancer (NSCLC) accounts for >80% of all lung cancer cases, with
+most patients initially diagnosed with advanced or metastatic disease (2).
+Platinum-based doublets are the standard first-line therapy for NSCLC in unselected patients; and
+in appropriate patients, these may be combined with bevacizumab, necitumumab, or pembrolizumab (3–
+6). Patients with sensitizing mutations of EGFR or BRAF, or ALK or ROS-1 gene rearrangement are
+candidates for first-line therapy with targeted oral kinase inhibitors (2).
+Unfortunately, not all patients respond to first-line therapy and even patients who initially
+respond will likely relapse. Many patients are candidates for second-line and eventually third-line
+therapy. Available second-line treatment options in unselected patients include: docetaxel (with or
+without ramucirumab, or nintedanib in the European Union), and pemetrexed or gemcitabine if not
+previously used (2, 7–11). In addition, immune checkpoint inhibitors may be used following disease
+progression on or after platinum-based chemotherapy: pembrolizumab is indicated for selected patients
+with PD-L1 expression, and nivolumab and atezolizumab in unselected patients (12–14).
+Despite these advances in prolonging survival of patients with metastatic NSCLC, after
+progression on second-line treatment, there are few options. Third-line treatment continues to be
+challenging, and subsequent treatment options for patients with metastatic NSCLC remains an area of
+significant unmet medical need.
+Because cell cycle dysregulation occurs in >90% of lung cancers (15), disrupting the cell
+proliferation machinery may control the growth of advanced NSCLC. During the cell cycle, the G1
+restriction point controls entry into S phase (16). Cyclin-dependent kinases 4 and 6 (CDK4 and CDK6)
+form a complex with D-type cyclins to advance the cell cycle through the G1 restriction point through
+phosphorylation of the Rb tumor suppressor protein (17). Inhibiting CDK4 and CDK6 prevents cell cycle
+progression, halting tumor growth and promoting senescence.
+4
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 5 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Abemaciclib is a selective and potent small molecule inhibitor of CDK4 and CDK6 with broad
+antitumor activity in preclinical models, acceptable physical and pharmacokinetic (PK) properties, and
+acceptable toxicity profile in nonclinical species (18,19). Preclinical data showed that KRAS-mutant
+NSCLC xenograft models (NCI-H2122, NCI-H358, and NCI-H441) had greater sensitivity to
+abemaciclib compared with models expressing a wild-type KRAS gene (NCI-H1975 and NCI-H1650)
+(20). In addition, preclinical studies conducted in KRAS-mutant NSCLC models (NCI-H441 and NCI-
+H2122) indicated potential additivity when agents such as pemetrexed, gemcitabine, or DC101 (a mouse
+surrogate of ramucirumab) were combined with abemaciclib. In these studies, the combination therapies
+demonstrated greater tumor growth inhibition as well as longer duration of growth inhibition following
+treatment cessation compared with abemaciclib single-agent therapy (21).
+In the JPBA phase 1 study, single-agent abemaciclib showed acceptable safety/tolerability as well
+as early evidence of clinical activity in multiple tumor types, including patients with heavily pretreated
+metastatic NSCLC (20). Fatigue was the dose limiting toxicity across all tumor types. The most common
+treatment-emergent adverse events (TEAEs) were gastrointestinal and hematopoietic and were
+manageable with dose adjustments and supportive care. The disease control rate (DCR) among
+abemaciclib-treated patients was 49% (33 of 68 patients); 2 patients achieved partial responses. The DCR
+was greater in the KRAS-mutant population (55%) compared to that in the KRAS wild-type population
+(39%).
+Based on preclinical and clinical data, we conducted a multicenter phase 1b clinical study to test
+the safety and tolerability of oral abemaciclib combination therapy in patients with metastatic NSCLC.
+The secondary objectives of the study included determination of the pharmacokinetic profile for each
+combination therapy and assessment of antitumor activity.
+5
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 6 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Methods
+A multicenter, nonrandomized, open-label phase 1b trial enrolled patients previously treated for
+advanced/metastatic NSCLC. The study comprised multiple study parts, each with an initial dose
+escalation phase to determine the maximum tolerated dose (MTD) of abemaciclib plus pemetrexed (part
+A), gemcitabine (part B), or ramucirumab (part C), followed by an expansion phase for each study part.
+Part C also included investigation of an alternative ramucirumab dosing schedule. Two additional parts of
+the study, abemaciclib in combination with LY3023414 (PI3K/mTOR dual inhibitor) and
+pembrolizumab, have not been concluded and will be reported separately.
+This study was designed by the sponsor and was conducted in accordance with the Declaration of
+Helsinki ethical principles and International Conference on Harmonisation Guidelines for Good Clinical
+Practice. Site-specific institutional review boards or ethics committees approved the study protocol and
+amendments. All patients provided written informed consent. The study is registered at
+www.ClinicalTrials.gov (NCT02079636).
+Patients
+Key eligibility criteria included previously treated advanced/metastatic NSCLC, age ≥18 years,
+Eastern Cooperative Oncology Group performance status ≤1, and adequate hematologic and end organ
+function. Eligibility was not restricted based on molecular features; however, all patients with EGFR-
+activating mutations or ALK alterations should have progressed on or after an EGFR or ALK tyrosine
+kinase inhibitor prior to enrollment.
+Part A required nonsquamous histology and one to three prior therapies, including one platinum-
+based chemotherapy for advanced/metastatic NSCLC. Pemetrexed received as first-line or maintenance
+therapy must have been completed ≥3 months prior to study entry. Part B allowed any histological
+subtype and required one to three prior therapies for advanced/metastatic NSCLC. Part C allowed any
+histological subtype and required two to three prior therapies for advanced/metastatic NSCLC. Study
+allowed patients with measureable or nonmeasurable disease as defined by the Response Evaluation
+Criteria in Solid Tumors v1.1 (22). (The online appendix lists eligibility requirements.)
+6
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 7 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Treatments and MTD determination
+Table S1 (online appendix) outlines treatments and dose escalation scheme. During the dose
+escalation phase, cohorts of three to six patients enrolled at each of the planned dose levels. Abemaciclib
+was administered orally every 12 hours (Q12H) on days 1 through 21 of a 21-day cycle at 150 or 200 mg
+(the established single-agent MTD) until disease progression or other study discontinuation criteria were
+met. Pemetrexed (part A) and gemcitabine (part B) were administered according to label: day 1 for
+pemetrexed, days 1 and 8 for gemcitabine. Ramucirumab (part C) was administered on two different
+schedules on day 1 or on days 1 and 8 of a 21-day cycle. The ramucirumab days 1 and 8 regimen was
+developed based on pharmacokinetic simulations with the expectation to produce higher trough
+concentrations relative to the standard dosing regimen (22). Dose adjustments (omission and reduction)
+were permitted for each drug for specific toxicities (see online appendix for details). Patients discontinued
+from study treatment upon progression, unacceptable toxicity, or decision by the patient, physician, or
+sponsor. Post-study treatment evaluation occurred 30 ± 7 days from the last dose of study drug.
+Safety assessments guided the dose escalation phase during the first 21 days of treatment for all
+patients in each cohort. If no patient experienced a dose-limiting toxicity (DLT), dose escalation occurred
+to the next prespecified dose level. If one of three patients at any cohort experienced a DLT, then three
+additional patients were enrolled at that dose level. If a DLT was observed in ≥2 out of a maximum of six
+patients at any given dose, dose escalation ceased, and either the previous dose was declared the MTD for
+the combination therapy or additional patients were treated at the previous dose level to ensure <2 DLTs
+out of 6 patients occurred at that dose level. If more than 2 of 6 patients experienced a DLT at 150 mg
+Q12H, then the dose of abemaciclib was to be de-escalated to 100 mg Q12H. After the MTD for each
+combination therapy was identified in each study part in the dose escalation phase, each study part
+enrolled 12 additional patients for the confirmation phase of the study. Part C (ramucirumab) included a
+second dose escalation and a 6-patient confirmation cohort to evaluate an alternate dosing schedule for
+ramucirumab.
+7
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 8 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+A DLT was defined as an adverse event (AE) occurring during cycle 1 of the dose escalation
+phase that was possibly related to either abemaciclib or the combination therapy and fulfilled any of the
+following criteria: grade 3 or 4 nausea, vomiting, diarrhea, or electrolyte disturbance persisting >2 days
+despite intervention, any other grade 3 or 4 nonhematological toxicity, grade 4 hematological toxicity that
+lasted longer than 5 days, grade 3 or 4 thrombocytopenia with evidence of bleeding, or febrile
+neutropenia. A DLT-equivalent toxicity (DET) was defined as an AE that would have met the criteria for
+DLT if it had occurred during cycle 1 of the dose escalation phase, but that occurred in a later cycle or
+during any cycle of the dose confirmation phase.
+Assessments
+Safety was assessed by AEs, DLTs, central laboratory tests, and local electrocardiograms.
+Adverse events were assessed for severity using the National Cancer Institute Common Terminology
+Criteria for Adverse Events (version 4.0) (23). Radiological tumor assessments were performed locally at
+baseline and then every 6 weeks thereafter until evidence of disease progression. Tumor response was
+assessed using Response Evaluation Criteria in Solid Tumors v1.1 (24).
+Pharmacokinetic samples were collected for all patients to measure concentrations of abemaciclib
+and its metabolites (LSN2839567, LSN3106729, and LSN3106726). Separate blood samples were
+collected to measure concentrations of pemetrexed (part A), gemcitabine plus its metabolite 2,2-
+difluorodeoxyuridine (dFdU) (part B), and ramucirumab (part C).
+Pharmacokinetic samples were collected at predose, immediately postdose (cycle 1, day 1 only),
+and at 1, 2, 4, 6, 8, 10 hours postdose of abemaciclib on cycle 1, day 1 and on cycle 2, day 1 for
+abemaciclib and combination agents. Additional samples were collected at predose of cycle 1, day 8 (for
+abemaciclib and its metabolites, gemcitabine plus its metabolite, and ramucirumab) and cycle 1, day 15
+(for abemaciclib and its metabolites). Pharmacokinetic analyses were conducted on patients who had
+received at least 1 dose of study drug and had adequate samples collected. Plasma concentrations of
+abemaciclib and its metabolites were assayed at Q2 Solutions (Ithaca, New York). Plasma samples were
+analyzed for pemetrexed and gemcitabine and its metabolite at BASi (West Lafayette, IN USA). Serum
+8
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 9 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+concentrations of ramucirumab were assayed at Intertek Pharmaceutical Services (San Diego, CA, USA).
+Pharmacokinetic parameter estimates were computed for abemaciclib, its metabolites, and whenever
+possible, for pemetrexed, gemcitabine, and ramucirumab). Pharmacokinetic parameters were computed
+by standard noncompartmental methods using WinNonlin (Professional Edition). The primary parameters
+for analysis were maximum concentration (C ) and area under the concentration-time curve from time
+max
+zero to the last observation (AUC ).
+0–tlast
+Statistical methods
+All patients who had at least 1 dose of study therapy were included in the analyses. Data were
+summarized by study part and dose group, as appropriate. For continuous variables, summary statistics
+included mean, median, standard deviation, and range. Categorical endpoints such as baseline
+characteristics, safety, and tumor response were summarized as frequency and percentages. Progression-
+free survival (PFS) was analyzed using Kaplan-Meier methodology (25). Statistical Analyses System
+(SAS) V9 was used to analyze the data.
+9
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 10 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Results
+From April 2014 through March 2016, 10 centers in the United States and Spain enrolled 86
+patients with stage IV NSCLC in parts A, B, or C of the study based on prior therapy or histology. All
+patients were evaluable for safety and efficacy assessment. At the time of data cutoff (August 24, 2016),
+all patients except five (all on part C) had discontinued study treatment (Table S2, online appendix). The
+median age was 64–66 years across study parts (range: 43–83 years), with a median of 2 prior lines of
+therapy for advanced/metastatic disease (Table 1).
+All patients received abemaciclib (150 or 200 mg, twice daily) while on study in combination
+with either pemetrexed (part A), gemcitabine (part B), or ramucirumab (part C) on a 21-day cycle.
+Median number of cycles was 1.5–3.0 and range: 1–30 (Table S3, online appendix). Abemaciclib dose
+reductions occurred in 11 of 23 (48%) patients in part A, 8 of 24 (33%) patients in part B, and 14 of 39
+(36%) patients in part C. Dose omissions occurred in 15 patients in both parts A and B (65% and 63%,
+respectively), and in 21 patients (54%) in part C. The relative dose intensity of abemaciclib was 75–93%
+among the various treatment and dosage groups (Table S3, online appendix).
+Dose escalation and MTD determination
+Part A
+The MTD was not reached for the abemaciclib-pemetrexed combination. At the 150-mg
+abemaciclib dose level, eight patients were enrolled; two of the initial three patients were deemed not
+evaluable and replaced. One patient experienced DLTs at 150 mg abemaciclib. No other DLTs occurred
+in part A at the 150-mg abemaciclib dose level (Table 2). At the 200-mg abemaciclib dose level, no DLTs
+were observed during cycle 1; one DET of grade 3 febrile neutropenia occurred during cycle 2. During
+cycle 2 of the 200-mg abemaciclib confirmation phase, one patient experienced grade 3 febrile
+neutropenia, and two patients experienced grade 4 neutropenia lasting longer than 5 days.
+Part B
+The MTD was not reached for the abemaciclib-gemcitabine combination. At the 150-mg
+abemaciclib dose level, no DLTs reported (Table 2). At the 200-mg abemaciclib dose level, one DLT of
+10
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 11 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+grade 3 fatigue occurred and four DETs, including grade 3 fatigue, grade 3 diarrhea, and two patients with
+grade 3 infections (grade 4 sepsis; grade 4 neutropenia/febrile neutropenia).
+Part C
+Part C evaluated two different dose schedules for ramucirumab. The first part C dosing schedule
+evaluated abemaciclib 150 or 200 mg twice daily in combination with ramucirumab 10 mg/kg on day 1 of
+a 21-day schedule (hereafter referred to as day 1 regimen). The second dosing schedule evaluated
+abemaciclib 150 mg twice daily in combination with ramucirumab 8 or 10 mg/kg on days 1 and 8 of a 21-
+day schedule (hereafter referred to as day 1, 8 regimen).
+The MTD was not reached for the day 1 regimen. At the 150-mg abemaciclib dose level
+(ramucirumab 10 mg/kg day 1), four patients enrolled; one of the initial three patients was not evaluable
+and replaced. No DLTs were reported and one DET of grade 3 hyponatremia occurred during cycle 9. At
+the 200-mg abemaciclib dose level (ramucirumab 10 mg/kg day 1), two DLTs were reported in a single
+patient, grade 4 neutropenia and grade 4 leukopenia, and therefore the MTD was not achieved. DETs
+included grade 3 diarrhea, grade 4 hypokalemia, and grade 3 stomatitis (Table 2).
+For the day 1,8 regimen, 12 patients enrolled at the 8 mg/kg ramucirumab days 1, 8 dose level
+and 4 patients at the 10 mg/kg ramucirumab days 1, 8 dose level. At the 8 mg/kg days 1, 8 dose level, 1
+DLT of grade 3 stomatitis and 2 DETs of grade 3 fatigue occurred. At the 10 mg/kg days 1, 8 dose level,
+4 DLTs occurred (3 patients), 1 DLT each of grade 4 embolism, and grade 3 myocardial infarction, and
+two DLTs of grade 3 fatigue. Thus, the MTD declared for part C second dosing schedule was abemaciclib
+150 mg twice daily and ramucirumab 8 mg/kg on days 1 and 8 of a 21-day cycle.
+Safety
+Part A
+Among patient receiving the combination of abemaciclib and pemetrexed, the most common
+nonhematologic TEAEs (any grade) were fatigue (74%), diarrhea, (78%), decreased appetite (57%),
+nausea (48%), dyspnea (39%), increased blood creatinine (39%), stomatitis (30%), and vomiting (22%)
+(Table 3). The most common hematologic TEAEs (any grade) were neutropenia (65%), anemia (74%),
+11
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 12 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+thrombocytopenia (44%), and leukopenia (30%). All-cause grade 3–4 TEAEs in >10% of patients were
+neutropenia (65%), anemia (26%), leukopenia (22%), dyspnea (22%), and thrombocytopenia (17%).
+Table S3 explains dose reduction information for part A.
+Part B
+Abemaciclib plus gemcitabine yielded a similar pattern of TEAEs as observed in part A. The
+most common nonhematologic TEAEs (any grade) were fatigue (75%), nausea (67%), diarrhea (58%),
+decreased appetite (33%), vomiting (29%), dyspnea (21%), and increased blood creatinine (21%) (Table
+3). The most common hematologic TEAEs (any grade) were neutropenia (54%), thrombocytopenia (46%)
+anemia (42%), and leukopenia (21%). All-cause grade 3–4 TEAEs in >10% of patients were neutropenia
+(33%), anemia (25%), dyspnea (21%), and leukopenia (13%). High-grade diarrhea was greater in part B
+than part A (17% and 4%, respectively). Table S3 explains dose reduction information for part B.
+Part C
+Among patients receiving the combination of abemaciclib and ramucirumab, across dose
+schedules, the most common nonhematologic TEAEs (any grade) were diarrhea (72%), fatigue (62%),
+nausea (49%), decreased appetite (41%), vomiting (31%), dyspnea (23%), and stomatitis (21%) (Table 3).
+The most common hematologic TEAEs (any grade) were neutropenia (23%), thrombocytopenia (21%),
+anemia (13%), and leukopenia (8%). All-cause grade 3 to 4 TEAEs in >10% of patients were fatigue
+(23%), diarrhea (10%), neutropenia (10%), and thrombocytopenia (10%). High-grade diarrhea was
+exclusively associated with the 200-mg abemaciclib dose level combined with ramucirumab 10 mg/kg
+(day 1 regimen). Table S3 explains dose reduction information for part C.
+Pharmacokinetics
+Figure 1 shows the mean plasma concentration-time profiles of abemaciclib and metabolites
+when administered in combination with other therapies, after a single abemaciclib dose, and at steady
+state after multiple twice-daily abemaciclib doses. Following 150-mg repeated doses (Table 4), the
+steady-state, geometric mean abemaciclib C was 164 to 492 ng/mL and AUC was 1300 to 3460
+max (0–tlast)
+(hr*ng/mL). Following the 200-mg repeated doses, the geometric mean abemaciclib C was 227 to 483
+max
+12
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 13 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+ng/mL and AUC was 1380 to 3460 (hr*ng/mL). Considering the high variability of the abemaciclib
+(0–tlast)
+and metabolite pharmacokinetic parameters among the patient plasma samples, the exposure parameters
+for abemaciclib appeared similar among different combination therapies.
+Pharmacokinetic parameters for pemetrexed and mean plasma concentration-time profiles are
+presented in Table S4 and Figure S1, respectively (online appendix). Pharmacokinetic parameters for
+gemcitabine metabolite and mean plasma concentration-time profiles are presented in Table S5 and
+Figure S2, respectively (online appendix). Considering the long half-life of ramucirumab and the limited
+sampling schedule (up to 10 hours postdose), no pharmacokinetics parameters were estimated for
+ramucirumab. Figure S3 presents mean serum concentration-time profiles of ramucirumab. Taken
+together, the results of this study indicate that there is no effect of abemaciclib on the pharmacokinetics of
+combination agents and that combination agents have no effect on the pharmacokinetics of the
+abemaciclib.
+Response
+The addition of abemaciclib to pemetrexed, gemcitabine, or ramucirumab resulted in a response
+rate of 4–9% (all partial responses) (Table 5). However, the combination of abemaciclib with pemetrexed
+and ramucirumab resulted in a DCR of 57% and 54%, respectively. In contrast, the DCR the gemcitabine
+group was 25%. Median PFS results mirrored this trend. PFS for patients treated with abemaciclib plus
+pemetrexed was 5.55 months (95% CI: 1.81–10.05) and for patients treated with abemaciclib plus
+ramucirumab was 4.83 months (95% CI: 2.60–6.93), with five patients still receiving study treatment with
+abemaciclib plus ramucirumab at the time of analysis. In contrast, PFS for patients treated with
+abemaciclib plus gemcitabine was 1.58 months (95% CI: 1.15–4.24).
+Examination of treatment duration as a function of KRAS status (mutant versus wild type) did not
+reveal any relationship between patients receiving longer or shorter treatment and KRAS mutation (Figure
+S4, online appendix). Likewise, there was no apparent relationship between change in tumor size and
+KRAS status (Figure S5, online appendix). However, this interpretation was hampered by the large
+number of patients (51 of 85, 60%) with unknown KRAS status.
+13
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 14 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Discussion
+Treatment options for patients with metastatic NSCLC are limited considerably after progressing
+on or after first-line treatment. Among the available treatments, historical median PFS is only 2.0–4.5
+months for second-line and likely shorter for later lines of treatment (8, 26). This trial gathers initial data
+regarding possible new drug combinations for second-line (or additional lines) treatment for metastatic
+NSCLC. Based on preclinical and clinical data, we conducted a multicenter phase 1b clinical study to test
+the safety and tolerability of oral abemaciclib combination therapy in patients with metastatic NSCLC.
+Maximum tolerated dose was not reached for combinations of abemaciclib with gemcitabine or
+pemetrexed. Both combination treatments used a maximum abemaciclib dose of 200 mg twice daily. The
+combination of abemaciclib and ramucirumab 10 mg/kg on day 1 of a 21-day cycle did not reach a MTD.
+However, the day 1, 8 regimen declared an MTD at abemaciclib 150 mg twice daily plus ramucirumab 8
+mg/kg on days 1 and 8 of 21-day cycle.
+Abemaciclib was well tolerated in patients across study parts. The safety findings are consistent
+with AEs expected when combining abemaciclib with single-agent chemotherapy or antiangiogenic
+therapy. Treatment-related toxicities were generally manageable with dose adjustments and supportive
+care as needed. No unexpected safety signals or significant differences in AEs or serious adverse events
+were observed across study parts. Across combination treatments, 17–25% patients had all-cause high-
+grade (3/4) fatigue. High-grade diarrhea appeared dose dependent and was well managed with
+antidiarrheal treatments and/or dose adjustments. In part A, one patient discontinued from treatment due
+to diarrhea. Overall, the incidence of AEs that resulted in treatment discontinuation of one or both study
+drugs was approximately 16%. In addition, safety findings for parts A and B are consistent with AEs
+expected when combining myelosuppressive agents with abemaciclib, resulting in an increased
+myelosuppressive effect (65% and 33% grade 3–4 neutropenia, respectively). As expected, the
+ramucirumab and abemaciclib combination had lower hematologic toxicity with a 23% overall incidence
+of neutropenia and 10% incidence of grade 3–4 neutropenia, which is consistent with the safety profile of
+single-agent abemaciclib (20). Across study parts, grade 3-4 TEAEs were generally reversible upon dose
+14
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 15 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+omission and/or dose reduction. The overall safety and tolerability of abemaciclib combination therapy
+are important in this heavily pretreated metastatic NSCLC population.
+In general, abemaciclib can be dosed on a continuous twice-daily schedule when combined with
+single-agent chemotherapy or antiangiogenic therapy. The range of abemaciclib exposures achieved when
+combined with pemetrexed, gemcitabine, or ramucirumab is consistent with that observed in single-agent
+studies. There is no evidence of an effect of abemaciclib on the pharmacokinetics of pemetrexed,
+gemcitabine, or ramucirumab. The abemaciclib steady state exposures achieved in this current study have
+been associated with inhibition of Rb phosphorylation and G1 cell cycle arrest in xenograft models (19).
+Furthermore, when used as a single agent in patients with cancer, abemaciclib doses of 150 or 200 mg
+Q12H were associated with sustained biochemical inhibition (reduced phosphorylated Rb) and
+phenotypic G1 arrest (as assessed by reduced topoisomerase II alpha) expression in skin keratinocytes and
+tumor biopsies (20).
+Tumor response data for the combinations of pemetrexed and ramucirumab with abemaciclib
+demonstrated preliminary antitumor activity relative to the abemaciclib and gemcitabine combination.
+The DCR for abemaciclib plus pemetrexed was 57% (n = 23), abemaciclib plus gemcitabine was 25% (n
+= 24), and abemaciclib plus ramucirumab was 54% (n = 39). As expected, the median PFS data followed
+the same trend as the DCR, namely greater for the pemetrexed combination (5.55 months) and
+ramucirumab combination (4.83 months) across dosing schedules, and lesser for the gemcitabine
+combination (1.58 months). No relationship was identified between KRAS mutation status and treatment
+duration or tumor response for the abemaciclib combinations explored among the 40% of patients with
+KRAS status by local testing. Earlier studies found that among abemaciclib-treated patients, the DCR was
+greater in the KRAS-mutant population compared with the KRAS wild-type population, due largely to an
+increase in stable disease (20). Additionally, KRAS-mutant NSCLC xenografts were found to be more
+sensitive to abemaciclib than wild-type NSCLC xenografts (20), also supporting the concept that the
+KRAS mutation identifies a population of NSCLC tumors sensitive to abemaciclib. However, no
+definitive efficacy conclusions can be reached due to the nonrandomized design and small sample size.
+15
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 16 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+In summary, this trial confirmed the safety and tolerability of abemaciclib combined with single-
+agent chemotherapy or antiangiogenic therapy in previously treated unselected patients with
+advanced/metastatic NSCLC.
+Acknowledgments
+The authors thank the patients, investigators, and institutions involved in this study. They also
+thank Mary Dugan Wood for writing assistance. This work was supported by Eli Lilly and
+Company.
+16
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 17 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+References
+1. Stewart BW, Wild CP. World cancer report 2014. France: Lyon CEDEX; 2014. p. 351, 360.
+2. Ettinger DS, Wood DE, Aisner DL, Akerley W, Bauman J, Chirieac LR, et al. Non–small cell
+lung cancer, version 5.2017. J Natl Compr Canc Netw 2017;15:504–35.
+3. Sandler A, Gray R, Perry MC, Brahmer J, Schiller JH, Dowlati A, et al. Paclitaxel–carboplatin
+alone or with bevacizumab for non–small-cell lung cancer. N Engl J Med 2006;355:2542–50.
+4. Reck M, von Pawel J, Zatloukal PV, Ramlau R, Gorbounova V, Hirsh V, et al. Overall survival
+with cisplatin–gemcitabine and bevacizumab or placebo as first-line therapy for nonsquamous
+non-small-cell lung cancer: results from a randomised phase III trial (AVAiL). Ann Oncol
+2010;21:1804–09.
+5. Thatcher N, Hirsch FR, Luft AV, Szczesna A, Ciuleanu TE, Dediu M, et al. Necitumumab plus
+gemcitabine and cisplatin versus gemcitabine and cisplatin alone as first-line therapy in patients
+with stage IV squamous non-small-cell lung cancer (SQUIRE): an open-label, randomised,
+controlled phase 3 trial. Lancet Oncol 2015;16:763–74.
+6. Langer C, Gaddgeel SM, Borghaei H, Papadimitrakopoulou VA, Patnaik A, Powell S, et al.
+Randomized, phase 2 study of carboplatin and pemetrexed with or without pembrolizumab as
+first-line therapy for advanced NSCLC: KEYNOTE-021 cohort G. Ann Oncol 2016;27(suppl
+6):LBA46_PR.
+7. Fossella FV, DeVore R, Kerr RN, Crawford J, Natale RR, Dunphy F, et al. Randomized phase III
+trial of docetaxel versus vinorelbine or ifosfamide in patients with advanced non–small-cell lung
+cancer previously treated with platinum-containing chemotherapy regimens. J Clin Oncol
+2000;18:2354–62.
+8. Garon EB, Ciuleanu TE, Arrieta O, Prabhash K, Syrigos KN, Goksel T, et al. Ramucirumab plus
+docetaxel versus placebo plus docetaxel for second-line treatment of stage IV non-small-cell lung
+cancer after disease progression on platinum-based therapy (REVEL): a multicentre, double-
+blind, randomised phase 3 trial. Lancet 2014;384:665–73.
+9. Reck M, Kaiser R, Mellemgaard A, Douillard JY, Orlov S, Krzakowski MJ, et al. Nintedanib
+(BIBF 1120) plus docetaxel in NSCLC patients progressing after first-line chemotherapy: LUME
+Lung 1, a randomized, double-blind phase III trial. J Clin Oncol 2013;31(no. 18 suppl):LBA8011.
+10. Ciuleanu T, Stelmakh L, Cicenas S, Miliauskas S, Grigorescu AC, Hillenbach C, et al. Efficacy
+and safety of erlotinib versus chemotherapy in second-line treatment of patients with advanced,
+non-small-cell lung cancer with poor prognosis (TITAN): a randomised multicentre, open-label,
+phase 3 study. Lancet Oncol 2012;13:300–8.
+11. Hanna N, Shepherd FA, Fossella FV, Pereira JR, De Marinis F, Von Pawel J, et al. Randomized
+phase III trial of pemetrexed versus docetaxel in patients with non-small-cell lung cancer
+previously treated with chemotherapy. J Clin Oncol 2004;22:1589–97.
+12. Reck M, Rodríguez-Abreu D, Robinson AG, Hui R, Csőszi T, Fülöp A, et al. Pembrolizumab
+versus chemotherapy for PD-L1–positive non–small-cell lung cancer. N Engl J Med
+2016;375:1823–33.
+17
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 18 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+13. Borghaei H, Paz-Ares L, Horn L, Spigel DR, Steins M, Ready NE, et al. Nivolumab versus
+docetaxel in advanced nonsquamous non–small-cell lung cancer. N Engl J Med 2015;373:1627–
+39.
+14. Rittmeyer A, Barlesi F, Waterkamp D, Park K, Ciardiello F, von Pawel J, et al. Atezolizumab
+versus docetaxel in patients with previously treated non-small-cell lung cancer (OAK): a phase 3,
+open-label, multicentre randomised controlled trial. Lancet 2016;389:255–65.
+15. Malumbres M, Barbacid M. Milestones in cell division: to cycle or not to cycle: a critical decision
+in cancer. Nat Rev Cancer 2001;1:222–31.
+16. Sherr CJ. Cancer cell cycles. Science 1996;274:1672–7.
+17. Weinberg RA. The retinoblastoma protein and cell cycle control. Cell 1995;81:323–330.
+18. Gelbert LM, Cai S, Lin X, Sanchez-Martinez C, Del PM, Lallena MJ, et al. Preclinical
+characterization of the CDK4/6 inhibitor LY2835219: in-vivo cell cycle-dependent/independent
+anti-tumor activities alone/in combination with gemcitabine. Invest New Drugs 2014;32:825–37.
+19. Tate SC, Cai S, Ajamie RT, Burke T, Beckmann RP, Chan EM, et al. Semi-mechanistic
+pharmacokinetic/pharmacodynamic modeling of the antitumor activity of LY2835219, a new
+cyclin-dependent kinase 4/6 inhibitor, in mice bearing human tumor xenografts. Clin Cancer Res
+2014;20:3763–74.
+20. Patnaik A, Rosen LS, Tolaney SM, Tolcher AW, Goldman JW, Gandhi L, et al. Efficacy and
+safety of abemaciclib, an inhibitor of CDK4 and CDK6, for patients with breast cancer, non–
+small cell lung cancer, and other solid tumors. Cancer Discov 2016;6:740–53.
+21. Kelly K, Goldman JW, Garrido P, Jalal S, Mahadevan D, Gutierrez M, et al. Abemaciclib in
+combination with single agent options in stage IV NSCLC, a phase 1b study. J Thorac Oncol
+2015;10:S550.
+22. Ajani JA, Udrea A, Sarosiek T, Shenker M, Morgan C, Pikiel J, et al. A dose-response study of
+ramucirumab treatment in patients with gastric cancer/gastroesophageal junction
+adenocarcinoma: primary results of 4 dosing regimens in the phase 2 trial I4T-MC-JVDB. Ann
+Oncol 2017;28(suppl_5):698P.
+23. US Department of Health and Human Services. Common Terminology Criteria for Adverse Events
+(CTCAE) Version 4.0. National Institutes of Health, National Cancer Institute. May 28, 2009; v4.02: Sept
+15, 2009.
+24. Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent D, Ford R, et al. New response
+evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer
+2009;45:228–47.
+25. Kaplan EL, Meier P. Nonparametric estimation from incomplete observations. J Am Stat Assoc
+1958;53:457–81.
+26. Weiss JM, Stinchcombe TE. Second-line therapy for advanced NSCLC. Oncologist
+2013;18:947–53.
+18
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 19 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+TABLES
+Table 1. Demographic profile of study populations
+Part A Part B Part C
+Abemaciclib Abemaciclib Abemaciclib
++Pemetrexed +Gemcitabine +Ramucirumab
+(N=23) (N=24) (N=39)
+Age, (years)
+Median (range) 64 (43-83) 66 (43-80) 66 (43-82)
+≥65 years, n (%) 11 (48) 13 (54) 16 (62)
+Male, n (%) 14 (61) 13 (54) 23 (59)
+Race
+American Indian 0 2 (8) 0
+Asian 1 (4) 2 (8) 1 (3)
+Black 1 (4) 1 (4) 0
+White 21 (91) 19 (79) 38 (97)
+Country
+Spain 9 (39) 6 (25) 13 (33)
+USA 14 (61) 18 (75) 26 (67)
+ECOG PS
+0 11 (48) 12 (50) 10 (26)
+1 12 (52) 12 (50) 29 (74)
+Histology
+Adenocarcinomaa 21 (91) 19 (79) 28 (76)
+Large Cell Carcinoma 0 (0) 1 (4) 1 (3)
+b
+Squamous 0 (0) 3 (13) 6 (16)
+c
+Lung, Other/Not otherwise specified 2 (9) 1 (4) 2 (5)
+Median duration of disease from initial diagnosis,
+16 (4–50) 19 (6–119) 19 (6–102)
+months, (range)
+Prior systemic therapies, median (range)
+Any intent 2 (1–5) 2.5 (1–5) 2 (1–6)
+Advanced/metastatic 2 (1–3) 2 (1–4) 2 (1–6)
+a 2 patients had incomplete data for Part C histology. Percentages are based on the number of patients with data.
+b Includes squamous and adenosquamous (predominantly squamous). Only patients with nonsquamous histology were eligible for
+Part A.
+c Includes: bronchioalveolar, adenosquamous (not specified), and lung – not otherwise specified.
+19
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 20 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Table 2. Dose-limiting toxicities and DLT-equivalent toxicities
+No. of
+No. of
+patients
+Abemaciclib dose (mg) patients Cohorta DLT or DETb Cycle
+with DLT
+treated
+or DET
+Part A: Abemaciclib + Pemetrexed
+150 mg Q12H 8 1 Escalation Acute kidney injury, Gr 3 1
+Blood creatinine increased,
+Gr 3
+Fatigue, Gr 3
+200 mg Q12H 15 4 Escalation Febrile neutropenia, Gr 3 2
+Confirmation Febrile neutropenia, Gr 3 1
+Confirmation Neutropenia, Gr 4 2
+Confirmation Neutropenia, Gr 4 2
+Part B: Abemaciclib + Gemcitabine
+150 mg Q12 H 3 0 -- None --
+200 mg Q12 H 21 5 Escalation Fatigue, Gr 3 1
+Confirmation Fatigue, Gr 3 1
+Confirmation Diarrhea, Gr 3 1
+Confirmation Scrotal infection, Gr 3 1
+Confirmation Neutropenia, Gr 4 2
+Sepsis, Gr 4
+Febrile neutropenia, Gr 4
+Lung infection, Gr 3
+Part C: Abemaciclib + Ramucirumab
+150 mg Q12H + 4 1 Escalation Hyponatraemia, Gr 3 9
+Ram 10 mg/kg day 1
+200 mg Q12H + 19 3 Escalation Leukopenia, Gr 4 1
+Ram 10 mg/kg day 1 Neutropenia, Gr 4
+Escalation Diarrhea, Gr 3 2,3
+Hypokalaemia, Gr 4 3
+Confirmation Stomatitis Gr 3 1
+150 mg Q12H 12 2 Escalation Stomatitis, Gr 3 1
+Ram 8 mg/kg days 1,8 Fatigue, Gr 3 2
+Confirmation Fatigue, Gr 2 2
+150 mg Q12H + 4 3 Escalation Embolism, Gr 4 1
+Ram 10 mg/kg Days 1,8 Fatigue, Gr 3
+Escalation Myocardial infarction, Gr 3 1
+Escalation Fatigue, Gr 3 1,6
+a Each cohort listing represents a different patient. Some patients exhibited >1 DLT/DET or the same DLT/DET in >1 cycle.
+b A DLT was defined as one of a list of specific adverse events occurring during cycle 1 of the dose-escalation phase that was
+possibly related to abemaciclib or the combination therapy. A DET was defined as an adverse event that would have met the
+criteria for DLT if it had occurred during cycle 1 for a patient enrolled in the dose-escalation phase, but that occurred in a later
+cycle or during any cycle for a patient in the dose-expansion phase.
+Abbreviations: DET, DLT-equivalent toxicity; DLT, dose-limiting toxicity; Gr, grade; No., number; Q12H, every 12 hours.
+20
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 21 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Table 3. Treatment-emergent adverse events regardless of causality, by grade and doses.
+Part A: Abemaciclib + Part B: Abemaciclib + Part C: Abemaciclib +
+Pemetrexed (N = 23) Gemcitabine (N = 24) Ramucirumab (N = 39)
+Adverse eventa Grade 3/4, n All grades, Grade 3/4, n Grade 3/4, All grades, Grade 3/4, n
+(%) n (%) (%) n (%) n (%) (%)
+(N = 73)
+Diarrhea 1 (4) 18 (78) 4 (17) 14 (58) 4 (10) 28 (72)
+Fatigue 4 (17) 18 (78) 6 (25) 18 (75) 9 (23) 24 (62)
+Nausea 1 (4) 11 (48) 2 (8) 16 (67) 2 (5) 21 (54)
+Neutropenia 15 (65) 15 (65) 8 (33) 13 (54) 4 (10) 9 (23)
+Anemia 7 (30) 18 (78) 6 (25) 10 (42) 1 (3) 5 (13)
+Decreased appetite 2(9) 13 (57) 1 (4) 9 (38) 2 (5) 16 (41)
+Thrombocytopenia 4 (17) 10 (44) 2 (8) 11 (46) 4 (10) 8 (21)
+Vomiting 0 (0) 5 (22) 0 (0) 8 33) 0 16 (41)
+Blood creatinine
+1 (4) 9 (39) 0 (0) 5 (21) 1 (3) 8 (21)
+increased
+Dyspnea 5 (22) 9 (39) 5 (21) 5 (21) 1 (3) 9 (23)
+Leukopenia 5 (22) 7 (30) 3 (13) 5 (21) 2 (5) 3 (8)
+Stomatitis 1 (4) 8 (35) 0 (0) 2 (8) 3 (8) 8 (21)
+Abemaciclib dose 150 mg 200 mg 150 mg 200 mg 150 mgb 200 mgb
+Adverse event, N = 8 N = 15 N = 3 N = 21 N = 20 N = 19
+grades 3/4a n (%) n (%) n (%) n (%) n (%) n (%)
+Diarrhea 0 (0) 1 (7) 0 (0) 4 (19) 0 4 (21)
+Fatigue 3 (38) 1 (7) 1 (33) 5 (24) 5 (25) 4 (21)
+Nausea 1 (13) 0 (0) 1 (33) 1 (5) 0 2 (11)
+Neutropenia 6 (75) 9 (60) 2 (67) 6 (29) 1 (5) 3 (16)
+Anemia 2 (25) 4 (27) 0(0) 6 (29) 0 1 (5)
+Decreased appetite 1 (13) 1 (7) 0 (0) 1 (5) 1 (5) 1 (5)
+Thrombocytopenia 2 (25) 2 (13) 0 (0) 2 (10) 1 (5) 3 (16)
+Vomiting 0 (0) 0 (0) 0 (0) 0 (0) 0 0
+Blood creatinine
+1 (13) 0 (0) 0 (0) 0 (0) 0 1 (5)
+increased
+Dyspnea 1 (13) 4 (27) 1 (33) 4 (19) 1 (5) 0
+Leukopenia 2 (25) 3 (20) 0 (0) 3 (15) 0 2 (11)
+Stomatitis 1 (13) 0 (0) 0 (0) 0 (0) 2 (10) 1 (5)
+aTEAEs that occurred in ≥30% (all grades) in ≥1 part of the study are listed. No grade 5 events occurred for the TEAEs listed.
+bAmong part C patients who received 150 mg abemaciclib, 4 patients received 10 mg/kg ramucirumab on day 1; 12 patients
+received 8 mg/kg ramucirumab on days 1 and 8; and 4 patients received 10 mg/kg ramucirumab on days 1 and 8. Patients who
+received 200 mg abemaciclib, received 10 mg/kg ramucirumab on days 1 and 8.
+21
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 22 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Table 4. Summary of abemaciclib exposure following oral administration every 12 hours in
+combination with therapies in patients with stage IV NSCLC.
+Geometric Mean (CV%)a
+Single dose Multiple dose
+Combination C t c AUC C t c AUC
+Abemaciclibb max max (0-last) max max (0-last)
+therapy (ng/mL) (hr) (hr*ng/mL) (ng/mL) (hr) (hr*ng/mL)
+200 mg BID 212 7.67 1050 483d 4.00d 3460d
+(n = 15) (80) (4.00–10.00) (95) (41) (0.00–9.67) (49)
+Pemetrexed 150 mg BID 114 6.09 654 146.40, 7.88, 1060,
+(n = 8) (67) (3.82–9.73) (66) 183.23e 0.00e 1600e
+100 mg BID 81.17, 4.00, 435,
+(n =2) 46.43e 8.00e 190e
+200 mg BID 206 7.85 1150 304f 6.85f 2100f
+(n = 19) (73) (3.92–10.00) (77) (66) (0.00–7.88) (58)
+Gemcitabine
+150 mg BID 80.6 9.75 509 288g 5.53g 2060g
+(n = 3) (15) (8.00–10.67) (28) (71) (4.00–8.00) (66)
+200 mg BID 195 6.00 919 227h 5.01h 1380h
+(n = 19) (86) (2.08–8.00) (112) (17) (0.00–8.00) (144)
+Ramucirumab
+10 mg/kg day 1 150 mg BID 312 6.00 1830 492i 1.00i 3460i
+(n = 4) (11) (4.33–8.17) (18) (117) (0.00–7.97) (125)
+150 mg BID 159 7.00 885 377.41I 10.00I 3420I
+(n = 4) (73) (2.00–10.00) (67)
+Ramucirumab
+10 mg/kg days 1, 8 100 mg BID 86.14j 6.00j 534j
+(n = 1)
+Ramucirumab 150 mg BID 103 7.91 549 246 2.00 1730
+8 mg/kg days 1, 8 (n = 12) (97) (4.00–8.00) (108) (86) (0.00–8.00) (95)
+aGeometric mean and geometric CV% are provided for n ≥ 3; otherwise, actual values are provided.
+bPatients were started on 150 or 200 mg; later, doses were reduced to 100 mg due to dose reductions.
+cMedian and range are provided for t .
+max
+dN = 9.
+eN = 2.
+fN = 6.
+gN = 4.
+hN = 8.
+iN = 5.
+jN = 1.
+Abbreviations: AUC , area under the concentration time curve from time 0 to last observed concentration; C , maximum
+(0–last) max
+plasma concentration; CV, coefficient of variation; n, number of observations.
+22
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 23 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Table 5. Summary of efficacy measures
+Part A: Part B: Part C:
+Abemaciclib + Abemaciclib + Abemaciclib +
+Pemetrexed Gemcitabine Ramucirumab
+(N = 23) (N = 24) (N = 39)
+a
+Best overall response, n (%)
+Complete response (CR) 0 (0) 0 (0) 0 (0)
+Partial response (PR) 1 (4) 1 (4) 2 (5)
+Stable disease (SD) 12 (52) 5 (21) 19 (49)
+Progressive disease (PD) 3 (13) 9 (38) 6 (15)
+Unknown 7 (30) 9 (38) 12 (31)
+Disease control rate
+13 (57) 6 (25) 21 (54)
+(CR + PR + SD)
+Progression-free survival
+Number of events, n (%) 11 (48) 15 (63) 19 (49)
+Number of patients censored,
+12 (52) 9 (38) 20 (51)
+n (%)
+Median PFS, months
+5.55 (1.81, 10.05) 1.58 (1.15, 4.24) 4.83 (2.60, 6.93)
+(95% CI)
+aResponse criteria RECIST1.1 was used to determine response. Radiological tumor assessments were performed locally at
+baseline and then every 6 weeks thereafter until evidence of disease progression. Confirmation of complete or partial response
+was required for determination of best overall response. Stable disease required at least one post-baseline measurement at a
+minimum interval of 6 weeks after the first dose.
+Abbreviations: CI, confidence interval; n, number of observations; PFS, progression-free survival.
+23
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 24 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+FIGURE LEGEND
+Figure 1. Abemaciclib plasma concentration over time. Mean plasma concentrations of abemacilcib is
+shown over time following single dose (left panel) and multiple dose (right panel) administration of
+abemaciclib (100, 150, or 200 mg) every 12 hours in combination with other agents as treatment for
+patients with stage IV NSCLC.
+24
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.
+
+--- Page 25 ---
+Author Manuscript Published OnlineFirst on August 6, 2018; DOI: 10.1158/1078-0432.CCR-18-0651
+Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+Downloaded from clincancerres.aacrjournals.org on August 30, 2018. © 2018 American Association for Cancer
+Research.

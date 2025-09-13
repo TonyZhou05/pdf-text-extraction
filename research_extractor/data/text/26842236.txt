@@ -1,0 +1,1698 @@
+Source: 26842236.pdf
+Extracted on: Sat Sep 13 00:02:07 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Published in final edited form as:
+Clin Cancer Res. 2016 July 1; 22(13): 3227–3237. doi:10.1158/1078-0432.CCR-15-0652.
+Phase I safety, pharmacokinetic and pharmacodynamic study of
+the poly (ADP-ribose) polymerase (PARP) inhibitor veliparib
+(ABT-888) in combination with irinotecan in patients with
+advanced solid tumors
+Patricia M. LoRusso1,7, Jing Li1, Angelika Burger1, Lance K. Heilbrun1, Edward A.
+Sausville2, Scott A. Boerner1,7, Daryn Smith1, Mary Jo Pilat1,6, Jie Zhang1, Sara M.
+Tolaney3, James M. Cleary3, Alice P. Chen4, Lawrence Rubinstein4, Julie L. Boerner1, Adam
+Bowditch1, Dongpo Cai3, Tracy Bell3, Andrew Wolanski3, Allison M. Marrero5, Yiping
+Zhang5, Jiuping Ji5, Katherine Ferry-Galow5, Robert J. Kinders5, Ralph E. Parchment5, and
+Geoffrey I. Shapiro3
+1Barbara Ann Karmanos Cancer Institute, Wayne State University, Detroit, MI
+2University of Maryland Greenebaum Cancer Center, Baltimore, MD
+3Dana-Farber Cancer Institute, Brigham and Women’s Hospital, and Harvard Medical School,
+Boston, MA
+4Division of Cancer Treatment and Diagnosis, National Cancer Institute, Bethesda, MD
+5Clinical Pharmacodynamics Biomarker Program, Applied/Developmental Research Directorate,
+Leidos Biomedical Research, Inc., Frederick National Laboratory for Cancer Research, Frederick,
+MD
+6Wayne State University, Detroit, MI
+Abstract
+Background—Poly (ADP-ribose) polymerase (PARP) is essential for recognition and repair
+of DNA damage. In preclinical models, PARP inhibitors modulate topoisomerase I inhibitor-
+mediated DNA damage. This Phase I study determined the maximum tolerated dose (MTD), dose-
+limiting toxicities (DLTs), pharmacokinetics (PK) and pharmacodynamics (PD) of veliparib, an
+orally-bioavailable PARP 1/2 inhibitor, in combination with irinotecan.
+Methods—Patients with advanced solid tumors were treated with 100 mg/m2 irinotecan on
+days 1 and 8 of a 21-day cycle. Twice-daily (BID) oral dosing of veliparib (10–50 mg) occurred
+days 3–14 (Cycle 1) and days −1–14 (subsequent cycles) followed by a 6-day rest. PK studies
+were conducted with both agents alone and in combination. Paired tumor biopsies were obtained
+Correspondence: Patricia M. LoRusso, D.O., Associate Center Director – Innovative Medicine, Yale Cancer Center, WWW217, 333
+Cedar Street, New Haven, CT 06510; Phone: 203-785-5944; Fax: 203-785-4116; or Geoffrey I. Shapiro, M.D., Ph.D., Early Drug
+Development Center, Department of Medical Oncology, Dana-Farber Cancer Institute, 450 Brookline Avenue, Mayer 446, Boston,
+MA 02215; Phone: 617-632-4942; Fax: 617-632-1977.
+7Present address: Yale Cancer Center, New Haven, CT
+Presented in part at the 2011 annual meeting of the American Society of Clinical Oncology, Chicago, IL
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+LoRusso et al. Page 2
+after irinotecan alone and veliparib/irinotecan to evaluate PARP1/2 inhibition and explore DNA
+damage signals (nuclear γ-H2AX and pNBS1).
+Results—Thirty-five patients were treated. DLTs included fatigue, diarrhea, febrile
+neutropenia, and neutropenia. The MTD was 100 mg/m2 irinotecan (days 1, 8) combined with
+veliparib 40 mg BID (days −1–14) on a 21-day cycle. Of 31 response-evaluable patients there
+were 6 (19%) partial responses. Veliparib exhibited linear PK, and there were no apparent PK
+interactions between veliparib and irinotecan. At all dose levels, veliparib reduced tumor
+poly(ADP-ribose) (PAR) content in the presence of irinotecan. Several samples showed increases
+in γ-H2AX and pNBS1 after veliparib/irinotecan compared to irinotecan alone.
+Conclusions—Veliparib can be safely combined with irinotecan at doses that inhibit PARP
+catalytic activity. Preliminary antitumor activity justifies further evaluation of the combination.
+INTRODUCTION
+Poly (adenosine diphosphate-ribose) (PAR) polymerases 1 and 2 (PARP1 and PARP2) are
+members of an essential nuclear protein superfamily that play a role in recognition of DNA
+damage and facilitation of DNA repair. PARP inhibition has emerged as a promising strategy
+as monotherapy for cancers defective in homologous recombination (HR) repair, such as
+those arising in BReast CAncer susceptibility gene (BRCA) carriers (1–4), and as chemo-
+potentiation for a variety of DNA-damaging agents, including topoisomerase I poisons,
+alkylators, platinum-based agents and γ-irradiation (5–12). Recently, it has been shown that
+PARP inhibitors possess two activities: (1) inhibition of NAD+-competitive catalytic activity
+of PARP; and (2) ability to trap PARP-DNA complexes. Cytotoxicity of monotherapy in
+preclinical models has been correlated with the trapping of PARP-DNA complexes (13).
+Several orally-bioavailable small molecule PARP inhibitors are under active clinical
+development, including veliparib (ABT-888) (14, 15). Importantly, PARP-DNA complex
+trapping is drug-specific, with talazoparib (BMN673) and olaparib demonstrating a greater
+ability than veliparib, while all of the compounds are potent catalytic PARP inhibitors (13,
+16). These findings may explain why inhibition of the catalytic activity of PARP, assayed by
+tumor content of PAR, was demonstrated at a dose of 25 mg veliparib in a Phase 0 study
+(17), whereas doses of 300 mg and above were required for tumor responses in a
+monotherapy Phase 1 study of veliparib in BRCA-deficient cancers (18).
+Preclinical synergism between PARP inhibition and topoisomerase I poisons has been firmly
+established (19–25). The precise mechanism of synergy remains under intense investigation.
+In vitro studies combining a PARP inhibitor with camptothecin or the camptothecin
+derivative irinotecan have demonstrated variable effects on the onset and magnitude of DNA
+damage, the persistence of DNA damage and the time required for cells to accomplish repair
+(20, 22). Additionally, whether inhibition of PARP catalytic activity is sufficient, or whether
+PARP-DNA trapping is required for potentiation of topoisomerase I inhibitor-mediated DNA
+damage remains controversial (26, 27). Nonetheless, in vivo, the addition of a PARP
+inhibitor has resulted in substantial potentiation of the antitumor efficacy of irinotecan and
+other topoisomerase I poisons against a variety of human tumor xenografts (19, 21, 22).
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+LoRusso et al. Page 3
+Based on these preclinical data, we conducted a clinical trial of veliparib combined with
+irinotecan in patients with advanced solid tumors. The primary objective was to determine
+the recommended phase II dose (RP2D) by evaluating the feasibility, safety, adverse events
+(AEs), dose limiting toxicities (DLTs), and the maximum tolerated dose (MTD). Secondary
+objectives were to characterize the pharmacokinetics (PK) of veliparib and irinotecan, alone
+and in combination, and to assess preliminary antitumor activity. Paired tumor biopsies
+obtained post-irinotecan and post-veliparib/irinotecan at timepoints established for
+quantifying veliparib-mediated reductions in PAR levels were used to confirm inhibition of
+PARP catalytic activity (17). Additionally, we studied modulation of irinotecan-induced
+DNA damage and repair by veliparib at these timepoints by measuring two key proteins of
+the DNA damage response machinery: nuclear phosphorylated histone 2AX (γ-H2AX) and
+phosphorylated Nijmegan breakage syndrome 1 (pNBS1) (28).
+MATERIALS AND METHODS
+Patient selection
+Eligible patients had histologically or cytologically confirmed metastatic or unresectable
+malignancy for which standard curative or palliative measures were nonexistent or
+ineffective or for which irinotecan was a viable treatment regimen; Eastern Cooperative
+Oncology Group (ECOG) performance status ≤ 2; measurable disease (per RECIST)
+accessible for biopsy; and adequate organ and marrow function defined as absolute
+neutrophil count ≥ 1,500/µL, platelets ≥100,000/µL, aspartate aminotransferase and/or
+alanine aminotransferase ≤ 2.5 × upper limit of normal (ULN) or ≤ 5 × ULN if liver
+metastases present; bilirubin ≤ 1.5 × ULN; and creatinine ≤ 1.5 × ULN or calculated or
+measured creatinine clearance ≥ 60 mL/min/1.73 m2. Patients homozygous for the
+UGT1A1*28 allele (A(TA )TAA) were ineligible due to the potential increased risk of
+7
+toxicity associated with irinotecan (29, 30).
+Prior chemotherapy, experimental therapy or radiotherapy to >5% of bone marrow must
+have been completed at least 4 weeks prior to treatment initiation. Patients who received
+prior radiation to ≥50% of their total marrow volume were excluded. CYP3A4 isoform-
+inducing drugs had to be discontinued at least 2 weeks prior to the first administration of
+irinotecan. Patients were also excluded if they had an uncontrolled intercurrent illness, prior
+history of seizures (based on the ability of veliparib to lower the seizure threshold), known
+active brain metastases, or a requirement for chronic maintenance of growth factor support.
+Study treatment and design
+Supplementary Figure S1 shows the study design and sample collection time points.
+Treatment cycles were 21 days. Irinotecan was administered intravenously at 100 mg/m2
+over 90 minutes on Days 1 and 8, a dose and schedule that is tolerable in heavily pre-treated
+patients. Blood samples for single-agent irinotecan PK were collected on Cycle 1, Days 1–3
+following administration of the first dose. Twice daily (BID) oral administration of veliparib
+(Abbvie, Inc.) began on Day 3 of Cycle 1 and continued until Day 14, followed by 6 days of
+no treatment (Days 15–20). Four dose levels of veliparib were tested: 10, 20, 40, and 50 mg
+BID. A single dose of veliparib was administered on Day 21 (Cycle 2, Day −1; i.e. one day
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+LoRusso et al. Page 4
+prior to Cycle 2 irinotecan), for evaluation of single-agent veliparib PK. BID veliparib
+continued in Cycle 2 through Day 14, followed by a 6-day rest. Serial blood samples were
+obtained on Cycle 2, Days 8–10 for evaluation of veliparib and irinotecan PK when co-
+administered. For subsequent cycles, veliparib was administered BID from Day −1 through
+Day 14, followed by a 6-day rest (15 days on treatment/6 days off).
+At least three patients received study treatment on each cohort in standard 3+3 fashion.
+DLTs were based on toxicities observed during the first cycle. Toxicities were graded using
+the NCI Common Terminology Criteria for Adverse Events (CTCAE) version 3.0 until July
+31, 2010, after which CTCAE version 4.0 was utilized. DLTs were defined as any grade ≥ 3
+non-hematologic toxicity; grade ≥ 3 nausea, vomiting, or diarrhea uncontrolled by
+aggressive treatment; grade 4 granulocytopenia lasting ≥ 5 days without hematopoetic
+growth factor support; grade 4 thrombocytopenia or febrile neutropenia; inability to begin
+Cycle 2 of treatment (at full dose) within 2 weeks of the scheduled date of administration
+due to unresolved toxicity; Grade ≥ 2 non-hematological toxicity persisting beyond the first
+42 days or the occurrence of Grade 2 toxicities that, in the judgment of the PI, were dose-
+limiting. For grade ≥ 3 electrolyte imbalance secondary to another toxicity, grading of the
+precipitating toxicity was used for DLT definition.
+A new cycle of therapy did not begin until any toxicity recovered to ≤ grade 1, with no more
+than a 2-week delay permitted. Patients were also discontinued if there was a > 2 week delay
+in reinstitution of veliparib due to drug-related toxicity during a cycle. For a ≤ 2 week delay
+or a grade ≥ 3 toxicity related to veliparib, treatment proceeded with a one dose level
+reduction. Dose modifications for irinotecan followed those recommended in the package
+insert (recommended dose modifications for single-agent schedules) (31). Dose reductions
+could occur multiple times to the lowest protocol-specified dose level as long as there was
+clinical benefit. Dose re-escalation was not allowed.
+Written informed consent was obtained from enrolled patients. Institutional Review Board
+approvals of the protocol and consent form were obtained at all sites. Protocol design and
+conduct complied with all applicable regulations, guidance, and local polices. The study was
+conducted in accordance with the Declaration of Helsinki. The trial (ClinicalTrials.gov
+identifier NCT00576654) was conducted under a National Cancer Institute (NCI)-sponsored
+Investigational New Drug (IND) application. Veliparib was supplied under a Collaborative
+Research and Development Agreement between Abbvie, Inc. and the Division of Cancer
+Treatment and Diagnosis, NCI. Irinotecan was obtained commercially.
+PK evaluation
+Plasma PK of veliparib and irinotecan were assessed for each agent alone and in
+combination. For single-agent irinotecan, blood samples were collected at pre-dose and at
+0.5, 1.5 (immediately at the end of infusion), 2, 3.5, 5.5, 8.5, 28, and 48 hours (h) following
+the start of infusion on Cycle 1, Day 1. For single-agent veliparib, blood samples were
+collected at pre-dose and at 0.5, 1, 1.5, 3.5, 5.5, 8.5, 10, and 28 h after oral administration of
+a single dose on Cycle 2, Day −1. The PK of veliparib and irinotecan in combination were
+evaluated on Cycle 2, Day 8. Serial blood samples were collected at pre-dose and at 0.5, 1,
+1.5, 2, 3.5, 5.5, 8.5, 10 (prior to the administration of the afternoon dose of veliparib), 28 and
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+LoRusso et al. Page 5
+48h following the administration of both drugs on day 8 (prior to veliparib dosing days 9 and
+10). Following isolation of plasma by centrifugation, samples were stored at −80°C.
+The plasma concentrations of veliparib and its main metabolite (A-925088) were determined
+using a validated liquid chromatography with tandem mass spectrometry (LC-MS/MS)
+method (32). The plasma concentrations of irinotecan and its major active metabolite SN-38
+were determined using a validated high-performance liquid chromatographic method with
+fluorescence detection (33) with modifications described in the Supplementary Methods.
+The PK parameters of veliparib, irinotecan, and their metabolites, were estimated using non-
+compartmental analysis with WinNonlin software (Pharsight).
+Analysis of Pharmacodynamic Biomarkers
+Tumor sampling was designed to compare the levels of PAR as a PD biomarker of PARP 1/2
+catalytic activity after irinotecan alone to those after the veliparib/irinotecan combination.
+Patients underwent tumor biopsies on Cycle 1 Day 2, ~28 hours after the start of irinotecan
+and again on Cycle 1 Day 9, ~28 hours after the second dose of irinotecan and ~4 hours after
+the morning dose of veliparib, a timepoint informed by preclinical studies and confirmed by
+the prior Phase 0 trial (17, 34).
+Tumor PAR content was quantified using a validated, fit-for-purpose sandwich immunoassay
+(IA) of denatured tumor extracts (17, 34) and was performed according to NCI standard
+operating procedures (SOPs) detailed in the Supplementary Methods.
+Whenever feasible, each biopsy procured a second pass specimen for surveying two nuclear
+PD biomarkers of DNA damage and repair (DDR): γ-H2AX and pNBS1. Nuclear γ-H2AX
+was quantified using a validated single-plex immunofluorescence microscopy assay (IFA)
+according to NCI-DCTD SOPs detailed in the Supplementary Methods. This assay employs
+ImagePro-based image analysis of all viable cell types in the specified number of objectively
+selected fields, excluding necrotic areas, and reports the percentage of their total nuclear
+area that is covered by the nuclear γ-H2AX staining pattern (%NAP, nuclear area positive).
+A preclinical fit-for-purpose study demonstrated the utility of this assay for quantifying the
+repair response to DNA damage caused by topoisomerase-1 inhibitors, including
+camptothecins (35).
+The timing of the DDR response relative to reduction in tumor PAR levels in cancer patients
+is unknown; therefore, an exploratory multiplex IFA was developed to evaluate a second PD
+biomarker, pNBS1, in concert with γ-H2AX. After a modified antigen retrieval step
+replacing citrate with EDTA in the SOP for the validated γ-H2AX IFA (35), both γ-H2AX
+and pNBS1 biomarkers were evaluated in the same cut paraffin section after sequential
+staining on a Bond-max™ Autostainer with antibodies conjugated to different
+fluorochromes. Details of this exploratory IFA are in the Supplementary Methods. Following
+image capture, Tissue Studio software (Definiens, Carlsbad, CA) was used to quantify
+%NAP of γ-H2AX only in fields with a high content of viable tumor cells. Assessment of
+nuclear pNBS in paired biopsies was qualitative.
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+LoRusso et al. Page 6
+Statistical methods
+Descriptive statistics were used to summarize the baseline patient characteristics, treatment-
+related adverse events and PK parameters. Confidence interval (CI) estimates of Grade ≥ 3
+toxicity rates and response rates were calculated using Wilson’s method. The comparison of
+PK parameters of veliparib or irinotecan between single-agent and combination treatments
+was performed using a paired, two-sided Student’s t-Test. Associations between changes in
+PD markers, PK parameters and measures of clinical outcome were also assessed. We
+hypothesized a positive association between increasing veliparib dose and the percent
+reduction of PAR. This hypothetical gradient in PAR reduction was investigated with the
+exact version of the nonparametric Jonckheere-Terpstra test for ordered alternatives (1-
+sided), given the small sample sizes per dose level.
+RESULTS
+Patient Demographics
+Thirty-five consented patients (Table 1) were enrolled between March 2008 and June 2011.
+Whenever possible, germline BRCA status documentation (performed by Myriad Genetics,
+Inc.) was obtained. All patients received at least one dose of study drug, with a median of 3
+(range of 1–28) cycles of veliparib administered. Patients had ≥ 1 line of prior systemic
+therapy and had evidence of disease progression at enrollment. Four patients did not
+complete a full cycle of treatment and were not evaluable for response or MTD
+determination due to financial reasons (1), rapid clinical deterioration (1) or disease
+progression (2).
+Dose escalation and determination of MTD and RP2D
+During dose escalation, 4 DLTs were observed. The first grade 3 toxicity, fatigue, occurred
+at the initial dose level (veliparib 10 mg BID). A second DLT of grade 4 neutropenia was
+observed at 20 mg BID. Two additional DLTs, one each of grade 3 diarrhea and febrile
+neutropenia occurred at 50 mg BID, resulting in expansion of the 40 mg veliparib BID
+cohort with eight additional patients. No DLTs were observed in the additional patients;
+therefore 40 mg veliparib BID administered on a 15 days on/6 days off schedule combined
+with 100 mg/m2 irinotecan on days 1 and 8 of a 21-day cycle was established as the MTD
+and RP2D.
+Toxicity
+The combination of veliparib and irinotecan was generally well tolerated (Table 2). The
+most common toxicities among the 35 patients treated across all dose levels included
+diarrhea (63%; 95% CI 46 – 77%), nausea (60%; 95% CI 44 – 74%), fatigue (60%; 95% CI
+44 – 74%), neutropenia (49%; 95% CI 33 – 64%), and leukopenia (49%; 95% CI 33 – 64%).
+Beyond standard loperamide recommended during irinotecan treatment, 13 patients across
+dose levels required additional medications, including diphenoxylate and atropine, tincture
+of opium and in one case, octreotide injections surrounding irinotecan doses. In 4 patients
+who achieved a partial or mixed response, pegfilgrastim was used after the first cycle in
+order to maintain the initial dose of 20 or 40 mg veliparib BID with irinotecan. Thirteen
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+LoRusso et al. Page 7
+patients required dose reductions during their treatment course, for diarrhea (6), dehydration
+(3), neutropenia (5), fatigue (2), nausea (3), or a combination of these toxicities. Eleven
+patients required dose interruption, most commonly for recovery of neutropenia. One
+ovarian cancer patient on the 20 mg BID veliparib dose experienced intolerable diarrhea,
+nausea and fatigue with irinotecan, even after two dose reductions within the first 6 cycles.
+She was permitted to remain on veliparib alone, and received an additional 11 cycles before
+progressive disease was documented.
+Pharmacokinetics
+PK samples for veliparib and irinotecan were obtained from 26 and 34 patients, respectively.
+The PK parameters estimates for veliparib following oral administration (Supplementary
+Table S1) were consistent with those reported previously (5, 6, 17). The systemic exposure
+(i.e., C and AUC ) to veliparib or A-925088 increased with dose (Supplementary
+max last
+Figure S2). There was no appreciable difference in veliparib clearance (median CL/F: 18
+versus 15 L/h, P > 0.05) and the AUC ratio of A-925088 to veliparib (median, 0.21 versus
+0.14, P > 0.05) when veliparib was given alone or in combination with irinotecan. The PK
+parameters of irinotecan and SN-38 following intravenous infusion (Supplementary Table
+S2) were also consistent with those previously reported (36). There was no apparent
+difference in the PK parameters of irinotecan and SN-38 when irinotecan was given alone or
+in combination with veliparib (Supplementary Table S2). Collectively, these data suggest no
+PK interactions between veliparib and irinotecan.
+Efficacy
+Thirty-one patients were evaluable for response. The maximum percent change in target
+lesions among the 28 patients with pre- and on-treatment radiographic assessments is shown
+in Figure 1. Six patients experienced a partial response (PR; mean 12.3 cycles; range 6–28
+cycles) for a PR rate of 6/31 = 19%; 95% CI 9 – 36%. Three of these were advanced breast
+cancer patients, treated at the 10, 20 and 40 mg BID dose levels, for 8, 28 and 6 cycles,
+respectively; the patient initiated at the 20 mg BID dose level was a BRCA1 carrier who
+escalated to 40 mg BID after 13 cycles and remained on study for an additional 15 cycles.
+Partial responses also occurred in two colon cancer patients treated at the 20 and 40 mg BID
+dose levels for 10 and 9 cycles, respectively. The former patient had received prior
+irinotecan. The other two colorectal cancer patients enrolled, one of whom had disease with
+microsatellite instability, had both received prior irinotecan and had progressive disease after
+2 cycles.
+Of the 9 patients with ovarian cancer enrolled to the study, all were BRCA1 or BRCA2
+carriers. The sixth partial response occurred in a BRCA1 carrier with platinum-sensitive
+ovarian cancer, who had received 3 prior regimens and who was treated at the 20 mg BID
+dose level; she received combined irinotecan and veliparib for 6 cycles and veliparib alone
+for 11 cycles. A second patient with platinum-sensitive disease had been treated with 11
+prior regimens, achieved stable disease (SD) as the best response and received 4 cycles of
+combination treatment. The remaining 7 ovarian cancer patients were considered to have
+platinum-resistant or refractory disease. Two of these patients experienced disease
+progression during the first cycle. The other 5 patients had been treated with 4–8 prior
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+LoRusso et al. Page 8
+regimens, achieved SD as the best response, and received between 2–10 cycles of the
+combination.
+One patient with advanced breast cancer on the 40 mg BID dose level had a mixed response
+(MR) and received 8 cycles. Thirteen patients met the criteria of SD after two cycles of
+treatment (median 2 cycles; range 2–10 cycles) for an SD rate of 13/31 = 42%; 95% CI 26 –
+59%. There were 9 patients progression-free at 4 months (29%; 95% CI 16 – 47%), and 5
+patients progression-free at 6 months after start of treatment (16%; 95% CI 7 – 33%).
+Pharmacodynamics of catalytic PARP 1/2 inhibition
+Paired biopsies were collected from 26 of the 35 patients; of these 26 pairs, 19 were fully
+evaluable for quantifying the primary PD endpoint of the PARP1/2 response to veliparib in
+the presence of irinotecan, including all eight patients enrolled in the MTD cohort at
+veliparib 40 mg BID (Figure 2 and Table 3). The reasons behind the attrition of seven biopsy
+pairs were (a) quality control failure in assay performance (5 pairs) with a root cause traced
+to a change in the supplier’s method for producing the commercial antibody that was
+addressed prior to patient 13 by modifying the assay SOP (see Supplementary Methods), (b)
+one pair with insufficient quality in the first biopsy, and (c) one pair in which both biopsies
+contained PAR levels below the assay Lower Limit of Quantitation (LLQ).
+After thirteen BID doses, veliparib reduced PAR tumor levels in all PD-evaluable patients by
+35–99%. The median PAR reduction across the veliparib dose levels of 10, 20, 40, and 50
+mg was 69% (range 51–87%), 86% (range 35–96%), 95% (range 67–99%), and 92% (range
+85–98%), respectively. This gradient in PAR reduction was statistically significant (p =
+0.0184, 1-sided). However, there was no analogous positive association between the degree
+of PARP inhibition and best response; several patients with progressive disease as the best
+response exhibited > 90% reduction in tumor PAR content after veliparib (see Table 3).
+Nonetheless, the results demonstrate the effectiveness of veliparib at inhibiting PARP1/2
+catalytic activity within 4 hours of its administration one day after irinotecan treatment.
+DNA Damage and Repair Pharmacodynamics
+Second pass core specimens from the paired biopsies of 11 patients yielded sufficient tissue
+for evaluating two nuclear PD biomarkers of DDR response: γ-H2AX and pNBS1.
+Modulation of nuclear γ-H2AX was initially evaluated using the validated single-plex IFA
+(41), and the response of this PD biomarker was low and highly variable (Table 3). In three
+sample pairs, the γ-H2AX NAP score (% nuclear area positive) increased above basal levels
+(i.e., >5% NAP) after veliparib/irinotecan compared with irinotecan alone (patients 2, 13 and
+34). These patients had increases in NAP scores from < 5% after irinotecan alone to 9.5, 5.7
+and 9.9% after veliparib/irinotecan, with PD, PR and PD as the best response, respectively.
+These %NAP values are considerably lower than those obtained in human tumor xenograft
+models that respond to topoisomerase 1 inhibitors, which reach 25% at 4 hours after dosing
+(35). Furthermore, these small changes in %NAP values were not confirmed in the
+exploratory multiplex assay, which uses an image analysis algorithm that reports %NAP
+only in fields predominately composed of viable tumor cells (Table 3 and Figure 3). In the
+remaining patients evaluable for DDR, the addition of veliparib to irinotecan treatment failed
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+LoRusso et al. Page 9
+to increase nuclear γ-H2AX at the time of demonstrated decreases in tumor content of PAR
+(Table 3 and Supplementary Figure S3).
+Nuclear pNBS1 staining was assessed qualitatively in 7 sample pairs (Table 3). In 2 cases,
+nuclear pNBS1 staining was increased after veliparib/irinotecan compared with irinotecan
+alone (Table 3 and Figure 3). This included a robust biomarker response in a patient with
+colorectal cancer treated at the 20 mg dose level, who achieved a PR (patient 13).
+Importantly, pNBS1 staining was limited to tumor cells, as demonstrated by a liver biopsy in
+which both tumor and surrounding normal liver were analyzed (Figure 3 and Supplementary
+Figure S3). A second patient with triple-negative breast cancer treated at the 40 mg dose
+level, who was not a BRCA carrier and who achieved stable disease for 5.8 months, also had
+a slight increase in pNBS1 staining after combination treatment (patient 28). The other five
+paired biopsies did not demonstrate increased nuclear pNBS1 after the addition of veliparib
+(Table 3 and Supplementary Figure S4).
+DISCUSSION
+This trial defined the MTD of day 1, 8 irinotecan given in combination with 15 days of
+veliparib on a 21-day cycle. Although veliparib dosing was attenuated during the first cycle
+to accommodate PK and PD analyses, it is unlikely that defining DLT in the first cycle led to
+an underestimation of toxicities; of the 10 evaluable patients treated at 40mg veliparib BID,
+only 2 received dose reductions in the second and fourth cycles, respectively, indicating that
+the protocol-defined MTD was tolerable in the majority of patients.
+Topoisomerase I poisons cause formation of a cleavable complex in which topoisomerase I
+is covalently attached to the DNA 3′ phosphate. PARP1 is activated by topoisomerase I-
+associated single-strand breaks, and via recruitment of X-ray repair cross-complementing
+protein 1 (XRCC1), promotes both removal of the cleavable complex by tyrosyl DNA
+phosphodiesterase-1 (TDP1) and subsequent completion of DNA repair (37–40). PARP
+inhibition therefore potentiates camptothecin-induced DNA damage by disabling the
+PARP1-XRCC1-TDP1 repair pathway (20, 37).
+When PARP is inhibited, 3’ endonucleases may participate in the removal of the
+topoisomerase I cleavable complex. During S phase, camptothecin-stabilized Topo I-DNA
+complexes are converted to collapsed replication forks and double-strand breaks. Removal of
+the cleavable complex by the MRE11/RAD50/NBS1 (MRN) complex results in a lesion
+processed by HR (37). However, in the presence of a PARP inhibitor, there is inhibition of
+replication fork restart (41) and an increase in collapsed replication forks, so that PARP
+inhibition preferentially sensitizes S phase cells to topoisomerase I-mediated cytotoxicity
+(25). The cleavable complex may also be removed by XPF/ERCC1during the G2 phase (25,
+42), so that cells with low ERCC1 levels are more sensitive to combined camptothecin/
+veliparib (42).
+In this study, we assayed levels of nuclear γ-H2AX and pNBS1 in tumor after veliparib/
+irinotecan compared to irinotecan alone. γ-H2AX scores the presence of DNA double-
+strand breaks (28); phosphorylation of NBS1 (part of the MRN complex) indicates that DNA
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+LoRusso et al. Page 10
+damage has been detected and suggests that the DNA repair process has been initiated.
+Increases in these biomarkers were sought to provide evidence either for (1) increased
+irinotecan-mediated DNA damage in the presence of veliparib; or (2) persistence of
+irinotecan-mediated DNA damage and repair in the presence of veliparib, resulting from a
+longer period of time required for DNA repair. The latter outcome is supported by one in
+vitro study, in which the increased detection of double-strand breaks after combination
+treatment was attributed to a significantly slowed repair process (20). Therefore, in samples
+demonstrating increased γ-H2AX or pNBS1 after veliparib/irinotecan compared to
+irinotecan alone, it is possible that DNA damage was nearly resolved at the 28- hour time
+point after irinotecan alone, but still ongoing at that time point after veliparib/irinotecan,
+consistent with veliparib-mediated retardation of repair. Among 4 biopsy pairs from patients
+who achieved SD or PR for which both of these markers were assessable, two demonstrated
+an increase in nuclear pNBS after combination treatment compared to irinotecan alone.
+In the colorectal cancer case, adjacent normal liver was not similarly affected, likely because
+irinotecan-mediated cytotoxicity and its potentiation by PARP inhibition occurs primarily in
+cells with S phase DNA content (25), absent in non-cycling hepatocytes. A small amount of
+DNA damage during G1 may occur in response to irinotecan (25); if this occurred, the
+absence of pharmacodynamic effects in normal liver suggests proficient repair despite
+addition of veliparib. In either case, the lack of detectable DNA damage and repair markers
+in normal liver suggests a favorable therapeutic index for the irinotecan/veliparib
+combination.
+However, increases in γ-H2AX foci after combination treatment measured using a validated
+single-plex assay did not correlate with response and were not confirmed with an
+exploratory multiplex assay. This discrepancy is likely related to the enhanced image
+analysis of the multiplex assay that is capable of excluding non-malignant cells from the
+biomarker evaluation, and points to the confounding influence of DDR responses by non-
+malignant yet cycling cells. In addition to technical issues, lack of corroboration of
+preclinical results may also be related to the timing of tumor sampling, designed in this trial
+to detect reduction of tumor PAR content after veliparib, and not optimized for detection of
+modulation of DDR in malignant cells. Finally, underlying biology not predicted by
+preclinical models may be contributing, including the possibility that γ-H2AX focus
+formation may be dispensable for initial recruitment of other DNA repair factors in some
+instances (43).
+Since a pNBS1 signal was detectable in samples negative for γ-H2AX response, pNBS1
+may be useful for assessing DDR endpoints in future trials. A larger sample size will be
+required to determine if increased pNBS1 post-combination treatment correlates with
+clinical outcome. Use of pNBS will also require determination of the optimal sampling
+window after topoisomerase 1 inhibition to measure this biomarker. In fact, a later time point
+might have demonstrated completion of repair (absent pNBS) after irinotecan alone that was
+still ongoing (persistent pNBS) after veliparib/irinotecan in a larger number of samples. It is
+also possible that NBS1 is involved in the removal of topoisomerase I cleavable complexes
+to a greater extent in some tumor cells than others. Assessment of XRCC1 or TDP1
+recruitment into nuclear foci might have been a more direct measure of the action of
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+LoRusso et al. Page 11
+veliparib in the presence of irinotecan, but quantitative IFAs for XRCC1 and TDP1 are not
+yet developed.
+The MTD of veliparib when combined with irinotecan of 40 mg BID is comparable to doses
+used in the Phase 0 study (17). Consistent with the inhibition of PARP catalytic activity, our
+PD data demonstrated reduction of tumor PAR content during veliparib exposure. Although
+the timing of biopsies has not allowed us to document persistent reduction in PAR over the
+12-hour dosing interval, in the Phase 0 trial, a single dose of 50 mg veliparib did reduce PAR
+levels measured at 24 hours by 76% and 97% in two patients, respectively (17).
+In contrast to the documented effects on PARP catalytic activity, it is unlikely that PARP-
+DNA trapping has been achieved because monotherapy cytotoxicity, linked to PARP-DNA
+trapping, requires veliparib doses > 300 mg BID, with 400 mg BID as the monotherapy
+MTD (18). The compromise in PARP inhibitor dose compared to the monotherapy MTD is
+similar to the doses of veliparib given in combination with other DNA damaging agents (5,
+44); the need for dose reduction has also been observed when other PARP inhibitors are
+combined with chemotherapy (10, 45, 46).
+The requirement for PARP-DNA trapping in the potentiation of topoisomerase I poisoning
+by PARP inhibition is unclear. PARP1−/− cells are hypersensitive to camptothecin, and the
+addition of a PARP inhibitor does not further sensitize these cells, suggesting that the
+absence of PARP catalytic activity is sufficient for sensitization (26). However, in other
+studies, parental and PARP1−/− mouse embryonic fibroblasts have indistinguishable
+camptothecin sensitivities; transfection with catalytically inactive PARP1 or its isolated
+DNA binding domain sensitizes to camptothecin, consistent with a model in which small
+molecule inhibitors convert PARP1 into a protein that potentiates topoisomerase I poisons by
+binding to damaged DNA and preventing repair (27). If trapping of PARP-DNA complexes
+is a component of topoisomerase I inhibitor-mediated sensitization, alterative schedules
+using higher veliparib doses may be required.
+In this study, PRs were seen in BRCA carriers and WT patients. HR is required to faithfully
+process double-strand breaks arising during S phase following combined topoisomerase I
+and PARP inhibition, so that HR-deficient tumors may be overall more vulnerable. For this
+reason, the irinotecan/veliparib combination is being studied in two triple-negative breast
+cancer populations, including those with and without BRCA germline mutations.
+In summary, we have demonstrated the ability to safely inhibit PARP1/2 catalytic activity in
+combination with topoisomerase I inhibition. Further studies are necessary to reproducibly
+demonstrate modulation of the DDR in the context of loss of PARP1/2 function. Ultimately,
+randomized trials will be required to definitively demonstrate increased efficacy afforded by
+PARP inhibition in concert with DNA damage.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+LoRusso et al. Page 12
+Acknowledgments
+The authors appreciate the technical support of Lan Tran, Cameron Marlow, Candace Robinson, Will Yutzy, and
+Scott Lawrence and wish to thank Dr. Deborah Wilsker for expert assistance compiling the antibody qualification
+data and Dr. Yvonne Evrard for expert data reduction and presentation of the clinical PD results.
+FUNDING SUPPORT
+This project was funded with federal funds from the National Cancer Institute (NCI), NIH, under contract or grant
+numbers NCI U01-CA062487, U01-CA062490, NCI R21-CA135572, and CA-22453.
+This project has been funded in part with federal funds from the National Cancer Institute, National Institutes of
+Health, under Contract No. HHSN261200800001E. The content of this publication does not necessarily reflect the
+views or policies of the Department of Health and Human Services, nor does mention of trade names, commercial
+products, or organizations imply endorsement by the U.S. Government.
+REFERENCES
+1. Fong PC, Boss DS, Yap TA, Tutt A, Wu P, Mergui-Roelvink M, et al. Inhibition of poly(ADP-
+ribose) polymerase in tumors from BRCA mutation carriers. N Engl J Med. 2009; 361:123–134.
+[PubMed: 19553641]
+2. Kaufman B, Shapira-Frommer R, Schmutzler RK, Audeh MW, Friedlander M, Balmana J, et al.
+Olaparib Monotherapy in Patients With Advanced Cancer and a Germline BRCA1/2 Mutation. J
+Clin Oncol. 2014
+3. Gartner EM, Burger AM, Lorusso PM. Poly(adp-ribose) polymerase inhibitors: a novel drug class
+with a promising future. Cancer J. 2010; 16:83–90. [PubMed: 20404603]
+4. Kummar S, Chen A, Parchment RE, Kinders RJ, Ji J, Tomaszewski JE, et al. Advances in using
+PARP inhibitors to treat cancer. BMC Med. 2012; 10:25. [PubMed: 22401667]
+5. Kummar S, Chen A, Ji J, Zhang Y, Reid JM, Ames M, et al. Phase I study of PARP inhibitor
+ABT-888 in combination with topotecan in adults with refractory solid tumors and lymphomas.
+Cancer Res. 2011; 71:5626–5634. [PubMed: 21795476]
+6. Kummar S, Ji J, Morgan R, Lenz HJ, Puhalla SL, Belani CP, et al. A phase I study of veliparib in
+combination with metronomic cyclophosphamide in adults with refractory solid tumors and
+lymphomas. Clin Cancer Res. 2012; 18:1726–1734. [PubMed: 22307137]
+7. Tan A, Toppmeyer D, Stein M, Moss R, Gounder M, Lindquist D, et al. Phase I trial of veliparib
+(ABT-888), a poly(ADP-ribose) polymerase (PARP) inhibitor, in combination with doxorubicin and
+cyclophosphosphamide in breast cancer and other solid tumors. J Clin Oncol. 2011;
+29(suppl):A3041. [abstract].
+8. Viswanathan S, Wesolowski R, Layman R, ALejandra G, Miller B, Chalmers J, et al. A phase I
+dose-escalation study of ABT-888 (veliparib) in combinatino with carboplatin in HER2-negative
+metastatic breast cancer (MBC). J Clin Oncol. 2011; 29(suppl):TPS106. [abstract].
+9. Somlo G, Frankel PH, Luu TH, Ma C, Arun B, Garcia AB, et al. Phase II trial of single agent PARP
+inhibitor ABT-888 (veliparib) followed by post-progression therapy of veliparib with carboplatin in
+aptiens with BRCA-associated metastatic breast cancer: California Cancer Consortium trial
+PHII-96. J Clin Oncol. 2014; 32(suppl):A1021. [abstract].
+10. Balmana J, Tung NM, Isakoff SJ, Grana B, Ryan PD, Saura C, et al. Phase I trial of olaparib in
+combination with cisplatin for the treatment of patients with advanced breast, ovarian and other
+solid tumors. Ann Oncol. 2014; 25:1656–1663. [PubMed: 24827126]
+11. Reiss K, Herman J, ZAhurak M, Brade A, Dawson L, Scardina A, et al. A phase I study of
+veliparib (ABT-888) in combinatino with low-dose fractionated whole abdominal radiation therapy
+(LDFWAR) in patients with advanced solid malignancies and peritoneal carcinomatosis. J Clin
+Oncol. 2014; 32(suppl):A4139. [abstract].
+12. Czito B, Mulcahy M, WR S, Vaghefi H, Jameson G, Deluca A, et al. The safety and tolerability of
+veliparib plus capecitabine and radiation in subjects with locally advanced rectal cancer: results of
+a phase 1b study. J Clin Oncol. 2014; 32(5s suppl):A3634. [abstract].
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+LoRusso et al. Page 13
+13. Murai J, Huang SY, Das BB, Renaud A, Zhang Y, Doroshow JH, et al. Trapping of PARP1 and
+PARP2 by Clinical PARP Inhibitors. Cancer Res. 2012; 72:5588–5599. [PubMed: 23118055]
+14. Penning TD, Zhu GD, Gandhi VB, Gong J, Liu X, Shi Y, et al. Discovery of the Poly(ADP-ribose)
+polymerase (PARP) inhibitor 2-[(R)-2-methylpyrrolidin-2-yl]-1H–benzimidazole-4-carboxamide
+(ABT-888) for the treatment of cancer. J Med Chem. 2009; 52:514–523. [PubMed: 19143569]
+15. Donawho CK, Luo Y, Luo Y, Penning TD, Bauch JL, Bouska JJ, et al. ABT-888, an orally active
+poly(ADP-ribose) polymerase inhibitor that potentiates DNA-damaging agents in preclinical
+tumor models. Clin Cancer Res. 2007; 13:2728–2737. [PubMed: 17473206]
+16. Murai J, Huang SY, Renaud A, Zhang Y, Ji J, Takeda S, et al. Stereospecific PARP Trapping by
+BMN 673 and Comparison with Olaparib and Rucaparib. Mol Cancer Ther. 2014; 13:433–443.
+[PubMed: 24356813]
+17. Kummar S, Kinders R, Gutierrez ME, Rubinstein L, Parchment RE, Phillips LR, et al. Phase 0
+clinical trial of the poly (ADP-ribose) polymerase inhibitor ABT-888 in patients with advanced
+malignancies. J Clin Oncol. 2009; 27:2705–2711. [PubMed: 19364967]
+18. Puhalla S, Beumer JH, Pahuja S, Appleman LJ, Tawbi HA, Stoller RG, et al. Final results of a
+phase 1 study of the single-agent veliparib in patients with either BRCA1/2-mutated cancer,
+platinum-refractory ovarian, or basal-like breast cancer. J Clin Oncol. 2014; 32(suppl):A2570.
+[abstract].
+19. Calabrese CR, Almassy R, Barton S, Batey MA, Calvert AH, Canan-Koch S, et al. Anticancer
+chemosensitization and radiosensitization by the novel poly(ADP-ribose) polymerase-1 inhibitor
+AG14361. J Natl Cancer Inst. 2004; 96:56–67. [PubMed: 14709739]
+20. Smith LM, Willmore E, Austin CA, Curtin NJ. The novel poly(ADP-Ribose) polymerase inhibitor,
+AG14361, sensitizes cells to topoisomerase I poisons by increasing the persistence of DNA strand
+breaks. Clin Cancer Res. 2005; 11:8449–8457. [PubMed: 16322308]
+21. Miknyoczki S, Chang H, Grobelny J, Pritchard S, Worrell C, McGann N, et al. The selective
+poly(ADP-ribose) polymerase-1(2) inhibitor, CEP-8983, increases the sensitivity of
+chemoresistant tumor cells to temozolomide and irinotecan but does not potentiate myelotoxicity.
+Mol Cancer Ther. 2007; 6:2290–2302. [PubMed: 17699724]
+22. Miknyoczki SJ, Jones-Bolin S, Pritchard S, Hunter K, Zhao H, Wan W, et al. Chemopotentiation of
+temozolomide, irinotecan, and cisplatin activity by CEP-6800, a poly(ADP-ribose) polymerase
+inhibitor. Mol Cancer Ther. 2003; 2:371–382. [PubMed: 12700281]
+23. Davidson D, Wang Y, Aloyz R, Panasci L. The PARP inhibitor ABT-888 synergizes irinotecan
+treatment of colon cancer cell lines. Invest New Drugs. 2013; 31:461–468. [PubMed: 23054213]
+24. Tentori L, Leonetti C, Scarsella M, Muzi A, Mazzon E, Vergati M, et al. Inhibition of poly(ADP-
+ribose) polymerase prevents irinotecan-induced intestinal damage and enhances irinotecan/
+temozolomide efficacy against colon carcinoma. Faseb J. 2006; 20:1709–1711. [PubMed:
+16809434]
+25. Znojek P, Willmore E, Curtin NJ. Preferential potentiation of topoisomerase I poison cytotoxicity
+by PARP inhibition in S phase. Br J Cancer. 2014; 111:1319–1326. [PubMed: 25003660]
+26. Murai J, Zhang Y, Morris J, Ji J, Takeda S, Doroshow JH, et al. Rationale for poly(ADP-ribose)
+polymerase (PARP) inhibitors in combination therapy with camptothecins or temozolomide based
+on PARP trapping versus catalytic inhibition. J Pharmacol Exp Ther. 2014; 349:408–416.
+[PubMed: 24650937]
+27. Patel AG, Flatten KS, Schneider PA, Dai NT, McDonald JS, Poirier GG, et al. Enhanced killing of
+cancer cells by poly(ADP-ribose) polymerase inhibitors and topoisomerase I inhibitors reflects
+poisoning of both enzymes. J Biol Chem. 2012; 287:4198–4210. [PubMed: 22158865]
+28. Redon CE, Nakamura AJ, Zhang YW, Ji JJ, Bonner WM, Kinders RJ, et al. Histone gammaH2AX
+and poly(ADP-ribose) as clinical pharmacodynamic biomarkers. Clin Cancer Res. 2010; 16:4532–
+4542. [PubMed: 20823146]
+29. Innocenti F, Undevia SD, Iyer L, Chen PX, Das S, Kocherginsky M, et al. Genetic variants in the
+UDP-glucuronosyltransferase 1A1 gene predict the risk of severe neutropenia of irinotecan. J Clin
+Oncol. 2004; 22:1382–1388. [PubMed: 15007088]
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+LoRusso et al. Page 14
+30. Iyer L, Das S, Janisch L, Wen M, Ramirez J, Karrison T, et al. UGT1A1*28 polymorphism as a
+determinant of irinotecan disposition and toxicity. Pharmacogenomics J. 2002; 2:43–47. [PubMed:
+11990381]
+31. Camptosar (irinotecan hydrochloride injection) drug package insert. NY: Pfizer Inc, NY; 2012 Jul.
+Revised
+32. Wiegand R, Wu J, Sha X, LoRusso P, Li J. Simultaneous determination of ABT-888, a poly (ADP-
+ribose) polymerase inhibitor, and its metabolite in human plasma by liquid chromatography/
+tandem mass spectrometry. J Chromatography B. 2010; 878:333–339.
+33. Poujol S, Pinguet F, Malosse F, Astre C, Ychou M, Culine S, et al. Sensitive HPLC-fluorescence
+method for irinotecan and four major metabolites in human plasma and saliva: application to
+pharmacokinetic studies. Clin Chem. 2003; 49:1900–1908. [PubMed: 14578322]
+34. Kinders RJ, Hollingshead M, Khin S, Rubinstein L, Tomaszewski JE, Doroshow JH, et al.
+Preclinical modeling of a phase 0 clinical trial: qualification of a pharmacodynamic assay of poly
+(ADP-ribose) polymerase in tumor biopsies of mouse xenografts. Clin Cancer Res. 2008;
+14:6877–6885. [PubMed: 18980982]
+35. Kinders RJ, Hollingshead M, Lawrence S, Ji J, Tabb B, Bonner WM, et al. Development of a
+validated immunofluorescence assay for gammaH2AX as a pharmacodynamic marker of
+topoisomerase I inhibitor activity. Clin Cancer Res. 2010; 16:5447–5457. [PubMed: 20924131]
+36. de Jonge MJ, Verweij J, de Bruijn P, Brouwer E, Mathijssen RH, van Alphen RJ, et al.
+Pharmacokinetic, metabolic, and pharmacodynamic profiles in a dose-escalating study of
+irinotecan and cisplatin. J Clin Oncol. 2000; 18:195–203. [PubMed: 10623710]
+37. Pommier Y, Barcelo JM, Rao VA, Sordet O, Jobson AG, Thibaut L, et al. Repair of topoisomerase
+I-mediated DNA damage. Prog Nucleic Acid Res Mol Biol. 2006; 81:179–229. [PubMed:
+16891172]
+38. Pommier Y. Drugging topoisomerases: lessons and challenges. ACS Chem Biol. 2013; 8:82–95.
+[PubMed: 23259582]
+39. Murai J, Huang SY, Das BB, Dexheimer TS, Takeda S, Pommier Y. Tyrosyl-DNA
+phosphodiesterase 1 (TDP1) repairs DNA damage induced by topoisomerases I and II and base
+alkylation in vertebrate cells. J Biol Chem. 2012; 287:12848–12857. [PubMed: 22375014]
+40. Das BB, Huang SY, Murai J, Rehman I, Ame JC, Sengupta S, et al. PARP1-TDP1 coupling for the
+repair of topoisomerase I-induced DNA damage. Nucleic Acids Res. 2014; 42:4435–4449.
+[PubMed: 24493735]
+41. Ray Chaudhuri A, Hashimoto Y, Herrador R, Neelsen KJ, Fachinetti D, Bermejo R, et al.
+Topoisomerase I poisoning results in PARP-mediated replication fork reversal. Nat Struct Mol
+Biol. 2012; 19:417–423. [PubMed: 22388737]
+42. Zhang YW, Regairaz M, Seiler JA, Agama KK, Doroshow JH, Pommier Y. Poly(ADP-ribose)
+polymerase and XPF-ERCC1 participate in distinct pathways for the repair of topoisomerase I-
+induced DNA damage in mammalian cells. Nucleic Acids Res. 2011; 39:3607–3620. [PubMed:
+21227924]
+43. Celeste A, Fernandez-Capetillo O, Kruhlak MJ, Pilch DR, Staudt DW, Lee A, et al. Histone H2AX
+phosphorylation is dispensable for the initial recognition of DNA breaks. Nat Cell Biol. 2003;
+5:675–679. [PubMed: 12792649]
+44. Hussain M, Carducci MA, Slovin S, Cetnar J, Qian J, McKeegan EM, et al. Targeting DNA repair
+with combination veliparib (ABT-888) and temozolomide in patients with metastatic castration-
+resistant prostate cancer. Invest New Drugs. 2014; 32:904–912. [PubMed: 24764124]
+45. Kurzrock R, Galanis E, Johnson DR, Kansra V, Wilcoxen K, Mcclure T, et al. A phase I study of
+niraparib in combination with temozolomide (TMZ) in patients with advanced cancer. J Clin
+Oncol. 2014; 32(suppl):A2092. [abstract].
+46. Khan OA, Gore M, Lorigan P, Stone J, Greystoke A, Burke W, et al. A phase I study of the safety
+and tolerability of olaparib (AZD2281, KU0059436) and dacarbazine in patients with advanced
+solid tumours. Br J Cancer. 2011; 104:750–755. [PubMed: 21326243]
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+LoRusso et al. Page 15
+TRANSLATIONAL RELEVANCE
+In preclinical models, poly(ADP-ribose) [PAR] polymerase (PARP)1/2 inhibitors
+enhance the activity of topoisomerase I inhibitors. This Phase 1 trial established the
+tolerability of the PARP inhibitor veliparib in combination with irinotecan. The MTD of
+veliparib was lower than that required for monotherapy cytotoxicity, but consistent with
+catalytic inhibition of PARP, evidenced by paired tumor biopsies obtained after irinotecan
+alone and after veliparib/irinotecan demonstrating veliparib-mediated reduction in PAR
+content. In several samples, expression of γ-H2AX and pNBS1 was increased following
+veliparib/irinotecan compared to irinotecan, with the greatest increase in pNBS noted in
+one patient who achieved PR. In other patients, similarly increased γ-H2AX and pNBS1
+levels were not observed. Administration schedules accommodating higher veliparib
+doses or alternative tumor sampling time points may be required to reproducibly
+demonstrate modulation by veliparib of the extent and repair of irinotecan-mediated
+DNA damage. Nonetheless, the observed clinical responses suggest that the combination
+merits further evaluation.
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 16 ---
+LoRusso et al. Page 16
+Figure 1. Waterfall plot demonstrating the maximum percent change in target lesions among 28
+patients with pre- and on-treatment radiographic assessments
+Diagnoses, dose levels and BRCA carrier status (for known subjects) are indicated. For
+subjects who remained on trial for approximately 6 months or longer, the number of days on
+study and number of cycles administered (parenthesized) are indicated beneath the bar. One
+of the colon cancer patients with progressive disease as best response had tumor with
+microsatellite instability.
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 17 ---
+LoRusso et al. Page 17
+Figure 2. PAR content in paired tumor biopsies after irinotecan alone and after combined
+veliparib/irinotecan
+PAR levels in tumor obtained from biopsies performed on cycle 1 day 2, 28 hours after the
+first dose of irinotecan (open circles) and cycle 1, day 9, 28 hours after combined veliparib/
+irinotecan (closed circles), demonstrating substantial reductions in PAR after veliparib
+exposure across dose levels. Of 26 patients from whom paired biopsies were procured, 19
+patients were evaluable for a quantitative change in PAR tumor content, including all 8
+patients enrolled in the MTD cohort at 40-mg BID veliparib. *No Day 2 sample. ‡Day 2
+sample, insufficient quality. ±Day 2 sample, insufficient protein. ∧Day 2 sample, < LLQ.
++No Day 9 sample. #Day 9 sample, < LLQ. §Assay failed QC.
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 18 ---
+LoRusso et al. Page 18
+Figure 3. Assessment of γ-H2AX and pNBS in the exploratory multiplex immunofluorescence
+assay
+Multiplex immunofluorescence microscopy with Definiens image analysis was used to
+assess expression of γ-H2AX (green signal) and pNBS (red signal) after irinotecan alone and
+after combined veliparib/irinotecan. H&E panels and the “a” panels demonstrate cytology
+and pharmacodynamic response of adjacent sections. The “b” and “c” panels demonstrate
+typical staining patterns of other representative fields in the series of sections prepared from
+each biopsy specimen. (A) Sections from biopsies from patient 13 (colon cancer; best
+response PR). (B) Liver biopsy core post combination treatment from patient 13
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 19 ---
+LoRusso et al. Page 19
+demonstrating that pNBS staining is confined to tumor cells in the biopsy. Bar, 300 µm. (C)
+Sections from biopsies from patient 28 (TNBC; best response SD). Qualitatively all sections
+reveal a slight increase in nuclear pNBS staining post-combination treatment (Table 3).
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 20 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+LoRusso et al. Page 20
+Table 1
+Patient Characteristics
+Characteristic N= 35 (%)
+Gender
+Male 7 (20)
+Female 28 (80)
+Median (range) age in years 54 (31–73)
+Eastern Cooperative Oncology Group performance status
+0 9 (26)
+1 24 (68)
+2 2 (6)
+Tumor Type
+Breast 15 (43)
+Ovary 9 (26)
+Colon 4 (11)
+Esophagus 4 (11)
+Lung 2 (6)
+Anus 1 (3)
+Received prior systemic therapy 35 (100)
+Median no. prior therapies (range) 4 (1–12)
+Median no. veliparib cycles/patient (range) 3 (1–28)
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+
+--- Page 21 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+LoRusso et al. Page 21
+2
+elbaT
+)selcyc
+lla
+,edarg
+mumixam(
+stneve
+esrevda
+detaler-tnemtaert
+)%01
+≥(
+nommoC
+tsoM
+leveL
+esoD
+birapileV
+# latoT
+gm
+05
+gm
+04
+gm
+02
+gm
+01
+stneitaP
+7=N
+21=N
+9=N
+7=N
+htiW
+tnevE
+esrevdA
+tnevE
+3≥rG
+llA
+3≥rG
+llA
+3≥rG
+llA
+3≥rG
+llA
+)%(53=N
+)%(
+)%(
+)%(
+)%(
+)%(
+)%(
+)%(
+)%(
+)41(
+1
+)75(
+4
+-
+)76(
+8
+)11(
+1
+)65(
+5
+)41(
+1
+)17(
+5
+)36(
+22
+aehrraiD
+-
+)17(
+5
+-
+)05(
+6
+)22(
+2
+)65(
+5
+)41(
+1
+)17(
+5
+)06(
+12
+eugitaF
+-
+)75(
+4
+-
+)05(
+6
+-
+)87(
+7
+-
+)75(
+4
+)06(
+12
+aesuaN
+)92(
+2
+)17(
+5
+)71(
+2
+)33(
+4
+)11(
+1
+)44(
+4
+)34(
+3
+)75(
+4
+)94(
+71
+ainepokueL
+)34(
+3
+)75(
+4
+)71(
+2
+)24(
+5
+)22(
+2
+)44(
+4
+)92(
+2
+)75(
+4
+)94(
+71
+aineportueN
+-
+)34(
+3
+-
+)24(
+5
+-
+)11(
+1
+)41(
+1
+)75(
+4
+)73(
+31
+aimenA
+-
+)34(
+3
+-
+)33(
+4
+-
+)11(
+1
+-
+)34(
+3
+)13(
+11
+aixeronA
+-
+)41(
+1
+-
+)52(
+3
+-
+)33(
+3
+-
+)92(
+2
+)62(
+9
+gnitimoV
+-
+)41(
+1
+-
+)33(
+4
+-
+)11(
+1
+-
+)41(
+1
+)02(
+7
+aicepolA
+-
+-
+-
+)52(
+3
+)11(
+1
+)11(
+1
+)92(
+2
+)92(
+2
+)71(
+6
+ainepohpmyL
+-
+)41(
+1
+-
+)8(
+1
+-
+)22(
+2
+)41(
+1
+)41(
+1
+)41(
+5
+noitardyheD
+-
+-
+-
+)52(
+3
+-
+)11(
+1
+-
+)41(
+1
+)41(
+5
+aimenimublaopyH
+)41(
+1
+)8(
+1
+)11(
+1
+)41(
+1
+)11(
+4
+niaP
+lanimodbA
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+
+--- Page 22 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+LoRusso et al. Page 22
+3
+elbaT
+snemicepS
+yspoiB
+romuT
+deriaP
+ni
+esnopseR
+egamaD
+AND
+fo
+srekramoiB
+cimanydocamrahP
+dna
+sleveL
+RAP
+fo
+sisylanA
+-xA2Hγ
+raelcuN
+yrotarolpxE
+-xA2Hγ
+raelcuN
+detadilaV
+2A
+f F o I t q n - e 1 t S n B oc N
+h p g r ih ae
+h lc ti u w N
+s y d r le o i t f a
+y r l o n lp o(
+xE
+1AFIq
+1AFIq
+AI-RAP
+detadilaV
+fo
+tnetnoc
+hgih
+htiw
+sdleif
+ylno(
+tuohtiw
+sdleif
+ni sllec
+lla(
+)sllec
+romut
+elbaiv
+)sllec
+romut
+elbaiv
+)sisorcen
+9 yaD
+2 yaD
+9 yaD
+2
+yaD
+9 yaD
+2
+yaD
+9 yaD
+2 yaD
+1SBNp
+raelcuN
+1SBNp
+raelcuN
+raelcuN
+raelcuN
+raelcuN
+raelcuN
+romuT
+romuT
+11-TPC
+fo rh-82
+fo rh-82
+xA2Hγ
+xA2Hγ
+xA2Hγ
+xA2Hγ
+RAP
+RAP
+leveL
+esoD
+tseB
+tneitaP
+.m.a
+retfa rh-4
+11-TPC
+fo rh-82
+fo
+rh-82
+fo rh-82
+fo
+rh-82
+tnetnoC
+tnetnoC
+888-TBA
+esnopseR
+rebmuN
+esod
+888-TBA
+888-TBA
+o/w
+11-TPC
+11-TPC
+11-TPC
+11-TPC
+fo rh-82
+fo rh-82
+)gm(
+)PAN %(
+)PAN
+%(
+retfa
+rh-4
+888-TBA
+o/w
+retfa
+rh-4
+888-TBA
+o/w
+11-TPC
+11-TPC
+.m.a
+)PAN
+%(
+.m.a
+)PAN
+%(
+ni
+enilceD
+retfa
+rh-4
+o/w
+esod
+888-TBA
+888-TBA
+romuT
+.m.a
+888-TBA
+)PAN
+%(
+esod
+RAP
+888-TBA
+gµ/gp(
+)PAN
+%(
+yaD
+morf
+esod
+)nietorp
+9→2
+gµ/gp(
+)%(
+)nietorp
+dnuorgkcab
+dnuorgkcab
+0.5
+<
+0.5
+<
+5.9
+0.5
+<
+15−
+5.21
+6.52
+DP
+01
+200
+dnuorgkcab
+dnuorgkcab
+0.5
+<
+0.5
+<
+0.7
+9.7
+69−
+4.2
+3.75
+DP
+02
+010
+a/n
+++
+a/n
+4.8
+1.7
+8.9
+49−
+2.1
+6.91
+DP
+02
+410
+a/n
+a/n
+0.5
+<
+0.5
+<
+06−
+2.2
+7.5
+DP
+02
+610
+dnuorgkcab
+elbatceted
+0.5
+<
+7.6
+9.9
+0.5
+<
+89−
+2.1
+8.86
+DP
+04
+430
+dnuorgkcab
+dnuorgkcab
+0.5
+<
+0.5
+<
+0.5
+<
+0.5
+<
+a/n
+a/n
+a/n
+DS
+01
+600
+elbatceted
+elbatceted
+0.5
+<
+0.5
+<
+0.5
+<
+0.5
+<
+78−
+3.0
+3.2
+DS
+01
+700
++
+elbatceted
+0.5
+<
+0.5
+<
+0.5
+<
+0.5
+<
+59−
+6.0
+8.21
+DS
+04
+820
+a/n
+a/n
+0.5
+<
+0.5
+<
+98−
+6.1
+6.31
+RP
+02
+900
+a/n
+a/n
+0.5
+<
+0.6
+a/n
+a/n
+a/n
+RP
+02
+210
+++++
+++
+0.5
+<
+0.5
+<
+7.5
+0.5
+<
+28−
+1.6
+7.33
+RP
+02
+310
+AND fo
+srekramoib-DP
+raelcun
+fo
+sisylana
+rof tneiciffus
+erew
+taht
+stneitap
+emos
+ni
+snemiceps
+eroc
+ssap-dnoces
+dedleiy
+osla
+snemiceps
+eroc
+ssap-tsrif
+ni
+slevel
+RAP
+fo
+noitaulave
+rof
+seispoib
+deriaP
+fo ecnedive
+gnitartsnomed
+selpmaS
+.slevel
+RAP
+gnitaulave
+rof
+detceles
+semit
+gnilpmas
+ta langis
+a detibihxe
+taht
+RDD
+fo
+rekramoib-DP
+ylno
+eht
+saw 1SBNp
+raelcun
+taht
+etoN
+.)RDD(
+esnopser
+egamad
+.dedlob
+era
+enola
+nacetoniri
+ot
+derapmoc
+birapilev/nacetoniri
+denibmoc
+retfa
+riaper
+AND
+tnetsisrep
+ro egamad
+AND
+desaercni
+1
+xelp-itlum
+yrotarolpxe
+ehT
+.sdleif
+citorcen-non
+ni sllec
+elbaiv
+lla
+rof
+)ytivitisop
+aera
+raelcun(
+PAN%
+stroper
+dna
+sisylana
+egami
+desab-orPegamI
+syolpme
+XA2H-γ
+raelcun
+rof
+AFI
+xelp-elgnis
+detadilav
+ehT
+-γ raelcun
+fo seulav
+PAN%
+dnuorgkcaB
+.sllec
+romut
+elbaiv
+fo
+desopmoc
+yltnanimoderp
+sdleif
+ni ylno
+PAN%
+stroper
+taht
+mhtirogla
+sisylana
+egami
+desab-sneinifeD
+a syolpme
+XA2H-γ
+raelcun
+rof
+AFI
+.RDD
+ni esaercni
+na
+etartsnomed
+ot
+dlohserht
+siht
+deecxe
+tsum
+seulav
+PAN%
+os
+,%5<
+era
+snemiceps
+romut
+detaertnu
+ni
+XA2H
+2
+ylgnorts
+fo srebmun
+rehgih
+ylevissergorp
+etacidni
+”++++“
+dna
+”++“
+dna
+,sdleif
+emos
+ylno
+ni
+ielcun
+evitisop
+wef
+a
+snaem
+”elbatceted“
+,sdleif
+lla
+ni ielcun
+evitisop
+%1<
+snaem
+”dnuorgkcab“
+mret
+ehT
+.dleif
+yreve
+ni
+ielcun
+evitisop
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.
+
+--- Page 23 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+LoRusso et al. Page 23
+esaesid
+elbats
+–
+DS
+;esnopser
+laitrap
+–
+RP
+;esaesid
+evissergorp
+–
+DP
+;)sisylana
+rof
+sllec
+tneiciffusni(
+elbassessa
+ton-a/n
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 01.

@@ -1,0 +1,613 @@
+Source: 24875133.pdf
+Extracted on: Sat Sep 13 00:00:34 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+Published in final edited form as:
+Invest New Drugs. 2014 October ; 32(5): 969–975. doi:10.1007/s10637-014-0115-4.
+A phase I study of decitabine with pegylated interferon α-2b in
+advanced melanoma: impact on DNA methylation and
+lymphocyte populations
+E. R. Plimack1, J. R. Desai2, J. P. Issa3, J. Jelinek3, P. Sharma4, L. M. Vence4, R. L.
+Bassett5, J. L. Ilagan6, N. E. Papadopoulos6, and W. J. Hwu6
+1Fox Chase Cancer Center, Philadelphia PA, Department of Medical Oncology
+2Temple University Hospital, Philadelphia PA, Department of Internal Medicine
+3Fels Institute, Temple University, Philadelphia PA; The University of Texas MD Anderson Cancer
+Center, Houston TX
+4Departments of Immunology
+5Departments of Biostatistics
+6Departments of Melanoma Medical Oncology
+Abstract
+Background—Melanoma cell lines treated with decitabine show upregulation of cancer
+antigens, and interferon-α upreglates MHC Class I antigens in cancer cells, leading to enhanced T-
+cell recognition and T-cell mediated tumor apoptosis. We evaluated the synergy between the
+hypomethylating effects of decitabine and the immunomodulatory effects of interferon in a
+combination regimen administered to advanced melanoma patients in a phase 1 trial.
+Methods—Patients with one prior systemic therapy were eligible. Using a modified 3+3 design,
+patients received escalating doses of decitabine and pegylated interferon α-2b (PEG-IFN) during
+every 28-day treatment cycle. Global DNA methylation was measured on days 1 and 5 of cycles 1
+and 3. Cytokine profiling and quantification of T-cell subpopulations by FACS were performed at
+baseline and cycle 3.
+Results—Seventeen patients were assigned to one of four dose levels. Decitabine 15 mg/m2/d +
+PEG-IFN 3 µg/kg was the maximum tolerated dose (MTD). Grade 3/4 cytopenias were seen
+across all dose levels: anemia (1), neutropenia (7), and thrombocytopenia (2). One patient
+remained progression-free for 37 weeks. The other 16 patients progressed at or before 12 weeks.
+Median overall survival was 39 weeks. Hypomethylation was seen at all dose levels. Due to
+treatment-induced lymphocytopenia, absolute changes in T-cell populations post-treatment were
+too small to be meaningfully interpreted.
+Corresponding author: Elizabeth R. Plimack, Elizabeth.Plimack@fccc.edu, Tel: 215-728-6900 Fax: 215-728-3639.
+CONFLICT OF INTEREST STATEMENT
+The other authors have no conflicts of interest to declare.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Plimack et al. Page 2
+Conclusions—The response to this combination regimen was characterized by significant
+myelosuppression, particularly neutropenia. Although disappointing efficacy and slow accrual led
+to early closure of the trial, hypomethylation showed pharmacodynamic evidence of a therapeutic
+effect of decitabine at all dose levels.
+INTRODUCTION
+Metastatic melanoma has a 2-year survival rate of less than 10–20%.[1] In 2011, the U.S.
+Food and Drug Administration (FDA) approved ipilimumab, a monoclonal antibody against
+the cytotoxic T lymphocyte antigen 4 (CTLA 4) receptor found on melanoma cells, and
+vemurafenib, a signal inhibitor for mutated BRAF, for the treatment of metastatic
+melanoma. Both therapies showed improved progression-free survival and overall survival
+when compared to chemotherapy in phase III trials. [2,3] Previously, treatment consisted of
+dacarbazine, high-dose interleukin-2, interferon alpha, temozolomide, imatinib for tumors
+with c-KIT mutations, the bacillus Calmette Guerin vaccine, and paclitaxel with the option
+of carboplatin, all with marginal efficacy. Presently, metastatic melanoma remains
+incurable, and rationally designed clinical trials of immunotherapy and targeted agents
+represent the greatest hope to change the course of this otherwise fatal disease.
+Decitabine is a DNA methyltransferase inhibitor that is approved for the treatment of
+leukemia and myelodysplastic syndrome. Through steric inhibition of DNA
+methyltransferase, decitabine reduces the transfer of methyl groups during cell division,
+theoretically reversing methylation-induced gene silencing.[4] In a phase I study in which 20
+melanoma patients were treated with decitabine, one patient achieved a near-complete
+remission for 116 days.[5] More recently, Tawbi et al conducted a phase I/II trial that
+showed the combination of decitabine and temozolomide for metastatic melanoma led to a
+12.4-month median overall survival, with 2 complete responses and 4 partial responses. The
+most significant side effect in this study was grade 3/4 neutropenia.[6]
+Pegylated interferon alpha-2b (PEG-IFN) has been approved for high-risk melanoma in the
+adjuvant setting. Dummer et al conducted a 150-patient study using 3 different doses of
+pegylated interferon (180 ug/week, 360 ug/week, or 450 ug/week) and found response rates
+of 6%, 8%, and 12% for the 3 doses, respectively[7]. These differences were not statistically
+significant, indicating that dose level did not correlate with response, and lower doses were
+as effective as higher doses. The most common adverse effects were fatigue, pyrexia and
+nausea. [7] In a phase II study of temozolomide plus low-dose PEG-IFN (0.5 mcg/kg/week)
+in 35 patients with treatment-naïve metastatic melanoma, 11 patients (31%) had an objective
+tumor response, including 3 with complete response and 8 partial response. The median
+survival was 12 months, with a median follow-up of 16 months. Hematologic toxicity
+consisted mainly of lymphopenia (31% grade 2 and 37% grade 3) and leukopenia (17%
+grade 2 and 3% grade 3); no Grade 4 hematologic toxicity was observed.[8]
+The combination of decitabine and pegylated interferon was rationally selected for clinical
+study based on preclinical data showing synergistic antitumor activity by combining the two
+agents. [9] In addition to mediating apoptosis by inducing direct cytotoxic mechanisms,
+interferon can enhance immune recognition of tumor cells by upregulating antigen-
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Plimack et al. Page 3
+presenting molecules such as the MHC family while stimulating multiple cytokine pathways
+that function to increase immune surveillance.[10,11] In preclinical in vitro studies,
+decitabine treatment led to upregulation of MHC class I antigens as well as cancer-testis
+antigens (CTAs). [12] Examples of CTAs that are upregulated by decitabine are the MAGE
+family, GAGE 1–6, NY-ESO-1, RAGE-1, and SSX. Our central hypothesis was that
+combination therapy with decitabine and interferon would enhance tumor cell death through
+two distinct pathways. First, decitabine would increase tumor antigenicity and enhance
+interferon-induced immune activation to trigger more efficient immune-mediated cell death.
+Second, decitabine would synergize with interferon, through upregulation of interferon-
+stimulated genes, to induce apoptosis through a direct cytotoxic mechanism. We proposed
+that these dual modes of attack would result in consequent durable clinical benefit in
+patients with advanced melanoma.
+PATIENTS AND METHODS
+Patient Selection
+We designed this phase I trial to test the primary objectives of safety and tolerability of the
+combination of decitabine and pegylated interferon and to find the maximum tolerated dose
+(MTD) of this combination in patients with advanced melanoma. We also sought to
+characterize antitumor activity and changes in global methylation and T-cell subsets as a
+result of this combination therapy. Patients eligible for this study were required to have
+pathologically confirmed, unresectable stage III or stage IV malignant melanoma. Prior
+therapy was limited to one prior cytotoxic regimen. Measurable disease as defined by
+RECIST 1.0 was required. Other key inclusion criteria included age > 18 years, ECOG
+performance status 0 or 1, and adequate organ and marrow function defined by absolute
+neutrophil count > 1500 uL, platelets > 100,000 uL, creatinine (serum) < 2.0 mg/dL, total
+bilirubin < 1.5 mg/dL, and AST/ALT < 2.5 × institutional upper limit of normal. Key
+exclusion criteria included active autoimmune disorders, previous treatment with adjuvant
+high-dose interferon, and known brain metastases.
+Study Design
+This study consisted of a Phase I dose escalation part, followed by a Phase II randomized
+part. In Phase I, decitabine and pegylated interferon were administered in a modified 3 + 3
+design to determine the admissible doses. Decitabine was given intravenously over 1 hour
+daily for 5 days, on days 1–5 during a 28-day treatment cycle, and pegylated interferon was
+given by subcutaneous injection once weekly during the same cycle (Figure 1). Blood
+samples were obtained on days 1 and 5 of cycles 1 and 2 and analyzed for changes in
+methylation and T-cell subsets as outlined below. Doses were escalated according to
+standard 3 + 3 dose escalation criteria to establish admissible dose levels, defined as any
+dose level where 0/3 or 1/6 patients experienced DLT during cycle 1. The novel design of
+this study allowed for testing of two cohorts simultaneously. In this study, if 1 out of 3
+patients experienced a DLT at dose level 1, 3 more patients were assigned to dose level 1. If
+1/6 of those patients had DLT, then dose levels 2 and 3 were opened for testing. If 2/6
+patients experienced DLT, then dose level 1 was considered toxic and dose level -1 was
+opened for testing. If 0/3 experienced DLT, then doses 2 and 3 were opened for testing. In a
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Plimack et al. Page 4
+similar fashion, dose 5 was opened after dose 3 was admissible; dose 4 was opened after
+both doses 2 and 3 were admissible; and dose 6 was opened after both doses 4 and 5 were
+admissible. After the admissible dose levels were defined in the Phase I part of the study,
+patients were to be randomized to these levels adaptively in Phase II. However, only one
+patient had been randomized when decision was made to close the study due to lack of
+observed responses. DLT was defined as one or more of the following using the NCI
+Common Toxicity Criteria (CTC) Version 3.0 grading system: any grade 3 or 4
+nonhematologic toxicity regardless of duration except grade 3 nausea or vomiting without
+maximal antiemetic therapy and grade 3 diarrhea without adequate loperamide therapy;
+grade 4 thrombocytopenia; grade 4 neutropenia lasting > 2 weeks or associated infection;
+any toxicity that results in treatment delay of >4 weeks. Due to concern regarding toxicity in
+cohort 1, the protocol was amended to add a cohort at dose level −1. Dose levels are listed in
+Table 1.
+Pretreatment and follow-up studies
+CBC and serum chemistry studies were monitored prior to each decitabine treatment.
+Patients were imaged with CT scan and disease response assessments per RECIST 1.0
+performed at week 12 of therapy and every 8 weeks thereafter. Patients were given
+supportive care with antiemetics. No steroids or hematopoietic growth factors were used out
+of concern that these would undermine the effects of the study therapy. Treatment was
+continued until disease progression, DLT, withdrawal of consent for study treatment or
+intercurrent illness.
+PBMC collection and processing
+Blood specimens (60 mL; 6 × 10 mL heparizined tubes) were taken for PBMC isolation and
+T-cell number determination. Samples were collected using standard techniques for “Green
+Top” Vaccutainer™ blood collection tubes. Peripheral blood mononuclear cells (PBMC)
+were isolated using Ficoll-Hypaque gradient, resuspended in AB serum with 10% DMSO,
+frozen at −80 degrees Celsius overnight, and then transferred to liquid nitrogen. For
+analysis, PBMC were removed from liquid nitrogen and thawed in a 37-degree Celsius
+water bath. Thereafter, cells were washed with 20 mL of complete medium (RPMI 1640
+plus 10% AB serum), centrifuged at 1,500 rpm for 10 minutes, and suspended in complete
+medium.
+DNA methylation analysis
+DNA extracted from PBMC was treated with bisulfite, as follows. Two micrograms of
+genomic DNA were denatured by 0.2 mol/L NaOH at 37°C for 10 minutes followed by
+incubation with freshly prepared 30 µL of 10 mmol/L hydroquinone and 520 µL of 3 mol/L
+sodium bisulfite (pH 5.0) at 50°C for 16 hours. DNA was purified with a Wizard Miniprep
+Column (Promega, Madison, WI), desulfonated with 0.3 mol/L NaOH at 25°C for 5
+minutes, precipitated with ammonium acetate and ethanol, and dissolved in 50 µL of TE
+buffer (Tris-HCl 10 mmol/L, EDTA 1 mmol/L, pH 8.0). Bisulfite-treated DNA (40–80 ng)
+was amplified with primers specific for the LINE-1 repetitive element, forward 5'-
+TTTTGAGTTAGGTGTGGGATATA and reverse primer 5’-biotin-
+AAAATCAAAAAATTCCCTTTC. PCR conditions were as follows: initial denaturation
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Plimack et al. Page 5
+95°C for 5 minutes, then 40 cycles (94°C/15 seconds, 56°C for 30 seconds, 72°C for 30
+seconds), final extension at 72°C for 5 minutes. Each PCR was performed in a total volume
+of 20 µL of 67 mmol/L Tris-HCl (pH=8.8), 16 mmol/L ammonium sulfate, 2 mmol/L
+MgCl , 0.125 mmol/L dNTPs, 1 unit of Taq polymerase, and 100 nmol/L PCR primers. We
+2
+measured levels of DNA methylation as the percentage of bisulfite-resistant cytosines at
+CpG sites by pyrosequencing with the PSQ HS 96 Pyrosequencing System (Biotage,
+Charlottesville, VA), Pyro Gold CDT Reagents (Biotage) and the sequencing primer 5'-
+AGTTAGGTGTGGGATATAGT.
+Flow Cytometric Analysis
+Multi-parameter flow cytometry analysis of different cell subsets was performed using
+PBMC from patients at baseline and at cycle 3. Cells were stained with different antibody
+panels to study different lymphocyte populations. To study T regulatory (Treg) cells we
+used the following panel: CD3-AmCyan, Foxp3-efluor450 (eBioscience, CA), CD127-
+FITC, ICOS-PE (eBioscience, CA), CD4-PerCP-Cy5.5, CD39-APC, CD25-PE-Cy7 and
+CD8-APC-H7. For the proliferation panel we stained for CD3-AmCyan, Foxp3-efluor450,
+KI-67-Alexa Fluor 488, ICOS-PE, CD4-PerCP-Cy5.5, CD39-APC, CD25-PE-Cy7 and
+CD8-APC-H7. The frequencies of the different populations were translated into cell
+numbers (# cells/µl of blood) using Absolute Lymphocyte Counts (ALC). All antibodies are
+from BD Biosciences, unless otherwise indicated. The acquisition was carried out on a
+FACS Canto II flow cytometer (BD Biosciences, CA). All analysis was done with the
+software FlowJo (Tree Star, OR).
+Statistical Analysis
+The method of Kaplan and Meier was used to estimate the distribution of progression-free
+survival from the start of the study. Spearman rank correlation methods were used to assess
+the association between continuous variables. No adjustment was made for the multiplicity
+of testing.
+RESULTS
+Patient Demographics and Treatment
+Patient demographics are summarized in Table 2. A total of 17 patients were enrolled in this
+study. Nine had received prior chemotherapy, nine had prior immunotherapy, and five had
+prior radiation therapy, with some patients receiving multiple therapies. Seven patients had
+no prior systemic therapy. All 17 patients received a cumulative total of 40 cycles of
+decitabine/PEG-IFN. The median number of completed cycles was 3 (range 0–6).
+Toxicity
+The first cohort of three patients was treated at dose level 1. One patient in this group
+developed fever and infection after day 2 of study treatment and was withdrawn from the
+study. Initially this was felt to be possibly treatment-related, hence dose level 1 was closed
+and dose level −1 added and opened. The attribution of the infection was later revised to
+unlikely related; this patient was determined to be inevaluable, and was replaced with a new
+patient at dose level 1. When there were no DLTs at dose levels 1 or −1, dose levels 2 and 3
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Plimack et al. Page 6
+opened concurrently as per study design. Three patients experienced dose-limiting toxicities
+at levels 2 and 3. At dose level 2, one patient had a pulmonary embolism that prevented
+progression to the next cycle of therapy. Before the pulmonary embolism, the patient had
+grade 2 leukopenia, thrombocytopenia and neutropenia. At dose level 3, one patient
+developed an intracranial hemorrhage on day 11 of cycle 1 consistent with DLT. This
+patient had fevers and failure to thrive and was found to have a urinary tract infection. He
+consequently had altered mental status and a CT scan showed hydrocephalus and
+hemorrhaging in the third and fourth ventricles and no metastases in the brain. A third
+patient had DLT in dose level 3 on day 15 of cycle 1 with grade 4 thrombocytopenia, grade
+3 leukopenia, and grade 2 anemia that was treated with transfusion of 6 units of platelets and
+2 units of packed red blood cells. On day 20, the thrombocytopenia was grade 2 and
+neutropenia grade 4 treated with one dose of pegfilgrastim. The patient was subsequently
+dose reduced for myelosuppression.
+Most of the patients on the study developed myelosuppression while on treatment. Two
+patients had grade 3 anemia in cycle 1. Six patients had grade 3 or grade 4 neutropenia
+develop during cycle 1, and an additional two patients developed grade 3 neutropenia in
+later cycles. The decreases in absolute lymphocytes and absolute neutrophils are depicted in
+Figures 2 and 3, respectively. Four patients had grade 3 or grade 4 thrombocytopenia in
+cycle 1. An additional patient developed grade 4 thrombocytopenia in cycle 3.
+Response and Survival
+Of the 17 patients treated in this study, one had stable disease at first response assessment
+imaging at 12 weeks. The other 16 patients progressed either at or prior to first imaging at
+12 weeks. No objective responses were seen. The median progression-free survival (PFS)
+was 12 weeks, ranging from 2 weeks to 37 weeks. The median overall survival was 39
+weeks, ranging from 5 weeks to 110+ weeks (Figure 4). One patient who was found to have
+progression at 12 weeks was still alive at the time of data cutoff, having received subsequent
+treatment with talimogene laherparepvec (T-VEC), an oncolytic virus. One patient
+developed brain metastasis after 4 weeks of study treatment. Six additional patients were
+found to have brain metastases at the time of the 12-week restaging scan.
+Methylation
+LINE-1 Methylation was measured in PBMCs as outlined above and previously described,
+providing an estimate of global methylation.[13] Hypomethylation ranging from 0.3% –
+9.9% at day 5 was seen in 14/15 patients for whom data is available. As shown in Figure 5,
+hypomethylation between days 1 and 5 was seen during both cycle 1 and cycle 3 and at all
+dose levels, consistent with pharmacodynamic effect of decitabine. There was no correlation
+between percent hypomethylation and dose level, decitabine dose, or number of cycles
+completed.
+T-cell Populations
+To test the hypothesis that decitabine and interferon would result in a shift in T-cell
+populations from regulatory to effector, T-cell subsets were measured. Unfortunately, due to
+the marked decline in all leukocytes (leukopenia) as a result of study therapy, the absolute
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Plimack et al. Page 7
+differences in T-cell populations post-treatment were too small to be meaningfully
+interpreted.
+Discussion
+This study tested the safety and tolerability of the combination of decitabine and PEG-IFN
+in patients with advanced melanoma. The treatment was notable for significant declines in
+lymphocytes and neutrophils as a result of treatment (Figures 2 and 3). The significant
+hematological toxicity combined with lack of efficacy led to the decision to terminate the
+study after the dose-finding portion was completed; hence, the planned phase II portion of
+the study was not conducted.
+It is likely that our inability to reproduce in the clinic the efficacy of this combination seen
+in cell lines and xenografts resulted from the fact that these preclinical models do not reflect
+the clinical setting due to the lack of functioning lymphocytes in vitro and in the nude mouse
+models.[9] In clinical use, any potential benefit that decitabine may have had via increased
+expression of cancer antigens was likely offset by the depletion of lymphocytes as a result of
+therapy, eliminating the interaction required for immune-mediated cytotoxicity. Since the
+initiation of our study, further data have emerged, suggesting that decitabine may upregulate
+regulator T-cell activity by decreasing promoter methylation of Foxp3.[14] Thus, increased
+regulatory T-cell activity represents another potential explanation of our failure to see
+clinical benefit with this combination.
+We chose to administer decitabine and PEG-IFN concurrently in this trial, based on
+evidence from clinical trials in both solid tumors and leukemia that decreases in LINE-1
+methylation in response to decitabine were short-lived, returning to baseline levels within a
+few weeks.[15,16] Our goal was to treat with PEG-IFN during the methylation nadir,
+presuming that any antigen upregulation as a result of hypomethylation would peak at that
+time. However, newer evidence has emerged suggesting that sequential administration may
+be preferable.[17] Triozzi et al showed that decitabine in combination with IL-2 in immune-
+competent melanoma xenograft models yielded tumor responses when given in sequence,
+but not concurrently.
+While no evidence of response or clinical benefit with decitabine and PEG-IFN was seen
+while patients were on study, several patients derived benefit from subsequent therapies,
+with one patient still alive at last follow-up. While this is likely a reflection of patients
+receiving more active subsequent treatments such as BRAF and PD-1 inhibitors and other
+novel therapies, it is possible that priming with a hypomethylating agent potentiates
+responses to additional conventional and investigational therapies. Such a “memory”
+phenomenon was seen in patients with lung cancer treated with low-dose azacitadine and
+entinostat who, after progressing on study therapy, demonstrated a longer-than-expected
+duration of disease control on subsequent cytotoxic therapy.[18] One proposed mechanism
+for this is that prolonged low-dose treatment with hypomethylating agents can lead to
+sustained alteration in signaling pathways involved in tumorigenesis, rendering the tumor
+cells more sensitive to conventional cytotoxic chemotherapy and potentially immunotherapy
+as well.[19] These emerging data underscore the value of further clinical trials sequencing
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Plimack et al. Page 8
+epigenetic therapy and cytotoxic chemotherapy or immunotherapy in melanoma and other
+solid tumors.
+Acknowledgments
+Dr. Plimack has received research funding from Merck. Dr. Issa has received research funding from Merck and
+honoraria from Eisai. Dr. Hwu has received research funding from Merck and served as Advisory Board consultant
+for Merck.
+REFERENCES
+1. Siegel R, DeSantis C, Virgo K, Stein K, Mariotto A, Smith T, Cooper D, Gansler T, Lerro C,
+Fedewa S, Lin C, Leach C, Cannady RS, Cho H, Scoppa S, Hachey M, Kirch R, Jemal A, Ward E.
+Cancer treatment and survivorship statistics, 2012. CA Cancer J Clin. 2012; 62(4):220–241.
+[PubMed: 22700443]
+2. Hu W, Jin L, Jiang CC, Long GV, Scolyer RA, Wu Q, Zhang XD, Mei Y, Wu M. AEBP1
+upregulation confers acquired resistance to BRAF (V600E) inhibition in melanoma. Cell death &
+disease. 2013; 4:e914. [PubMed: 24201813]
+3. Robert C, Thomas L, Bondarenko I, O'Day S, M DJ, Garbe C, Lebbe C, Baurain JF, Testori A, Grob
+JJ, Davidson N, Richards J, Maio M, Hauschild A, Miller WH Jr, Gascon P, Lotem M, Harmankaya
+K, Ibrahim R, Francis S, Chen TT, Humphrey R, Hoos A, Wolchok JD. Ipilimumab plus
+dacarbazine for previously untreated metastatic melanoma. The New England journal of medicine.
+2011; 364(26):2517–2526. [PubMed: 21639810]
+4. Merkel DG, Nagler A. The role of hypomethylating agents in myelodysplastic syndrome: changing
+the management paradigm. Expert review of hematology. 2013
+5. Abele R, Clavel M, Dodion P, Bruntsch U, Gundersen S, Smyth J, Renard J, van Glabbeke M,
+Pinedo HM. The EORTC Early Clinical Trials Cooperative Group experience with 5-aza-2'-
+deoxycytidine (NSC 127716) in patients with colo-rectal, head and neck, renal carcinomas and
+malignant melanomas. European journal of cancer & clinical oncology. 1987; 23(12):1921–1924.
+[PubMed: 2449354]
+6. Tawbi HA. Safety and efficacy of decitabine in combination with temozolomide in metastatic
+melanoma: a phase I/II study and pharmacokinetic analysis. Annals of Oncology. 2013; 24(4):8.
+7. Dummer R, Garbe C, Thompson JA, Eggermont AM, Yoo K, Maier T, Bergstrom B. Randomized
+dose-escalation study evaluating peginterferon alfa-2a in patients with metastatic malignant
+melanoma. J Clin Oncol. 2006; 24(7):1188–1194. [PubMed: 16505439]
+8. Guillot B, Khamari A, Cupissol D, Delaunay M, Bedane C, Dreno B, Picot MC, Dereure O.
+Temozolomide associated with PEG-interferon in patients with metastatic melanoma: a multicenter
+prospective phase I/II study. Melanoma research. 2008; 18(2):141–146. [PubMed: 18337651]
+9. Reu FJ, Bae SI, Cherkassky L, Leaman DW, Lindner D, Beaulieu N, MacLeod AR, Borden EC.
+Overcoming resistance to interferon-induced apoptosis of renal carcinoma and melanoma cells by
+DNA demethylation. Journal of clinical oncology : official journal of the American Society of
+Clinical Oncology. 2006; 24(23):3771–3779. [PubMed: 16801630]
+10. Jonasch E, Haluska FG. Interferon in oncological practice: review of interferon biology, clinical
+applications, and toxicities. Oncologist. 2001; 6(1):34–55. [PubMed: 11161227]
+11. Slaton JW, Perrotte P, Inoue K, Dinney CP, Fidler IJ. Interferon-alpha-mediated down-regulation
+of angiogenesis-related genes and therapy of bladder cancer are dependent on optimization of
+biological dose and schedule. Clin Cancer Res. 1999; 5(10):2726–2734. [PubMed: 10537335]
+12. Fonsatti E, Nicolay HJ, Sigalotti L, Calabro L, Pezzani L, Colizzi F, Altomonte M, Guidoboni M,
+Marincola FM, Maio M. Functional up-regulation of human leukocyte antigen class I antigens
+expression by 5-aza-2'-deoxycytidine in cutaneous melanoma: immunotherapeutic implications.
+Clinical cancer research : an official journal of the American Association for Cancer Research.
+2007; 13(11):3333–3338. [PubMed: 17545540]
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Plimack et al. Page 9
+13. Yang AS, Estecio MR, Doshi K, Kondo Y, Tajara EH, Issa JP. A simple method for estimating
+global DNA methylation using bisulfite PCR of repetitive DNA elements. Nucleic Acids Res.
+2004; 32(3):e38. [PubMed: 14973332]
+14. Lal G, Zhang N, van der Touw W, Ding Y, Ju W, Bottinger EP, Reid SP, Levy DE, Bromberg JS.
+Epigenetic Regulation of Foxp3 Expression in Regulatory T Cells by DNA Methylation. The
+Journal of Immunology. 2009; 182(1):259–273. [PubMed: 19109157]
+15. Kantarjian H, Oki Y, Garcia-Manero G, Huang X, O'Brien S, Cortes J, Faderl S, Bueso-Ramos C,
+Ravandi F, Estrov Z, Ferrajoli A, Wierda W, Shan J, Davis J, Giles F, Saba HI, Issa JP. Results of
+a randomized study of three schedules of low-dose decitabine in higher risk myelodysplastic
+syndrome and chronic myelomonocytic leukemia. Blood. 2006
+16. Stewart DJ, Issa JP, Kurzrock R, Nunez MI, Jelinek J, Hong D, Oki Y, Guo Z, Gupta S, Wistuba
+II. Decitabine effect on tumor global DNA methylation and other parameters in a phase I trial in
+refractory solid tumors and lymphomas. Clin Cancer Res. 2009; 15(11):3881–3888. [PubMed:
+19470736]
+17. Triozzi P, Aldrich W, Achberger S, Ponnazhagan S, Alcazar O, Saunthararajah Y. Differential
+effects of low-dose decitabine on immune effector and suppressor responses in melanoma-bearing
+mice. Cancer Immunology, Immunotherapy. 2012; 61(9):1441–1450. [PubMed: 22310929]
+18. Juergens RA, Wrangle J, Vendetti FP, Murphy SC, Zhao M, Coleman B, Sebree R, Rodgers K,
+Hooker CM, Franco N, Lee B, Tsai S, Delgado IE, Rudek MA, Belinsky SA, Herman JG, Baylin
+SB, Brock MV, Rudin CM. Combination Epigenetic Therapy Has Efficacy in Patients with
+Refractory Advanced Non–Small Cell Lung Cancer. Cancer Discovery. 2011
+19. Tsai H-C, Li H, Van Neste L, Cai Y, Robert C, Rassool Feyruz V, Shin James J, Harbom Kirsten
+M, Beaty R, Pappou E, Harris J, Yen R-Whay C, Ahuja N, Brock Malcolm V, Stearns V, Feller-
+Kopman D, Yarmus Lonny B, Lin Y-C, Welm Alana L, Issa J-P, Minn I, Matsui W, Jang Y-Y,
+Sharkis Saul J, Baylin Stephen B, Zahnow Cynthia A. Transient Low Doses of DNA-
+Demethylating Agents Exert Durable Antitumor Effects on Hematological and Epithelial Tumor
+Cells. Cancer Cell. 2012; 21(3):430–446. doi:http://dx.doi.org/10.1016/j.ccr.2011.12.029.
+[PubMed: 22439938]
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Plimack et al. Page 10
+Figure 1.
+Treatment Schema
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Plimack et al. Page 11
+Figure 2.
+Treatment-related decreases in Absolute Lymphocyte Count (ALC) from cycle 1 day 1 to
+cycle 3 day 5.
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Plimack et al. Page 12
+Figure 3.
+Treatment-related Decreases in Absolute Neutrophil Count (ANC) from cycle 1 day 1 to
+cycle 1 day 15.
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+Plimack et al. Page 13
+Figure 4.
+Progression free survival and overall survival.
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 14 ---
+Plimack et al. Page 14
+Figure 5.
+LINE-1 methylation in PBMCs
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Plimack et al. Page 15
+Table 1
+Phase I Dose Levels
+Dose Level Dose of Decitabine Dose of Pegylated
+(days 1–5 every 28 days) Interferon α-2b
+(subcutaneous weekly)
+−1 5 mg/m2/day 1.5 µg/kg
+1 10 mg/m2/day 3 µg/kg
+2 15 mg/m2/day 3 µg/kg
+3 10 mg/m2/day 4.5 µg/kg
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Plimack et al. Page 16
+Table 2
+Patient Demographics
+No of
+Patients
+Demographic or Clinical Characteristic (N = 17)
+Age (years)
+Median 65
+Range 45–74
+Gender
+Male 12
+Female 5
+Prior therapies
+Chemotherapy 9
+Immunotherapy 9
+Radiation therapy 5
+No prior systemic therapy 7
+Treated at Dose Level
+−1 5
+1 4
+2 3
+3 5
+Invest New Drugs. Author manuscript; available in PMC 2015 October 01.

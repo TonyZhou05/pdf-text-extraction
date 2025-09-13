@@ -1,0 +1,786 @@
+Source: 24114121.pdf
+Extracted on: Fri Sep 12 23:55:19 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+Published in final edited form as:
+Invest New Drugs. 2013 December ; 31(6): 1539–1546. doi:10.1007/s10637-013-0029-6.
+A Phase I Study of Vorinostat in Combination with Bortezomib in
+Patients with Advanced Malignancies
+William R. Schelman1,*, Anne M. Traynor1, Kyle D. Holen1, Jill M. Kolesar1, Steven Attia1,
+Tien Hoang1, Jens Eickhoff1, Zhisheng Jiang1, Dona Alberti1, Rebecca Marnocha1, Joel M.
+Reid3, Matthew M. Ames3, Renee M. McGovern3, Igor Espinoza-Delgado2, John J. Wright2,
+George Wilding1, and Howard H. Bailey1
+1University of Wisconsin Carbone Cancer Center, Madison, WI
+2Clinical Treatment Evaluation Program, National Cancer Institute, Bethesda, MD
+3Mayo Clinic Cancer Center, Rochester, MN
+Abstract
+Background—A phase I study to assess the maximum-tolerated dose (MTD), dose-limiting
+toxicity (DLT), pharmacokinetics (PK) and antitumor activity of vorinostat in combination with
+bortezomib in patients with advanced solid tumors.
+Methods—Patients received vorinostat orally once daily on days 1–14 and bortezomib
+intravenously on days 1, 4, 8 and 11 of a 21-day cycle. Starting dose (level 1) was vorinostat (400
+mg) and bortezomib (0.7 mg/m2). Bortezomib dosing was increased using a standard phase I dose-
+escalation schema. PKs were evaluated during cycle 1.
+Results—Twenty-three patients received 57 cycles of treatment on four dose levels ranging from
+bortezomib 0.7 mg/m2 to 1.5 mg/m2. The MTD was established at vorinostat 400 mg daily and
+bortezomib 1.3 mg/m2. DLTs consisted of grade 3 fatigue in three patients (1 mg/m2,1.3 mg/m2
+and 1.5 mg/m2) and grade 3 hyponatremia in one patient (1.5 mg/m2). The most common grade
+1/2 toxicities included nausea (60.9%), fatigue (34.8%), diaphoresis (34.8%), anorexia (30.4%)
+and constipation (26.1%). Objective partial responses were observed in one patient with NSCLC
+and in one patient with treatment-refractory soft tissue sarcoma. Bortezomib did not affect the PKs
+of vorinostat; however, the Cmax and AUC of the acid metabolite were significantly increased on
+day 2 compared with day 1.
+Conclusions—This combination was generally well-tolerated at doses that achieved clinical
+benefit. The MTD was established at vorinostat 400 mg daily x 14 days and bortezomib 1.3 mg/
+m2 on days 1, 4, 8 and 11 of a 21-day cycle.
+Keywords
+SAHA; vorinostat; PS-341; bortezomib; phase I
+INTRODUCTION
+Histone deacetylation plays a key role in the epigenetic regulation of gene expression and
+has been implicated in the development and progression of cancer. Gene expression is
+*Corresponding author and address for reprint requests, University of Wisconsin Carbone Cancer Center, 600 Highland Avenue,
+K6/568 CSC, Madison, WI 53792, Phone (608) 262-5092, Fax (608) 263-9132; wrs@medicine.wisc.edu.
+Disclosures No potential conflicts of interest were disclosed by the other authors.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Schelman et al. Page 2
+influenced by chromatin structure. DNA that is wrapped around condensed, non-acetylated
+histones is transcriptionally inactive, whereas acetylation of N-terminal histone lysine
+residues exposes DNA to important transcription factors that promote transcriptional activity
+(1, 2). The dynamic equilibrium between histone acetylation and deacetylation is regulated
+by histone acetyltransferases (HATs) and histone deacetylases (HDACs). HATs promote
+transcriptional activity by catalyzing the acetylation of N-terminal histone lysine residues (1,
+2), while HDAC activity results in chromatin condensation and silencing of various genes,
+including those involved in cell survival, proliferation, differentiation, and apoptosis (3). In
+tumor cells, HDACs also target many non-histone proteins such as tumor suppressor genes
+and proteins that control proliferation, migration, death and angiogenesis (4) and provide a
+unique mechanistic approach for anti-cancer therapy.
+Vorinostat (suberoylanilide hydroxamic acid (SAHA) or MK-0683, Zolinza®, Merck,
+Whitehouse Station, NJ) is a small molecule inhibitor of class I and II HDAC enzymes that
+promotes cell cycle arrest and apoptosis in a wide variety of human hematopoietic cells (4–
+11) and carcinoma cell lines (12–17). Clinical activity has been observed in a number of
+hematologic tumors, and vorinostat is currently approved by the Food and Drug
+Administrations (FDA) for use in patients with refractory cutaneous T-cell lymphoma (18).
+Bortezomib (Velcade, PS-341, Millennium, Cambridge, MA) is a modified dipeptidyl
+boronic acid that reversibly inhibits the 26S proteasome, a large protease complex that
+degrades ubiquinated proteins. Altered degradation of transcription factors and cell cycle
+control proteins can result in uncontrolled cell division that promotes cancer growth and
+spread. Inhibition of targeted proteolysis with bortezomib increases turnover of proteins
+involved in cell cycle progression and survival, including the p21 cyclin-dependent kinase
+inhibitor, cyclins and NF-κB, resulting in cell cycle arrest, apoptosis, and inhibition of
+angiogenesis (19). In addition, bortezomib causes the sequestration of ubiquitin-conjugated
+proteins into aggresomes in pancreatic cells (20), which may participate in a cytoprotective
+response by shuttling ubiquitinated proteins to lysosomes for degradation (21). In vivo,
+bortezomib delays tumor growth and enhances the cytotoxic effects of radiation and
+chemotherapy (22). Bortezomib is currently FDA approved for use in multiple myeloma and
+mantle cell lymphoma, and activity has also been seen in solid tumors (23, 24).
+Accumulating evidence suggests that HDAC inhibitors and proteasome inhibitors may act
+synergistically in malignancies. In cultured retinoblastoma cells, treatment with sodium
+butyrate, an HDAC inhibitor, increased 26S proteasome activity and decreased p53, N-myc
+and IκBα protein levels (25). Addition of the proteasome inhibitor, MG132, potentiated the
+apoptotic effect of sodium butyrate, possibly by blunting the effects on p53, N-myc and
+IκBα levels and increasing Bax expression (25). Similar findings were observed when
+vorinostat or sodium butyrate was combined with bortezomib in leukemia cell lines where a
+pronounced increase in mitochondrial injury, caspase activation, PARP degradation and
+reactive oxygen species (ROS) production was observed (26). More recent studies suggest
+that HDAC inhibitors may disrupt the aggresome formation induced by proteasome
+inhibitors, resulting in enhanced endoplasmic reticulum stress and apoptosis (20). Consistent
+with these findings, synergistic activity between HDAC and proteasome inhibitors has been
+observed in vitro in multiple myeloma (27), pancreatic cancer (20), lung cancer (28),
+hepatocellular carcinoma (29) and colon cancer cell lines (30, 31). The combination of a
+histone deacetylase inhibitor with a proteasome inhibitor represents a novel, molecularly
+targeted combination with non-overlapping toxicities that has strong preclinical support.
+Based on preclinical data supporting synergistic activity between HDAC inhibitors and
+proteasome inhibitors, a phase I study was conducted to determine the safety and tolerability
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Schelman et al. Page 3
+of vorinostat in combination with bortezomib in patients with refractory solid tumors. In
+addition, pharmacokinetic (PK) analyses were performed.
+MATERIALS AND METHODS
+Patient Selection
+Eligible patients had a histologically documented, advanced solid malignancy refractory to
+standard therapy or for which no curative therapy existed. Other inclusion criteria included:
+age ≥ 18 years; Eastern Cooperative Oncology Group performance status 0 to 2; adequate
+hematologic, hepatic and renal functions (WBC ≥ 3,000/μl, absolute neutrophil count ≥
+1,500/μl, platelets ≥ 100,000/μl, total bilirubin within institutional normal limit, AST/ALT ≤
+2.5 x the institutional upper limit of normal, creatinine ≤ 1.5 mg/dl or creatinine clearance ≥
+60 ml/min/1.73m2 for patients with creatinine levels above institutional normal); and life
+expectancy greater than 12 weeks.
+Exclusion criteria included untreated brain metastasis; chemotherapy or radiation therapy
+within 4 weeks; history of myocardial infarction; severe pulmonary disease requiring
+oxygen supplementation; active infection; and any serious concomitant conditions that
+would place the patient at excessive or unacceptable risk of toxicity. Patients were required
+to practice effective birth control.
+Patients provided written informed consent. The protocol was approved by the Health
+Sciences Institutional Review Board at the University of Wisconsin-Madison.
+Study Design and Patient Evaluation
+This was a phase I, dose-escalation trial. A fixed dose of vorinostat (400 mg) was
+administered orally on days 1–14. During cycle 1, increasing doses of bortezomib were
+administered as an IV bolus on days 2, 5, 9 and 12 to evaluate vorinostat pharmacokinetics
+alone and in combination with bortezomib. In all subsequent cycles, bortezomib was
+administered on days 1, 4, 8 and 11. Cycle length was 21 days. Four dose levels of
+bortezomib were evaluated: 0.7, 1, 1.3 and 1.5 mg/m2. No intra-patient dose escalation
+occurred. Dose escalation of bortezomib followed the standard 3 + 3 rule. The MTD was
+defined as the highest safely tolerated dose at which no more than one patient out of six
+experienced dose-limiting toxicity, with the next higher dose having at least two out of six
+patients experience dose DLT.
+Adverse events were evaluated using the National Cancer Institute Common Terminology
+Criteria for Adverse Events (CTCAE), v3.0. DLTs were defined as one of the following
+adverse events occurring during the first cycle: absolute neutrophil count ≤ 500 for ≥ 7 days;
+febrile neutropenia or ≥ grade 3 neutropenic infection; platelets ≤ 25,000 or
+thrombocytopenic bleeding; nonhematologic toxicity ≥ grade 3 except nausea, vomiting, or
+diarrhea associated with suboptimal premedication and/or management; AST/ALT
+elevations ≥ grade 3 or higher for > 7 days; toxicity leading to two or more missed doses per
+cycle; and toxicity resulting in the delay of the subsequent cycle by > 7 days. Response was
+assessed using the Response and Evaluation Criteria in Solid Tumors (RECIST) (Appendix
+A1, online only).
+Dose Modification
+For dose-escalation to occur, three assessable patients had to complete their first cycle
+without DLT. With each DLT, three additional patients were accrued, and further escalation
+could occur if no more DLTs were observed. Patients who experienced DLT were delayed
+by 1-week intervals until recovery and then allowed to continue on study with dose
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Schelman et al. Page 4
+reduction in either vorinostat or bortezomib. Patients were removed from study following a
+delay of more than 2 weeks for recovery from toxicity related to treatment. In addition,
+patients were required to have an absolute neutrophil count ≥ 1000/mm3 and a platelet count
+≥ 50,000/mm3 on day 8 of each cycle.
+Pretreatment and Follow-up Studies
+History, physical examination, weight, estimation of ECOG performance status, and
+laboratory studies were obtained at baseline and at the beginning of subsequent cycle. Serum
+pregnancy testing for women of childbearing age and an EKG were obtained at baseline.
+Patients who completed at least one cycle followed by 2 weeks of observation were
+considered evaluable for toxicity. Baseline imaging was performed within 28 days prior to
+the start of treatment, and all tumor assessments were re-evaluated every 6 weeks thereafter.
+All patients with responding tumors (CR and PR) were required to have response confirmed
+4 weeks after the first documented response.
+Duration of Treatment
+Study treatment continued until disease progression, unacceptable adverse event, withdrawn
+consent, or changes in the patient's condition including intercurrent illness rendering the
+continuation of study treatment unacceptable.
+Pharmacokinetic Analysis
+Blood samples for vorinostat PK analysis were collected on cycle 1, day 1, in the absence of
+bortezomib, and on and days 2 and 12, with bortezomib. PK sampling was performed before
+and 0.25, 0.5, 0.75, 1, 2, 4, 6, and 8 hours following vorinostat administration.
+Concentrations of vorinostat and its metabolites (vorinostat glucuronide and 4-anilino-4-
+oxobutanoic acid) were quantitated with a liquid chromatography-electrospray ionization
+tandem mass spectrometric method as previously described (32).
+Statistical Methods
+The primary outcome measure of this study was assessment of toxicity. The number and
+severity of toxicity incidents determined the level of tolerance for vorinostat and bortezomib
+and were categorization via CTC standard toxicity grading. The number of treatment anti-
+tumor responses served as the secondary outcome measure and were summarized by simple
+descriptive summary statistics delineating complete and partial responses as well as stable
+and progressive disease.
+Pharmacokinetic analysis for vorinostat and its metabolites was performed by
+noncompartmental methods using the WinNonlin program, version 5.2 (Pharsight, Cary,
+NC), and data were summarized using means ± standard deviations. The comparison of PK
+parameters between time points was performed using a non-parametric Wilcoxon sign rank
+test. The comparison of PK parameters between patients with a DLT and patients without a
+DLT was performed using a non-parametric Wilcoxon rank sum test. Statistical data
+analyses were two-sided and were performed using SAS statistical software (version 9.2,
+SAS Institute Inc, Cary, NC), and P-values <0.05 were considered significant.
+RESULTS
+Patient Characteristics
+Twenty-three patients were enrolled and received a total of 57 cycles of therapy (median, 2;
+range 1 to 6). Demographics and pretreatment characteristics are shown in Table 1. One
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Schelman et al. Page 5
+patient at level 2 was unevaluable, but all patients were included in the safety analysis. The
+dose escalation schema and the number of PK dosing days are listed in Table 2.
+Dose Escalation and Toxicity
+Four dose levels ranging from bortezomib 0.7 to 1.5 mg/m2 with a fixed dose (400 mg) of
+vorinostat were evaluated (Table 2). The most common toxicities are shown in Table 3. No
+DLTs were observed at the first dose level. At dose level 2 (bortezomib 1 mg/m2), one
+patient was unevaluable due to pneumonia preventing completion of cycle 1, and one patient
+experienced a DLT (grade 3 fatigue). Three additional patients were enrolled at this dose
+level without significant toxicity in cycle 1. Dose-limiting grade 3 fatigue occurred during
+cycle 1 in the first person enrolled at dose level 3 (bortezomib 1.3 mg/m2). This dose level
+was expanded to six patients without further DLTs. Two of three patients enrolled at dose
+level 4 (bortezomib 1.5 mg/m2) experienced DLTs (grade 3 fatigue and asymptomatic grade
+3 hyponatremia). Therefore, the MTD was vorinostat 400 mg and bortezomib 1.3 mg/m2.
+Dose level 3 (the MTD) was expanded to 10 total patients in order to further characterize
+PKs and toxicity.
+Safety
+The most frequent adverse events at least possibly related to study drugs during cycle 1 are
+described in Table 3. Thrombocytopenia and anemia were the most common hematologic
+toxicities. Most hematologic events were grade 1 or 2, but grade ≥ 3 thombocytopenia was
+seen during three cycles of bortezomib at 1.3 mg/m2. Grade 1 or 2 nausea, vomiting, fatigue,
+constipation, anorexia, diaphoresis and diarrhea were the most common non-hematologic
+toxicities encountered. Few adverse events were reported at dose level 1, but toxicities
+increased in frequency and severity with escalating doses of bortezomib. Three patients (one
+at dose level 2 and two at dose level 3) reported grade 1/2 sensory neuropathy during the
+first or second cycles. Another patient at dose level 2 developed grade 2 neuropathic pain
+during cycle 6 necessitating discontinuation of therapy despite clinical benefit. Cumulative
+toxicities included low-grade nausea, fatigue and sensory neuropathy, but there did not
+appear to be an affect on myelosuppression with prolonged treatment.
+Efficacy
+Two of twenty-two evaluable patients had confirmed partial responses (PR), and one had
+evidence of stable disease (SD). One patient with metastatic high grade malignant fibrous
+histiocytoma who had multiple resections, prior radiation, and systemic therapy with
+doxorubicin, ifosfamide and VP-16 had a confirmed PR at level 2 with a 37.2% decrease in
+tumor size following 2 cycles and > 50% decrease after 6 cycles that was durable for > 12
+months. Treatment was discontinued following cycle 6 due to grade 2 neuropathic pain that
+persisted for 18 months. A second patient with previously-treated moderately-differentiated
+squamous cell carcinoma of the lung with bilateral pulmonary nodules and a right-sided
+malignant pleural effusion at dose level 3 and had a confirmed PR with resolution of a
+malignant pleural effusion and > 35% shrinkage of pulmonary nodules following 2 cycles
+which lasted 8 months. Treatment was discontinued after 4 cycles due to grade 2 fatigue. A
+patient with heavily-pretreated metastatic colorectal cancer had SD following 2 cycles but
+ultimately elected to stop treatment during cycle 4 due to worsening fatigue and sensory
+neuropathy.
+Vorinostat Pharmacokinetics
+Pharmacokinetics are presented in Table 4. Evaluation of day 1 plasma concentrations
+compared with day 2 plasma concentrations to assess the influence of bortezomib on
+vorinostat PKs showed no difference in vorinostat or its glucuronide metabolite plasma
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Schelman et al. Page 6
+concentrations between the days. However, the AUC and Cmax values for the acid moiety
+were significantly higher following administration of bortezomib on day 2 of cycle 1 (AUC:
+p < 0.05; Cmax: p < 0.05). Day 1 (vorinostat single dose) plasma concentrations were
+compared to day 12 (vorinostat steady state) plasma concentrations to assess accumulation
+with chronic dosing. Both vorinostat and its acid metabolite had significantly higher AUC
+and Cmax values on day 12 when compared to day 1, cycle 1 when vorinostat was
+administered alone (AUC: p < 0.05; Cmax: p < 0.05).
+The relationship of vorinostat plasma concentrations to toxicity was also assessed (Table 5).
+Both the vorinostat AUC and C , but not the acid or glucuronide metabolites, were
+max
+significantly higher in individuals experiencing a DLT (AUC: p < 0.05; Cmax: p < 0.05) on
+all days of treatment when compared to those subjects who did not experience DLTs.
+DISCUSSION
+This phase I study showed that vorinostat with bortezomib is well-tolerated up to standard
+doses of each agent. The MTD was established as vorinostat 400 mg PO daily on days 1–14
+and bortezomib 1.3 mg/m2 IV on days 1, 4, 8 and 11 of a 21 day cycle. Dose limiting
+toxicities included fatigue and hyponatremia. The most common grade 1/2 toxicities were
+nausea, fatigue, diaphoresis, anorexia and constipation, which is consistent with documented
+side effects of these agents in other single-agent studies (33, 34) and were not more frequent
+or severe when given in combination. The most common hematologic toxicities included
+anemia and thrombocytopenia. The grade and frequency of myelosuppression was consistent
+with observations from single agent bortezomib studies. Vorinostat has not been associated
+with significant myelosuppression, and our results do not suggest that vorinostat exacerbated
+the expected myelosuppression of bortezomib. The uncommon occurrence of sensory
+neuropathy, a DLT of bortezomib, was likely related to the minimum duration of therapy in
+this phase I study.
+While this combination was well tolerated, patients only received a mean number of two
+cycles of therapy. One patient at dose level 1 received four cycles without difficulty and was
+discontinued due to PD. Another at dose level 2 received six cycles and ultimately elected to
+stop treatment due to persistent grade 2 neuropathic pain. Two patients at dose level 3
+received four cycles. One patient elected to stop treatment due to persistent grade 2 fatigue,
+and the other patient tolerated treatment well without dose modifications and came off study
+due to PD. One patient at dose level 4 tolerated 6 cycles and came off of study with disease
+growth. Based on these results, the MTD is the recommended phase 2 dose. However, it is
+possible that more pronounced cumulative toxicities, including myelosuppression, fatigue
+and sensory neuropathy, will be observed with prolonged dosing in a different patient
+population.
+Two patients in this study had objective responses. One patient with chemotherapy-
+refractory malignant fibrous histiocytoma enrolled at level 2 had a confirmed PR following
+2 cycles, and another patient with previously-treated advanced NSCLC (squamous) enrolled
+at dose level 3 had a confirmed PR following 2 cycles lasting 8 months. While vorinostat or
+bortezomib monotherapy is efficacious in hematologic malignancies, limited clinical activity
+has been observed in solid tumors in single-agent studies. A phase II study of bortezomib in
+metastatic soft tissue sarcomas was stopped early when only one PR was observed in 21
+evaluable patients (35). Likewise, no objective antitumor activity was detected in a phase II
+study of vorinostat in refractory NSCLC (36). Our responses suggest that these agents may
+have additive or synergistic activity in solid tumors and warrant further evaluation.
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Schelman et al. Page 7
+Consistent with findings reported by Ramalingam and colleagues (37), plasma levels of
+vorinostat accumulated with chronic dosing. Interestingly, vorinostat plasma concentrations
+were statistically associated with toxicity. Both the Cmax and AUC were higher in patients
+experiencing a DLT across all days of treatment. This demonstrates that a standard dose
+results in variable plasma concentrations and suggests that individualization of vorinostat
+dosing may be helpful in decreasing toxicity. In this study, both vorinostat and bortezomib
+were administered on standard doses and schedules. An alternate dosing schedule of
+vorinostat was evaluated on a second portion of this study which is reported in an
+accompanying to determine whether treatment would be better tolerated with varying doses
+of vorinostat administered around bortezomib administration. Metabolite concentrations did
+not predict toxicity, although we only characterized the glucuronide in seven subjects and
+the sample size may not have been sufficient to identify a difference. Additionally, the
+Cmax values for the acid metabolite were significantly higher following administration of
+bortezomib on day 2, when compared to day 1 when vorinostat was administered as a single
+agent (AUC: p < 0.05; Cmax: p < 0.05, non-parametric Wilcoxon signed rank test, two-
+tailed). This can be explained by the long half-life of the acid metabolite, with mean baseline
+plasma concentration on Day 2 of 130 ± 68 ng/mL. The clinical significance of this finding
+is unclear, as plasma concentrations of the acid metabolite were not associated with toxicity.
+Based on the clinical activity observed in this study, two phase II clinical trials are currently
+being conducted using this combination, one in advanced soft tissue sarcoma and one in
+advanced NSCLC. In both studies, vorinostat and bortezomib will be administered at the
+MTD doses established in this trial. We are also expanding this phase I study in advanced
+solid tumors to evaluate an alternate dosing schedule of vorinostat given twice daily on days
+1–4 and 8–11 along with bortezomib, with the aim of further optimizing the potential
+synergistic effect of these agents while minimizing toxicity.
+Acknowledgments
+We thank the University of Wisconsin Carbone Cancer Center (UWCCC) Laboratory for Pharmacokinetics,
+Pharmacodynamics, and Pharmacogenetics for acquisition of pharmacokinetic data for this research. We also thank
+the patients who participated in this clinical trial, and the nurses and research specialist of the UWCCC Phase I
+Program for their efforts in conducting and managing this trial.
+Grant Support: UO1 CA062491, Early Clinical Trials of Anti-Cancer Agents with Phase I Emphasis, NCI; CTEP
+Translational Research Initiative, Contract; 1UL 1RR025011, Clinical and Translational Science Award, National
+Center for Research Resources, NIH; U01 CA69912, Phase I Trials of Anticancer Agents (Mayo Clinic); and
+23XS026, CTEP Translational Research Initiative – Support Subcontracts, Correlative Studies Core Laboratory for
+SAHA Phase I and Phase II Clinical Protocols (Mayo Clinic), SAIC-FREDERICK, INC.
+T. Hoang received research support from Merck and Millennium Pharmaceuticals.
+REFERENCES
+1. Workman JL, Kingston RE. Alteration of nucleosome structure as a mechanism of transcriptional
+regulation. Annu Rev Biochem. 1998; 67:545–79. [PubMed: 9759497]
+2. Arts J, de Schepper S, Van Emelen K. Histone deacetylase inhibitors: from chromatin remodeling to
+experimental cancer therapeutics. Curr Med Chem. 2003; 10:2343–50. [PubMed: 14529477]
+3. Jones PA, Baylin SB. The fundamental role of epigenetic events in cancer. Nat Rev Genet. 2002;
+3:415–28. [PubMed: 12042769]
+4. Amin HM, Saeed S, Alkan S. Histone deacetylase inhibitors induce caspase-dependent apoptosis
+and downregulation of daxx in acute promyelocytic leukaemia with t(15;17). Br J Haematol. 2001;
+115:287–97. [PubMed: 11703323]
+5. Mitsiades N, Mitsiades CS, Richardson PG, et al. Molecular sequelae of histone deacetylase
+inhibition in human malignant B cells. Blood. 2003; 101:4055–62. [PubMed: 12531799]
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Schelman et al. Page 8
+6. Mitsiades CS, Mitsiades NS, McMullan CJ, et al. Transcriptional signature of histone deacetylase
+inhibition in multiple myeloma: biological and clinical implications. Proc Natl Acad Sci U S A.
+2004; 101:540–5. [PubMed: 14695887]
+7. Nimmanapalli R, Fuino L, Stobaugh C, Richon V, Bhalla K. Cotreatment with the histone
+deacetylase inhibitor suberoylanilide hydroxamic acid (SAHA) enhances imatinib-induced
+apoptosis of Bcr-Abl-positive human acute leukemia cells. Blood. 2003; 101:3236–9. [PubMed:
+12446442]
+8. Xu Y, Voelter-Mahlknecht S, Mahlknecht U. The histone deacetylase inhibitor suberoylanilide
+hydroxamic acid down-regulates expression levels of Bcr-abl, c-Myc and HDAC3 in chronic
+myeloid leukemia cell lines. Int J Mol Med. 2005; 15:169–72. [PubMed: 15583844]
+9. Yu C, Rahmani M, Almenara J, et al. Histone deacetylase inhibitors promote STI571-mediated
+apoptosis in STI571-sensitive and -resistant Bcr/Abl+ human myeloid leukemia cells. Cancer Res.
+2003; 63:2118–26. [PubMed: 12727828]
+10. Mitsiades CS, Mitsiades N, Richardson PG, Treon SP, Anderson KC. Novel biologically based
+therapies for Waldenstrom's macroglobulinemia. Semin Oncol. 2003; 30:309–12. [PubMed:
+12720159]
+11. Zhang C, Richon V, Ni X, Talpur R, Duvic M. Selective induction of apoptosis by histone
+deacetylase inhibitor SAHA in cutaneous T-cell lymphoma cells: relevance to mechanism of
+therapeutic action. J Invest Dermatol. 2005; 125:1045–52. [PubMed: 16297208]
+12. Richon VM, Sandhoff TW, Rifkind RA, Marks PA. Histone deacetylase inhibitor selectively
+induces p21WAF1 expression and gene-associated histone acetylation. Proc Natl Acad Sci U S A.
+2000; 97:10014–9. [PubMed: 10954755]
+13. Huang L, Pardee AB. Suberoylanilide hydroxamic acid as a potential therapeutic agent for human
+breast cancer treatment. Mol Med. 2000; 6:849–66. [PubMed: 11126200]
+14. Munster PN, Troso-Sandoval T, Rosen N, Rifkind R, Marks PA, Richon VM. The histone
+deacetylase inhibitor suberoylanilide hydroxamic acid induces differentiation of human breast
+cancer cells. Cancer Res. 2001; 61:8492–7. [PubMed: 11731433]
+15. Butler LM, Agus DB, Scher HI, et al. Suberoylanilide hydroxamic acid, an inhibitor of histone
+deacetylase, suppresses the growth of prostate cancer cells in vitro and in vivo. Cancer Res. 2000;
+60:5165–70. [PubMed: 11016644]
+16. Gillenwater AM, Zhong M, Lotan R. Histone deacetylase inhibitor suberoylanilide hydroxamic
+acid induces apoptosis through both mitochondrial and Fas (Cd95) signaling in head and neck
+squamous carcinoma cells. Mol Cancer Ther. 2007; 6:2967–75. [PubMed: 18025281]
+17. Peart MJ, Tainton KM, Ruefli AA, et al. Novel mechanisms of apoptosis induced by histone
+deacetylase inhibitors. Cancer Res. 2003; 63:4460–71. [PubMed: 12907619]
+18. Marks PA, Xu WS. Histone deacetylase inhibitors: Potential in cancer therapy. J Cell Biochem.
+2009; 107:600–8. [PubMed: 19459166]
+19. Rajkumar SV, Richardson PG, Hideshima T, Anderson KC. Proteasome inhibition as a novel
+therapeutic target in human cancer. J Clin Oncol. 2005; 23:630–9. [PubMed: 15659509]
+20. Nawrocki ST, Carew JS, Pino MS, et al. Aggresome disruption: a novel strategy to enhance
+bortezomib-induced apoptosis in pancreatic cancer cells. Cancer Res. 2006; 66:3773–81.
+[PubMed: 16585204]
+21. Garcia-Mata R, Gao YS, Sztul E. Hassles with taking out the garbage: aggravating aggresomes.
+Traffic. 2002; 3:388–96. [PubMed: 12010457]
+22. Yang H, Zonder JA, Dou QP. Clinical development of novel proteasome inhibitors for cancer
+treatment. Expert Opin Investig Drugs. 2009; 18:957–71.
+23. Davies AM, Lara PN Jr. Mack PC, Gandara DR. Incorporating bortezomib into the treatment of
+lung cancer. Clin Cancer Res. 2007; 13:s4647–51. [PubMed: 17671158]
+24. Kondagunta GV, Drucker B, Schwartz L, et al. Phase II trial of bortezomib for patients with
+advanced renal cell carcinoma. J Clin Oncol. 2004; 22:3720–5. [PubMed: 15365068]
+25. Giuliano M, Lauricella M, Calvaruso G, et al. The apoptotic effects and synergistic interaction of
+sodium butyrate and MG132 in human retinoblastoma Y79 cells. Cancer Res. 1999; 59:5586–95.
+[PubMed: 10554039]
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Schelman et al. Page 9
+26. Yu C, Rahmani M, Conrad D, Subler M, Dent P, Grant S. The proteasome inhibitor bortezomib
+interacts synergistically with histone deacetylase inhibitors to induce apoptosis in Bcr/Abl+ cells
+sensitive and resistant to STI571. Blood. 2003; 102:3765–74. [PubMed: 12893773]
+27. Shah JJ, Orlowski RZ. Proteasome inhibitors in the treatment of multiple myeloma. Leukemia.
+2009
+28. Place RF, Noonan EJ, Giardina C. HDACs and the senescent phenotype of WI-38 cells. BMC Cell
+Biol. 2005; 6:37. [PubMed: 16250917]
+29. Emanuele S, Lauricella M, Carlisi D, et al. SAHA induces apoptosis in hepatoma cells and
+synergistically interacts with the proteasome inhibitor Bortezomib. Apoptosis. 2007; 12:1327–38.
+[PubMed: 17351739]
+30. Carew JS, Medina EC, Esquivel JA 2nd, et al. Autophagy inhibition enhances vorinostat-induced
+apoptosis via ubiquitinated protein accumulation. J Cell Mol Med. 2009
+31. Place RF, Noonan EJ, Giardina C. HDAC inhibition prevents NF-kappa B activation by
+suppressing proteasome activity: down-regulation of proteasome subunit expression stabilizes I
+kappa B alpha. Biochem Pharmacol. 2005; 70:394–406. [PubMed: 15950952]
+32. Parise RA, Holleran JL, Beumer JH, Ramalingam S, Egoran MJ. A liquid chromatography-
+electrospray ionization tandem mass spectrometric assay for quantitation of the histone
+deacetylase inhibitor, vorinostat (suberoylanilide hydroxamicacid, SAHA). and its metabolites in
+human serum. J Chromatogr B Analyt Technol Biomed Life Sci. 2006; 840(2):108–15.
+33. Siegel D, Hussein M, Belani C, et al. Vorinostat in solid and hematologic malignancies. J Hematol
+Oncol. 2009; 2:31. [PubMed: 19635146]
+34. Tsukamoto S, Yokosawa H. Targeting the proteasome pathway. Expert Opin Ther Targets. 2009;
+13:605–21. [PubMed: 19397479]
+35. Maki RG, Kraft AS, Scheu K, et al. A multicenter Phase II study of bortezomib in recurrent or
+metastatic sarcomas. Cancer. 2005; 103:1431–8. [PubMed: 15739208]
+36. Traynor AM, Dubey S, Eickhoff JC, et al. Vorinostat (NSC# 701852) in patients with relapsed
+non-small cell lung cancer: a Wisconsin Oncology Network phase II study. J Thorac Oncol. 2009;
+4:522–6. [PubMed: 19347984]
+37. Ramalingam SS, Parise RA, Ramanathan RK, et al. Phase I and pharmacokinetic study of
+vorinostat, a histone deacetylase inhibitor, in combination with carboplatin and paclitaxel for
+advanced solid malignancies. Clin Cancer Res. 2007; 13:3605–10. [PubMed: 17510206]
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schelman et al. Page 10
+Table 1
+Patient Characteristics
+Characteristic No. %
+No. of patients 23
+Median age, year 61
+Range 22–74
+Sex
+Male 14 61
+Female 9 39
+Performance status
+0 3 13
+1 18 78
+2 2 9
+Primary tumor type
+Colorectal 6 26
+Sarcoma 4 17
+Pancreas 2 9
+Non-small cell lung 2 9
+Head and neck 2 9
+Other** 7 30
+Prior systemic* therapy
+0 0 0
+1 4 17
+2 2 9
+3 6 26
+4 3 13
+5 2 9
+≥6 6 26
+*
+Includes conventional chemotherapy, cytokine-based immunotherapy, and experimental cytotoxic chemotherapy.
+**
+One each of bladder, gastric, GIST, ovarian, germ cell, mesothelioma and lymphoma.
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+
+--- Page 11 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schelman et al. Page 11
+Table 2
+Dose Escalation Schema and Frequency of Dose Limiting Toxicities
+Dose Level n Vorinostat (mg) † Bortezomib (mg/m2) ‡ Courses No. No D . o L f T P s a ( t c ie y n cl t e s 1 w ) ith Description of DLTs (cycle 1)
+1 3 400 0.7 8 0 -
+2 7** 400 1 17 1 Gr.3 Fatigue
+3* 10 400 1.3 24 1 Gr.3 Fatigue
+Gr.3 Fatigue; Gr.3
+4 3 400 1.5 8 2
+Hyponatremia
+*
+MTD
+**
+One patient was unevaluable.
+†
+Administered orally once daily on days 1–14.
+‡
+Administered i.v. on days 1, 4, 8 and 11 of a 21 day cycle.
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+
+--- Page 12 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schelman et al. Page 12
+3
+elbaT
+1
+elcyC
+gnirud
+tneitap
+rep
+edarg
+tsrow
+,stneve
+esrevda
+detaler-gurD
+5.1
+3.1
+0.1
+7.0
+)2m/gm(
+bimozetroB
+)32=n(
+%
+,latoT
+3G
+2G
+1G
+3G
+2G
+1G
+3G
+2G
+1G
+3G
+2G
+1G
+seiticixoT
+detceleS
+cigolotameH
+)4.03(
+7
+2
+*3
+2
+ainepotycobmorhT
+)31(
+3
+1
+1
+1
+aimenA
+cigolotameH-noN
+)2.56(
+51
+1
+2
+1
+4
+5
+2
+aesuaN
+)8.74(
+11
+1
+1
+1
+2
+2
+1
+3
+eugitaF
+)4.03(
+7
+1
+2
+3
+1
+noitapitsnoC
+)4.03(
+7
+1
+1
+2
+1
+1
+1
+aixeronA
+)8.43(
+8
+2
+3
+3
+gnihsulf
+/ siserohpaiD
+)7.12(
+5
+1
+2
+2
+aehrraiD
+)7.12(
+5
+1
+1
+2
+1
+gnitimoV
+)3–4(
+1
+1
+aimertanopyH
+edarG
+G
+:snoitaiverbbA
+*
+ainepotycobmorhT
+4
+edarG
+enO
+dna
+3 edarG
+owT
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schelman et al. Page 13
+Table 4
+Pharmacokinetic parameters in plasma and in patients receiving vonnostat in combination with bortezomib.
+Cmax (ng/mL) Tmax (hr) AUC (ng/mL × hr) T1/2 (hr) Cl/F (L/min)
+Vorinostat
+C1D1 (n=19) 299 ±153 1.4 ±1.0 1049 ± 444 1.7 ± 0.7 6.4 ± 3.2
+C1D2 (n=19) 303 ± 204 1.0 ± 0.9 1115 ± 507 1.3 ± 1.0 11 ± 4.1
+C1D12 (n=14) 323 ± 307 # 2.0 ± 1.0 1412 ± 924 # 1.9 ± 1.0 13 ± 3.3
+Vorinostat glucuronide
+C1D1 (n=7) 1153 ± 922 1.9 ± 1.0 4843 ± 3034 1.9 ± 1.4 NA
+C1D2 (n=7) 1225 ± 496 3.2 ± 1.8 5283 ± 2915 1.6 ± 0.5 NA
+C1D12 (n=4) 849 ± 479 2.0 ± 1.0 4169 ± 1548 2.0 ± 0.8 NA
+Vorinostat acid
+C1D1 (n=15) 815 ± 282 2.8 ± 1.4 17495±4153 13.8 ± 33.9 NA
+C1D2 (n=22) 1098 ± 439* 3.2 ± 1.5 9298±4841* 5.01 ± 4.41 NA
+C1D12 (n=14) 960 ± 272 # 3.5 ± 2.1 9714±5069 # 5.73 ± 4.17 NA
+Abbreviations: Cmax, concentration maximum; Cl, clearance; AUC, area under the plasma concentration time curve from 0- ∞, infinity; T1/2,
+half-life; Tmax, time of maximum concentration.
+*
+p<0.05, comparing Day 1 to Day 2 (vorinostat alone to vorinostat + bortezomib)
+#
+p<0.05, comparing Day 1 to Day 12 (vorinostat single dose to vorinostat steady state)
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schelman et al. Page 14
+Table 5
+Vorinostat Pharmacokinetic Parameters and Dose Limiting Toxicities
+Day DLT (n) Mean AUC (ng/mL × hr) Cmax (ng/mL)
+C1D1 No DLT (16) 999 ± 438 322 ± 118
+DLT (3) 1450 ± 277 551 ± 174
+C1D2 No DLT (16) 983 ± 418 340 ± 1 17
+DLT (3) 1788 ± 436 675 ± 363
+C1D12 No DLT (13) 1414 ± 962 448 ± 314
+DLT (1) 2229 905
+Abbreviations: C, cycle; D, day; DLT, dose limiting toxicity; AUC, area under the curve; cmax, concentration maximum
+Invest New Drugs. Author manuscript; available in PMC 2014 December 01.

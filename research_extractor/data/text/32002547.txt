@@ -1,0 +1,535 @@
+Source: 32002547.pdf
+Extracted on: Sat Sep 13 00:00:28 PDT 2025
+==================================================
+
+--- Page 1 ---
+applyparastyle "fig//caption/p[1]" parastyle "FigCapt"
+applyparastyle "fig" parastyle "Figure"
+1182 Neuro-Oncology
+22(8), 1182–1189, 2020 | doi:10.1093/neuonc/noaa019 | Advance Access date 31 January 2020
+A phase I/II trial of 5-fraction stereotactic radiosurgery
+with 5-mm margins with concurrent temozolomide in
+newly diagnosed glioblastoma: primary outcomes
+Melissa Azoulay, Steven D. Chang, Iris C. Gibbs, Steven L. Hancock, Erqi L. Pollom, Griffith R. Harsh,
+John R. Adler, Ciara Harraher, Gordon Li, Melanie Hayden Gephart, Seema Nagpal, Reena P. Thomas,
+Lawrence D. Recht, Lisa R. Jacobs, Leslie A. Modlin, Jacob Wynne, Kira Seiger, Dylann Fujimoto,
+Melissa Usoz, Rie von Eyben, Clara Y. H. Choi,† and Scott G. Soltys†
+Department of Radiation Oncology, Stanford University, Stanford, California, USA (M.A., I.C.G., S.L.H., E.P., L.R.J.,
+L.A.M., J.W., K.S., D.F., M.U., R.v.E., C.Y.H.C, S.G.S.); Department of Neurology, Stanford University, Stanford,
+California, USA (S.N., R.P.T., L.D.R.); Department of Neurosurgery, Stanford University, Stanford, California, USA
+(S.D.C., G.R.H., J.R.A., C.H., G.L., M.H.G.); Department of Radiation Oncology, McGill University Health Centre,
+Montreal, Quebec, Canada (M.A.); Department of Radiation Oncology, Santa Clara Valley Medical Center, San Jose,
+California, USA (C.Y.H.C.)
+Corresponding Author: Scott G. Soltys, MD, Department of Radiation Oncology, Stanford University, 875 Blake Wilbur Drive,
+Stanford CA, 94305–5847 (sgsoltys@stanford.edu)
+†Contributed equally.
+Abstract
+Background. We sought to determine the maximum tolerated dose (MTD) of 5-fraction stereotactic radiosurgery
+(SRS) with 5-mm margins delivered with concurrent temozolomide in newly diagnosed glioblastoma (GBM).
+Methods. We enrolled adult patients with newly diagnosed glioblastoma to 5 days of SRS in a 3 + 3 design on 4
+escalating dose levels: 25, 30, 35, and 40 Gy. Dose limiting toxicity (DLT) was defined as Common Terminology
+Criteria for Adverse Events grades 3–5 acute or late CNS toxicity, including adverse radiation effect (ARE), the im-
+aging correlate of radiation necrosis.
+Results. From 2010 to 2015, thirty patients were enrolled. The median age was 66 years (range, 51–86 y). The me-
+dian target volume was 60 cm3 (range, 14.7–137.3 cm3). DLT occurred in 2 patients: one for posttreatment cerebral
+edema and progressive disease at 3 weeks (grade 4, dose 40 Gy); another patient died 1.5 weeks following SRS
+from postoperative complications (grade 5, dose 40 Gy). Late grades 1–2 ARE occurred in 8 patients at a median of
+7.6 months (range 3.2–12.6 mo). No grades 3–5 ARE occurred. With a median follow-up of 13.8 months (range 1.7–
+64.4 mo), the median survival times were: progression-free survival, 8.2 months (95% CI: 4.6–10.5); overall survival,
+14.8 months (95% CI: 10.9–19.9); O6-methylguanine-DNA methyltransferase hypermethylated, 19.9 months (95% CI:
+10.5–33.5) versus 11.3 months (95% CI: 8.9–17.6) for no/unknown hypermethylation (P = 0.03), and 27.2 months (95%
+CI: 11.2–48.3) if late ARE occurred versus 11.7 months (95% CI: 8.9–17.6) for no ARE (P = 0.08).
+Conclusions. The per-protocol MTD of 5-fraction SRS with 5-mm margins with concurrent temozolomide was 40
+Gy in 5 fractions. ARE was limited to grades 1–2 and did not statistically impact survival.
+Key Points
+1. For newly diagnosed GBM, a 1-week course of chemoradiotherapy was well tolerated.
+2. Radiotherapy dose was escalated per protocol to 40 Gy in 5 fractions.
+3 Adverse radiation effect did not negatively impact overall survival.
+© The Author(s) 2020. Published by Oxford University Press on behalf of the Society for Neuro-Oncology.
+All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+
+--- Page 2 ---
+Azoulay et al. 5-Fraction chemoradiotherapy for newly diagnosed GBM 1183
+Oncology Neuro-
+Importance of the Study
+In patients with newly diagnosed GBM, the authors per- course allowed better patient access to specialized care.
+formed a prospective dose escalation study to determine In the era of exploring the role of immunotherapy in GBM,
+that the MTD of 5-fraction radiotherapy with concurrent hypofractionated radiotherapy (ie, larger doses per day
+temozolomide was 40 Gy in 5 fractions. Adverse radia- in fewer fractions) should be investigated further, as it
+tion effect, the primary toxicity of a shortened treatment may both increase the immunostimulatory effect of ra-
+regimen, was limited to grades 1–2 and did not impact diotherapy through greater release of tumor antigens as
+quality of life. Compared with the standard of care 6-week well as decrease the immunosuppression seen through
+course of chemoradiotherapy, this 1-week treatment radiotherapy-induced lymphopenia.
+With standard of care radiotherapy of 60 Gy in 30 fractions pregnant or unable to have MRI or CT scans or give in-
+with concurrent and adjuvant temozolomide (TMZ)1 with formed consent.
+tumor treating fields,2 overall survival (OS) for patients
+with newly diagnosed glioblastoma (GBM) is poor, with a
+Radiation and Chemotherapy Treatment
+median survival of up to 21 months and a 5-year survival
+of 13%.2
+Following surgery, enrolled patients underwent treatment
+Given that a 6-week course of radiotherapy may rep-
+planning for hypofractionated stereotactic radiosurgery
+resent up to 10% of some patients’ remaining life, a
+(SRS) with the CyberKnife (Accuray) as previously de-
+shortened radiation fractionation schedule is desirable.
+scribed.11 As defined by the postsurgical MRI performed
+Previous prospective trials in GBM that have shortened
+within 2 weeks of SRS, the gross tumor volume (GTV) con-
+treatment times through hypofractionated irradiation
+sisted of the tumor resection cavity, residual enhancing
+(ie, fewer fractions of a larger dose per fraction) were
+tumor, and nodular non-enhancing tumor. The clinical
+of radiobiologically less dose and in patients with poor
+target volume (CTV) was defined by adding a 5-mm margin
+performance status or advanced age.3–5 Alternatively,
+to the GTV, not extending beyond anatomic borders of
+other prospective studies6–9 explored hypofractionation
+tumor spread such as the calvarium, falx, and tentorium.
+as a means to increase the radiobiologic dose.
+No attempt was made to specifically include peritumoral
+A hypofractionated radiotherapy paradigm holds the po-
+edema. The final PTV was the same as the CTV, with 0-mm
+tential of shortened treatment times, improved quality of
+margin (see Fig. 1).
+life, better access to specialized care centers, and poten-
+The 5-fraction SRS dose was escalated in a standard
+tially improved tumor outcomes with increased cell kill
+3 + 3 design at 4 dose levels: 25 Gy, 30 Gy, 35 Gy, and 40 Gy.
+and less tumor repopulation.6,10 Furthermore, in the era
+A 45 Gy level was initially planned, but was omitted prior
+of immunotherapy, shortened radiotherapy courses may
+to accrual of patients at that dose due to reports of high
+both increase the immunostimulatory effect of treatment
+toxicity at similar biologically effective doses.9 Patients en-
+while decreasing the immunosuppression seen with pro-
+rolled onto 2 treatment arms based on the final size of the
+longed irradiation courses.
+PTV: arm 1 with PTV 0.1 to < 60 cm3 (roughly equivalent to
+With this background, in 2010, we initiated a phase I/II
+a 5 cm sphere) and arm 2 with PTV 60 to 150 cm3 (equiva-
+trial investigating shortening of the radiotherapy course to
+lent to a 6.6 cm sphere).
+determine the maximum tolerated dose (MTD) of 5-frac-
+The prescription isodose line covered at least 95% of the
+tion radiotherapy with 5-mm margins delivered with con-
+PTV; undercoverage to 90% was allowed near organs at
+current and adjuvant TMZ in adult patients with newly
+risk. Normal organ dose constraints were 98% of the optic
+diagnosed supratentorial GBM.
+pathways received less than 27.5 Gy and brainstem max-
+imum dose of 30 Gy in 5 fractions, undercovering the PTV
+to meet these limits.
+Materials and Methods Patients received SRS in 5 consecutive days over 7
+elapsed days, with extension over a weekend allowed.
+Patient Population Daily concomitant TMZ at a dose of 75 mg/m2 started the
+day prior to the first SRS treatment; therefore 8 total days
+Patients older than 18 years with newly diagnosed, patho- were prescribed. Although not protocol defined, patients
+logically confirmed, supratentorial GBM were candidates received standard adjuvant TMZ at 150–200 mg/m2 daily,
+for this institutional review board–approved prospective 5 days every 28 days for at least 6 months.
+trial (clinicaltrials.gov: NCT01120639). Eligibility criteria
+included an expected survival of more than 12 weeks, ad-
+equate organ function to receive TMZ, ability to give in- Patient Assessment and Toxicity Reporting
+formed consent, and a maximum final planning target
+volume (PTV) of 150 cm3. Patients were excluded if they Following chemoradiotherapy, follow-up occurred 1 month
+had previous cranial irradiation, infratentorial tumor ex- later, then every 2 months, including physical exam
+tension, or multifocal or leptomeningeal disease or were and MRI.
+
+--- Page 3 ---
+1184 Azoulay et al. 5-Fraction chemoradiotherapy for newly diagnosed GBM
+Statistical Methods
+The primary endpoint of this phase I/II study was to deter-
+mine the MTD and DLT for 5-fraction SRS concurrent with
+TMZ using a 3 + 3 study design. Secondary endpoints in-
+cluded short- and long-term adverse effects, OS, and
+quality of life (previously reported12). Progression-free sur-
+vival (PFS) was defined as the date of diagnosis to time of
+disease progression or death, censored at the time of last
+clinical follow-up or imaging. OS was measured from the
+date of diagnosis until death, censored at the time of last
+clinical follow-up or imaging.
+OS and PFS were estimated with Kaplan–Meier meth-
+odology. Categorical predictors such as status of O6-
+methylguanine-DNA methyltransferase (MGMT) were
+tested with the log-rank test. For continuous predictors
+such as age and PTV, the OS and PFS outcomes were ana-
+lyzed in a Cox proportional hazards model. The time to ARE
+was analyzed using competing risk methods with death as
+competing risk; categorical predictors were tested using
+Gray’s, test and continuous predictors were tested in a Cox
+proportional hazards model with death as a competing
+risk. The correlation between toxicity outcomes and contin-
+uous predictors such as dose and PTV was analyzed using
+logistic regression models; the association between tox-
+icity outcomes and categorical predictors such as MGMT
+status was analyzed using Fisher’s exact test. All tests were
+Fig. 1 A representative 5-fraction, 5-mm margin radiotherapy
+two-sided with an alpha level of 0.05; and all analyses were
+treatment plan. The left frontal resection cavity (red contour) with
+performed using SAS v9.4.
+a 5-mm margin (yellow contour) form the final planning target
+volume (PTV) which was covered by the 35 Gy prescription isodose
+line (green). Shown are the 50% dose (cyan) and 25% dose (blue)
+Patient Characteristics
+isodose lines.
+We enrolled 30 patients from August 2010 to October 2015
+(see Appendix 1, a Consolidated Standards of Reporting
+Trials [CONSORT] figure). The median age was 66 years
+A dose limiting toxicity (DLT) was defined as a
+(range, 51–86 y) with a median KPS of 80 (range, 50–100)
+treatment-related (with possible, probable, or definite
+(see Table 1). Gross total resection, defined by residual con-
+attribution) Common Terminology Criteria for Adverse
+trast enhancement on an MRI within 48 hours after sur-
+Events (CTCAE) v3 grades 3–5 CNS toxicity occurring
+gery, was achieved in 12 patients (40%). Thirteen patients
+within 30 days of SRS, with lifelong assessment for late
+(43%) had MGMT promoter hypermethylation, 15 (50%)
+(defined as after 30 days) SRS-related adverse radiation
+had no hypermethylation, and 2 were unknown.
+effect (ARE), the imaging correlate of radiation necrosis.
+The MTD was the highest dose where 0–1 out of 6 pa-
+tients at that dose level per arm had an acute or late CNS Treatment Characteristics
+grades 3–5 toxicity.
+Given the difficulty in interpreting posttreatment im- The median time from surgery to SRS was 4.1 weeks
+aging in patients with GBM, new contrast enhance- (range, 1.8–19.7 wk). The median GTV was 27 cm3 (range,
+ment or enlargement was scored as: (i) progressive 4–81 cm3) with a median PTV of 60 cm3 (range, 14.7–
+disease, if ultimately determined to be recurrent tumor, 137.3 cm3). Twenty-seven (90%) patients were treated with
+(ii) pseudoprogression, if ARE appeared within 5 months adjuvant TMZ for a median of 7 cycles (range, 2–16 cycles).
+and ultimately resolved, or (iii) ARE. As the final determi-
+nation of ARE or progressive disease occurring after the
+initial appearance of increased enhancement, the time to
+event of ARE or progressive disease was backdated to the Results
+day of the first scan showing imaging changes. The highest
+symptom grade of ARE was scored per CTCAE, including Toxicity
+asymptomatic imaging changes (ie, grade 1 ARE). An elec-
+tive hospital admission for surgical resection to determine Protocol-defined treatment-related DLTs occurred in 2 pa-
+recurrent tumor versus radiation necrosis did not, of itself, tients (Table 2): one patient was admitted 3 weeks following
+constitute a grade 3 event; toxicity was scored per clinical SRS (grade 4, arm 2, dose 40 Gy. Attribution: definite—
+symptoms prior to resection. tumor progression, possible—SRS treatment); another
+
+--- Page 4 ---
+Azoulay et al. 5-Fraction chemoradiotherapy for newly diagnosed GBM 1185
+Oncology Neuro-
+patient died 2 weeks after SRS (grade 5, arm 1, dose 40 Gy. Pseudoprogression occurred in 5 patients (17%) at a me-
+Attribution: definite—postsurgical hemorrhage, possible— dian time of 2.8 months (range, 0.8–3.4 mo) following SRS.
+SRS treatment). As these represented 1 of 6 patients on Pseudoprogression occurred in 38% of the 13 patients with
+those 2 treatment arms of 40 Gy, the protocol-defined MTD MGMT promoter hypermethylation compared with 0%
+was 40 Gy. All toxicities are shown in Appendix 2. with no/unknown hypermethylation (P = 0.009). Eight pa-
+tients (27%) developed ARE (grade 1, n = 2; grade 2, n = 6)
+at a median time of 7.6 months (range, 3.2–12.6 mo). No pa-
+tient had grades 3–5 ARE. ARE was not associated with ra-
+Table 1 Patient and treatment characteristics
+diotherapy dose (odds ratio = 1.02, P = 0.83) or PTV volume
+Characteristics Number (odds ratio = 0.98, P = 0.17). MGMT hypermethylation
+(Range or Percentage) status was associated with a higher incidence of ARE
+Patient Characteristics (46.2% vs 11.8%, P = 0.049). Pathology on 5 patients who
+had resection of imaging changes revealed progressive
+Total patients enrolled 30
+disease in 4 and radiation necrosis in 1. Ultimately, 26 (86%)
+Age, y, median 66 (51–86)
+patients were treated with bevacizumab, started in 5 (17%
+Karnofsky performance status (KPS), 80 (50–100) of all 30 patients) for symptomatic pseudoprogression, 3
+median
+(10%) for ARE, and 18 (60%) for progressive tumor.
+Male 15 (50%)
+Gross total resection 12 (40%)
+Patient Outcomes
+Subtotal resection 15 (50%)
+Biopsy only 3 (10%) With a median clinical follow-up of 13.8 months (range,
+MGMT Promoter Status 1.7–64.4 mo), 29 (97%) patients have documented pro-
+gression and 26 (87%) have died. The median OS (Fig. 2)
+Hypermethylated 13 (43%)
+for all patients was 14.8 months (95% CI: 10.9–19.9 mo),
+Unmethylated 15 (50%)
+with a median PFS of 8.2 months (95% CI: 4.6–10.5 mo).
+Unknown 2 (7%) The median OS was 19.9 months (95% CI: 10.5–33.5 mo)
+SRS Treatment Characteristics for patients with MGMT hypermethylation compared
+Time, median weeks, from 4.1 (1.8–19.7) with 11.3 months (95% CI: 8.9 – 17.6 mo) for no/unknown
+surgery to SRS hypermethylation (P = 0.031) (Fig. 2).
+Patients who developed ARE had improved OS, with a
+Gross tumor volume (GTV) 27 (4–81)
+(median cm3) median of 27.2 months (95% CI: 11.2–48.3 mo) compared
+with a median survival of 11.7 months (95% CI: 8.9–17.6 mo)
+Planning target volume (PTV) 60 (15–137)
+(median cm3) among those who did not develop ARE, although this dif-
+ference was not statistically significant (P = 0.08) (Fig. 3).
+Prescription isodose line (median %) 82 (77–86)
+A patient with grade 2 ARE whose surgical pathology re-
+Conformity index, median 1.1 (1.0–1.5)
+vealed radiation necrosis is the long-term survivor on this
+Adjuvant TMZ Given (%) 90% trial, currently alive at 64 months. ARE occurred in 46.2%
+Number of Adjuvant TMZ Cycles 7 (2–16) of MGMT hypermethylated patients versus 11.8% if no/
+(median) unknown hypermethylation (P = 0.049). To analyze if ARE
+can overcome the prognostic effect of MGMT status, the
+Table 2 Acute (within 30 days of SRS) and late (after 30 days) treatment-related CNS toxicity
+Toxicity and CTCAE Grade (number)
+Treatment Arm Dose 25 Gy Dose 30 Gy Dose 35 Gy Dose 40 Gy
+Arm 1: <60 cm3 Number enrolled n = 3 n = 3 n = 3 n = 6
+Acute grades 3–5 toxicity 0 0 0 G5 = 1 a
+Late adverse radiation effect (grade) G1 = 1 0 G1 = 1 G2 = 2* G2 = 1
+Arm 2: 60–150 cm3 Number enrolled n = 3 n = 3 n = 3 n = 6
+Grades 3–5 acute toxicity 0 0 0 G4 = 1 a
+Late adverse radiation effect (grade) 0 G2 = 1 G2 = 1 G2 = 1
+Grades 3–5 treatment-related CNS toxicity per dose level 0% 0% 0% 17%
+(a DLT)
+Grades 1–5 treatment-related CNS toxicity per dose level 17% 17% 67% 33%
+*One patient with G2 toxicity (arm 1, 35 Gy dose level) had surgery for histologic diagnosis of radiation necrosis.
+aSee description in text about the 2 DLTs on the 40 Gy arms.
+Abbreviation: G = grade.
+
+--- Page 5 ---
+1186 Azoulay et al. 5-Fraction chemoradiotherapy for newly diagnosed GBM
+Considering patient access to specialized care, of note,
+the 30 patients enrolled on this 1-week treatment protocol
+1.0 lived farther away from our comprehensive cancer center
+compared with a contemporaneous cohort of 50 patients
+0.8 treated during the same time period with standard 6 weeks
+of radiotherapy (mean of 150 vs 44 miles [P = 0.047]), with
+0.6 68% vs 38% living greater than 30 miles away).
+0.4
+Discussion
+Despite improvement in survival seen in recent prospec-
+tive trials,1,2 patients with GBM treated with standard of
+care chemoradiotherapy over 6 weeks have a poor prog-
+nosis, and “innovative treatments for glioblastoma are
+needed.” 2 Hypofractionated radiotherapy (ie, larger doses
+of irradiation per day over a shorter treatment course) has
+many potential advantages: (i) the patient burden of com-
+muting for daily treatment is lessened, (ii) a shorter treat-
+ment course may allow better access to specialized centers
+of care, (iii) a greater radiobiologic dose may improve out-
+comes, (iv) a shortened treatment course has less soci-
+etal cost than the current standard of care, (v) with larger
+doses per day, a different radiobiology may exist,13 (vi)
+when combined with immunotherapy, hypofractionation
+may provide a greater immunostimulatory effect,14 and
+(vii) a shortened course may minimize lymphopenia and
+the immunosuppressive effect of prolonged treatment
+courses.15 Therefore, we sought to determine the MTD of
+hypofractionated radiotherapy in 1 week, with concurrent
+and adjuvant TMZ. We found that the per protocol MTD for
+patients with a final target volume of up to 150 cm3 (de-
+fined as the tumor plus a 5-mm margin) was 40 Gy in 5
+fractions. Given that the only 2 DLTs occurred at the 40 Gy
+dose, one may conservatively consider 35 Gy in 5 fractions
+for future trials.
+For newly diagnosed GBM in patients of advanced
+age or poor performance status, randomized data sup-
+port hypofractionated radiotherapy courses of less than
+6 weeks with a smaller radiobiologic dose. Trials of radio-
+therapy alone in selected patients found that 40 Gy in 15
+fractions had equivalent OS to 60 Gy in 30 fractions3 and
+that 25 Gy in 5 fractions was non-inferior to 40 Gy in 15
+fractions.4 Furthermore, conventional 6 weeks of treat-
+ment was associated with worse survival compared with
+a hypofractionated regimen of 34 Gy in 10 fractions.16
+The addition of standard concurrent and adjuvant TMZ
+with 40 Gy in 15 fractions, compared with the same radi-
+otherapy alone, improved OS without unexpected tox-
+icity.17 Thus, dose-reduced, concurrent hypofractionated
+median OS for patients was 33.3 months for MGMT+/ chemoradiotherapy is a standard of care in those with poor
+ARE + versus 17.6 months MGMT+/ARE− (P = 0.31), performance status or advanced age.
+and 16.3 months MGMT−/ARE+, 11.3 months MGMT−/ As an alternative to conventional fractionation, prospec-
+ARE− (P = 0.65). tive, single arm trials have explored hypofractionated ra-
+Patients with gross total tumor resection had a me- diotherapy to escalate the equivalent dose to greater than
+dian OS of 27.2 months (95% CI: 9.9–48.3 mo) compared 60 Gy over 6 weeks for younger patients with good perfor-
+with 12.7 months (95% CI: 8.9–17.6 mo) for subtotal re- mance status.7–9,18–23 A series of 3 trials from the University
+section and 8.8 months (95% CI: 5.3–14.9 mo) for biopsy of Colorado established the safety of 60 Gy in 10 fractions
+only (P = 0.02). Other factors were not correlated with with concomitant and adjuvant TMZ and bevacizumab.24
+OS: age, P = 0.16; dose, P = 0.39; KPS, P = 0.07; and However, the final trial9 was closed early due to a 50% inci-
+pseudoprogression, P = 0.39. dence of radiation necrosis, attributed potentially to larger
+lavivruS
+llarevO
++ Censored
+MGMT Methylated
+0.2
+All
+P = 0.03 MGMT Unmethylated/Unknown
+0.0
+All Patients 30 28 18 9 7 6 3 3 3 2 2
+MGMT Neg/Unk 17 16 8 2 1 1 0
+MGMT Pos 13 12 10 7 6 5 3 3 3 2 2
+0 6 12 18 24 30 36 42 48 54 60
+Time (months)
+All Patients MGMT Neg/Unk MGMT Pos
+Fig. 2 The median OS for all patients (solid line) was 14.8 months
+(95% CI: 10.9–19.9). The median OS for tumors with MGMT pro-
+moter hypermethylation (dashed line) was 19.9 months (95% CI:
+10.5–33.5) versus 11.3 months (95% CI: 8.9 – 17.6) for no/unknown
+MGMT hypermethylation (dotted line) (P = 0.03).
+1.0
+0.8
+0.6
+0.4
+lavivruS
+llarevO
++ Censored
+Adverse Radiation Effect
+0.2
+No Adverse Radiation Effect
+P = 0.08
+0.0
+No ARE 22 20 11 4 3 2 1 1 1 1 1
+ARE 8 8 7 5 4 4 2 2 2 1 1
+0 6 12 18 24 30 36 42 48 54 60
+Time (months)
+No ARE ARE
+Fig. 3 Median OS for patients that developed ARE, the im-
+aging correlate of radiation necrosis (n = 8, dashed line), was
+27.2 months (95% CI: 11.2–48.3 mo) compared with 11.7 months
+(95% CI: 8.9–17.6 mo) in those without ARE (n = 22, solid line)
+(P = 0.08).
+
+--- Page 6 ---
+Azoulay et al. 5-Fraction chemoradiotherapy for newly diagnosed GBM 1187
+Oncology Neuro-
+treatment volumes (median PTV of 127 cc). Compared with extent of resection, MGMT status, age, and tumor size.
+our trial, this trial had a larger target margin of 10 mm and Given these small numbers, any reported subgroup ana-
+greater equivalent dose.25,26 With a 5-mm margin and a lyses are considered strictly exploratory, to be refuted or
+median PTV volume of 60 cc, we observed 8 cases (27%) of confirmed in larger trials. Additionally, given that patients
+grades 1–2 radiation necrosis. Ultimately, 87% of patients on this trial had irradiation targeting only the resection bed
+received bevacizumab, but only 12% for radiation necrosis. and gross tumor with a 5-mm margin, with no edema pur-
+We did not find an association between radiation necrosis posely targeted, formal patterns of failure analyses are on-
+and tumor size or dose level. going to determine if tumor recurred outside of 5 mm but
+Adverse radiation effect represents a spectrum, ran- within the 20 mm of a conventional radiotherapy field.
+ging from asymptomatic imaging findings to severe In conclusion, the protocol defined that MTD for
+symptoms requiring hospitalization and surgical resec- hypofractionated radiotherapy over 5 consecutive days
+tion. We found that patients who developed ARE had a with 5-mm margins in targets up to 150 cm3 with con-
+non-statistically (P = 0.08) improved median survival of 27 current TMZ was 40 Gy in 5 fractions. However, given the
+versus 12 months, similar to other hypofractionated7,27 or grade 5 toxicity at 40 Gy, although felt to be independent
+conventionally fractionated studies.28 Notably, we previ- from treatment, one may consider a lower dose level of 35
+ously reported that ARE was not associated with a decline Gy in 5 fractions as the regimen for future trials, particu-
+in patient-reported quality of life on this protocol.12 larly if combined with agents that may potentiate radiation
+As highlighted by Hingorani et al, hypofractionated ra- toxicity, such as tumor treating fields or immunotherapy.
+diotherapy may hold the “hope for the future” 10 from a Although 27% of patients developed ARE, all were grades
+radiobiologic perspective. A larger dose per fraction may 1–2 and did not impact quality of life,12 with a statistically
+overcome the histology-specific radioresistance seen with insignificant improved OS. Thus, rather than representing
+the smaller daily doses of conventionally fractionated ra- the primary toxicity of hypofractionated radiotherapy, ARE
+diotherapy.29 The putative GBM cancer stem cells are in the bevacizumab era, especially if not symptomatic,
+considered similarly radioresistant.30,31 Preclinical data may be clinically desirable. Lastly, a shortened treatment
+suggest that hypofractionated doses better overcome protocol may be beneficial as our field explores the role
+glioma cell repopulation compared with conventional of immunotherapy for GBM and may improve patient out-
+fractionation.13 The prospective trial by Omuro et al sug- comes through better access to comprehensive cancer
+gested that a hypofractionated course of 36 Gy in 6 frac- centers.37
+tions over 2 weeks with concurrent TMZ and bevacizumab
+may overcome the negative prognostic impact of MGMT
+methylation status, with a median survival of 18 months
+Supplementary Material
+for methylated and 22 months for unmethylated patients
+(P = 0.56).21 Unfortunately, our trial did not corroborate
+Supplementary data are available at Neuro-Oncology
+these results: MGMT remained prognostic, with a median
+online.
+survival of 11.3 months for no/unknown hypermethylation
+versus 19.9 months for hypermethylated MGMT (P = 0.03).
+In the era of trials exploring the role of immuno-
+therapy in GBM, hypofractionated radiotherapy may
+Keywords
+be advantageous to conventionally fractionated regi-
+mens. Larger daily radiotherapy doses may release
+glioblastoma | radiosurgery | newly diagnosed |
+more tumor antigens, be more immunostimulatory than
+hypofractionated | prospective
+conventional radiotherapy, and more effectively prime
+the immune system.14,32,33 Additionally, prolonged radi-
+otherapy courses may be counterproductive to immu-
+notherapy, given its known immunosuppressive effects
+such as in preparatory regimens for stem-cell transplants. Funding
+Prospective data of conventional chemoradiotherapy for
+GBM found that lymphopenia appears associated with This research received no specific grant from any funding
+worse survival, primarily attributed to early tumor pro- agency in the public, commercial, or not-for-profit sector.
+gression rather than infection.34 Furthermore, studies
+calculating the flow dynamics of the peripheral blood
+through the brain during a typical irradiation course sug-
+gest that the entire circulating blood lymphocyte com-
+partment is irradiated in a 6-week radiotherapy course.15 Conflict of interest statement. Dr Soltys has served as a con-
+In other solid tumors, hypofractionation over a shorter sultant for Inovio Pharmaceuticals, Inc. Dr Nagpal has served as
+course appears to decrease the rate of lymphopenia.35 a consultant for Inovio Pharmaceuticals, GW Pharmaceuticals,
+A preliminary analysis suggests less lymphopenia in our and Tocagen. Dr Li has served as a consultant for Medtronic and
+1-week trial compared with a conventional 6-week course J&J Medical Devices. Dr Pollom has received a speaker’s hono-
+of chemoradiotherapy.36 rarium from Accuray, Inc. Dr Adler is CEO of and a major share-
+We acknowledge the limitations of our small study pop- holder in Zap Surgical Systems. The other authors declare no
+ulation, the 3 + 3 trial design, and the heterogeneity of pa- conflicts of interest.
+tients when accounting for all prognostic factors such as
+
+--- Page 7 ---
+1188 Azoulay et al. 5-Fraction chemoradiotherapy for newly diagnosed GBM
+health-related quality of life results. Int J Radiat Oncol Biol Phys.
+Authorship statement. Study design: SGS, CYHC, JRA. 2017;98(1):123–130.
+Acquisition of data: all authors. Statistical analysis: RvE 13. Gao X, McDonald JT, Hlatky L, Enderling H. Acute and fractionated irra-
+Interpretation of the data: MA, SGS, CYHC. Drafting of the ini- diation differentially modulate glioma stem cell division kinetics. Cancer
+tial manuscript: MA, RvE, SGS, CYHC. Review and revision of the Res. 2013;73(5):1481–1490.
+manuscript: all authors. Approval of the final manuscript: all au- 14. Demaria S, Golden EB, Formenti SC. Role of local radiation therapy in
+thors. This study was presented, in part, at the American Society cancer immunotherapy. JAMA Oncol. 2015;1(9):1325–1332.
+for Radiation Oncology annual meeting 2016 and International 15. Yovino S, Kleinberg L, Grossman SA, Narayanan M, Ford E. The etiology
+Stereotactic Radiosurgery Society congress in 2017. of treatment-related lymphopenia in patients with malignant gliomas:
+modeling radiation dose to circulating lymphocytes explains clinical ob-
+servations and suggests methods of modifying the impact of radiation
+on immune cells. Cancer Invest. 2013;31(2):140–144.
+16. Malmström A, Grønberg BH, Marosi C, et al; Nordic Clinical Brain
+References
+Tumour Study Group (NCBTSG). Temozolomide versus standard 6-week
+radiotherapy versus hypofractionated radiotherapy in patients older
+than 60 years with glioblastoma: the Nordic randomised, phase 3 trial.
+1. Stupp R, Mason WP, van den Bent MJ, et al; European Organisation Lancet Oncol. 2012;13(9):916–926.
+for Research and Treatment of Cancer Brain Tumor and Radiotherapy 17. Perry JR, Laperriere N, O’Callaghan CJ, et al; Trial Investigators. Short-
+Groups; National Cancer Institute of Canada Clinical Trials Group. course radiation plus temozolomide in elderly patients with glioblas-
+Radiotherapy plus concomitant and adjuvant temozolomide for glioblas- toma. N Engl J Med. 2017;376(11):1027–1037.
+toma. N Engl J Med. 2005;352(10):987–996. 18. Hulshof MC, Schimmel EC, Andries Bosch D, González González D.
+2. Stupp R, Taillibert S, Kanner A, et al. Effect of tumor-treating fields plus Hypofractionation in glioblastoma multiforme. Radiother Oncol.
+maintenance temozolomide vs maintenance temozolomide alone on sur- 2000;54(2):143–148.
+vival in patients with glioblastoma: a randomized clinical trial. JAMA. 19. Chen C, Damek D, Gaspar LE, et al. Phase I trial of hypofractionated
+2017;318(23):2306–2316. intensity-modulated radiotherapy with temozolomide chemotherapy for
+3. Roa W, Brasher PM, Bauman G, et al. Abbreviated course of radiation patients with newly diagnosed glioblastoma multiforme. Int J Radiat
+therapy in older patients with glioblastoma multiforme: a prospective Oncol Biol Phys. 2011;81(4):1066–1074.
+randomized clinical trial. J Clin Oncol. 2004;22(9):1583–1588. 20. Terasaki M, Eto T, Nakashima S, et al. A pilot study of hypofractionated
+4. Roa W, Kepka L, Kumar N, et al. International atomic energy agency radiation therapy with temozolomide for adults with glioblastoma
+randomized phase III study of radiation therapy in elderly and/or frail multiforme. J Neurooncol. 2011;102(2):247–253.
+patients with newly diagnosed glioblastoma multiforme. J Clin Oncol. 21. Omuro A, Beal K, Gutin P, et al. Phase II study of bevacizumab,
+2015;33(35):4145–4150. temozolomide, and hypofractionated stereotactic radiotherapy for newly
+5. Wick W, Platten M, Meisner C, et al; NOA-08 Study Group of diagnosed glioblastoma. Clin Cancer Res. 2014;20(19):5023–5031.
+Neuro-oncology Working Group (NOA) of German Cancer Society. 22. Jastaniyah N, Murtha A, Pervez N, et al. Phase I study of
+Temozolomide chemotherapy alone versus radiotherapy alone for malig- hypofractionated intensity modulated radiation therapy with concurrent
+nant astrocytoma in the elderly: the NOA-08 randomised, phase 3 trial. and adjuvant temozolomide in patients with glioblastoma multiforme.
+Lancet Oncol. 2012;13(7):707–715. Radiat Oncol. 2013;8:38.
+6. Shah JL, Li G, Shaffer JL, et al. Stereotactic radiosurgery and 23. Azoulay M, Santos F, Souhami L, et al. Comparison of radiation regimens
+hypofractionated radiotherapy for glioblastoma. Neurosurgery. in the treatment of glioblastoma multiforme: results from a single insti-
+2018;82(1):24–34. tution. Radiat Oncol. 2015;10:106.
+7. Floyd NS, Woo SY, Teh BS, et al. Hypofractionated intensity-modulated 24. Reddy K, Damek D, Gaspar LE, et al. Phase II trial of hypofractionated
+radiotherapy for primary glioblastoma multiforme. Int J Radiat Oncol IMRT with temozolomide for patients with newly diagnosed gli-
+Biol Phys. 2004;58(3):721–726. oblastoma multiforme. Int J Radiat Oncol Biol Phys. 2012;84(3):
+8. Iuchi T, Hatano K, Kodama T, et al. Phase 2 trial of hypofractionated high- 655–660.
+dose intensity modulated radiation therapy with concurrent and adju- 25. Blonigen BJ, Steinmetz RD, Levin L, Lamba MA, Warnick RE,
+vant temozolomide for newly diagnosed glioblastoma. Int J Radiat Oncol Breneman JC. Irradiated volume as a predictor of brain radionecrosis
+Biol Phys. 2014;88(4):793–800. after linear accelerator stereotactic radiosurgery. Int J Radiat Oncol Biol
+9. Ney DE, Carlson JA, Damek DM, et al. Phase II trial of hypofractionated Phys. 2010;77(4):996–1001.
+intensity-modulated radiation therapy combined with temozolomide 26. Minniti G, Clarke E, Lanzetta G, et al. Stereotactic radiosurgery for brain
+and bevacizumab for patients with newly diagnosed glioblastoma. J metastases: analysis of outcome and risk of brain radionecrosis. Radiat
+Neurooncol. 2015;122(1):135–143. Oncol. 2011;6:48.
+10. Hingorani M, Colley WP, Dixit S, Beavis AM. Hypofractionated radio- 27. Peca C, Pacelli R, Elefante A, et al. Early clinical and neuroradiological
+therapy for glioblastoma: strategy for poor-risk patients or hope for the worsening after radiotherapy and concomitant temozolomide in patients
+future? Br J Radiol. 2012;85(1017):e770–e781. with glioblastoma: tumour progression or radionecrosis? Clin Neurol
+11. Choi CY, Chang SD, Gibbs IC, et al. Stereotactic radiosurgery of the Neurosurg. 2009;111(4):331–334.
+postoperative resection cavity for brain metastases: prospective eval- 28. Rusthoven KE, Olsen C, Franklin W, et al. Favorable prognosis in pa-
+uation of target margin on tumor control. Int J Radiat Oncol Biol Phys. tients with high-grade glioma with radiation necrosis: the University
+2012;84(2):336–342. of Colorado reoperation series. Int J Radiat Oncol Biol Phys.
+12. Pollom EL, Fujimoto D, Wynne J, et al. Phase ½ trial of 5-fraction ster- 2011;81(1):211–217.
+eotactic radiosurgery with 5-mm margins with concurrent and adju- 29. Suh JH. Stereotactic radiosurgery for the management of brain metas-
+vant temozolomide in newly diagnosed supratentorial glioblastoma: tases. N Engl J Med. 2010;362(12):1119–1127.
+
+--- Page 8 ---
+Azoulay et al. 5-Fraction chemoradiotherapy for newly diagnosed GBM 1189
+Oncology Neuro-
+30. Bao S, Wu Q, McLendon RE, et al. Glioma stem cells promote with radiation and temozolomide. Clin Cancer Res. 2011;17(16):
+radioresistance by preferential activation of the DNA damage response. 5473–5480.
+Nature. 2006;444(7120):756–760. 35. Crocenzi T, Cottam B, Newell P, et al. A hypofractionated radia-
+31. Rycaj K, Tang DG. Cancer stem cells and radioresistance. Int J Radiat tion regimen avoids the lymphopenia associated with neoadjuvant
+Biol. 2014;90(8):615–621. chemoradiation therapy of borderline resectable and locally advanced
+32. Schaue D, Ratikan JA, Iwamoto KS, McBride WH. Maximizing tumor pancreatic adenocarcinoma. J Immunother Cancer. 2016;4:45.
+immunity with fractionated radiation. Int J Radiat Oncol Biol Phys. 36. Fujimoto DK, Sborov K, Von Eyben R, et al. One-week chemoradiotherapy
+2012;83(4):1306–1310. is associated with less treatment-related lymphopenia compared to
+33. Formenti SC, Demaria S. Radiation therapy to convert the tumor into an a standard treatment course for newly diagnosed glioblastoma. Int J
+in situ vaccine. Int J Radiat Oncol Biol Phys. 2012;84(4):879–880. Radiat Oncol Biol Physics. 2018;102(3):S172.
+34. Grossman SA, Ye X, Lesser G, et al; NABTT CNS Consortium. 37. Mukherjee D, Zaidi HA, Kosztowski T, et al. Disparities in access to neuro-
+Immunosuppression in patients with high-grade gliomas treated oncologic care in the United States. Arch Surg. 2010;145(3):247–253.

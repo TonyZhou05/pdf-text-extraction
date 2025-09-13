@@ -1,0 +1,1003 @@
+Source: 25976292.pdf
+Extracted on: Fri Sep 12 23:58:04 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Published in final edited form as:
+Pediatr Blood Cancer. 2015 October ; 62(10): 1717–1724. doi:10.1002/pbc.25575.
+A Phase 1 Dosing Study of Ruxolitinib in Children with Relapsed
+or Refractory Solid tumors, Leukemias, or Myeloproliferative
+Neoplasms: A Children's Oncology Group Phase 1 Consortium
+Study (ADVL1011)
+Mignon L. Loh, MD1,2,*, Sarah K. Tasian, MD3,4,5, Karen R. Rabin, MD PhD6, Patrick Brown,
+MD7,8, Daniel Magoon7,8, Joel M. Reid, Pharm D9, Xuejun Chen10, Charlotte H. Ahern11,
+Brenda J. Weigel, MD12, and Susan M. Blaney, MD6
+1Department of Pediatrics, UCSF Benioff Children's Hospital, San Francisco, CA, USA
+2Helen Diller Family Comprehensive Cancer Center, San Francisco, CA, USA
+3Abramson Cancer Center, University of Pennsylvania Perelman School of Medicine,
+Philadelphia, PA, USA
+4Children's Hospital of Philadelphia, University of Pennsylvania Perelman School of Medicine,
+Philadelphia, PA, USA
+5Department of Pediatrics, Division of Oncology, University of Pennsylvania Perelman School of
+Medicine, Philadelphia, PA, USA
+6Division of Pediatric Hematology/Oncology, Texas Children's Cancer Center, Baylor College of
+Medicine, Houston, TX, USA
+7Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Department of Oncology,
+Johns Hopkins University School of Medicine, Baltimore, MD, USA
+8Department of Pediatrics, Johns Hopkins University School of Medicine, Baltimore, MD, USA
+9 Mayo Clinic, College of Medicine, Rochester, MN, USA
+10Incyte Corporation, Wilmington, DE, USA
+11 Children's Oncology Group, Arcadia, CA, USA
+12University of Minnesota, Minneapolis, MN, USA
+Abstract
+Background—Ruxolitinib, an orally bioavailable JAK1/JAK2 inhibitor, may treat cancers with
+CRLF2 and/or JAK pathway mutations.
+*Correspondence to: Mignon L. Loh, MD, UCSF Benioff Children's Hospital, San Francisco, CA 94143, Phone: 415.514.0853,
+lohm@peds.ucsf.edu.
+Presented in part at the American Society of Clinical Oncology, Chicago, IL, June 2014
+Conflict of Interest: Dr. Loh served on a Novartis Advisory Board to discuss the development of ruxolitinib in pediatrics in April
+2013.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Loh et al. Page 2
+Procedure—A phase 1 trial of ruxolitinib was performed to determine the maximum-tolerated or
+recommended phase 2 dose, dose-limiting toxicities (DLTs), pharmacokinetics (PK), and
+pharmacodynamics (PD) in children with recurrent/refractory solid tumors (STs). Ruxolitinib was
+administered twice daily (BID) in 28-day cycles at five dose levels (15, 21, 29, 39, and 50 mg/m2/
+dose). PK and PD studies were performed during Cycle 1. Toxicity, preliminary efficacy, and
+PK/PD were also assessed in children with relapsed/refractory hematologic malignancies (HMs).
+Results—Forty-nine patients were enrolled, 28 with STs (dose escalation cohort) and 21 with
+HMs. Ruxolitinib was well-tolerated with one DLT per cohort of 6 patients at dose levels (DLs)
+2-5. One patient with a ST had grade 5 multi-organ failure at DL2. One patient each at DL3 and
+DL4 had a grade 4 neutropenia, and one patient at DL5 had a grade 4 creatinine phosphokinase
+elevation. No objective responses were observed in patients with STs. One patient with
+polycythemia vera achieved a partial response and received 18 cycles of ruxolitinib. The PK of
+ruxolitinib were similar to that in adults. Partial inhibition of phosphorylated JAK2, STAT5, and
+S6 was observed in in vitro plasma inhibitory activity PD assay.
+Conclusion—Ruxolitinib was well-tolerated in children with refractory cancer. The
+recommended phase 2 dose for continuous BID oral administration is 50 mg/m2/dose. Subsequent
+evaluation of ruxolitinib in combination with cytotoxic chemotherapy in children, adolescents, and
+young adults with JAK-mutant leukemias is planned.
+Keywords
+childhood cancer; JAK inhibitor; ruxolitinib; pediatric; pharmacokinetics
+INTRODUCTION
+Activation of tyrosine kinases and associated proteins commonly occurs in solid tumors,
+leukemias, and myeloproliferative neoplasms (MPNs). Phosphorylation of Janus kinase and
+signal transducer and activator of transcription (JAK/STAT) proteins is critical for cytokine
+signaling and signal transduction in mammalian cells, and constitutive activation of JAK/
+STAT and related pathway signaling has been identified in several hematologic
+malignancies and some solid tumors [1,2].
+While contemporary cure rates for childhood acute lymphoblastic leukemia (ALL) approach
+85%, relapse remains the most frequent cause of treatment failure and death [3]. Outcomes
+for adults with newly-diagnosed disease are substantially worse and possibly attributable to
+the heterogeneous biologic subsets in adult ALL [4,5]. Consequently, identifying genomic
+alterations that may be targeted with specific therapies in children, adolescents, and young
+adults at the highest risk of relapse has been an area of intense focus. Over the past decade,
+we have studied genomic profiles of primary leukemic blasts in association with clinical
+variables to develop powerful relapse predictors and potential avenues for new therapies.
+One example is the discovery of a Ph-like gene expression profile in approximately 15% of
+high-risk pediatric B-ALL patients enrolled on Children's Oncology Group (COG)
+AALL0232 who lack the classic BCR-ABL1 fusion gene [6,7]. Only 63% of patients with
+Ph-like ALL remain in remission at 5 years vs. 86% of those without this signature,
+highlighting the need for alternative therapeutic approaches [7].
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Loh et al. Page 3
+Through the TARGET (Therapeutically Applicable Research to Generate Effective
+Treatments) initiative sponsored by the National Cancer Institute (NCI), other novel
+genomic alterations in childhood ALL have been discovered using a variety of sequencing
+technologies [7-10]. For example, JAK1 and JAK2 point mutations have been detected in
+children with Down Syndrome-associated and non-Down Syndrome-associated ALL
+[9,11,12]. JAK point mutations are frequently accompanied by genomic rearrangements and
+occasionally point mutations of CRLF2 (cytokine receptor like factor-2), which leads to
+overexpression of the encoded protein, thymic stromal lymphopoietin receptor (TSLPR)
+[9,13,14]. JAK mutations and TSLPR overexpression confer growth factor independence in
+vitro, which can be overcome by pharmacologic JAK inhibition [9,11,12]. In addition,
+primary patient ALL cells have been shown to have high basal levels of phosphorylated
+JAK2 and STAT5 that can be inhibited in vitro by the JAK inhibitor ruxolitinib [15].
+Constitutive activation of JAK-STAT signaling has also been reported in solid tumors and
+lymphoma, and decreased tumor growth with JAK inhibition has been demonstrated in vitro
+and in vivo in preclinical models [16,17], as well as in an early phase clinical trial for
+patients with refractory lymphoma [18]. Ruxolitinib (INCB018424) is a potent, orally
+bioavailable inhibitor of the JAK family of kinases with particular efficacy against JAK1
+and JAK2. In clinical trials for adults with MPNs, single-agent ruxolitinib has been well-
+tolerated with reversible thrombocytopenia as its major dose-limiting toxicity (DLT) [19].
+We report the results of a Children's Oncology Group (COG) phase 1 trial (ADVL1011) of
+ruxolitinib with BID continuous oral dosing in children with refractory or recurrent solid
+tumors (Part A) or relapsed leukemia or MPNs (Part B). Secondary aims included evaluation
+of the pharmacokinetics (PK) of ruxolitinib, as well as a preliminary assessment of the
+pharmacodynamic (PD) effects of ruxolitinib upon intracellular kinase signaling.
+METHODS
+Patient eligibility
+Patients >12 months and <22 years of age with recurrent or refractory solid tumors (STs;
+Part A), including lymphomas, were eligible. In addition, patients with hematologic
+malignancies (HMs), including relapsed or refractory ALL or acute myeloid leukemia
+(AML), and patients with chronic MPNs (polycythemia vera [PV], essential
+thrombocythemia, juvenile myelomonocytic leukemia [JMML]) without known curative
+therapies (Part B) were eligible to enroll at one dose level below that at which patients with
+STs were enrolling. Other eligibility criteria included a Lansky or Karnofsky score ≥50,
+recovery from acute toxic effects of prior therapy, and ≥7 days from prior growth factor
+therapy (if short-acting or 14 days if long-acting). Patients with STs had to be ≥3 weeks
+from receipt of myelosuppressive chemotherapy. Patients with HMs had to be ≥2 weeks
+from prior cytotoxic therapy with the exception of maintenance-type ALL therapy for which
+there was no washout period. Patients had to be >3 months from prior stem cell transplant
+and without evidence of graft-versus-host disease. At least two weeks from local radiation
+had to have elapsed. Patients who were on corticosteroids must have been taking a stable or
+decreasing dose for 7 days prior to enrollment. Hydroxyurea use was permitted until 24
+hours prior to the first dose of ruxolitinib.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Loh et al. Page 4
+Other requirements for patients with STs without known bone marrow involvement included
+adequate bone marrow function (peripheral absolute neutrophil count >1,000/μL, platelet
+count >100,000/μL, hemoglobin >8.0 g/dL, and transfusion independence). Patients with
+STs with marrow involvement and transfusion-dependent hematologic malignancies patients
+could enroll on study, but did not contribute data to the assessment of hematologic DLTs.
+Other standard organ function requirements included an age-adjusted normal serum
+creatinine or glomerular filtration rate (GFR) ≥70 mL/min/1.73 m2 and normal liver function
+(total bilirubin ≤1.5x the institutional upper limit of normal for age, ALT ≤110 U/L, and
+albumin ≥2 g/dL).
+The institutional review boards of participating institutions approved the protocol. Written
+informed consent from patients ≥18 years or from parents/legal guardians of children age
+<18 years was obtained (and assent as appropriate) according to individual institutional
+policies.
+Drug administration and study design
+The primary objectives of the study were to 1) estimate the maximum tolerated dose (MTD)
+or recommended phase 2 dose (RP2D) of ruxolitinib administered orally continuously twice
+daily to children with relapsed or refractory solid tumors, 2) define and describe the
+toxicities of ruxolitinib, and 3) characterize the PK of ruxolitinib in children with relapsed/
+refractory malignancies or MPNs. To achieve these objectives, a rolling six dose-escalation
+scheme in which the ruxolitinib dose was increased in increments of approximately 20%
+was used [20]. Monitoring for ruxolitinib-related toxicity included physical examinations
+(weekly during Cycle 1, then prior to subsequent cycles), serum chemistries, triglycerides
+and cholesterol, albumin before each cycle, and complete blood counts (twice weekly during
+Cycle 1, then weekly).
+Ruxolitinib, supplied by the Incyte Corporation (Wilmington, DE) in 5 mg or 25 mg tablets,
+was administered twice daily (BID) continuously in cycles of 28 days in duration. Tablets
+were swallowed whole or crushed and mixed with applesauce or OraPlus (Paddock
+Laboratories, Minneapolis, MN). Patients <0.6 m2 were excluded from enrollment at the
+first dose level. The starting dose was 15 mg/m2/dose BID (Dose Level 1; DL1), 100% of
+the equivalent maximum tolerated dose in adults [19]. Dose levels for subsequent groups of
+patients were 21 mg/m2/dose BID (DL2), 29 mg/m2/dose BID (DL3), 39 mg/m2/dose BID
+(DL4), and 50 mg/m2/dose BID (DL5). No intra-patient dose escalation was allowed. In the
+absence of disease progression and if laboratory parameters as defined in the eligibility
+section were met, each 28-day cycle could be repeated without interruption.
+Toxicities were graded according to the Common Terminology Criteria for Adverse Events
+version 4.0 (http://ctep.cancer.gov). Non-hematologic DLT was defined as any grade 3 or 4
+non-hematological toxicity attributable to ruxolitinib with the specific exclusion of grade 3
+nausea or vomiting of <3 days’ duration, transaminase elevation that returned to ≤grade 1 or
+baseline prior to the next treatment cycle, grade 3 fever or infection, grade 3 electrolyte
+abnormalities responsive to oral supplementation, or grade 3 fatigue ≤3 days’ duration. In
+addition, any grade 2 non-hematological toxicity lasting ≥7 days that was considered
+medically significant or sufficiently intolerable by patients and required treatment
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Loh et al. Page 5
+interruption was considered a DLT. Hematologic DLT for patients with STslohmi was
+defined as grade 4 neutropenia or thrombocytopenia for >14 days. DLT for patients with
+leukemia or MPNs was defined as failure to recover an ANC >500/mm3 and platelets
+>20,000/mm3 by 42 days after first treatment day that was not due to malignant infiltration.
+The observation period for the purposes of dose-escalation was the first cycle of therapy.
+Disease responses for patients with STs were evaluated using the response evaluation
+criteria in solid tumors (RECIST) [21]. Complete remissions for patients with leukemia
+included a bone marrow with <5% blasts, adequate marrow cellularity, and no evidence of
+extramedullary disease. Patients with MPNs were evaluated by disease-specific response
+criteria [22]. Disease evaluations were obtained at baseline, at the end of Cycle 1, and after
+every other cycle.
+Pharmacokinetic Studies
+Serial blood samples (2-4 mL) for ruxolitinib concentrations were obtained Cycle 1, Day 1
+prior to the dose and at 1, 2, 4, 8, 12, and 24 hours following the dose. Since ruxolitinib
+dosing was BID, the 2nd dose was held on the day of PK sampling. A pre-dose blood
+sample was obtained in Cycle 1, Day 15 and on Day 1 of each subsequent cycle. Blood was
+collected and centrifuged at 2,000 x g for 15 minutes at 4 °C, then plasma was stored at ≤
+−20 °C. Ruxolitinib concentrations were measured as previously described [23].
+Concentration-time data were analyzed via standard non-compartmental analysis methods
+using Phoenix WinNonLin 6.0 (Pharsight Corporation; Mountain View, CA). Associations
+between dose, PK variables, and toxicity were performed using SAS version 9.1 (SAS
+Institute, Inc.; Cary, NC). The plots were generated using Prism 3.0 (GraphPad Software; La
+Jolla, CA).
+Pharmacodynamic Studies
+Measurements of ex vivo target inhibition—Phosphoflow cytometry analyses were
+performed to assess ruxolitinib-induced target inhibition. For the ex vivo plasma inhibitory
+activity (PIA) assays, plasma from consenting Part A and Part B patients was prepared from
+peripheral blood (3-5 mL) at Cycle 1, Day 1 prior to dosing (C1D1H0) and 4 hours post-
+dosing (C1D1H4) and at Cycle 1, Day 15 prior to dosing (C1D15H0) and stored at −80°C
+for subsequent batched analyses as described [24].
+For each timepoint, 500 μL of thawed plasma was incubated with 4 × 10 6 MUTZ5 cells
+(human IGH@-CRLF2 and JAK2 R683G ALL cell line) for 60 minutes at 37°C. Cells were
+subsequently washed and fixed with paraformaldehyde and permeabilized with methanol for
+phosphoflow cytometry analysis [15] or lysed for immunoblotting [24]. MUTZ5 cells
+incubated with normal human plasma were used as basal signaling control, while cells
+incubated in vitro with 1 μM ruxolitinib for 30 minutes at 37°C were used to delineate
+maximal phosphorylation inhibition.
+For phosphoflow cytometry analyses, MUTZ5 cells were washed, rehydrated, and stained
+with antibodies against phosphorylated (p) JAK2, pSTAT5, and pS6 prior to multi-
+parametric analysis as described [15]. Digital flow cytometry data were recorded and
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Loh et al. Page 6
+analyzed in Cytobank (Palo Alto, CA) as described [15,25]. Percent inhibition of the
+C1D1H0 baseline was calculated for the C1D1H4 and C1D15H0 timepoints via Prism 6.0.
+The Kruskal-Wallis test with Dunn's post-test for multiple comparisons was used to assess
+differences among ruxolitinib dose levels for each phosphoprotein and timepoint.
+Comparison of percent phosphoprotein inhibition between C1D1H4 and C1D15H0
+timepoints was performed with the Wilcoxon matched-pairs signed rank test.
+Immunoblotting of MUTZ5 lysates with densitometry quantification of total and pSTAT5
+was performed as described [24]. Percent inhibition of the C1D1H0 pSTAT5 band was
+calculated for the C1D1H4 and C1D15H0 timepoints as above [24]. The Spearman rank
+correlation was performed to assess the linear relationship between phosphoflow cytometry
+and immunoblotting data.
+Measurements of in vivo target inhibition—As an exploratory PD analysis, whole
+blood phosphoflow cytometry assays were performed on some specimens (n=6) from
+consenting Part B patients to assess leukemia-specific in vivo target inhibition. Blood was
+obtained at the C1D1H0, C1D1H4, and C1D1H15 timepoints and prepared as previously
+described.[26] Briefly, 100 μL aliquots of blood were fixed with formaldehyde (basal
+measurements) or exposed ex vivo to 1 μM ruxolitinib for 30 minutes at 37 °C prior to
+fixation. Specimens were lysed with Triton X-100 and permeabilized in methanol prior to
+flow cytometry data acquisition as above [15]. Leukemia cells were gated by cell surface
+markers and light scatter properties for the intracellular signaling analyses.
+Targeted Mutation Analyses—Samples (3-5 mL) were obtained at study entry from
+consenting patients with HMs for JAK mutation analyses. DNA was isolated and subjected
+to polymerase chain reaction amplification with primers for JAK1 (exons 13, 14, 15, 18, 19)
+or JAK2 (exons 16, 20, 21), then subjected to Sanger sequencing as described [6,9].
+RESULTS
+Patient Characteristics
+Forty-nine patients enrolled between September 2010 and August 2012. Twenty-eight
+patients with STs were enrolled in the dose escalation component of the trial (Part A), and
+27 were fully evaluable for toxicity. The inevaluable patient with a ST withdrew from study
+prior to starting ruxolitinib. Seventeen patients with leukemia and 4 patients with MPNs
+were enrolled in Part B; ten of these were evaluable for toxicity. The one Part A and eleven
+Part B subjects were inevaluable due to refusal of further therapy or early disease
+progression, respectively. None of these patients experienced DLTs. Patients received a
+median of one cycle of therapy (range 1 – 18 cycles). Patient characteristics are summarized
+in Table I and Supplemental Table I.
+Toxicity
+Table II summarizes the observed Cycle 1 DLTs for Part A and Part B patients. DLTs were
+reported as AEs with accompanying lab results where relevant. Tables III and IV summarize
+toxicities across all cycles of therapy. No more than 1 of 6 patients per cohort experienced a
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Loh et al. Page 7
+DLT in either part of the trial. One patient with a ST treated at DL2 (21 mg/m2) developed
+nausea/vomiting and severe dehydration within 4 days of starting ruxolitinib. Ruxolitinib
+was discontinued, but the patient, who had a large left lung sarcoma burden with resultant
+extrinsic cardiac compression, refused hospitalization after initial supportive care measures.
+She subsequently experienced acute renal failure followed by hepatic failure and death.
+Post-mortem examination revealed changes consistent with hypotensive shock. Other Cycle
+1 DLTs across the five dose levels evaluated in Part A included neutropenia (n=2) and
+increased creatine phosphokinase (n=1). The MTD was not exceeded at any dose level
+evaluated. One Part B patient treated at DL4 (39 mg/m2) experienced DLTs of grade 3
+creatinine increase and grade 3 acute kidney injury and subsequently died of leukemia
+progression. A second patient at DL4 experienced a grade 5 bronchopulmonary hemorrhage
+after discontinuing protocol therapy, which was attributed to progressive disease.
+Ruxolitinib was not held in other patients, including Part A patients with ≥grade 3
+cytopenias who were allowed blood product transfusions.
+Response
+No objective responses were observed in patients with STs. Twelve of the 37 evaluable
+patients had stable disease at the end of Cycle 1. The diagnoses for the 10 evaluable Part B
+patients included ALL (n=4), AML (n=2), JMML (n=3), and PV (n=1). Of these patients, 4
+had stable disease at the end of first month, including 2 JMML patients. The patient with PV
+had a partial response (PR) and received 18 cycles of therapy before meeting criteria for
+progressive disease. One patient with relapsed JMML received 5 cycles of chemotherapy
+before meeting disease progression criteria. Of note, 11 of the 21 patients with hematologic
+malignancies had rapid disease progression and did not complete the first cycle of therapy.
+Pharmacokinetics
+Forty-two children participated in PK analyses; the results are summarized in Supplemental
+Table II. Mean ± standard error (SE) concentration versus time data for each dose level is
+shown in Figure 1A. Peak plasma concentrations were achieved 1 hour (range 1 – 4 hours)
+after the first oral dose and decreased in a monoexponential fashion with a mean ± standard
+deviation (SD) half-life of 2.3 ± 0.9 hours (h). The mean values for ruxolitinib oral plasma
+clearance (Cl/F) and volume of distribution (V/F) among all patients were 14.8 ± 5.9 L/h
+and 59.4 ± 29.1 L, respectively, and were independent of dose level (Supplemental Table II
+and Figure 1B). Ruxolitinib PK disposition appeared linear over the dose range studied
+based on dose-proportional increases in C and AUC values and observations of
+max 0-∞
+trends, and similar CL/F values were measured across dose levels (Supplemental Table II).
+Children ≤12 years had higher body surface area (BSA)-corrected CL/F values compared
+with children >12 years (14.4 ± 8.5 L/h/m2 versus 10.2 ± 3.1 L/h/m2). The variability in
+BSA-corrected CL/F values was also greater for children ≤12 than in children >12 years
+(Figure 1B). Interestingly, 7 of 8 CL/F values >15 L/h/m2 were found in children ≤12 years
+treated at the intermediate dose levels. No differences in CL/F were observed between males
+(n=26) and females (n=16) (12.1 ± 6.3 L/h/m2 versus 12.5 ±7.2 L/h/m2).
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Loh et al. Page 8
+Pharmacodynamics
+PIA assay results showed median peak inhibition of 44.8% for pJAK2 (range 9.4 – 72.6%),
+58.9% for pSTAT5 (range 10.0 – 74.3%), and 62.3% for pS6 (range 0.9 – 85.8%) by
+phosphoflow cytometric analysis at C1D1H4. Median inhibition at C1D15 steady state was
+21.5% for pJAK2 (range −50.6 – 80.3%), 46.3% for pSTAT5 (range −50.6 – 80.4%), and
+59.2% for pS6 (range −55.5 – 85.7%), demonstrating some loss of JAK/STAT pathway
+inhibition at trough (p <0.0001 for both pJAK2 and pSTAT5), but sustained PI3K/mTOR
+pathway inhibition (Figure 2A). A subset of patients demonstrated increased phosphoprotein
+levels at steady state and loss of signaling inhibition (Figure 2A), suggesting signaling
+upregulation during treatment (24). With the exception of increased peak pSTAT5 inhibition
+at DL2 and DL5, further increases in signaling inhibition were not observed with increasing
+doses of ruxolitinib (Figure 2A). Immunoblotting studies showed median pSTAT5 inhibition
+of 80% (range 11 – 98%) and 51% (range −154 – 93%) at C1D1H4 (n=37 patients) and
+C1D15H0 (n=32 patients), respectively (Figure 2B). Comparison of pSTAT5 phosphoflow
+cytometry and immunoblotting PIA data demonstrated strong methodological correlation
+(Figure 2C).
+In vivo inhibition of signal transduction was also observed in Part B patients’ blood
+specimens analyzed by whole blood phosphoflow cytometry (Supplemental Figure 1A).
+Three B-ALL patient specimens studied in these assays demonstrated modest inhibition of
+pJAK2, pSTAT5, and pS6 at steady state dosing (representative patient data shown in
+Supplemental Figure 1B). However, ex vivo exposure of blood specimens to 1 uM
+ruxolitinib demonstrated additional signaling inhibition, suggesting lack of complete in vivo
+PD inhibition at the doses of ruxolitinib studied (Supplemental 1C). In addition, analysis of
+samples from a relapsed AML patient treated at DL3 demonstrated no basal activation or
+inhibition of JAK/STAT signaling proteins, but marked upregulation of PI3K and MAPK
+pathway proteins (Supplemental Figure 1D).
+Targeted Mutation Analysis
+All Part B patients who consented for the JAK mutation analyses were assessed. No JAK1 or
+JAK2 point mutations or increased TSLPR staining by flow cytometry were identified in
+leukemia patients. The patient with PV had a JAK2 V617F mutation.
+DISCUSSION
+In summary, ruxolitinib was well-tolerated in children with recurrent or refractory
+malignancies at all dose levels tested. While no objective responses were documented, 8
+patients received >1 cycle of ruxolitinib. Of the 10 evaluable patients with HMs, 4 had
+stable disease at the end of first month of therapy, including 2 with relapsed JMML.
+Notably, 11 of the 21 patients with HMs progressed by the defined criteria during the first
+month of induction, which highlights the challenges associated with enrollment of children
+with acute leukemias on dose escalation studies. One PR occurred in the patient with PV,
+but she discontinued ruxolitinib after Cycle 18 with documented disease progression.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Loh et al. Page 9
+Similar PK in children was observed as in healthy adults or adults with myelofibrosis [23].
+PK in male and female children were similar with greater variability in younger children
+possibly due to differences in P450 expression. PD analyses showed moderate JAK/STAT
+signaling inhibition of pSTAT5 at all dose levels that was relatively dose-independent.
+Unfortunately, there were no patients with JAK-mutant acute leukemias (either point
+mutation or fusion) enrolled on the study. Therefore, our correlative data are limited and
+reflective of what happens in cells that harbor wild-type JAK2. The level of phosphoprotein
+inhibition that may correlate with clinical responses in patients with JAK-mutant cancers
+thus remains unknown. While 50-60% pJAK2/STAT5/S6 inhibition measured by our
+indirect PIA assays perhaps seems numerically inadequate, the PD data demonstrate
+relatively dose-independent phosphoprotein inhibition by ruxolitinib. It is possible that such
+inhibition may correlate with clinical responses in JAK-mutant leukemias; our data also
+suggest that it may not be possible to achieve further phosphoprotein inhibition in vivo with
+dose escalation of ruxolitinib. Interestingly, preclinical data in murine xenograft models of
+JAK-mutant ALL demonstrate inhibition of leukemia proliferation with ruxolitinib
+monotherapy (24) at doses that produced similar steady-state levels (approximately 500 nM)
+as in patients in this phase 1 trial.
+Despite the lack of a clear response to ruxolitinib in the relapsed/refractory pediatric cancer
+population, it should be noted that (with the exception of patients with JAK2-mutant PV) no
+patients were enrolled who would have been predicted to respond to ruxolitinib. Extensive
+data indicate that 10-27% of children, adolescents, and young adults have somatic activating
+point mutations in JAK family members or JAK2 fusions [6,7,9,12,15,27], but no patients
+with these alterations enrolled on this trial. Furthermore, these patients have poor outcomes
+with currently available therapy, raising therapeutic possibilities of incorporating JAK
+inhibitors into upfront therapy, similar to the paradigm shift that has occurred with BCR-
+ABL1+ ALL and imatinib [28,29]. Anecdotal data support the use of ruxolitinib in JAK-
+mutated ALL, as evidenced by preliminary clinical responses of several patients with
+relapsed or chemorefractory JAK2-mutant ALL treated with ruxolitinib monotherapy
+(personal communication, Loh). In light of the safety and tolerability of this agent in the
+current study, testing ruxolitinib with traditional chemotherapy is a rational and logical next
+step in the journey to incorporate targeted therapies into our armamentarium to improve cure
+rates for leukemia patients with JAK lesions or evidence of dependence on JAK/STAT
+signaling.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+ACKNOWLEDGMENTS
+Funding for this work was from NIH UM1CA097452 (MLL, BW, SB), U10CA98543 (MLL, KRR),
+K12CA076931 to the University of Pennsylvania (SKT), K08CA184418 (SKT), the Conquer Cancer Foundation/
+American Society of Clinical Oncology (SKT), the Alex's Lemonade Stand Foundation (SKT), the Leukemia &
+Lymphoma Society Translational Research Program (KRR, MLL, PB), the Leukemia & Lymphoma Society
+Clinical Scholar Program (MLL, PB), an American Cancer Society Research Scholar Grant (PB), the Frank A.
+Campini Foundation (MLL), the St Baldrick's Foundation (MLL, KRR), and the Team Connor Foundation (SKT).
+MLL is the Deborah and Arthur Ablin Endowed Chair in Pediatric Molecular Oncology.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Loh et al. Page 10
+REFERENCES
+1. Quintas-Cardama A, Abdel-Wahab O, Manshouri T, Kilpivaara O, Cortes J, Roupie AL, Zhang SJ,
+Harris D, Estrov Z, Kantarjian H, Levine RL, Verstovsek S. Molecular analysis of patients with
+polycythemia vera or essential thrombocythemia receiving pegylated interferon alpha-2a. Blood.
+2013; 122(6):893–901. [PubMed: 23782935]
+2. Quintas-Cardama A, Verstovsek S. Molecular pathways: Jak/STAT pathway: mutations, inhibitors,
+and resistance. Clin Cancer Res. 2013; 19(8):1933–1940. [PubMed: 23406773]
+3. Pui CH. Recent advances in acute lymphoblastic leukemia. Oncology (Williston Park). 2011; 25(4):
+341, 346–347. [PubMed: 21618956]
+4. Avivi I, Rowe JM, Goldstone AH. Stem cell transplantation in adult ALL patients. Best Pract Res
+Clin Haematol. 2002; 15(4):653–674. [PubMed: 12617869]
+5. Mathisen MS, Kantarjian H, Thomas D, O'Brien S, Jabbour E. Acute lymphoblastic leukemia in
+adults: encouraging developments on the way to higher cure rates. Leuk Lymphoma. 2013; 54(12):
+2592–2600. [PubMed: 23547835]
+6. Loh ML, Zhang J, Harvey RC, Roberts K, Payne-Turner D, Kang H, Wu G, Chen X, Becksfort J,
+Edmonson M, Buetow KH, Carroll WL, Chen IM, Wood B, Borowitz MJ, Devidas M, Gerhard DS,
+Bowman P, Larsen E, Winick N, Raetz E, Smith M, Downing JR, Willman CL, Mullighan CG,
+Hunger SP. Tyrosine kinome sequencing of pediatric acute lymphoblastic leukemia: a report from
+the Children's Oncology Group TARGET Project. Blood. 2013; 121(3):485–488. [PubMed:
+23212523]
+7. Roberts KG, Li Y, Payne-Turner D, Harvey RC, Yang YL, Pei D, McCastlain K, Ding L, Lu C,
+Song G, Ma J, Becksfort J, Rusch M, Chen SC, Easton J, Cheng J, Boggs K, Santiago-Morales N,
+Iacobucci I, Fulton RS, Wen J, Valentine M, Cheng C, Paugh SW, Devidas M, Chen IM, Reshmi S,
+Smith A, Hedlund E, Gupta P, Nagahawatte P, Wu G, Chen X, Yergeau D, Vadodaria B, Mulder H,
+Winick NJ, Larsen EC, Carroll WL, Heerema NA, Carroll AJ, Grayson G, Tasian SK, Moore AS,
+Keller F, Frei-Jones M, Whitlock JA, Raetz EA, White DL, Hughes TP, Guidry Auvil JM, Smith
+MA, Marcucci G, Bloomfield CD, Mrozek K, Kohlschmidt J, Stock W, Kornblau SM, Konopleva
+M, Paietta E, Pui CH, Jeha S, Relling MV, Evans WE, Gerhard DS, Gastier-Foster JM, Mardis E,
+Wilson RK, Loh ML, Downing JR, Hunger SP, Willman CL, Zhang J, Mullighan CG. Targetable
+kinase-activating lesions in Ph-like acute lymphoblastic leukemia. N Engl J Med. 2014; 371(11):
+1005–1015. [PubMed: 25207766]
+8. Harvey RC, Mullighan CG, Chen IM, Wharton W, Mikhail FM, Carroll AJ, Kang H, Liu W,
+Dobbin KK, Smith MA, Carroll WL, Devidas M, Bowman WP, Camitta BM, Reaman GH, Hunger
+SP, Downing JR, Willman CL. Rearrangement of CRLF2 is associated with mutation of JAK
+kinases, alteration of IKZF1, Hispanic/Latino ethnicity, and a poor outcome in pediatric B-
+progenitor acute lymphoblastic leukemia. Blood. 2010; 115(26):5312–5321. [PubMed: 20139093]
+9. Mullighan CG, Zhang J, Harvey RC, Collins-Underwood JR, Schulman BA, Phillips LA, Tasian
+SK, Loh ML, Su X, Liu W, Devidas M, Atlas SR, Chen IM, Clifford RJ, Gerhard DS, Carroll WL,
+Reaman GH, Smith M, Downing JR, Hunger SP, Willman CL. JAK mutations in high-risk
+childhood acute lymphoblastic leukemia. Proc Natl Acad Sci U S A. 2009; 106(23):9414–9418.
+[PubMed: 19470474]
+10. Roberts KG, Morin RD, Zhang J, Hirst M, Zhao Y, Su X, Chen SC, Payne-Turner D, Churchman
+ML, Harvey RC, Chen X, Kasap C, Yan C, Becksfort J, Finney RP, Teachey DT, Maude SL, Tse
+K, Moore R, Jones S, Mungall K, Birol I, Edmonson MN, Hu Y, Buetow KE, Chen IM, Carroll
+WL, Wei L, Ma J, Kleppe M, Levine RL, Garcia-Manero G, Larsen E, Shah NP, Devidas M,
+Reaman G, Smith M, Paugh SW, Evans WE, Grupp SA, Jeha S, Pui CH, Gerhard DS, Downing
+JR, Willman CL, Loh M, Hunger SP, Marra MA, Mullighan CG. Genetic alterations activating
+kinase and cytokine receptor signaling in high-risk acute lymphoblastic leukemia. Cancer Cell.
+2012; 22(2):153–166. [PubMed: 22897847]
+11. Bercovich D, Ganmore I, Scott LM, Wainreb G, Birger Y, Elimelech A, Shochat C, Cazzaniga G,
+Biondi A, Basso G, Cario G, Schrappe M, Stanulla M, Strehl S, Haas OA, Mann G, Binder V,
+Borkhardt A, Kempski H, Trka J, Bielorei B, Avigad S, Stark B, Smith O, Dastugue N, Bourquin
+JP, Tal NB, Green AR, Izraeli S. Mutations of JAK2 in acute lymphoblastic leukaemias associated
+with Down's syndrome. Lancet. 2008; 372(9648):1484–1492. [PubMed: 18805579]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Loh et al. Page 11
+12. Mullighan CG, Collins-Underwood JR, Phillips LA, Loudin MG, Liu W, Zhang J, Ma J, Coustan-
+Smith E, Harvey RC, Willman CL, Mikhail FM, Meyer J, Carroll AJ, Williams RT, Cheng J,
+Heerema NA, Basso G, Pession A, Pui CH, Raimondi SC, Hunger SP, Downing JR, Carroll WL,
+Rabin KR. Rearrangement of CRLF2 in B-progenitor- and Down syndrome-associated acute
+lymphoblastic leukemia. Nat Genet. 2009
+13. Russell LJ, Capasso M, Vater I, Akasaka T, Bernard OA, Calasanz MJ, Chandrasekaran T,
+Chapiro E, Gesk S, Griffiths M, Guttery DS, Haferlach C, Harder L, Heidenreich O, Irving J,
+Kearney L, Nguyen-Khac F, Machado L, Minto L, Majid A, Moorman AV, Morrison H, Rand V,
+Strefford JC, Schwab C, Tonnies H, Dyer MJ, Siebert R, Harrison CJ. Deregulated expression of
+cytokine receptor gene, CRLF2, is involved in lymphoid transformation in B-cell precursor acute
+lymphoblastic leukemia. Blood. 2009; 114(13):2688–2698. [PubMed: 19641190]
+14. Yoda A, Yoda Y, Chiaretti S, Bar-Natan M, Mani K, Rodig SJ, West N, Xiao Y, Brown JR,
+Mitsiades C, Sattler M, Kutok JL, DeAngelo DJ, Wadleigh M, Piciocchi A, Dal Cin P, Bradner JE,
+Griffin JD, Anderson KC, Stone RM, Ritz J, Foa R, Aster JC, Frank DA, Weinstock DM.
+Functional screening identifies CRLF2 in precursor B-cell acute lymphoblastic leukemia. Proc
+Natl Acad Sci U S A. 2010; 107(1):252–257. [PubMed: 20018760]
+15. Tasian SK, Doral MY, Borowitz MJ, Wood BL, Chen IM, Harvey RC, Gastier-Foster JM,
+Willman CL, Hunger SP, Mullighan CG, Loh ML. Aberrant STAT5 and PI3K/mTOR pathway
+signaling occurs in human CRLF2-rearranged B-precursor acute lymphoblastic leukemia. Blood.
+2012; 120(4):833–842. [PubMed: 22685175]
+16. Schindler CW. Series introduction. JAK-STAT signaling in human disease. J Clin Invest. 2002;
+109(9):1133–1137. [PubMed: 11994400]
+17. Verma A, Kambhampati S, Parmar S, Platanias LC. Jak family of kinases in cancer. Cancer
+metastasis reviews. 2003; 22(4):423–434. [PubMed: 12884916]
+18. Younes A, Romaguera J, Fanale M, McLaughlin P, Hagemeister F, Copeland A, Neelapu S, Kwak
+L, Shah J, de Castro Faria S, Hart S, Wood J, Jayaraman R, Ethirajulu K, Zhu J. Phase I study of a
+novel oral Janus kinase 2 inhibitor, SB1518, in patients with relapsed lymphoma: evidence of
+clinical and biologic activity in multiple lymphoma subtypes. J Clin Oncol. 2012; 30(33):4161–
+4167. [PubMed: 22965964]
+19. Verstovsek S, Kantarjian H, Mesa RA, Pardanani AD, Cortes-Franco J, Thomas DA, Estrov Z,
+Fridman JS, Bradley EC, Erickson-Viitanen S, Vaddi K, Levy R, Tefferi A. Safety and efficacy of
+INCB018424, a JAK1 and JAK2 inhibitor, in myelofibrosis. N Engl J Med. 2010; 363(12):1117–
+1127. [PubMed: 20843246]
+20. Skolnik JM, Barrett JS, Jayaraman B, Patel D, Adamson PC. Shortening the timeline of pediatric
+phase I trials: the rolling six design. J Clin Oncol. 2008; 26(2):190–195. [PubMed: 18182661]
+21. Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent D, Ford R, Dancey J, Arbuck S,
+Gwyther S, Mooney M, Rubinstein L, Shankar L, Dodd L, Kaplan R, Lacombe D, Verweij J. New
+response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). European
+journal of cancer. 2009; 45(2):228–247. [PubMed: 19097774]
+22. Barosi G, Birgegard G, Finazzi G, Griesshammer M, Harrison C, Hasselbalch HC, Kiladjian JJ,
+Lengfelder E, McMullin MF, Passamonti F, Reilly JT, Vannucchi AM, Barbui T. Response
+criteria for essential thrombocythemia and polycythemia vera: result of a European LeukemiaNet
+consensus conference. Blood. 2009; 113(20):4829–4833. [PubMed: 19278953]
+23. Shi JG, Chen X, McGee RF, Landman RR, Emm T, Lo Y, Scherle PA, Punwani NG, Williams
+WV, Yeleswaram S. The pharmacokinetics, pharmacodynamics, and safety of orally dosed
+INCB018424 phosphate in healthy volunteers. Journal of clinical pharmacology. 2011; 51(12):
+1644–1654. [PubMed: 21257798]
+24. Levis M, Brown P, Smith BD, Stine A, Pham R, Stone R, Deangelo D, Galinsky I, Giles F, Estey
+E, Kantarjian H, Cohen P, Wang Y, Roesel J, Karp JE, Small D. Plasma inhibitory activity (PIA):
+a pharmacodynamic assay reveals insights into the basis for cytotoxic response to FLT3 inhibitors.
+Blood. 2006; 108(10):3477–3483. [PubMed: 16857987]
+25. Maude SL, Tasian SK, Vincent T, Hall JW, Sheen C, Roberts KG, Seif AE, Barrett DM, Chen IM,
+Collins JR, Mullighan CG, Hunger SP, Harvey RC, Willman CL, Fridman JS, Loh ML, Grupp
+SA, Teachey DT. Targeting JAK1/2 and mTOR in murine xenograft models of Ph-like acute
+lymphoblastic leukemia (ALL). Blood. 2012
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Loh et al. Page 12
+26. Perl AE, Kasner MT, Shank D, Luger SM, Carroll M. Single-cell pharmacodynamic monitoring of
+S6 ribosomal protein phosphorylation in AML blasts during a clinical trial combining the mTOR
+inhibitor sirolimus and intensive chemotherapy. Clin Cancer Res. 2012; 18(6):1716–1725.
+[PubMed: 22167413]
+27. Zhang J, Mullighan CG, Harvey RC, Wu G, Chen X, Edmonson M, Buetow KH, Carroll WL,
+Chen IM, Devidas M, Gerhard DS, Loh ML, Reaman GH, Relling MV, Camitta BM, Bowman
+WP, Smith MA, Willman CL, Downing JR, Hunger SP. Key pathways are frequently mutated in
+high-risk childhood acute lymphoblastic leukemia: a report from the Children's Oncology Group.
+Blood. 2011; 118(11):3080–3087. [PubMed: 21680795]
+28. Schultz KR, Carroll A, Heerema NA, Bowman WP, Aledo A, Slayton WB, Sather H, Devidas M,
+Zheng HW, Davies SM, Gaynon PS, Trigg M, Rutledge R, Jorstad D, Winick N, Borowitz MJ,
+Hunger SP, Carroll WL, Camitta B. Long-term follow-up of imatinib in pediatric Philadelphia
+chromosome-positive acute lymphoblastic leukemia: Children's Oncology Group Study
+AALL0031. Leukemia. 2014
+29. Schultz KR, Bowman WP, Aledo A, Slayton WB, Sather H, Devidas M, Wang C, Davies SM,
+Gaynon PS, Trigg M, Rutledge R, Burden L, Jorstad D, Carroll A, Heerema NA, Winick N,
+Borowitz MJ, Hunger SP, Carroll WL, Camitta B. Improved early event-free survival with
+imatinib in Philadelphia chromosome-positive acute lymphoblastic leukemia: a children's
+oncology group study. J Clin Oncol. 2009; 27(31):5175–5181. [PubMed: 19805687]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Loh et al. Page 13
+Figure 1. Pharmacokinetics of ruxolitinib in children with relapsed cancers
+(A) Mean (SE) ruxolitinib plasma concentrations versus time in children treated on
+ADVL1011 are stratified by dose level. (B) Area under the concentration from time zero to
+infinity as a method to calculate mean concentration levels of a therapeutic agent (upper
+panel), oral clearance per dose/m2 (middle panel), and oral clearance per age in years (lower
+panel) are displayed.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Loh et al. Page 14
+Figure 2. Quantification of in vivo signaling inhibition
+MUTZ5 cells were incubated with plasma obtained at the specified timepoints from patients
+treated with ruxolitinib, then analyzed by phosphoflow cytometry (A) and immunoblotting
+(B) to quantify inhibition of signal transduction proteins at peak (C1D1H4; n=37 patients)
+and trough (C1D15H0; n=32 patients) timepoints. C1D15H0 plasma samples were not
+submitted for some patients or were of insufficient volume for analysis. Increased pSTAT5
+inhibition was observed with doses of ruxolitinib at 29 mg/m2/dose and 50 mg/m2/dose
+(p<0.0001 via Kruskal Wallis test with Dunn's post-test for multiple comparisons), but
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Loh et al. Page 15
+inhibition of phosphoproteins was otherwise dose-independent. Loss of signaling inhibition
+was observed for pJAK and pSTAT5 between C1D1H4 and C1D15H0 (**** p<0.0001 for
+both), but not for pS6 (p=0.4045). (C) Linear correlation of phosphoflow cytometry (PF)
+and immunoblotting (IB) percent pSTAT5 inhibition data was observed at both C1D1H4
+(R=0.6007, p=0.0002) and C1D15H0 (R=0.6550, p=0.0007) timepoints. Grey = ruxolitinib
+15 mg/m2/dose (n=7), red = 21 mg/m2/dose (n=7), blue = 29 mg/m2/dose (n=8), pink = 39
+mg/m2/dose (n=9), black = 50 mg/m2/dose (n=6). Open circles = solid tumor patients, filled
+circles = leukemia/MPN patients. C = cycle, D = day, H = hour.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Loh et al. Page 16
+Table I
+Characteristics for eligible patients (n=49).
+Characteristic Number (%)
+Age (years)
+Median 14.4
+Range 2.4-21.4
+Sex
+Male 31 (63.3)
+Female 18 (36.7)
+Race
+White 29 (59.2)
+Asian 2 (4.1)
+American Indian or Alaska Native 1 (2.0)
+Black or African American 8 (16.3)
+Unknown 9 (18.4)
+Ethnicity
+Non-Hispanic 35 (71.4)
+Hispanic 12 (24.5)
+Unknown 2 (4.1)
+*
+Diagnosis
+Solid Tumor 28
+Hematologic Malignancy 21
+*
+See Supplemental Table I for detailed list of diagnoses.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Loh et al. Page 17
+Table II
+Dose-limiting toxicity summary for Cycle 1.
+Stratum Dose Level Number Patients Entered Number Patients Evaluable Number Toxicity (Grade)
+Patients with
+DLT
+15 mg/m2 4 3 0 -
+21 mg/m2 6 6 1 ALT (4), dehydration (3),
+hypotension (3), multi-organ
+failure (5), nausea (3), vomiting
+(3)
+Part A
+29 mg/m2 6 6 1 Neutropenia (4)
+39 mg/m2 6 6 1 Neutropenia (4)
+50 mg/m2 6 6 1 CPK increased (4)
+15 mg/m2 6 4 0 -
+21 mg/m2 3 1 0 -
+Part B
+29 mg/m2 6 3 0 -
+39 mg/m2 6 2 1 Creatinine (3), acute kidney
+injury (3)
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Loh et al. Page 18
+III
+elbaT
+)72=n(
+stneitap
+romut
+dilos
+elbaulave
+ni
+devresbo
+seiticixot
+cigolotameh
+gnitimil-esod-noN
+)selcyc
+63
+=
+latot(
+81
+ot
+2
+selcyC
+ssorca
+yticixot
+fo
+edarg
+mumixaM
+)selcyc
+73
+=
+latot(
+1 elcyC
+ssorca
+yticixot
+fo
+edarg
+mumixaM
+epyT
+yticixoT
+4
+edarG
+3
+edarG
+2 edarG
+1
+edarG
+4
+edarG
+3 edarG
+2
+edarG
+1
+edarG
+4
+4
+3
+4
+6
+8
+aimenA
+1
+3
+2
+3
+2
+1
+5
+4
+ainepohpmyL
+2
+sisotycohpmyL
+2
+1
+3
+3
+5
+9
+ainepokueL
+1
+5
+2
+2
+4
+6
+3
+aineportueN
+1
+4
+2
+2
+01
+ainepotycobmorhT
+.noitubirtta
+dna
+ycneuqerf
+fo
+tnednepedni
+seiticixot
+cigolotameh
+gnitimil-esod-non
+fo
+stsisnoc
+elbat
+sihT
+:etoN
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Loh et al. Page 19
+VI
+elbaT
+.)73=n(
+1
+elcyC
+gnirud
+stneitap
+elbaulave
+fo
+%01>
+ni
+devresbo
+dna
+ypareht
+locotorp
+ot
+detaler
+seiticixot
+cigolotameh-non
+gnitimil-esod-noN
+)selcyc
+63
+=
+latot(
+81
+ot
+2
+selcyC
+ssorca
+yticixot
+fo
+edarg
+mumixaM
+)selcyc
+73
+=
+latot(
+1
+elcyC
+ssorca
+yticixot
+fo
+edarg
+mumixaM
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+epyT
+yticixoT
+1
+1
+4
+niap
+lanimodbA
+1
+1
+1
+3
+4
+esarefsnartonima
+eninalA
+1
+1
+2
+1
+8
+esarefsnartonima
+etatrapsA
+1
+1
+3
+niburiliB
+4
+noitapitsnoC
+1
+1
+3
+eninitaerC
+1
+3
+7
+eugitaF
+1
+1
+3
+ehcadaeH
+1
+6
+aimeclacopyH
+1
+4
+aimertanopyH
+2
+1
+1
+8
+aesuaN
+1
+3
+gnitimoV
+Pediatr Blood Cancer. Author manuscript; available in PMC 2016 October 01.

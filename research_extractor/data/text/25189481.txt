@@ -1,0 +1,1008 @@
+Source: 25189481.pdf
+Extracted on: Sat Sep 13 00:02:29 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+Published in final edited form as:
+Clin Cancer Res. 2014 November 1; 20(21): 5392–5402. doi:10.1158/1078-0432.CCR-14-0968.
+A Phase I/II Trial of Belinostat in Combination with Cisplatin,
+Doxorubicin and Cyclophosphamide in Thymic Epithelial
+Tumors: A Clinical And Translational Study
+Anish Thomas1, Arun Rajan1, Eva Szabo2, Yusuke Tomita1, Corey A. Carter3, Barbara
+Scepura1, Ariel Lopez-Chavez1, Min-Jung Lee1, Christophe E. Redon4, Ari Frosch1, Cody J.
+Peer1, Yuanbin Chen1, Richard Piekarz5, Seth M. Steinberg6, Jane B. Trepel1, William D.
+Figg1, David S. Schrump7, and Giuseppe Giaccone1,‡
+1Medical Oncology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD
+2Division of Cancer Prevention, National Cancer Institute, National Institutes of Health, Bethesda,
+MD
+3Department of Hematology and Oncology, Walter Reed National Military Medical Center,
+Bethesda, MD
+4Laboratory of Molecular Pharmacology, National Cancer Institute National Institutes of Health,
+Bethesda, MD
+5Cancer Therapy Evaluation Program, National Cancer Institute, National Institutes of Health,
+Bethesda, MD
+6Biostatistics and Data Management Section, National Cancer Institute, National Institutes of
+Health, Bethesda, MD
+7Surgery Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD
+Abstract
+Purpose—This phase I/II study sought to determine the safety and maximum-tolerated dose
+(MTD) of a novel schedule of belinostat, a histone deacetylase inhibitor administered prior to and
+in combination with cisplatin (P), doxorubicin (A) and cyclophosphamide (C) in thymic epithelial
+tumors (TET). Anti-tumor activity, pharmacokinetics, and biomarkers of response were also
+assessed.
+Patients and methods—Patients with advanced, unresectable TET received increasing doses
+of belinostat as a continuous intravenous infusion over 48-hours with chemotherapy in 3-week
+cycles. In phase II, belinostat at the MTD was used.
+Results—26 patients were enrolled (thymoma: 12; thymic carcinoma: 14). Dose-limiting
+toxicities at 2000 mg/m2 belinostat were grade 3 nausea and diarrhea and grade 4 neutropenia and
+thrombocytopenia, respectively, in two patients. 24 patients were treated at the MTD of 1000
+Corresponding author: Giuseppe Giaccone, MD PhD, Lombardi Cancer Center, Georgetown University, Research Building Room
+W503, 3970 Reservoir Road NW, Washington DC 20057. gg496@georgetown.edu. Phone: 001-202-6877072, Fax 001-202-6870313.
+Conflicts of interest: The authors have no conflicts of interest.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Thomas et al. Page 2
+mg/m2 with chemotherapy (P 50 mg/m2 on day 2; A 25 mg/m2 on days 2, 3; C 500 mg/m2 on day
+3). Objective response rates in thymoma and thymic carcinoma were 64% [95% confidence
+interval: 30.8%–89.1%] and 21% (4.7%–50.8%) respectively. Modulation of pharmacodynamic
+markers of HDAC-inhibition and declines in regulatory T cell (Tregs) and exhausted CD8+ T cell
+populations were observed. Decline in Tregs was associated with response (p=0.0041) and
+progression-free survival (p=0.021). Declines in TIM-3+ CD8+T cells were larger in responders
+than non-responders (p=0.049).
+Conclusion—This study identified the MTD of belinostat in combination with PAC and
+indicates that the combination is active and feasible in TETs. Immunomodulatory effects on
+regulatory T cells and TIM3+ CD8+ T cells warrant further study.
+Keywords
+thymic epithelial tumors; thymoma; thymic carcinoma; histone deacetylase inhibitor
+Background
+Thymic epithelial tumors (TETs) are rare malignancies with an incidence of 0.13 per
+100,000 person-years in the United States.1 Depending on morphology and atypia of the
+neoplastic epithelial cells and their relative proportion compared with lymphocytes, the
+World Health Organization (WHO) classification groups TETs into a continuum of tumors
+with increasing degrees of aggressiveness: types A, AB, B1, B2, B3 and C, the latter also
+referred to as thymic carcinoma.2 The WHO classification and the Masaoka staging system,3
+which takes into account the integrity of the thymic capsule, degree of local tumor invasion
+and presence of distant metastases are useful predictors of the biologic behavior and
+prognosis of TETs. Type A thymoma has an excellent overall survival rate of more than
+95% at 10 years, whereas the 5-year survival for types B2, B3, and thymic carcinoma are
+75%, 70%, and 48%, respectively.4 Thymic carcinomas account for less than 1% of TETs
+and display a more aggressive phenotype with higher likelihood of distant metastases
+compared with thymomas.5
+Chemotherapy is used in patients with unresectable or recurrent disease. Several regimens
+have been used, but a combination of cisplatin, doxorubicin and cyclophosphamide (PAC) is
+one of the most commonly employed regimens.5,6 In a phase II trial of 30 patients among
+whom only one patient had thymic carcinoma, this combination resulted in an objective
+response rate (ORR) of 50%.7 The median duration of response and overall survival were 12
+months and 38 months respectively. Largely due to the rarity of the disease, there are no
+randomized control trials comparing chemotherapies.5
+Acetylation and deacetylation of histones, the protein component of the nucleosome core
+particle, plays an important role in the regulation of gene expression. The inhibition of
+histone deacetylase (HDAC) enzymes by HDAC inhibitors (HDACi) shifts the dynamic
+equilibrium between the deacetylation activity of HDACs, which has been associated with
+gene silencing, and the acetylation activity of histone acetyltransferases (HATs), which has
+been associated with chromatin decondensation and gene expression. In particular, HDACi
+have been reported to induce the expression of genes suppressing the malignant phenotype
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Thomas et al. Page 3
+and have demonstrated promising anticancer activity against a variety of hematological
+malignancies. HDACi also mediate anti-cancer effects by inhibiting deacetylation of a
+number of non-histone proteins.8,9
+Belinostat, N-hydroxy-3-(phenylsulphamoylphenyl) acrylamide, is an HDACi of the
+hydroxymate class which inhibits both HDAC class I and II enzymes in nanomolar
+concentrations in vitro.10 In a phase II trial of patients with TETs who had failed prior
+platinum-containing chemotherapy, we showed that belinostat has modest antitumor activity
+with minimal toxicity.11 Of 41 patients, two with thymoma achieved a partial response and
+25 had stable disease, but no responses were seen in patients with thymic carcinoma.
+Median times to progression and overall survival were 5.8 and 19.1 months, respectively in
+the overall population.
+Belinostat has been shown to potentiate the antitumor activity of platinum-containing agents
+in vitro.12 Potentiation of chemotherapy by HDAC inhibition is likely secondary to altered
+gene expression patterns allowing increased chemotherapy-sensitivity.13 Chromatin
+decondensation could also facilitate increased access to DNA-damaging agents and target
+drug-tolerant subpopulations which evolve via an altered chromatin state in response to
+stressful exposures such as chemotherapy.14
+Here, we report results of a phase I/II study of belinostat in combination with PAC in the
+first- line treatment of advanced or recurrent TETs. We also evaluated the pharmacokinetics
+of belinostat when administered with chemotherapy and pharmacodynamic effects in
+peripheral blood.
+Materials and Methods
+Patients
+Eligible patients were those more than 18 years of age with histologically-confirmed
+advanced (Masaoka stage III or IV) TETs who had not received prior systemic therapy for
+advanced disease with Eastern Cooperative Oncology Group (ECOG) performance status
+score 0 or 1, life expectancy more than 3 months, and adequate organ function. Patients at
+increased cardiac risk were excluded, including those with unstable angina, myocardial
+infarction within the previous 12 months, baseline prolongation of QT/QTc interval as
+demonstrated by repeated QTc interval > 500 ms and long QT syndrome. Other exclusion
+criteria included: resectable disease, untreated brain metastases, radiotherapy or
+chemotherapy within 3 weeks before study drug administration, or positive serology for
+human immunodeficiency virus.
+The study was approved by the National Cancer Institute Institutional Review Board. The
+study was overseen by a Safety Monitoring Committee. All patients provided written
+informed consent to participate in the study before undergoing any study-related procedures.
+This trial was registered with ClinicalTrials.gov, number NCT01100944.
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Thomas et al. Page 4
+Study design
+Patients received 250 mg/m2 or 500 mg/m2 of belinostat via four consecutive 12-hour
+continuous intravenous infusions (CIVI) for 48 hrs starting on day 1. At dose levels 1 and 2,
+patients received the same doses of doxorubicin (25 mg/m2 on days 2 and 3, IV push over
+3–5 min), cisplatin (50 mg/m2 over 60 min IV on day 2 after doxorubicin), and
+cyclophosphamide (500 mg/m2 over 60 min IV on day 3 after doxorubicin). Combination of
+chemotherapy and belinostat was repeated every 21 days for a total of 6 cycles unless there
+was evidence of disease progression or intolerance of the study treatment.
+The study was divided into 2 phases, a dose escalation phase (phase I) and an expansion
+phase (phase II). The phase I portion of the trial consisted of a stepwise increase in
+belinostat and chemotherapy using a standard phase I design with 4 planned dose levels to
+determine the safety and tolerability of this combination. A conventional 3 + 3 dose-
+escalation design was used with up to 3 additional patients added if one patient exhibited a
+dose-limiting toxicity (DLT). Dose escalation was halted if at least 2 out of a maximum of 6
+patients within a cohort exhibited a DLT. Intra-patient dose escalations were not allowed.
+Table S1 contains the dose escalation schema. Criteria for defining DLT and maximum-
+tolerated dose (MTD) are in Supplementary Methods.
+During the phase II, additional patients were enrolled to evaluate antitumor activity, safety,
+pharmacokinetics and pharmacodynamics. In this phase, patients were treated at the MTD.
+Treatment was discontinued in the event of progressive disease (PD) or unacceptable
+toxicity.
+Patients with non-progressive disease after combination therapy could receive maintenance
+belinostat every 4 weeks until disease progression or unacceptable toxic effects developed.
+If however, disease was felt to be resectable, they were offered multimodality therapy
+including surgical resection and radiation. Patients with resectable disease did not receive
+maintetance belinostat.
+Safety evaluations
+Safety assessments included monitoring for treatment-related adverse events, clinical
+laboratory tests, vital signs, physical examinations, and 12-lead electrocardiograms (ECG).
+Adverse events were evaluated in accordance with National Cancer Institute Common
+Terminology Criteria for Adverse Events, Version 4.0, and were followed to a satisfactory
+resolution or a clinically stable endpoint.
+Pharmacokinetic evaluations
+During cycle 1, plasma samples were drawn pre-treatment, 0.5, 1, and 2 hours post-start of
+belinostat infusion on day 1; immediately prior to, immediately following, and 1-hr post-
+cisplatin on day 2; immediately prior to, immediately following, and 1- hour post-
+cyclophosphamide on day 3, as well as immediately following end of 48-hour belinostat
+infusion, and 5, 15, 30 minutes, 1, 2, 4, 6, 8, 12, and 24 hours after completion of belinostat
+infusion. This allowed for steady-state pharmacokinetics and the elimination of belinostat
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Thomas et al. Page 5
+following the end of the 48-hour CIVI. Details of pharmacokinetic analyses are in
+Supplementary Methods.
+Pharmacodynamic evaluations
+Whole blood samples were collected in cell preparation (CPT) tubes with sodium citrate
+(BD Biosciences, San Jose, CA) on days 1–3 of cycle 1 and prior to treatment on day 1 of
+cycle 2. Peripheral blood mononuclear cells (PBMC) were obtained by centrifugation and
+viably frozen until analysis. All analyses were performed by multiparametric flow cytometry
+(MACSQuant, Miltenyi Biotec, Bergisch Gladbach, DE) and flow cytometric data were
+analyzed using FlowJo (Tree Star Inc., Ashland, OR) software.
+PBMCs were analyzed for global protein acetylation, tubulin acetylation,11 and γ-H2AX
+expression.15 Regulatory T cells (CD4+CD25hiFoxp3+) and CD8+ T cells were evaluated
+for an immunosuppressive/exhausted phenotype (CTLA-4, T-cell immunoglobulin- and
+mucin-domain-containing molecule 3, TIM-3; programmed death-1, PD-1, p21). Details of
+pharmacodynamic analyses are in Supplementary Methods.
+Efficacy evaluations
+Baseline tumor assessments were conducted by computed tomography (CT) scan within 4
+weeks of starting study treatment, and efficacy was evaluated by repeat imaging after every
+6 weeks during both combination and maintenance treatments. Tumor assessments were
+conducted using Response Evaluation Criteria in Solid Tumors version 1.1.16 Confirmatory
+scans were obtained 6 weeks following initial documentation of an objective response.
+Statistical considerations in design and analysis
+The primary objective of phase I was to determine the MTD of belinostat when combined
+with PAC. The phase I dose escalation portion of the trial used a standard 3 + 3 design to
+determine MTD over 4 dose levels of belinostat with varying doses of cytotoxic
+chemotherapy.
+The primary objective of phase II was to determine if this drug combination was associated
+with ORRs exceeding those historically seen with PAC in metastatic or recurrent
+thymomas.7 The phase II used a Simon two-stage optimal design in order to rule out an
+unacceptably low 50% ORR [partial response (PR)+ complete response (CR)], in favor of a
+modestly high ORR of 75%. With an alpha=0.10 and beta=0.10, this portion of the study
+was to initially enroll 12 evaluable patients with thymoma and if 7 or more of the first 12
+had a response, then accrual would continue until a total of 28 patients were enrolled in the
+phase II portion. Patients who were treated at the MTD during phase I were to be included
+among the initial 12 patients constituting the first stage. If there were 7 to 17 responses in 28
+patients, this would be an uninterestingly low ORR, while if there were 18 or more
+responses, it would be sufficiently interesting to warrant further study in later trials. Under
+the null hypothesis (50% ORR), the probability of early termination was 61%.
+Patients with thymic carcinoma, which is less common than thymoma, were to be treated
+using the identified phase II doses, but they were not to be included in the two-stage design.
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Thomas et al. Page 6
+Patients with thymic carcinoma were to have a separate ORR determined and reported with
+95% confidence interval (CI).
+The safety analysis included all patients who received at least one dose of belinostat.
+Descriptive statistics were used to summarize the pharmacokinetic and pharmacodynamic
+data, and safety. The expected accrual rate was up to 2 patients per month and it was
+anticipated that the trial would be completed in 2–3 years. Additional details of statistical
+analyses are in Supplementary Methods.
+Results
+Patient disposition and baseline characteristics
+Between April 2010 and June 2013, 26 patients were enrolled in the study. Baseline
+demographic characteristics are summarized in Table 1. Eight patients were treated in the
+dose escalation phase of the protocol (phase I) which explored two dose levels (3 patients at
+dose level 1, 2 patients at dose level 2 and the last 3 patients at dose level 1) and 18 patients
+were treated on phase II. In total 24 patients were treated at the recommended phase II dose
+(MTD).
+All 26 patients received at least one cycle of treatment. The median number of combination
+treatment cycles administered was 6 (range: 1–6); 20 (77%) patients received the planned 6
+cycles. After 5 cycles, treatment was discontinued in both patients who were treated at dose
+level 2 due to adverse events. Adverse events precluded treatment beyond 4 cycles in two
+more patients. One patient discontinued treatment after one cycle due to treatment delay
+secondary to viral meningoencephalitis. One patient had progressive disease after 2 cycles.
+Of 20 patients who completed all 6 cycles of combination treatment and were eligible, only
+4 (20%) proceeded to receive maintenance belinostat. As of October 15, 2013, maintenance
+belinostat was discontinued in two patients due to PD after 1 and 5 cycles, respectively,
+whereas two other patients remain on treatment and have received 1 and 3 cycles of
+belinostat.
+After enrolling 26 patients including the first 12 patients with thymoma to complete the
+first-stage of the two-stage design, the study was closed due to slower than projected
+accrual.
+Efficacy
+Table 2 shows responses by histological cohort. Twenty-five of 26 (96%) patients were
+evaluable for response. One patient with thymoma, who was treated at dose level 1, was
+hospitalized for viral meningoencephalitis during the first cycle and was not evaluable for
+response.
+Both patients who were treated at dose level 2, one each with thymoma and thymic
+carcinoma, had PRs. Among the 23 evaluable patients who were treated at dose level 1, one
+patient (4%) had a CR, 7 (30%) had PRs, 14 (61%) had stable disease (SD) and one patient
+(4%) had PD.
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Thomas et al. Page 7
+In the overall population of 25 evaluable patients, one patient (4%) had a CR, 9 (36%) had
+PRs, 14 (56%) had stable disease (SD) and one (4%) patient had PD. The ORR in the overall
+population was 40% [95% CI: 21.1%–61.3%) and disease control rate (DCR: SD+PR+CR)
+96% (95% CI: 79.7%–99.9%). The median duration of response (DOR) was 7.4 months
+(95% CI: 5.2 months to undefined upper limit). After a median potential follow up of 20.5
+months, the median OS was 28.5 months and median PFS 9 months.
+Among 11 evaluable patients with thymoma which included 10 who were treated at the
+MTD, one patient (9%) had a confirmed and durable CR: a 61-year old woman with B2
+thymoma who had undergone surgical resection 3 years prior with recurrent disease
+involving bilateral lung parenchyma achieved a CR after 4 cycles of treatment which lasted
+for 21 months. There were 6 PRs (55%) and 4 SD (36%). The ORR for thymoma was 64%
+(7/11; 95% CI: 30.8%–89.1%) and the DCR 100% (95% CI: 71.5%–100.0%). The median
+DOR, PFS and OS for thymoma were not reached (Figure 1 A, B).
+Among 14 patients with thymic carcinoma which included 11 who were treated at the MTD,
+there were no CRs. Three of 14 patients (21%) had PRs and 10 of 14 (71%) patients had SD.
+The ORR for thymic carcinoma was 21% (3/14; 95% CI: 4.7%–50.8%) and DCR 93%
+(13/14; 95% CI, 66.1%–99.8%). The median DOR for thymic carcinoma was 7.4 months
+(95% CI: 4.2 to 8.5 months). The median PFS and OS were 7.2 months and 21.4 months
+respectively (Figure 1 A, B). The 6-month probability of PFS was 75%.
+Additional Treatments
+Patients with non-progressive disease after at least 4 cycles of combination chemotherapy
+were evaluated for multimodality therapy including surgical resection of residual tumor and
+radiation. Of the 23 patients who were assessed, 12 (52%) were deemed unresectable due to
+the following reasons: presence of extra-thoracic disease (n=6), co-morbidities (n=2),
+myocardial and intra-cardiac tumor involvement (n=1), extensive mediastinal involvement
+(n=1), poor cardiac function (n=1) and PD (n=1). Eleven (48%) patients underwent surgery:
+1 patient was found to be inoperable intra-operatively due to extensive epicardial tumor
+involvement; 1 patient had extensive fibrotic changes which were non-malignant on intra-
+operative biopsy; 5 patients had complete resection of all visible tumors with negative
+margins (R0); 4 patients had complete resection of all visible tumors, but with positive
+margins (R1). In total, 9 of 23 (39%) patients underwent R0 or R1 resection including 6
+patients with thymic carcinoma and 3 patients with thymoma. Eight of these patients
+received post-operative radiation therapy. Three patients had disease-free intervals of 6
+weeks, 4 months and 18 months after surgery. Six of 23 (26%) patients have no evidence of
+disease at the time of reporting with follow-up intervals of 4, 6, 10, 15, 20, and 23 months
+from surgery. Table S2 shows the disease and treatment characteristics and outcomes of
+patients who underwent multimodality therapy.
+Safety
+All patients who received at least one cycle of treatment (n=26) were assessed for toxicity.
+All treatment-related grade 3/4 adverse events for each dose level and for the overall trial
+population are listed in Table 3. DLTs were encountered at dose level 2: grade 3 nausea and
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Thomas et al. Page 8
+diarrhea and grade 4 neutropenia and thrombocytopenia, respectively, in two patients. Four
+patients discontinued treatment due to adverse events: two patients, both of whom were
+treated at dose level 2, after cycle 5 due to grade 4 thrombocytopenia and grade 4
+neutropenia; one patient who had previously received cisplatin post-operatively, after 4
+cycles due to grade 3 hearing loss; one patient after cycle 4 due to grade 3 decrease in left
+ventricular ejection fraction (LVEF) from 60% at baseline to 30% prior to cycle 4. The
+latter, a 76-year old lady with hypertension, had already required chemotherapy dose-
+reduction of 25% for febrile neutropenia and pulmonary embolism after cycle 1.
+Nine (35%) patients required dose reductions of PAC due to toxicities, which included
+febrile neutropenia (n=3), thrombocytopenia (n=2), renal insufficiency (n=1), pulmonary
+embolism (n=1), diarrhea (n=1), and nausea (n=1). Six (23%) patients required dose
+reductions of belinostat for QTc prolongation (n=5) and bradycardia (n=1). One patient had
+persistent QTc prolongation despite two dose reductions of belinostat of 25% each during
+cycles 3 and 4. Hence further administration of belinostat was discontinued. QTc
+prolongation was observed in 9 (35%) patients and included one grade 3 event (>500
+milliseconds): two of these patients had electrolyte abnormalities and dehydration, which
+could have contributed to QTc prolongation. Adriamycin was discontinued in two patients
+after three cycles since they had received cumulative doses of 450 mg/m2.
+Pharmacokinetic evaluations
+Figure S1 depicts the mean plasma concentration vs. time curve at the 250 mg/m2 belinostat
+dose. During the 48-hour infusion, the plasma concentration of belinostat remained around 1
+μM.
+Table S4 shows belinostat pharmacokinetic data following a 48-hr CIVI on cycle 1. The
+mean half-life of belinostat (n=25) was 0.47 hours (range 0.2–0.91 hr; 40% inter-patient
+variability). The mean clearance of belinostat was 133 L/hr (range 41–790 L/hr; 106% inter-
+patient variability). After excluding a patient with normal renal and liver function tests who
+had a clearance of 790 L/hr, a statistical outlier, the mean clearance was 106 L/hr (range 41–
+201 L/hr; 36% inter-patient variability). The only patient with high serum creatinine (1.43
+mg/dL, normal range 0.5–1.16 mg/dL), indicating mildly impaired kidney function, had a
+normal belinostat total systemic clearance of 106 L/hr.
+With only two dose levels, and only one patient with adequate sampling at dose level 2,
+conclusions could not be drawn regarding dose proportionality or linearity of
+pharmacokinetic parameters. There were no statistically significant differences in C ,
+MAX
+AUC , clearance, and half-life between different genders and races.
+INF
+Pharmacodynamic evaluations
+Histone acetylation—Figure 2 A, B and C show relative changes in total protein
+hyperacetylation of CD3+ T cells, and CD14+ monocytes and tubulin-specific
+hyperacetylation of total PBMCs with treatment. Total protein hyperacetylation of CD3+
+cells increased significantly after belinostat (p< 0.0001). Increases ranged between 1.4 fold
+and 14.3 fold (median 2.5 fold) and were observed in 21 of 23 (91%) patients. Although
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Thomas et al. Page 9
+total protein hyperacetylation of CD14+ cells was higher than CD3+ cells at baseline, the
+magnitude of response to treatment was low. Total protein hyperacetylation of CD14+ cells
+increased only marginally after belinostat (p= 0.026). PBMC acetylated tubulin increased
+significantly after belinostat (p<0.0001) and following belinostat plus chemotherapy
+(p=0.0001). Changes in hyperacetylation with treatment were not associated with response
+or survival.
+p21 expression in CD14+ cells increased after belinostat alone (p=0.019) and following
+belinostat plus chemotherapy (p<0.0001). Although these changes were not associated with
+responses, higher p21 expression in CD14+ cells post-belinostat monotherapy, was
+associated with a trend towards improved OS (p=0.074) and PFS (p=0.0058) (results not
+shown).
+T cell subsets and expression of immune markers—Relative changes in the
+number of Tregs with treatment are shown in Figure 3A. Tregs decreased significantly
+following belinostat alone (p=0.0009) and following belinostat plus chemotherapy (p
+<0.0001). Declines in Tregs with treatment were significantly larger in patients who
+responded to treatment compared with those who did not (p=0.0041). Furthermore, patients
+with greater decline in Tregs post-combination therapy had improved PFS compared with
+those who had lesser decreases (median progression-free survival not reached vs. 7.3
+months; p=0.021) (Figure 3B). There were no significant differences in Treg numbers
+between thymoma and thymic carcinoma. Although the total Treg numbers declined with
+treatment, the fraction of CTLA4-expressing Tregs increased significantly after belinostat
+alone (p=0.0078) and after belinostat plus chemotherapy (p<0.0001) (Figure S2A). Patients
+with higher pre-treatment CTLA4-expressing Tregs had inferior OS compared with those
+who had lower CTLA4-expressing Tregs (median OS 18.8 months vs. 37.5 months; p=0.03)
+(Figure S2B).
+Relative changes in TIM3-expressing CD8+T cells, a phenotype of exhausted CD8+ T cells,
+with treatment are shown in Figure 3C. Compared with baseline, TIM3+ CD8+T cells
+decreased significantly following belinostat alone (p < 0.0001) and following belinostat with
+chemotherapy (p <0.0001). Declines in TIM3+ CD8+T cells with treatment were larger in
+patients who responded to treatment compared with those who did not (p=0.049). Patients
+with greater decline in post-combination therapy TIM3+ CD8+T cells had non-statistically
+significant improvements in PFS compared with those who had lesser decreases (median
+progression-free survival not reached vs. 7.8 months; p=0.081) (Figure 3D). PD-1+ CD8+ T
+cells decreased significantly following belinostat alone compared with baseline (p=0.01)
+(results not shown). No statistically significant associations were noted between PD-1+
+CD8+ T cell changes and response or survival.
+DNA damage—Figure S3A and B show relative changes in γ-H2AX expression on CD3+
+and CD14+ cells before and after treatment. γ-H2AX expression on CD3+ cells increased
+after belinostat alone (p=0.033) and following belinostat plus chemotherapy (p=0.01). γ-
+H2AX expression on CD14+ cells did not increase significantly after belinostat alone
+(p=0.41), but was increased after belinostat plus chemotherapy (p=0.012). γ-H2AX
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Thomas et al. Page 10
+expression was not associated with responses or survival. Figure S3C shows representative
+γ-H2AX foci formation in PBMCs by microscopy.
+Discussion
+This is the first clinical trial to evaluate combination of chemotherapy with an epigenetic
+modifier in TETs. In this phase I/II study, we evaluated the combination of a novel schedule
+of belinostat administered as a CIVI prior to and in combination with PAC in 3-week cycles
+in patients with advanced TETs. We established belinostat 1000 mg/m2 over 48 hours
+administered in combination with PAC as the MTD. The dose-limiting toxicities of this
+regimen were consistent with known side effects of PAC and belinostat and included
+nausea, diarrhea, neutropenia, and thrombocytopenia.
+Responses to monotherapy with HDACi have been observed in advanced hematologic
+malignancies including T-cell lymphoma, Hodgkin lymphoma, and myeloid malignancies.
+Solid tumors, in general have proven refractory to monotherapy with HDACi. Available
+preclinical and clinical data suggest that most HDACi are optimally used in combination
+with chemotherapies,12,17 targeted therapies,18 radiation,19 or other epigenetic modifiers,20
+rather than as single agents.
+Unlike previous studies which used a 30 min IV infusion (days 1–5 on a 21-day cycle), we
+administered belinostat over 48 hrs.21–24 The rationale for CIVI was derived from in vitro
+studies with belinostat and other HDACi which showed markedly increased gene expression
+and activity with continuous exposure of 24 or 48 hours. We hypothesized that given the
+short half-life of belinostat, the daily 30 minute infusions would lead to significant reversal
+of effects following drug clearance and that a 48-hr CIVI would allow prolonged exposure
+of belinostat and increased pharmacological effects. Elimination half-life of belinostat in this
+study was comparable to its administration over 30 minutes (0.52– 0.54 hours),21 but was
+shorter than when administered IV with paclitaxel and carboplatin (1.7 hours),22 or orally
+alone (1.9 hours).23 No drug-drug interactions were predicted with belinostat and the co-
+administered drugs as none of them predominantly utilizes the UGT1A family, the primary
+pathway for metabolism of belinostat.
+Premature closure of the trial precluded definitive conclusions on the efficacy of the
+combination, but the ORR of 64% and 21% respectively for thymoma and thymic
+carcinoma, is in agreement with historic controls treated with anthracycline- and platinum-
+containing chemotherapy.7,26–29
+This study describes one of the largest series of patients with TET who underwent
+multimodality treatment including neoadjuvant chemotherapy, surgery and post-operative
+radiotherapy. All patients in this study had surgically unresectable disease at enrolment and
+42% had recurred after previous radical surgery. Patients with non-progressive disease after
+belinostat plus chemotherapy were evaluated for multimodality therapy including surgery
+and post-operative radiation. The resectability rate (R0 or R1) of 39% was lower than
+published reports.29 This reflects the substantial proportion of our patients who had
+disseminated disease and prior radical surgeries. Resection was complete with negative
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Thomas et al. Page 11
+margins in 56% of patients who underwent surgery. Although complete surgical resection is
+the mainstay of treatment of TETs and is the most important predictor of long-term
+survival,30 debulking is also reported to provide palliation and prolong survival for selected
+patients incapable of being rendered completely disease-free.31 Considering that all our
+patients had surgically unresectable disease at enrolment including many who had
+disseminated disease and prior radical surgeries, the disease-free survival rate of 26% with
+multimodality therapy is noteworthy and has not been reported previously. Nevertheless, the
+benefit, if any, of combining belinostat with chemotherapy in improving resectability is
+unclear.
+Although dose reductions were required in 35% of patients, a median of 6 cycles was
+administered in patients treated at the MTD. Adverse events were consistent with known
+toxicities of PAC and belinostat. Dose and schedule of administration-dependent ECG
+changes including mild to moderate QTc prolongation are known class effects of HDACi.10
+Although the frequency of QTc interval prolongation seen in this study is comparable to our
+previous study of single-agent belinostat in TETs,11 it occurred more frequently than in
+previous studies of belinostat.32 Concurrent risk factors for QTc prolongation in our patient
+population included drugs associated with QT prolongation (e.g. ondansetron),
+chemotherapy and anorexia-related electrolyte changes, prior exposure to anthracyclines (in
+the adjuvant setting) and radiation. Furthermore, high rates of subclinical cardiac
+involvement of TETs can by itself predispose to increased cardiac toxicity.33 Close cardiac
+monitoring is needed when HDACi are administered intravenously in combination with
+chemotherapy and patient selection is crucial to minimize concurrent risk factors.
+Histone acetylation is the basic epigenetic mechanism whereby HDACi regulate growth
+arrest, apoptosis and differentiation. A marked and significant increase in total protein
+hyperacetylation in CD3+ and CD14+ cells and tubulin-specific hyperacetylation in PBMCs
+was observed after belinostat and after belinostat plus chemotherapy. Since HDACi induce
+hyperacetylation of many histone and non-histone proteins, we used a multiparameter flow
+cytometric assay that detects total protein acetylation rather than just histone acetylation.
+Increase in tubulin-specific hyperacetylation is indicative of the pan-HDACi effect of
+belinostat, which is similar to other hydroxamate HDACi such as vorinostat and
+panobinostat. Although histone acetylation was seen in peripheral blood cells, this did not
+correlate with clinical response.
+Immunosuppressive cells such as Tregs play a major role in maintaining an
+immunosuppressive milieu in cancer. A number of chemotherapeutic agents including
+cyclophosphamide have been described to selectively suppress inhibitory cell subsets
+including Tregs.34 Class I/II HDACi have generally been reported to enhance Treg number
+and function.35 However, we found a marked and significant decrease in Tregs after
+belinostat monotherapy. This discrepancy between our observations and previous reports is
+possibly due to dose-dependent effects of pan-HDACi on Tregs. In vitro data suggests that
+pan HDACi may target class I HDACs at low doses and impair Treg function whereas at
+higher doses, they may target class II HDAC and show a dominant Treg promoting effect.36
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Thomas et al. Page 12
+We found that patients with larger declines in Tregs with treatment were more likely to
+respond to treatment and had longer PFS. Although previous studies have shown that
+thymomas have low numbers of Tregs, which are functionally defective,37 the predictive
+role of Tregs in TETs has not been described previously. Significant decreases after
+belinostat monotherapy were also observed in TIM-3+ and PD-1+ T cells, which exhibit a
+severe exhausted phenotype as defined by failure to proliferate and produce IL-2, TNF-
+alpha, and IFN-gamma.38 Blockade of both TIM-3 and PD-1 pathways is reported to be
+more effective in controlling tumor growth than targeting either pathway alone.39
+Furthermore, declines in TIM-3+ CD8+ T cells with treatment were significantly larger in
+patients who responded to treatment. Taken together, a beneficial impact of belinostat on
+Treg and exhausted CD8+ T cells may play an important role in the prognosis of TET. The
+data presented here suggest that TETs, may be amenable to immunomodulatory strategies,
+including therapeutic effects on Tregs and effector T cells, and that clinical efficacy may be
+enhanced by a combinatorial immunomodulatory strategy.
+The cyclin-dependent kinase inhibitor, p21 promotes cell cycle arrest in response to many
+stimuli and several studies have shown that HDACi strongly activate the expression of
+p21.40 The prognostic role of p21 expression in radically-resected thymoma has been
+described by Mineo et al who found an association between low tumoral expression of p21
+and reduced disease-free survival.41 Although our data indicate a possible predictive role of
+p21 expression, given the small sample sizes, the significance of this finding will have to be
+further evaluated in larger samples. Detection and visualization of γ-H2AX, the
+phosphorylated form of the H2AX protein, provides a useful assessment of DNA damage.42
+γ-H2AX expression increased in both CD3+ and CD14+ cells as expected following
+concurrent chemotherapy and belinostat.
+This study was closed before the primary objective of phase II i.e. to improve ORR in
+thymoma compared to historical controls, was met. Nevertheless, among the patients who
+enrolled, the ORR was comparable to those of historic controls. In the absence of a
+randomized comparison, the questions as to whether the observed responses can be entirely
+explained by chemotherapy alone will remain. In conclusion, this phase I/II trial identified
+the MTD of belinostat in combination with PAC and indicates that the combination is active
+without additive toxicities. In one of the largest series of patients with TETs, this study
+demonstrates the effectiveness of multimodality therapy in rendering select patients disease-
+free and suggests the possible predictive role of T cell populations such as Tregs and TIM3+
+CD8+ T cells in TETs.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+Financial Support: This research was supported in part by the Intramural Research Program of the NIH, National
+Cancer Institute, Center for Cancer Research.
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+Thomas et al. Page 13
+References
+1. Engels EA, Pfeiffer RM. Malignant thymoma in the United States: Demographic patterns in
+incidence and associations with subsequent malignancies. Int J Cancer. 2003; 105:546–551.
+[PubMed: 12712448]
+2. Suster S, Moran CA. Histologic classification of thymoma: the World Health Organization and
+beyond. Hematol Oncol Clin North Am. 2008; 22:381–392. [PubMed: 18514122]
+3. Masaoka A, Monden Y, Nakahara K, Tanioka T. Follow-up-study of thymomas with Special
+Reference to their clinical stages. Cancer. 1981; 48:2485–2492. [PubMed: 7296496]
+4. Chen G, Marx A, Chen WH, Yong J, Puppe B, Stroebel P, et al. New WHO histologic classification
+predicts prognosis of thymic epithelial tumors - A clinicopathologic study of 200 thymoma cases
+from China. Cancer. 2002; 95:420–429. [PubMed: 12124843]
+5. Kelly RJ, Petrini I, Rajan A, Wang Y, Giaccone G. Thymic malignancies: from clinical
+management to targeted therapies. J Clin Oncol. 2011; 29:4820–4827. [PubMed: 22105817]
+6. The National Comprehensive Cancer Network Guidelines. [Accessed November 24, 2013]
+Thymomas and thymic carcinomas. 2013. http://www.nccn.org/professionals/physician_gls/pdf/
+thymic.pdf
+7. Loehrer PJ Sr, Kim K, Aisner SC, Livingston R, Einhorn LH, Johnson D, et al. The Eastern
+Cooperative Oncology Group, Southwest Oncology Group, and Southeastern Cancer Study Group.
+Cisplatin plus doxorubicin plus cyclophosphamide in metastatic or recurrent thymoma: final results
+of an intergroup trial. J Clin Oncol. 1994; 12:1164–1168. [PubMed: 8201378]
+8. Khan O, La Thangue NB. HDAC inhibitors in cancer biology: emerging mechanisms and clinical
+applications. Immunol Cell Biol. 2012; 90:85–94. [PubMed: 22124371]
+9. Marks PA, Rifkind RA, Richon VM, Breslow R. Inhibitors of histone deacetylase are potentially
+effective anticancer agents. Clin Cancer Res. 2001; 7:759–760. [PubMed: 11309319]
+10. Molife LR, de Bono JS. Belinostat: clinical applications in solid tumors and lymphoma. Expert
+Opin Investig Drugs. 2011; 20:1723–1732.
+11. Giaccone G, Rajan A, Berman A, Kelly RJ, Szabo E, Lopez-Chavez A, et al. Phase II study of
+belinostat in patients with recurrent or refractory advanced thymic epithelial tumors. J Clin Oncol.
+2011; 29:2052–2059. [PubMed: 21502553]
+12. Kim MS, Blake M, Baek JH, Kohlhagen G, Pommier Y, Carrier F. Inhibition of histone
+deacetylase increases cytotoxicity to anticancer drugs targeting DNA. Cancer Res. 2003; 63:7291–
+7300. [PubMed: 14612526]
+13. Kurz EU, Wilson SE, Leader KB, Sampey BP, Allan WP, Yalowich JC, et al. The histone
+deacetylase inhibitor sodium butyrate induces DNA topoisomerase II alpha expression and confers
+hypersensitivity to etoposide in human leukemic cell lines. Mol Cancer Ther. 2001; 1:121–131.
+[PubMed: 12467229]
+14. Sharma SV, Lee DY, Li B, Quinlan MP, Takahashi F, Maheswaran S, et al. A chromatin-mediated
+reversible drug-tolerant state in cancer cell subpopulations. Cell. 2010; 141:69–80. [PubMed:
+20371346]
+15. Redon CE, Nakamura AJ, Gouliaeva K, Rahman A, Blakely WF, Bonner WM. The use of gamma-
+H2AX as a biodosimeter for total-body radiation exposure in non-human primates. PLoS One.
+2010; 5:e15544. [PubMed: 21124906]
+16. Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent D, Ford R, et al. New response
+evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer. 2009;
+45:228–247. [PubMed: 19097774]
+17. Luchenko VL, Salcido CD, Zhang Y, Agama K, Komlodi-Pasztor E, Murphy RF, et al. Schedule-
+dependent synergy of histone deacetylase inhibitors with DNA damaging agents in small cell lung
+cancer. Cell Cycle. 2011; 10:3119–3128. [PubMed: 21900747]
+18. Nakagawa T, Takeuchi S, Yamada T, Ebi H, Sano T, Nanjo S, et al. EGFR-TKI resistance due to
+BIM polymorphism can be circumvented in combination with HDAC inhibition. Cancer Res.
+2013; 73:2428–2434. [PubMed: 23382048]
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 14 ---
+Thomas et al. Page 14
+19. Zhang Y, Jung M, Dritschilo A. Enhancement of radiation sensitivity of human squamous
+carcinoma cells by histone deacetylase inhibitors. Radiat Res. 2004; 161:667–674. [PubMed:
+15161353]
+20. Chai G, Li L, Zhou W, Wu L, Zhao Y, Wang D, et al. HDAC inhibitors act with 5-aza-2′-
+deoxycytidine to inhibit cell proliferation by suppressing removal of incorporated abases in lung
+cancer cells. PLoS One. 2008; 3:e2445. [PubMed: 18560576]
+21. Steele NL, Plumb JA, Vidal L, Tjørnelund J, Knoblauch P, Rasmussen A, et al. A phase 1
+pharmacokinetic and pharmacodynamic study of the histone deacetylase inhibitor belinostat in
+patients with advanced solid tumors. Clin Cancer Res. 2008; 14:804–810. [PubMed: 18245542]
+22. Lassen U, Molife LR, Sorensen M, Engelholm SA, Vidal L, Sinha R, et al. A phase I study of the
+safety and pharmacokinetics of the histone deacetylase inhibitor belinostat administered in
+combination with carboplatin and/or paclitaxel in patients with solid tumours. Br J Cancer. 2010;
+103:12–17. [PubMed: 20588278]
+23. Steele NL, Plumb JA, Vidal L, Tjørnelund J, Knoblauch P, Buhl-Jensen P, et al. Pharmacokinetic
+and pharmacodynamic properties of an oral formulation of the histone deacetylase inhibitor
+Belinostat (PXD101). Cancer Chemother Pharmacol. 2011; 67:1273–1279. [PubMed: 20706839]
+24. Yeo W, Chung HC, Chan SL, Wang LZ, Lim R, Picus J, et al. Epigenetic therapy using belinostat
+for patients with unresectable hepatocellular carcinoma: a multicenter phase I/II study with
+biomarker and pharmacokinetic analysis of tumors from patients in the Mayo Phase II Consortium
+and the Cancer Therapeutics Research Group. J Clin Oncol. 2012; 30:3361–3367. [PubMed:
+22915658]
+26. Yokoi K, Matsuguma H, Nakahara R, Kondo T, Kamiyama Y, Mori K, et al. Multidisciplinary
+treatment for advanced invasive thymoma with cisplatin, doxorubicin, and methylprednisolone. J
+Thorac Oncol. 2007; 2:73–78. [PubMed: 17410014]
+27. Fornasiero A, Daniele O, Ghiotto C, Sartori F, Rea F, Piazza M, et al. Chemotherapy of invasive
+thymoma. J Clin Oncol. 1990; 8:1419–1423. [PubMed: 2380761]
+28. Kawashima Y, Inoue A, Sugawara S, et al. Phase II study of amrubicin and carboplatin for
+invasive thymoma and thymic carcinoma: NJLCG0803. Proc Am Soc Clin Oncol. 2013;
+31(suppl):abstr 7530.
+29. Kim ES, Putnam JB, Komaki R, Walsh GL, Ro JY, Shin HJ, et al. Phase II study of a
+multidisciplinary approach with induction chemotherapy, followed by surgical resection, radiation
+therapy, and consolidation chemotherapy for unresectable malignant thymomas: final report. Lung
+Cancer. 2004; 44:369–79. [PubMed: 15140551]
+30. Kondo K, Monden Y. Lymphogenous and hematogenous metastasis of thymic epithelial tumors.
+Ann Thorac Surg. 2003; 76:1859–64. [PubMed: 14667600]
+31. Lin CS, Kuo KT, Hsu WH, Huang BS, Wu YC, Hsu HS, et al. Management of locally advanced
+unresectable thymic epithelial tumors. J Chin Med Assoc. 2004; 67:172–178. [PubMed:
+15244015]
+32. Cashen A, Juckett M, Jumonville A, Litzow M, Flynn PJ, Eckardt J, et al. Phase II study of the
+histone deacetylase inhibitor belinostat (PXD101) for the treatment of myelodysplastic syndrome
+(MDS). Ann Hematol. 2012; 91:33–38. [PubMed: 21538061]
+33. Thomas A, Shanbhag S, Haglund K, Berman A, Jakopovic M, Szabo E, et al. Characterization and
+management of cardiac involvement of thymic epithelial tumors. J Thorac Oncol. 2013; 8:246–
+249. [PubMed: 23328550]
+34. Brode S, Cooke A. Immune-potentiating effects of the chemotherapeutic drug cyclophosphamide.
+Crit Rev Immunol. 2008; 28:109–26. [PubMed: 18540827]
+35. Tao R, de Zoeten EF, Ozkaynak E, Chen C, Wang L, Porrett PM, et al. Deacetylase inhibition
+promotes the generation and function of regulatory T cells. Nat Med. 2007; 13:1299–307.
+[PubMed: 17922010]
+36. Shen L, Pili R. Class I histone deacetylase inhibition is a novel mechanism to target regulatory T
+cells in immunotherapy. Oncoimmunology. 2012; 1:948–950. [PubMed: 23162767]
+37. Strobel P, Rosenwald A, Beyersdorf N, Kerkau T, Elert O, Murumägi A, et al. Selective loss of
+regulatory T cells in thymomas. Ann Neurol. 2004; 56:901–904.38. [PubMed: 15562414]
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 15 ---
+Thomas et al. Page 15
+38. Fourcade J, Sun Z, Benallaoua M, Guillaume P, Luescher IF, Sander C, et al. Upregulation of
+Tim-3 and PD-1 expression is associated with tumor antigen-specific CD8+ T cell dysfunction in
+melanoma patients. J Exp Med. 2010; 207:2175–86. [PubMed: 20819923]
+39. Sakuishi K, Apetoh L, Sullivan JM, Blazar BR, Kuchroo VK, Anderson AC. Targeting Tim-3 and
+PD-1 pathways to reverse T cell exhaustion and restore anti-tumor immunity. J Exp Med. 2010;
+207:2187–94. [PubMed: 20819927]
+40. Gartel AL. The conflicting roles of the cdk inhibitor p21(CIP1/WAF1) in apoptosis. Leuk Res.
+2005; 29:1237–1238. [PubMed: 15946739]
+41. Mineo TC, Ambrogi V, Mineo D, Baldi A. Long-term disease-free survival of patients with
+radically resected thymomas: relevance of cell-cycle protein expression. Cancer. 2005; 104:2063–
+2071. [PubMed: 16206298]
+42. Kuo LJ, Yang LX. Gamma-H2AX - a novel biomarker for DNA double-strand breaks. In Vivo.
+2008; 22:305–309. [PubMed: 18610740]
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 16 ---
+Thomas et al. Page 16
+Translational Relevance
+Belinostat is a histone deacetylase (HDAC) inhibitor which inhibits both HDAC class I
+and II enzymes in nanomolar concentrations in vitro. Belinostat has known anti-tumor
+activity in previously treated patients with thymoma with minimal toxicity. In pre-clinical
+studies, belinostat potentiated anti-tumor activity of platinum-containing chemotherapy.
+In this phase I/II trial, belinostat was administered as a continuous intravenous infusion
+prior to and in combination with cisplatin, doxorubicin and cyclophosphamide (PAC) in
+patients with advanced or recurrent thymic epithelial tumors (TET). This trial identified
+the maximum-tolerated dose of belinostat in combination with PAC and demonstrate that
+the combination is active and feasible in TETs. Modulation of pharmacodynamic markers
+of HDAC-inhibition and declines in regulatory T cell (Tregs) and exhausted CD8+ T cell
+populations were observed with belinostat. Declines in Tregs and TIM-3+ CD8+T cells
+were associated with responses. The immunomodulatory effects of this novel schedule of
+administration of belinostat needs further evaluation.
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 17 ---
+Thomas et al. Page 17
+Figure 1.
+Kaplan-Meier plot showing progression-free survival (A) and overall survival (B) of patients
+with thymoma and thymic carcinoma
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 18 ---
+Thomas et al. Page 18
+Figure 2.
+Relative changes (mean and standard deviation) in total protein hyperacetylation of CD3+ T
+cells (A), and CD14+ monocytes (B) and tubulin-specific hyperacetylation of PBMCs (C)
+with treatment.
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 19 ---
+Thomas et al. Page 19
+Figure 3.
+Relative changes (mean and standard deviation) in the number of Tregs (A) and TIM3-
+expressing CD8+T cells (C) with treatment. Progression-free survival of patients with post-
+treatment Treg (B) and TIM3+ CD8+T cell (D) numbers above and below the median.
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 20 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Thomas et al. Page 20
+Table 1
+Demographic and baseline patient characteristics (N=26)
+Age, y
+Median (range) 53 (23–76)
+Sex, n (%)
+Women 13 (50)
+Men 13 (50)
+Race, n (%)
+White 19 (73)
+Black 4 (15)
+Asian 2 (8)
+Hispanic 1 (4)
+ECOGa performance status
+0 18 (69)
+1 8 (31)
+Tumor type, n (%)
+Thymoma 12 (46)
+B1 2 (8)
+B2 7 (27)
+B3 3 (11)
+Thymic carcinoma 14 (54)
+Stage at enrolment
+IVA 12 (46)
+IVB 14 (54)
+Prior Surgery^
+Radical 11 (42)
+Debulking 2 (8)
+Prior Radiation 7 (27)
+Prior neoadjuvant or adjuvant chemotherapy 4 (16)
+a
+Eastern Cooperative Oncology Group
+^
+11 patients had radical surgery including 2 who underwent debulking subsequently
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+
+--- Page 21 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Thomas et al. Page 21
+Table 2
+Efficacy
+Histology Thymoma Thymic carcinoma Total
+Number of evaluable patients 11 14 25
+Complete response, n (%) 1 (9) 0 1 (4)
+Partial Response, n (%) 6 (55) 3 (21) 9 (36)
+Stable Disease, n (%) 4 (36) 10 (72) 14 (56)
+Progressive Disease, n (%) 0 1 (7) 1 (4)
+Objective Response Rate, % (95% confidence interval) 64 (30.8–89.1) 21 (4.7–50.8) 40 (21.1 –61.3)
+Disease control rate, % (95% confidence interval) 100 (71.5–100.0) 93 (66.1–99.8) 96 (79.7 –99.9)
+Median progression-free survival, months Not reached 7.2 9.0
+Median overall survival, months Not reached 21.4 28.5
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+
+--- Page 22 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Thomas et al. Page 22
+Table 3
+Treatment-related grade 3 and 4 adverse events (highest grade per event per patient)
+Dose level 1 (n=24) Dose level 2 (n=2) All dose levels (n= 26)
+Adverse event
+Grade 3/4 Grade 3/4 Grade 3/4 (%)
+Hematologic
+Lymphocyte count decreased 24 2 26 (100)
+White blood cell decreased 22 2 24 (92)
+Neutrophil count decreased 19 2 21 (81)
+Platelet count decreased 10 2 12 (46)
+Anemia 7 2 9 (35)
+Hepatic and Renal
+Hypophosphatemia 4 2 6(23)
+Aspartate aminotransferase increased 4 2 6 (23)
+Alanine aminotransferase increased 3 1 4 (15)
+Hypokalemia 3 1 4(15)
+Hypermagnesemia 3 3 (12)
+Hypoalbuminemia 1 1 2(8)
+Hypocalcemia 1 1 2(8)
+Hypomagnesemia 1 1(4)
+Hyponatremia 1 1(4)
+Cardiovascular
+Thromboembolic event 3 3(12)
+Atrial fibrillation 1 1 (4)
+Ejection fraction decreased 1 1(4)
+Electrocardiogram QT corrected interval prolonged 1 1(4)
+Others
+Nausea 1 2 3(12)
+Febrile neutropenia 3 3(12)
+Diarrhea 1 1 2 (8)
+Lung infection 2 2(8)
+Enterocolitis infectious 1 1 2(8)
+Fatigue 2 2(8)
+Hearing impaired 1 1(4)
+Hypoxia 1 1(4)
+Non-cardiac chest pain 1 1(4)
+Pain in extremity 1 1(4)
+Syncope 1 1(4)
+Tumor lysis syndrome 1 1(4)
+Limb edema 1 1 (4)
+Urinary tract infection 1 1(4)
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.
+
+--- Page 23 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Thomas et al. Page 23
+Dose level 1 (n=24) Dose level 2 (n=2) All dose levels (n= 26)
+Adverse event
+Grade 3/4 Grade 3/4 Grade 3/4 (%)
+Vomiting 1 1(4)
+Clin Cancer Res. Author manuscript; available in PMC 2015 November 01.

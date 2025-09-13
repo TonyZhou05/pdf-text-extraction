@@ -1,0 +1,1548 @@
+Source: 29512900.pdf
+Extracted on: Fri Sep 12 23:59:49 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Published in final edited form as:
+Pediatr Blood Cancer. 2018 July ; 65(7): e27035. doi:10.1002/pbc.27035.
+Phase 1 trial, pharmacokinetics, and pharmacodynamics of
+dasatinib combined with crizotinib in children with recurrent or
+progressive high-grade and diffuse intrinsic pontine glioma
+Alberto Broniscer1,6, Sujuan Jia2, Belinda Mandrell3, Dima Hamideh1, Jie Huang4, Arzu
+Onar-Thomas4, Amar Gajjar1,6, Susana C. Raimondi2, Ruth G. Tatevossian2, and Clinton F.
+Stewart5
+1Department of Oncology, St. Jude Children’s Research Hospital, Memphis, Tennessee
+2Department of Pathology, St. Jude Children’s Research Hospital, Memphis, Tennessee
+3Department of Pediatric Medicine, St. Jude Children’s Research Hospital, Memphis, Tennessee
+4Department of Biostatistics, St. Jude Children’s Research Hospital, Memphis, Tennessee
+5Department of Pharmaceutical Sciences, St. Jude Children’s Research Hospital, Memphis,
+Tennessee
+6Department of Pediatrics, University of Tennessee Health Science Center, Memphis,
+Tennesssee
+Abstract
+Background—Progressive/recurrent high-grade and diffuse intrinsic pontine gliomas (DIPGs)
+are fatal. Treatments targeting molecular pathways critical for these cancers are needed.
+Methods—We conducted a phase 1 study (rolling-6 design) to establish the safety and maximum
+tolerated dose (MTD) of dasatinib, an oral PDGFRA inhibitor, and crizotinib, an oral c-Met
+inhibitor in such patients. Pharmacokinetics of both agents were performed. Biomarkers of cellular
+pathway activation in peripheral-blood mononuclear cells (PBMC) were evaluated before and after
+administration of dasatinib. PDGFRA and MET amplification, and PDGFRA mutations were
+studied in tumor samples.
+Results—Twenty-five patients were enrolled on study (median age: 11.9 years). Eleven patients
+had a DIPG. Glioblastoma accounted for 40% of cases. Dasatinib at 50mg/m2 and crizotinib at
+130mg/m2 or 100mg/m2 were poorly tolerated when administered twice daily. Drug
+administration was then switched to once daily. Dasatinib administered at 50mg/m2 and crizotinib
+at 215 mg/m2 once daily was the MTD. Dose-limiting toxicities consisted of diarrhea, fatigue,
+proteinuria, hyponatremia, rash, and grade 4 neutropenia. Only two patients received therapy for at
+least 6 months. No objective radiologic responses were observed. Pharmacokinetics of dasatinib
+and crizotinib were comparable to previous studies. A statistically significant decrease in the ratio
+Correspondence: Alberto Broniscer, Department of Pediatrics, Children’s Hospital of Pittsburgh, 4401 Penn Avenue, Pittsburgh, PA
+15224 alberto.broniscer@chp.edu.
+CONFLICTS OF INTEREST
+The authors have no conflicts of interest to disclose in association with work presented in this manuscript.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Broniscer et al. Page 2
+of p-AKT/total AKT in PBMC occurred after dasatinib administration. PDGFRA and MET
+amplification were found in 4 and 2 cases, respectively. Only 1 of 10 tumors harbored a PDGFRA
+mutation.
+Conclusions—This drug combination was poorly tolerated and its activity was minimal. We do
+not recommend further testing of this combination in children.
+Keywords
+children; c-Met; crizotinib; dasatinib; diffuse intrinsic pontine glioma; high-grade glioma;
+PDGFRA
+INTRODUCTION
+High-grade gliomas (HGGs), including diffuse intrinsic pontine gliomas (DIPGs) are among
+the most aggressive and lethal primary central nervous system (CNS) tumors in children.1
+The prognosis of affected patients remains dismal despite treatment with maximum safe
+surgical resection, radiation therapy (RT), and chemotherapy.1 Children with recurrent or
+progressive HGGs and DIPGs are ideal candidates for investigational clinical trials since
+there are no standard chemotherapeutic regimens for these tumors.
+Two major developments have stimulated the design of more rational therapies for children
+with HGGs and DIPGs. First, genome-wide studies have uncovered the molecular
+characteristics of these cancers, which are mostly different from adult tumors.2–6 Second,
+the establishment of pre-clinical models, including cell lines and human xenografts has
+allowed for the high-throughput screening of new promising agents.7 Therapies targeting
+abnormally activated cellular pathways have shown promising activity against pre-clinical
+models of pediatric HGGs and DIPGs including inhibitors of platelet-derived growth factor
+receptor (PDGFR) and c-Met.7–9
+The PDGF pathway influences tumor formation by stimulating mitogenesis, de-
+differentiation, and increased angiogenesis and its modulation in vivo in combination with
+other oncogenic abnormalities led to the formation of HGGs and DIPGs in pre-clinical
+models.10–13 While PDGFRA amplification can be found in one-third and 19% of DIPGs
+and pediatric non-brainstem HGGs, respectively,2, 6 PDGFRA mutations occurred in
+approximately 5% and 14% of such tumors, respectively.12
+Activation of the c-Met pathway has been recognized as a contributing mechanism for the
+formation of HGGs.14 MET is the second most common amplified oncogene in DIPG.2
+MET fusion transcripts have recently been identified in approximately 10% of pediatric
+glioblastomas (WHO grade IV), particularly in those originating from the cerebral
+hemispheres.9 MET fusion transcripts in combination with other oncogenic mechanisms
+also led to the formation of HGGs in an in vivo pre-clinical model.9 Finally, cell lines and
+xenografts containing MET fusion transcripts were responsive to c-Met inhibition.9
+Dasatinib (Sprycel, Bristol-Myers Squibb) is a potent oral inhibitor of PDGFRA and B, Src,
+and c-Kit for which a phase 2 single-agent recommended dose has already been established
+in children.15 Crizotinib (Xalkori, Pfizer) is a potent inhibitor of ALK and c-Met that has
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Broniscer et al. Page 3
+already undergone Phase 1 testing in children.16 Based on the data described before, we
+initiated a Phase 1 clinical trial to test the tolerability and safety, and to establish the
+maximum tolerated dose (MTD) of the combination of dasatinib and crizotinib in pediatric
+patients with recurrent or progressive HGGs and DIPGs.
+PATIENTS AND METHODS
+Patients between the ages of 2 and 21 years old with clinically and/or radiologically
+recurrent or progressive HGG or DIPG were eligible for this study. Other inclusion criteria
+consisted of: 1. performance score ≥ 50; 2. adequate hematologic (hemoglobin ≥ 8 g/dL
+[irrespective of previous transfusions], absolute neutrophil count ≥ 1000/mm3, and platelet
+count ≥ 100,000/mm3 [transfusion independent]), renal (normal serum creatinine for age),
+and hepatic (transaminases and bilirubin < 3x and < 1.5x the institutional upper limit of
+normal, respectively, and albumin ≥ 2g/dL) functions; 3. stable neurologic deficits on a fixed
+or decreasing dose of dexamethasone for ≥ 1week; 4. no more than a grade 1 toxicity
+attributed to previous therapies; 5. interval from previous local, craniospinal, and palliative
+RT of ≥ 3 months, ≥ 6 months, and ≥ 2 weeks, respectively; 6. interval ≥ 4 weeks from
+previous chemotherapy (6 weeks if nitrosourea); 7. interval ≥ 1 week from previous small-
+molecule inhibitors with short half-lives; 8. interval ≥ 3 half-lives from previous monoclonal
+antibodies; 9. interval ≥ 3 months from previous high-dose chemotherapy with stem-cell
+rescue; 10. interval ≥ 1 week and ≥ 2 weeks from the use of filgrastim and pegfilgrastim,
+respectively; 11. effective contraception for females of childbearing age and males of child
+fathering potential. Exclusion criteria consisted of: 1. use of other anticancer therapies; 2.
+use of enzyme-inducing anticonvulsants less than 10 days before start of protocol therapy; 3.
+previous treatment with a PDGFR or c-Met inhibitor; 4. presence of other medical
+conditions that could interfere with the study procedures or tolerance to therapy; 5. pregnant
+or lactating patients.
+Our institutional review board approved this protocol before initial patient enrollment, and
+continuing approval was maintained throughout the study. Written informed consent for
+participation was obtained from patients’ parents or legal guardians, and assents were
+obtained when appropriate.
+Study design
+This single-institution clinical trial followed the rolling-six design. The MTD was defined as
+the highest dosage at which no more than one of six evaluable patients experienced a dose-
+limiting toxicity (DLT). Two regimens of this combination were tested. Dasatinib and
+crizotinib were initially administered twice daily and the DLT-evaluation period lasted for 6
+weeks. Drug administration was switched to once daily and the DLT-evaluation period to 4
+weeks as this initial regimen was not tolerable. Dose-limiting toxicities consisted of the
+following side effects attributable to study drugs: 1. grade 4 neutropenia; 2. grade 3 or 4
+thrombocytopenia; 3. any grade 3 or 4 non-hematologic toxicity except for grade 3 weight
+change, grade 3 elevation in transaminases that returned to baseline or ≤ grade 1 within 7
+days of drug interruption, grade 3 or 4 electrolyte abnormalities that returned to ≤ grade 2
+within 7 days, and grade 3 fever or infection lasting < 5 days; 4. any grade 2 non-
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Broniscer et al. Page 4
+hematologic toxicity lasting > 7 days and causing significant clinical repercussion. Toxicities
+were graded based on the National Cancer Institute Common Toxicity Criteria for Adverse
+Events (version 4.0).
+For the twice-daily regimen, the starting doses of dasatinib and crizotinib were 50 mg/m2
+and 130mg/m2, respectively. For the once-daily regimen, the starting doses of dasatinib and
+crizotinib were 50mg/m2 and 165mg/m2, respectively (Table 1). In both regimens, patients
+received the first dose of crizotinib on day 1 and then treatment was held for 48 hours to
+allow for completion of pharmacokinetic studies. The administration of dasatinib was
+delayed for 48 hours as well. Treatment with both drugs continued uninterrupted on day 3 of
+therapy except for the omission of the evening dose of crizotinib on day 14 in the twice-
+daily regimen so that extended pharmacokinetic studies could be completed.
+Treatment was divided into 28-day cycles except for the first 2 cycles on the twice-daily
+regimen that comprised 6 weeks. The maximum planned treatment duration was 2 years.
+Dasatinib was administered with or without food as 20-, 50-, or 70-mg tablets. The tablets of
+dasatinib could be cut in half or crushed to ease administration. Crizotinib was administered
+with or without food as 200-mg and 250-mg capsules or as a solution (10mg/mL) depending
+on the planned dose and the ability to swallow capsules. The dose of both medications was
+rounded to the nearest 10mg. The actual dose of both medications was calculated based on
+the body surface area (BSA) at the start of therapy. Changes in dose based on variations of
+BSA were allowed after 6 months of therapy. When applicable, an interval of at least 4 hours
+was recommended between the administration of dasatinib and histamine receptor 2
+antagonists. Use of septra was flexible depending on physician’s preferences and patients’
+needs. Loperamide was strongly recommended if patients developed diarrhea.
+A clinical assessment, complete blood counts with differential, chemistry panel, urinalysis,
+and electrocardiogram were obtained before the start of therapy and weekly during cycle 1,
+every 2 weeks during cycle 2, and every 4 weeks thereafter. MRIs for tumor evaluation were
+obtained before the start of therapy, before cycle 2, and after every other cycle thereafter. An
+echocardiogram was obtained before the start of therapy, at the completion of cycle 1, and
+every 6 months thereafter during treatment. Chest X-ray was obtained before the start of
+therapy and every 6 months thereafter.
+Pharmacokinetic studies
+For the twice-daily regimen, mandatory pharmacokinetic studies of crizotinib were
+scheduled on days 1 and 14, and studies of crizotinib and dasatinib were to occur
+approximately at the end of DLT-evaluation period (day 42 ± 3 days). In the once-daily
+regimen, the pharmacokinetic studies of crizotinib were scheduled on days 1 and 14, and the
+pharmacokinetic studies of dasatinib occurred on day 14.
+Day 1 serial blood samples (3 mL) for crizotinib were collected before and at 1, 2, 4, 8, 24,
+and 48 hours after the administration of crizotinib. On day 14, serial samples of crizotinib
+were obtained before and at 1, 2, 4, 8, and 24 hours after the morning dose of crizotinib. For
+pharmacokinetic studies of dasatinib, serial samples were obtained before and at 1, 2, 4, 8,
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Broniscer et al. Page 5
+and 24 hours after their morning dose. Other details are provided in the Supplemental
+Appendix S1.
+Pharmacodynamic studies
+Optional studies consisted of serial evaluation of the plasma concentration of the hepatocyte
+growth factor (HGF) obtained concurrently with brain MRIs before the start and during
+therapy, and analysis of total and phosphorylated AKT and ERK in peripheral-blood
+mononuclear cells (PBMCs) obtained before and 3 hours after the administration of
+dasatinib on day 14 of therapy and at the end of DLT-evaluation period. Details about sample
+processing, collection, and analysis are provided in the Supplemental Appendix S1.
+Molecular studies
+Analysis of amplification of PDGFRA and MET by fluorescence in situ hybridization
+(FISH) was performed as previously described.17 The methods used for PDGFRA
+sequencing are provided in the Supplemental Appendix S1.
+Assessment of quality of life
+Health-related quality of life (HRQoL) was assessed through patient and parent-proxy report
+using the Pediatric Quality of Life Inventory (PedsQL 4.0) and the Pediatric Quality of Life
+Brain Tumor Module (PedsQL BT module).18, 19 Patients and parent-proxy reported on
+HRQoL and symptoms over the previous 7 days. The HRQoL assessments were obtained at
+the initiation of therapy, at weeks 2, 4, and 6 of therapy, and before every other cycle of
+therapy beginning at cycle 3.
+Statistical analysis
+Descriptive statistics were provided. Random coefficient model was used to test if HGF
+concentration changed with time. The Spearman correlation was used to estimate the
+association between HGF plasma concentrations and length of therapy. Sign test, a non-
+parametric analog of the t-test for paired samples, was used to compare p-ERK/total ERK
+(or p-AKT/total AKT) before and after administration of dasatinib, and to compare data
+obtained after administration of dasatinib on different days. A significance threshold of 0.05
+was used without adjusting for multiplicity.
+The Wilcoxon signed-rank test was used to compare the change in HRQoL from baseline to
+week 2, week 2 to week 4, and week 4 to week 6 of therapy for patients and parents. Patient
+(≥ 5 years of age) self-reported and parent-proxy reported HRQoL domain scores were
+compared at each therapy time point using the Wilcoxon signed-rank test, with data only
+reported for patients and parents with comparative data. The false discovery rate adjustment
+was used to account for multiple testing when appropriate. A two-sided significance level of
+P < 0.05 was used for all statistical tests. Statistical analyses were conducted using SAS
+Version 9.4 (SAS Institute, Cary, NC).
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Broniscer et al. Page 6
+RESULTS
+Twenty-five patients were enrolled on this study from November 2012 until September
+2016. Table 2 and 3 list their characteristics at study enrollment. All patients except one had
+measurable radiographic disease at the start of this therapy. Three (12%) of 25 patients had
+leptomeningeal metastases at the start of therapy although complete metastatic work-up was
+not mandatory.
+Of five patients enrolled on dosage level 1 of the twice-daily regimen, three of four
+evaluable patients experienced DLTs consisting of grade 3 diarrhea (n=1) and fatigue (n=2).
+Therefore, three patients started treatment on dosage level 0, two of which developed DLTs.
+One patient experienced grade 3 hyponatremia concurrently with disease progression;
+further evaluation showed that hyponatremia was at least partially related to inappropriate
+secretion of anti-diuretic hormone. Another patient with normal urinalysis at the start of
+therapy developed grade 3 proteinuria within the nephrotic range which improved with
+discontinuation of treatment.
+Since the twice-daily regimen was poorly tolerated even at the lowest planned dosage level,
+the clinical trial was amended to test doses of the study drugs closer to their single-agent
+MTD administered once daily. Six patients were enrolled on dosage level 1 of the once-daily
+regimen, three of which were unevaluable due to early disease progression. None of three
+evaluable patients experienced significant toxicities. Therefore, eight patients started
+treatment on dosage level 2a. Only one of six evaluable patients at this dosage level had a
+DLT consisting of grade 3 diarrhea and rash. Hence, three patients were treated at dosage
+level 2b, two of which experienced DLTs consisting of grade 3 rash (n=1) and grade 4
+neutropenia (n=1). Therefore, the MTD was established as dasatinib 50mg/m2 and crizotinib
+215mg/m2 administered once daily. Table 4 provides a summary of the most significant
+toxicities attributed to study agents. Diarrhea was common during and after the completion
+of the DLT-evaluation period despite use of loperamide. Fatigue related to study agents was
+often difficult to distinguish from clinical progression and was suspected based on rapid
+onset without other signs of clinical deterioration and improvement by holding the dose of
+dasatinib, the medication with the shortest half-life. Only one patient experienced QT
+c
+prolongation grade 1 at dosage level 2a. No pleural effusions related to dasatinib were
+observed.
+Pharmacokinetic studies
+Pharmacokinetic studies of crizotinib were collected from 25 patients on day 1 of therapy.
+The median (range) T , apparent oral clearance, and elimination half-life of crizotinib
+max
+were 4.1 hours (1.0 to 23.9), 56.5 L/hr/m2 (17.7 to 113.2), and 13.1 hours (9.8 to 34.7),
+respectively. Nineteen patients had pharmacokinetic studies of crizotinib performed on day
+14 of therapy. The median (range) apparent oral clearance and elimination half-life were
+50.3 L/hr/m2 (12.0 to 126.9), and 12.8 hours (8.0 to 36.5).
+Pharmacokinetic studies of dasatinib were performed in 15 patients. However, only those
+studies obtained for 12 patients on day 14 of therapy were deemed appropriate for analysis.
+The median (range) T , apparent oral clearance, and elimination half-life of dasatinib
+max
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Broniscer et al. Page 7
+were 2.1 hours (1.1 to 4.0), 1,328 mL/min/m2 (532 to 2,125), and 4.4 hours (2.9 to 7.9),
+respectively. The results of the C and AUC of crizotinib and dasatinib are
+max 0→t
+summarized in Table 5.
+Pharmacodynamic studies
+Twenty-one patients had 46 serial plasma samples analyzed for the concentration of HGF
+(median= 198.3 pg/mL; range: 88.1 to 3,925.8). There was no change in the log-transformed
+concentration of HGF in plasma over time for patients with serially collected samples
+(P=0.087). We found a negative correlation between HGF plasma concentration at baseline
+and the duration of therapy (Spearman correlation= −0.59; P= 0.0048)
+Twenty paired samples in 14 patients were available for analysis of changes produced by
+dasatinib in markers of cellular pathway activation in PBMC. When all paired samples and
+only those collected on day 14 of therapy (n=13) were analyzed, there was a statistically
+significant decrease in the ratio of p-AKT/total AKT (P= 0.041 and 0.003 respectively) 3
+hours after the administration of dasatinib. No statistically significant changes in the ratio of
+p-ERK/total ERK were found after dosing.
+Molecular studies
+Seventeen patients underwent histologic confirmation of their tumors. Of 10 (59%) tumors
+that could undergo sequencing, only one harbored a non-synonymous PDGFRA mutation (c.
+1432T>C p.S478P).
+FISH analysis of PDGFRA and MET amplifications were available in 16 (94%) cases.
+While four tumors harbored a PDGFRA amplification, one of them focal, MET
+amplification occurred in two cases. Only one tumor harbored co-amplification of both
+oncogenes. (Table 3)
+Outcome
+The median number of cycles of therapy received was one (range: 0 to 12). Seven patients
+experienced clinical progression before completion of cycle 1 of therapy. Only 2 patients
+received at least 6 cycles of therapy. (Table 3) No objective radiologic responses were
+observed with this therapy. Only three patients remain alive.
+Quality of Life
+HRQoL measures were collected from 23 patients. Only median total scores were reported
+due to the small sample size. We included evaluations up to week 6 of therapy because by
+that time point only 9 participants remained on study. Only the physical, emotional and
+social domains were reported for the PedsQL 4.0, as these patients were not attending
+school.
+Patients reported physical function decline starting at week 6 of treatment. Patients did not
+report a significant increase in brain tumor-specific symptom scores through the first 6
+weeks of therapy. Parent-proxy reports were then compared to those obtained from patients.
+Parent-proxy reported their child as having significantly lower physical function at week 6
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Broniscer et al. Page 8
+and significantly lower emotional and social function at baseline, and at weeks 2 and 4
+compared to patients’ report. Parent-proxy reported their child as experiencing poorer
+cognitive function at weeks 2 and 4, more pain and hurt at week 2, poorer movement and
+balance at baseline, and at weeks 2 and 4, more nausea at week 4, and more worry at
+baseline and at week 2, and overall lower HRQoL from baseline until week 4 when
+compared to the patients’ reports.
+DISCUSSION
+The rational design of innovative clinical trials using small-molecule inhibitors for the
+treatment of children with HGGs and DIPGs should be ideally based on multiple premises
+including selection of agents that inhibit a biologically relevant target, use of medications
+with sufficient CNS penetration, and if possible, proven activity against relevant pre-clinical
+models. Since HGGs and DIPGs are highly refractory to therapy, there is great enthusiasm
+for the use of promising treatment combinations.
+We report detailed clinical, pharmacokinetic, and pharmacodynamic data about the
+combination of dasatinib and crizotinib. Unfortunately, this combination was poorly
+tolerated and the recommended daily phase 2 dose represented 29% and 38% of the MTD of
+dasatinib and crizotinib when used as single agents in children with solid tumors,
+respectively.15, 16 Most of the toxicities observed, including diarrhea, nausea and vomiting,
+electrolyte abnormalities, rash, and hypoalbuminemia were predictable based on the adverse
+events previously reported with these medications.15, 16. However, the observation of severe
+proteinuria in the nephrotic range and hyponatremia was unexpected. No objective
+radiologic responses were observed.
+Although we initially designed our pharmacokinetic studies to evaluate potential interactions
+between dasatinib and crizotinib, the limited number of patients evaluated prevented us from
+drawing firm conclusions. The C and AUC of dasatinib in our patients showed similar
+max
+results to those previously reported in children with DIPG.20 Likewise, several
+pharmacokinetic parameters of crizotinib in our patients (e.g., C , T , AUC , and
+max max 0→t
+apparent oral clearance) were comparable to those reported recently in children with solid
+tumors despite significant methodologic differences between both studies (e.g., drug
+formulation and pharmacokinetic sampling strategy).21
+Our results demonstrating a decrease in p-AKT in PBMC after administration of dasatinib
+are interesting although significant concern remains that dasatinib does not reach clinically
+effective concentrations in the CNS.20, 22 The longitudinal analysis of plasma HGF was
+performed based on the report that its expression was predictive of response to c-Met
+inhibition in HGG pre-clinical models.23 Future studies using c-Met inhibitors in the
+treatment of patients with CNS cancers should further explore the association between
+concentrations of HGF in plasma and cerebrospinal fluid and treatment response.
+The results of this clinical trial need to be interpreted in the context of data available at its
+design. Dasatinib is one of the most potent commercially available PDGFRA inhibitors.
+Multiple in vitro studies in HGG or DIPG-derived cell lines with or without PDGFRA
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Broniscer et al. Page 9
+abnormalities have shown activity of this agent, which seems to be mostly cytostatic.8, 12, 24
+However, the promiscuity of dasatinib in inhibiting multiple targets probably accounts for a
+large share of its toxicities. Furthermore, as a substrate of p-glycoprotein and BCRP,22 it is
+now recognized that its CNS penetration is more limited than initially recognized.20 Finally,
+the recommended phase 2 dose reached in this clinical trial provided short exposure to this
+agent considering that its t is quite short.20
+1/2
+Likewise, crizotinib was the only c-Met inhibitor commercially available at the start of this
+study. Although there was anecdotal evidence of its activity against a MET-amplified
+glioblastoma,25 it is now clear that the CNS penetration of crizotinib is minimal and
+probably inadequate for the treatment of primary CNS cancers.25, 26 One study recently
+reported promising activity of the combination of dasatinib and cabozantinib, another c-Met
+inhibitor, against DIPG-derived cell lines.8
+We believe that specific and better CNS-penetrant PDGFRA and c-Met inhibitors warrant
+further testing in children with CNS cancers. It would also be critical if pre-clinical studies
+can determine the subgroup of patients whose tumors are more likely to respond to
+PDGFRA and/or c-Met inhibition (e.g. those harboring PDGFRA and/or MET
+amplification). Although we performed detailed molecular analyses of available tumors in
+the context of a phase 1 study, we did not select patients based on the presence of specific
+genetic abnormalities within their tumors. Of note, a focal amplification of PDGFRA was
+found in one of the patients who received this therapy for 6 months. Although no PDGFRA
+or MET amplifications were found in the tumor of the patient who received therapy for 12
+cycles, we were unable to sequence PDGFRA in his tumor. We were unable to evaluate
+tumors for the recently described MET fusions either.9
+Based, on the data provided before, particularly the significant toxicity and low
+recommended phase 2 dose, we do not feel that further testing of the combination of
+dasatinib and crizotinib in children with CNS cancers is warranted.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+Funding Information
+This work was supported by the United States National Institutes of Health Cancer Center Support (CORE) Grant
+P30 CA21765 and by the American Lebanese Syrian Associated Charities (ALSAC).
+We thank Terri O’Neill for her expertise in performing FISH studies and Robbin Christensen for her help in
+producing the liquid formulation of crizotinib.
+List of abbreviations
+HGG High-grade glioma
+DIPG Diffuse intrinsic pontine glioma
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Broniscer et al. Page 10
+CNS Central nervous sysetm
+RT Radiation therapy
+PDGFR Platelet-derived growth factor receptor
+MTD Maximum tolerated dose
+DLT Dose-limiting toxicity
+HGF Hepatocyte growth factor
+PBMC peripheral-blood mononuclear cells
+FISH fluorescence in situ hybridization
+HRQoL Health-related quality of life
+References
+1. Ostrom QT, Gittleman H, Xu J, et al. CBTRUS statistical report: primary brain and other central
+nervous system tumors diagnosed in the United States in 2009–2013. Neuro-Oncol. 2016; 18:v1–
+v75. DOI: 10.1093/neuonc/now207 [PubMed: 28475809]
+2. Paugh BS, Broniscer A, Qu C, et al. Genome-wide analyses identify recurrent amplifications of
+receptor tyrosine kinases and cell-cycle regulatory genes in diffuse intrinsic pontine glioma. J Clin
+Oncol. 2011; 29:3999–4006. DOI: 10.1200/JCO.2011.35.5677 [PubMed: 21931021]
+3. Wu G, Broniscer A, McEachron TA, et al. Somatic histone H3 alterations in pediatric diffuse
+intrinsic pontine gliomas and non-brainstem glioblastomas. Nat Genet. 2012; 44:251–253. DOI:
+10.1038/ng.1102 [PubMed: 22286216]
+4. Schwartzentruber J, Korshunov A, Liu XY, et al. Driver mutations in histone H3. 3 and chromatin
+remodeling genes in paediatric glioblastoma. Nature. 2012; 482:226–231. DOI: 10.1038/
+nature10833 [PubMed: 22286061]
+5. Sturm D, Witt H, Hovestadt V, et al. Hotspot mutations in H3F3A and IDH1 define distinct
+epigenetic and biological subgroups of glioblastoma. Cancer Cell. 2012; 22:425–437. DOI:
+10.1016/j.ccr.2012.08.024 [PubMed: 23079654]
+6. Korshunov A, Ryzhova M, Hovestadt V, et al. Integrated analysis of pediatric glioblastoma reveals a
+subset of biologically favorable tumors with associated molecular prognostic markers. Acta
+Neuropathol. 2015; 129:669–678. DOI: 10.1007/s00401-015-1405-4 [PubMed: 25752754]
+7. Grasso CS, Tang Y, Truffaux N, et al. Functionally defined therapeutic targets in diffuse intrinsic
+pontine glioma. Nat Med. 2015; 21:555–559. DOI: 10.1038/nm.3855 [PubMed: 25939062]
+8. Truffaux N, Philippe C, Paulsson J, et al. Preclinical evaluation of dasatinib alone and in
+combination with cabozantinib for the treatment of diffuse intrinsic pontine glioma. Neuro Oncol.
+2015; 17:953–964. DOI: 10.1093/neuonc/nou330 [PubMed: 25534822]
+9. Bender S, Gronych J, Warnatz HJ, et al. Recurrent MET fusion genes represent a drug target in
+pediatric glioblastoma. Mat Med. 2016; 22:1314–1320. DOI: 10.1038/nm.4204
+10. Shih AH, Holland EC. Platelet-derived growth factor (PDGF) and glial tumorigenesis. Cancer Lett.
+2006; 232:139–147. [PubMed: 16139423]
+11. Becher OJ, Hambardzumyan D, Walker TR, et al. Preclinical evaluation of radiation and perifosine
+in a genetically and histologically accurate model of brainstem glioma. Cancer Res. 2010;
+70:2548–2557. DOI: 10.1158/0008-5472.CAN-09-2503 [PubMed: 20197468]
+12. Paugh BS, Zhu X, Qu C, et al. Novel oncogenic mutations in pediatric high-grade gliomas. Cancer
+Res. 2013; 73:6219–6229. DOI: 10.1158/0008-5472.CAN-13-1491 [PubMed: 23970477]
+13. Funato K, Major T, Lewis PW, Allis CD, Tabar V. Use of human embryonic stem cells to model
+pediatric gliomas with H3. 3K27M histone mutation. Science. 2014; 346:1529–1533. DOI:
+10.1126/science.1253799 [PubMed: 25525250]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Broniscer et al. Page 11
+14. Awad AJ, Burns TC, Zhang Y, Abounader R. Targeting MET for glioma therapy. Neurosurg Focus.
+2014; 37:E10.doi: 10.3171/2014.9.FOCUS14520
+15. Aplenc R, Blaney SM, Strauss LC, et al. Pediatric phase I trial and pharmacokinetic study of
+dasatinib: a report from the children’s oncology group phase I consortium. J Clin Oncol. 2011;
+29:839–844. DOI: 10.1200/JCO.2010.30.7231 [PubMed: 21263099]
+16. Mossé YP, Lim MS, Voss SD, et al. Safety and activity of crizotinib for paediatric patients with
+refractory solid tumours or anaplastic large-cell lymphoma: a Children’s Oncology Group phase 1
+consortium study. Lancet Oncol. 2013; 14:472–480. DOI: 10.1016/S1470-2045(13)70095-0
+[PubMed: 23598171]
+17. Broniscer A, Tatevossian RG, Sabin ND, Klimo P Jr, Dalton J, Lee R, Gajjar A, Ellison DW.
+Clinical, radiological, histological and molecular characteristics of paediatric epithelioid
+glioblastoma. Neuropathol Appl Neurobiol. 2014; 40:327–336. DOI: 10.1111/nan.12093
+[PubMed: 24127995]
+18. Varni JW, Burwinkle TM, Katz ER, Meeske K, Dickinson P. The PedsQL in pediatric cancer:
+reliability and validity of the Pediatric Quality of Life Inventory Generic Core Scales,
+Multidimensional Fatigue Scale, and Cancer Module. Cancer. 2002; 94:2090–2106. DOI: 10.1002/
+cncr.10428 [PubMed: 11932914]
+19. Palmer SN, Meeske KA, Katz ER, Burwinkle TM, Varni JW. The PedsQL Brain Tumor Module:
+initial reliability and validity. Pediatr Blood Cancer. 2007; 49:287–293. DOI: 10.1002/pbc.21026
+[PubMed: 16991131]
+20. Broniscer A, Baker SD, Wetmore C, et al. Phase I trial, pharmacokinetics, and pharmacodynamics
+of vandetanib and dasatinib in children with newly diagnosed diffuse intrinsic pontine glioma. Clin
+Cancer Res. 2013; 19:305–308. DOI: 10.1158/1078-0432.CCR-13-0306 [PubMed: 23231949]
+21. Balis FM, Thompson PA, Mosse YP, Blaney SM, Minard CG, Weigel BJ, Fox E. First-dose and
+steady-state pharmacokinetics of orally administered crizotinib in children with solid tumors: a
+report on ADVL0912 from the Children’s Oncology Group Phase 1/Pilot Consortium. Cancer
+Chemother Pharmacol. 2017; 79:181–187. DOI: 10.1007/s00280-016-3220-6 [PubMed:
+28032129]
+22. Chen Y, Agarwal S, Shaik NM, Chen C, Yang Z, Elmquist WF. P-glycoprotein and breast cancer
+resistance protein influence brain distribution of dasatinib. J Pharmacol Exp Ther. 2009; 330:956–
+963. DOI: 10.1124/jpet.109.154781 [PubMed: 19491323]
+23. Zhang Y, Farenholtz KE, Yang Y, et al. Hepatocyte growth factor sensitizes brain tumors to c-MET
+kinase inhibition. Clin Cancer Res. 2013; 19:1433–1444. DOI: 10.1158/1078-0432.CCR-12-2832
+[PubMed: 23386689]
+24. Koschmann C, Zamler D, MacKay A, et al. Characterizing and targeting PDGFRA alterations in
+pediatric high-grade glioma. Oncotarget. 2016; 7:65696–65706. DOI: 10.18632/oncotarget.11602
+[PubMed: 27582545]
+25. Chi AS, Batchelor TT, Kwak EL, Clark JW, Wang DL, Wilner KD, Louis DN, Iafrate AJ. Rapid
+radiographic and clinical improvement after treatment of a MET-amplified recurrent glioblastoma
+with a mesenchymal-epithelial transition inhibitor. J Clin Oncol. 2012; 30:e30–33. DOI: 10.1200/
+JCO.2011.38.4586 [PubMed: 22162573]
+26. Metro G, Lunardi G, Floridi P, Pascali JP, Marcomigni L, Chiari R, Ludovini V, Crinò L, Gori S.
+CSF concentration of crizotinib in two ALK-positive non-small-cell lung cancer patients with
+CNS metastases deriving clinical benefit from treatment. J Thor Oncol. 2015; 10:e26–27. DOI:
+10.1097/JTO.0000000000000468
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Broniscer et al. Page 12
+1
+ELBAT
+amehcs
+noitalacse
+esod
+desoporP
+)esod
+rep
+2m/gm(
+binitozirC
+)esod
+rep
+2m/gm(
+binitasaD
+leveL
+egasoD
+001
+05
+0
+031
+05
+* 1
+031
+56
+2
+561
+56
+a3
+nemiger
+yliad-eciwT
+031
+58
+b3
+561
+58
+4
+512
+58
+5
+031
+05
+0
+561
+05
+* 1
+512
+05
+a2
+561
+56
+b2
+nemiger
+yliad-ecnO
+512
+56
+3
+082
+56
+a4
+082
+58
+b4
+*
+level
+egasod
+gnitratS
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+
+--- Page 13 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Broniscer et al. Page 13
+2
+ELBAT
+yduts
+no
+dellorne
+stneitap
+52
+fo
+scitsiretcarahC
+)%(
+stneitap
+fo
+rebmuN
+scitsiretcarahC
+)3.12
+ot
+9.2(
+9.11
+)egnar
+;sraey(
+tnemllorne
+yduts
+ta
+ega
+naideM
+redneG
+)%04(
+01
+elaM
+)%06(
+51
+elameF
+yticinhte/ecaR
+)%86(
+71
+naisacuaC
+)%21(
+3
+naciremA-nacirfA
+0%02(
+5
+cinapsiH
+sesongaid
+cigolotsiH
+)%21(
+3
+amotycortsa
+citsalpanA
+)%04(
+01
+amotsalboilG
+)%61(
+4
+amoilg
+edarg-hgiH
+)%23(
+8
+noitamrifnoc
+cigolotsih
+oN
+)%001(
+52
+TR
+suoiverP
+yparehtomehc
+fo
+snemiger
+suoiverP
+)%8(
+2
+0
+)%46(
+61
+1
+)%02(
+5
+2
+)%8(
+2
+3
+≥
+amoilg
+enitnop
+cisnirtni
+esuffid
+fo
+sisongaid
+cigoloidar
+a
+dah
+stneitap
+11
+,eton
+fO
+)1=n(
+yspotua
+ta
+ro
+)2=n(
+yspoib
+ta
+noitamrifnoc
+cigolotsih
+dah
+amoilg
+enitnop
+cisnirtni
+esuffid
+htiw
+stneitap
+eerhT
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+
+--- Page 14 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Broniscer et al. Page 14
+3
+ELBAT
+stneitap
+52
+lla
+rof
+atad
+ralucelom
+dna
+lacinilC
+)skeew(
+yparehT
+fo
+noitaruD
+seitilamronbA
+raluceloM
+sisongaiD
+cigolotsiH
+)sraey(
+tnemllornE
+ydutS
+ta
+egA
+yticinhtE
+ro
+ecaR/redneG
+6
+lpmaT
+EM
+roA
+RFGDP
+oN
+amotycortsa
+citsalpanA
+9.11
+naisacuaC/F
+1
+11
+elbaliava
+toN
+elbaliava
+toN
+5.51
+naciremA-nacirfA/F
+2
+21
+lpmaT
+EM
+roA
+RFGDP
+oN
+amotsalboilG
+8
+naisacuaC/F
+3
+6
+elbaliava
+toN
+elbaliava
+toN
+9.41
+naisacuaC/M
+4
+1 <
+lpmaT
+EM
+roA
+RFGDP
+oN
+amotsalboilG
+8.61
+naisacuaC/F
+5
+6
+elbaliava
+toN
+elbaliava
+toN
+5
+naisacuaC/F
+6
+5
+lpmaT
+EM
+roA
+RFGDP
+oN
+amotycortsa
+citsalpanA
+7.7
+naciremA-nacirfA/F
+7
+2
+elbaliava
+toN
+elbaliava
+toN
+9.5
+cinapsiH/F
+8
+3
+lpmaA
+RFGDP
+on
+;lpma
+TEM
+amotsalboilG
+3.12
+naisacuaC/M
+9
+1 <
+lpmaT
+EM
+roA
+RFGDP
+oN
+amotsalboilG
+3.5
+naisacuaC/M
+01
+4
+elbaliava
+toN
+elbaliava
+toN
+5.6
+naisacuaC/M
+11
+61
+lpmaT
+EM
+roA
+RFGDP
+oN
+amoilg
+edarg-hgiH
+1.01
+cinapsiH/F
+21
+2
+elbaliava
+toN
+elbaliava
+toN
+4.7
+naisacuaC/M
+31
+84
+lpmaT
+EM
+roA
+RFGDP
+oN
+amotsalboilG
+1.61
+naisacuaC/M
+41
+1
+elbaliava
+toN
+amoilg
+edarg-hgiH
+9.61
+cinapsiH/F
+51
+4
+elbaliava
+toN
+elbaliava
+toN
+7.5
+naisacuaC/F
+61
+8
+lpmaT
+EM
+on
+;lpma
+ARFGDP
+amotsalboilG
+1.31
+naisacuaC/M
+71
+4
+elbaliava
+toN
+elbaliava
+toN
+1.7
+naisacuaC/F
+81
+5.4
+lpmaT
+EM
+roA
+RFGDP
+oN
+amoilg
+edarg-hgiH
+1.91
+naciremA-nacirfA/M
+91
+3
+a
+lpmaT
+EM
+roA
+RFGDP
+oN
+amotsalboilG
+1.31
+cinapsiH/F
+02
+61
+lpmaT
+EM
+roA
+RFGDP
+oN
+amotycortsa
+citsalpanA
+8.31
+naisacuaC/F
+12
+9
+lpma
+TEM
+dna
+ARFGDP
+amotsalboilG
+31
+naisacuaC/F
+22
+52
+lpmaT
+EM
+on
+;lpma
+ARFGDP
+lacoF
+amoilg
+edarg-hgiH
+9.41
+cinapsiH/M
+32
+8
+lpmaT
+EM
+on
+;lpma
+ARFGDP
+amotsalboilG
+9.2
+naisacuaC/M
+42
+4
+lpmaT
+EM
+roA
+RFGDP
+oN
+amotsalboilG
+3.9
+naisacuaC/F
+52
+noitacifilpma
+,lpma
+;elam
+,M
+;elamef
+,F
+:snoitaiverbbA
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Broniscer et al. Page 15
+amoilg
+enitnop
+cisnirtni
+esuffid
+fo
+sisongaid
+lacigoloidar
+a
+dah
+)81
+dna
+,61
+,31
+,11
+,01
+,8
+,6–2
+stneitap(
+stneitap
+nevelE
+a
+)02
+tneitap(
+detset
+sromut
+01
+fo
+eno
+ni
+deifitnedi
+ylno
+saw
+noitatum
+suomynonys-nonA
+RFGDP
+A
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Broniscer et al. Page 16
+4
+ELBAT
+doirep
+noitaulave-TLD
+retfa
+dna
+gnirud
+stnega
+yduts
+ot
+detubirtta
+seiticixot
+tnacifingis
+tsoM
+nemiger
+yliad-ecnO
+nemiger
+yliad-eciwT
+b2
+a2
+1
+1
+0
+level
+egasoD
+3=n
+8=n
+6=n
+5=n
+3=n
+4/3
+edarG
+2/1
+edarG
+4/3
+edarG
+2/1
+edarG
+4/3
+edarG
+2/1
+edarG
+4/3
+edarG
+2/1
+edarG
+4/3
+edarG
+2/1
+edarG
+0
+3
+0
+)%26(
+5
+0
+)%05(
+3
+0
+)%06(
+3
+0
+)%76(
+2
+aimenA
+ǂ)%33(
+1
+)%33(
+1
+0
+)%21(
+1
+0
+)%61(
+1
+0
+0
+0
+0
+aineportueN
+0
+0
+0
+)%21(
+1
+0
+)%61(
+1
+0
+0
+0
+0
+ainepotycobmorhT
+0
+)%001(
+3
+ǂ)%21(
+1
+)%78(
+7
+0
+)%76(
+4
+ǂ)%02(
+1
+)%06(
+3
+0
+)%76(
+2
+aehrraiD
+0
+)%001(
+3
+0
+)%57(
+6
+0
+)%38(
+5
+0
+)%04(
+2
+0
+)%33(
+1
+gnitimoV/aesuaN
+0
+)%76(
+2
+0
+)%21(
+1
+0
+1
+0
+)%06(
+3
+0
+)%76(
+2
+sesanimasnart
+ni
+esaercnI
+0
+)%001(
+3
+0
+)%57(
+6
+0
+)%61(
+1
+0
+)%08(
+4
+0
+3
+aimenimublaopyH
+0
+0
+)%21(
+1
+0
+0
+)%61(
+1
+)%02(
+1
+)%04(
+2
+ǂ)%33(
+1
+)%76(
+2
+aimertanopyH
+0
+0
+0
+)%05(
+4
+0
+)%33(
+2
+)%04(
+2
+)%04(
+2
+0
+)%33(
+1
+aimelakopyH
+0
+)%76(
+2
+)%21(
+1
+)%26(
+5
+)%61(
+1
+0
+)%02(
+1
+)%06(
+3
+)%33(
+1
+)%66(
+2
+aimetahpsohpopyH
+0
+)%001(
+3
+0
+)%73(
+3
+0
+0
+0
+)%06(
+3
+ǂ)%33(
+1
+)%66(
+2
+airunietorP
+ǂ)%33(
+1
+1
+ǂ)%21(
+1
+)%57(
+6
+0
+)%61(
+1
+0
+0
+0
+0
+hsaR
+0
+)%33(
+1
+0
+)%52(
+2
+0
+4
+ǂ)%04(
+2
+0
+0
+3
+eugitaF
+ǂ
+yticixot
+gnitimil-esoD
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Broniscer et al. Page 17
+5
+ELBAT
+sretemarap
+citenikocamrahp
+binitozirc
+dna
+binitasad
+fo
+yrammuS
+)rh/Lm/gn(
+t→0
+CUA
+)Lm/gn(
+xam
+C
+stneitap
+.fo
+rebmuN
+ypareht
+fo
+yaD
+)2m/gm(
+esoD
+gurD
+)1.125,1
+ot 1.883(
+8.395
+)8.583
+ot
+1.45(
+8.911
+01
+41
+05
+binitasaD
+)600,1
+ot 9.127(
+9.368
+)2.323
+ot
+7.59(
+5.902
+2
+41
+56
+9.882,1
+)8.79
+ot
+24(
+1.94
+3
+1
+001
+)9.176,6
+ot 9.047,4(
+607,5
+)4.784
+ot
+383(
+6.293
+3
+41
+001
+)5.866,2
+ot 5.162,1(
+4.981,2
+)5.551
+ot
+5.75(
+7.59
+5
+1
+031
+)968,01
+ot 6.682,4(
+1.684,5
+)7.397
+ot
+4.452(
+9.344
+5
+41
+031
+binitozirC
+)1.939,4
+ot 5.754,1(
+1.063,3
+)4.423
+ot
+8.55(
+5.551
+9
+1
+561
+)4.012,6
+ot 1.876,1(
+8.339,1
+)1.343
+ot
+9.59(
+9.551
+7
+41
+561
+)9.281,21
+ot 3.860,2(
+3.623,5
+)2.096
+ot
+1.321(
+8.872
+8
+1
+512
+)5.872,4
+ot 8.396,1(
+9.811,3
+)2.653
+ot
+8.39(
+9.162
+4
+41
+512
+)sesehtnerap
+ni
+segnar(
+naidem
+sa
+nwohs
+era
+stluser
+,eton
+fO
+41
+yad
+rof
+sruoh
+42
+=t
+dna
+1
+yad
+rof
+∞
+=t
+erew
+binitozirc
+fo
+t→0CUA
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 July 01.

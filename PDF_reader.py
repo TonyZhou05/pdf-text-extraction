@@ -8,8 +8,12 @@ from openai import AzureOpenAI
 # === Azure OpenAI Configuration ===
 AZURE_OPENAI_ENDPOINT = os.getenv("ENDPOINT_URL")
 AZURE_OPENAI_KEY = os.getenv("AZURE_OPENAI_API_KEY")
-AZURE_OPENAI_DEPLOYMENT = os.getenv("DEPLOYMENT_NAME", "gpt-4o")  # Replace with your deployment name
-AZURE_OPENAI_API_VERSION = "2024-02-15-preview"  # Or the version supported by your resource
+AZURE_OPENAI_DEPLOYMENT = os.getenv(
+    "DEPLOYMENT_NAME", "gpt-4o"
+)  # Replace with your deployment name
+AZURE_OPENAI_API_VERSION = (
+    "2024-02-15-preview"  # Or the version supported by your resource
+)
 
 # === Initialize AzureOpenAI Client ===
 client = AzureOpenAI(
@@ -23,11 +27,13 @@ PDF_FOLDER = "pdfs"
 RESULT_FOLDER = "results"
 os.makedirs(RESULT_FOLDER, exist_ok=True)
 
+
 def extract_text_from_pdf(pdf_path):
     """Extract text from a PDF file."""
     print(f"[INFO] Extracting text from PDF: {pdf_path}")
     doc = fitz.open(pdf_path)
     return "".join([page.get_text() for page in doc])
+
 
 def extract_dlt_info_with_gpt(pdf_text):
     """Extract DLT-related structured data using Azure GPT-4."""
@@ -64,13 +70,17 @@ Text:
     response = client.chat.completions.create(
         model=AZURE_OPENAI_DEPLOYMENT,
         messages=[
-            {"role": "system", "content": "You are a helpful clinical trial information extractor."},
-            {"role": "user", "content": prompt}
+            {
+                "role": "system",
+                "content": "You are a helpful clinical trial information extractor.",
+            },
+            {"role": "user", "content": prompt},
         ],
         temperature=0.2,
-        max_tokens=4096
+        max_tokens=4096,
     )
     return response.choices[0].message.content
+
 
 def save_json_and_excel(data, pmid):
     """Save the extracted JSON and Excel file."""
@@ -106,6 +116,7 @@ def save_json_and_excel(data, pmid):
     else:
         print(f"[✗] No structured data to save as Excel for {pmid}.")
 
+
 def process_all_pdfs():
     """Main loop for processing all PDF files."""
     pdf_files = [f for f in os.listdir(PDF_FOLDER) if f.endswith(".pdf")]
@@ -123,6 +134,7 @@ def process_all_pdfs():
             print(f"[ERROR] Failed to process {pdf_file}: {e}")
             with open("error_log.txt", "a") as f:
                 f.write(f"{pdf_file}: {e}\n")
+
 
 if __name__ == "__main__":
     process_all_pdfs()

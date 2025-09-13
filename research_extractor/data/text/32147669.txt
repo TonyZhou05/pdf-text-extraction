@@ -1,0 +1,807 @@
+Source: 32147669.pdf
+Extracted on: Sat Sep 13 00:03:07 PDT 2025
+==================================================
+
+--- Page 1 ---
+www.nature.com/bjc
+ARTICLE
+Clinical Study
+Phase 1 study of the pan-HER inhibitor dacomitinib plus the
+KRAS-
+MEK1/2 inhibitor PD-0325901 in patients with
+mutation-positive colorectal, non-small-cell lung and
+pancreatic cancer
+RobinM. J.M. van Geel1,10,Emilie M.J.vanBrummelen1,11,Ferry A.L.M. Eskens2, SanneC. F.A. Huijberts1, FilipY. F. L.de Vos3,
+Martijn P.J.K. Lolkema2, LotA.Devriese3, Frans L.Opdam1,Serena Marchetti1, Neeltje Steeghs1, KimMonkhorst4, Bas Thijssen5,
+HildeRosing5, AlwinD. R.Huitema5,6,Jos H.Beijnen5,7,René Bernards8 and JanH.M. Schellens9
+BACKGROUND:MutationsinKRASresultinaconstitutivelyactivatedMAPKpathway.InKRAS-mutanttumoursexistingtreatment
+options, e.g. MEKinhibition, havelimited efficacydue toresistance through feedback activationof epidermal growthfactor
+receptors (HER).
+METHODS: Inthis Phase 1study, thepan-HER inhibitordacomitinib was combinedwith theMEK1/2inhibitor PD-0325901in
+patientswithKRAS-mutantcolorectal,pancreaticandnon-small-celllungcancer(NSCLC).Patientsreceivedescalatingoraldosesof
+once dailydacomitinib andtwice dailyPD-0325901todetermine therecommended Phase2 dose (RP2D).(Clinicaltrials.gov:
+NCT02039336).
+RESULTS: Eight out of 41evaluablepatients (27 colorectal cancer, 11NSCLC and 3pancreatic cancer) among8 dose levels
+experienced dose-limiting toxicities. TheRP2Dwith continuous dacomitinibdosing was15mg ofdacomitinib plus6mg of
+PD-0325901(21dayson/7daysoff),butmajortoxicity,includingrash(85%),diarrhoea(88%)andnausea(63%),precludedlong-
+term treatment. Therefore, other intermittent schedules wereexplored, whichonlyslightly improved toxicity. Tumour regression
+was seen ineightpatients with thelongest treatment duration(median102 days) inNSCLC.
+CONCLUSIONS:AlthoughpreliminarysignsofantitumouractivityinNSCLCwereseen,wedonotrecommendfurtherexploration
+of this combinationin KRAS-mutant patients dueto itsnegativesafety profile.
+British Journalof Cancer(2020) 122:1166–1174; https://doi.org/10.1038/s41416-020-0776-z
+BACKGROUND mutations in human cancers (~20%) makes these proteins a
+The RAS–RAF–MEK–ERK (MAPK) pathway plays a pivotal role in potential target for antitumour therapy. The frequency of KRAS
+the regulation of cell proliferation, survival and differentiation. mutations is particularly high in pancreatic cancer (90%),
+Persistent activation of this pathway is frequently observed colorectal cancer (CRC) (45%) and non-small-cell lung cancer
+in human cancers, and is associated with high rates of cancer (NSCLC) (35%).1
+cell proliferation. Commonly, pathway activation occurs as a To date, with the exception of selective KRASG12C inhibitors
+consequenceofoncogenicgain-of-functionmutationsinKirsten suchasAMG510,4therapeuticapproachestargetingandblocking
+rat sarcoma viral oncogene homolog (KRAS). The KRAS protein KRAS directly have been unsuccessful. Small-molecule inhibitors
+stimulates multiple downstream effector pathways, which are against the downstream effectors of KRAS, such as MEK,
+activated in a growth factor-independent way in cancer cells demonstrated only limited antitumour activity in KRAS-mutated
+expressing oncogenic KRAS.1–3 The high frequency of KRAS (KRASm)cancers aswell.2,3,5,6
+1DepartmentofMedicalOncologyandClinicalPharmacology,TheNetherlandsCancerInstitute,Amsterdam,Netherlands;2DepartmentofMedicalOncology,ErasmusMCCancer
+Institute,Rotterdam,Netherlands;3DepartmentofMedicalOncology,UMCUtrechtCancerCenter,Utrecht,Netherlands;4DepartmentofPathology,TheNetherlandsCancer
+Institute,Amsterdam,Netherlands;5DepartmentofPharmacy,TheNetherlandsCancerInstitute,Amsterdam,Netherlands;6DepartmentofClinicalPharmacy,UniversityMedical
+CenterUtrecht,Utrecht,Netherlands;7UtrechtInstituteforPharmaceuticalSciences,UtrechtUniversity,Utrecht,Netherlands;8TheNetherlandsCancerInstitute,Divisionof
+MolecularCarcinogenesis&OncodeInstitute,Amsterdam,Netherlandsand9Facultyofscience,UtrechtUniversity,Utrecht,Netherlands
+Correspondence:SanneC.F.A.Huijberts(s.huijberts@nki.nl)orFransL.Opdam(f.opdam@nki.nl)
+10Presentaddress:MaastrichtUniversityMedicalCentre,DepartmentofClinicalPharmacyandToxicology,CardiovascularResearchInstituteMaastricht(CARIM),Maastricht,
+Netherlands
+11Presentaddress:CentreforHumanDrugResearch,Leiden,Netherlands
+Theseauthorscontributedequally:RobinM.J.M.vanGeel,EmilieM.J.vanBrummelen,SanneC.F.A.Huijberts
+Received:12November2019Revised:10February2020Accepted:17February2020
+Publishedonline:9March2020
+©TheAuthor(s),underexclusivelicencetoCancerResearchUK2020
+
+--- Page 2 ---
+Phase1studyofthepan-HERinhibitordacomitinibplustheMEK1/2...
+RMJMvanGeeletal.
+1167
+Preclinical work from Sun and colleagues revealed that in The study was registered at ClinicalTrials.gov (NCT02039336).
+KRASmcancercells,inhibitionofMEKleadstofeedbackactivation Pfizer Inc. funded this study and provided the investigational
+of upstream tyrosine kinase receptors, human epidermal growth drugsdacomitinib andPD-0325901.
+factor receptor 2 (HER2) and 3 (HER3) in particular, causing
+intrinsic resistance through reactivation of the MAPK and Study designandprocedures
+phosphoinositide3-kinase(PI3K)pathways.7Concurrenttreatment Patients were treated at varying dose levels of orally administered
+with a MEK inhibitor and an inhibitor of multiple HER receptor dacomitinibandPD-0325901incyclesof28days.Thestartingdoses
+subtypes(pan-HERinhibitor)completelysuppressedthisfeedback werebasedonpreviousdatafromsingle-agentPhase1studieswith
+activationandresultedinsynergisticantitumouractivityinKRASm both compounds, taking into account the potential for synergistic
+cells in vitro and in xenograft models.7 As proof of concept was toxicity. Dose-level 1 consisted of 30mg of dacomitinib once daily
+obtainedinbothKRASmCRCandNSCLCmodels,wehypothesised (QD) continuously, which is 67% of the maximum-tolerated dose
+that the antitumour activity of this approach would be indepen- and the recommended startingdosefor EGFR-positive NSCLC asa
+dent of tumour histology. The unmet medical need for patients singleagent,and2mgofPD-0325901twicedaily(BID)administered
+with KRASm tumours and the high frequency of these mutations onthefirst21daysofeach28-daycycle,whichis25%ofitssingle-
+providedarationaletoinvestigatethecombinationofaMEKand agent-recommended dose. Subsequently, PD-0325901 was esca-
+pan-HER inhibitorin humans. lated according to a classical 3+3 design with fixed maximum
+In this Phase 1 dose-finding study, we investigated the combi- escalation increments. Dose-escalation decisions were based on
+nationofdacomitinib,apotentirreversibleATP-competitiveinhibitor safetyevaluationofallevaluablepatients,performedaftercomple-
+oftheHERkinasefamily(invitroIC valuesof6.0nM,45.7nMand tionofthefirsttreatmentcycle.Patientswereconsideredevaluable
+50
+74nM against the human catalytic domains of HER1, HER2 and for the dose-determining part of this study if at least one cycle
+HER4), with PD-0325901, a highly specific non-ATP-competitive of study treatment was completed, with the minimum safety
+inhibitorofMEK1andMEK2,inpatientswithKRASmCRC,NSCLCor evaluationconducted,andatleastoneadministrationofbothdrugs
+pancreaticcancer.Theprimarystudyobjectivewastodeterminethe received, or if dose-limiting toxicity (DLT) had occurred during the
+recommended phase 2 dose (RP2D) and schedule. The secondary first cycle. If one out of three patients experienced a DLT, the
+objectives included characterising safety and tolerability, exploring number of patients treated at that dose level was expanded to a
+antitumour activity and assessing the pharmacokinetic profiles of maximum of six. Dose escalation continued until a dose level was
+dacomitinibandPD-0325901whengivenconcomitantly. reachedatwhichnomorethanoneoutofsixpatientsexperienced
+DLTduringthefirst28daysoftreatment,providedthatthesingle-
+agent-recommendeddosesofbothcompoundswerenotexceeded.
+METHODS Patientswerecontinuingstudytreatmentuntildiseaseprogression,
+Patientpopulation unacceptabletoxicityorinvestigator/patientdecisiontodiscontinue.
+This investigator-initiated, multicentre, open-label, Phase 1 dose- Safety was monitored throughout the treatment by physi-
+escalation study enrolled patients at three sites in The Nether- cal examination, laboratory assessments, electrocardiography,
+lands.Adultpatientswithhistologicallyorcytologicallyconfirmed ophthalmicevaluationandcollectionofadverseevents.Adverse
+advanced CRC, NSCLC or pancreatic cancer were enrolled on the events were recorded according to the Common Terminology
+basis of documented KRAS mutations in exons 2, 3 or 4, and Criteria for Adverse Events version 4.0. All adverse events
+PIK3CA wild-type status. Methods for analysing KRAS and PIK3CA that were possible, probable or definite related to study drug
+status were analytically validated, and assessments were per- were considered as study/treatment related. DLT was defined
+formedbyatrainedpathologist.PIK3CAwildtypewasrequiredto as an adverse event or laboratory abnormality occurring within
+avoid treatment resistance via activation of signalling proteins the first treatment cycle meeting at least one of the criteria
+downstream of PIK3CA. Eligibility criteria included Eastern described in supplementary table S1.
+Cooperative Oncology Group (ECOG) performance status of <2, Radiologic tumour measurements were performed using
+life expectancy of ≥3 months, measurable disease according to computed tomography (CT) scans at baseline and every 6 weeks
+ResponseEvaluationCriteriainSolidTumors(RECIST)version1.1, throughoutthestudy.Afteraprotocolamendment,thefrequency
+adequate bone marrow (absolute neutrophil count ≥1.5×109/L, was changed to every 8 weeks. Tumour response was evaluated
+platelets ≥100×109/L and haemoglobin ≥6.0mmol/L), hepatic according to RECIST 1.1.8 Patients were evaluable for antitumour
+(total bilirubin ≤1.5×upper limit of normal [ULN], aspartate activity if at least one follow-up radiologic evaluation was
+aminotransferase (AST) and alanine aminotransferase (ALT)≤ performedafter thestart of study treatment.
+2.5×ULN) and renal (serum creatinine ≤1.5×ULN) functions.
+Radiotherapy, immunotherapy, chemotherapy or any treatment Pharmacokineticand pharmacodynamic analyses
+with investigational medication within 4 weeks prior to study Forpharmacokineticanalyses,serialbloodsampleswereobtained
+treatment were not allowed, and patients with a history of other fromallpatientspriortotreatmentadministrationonday1,and1,
+primary malignancies were excluded with the exception of 2,3, 4,6, 8,12, 24,72and 144hafter thefirstdose.On day1 of
+patients who had been disease-free for ≥3 years, or with cycle 2, blood samples were drawn before and 1, 2, 3, 4, 6, 8, 12
+completely resected non-melanoma skin cancer. Additional and24hafteradministration.Plasmasampleswereassayedusing
+exclusion criteria included symptomatic or untreated leptome- a validated high-performance liquid chromatography– tandem
+ningeal disease, symptomatic brain metastasis, history of inter- mass spectrometry method (HPLC–MS/MS). Briefly, dacomitinib
+stitiallungdiseaseorpneumonitis,historyofretinalveinocclusion and PD-0325901 were extracted from plasma by protein
+and prior therapy containing targeted drug combinations known precipitation with a mixture of acetonitrile/methanol (1:1v/v).
+to interfere with EGFR, HER2, HER3, HER4 or MAPK- and PI3K- Compounds were chromatographically separated using a Waters
+pathwaycomponents,includingPI3K,AKT,mTOR,BRAF,MEKand Xbridge BEH Phenyl column (50 ×2.1-mm ID, 5-μm particle size),
+ERK. The study was conducted in accordance with guidelines for and detection was performed using an API4000 tandem mass
+GoodClinicalPracticeasdefinedbytheInternationalConference spectrometerequippedwithaturboionsprayinterface,operating
+on Harmonisation. Regulatory authorities and the institutional inthepositiveionmode.Transitionsfromm/z480to329andm/z
+reviewboardsapprovedthestudyprotocolandallamendments. 489 to 255 were monitoredfor the detection of dacomitinib and
+All patients gave written informed consent, per Declaration of PD-0325901, respectively. Stable isotope-labelled internal stan-
+Helsinkirecommendations. dardswereusedforthequantification.Thelowerandupperlimits
+:,;)(0987654321
+
+--- Page 3 ---
+Phase1studyofthepan-HERinhibitordacomitinibplustheMEK1/2...
+RMJMvanGeeletal.
+1168
+of quantification were, respectively, 0.5 and 50ng/ml for dacomi-
+Table1. Patientanddiseasecharacteristicsatbaseline.
+tinib, and 5 and 500ng/ml for PD-0325901. Pharmacokinetic
+parameters were calculated in R using an in-house-developed Patients(n=41)
+validated script for non-compartmental pharmacokinetic analyses
+(version3.6.0).9 Sex,n(%)
+Duringthestudy,theprotocolwasamendedtoallowincorpora- Female 22(54%)
+tion of tumour biopsies for pharmacodynamic analyses. Biopsies
+Male 19(46%)
+weretakenbeforetreatment,inthesecondweekoftreatmentand
+Age,median(range),years 62(43–81)
+upon treatment discontinuation. Phosphorylated (p)ERK and ribo-
+somal pS6 (pS6-r) levels were assessed by validated immunohis- Tumourtypes,n(%)
+tochemistry(IHC)stainingmethods,andsemi-quantitativeHscores Colorectal 27(66%)
+(percentageofpositivecells(0–100)multipliedbystainingintensity
+Non-small-celllungcancer 11(27%)
+(0–3)) were assessed by an independent pathologist who was
+Pancreatic 3(7%)
+blindedforsampleidentification.Tumourbiopsysampleswerefixed
+in formalin for 16–24h and embedded in paraffin subsequently. ECOGPS,n(%)
+Immunohistochemistryofformalin-fixedparaffin-embeddedtumour 0 16(39%)
+sampleswasperformedonaBenchMarkUltraautostainer(Ventana 1 25(61%)
+MedicalSystems).Briefly,paraffinsectionswerecutat3μm,heated
+Numberofpriorlinesoftherapy,n(%)
+at 75°C for 28min and deparaffinised in the instrument with EZ
+0 1(2%)
+prep solution (Ventana Medical Systems). Heat-induced antigen
+1 7(17%)
+retrieval was carried out using Cell Conditioning 1 (CC1, Ventana
+MedicalSystems)at95°Cfor32and64min,forpS6-randpERK1/2, 2 13(32%)
+respectively.pS6-rwasdetectedusingcloneD68F8(1:1000dilution, ≥3 20(49%)
+32min at room temperature, Cell Signalling) and phospho-p44/42 KRASmutation,n(%)
+MAPK (pERK1/2) (Thr202/Tyr204) using clone D13.14.4E (1:400
+Exon2 36(88%)
+dilution, 1h at room temperature, Cell Signalling). pERK was
+Exon3 3(7%)
+detectedusingtheUltraViewUniversalDABDetectionKit(Ventana
+MedicalSystems),whiledetectionofpS6-rwasperformedusingthe Exon4 2(5%)
+OptiViewDABDetectionKit(VentanaMedicalSystems).Slideswere
+ECOG PS Eastern CooperativeOncology Group performance status, KRAS
+counterstainedwithhaematoxylin.
+Kirstenratsarcomaviraloncogenehomologue.
+Statistical analysis
+Pharmacokinetics, pharmacodynamics, safety and tumour emergence of ocular toxicity at dose-level 5 (including retino-
+response datawerereported descriptively. pathy grade 1, retinal detachment grades 1 and 2 and dry eyes
+grade 1). The latter is known with the potential of more severe
+ocular toxicity at higher PD-0325901 doses.10–12 Consequently,
+RESULTS the established maximum dose level with continuous dacomi-
+Patientdisposition and characteristics tinib dosingconsisted of 15mgof dacomitinib QD plus 6mgof
+Between April 2014 and April 2018, 41 patients (27 (66%) with PD-0325901 BID. Subsequently, other intermittent regimens
+CRC,11(27%)withNSCLCand3(7%)withpancreaticcancer)were were initiated with the aim of optimising drug exposure and
+enrolledintothisstudy.ThemajorityofpatientshadKRASexon2 tolerability. A slight increase in exposure to dacomitinib was
+mutations, and were pre-treated with at least two lines of intended with dose-level 6 consisting of 30mg of dacomitinib
+antineoplastictherapyforadvanceddisease(Table1).Onepatient QD4dayson/3daysofffor28days,andPD-03259016mgofBID
+withCRCdidnotwishtoreceiveanyantineoplastictherapybefore for 21 days. No DLTs were observed at this dose level, which
+enrolment, which was allowed per protocol. Thirty-eight patients allowedfurtherescalationofdacomitinibto30mgofQD5days
+wereevaluablefordosedetermination(Fig.1);threepatientswere on/2 days off.Inviewof patient convenience, it wasdecided to
+considered not evaluable due to clinical deterioration, patient usea5dayon/2dayoffregimenforbothagents,whichshould
+refusal and mistakenly administration of the wrong dose. At the increasetheexposureofdacomitinibwiththesamedose.Outof
+endofthestudy,all(n=41)patientshaddiscontinuedtreatment three patients, two experienced DLTs consisting of grade 2
+duetoprogressivedisease(n=30),adverseevents(n=7),clinical neuropathy,leadingtotreatmentdelayof>7days,andinability
+deterioration/lack of benefit (n=3)orpatient refusal (n=1). to receive 75% of the planned doses in one patient, and
+dyspnoea grade 3in the other patient. This warranted dose de-
+Dosefinding escalation.Becausea5dayon/2dayoffregimenwasconsidered
+Atthefirstdoselevelconsistingof30mgofQDdacomitinibplus preferential, this regimen was maintained, and PD-0325901 was
+2mgofBIDPD-0325901(21dayson/7daysoff),threeoutofsix de-escalatedto5mgofPD-0325901BIDcombinedwith30mgof
+patients experienced DLTs, being grade 3-increased AST/ALT, dacomitinib QD in dose-level 8. One DLT (dehydration grade 3)
+grade 3 fatigue and inability to receive at least 75% of the was observed, and apart from this event, the dose level was
+planned dose due to grade 2 fatigue and diarrhoea (Fig. 1). otherwise also not tolerable due to several grade 1 and 2
+Therefore, we decided to continue with a reduced dacomitinib toxicities,mostlikelyrelatedtoMEKinhibitionwithPD-0325901.
+dose of 15mgin a continuous dosing schedule to allow for The combination of dacomitinib and PD-0325901 was consid-
+escalation of PD-0325901. In the subsequent dose levels with eredastootoxicandthereforenotfeasibleinthisrelativelyfrail
+continuousadministrationofdacomitinib,DLTswerereportedin patient population.
+two out of 21 patients: grade 3 AST/ALT increase (dose-level 2)
+and grade 3 skin rash (dose-level 5), respectively (Fig. 1). Safety
+Although the formal RP2D was not reached, the escalation of Study treatment-related adverse events were reported in all
+PD-0325901 was halted in view of the increasing number of patients, with the most common being maculopapular and
+multiple grade 2 adverse events (e.g. diarrhoea, nausea and papulopustular rash (85%), diarrhoea (88%), nausea (63%), vomit-
+fatigue) beyond the DLT window of 28 days, together with the ing (41%) and fatigue (34%) (Table 2). Supportive care, including
+
+--- Page 4 ---
+Phase1studyofthepan-HERinhibitordacomitinibplustheMEK1/2...
+RMJMvanGeeletal.
+1169
+Dose-limiting toxicity (n = 2):
+1. Treatment delay > 7 days*
+2. Inability to receive 75% of
+planned doses*
+3. Due to grade 2 neuropathy*
+4. Dyspnea grade 3
+*Occurred in the same patient
+Dose-level 6 (n = 3) Dose-level 7 (n = 3)
+D: 30 mg QD (4 on/3 off) D: 30 mg QD (5 on/2 off)
+Dose-level 1 (n = 6) PD: 6 mg BID (21 on/7 off) PD: 6 mg BID (5 on/2 off)
+D: 30 mg QD
+PD: 2 mg BID (21 on/7 off) Dose-level 5 (n = 6)
+Dose-limiting toxicity (n = 3): D: 15 mg QD
+1. Increased AST, ALT grade 3 PD: 6 mg BID (21 on/7 off) Dose-level 8 (n = 5)
+2. Fatigue grade 3 Dose-limiting toxicity D: 30 mg QD (5 on/2 off)
+3. < du 7 e 5 % to o d f i a p r l r a h n e n a e d & d fa o t s ig e u , e grade 2 Dose-level 4 (n = 3) (n = 1): PD: 5 mg BID (5 on/2 off)
+D: 15 mg QD 1. Skin rash grade 3 Dose-limiting toxicity (n = 1):
+PD: 5 mg BID (21 on/7 off)
+1. Dehydration grade 3
+Dose-level 3 (n = 3)
+D: 15 mg QD
+PD: 4 mg BID (21 on/7 off)
+Dose-level 2 (n = 6)
+D: 15 mg QD
+PD: 3 mg BID (21 on/7 off)
+Dose-limiting toxicity (n = 1):
+Dose-level –1 (n = 3) 1. Increased AST, ALT grade 3
+D: 15 mg QD
+PD: 2 mg BID (21 on/7 off)
+Fig.1 Dose-escalationcohortsanddose-limitingtoxicities.D,dacomitinib;PD,PD-0325901;QD,oncedaily;BID,twicedaily;AST,aspartate
+transaminase;ALT,alaninetransaminase;n,numberofpatients;21on/7off,21dayson/7daysoff;4on/3off,4dayson/3daysoff;5on/2off,
+5dayson/2daysoff.
+minocycline and cetomacrogol cream, or class I corticosteroid Antitumouractivity
+cream, was sufficient to manage skin rash, with the exception of Thirty-six patients were evaluable for antitumour activity (Fig. 3);
+onepatientindose-level5whohadtodiscontinuetreatmentdue fivepatientsdidnotreachthefirstradiologicalevaluationdueto
+todose-limitingskinrash.Themostfrequentgrade3eventswere clinicaldeterioration(n=1),adverseevents(n=2),patientrefusal
+diarrhoea (20%), nausea (12%) and fatigue (10%). Treatment (n=1) or insufficient treatment (n=1). Out of the evaluable
+interruptionwascausedbydiarrhoeainfivepatients,bynauseain patients, 20 achieved stable disease (including one patient with
+three patients, by rash in three patients and by fatigue in two CRCandnopriortreatmentlines),and16hadprogressivedisease
+patients. In all other cases, supportive care was sufficient to ontheirfirstevaluationscan(n=36).Tumourregressionwasseen
+decreasetheseveritytograde1orless. ineightpatients(18%)treatedatvariousdoselevels1,3,5,6and
+Eye toxicities included grade 1 retinopathy, dry eyes grade 1, 8 (Fig. 3a). Out of the eight evaluable patients with NSCLC, six
+watering eyes grade 1, retinopathy grade 1 and retinal detach- achieved tumour regression within the limits of stable disease
+mentgrades1and2thatoccurredinfourpatientsindoselevels accordingtoRECISTv1.1criteria,andonehadnochangeintarget
+1, 5 and 6. All patients could continue study treatment without lesionvolumeasthebestresponse.Theoverallmediantreatment
+further progression of ocular toxicity. Cases of retinal vein durationwas90days(range3–469).PatientswithNSCLCachieved
+occlusionwere notobserved inthis study. thelongestmediantreatmentduration,102days(range14–239),
+versus 87 days (range 3–469) for patients with CRC, and 73 days
+Pharmacokineticanalysis (42–96) for patients with pancreatic cancer. Median treatment
+Pharmacokinetic parameters after the first dose and at steady durationwasthelongestinthedoselevelsthatcontained30mg
+state are summarised in the supplementary data (Table S2). PD- of dacomitinib. In dose-level 1 with 30mg of dacomitinib and
+0325901anddacomitinibexposureincreasedapproximatelydose- 2mg of PD-0325901, treatment duration was the longest
+proportionally with moderate and high inter-patient variability, (239 days, range 42–469), followed by dose-level 6 (dacomitinib
+respectively (Fig. 2). The half-life of dacomitinib could not be 30mg4dayson/3daysoffandPD-03259016mg[79days,range
+accurately calculated by non-compartmental analysis, due to its 49–96]) and 8 (dacomitinib 30mg and PD-0325901 5mg, both
+long terminal half-life. The long half-life and the high variability 5dayson/2daysoff [77 days,range43–134]) (Fig.3b, n=36).
+was known from previous studies, and was also reflected in our
+results.12Themeandacomitinibpeakplasmaconcentration(C ) Pharmacodynamicanalyses
+max
+andareaundertheplasma-concentration–timecurvefromtime0 Tumourbiopsies weretaken fromsevenpatientsat baselineand
+to 24h (AUC 0–24h ) increased approximately 3- to 5-fold after fromfourpatientsalsoontreatment(Fig.S1).Intwopatientsfrom
+multiple dosing indicating extensive accumulation. A slight whom a paired biopsy was available, pERK was decreased,
+increase in AUC and C was also observed for PD-0325901 whereas from two other patients, pERK was increased during
+max
+aftermultipledosesindicatingminimalaccumulation,whichisin treatment. Reduction would be expected based on the mechan-
+agreement with the relative short half-life (mean 7.7h, range ism of action of the drug combination. Only one of these two
+5.0–9.9). Figure 2 shows the plasma-concentration–time curves patients was evaluable for response and showed progressive
+perdose level. disease.ForoneofthetwopatientswithanincreaseinpERK,the
+
+--- Page 5 ---
+.stneitapfo%01>nignirrucco,stneveesrevdadetaler-tnemtaerT
+.2elbaT
+)14=n(latoT
+8level-esoD
+7level-esoD
+6level-esoD
+5level-esoD
+4level-esoD
+3level-esoD
+2level-esoD
+1level-esoD
+1−level-esoD
+)5=n(
+)3=n(
+)3=n(
+)8=n(
+)3=n(
+)3=n(
+)6=n(
+)6=n(
+)4=n(
+slevelesodllA
+)2/5(gm03
+)2/5(gm03
+)3/4(gm03
+gm51
+gm51
+gm51
+gm51
+gm03
+gm51
+DIB1095230-DPDQbinitimocaD
+)2/5(gm5
+)2/5(gm6
+gm6
+gm6
+gm5
+gm4
+gm3
+gm2
+gm2
+3rG
+2/1rG
+3rG
+2/1rG
+3rG
+2/1rG
+3rG
+2/1rG
+3rG
+2/1rG
+3rG
+2/1rG
+3rG
+2/1rG
+3rG
+2/1rG
+3rG
+2/1rG
+)%(n,tneveesrevdA
+)%09(73
+)%01(4
+)%7(3
+)%2(1
+)%21(5
+)%7(3
+)%7(3
+)%51(6
+)%2(1
+)%21(5
+)%7(3
+ayticixotniksynA
+)%7(3
+)%58(53
+)%01(4
+)%7(3
+)%2(1
+)%01(4
+)%7(3
+)%7(3
+)%51(6
+)%2(1
+)%21(5
+)%7(3
+hsaR
+)%5((2
+)%22(9
+)%2(1
+)%2(1
+)%5(2
+)%2(1
+)%7(3
+niksyrD
+)%2(1
+)%01(4
+)%5(2
+)%5(2
+serussfinikS
+)%51(6
+)%5(2
+)%2(1
+)%2(1
+)%2(1
+)%2(1
+EPP
+)%88(63
+)%2(1
+)%7(3
+)%2(1
+)%2(1
+)%7(3
+)%01(4
+)%5(2
+)%2(1
+)%2(1
+)%01(4
+)%5(2
+)%51(6
+)%01(4
+aeohrraiD
+)%7(3
+)%36(62
+)%2(1
+)%7(3
+)%5(2
+)%2(1
+)%21(5
+)%2(1
+)%5(2
+)%5(2
+)%2(1
+)%2(1
+)%2(1
+)%5(2
+)%01(4
+aesuaN
+)%14(71
+)%2(1
+)%2(1
+)%21(5
+)%2(1
+)%5(2
+)%2(1
+)%2(1
+)%5(2
+)%7(3
+gnitimoV
+)%43(41
+)%2(1
+)%2(1
+)%7(3
+)%2(1
+)%2(1
+)%2(1
+)%2(1
+)%7(3
+)%2(1
+eugitaF
+)%2(1
+)%92(21
+)%5(2
+)%7(3
+)%2(1
+)%2(1
+)%2(1
+)%7(3
+)%2(1
+aixeronA
+)%42(01
+)%5(2
+)%5(2
+)%2(1
+)%2(1
+)%5(2
+)%2(1
+)%2(1
+desaercniKPC
+)%22(9
+)%2(1
+)%2(1
+)%2(1
+)%2(1
+)%2(1
+)%2(1
+)%7(3
+desaercniTSA/TLA
+)%72(11
+)%5(2
+)%5(2
+)%5(2
+)%2(1
+)%2(1
+)%2(1
+)%5(2
+sitisocuM
+)%02(8
+)%5(2
+)%5(2
+)%2(1
+)%7(3
+byticixoteyE
+)%21(5
+)%2(1
+)%2(1
+)%2(1
+)%7(3
+aicepolA
+)%21(5
+)%2(1
+)%2(1
+)%2(1
+)%5(2
+htuomyrD
+)%2(1
+.detalertnemtaertydutssaderedisnocerewgurdydutsotdetaleretinfiedroelbaborp,elbissoperatahtstneveesrevdallA
+.emordnysaisehtsydratnalpramlapEPP,esanikohpsohpenitaercKPC,ffosyad2/nosyad52/5,ffosyad3/nosyad43/4,esanimasnartetatrapsa/eninalaTSA/TLA,yliadeciwtDIB,yliadecnoDQ
+.yticixotynafopuorgdenibmocehtrofdetnuocsawenoylno;seiticixotnikseromroenodecneirepxestneitapemoSa
+.seyeyrddnatcaratac,yhtaponiter,noisivderrulb,tnemhcatedyrosnesoruensedulcnIb
+Phase1studyofthepan-HERinhibitordacomitinibplustheMEK1/2...
+RMJMvanGeeletal.
+1170
+
+--- Page 6 ---
+a
+20 60
+15
+40
+10
+20
+0
+b
+250 300
+200
+200
+150
+100
+100
+50
+0 0
+biopsy was taken after 4 days of study treatment interruption, investigated. Although formal RP2Ds were established at 10 and
+which may explain the lack of pERK modulation. In the other 15mg of BID in continuous and 5 day on/2 day off schedules,
+patient, theformalin fixationof the baseline biopsy was delayed, respectively,theoccurrenceofoculartoxicity,retinalveinocclusion
+whereasdirectfixationwasdesired.Thisdelaymighthavecaused inparticular,decidedustoreconsidertheRP2D.10Asdacomitinib
+degradationofphosphorylated proteins.Thesedeviationswillbe showspotentialoverlappingtoxicitywithPD-0325901,thestarting
+discussed further inthenext section. doses for both agents were 25–70% of their monotherapy doses,
+Besides pERK staining, pS6 staining was also performed on being2mgofPD-0325901BIDina21dayon/7dayoffschedule
+tumour biopsies. However, pS6 staining results have to be and30mgofdacomitinibQD.Althoughrelativelylow,thesedoses
+interpreted with caution, because the quality of this staining demonstrated target engagement and clinical activity in their
+couldnotbeassuredduetothelackofreliablecontrols.Forthis respective single-agent studies.10–12 Nevertheless, the initial dose
+reason, pS6 staining results were not taken into account during levelwasalreadynottoleratedasindicatedbyDLTsinthreeoutof
+thepharmacodynamic analyses ofthis clinicaltrial. sixpatients.GiventherelativelylowdoseofPD-0325901inrelation
+to its single-agent maximum-tolerated dose, toxicity was likely to
+be associated with dacomitinib in particular. Therefore, the
+DISCUSSION dacomitinib dose was reduced to enable dose escalation of PD-
+InthisPhase1study,weinvestigatedthecombinationoftheMEK 0325901, as we hypothesised that robust MEK inhibition was
+inhibitor PD-0325901 with the pan-HER inhibitor dacomitinib in necessary to block the KRAS-activated MAPK pathway before
+patientswithKRASmNSCLC,CRCandpancreaticcancer.Basedon tumour cells activate their escape mechanism through upstream
+preliminaryefficacyresultsofthecurrenttrialandtwocomparable tyrosine kinase receptors.7 Because ocular toxicity, i.e. asympto-
+trials exploring the same treatment strategy, it was decided to maticcentralserousretinopathy,emergedatthe5and6mgdose
+limit recruitment to patients with KRASm NSCLC in December levels,wehalteddoseescalationat6mg,andestablishedtheRP2D
+2016. At that moment, recruitment was ongoing in the dose- with continuous dacomitinib dosing at 15mg of dacomitinib QD
+expansion cohort ofdose-level 7. plus6mgofPD-0325901BID21dayson/7daysoff.Atdosesof5
+Dose escalation was discontinued due to major toxicities in and6mg,theplasmaconcentrationofPD-0325901exceededthe
+both continuous and intermittent dosing schedules. A rapid targetlevel(16.5ng/ml),consistentwithtargetinhibitionbasedon
+declineinperformancestatusandpooroveralltolerabilityplayed xenograftmousemodels,13duringtheentiredoseinterval(Fig.2b).
+amajor role inthis. Furthermore, lack ofefficacywas thesecond However,at15mgofdacomitinibdoses,theplasmaconcentration
+reasonforthedecision todiscontinue enrolment. didnotexceedthepreclinicaltargetof22ng/ml,whichistheIC
+50
+Our study data showed that combining dacomitinib with PD- for HER2/HER3 inhibition (unpublished data), for a substantial
+0325901inacontinuousorintermittentdosingschedulewasnot numberofpatients.
+toleratedforthemajorityofpatients.Inapreviousphase1dose- Therefore, after determination of the RP2D with continuous
+escalation study, PD-0325901 doses up to 20mg of BID in a dacomitinibdosing,intermittentdosingscheduleswereinitiated
+continuousdosingschedule,30mgofBIDina21dayon/7dayoff in an effort to optimise exposure and preserve tolerability.
+schedule and 10mgin a 5 day on/2 day off schedule have been Dacomitinib, 30mg of QD 4 days on/3 days off combined with
+)lm/gn(
+noitartnecnoC
+)lm/gn(
+noitartnecnoC
+)lm/gn(
+noitartnecnoC
+)lm/gn(
+noitartnecnoC
+Phase1studyofthepan-HERinhibitordacomitinibplustheMEK1/2...
+RMJMvanGeeletal.
+1171
+DL1: D 30 mg QD, PD 2 mg BID (21/7)
+DL1: D 15 mg QD, PD 2 mg BID (21/7)
+DL2: D 15 mg QD, PD 3 mg BID (21/7)
+DL3: D 15 mg QD, PD 4 mg BID (21/7)
+DL4: D 15 mg QD, PD 6 mg BID (21/7)
+DL5: D 15 mg QD, PD 6 mg BID (21/7)
+DL6: D 30 mg QD, (4/3), PD 6 mg BID (21/7)
+DL7: D 30 mg QD, (5/2), 6 mg BID (5/2)
+DL8: D 30 mg QD, (5/2), PD5 mg BID (5/2)
+5
+0
+0 10 20 30 0 10 20 30
+Time (h) Time (h)
+DL1: D 30 mg QD, PD 2 mg BID (21/7)
+DL1: D 15 mg QD, PD 2 mg BID (21/7)
+DL2: D 15 mg QD, PD 3 mg BID (21/7)
+DL3: D 15 mg QD, PD 4 mg BID (21/7)
+DL4: D 15 mg QD, PD 6 mg BID (21/7)
+DL5: D 15 mg QD, PD 6 mg BID (21/7)
+DL6: D 30 mg QD, (4/3), PD 6 mg BID (21/7)
+DL7: D 30 mg QD, (5/2), 6 mg BID (5/2)
+DL8: D 30 mg QD, (5/2), PD5 mg BID (5/2)
+0 10 20 30 0 10 20 30
+Time (h) Time (h)
+Fig.2 PharmacokineticprofilesofdacomitinibandPD-0325901.Allfigures:plasma-concentration–timecurvesofmeanplasmalevelsper
+doselevel.DL,doselevel;21/7,21dayson/7daysoff;4/34dayson/3daysoff;5/25dayson/2daysoff.aDacomitinibperdoselevel:cycle
+1day1(left)andcycle2day1,orthelastdayofconcomitantuseofbothdrugsforintermittentdosing(right).bPD-0324901perdoselevel:
+cycle1day1(left)andcycle2day1,or thelastdayofconcomitantuseofbothdrugsforintermittentdosing(right).
+
+--- Page 7 ---
+60
+40
+PD-0325901 6mg of BID 21 days on/7 days off, was better target engagement was insufficient for antitumour response, in
+tolerated, but in view of therapy compliance, it was decided to termsofdurationormagnitude.
+further explore a 5 day on/2 day off regimen. Due to one DLT PatientswithmetastaticKRASmtumoursrepresentapopulation
+(dehydrationgrade3)andmultiplegrade1and2toxicitiesintwo withahighunmetmedicalneed.MultiplestrategiestotargetKRAS
+additional patients, this dose level was considered intolerable. havebeenexplored,includingfarnesyltransferaseinhibitors,small
+The combination of dacomitinib and PD-0325901 in a dose molecules interfering with the prenyl-binding protein PDEδ-KRAS
+exceedingtargetlevelswasconsiderednotmanageableinthese interactionandsmallmoleculestargetingdownstreameffectorsof
+frail lung cancer patients. KRAS, e.g. RAF, MEK or PI3K. However, none of these approaches
+Pharmacokinetic parameters of both agents were in line with have been successful.2,14,15 Since all these strategies rely on
+previouslyreportedsingle-agentdata.Ourdatashownosignsof targetingasingleproteinorpathway,rapidonsetofresistancedue
+pharmacokinetic interactions between thetwoagents.10,12 to tumour escape mechanisms exploiting alternative pathways is
+Unfortunately, pERK modulation in relation to tumour response to be expected.16 Therefore, combination strategies may have a
+datacouldonlybeassessedinonepatient.DespitepERKreduction, more sustained antitumour effect. Previously, van Geel et al.
+this patient showed progressive disease. This could mean that demonstrated clinical proof of concept for combining BRAF and
+snoisel
+tegrat
+fo
+mus
+egnahc
+%
+Phase1studyofthepan-HERinhibitordacomitinibplustheMEK1/2...
+RMJMvanGeeletal.
+1172
+a
+D: 30/ PD: 2 BID 21d
+D: 15/ PD: 2 BID 21d
+D: 15/ PD: 3 BID 21d
+D: 15/ PD: 4 BID 21d
+D: 15/ PD: 5 BID 21d
+D: 15/ PD: 6 BID 21d
+D: 30 4on-3off/ PD: 6 BID 21d
+D: 30 5on-2off/ PD: 6 BID 5on-2off
+D: 30 5on-2off/ PD: 5 BID 5on-2off
+20
+0
+CRCpancr.NSCLCNSCLCNSCLCNSCLC NSCLCNSCLC
+NSCLCCRC CRC CRC CRC CRC CRC CRCNSCLCCRC CRC CRC CRC CRC CRC CRC CRC CRCpancr.pancr.CRC CRC CRC CRC CRC CRC CRC NSCLC
+–20
+–40
+b
+CRC
+CRC
+CRC
+NSCLC
+NSCLC
+CRC
+NSCLC
+NSCLC
+CRC
+NSCLC
+pancr.
+NSCLC
+NSCLC
+CRC
+pancr.
+CRC
+CRC
+CRC
+CRC
+NSCLC
+CRC
+CRC
+CRC
+CRC
+NSCLC
+NSCLC
+CRC
+CRC
+CRC
+CRC
+CRC
+CRC
+CRC
+pancr.
+CRC
+CRC
+0 100 200 300 400 500
+Time to progression (days)
+Fig.3 AntitumouractivityofdacomitinibandPD-0325901inKRASmCRC,NSCLCandpancreaticcancer.aMaximumpercentagechange
+inthesumoftargetlesionsizefrombaseline,includingresponsesassessedbyRECIST,bydoselevel.bSwimmerplotoftreatmentduration,
+bydoselevel.D,dacomitinib;PD,PD-0325901;BID,twicedaily;CRC,colorectalcancer;NSCLC,non-small-celllungcancer;pancr.,pancreatic
+cancer;21d,21dayson/7daysoff;4on–3off,4dayson/3daysoff;5on–2off,5dayson/2daysoff;PD,progressivedisease.Symbolsattheend
+ofeachbarrepresentthereasonfortheendoftreatmentforeachindividualpatient.
+
+--- Page 8 ---
+Phase1studyofthepan-HERinhibitordacomitinibplustheMEK1/2...
+RMJMvanGeeletal.
+1173
+EGFR inhibition in patients with BRAF-mutant CRC,17 based on a study. M.L., F.V., S.H., L.D., F.E., F.O., S.M., J.S. and N.S. were principal or sub-
+synthetic lethality drug screen.18 The BEACON CRC phase 3 trial investigatorsintheparticipatingcentres.Pharmacodynamicanalysiswasperformed
+investigatingthecombinationofBRAFandEGFRinhibitionwithor byK.M.,andpharmacokineticanalysesbyB.T.,H.R.andA.H.,E.B.,R.G.andS.H.werein
+withoutaMEKinhibitoralsoshowedfavourableresults.19Similarly, chargeofthefinalanalysesofalltheavailabledata.ThepaperwaswrittenbyE.B.,
+inKRASmcells,inhibitionofMEKwasfoundtosynergisewithHER2 R.G.,andS.H.,andallauthorsreviewedandapprovedthepaper.
+and HER3 inhibition in an identical screen to identify synthetic
+lethal interactions.7 However, in contrast to these preclinical
+ADDITIONAL INFORMATION
+observations,thepreliminaryclinicalactivitywithdacomitinibplus
+Ethics approval and consent to participate The study was approved by the
+PD-0325901 in KRASm tumours was relatively disappointing.
+accredited Medical Ethics Committee of the NKI-AVL. All substantial protocol
+Toxicity restricted combining full single-agent doses, leading to a
+amendments were also approved by the same Medical Ethics Committee. The
+lowerexposure,whichpotentiallylimitsclinicalantitumouractivity.
+principlesoftheDeclarationofHelsinkiandtheMedicalResearchInvolvingHuman
+Another explanation for the limited antitumour activity of this SubjectAct(WMO)havebeenfollowedinthisprotocolanditiscomplianttoICH-
+combination may lie in the extensive inter-pathway connections GCP.PatientswereregisteredbythetrialofficeoftheNKI-AVLafterinformedconsent
+of the KRAS protein. Although we excluded patients with isgiven.ThestudywasregisteredatClinicalTrials.gov(NCT02039336).
+concurrent KRAS and PIK3CA mutations, activation of the PI3K
+pathway may as well be triggered by mutated KRAS directly, ConsenttopublishNeitherthewholenoranypartoftheresultsofthestudycarried
+particularly in the presence of downstream MEK inhibition.20 In outunderthisprotocolwillbepublishedorpassedontoanythirdpartywithout
+addition, reactivation of the MAPK pathway may occur as well, written consent of the sponsor of this study. All authors of this paper and the
+analogoustotheobservationwithBRAFinhibitioninBRAF-mutant involvedpharmaceuticalcompaniesgaveconsentforpublication.
+CRC cells,21 especially when upstream receptors are not ade-
+quately inhibited. Indeed, although this concerns a small cohort, DataavailabilityTheclinicaldatasetsanalysedduringthisclinicaltrialareavailable
+patients treated with doses of 30mg of dacomitinib had disease fromthecorrespondingauthoronreasonablerequest,andonlyifanonymisationof
+stabilisationforalongerperiodoftimecomparedwithpatientson patientdatacanbefullyensured.
+dose levelscontaining 15mgof dacomitinib (Fig.3b).
+Interestingly, six out of eight patients (75%) with NSCLC CompetinginterestsJ.B.andJ.S.(partly)holdapatentonoraltaxaneformulations,
+achieved tumour regression, compared with one out of 24 are shareholders and part-time employees of Modra Pharmaceuticals, a spin-out
+companydevelopingoraltaxanesnotrelatedtothepaper.Allotherauthorsdeclare
+patients(4%)withCRC(Fig.3a).Inaddition,themediantreatment
+thattheyhavenocompetinginterestsrelatedtothisstudy.
+durationinpatientswithNSCLC(102days)waslongerthanthatof
+CRC patients (87 days), suggesting a difference in sensitivity to
+studytreatmentbetweenthesemalignancies(Fig.3b).Thisfinding FundinginformationPfizerInc.fundedthisstudyandprovidedtheinvestigational
+wasalsoreflectedintheresultsoftwoseparatestudies.Höchster drugsdacomitinibandPD-0325901.
+etal.showedthataddingaMEKinhibitortosecond-lineirinotecan
+Supplementaryinformationisavailableforthispaperathttps://doi.org/10.1038/
+therapy in patients with KRASm CRC did not result in clinical s41416-020-0776-z.
+benefit.22However,patientswithKRASmNSCLChadanimproved
+responseratebytheadditionoftheMEKinhibitorselumetinibto NoteThisworkispublishedunderthestandardlicensetopublishagreement.After
+second-linetreatmentwithdocetaxelasreportedbyJänneetal., 12monthstheworkwillbecomefreelyavailableandthelicensetermswillswitchto
+although no significant effect on progression-free and overall aCreativeCommonsAttribution4.0International(CCBY4.0).
+survivalwas observed.5
+Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+Toexplainthedifferencesinsensitivitybetweentumourtypes,
+inpublishedmapsandinstitutionalaffiliations.
+several biomarkers will be explored in a translational study on
+pairedtumourbiopsiesfrompatientswithKRASmtumourstreated
+withthreedifferentcombinations ofpan-HERandMEKinhibitors
+inthisphase1trialandtwootherclinicaltrials.Inthetranslational REFERENCES
+study, analyses will include at least the following biomarkers: 1. Downward, J. Targeting RAS signalling pathways in cancer therapy. Nat. Rev.
+HER3, heregulin, BCL-XL, KRAS mutant to KRAS wild-type allele Cancerhttps://doi.org/10.1038/nrc969(2003).
+frequency ratio, KRAS copy number, KRAS expression levels and 2. Adjei,A.A.,Cohen,R.B.,Franklin,W.,Morris,C.,Wilson,D.,Molina,J.R.etal.Phase
+thenatureof theKRASmutation. I pharmacokinetic and pharmacodynamic study of the oral, small-molecule
+mitogen-activatedproteinkinasekinase1/2inhibitorAZD6244(ARRY-142886)in
+Inconclusion,dacomitinibcouldonlybecombinedsafelywith
+patients with advanced cancers. J. Clin. Oncol. https://doi.org/10.1200/
+PD-0325901 in a continuous or intermittent dosing schedule at
+jco.2007.14.4956(2008).
+doses much lower than the recommended single-agent doses.
+3. Migliardi,G.,Sassi,F.,Torti,D.,Galimi,F.,Zanella,E.R.,Buscarino,M.etal.Inhi-
+Toxicity prevented continuous dosing of dacomitinib and PD- bition of MEK and PI3K/mTOR suppresses tumor growth but does not cause
+0325901. Although preliminary signs of antitumour activity in tumorregressioninpatient-derivedxenograftsofRAS-mutantcolorectalcarci-
+NSCLCwereseen,definingadoseandregimenwithmanageable nomas.Clin.CancerRes.https://doi.org/10.1158/1078-0432.Ccr-11-2683(2012).
+(long-term) toxicity was not feasible. Therefore, it is not 4. Canon,J.,Rex,K.,Saiki,A.Y.,Mohr,C.,Cooke,K.,Bagal,D.etal.TheclinicalKRAS
+recommendedtofurtherexplorethecombinationofdacomitinib (G12C)inhibitorAMG510drivesanti-tumourimmunity.Naturehttps://doi.org/
+andPD-0325901 inKRASm NSCLC patients. 10.1038/s41586-019-1694-1(2019).
+5. Janne,P.A.,vandenHeuvel,M.M.,Barlesi,F.,Cobo,M.,Mazieres,J.,Crino,L.etal.
+Selumetinibplusdocetaxelcomparedwithdocetaxelaloneandprogression-free
+survivalinpatientswithKRAS-mutantadvancednon-smallcelllungcancer:the
+ACKNOWLEDGEMENTS
+SELECT-1randomizedclinicaltrial.Jamahttps://doi.org/10.1001/jama.2017.3438
+Wethankallpatientsforparticipation,theclinicalresearchunitsofErasmusMedical (2017).
+Center Rotterdam, University Medical Center Utrecht and the Antoni van 6. Janne,P.A.,Shaw,A.T.,Pereira,J.R.,Jeannin,G.,Vansteenkiste,J.,Barrios,C.etal.
+Leeuwenhoek hospital—Netherlands Cancer Institute Amsterdam for conduct of SelumetinibplusdocetaxelforKRAS-mutantadvancednon-small-celllungcan-
+thetrial,andPfizerInc.forprovidingstudydrugsandanunrestrictedgrant.
+cer:arandomised,multicentre,placebo-controlled,phase2study.LancetOncol.
+https://doi.org/10.1016/s1470-2045(12)70489-8(2013).
+7. Sun, C., Hobor, S., Bertotti, A., Zecchin, D., Huang, S., Galimi, F. et al. Intrinsic
+AUTHORCONTRIBUTIONS resistance to MEK inhibition in KRAS mutant lung and colon cancer through
+ThepreclinicalworkwasdonebyR.B.,R.G.andJ.S.havewrittentheclinicalstudy transcriptionalinductionofERBB3.CellRep.https://doi.org/10.1016/j.celrep.2014.
+protocolincollaborationwithR.B.andJ.B.E.B.,R.G.andS.H.coordinatedtheclinical 02.045(2014).
+
+--- Page 9 ---
+Phase1studyofthepan-HERinhibitordacomitinibplustheMEK1/2...
+RMJMvanGeeletal.
+1174
+8. Eisenhauer,E.A.,Therasse,P.,Bogaerts,J.,Schwartz,L.H.,Sargent,D.,Ford,R. 16. Bernards, R. A missing link in genotype-directed cancer therapy. Cell 151,
+etal.Newresponseevaluationcriteriainsolidtumours:revisedRECISTguideline 465–468(2012).
+(version1.1).Eur.J.Cancerhttps://doi.org/10.1016/j.ejca.2008.10.026(2008). 17. vanGeel,R.,Tabernero,J.,Elez,E.,Bendell,J.C.,Spreafico,A.,Schuler,M.etal.A
+9. RCoreTeam.R:ALanguageandEnvironmentforStatisticalComputing(RFoun- phaseIbdose-escalationstudyofencorafenibandcetuximabwithorwithout
+dationforStatisticalComputing,Vienna,Austria,2014). alpelisibinmetastaticBRAF-mutantcolorectalcancer.CancerDiscov.https://doi.
+10. LoRusso, P. M., Krishnamurthi, S. S., Rinehart, J. J., Nabell, L. M., Malburg, L., org/10.1158/2159-8290.Cd-16-0795(2017).
+Chapman,P.B.etal.PhaseIpharmacokineticandpharmacodynamicstudyofthe 18. Prahallad,A.,Sun,C.,Huang,S.,DiNicolantonio,F.,Salazar,R.,Zecchin,D.etal.
+oralMAPK/ERKkinaseinhibitorPD-0325901inpatientswithadvancedcancers. UnresponsivenessofcoloncancertoBRAF(V600E)inhibitionthroughfeedback
+Clin.CancerRes.https://doi.org/10.1158/1078-0432.Ccr-09-1883(2010). activationofEGFR.Naturehttps://doi.org/10.1038/nature10868(2012).
+11. Haura,E.B.,Ricart,A.D.,Larson,T.G.,Stella,P.J.,Bazhenova,L.,Miller,V.A.etal.A 19. Kopetz, S., Grothey, A., Yaeger, R., Van Cutsem, E., Desai, J., Yoshino, T. et al.
+phaseIIstudyofPD-0325901,anoralMEKinhibitor,inpreviouslytreatedpatients Encorafenib, Binimetinib, and Cetuximab in BRAF V600E-Mutated Colorectal
+with advanced non-small cell lung cancer. Clin. Cancer Res. https://doi.org/ Cancer.N.Engl.J.Med.https://doi.org/10.1056/NEJMoa1908075(2019).
+10.1158/1078-0432.Ccr-09-1920(2010). 20. Engelman,J.A.,Chen,L.,Tan,X.,Crosby,K.,Guimaraes,A.R.,Upadhyay,R.etal.
+12. Janne,P.A.,Boss,D.S.,Camidge,D.R.,Britten,C.D.,Engelman,J.A.,Garon,E.B. EffectiveuseofPI3KandMEKinhibitorstotreatmutantKrasG12DandPIK3CA
+et al. Phase I dose-escalation study of the pan-HER inhibitor, PF299804, in H1047Rmurinelungcancers.Nat.Med.https://doi.org/10.1038/nm.1890(2008).
+patientswithadvancedmalignantsolidtumors.Clin.CancerRes.https://doi.org/ 21. Corcoran,R.B.,Ebi,H.,Turke,A.B.,Coffee,E.M.,Nishino,M.,Cogdill,A.P.etal.
+10.1158/1078-0432.Ccr-10-1220(2011). EGFR-mediated re-activation of MAPK signaling contributes to insensitivity of
+13. Mansour,S.J.,Matten,W.T.,Hermann,A.S.,Candia,J.M.,Rong,S.,Fukasawa,K. BRAF mutant colorectal cancers to RAF inhibition with vemurafenib. Cancer
+et al. Transformation of mammalian cells by constitutively active MAP kinase Discov.https://doi.org/10.1158/2159-8290.Cd-11-0341(2012).
+kinase.Sciencehttps://doi.org/10.1126/science.8052857(1994). 22. Hochster,H.S.,Uboha,N.,Messersmith,W.,Gold,P.J.,ONeil,B.H.,Cohen,D.
+14. Samatar,A.A.&Poulikakos,P.I.TargetingRAS-ERKsignallingincancer:promises etal.PhaseIIstudyofselumetinib(AZD6244,ARRY-142886)plusirinotecanas
+andchallenges.Nat.Rev.DrugDiscov.https://doi.org/10.1038/nrd4281(2014). second-linetherapyinpatientswithK-RASmutatedcolorectalcancer.Cancer
+15. Baines,A.T.,Xu,D.&Der,C.J.InhibitionofRasforcancertreatment:thesearch Chemother. Pharmacol. https://link.springer.com/article/10.1007/s00280-014-
+continues.FutureMed.Chem.https://doi.org/10.4155/fmc.11.121(2011). 2609-3(2015).

@@ -1,0 +1,609 @@
+Source: 32382808.pdf
+Extracted on: Sat Sep 13 00:02:49 PDT 2025
+==================================================
+
+--- Page 1 ---
+PharmRes(2020)37:89
+https://doi.org/10.1007/s11095-020-02828-6
+RESEARCHPAPER
+Phase I pharmacological study of continuous chronomodulated
+capecitabine treatment
+Jeroen Roosendaal1 & Bart A. W. Jacobs1,2& Dick Pluim2& Hilde Rosing1& Niels de Vries1&
+Erik van Werkhoven3& Bastiaan Nuijen1& Jos H. Beijnen1,4& Alwin D. R. Huitema1,5&
+JanH.M.Schellens4&SerenaMarchetti2
+Received:5January2020/Accepted:21April2020/Publishedonline:7May2020
+#TheAuthor(s)2020
+ABSTRACT (morning:evening).PKandPDwereexaminedontreatment
+Purpose Capecitabine is an oral pre-pro-drug of the anti- days7and8.
+cancer drug 5-fluorouracil (5-FU). The biological activity of Results A total of 25 patients were enrolled. The MTD of
+the 5-FU degrading enzyme, dihydropyrimidine dehydroge- continuouschronomodulatedcapecitabinetherapywasestab-
+nase(DPD),andthetargetenzymethymidylatesynthase(TS), lishedat750/1250mg/m2/day,andwasgenerallywelltoler-
+aresubjecttocircadianrhythmicityinhealthyvolunteers.The ated.CircadianrhythmicityintheplasmaPKofcapecitabine,
+aimofthisstudywastodeterminethemaximumtolerateddose dFCR, dFUR and 5-FU was not demonstrated. TS activity
+(MTD),dose-limitingtoxicity(DLT),safety,pharmacokinetics wasinducedandDPDactivitydemonstratedcircadianrhyth-
+(PK) and pharmacodynamics (PD) of capecitabine therapy micityduringcapecitabinetreatment.
+adaptedtothiscircadianrhythm(chronomodulatedtherapy). Conclusion The MTD of continuous chronomodulated
+Methods Patients aged ≥18 years with advanced solid capecitabinetreatmentallowsfora20%higherdoseintensity
+tumours potentially benefitting from capecitabine therapy comparedtotheapprovedregimen(1250mg/m2bi-dailyon
+were enrolled. A classical dose escalation 3+3 design was day1–14ofevery21-daycycle).Chronomodulatedtreatment
+applied. Capecitabine was administered daily without inter- with capecitabine is promising and could lead to improved
+ruptions.Thedailydosewasdividedinmorningandevening tolerabilityandefficacyofcapecitabine.
+doses that were administered at 9:00 h and 24:00 h,respec-
+tively.The ratioofthemorningtotheeveningdosewas3:5 KEY WORDS capecitabine .chronomodulation .
+metronomic .phaseI
+JeroenRoosendaalandBartA.W.Jacobscontributedequallytothiswork.
+Electronicsupplementarymaterial Theonlineversionofthisarticle
+INTRODUCTION
+(https://doi.org/10.1007/s11095-020-02828-6)containssupplementary
+material,whichisavailabletoauthorizedusers.
+Capecitabine is an oral pre-pro-drug of 5-fluorouracil (5-FU)
+* JeroenRoosendaal and is frequently used for the treatment of colorectal, breast
+j.roosendaal@nki.nl andgastriccancer.Afteradministration,capecitabineisrapidly
+and completely absorbed and converted into subsequently 5′-
+deoxy-5-fluorocytidine (dFCR), 5′-deoxy-5-fluorouridine
+1 DepartmentofPharmacy&Pharmacology,TheNetherlandsCancer
+Institute,Louwesweg6,1066,ECAmsterdam,TheNetherlands (dFUR)and5-FUviaathree-stepenzymaticpathwayinvolving
+carboxylesterase,cytidinedeaminaseandthymidinephosphor-
+2 DepartmentofClinicalPharmacology,TheNetherlandsCancerInstitute,
+Plesmanlaan121,1066,CXAmsterdam,TheNetherlands ylase (TP), respectively [1, 2]. Approximately 80% of 5-FU is
+catabolizedtoinactivemetabolites.Asmallproportionof5-FU
+3 DepartmentofBiometrics,TheNetherlandsCancerInstitute,
+Plesmanlaan121,1066,CXAmsterdam,TheNetherlands is intracellularly anabolized to the cytotoxic metabolites 5-
+fluorouridine5′-triphosphate(FUTP),5-fluoro-2′-deoxyuridine
+4 ScienceFaculty,UtrechtInstituteforPharmaceuticalSciences(UIPS),
+DivisionofPharmacoepidemiology&ClinicalPharmacology,Utrecht 5′-triphosphate (FdUTP), and 5-fluoro-2′-deoxyuridine 5′-
+University,P.O.Box80082,3508,TBUtrecht,TheNetherlands monophosphate(FdUMP)[3,4].Themainmechanismofac-
+5 DepartmentofClinicalPharmacy,UniversityMedicalCenterUtrecht, tionisinhibitionoftheenzymethymidylatesynthase(TS),which
+Heidelberglaan100,3584,CXUtrecht,TheNetherlands is essential for DNA synthesis [5, 6]. Dihydropyrimidine
+
+--- Page 2 ---
+89 Page2of10 PharmRes(2020)37:89
+dehydrogenase(DPD)istheenzymethatcatalyzes5-FUdegra- marrow,hepaticandrenalfunctionwereeligibleforenrolment.
+dation into dihydro-5-FU. Dihydro-5-FU is eventually con- PatientswithknownDPDdeficiencycausedbygeneticpolymor-
+verted to fluoro-β-alanine (FBAL), which is cleared renally [1, phismsinDPYD(DPYD*2Aorc.2846A>T)wereexcluded.
+7].
+Therecommendeddose(RD)ofcapecitabineis1250mg/
+Studydesign
+m2 twice daily (BID) on day 1–14 of a 21-day cycle [8]. In
+earlyclinicalphaseIstudies,bothcontinuousandintermittent
+This was a phase I, open label, dose-escalation study. Patients
+dosingregimenswereexamined[9,10].Forcontinuouscape-
+receivedcapecitabinetablets(150mgand500mg)onday1–21
+citabinetreatment,theRDwas666mg/m2BID[10],which
+ofa21-daycycleuntildiseaseprogression,unacceptabletoxicity,
+isa20%lowerdoseintensitythanforintermittenttreatment
+or patient refusal. Capecitabine was administered with water
+[9]. Intermittent and continuous treatment schedules have
+within30minafteralightmeal,bothinthemorningandlate
+beencomparedinaphaseIIclinicaltrialandshowedsimilar
+evening.Aclassical3+3doseescalationdesignwasapplied.[18]
+efficacy [11]. Although the intermittent dosing regimen was
+Thecapecitabinedosewasescalatedaccordingtofivepredefined
+recommended for further clinical evaluation, diarrhoea,
+doselevels(1000,1275,1600,2000and2550mg/m2totaldaily
+hand-foot syndrome, vomiting, nausea and stomatitis were
+dose).Thetotaldailydosewasdividedinmorningandevening
+morefrequentlyreportedwiththeintermittentschedulethan
+doses that were administered at 9:00 h and 24:00 h (± 1 h),
+thecontinuouscapecitabinetreatment[11].
+respectively,accordingtoa3:5(morning:evening)ratio,based
+Thetimeofdoseadministrationcouldalsoinfluencetolera-
+on the 3:5 ratio in trough to peak DPD activity observed in
+bilityofcapecitabine.Inpreviousstudies,5-FUmetabolismdem-
+healthy volunteers [16]. The MTD was expanded to a maxi-
+onstratedcircadianrhythmicity[12–14].Chronomodulatedand
+mumof12patients.DLTperiodwasdefinedasthefirstthree
+constant-rate infusion with intravenous 5-FU have been com-
+weeksoftreatment.Toxicitywasassessedweeklyduringthefirst
+pared in a randomized trial [15]. Chronomodulation was
+treatmentcycleandattheendofeachsubsequentcycleaccord-
+achievedbynocturnaladministrationof5-FU,sincepeakactivity
+ing to the Common Terminology Criteria for Adverse Events
+ofDPDandtroughTSactivitywereexpectedduringthenight.
+(CTC-AE)version4.03.Tumourresponsewasevaluatedevery
+The 5-FU chronomodulated schedule was more effective and
+two treatment cycles according to the Response Evaluation
+lesstoxicthanconstant-rateinfusionof5-FU[15].
+CriteriainSolidTumors(RECIST)version1.1[19].Thestudy
+Recently,weexaminedthecircadianrhythmicityinDPDand
+protocolwasapprovedbythelocalethicalcommitteeandwas
+TS activity in healthy volunteers [16]. At 2.00 a.m. a peak in
+performedincompliancewithGoodClinicalPracticeguidelines
+DPDactivity(whichwasabout50%highercomparedwithaf-
+andtheWHODeclarationofHelsinki.Thestudywasregistered
+ternoon activity) and trough TS activity were reported [16].
+in the Dutch Trial Registry (http://www.trialregister.nl, study
+AdaptationtothecircadianrhythmofDPDmayresultinamore
+identifier:NTR4639).
+constant5-FUexposure.Thismightbenefitpatients,asexposure
+to5-FUattroughTSactivityhasbeenassociatedwithimproved
+5-FU safety and tolerability [17]. Based on these data, we hy- Pharmacokineticanalyses
+pothesized that chronomodulated capecitabine therapy would
+improvetreatmenttolerabilitybyadministeringthehighestcape- In order to examine circadian variability, the plasma PK of
+citabinedoseatnightduringmaximumDPDactivityandtrough capecitabine,dFCR,dFUR,5-FU,andFBALwereexamined
+TS activity. Since continuous BID capecitabine treatment was duringday-andnighttime.Peripheralbloodwascollectedat
+bettertoleratedthanintermittenttherapy[11],chronomodula- pre-doseand 0.5,1, 1.5, 2,3,5, 11, 15h after capecitabine
+tion was expected to result in even better tolerability, which intakeat9:00honday7oftreatmentandduringthefollow-
+potentiallycouldleadtoincreaseddoseintensity. ingnight(day8),0.5,1,1.5,2,3,5and9haftercapecitabine
+TheaimofthisphaseIstudywastodeterminethemaxi- intake at 24:00 h. Blood samples were collected in lithium-
+mum tolerated dose (MTD), dose-limiting toxicity (DLT), heparinized tubes, which were centrifuged for 10 min at
+pharmacokinetics (PK) and pharmacodynamics (PD) ofcon- 1500 g and 4°C after collection. Isolated plasma was stored
+tinuouschronomodulatedBIDcapecitabinetherapy. at−70°Cuntilfurtheranalysis.
+Asanexploratoryobjective,theintracellularPKofFUTP,
+FdUTP and FdUMP in peripheral blood mononuclear cells
+METHODS (PBMCs)weredeterminedatpre-dose,1.5and3haftercape-
+citabine intake at 9:00 h on day 7 of treatment. For this,
+Patientselection PBMCswereisolatedfromperipheralheparinizedbloodus-
+ingFicoll-paquedensitygradientandcountedusingprevious-
+Patientsaged≥18years,withadvancedsolidtumourspotentially ly described procedures [20]. Capecitabine and metabolite
+benefiting from capecitabine treatment and adequate bone concentrations were quantified using validated liquid
+
+--- Page 3 ---
+PharmRes(2020)37:89 Page3of10 89
+chromatographycoupledtotandemmassspectrometric(LC- TableI DemographicandDiseaseCharacteristics
+MS/MS)methods[20,21].
+Characteristic Numberofpatients %
+Non-compartmentalplasmaPKanalyses(NCA)wereper-
+formedusing a validatedscriptinR version3.3.0 [22].The Totalnumberofpatients 25 100
+followingindividualPKparameterswereextracted:themax- Gender
+imum plasma concentrations (C ), the time to reach maxi- Male 11 44
+max
+mumplasmaconcentration(t max ),andtheareaundertheplas- Female 14 56
+ma concentration-time curve up to 5 h post-dose (AUC 0-5h ) Ethnicorigin
+forcapecitabine,dFCR,dFURand5-FU,andtheAUCex- Caucasian 24 96
+trapolatedtoinfinity(AUC 0-inf )forFBAL.Pairedt-testswere Creole 1 4
+performed for statistical comparison of the AUC 0-5h after Age
+morningandeveningadministrationofcapecitabine. Median(range),years 64(40–78)
+WHOperformancestatus
+0 12 48
+Pharmacodynamicanalyses
+1 12 48
+2 1 4
+CircadianvariabilityinDPDandTSactivitywereexamined.
+Primarytumortype
+DPD and TS activity in PBMCs (DPDA and TSA )
+pbmc pbmc Colorectal 10 40
+weredeterminedatseveraltimepointsduringtheday:atpre-
+SCLC 2 8
+dose,1.5,11and15haftercapecitabineintakeat9:00hon
+Headandneck 2 8
+day7and1.5haftercapecitabineintakeat24:00h(day8).In
+Other 11 44
+addition, DPDA and TSA were determined at
+pbmc pbmc Stageofcancer
+screening(within3daysbeforetreatment).PBMCswereiso-
+Locallyadvanced 1 5
+lated from peripheral heparinized blood using Ficoll-Paque
+Metastatic 24 95
+densitygradientcentrifugationandstoredat−80°Cuntilfur-
+Priortreatment
+theranalysis.DPDA andTSA weredeterminedusing
+pbmc pbmc Chemotherapy 24 96
+validatedradio-assays[23–25].
+Radiotherapy 13 52
+Theapplicabilityofthedihydrouraciltouracil(DHU:U)ratio
+Surgery 16 64
+inplasma,asamarkerforDPDactivity,wasexploredusingthe
+Immunotherapy 12 48
+sameplasmasamplesasforPKanalysis.Uracilanddihydrour-
+acillevelswerequantifiedusingavalidatedLC-MS/MSmethod Abbreviations:WHO,worldhealthorganisation;SCLC,smallcelllungcancer
+[26],afterwhichDHU:Umolarratioswerecalculated.
+ToexplorethetreatmenteffectofcapecitabineontheTP
+phenotype,TPactivityinPBMCs(TPA )wasdetermined
+pbmc
+atscreening,day7atpre-dose(9:00h),andendoftreatment Treatmenttolerability
+usingapreviouslydevelopedassay.[27]
+VariabilityinDPDA andTSA wasexaminedus- Overall, continuous chronomodulated capecitabine therapy
+pbmc pbmc
+ingrepeatedmeasuresanalysisofvariance(rANOVA)andthe was well tolerated. The most commonly reported toxicities
+nonparametricFriedmantest,respectively.Thedifferencebe- were fatigue (68%), hand-foot syndrome (55%), nausea
+tweenTPA atscreeningandday7wasexaminedbythe (45%), and diarrhoea (36%). An overview of the observed
+pbmc
+pairedt-test.Statisticaldifferencewasconsideredsignificantat adverseeventspossibly,probablyordefinitelyrelatedtostudy
+p-values<0.05. treatmentissummarizedinTableII.
+Atotalofsixseriousadverseevents(SAEs)werereported,
+ofwhichone(i.e.,grade3diarrhoea)waspossiblyrelatedto
+studytreatment.OtherSAEsweregrade3Ileus(3x),grade3
+RESULTS urinarytractinfection(1x),andgrade4haemorrhage(1x).
+A total of 14 dose reductions during treatment were
+In total, 25 patients were enrolled in the study between reported in 10 patients, caused by, hand-foot syndrome
+July 2014 and February 2019, of which 22 patients were (13x), diarrhoea(1x), andanaemia(1x).Mediantime to first
+evaluable for safety. Patient characteristics are summarized dose reduction was 30 days (range 17–70). Dose delays oc-
+inTableI.Themedian(range)numberofadministeredtreat- curred in 4 patients, due to hand-foot syndrome (4x) and
+mentcycleswas4(1–11). neutropenia(1x).
+
+--- Page 4 ---
+89 Page4of10 PharmRes(2020)37:89
+TableII Treatment-RelatedAdverseEventsinallCyclesbyDoseLevel
+Doselevel1 Doselevel2 Doselevel3 Doselevel4 Doselevel5 Total
+Numberofpatients n=3 n=3 n=3 n=8 n=5 n=22
+CTCAEgradetoxicity Gr.1–2 Gr.3 Gr.1–2 Gr.3 Gr.1–2 Gr.3 Gr.1–2 Gr.3 Gr.1–2 Gr.3 N %
+Toxicity
+Fatigue 1 2 3 6 2 1 15 68
+Hand-footsyndrome 1 1 5 2 3 12 55
+Nausea 1 1 3 3 2 10 45
+Diarrhoea 2 1 1 2 2 8 36
+Anorexia 1 1 1 2 1 6 27
+Peripheralsensoryneuropathy 1 3 1 5 23
+Anemia 1 2 1 4 18
+Vomiting 2 1 1 4 18
+Bloodbilirubinincreased 1 1 1 3 14
+Dryskin 2 1 3 14
+Dysgeusia 1 1 1 3 14
+Drymouth 1 1 2 9
+Oralmucositis 1 1 2 9
+Naildiscoloration 2 2 9
+Neutropenia 1 1 2 9
+Rash 1 1 2 9
+Treatment-relatedadverseeventsobservedin≥5%ofpatientstreatedwithchronomodulatedcapecitabineor≥grade3.Abbreviations:CTCAE,Common
+TerminologyCriteriaforAdverseEvents;Gr.,grade;n,numberofsubjects
+Dose-limitingtoxicityandmaximumtolerateddose concentrations increased per dose level, with a 4.1-fold in-
+creaseindoselevel5ascomparedtodoselevel1.
+Table III gives anoverviewoftheexamineddoselevels and
+experienced DLTs. Three DLTs were observed in two
+Pharmacodynamics
+patientsatthehighestdoselevel(grade3hand-footsyndrome
+(2x)andgrade3diarrhoea(1x)).TheMTDwasestablishedat
+2000 mg/m2/day, with no experienced DLTs at this dose TSA pbmc isshowninFig.4a.Themedian(range)TSA pbmc at
+screening was 0.134 (0.035–0.584) nmol/mg/h and was sig-
+level.
+nificantlyinducedto0.301(0.030–0.677)nmol/mg/honday
+7 at9:00h (p<0.0001).TSA declinedagain 1.5 h after
+pbmc
+Pharmacokinetics the dose administration on day 7 (p<0.001). Maximum
+TSA wasmeasuredat15hpost-dose(24:00h)withme-
+pbmc
+The mean plasma concentration-time profiles for capecita- dian (range) activity of 0.346 (0.101–0.729) nmol/mg/h,
+bine, dFCR, dFUR, 5-FU, and FBAL are shown per dose which was significantly higher than the observed TSA
+pbmc
+levelandtimeofdayinFig.1.ResultsoftheNCAaresum- 1.5hafterdoseadministrationat9:00h(p<0.0001).
+marized in Supplementary Table 1. The dose-normalized DPDA isshowninFig.4b.Themean(±SD)DPDA
+pbmc pbmc
+AUC are shown in Fig. 2. As shown in this figure, dose- atscreeningwas19.2(±6.4)nmol/mg/h,whichwassignificant-
+0-5h
+normalized exposure to capecitabine, dFCR, dFUR and 5- lyhigherthanday7at9:00h(P<0.001).Significantintra-day
+FUwerenotstatisticallydifferentbetweendaytimeandnight- variabilities in DPDA trough and peak activity were ob-
+pbmc
+time. For FBAL, daytime exposure was significantly higher served at 10:30 h and 24:00 h (p<0.0001), and were 13.5
+thanatnight(p=0.00012). (±3.8)and16.1(±4.3)nmol/mg/h,respectively.
+ResultsontheintracellularPKatday7areshowninFig.3. TheDHU:Uratio(mean±SD)inplasmadecreasedfrom
+Forallpatients,onlyFUTPwasdetectableinPBMCs.FUTP 12.2 (± 4.4) at screening to 7.5 (± 2.2) on day 7 at 09:00 h
+
+--- Page 5 ---
+PharmRes(2020)37:89 Page5of10 89
+(Fig.5).Pronouncedintra-dayvariabilitywasobserved,with DISCUSSION
+meanDHU:Uratiotroughlevelsat10:30hand02:00h.
+There was moderate between-subject variability in ThepresentphaseIstudyevaluatedMTD,DLT,safety,PK
+TPA at screening with a mean (±SD) value of 2676 and PDofcontinuouschronomodulatedcapecitabine thera-
+pbmc
+(±1260) nmol/mg/h. There was no significant change in py. The totalcapecitabine dosewas stepwise increasedfrom
+TPA observedduringtreatment(SupplementaryFig.1). 1000 mg/m2/day up to 2550 mg/m2/day. The MTD was
+pbmc
+established at 2000 mg/m2/day (750/1250 mg/m2/day),
+with major observed adverse events being grade 1–2 hand-
+Tumourresponseevaluation foot syndrome and fatigue. The safety profile overall and at
+theMTDwasinlinewithpreviousphaseI-IIIstudiesofcon-
+Three partial remissions (12%)inpatients with breast,ovar- tinuousandintermittentcapecitabinetherapy[9,10,28].The
+ian,andneuroendocrinecancer,respectively,werereported. establishedMTDof2000mg/m2/dayexceedsthepreviously
+No complete remissions were observed. Thirteen patients determined recommended daily dose for regular treatment
+(52%) had stable disease as best response. Eight patients withcontinuouscapecitabineof1331mg/m2/day(666mg/
+(33%)hadprogressivediseaseatthefirstresponseevaluation. m2 BID) [10]. Furthermore, the dose intensity at the MTD
+Fig.1 Mean(+SD)plasma
+concentration-timeprofilesof
+capecitabine(CAP),5′-deoxy-5-flu-
+orocytidine(dFCR),5′-deoxy-5-flu-
+orouridine(dFUR),5-fluorouracil
+(5-FU)andfluoro-β-alanine(FBAL)
+afterdoseadministrationinthe
+morning(at9:00h)andatnight
+(24:00h)fordoselevel1–5on
+treatmentday7and8,respectively.
+(n=24).
+
+--- Page 6 ---
+89 Page6of10 PharmRes(2020)37:89
+was 20% higher than the dose intensity of the currently ap- chronomodulatedcapecitabineregimenswerewelltolerat-
+provedregimen(1250mg/m2BIDonday1–14ofevery21- ed,exceptinthestudyperformedbyQvortrupetal.[30].
+daycycle),andeven50%higherthanthedoseintensityofthe Theydidnotfindimprovedtreatmenttolerabilityofchro-
+intermittent regimen most often used in clinical practice nomodulatedcapecitabineincombinationwithoxaliplatin
+(1000mg/m2onday1–14ofevery21-daycycle). compared to standard capecitabine plus oxaliplatin [30].
+Severalchronomodulatedtreatmentstrategiesforcape- The reason for this could be that 80% of the capecitabine
+citabine have been evaluated in phase II studies [29–33]. daily dose was administered between 18:00 and 20:00 h.
+In these studies, the total daily capecitabine dose was di- According to our finding [16], high-dose capecitabine ad-
+videdintwoorthreedosingmomentswithhighestcapeci- ministrationbetween18:00and20:00hcouldbetooearly
+tabinedoseadministeredbetween18:00–20:00h[30,31], to achieve adequate chronomodulation. Indeed, at that
+at 23:00 h [29, 32], or at 24:00 h [33]. In these studies, time of day, DPD activity is around the baseline value.
+chronomodulated capecitabine was combined with oxali- Due to rapid elimination [2], most of 5-FU is probably
+platin [29–33], and radiotherapy [33]. The examined degraded before DPD peak activity is encountered. A
+Fig.2 Dose-normalizedarea
+undertheplasmaconcentration-
+timecurveupto5h(AUC ,
+0-5h
+μg*h/mL)forcapecitabine(CAP),
+5′-deoxy-5-fluorocytidine(dFCR),
+5′-deoxy-5-fluorouridine(dFUR),
+5-fluorouracil(5-FU)andextrapo-
+latedfromzerotoinfinity(AUC )
+0-inf
+forfluoro-β-alanine(FBAL)after
+doseadministrationinthemorning
+(at9:00h)andinnight(24:00h)on
+treatmentday7and8,respectively
+(n=24).
+
+--- Page 7 ---
+7000
+6000
+5000
+4000
+2000
+1500
+1000
+500
+0
+0 1.5 3
+Time post Day 7
+morning dose (hours)
+phase I study of intermittent capecitabine chronotherapy, concentrationsincreaseperdoselevel,withhighestlevelsob-
+in which 25% of daily dose was administered at 8:00 h, servedintwopatientsexperiencingDLT.
+25% at 18:00 h and 50% at23:00 h, on day 1–14 of each Inhealthyvolunteers,wepreviouslyfoundthatDPDactiv-
+21-day cycle, demonstrated good treatment tolerability ityinPBMCsdemonstratedpronouncedcircadianrhythmic-
+[34]. At the declared MTD level of 2750 mg capecitabine ity,whileintheliver,thiseffectwasonlyminor,asmeasured
+per day, only one out of nine patients experienced DLT. by the DHU:U ratio in plasma [16]. Circadian rhythmicity
+Our current findings are in line with previously reported mightberegulatedinatissue-specificmanner[36].Itcouldbe
+results on chronomodulated capecitabine therapy. that DPD activity in liver tissue is not subject to noticeable
+Inourstudycircadianrhythmicityinthedosenormalized circadian rhythmicity, explaining the absence of circadian
+plasmaexposureofcapecitabine,dFCR,dFURand5-FUwas rhythmicity in 5-FU plasma exposure. On the other hand,
+notobserved.FBALexposurewassignificantlyhigherduring peripheral5-FUmetabolismcouldberegulatedinacircadian
+daytime.ThismaybeduetorelativelyhighFBALconcentra- manner, which could contribute to improved treatment
+tionsalreadyatpre-dose(9:00h).Mostlikely,thisfindingdoes tolerability.
+not have any clinicalimplications, since FBAL isaninactive TSA demonstratedpeakactivity atnight, oppositeto
+pbmc
+metabolite. the trough activity at night observed in healthy volunteers
+In all treated patients, only FUTP concentrations were [16]. TSA was partly inhibited 1.5 h after each dose of
+pbmc
+quantifiableinPBMCs,withnoconcentrationsabovethelim- capecitabine. This temporary reduction in TSA is most
+pbmc
+it of detection for FdUTP and FdUMP. This is in line with likelyadirectconsequenceoftargetinhibitionbytheintracel-
+previousresearch,whereonlyFUTPcouldbequantifiedafter lularlyactivatedmetaboliteFdUMP.Previousresearchdem-
+capecitabine therapy. [35] Interestingly, intracellular FUTP onstrated that TS protein expression is subject to auto-
+TableIII OverviewofDoseLevelsandDose-LimitingToxicities(DLTs)*
+Doselevel Capecitabine(mg/m2) Numberofpatients PatientsexperiencingDLT
+at9:00h/24:00h
+1 375/625 3 None
+2 475/800 3 None
+3 600/1000 3 None
+4 750/1250 8 None
+5 950/1600 5 2
+*DLTwasdefinedasanyofthefollowingeventsoccurringinthefirst3weeksoftreatmentconsideredtobeatleastpossibly,probablyordefinitelyrelatedtostudy
+treatment:≥grade3non-hematologictoxicity(otherthanalopecia,inadequatelytreatednausea,vomitingordiarrhoea),thrombocytopeniagrade4orgrade3
+associatedwithbleedingevents,grade4neutropenia,grade3febrileneutropenia,≥grade3anaemia,and/oradoseinterruptionofmorethan7daysduetotoxicity
+§Atotalof22patientsoutofthe25enrolledwereevaluableforsafety.Onepatientindoselevel5wasnotevaluableforDLT,dueintakeofanincorrectcapecitabinedose
+duringthefirst7daysoftreatment.Twopatientsonlyreceivedonetreatmentcycleduetosymptomaticdeteriorationrelatedtoquickdiseaseprogression
+)sCMBP
+noillim/lomf(
+noitartnecnoc
+PTUF
+PharmRes(2020)37:89 Page7of10 89
+Fig.3 Intracellularperipheral
+bloodmononuclearcell
+375/625mg/m2
+concentrationsof5-fluorouridine-
+5′-triphosphate(FUTP)after7days 475/800mg/m2
+ofchronomodulatedcapecitabine 600/1000mg/m2
+treatmentatindicatedmorning/
+eveningdoses(mean+SD). 750/1250mg/m2
+950/1600mg/m2
+
+--- Page 8 ---
+Both the DPDA and the DHU:U plasma ratio de-
+1.5 pbmc
+creasedbetweenscreeningandday7oftherapy.Inaddition,
+a temporary decrease in the DHU:U plasma ratio was ob-
+servedfollowingcapecitabineadministration,inverselyrelated
+1.0 to 5-FU exposure in plasma. This last finding is most likely
+explainedbycompetitionbetweenendogenousuraciland5-
+FU for DPD conversion. This potential treatment effect
+should be taken into account when the DPD phenotype is
+0.5
+exploredduringcapecitabinetreatment.
+CONCLUSION
+0 5 10 15
+Time after Day 7
+Chronomodulation represents a promising strategy as it
+morning intake (hours)
+could lead to improved tolerability and efficacy of cape-
+citabine through achievement of an increased dose inten-
+sity in comparison with the currently approved dose reg-
+imen. Although questions on PK/PD relationships re-
+main, the results observed in terms of observed MTD by
+implementation of a chronomodulated capecitabine treat-
+ment are encouraging. Additional research is required to
+evaluate treatment efficacy using the continuous chrono-
+modulated treatment regimen. If further confirmed, this
+concept could lead to development of a delayed release
+formulation of capecitabine to allow for nocturnal peak
+exposure to 5-FU in a patient-friendly way.
+FUNDINGINFORMATION
+Thisresearchdidnotreceiveanyspecificgrantfromfunding
+agenciesinthepublic,commercial,ornot-for-profitsectors.
+COMPLIANCEWITHETHICALSTANDARDS
+ConflictofInterest Theauthorsdeclarenoconflictofinterestin
+regulation by binding to its own mRNA, preventing protein
+relationtothistrial.
+translation. Binding of FdUMP to TS inhibits this mRNA
+binding and results in an increase of TS protein levels [37].
+As a consequence, capecitabine therapy could lead to Open Access This article is licensed under a Creative
+TSA pbmc upregulation and a disturbance of the circadian Commons Attribution 4.0 International License, which per-
+rhythm,asobservedinthistrial. mitsuse,sharing,adaptation,distributionandreproductionin
+Although less pronounced than in healthy volunteers, anymediumorformat,aslongasyougiveappropriatecredit
+DPDA pbmc displayedacircadianrhythmduringcapecitabine totheoriginalauthor(s)andthesource,providealinktothe
+treatment. This finding supports our rationale for capecita- Creative Commons licence, and indicate if changes were
+binechronotherapy.ThelesspronouncedDPDA pbmc rhyth- made.Theimagesorotherthirdpartymaterialinthisarticle
+micityascomparedtohealthyvolunteersmaymaybecaused areincludedinthearticle'sCreativeCommonslicence,unless
+bycapecitabinetreatment,orbyotherfactorssuchasdisease indicatedotherwiseinacreditlinetothematerial.Ifmaterial
+status[38].AsforTSA pbmc ,apartialinhibitionofDPDA pbmc isnotincludedinthearticle'sCreativeCommonslicenceand
+wasobserved1.5haftereachcapecitabinedose.Thistempo- yourintendeduseisnotpermittedbystatutoryregulationor
+rary decrease may be caused by competition between intra- exceedsthepermitteduse,youwillneedtoobtainpermission
+cellular 5-FU and the 3H-Thymine substrate used for the directly from the copyright holder. To view a copy of this
+DPDA pbmc assay. licence,visithttp://creativecommons.org/licenses/by/4.0/.
+)h/gm/lomn(
+ytivitca
+ST
+Screening EOT
+30
+20
+10
+0 5 10 15
+Time after Day 7
+morning intake (hours)
+)h/gm/lomn(
+ytivitca
+DPD
+89 Page8of10 PharmRes(2020)37:89
+a
+b
+Screening EOT
+Fig.4 (a)Thymidylatesynthase(TS)and(b)dihydropyrimidinedehydro-
+genase (DPD) activity (mean±SD) in peripheral blood mononuclear at
+screening, day 7/day 8, and end of treatment (EOT) in patients receiving
+chronomodulatedcapecitabinetreatment(n=24).Capecitabinewasadmin-
+isteredatt=0handt=15h.
+
+--- Page 9 ---
+20
+15
+10
+5
+0 5 10 15 20
+Time after Day 7
+morning intake (hours)
+REFERENCES 11. VanCutsemE,FindlayM,OsterwalderB,KochaW,DalleyD,
+PazdurR,etal.Capecitabine,anoralfluoropyrimidinecarbamate
+withsubstantialactivityinadvancedcolorectalcancer:resultsofa
+1. ReignerB,BleschK,WeidekammE.Clinicalpharmacokineticsof randomizedphaseIIstudy.JClinOncol.2000;18:1337–45.
+capecitabine.ClinPharmacokinet.2001;40:85–104.
+12. HarrisBE,SongR,Soong SJ,DiasioRB.Relationshipbetween
+2. Jacobs BAW, Deenen MJ, Joerger M, Rosing H, de Vries N, dihydropyrimidine dehydrogenase activity and plasma 5-
+MeulendijksD,etal.PharmacokineticsofCapecitabineandfour fluorouracillevelswithevidenceforcircadianvariationofenzyme
+metabolites in a heterogeneous populationofCancerpatients: a activity and plasma drug levels in cancer patients receiving 5-
+comprehensive analysis. CPT Pharmacometrics Syst Pharmacol fluorouracil by protracted continuous infusion. Cancer Res.
+2019 1990;50:197–201.
+3. Diasio RB, Harris BE. Clinical pharmacology of 5-fluorouracil. 13. Petit E, Milano G, Levi F, Thyss A, Bailleul F, Schneider M.
+ClinPharmacokinet.1989;16:215–37.
+Circadianrhythm-varyingplasmaconcentrationof5-fluorouracil
+4. LongleyDB,HarkinDP,JohnstonPG.5-fluorouracil:mechanisms duringafive-daycontinuousvenousinfusionataconstantratein
+ofactionandclinicalstrategies.NatRevCancer.2003;3:330–8. cancerpatients.CancerRes.1988;48:1676–9.
+5. WilsonPM,DanenbergPV,JohnstonPG,LenzH-J,LadnerRD. 14. Fleming GF, Schumm P, Friberg G, Ratain MJ, Njiaju UO,
+Standingthetestoftime:targetingthymidylatebiosynthesisincan- SchilskyRL.Circadianvariationinplasma5-fluorouracilconcen-
+cer therapy. Nat Rev Clin Oncol Nature Publishing Group. trations during a 24 hour constant-rate infusion. BMC Cancer.
+2014;11:282–98.
+2015;15:1075.
+6. deBonoJS,TwelvesCJ.Theoralfluorinatedpyrimidines.Investig 15. LéviF,ZidaniR,MissetJ,OrganizationI.Randomisedmulticentre
+NewDrugs.2001;19:41–59.
+trialofchronotherapywithoxaliplatin,fluorouracil,andfolinic
+7. JudsonIR,BealePJ,TrigoJM,AherneW,CromptonT,JonesD, acidinmetastaticcolorectalcancer.Lancet.1997;350:681–6.
+etal.Ahumancapecitabineexcretionbalanceandpharmacokinet- 16. JacobsBAW,DeenenMJ,PluimD,vanHasseltJGC,Krähenbühl
+icstudyafteradministrationofasingleoraldoseof14C-labelled MD, van Geel RMJM, et al. Pronounced between-subject and
+drug.InvestigNewDrugs.1999;17:49–56.
+circadian variability in thymidylate synthase anddihydropyrimi-
+8. MidgleyR,KerrDJ.Capecitabine:havewegotthedoseright?Nat dine dehydrogenase enzyme activity in human volunteers. Br J
+ClinPractOncol.2009;6:17–24. ClinPharmacol.2016;82:706–16.
+9. Mackean M, Planting A, Twelves C, Schellens J, Allman D, 17. Lévi F, Okyar A, Dulong S, Innominato PF, Clairambault J.
+OsterwalderB,etal.PhaseIandpharmacologicstudyofintermit- Circadian timing in Cancer treatments. Annu Rev Pharmacol
+tenttwice-dailyoraltherapywithcapecitabineinpatientswithad- Toxicol.2010;50:377–421.
+vancedand/ormetastaticcancer.JClinOncol.1998;16:2977–85.
+18. LeTourneauC,LeeJJ,SiuLL.Doseescalationmethodsinphasei
+10. BudmanDR,MeropolNJ,ReignerB,CreavenPJ,LichtmanSM, cancerclinicaltrials.J.Natl.CancerInst.2009.p.708–20.
+BerghornE,etal.Preliminarystudiesofanoveloralfluoropyrimi- 19. EisenhauerEA,TherasseP,BogaertsJ,SchwartzLH,SargentD,
+dinecarbamate:capecitabine.JClinOncol.1998;16:1795–802.
+FordR,etal.Newresponseevaluationcriteriainsolidtumours:
+oitar
+licarU/licaruordyhiD
+Screening EOT
+60
+40
+20
+0 5 10 15 20
+TimeafterDay7
+morningintake(hours)
+)Lm/gn(licarunoitartnecnoC 300
+200
+100
+Screening EOT 0 5 10 15 20
+TimeafterDay7
+morningintake(hours)
+)Lm/gn(licaruordyhidnoitartnecnoC
+PharmRes(2020)37:89 Page9of10 89
+Fig.5 (a)Thedihydrouracil:uracil a
+plasmaratio,and(b)uraciland(c)
+dihydrouracilplasmalevelsat
+screening,day7/day8,andendof
+treatment(EOT)inpatientsreceiv-
+ingchronomodulatedcapecitabine
+treatment(mean±SD,n=24).
+Capecitabinewasadministeredat
+t=0handt=15h.
+b c
+Screening EOT
+
+--- Page 10 ---
+89 Page10of10 PharmRes(2020)37:89
+revisedRECISTguideline(version1.1).EurJCancer.ElsevierLtd. cancer patients: phase II study. Cancer Chemother Pharmacol.
+2009;45:228–47. 2007;59:613–20.
+20. DerissenEJB,HillebrandMJX,RosingH,SchellensJHM,Beijnen 30. Qvortrup C, Jensen BV, Fokstuen T, Nielsen SE, Keldsen N,
+JH.DevelopmentofanLC-MS/MSassayforthequantitativede- GlimeliusB,etal.Arandomizedstudycomparingshort-timeinfu-
+terminationoftheintracellular5-fluorouracilnucleotidesresponsi- sionofoxaliplatinincombinationwithcapecitabineXELOX(30)
+ble for the anticancer effect of 5-fluorouracil. J Pharm Biomed andchronomodulatedXELOX(30)asfirst-linetherapyinpatients
+Anal.2015;110:58–66. withadvancedcolorectalcancer.AnnOncol.2010;21:87–91.
+21. DeenenMJ,RosingH,HillebrandMJ,SchellensJHM,BeijnenJH. 31. QvortrupC,YilmazM,OgreidD,BerglundA,BalteskardL,Ploen
+Quantitativedeterminationofcapecitabineanditssixmetabolites J,etal.Chronomodulatedcapecitabineincombinationwithshort-
+inhumanplasmausingliquidchromatographycoupledtoelectro- timeoxaliplatin:aNordicphaseIIstudyofsecond-linetherapyin
+spraytandemmassspectrometry.JChromatogrBAnalytTechnol patientswithmetastaticcolorectalcancerafterfailuretoirinotecan
+BiomedLifeSci.ElsevierB.V.;2013;913–914:30–40. and5-flourouracil.AnnOncol.2008;19:1154–9.
+22. RDevelopmentCoreTeam.R:ALanguageandEnvironmentfor
+32. Santini D, Vincenzi B, La Cesa A, Caricato M, Schiavon G,
+Statistical Computing. Vienna, Austria: R Foundation for SpallettaB,etal.Continuousinfusionofoxaliplatinpluschrono-
+StatisticalComputing.2016
+modulatedcapecitabinein5-fluorouracil-andirinotecan-resistant
+23. Pluim D, Jacobs BA, Deenen MJ, Ruijter AE, Van Geel RM, advancedcolorectalcancerpatients.Oncology.2005;69:27–34.
+BuryloAM,etal.Improvedpharmacodynamicassayfordihydro-
+33. BajettaE,PietrantonioF,BuzzoniR,FerrarioE,ValvoF,Mariani
+pyrimidinedehydrogenaseactivityinperipheralbloodmononucle-
+L,etal.ChronomodulatedCapecitabineandadjuvantradiationin
+arcells.Bioanalysis.2015;7:519–29.
+intermediate-risktohigh-riskrectalCancer:aphaseIIstudy.AmJ
+24. Pluim D, Schilders KAA,JacobsBAW,VaartjesD, Beijnen JH, ClinOncol.2013;00:1–5.
+SchellensJHM.Pharmacodynamicassayofthymidylatesynthase
+34. Santini D, Vincenzi B, Schiavon G, La Cesa A, Gasparro S,
+activityinperipheralbloodmononuclearcells.AnalBioanalChem.
+2013;405:2495–503. VincenziA,etal.PhaseIstudyofintermittentandchronomodu-
+latedoraltherapywithcapecitabineinpatientswithadvancedand/
+25. PluimD,JacobsBAW,KrähenbühlMD,RuijterAEM,Beijnen
+ormetastaticcancer.BMCCancer.2006;6:42.
+JH,SchellensJHM.Correctionofperipheralbloodmononuclear
+35. DerissenEJB,JacobsBAW,HuitemaADR,RosingH,Schellens
+cellcytosolicproteinforhemoglobincontamination.AnalBioanal
+Chem.2013;405:2391–5. JHM,BeijnenJH.Exploringtheintracellularpharmacokineticsof
+the5-fluorouracilnucleotidesduringcapecitabinetreatment.BrJ
+26. JacobsBAW,RosingH,deVriesN,MeulendijksD,HenricksLM,
+ClinPharmacol.2016;81:949–57.
+SchellensJHM,etal.Developmentandvalidationofarapidand
+36. InnominatoPF,LéviFA,BjarnasonGA.Chronotherapyandthe
+sensitiveUPLC-MS/MSmethodfordeterminationofuraciland
+dihydrouracilinhumanplasma.JPharmBiomedAnal.2016;126: molecular clock: Clinical implications in oncology. Adv. Drug
+75–82. Deliv.Rev.ElsevierB.V.;2010.p.979–1001.
+27. Jacobs BAW, Pluim D, van der Laan P, Tzani A, Beijnen JH, 37. ChuE,KoellerDM,CaseyJL,DrakeJC,ChabnerBA,Elwood
+Schellens JHM. Development and validation of a quantitative PC,etal.Autoregulationofhumanthymidylatesynthasemessenger
+methodforthymidinephosphorylaseactivityinperipheralblood RNAtranslationbythymidylatesynthase.ProcNatlAcadSciUS
+mononuclear cells. Nucleosides, Nucleotides and Nucleic Acids.
+A.1991;88:8977–81.
+2018 38. MormontMC,LeviF.Cancerchronotherapy:principles,applica-
+28. TwelvesC,WongA,NowackiMP,AbtM,BurrisH,CarratoA,
+tions,andperspectives.Cancer.2003;97:155–69.
+etal.CapecitabineasadjuvanttreatmentforstageIIIcoloncancer.
+NEnglJMed.2005;352:2696–704. Publisher’sNote SpringerNatureremainsneutralwithregard
+29. SantiniD,VincenziB,SchiavonG,DiSeriM,VirzíV,SpallettaB, to jurisdictional claims in published maps and institutional
+etal.Chronomodulatedadministrationofoxaliplatinpluscapeci-
+affiliations.
+tabine(XELOX)asfirstlinechemotherapyinadvancedcolorectal

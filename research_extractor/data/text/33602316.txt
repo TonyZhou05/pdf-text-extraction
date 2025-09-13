@@ -1,0 +1,677 @@
+Source: 33602316.pdf
+Extracted on: Fri Sep 12 23:55:10 PDT 2025
+==================================================
+
+--- Page 1 ---
+Johnston et al. Exp Hematol Oncol (2021) 10:15 Experimental Hematology &
+https://doi.org/10.1186/s40164-021-00203-8
+Oncology
+RESEARCH Open Access
+Belinostat in combination with standard
+cyclophosphamide, doxorubicin, vincristine
+and prednisone as first-line treatment
+for patients with newly diagnosed peripheral
+T-cell lymphoma
+Patrick B. Johnston1*, Amanda F. Cashen2, Petros G. Nikolinakos3, Anne W. Beaven4, Stefan Klaus Barta5,
+Gajanan Bhat6, Steven J. Hasal6, Sven De Vos7, Yasuhiro Oki8, Changchun Deng9 and Francine M. Foss10
+Previously presented in part at the 2015 annual conference of the American Society of Hematology.
+Abstract
+Background: Belinostat is a histone deacetylase inhibitor approved for relapsed refractory peripheral T-cell lym-
+phoma (PTCL). The primary objective of this study was to determine the maximum tolerated dose (MTD) of belinostat
+combined with CHOP (Bel-CHOP). Secondary objectives included safety/tolerability, overall response rate (ORR), and
+belinostat pharmacokinetics (PK).
+Methods: Patients were 18 years with histologically confirmed, previously untreated PTCL. Patients received belin-
+≥
+ostat (1000 mg/m2 once daily) standard CHOP for 6 cycles with varying schedules using a 3 3 design in Part A. Part
++ +
+B enrolled patients at MTD dose.
+Results: Twenty-three patients were treated. One patient experienced DLT (Grade 3 non-hematologic toxicity) on
+Day 1–3 schedule, resulting in escalation to Day 1–5 schedule (n 3). No DLTs were observed and Day 1–5 schedule
+=
+with 1000 mg/m2 was declared as MTD. Twelve additional patients were enrolled in Part B using MTD. Median relative
+dose intensity was 98%. All patients experienced adverse events (AEs), including nausea (78%), fatigue (61%), and
+vomiting (57%). Serious AEs occurred in 43%, with febrile neutropenia (17%) and pyrexia (13%). Overall ORR was 86%
+with 71% reported CR at MTD. Belinostat PK parameters were similar to single-agent.
+Conclusions: Bel-CHOP was well tolerated and MTD in CHOP combination was the same dose and schedule as
+single agent dosing.
+Trial Registration: ClinicalTrials.gov Identifier: NCT01839097.
+Keywords: Peripheral T-cell lymphoma (PTCL), Histone deacetylase inhibitor (HDACi), Belinostat, CHOP
+Background
+Peripheral T-cell lymphoma (PTCL) refers to a heteroge-
+neous group of mature T-cell and natural killer (NK)-cell
+*Correspondence: johnston.patrick@mayo.edu
+1 Mayo Clinic, 200 first St SW, Rochester, MN 55905, USA aggressive non-Hodgkin’s lymphomas (NHLs) account-
+Full list of author information is available at the end of the article ing for 10–15% of all newly diagnosed NHLs [1–3].
+© The Author(s) 2021. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material
+in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material
+is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the
+permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat iveco
+mmons .org/licen ses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creat iveco mmons .org/publi cdoma in/
+zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+--- Page 2 ---
+Johnston et al. Exp Hematol Oncol (2021) 10:15 Page 2 of 11
+According to the World Health Organization (WHO) patients with PTCL, resulting in an ORR of 93%, median
+classification, mature T-cell and NK-cell neoplasms are duration of response (DoR) of 29 months, median PFS of
+classified according to a combination of morphologic, 31 months, and 2-year PFS and OS rates of 79 and 81%,
+immunophenotypic, genetic, and clinical features into with no notable cumulative toxicity observed [24].
+22 distinct entities, the most common of which include The current Phase 1 study was conducted to establish
+PTCL not otherwise specified (PTCL-NOS), angioimmu- the MTD of the HDACi belinostat when combined with
+noblastic T-cell lymphoma (AITL), and anaplastic large- CHOP (Bel-CHOP) in previously untreated PTCL. Belin-
+cell lymphoma (ALCL), which collectively represent 66% ostat monotherapy demonstrated activity in patients
+of all cases of PTCL in North America [4, 5]. The median with relapsed/refractory PTCL in a Phase 2 registra-
+overall survival (OS) of PTCL is low (< 2 years), with a tion study, in which the ORR was 26% in 120 evaluable
+reported 5-year survival of up to 33% [2, 5–8]. patients, with 61% of responders achieving their response
+First-line treatment of PTCL often comprises com- within 30 to 45 days of the first dose and a median DoR
+bination therapy with cyclophosphamide, doxorubicin, of 13.6 months [22]. In addition to the positive results
+vincristine, and prednisone (CHOP). Despite its wide- observed with other HDACi plus CHOP studies [23], the
+spread use, CHOP has not been studied in prospective, rationale for Bel-CHOP therapy was based on the antici-
+randomized studies and was associated with a dismal pated synergistic effect of the regimen, as belinostat and
+5-year OS of only 37% in a retrospective meta-analysis each of the components of the CHOP regimen target dif-
+of 2,912 PTCL patients treated with CHOP or CHOP- ferent aspects of the cell cycle with unique mechanisms
+like regimens [9–11]. However, no other single-agent or of action [25]. In addition, preclinical studies using PTCL
+combination regimen has demonstrated superior efficacy cell lines (KARPAS-299 and SR-299) demonstrated syn-
+to CHOP and it therefore remains a primary choice for ergistic antitumor activity of belinostat combined with
+first-line therapy for PTCL. In an attempt to increase the cyclophosphamide, doxorubicin, and vincristine. Belin-
+response rate and improve the durability of responses, ostat plus dexamethasone demonstrated modest activity
+several modifications to the CHOP regimen have been and no safety concerns were observed in a Phase 2 study
+investigated with no clear improvements in long-term in patients with multiple myeloma [25]. Furthermore, as
+group efficacy observed, including the addition of agents each of the agents in the Bel-CHOP regimen exhibits a
+(e.g., bleomycin, gemcitabine, etoposide, vindesine, different metabolic safety profile, overlapping toxicity
+liposomal doxorubicin, and bevacizumab), administra- was anticipated to be minimal.
+tion of more intensive dosing, and the use of autologous
+Methods
+stem cell rescue as consolidation therapy in patients who
+attain complete remissions from high-dose chemother- Study design and treatment
+apy [12–16]. Allogeneic stem cell transplantation has also This 2-part, open-label Phase 1 dose-finding study was
+been found to be feasible in the subset of patients with designed to determine the maximum tolerated dose
+PTCL who are candidates for the procedure, but it has (MTD) of Belinostat when administered in combina-
+been associated with significant treatment-related toxic- tion with standard CHOP therapy (Bel-CHOP) compris-
+ity [17, 18]. ing cyclophosphamide (750 mg/m2 intravenously [IV]
+Since 2009, several novel agents have been approved on Day 1), doxorubicin (50 mg/m2 IV on Day 1), vin-
+in the United States (US) specifically for the treatment of cristine (1.4 mg/m2 [maximum 2 mg] IV on Day 1), and
+PTCL in the relapsed/refractory setting, including prala- prednisone (100 mg orally on Days 1–5) in up to 6 con-
+trexate (a rationally designed antifolate), brentuximab tinuous 21-day cycles in patients with newly diagnosed
+vedotin (an antibody drug conjugate), and the histone PTCL who were candidates for first-line chemotherapy
+deacetylase inhibitors (HDACi) romidepsin and belin- with CHOP. In Part A, a traditional 3 3 dose-escalation
++
+ostat [19–22]. Romidepsin was recently investigated in a schema was implemented, in which 2 sequential dose
+dose-finding combination study with CHOP in patients schedule cohorts were enrolled to determine the MTD of
+with previously untreated PTCL [23]. Results from Bel-CHOP. Up to 6 evaluable patients were to be assessed
+this study indicated a 69% overall response rate (ORR), for dose-limiting toxicities (DLT) in each cohort dur-
+median progression-free survival (PFS) of 21.3 months, ing Cycle 1 to inform dose-escalation/reduction deci-
+OS of 71% at 30 months, and a toxicity profile that was sions. In all cohorts, patients received standard CHOP
+largely reflective of the manageable hematological and therapy in up to 6 continuous 21-day cycles. Belinostat
+gastrointestinal events associated with the individual treatment comprised 1000 mg/m2 administered IV
+drugs constituting the regimen. Similarly, an HDACi used infusion over 30 min, with the initial cohort (Cohort 3)
+to treat cutaneous T-cell lymphoma (CTCL), vorinostat, receiving belinostat on Days 1–3 of every cycle and sub-
+was combined with CHOP in previously untreated sequent cohorts receiving belinostat for an increased or
+
+--- Page 3 ---
+J ohnston et al. Exp Hematol Oncol (2021) 10:15 Page 3 of 11
+decreased number of days based on observed toxicity. transplantation. Patients with Grade 3 neuropathy, car-
+≥
+The maximum administered dose (MAD) (Cohort 5) was diovascular disease (including prolonged QT), and active
+not to exceed the single-agent dosing schedule of belin- infections requiring therapy were also excluded.
+ostat (1000 mg/m2 of belinostat administered on Days
+1–5). In Part B, the MTD/MAD, as determined in Part
+Study assessments
+A, was to be evaluated in 10 additional patients to further
+Safety assessments included physical examinations,
+define the safety and tolerability and to establish the rec-
+adverse event (AE) monitoring, electrocardiograms
+ommended Phase 3 dose (RP3D) of belinostat in the Bel-
+(ECGs), and changes in laboratory parameters. AEs were
+CHOP regimen. Belinostat was administered 15 5 min
+±
+graded using the National Cancer Institute (NCI) Com-
+prior to CHOP on days of co-administration. Prophy-
+mon Terminology Criteria for Adverse Events (CTCAE),
+lactic antiemetics and granulocyte colony-stimulating
+Version 4.03. AE causality was attributed by Investigators
+factor (G-CSF) were also administered per the 2006
+to combined study treatment rather than to individual
+American Society of Clinical Oncology (ASCO) Guide-
+regimen components. During treatment, ECGs were per-
+lines. Treatment was administered for a maximum of 6
+formed prior to and 1 h after belinostat infusion on Day
+cycles or until death, progressive disease (PD), unaccep-
+1 of each cycle and Days 4 and 5 for patients in Cohort 5.
+table toxicity, substantial noncompliance, initiation of a
+After discontinuing therapy, patients completed an End
+new anticancer therapy, or patient, investigator, or Spon-
+of Study (EOS) Visit 30 days after their last dose of study
+sor decision to withdraw, whichever comes first. Belin-
+treatment.
+ostat dose reductions due to toxicity were permitted after
+Radiographic tumor assessments by each study center
+Cycle 1, including a reduction in the number of days of
+were conducted using computed tomography, positron
+administration and/or in the dosage (to 750 or 500 mg/
+m2). emission tomography, or magnetic resonance imaging
+according to the International Harmonization Project
+The primary objective was to determine the MTD and
+(IHP) revision of the International Working Group crite-
+RP3D of belinostat in the Bel-CHOP regimen. Second-
+ria [26]. Assessments were performed at baseline, every 2
+ary objectives included evaluation of the safety and tol-
+cycles (6 weeks) thereafter, and at the EOS. Patients with
+erability of combination treatment, the overall response
+baseline bone marrow assessments that were positive for
+rate (ORR), and the pharmacokinetics (PK) of belinostat
+lymphoma were required to have a repeat bone marrow
+when co-administered with CHOP during Part A.
+biopsy/aspirate for confirmation of a complete response
+The study protocol and patient materials were approved
+(CR).
+by institutional review boards and/or ethics committees
+During Part A, PK samples for the determination of
+at all sites. Study conduct followed International Con-
+plasma concentrations of belinostat and its 5 major
+ference on Harmonization (ICH) Guidelines for Good
+metabolites were collected on Cycle 1 Day 2 pre-infusion
+Clinical Practice, including written informed consent and
+and at 8 post-infusion time points through 7.5 h after the
+monitoring of all data.
+start of infusion. Plasma concentrations were determined
+using a validated liquid chromatography-tandem mass
+Patients
+spectroscopy method (Covance Laboratories, Madison,
+Eligible patients were 18 years of age with histologi-
+≥ Wisconsin).
+cally confirmed PTCL or transformed CTCL, an Eastern
+Cooperative Oncology Group (ECOG) performance sta-
+tus of 2, and a life expectancy of 3 months. Patients Statistical analysis
+≤ ≥
+must have had measurable disease based on Cheson cri- The total sample size planned for this study was up to
+teria [26] and been eligible for first-line CHOP therapy. 28 evaluable patients distributed in three cohorts of up
+Patients must have had adequate hematologic, hepatic, to six patients each and 10 additional patients in dose
+and renal function, including absolute neutrophil count expansion phase. The DLT rate and the corresponding
+(ANC) 1.5 109, platelets 100,000/mm3, alanine and 90% confidence intervals for 1 and 2 DLTs in each dose
+≥ × ≥
+aspartate aminotransferases (AST and ALT) 3 the cohorts are 16.7% (0.9%, 58.2%) and 33.3% (6.3%, 72.9%)
+≤ ×
+upper limit of normal (ULN), total bilirubin 2.0 mg/ respectively.
+≤
+dL, calculated creatinine clearance 50 mL/min [27], All treated patients were included in the Safety Popula-
+≥
+and prothrombin time or international normalized tion, and patients who completed Cycle 1 were evaluable
+ratio < 1.5 ULN (or in the therapeutic range of antico- for DLTs, which included the following toxicities occur-
+×
+agulation therapy). Prohibited prior therapy included ring during Cycle 1:
+HDAC inhibitors (except for CTCL), extensive radio-
+therapy, severely myelotoxic regimens, and stem cell 1. Any Grade 3 nonhematological toxicity.
+≥
+
+--- Page 4 ---
+Johnston et al. Exp Hematol Oncol (2021) 10:15 Page 4 of 11
+2. Platelet count of 25 109/L for 7 days or platelet a treatment delay of > 42 days, and 1 death due to respira-
+× ≥
+nadir 10 109/L at any time. tory failure.
+×
+3. Failure to recover platelet count 75 109/L and/or The majority of patients were male (65%), White
+≥ ×
+ANC 1.5 109/L by Day 28. (65%) and the median age was 63.0 (range 35–84) years
+≥ ×
+4. ANC < 0.5 109/L lasting for 7 days despite G-CSF (Table 1). The majority had baseline disease stage of IVA
+× ≥
+administration. and IVB (61%) with ECOG performance status of 0 (39%)
+5. Treatment toxicity requiring dose reduction in Cycle or 1 (52%).
+2.
+6. Nonhematological toxicity requiring a delay in Cycle Determination of maximum tolerated dose
+2 for > 7 days. All 23 patients received CHOP 1000 mg/m2 QD of
++
+belinostat, with a starting schedule of belinostat adminis-
+tered on Days 1–3 in Part A Cohort 3. One patient expe-
+Results rienced DLT (Grade 3 nausea, vomiting, diarrhea and
+Patient disposition and baseline characteristics dehydration) and the cohort was expanded to 6 patients.
+Between August 2013 and August 2015, 23 patients with One patient death occurred prior to evaluation and one
+PTCL were enrolled and treated at 9 investigational sites patient made the decision not to participate in the clinical
+in the US, including 11 patients in Part A and 12 patients trial before receiving any chemotherapy. The patient in
+in Part B (Fig. 1). Although the initial plan had been to Cohort 3 who died was non-evaluable for determination
+enroll 10 patients in Part B, one patient was replaced of the MTD due to non-compliance with the required use
+due to a patient discontinuing early, and the additional of G-CSF per the ASCO Guidelines, but continued treat-
+patient was enrolled because two patients signed consent ment; a total of 8 patients were treated in Cohort 3. Since
+the same day to fill the last spot and the sponsor agreed only one of 8 patients (13%) in Cohort 3 experienced
+to allow one extra patient to be included. Most patients DLTs, the study was escalated to Cohort 5 (belinostat
+(78%) completed 6 cycles of study treatment, with 5 administered on Days 1–5). No DLTs were observed in 3
+(22%) patients discontinuing: 2 patients due to investiga- patients treated in Cohort 5; therefore, there was no need
+tor decision, 1 because of the patient’s decision, 1 due to for cohort expansion and no planned dose escalation
+Fig. 1 Patient enrollment and disposition
+
+--- Page 5 ---
+J ohnston et al. Exp Hematol Oncol (2021) 10:15 Page 5 of 11
+Table 1 Baseline patient characteristics—safety population (N 23)
+=
+Parameter Cohort 3 Cohort 5 Expansion Total
++
+(Bel D1-3) (Bel D1-5) N 23
+=
+n 8 n 15
+= =
+Age (Years) Mean SD 61.9 13.75 62.5 8.91 62.3 10.52
+± ± ± ±
+Median (range) 62.5 (35, 84) 63.0 (44, 77) 63.0 (35, 84)
+Gender, n (%) Female 4 (50) 4 (27) 8 (35)
+Male 4 (50) 11 (73) 15 (65)
+Race, n (%) White 6 (75 9 (60) 15 (65)
+Black or African American 2 (25) 4 (27) 6 (26)
+Latino 0 1 (7) 1 (4)
+Other 0 1 (7) 1 (4)
+ECOG Performance Status, n (%) 0 3 (38) 6 (40) 9 (39)
+1 5 (63) 7 (47) 12 (52)
+2 0 2 (13) 2 (9)
+PTCL Subtype, ALCL, ALK-negative 1 (13) 0 1 (4)
+n (%)
+ALCL, ALK-positive 1 (13) 1 (7) 2 (9)
+Angioimmunoblastic TCL 1 (13) 9 (60) 10 (43)
+Cytotoxic T-cell phenotype 0 1 (7) 1 (4)
+PTCL NOS 5 (63) 4 (27) 9 (39)
+Disease Stage, n (%) IIB 0 2 (13) 2 (9)
+IIIA 3 (38) 2 (13) 5 (22)
+IIIB 0 2 (13) 2 (9)
+IVA 1 (13) 5 (33) 6 (26)
+IV B 4 (50) 4 (27) 8 (35)
+International Prognostic Index 0—Low Risk 0 (0) 1 (7) 1 (4)
+1—Low-Intermediate Risk 3 (38) 3 (20) 6 (26)
+2—High-Intermediate Risk 4 (50) 7 (47) 11 (48)
+3—High Risk 1 (13) 4 (27) 5 (22)
+ALCL anaplastic large cell lymphoma, ALK anaplastic lymphoma kinase, Bel belinostat, D day, ECOG Eastern Cooperative Oncology Group, n or N number, NOS not
+otherwise specified, PTCL peripheral T-cell lymphoma, SD standard deviation, TCL T-cell lymphoma
+beyond Cohort 5, thus this dosing schedule was deemed All patients experienced at least one treatment-emer-
+the MTD. Based on the results for Cohorts 3 and 5, no gent adverse event (TEAE), with the most commonly
+patients were enrolled into Cohorts 1, 2, or 4. In Part B, reported events including nausea (78%), fatigue (61%),
+12 patients were treated at the MTD. and vomiting (57%; Table 3). TEAEs were considered
+related to Bel-CHOP therapy for 96% of patients and
+Safety most frequently included nausea (70%), fatigue and vom-
+The Bel-CHOP regimen was well tolerated in this study iting (each 57%), and anemia, constipation, and diarrhea
+with most patients remaining at the target belinostat and (each 35%). Grade 3/4 treatment-related TEAEs were
+CHOP doses for the total planned duration of 6 treat- reported in 57% of patients. The most frequently reported
+ment cycles (Table 2). The median relative dose intensity Grade 3 or 4 TEAEs were hematological in nature, which
+was 98% at both belinostat dose levels. Belinostat dose is consistent with reported AEs observed with cytotoxic
+modifications were required for 5 patients (22%) due to therapy.
+AEs. In Cohort 3, belinostat was delayed for 7 days after Serious adverse events (SAEs) occurred in 43% of
+Cycle 5 due to hospitalization for febrile neutropenia patients. SAEs included febrile neutropenia (17%),
+(n 1), and interrupted on Cycle 1 Day 2 due to Grade pyrexia (13%), and nausea and neutropenia (each 9%),
+=
+1 nausea/vomiting (n 1) and Grade 3 nausea/vomit- all of which were considered related to Bel-CHOP study
+=
+ing (n 1). At the belinostat MTD, belinostat was inter- treatment.
+=
+rupted in Cycle 1 due to Grade 1 nausea and vomiting One patient in Cohort 3 died on study days after the
+(n 1) and a Grade 2 belinostat infusion-related reaction last scheduled dose of belinostat on Cycle 1, Day 15; the
+=
+(n 1). death was attributed to respiratory failure secondary to
+=
+
+--- Page 6 ---
+Johnston et al. Exp Hematol Oncol (2021) 10:15 Page 6 of 11
+Table 2 Treatment Exposure, Modifications, and Dose-limiting Toxicity – Safety Population (N 23)
+=
+Parameter (unit) Cohort 3 Cohort 5
++
+(Bel D1-3) Expansion
+n 8a (Bel D1-5)
+=
+n 15
+=
+Number of Bel-CHOP cycles administered, median (range) 6.0 (1–6) 6.0 (1–6)
+Cumulative dose received, median (range)
+Belinostat (mg/m2) 17,622.0 (3036–18,000) 29,120.0 (4815–30,510)
+Cyclophosphamide (mg/m2) 4421.5 (761–4506) 4460.0 (720–4578)
+Doxorubicin (mg/m2) 295.0 (50–300) 297.0 (49–306)
+Vincristine (mg) 12.0 (2–12) 12.0 (2–12)
+Prednisone (mg) 3000.0 (300–3000) 3000.0 (500–3000)
+RDI (%), median (range)
+Belinostat 98.5 (94–101) 98.0 (92–102)
+Cyclophosphamide 99.5 (84–101) 99.0 (92–102)
+Doxorubicin 99.0 (85–100) 100.0 (92–102)
+Vincristine 100.0 (75–100) 100.0 (75–00)
+Prednisone 100.0 (60–100) 100.0 (93–100)
+Patients with dose reduction due to AE, n (%)
+Belinostat 1 (13) 0
+Cyclophosphamide 2 (25) 0
+Doxorubicin 2 (25) 0
+Vincristine 1 (13) 1 (7)
+Patients with dose interruption due to AE, n (%)
+Belinostat 2 (25) 2 (13)
+Doxorubicin 0 1 (7)
+Vincristine 1 (13) 0
+Patients with dose delay due to AE, n (%)
+Belinostat 1 (13) 0
+Cyclophosphamide 1 (13) 0
+Doxorubicin 1 (13) 0
+Vincristine 1 (13) 0
+Prednisone 1 (13) 0
+Patients with DLT in Cycle 1, n (%) 1 (13) 0
+Grade 3 nausea, vomiting, diarrhea, and dehydration 1 (13) 0
+AE adverse event, DLT dose-limiting toxicity, n number, RDI relative dose intensity
+a 1 patient did not complete Cycle 1 and therefore was not evaluable for DLT assessment
+disease progression and was considered not related to (Table 4). The rate of CR was 57% in Cohort 3 and
+Bel-CHOP study treatment as determined by the inves- 71% at the MTD (1000 mg/m2 belinostat for 5 days).
+tigator. No other patients discontinued study treatment Two patients in each belinostat cohort achieved a PR,
+prematurely due to AEs. 1 patient at the MTD maintained stable disease, and 1
+patient at each dose level had PD. The ORR was similar
+across age groups, tumor subtypes, or if bone marrow
+Efficacy
+lymphoma involvement or not. In particular, the ORR in
+The Efficacy Population comprised 21 of the 23 treated AITL patients was 89% and it was 90% in patients with
+patients; 2 patients discontinued treatment prior to bone marrow involvement.
+undergoing the imaging studies for tumor response. In
+18 of the 21 evaluable patients who completed 6 cycles
+of Bel-CHOP, the ORR was 86% in both Cohort 3 (6/7 Pharmacokinetics
+patients) (CI: 42.1–99.6) and in Cohort 5 expansion The PK Population comprised 9 of the 11 patients treated
++
+patients (12/14 patients) at the MTD (CI: 57.2–98.2) in Part A; 2 patients were excluded from PK analyses
+
+--- Page 7 ---
+J ohnston et al. Exp Hematol Oncol (2021) 10:15 Page 7 of 11
+Table 3 Treatment-emergent adverse events by maximum NCI CTCAE severity—safety population (N 23)
+=
+MedDRA Preferred Term Cohort 3 Cohort 5 Expansion Total
++
+(Bel D1-3) (Bel D1-5) N 23
+=
+n 8 n 15 n (%)
+= =
+n (%) n (%)
+All Grades Grade Grade All Grades Grade Grade All Grades Grade Grade
+1–2 3–4 1–2 3–4 1–2 3–4
+All AEs (> 25% of pts) 8 (100) 0 8 (100) 15 (100) 5 (33) 10 (67) 23 (100) 5 (22) 18 (78)
+Nausea 6 (75) 6 (75) 1 (13) 12 (80) 12 (80) 1 (7) 18 (78) 18 (78) 2 (9)
+Fatigue 7 (88) 7 (88) 0 7 (47) 7 (47) 0 14 (61) 14 (61) 0
+Vomiting 4 (50) 4 (50) 0 9 (60) 9 (60) 0 13 (57) 13 (57) 0
+Anemia 4 (50) 3 (38) 2 (25) 5 (33) 4 (27) 3 (20) 9 (39) 7 (30) 5 (22)
+Constipation 2 (25) 2 (25) 0 7 (47) 7 (47) 0 9 (39) 9 39) 0
+Diarrhea 4 (50) 3 (38) 0 5 (33) 5 (33) 0 9 (39) 8 (35) 0
+Alopecia 4 (50) 4 (50) 0 4 (27) 4 (27) 0 8 (35) 8 (35) 0
+Decreased appetite 3 (38) 3 (38) 0 5 (33) 5 (33) 0 8 (35) 8 (35) 0
+Dizziness 2 (25) 2 25) 0 6 (40) 6 (40) 0 8 (35) 8 (35) 0
+Cough 3 (38) 3 (38) 0 4 (27) 4 (27) 0 7 (30) 7 (30) 0
+Dysphonia 3 (38) 2 (25) 0 4 (27) 3 (20) 0 7 (30) 5 (22) 0
+Neutrophil count decreased 3 (38) 1 (13) 3 (38) 4 (27) 1 (7) 4 (27) 7 (30) 2 (9) 7 (30)
+Stomatitis 3 (38) 3 (38) 0 4 (27) 4 (27) 0 7 (30) 7 (30) 0
+Upper respiratory tract infection 2 (25) 2 (25) 0 5 (33) 4 (27) 0 7 (30) 6 (26) 0
+Headache 4 (50) 4 (50) 0 2 (13) 2 (13) 0 6 (26) 6 (26) 0
+Neutropenia 3 (38) 1 (13) 3 (38) 3 (20) 1 (7) 3 (20) 6 (26) 2 (9) 6 (26)
+Pruritus 2 (25) 1 (13) 0 4 (27) 0 (0) 0 6 (26) 1 (4) 0
+Pyrexia 3 (38) 3 (38 0 3 (20) 3 (20) 0 6 (26) 6 (26) 0
+WBC count decreased 2 (25) 0 2 (25) 4 (27) 2 13) 3 (20) 6 (26) 2 (9) 5 (22)
+Related AEs (> 25% of pts) 7 (88) 2 (25) 5 (63) 15 (100) 7 (47) 8 (53) 22 (96) 9 (39) 13 (57)
+Nausea 5 (63) 5 (63) 1 (13) 11 (73) 11 (73) 1 (7) 16 (70) 16 (70) 2 (9)
+Fatigue 7 (88) 7 (88) 0 6 (40) 6 (40) 0 13 (57) 13 (57) 0
+Vomiting 4 (50) 4 (50) 1 (13) 9 (60) 9 (60) 0 13 (57) 13 (57) 1 (4)
+Anemia 3 (38) 2 (25) 2 (25) 5 (33) 4 (27) 2 (13) 8 (35) 6 (26) 4 (17)
+Constipation 2 (25) 2 (25) 1 (13) 6 (40) 6 (40) 0 8 (35) 8 (35) 1 (4)
+Diarrhea 4 (50) 3 (38) 1 (13) 4 (27) 4 (27) 0 8 (35) 7 (30) 1 (4)
+Neutrophil count decreased 3 (38) 1 (13) 3 (38) 4 (27) 1 (7) 4 (27) 7 (30) 2 (9) 7 (30)
+Decreased appetite 2 (25) 2 (25) 1 (13) 4 (27) 4 (27) 0 6 (26) 6 (26) 1 (4)
+Stomatitis 3 (38) 3 (38) 0 3 (20) 3 (20) 0 6 (26) 6 (26) 0
+SAEs (> 1 pt)a 3 (38) 2 (25) 2 (25) 7 (47) 2 (13) 7 (47) 10 (43) 4 (17) 9 (39)
+Febrile neutropenia 1 (13) 1 (13) 1 (13) 3 (20) 0 3 (20) 4 (17) 0 4 (17)
+Pyrexia 2 (25) 2 (25) 0 1 (7) 1 (7) 0 3 (13) 3 (13) 0
+Nausea 1 (13) 0 1 (13) 1 (7) 0 1 (7) 2 (9) 0 1 (4)
+Neutropenia 0 0 0 2 (13) 0 2 (13) 2 (9) 0 2 (9)
+Discontinuation due to AE 1 (13) 0 1 (13)b 0 0 0 1 (4) 0 1 (4)b
+Respiratory failure (fatal) secondary to PD 1 (13) 0 1 (13)b 0 0 0 1 (4) 0 1 (4)b
+AE adverse event, CTCAE Common Terminology Criteria for Adverse Events, MedDRA Medical Dictionary for Regulatory Activities, NCI National Cancer Institute, SAE
+serious adverse event
+a All SAEs reported in > 1 patient were assessed as related to study treatment
+b Grade 5
+due to extended IV belinostat infusion times (1.417 and duration. Since no marked difference between the 2
+3.583 h, respectively) resulting in post-infusion pro- belinostat dose levels was observed, and the treatments
+files that were shifted in time by the additional infusion and sample collection times on the PK evaluation day
+
+--- Page 8 ---
+Johnston et al. Exp Hematol Oncol (2021) 10:15 Page 8 of 11
+Table 4 Summary of overall best response—efficacy
+population (N 21)
+=
+Cohort 3 Cohort 5 Expansion
++
+(Bel D1-3) (Bel D1-5)
+n 7 n 14
+= =
+Overall best response, n (%)
+CR 4 (57) 10 (71)
+PR 2 (29) 2 (14)
+SD 0 1 (7)
+PD 1 (14) 1 (7)
+Missing 0 0
+Objective response rate
+CR, n (%) 4 (57) 10 (71)
+95% CI 18.41–90.10 41.90–91.61
+Objective response (CR PR), 6 (86) 12 (86)
++
+n (%)
+95% CI 42.13–99.64 57.19–98.22
+(Cycle 1 Day 2) were identical, data at both dose levels
+were combined.
+Following daily 30-min IV infusions of 1000 mg/
+m2 belinostat for 2 days, the median time to maximum
+Fig. 2 Mean SD plasma belinostat concentrations on cycle 1 day
+plasma concentration ( T max ) was observed at 0.5 h, ie, 2—PK popula ± tion (N 9)
+=
+the approximate end of infusion (EOI). After EOI, plasma
+belinostat concentrations declined rapidly, followed by
+a relatively slower terminal phase. At the last collection
+the treatment strategy, as the new agent must exhibit a
+time (7 h after EOI), plasma concentrations remained
+unique mechanism of action that provides added efficacy
+above the assay lower limit of quantitation (5 ng/mL)
+without inducing further myelosuppressive effects [29,
+(Fig. 2). Belinostat exposure parameters (maximum
+30]. Several prior clinical studies incorporated additional
+plasma concentration [C ] 36,300 ng/mL and area
+max drugs with CHOP or CHOP-like regimens. A Phase
+under the curve [AUC ] 25,500 nghr/mL) were consist-
+0-t · 2 study of denileukin diftitox combined with CHOP
+ent with exposure parameters observed with single-agent
+enrolled 49 patients and resulted in a CR rate of 55%,
+that were published previously [28], indicating that the
+PR rate of 10% for an ORR of 65% [31]. Another Phase 2
+PK of belinostat was not affected by co-administration
+study alternated pralatrexate with CEOP in patients with
+with CHOP (Table 5). Moderate interpatient variability
+PTCL [32]. Of the 33 enrolled patients, 52% achieved a
+in exposure was observed, with geometric coefficients of
+CR and 18% achieved a PR for an ORR of 70%. An addi-
+variance values ranging from 24.9% to 33.9% for C and
+max tional Phase 1 study incorporated brentuximab vedo-
+AUC . Belinostat glucuronide was the primary metabo-
+0-t tin with CHP for CD-30 expressing PTCL in which 26
+lite, with a mean metabolite-to-parent (M:P) AUC ratio
+patients were treated with a CR rate of 92% [33]. The
+of 12.5. A correlation analysis of PK and ORR indicated
+majority of patients enrolled had systemic anaplastic
+no significant difference in plasma concentrations for
+large-cell lymphoma. Thus, several studies have incorpo-
+responding versus non-responding patients.
+rated novel agents into a CHOP or CHOP-like backbone
+with varying efficacy.
+Discussion HDACi therapies are a particularly intriguing class of
+agents that have been recently studied in combination
+The incorporation of novel agents into traditional cyto-
+with standard first-line CHOP in PTCL [23, 24, 34]. The
+toxic regimens could be an opportunity to improve clini-
+utility of HDACi in the combination setting is based on
+cal benefits for patients with PTCL, both in the newly
+the typically low incidence of observed myelosuppression
+diagnosed and relapsed or refractory patient populations.
+coupled with impressive clinical benefit. In a recently
+The often dose prohibitive myelosuppression associated
+presented phase III trial of romidepsin plus CHOP
+with traditional combination regimens (e.g., CHOP)
+chemotherapy versus CHOP chemotherapy alone, the
+has confounded efforts to integrate new agents into
+
+--- Page 9 ---
+J ohnston et al. Exp Hematol Oncol (2021) 10:15 Page 9 of 11
+Table 5 Belinostat and metabolite plasma parameters—PK population (N 9)
+=
+PK Parameters (units) Belinostat Belinostat Glucuronide Belinostat Acid Belinostat Amide Methyl Belinostat 3-ASBA
+Mean Standard Deviation
+±
+N 9
+=
+C (ng/mL) 36,300 9320 163,000 19,200 1030 638 2850 869 7030 1270 2660 1530
+max ± ± ± ± ± ±
+T a (hr) 0.500 0.667 1.60 0.667 1.10 3.57
+max
+(0.167, 1.10) (0.550, .983) (1.10, 3.68) (0.500, 0.983) (0.467, 1.68) (3.50, 3.68)
+AUC (ng.hr/mL) 25,500 8980 472,000 111,000 4760 2790 10,600 5010 25,200 6870 13,000 7060
+0-t ± ± ± ± ± ±
+M:P ratio NA 12.5 3.15 0.194 0.079 0.514 0.398 1.03 0.451 0.579 0.206
+± ± ± ± ±
+AUC area under the concentration time curve from time of administration to the last measurable concentration, estimated by the linear up/log down trapezoidal
+0-t
+rule, C maximum plasma concentration, M:P metabolite:parent, PK pharmacokinetic(s), T time to C
+max max max
+a Median (range)
+addition of romidepsin to CHOP did not improve PFS, co-administration with CHOP, with comparable C
+max
+the primary endpoint of the study, and response rates and AUC values as have been observed with belinostat
+and OS appeared similar with the combination [35]. It monotherapy.
+was noted that due to increased TEAEs with the addition Notably the ORR contains higher patients with a CR
+of romidepsin, it hampered the ability to give the full 6 (71%) MTD dose schedule of Bel-CHOP. As this study
+cycles of CHOP. In the pivotal study of belinostat mono- represented the first investigation of the Bel-CHOP regi-
+therapy administered to a heavily pretreated population men, progression-free-survival and overall survival were
+of patients with relapsed or refractory PTCL, the Grade not studied. However, the promising response rate and
+3/4 hematological toxicities common to CHOP therapy safe profile of Bel-CHOP regimen requires further con-
+were reported at low incidences (ie, 7% thrombocytope- firmatory study of this combination regimen.
+nia, 6% neutropenia, 11% anemia) and the unique mecha-
+nism of action induced an ORR of 26% in a patient group
+Abbreviations
+that had already failed to achieve durable responses from AE: Adverse Event; AITL: Angioimmunoblastic T-cell lymphoma; ALCL: Ana-
+currently available therapies [22]. This low myelosuppres- plastic large-cell lymphoma; ANC: Absolute neutrophil count; ASCO: American
+Society of Clinical Oncology; AST and ALT: Alanine and aspartate aminotrans-
+sion and relatively high response induction suggested
+ferases; AUC : Area under the curve; Bel-CHOP: Belinostat combined with
+that Bel-CHOP therapy may represent a viable treatment CHOP; CHOP: Cyclophosphamide, doxorubicin, vincristine, and prednisone;
+strategy requiring further exploration. CR: Complete response; CTCAE: Common Terminology Criteria for Adverse
+Events; CTCL: Cutaneous T-cell lymphoma; DLT: Dose-limiting toxicities; DoR:
+Duration of response; ECG: Electrocardiograms; ECOG: Eastern Cooperative
+Oncology Group; EOI: End of Infusion; EOS: End of Study; G-CSF: Granulocyte
+Conclusions
+colony-stimulating factor; HDACi: Histone deacetylase inhibitor; ICH: Inter-
+Results from the current study provided data to sup- national Conference on Harmonization; MAD: Maximum administered dose;
+MTD: Maximum tolerated dose; NCI: National Cancer Institute; NK: Natural
+port this question and indicated that Bel-CHOP ther-
+killer; ORR: Overall response rate; ORR: Overall response rate; OS: Overall
+apy was well tolerated and induced a high percentage survival; PD: Progressive disease; PFS: Progression-free survival; PK: Pharma-
+of clinical responses when administered as first-line cokinetics; PTCL: Peripheral T-cell lymphoma; PTCL-NOS: PTCL not otherwise
+specified; RP3D: Recommended Phase 3 dose; SAE: Serious Adverse event;
+therapy in patients with newly diagnosed, previously
+TEAE: Treatment-emergent adverse event; US: United States; WHO: World
+untreated PTCL. Notably, the optimal dose of belin- Health Organization.
+ostat in the Bel-CHOP regimen was determined to
+Acknowledgements
+be equivalent to the single-agent belinostat dose and
+The authors would like to thank Pamela Hsu for the statistical analysis.
+schedule (1000 mg/m2 QD on Days 1–5), indicating
+that no additional toxicity was observed with the com- Authors’ contributions
+PBJ, FF, GB, and SH conceived the study; PBJ, FF, GB, and SH designed the
+bination compared with belinostat monotherapy. Fur-
+study; PBJ, AC, PGN, AWB, SKB, SdV, YO, CD and FF collected data; PBJ, FF, and
+thermore, the type and severity of AEs, including SAEs, GB wrote the manuscript; SH analysed data; PBJ, AC, PGN, AWB, SKB, SdV, YO,
+was representative of the hematological (eg, anemia, CD and FF, provided advice and assisted with data collection and interpreta-
+tion; all authors approved the final manuscript.
+neutropenia) and gastrointestinal (nausea, vomiting,
+constipation, diarrhea) toxicities that are often charac- Funding
+teristic of cytotoxic therapies, and were often reported Spectrum Pharmaceuticals, Acrotech Biopharma and Onxeo S.A.
+at similar incidence rates as historically reported with
+Availability of data and materials
+CHOP alone. The PK of belinostat further confirmed All data generated or analysed during this study are included in this published
+that the exposure of belinostat was not affected by article.
+
+--- Page 10 ---
+Johnston et al. Exp Hematol Oncol (2021) 10:15 Page 10 of 11
+Ethics approval and consent to participate 13. Kim JG, et al. CHOP plus etoposide and gemcitabine (CHOP-EG) as front-
+The study protocol and patient materials were approved by institutional line chemotherapy for patients with peripheral T cell lymphomas. Cancer
+review boards and/or ethics committees at all sites. Study conduct followed Chemother Pharmacol. 2006;58(1):35–9.
+International Conference on Harmonization (ICH) Guidelines for Good Clinical 14. Pfreundschuh M, et al. Two-weekly or 3-weekly CHOP chemotherapy
+Practice, including written informed consent and monitoring of all data. with or without etoposide for the treatment of young patients with
+good-prognosis (normal LDH) aggressive lymphomas: results of the NHL-
+Consent for publication B1 trial of the DSHNHL. Blood. 2004;104(3):626–33.
+N/A. 15. Tilly H, et al. Intensive conventional chemotherapy (ACVBP regimen)
+compared with standard CHOP for poor-prognosis aggressive non-
+Competing interests Hodgkin lymphoma. Blood. 2003;102(13):4284–9.
+A.C has received funding from Celgene, and is part of the Speaker’s Bureau 16. Ganjoo K, et al. Bevacizumab and cyclophosphamide, doxorubicin, vin-
+for Seattle Genetics and Novartis. S.B. has received research funding from cristine, and prednisone in combination for patients with peripheral T-cell
+Seattle Genetics. G.B, G.R, S.H are employees of Spectrum Pharmaceuticals. F.F. or natural killer cell neoplasms: an Eastern Cooperative Oncology Group
+has been a consultant, Speakers Bureau and received research funding from study (E2404). Leuk Lymph. 2014;55:768–72.
+Spectrum Pharmaceuticals, Celgene, Seattle Genetics, Infinity, Millennium. The 17. Corradini P, et al. Graft-versus-lymphoma effect in relapsed peripheral
+remaining authors declare that they have no conflict of interest. T-cell non-Hodgkin’s lymphomas after reduced-intensity conditioning fol-
+lowed by allogeneic transplantation of hematopoietic cells. J Clin Oncol.
+Author details 2004;22(11):2172–6.
+1 Mayo Clinic, 200 first St SW, Rochester, MN 55905, USA. 2 Division of Oncol- 18. Le Gouill S, et al. Graft-versus-lymphoma effect for aggressive T-cell lym-
+ogy, Washington University Medical School, 660 S. Euclid Ave, Campus, phomas in adults: a study by the Societe Francaise de Greffe de Moelle et
+Box 8007, St Louis, MO 63110, USA. 3 University Cancer and Blood Center, de Therapie Cellulaire. J Clin Oncol. 2008;26(14):2264–71.
+3320 Old Jefferson Rd #700, Athens, GA 30607, USA. 4 Duke University School 19. O’Connor OA, et al. Pralatrexate in patients with relapsed or refractory
+of Medicine, 2592 Morris Bldg, Box 3406, Durham, NC 27710, USA. 5 Dept peripheral T-cell lymphoma: results from the pivotal PROPEL study. J Clin
+of Hematology/Oncology, Fox Chase Cancer Center, 333 Cottman Ave, Oncol. 2011;29(9):1182–9.
+Philadelphia, PA 19111, USA. 6 Spectrum Pharmaceuticals, 157 Technology Dr, 20. Pro B, et al. Brentuximab vedotin (SGN-33) in patients with relapsed or
+Irvine, CA 92618, USA. 7 Cancer Care, Ronald Reagan University of California At refractory systemic anaplastic large-cell lymphoma: results of a phase II
+Los Angeles Medical Center, 2020 Santa Monica Blvd, Santa Monica, CA 90404, study. J Clin Oncol. 2012;30(18):2190–6.
+USA. 8 Dept of Lymphoma/Myeloma, University of Texas MD Anderson Cancer 21. Piekarz RL, et al. Phase 2 trial of romidepsin in patients with peripheral
+Center, 1515 Holcombe Blvd, Unit 0429, Houston, TX 77030, USA. 9 Center T-cell lymphoma. Blood. 2011;117(22):5827–34.
+for Lymphoid Malignancies, Columbia University Medical Center, 51 West 51st 22. O’Connor OA, et al. Belinostat in patients with relapsed or refractory
+St, New York, NY 10019, USA. 10 Medical Oncology, Yale Cancer Center, 333 peripheral T-cell lymphoma: results of the pivotal phase II BELIEF (CLN-19)
+Cedar St, TMP 3, PO Box 208028, New Haven, CT 06510, USA. study. J Clin Oncol. 2015;33(23):2492–9.
+23. Dupuis J, et al. Combination of romidepsin with cyclophosphamide,
+Received: 5 October 2020 Accepted: 22 January 2021 doxorubicin, vincristine, and prednisone in previously untreated patients
+with peripheral T-cell lymphoma: a non-randomised, phase 1b/2 study.
+Lancet Haematol. 2015;2:e160–5.
+24. Oki Y, et al. Phase I study of vorinostat in combination with standard
+CHOP in patients with newly diagnosed peripheral T-cell lymphoma. Br J
+References Haematol. 2013;162:130–44.
+1. The Non-Hodgkin’s Lymphoma Classification Project. A clinical evaluation 25. Sullivan D, et al. A Phase II Study of PXD101 in Advanced Multiple
+of the International Lymphoma Study Group classification of non-Hodg- Myeloma. Blood. 2006;108:3583.
+kin’s lymphoma. Blood. 1997;89:3909–18. 26. Cheson BD, et al. Revised response criteria for malignant lymphoma. J
+2. Vose J, Armitage J, Weisenburger D. International T-cell Lymphoma Clin Oncol. 2007;25:579–86.
+Project International peripheral T-cell and natural killer/T-cell lym- 27. Cockcroft DW, Gault MH. Prediction of creatinine clearance from serum
+phoma study: pathology findings and clinical outcomes. J Clin Oncol. creatinine. Nephron. 1976;16(1):31–41.
+2008;26:4124–30. 28. Kansara R, Savage KJ. The problem with cyclophosphamide, doxoru-
+3. Vose JM. Peripheral T-cell non-Hodgkin’s lymphoma. Hematol Oncol Clin bicin, vincristine and prednisone for the treatment of peripheral T-cell
+North Am. 2008;22(5):997–1005. lymphoma. Leuk Lymphoma. 2014;55:727–9.
+4. Campo E, et al. The 2008 WHO classification of lymphoid neoplasms 29. Calvo E, et al. Pharmacokinetics, metabolism, and excretion of (14)
+and beyond: evolving concepts and practical applications. Blood. C-labeled belinostat in patients with recurrent or progressive malignan-
+2011;117(19):5019–32. cies. Invest New Drugs. 2016;34(2):193–201.
+5. Savage KJ. Therapies for peripheral T-cell lymphomas. Hematol Am Soc 30. Evens AM, et al. A phase I/II trial of bortezomib combined concurrently
+Hematol Educ Program. 2011;2011:515–24. with gemcitabine for relapsed or refractory DLBCL and peripheral T-cell
+6. Campo E, et al. Report of the European Task Force on Lymphomas: work- lymphomas. Br J Haematol. 2013;163:55–61.
+shop on peripheral T-cell lymphomas. Ann Oncol. 1998;9(8):835–43. 31. Foss FM, et al. A multicenter phase II trial to determine the safety and
+7. Kewalramani T, et al. Autologous transplantation for relapsed or primary efficacy of combination therapy with denileukin diftitox and cyclo-
+refractory peripheral T-cell lymphoma. Br J Haematol. 2006;134(2):202–7. phosphamide, doxorubicin, vincristine and prednisone in untreated
+8. Rodriguez J, Gutierrez A, Martinez-Delgado B, Perez-Manga G. Current peripheral T-cell lymphoma: the CONCEPT study. Leukemia Lymphoma.
+and future aggressive peripheral T-cell lymphoma treatment paradigms, 2013;54(7):1373–9.
+biological features and therapeutic molecular targets. Crit Rev Oncol 32. Advani RH, et al. A phase II study of cyclophosphamide, etoposide,
+Hematol. 2009;71(3):181–98. vincristine and prednisone (CEOP) Alternating with Pralatrexate (P)
+9. Foss FM, et al. Peripheral T-cell lymphoma. Blood. 2011;117(25):6756–67. as front line therapy for patients with peripheral T-cell lymphoma
+10. Tang T, et al. Peripheral T-cell lymphoma: review and updates of current (PTCL): final results from the T- cell consortium trial. Br J Haematol.
+management strategies. Adv Hematol. 2010;2010:624040. 2016;172(4):535–44.
+11. Abouyabis AN, et al. A systematic review and meta-analysis of front-line 33. Fanale MA, et al. Five-year outcomes for frontline brentuximab vedotin
+anthracycline-based chemotherapy regimens for peripheral T-cell lym- with CHP for CD30-expressing peripheral T-cell lymphomas. Blood.
+phoma. ISRN Hematol. 2011;2011:623924. 2018;131(19):2120–4.
+12. National Comprehensive Cancer Network Guidelines on NHL: NCCN; 34. Lemoine M, Younes A. Histone deacetylase inhibitors in the treatment of
+2014 [05MAR2014]. Version 3. http://www.nccn.org/profe ssion als/physi lymphoma. Discov Med. 2010;10:462–70.
+cian_gls/f_guide lines .
+
+--- Page 11 ---
+J ohnston et al. Exp Hematol Oncol (2021) 10:15 Page 11 of 11
+35. Bachy E, Camus V, Thieblemont C, et al. Final analysis of the Ro-CHOP Publisher’s Note
+Phase III (conducted by LYSA): Romidepsin plus CHOP in patients with Springer Nature remains neutral with regard to jurisdictional claims in pub-
+peripheral T-cell lymphoma. Presented at: 62nd American Society of lished maps and institutional affiliations.
+Hematology (ASH) Annual Meeting and Exposition; December 5–9, 2020.
+Abstract 39.
+RReeaaddyy ttoo ssuubbmmiitt yyoouurr rreesseeaarrcchh ?? CChhoooossee BBMMCC aanndd bbeenneeffiitt ffrroomm::
+• fast, convenient online submission
+• thorough peer review by experienced rese archers in your field
+• rapid publication on acceptance
+• support for research data, including large and complex data types
+• gold Open Access which fosters wider collaboration and increased citations
+• maximum visibility for your research: over 100M website views per year
+At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions

@@ -1,0 +1,746 @@
+Source: 34040175.pdf
+Extracted on: Sat Sep 13 00:00:20 PDT 2025
+==================================================
+
+--- Page 1 ---
+www.nature.com/bjc
+ARTICLE
+Clinical Study
+Phase 1 study of the ATR inhibitor berzosertib (formerly
+M6620, VX-970) combined with gemcitabine ± cisplatin in
+patients with advanced solid tumours
+MarkR.Middleton1,EmmaDean2,10,ThomasR.J.Evans3,GeoffreyI.Shapiro 4,JohnPollard5,11,BartS.Hendriks6,12,MartinFalk7,13,
+Ivan Diaz-Padilla8,14 and RuthPlummer 9
+BACKGROUND:Berzosertib(formerlyM6620,VX-970)isahighlypotentandselective,first-in-classinhibitorofataxiatelangiectasia
+andRad3-relatedproteinkinase(ATR).Weassessedmultipleascendingdosesofberzosertib+gemcitabine±cisplatininpatients
+with resistant/refractory advancedsolidtumours.
+METHODS: Weevaluated the safety,tolerability, pharmacokinetics (PK) andpreliminary efficacy ofintravenous berzosertib+
+gemcitabine±cisplatinusingastandard3+3dose-escalationdesign.Thestartingdoseswereberzosertib18mg/m2,gemcitabine
+875mg/m2 and cisplatin60mg/m2.
+RESULTS: Fifty-two patients received berzosertib+gemcitabine andeight received berzosertib+gemcitabine+cisplatin. Four
+patientsreceivingberzosertib+gemcitabinehadatotalofsevendose-limitingtoxicities(DLTs)andthreereceivingberzosertib+
+gemcitabine+cisplatinhadatotalofthreeDLTs.Berzosertib210mg/m2(days2and9)+gemcitabine1000mg/m2(days1and8)
+Q3W wasestablished astherecommended Phase 2dose (RP2D); noRP2Dwas determinedfor berzosertib+gemcitabine+
+cisplatin.NeithergemcitabinenorcisplatinaffectedberzosertibPK.Mostpatientsinbotharmsachievedabestresponseofeither
+partial response or stabledisease.
+CONCLUSIONS: Berzosertib+gemcitabinewaswell toleratedin patientswith advancedsolidtumours andshowed preliminary
+efficacysigns.
+CLINICAL TRIAL IDENTIFIER:NCT02157792.
+British Journalof Cancer(2021) 125:510–519; https://doi.org/10.1038/s41416-021-01405-x
+BACKGROUND studies, loss of ATM signalling (e.g., through ATM or p53
+Chemotherapy drugs, such as platinum agents and gemcitabine, deficiency,ortumourprotein[TP53]mutation)hasbeenreported
+which induce potentially lethal DNA damage in cancer cells,1 are to drive reliance on ATR in response to DNA damage;7,10–12
+part of standard therapies for many cancers.2–6 Resistance to subsequent loss of ATR signalling has been shown to result in
+chemotherapy results in poor clinical outcomes. One mechanism synthetic lethality.7 ATR inhibition is an attractive therapeutic
+implicatedinbothinherentandacquiredresistanceistheefficient target for cancers in which DNA-damaging chemotherapy is
+repairofDNAdamageincancercellsthroughtheactivationofthe utilisedasstandardtherapy,butwhichretainsasubstantialunmet
+complexDNA damageresponse (DDR).7–9 need.13
+Apical regulators of DDR are ataxia–telangiectasia-mutated Berzosertib (formerly M6620, VX-970) is an intravenous (i.v.),
+kinase (ATM) and ataxia telangiectasia and Rad3-related protein highly potent and selective, first-in-class inhibitor of ATR (IC =
+50
+kinase (ATR), with ATR responding to exposed single-stranded 19nM).14,15 Preclinical studies have demonstrated antitumour
+DNAthatoftenarisesthroughDNAdamageandreplicationstress, activity15,16insynergywithchemotherapy,sensitisinglungcancer
+whereasATMrespondstoDNAdouble-strandbreaks.Inpreclinical cellstoDNA-damagingagents,withthegreatesteffectsobserved
+1Department of Oncology, University of Oxford, Oxford, UK; 2ExperimentalCancer MedicineTeam, The University of Manchesterand The Christie NHS Foundation Trust,
+Manchester,UK;3InstituteofCancerSciences,UniversityofGlasgowandBeatsonWestofScotlandCancerCentre,Glasgow,UK;4DepartmentofMedicalOncology,Dana-Farber
+CancerInstituteandHarvardMedicalSchool,Boston,MA,USA;5BiologicalSciences,VertexPharmaceuticalsEuropeLtd,Abingdon,UK;6ClinicalPharmacology,EMDSerono
+Research&DevelopmentInstituteInc.,Billerica,MA,USA,anaffiliateofMerckKGaA,Darmstadt,Germany;7OncologyGlobalClinicalDevelopment,MerckKGaA,Darmstadt,
+Germany;8OncologyGlobalClinicalDevelopment,AresTradingSA,Eysins,Switzerland,anaffiliateofMerckKGaA,Darmstadt,Germanyand9TranslationalandClinicalResearch
+Institute,NewcastleUniversityandNorthernCentreforCancerCare,NewcastleHospitalsNHSTrust,NewcastleUponTyne,UK
+Correspondence:RuthPlummer(Ruth.Plummer@newcastle.ac.uk)
+10Presentaddress:AstraZeneca,CambridgeandAlderleyPark,UK
+11Presentaddress:Bayerplc,Reading,UK
+12Presentaddress:NovartisInstitutesforBioMedicalResearch,Cambridge,MA,USA
+13Presentaddress:CureVac,Tübingen,Germany
+14Presentaddress:GlaxoSmithKline,Zug,Switzerland
+Received:5November2020Revised:31March2021Accepted:15April2021
+Publishedonline:26May2021
+©TheAuthor(s)2021 PublishedbySpringerNatureonbehalfofCancerResearchUK
+
+--- Page 2 ---
+Berzosertib+gemcitabine±cisplatinincancer
+MRMiddletonetal.
+511
+Part A: berzosertib + gemcitabine ± cisplatin
+(cid:129) Lead-in safety phase: berzosertib monotherapy RP2D Part C: expansion cohort
+(cid:129) Dose escalation: 3 + 3 cohorts
+(cid:129) Part A1: gemcitabine (days 1, 8) + berzosertib (days 2, 9) Q3W
+Part C1
+(cid:129) Part A2: gemcitabine (days 1, 8) + cisplatin (day 1) + berzosertib (days 2, 9) Q3W
+(cid:129) Advanced NSCLC with TP53 mutation,
+and/or loss of ATM expression, or neither
+Screening (cid:129) Gemcitabine (days 1, 8) + berzosertib
+(days 2, 9) Q3W
+(cid:129) Patients with advanced Part B: berzosertib + cisplatin
+solid tumours (cid:129) Lead-in safety phase: berzosertib monotherapy RP2D Part C2
+(cid:129) Aged ≥18 years (cid:129) (cid:129) D C o is s p e la e ti s n c ( a d la a t y io 1 n ) : + 3 b + e 3 rz c o o s h e o rt r i t b s (days 2, 9) Q3W (cid:129) B A R dv C a A n 1 c / e 2 d g T e N rm BC lin w e i W th T basaloid subtype,
+(cid:129) Measurable disease by (cid:129) Cisplatin (day 1) + berzosertib
+RECIST v1.1 (days 2, 9) Q3W
+Part C3
+Part B2: berzosertib + irinotecan (cid:129) Platinum-resistant advanced SCLC
+(cid:129) Cisplatin or carboplatin (day 1)
+(cid:129) Dose escalation: 3 + 3 cohorts + berzosertib (days 2, 9) Q3W
+(cid:129) Berzosertib (days 1, 15) + irinotecan (days 1, 15) for up to 28-day cycles
+Fig.1 Studydesign(PartAreportedhere).ATMataxia–telangiectasia-mutatedkinase,DLXdoselevelX,NSCLCnon-small-celllungcancer,
+Q3Wevery3weeks,RECISTresponseevaluationcriteriainsolidtumours,SCLCsmall-celllungcancer,TNBCtriple-negativebreastcancer,WT
+wildtype.
+with gemcitabine and cisplatin.15 In patient-derived lung tumour without i.v. cisplatin on day 1. In the berzosertib+gemcitabine+
+xenografts, berzosertib inhibited ATR activity and enhanced the cisplatincohorts,thestartingdoseofberzosertibdidnotexceedthe
+efficacy of cisplatin, resulting in inhibition of tumour growth, highest dose of berzosertib utilised in the berzosertib+gemcita-
+including in tumours refractory to cisplatin monotherapy.15 binecohorts.
+Detailedinvitroandinvivopreclinicalstudiesdemonstratedthat The berzosertib dose was escalated, while the dose of
+ATR inhibition was most effective when administered transiently, chemotherapy was kept constant until the berzosertib maximum
+shortly after treatment with DNA-damaging chemotherapy. In tolerated dose (MTD) in combination with gemcitabine (875mg/
+mousexenografts,asingleberzosertibdoseadministered12–24h m2)±cisplatin (60mg/m2)was reached. The MTD was definedas
+afterchemotherapywasreportedtobeoptimalandwassuperior the highest dose of berzosertib tolerated in combination with a
+tosimultaneous administration.17 cisplatin dose between 60 and 75mg/m2±a gemcitabine dose
+The purpose of this first-in-human, open-label, Phase 1 trial between 500 and 1250mg/m2, inclusive. At this point, doses of
+(ClinicalTrials.gov, identifier: NCT02157792) was to evaluate the gemcitabine could be increased up to 1250mg/m2 and cisplatin
+safety, tolerability, pharmacokinetics (PK) and preliminary anti- upto75mg/m2inadditionalcohorts.InthepresenceofDLTs,the
+tumour activity of berzosertib in combination with gemcitabine, protocol allowed for reduction in gemcitabine and/or cisplatin
+withor without cisplatin. dose to enable escalation of berzosertib in additional cohorts.
+Patients received treatment until progressive disease, unaccep-
+tabletoxicity orwithdrawal ofconsent.
+METHODS
+Study designandtreatment Patients
+This trial was part of a multicentre, open-label, non-randomised, Eligible patients were ≥18 years of age with histologically or
+Phase1studyseparatedintosixparts(A,B,B2,C1,C2andC3).The cytologically confirmed metastatic or unresectable solid tumours
+focusofthispaperisstudypartA:berzosertibincombinationwith andmeasurablediseaseaccordingtoResponseEvaluationCriteria
+gemcitabine with or without cisplatin in patients with advanced in Solid Tumours (RECIST) version 1.1,20 for which standard
+solid tumours; the other parts will be reported elsewhere. Part A curative or palliative therapy did not exist or was no longer
+was a 3+3 dose-escalation Phase 1 study evaluating the safety, effective at the time of study enrolment, or for whom treatment
+tolerability, pharmacokinetics (PK) and preliminary efficacy of regimens containing gemcitabine and cisplatin might be con-
+berzosertib in combination with gemcitabine with or without sidered. Patients for whom gemcitabine and/or cisplatin were
+cisplatin(NCT02157792)(Fig.1).Patientswereenrolledincohorts appropriate treatment options were informed that, given the
+of three, with subsequent cohort expansion and dose-escalation exploratory nature of this study, the doses of chemotherapy
+decisions based on safety review, available PK data and wouldbelowerthanthosegiveninstandardregimens,butwere
+observations of dose-limiting toxicities (DLTs) until the end of deemed clinically justified when administered in combination
+treatment cycle1. withberzosertib.EligiblepatientshadaWorldHealthOrganization
+A 7–14-day lead-in period with single ascending doses of performance status of 0–1, adequate bone marrow, liver and
+intravenous (i.v.) berzosertib was planned to assess the safety of kidney function and a life expectancy of at least 12 weeks. In
+berzosertib monotherapy; the requirement for the lead-in period addition, patients were required to have received ≤6 cycles of
+was removed after review of safety data both during the study prior chemotherapy with cisplatin and/or carboplatin (unless
+andfromaconcurrentstudyofberzosertibmonotherapy.17A21- approvedby thesponsor medicalmonitor).
+day chemotherapy dosing cycle was used for berzosertib+ Key exclusion criteria included radiotherapy (except palliative),
+gemcitabine with or without cisplatin treatment. Based on endocrine therapy, immunotherapy or chemotherapy within the
+preclinical studies, a starting dose of 18mg/m2 and a dosing 4 weeks prior to receiving study therapy, morethan six cyclesof
+regimenofi.v.berzosertibondays2and9,~24±4hafterdosing prior treatment with cisplatin, ongoing toxicity or recent major
+withgemcitabine±cisplatin,wasselected.17Forsafetyreasons,at surgery (≤2 weeks of the first dose of study drug), active central
+study initiation and during the initial berzosertib dose-escalation nervous system disease or symptoms within 4 weeks prior to
+phase, lower starting doses of gemcitabine (875mg/m2) and treatment,cardiacconditionswithin6monthspriortotreatment,
+cisplatin (60mg/m2) were chosen than routinely used in the prior bone marrow transplant or radiation to >15% of bone
+clinic.18,19Patientsreceivedi.v.gemcitabineondays1and8,withor marrow and receiving medications that are known to be strong
+:,;)(0987654321
+
+--- Page 3 ---
+Berzosertib+gemcitabine±cisplatinincancer
+MRMiddletonetal.
+512
+inhibitorsorinducersofCYP3A4thatcouldnotbediscontinuedat
+Table1. Patientbaselinedemographicsandcharacteristics
+leastoneweekbeforethestartoftreatmentandfortheduration
+(safetyset).
+ofthestudy.
+Full inclusion and exclusion criteria are shown in the Supple- Berzosertib+ Berzosertib+
+mentaryInformation. gemcitabine(all gemcitabine+cisplatin
+doses),n=50 (alldoses),n=8
+Studyassessments and endpoints
+Sex,n(%)
+The primary objective of the study was to assess the safety and
+Male 28(56.0) 4(50.0)
+tolerability of multiple ascending doses of i.v. berzosertib, in
+combination with gemcitabine with or without cisplatin, in Female 22(44.0) 4(50.0)
+patients with advanced solid tumours. The secondary objectives Race,n(%)
+were to determine the MTD, PK and preliminary antitumour White 49(98.0) 8(100.0)
+activity of berzosertib in combination with cisplatin. Safety Asian 1(2.0) 0
+endpoints assessed were treatment-emergent AEs, the incidence Median(range) 62(28–79) 52(26–71)
+of DLTs, clinical laboratory values, electrocardiogram outcomes age,years
+andvitalsigns.SecondaryendpointsweretheMTDofberzosertib Agecategory,n(%)
+in combination with gemcitabine 500–1250mg/m2 with or <65years 33(66.0) 6(75.0)
+without cisplatin 60–75mg/m2, PK parameters of berzosertib ≥65years 17(34.0) 2(25.0)
+and the response of advanced solid tumours to berzosertib in
+Primarytumour,n(%)
+combinationwith gemcitabinewith orwithout cisplatin.
+NSCLC 6(12.0) 1(12.5)
+Treatment-emergent adverse events (TEAEs) and DLTs were
+Pancreaticcancer 2(4.0) 0
+reportedusingNationalCancerInstitute(NCI)CommonTerminol-
+Breastcancer 4(8.0) 0
+ogy Criteria for Adverse Events (CTCAE) version 4.0. The DLT
+assessment period was limited to cycle 1. All AEs of any grade Headandneckcancer 1(2.0) 0
+were recorded and followed up until resolution. Safety was Colorectalcancer 18(36.0) 4(50.0)
+evaluated throughout treatment and was used to inform dose- Othera 19(38.0) 3(37.5)
+escalationdecisions.Dose-limitingtoxicities(DLTs)weregenerally WHOPS,n(%)
+defined as any grade ≥3 haematologic or organ toxicity and any 0 15(30.0) 3(37.5)
+cardiacabnormality.PatientswereeligibleforDLTanalysisifthey 1 35(70.0) 5(62.5)
+eitherhadaDLTbeforeday21incycle1orreceivedalldosesof
+Priorchemotherapy, 49(98.0) 8(100.0)
+berzosertib and gemcitabine with or without cisplatin in cycle 1 n(%)
+(seeSupplementary Informationfor full definitions of DLTs). Platinum-based 44(88.0)b 8(100.0)c
+PK assessments for berzosertib were conducted during the chemotherapy
+monotherapylead-inandduringcycles1and2.Bloodsamplesfor Non-platinum-based 49(98.0)d 8(100.0)e
+berzosertib plasma PK assessments were collected following the chemotherapy
+single-agent dose, from day 1 of combination dosing (pre-dose,
+WHOPSWorldHealthOrganizationperformancestatus,NSCLCnon-small-
+0.5hbeforetheendofinfusion,atendofinfusionand0.5,1,2,3,
+celllungcancer.
+7, 23, 47 and 71h after the end of infusion), on day 9 (pre-dose) aOtherdidnotincludesmall-celllungcancerorovariancancer.
+and cycle 2 day 2 (pre-dose and 2h after the end of infusion). bTen (20%) patients received prior cisplatin; best response of complete
+Cumulative urine samples were collected for PK assessments on response(n=1),partialresponse(n=3),stabledisease(n=3),progressive
+days 2 and 3 of cycle 1 (pre-dose—3, 3–7, 7–11 and 11–23h). disease(n=2)andnotavailable(n=1).
+Berzosertib concentrations were quantified using a validated cTwo(25%)patientsreceivedpriorcisplatin;bestresponseofstabledisease
+liquid chromatography tandem-mass spectrometry method and
+(n=2).
+dFour (8%) patients previously received gemcitabine; best response to
+plasma PK was characterised by non-compartmental analyses
+gemcitabineofpartialresponse(n=1),stabledisease(n=1),progressive
+usingPhoenixWinNonlin6.4(CertaraUSAInc,Princeton,NJ,USA). disease(n=1)andnotavailable(n=1).
+Tumour responses were assessed every two cycles, using eNopatientsreceivedpriorgemcitabine.
+computed tomography, magnetic resonance imaging or bone
+scans as deemed appropriate by the investigators, until progres-
+sion of disease; responses were assessed by the investigator assessments.Standardnon-compartmentalmethodswereused
+accordingto RECISTversion 1.1. to determine PK parameters.
+Statistical analysis
+Plannedenrolmentwas~60patients.Samplesizeandpowerwas RESULTS
+based on a standard 3+3 dose-escalation rule using a binomial Patientdemographics and disposition
+model. The maximally tolerated probability of toxicity associated Between December 2012 and June 2017, 60 patients were
+withthedoseselectedbythestandard3+3dose-escalationrule enrolledacrossfivesitesintheUKandUSA.Patientdemographics
+was calculated to range from ~17 to 26%, with an upper bound and disease characteristics are shown in Table 1. Few patients in
+of33%. theberzosertib+gemcitabinecohorts(four(8%))andnoneinthe
+Safety data, baseline patient demographics and disease berzosertib+gemcitabine+cisplatin cohorts had previously
+characteristics were summarised descriptively for the combina- received gemcitabine. Similarly, few patients had a history of
+tion safety set—which included all enrolled patients who prior treatment with cisplatin (berzosertib+gemcitabine: ten
+receivedatleastonedoseofstudydrug.PKdatawerecollected (20%),berzosertib+ gemcitabine+cisplatin:two(25%),Table2).
+in the PK analysis set, defined as all enrolled patients who Patient disposition for the combination treatment period for
+received at least one dose of berzosertib and provided at least berzosertib+gemcitabine with or without cisplatin is shown in
+one measurable post-dose sample. Efficacy analyses were Fig.2.Atotalof52patientswereenrolledovertendosecohortsof
+performed for the full analysis set, which included all enrolled berzosertib+gemcitabine,and8patientswereenrolledacrosstwo
+patients who had a baseline scan, received one or more doses dosecohortsofberzosertib+gemcitabine+cisplatin.Themajority
+of study drug and had one or more post-baseline disease of patients discontinued study treatments due to progressive
+
+--- Page 4 ---
+Berzosertib+gemcitabine±cisplatinincancer
+MRMiddletonetal.
+513
+Table2. OverviewofTEAEsandTEAEsoccurringin>15%ofpatients Table2. continued
+bypreferredterm(combinationsafetyset).
+Patients,n(%) Berzosertib+ Berzosertib+
+Patients,n(%) Berzosertib+ Berzosertib+ gemcitabine(alldoses), gemcitabine+
+gemcitabine(alldoses), gemcitabine+ n=50 cisplatin(alldoses),
+n=50 cisplatin(alldoses),
+n=8
+n=8
+Anygrade Grades3–4a Anygrade Grades
+Anygrade Grades3–4a Anygrade Grades
+3–4a
+3–4a
+Grade≥3TEAEsd Grade≥3 Grade≥3
+TEAEs Neutropenia 8(16.0) 5(62.5)
+AEs 49(98.0) 38(76.0) 8(100.0) 8 ALTincreased 8(16.0) 1(12.5)
+(100.0) Fatigue 8(16.0) 1(12.5)
+SeriousAEs 24(48.0) 13(26.0) 5(62.5) 5(62.5) Thrombocytopenia 5(10.0) 3(37.5)
+Treatment-relatedAEs Anaemia 5(10.0) 1(12.5)
+AEs 48(96.0) 26(52.0) 8(100.0) 8
+AE adverse event, ALT alanine aminotransferase, AST aspartate amino-
+(100.0)
+transferase, DLT dose-limiting toxicity, TEAE treatment-emergent
+SeriousAEs 14(28.0) 4(8.0) 4(50.0) 4(50.0) adverseevent.
+AEsleadingtostudy 9(18.0) 5(10.0) 1(12.5) 1(12.5) aNograde5AEswereobserved.
+drugdiscontinuation bPatienthadareportedseriousAEofprogressionofnon-small-celllung
+AEsleadingtodeath 1(2.0)b 0 cancerasthecauseofdeath.
+cInberzosertib+gemcitabinecohorts,thefollowingDLTswereobserved:
+DLTsc 4(8.0) 3(37.5) increasedgrade3ALTandgrade3fatigue(onepatient;berzosertib72mg/
+TEAEsoccurringin Anygrade Anygrade m2+gemcitabine 875mg/m2), increased grade 3 AST (one patient;
+≥15%ofpatientsin berzosertib90mg/m2+gemcitabine 500mg/m2),increased grade 3ALT,
+eithergroup grade 2 AST, and grade 2 blood alkaline. phosphatase (one patient;
+berzosertib140mg/m2+gemcitabine500mg/m2)andgrade4thrombo-
+Fatigue 32(64.0) 8(100.0)
+cytopenia(onepatient;berzosertib72mg/m2+gemcitabine875mg/m2).
+Nausea 31(62.0) 7(87.5) In berzosertib + gemcitabine + cisplatin cohorts, two patients in the
+Anaemia 26(52.0) 3(37.5) berzosertib120mg/m2cohorthadDLTs(grade4febrileneutropeniaand
+neutropenia); a third patient (berzosertib 90mg/m2) had a DLT of
+ALTincreased 25(50.0) 3(37.5)
+thrombocytopenia(grade4).Allthesepatientsalsoreceivedgemcitabine
+Vomiting 22(44.0) 3(37.5) 875mg/m2andcisplatin60mg/m2.
+ASTincreased 19(38.0) 3(37.5) dOccurringin≥10%ofpatientsintheberzosertib+gemcitabinecohorts
+orinmorethanonepatientintheberzosertib+ gemcitabine+cisplatin
+Pyrexia 18(36.0) 3(37.5)
+cohorts.
+Constipation 16(32.0) 3(37.5)
+Decreasedappetite 16(32.0) 2(25.0)
+Diarrhoea 15(30.0) 3(37.5) disease (berzosertib+gemcitabine, 58%; berzosertib+gemcita-
+Cough 15(30.0) 1(12.5) bine+cisplatin,63%).
+Neutropenia 14(28.0) 5(62.5) The median number of treatment cycles of berzosertib during
+Headache 13(26.0) 1(12.5)
+theberzosertib+gemcitabinecombinationperiodwas4.0(range:
+Influenza-likeillness 13(26.0) 0
+1–20),andwithineachcohort,themeanrelativedoseintensityof
+berzosertibwas89.6%.Themediandurationoftreatment(overall)
+Lowerrespiratory 13(26.0) 0 in the berzosertib+gemcitabine combination period was
+tractinfection
+83.0 days (range: 2–430). In patients receiving berzosertib+
+Lethargy 12(24.0) 3(37.5) gemcitabine+cisplatin, the median number of treatment cycles
+Thrombocytopenia 12(24.0) 3(37.5) was5.0(range:1–14)forbothberzosertib+gemcitabine,and3.5
+Bloodalkaline 11(22.0) 2(25.0) for cisplatin (range: 1–7), with a mean relative dose intensity of
+phosphatase berzosertibof80.92%.Themediandurationoftreatment(overall)
+increased for the berzosertib+gemcitabine+cisplatin combination period
+Dyspnoea 11(22.0) 1(12.5) was89.5days(range: 2–290).
+Backpain 10(20.0) 0
+Doseescalation anddose-limiting toxicities
+Abdominal 7(14.0) 2(25.0)
+In the berzosertib + gemcitabine cohorts, four (8.9%) patients
+painupper
+had a total of seven DLTs; these were distributed across the
+Dizziness 6(12.0) 3(37.5) different dosing cohorts as follows: berzosertib 72mg/m2+
+Urinarytractinfection 6(12.0) 3(37.5) gemcitabine 875mg/m2=three DLTs in two patients, berzo-
+Oedemaperipheral 6(12.0) 2(25.0) sertib 90mg/m2+gemcitabine 500mg/m2=one DLT in one
+Leukopenia 6(12.0) 2(25.0) patient and berzosertib 140mg/m2+gemcitabine 500mg/m2
+=three DLTs in one patient. No DLTs occurred in the lowest
+Stomatitis 6(12.0) 2(25.0)
+berzosertib dose groups (18–60mg/m2). Of the three DLTs
+Gamma-glutamyl 4(8.0) 2(25.0) occurring in the two patients in the berzosertib 72mg/m2+
+transferaseincreased
+gemcitabine 875mg/m2 cohort, one patient had two DLTs
+Myalgia 4(8.0) 2(25.0)
+(grade3-increasedALTandgrade3fatigue)andanotherpatient
+Abdominal 2(4.0) 2(25.0) hadaDLTofgrade4thrombocytopenia.Giventhesetoxicities,
+discomfort for the next dose-escalation cohort, berzosertib was increased
+to90mg/m2butgemcitabinewasdecreasedto500mg/m2.The
+
+--- Page 5 ---
+Berzosertib+gemcitabine±cisplatinincancer
+MRMiddletonetal.
+514
+a
+Screened and enrolled (n = 52)
+Did not receive study drug (n = 2)a
+Screened and enrolled and received ≥1 dose of study drug (n = 50)
+Discontinued (n = 3)
+Reason for discontinuation: Berzosertib 18 mg/m2 +
+Progressive disease n = 2 gemcitabine 875 mg/m2
+Patient refused further dosing (n = 3)
+(not due to AE) n = 1
+Discontinued (n = 3)
+Berzosertib 36 mg/m2 +
+Reason for discontinuation:
+gemcitabine 875 mg/m2
+Progressive disease n = 2
+(n = 3)
+Physician decision n = 1
+Discontinued (n = 4)
+Berzosertib 60 mg/m2 +
+Reason for discontinuation:
+gemcitabine 875 mg/m2
+AE n = 1
+(n = 4)
+Progressive disease n = 3
+Discontinued (n = 5)
+Berzosertib 72 mg/m2 + Reason for discontinuation:
+gemcitabine 875 mg/m2 Progressive disease n = 3
+(n = 7)b Physician decision n = 1
+Death n = 1c
+Discontinued (n = 6)
+Reason for discontinuation: Berzosertib 90 mg/m2 +
+AE n = 2 gemcitabine 500 mg/m2
+Progressive disease n = 3 (n = 6)
+Other n = 1
+Discontinued (n = 8)
+Berzosertib 140 mg/m2 + Reason for discontinuation:
+gemcitabine 500 mg/m2 AE n = 2
+Progressive disease n = 4
+(n = 8)
+Patient refused further dosing
+Discontinued (n = 3) (not due to AE) n = 2
+Reason for discontinuation: Berzosertib 210 mg/m2 +
+AE n = 1 gemcitabine 500 mg/m2
+Progressive disease n = 1 (n = 3)
+Other n = 1
+Berzosertib 210 mg/m2 + Discontinued (n = 3)
+gemcitabine 750 mg/m2 Reason for discontinuation:
+(n = 3) Progressive disease n = 3
+Discontinued (n = 7)
+Reason for discontinuation: Berzosertib 210 mg/m2 +
+AE n = 1 gemcitabine 875 mg/m2
+Progressive disease n = 4
+(n = 7)
+Physician decision n = 1 Discontinued (n = 6)
+Other n = 1 Reason for discontinuation:
+Berzosertib 210 mg/m2 + AE n = 1
+gemcitabine 1000 mg/m2 Progressive disease n = 3
+(n = 6) Patient refused further dosing
+(not due to AE) n = 1
+Physician decision n = 1
+b
+Screened and enrolled and received ≥1 dose of study drug (n = 8)
+Discontinued (n = 6)
+Berzosertib 90 mg/m2 +
+Reason for discontinuation:
+gemcitabine 875 mg/m2 +
+AE n = 1
+cisplatin 60 mg/m2
+Progressive disease n = 4
+(n = 6)
+Physician decision n = 1
+Discontinued (n = 2)
+Berzosertib 120 mg/m2 +
+Reason for discontinuation:
+gemcitabine 875 mg/m2 +
+Progressive disease n = 1
+cisplatin 60 mg/m2
+Physician decision n = 1
+(n = 2)
+one patient in this cohort with a DLT experienced grade 3- phosphataseincrease).Noneoftheliverfunctiontestelevations
+increased aspartate aminotransferase (AST). Further dose that were considered to be DLTs,were transient, and based on
+escalation to berzosertib 140mg/m2+gemcitabine 500mg/m2 review of the available safety data, the DLT definition was
+resulted in one patient experiencing three DLTs (grade 3 ALT modified to exclude transient grade 3 liver function test
+increase, grade 2 AST increase and grade 2 blood alkaline elevations (see Supplementary Information).
+
+--- Page 6 ---
+Fig.2 Patientdisposition(allpatientsset).aBerzosertib+gemcitabinecohorts.bBerzosertib+gemcitabine+cisplatincohorts.aTwo
+patients in the berzosertib+gemcitabine group (one patient each due to receive berzosertib 210mg/m2+gemcitabine 500mg/m2,
+berzosertib210mg/m2+gemcitabine750mg/m2)neverreceivedstudytreatmentduetorenalfailurebeforeoronday1.bTwopatients
+intheberzosertib72mg/m2+gemcitabine875mg/m2cohortcompletedtreatmentpertheprotocolversionatthetime,whichlimited
+treatmenttosixcycles.Alaterprotocolamendmenteliminatedtherestrictionondurationoftreatment,andthereafternopatientwas
+consideredtohavecompletedtreatment.cThispatienthadanAEleadingtoberzosertibdiscontinuation,however,theprimaryreasonfor
+discontinuation was recorded as death by the investigator. Note: intra-patient dose escalation did not occur. For berzosertib in
+combinationwithgemcitabine,berzosertib210mg/m2+gemcitabine1000mg/m2(boldoutline)wastherecommendedPhase2dose.AE
+adverseevent.
+a
+10,000
+1000
+100 Berzosertib 18 mg/m2 (n = 3)
+Berzosertib 36 mg/m2 (n = 3)
+Berzosertib 60 mg/m2 (n = 4)
+10 Berzosertib 72 mg/m2 (n = 7)
+Berzosertib 90 mg/m2 (n = 6)
+Berzosertib 140 mg/m2 (n = 5)
+Berzosertib 210 mg/m2 (n = 2)
+b
+90 mg/m2 (n = 6)
+120 mg/m2 (n = 2)
+210 mg/m2 (n = 16)
+Subsequently, the berzosertib dose was increased to (Q3W) was chosen as the RP2D as the combination was well
+210mg/m2, initially in combination with gemcitabine tolerated prior to the emergence of haematologic toxicity and
+500mg/m2, and then in three subsequent cohorts with the berzosertib dose of 210mg/m2 exceeded that of the
+gemcitabine 750, 875 and 1000mg/m2. No DLTs were reported predicted efficacious dose based on preclinical studies.
+for these dose combinations. Gemcitabine dose escalation was In the berzosertib+gemcitabine+cisplatin cohorts, three
+stopped at 1000mg/m2 due to emerging cumulative haemato- patientshadatotalofthreeDLTs.Onepatientintheberzosertib
+logic toxicity in later treatment cycles;21 in the berzosertib 90mg/m2+gemcitabine875mg/m2+cisplatin60mg/m2cohort
+210mg/m2+gemcitabine 1000mg/m2 cohort, five patients had a DLT of grade 4 thrombocytopenia; berzosertib was then
+presented with grade 1–2 anaemia, four with neutropenia escalatedto120mg/m2withthesamedosesofgemcitabineand
+(two each with grade 1–2 and grade 3) and three with cisplatin. Two patients in the berzosertib 120mg/m2 cohort had
+thrombocytopenia (one each with grade 1–2, grade 3 and DLTs, one grade 4 febrile neutropenia and one grade 4
+grade4).AlthoughtheMTDforberzosertibincombinationwith neutropenia; both patients discontinued treatment. Following
+gemcitabine was not reached, berzosertib 210mg/m2 (days 2 theobservationoftheseDLTs,doseescalationwashaltedandthe
+and9)+gemcitabine1000mg/m2(days1and8)every3weeks RP2Dwasnot establishedfor this combinationtherapy.
+noitartnecnoc
+amsalp
+bitresozreb
+naeM
+)DtS
+±(
+)Lm/gn(
+1
+0.1
+10,000
+1000
+100
+10
+noitartnecnoc
+amsalp
+bitresozreb
+naeM
+)DtS
+±(
+)Lm/gn(
+Berzosertib+gemcitabine±cisplatinincancer
+MRMiddletonetal.
+515
+0 10 20 30 40 50 60 70 80
+Time (h)
+1
+0.1
+0 10 20 30 40 50 60 70 80
+Time (h)
+Fig. 3 Berzosertib plasma concentration–time profiles (PK analysis set). a Single ascending doses of berzosertib for the lead-in period
+(berzosertibmonotherapy).bBerzosertib+gemcitabineandberzosertib+gemcitabine+cisplatincohorts.StDstandarddeviation.
+
+--- Page 7 ---
+80
+Safety thrombocytopeniainthreepatients (38%).Therewereno deaths
+Overall,58patientswereincludedinthesafetyset;asummaryof due to AEs in patients receiving berzosertib+gemcitabine+
+AEs for berzosertib+gemcitabine with or without cisplatin is cisplatin.Afulldescriptionofthenumberoftreatment-relatedAEs
+shown in Table 2; fatigue and nausea were the most commonly of grade ≥3 by dosing cohort can be found in Supplementary
+reported TEAEs. Twenty-four patients (48%) who received TableS1.
+berzosertib+gemcitabine experienced one or more serious AEs Finally, there were no clinically meaningful trends attributable
+(SAEs),themostcommonofwhichwaspyrexia,whichoccurredin toberzosertibtreatmentidentifiedfromlaboratoryresults(serum
+six patients (12%), with all other SAEs occurring in two or fewer chemistry, haematology or urinalysis), vital signs or ECG
+patients. In the berzosertib+ gemcitabine+cisplatin cohorts, parameters.
+nine patients (18%) experienced TEAEs resulting in discontinua-
+tion—the most common of which was fatigue (6%). Fourteen Pharmacokinetics
+patients (28%) experienced treatment-related SAEs, the most Mean PK profiles for the monotherapy lead-in and combination
+commonalso being pyrexia(12%). withgemcitabinewithorwithoutcisplatinareshowninFig.3.PK
+Inpatientsreceivingberzosertib+gemcitabine,grade≥3TEAEs parametersforberzosertibmonotherapylead-inweredetermined
+ofneutropenia,increasedALTandfatigueeachoccurredineight for 30 patients across the dose range of 18–210mg/m2 and are
+patients (16%), with anaemia and thrombocytopenia each shown in Supplementary Table S2. The plasma PK of berzosertib
+occurring in five patients (10%). The most common grade ≥3 was characterised by biphasic decline with a moderate-to-high
+TEAEs experienced by patients receiving berzosertib+gemcita- clearance,highdistributionvolumeandapparentterminalhalf-life
+bine+cisplatin were neutropenia in five patients (63%) and of approximately 17h. Exposure was approximately dose-
+egnahc
+egatnecrep
+mumixaM
+enilesab
+morf
+ezis
+ruomut
+ni
+70 PD
+60
+50
+PD
+40 PDPD
+PD 30
+PD
+20 PD
+10
+PDSDSDPDSDSDSDSDSDSDSDSDPD
+0 SDSDSDSD
+–10
+SDSDPDSDSDSDSDSDSDSD
+SDSD
+–20 SDSDSD
+–30 SD PRa
+PRb
+–40
+–50
+PRc
+–60
+–70
+Patients PRd
+–80
+Patients
+egnahc
+egatnecrep
+mumixaM
+enilesab
+morf
+ezis
+ruomut
+ni
+Berzosertib+gemcitabine±cisplatinincancer
+MRMiddletonetal.
+516
+a
+Berzosertib 18 mg/m2 + gem 875 mg/m2 Berzosertib 36 mg/m2 + gem 875 mg/m2 Berzosertib 60 mg/m2 + gem 875 mg/m2
+Berzosertib 72 mg/m2 + gem 875 mg/m2 Berzosertib 90 mg/m2 + gem 500 mg/m2 Berzosertib 140 mg/m2 + gem 500 mg/m2
+Berzosertib 210 mg/m2 + gem 500 mg/m2 Berzosertib 210 mg/m2 + gem 750 mg/m2 Berzosertib 210 mg/m2 + gem 875 mg/m2
+Berzosertib 210 mg/m2 + gem 1,000 mg/m2
+b
+50
+40
+30
+PD
+20
+PD
+10
+SD
+0
+SD
+–10
+–20 SD
+–30 SD
+–40 PRe
+–50
+Berzosertib 90 mg/m2 + gem 875 mg/m2 + cis 60 mg/m2 Berzosertib 120 mg/m2 + gem 875 mg/m2 + cis 60 mg/m2
+Fig.4 Tumour response.Maximumpercentage change intumoursize frombaseline andbestoverallresponse isshownforpatients(full
+analysis set) receiving a berzosertib+gemcitabine (n=44) and b berzosertib+gemcitabine+cisplatin (n=7). The dashed line at 20%
+representsPD,whereasthedashedlineat−30%representsPR.PatientswithPRhadthefollowingprimarytumourtypes:anon-small-celllung
+cancer;bcarcinoma(unknownprimaryorigin);cheadandneckcancer;dBRCA2mutation-positivebreastcancer;ecolorectalcancer.ciscisplatin,
+gemgemcitabine,PDprogressivedisease,PRpartialresponse,SDstabledisease.
+
+--- Page 8 ---
+Berzosertib+gemcitabine±cisplatinincancer
+MRMiddletonetal.
+517
+proportionalfrom18to210mg/m2.Basedon16patientsforthe asasingleagent.22However,theprevalenceand/orseverityofthe
+combination of berzosertib 210mg/m2 with gemcitabine and observedAEsnecessitatedlowerdosesofgemcitabineorcisplatin
+eight patients for the combination of berzosertib 90–120mg/m2 than those administered as part of standard chemotherapy
+withgemcitabineand cisplatin, berzosertib exposures(maximum combinationregimens.17,23
+observed concentration (C ) and area under the concentration The PK of berzosertib when administered ~24h after
+max
+vs. time curve (AUC 0-∞)) were consistent with those for gemcitabine, with or without cisplatin, was not significantly
+corresponding doses of berzosertib alone (Supplementary different than that of berzosertib alone. Accumulation with
+Table S2). For part A, the mean renal clearance of berzosertib weeklyadministrationofberzosertibwasnotobserved.Asthere
+was 3.6L/h and the mean percentage of berzosertib excreted in was no reason to expect a PK interaction, the exposure of
+theurine was5%. gemcitabine, with or without cisplatin, was not assessed in
+this study.
+Efficacy A total of five patients achieved PR across both cohorts,
+Of the 48 efficacy-evaluable patients who received berzosertib providing preliminary evidence of antitumour activity for the
++gemcitabine, 4 (8.3%) patients achieved a best response of combinationofberzosertib+gemcitabinewithorwithoutcispla-
+partialresponse(PR)and29(60.4%)patientshadstabledisease tin in patients with advanced solid tumours. Further, all five
+(SD) as their best response (Fig. 4a). Of the four patients in the patients with PR had previously received platinum-based che-
+berzosertib+gemcitabinecohortwhoachievedabestresponse motherapy, with three having received prior cisplatin or carbo-
+of PR, none had previously received gemcitabine, two had platin.Theresponseobservedinaheavilypre-treatedpatientwith
+previously received cisplatin and the duration of response advanced BRCA2-positive breast cancer who previously pro-
+ranged between 71 and 211 days. One of the above patients, gressed on platinum chemotherapy and olaparib suggests that
+presenting with oestrogen and progesterone receptor-positive, berzosertibmayhavearoleinovercomingplatinumand/orPARP
+HER2-negative, germline BRCA2 mutation-positive metastatic inhibitor resistance, as has been demonstrated in preclinical
+breast cancer, achieved a confirmed PR after four cycles of experiments.24Theexpansioncohorts(partC)ofthisstudyfurther
+berzosertib 210mg/m2+gemcitabine 750mg/m2. She had evaluated berzosertib in combination with gemcitabine or
+previously experienced disease progression after carboplatin cisplatin/carboplatin in tumour types in which TP53 mutations
+and PARP inhibitor (olaparib) treatment for metastatic disease. and/or ATM deficiency are common, or which are likely to be
+She completed 14 cycles of berzosertib+gemcitabine and underreplicativestress—includingNSCLC,25triple-negativebreast
+discontinued study treatment due to progressive disease.21 cancer26 and small-cell lung cancer27—and may be particularly
+Another patient, presenting with non-squamous, non-small-cell susceptible toATR inhibition.
+lungcancer(NSCLC,adenocarcinoma),achievedabestresponse Recently, berzosertib has been shown to be both well
+of PR after 12 cycles of berzosertib 140mg/m2+gemcitabine tolerated and efficacious in combination with gemcitabine in a
+500mg/m2; PR was sustained through follow-up week eight. Phase 2 randomised study (berzosertib+gemcitabine vs. gemci-
+With prior regimens, which included cisplatin, pemetrexed, tabine alone) in platinum-resistant high-grade serous ovarian
+erlotinibanddocetaxel,hehadonlyattainedthebestresponse cancer(n=70).28Ithasalsoshownpreliminaryclinicalantitumour
+of the stable disease. activity in combination with other chemotherapy agents, includ-
+In the seven efficacy-evaluable patients who received berzo- ingwithtopotecaninheavilypre-treatedpatientswithadvanced
+sertib+gemcitabine+cisplatin, one (14%) patient achieved a solid tumours, including durable responses in relapsed platinum-
+bestresponseofPRandfour(57%)patientshadSDastheirbest resistantsmall-celllungcancer.23Aproof-of-conceptPhase2study
+response (Fig. 4b). The patient with a best response of PR had with berzosertib in combination with topotecan in patients with
+colorectalcancerandhadnotbeenpreviouslytreatedwitheither SCLC reported an objective response rate of 36% (9/25), with a
+gemcitabineorcisplatin.Thedurationofresponseforthispatient duration of response ≥6 months.29 In a separate Phase 1 dose-
+was 94 days, following receipt of berzosertib 90mg/m2+ escalationstudy,berzosertibhasalsobeenevaluatedincombina-
+gemcitabine875mg/m2+cisplatin 60mg/m2. tionwithcarboplatin,whereithasshownsomepreliminarysigns
+of activity in platinum and PARP inhibitor pre-treated patients.17
+The combination of carboplatin and berzosertib is now being
+DISCUSSION compared to carboplatin–docetaxel in men with pre-treated
+This was a first-in-human study exploring the safety, tolerability metastatic castrate-resistant prostate cancer(NCT03517969).
+and PK of the first-in-class ATR inhibitor berzosertib in combina- Future work should continue to evaluate potential biomarkers
+tion with gemcitabine with or without cisplatin in patients with that may be predictive of response, in order to elucidate
+advanced solid tumours who were resistant to standard therapy. mechanismsofactionandidentifypatientsmostlikelytobenefit
+The MTD of berzosertib with gemcitabine was not reached from ATR inhibition in combination with chemotherapy.
+because target engagement was predicted at the highest Other studies of berzosertib are currently investigating patient
+berzosertib dose evaluated (210mg/m2) and gemcitabine dose populations with advanced solid tumours selected by various
+escalation was stopped due to emerging cumulative haematolo- geneticabnormalities,includingATMtruncatingmutations,germ-
+gic toxicity. Based on the tolerability of the combination, line BRCA mutation and other alterations likely to disrupt
+berzosertib 210mg/m2 (days 2 and 9)+ gemcitabine 1000mg/ homologous recombination repair or cause replicative stress
+m2 (days 1 and 8) Q3W was established as the RP2D and was (NCT03718091).
+carriedforwardtobeevaluatedinpatientswithadvancedNSCLC In conclusion, this study has demonstrated that berzosertib is
+in an expansion arm of this study (part C1). A RP2D was not well tolerated in combination with gemcitabine in patients with
+determinedforberzosertibincombinationwithgemcitabineand advanced solid tumours. Berzosertib has also demonstrated
+cisplatin as berzosertib dose escalation was not continued after preliminary clinical activity, building the foundation for subse-
+two patients experienced DLTs of febrile neutropenia or quent Phase 2 studies, where these early signs of clinical activity
+neutropenia in the berzosertib 120mg/m2+gemcitabine 875 have been confirmed.28,29 Further late-stage clinical
+mg/m2+cisplatin 60mg/m2 cohort. evaluation of berzosertib is warranted and the identification of
+Based on the safety profile reported, berzosertib was consid- predictive biomarkers of response is the critical next step in
+eredwelltoleratedonlyincombinationwithgemcitabinewithout order for berzosertib to potentially become an additional
+cisplatin, however, all side effects reported were consistent with therapeutic option in the treatment armamentarium for cancer
+those reported for gemcitabine and cisplatin when administered patients.
+
+--- Page 9 ---
+Berzosertib+gemcitabine±cisplatinincancer
+MRMiddletonetal.
+518
+ACKNOWLEDGEMENTS boards on behalf of Vertex and Merck KGaA relating to this compound,
+Theauthorswouldliketothankpatients,investigators,co-investigatorsandthestudy reimbursement for her institution for clinical trial costs, consultancy services to
+teamsateachoftheparticipatingcentresandatMerckKGaA,Darmstadt,Germany. Pierre Faber, Bayer, Octimet, Clovis Oncology, Novartis, Karus Therapeutics,
+TheUKsitesallreceivedfundingfromCancerResearchUKandtheNationalInstitute Biosceptre, BMS, Cybrexa, Ellipses, CV6 Therapeutics, Astex Therapeutics and
+forHealthResearch,asExperimental CancerMedicine Centres.Theauthors thank SanofiAventisandresearchfundingfromAstraZeneca.
+VertexPharmaceuticalsfortheirinvolvementinthedevelopmentofberzosertib.
+FundinginformationFinancialsupportforthisstudywasinitiallyprovidedbyVertex
+PharmaceuticalsInc.,Boston,MA,USA,andsubsequentlybyMerckKGaA,Darmstadt,
+AUTHORCONTRIBUTIONS Germany. Medical writing assistance was provided by Alexander T. Hardy from
+M.R.M.,E.D.,T.R.J.E.,G.I.S.,B.S.H.,M.F.andR.P.:acquisitionofthedata.M.R.M.,E.D.,T.R. Bioscript Stirling Ltd, Macclesfield, UK and funded by Merck KGaA, Darmstadt,
+J.E.,G.I.S.,J.P.,B.S.H.,M.F.,I.D.-P.andR.P.:analysisandinterpretationofthedata.G.I.S. Germany.
+andR.P.:studysupervision.J.P.andR.P.:conceptionanddesign.M.R.M.,E.D.,T.R.J.E.
+and R.P.: development of methodology. M.F.: administrative, technical or material Supplementary information The online version contains supplementary material
+support.M.R.M.,E.D.,T.R.J.E.,G.I.S.,J.P.,B.S.H.,M.F.,I.D.-P.andR.P.:writing,reviewand/ availableathttps://doi.org/10.1038/s41416-021-01405-x.
+orrevisionofthepaper.M.R.M.,E.D.,T.R.J.E.,G.I.S.,J.P.,B.S.H.,M.F.,I.D.-P.andR.P:read
+andapprovedthefinalpaper. Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+inpublishedmapsandinstitutionalaffiliations.
+ADDITIONAL INFORMATION
+Ethics approval and consent to participate The study was conducted in
+accordancewiththeethicalprinciplesoftheInternationalCouncilforHarmonization
+REFERENCES
+guidelineforGoodClinicalPractice,theDeclarationofHelsinkiandapplicablelocal
+regulations. All patients provided written informed consent before any study 1. Rabik, C. A. & Dolan, M. E. Molecular mechanisms of resistance and toxicity
+procedures were performed. The study sites received ethical approval from the associatedwithplatinatingagents.CancerTreat.Rev.33,9–23(2007).
+following institutional review boards/independent ethical committees: NRES 2. Chin,V.,Nagrial,A.,Sjoquist,K.,O’Connor,C.A.,Chantrill,L.,Biankin,A.V.etal.
+Committee North East—Sunderland, and Institutional Review Board/Dana-Farber Chemotherapy and radiotherapy for advanced pancreatic cancer. Cochrane
+CancerInstitute. DatabaseSyst.Rev.3,CD011044(2018).
+3. Cortez,A.J.,Tudrej,P.,Kujawa,K.A.&Lisowska,K.M.Advancesinovariancancer
+therapy.CancerChemother.Pharm.81,17–38(2018).
+ConsenttopublishNotapplicable.
+4. Hellmann, M. D., Li, B. T., Chaft, J. E. & Kris, M. G. Chemotherapy remains an
+essentialelementofpersonalizedcareforpersonswithlungcancers.Ann.Oncol.
+Data availability Any requests for data by qualified scientific and medical 27,1829–1835(2016).
+researchers for legitimate research purposes will be subject to the Merck KGaA, 5. Jhan,J.R.&Andrechek,E.R.Triple-negativebreastcancerandthepotentialfor
+Darmstadt,GermanyDataSharingPolicy.Allrequestsshouldbesubmittedinwriting targetedtherapy.Pharmacogenomics18,1595–1609(2017).
+to the Merck KGaA, Darmstadt, Germany data-sharing portal (https://www.
+6. Lee,S.H.ChemotherapyforLungCancerintheEraofPersonalizedMedicine.
+merckgroup.com/en/research/our-approach-to-research-and-development/ Tuberc.Respir.Dis.82,179–189(2019).
+healthcare/clinicaltrials/commitment-responsible-data-sharing.html). When Merck
+7. Minchom,A.,Aversa, C.&Lopez,J. DancingwiththeDNA damageresponse:
+KGaA,Darmstadt,Germanyhasaco-research,co-developmentorco-marketingor next-generation anti-cancer therapeutic strategies. Ther. Adv. Med Oncol. 10,
+co-promotion agreement, or when the product has been outlicensed, the 1758835918786658(2018).
+responsibilityfordisclosuremightbedependentontheagreementbetweenparties.
+8. Housman,G.,Byler,S.,Heerboth,S.,Lapinska,K.,Longacre,M.,Snyder,N.etal.
+Underthesecircumstances,MerckKGaA,Darmstadt,Germany,willendeavourtogain Drugresistanceincancer:anoverview.Cancers6,1769–1792(2014).
+agreementtosharedatainresponsetorequests.
+9. Luqmani, Y. A. Mechanisms of drug resistance in cancer chemotherapy. Med
+Princ.Pr.14,35–48(2005).
+Competing interests M.R.M. reports personal fees from Amgen, grants and 10. Kwok,M.,Davies,N.,Agathanggelou,A.,Smith,E.,Oldreive,C.,Petermann,E.etal.
+personalfeesfromRoche,grantsfromAstraZeneca,grantsandpersonalfeesfrom ATRinhibitioninducessyntheticlethalityandovercomeschemoresistanceinTP53-
+GSK,personalfeesandotherfromNovartis,otherfromMillenium,personalfees, orATM-defectivechroniclymphocyticleukemiacells.Blood127,582–595(2016).
+non-financialsupportandotherfromImmunocore,personalfeesandotherfrom 11. Reaper,P.M.,Griffiths,M.R.,Long,J.M.,Charrier,J.D.,Maccormick,S.,Charlton,P.
+BMS, personal fees and other from Eisai, other from Pfizer, personal fees, non- A.etal.SelectivekillingofATM-orp53-deficientcancercellsthroughinhibition
+financial support and other from Merck/MSD, personal fees and other from ofATR.Nat.Chem.Biol.7,428–430(2011).
+Rigontec(acquiredbyMSD),otherfromRegeneron,personalfeesfromBiolineRx, 12. Toledo,L.I.,Murga,M.,Zur,R.,Soria,R.,Rodriguez,A.,Martinez,S.etal.Acell-
+personalfeesandotherfromArrayBiopharma(nowPfizer),non-financialsupport basedscreenidentifiesATRinhibitorswithsyntheticlethalpropertiesforcancer-
+and other from Replimune, personal fees from Kineta and personal fees from associatedmutations.Nat.Struct.Mol.Biol.18,721–727(2011).
+Silicon Therapeutics, outside the submittedwork.E.D.was an employee of The 13. Weber,A.M.&Ryan,A.J.ATMandATRastherapeutictargetsincancer.Pharm.
+UniversityofManchesterandTheChristieNHSFoundationTrust,Manchester,at Thera149,124–138(2015).
+thetimeofstudy;Currentaddress:OncologyR&D,AstraZeneca,Cambridgeand 14. Fokas,E.,Prevo,R.,Pollard,J.R.,Reaper,P.M.,Charlton,P.A.,Cornelissen,B.etal.
+AlderleyPark,UK.T.R.J.E.hasreceivedhonorariaforspeakingengagementsand TargetingATRinvivousingthenovelinhibitorVE-822resultsinselectivesen-
+attendingadvisoryboardspaidtohisinstitution,andsupportfromMerckSharp& sitizationofpancreatictumorstoradiation.CellDeathDis.3,e441(2012).
+Dohmetoattendinternationalmedicalconferences.G.I.S.hasreceivedresearch 15. Hall, A. B., Newsome, D., Wang, Y., Boucher, D. M., Eustace, B., Gu, Y. et al.
+funding from Eli Lilly, Merck KGaA/EMD Serono, Merck & Co., Inc. and Sierra PotentiationoftumorresponsestoDNAdamagingtherapybytheselectiveATR
+Oncology,andhonorariaforservingonadvisoryboardsonbehalfofPfizer,EliLilly, inhibitorVX-970.Oncotarget5,5674–5685(2014).
+G1 Therapeutics, Roche, Merck KGaA/EMD Serono, Sierra Oncology, Bicycle 16. Tu,X.,Kahila,M.M.,Zhou,Q.,Yu,J.,Kalari,K.R.,Wang,L.etal.ATRinhibitionisa
+Therapeutics,FusionPharmaceuticals,CybrexaTherapeutics,Astex,Almac,Ipsen, promisingradiosensitizingstrategyfortriple-negativebreastcancer.Mol.Cancer
+Bayer, Angiex, Daiichi Sankyo, Boehringer Ingelheim, ImmunoMet, Artios and Ther.17,2462–2472(2018).
+Asana.J.P.wasanemployeeofVertexPharmaceuticalsEuropeLtd,Abingdon,UK, 17. Yap,T.A.,O’Carrigan,B.,Penney,M.S.,Lim,J.S.,Brown,J.S.,deMiguelLuken,M.
+atthetimeofmanuscriptpreparation.HeholdsstockinVertexPharmaceuticals J.etal.PhaseItrialoffirst-in-classATRinhibitorM6620(VX-970)asmonotherapy
+Inc.Currentaddress:Bayerplc,Reading,UK.B.H.wasanemployeeofEMDSerono orincombinationwithcarboplatininpatientswithadvancedsolidtumors.J.Clin.
+Research & Development Institute, Inc., Billerica, MA, USA, an affiliate of Merck Oncol.38,3195–3204(2020).
+KGaA,Darmstadt,Germanyatthetimeofmanuscriptpreparation;Currentaddress: 18. Scagliotti,G.V.,Parikh,P.Pawel,Jv.,Biesma,B.,Vansteenkiste,J.,Manegold,C.
+Novartis Institutes for BioMedical Research, Cambridge, MA, USA. M.F. was an et al.Phase IIIstudy comparing cisplatin plusgemcitabine with cisplatin plus
+employee of Merck KGaA, Darmstadt, Germany, at the time of manuscript pemetrexedinchemotherapy-naivepatientswithadvanced-stagenon–small-cell
+preparation. Current address: CureVac, Tübingen, Germany. I.D.-P. was an lungcancer.J.Clin.Oncol.26,3543–3551(2008)..
+employee of Ares Trading SA, Eysins, Switzerland, an affiliate of Merck KGaA, 19. EMC.Gemcitabine10mg/ml,solutionforinfusion.Summaryofproductchar-
+Darmstadt, Germany, at the time of manuscript preparation. Current address: acteristics. https://www.medicines.org.uk/emc/product/7298/smpc#POSOLOGY
+GlaxoSmithKline,Zug,Switzerland.R.P.reportshonorariaforservingonadvisory (2019).
+
+--- Page 10 ---
+Berzosertib+gemcitabine±cisplatinincancer
+MRMiddletonetal.
+519
+20. Eisenhauer,E.A.,Therasse,P.,Bogaerts,J.,Schwartz,L.H.,Sargent,D.,Ford,R. 28. Konstantinopoulos,P.A.,Cheng,S.C.,WahnerHendrickson,A.E.,Penson,R.T.,
+etal.Newresponseevaluationcriteriainsolidtumours:revisedRECISTguideline Schumer, S. T., Doyle, L. A. et al. Berzosertib plus gemcitabine versus
+(version1.1).Eur.J.Cancer45,228–247(2009). gemcitabine alone in platinum-resistant high-grade serous ovarian cancer: a
+21. Plummer,E.R.,Dean,E.J.,Evans,T.R.J.,Greystoke,A.,Herbschleb,K.,Ranson,M. multicentre, open-label, randomised, Phase 2 trial. Lancet Oncol. 21, 957–968
+et al. Phase I trial of first-in-class ATR inhibitor VX-970 in combination with (2020).
+gemcitabine(Gem)inadvancedsolidtumors(NCT02157792).J.Clin.Oncol.34, 29. Thomas,A.,Takahashi,N.,Rajapakse,V.N.,Zhang,X.,Sun,Y.,Ceribelli,M.etal.
+Abstract2513(2016). TherapeutictargetingofATRyieldsdurableregressionsinsmallcelllungcancers
+22. Griesinger,F.,Korol,E.E.,Kayaniyil,S.,Varol,N.,Ebner,T.&Goring,S.M.Efficacy withhighreplicationstress.CancerCell39,566–579.e7(2021).
+andsafetyoffirst-linecarboplatin-versuscisplatin-basedchemotherapyfornon-
+smallcelllungcancer:ameta-analysis.LungCancer135,196–204(2019).
+23. Thomas,A.,Redon,C.E.,Sciuto,L.,Padiernos,E.,Ji,J.,Lee,M.J.etal.PhaseIstudy Open Access This article is licensed under a Creative Commons
+ofATRinhibitorM6620incombinationwithtopotecaninpatientswithadvanced Attribution 4.0 International License, which permits use, sharing,
+solidtumors.J.Clin.Oncol.36,1594–1602(2018). adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+24. Yazinski,S.A.,Comaills,V.,Buisson,R.,Genois,M.M.,Nguyen,H.D.,Ho,C.K.etal. appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+ATRinhibitiondisruptsrewiredhomologousrecombinationandforkprotection Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+pathwaysinPARPinhibitor-resistantBRCA-deficientcancercells.GenesDev.31, materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+318–332(2017). indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+25. TheCancerGenomeAtlasResearchNetwork.Comprehensivemolecularprofiling article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+oflungadenocarcinoma.Nature511,543–550(2014). regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+26. Turner, N., Moretti, E., Siclari, O., Migliaccio, I., Santarpia, L., D’Incalci, M. et al. fromthecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.
+Targetingtriplenegativebreastcancer:isp53theanswer?CancerTreat.Rev.39, org/licenses/by/4.0/.
+541–550(2013).
+27. George,J.,Lim,J.S.,Jang,S.J.,Cun,Y.,Ozretic,L.,Kong,G.etal.Comprehensive
+genomicprofilesofsmallcelllungcancer.Nature524,47–53(2015). ©TheAuthor(s)2021

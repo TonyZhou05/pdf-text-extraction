@@ -1,0 +1,435 @@
+Source: 30941307.pdf
+Extracted on: Fri Sep 12 23:58:14 PDT 2025
+==================================================
+
+--- Page 1 ---
+CLINICALTRIAL
+published:19March2019
+doi:10.3389/fonc.2019.00155
+Phase 1 Study Evaluating the
+Association of the Cyclin-Dependent
+Kinase 4/6 Inhibitor Ribociclib and
+Cetuximab in Recurrent/Metastatic
+p16-Negative Squamous Cell
+Carcinoma of the Head and Neck
+EmmanuelSeront1,2,SandraSchmitz2,MatthiasPapier2,AlinevanMaanen3,
+StéphanieHenry4,ChristopheLonchay5,SylvieRottey6,GabriellevanCaloen7and
+Jean-PascalMachiels2*
+1DepartmentofMedicalOncology,CentreHospitalierdeJolimont,LaLouvière,Belgium,2DepartmentsofMedicalOncology
+andHeadandNeckSurgery,InstitutRoiAlbertII,InstitutdeRechercheCliniqueetExpérimentale(PoleMIRO),Cliniques
+UniversitairesSaint-Luc,CatholicUniversityofLouvain,Woluwe-Saint-Lambert,Belgium,3StatisticalSupportUnit,Institut
+RoiAlbertII,CliniquesUniversitairesSaint-Luc,Woluwe-Saint-Lambert,Belgium,4DepartmentofMedicalOncology,Centre
+deMaternitéSainteElisabeth,Namur,Belgium,5DepartmentofMedicalOncology,GrandHôpitaldeCharleroi,Charleroi,
+Editedby:
+Belgium,6DepartmentofMedicalOncology,UniversityHospitalGhent,Ghent,Belgium,7LaboratoryofMedicalOncology,
+RemcoDeBree,
+InstitutRoiAlbertII,InstitutdeRechercheCliniqueetExpérimentale(PoleMIRO),CatholicUniversityofLouvain,Namur,
+UniversityMedicalCenterUtrecht,
+Belgium
+Netherlands
+Reviewedby:
+Background: The majority of human papillomavirus (HPV)-negative squamous cell
+ThorstenFuereder,
+MedicalUniversityofVienna,Austria carcinoma of the head and neck (SCCHN) present upregulation of the epidermal
+NaomiKiyota,
+growthfactorreceptor(EGFR)andfrequentalterationsinthecyclinD1-cyclindependent
+KobeUniversityHospital,Japan
+kinase (CDK) 4/6 (CDK 4/6)-retinoblastoma protein (pRb) pathway, resulting in cell
+*Correspondence:
+Jean-PascalMachiels cycle progression and tumor proliferation. This study investigated the combination of
+jean-pascal.machiels@uclouvain.be ribociclib,anorallyhighlyselectiveinhibitorofCDK4/6,andcetuximabinrecurrentand/or
+metastatic(R/M)SCCHN.
+Specialtysection:
+Thisarticlewassubmittedto Methods: A phase I trial using a 3 + 3 design was performed to determine the dose
+HeadandNeckCancer,
+limiting toxicity (DLT) and maximum tolerated dose (MTD) of ribociclib with standard
+asectionofthejournal
+FrontiersinOncology dose of weekly cetuximab in HPV-negative patients with R/M SCCHN. Ribociclib was
+Received:05December2018 administeredorally(3weekson/1weekoff)atdoselevel1of400mgdailyanddoselevel
+Accepted:22February2019 2of600mgdaily.TheMTDofribocilibwasthenfurtherevaluatedinanexpansioncohort.
+Published:19March2019
+Results: 10 patients were enrolled in the escalation trial. No DLTs were observed at
+Citation:
+SerontE,SchmitzS,PapierM, dose level 1 (n = 3); at dose level 2, one patient was replaced due to rapid disease
+vanMaanenA,HenryS,LonchayC,
+progression, and one patient out of six evaluable patients experienced a DLT (grade
+RotteyS,vanCaloenGand
+MachielsJ-P(2019)Phase1Study 4 thrombocytopenia >7 days). Ribociclib 600mg daily was thus determined to be the
+EvaluatingtheAssociationofthe MTD. Eleven additional patients were enrolled in the expansion cohort. Diarrhea (52%),
+Cyclin-DependentKinase4/6Inhibitor
+rash (52%), fatigue (43%), nausea (33%), and mucositis (28%) were the most frequent
+RibociclibandCetuximabin
+Recurrent/Metastaticp16-Negative grade1–2adverseevents(AE).Neutropeniawasthemostfrequentgrade3–4AE(20%).
+SquamousCellCarcinomaofthe
+Median progression-free survival (PFS) was 3.5 months (range 0.4–17.3 months) and
+HeadandNeck.Front.Oncol.9:155.
+doi:10.3389/fonc.2019.00155 median overall survival (OS) was 8.3 months (range 0.4–24.1 months). Among the 19
+FrontiersinOncology|www.frontiersin.org 1 March2019|Volume9|Article155
+
+--- Page 2 ---
+Serontetal. Ribociclib-CetuximabAssociationinAdvancedSSCHN
+radiologicallyevaluablepatients,two(10.5%)achievedapartialresponseand11(58%)
+hadstabledisease.
+Conclusions: TheMTDofribociclibis600mgdailywhenadministeredincombination
+with standard dose cetuximab for 3 weeks on and 1 week off. This combination was
+safe and showed efficacy. Further clinical trials should be conducted to evaluate the
+antitumoreffectsofthiscombination.
+TrialInformation:ClinicalTrials.gov:NCT02429089;Eudractnumber2014-005371-83.
+Keywords:ribociclib,cetuximab,HPV,recurrent,squamouscellcarcinoma,headandneck
+INTRODUCTION Moreover,upto57%ofHPV-negativeSCCHNhaveinactivation
+ofCDKN2Acomparedto0%inHPV-positivetumors(11).
+Squamous cell carcinoma of the head and neck (SCCHN) is a Overexpression of cyclin D1 and amplification of CCND1
+major cause of cancer-associated illness and death worldwide, in SCCHN are associated with poor prognosis and resistance
+with approximately 750,000 new cases diagnosed annually (1). to cisplatin and EGFR inhibition (12, 13). Previously, EGFR
+Most patients present with loco-regionally advanced disease activityhadbeenobservedtoregulatecell-cycleprogressionvia
+and are treated with multimodal treatment including surgery, ERK1/2-dependent induction of CCND1 (14). Furthermore, a
+chemotherapy, and/or radiotherapy. However, 50% of patients recent study in HPV-negative patients showed a strong inverse
+experiencediseaserelapsewithamediansurvivalnotexceeding correlation between expression of EGFR and pRb inactivation
+12–14months(2). as well as between EGFR mRNA upregulation and CDK6
+The epidermal growth factor receptor (EGFR) is upregulation and amplification (15). Afatinib, or lapatinib
+overexpressed in 90% percent of SCCHN and is associated combinedwithaCDK4/6inhibitor,issynergisticintermsofcell
+with worse prognosis and resistance to radiotherapy (3, 4). viabilityreductioninHPV-negativecelllines(15).
+Cetuximab, a monoclonal antibody targeting the EGFR, has Ribociclib is a selective CDK4/6 inhibitor which has
+beenshowntoimproveoutcomewhencombinedwithradiation demonstrated antitumor activity in preclinical and clinical
+and chemotherapy (5, 6). In recurrent or metastatic (R/M) studies in a wide variety of tumor types, including breast
+SCCHN,theadditionofcetuximabtofirst-lineplatinum-based cancer (16). We performed a phase I trial to determine the
+chemotherapy increases progression-free survival (PFS) from maximum tolerated dose (MTD) of ribociclib combined with
+3.3 to 5.6 months and overall survival (OS) from 7.4 to 10.1 standardweeklydosesofcetuximabinpatientswithR/MHPV-
+months (6); however, resistance inexorably occurs. The efficacy negativeSCCHN.
+of cetuximab as monotherapy after failure of platinum-based
+chemotherapy is modest at best as the overall response rate
+MATERIALS AND METHODS
+(ORR) is only 13% and survival does not exceed 6 months
+(7). This low response rate, together with treatment resistance Inclusion and Exclusion Criteria
+and the absence of correlation between EGFR expression and
+Eligible patients had to have R/M HPV-negative SCCHN
+cetuximab efficacy, suggest that additional factors, such as cell-
+not amenable to curative treatment with surgery and/or
+cycle regulation proteins, should be considered when targeting
+chemotherapyand/orradiation;progressivedisease(PD)within
+theEGFRpathway(8).
+1yearoffirst-lineplatinum-basedchemotherapygiveneitheras
+CyclinD1isencodedbyCCND1andisacell-cycleproteinthat
+partofmultimodalcurativetreatmentorinthepalliativesetting;
+regulatestheG1-to-Sphasetransitionthroughtheformationof
+Eastern Cooperative Oncology Group performance status
+complexeswithcyclindependentkinases(CDKs),suchasCDK4
+(ECOG PS) 0–1; at least one measurable lesion according to
+and6.Uponmitogenicsignals,thiscomplexcyclinD1-CDK4/6
+theResponseEvaluationCriteriainSolidTumors1.1(RECIST);
+inactivates by phosphorylation of the retinoblastoma protein
+and the ability to swallow ribociclib tablets. Previous treatment
+(pRb),anegativeregulatorofcellcycleprogression.Inactivation
+withcetuximabwasallowedeitherinthemetastaticorcurative
+ofpRbreleasesthetranscriptionfactorE2F,inducingexpression
+setting (with radiation). Patients needed to have adequate
+oftheS-phasegeneandstimulatingcellproliferation.Thecyclin organfunction,absoluteneutrophilcount(ANC)>1,500/mm3,
+D1-CDK4/6complexisinhibitedbyp16INK4A,whichisencoded
+hemoglobin ≥9 g/dl, platelet count >100,000/mm3, serum
+by the gene CDKN2A (9, 10). SCCHN, and particularly HPV- creatinine≤1.5theupperlimitofnormal(ULN),totalbilirubin
+negativetumors,arecharacterizedbyfrequentalterationsinthe ≤1 ULN, and alanine aminotransferase (ALAT) and aspartate
+cyclinD1-CDK4/6-pRbpathway.IntheTumorCancerGenome aminotransferase (ASAT) <1.5 ULN. HPV-negative tumor was
+Analysis (TCGA), CCND1 amplification was observed in 28% defined by the absence of p16INK4A staining. The study was
+of SCCHN, with its frequency reaching 32% in HPV-negative
+approvedbyanindependentethicscommittee,theBelgianhealth
+tumors compared to only 6% in those that were HPV-positive.
+authorities,andconductedinaccordancewiththeDeclarationof
+FrontiersinOncology|www.frontiersin.org 2 March2019|Volume9|Article155
+
+--- Page 3 ---
+Serontetal. Ribociclib-CetuximabAssociationinAdvancedSSCHN
+Helsinki(October2000).Writteninformedconsentwasobtained After identification of the MTD, 14 patients were initially
+foreachpatient. plannedtobeenrolledinanexpansioncohorttofurtherconfirm
+thesafetyofthiscombination.
+Treatment emergent adverse events (TEAE) were defined as
+Study Objectives
+eventsthatoccurredafterstudytreatmentinitiation,orthosethat
+The primary objective was to determine the MTD of ribociclib
+worsenedrelativetothepre-treatmentstate.
+in combination with the recommended dose of cetuximab.
+The secondary objective was to evaluate the toxicity profile Tumor Response Assessment
+of ribociclib in combination with cetuximab in patients with
+The efficacy of the ribociclib-cetuximab combination was
+R/M SCCHN. With exploratory intent, we also assessed
+evaluated with exploratory intent. Tumor response assessment
+treatment efficacy by reporting ORR [according to RECISTv1.1
+wasperformedeverytwocycles(8weeks),accordingtoRECIST
+(17)], PFS and OS. Tissue samples were collected for further
+v1.1criteria.ORRwasdefinedastheproportionofpatientswith
+translationalanalysis.
+a complete response (CR) or a partial response (PR). PFS was
+definedasthetimeintervalbetweenthedateofenrolmentand
+Study Design the date of disease progression or the date of death due to any
+Cetuximab 400 mg/m2 was given intravenously on cycle 1 cause. OS was defined as the time interval between the date of
+day 1, followed by 250 mg/m2 weekly, as per standard enrolmentuntildeathduetoanycause,oruntilthedateoflast
+recommendations(18).Ribociclibwasadministeredorallywith follow-up.Patientswithunknownormissingresponsedatawere
+foodondays1–21ofeach28-daycycle. treatedasnon-responders.
+This phase I study used a classical 3 + 3 dose escalation
+Statistical Methods
+design.Thefirstdoselevelofribociclibwasdefinedas400mg/day
+and the second dose level as 600 mg/day; three patients were The number of patients for dose escalation was determined by
+enrolled per dose level and intra-patient dose escalation was the MTD and DLTs to a maximum of 12 patients. Expecting
+not permitted. If zero out of three patients experienced a dose
+anORR>20%withthecombination,14patientswereplanned
+limitingtoxicity(DLT),thedosewasescalatedtothenextdose to be included in the expansion phase with a 95.6% chance of
+level. When one out of three patients experienced a DLT, three achieving at least one success. PFS and OS were also estimated
+additional patients had to be included. In the event that two according to the Kaplan-Meier algorithm. Patients without any
+out of three or six patients experienced a DLT, dose escalation event (progression or death) were censored at the date of last-
+hadtobestopped.TheMTDwasdefinedasthedosebelowthe follow-up.
+doselevelatwhichtwopatientsoutofthreeorsixexperienced
+DLTs.GiventhattheMTDofribociclibmonotherapyis600mg, RESULTS
+it was not planned to escalate ribociclib above this dose (19).
+Patient Characteristics
+In the event that the combination of ribociclib 600mg and
+cetuximab (standard dosage) was found to be safe, it was pre- Twenty-one patients (14 men and 7 women) from five Belgian
+planned that the MTD of ribociclib in combination would be centerswereincludedbetweenApril2015andMay2017inthis
+defined as 600 mg/day. DLTs and adverse events (AEs) were trial. Ten patients were included in the escalation cohort and,
+determined according to the NCI-CTC version 4.0. DLTs were duetoslowrecruitmentandprematureclosureofthestudy,only
+evaluated during cycle 1 (4 weeks) and were defined as: (a) 11 were enrolled in the expansion cohort. The median age was
+grade 4 neutropenia lasting more than seven consecutive days, 61.1 years (range 33–80 years). Fourteen patients (67%) were
+(b) grade 4 thrombocytopenia, (c) grade 3–4 neutropenia with previously treated with cetuximab. Baseline characteristics are
+fever, (d) any ribociclib-related grade 3–4 toxicities with the describedinTable1.
+exceptionofsub-optimallytreatednausea/vomiting/diarrhea,or
+brief (<72h) grade three fatigue and grade three electrolyte Dose Limiting Toxicity and Maximum
+disturbanceresolvingtograde1with7daysofdruginterruption. Tolerated Dose
+Criteria to initiate subsequent cycles included an ANC Three patients were enrolled in dose level 1 (400 mg/day)
+≥1,000/mm3, platelets ≥50,000/mm3, and non-hematologic of ribociclib and no DLT was observed. Seven patients were
+toxicities≤grade1.Ifthesewerenotmet,ribociclibwasdelayed enrolled in the dose level 2 escalation phase (600 mg/day):
+for 1 week while cetuximab was continued. After a 2-week one patient presented with rapid disease progression (within
+delay, ribociclib was discontinued. The dose of ribociclib was 7 days) and was replaced as he could not be evaluated for
+adjusted for selected AEs. A dose decrease by 200 mg/day was DLT assessment; another experienced a DLT with grade 4
+recommendedforgrade4neutropenia/thrombocytopenia,grade thrombocytopenia.Ribociclib600mgdailyfor3weeksonand1
+3 neutropenia with infection/fever, grade ≥3 non-hematologic weekoffwithstandarddosecetuximabwasthereforeconsidered
+toxicity, or treatment delay >1 week due to persisting AE if tobetheMTD.
+recoveryoccurredwithin2weeks.At400mg,onedosereduction
+wasallowed,whileat600mg,twodosereductionswereallowed. Safety
+Patients who required more than two dose reductions were Table2showsthemostfrequentTEAEsthatoccurredinthe21
+treatedwithcetuximabalone. patients regardless of dose levels. Diarrhea (52%), rash (52%),
+FrontiersinOncology|www.frontiersin.org 3 March2019|Volume9|Article155
+
+--- Page 4 ---
+Serontetal. Ribociclib-CetuximabAssociationinAdvancedSSCHN
+TABLE1|Patientcharacteristics. TABLE2|Treatmentemergentadverseevents(NCI-CTCversion4.0).
+Baselinecharacteristics Ribociclib+Cetuximab Treatmentemergent Ribocicliband
+(N=21) adverseevents Cetuximab(n=21)
+(TEAEs)
+Age(Years)
+Median(range) 61(33–80) Grade1–2 Grade3–4
+Gender
+Numberofpatientswithany 20(95%) 9(43%)
+Male 14(67%)
+TEAEs
+Female 7(33%)
+Constitutional
+ECOGPS
+Fatigue 9(43%) 1(4%)
+0 6(29%)
+Anorexia 3(14%) 2(9%)
+1 15(71%)
+Rash 11(52%) 0(0%)
+SmokingStatus
+>10pack-year 19(91%) Pruritis 3(14%) 0(0%)
+<10pack-year 2(9%) Conjunctivitis 2(9%) 0(0%)
+PrimarySite Headache 2(9%) 0(0%)
+Oropharynx 4(19%) QTcintervalprolongation 1(4%) 0(0%)
+Oralcavity 9(43%) GASTROINTESTINAL
+Hypopharynx 3(14%) Nausea 7(33%) 0(0%)
+Larynx 2(10%) Vomiting 5(24%) 0(0%)
+Unknownprimary 3(14%) Diarrhea 11(52%) 0(0%)
+TumorGradeAtDiagnosis Oralmucositis 6(28%) 1(4%)
+Well-differentiated 6(29%) Dysphagia 2(9%) 0(0%)
+Moderatelydifferentiated 9(43%) Heartburn 1(4%) 0(0%)
+Poorlydifferentiated 3(14%) HEMATOLOGICAL
+Unknown/missing 3(14%) Anemia 5(24%) 1(4%)
+LocationOfRelapseAtInclusion
+Thrombocytopenia 6(28%) 3(14%)
+Localand/orregionalonly 14(67%)
+Neutropenia 6(28%) 4(20%)
+Metastaticalone 3(14%)
+Lymphopenia 0(0%) 3(14%)
+Loco-regionalandmetastatic 4(19%)
+BIOLOGICAL
+PrimaryCurativeTreatment
+Hypomagnesemia 7(33%) 1(4%)
+Surgery 16(76%)
+Hypocalcemia 3(14%) 1(4%)
+Radiationtherapy 19(90.5%)
+Hypokalemia 2(9%) 1(4%)
+Chemotherapy
+Hypophosphatemia 4(20%) 0(0%)
+Induction 0(0%)
+Concomitanttoradiationtherapy 13(62%)
+p16Status
+The median number of administered cycles was two (range
+Positive 0(0%)
+2–4) in patients receiving ribociclib 400mg (n = 3), and three
+Negative 21(100%)
+(range0–19)inpatientsreceivingribociclib600mg(n=18).One
+PreviousPlatinum-Based
+patient stopped ribociclib treatment 3 days after initiation due
+Chemotherapy
+torapiddiseaseprogression;twopatientsinterruptedribociclib
+Curative 16(62%)
+temporarily and restarted with the same dose (one interrupted
+Palliative 15(71%)
+NumberOfPreviousLinesInPalliative treatment for 14 days due to grade 3 anemia, while the other
+Setting interruptedforsevendaysduetoQTintervalincreaseat481ms
+None 7(33%) occurringwithoutconcomitantuseofmedicationwithaknown
+1 7(33%) risk to prolong the QT interval); five patients had a dose
+2ormore 7(33%) reduction (one for grade 3 fatigue and thrombocytopenia, one
+PreviousCetuximabAdministration for grade 3 thrombocytopenia and neutropenia, and three for
+Curativeintent 10(48%) grade 3 neutropenia). Eighteen patients stopped due to disease
+Recurrent/metastaticsetting 4(19%) progression,onediedduringtreatmentduetosepticshocknot
+related to ribociclib, one decided to stop despite stable disease
+(SD),andonestoppedafteralonglastingremission.
+fatigue(43%),nausea(33%),andmucositis(28%)werethemost Efficacy
+frequent grade 1–2 AEs. Neutropenia was the most frequent MedianPFSwas3.5months(range0.4–17.3months)andmedian
+grade3–4AE(20%).Nofebrileneutropeniawasobserved,and OSwas8.3months(0.4–24.1months).ThePFSratesatsixand
+nograde5toxicitywasrecorded. 12-months were 19 and 4.7%, and the corresponding OS rates
+FrontiersinOncology|www.frontiersin.org 4 March2019|Volume9|Article155
+
+--- Page 5 ---
+Serontetal. Ribociclib-CetuximabAssociationinAdvancedSSCHN
+cetuximab in SCCHN (20). Myelosupression was the main
+grade 3–4 AE related to ribociclib, manifesting principally
+as thrombocytopenia and neutropenia that resulted in
+dose reduction but not in definitive arrest. Gastrointestinal
+AEs were mostly mild and easily manageable. Fatigue and
+anorexia may have been related to ribociclib but are also
+frequentlyobservedinheavilypretreatedpatientswithadvanced
+stageSCCHN.
+We had to stop the trial early due to low accrual given
+that most of the investigators were opting to include their
+suitable patients in trials investigating anti-PD1 inhibitors.
+Although this trial was limited by small patient numbers, the
+combination of ribociclib and cetuximab resulted in an ORR
+of 10%, a disease control rate of 68%, a PFS of 3.5 months
+andanOSof8.3months.Interestingly,twopatientspre-treated
+with cetuximab experienced some degree of tumor shrinkage.
+FIGURE1|Waterfallplotsshowingthemaximumpercentagemodificationin Recently, a phase II trial evaluated the efficacy of palbociclib
+thesumofthediametersofthetargetlesionsinassessablepatients. combined with cetuximab in patients with platinum-resistant
+R/M SCCHN and reported a CR of 11% and PR of 29% for
+an ORR of 39%; median PFS reached 5.4 months and the
+median OS was 9.5 months (21). These results are promising
+were71and33%,respectively.Fourpatientsremainedaliveafter
+and exceed, at least in terms of survival, those observed with
+amedianfollow-upof9.2months(range0.25–39months).PFS
+nivolumab in the CheckMate 141 trial (22). However, this
+was similar between patients previously treated and untreated
+last study excluded patients previously treated with cetuximab
+withcetuximab(100and106days,respectively).
+for R/M setting and only 7% of the included patients had
+Two patients were not evaluable for radiological evaluation;
+received cetuximab in a curative setting, which could explain
+one patient progressed rapidly within 7 days of treatment
+the better results they observed compared to our trial (21).
+initiation, and one died from septic shock not related to
+Indeed, our population included around 70% of patients who
+medication before the first radiological evaluation. Among the
+had previously been treated with cetuximab and this may have
+19evaluablepatients,two(10.5%)achievedaPR,11(58%)had
+impairedtreatmentactivity.
+SD, and six (36%) had PD, resulting in a disease control rate
+This phase I trial is the first to evaluate the combination
+(SD + PR) of 68.5%. Two of the 11 SD patients experienced a
+of ribociclib and cetuximab in HPV-negative SCCHN.
+minor response with a maximum reduction in the sum of the
+The recommended dose is 600mg daily on a 3-weeks on
+diameters of the target lesions of −24 and −16% (Figure1).
+and 1-week off schedule in combination with cetuximab
+From the 14 patients previously treated with cetuximab (10
+at its standard dose. This combination proved safe. A
+with curative-intent and 4 in R/M setting), 10 presented with
+larger phase II trial should be conducted in HPV-negative
+disease stabilization (including one with minimal reduction of
+SCCHN patients to correctly evaluate the antitumor efficacy of
+the target lesion) and one experienced a partial response. This
+thiscombination.
+lastpatientwastreatedinacurativesettingwithcetuximaband
+the interval between last dose of cetuximab and study entry
+was 6 months. The four patients previously treated in R/M
+DATA AVAILABILITY
+settingcurative-intentpresentedaSD(withoutminorreduction
+oftargetlesions).
+All datasets generated for this study are included in the
+manuscriptand/orthesupplementaryfiles.
+DISCUSSION
+This trial is the first to establish the feasibility of combining ETHICS STATEMENT
+the selective CDK4/6 inhibitor ribociclib with cetuximab
+in HPV-negative SCCHN. The escalation phase of this Ethic Committee from Cliniques universitaires Saint
+study identified 600mg daily for 3 weeks on followed Luc (Comité dEthique Hospitalo-Facultaire de lUCL).
+by 1 week off as the MTD of ribociclib in combination Avenue Hippocrate 55.14- Tour Harvey; 1200 Brussels,
+with cetuximab, which is also the recommended dose Belgium. comission.ethique-saint-luc@uclouvain.be.
+in metastatic breast cancer in association endocrine Reference 2015/06JAN/005; Number 403 provided by
+therapy(16). Bioethic Consultatif Committee. Agreement of Institutional
+The AEs observed in this trial were as expected for each Review board: IRB 00001530 (Cliniques universitaires
+drug, and the toxicity profile was consistent with a phase Saint-Luc) and IRB 00008535 (Université catholique
+I trial that evaluated the association of palbociclib and deLouvain).
+FrontiersinOncology|www.frontiersin.org 5 March2019|Volume9|Article155
+
+--- Page 6 ---
+Serontetal. Ribociclib-CetuximabAssociationinAdvancedSSCHN
+AUTHOR CONTRIBUTIONS necessarily reflect those of Novartis. Cetuximab was provided
+by Merck n.v./s.a., an affiliate of Merck KGaA, Darmstadt,
+ES and J-PM wrote the body of the manuscript which was Germany. Merck KGaA reviewed the manuscript for medical
+verified by all other authors. All authors contributed equally to accuracy only before journal submission. The authors are fully
+theresearch. responsible for the content of this manuscript, and the views
+andopinionsdescribedinthepublicationreflectsolelythoseof
+theauthors.
+FUNDING
+This study was an investigator initiated trial. An unrestricted ACKNOWLEDGMENTS
+educational grant from Novartis was provided to conduct the
+trial. Novartis performed a scientific review of the publication, We wish to thank Aileen Eiszele BA (Hons), DipEd.,
+buttheviews,andopinionsdescribedinthepublicationdonot GradDipBus.,foreditingthismanuscript.
+REFERENCES
+15. Beck TN, Georgopoulos R, Shagisultanova EI, Sarcu D, Handorf
+EA, Dubyk C, et al. EGFR and RB1 as dual biomarkers in HPV-
+1. SiegelRL,MillerKD,JemalA.Cancerstatistics,2016.CACancerJClin.(2016) negative head and neck cancer. Mol Cancer Ther. (2016) 15:2486–97.
+66:7–30.doi:10.3322/caac.21332 doi:10.1158/1535-7163.MCT-16-0243
+2. Pignon JP, le Maître A, Maillard E, Bourhis J. Meta-analysis of 16. HortobagyiGN,StemmerSM,BurrisHA,YapYS,SonkeGS,Paluch-Shimon
+chemotherapy in head and neck cancer (MACH-NC): an update on 93 S,etal.Ribociclibasfirst-linetherapyforHR-positive,advancedbreastcancer.
+randomised trials and 17,346 patients. Radiother Oncol. (2009) 92:4–14. N Engl J Med. (2016) 375:1738–48. doi: 10.1056/NEJMoa16
+doi:10.1016/j.radonc.2009.04.014 09709
+3. Wheeler S, Siwak DR, Chai R, LaValle C, Seethala RR, Wang L, et al. 17. EisenhauerEA,TherasseP,BogaertsJ,SchwartzLH,SargentD,FordR,etal.
+TumorepidermalgrowthfactorreceptorandEGFRPY1068areindependent Newresponseevaluationcriteriainsolidtumours:revisedRECISTguideline
+prognosticindicatorsforheadandnecksquamouscellcarcinoma.ClinCancer (version1.1).EurJCancer.(2009)45:228–47.doi:10.1016/j.ejca.2008.10.026
+Res.(2012)18:2278–89.doi:10.1158/1078-0432.CCR-11-1593 18. Bourhis J, Rivera F, Mesia R, Awada A, Geoffrois L, Borel C, et al.
+4. BentzenSM,AtasoyBM,DaleyFM,DischeS,RichmanPI,SaundersMI,etal. PhaseI/IIstudyofcetuximabincombinationwithcisplatinorcarboplatin
+Epidermalgrowthfactorreceptorexpressioninpretreatmentbiopsiesfrom and fluorouracil in patients with recurrent or metastatic squamous cell
+headandnecksquamouscellcarcinomaasapredictivefactorforabenefit carcinoma of the head and neck. J Clin Oncol. (2006) 24:2866–72.
+fromacceleratedradiationtherapyinarandomizedcontrolledtrial.JClin doi:10.1200/JCO.2005.04.3547
+Oncol.(2005)23:5560–7.doi:10.1200/JCO.2005.06.411 19. Infante JR, Cassier PA, Gerecitano JF, Witteveen PO, Chugh R, Ribrag
+5. Bonner JA, Harari PM, Giralt J, Azarnia N, Shin DM, Cohen RB, et al. V, et al. A Phase I study of the cyclin-dependent kinase 4/6 inhibitor
+Radiotherapypluscetuximabforsquamous-cellcarcinomaoftheheadand ribociclib(LEE011)inpatientswithadvancedsolidtumorsandlymphomas.
+neck.NEnglJMed.(2006)354:567–78.doi:10.1056/NEJMoa053422 Clin Cancer Res. (2016) 22:5696–705. doi: 10.1158/1078-0432.CCR-1
+6. Vermorken, JB, Mesia, Rivera F, Remenar E, Kawecki A, Rottey S, et al. 6-1248
+Platinum-basedchemotherapypluscetuximabinheadandneckcancer.N 20. Michel L, Ley J, Wildes TM, Schaffer A, Robinson A, Chun SE, et al.
+EnglJMed.(2008)359:1116–27.doi:10.1056/NEJMoa0802656 PhaseItrialofpalbociclib,aselectivecyclindependentkinase4/6inhibitor,
+7. Vermorken JB, Trigo J, Hitt R, Koralewski P, Diaz-Rubio E, Rolland F, in combination with cetuximab in patients with recurrent/metastatic
+etal.Open-label,uncontrolled, multicenterphaseIIstudytoevaluate the head and neck squamous cell carcinoma. Oral Oncol. (2016) 58:41–8.
+efficacyandtoxicityofcetuximabassingleagentinpatientswithrecurrent doi:10.1016/j.oraloncology.2016.05.011
+and/or metastatic squamous cell carcinoma of the head and neck who 21. Adkins D, Oppelt PJ, Ley JC, Trinkaus K, Neupane PC, Gesualda Sacco
+failedtorespondtoplatinum-basedtherapy.JClinOncol.(2007)25:2171–7. A, et al. Multicenter phase II trial of palbociclib, a selective cyclin
+doi:10.1200/JCO.2006.06.7447 dependent kinase (CDK) 4/6 inhibitor, and cetuximab in platinum-
+8. Bossi P, Resteghini C, Paielli N, Licitra L, Pilotti S, Perrone F. Prognostic resistantHPVunrelated(-)recurrent/metastaticheadandnecksquamous
+andpredictivevalueofEGFRinheadandnecksquamouscellcarcinoma. cell carcinoma (RM HNSCC). J Clin Oncol. (2018) 36(15 Suppl.):6008.
+Oncotarget.(2016)7:74362–79.doi:10.18632/oncotarget.11413 doi:10.1200/JCO.2018.36.15_suppl.6008
+9. EwenM,LambJ.TheactivitiesofcyclinD1thatdrivestumorigenesis.Trends 22. Ferris RL, Blumenschein GR, Fayette J, Guigay J, Colevas AD, Licitra L,
+MolMed.(2004)10:158–62.doi:10.1016/j.molmed.2004.02.005 et al. Two-year update From CheckMate 141: outcomes with nivolumab
+10. ChoiYJ,AndersL.SignalingthroughcyclinD-dependentkinases.Oncogene. (Nivo) vs investigator’s choice (IC) in recurrent or metastatic (R/M)
+(2014)33:1890–903.doi:10.1038/onc.2013.137 squamous cell carcinoma of the head and neck (SCCHN) in the
+11. The Cancer Genome Atlas Network. Comprehensive genomic overall population and PD-L1 subgroups. Oral Oncol. (2018):45–51.
+characterization of head and neck squamous cell carcinomas. Nature. doi:10.1016/j.oraloncology.2018.04.008
+(2015)517:576–82.doi:10.1038/nature14129
+12. KalishLH,KwongRA,ColeIE,GallagherRM,SutherlandRL,MusgroveEA. Conflict of Interest Statement: The authors declare that the research was
+DeregulatedcyclinD1expressionisassociatedwithdecreasedefficacyofthe conductedintheabsenceofanycommercialorfinancialrelationshipsthatcould
+selectiveepidermalgrowthfactorreceptortyrosinekinaseinhibitorgefitinib beconstruedasapotentialconflictofinterest.
+inheadandnecksquamouscellcarcinomacelllines.ClinCancerRes.(2004)
+10:7764–74.doi:10.1158/1078-0432.CCR-04-0012 Copyright©2019Seront,Schmitz,Papier,vanMaanen,Henry,Lonchay,Rottey,
+13. AkervallJ,BrunE,DictorM,WennerbergJ.CyclinD1overexpressionversus vanCaloenandMachiels.Thisisanopen-accessarticledistributedundertheterms
+responsetoinductionchemotherapyinsquamouscellcarcinomaofthehead oftheCreativeCommonsAttributionLicense(CCBY).Theuse,distributionor
+andneckpreliminaryreport.ActaOncol.(2011)40:505–11. reproductioninotherforumsispermitted,providedtheoriginalauthor(s)andthe
+14. WeberJD,ChengJ,RabenDM,GardnerA,BaldassareJJ.AblationofG(o) copyrightowner(s)arecreditedandthattheoriginalpublicationinthisjournal
+alphaoverridesG(1)restrictionpointcontrolthroughRas/ERK/cyclinD1- is cited, in accordance with accepted academic practice. No use, distribution or
+CDKactivities.JBiolChem.(1997)272:17320–6. reproductionispermittedwhichdoesnotcomplywiththeseterms.
+FrontiersinOncology|www.frontiersin.org 6 March2019|Volume9|Article155

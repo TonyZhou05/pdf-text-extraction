@@ -1,0 +1,616 @@
+Source: 28352985.pdf
+Extracted on: Sat Sep 13 00:01:43 PDT 2025
+==================================================
+
+--- Page 1 ---
+Cancer Chemother Pharmacol (2017) 79:923–932
+DOI 10.1007/s00280-017-3283-z
+ORIGINAL ARTICLE
+A phase Ib/II study of cabozantinib (XL184) with or without
+erlotinib in patients with non-small cell lung cancer
+Heather A. Wakelee1 · Scott Gettinger2 · Jeffrey Engelman3 · Pasi A. Jänne4 ·
+Howard West5 · Deepa S. Subramaniam6 · Joseph Leach7 · Michael Wax8 ·
+Yifah Yaron9 · Dale R. Miles9 · Primo N. Lara Jr.10
+Received: 13 February 2017 / Accepted: 9 March 2017 / Published online: 28 March 2017
+© The Author(s) 2017. This article is an open access publication
+Abstract Results Sixty-four patients were treated in phase I. Doses
+Purpose Cabozantinib is a multi-kinase inhibitor that tar- of 100 mg cabozantinib plus 50 mg erlotinib, or 40 mg
+gets MET, AXL, and VEGFR2, and may synergize with cabozantinib plus 150 mg erlotinib were determined to be
+EGFR inhibition in NSCLC. Cabozantinib was assessed MTDs. Diarrhea was the most frequent dose-limiting toxic-
+alone or in combination with erlotinib in patients with pro- ity and the most frequent AE (87.5% of patients). The ORR
+gressive NSCLC and EGFR mutations who had previously for phase I was 8.2% (90% CI 3.3–16.5). In phase II, one
+received erlotinib. patient in the cabozantinib arm (N = 15) experienced a par-
+Methods This was a phase Ib/II study (NCT00596648). tial response, for an ORR of 6.7% (90% CI 0.3–27.9), with
+The primary objectives of phase I were to assess the safety, no responses for cabozantinib plus erlotinib (N = 13). There
+pharmacokinetics, and pharmacodynamics and to deter- was no evidence that co-administration of cabozantinib
+mine maximum tolerated dose (MTD) of cabozantinib plus markedly altered erlotinib pharmacokinetics or vice versa.
+erlotinib in patients who failed prior erlotinib treatment. In Conclusions Despite responses with cabozantinib/erlo-
+phase II, patients with prior response or stable disease with tinib in phase I, there were no responses in the combina-
+erlotinib who progressed were randomized to single-agent tion arm of phase II in patients with acquired resistance to
+cabozantinib 100 mg qd vs cabozantinib 100 mg qd and erlotinib. Cabozantinib did not appear to re-sensitize these
+erlotinib 50 mg qd (phase I MTD), with a primary objec- patients to erlotinib.
+tive of estimating objective response rate (ORR).
+Keywords Non-small cell lung cancer · Resistance ·
+Cabozantinib · Erlotinib · Phase Ib/II · Combination
+therapy
+These data were presented in part at the American Society
+for Clinical Oncology (ASCO) annual meeting in June 2010,
+Chicago, IL.
+Electronic supplementary material The online version of this
+article (doi:10.1007/s00280-017-3283-z) contains supplementary
+material, which is available to authorized users.
+* Heather A. Wakelee 5 Swedish Cancer Institute, Seattle, WA, USA
+hwakelee@stanford.edu 6 Department of Hematology and Oncology, Georgetown
+University Hospital, Washington, DC, USA
+1 Stanford Cancer Institute, 875 Blake Wilbur Drive, Rm 2233,
+Stanford, CA 94305-5826, USA 7 Park Nicollet Cancer Center, Minneapolis, MN, USA
+2 Yale University Cancer Center, New Haven, CT, USA 8 Summit Medical Group, Berkeley Heights, NJ, USA
+3 Massachusetts General Hospital, Charlestown, MA, USA 9 Exelixis, South San Francisco, CA, USA
+4 Lowe Center for Thoracic Oncology, Dana Farber Cancer 10 University of California Davis Comprehensive Cancer
+Institute, Boston, MA, USA Center, Sacramento, CA, USA
+1 3
+Vol.:(0123456789)
+
+--- Page 2 ---
+9 24 Cancer Chemother Pharmacol (2017) 79:923–932
+Introduction informed consent for this trial according to international
+guidelines. The protocol was reviewed and treatment was
+Erlotinib and other epidermal growth factor receptor monitored by institutional review boards at each participat-
+(EGFR) tyrosine kinase inhibitors (TKIs) are established ing institution, and the study adhered to the principles of the
+first-line treatments for patients with non-small cell lung Guideline for Good Clinical Practice (International Confer-
+cancer (NSCLC) with activating mutations in EGFR. ence on Harmonisation E6 Tripartite Guideline). The trial
+Despite response rates of 60–70% with EGFR TKIs in is registered at ClinicalTrials.gov (NCT00596648).
+this patient population, the median progression-free sur- Eligible patients had histologically confirmed Stage
+vival (PFS) with these agents remains under 1 year [1] due IIIb or IV NSCLC. Patients were at least 18 years old, had
+to the development of acquired resistance [2, 3] through adequate organ and marrow function with an absolute neu-
+secondary resistance mutations (e.g., T790M) [4–8] and trophil count ≥1500/mm3, platelets ≥100,000/mm3, hemo-
+emergence of bypass signaling pathways such as vascu- globin ≥9 g/dL, bilirubin ≤1.5 times the upper limit of
+lar endothelial growth factor (VEGF) and MET [2, 7–11]. normal (ULN), serum creatinine ≤1.5 mg/dL or calculated
+Data suggest that dual inhibition of the VEGF and EGFR creatinine clearance ≥60 mL/min, and alanine aminotrans-
+pathways can delay the development of resistance to EGFR ferase and aspartate aminotransferase ≤2.5 times ULN.
+TKIs in the upfront setting [12] but may not overcome Patients with uncontrolled brain metastases, clinically
+acquired resistance [13], whereas targeting MET has been significant hemoptysis, and hematemesis were excluded.
+shown to re-sensitize tumors resistant to EGFR TKIs in Patients were also excluded for the presence of cavitary
+preclinical models [14]. pulmonary lesion(s), endobronchial lesion or a lesion abut-
+Cabozantinib is a small-molecule inhibitor of multiple ting a major blood vessel, pregnancy or lactation, serious
+tyrosine kinases including MET, AXL, VEGF receptors intercurrent illness, uncontrolled hypertension [sustained
+(VEGFRs), and RET [15]. The drug has been approved by blood pressure (BP) readings of >140 mmHg systolic or
+the US Food and Drug Administration (FDA) for the treat- >90 mmHg diastolic], unhealed wounds from recent sur-
+ment of progressive, metastatic medullary thyroid cancer gery, or congestive heart failure, unstable angina, or clini-
+[16, 17] and, more recently, for advanced renal cell carci- cally significant cardiac arrhythmias within 3 months, or
+noma after prior anti-angiogenic therapy [18, 19]. transient ischemic attack, stroke, or myocardial infarction
+Preclinical studies in NSCLC suggest a potential for within 6 months. Anti-cancer therapy, other than erlotinib
+cabozantinib to re-sensitize tumors to EGFR inhibitors. The (or gefitinib in phase II), was not allowed within 4 weeks
+addition of cabozantinib to gefitinib had no notable impact prior to entry.
+on activity in a gefitinib-sensitive NSCLC cell line but re- In addition to these eligibility criteria, patients enrolled
+sensitized a gefitinib-resistant cell line [14]. Furthermore, in phase I must have failed prior treatment with erlotinib
+the combination of cabozantinib and erlotinib demonstrated but tolerated erlotinib at a dose greater than or equal to the
+substantially increased anti-tumor activity over either agent dose of the cohort in which they were assigned. Patients
+administered alone in a MET-amplified NSCLC xenograft had to have an Eastern Cooperative Oncology Group
+model resistant to EGFR inhibition. (ECOG) performance status of ≤2.
+Based on the hypothesis that the expression of MET and For phase II, patients had to have measurable disease per
+VEGF are mechanisms of acquired resistance to EGFR Response Evaluation Criteria in Solid Tumors (RECIST)
+TKIs in NSCLC tumors [2, 9, 11, 20], the phase Ib/II guidelines, version 1.0 [21] and an ECOG performance
+study reported here tested whether cabozantinib, alone or status of ≤1. Patients were also required to have had pro-
+in combination with continued EGFR inhibition, was tol- gressed during treatment with erlotinib after either an ini-
+erable and active in patients with advanced NSCLC who tial response or at least 6 months of stable disease. Patients
+had progressed after benefiting from erlotinib therapy. The were also required to have amylase and lipase <1.5 times
+study was designed to first determine the maximum toler- the ULN. Patients were excluded for prior therapy with a
+ated dose (MTD) of cabozantinib and erlotinib in com- VEGFR TKI, an investigational EGFR TKI, a MET inhibi-
+bination and then to assess the safety and clinical activ- tor, recent history (3 months) of radiation therapy other
+ity of the MTD combination compared with single-agent than to bones, or a history of idiopathic pulmonary fibrosis
+cabozantinib. or interstitial lung disease.
+Patients and methods Treatment plan and study design
+This was a multicenter, phase Ib/II, open-label study In both phase I and II, erlotinib and cabozantinib were
+of cabozantinib and erlotinib. All patients gave written given orally (po) once daily (qd). Cabozantinib was
+1 3
+
+--- Page 3 ---
+Cancer Chemother Pharmacol (2017) 79:923–932 925
+supplied as 20- and 80-mg capsules (expressed as the free- Table 1 Phase I dose-level cohorts
+base equivalent weight). Erlotinib 25-, 100-, and 150-mg Cohort Initial dose (mg)a
+tablets were available commercially. Screening was con-
+ducted within 28 days before the first dose of study drug. 1 60 cabozantinib, 150 erlotinib
+Each cycle was 4 weeks (28 days). 2A 60 cabozantinib, 100 erlotinib
+Safety was assessed at frequent intervals by standard 2B 40 cabozantinib, 150 erlotinib
+clinical and laboratory tests, physical examinations, and 3A 100 cabozantinib, 100 erlotinib
+12-lead electrocardiograms. All adverse events (AEs) were 4A 100 cabozantinib, 50 erlotinib
+graded according to the National Cancer Institute Common
+a All cabozantinib doses are expressed as the freebase equivalent
+Terminology Criteria for Adverse Events (NCI-CTCAE), weight
+version 3.0. Radiographic tumor assessments were con-
+ducted at baseline (within 7 days before first dose in phase
+II) and every 8 weeks after the initiation of study treatment (initially to 100 mg qd) and the initial dose of cabozantinib
+per RECIST guidelines, version 1.0 [21]. was maintained at 60 mg qd and increased as tolerated in
+Phase I was a 3 + 3 dose escalation/de-escalation design subsequent cohorts to a maximum of 140 mg qd. In Arm
+in 2 parallel arms: Arm A maximized the dose of cabozan- B, the dose of erlotinib was maintained at the approved/
+tinib [to a maximum dose of 140 mg qd (the single-agent label dose of 150 mg qd and the dose of cabozantinib was
+MTD)] [22], and Arm B maximized the dose of erlotinib 40 mg qd. At the investigator’s discretion, patients could
+[to a maximum dose of 150 mg qd (the label dose for continue to receive cabozantinib after the DLT evaluation
+NSCLC)] [23]. Primary objectives in phase I were to evalu- period either alone or in combination with erlotinib, pro-
+ate the safety and tolerability of cabozantinib and erlotinib vided that there was no evidence of progressive disease
+administered in combination, to determine a MTD of the (PD) or unacceptable study drug-related toxicity.
+combination, and to characterize the pharmacokinetic (PK) Phase II was a Simon optimal 2-stage design in which
+parameters of single-agent erlotinib (run-in period) and patients were randomized in a 1:1 fashion to receive sin-
+cabozantinib in combination with erlotinib. Exploratory gle-agent cabozantinib at 100 mg qd or the combination of
+objectives included the assessment of objective response cabozantinib 100 mg qd plus erlotinib 50 mg qd based on
+rate (ORR). Erlotinib was administered as a single agent on the phase I Arm A MTD. The phase I MTD of Arm B was
+days −14 to −1 (run-in period) at the dose used during sub- not further evaluated in phase II. Initial enrollment in each
+sequent treatment with the combination. After PK evalua- arm (Stage I) was estimated at 15 patients to ensure 12 were
+tion of erlotinib alone on day 1, cabozantinib was admin- evaluable for response. If there was ≥1 responder in Stage
+istered in combination with erlotinib qd in 28-day cycles. I, enrollment could be expanded in that arm (Stage II). In
+Dose-limiting toxicity (DLT) was defined as any of the phase II, the primary objective was to estimate the ORR.
+following that occurred during the first 28 days of treat- Secondary objectives included the evaluation of safety and
+ment: a treatment-emergent AE that warranted dose reduc- tolerability, evaluation of PFS, and characterization of PK
+tion or was of significant risk; non-hematologic signifi- parameters of cabozantinib and erlotinib.
+cant grade 3/4 toxicity, including grade 3 diarrhea despite Crossover was permitted during phase II at the discre-
+prophylaxis and other optimal treatment; intolerable rash; tion of the investigator. Patients treated in the single-agent
+grade 4 thrombocytopenia, grade 4 neutropenia of >5 days cabozantinib arm who developed PD had the option to
+duration or grade 3/4 neutropenia with fever and docu- cross over to receive combination cabozantinib/erlotinib,
+mented infection; inability to take >75% of planned study whereas those receiving cabozantinib/erlotinib who experi-
+dose owing to an AE; or inability to start Cycle 2 within enced PD had the option to cross over to single-agent cabo-
+28 days of planned start date because of an AE. Events zantinib (at a dose greater than what they were receiving in
+clearly unrelated to either cabozantinib or erlotinib were the combination). Patients who crossed over could continue
+not considered DLTs. The MTD was defined as a dose level until they experienced unacceptable toxicity or treatment
+below the maximum administered dose in which <30% failure as defined by investigator assessment.
+of the total patients in the expanded cohort experienced a
+DLT.
+For the initial dose cohort (Cohort 1), the dose levels Pharmacokinetics
+for the combination were cabozantinib 60 mg qd + erlo-
+tinib 150 mg qd (Table 1). The protocol was subsequently Blood samples for PK assessments were taken at prede-
+amended to allow for the 2 parallel-dose de-escalation/ termined intervals. In phase I, PK assessments were con-
+dose escalation arms. In Arm A, the dose of erlotinib ducted at 15 min before dose and then after dose at 30 min
+was reduced below the approved/label dose of 150 mg qd and 1, 2, 4, 8, and 24 h on day −1 and C2D1 (day 29);
+1 3
+
+--- Page 4 ---
+9 26 Cancer Chemother Pharmacol (2017) 79:923–932
+before dose and 4 h after dose on C2D15 (day 43); before characteristics are summarized in Table 2. In phase I, the
+dose approximately every 2 cycles (every 8 weeks) starting median patient age was 59.8 years (range 30–88 years), and
+with C3D1 (day 57) to coincide with routine tumor assess- 44 patients (68.8%) were female. The majority of patients
+ments; and at a 30-day post-treatment visit or study with- (43/64; 67.2%) were white; 17 (26.6%) were Asian. At
+drawal. In phase II, blood samples were collected 15 min baseline, all patients except 2 had an ECOG performance
+before dose and 4 h after dose on C1D1, C1D15, C2D1, status of 0 or 1. The majority of patients (82.8%) had
+and C2D15, then every 2 cycles (8 weeks) starting with adenocarcinoma. All patients had metastatic disease at
+C3D1 to coincide with routine tumor assessments, ideally study entry for an average of >2 years from initial diag-
+at the time of withdrawal from the trial. nosis, including 14% with brain metastases. The majority
+Cabozantinib and erlotinib concentrations in plasma of patients in phase I had at least 3 anti-cancer regimens
+were determined using a validated liquid chromatogra- before enrolling in the study, and 63 patients (98.4%) had
+phy–mass spectrometry method at Exelixis, Inc. All con- previously been treated with erlotinib.
+centrations were reported in units of ng freebase/mL. The In phase II, 28 patients received treatment with sin-
+lower limit of quantification for both analytes was 0.5 ng gle-agent cabozantinib (n = 15) or cabozantinib/erlo-
+freebase/mL. Data assembly was performed using S-Plus® tinib (n = 13). The median age was 54.7 years (range
+8.0 for Windows (Enterprise Version, Tibco Software Inc., 36–74 years) in the cabozantinib arm and 64.8 years (range
+Palo Alto, CA). WinNonlin Professional 5.2 (Pharsight 44–78 years) in the combination arm. Twelve patients
+Corp., Mountain View, CA) was used for calculating the (80.0%) in the cabozantinib arm and 7 patients (53.8%) in
+summary statistics and generating raw tables. Concentra- the combination arm were female. The majority of patients
+tion–time profiles and other PK-related plots were gener- were white [10/15 (66.7%) cabozantinib arm and 8/13
+ated using S-Plus Version 8.0 for Windows. (61.5%) combination arm]; 4 (26.7%) in the cabozantinib
+arm and 3 (23.1%) in the combination arm were Asian.
+Statistical considerations The majority of patients (93.3% receiving cabozantinib
+and 84.6% in the combination arm) had adenocarcinoma.
+The safety population consists of all patients who received All patients had metastatic disease at study entry, includ-
+study treatment. The efficacy-measurable population was ing 25% with brain metastases. Similar to phase I, the mean
+defined as patients with measurable disease at baseline. years since the initial diagnosis of metastasis was >2 years,
+The safety population was used for all analyses except with the majority having received at least 3 prior anti-can-
+ORR, which used the efficacy-measurable population. Best cer regimens. An activating EGFR mutation was detected
+overall response and ORR were summarized using fre- in 10 of the patients in the cabozantinib arm and 7 in the
+quency counts and percentages, and the 90% confidence combination arm; EGFR mutation status was unknown for
+interval was computed using the exact binomial distri- the remaining 11 patients.
+bution. Median duration of response and the associated
+90% confidence intervals (CIs) were calculated using the
+Kaplan–Meier method. Phase I MTD
+For patients who had a crossover in phase II, both effi-
+cacy and safety data are summarized up to the time of DLTs from phase I of the trial are shown in Table 3. Fifteen
+crossover. For all other patients, study data are summarized patients experienced a DLT. Diarrhea was the most fre-
+up to 30 days after the last dose of study drug. quently observed DLT across all cohorts (10 patients experi-
+Statistical analyses of safety, PK, and pharmacodynamic enced a DLT of diarrhea ranging from grade 2 to 3). Two of
+data were performed with WinNonlin Enterprise, version 3 patients enrolled in Cohort 1 (60-mg cabozantinib/150-mg
+5.0.1 (Pharsight Corp, Mountain View, CA), GraphPad erlotinib) experienced a DLT of diarrhea (1 with grade 2 and
+Prism (version 4.02) software, SoftMaxPro GxP (version 1 with grade 3). The patient with grade 3 diarrhea also expe-
+5), and/or SAS (version 9.1). rienced grade 3 aspartate aminotransferase elevation and
+grade 3 palmar-plantar erythrodysesthesia syndrome (PPES).
+In Cohort 2A (60-mg cabozantinib/100-mg erlotinib), 5 of
+Results 16 patients experienced DLTs: 4 patients with grade 3 diar-
+rhea and 1 with grade 2 diarrhea. In Cohort 3A (100-mg
+A total of 65 patients were enrolled in phase I, and 64 cabozantinib/100-mg erlotinib), 5 of 15 patients experi-
+patients received combination treatment with cabozantinib/ enced a DLT: grade 3 diarrhea and grade 3 fatigue (n = 1),
+erlotinib and were included in the analysis. One patient grade 3 fatigue (n = 1), grade 3 lipase elevation (n = 1),
+received erlotinib during the 14-day run-in period but with- grade 3 hypertension (n = 1), and grade 3 hypokalemia
+drew owing to PD before receiving cabozantinib. Baseline (n = 1). The Cohort 3A dose exceeded the defined MTD.
+1 3
+
+--- Page 5 ---
+Cancer Chemother Pharmacol (2017) 79:923–932 927
+Table 2 Demographic and
+Phase I Phase II
+baseline characteristics: phase I (N = 64)
+and II (safety populations) Cabozantinib Cabozantinib/erlotinib
+(N = 15) (N = 13)
+Age (years)
+Median (range) 59.8 (30–88) 54.7 (36–74) 64.8 (44–78)
+Age category, n (%)
+18–<25 years 0 0 0
+25–<45 years 6 (9.4) 2 (13.3) 1 (7.7)
+45–<65 years 35 (54.7) 10 (66.7) 6 (46.2)
+≥65 years 23 (35.9) 3 (20.0) 6 (46.2)
+Sex, n (%)
+Male 20 (31.3) 3 (20.0) 6 (46.2)
+Female 44 (68.8) 12 (80.0) 7 (53.8)
+ECOG performance status, n (%)
+0 26 (40.6) 5 (33.3) 2 (15.4)
+1 36 (56.3) 10 (66.7) 11 (84.6)
+2 1 (1.6) 0 0
+Missing 1 (1.6) 0 0
+Race, n (%)
+Asian 17 (26.6) 4 (26.7) 3 (23.1)
+Black or African American 2 (3.1) 1 (6.7) 1 (7.7)
+White 43 (67.2) 10 (66.7) 8 (61.5)
+Not reported 1 (1.6) 0 1 (7.7)
+Other 1 (1.6) 0 0
+Histology, n (%)
+Adenocarcinoma 53 (82.8) 14 (93.3) 11 (84.6)
+Squamous cell carcinoma 3 (4.7) 1 (6.7) 2 (15.4)
+Large cell carcinoma 1 (1.6) 0 0
+Other 7 (10.9) 0 0
+ECOG Eastern Cooperative Oncology Group
+A total of 14 patients were enrolled in Cohort 4A (100-mg ≥30-mmHg increase in systolic BP from baseline, and 17
+cabozantinib/50-mg erlotinib), with no patients experienc- patients (26.6%) had a ≥20-mmHg diastolic BP increase
+ing a DLT. Based on the frequencies of DLTs in Arm A, the from baseline (supplementary Table S2). Grade 3/4 AEs
+Cohort 4A dose level was declared the MTD of Arm A. were experienced by 87.5% of patients (Table 4). Diar-
+In Arm B, 17 patients were enrolled in Cohort 2B (40- rhea (45.3%), fatigue (21.9%), and hypokalemia (14.1%)
+mg cabozantinib/150-mg erlotinib), 3 of whom experi- were the most common grade 3/4 events. Twelve patients
+enced DLTs: grade 3 diarrhea (n = 2) and grade 3 stomatitis (18.8%) experienced an AE leading to drug discontinu-
+(n = 1). The Cohort 2B dose level was determined to be the ation, with diarrhea and PPES being the most common
+MTD of Arm B. (10.9 and 3.1%, respectively).
+There were 13 deaths within 30 days of the last dose of
+study treatment. One death was attributed to respiratory
+Safety and tolerability arrest and another to asystole/coronary artery atheroscle-
+rosis and cardiac arrest; both were considered unrelated
+Phase I to study treatment. The remaining 11 deaths were attrib-
+uted to PD. One patient who died of PD experienced a
+Treatment-emergent AEs (any grade) reported by at least fatal pulmonary hemorrhage (day 26 after the last dose),
+15% of patients in phase I are summarized in supplemen- which was assessed as possibly related to study treatment.
+tary Table S1. The most common (>35%) AEs of any Three additional grade 5 AEs reported in patients who
+grade were diarrhea, decreased appetite, fatigue, nausea, died of PD were pneumonia, cardio-respiratory arrest,
+rash, and weight decrease. Twenty patients (31.3%) had a and respiratory failure, all unrelated to study treatment.
+1 3
+
+--- Page 6 ---
+9 28 Cancer Chemother Pharmacol (2017) 79:923–932
+Table 3 Cabozantinib phase I DLTs
+Cohort Dose (mg) N Patients with DLTs DLTsa
+Cabozantinib Erlotinib
+1 60 150 3 2 Diarrhea, grade 2
+Diarrhea, grade 3
+Increase AST,
+grade 3
+PPES, grade 3
+2A 60 100 16 5 Diarrhea, grade 3
+(n = 4)
+Diarrhea, grade 2
+2B 40 150 17 3 Diarrhea, grade 3
+(n = 2)
+Mucositis, grade 3
+3A 100 100 15 5 Hypokalemia,
+grade 3
+Hypertension,
+grade 3
+Diarrhea, grade 3
+Fatigue, grade 3
+(n = 2)
+Lipase, grade 3
+Epigastric pain,
+grade 3
+4A 100 50 14 0 N/A
+AST aspartate aminotransferase, DLT dose-limiting toxicity, PPES palmar-plantar erythrodysesthesia syndrome
+a One event for each DLT unless otherwise specified
+Phase II cabozantinib and 46.2% on the combination). Discontinua-
+tion due to AEs occurred in 2 (13.3%) patients receiving
+The most commonly reported AEs (>35%) in phase II cabozantinib (fatigue and non-fatal hemorrhagic stroke) and
+were fatigue, diarrhea, nausea, decreased appetite, and 5 patients (38.5%) receiving the combination (PPES, large
+PPES (supplementary Table S3). Differences were noted intestine perforation, fatigue/diarrhea/weight loss, transient
+between treatment arms in the frequency of some AEs, ischemic attack, and intracranial hemorrhage). Three patients
+including diarrhea (46.7% cabozantinib vs 84.6% cabo- in the cabozantinib arm died within 30 days of receiv-
+zantinib/erlotinib), dehydration (13.3 vs 46.2%), vomiting ing their last dose of study drug, all from PD. There were
+(20.0 vs 38.5%), cough (53.3 vs 7.7%), and constipation 2 deaths from PD and clinical deterioration within 30 days
+(40.0 vs 15.4%). Eleven patients (73.3%) in the cabozan- of last receiving the combination study dose that were not
+tinib arm and 13 patients (100%) in the combination arm considered to be related to study treatment. The intracranial
+experienced at least 1 grade 3 or 4 AE (Table 5), with 53.3 hemorrhage leading to discontinuation in the combination
+and 84.6% experiencing a treatment-related grade 3 or 4 arm was considered treatment-related and was fatal.
+AE, respectively. Rates of grade 3/4 AEs differed between
+single-agent cabozantinib vs the combination for diarrhea
+(0 vs 30.8%), dehydration (0 vs 23.1%), and lymphopenia Efficacy
+(0 vs 15.4%). Four patients (26.7%) in the cabozantinib arm
+and 3 (23.1%) in the combination arm had a ≥30-mmHg Phase I
+systolic BP increase from baseline; 8 patients (53.3%) and
+4 patients (30.8%), respectively, had a ≥20-mmHg diastolic The efficacy-measurable population included 61 patients
+BP increase from baseline (supplementary Table S4). across the dose cohorts. Five patients experienced a partial
+The rate of dose modification (dose interruption or reduc- response (PR) for an ORR of 8.2% [90% confidence inter-
+tion) due to AEs was 66.7% for cabozantinib and 69.2% for val (CI) 3.3, 16.5%], with no apparent trend by dose level.
+cabozantinib/erlotinib and was primarily due to PPES (33.3 The median PFS was 3.7 months (95% CI 3.2, 5.5 months).
+vs 23.1%) and diarrhea (6.7 and 38.5%). The most com- The overall median duration of treatment for cabo-
+mon reason for treatment discontinuation was PD (80.0% on zantinib was 3.6 months (range 0.1–36.0 months), or
+1 3
+
+--- Page 7 ---
+Cancer Chemother Pharmacol (2017) 79:923–932 929
+Table 4 Treatment-emergent grade 3 or 4 adverse events reported by Phase II
+≥5% of patients: phase I (safety population)
+Preferred term, n (%) N = 64 One of 15 patients in the single-agent cabozantinib arm
+achieved a confirmed PR for an ORR of 6.7% (90% CI
+Any treatment-emergent adverse event 56 (87.5)
+0.3, 27.9%), whereas there were no responses in the cabo-
+Diarrhea 29 (45.3)
+zantinib/erlotinib arm. The median PFS was 1.9 months
+Fatigue 14 (21.9)
+(95% CI 1.6, 7.1 months) for the cabozantinib arm and
+Hypokalemia 9 (14.1)
+3.9 months (95% CI 1.5, 7.3 months) for the combination
+Dyspnea 7 (10.9)
+arm.
+Pneumonia 6 (9.4)
+The overall median duration of treatment for cabozan-
+Decreased appetite 5 (7.8)
+tinib (not including treatment after crossover) was 2.1
+Hypophosphatemia 5 (7.8)
+months (range 0.2–16.6 months) or approximately 2 cycles
+Hypertension 5 (7.8)
+of study treatment in both treatment arms. Cumulatively,
+Pulmonary embolism 5 (7.8)
+there were 18 patients (64.3%) who were on study treat-
+Weight decreased 5 (7.8)
+ment for ≥8 weeks (2 cycles), 12 patients (42.9%) on study
+Dehydration 4 (6.3)
+treatment for ≥12 weeks (3 cycles), and 9 patients (32.1%)
+Hyponatremia 4 (6.3)
+on study treatment for ≥16 weeks (4 cycles).
+Hypoxia 4 (6.3)
+Eight patients crossed over from cabozantinib to cabo-
+Pain 4 (6.3)
+zantinib/erlotinib after experiencing PD. The patient who
+Back pain 3 (4.7)
+achieved a PR with single-agent cabozantinib progressed
+Hypomagnesemia 3 (4.7)
+and crossed over to receive cabozantinib/erlotinib (PFS
+Blood potassium decreased 3 (4.7)
+duration of 16.6 months prior to crossover) and subse-
+Lipase increased 3 (4.7)
+quently transitioned to the cabozantinib maintenance pro-
+Renal failure acute 3 (4.7)
+tocol continuing treatment for an additional 18+ months.
+Palmar-plantar erythrodysesthesia syndrome 3 (4.7)
+Despite the PR in the single-agent cabozantinib arm,
+Thrombocytopenia 3 (4.7)
+expansion of the arm did not proceed owing to logistical
+issues and prioritization of resources and not because of
+unexpected safety concerns or lack of efficacy.
+Table 5 Treatment-emergent grade 3 or 4 adverse events in ≥2
+patients: phase II (safety population)
+Preferred term, n (%) Cabozantinib Cabozantinib Pharmacokinetics
+(N = 15) + erlotinib
+(N = 13) During phase Ib of the study, available PK results were
+analyzed for each dosing cohort at the time of the cohort
+Hypertension 2 (13.3) 1 (7.7)
+review committee meetings to assess for any apparent
+Hyponatremia 2 (13.3) 1 (7.7)
+drug–drug interaction between cabozantinib and erlotinib.
+Fatigue 2 (13.3) 1 (7.7)
+Co-administration of cabozantinib (in a dose range of
+Hypokalemia 1 (6.7) 2 (15.4)
+40–100 mg) and erlotinib (in a dose range of 50–150 mg)
+Diarrhea 0 4 (30.8)
+had no apparent effect on plasma area under the curve of
+Dehydration 0 3 (23.1)
+each agent compared with that agent administered alone.
+Lymphopenia 0 2 (15.4)
+Formal PK analysis was conducted in phase II of the
+study. In phase II, with all patients in the single-agent arm
+approximately 4 cycles of study treatment. The majority receiving cabozantinib 100 mg po qd, the mean ± standard
+of patients (57.8%) were treated until disease progression deviation (SD) pre-dose plasma concentration of cabozan-
+per RECIST guidelines, version 1.0. Cumulatively, there tinib was 996 ± 513 ng/mL and 846 ± 335 ng/mL on day 15
+were 45 patients (70.3%) who were on study treatment for (C1D15) and day 29 (C2D1), respectively. Dose normaliza-
+≥8 weeks (2 cycles) and 31 patients (48.4%) on study treat- tion of these means (i.e., dividing by 100 mg) resulted in
+ment for ≥16 weeks (4 cycles). One patient with prolonged values that were generally consistent with dose-normalized
+stable disease and 1 patient with prolonged objective results seen for other cabozantinib studies [22]. Steady
+response (each with a PFS duration of >1000 days and on state was reached by about day 15. Approximately fourfold
+study treatment >35 cycles) were eventually transitioned plasma accumulation of cabozantinib was observed in this
+onto a cabozantinib maintenance protocol and continued on study based on the day 29:day 1 concentration at 4 h post-
+therapy for an additional 18+ months. dose ratio, which was generally consistent with the results
+1 3
+
+--- Page 8 ---
+9 30 Cancer Chemother Pharmacol (2017) 79:923–932
+reported in other studies. Plasma concentrations of cabo- the single-agent cabozantinib arm of phase II, expansion of
+zantinib were maintained over an extended dosing period that arm into the second stage of enrollment did not occur
+(through study day 60) for both the single-agent cabozan- for logistical reasons, preventing further assessment of sin-
+tinib and cabozantinib/erlotinib arms during phase II (data gle-agent activity. Toxicity was as expected in phase II. The
+not shown). No marked difference in plasma cabozantinib most frequent grade 3/4 AEs were hypertension, hypona-
+concentration was seen between the cabozantinib vs cabo- tremia, and fatigue for the cabozantinib arm and diarrhea
+zantinib/erlotinib arms; there was no evidence to suggest and dehydration for the cabozantinib/erlotinib arm. The
+that co-administration of erlotinib markedly altered cabo- most frequent AE leading to study drug modification in the
+zantinib PK. cabozantinib arm was PPES, whereas diarrhea, dehydra-
+Interpatient variability (coefficient of variance, CV%) in tion, and PPES were the most frequent AEs leading to dose
+erlotinib pre-dose concentrations (79.8 and 59.8% on day modification in the combination arm.
+15 and day 29, respectively) was consistent with the pub- One treatment-related death occurred in the phase II
+lished values [24, 25]. Furthermore, the mean dose-nor- cabozantinib/erlotinib arm from an intracranial hemor-
+malized erlotinib pre-dose concentration on day 15 (i.e., rhage. Two other patients experienced non-fatal central
+355 ng/mL for 50-mg erlotinib = 7.1 ng/mL/mg) was gen- nervous system events, 1 with a transient ischemic attack
+erally consistent with the published results for steady-state (combination arm) and 1 with a hemorrhagic stroke (cabo-
+erlotinib minimum concentration (C ), in which a mean zantinib). In phase Ib, 1 patient who died of PD had a
+min
+value of approximately 7.5 ng/mL/mg was observed across potential treatment-related toxicity of pulmonary hemor-
+the 50–200 mg erlotinib dose groups on day 24 [24, 25]. rhage nearly a month after study drug discontinuation.
+Taken together, there was no evidence to suggest that co- Severe hemorrhage is a rare but potentially fatal complica-
+administration of cabozantinib markedly altered erlotinib tion that has been reported with cabozantinib in other clini-
+PK. cal studies; thrombotic events have also been reported [26].
+Thus, caution is warranted with this combination.
+The ORR for phase I was 8.2% (5 of 61 patients) with
+Discussion no apparent dose–response trend among the combination
+cohorts, but there were no PRs in the 13 patients rand-
+Multiple strategies to overcome resistance to EGFR TKIs omized to the combination arm in phase II. There was 1
+have been explored over the past decade. The multi-TKI responder out of 15 (6.7%) in the phase II single-agent
+cabozantinib, with potent MET/AXL/VEGFR2 blockade, cabozantinib arm. Almost all patients enrolled in this
+seemed an ideal compound alone or in combination with study were previously treated with erlotinib; however, only
+erlotinib to overcome secondary erlotinib resistance. As patients enrolled in phase II were required to have previ-
+discovered in this phase Ib/II trial, however, this strategy ously experienced a response or prolonged stable disease
+resulted in increased frequency of overlapping toxicities, and subsequently progressed during erlotinib treatment
+most notably, diarrhea. Nevertheless, phase Ib established (acquired resistance). The addition of cabozantinib to erlo-
+2 combination MTDs to bring forward into future tri- tinib in the phase II combination arm did not restore sen-
+als. Dose escalation was explored in 2 parallel arms, each sitivity to EGFR TKI therapy, although this arm was rela-
+maximizing doses of cabozantinib (Arm A) and erlotinib tively small.
+(Arm B). Dose escalation was limited predominantly by The limited efficacy of the cabozantinib/erlotinib combi-
+diarrhea. Eventually, the MTD for the combination of cabo- nation in phase II is perhaps not surprising given the infor-
+zantinib/erlotinib in Arm A was determined to be 100-mg mation that has emerged since the initiation of this trial
+cabozantinib/50-mg erlotinib (maximizing the cabozantinib implicating secondary mutations in EGFR (e.g., T790M) as
+dose) and the MTD in Arm B was determined to be 40-mg a more common resistance mechanism than MET amplifi-
+cabozantinib/150-mg erlotinib (maximizing the erlotinib cation (the rationale for this study) [7]. Other trials focused
+dose). These MTDs were below the maximum planned on MET inhibition to prevent or delay EGFR TKI resist-
+doses, but were based on the toxicities observed in this ance have also had limited success [27]. Thus, a study
+trial. Other toxicities were as expected for a combination of limitation is the lack of routine testing for EGFR-activating
+EGFR and VEGFR inhibition, including PPES and hyper- mutations, which was not standard at the time this trial was
+tension. PK analysis revealed no evidence that co-adminis- conducted (first patient enrolled February 12, 2008). We
+tration of the agents markedly altered the PK of either drug, did not verify patient EGFR-activating mutation status, as
+despite both being CYP3A4 substrates. patients were selected based on clinical criteria of response
+Phase II evaluated single-agent cabozantinib at 100 mg to EGFR TKI (a reasonable surrogate) or at least 6 months
+and the combination MTD of Arm A from phase I (100-mg of stable disease on erlotinib before progression, which
+cabozantinib/50-mg erlotinib). Although there was a PR in
+1 3
+
+--- Page 9 ---
+Cancer Chemother Pharmacol (2017) 79:923–932 931
+may have allowed a significant number of patients without Compliance with ethical standards
+true EGFR-activating mutations onto the trial.
+As the patients enrolled in the current study were likely Conflict of interest H.A. Wakelee received consultant fees and
+heterogeneous with respect to EGFR mutation status and honoraria from Peregrine, Acea, Pfizer, Helsinn, Genentech (uncom-
+pensated), and received research/grants from Clovis, Exelixis, As-
+mechanisms of resistance to prior EGFR TKI treatment, it is
+traZeneca/MedImmune, Genentech/Roche, BMS, Gilead, Novartis,
+difficult to draw firm conclusions about the clinical activity of Xcovery, Pfizer, Celgene, Pharmacyclics, and Lilly. S. Gettinger, D.S.
+cabozantinib in EGFR mutant NSCLC. The responses seen Subramaniam, J. Leach, and M. Wax have no conflicts of interest to
+with the combination in phase I and the response seen with report. J. Engelman is an employee of Novartis and has received eq-
+uity in Novartis. P. A. Jänne has received consulting fees for drug de-
+single-agent cabozantinib in phase II supported additional
+velopment from AstraZeneca, Boehringer Ingleheim, Pfizer, Roche,
+investigations of cabozantinib in NSCLC. A randomized Genentech, ARIAD Pharmaceuticals, Ignyta, and LOXO Oncology;
+discontinuation trial of cabozantinib in unselected patients sponsored research funding from AstraZeneca, PUMA, and Daiichi-
+with NSCLC reported a single-agent response rate of 10% Sankyo; and post-marketing royalties on DFC-owned intellectual
+property on EGFR mutations licensed to Lab Corp. H. West received
+[28]. The California Cancer Consortium completed a phase II
+consultant fees and honoraria from AstraZeneca, Boehringer Ingle-
+study of 37 patients with NSCLC and an EGFR mutation who heim, Genentech/Roche, and TrovaGene. Y. Yaron is an employee of
+had progressed on prior EGFR TKI therapy using the com- Exelixis and owns stock and stock options in Exelixis. D. R. Miles was
+bination dose of 40 mg qd for cabozantinib and 150 mg qd an employee of Exelixis and received stock from Exelixis when the
+study was underway. P.N. Lara received consultant fees from Exelixis.
+for erlotinib [29]. The reported toxicities in this phase II
+trial were similar to those reported in the current study. The Ethical approval All procedures performed in studies involving
+response rate was 5.4% and the disease control rate (defined human participants were in accordance with the ethical standards of
+as PR or SD ≥8 weeks) was 67.6%. Furthermore, the role of the institutional and/or national research committee and with the 1964
+Helsinki declaration and its later amendments or comparable ethical
+VEGF inhibition to delay erlotinib resistance in patients with
+standards.
+EGFR mutation NSCLC recently received renewed inter-
+est with publication of a positive phase II trial looking at the
+Informed consent Informed consent was obtained from all individ-
+addition of the VEGF antibody bevacizumab to single-agent ual participants included in the study.
+erlotinib as a first-line strategy [12]. Taken together, further
+exploration of cabozantinib in combination with erlotinib in
+Open Access This article is distributed under the terms of the
+patients with EGFR mutations is warranted, possibly select- Creative Commons Attribution 4.0 International License (http://
+ing patients based on MET expression. creativecommons.org/licenses/by/4.0/), which permits unrestricted
+Cabozantinib, with and without erlotinib, also holds use, distribution, and reproduction in any medium, provided you give
+appropriate credit to the original author(s) and the source, provide a
+promise in other subsets of NSCLC. Activity with single-
+link to the Creative Commons license, and indicate if changes were
+agent cabozantinib has been reported in a small series of made.
+patients with NSCLC with translocations in ROS1 [30] or
+RET mutations [31]. Specific trials in these patient popu-
+lations are ongoing or planned. A phase II trial (E1512)
+References
+focused on patients with EGFR wildtype disease rand-
+omized patients to either erlotinib alone (150 mg po qd),
+1. Rosell R, Carcereny E, Gervais R et al (2012) Erlotinib ver-
+cabozantinib alone (60 mg po qd), or in combination sus standard chemotherapy as first-line treatment for European
+(150 mg erlotinib/40 mg cabozantinib), with crossover to patients with advanced EGFR mutation-positive non-small-cell
+lung cancer (EURTAC): a multicentre, open-label, randomised
+the combination for those with PD on either single agent.
+phase 3 trial. Lancet Oncol 13(3):239–246
+The study showed a significant improvement in PFS and
+2. Engelman JA, Zejnullahu K, Mitsudomi T et al (2007) MET
+OS with the cabozantinib-containing arms compared with amplification leads to gefitinib resistance in lung cancer by acti-
+single-agent erlotinib; follow-up studies are currently in vating ERBB3 signaling. Science 316(5827):1039–1043
+3. Jackman D, Pao W, Riely GJ et al (2010) Clinical definition of
+development [32]. Correlative analyses of outcomes with
+acquired resistance to epidermal growth factor receptor tyros-
+MET, KRAS, and other known driver mutations are ongo-
+ine kinase inhibitors in non-small-cell lung cancer. J Clin Oncol
+ing. These additional studies will provide further insight 28(2):357–360
+into a potential role for cabozantinib in the treatment of 4. Balak MN, Gong Y, Riely GJ et al (2006) Novel D761Y and
+common secondary T790M mutations in epidermal growth fac-
+NSCLC.
+tor receptor-mutant lung adenocarcinomas with acquired resist-
+ance to kinase inhibitors. Clin Cancer Res 12(21):6494–6501
+Acknowledgements This study was supported by Exelixis Inc. 5. Kobayashi S, Boggon TJ, Dayaram T et al (2005) EGFR muta-
+(South San Francisco, CA) and was also supported in part by CTSA tion and resistance of non-small-cell lung cancer to gefitinib. N
+award number UL1 RR025744 (STANFORD CTRU) from the Engl J Med 352(8):786–792
+National Center for Research Resources, National Institutes of Health. 6. Gazdar AF (2009) Activating and resistance mutations of EGFR
+Editorial assistance was provided by Michael Raffin (Fishawack Com- in non-small-cell lung cancer: role in clinical response to EGFR
+munications, Conshohocken, PA), which was supported by Exelixis. tyrosine kinase inhibitors. Oncogene 28 Suppl 1:S24-31
+1 3
+
+--- Page 10 ---
+9 32 Cancer Chemother Pharmacol (2017) 79:923–932
+7. Sequist LV, Waltman BA, Dias-Santagata D et al (2011) Geno- prognosis in non-small-cell lung cancer patients. Br J Cancer
+typic and histological evolution of lung cancers acquiring resist- 90(8):1555–1562
+ance to EGFR inhibitors. Sci Transl Med 3(75):75ra26 21. Therasse P, Arbuck SG, Eisenhauer EA et al (2000) New guide-
+8. Yu HA, Arcila ME, Rekhtman N et al (2013) Analysis of tumor lines to evaluate the response to treatment in solid tumors.
+specimens at the time of acquired resistance to EGFR-TKI ther- European Organization for Research and Treatment of Cancer,
+apy in 155 patients with EGFR-mutant lung cancers. Clin Cancer National Cancer Institute of the United States, National Cancer
+Res 19(8):2240–2247 Institute of Canada. J Natl Cancer Inst 92(3):205–216
+9. Yano S, Wang W, Li Q et al (2008) Hepatocyte growth factor 22. Kurzrock R, Sherman SI, Ball DW et al (2011) Activity
+induces gefitinib resistance of lung adenocarcinoma with epi- of XL184 (Cabozantinib), an oral tyrosine kinase inhibi-
+dermal growth factor receptor-activating mutations. Cancer Res tor, in patients with medullary thyroid cancer. J Clin Oncol
+68(22):9479–9487 29(19):2660–2666
+10. Rho JK, Choi YJ, Kim SY et al (2014) MET and AXL inhibi- 23. Tarceva (erlotinib) (2016) Prescribing information. Genentech,
+tor NPS-1034 exerts efficacy against lung cancer cells resistant South San Francisco
+to EGFR kinase inhibitors because of MET or AXL activation. 24. Hidalgo M, Siu LL, Nemunaitis J et al (2001) phase I and phar-
+Cancer Res 74(1):253–262 macologic study of OSI-774, an epidermal growth factor recep-
+11. Tang Z, Du R, Jiang S et al (2008) Dual MET-EGFR combinato- tor tyrosine kinase inhibitor, in patients with advanced solid
+rial inhibition against T790M-EGFR-mediated erlotinib-resistant malignancies. J Clin Oncol 19(13):3267–3279
+lung cancer. Br J Cancer 99(6):911–922 25. Hidalgo M, Bloedow D (2003) Pharmacokinetics and phar-
+12. Seto T, Kato T, Nishio M et al (2014) Erlotinib alone or with macodynamics: maximizing the clinical potential of Erlotinib
+bevacizumab as first-line therapy in patients with advanced non- (Tarceva). Semin Oncol 30(3 Suppl 7):25–33
+squamous non-small-cell lung cancer harbouring EGFR muta- 26. Elisei R, Schlumberger MJ, Muller SP et al (2013) Cabozan-
+tions (JO25567): an open-label, randomised, multicentre, phase tinib in progressive medullary thyroid cancer. J Clin Oncol
+2 study. Lancet Oncol 15(11):1236–1244 31(29):3639–3646
+13. Herbst RS, Ansari R, Bustin F et al (2011) Efficacy of bevaci- 27. Spigel DR, Edelman MJ, O’Bryne K et al (2014) Onartuzumab
+zumab plus erlotinib versus erlotinib alone in advanced non- plus erlotinib versus erlotinib in previously treated stage IIIb or
+small-cell lung cancer after failure of standard first-line chemo- IV NSCLC: results from the pivotal phase III randomized, mul-
+therapy (BeTa): a double-blind, placebo-controlled, phase 3 trial. ticenter, placebo-controlled METLung (OAM4971g) global trial.
+The Lancet 377(9780):1846–1854 J Clin Oncol 32(suppl; abstr 8000):5s
+14. Janne PA, Wax M, Leach J, Engelman J (2008) Targeting MET 28. Hellerstedt BA, Edelman G, Vogelzang NJ et al (2012) Activ-
+with XL184 to reverse EGFR tyrosine kinase inhibitor (TKI) ity of cabozantinib (XL184) in metastatic NSCLC: results from
+resistance in NSCLC: impact of preclinical studies on clinical a phase II randomized discontinuation trial (RDT). J Clin Oncol
+trial design. EJC Supplements 6(12): 174 (Abstract 552) 30(suppl; abstr 7514)
+15. Yakes FM, Chen J, Tan J et al (2011) Cabozantinib (XL184), a 29. Reckamp KL, P.H. F, Mack PC et al (2014) Phase II trial of
+novel MET and VEGFR2 inhibitor, simultaneously suppresses XL184 (cabozantinib) plus erlotinib in patients (pts) with
+metastasis, angiogenesis, and tumor growth. Mol Cancer Ther advanced EGFR-mutant non-small cell lung cancer (NSCLC)
+10(12):2298–2308 with progressive disease (PD) on epidermal growth factor recep-
+16. Viola D, Cappagli V, Elisei R (2013) Cabozantinib (XL184) for tor (EGFR) tyrosine kinase inhibitor (TKI) therapy: a Califor-
+the treatment of locally advanced or metastatic progressive med- nia Cancer Consortium phase II trial (NCI 9303). J Clin Oncol
+ullary thyroid cancer. Future Oncol 9(8):1083–1092 32(suppl; abstr 8014)
+17. Bentzien F, Zuzow M, Heald N et al (2013) In vitro and in vivo 30. Katayama R, Kobayashi Y, Friboulet L et al (2015) Cabozantinib
+activity of cabozantinib (XL184), an inhibitor of RET, MET, Overcomes Crizotinib Resistance in ROS1 Fusion-Positive Can-
+and VEGFR2, in a model of medullary thyroid cancer. Thyroid cer. Clin Cancer Res 21(1):166–174
+23(12):1569–1577 31. Mukhopadhyay S, Pennell NA, Ali SM et al (2014) RET-rear-
+18. Choueiri TK, Escudier B, Powles T et al (2015) Cabozantinib ranged lung adenocarcinomas with lymphangitic spread, psam-
+versus everolimus in advanced renal-cell carcinoma. N Engl J moma bodies, and clinical responses to cabozantinib. J Thorac
+Med 373(19):1814–1823 Oncol 9(11):1714–1719
+19. Choueiri TK, Escudier B, Powles T et al (2016) Cabozantinib 32. Neal JW, Dahlberg SE, Wakelee HA et al (2016) Erlotinib, cabo-
+versus everolimus in advanced renal cell carcinoma (METEOR): zantinib, or erlotinib plus cabozantinib as second-line or third-
+final results from a randomised, open-label, phase 3 trial. Lancet line treatment of patients with EGFR wild-type advanced non-
+Oncol 17(7):917–927 small-cell lung cancer (ECOG-ACRIN 1512): a randomised,
+20. Masuya D, Huang C, Liu D et al (2004) The tumour-stro- controlled, open-label, multicentre, phase 2 trial. Lancet Oncol.
+mal interaction between intratumoral c-Met and stromal doi:10.1016/S1470-2045(16)30561-7
+hepatocyte growth factor associated with tumour growth and
+1 3

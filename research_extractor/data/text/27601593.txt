@@ -1,0 +1,1698 @@
+Source: 27601593.pdf
+Extracted on: Fri Sep 12 23:56:46 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Published in final edited form as:
+Clin Cancer Res. 2017 March 01; 23(5): 1167–1176. doi:10.1158/1078-0432.CCR-16-0772.
+Phase I Study of the Anti-CD22 Antibody–Drug Conjugate
+Pinatuzumab Vedotin with/without Rituximab in Patients with
+Relapsed/Refractory B-cell Non-Hodgkin Lymphoma
+Ranjana H. Advani1, Daniel Lebovic2, Andy Chen3, Mark Brunvand4, Andre Goy5, Julie E.
+Chang6, Ephraim Hochberg7, Sreeni Yalamanchili8, Robert Kahn8, Dan Lu8, Priya Agarwal8,
+Randall C. Dere8, Hsin-Ju Hsieh8, Surai Jones8, Yu-Waye Chu8, and Bruce D. Cheson9
+1Stanford University Medical Center, Stanford, California
+2University of Michigan Medical School, Ann Arbor, Michigan
+3Oregon Health and Science University, Portland, Oregon
+4Rocky Mountain Cancer Center, Denver, Colorado
+5Hackensack University Medical Center, Hackensack, New Jersey
+6University of Wisconsin-Madison, Madison, Wisconsin
+7Massachusetts General Hospital, Boston, Massachusetts
+8Genentech, Inc., South San Francisco, California
+9Georgetown University Hospital, Washington, D.C
+Abstract
+Corresponding Author: Ranjana H. Advani, Department of Medicine (Oncology), Stanford University Medical Center, 875 Blake
+Wilbur Drive, CC-2338, Stanford, CA 94305. Phone: 650-725-6456; Fax: 650-725-8222; radvani@stanford.edu.
+Current address for D. Lebovic: St. John Hospital and Medical Center, Grosse Pointe Woods, Michigan; current address for M.
+Brunvand, Colorado Blood Cancer Institute, Denver, Colorado; and current address for S. Yalamanchili, Stemcentrx, South San
+Francisco, California.
+Note: Supplementary data for this article are available at Clinical Cancer Research Online (http://clincancerres.aacrjournals.org/).
+Disclosure of Potential Conflicts of Interest
+R.H. Advani, A. Chen, and B.D. Cheson are consultant/advisory board members for Genentech. M. Brunvand reports receiving
+speakers bureau honoraria from Genentech. A. Goy reports receiving other commercial research support from Celgene, Genentech,
+and Pharmacyclics/J&J; speakers bureau honoraria from and is a consultant/advisory board member for Acerta, Celgene,
+Pharmacyclics/J&J, and Takeda. Y.-W. Chu holds ownership interest (including patents) in Roche. No potential conflicts of interest
+were disclosed by the other authors.
+Authors’ Contributions
+Conception and design: R.H. Advani, S. Yalamanchili, R. Kahn, D. Lu, Y.-W. Chu
+Development of methodology: S. Yalamanchili, R. Kahn, D. Lu, R. Dere, Y.-W. Chu
+Acquisition of data (provided animals, acquired and managed patients, provided facilities, etc.): R.H. Advani, D. Lebovic, A.
+Chen, M. Brunvand, A. Goy, J.E. Chang, E. Hochberg, Y.-W. Chu, B.D. Cheson
+Analysis and interpretation of data (e.g., statistical analysis, biostatistics, computational analysis): R.H. Advani, M. Brunvand,
+A. Goy, S. Yalamanchili, R. Kahn, D. Lu, P. Agarwal, R. Dere, H.-J. Hsieh, S. Jones, Y.-W. Chu
+Writing, review, and/or revision of the manuscript: R.H. Advani, D. Lebovic, A. Chen, M. Brunvand, A. Goy, S. Yalamanchili, R.
+Kahn, D. Lu, P. Agarwal, R. Dere, H.-J. Hsieh, S. Jones, Y.-W. Chu, B.D. Cheson
+Administrative, technical, or material support (i.e., reporting or organizing data, constructing databases): R.H. Advani
+Study supervision: R.H. Advani, M. Brunvand, A. Goy, S. Yalamanchili, R. Kahn, Y.-W. Chu
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Advani et al. Page 2
+Purpose—Pinatuzumab vedotin is an antibody–drug conjugate with the potent antimicrotubule
+agent monomethyl auristatin E (MMAE) conjugated to an anti-CD22 antibody via a protease-
+cleavable linker. This phase I study determined its recommended phase II dose (RP2D) and
+evaluated its safety, tolerability, and antitumor activity alone and with rituximab in relapsed/
+refractory (r/r) non-Hodgkin lymphoma (NHL) and chronic lymphocytic leukemia (CLL).
+Experimental Design—Patients received escalating doses of pinatuzumab vedotin every 21
+days. Clinical activity at the RP2D alone or with rituximab was evaluated in r/r diffuse large B-cell
+lymphoma (DLBCL) and r/r indolent NHL (iNHL) patients.
+Results—Seventy-five patients received single-agent pinatuzumab vedotin. The RP2D was 2.4
+mg/kg, based on dose-limiting toxicities (DLT) of grade 4 neutropenia >7 days in 1 of 3 patients
+and grade 4 neutropenia <7 days in 2 of 3 patients treated at 3.2 mg/kg (maximum assessed dose).
+No DLTs occurred at 2.4 mg/kg. At the RP2D, neutropenia was the mostcommon grade ≥3
+adverse event. Peripheral neuropathy–related grade ≥2 adverse events most frequently resulted in
+treatment discontinuation. Rituximab cotreatment did not impact safety, tolerability, or
+pharmacokinetics of pinatuzumab vedotin. Unconjugated MMAE exposure was much lower than
+antibody-conjugated MMAE exposure, without accumulation with repeat dosing. At the RP2D,
+objective responses were observed in DLBCL (9/25) and iNHL (7/14) patients; 2 of 8 patients
+treated with pinatuzumab vedotin (RP2D) and rituximab had complete responses. CLL patients
+showed no objective responses.
+Conclusions—The RP2D of pinatuzumab vedotin alone and with rituximab was 2.4 mg/kg,
+which was well tolerated, with encouraging clinical activity in r/r NHL.
+Introduction
+Despite improvements in outcomes of patients with B-cell non-Hodgkin lymphoma (NHL)
+and chronic lymphocytic leukemia (CLL), many patients experience disease recurrence or
+progression. Such patients have incurable disease requiring repeated courses of treatment,
+with survival ranging from less than 1 year for diffuse large B-cell lymphoma (DLBCL; ref.
+1) to several years for indolent NHL (iNHL; refs. 2, 3). Treatments that significantly extend
+disease-free intervals and overall survival with minimal treatment-associated toxicity
+continue to be an unmet need.
+Antibody–drug conjugates (ADC) directed against tumor-associated surface antigens
+provide targeted delivery of chemotherapy, with the goal of improving potency while
+reducing systemic cytotoxic effects.
+CD22 is an accessory molecule that plays a role in B-cell antigen receptor signaling and is
+expressed on mature B cells, more than 95% of B-cell NHL, as well as in CLL (ref. 4;
+Genentech, data on file). The lineage specificity of CD22 makes it an attractive target for
+antibody-based therapeutics. Epratuzumab, a mAb targeting CD22, relies on antibody-
+dependent cellular cytotoxicity (ADCC) for antitumor activity, similar to rituximab. It has
+been tested clinically, has an acceptable safety profile and single-agent activity in patients
+with DLBCL and iNHL (5, 6), and is combinable with standard anti-lymphoma treatment
+regimens (7).
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Advani et al. Page 3
+ADCs targeting CD22 internalize upon binding to the target, which is considered essential
+for ADC activity, and have demonstrated preclinical antitumor activity (8). Pinatuzumab
+vedotin is an ADC consisting of the microtubule-disrupting agent, monomethyl auristatin E
+(MMAE), conjugated to an anti-CD22 mAbvia the protease-cleavable peptide linker
+maleimidocaproylvaline-citrulline(vc)-p-aminobenzoyloxycarbonyl (9–11). MMAE has a
+mode of action similar to vincristine, which is commonly used to treat NHL and is the
+cytotoxic component of the anti-CD30–targeting ADC, brentuximab vedotin, which is
+approved for the treatment of Hodgkin lymphoma and systemic anaplastic large-cell
+lymphoma (12). While the unconjugated antibody of pinatuzumab vedotin demonstrated
+modest activity against tumor xenografts in mouse models of NHL, suggestive of some level
+of ADCC and/or complement-dependent cytotoxicity, tumor regression was significantly
+more pronounced with treatment with the ADC format (13). Together, these data supported
+the clinical feasibility of a CD22-directed ADC for the treatment of B-cell malignancies.
+The goals of this multicenter, open-label phase I study were to identify the recommended
+phase II dose (RP2D) and investigate the safety, tolerability, pharmacokinetics, and
+preliminary antitumor activity of pinatuzumab vedotin in patients with NHL and CLL.
+Materials and Methods
+Study design and patients
+This phase I, multicenter, open-label study employed a 3 + 3 dose-escalation design to
+determine the MTD. Eight centers enrolled patients with relapsed/refractory (r/r) diffuse
+DLBCL, iNHL (including follicular lymphoma, marginal zone lymphoma, and small
+lymphocytic lymphoma), mantle cell lymphoma (MCL), and CLL, and for whom no suitable
+therapy of curative intent or higher priority existed. Demonstration of tumor CD22
+expression was not required. Eligibility criteria included: age ≥18 years; Eastern Cooperative
+Oncology Group (ECOG) performance status ≤2; measurable disease; adequate end-organ
+function as assessed by standard laboratory chemistries and hematology tests; no prior
+antibody or ADC within 4 weeks; no radiotherapy, chemotherapy, or investigational
+treatment within two weeks prior to the first dose of pinatuzumab vedotin; no prior
+allogeneic stem cell transplant; no autologous stem cell transplant within 100 days of first
+study treatment administration; no history of central nervous system lymphoma; grade ≤1
+peripheral neuropathy.
+The protocol was approved by institutional review boards prior to patient recruitment and
+was conducted in accordance with International Conference on Harmonization (ICH) E6
+Guidelines for Good Clinical Practice. All patients signed an informed consent prior to
+enrollment. This study is registered on Clinical-Trials.gov as NCT01209130.
+Procedures
+Pinatuzumab vedotin (Genentech, Inc.) was administered intravenously over 30–90 minutes
+in 21-day cycles, with the starting dose of 0.1 mg/kg based on preclinical toxicology and
+pharmacokinetic data of pinatuzumab vedotin in cynomolgus monkeys (Genentech, Inc.;
+data on file). Patients were monitored during the first cycle for dose-limiting toxicities
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Advani et al. Page 4
+(DLT) defined as: grade ≥3 nonhematologic toxicity, excluding nausea or vomiting in the
+absence of premedication or that could be medically managed; febrile neutropenia; grade ≥3
+neutropenia without recovery by at least one grade/week in the absence of growth factor
+support (growth factor support was permitted beyond the first cycle); grade ≥3
+thrombocytopenia without recovery by at least one grade/week in the absence of bleeding,
+associated with bleeding, or requirement for platelet transfusion. The highest dose where
+<33% of a minimum of 6 patients experienced a DLT was designated as the MTD. The
+RP2D was determined on the totality of the data observed in the dose-escalation cohorts,
+including pharmacokinetics, DLTs, safety, and tolerability. Decisions regarding dose
+escalation were not made until all patients enrolled in the dose-escalation cohort, regardless
+of number, were evaluated through the DLT observation period. In the absence of toxicities,
+intrapatient dose escalation to the highest cleared dose level was permitted.
+Indication-specific expansion cohorts (r/r DLBCL and r/r iNHL) were enrolled to further
+assess the safety and tolerability and to preliminarily assess efficacy of pinatuzumab vedotin
+at the RP2D. An additional cohort was enrolled to receive pinatuzumab vedotin at the RP2D
+combined with rituximab (375 mg/m2) every 21 days.
+Study treatment (single-agent pinatuzumab vedotin or pinatuzumab vedotin plus rituximab)
+was continued until progression of disease, unacceptable toxicity, or patient or physician
+decision. Following documented disease progression, patients were followed until resolution
+or stabilization of treatment-emergent adverse events (AE). Patients who discontinued study
+treatment for reasons other than progression of disease were followed for response and
+survival for up to one year. For patients with treatment-emergent grade 3–4 non-neuropathic
+AEs and grade 2–3 peripheral sensory neuropathy AEs, treatment delays of up to two weeks
+were permitted. Patients were permitted to resume treatment at the end of two weeks upon
+resolution of the AE(s). In these cases, patient doses were reduced to a previously
+established dose level. Rituximab dose modifications were not permitted.
+Toxicities were graded according to the National Cancer Institute Common Terminology
+Criteria for Adverse Events version 4.0 (NCI CTCAE 2014). Adverse events were coded to
+preferred terms as defined by the Medical Dictionary for Regulatory Activities (MedDRA).
+Laboratory monitoring (hematology and serum chemistries) was conducted at least weekly
+for the first four cycles, then on day 1 and day 15 of each cycle thereafter. Investigator-based
+assessments of antitumor activity using CT, CT-positron emission tomography (PET), or
+MRI scans, in accordance with standard response criteria for NHL (14) or CLL (15), were
+conducted every three months, independently of treatment schedule.
+The pharmacokinetic profile of pinatuzumab vedotin was characterized by analysis of serum
+total antibody (TAb; including conjugated and deconjugated antibody) and rituximab, as
+measured by a validated ELISA (Genentech, Inc.; data on file); and plasma conjugate
+[antibody-conjugated MMAE (acMMAE)] and unconjugated MMAE as measured by
+validated LC/MS-MS (Genentech, Inc.; data on file). Pharmacokinetic parameters were
+derived using noncompartmental analysis (WinNonlin, Version 5.2.1; Pharsight).
+Antitherapeutic antibodies (ATA) were measured in serum by validated ELISA (Genentech,
+Inc.; data on file) and further characterized by competitive binding with unconjugated anti-
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Advani et al. Page 5
+CD22 antibody to determine whether responses were primarily directed against the antibody
+or the linker-drug portion of the ADC.
+Outcomes
+The primary objectives were to evaluate the safety and tolerability of pinatuzumab vedotin
+administered every 21 days in patients with r/r NHL and CLL, determine the MTD and
+DLTs of pinatuzumab vedotin, identify an RP2D for pinatuzumab vedotin, and assess the
+safety and tolerability of pinatuzumab vedotin combined with rituximab in patients with r/r
+NHL. Secondary objectives were to characterize the pharmacokinetics of pinatuzumab
+vedotin, determine the incidence of ATAs, and preliminarily evaluate antitumor activity per
+standard response criteria (14, 15).
+Statistical analysis
+Sample-size determinations were not based on explicit power and type I error assumptions,
+but rather to obtain sufficient safety, antitumor activity, and pharmacokinetic data to inform
+subsequent clinical testing of pinatuzumab vedotin. Planned enrollment of 30–50 patients
+during dose escalation was based upon the assumption that 5–8 cohorts containing 3–6
+patients each would be enrolled, with allowances for patient replacement. An objective
+response rate (ORR) ≥30% with single-agent pinatuzumab vedotin would be viewed as
+encouraging. For an ORR ≥30%, the probability of observing ≥2 responses among 10
+patients is ≥85% and the probability of observing ≥4 responses among 20 patients is ≥89%.
+Together, the total planned sample size for escalation and expansion was 80–100 patients.
+Patients who received any amount of pinatuzumab vedotin were evaluable for safety
+analyses. Patients with baseline measurable disease and at least one post-baseline tumor
+assessment following pinatuzumab vedotin treatment were evaluable for efficacy analyses.
+Progression-free survival (PFS) and duration of response (DOR) were analyzed by the
+Kaplan–Meier method and were defined as the time from the first day of study treatment and
+response, respectively, to disease progression or death. In the absence of progressive disease,
+death, or loss to follow-up, PFS and DOR were censored for survival analysis at the day of
+the last tumor assessment.
+Statistical analyses were conducted using SAS, version 9.2 (SAS Institute).
+Results
+Patient enrollment, treatment, and DLT determination
+Between October 26, 2010 and December 12, 2012, 91 patients were enrolled into the study
+(Supplementary Fig. S1; Supplementary Table S1). Seventy-five patients were treated with
+single-agent pinatuzumab vedotin and 16 patients were treated with pinatuzumab vedotin
+combined with rituximab. Patient baseline and disease characteristics are shown in Table 1.
+Thirty-two NHL patients were treated with single-agent pinatuzumab vedotin at dose levels
+of 0.1, 0.25, 0.5, 1.0, 1.8, 2.4, and 3.2 mg/kg. One DLT of grade 4 neutropenia with delayed
+recovery was observed among 3 evaluable patients treated at the 3.2-mg/kg dose level. The
+other two patients treated at the 3.2-mg/kg dose level experienced grade 4 neutropenia with
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Advani et al. Page 6
+recovery occurring in fewer than 7 days. On the basis of these observations, while 3.2 mg/kg
+did not exceed the protocol-defined MTD, no further dose escalation was tested. None of the
+6 patients treated in the 2.4 mg/kg dose escalation cohort experienced a DLT. Consequently,
+2.4 mg/kg every 21 days was designated the RP2D in r/r NHL. Thirty-nine NHL patients
+were treated with single-agent pinatuzumab vedotin at the RP2D, including 25 with DLBCL
+and 14 with iNHL (including one patient with transformed follicular lymphoma), with a
+median of 5 cycles (range 1–19) for DLBCL patients and a median of 5 cycles (range 1–27)
+for iNHL patients.
+A total of 16 patients received pinatuzumab vedotin in combination with rituximab; 5
+patients received pinatuzumab vedotin at 1.8 mg/kg and 11 received pinatuzumab vedotin at
+2.4 mg/kg. No DLTs were observed in any patient; 2 patients who were enrolled to receive
+pinatuzumab vedotin at 2.4 mg/kg were not evaluable for DLTs because of clinical disease
+progression during the DLT observation period. Patients receiving the combination received
+a median of 5.5 cycles (range 1–24).
+Ten patients with CLL were treated with pinatuzumab vedotin at 1.0, 1.8, and 2.4 mg/kg. No
+DLTs were observed. Because enrollment of CLL patients was terminated by the sponsor,
+the MTD was not formally determined.
+Safety
+Treatment-emergent AEs with single-agent pinatuzumab vedotin by assigned dose level and
+histology and grade 3–5 treatment-emergent AEs with single-agent pinatuzumab vedotin
+across all dose levels and histologies (NHL and CLL), regardless of attribution to the study
+drug by the treating physician, are shown in Supplementary Table S2.
+Most AEs reported in the 39 NHL patients treated at the RP2D (2.4 mg/kg) were grade 1–2
+in severity (Fig. 1). Twenty-seven (69%) patients reported grade 3–4 adverse events; the
+most common in ≥2 patients included neutropenia, fatigue, peripheral sensory neuropathy,
+hyperglycemia, and anemia. Grade 3 febrile neutropenia was reported in one patient. Serious
+AEs were reported in 13 (33%) NHL patients. Pyrexia was reported in 3 patients and
+dyspnea in 2 patients; otherwise, no single serious AE was reported in ≥2 patients. Thirteen
+(33%) patients discontinued pinatuzumab vedotin treatment due to an AE. Peripheral
+neuropathy–related AEs led to treatment discontinuation in 11 patients (peripheral sensory
+neuropathy in 7 patients, peripheral motor neuropathy in 2 patients, peripheral sensorimotor
+neuropathy and undefined in one patient each); no other AE led to treatment discontinuation
+in >1 patient. Sixteen (41%) patients had at least one dose delay due to an adverse event.
+Nine patients had a dose reduction to 1.8 mg/kg: 6 for peripheral neuropathy and 1 each for
+neutropenia, pancreatitis, and fatigue.
+Among the 10 patients with CLL who were treated with pinatuzumab vedotin across all
+assessed dose levels, 3 patients had a grade 3 event, one patient had a grade 4 event and one
+patient had a grade 5 event of progressive disease. No single grade 3–5 event was reported in
+more than one patient. With the exception of the patient who discontinued due to grade 5
+progressive disease, no dose reductions or treatment discontinuations for adverse events
+were reported.
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Advani et al. Page 7
+Among the 16 patients treated with pinatuzumab vedotin (both 1.8 mg/kg and 2.4 mg/kg
+dose levels) combined with rituximab, the most common treatment-emergent AEs in ≥4
+patients were fatigue (n = 8), neutropenia (n = 6), diarrhea (n = 5), peripheral sensory
+neuropathy (n = 5), nausea (n = 4), and constipation (n = 4; Supplementary Table S2). Ten
+patients experienced a grade 3–4 AE: neutropenia (n = 4), peripheral sensory neuropathy (n
+= 2), and hyperglycemia (n = 2). Four patients discontinued study treatment for an AE:
+peripheral sensory neuropathy (n=2); increased blood creatinine phosphokinase; and clear-
+cell renal cell carcinoma (n = 1 each). Five patients had at least one dose delay for AEs and
+three had a dose reduction for AEs (n = 2 peripheral neuropathy and n = 1 neutropenia).
+A total of six deaths [DLBCL (n = 4), MCL (n = 1), and CLL (n = 1)] were reported 23–55
+days after the last dose of pinatuzumab vedotin. Four deaths were reported following single-
+agent pinatuzumab vedotin (progressive disease, n = 3; failure to thrive, n = 1) and 2
+following pinatuzumab vedotin combined with rituximab due to disease progression. None
+of the deaths were attributed to pinatuzumab vedotin by the treating investigator.
+AEs associated with peripheral neuropathy, as defined by the MedDRA Standardized Query,
+were reported in 23 of 39 (59%) NHL patients treated with single-agent pinatuzumab
+vedotin at the RP2D, and in 7 of 16 patients (44%) treated in combination with rituximab,
+and were grade ≤2 in 19 of 23 (83%) and 12 of 16 (75%), respectively. The median time to
+onset of the first peripheral neuropathy event was 2.8 months following a median of 2
+cycles. The median time to develop a grade ≥2 peripheral neuropathy was 6.2 months of
+treatment or a median of 7 cycles. Fifteen patients discontinued study treatment due to a
+peripheral neuropathy-related AE. No differences in time-to-onset were observed based on
+disease histology. The majority of study treatment discontinuations occurred with grade 2
+events at a median of 7.4 months [interquartile range (IQR) 5.1–10.3 months]. Among 33
+peripheral neuropathy events that resulted in treatment delays, dose reductions, or treatment
+discontinuations, complete resolution of the peripheral neuropathy event was reported in 10
+(30%). Prior history of peripheral neuropathy and/or prior treatment with vinca alkaloids,
+which were reported in 29 of 91 (32%) and 72 of 91 (79%) of all treated patients,
+respectively, were not associated with a higher incidence of peripheral neuropathy resulting
+from pinatuzumab vedotin treatment. The incidence of new or worsening peripheral
+neuropathy during pinatuzumab vedotin treatment was generally similar to that among
+patients who lacked either or both of these baseline factors (Supplementary Table S3).
+Pharmacokinetics
+Pharmacokinetic parameters for acMMAE, TAb, and unconjugated MMAE in NHL patients
+are summarized in Table 2. Concentration–time pharmacokinetic profiles are illustrated in
+Supplementary Fig. S2. Maximal concentrations (C ) for acMMAE and TAb were
+max
+observed at the end of infusion. At the RP2D, mean half-life (t ) and clearance (CL) values
+1/2
+for acMMAE and TAb were similar, with volumes of distribution for both largely
+approaching plasma volume. These parameters were not affected by rituximab
+coadministration. Unconjugated MMAE C was observed 2–4 days after pinatuzumab
+max
+vedotin administration (Supplementary Fig. S2). Unconjugated MMAE C and exposure
+max
+(AUC , area under the concentration–time curve from time 0 extrapolated to infinity) were
+inf
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Advani et al. Page 8
+much lower than those of acMMAE. At 2.4 mg/kg, there was an approximate 124- to 165-
+fold difference for C and an approximate 42- to 70-fold difference for AUC between
+max inf
+acMMAE and unconjugated MMAE, respectively. No unconjugated MMAE accumulation
+was observed with repeat dosing.
+The pharmacokinetics of pinatuzumab vedotin in CLL patients was notable for faster
+acMMAE and TAb clearance compared with that observed in NHL patients at each
+corresponding dose level (Supplementary Table S4).
+For patients treated with single-agent pinatuzumab vedotin, 1 of 72 ATA-evaluable patients
+(1.4%) tested positive for ATAs. For patients treated in combination with rituximab, none of
+15 evaluable patients tested positive for ATAs. Together, the overall treatment-emergent ATA
+incidence was 1.1% (1/87). Characterization by competitive binding indicated that the
+antibody response was directed primarily to the antibody portion of pinatuzumab vedotin
+(Genentech, data on file).
+Antitumor activity
+The median duration of follow-up of all efficacy-evaluable patients across all dose levels
+was 3.8 months (range 0.07–27.6+ months, IQR 1.4–7.6 months). Objective responses are
+summarized in Table 3. Tumor reductions were mostly observed at pinatuzumab vedotin
+doses ≥1.8 mg/kg (Fig. 2). Objective responses at the single-agent RP2D included 5 of 20
+(25%) patients with refractory DLBCL [2 complete responses, 3 partial responses (PR)]; 1
+PR was observed among the 6 DLBCL patients treated with pinatuzumab vedotin combined
+with rituximab. Objective responses were observed in 5 of 12 (42%) patients with refractory
+iNHL treated with single-agent pinatuzumab vedotin (3 complete responses, 2 PRs) and 1
+PR of 3 patients treated with pinatuzumab vedotin plus rituximab.
+In DLBCL patients treated with single-agent pinatuzumab vedotin at the RP2D, the median
+PFS was 4.0 months [95% confidence interval (CI) 2.3–5.5 months, IQR 2.1–17 months;
+Fig. 3A]; the median DOR was 3.0 months (95% CI, 1 month–not reached, IQR 2.8–13.1
+months). In iNHL patients (Fig. 3B), the median PFS was 7.6 months (95% CI, 1.3–15.2
+months, IQR 6.7–15.2 months); the median DOR was 4.2 months (95% CI, 1.2–20.7
+months, IQR 2.8–6.9 months). The median PFS for patients treated with pinatuzumab
+vedotin plus rituximab was 5.8 months (95% CI, 1.2 months–not reached, IQR 1.3 months–
+not reached); the median DOR was not reached (IQR 4.9 months–not reached). In MCL
+patients treated with pinatuzumab vedotin at doses ≥1.8 mg/kg alone or combined with
+rituximab, the PFS ranged from 0.4 to 9.2 months. No clear correlations between PFS
+outcomes and baseline characteristics were identified (Supplementary Table S5).
+None of the 10 CLL patients treated with pinatuzumab vedotin achieved an objective
+response (Table 3).
+Discussion
+Results from this study established pinatuzumab vedotin at 2.4 mg/kg every 21 days as the
+RP2D in r/r NHL. Neutropenia and peripheral neuropathy were the principal treatment-
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Advani et al. Page 9
+emergent toxicities. Neutropenia was expected on the basis of preclinical toxicology
+observations (Genentech, Inc.; data on file) and clinical experience with brentuximab
+vedotin and polatuzumab vedotin, both of which contain the same linker-MMAE construct
+as pinatuzumab vedotin (12, 16). Neutropenia mostly manifested as laboratory abnormalities
+and, in most cases, did not lead to study treatment discontinuation. Clinical sequelae of
+neutropenia, including febrile neutropenia and severe infections, were uncommon.
+Administration of growth factors in accordance with published guidelines (17) and
+increasing the cycle duration to 28 days facilitated neutrophil count recovery and enabled
+continued treatment.
+Peripheral neuropathy is consistent with the mechanism of action of MMAE and is
+considered to be an effect of this class of drugs. The frequency and severity of peripheral
+neuropathy events observed with pinatuzumab vedotin were generally similar to that
+observed in r/r HL patients treated with brentuximab vedotin (18), despite differences in
+dose (2.4 mg/kg vs. 1.8 mg/kg), and were similar to that observed with polatuzumab vedotin
+in r/r NHL (16). Most events were sensory; however, peripheral motor neuropathy and
+combined peripheral sensorimotor neuropathy were also observed. Patients who experienced
+peripheral neuropathy underwent dose delays until resolution before resuming treatment at a
+reduced dose, but the full impact of these measures on peripheral neuropathy reversibility
+requires further study. While the majority of patients who were enrolled into the study
+received prior treatment with neurotoxic therapies, neither this nor a prior history of
+peripheral neuropathy was associated with a substantially increased risk of treatment-
+emergent peripheral neuropathy. Identifying additional factors (e.g., age, pre-existing
+neuropathic conditions, or other comorbidities that result in a higher predisposition to
+peripheral neuropathy with vc-MMAE–based ADCs) and assessing the relationship between
+peripheral neuropathy and pinatuzumab vedotin pharmacokinetics requires additional study.
+The pharmacokinetic properties of pinatuzumab vedotin are largely consistent with reports
+of other MMAE ADCs (12, 16). The levels of unconjugated MMAE were consistently much
+lower than those of the conjugate (acMMAE). The overall pharmacokinetic profile of
+pinatuzumab vedotin appeared largely driven by the antibody component, given the
+similarities between total antibody and conjugate (acMMAE) pharmacokinetics.
+Response rates, PFS, and DOR with pinatuzumab vedotin treatment in NHL were
+encouraging given the heavily pretreated patient population with advanced disease.
+Antitumor responses were observed at doses ≥1.8 mg/kg, suggesting that patients who
+require dose reductions from the RP2D for treatment-emergent toxicity may also receive
+continued clinical benefit with longer treatment durations. Interestingly, in 5 patients,
+pinatuzumab vedotin treatment resulted in responses sufficient to enable subsequent
+allogeneic stem cell transplantation (data not shown). Additional studies will be required to
+assess the potential of pinatuzumab vedotin as a bridge to allogeneic transplantation in
+previously transplant-ineligible patients.
+Unlike NHL, there was no early evidence of clinical benefit of pinatuzumab vedotin in CLL
+patients. Recognizing that treatment-emergent toxicities may differ between NHL and CLL
+due to underlying differences in clinical characteristics and natural history, separate
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Advani et al. Page 10
+pinatuzumab vedotin dose escalations were conducted for each. Given the decision to
+terminate enrollment of CLL patients into the study, the MTD of pinatuzumab vedotin was
+not determined, and direct comparison of treatment-emergent safety data between NHL and
+CLL patients is therefore not possible. In CLL patients who were treated with pinatuzumab
+vedotin, no objective responses were observed. Pinatuzumab vedotin pharmacokinetics
+indicated lower exposure and faster clearance for TAb and acMMAE in CLL compared with
+NHL patients, presumably due to the greater number of circulating B cells in CLL patients,
+resulting in significant target-mediated clearance of pinatuzumab vedotin. This profile is
+similar to what was observed with polatuzumab vedotin treatment in CLL patients (16).
+Whether this and other factors may have ultimately affected the antitumor activity of
+pinatuzumab vedotin in CLL requires further study.
+Overall, the clinical activity of pinatuzumab vedotin treatment supports the therapeutic
+potential of ADCs targeting CD22 in patients with B-cell NHL. The risk–benefit profile of
+pinatuzumab vedotin appears distinct from its individual components. For example, the
+response rates of 2.4 mg/kg pinatuzumab vedotin in r/r DLBCL [9/25 (36%)] and r/r iNHL
+[7/14 (50%)] compare favorably to those of the monoclonal anti-CD22 antibody
+epratuzumab, which has single-agent objective response rates of 15% in DLBCL (6) and
+18% in iNHL (5). In addition, the tolerability profile of epratuzumab is similar to that of
+other unconjugated mAbs, without the toxicities (neutropenia or peripheral neuropathy)
+observed with pinatuzumab vedotin treatment. Pinatuzumab vedotin also compares
+favorably to vincristine and liposomal vincristine, the latter of which had an objective
+response rate of 25% in aggressive NHL and was associated with considerably worse
+neurotoxicity (29% grade 3, 3% grade 4 vs. 17% grade 3, no grade 4 events for pinatuzumab
+vedotin observed in this study; ref. 19). Finally, the clinical activity of pinatuzumab vedotin
+compares favorably with other ADCs targeting B-cell antigens (20); the response rate of
+pinatuzumab vedotin in r/r DLBCL is comparable with those observed with the CD22-
+targeted calicheamicin ADC, inotuzumab ozogamicin (15%), the CD79b-targeted
+polatuzumab vedotin (52%), the CD19-targeted maytansinoid ADC SAR3419 (33%), and
+brentuximab vedotin in CD30+ DLBCL (44%; refs. 16, 21–23). While the antitumor activity
+is generally similar, it is important to note that each ADC has a distinct toxicity profile based
+largely on the mechanism of action of the cytotoxic agent: neutropenia and peripheral
+neuropathy for pinatuzumab vedotin, polatuzumab vedotin, and brentuximab vedotin,
+thrombocytopenia for inotuzumab ozogamicin, and ocular toxicities for SAR3419.
+Consequently, maximizing the risk–benefit profile of ADCs (e.g., through alternate doses
+and schedules to minimize the frequency and severity of peripheral neuropathy) is an
+important issue that requires further investigation.
+To realize the full therapeutic potential of ADCs, it is crucial to demonstrate the ability of
+ADCs to combine with or replace agents that constitute current standards of care. In this
+regard, demonstrating the combinability of pinatuzumab vedotin with rituximab is important
+given the effectiveness of rituximab-containing regimens in NHL (24, 25). Clinical data with
+other rituximab-ADC combinations have demonstrated additive clinical activity over either
+agent alone; the addition of rituximab to inotuzumab ozogamicin resulted in higher objective
+response and complete response rates over inotuzumab ozogamicin alone (21, 26).
+Furthermore, the ability of combining CD22-and CD20-directed antibodies was
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Advani et al. Page 11
+demonstrated in a phase II study of epratuzumab and rituximab in previously untreated
+follicular lymphoma, with evidence of clinical activity comparable with standard
+chemotherapy and nonchemotherapy-based regimens (27). Preliminary results in this study
+suggest that the toxicity profiles between combined pinatuzumab vedotin and rituximab and
+single-agent pinatuzumab vedotin are similar. Pinatuzumab vedotin pharmacokinetics was
+unaffected by rituximab coadministration and vice versa (data not shown). While durable
+responses with the combination were observed, the individual contributions of each agent to
+overall antitumor activity could not be determined due to the small number of patients
+treated. Further assessment of the pinatuzumab vedotin/rituximab combination is ongoing in
+a phase II randomized study (ROMULUS, NCT01691898) comparing the clinical activity of
+two MMAE ADCs, pinatuzumab vedotin and polatuzumab vedotin, each in combination
+with rituximab. Preliminary results indicate no unexpected safety findings and greater
+clinical activity compared with either ADC alone (28). In patients with relapsed or refractory
+DLBCL, for example, objective and complete response (CR) rates of pinatuzumab vedotin
+combined with rituximab were greater than those of the single-agent pinatuzumab vedotin
+(ORR, 57% vs. 36%; CR, 24% vs. 16%, for combination vs. single-agent, respectively).
+Beyond combinations with rituximab, early data from ongoing clinical studies indicate the
+ability of ADCs, including polatuzumab vedotin and brentuximab vedotin, to combine with
+systemic chemotherapy used in current anti-lymphoma immunochemotherapy regimens (29,
+30).
+In summary, results of this phase I study of pinatuzumab vedotin demonstrate clinical
+activity of CD22-directed ADCs that warrants further clinical investigation of this class of
+molecules in B-cell malignancies. Given the emerging biologic heterogeneity and
+complexity of B-cell leukemias and lymphomas, correlative analyses to identify predictive
+and prognostic biomarkers will be important to identify patients most likely to benefit from
+pinatuzumab vedotin treatment. Finally, results from this study further substantiate CD22 as
+a clinically validated ADC target and opens up the possibility of developing ADCs targeting
+CD22 that contain different classes of cytotoxic agents, ultimately leading to ADC
+combinations that target multiple B-cell lineage antigens to deliver multiple cytotoxic agents
+more effectively than systemic multi-agent chemotherapy.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+The authors wish to thank all of the patients and the investigators who participated in this study. Editing and writing
+assistance was provided by Bryan Hains and Deborah Solymar (Genentech, Inc.).
+Grant Support
+This work was supported by Genentech, Inc.
+References
+1. Friedberg JW. Relapsed/refractory diffuse large B-cell lymphoma. Hematology Am Soc Hematol
+Educ Program. 2011; 2011:498–505. [PubMed: 22160081]
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Advani et al. Page 12
+2. Gopal AK, Kahl BS, de Vos S, Wagner-Johnston ND, Schuster SJ, Jurczak WJ, et al. PI3Kδ
+inhibition by idelalisib in patients with relapsed indolent lymphoma. N Engl J Med. 2014;
+370:1008–18. [PubMed: 24450858]
+3. van Oers MHJ, Van Glabbeke M, Giurgea L, Klasa R, Marcus RE, Wolf M, et al. Rituximab
+maintenance treatment of relapsed/resistant follicular non-Hodgkin’s lymphoma: long-term
+outcome of the EORTC 20981 phase III randomized intergroup study. J Clin Oncol. 2010; 28:2853–
+8. [PubMed: 20439641]
+4. Walker JA, Smith KGC. CD22: an inhibitory enigma. Immunology. 2008; 123:314–25. [PubMed:
+18067554]
+5. Leonard JP, Coleman M, Ketas JC, Chadburn A, Ely S, Furman RR, et al. Phase I/II trial of
+epratuzumab (humanized anti-CD22 antibody) in indolent non-Hodgkin’s lymphoma. J Clin Oncol.
+2003; 21:3051–9. [PubMed: 12837807]
+6. Leonard JP, Coleman M, Ketas JC, Chadburn A, Furman R, Schuster MW, et al. Epratuzumab, a
+humanized anti-CD22 antibody, in aggressive non-Hodgkin’s lymphoma: Phase I/II clinical trial
+results. Clin Cancer Res. 2004; 10:5327–34. [PubMed: 15328168]
+7. Micallef IN, Maurer MJ, Wiseman GA, Nikcevich DA, Kurtin PJ, Cannon MW, et al. Epratuzumab
+with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy in
+patients with previously untreated diffuse large B-cell lymphoma. Blood. 2011; 118:4053–61.
+[PubMed: 21673350]
+8. Polson AG, Calemine-Fenaux J, Chan P, Chang W, Christensen E, Clark S, et al. Antibody-drug
+conjugates for the treatment of non-Hodgkin’s lymphoma: target and linker-drug selection. Cancer
+Res. 2009; 69:2358–64. [PubMed: 19258515]
+9. Bai R, Pettit GR, Hamel E. Dolastatin 10, a powerful cytostatic peptide derived from a marine
+animal. Inhibition of tubulin polymerization mediated through the vinca alkaloid binding domain.
+Biochem Pharmacol. 1990; 39:1941–9. [PubMed: 2353935]
+10. Doronina SO, Toki BE, Torgov MY, Mendelsohn BA, Cerveny CG, Chace DF, et al. Development
+of potent monoclonal antibody auristatin conjugates for cancer therapy. Nat Biotech. 2003;
+21:778–84.
+11. Francisco JA, Cerveny CG, Meyer DL, Mixan BJ, Klussman K, Chace DF, et al. cAC10-vcMMAE,
+an anti-CD30-monomethyl auristatin E conjugate with potent and selective antitumor activity.
+Blood. 2003; 102:1458–65. [PubMed: 12714494]
+12. Younes A, Bartlett NL, Leonard JP, Kennedy DA, Lynch CM, Sievers EL, et al. Brentuximab
+vedotin (SGN-35) for relapsed CD30-positive lymphomas. N Engl J Med. 2010; 363:1812–21.
+[PubMed: 21047225]
+13. Li D, Poon KA, Yu S-F, Dere R, Go M, Lau J, et al. DCDT2980S, an anti-CD22-monomethyl
+auristatin E antibody-drug conjugate, is a potential treatment for non-Hodgkin lymphoma. Mol
+Cancer Ther. 2013; 12:1255–65. [PubMed: 23598530]
+14. Cheson BD, Pfistner B, Juweid ME, Gascoyne RD, Specht L, Horning SJ, et al. Revised response
+criteria for malignant lymphoma. J Clin Oncol. 2007; 25:579–86. [PubMed: 17242396]
+15. Hallek M, Cheson BD, Catovsky D, Caligaris-Cappio F, Dighiero G, Döhner H, et al. Guidelines
+for the diagnosis and treatment of chronic lymphocytic leukemia: A report from the International
+Workshop on Chronic Lymphocytic Leukemia updating the National Cancer Institute-Working
+Group 1996 guidelines. Blood. 2008; 111:5446–56. [PubMed: 18216293]
+16. Palanca-Wessels MCA, Czuczman M, Salles G, Assouline S, Sehn LH, Flinn I, et al. Safety and
+activity of the anti-CD79B antibody-drug conjugate polatuzumab vedotin in relapsed or refractory
+B-cell non-Hodgkin lymphoma and chronic lymphocytic leukaemia: a phase 1 study. Lancet
+Oncol. 2015; 16:704–15. [PubMed: 25925619]
+17. Smith TJ, Khatcheressian J, Lyman GH, Ozer H, Armitage JO, Balducci L, et al. 2006 update of
+recommendations for the use of white blood cell growth factors: an evidence-based clinical
+practice guideline. J Clin Oncol. 2006; 24:3187–205. [PubMed: 16682719]
+18. Younes A, Gopal AK, Smith SE, Ansell SM, Rosenblatt JD, Savage KJ, et al. Results of a pivotal
+phase II study of brentuximab vedotin for patients with relapsed or refractory Hodgkin’s
+lymphoma. J Clin Oncol. 2012; 30:2183–9. [PubMed: 22454421]
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Advani et al. Page 13
+19. Rodriguez MA, Pytlik R, Kozak T, Chhanabhai M, Gascoyne R, Lu B, et al. Vincristine sulfate
+liposomes injection (Marqibo) in heavily pretreated patients with refractory aggressive non-
+Hodgkin lymphoma: report of the pivotal phase 2 study. Cancer. 2009; 115:3475–82. [PubMed:
+19536896]
+20. Chu YW, Polson A. Antibody-drug conjugates for the treatment of B-cell non-Hodgkin’s
+lymphoma and leukemia. Future Oncol. 2013; 9:355–68. [PubMed: 23469971]
+21. Advani A, Coiffier B, Czuczman MS, Dreyling M, Foran J, Gine E, et al. Safety, pharmacokinetics,
+and preliminary clinical activity of inotuzumab ozogamicin, a novel immunoconjugate for the
+treatment of B-cell non-Hodgkin’s lymphoma: results of a phase I study. J Clin Oncol. 2010;
+28:2085–93. [PubMed: 20308665]
+22. Ribrag V, Dupuis J, Tilly H, Morschhauser F, Laine F, Houot R, et al. A dose-escalation study of
+SAR3419, an anti-CD19 antibody maytansinoid conjugate, administered by intravenous infusion
+once weekly in patients with relapsed/refractory B-cell non-Hodgkin lymphoma. Clin Cancer Res.
+2014; 20:213–20. [PubMed: 24132920]
+23. Jacobsen ED, Sharman JP, Oki Y, Advani RH, Winter JN, Bello CM, et al. Brentuximab vedotin
+demonstrates objective responses in a phase 2 study of relapsed/refractory DLBCL with variable
+CD30 expression. Blood. 2015; 125:1394–402. [PubMed: 25573987]
+24. Gisselbrecht C, Glass B, Mounier N, Singh Gill D, Linch DC, Trneny M, et al. Salvage regimens
+with autologous transplantation for relapsed large B-cell lymphoma in the rituximab era. J Clin
+Oncol. 2010; 28:4184–90. [PubMed: 20660832]
+25. Robinson KS, Williams ME, van der Jagt RH, Cohen P, Herst JA, Tulpule A, et al. Phase II
+multicenter study of bendamustine plus rituximab in patients with relapsed indolent B-cell and
+mantle cell non-Hodgkin’s lymphoma. J Clin Oncol. 2008; 26:4473–9. [PubMed: 18626004]
+26. Fayad L, Offner F, Smith MR, Verhoef G, Johnson P, Kaufman JL, et al. Safety and clinical activity
+of a combination therapy comprising two antibody-based targeting agents for the treatment of non-
+Hodgkin lymphoma: results of a phase I/II study evaluating the immunoconjugate inotuzumab
+ozogamicin with rituximab. J Clin Oncol. 2013; 31:573–83. [PubMed: 23295790]
+27. Grant BW, Jung S-H, Johnson JL, Kostakoglu L, Hsi E, Byrd JC, et al. A phase II study of
+extended induction epratuzumab and rituximab in previously untreated follicular lymphoma:
+CALGB 50701. Cancer. 2013; 119:3797–804. [PubMed: 23922187]
+28. Morschhauser F, Flinn I, Advani RH, Sehn LH, Kolibaba KS, Press OW, et al. Preliminary results
+of a phase II randomized study (ROMULUS) of polatuzumab vedotin or pinatuzumab vedotin plus
+rituximab in patients with relapsed/refractory (R/R) non-Hodgkin lymphoma. J Clin Oncol. 2014;
+32(suppl):15s. (abstr 8519).
+29. Bartlett NL, Chen AI, Kolibaba KS, Lamy T, Jones S, Hirata J, et al. Polatuzumab vedotin
+combined with rituximab, cyclophosphamide, doxorubicin and prednisone (R-CHP) for patients
+with previously untereated diffuse large B-cell lymphoma (DLBCL); preliminary results of a phase
+Ib dose-escalation. Blood. 2015; 126:2726.
+30. Yasenchak CA, Halwani A, Advani R, Ansell S, Budde LE, Burke JM, et al. Brentuximab vedotin
+with RCHOP as frontline therapy in patients with high-intermediate/high-risk diffuse large B cell
+lymphoma (DLBCL): results from an ongoing phase 2 study. Blood. 2015; 126:814.
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Advani et al. Page 14
+Translational Relevance
+Pinatuzumab vedotin is an antibody–drug conjugate targeting CD22 on B cells and
+containing the potent antimicrotubule agent MMAE. In this phase I study, clinical activity
+of pinatuzumab vedotin was observed in heavily pretreated patients with advanced non-
+Hodgkin lymphoma (NHL). In addition, evaluating the combination of pinatuzumab
+vedotin with rituximab administered at standard doses and schedules was feasible.
+Overall, this study demonstrates the feasibility of antibody–drug conjugates to deliver
+cytotoxic chemotherapy to tumors and further validates CD22 as a target suitable for an
+antibody–drug conjugate. The safety, tolerability, and clinical activity of pinatuzumab
+vedotin with rituximab has important implications for the ability of antibody–drug
+conjugates to be combined with standard anticancer treatment regimens in B-cell
+malignancies, and support further clinical investigation of these novel therapeutic
+combinations.
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Advani et al. Page 15
+Figure 1.
+Incidence of >10% of all treatment-emergent AEs in patients receiving single-agent
+pinatuzumab vedotin (2.4 mg/kg): iNHL versus DLBCL.
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 16 ---
+Advani et al. Page 16
+Figure 2.
+Observed antitumor responses in DLBCL patients (A) and iNHL patients (B). Dashed lines
+indicate 50% increases and 50% decreases in SPD from baseline. R, refractory; SPD, sum of
+the product of the diameters.
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 17 ---
+Advani et al. Page 17
+Figure 3.
+Progression-free survival. Kaplan–Meier curves of progression-free survival in DLBCL
+patients (A) or iNHL patients (B) receiving single-agent pinatuzumab vedotin (2.4 mg/kg).
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Advani et al. Page 18
+Table 1
+Baseline demographics and disease characteristics
+Demographics (N = 91 patients) DLBCL (n = 47) iNHL (n = 31) MCL (n = 3) CLL (n = 10)
+Median age (years) 66.0 (30–89) 64.0 (35–87) 72.0 (50–73) 72.5 (63–81)
+Sex
+Female 23 (48.9%) 15 (48.4%) 0 2 (20.0%)
+Male 24 (51.1%) 16 (51.6%) 3 (100.0%) 8 (80.0%)
+ECOG performance status
+0 15 (31.9%) 17 (54.8%) 3 (30.0%)
+1 29 (61.7%) 12 (38.7%) 2 (66.7%) 5 (50.0%)
+2 3 (6.4%) 2 (6.5%) 1 (33.3%) 2 (20.0%)
+Number of previous systemic therapies
+1 7 (14.9%) 3 (9.7%) 0 1 (10.0%)
+2 11 (23.4%) 3 (9.7%) 0 0
+≥3 29 (61.7%) 25 (80.6%) 3 (100.0%) 9 (90.0%)
+Previous stem-cell transplantation 5 (10.6%) 5 (16.1%) 0 0
+Refractory to last therapya 34 (82.9%) 21 (77.8%) 2 (100.0%) 4 (57.1%)
+Previous radiotherapy 15 (31.9%) 9 (29.0%) 1 (33.3%) 0
+Previous rituximab therapy (at any timepoint) 47 (100.0%) 31 (100.0%) 3 (100.0%) 10 (100.0%)
+NOTE: Data are median (range) or n (%).
+a
+Defined as progression on or within six months of last dose of last previous therapy.
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Advani et al. Page 19
+2
+elbaT
+bamuzutanip
+fo
+1
+elcyc
+retfa
+EAMM
+detagujnocnu
+dna
+,ydobitna
+latot
+,EAMM
+detagujnoc-ydobitna
+rof
+sretemarap
+citenikocamrahp
+)DS(
+naem
+detceleS
+stneitap
+LHN
+aelbaulave-citenikocamrahp
+ni
+nitodev
+)EAMMca
+sa
+detaulave(
+etagujnoC
+)yad
+rep
+gk/Lm(
+LC
+)gk/Lm(
+ss V
+)yad(
+2/1
+t
+yad
+*
+)Lm/gn(
+fni
+CUA
+)Lm/gn(
+xam
+C
+astneitap
+fo
+.oN
+)gk/gm(
+esoD
+)44.8(
+6.82
+)7.92(
+1.38
+)69.1(
+95.3
+)6.61(
+6.56
+)2.41(
+4.14
+3
+1.0
+)2.91(
+8.24
+)2.27(
+331
+)21.4(
+92.4
+)9.64(
+711
+)1.61(
+26
+4
+52.0
+)1.21(
+6.03
+)4.08(
+321
+)54.5(
+63.6
+)551(
+533
+)2.14(
+461
+6
+5.0
+)57.5(
+0.12
+)1.22(
+87
+)21.1(
+24.4
+)472(
+598
+)931(
+414
+3
+1
+)48.4(
+5.91
+)5.62(
+711
+)99.0(
+96.6
+)284(
+017,1
+)421(
+885
+7
+8.1
+)8.52(
+7.52
+)6.13(
+111
+)80.2(
+81.8
+)469(
+044,2
+)602(
+438
+6
+4.2
+)84.6(
+9.71
+)64(
+021
+)26.3(
+44.8
+)070,1(
+004,3
+)612(
+060,1
+3
+2.3
+)84.9(
+5.91
+)6.13(
+201
+)57.2(
+63.6
+)166(
+024,2
+)522(
+488
+22
+)noisnapxe
+LCBLD(
+4.2
+)2.11(
+3.42
+)9.83(
+5.99
+)41.2(
+27.4
+)010,1(
+031,2
+)203(
+098
+11
+)noisnapxe
+LHNi(
+4.2
+)4.21(
+7.72
+)6.39(
+651
+)95.2(
+86.6
+)255(
+063,1
+)061(
+845
+5
+)bamixutir
+htiw
+noitanibmoc(
+8.1
+)2.71(
+2.91
+)8.21(
+7.97
+)9.1(
+71.5
+)011,1(
+098,2
+)632(
+688
+11
+)bamixutir
+htiw
+noitanibmoc(
+4.2
+ydobitna
+latoT
+)yad
+rep
+gk/Lm(
+LC
+)gk/Lm(
+ss V
+)yad(
+2/1
+t
+yad
+*
+)Lm/gn(
+fni
+CUA
+)Lm/gn(
+xam
+C
+astneitap
+fo
+.oN
+)gk/gm(
+esoD
+)63.5(
+5.81
+)2.13(
+4.69
+)12.2(
+84.4
+)066,1(
+097,5
+)694(
+029,1
+3
+1.0
+)6.61(
+1.62
+)9.33(
+211
+)42.4(
+99.4
+)021,7(
+006,21
+)158(
+048,3
+4
+52.0
+)3.61(
+1.42
+)8.96(
+251
+)44.7(
+73.8
+)000,02(
+008,03
+)029,1(
+029,6
+6
+5.0
+)46.3(
+6.61
+)6.12(
+221
+)6.1(
+19.5
+)005,31(
+000,36
+)097,8(
+008,71
+3
+1
+)8.2(
+6.01
+)7.43(
+351
+)39.3(
+9.11
+)000,15(
+000,081
+)066,5(
+000,82
+7
+8.1
+)7.03(
+8.02
+)63(
+541
+)95.5(
+6.11
+)000,901(
+000,742
+)008,11(
+001,93
+6
+4.2
+)21.3(
+8.01
+)821(
+361
+)2.8(
+1.11
+)000,901(
+000,613
+)006,91(
+009,05
+3
+2.3
+)58.9(
+4.11
+)2.93(
+131
+)94.6(
+2.21
+)000,301(
+000,672
+)003,11(
+006,14
+12
+)noisnapxe
+LCBLD(
+4.2
+)53.8(
+2.41
+)5.34(
+311
+)40.4(
+93.7
+)000,601(
+000,912
+)000,71(
+004,54
+11
+)noisnapxe
+LHNi(
+4.2
+)26.5(
+1.41
+)131(
+191
+)58.6(
+3.21
+)005,87(
+000,451
+)063,7(
+000,62
+5
+)bamixutir
+htiw
+noitanibmoc(
+8.1
+)97.1(
+75.7
+)5.81(
+2.49
+)11.3(
+42.9
+)008,59(
+000,803
+)005,41(
+003,14
+11
+)bamixutir
+htiw
+noitanibmoc(
+4.2
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+
+--- Page 20 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Advani et al. Page 20
+)EAMMca
+sa
+detaulave(
+etagujnoC
+)yad
+rep
+gk/Lm(
+LC
+)gk/Lm(
+ss
+V
+)yad(
+2/1
+t
+yad
+*
+)Lm/gn(
+fni
+CUA
+)Lm/gn(
+xam
+C
+astneitap
+fo
+.oN
+)gk/gm(
+esoD
+bEAMM
+detagujnocnU
+)yad(
+xam
+t
+)yad(
+2/1
+t
+yad
+*
+)Lm/gn(
+fni
+CUA
+)Lm/gn(
+xam
+C
+astneitap
+fo
+.oN
+)gk/gm(
+esoD
+)71.1(
+27.1
+76.2
+51.4
+)2.0(
+23.0
+3
+1.0
+)59.0(
+35.1
+)36.0(
+57.3
+)75.1(
+88.2
+)61.0(
+73.0
+4
+52.0
+)82.1(
+41.2
+)14.0(
+11.3
+)92.8(
+47.6
+)59.0(
+68.0
+6
+5.0
+)94.0(
+92.3
+)63.0(
+49.2
+)39.6(
+6.41
+)48.0(
+28.1
+3
+1
+)85.0(
+55.3
+)39.0(
+80.4
+)7.41(
+1.03
+)94.1(
+29.2
+7
+8.1
+)79.1(
+45.3
+)36.0(
+64.3
+)7.61(
+34
+)62.3(
+55.5
+6
+4.2
+)50.3(
+82.4
+)34.1(
+70.4
+)9.05(
+401
+)10.5(
+38.9
+3
+2.3
+)14.1(
+99.3
+)1(
+58.3
+)2.83(
+1.45
+)59.5(
+51.7
+22
+)noisnapxe
+LCBLD(
+4.2
+)33.1(
+78.2
+)57.0(
+93.3
+)9.92(
+9.05
+)93.2(
+26.5
+11
+)noisnapxe
+LHNi(
+4.2
+)37.1(
+71.3
+)63.1(
+25.4
+)0.92(
+0.73
+)2.2(
+01.4
+5
+)bamixutir
+htiw
+noitanibmoc(
+8.1
+)25.1(
+1.4
+)33.0(
+19.3
+)9.03(
+5.14
+)42.4(
+63.5
+11
+)bamixutir
+htiw
+noitanibmoc(
+4.2
+.)detamitse
+retemarap
+citenikocamrahp
+eno
+tsael
+ta
+htiw
+esoht
+,.e.i(
+LHN
+htiw
+stneitap
+elbaulave-citenikocamrahp
+rof
+atad
+swohs
+elbaT
+.)DS(
+naem
+era
+ataD
+:ETON
+.evruc
+emit–noitartnecnoc
+eht
+rednu
+aera
+yb
+dedivid
+esod
+ot
+srefer
+ecnaraelC
+hcaer
+ot
+emit
+,xamt
+;efil-flah
+lanimret
+,2/1t
+;ecnaraelc
+,LC
+;noitartnecnoc
+devresbo
+mumixam
+,xamC
+;ytinifni
+ot
+detalopartxe
+0 emit
+morf
+evruc
+emit–noitartnecnoc
+eht
+rednu
+aera ,fniCUA
+:snoitaiverbbA
+.etats
+ydaets
+ta
+noitubirtsid
+fo emulov
+,ssV
+;noitartnecnoc
+mumixam
+a
+.detamitse
+retemarap
+citenikocamrahp
+eno
+tsael
+ta htiw
+stneitap
+fo
+rebmuN
+b
+.nwonknu
+si
+etilobatem
+EAMM
+detagujnocnu
+eht
+ot
+nitodev
+bamuzutanip
+fo
+noisrevnoc
+fo
+noitcarf
+eht
+esuaceb
+detamitse
+ton
+era
+seulav
+ssV
+dna
+ecnaraelC
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.
+
+--- Page 21 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Advani et al. Page 21
+3 elbaT
+nitodev
+bamuzutanip
+tnega-elgnis
+rof
+LCBLD
+dna
+amohpmyl
+llec-B
+tnelodni
+yrotcarfer/despaler
+ni
+esnopser
+llarevo
+tseB
+LLC
+LCBLD
+aamohpmyl
+llec-B
+tnelodnI
+=
+n(
+gk/gm
+4.2
+n(
+gk/gm
+8.1
+gk/gm
+8.1<
+n(
+gk/gm
+2.3
+=
+n(
+gk/gm
+4.2
+n(
+gk/gm
+8.1
+gk/gm
+8.1<
+n(
+gk/gm
+4.2
+n(
+gk/gm
+8.1
+n(
+gk/gm
+8.1<
+)1
+)3
+=
+)6
+=
+n(
+)1
+=
+)52
+)4
+=
+)8
+=
+n(
+)41
+=
+)3
+=
+)8
+=
+0
+0
+0
+0
+)%0.61(
+4
+)%0.52(
+1
+)%0.52(
+2
+)%4.12(
+3
+0
+0
+esnopser
+etelpmoC
+0
+0
+0
+)%0.05(
+1
+)%0.02(
+5
+)%0.52(
+1
+)%5.21(
+1
+)%6.82(
+4
+)%3.33(
+1
+0
+esnopser
+laitraP
+0
+)%3.33(
+1
+)%7.61(
+1
+0
+)%0.61(
+4
+)%0.0(
+0
+)%5.21(
+1
+)%3.41(
+2
+)%7.66(
+2
+)%0.05(
+4
+esaesid
+elbatS
+0
+)%7.66(
+2
+)%3.33(
+2
+0
+)%0.44(
+11
+)%0.52(
+1
+)%0.05(
+4
+)%4.12(
+3
+)%0.0(
+)%0.05(
+4
+esaesid
+evissergorP
+0
+0
+0
+0
+)%0.4(1
+0
+0
+0
+0
+0
+betaulave
+ot
+elbanU
+)%0.001(
+1
+0
+)%0.05(
+3
+0
+0
+)%0.52(
+1
+0
+)%3.41(
+2
+0
+0
+cgnissiM
+a
+.gk/gm
+8.1
+ta
+nitodev
+bamuzutanip
+deviecer
+amohpmyl
+llec-B
+tnelodni
+htiw
+stneitap
+oN
+.amohpmyl
+citycohpmyl
+llams
+dna
+amohpmyl
+enoz
+lanigram
+,amohpmyl
+ralucillof
+sedulcnI
+b
+.denimreted
+eb
+ton
+dluoc
+esnopser
+tub
+enod
+saw
+nacS
+c
+.ffotuc
+atad
+fo
+emit
+eht
+ta
+dehcaer
+ton
+saw
+tisiv
+tnemssessa
+ro
+tnemssessa
+romut
+deludehcs
+ot
+roirp
+noitaunitnocsid
+ylraE
+Clin Cancer Res. Author manuscript; available in PMC 2018 July 08.

@@ -1,0 +1,998 @@
+Source: 21509928.pdf
+Extracted on: Fri Sep 12 23:59:53 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+Published in final edited form as:
+Pediatr Blood Cancer. 2012 March ; 58(3): 372–379. doi:10.1002/pbc.23075.
+Dose escalation of intravenous irinotecan using oral
+cefpodoxime: a phase I study in pediatric patients with
+refractory solid tumors
+Lisa M. McGregor, MD, PhD1,6, Clinton F. Stewart, PharmD2, Kristine R. Crews, PharmD2,
+Michael Tagen, PhD2,7, Amy Wozniak, MS3,7, Jianrong Wu, PhD3, M. Beth McCarville, MD4,
+Fariba Navid, MD1,6, Victor M. Santana, MD1,6, Peter J. Houghton, PhD6,7, Wayne L.
+Furman, MD1,6, and Carlos Rodriguez Galindo, MD1,6,7
+1Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN
+2Department of Pharmaceutical Sciences, St. Jude Children's Research Hospital, Memphis, TN
+3Department of Biostatistics, St. Jude Children's Research Hospital, Memphis, TN
+4Department of Radiological Sciences, St. Jude Children's Research Hospital, Memphis, TN
+5Department of Molecular Pharmacology, St. Jude Children's Research Hospital, Memphis, TN
+6Department of Pediatrics, University of Tennessee Health Sciences Center College of Medicine,
+Memphis, TN
+Abstract
+Background—Administration of an oral cephalosporin allowed advancement of the dosage of
+oral irinotecan. This study investigates whether administration of an oral cephalosporin increases
+the maximum tolerated dose (MTD) of intravenous irinotecan.
+Procedure—Irinotecan was administered intravenously on Days 1– 5 and Days 8 – 12 of a 21-
+day cycle with continuous oral cefpodoxime starting 2 days prior to irinotecan. Cohorts of 3 to 6
+pediatric patients with refractory solid tumors were enrolled at 4 dosage levels, starting at the
+single-agent irinotecan MTD of 20 mg/m2/dose.
+Results—The 17 evaluable patients received 39 courses of therapy. None of the patients treated
+with 20 mg/m2/dose experienced dose-limiting toxicity (DLT). One of 6 patients treated at 30 mg/
+m2/dose experienced dose-limiting neutropenia. Two of 3 patients treated with 45 mg/m2/dose and
+2 of 5 treated with 40 mg/m2/dose experienced dose-limiting diarrhea, with associated dehydration
+and anorexia. Two unconfirmed partial responses were observed after one course in a patient with
+Ewing sarcoma and one with paraganglioma. A child with refractory neuroblastoma had disease
+stabilization through 12 courses of therapy. Median (range) systemic exposure to SN-38 at the
+MTD (30 mg/m2/dose) was 67 ng-h/mL (36 to 111 ng-h/mL).
+Corresponding Author: Lisa M. McGregor, MD, PhD Department of Oncology St. Jude Children's Research Hospital 262 Danny
+Thomas Place, Mailstop 260 Memphis, TN 38105 Phone: 901-595-2573 FAX: 901-521-9005 lisa.mcgregor@stjude.org.
+7Current Address: Carlos Rodriguez Galindo Dana-Farber Cancer Institute 44 Binney Street Shields Warren 350 Boston MA 0211
+7Current Address: Amy Wozniak Meridian Healthcare 2020 State Route 33 Neptune, NJ 07753
+7Current Address: Peter J. Houghton The Research Institute Nationwide Children's Hospital 700 Children's Drive Columbus, OH
+43205
+7Current Address: Michael Tagen Bristol-Myers Squibb Route 206 & Province Line Rd Princeton, NJ 08540
+Conflict of Interest Statement The authors have no financial relationships that would impact the design, conduct, or reporting of this
+study.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+McGregor et al. Page 2
+Conclusions—The MTD of intravenous irinotecan administered on a protracted schedule was
+increased by 50% from 20 to 30 mg/m2/dose with the addition of oral cefpodoxime. The most
+prominent DLT remained diarrhea. High interpatient variability in irinotecan pharmacokinetics
+was observed; however, SN-38 exposure at the MTD was greater than most reported exposures
+with the 20 mg/m2 dosage.
+Keywords
+child; adolescent; clinical trial, phase I; irinotecan; cephalosporin
+Introduction
+Studies in mice bearing human solid tumor xenografts have shown that camptothecin
+analogs are very active anticancer drugs [1]. In preclinical models, topotecan and irinotecan
+have shown significant activity in human soft tissue sarcomas [2], rhabdomyosarcoma [1,3],
+neuroblastoma[4,5], osteosarcoma,[6] and several types of brain tumors [1,7]. Furthermore,
+studies in these xenograft models have shown that the antitumor activity of camptothecins
+appears to be dose and schedule dependent; improved responses rates are seen when the
+agents are given daily at low doses, for protracted periods of time [e.g., daily administration
+for five consecutive days in two consecutive weeks [(qd × 5) × 2] [1,4,5]]. In some studies, a
+schedule of prolonged administration induced responses in xenografted tumors that had been
+unresponsive to intermittent administration of the agents at higher doses [1,7].
+Not only is the schedule of irinotecan administration important in preclinical models, there
+appears to be a dose-response relationship at lower dosages. One study utilizing 4 xenograft
+models of neruoblastoma investigated the lowest dosages required for tumor response [4].
+This study defined minimum irinotecan dosages administered on a protracted schedule that
+produce partial and complete responses. Pharmacokinetics were also obtained at these
+dosages to define the exposure levels associated with these levels of response. These
+exposure levels are higher than what is attained in children treated at the current dosage of
+20 mg/m2/dose (qd × 5) × 2 [8,9].
+Irinotecan is a pro-drug that requires conversion to its active metabolite SN-38 by
+carboxylesterases [10]. The majority of irinotecan and its metabolites are excreted in the
+bile. SN-38 biliary excretion is enhanced by the formation of SN-38 glucuronide (SN-38G),
+catalyzed primarily by the enzyme UDP-glucuronosyltransferase 1A1 (UGT1A1) [11].
+Deconjugation of SN-38G by glucuronidases produced by the intestinal microflora can
+occur and may result in recycling of SN-38 [12]. A combination of penicillin and
+streptomycin prevented deglucuronidation of SN-38G in the intestine of rats [13] and
+ameliorated irinotecan-induced diarrhea [14]. Likewise, two studies of adult patients
+receiving intravenous irinotecan demonstrated less diarrhea with the addition of oral
+neomycin [15], or the combination of neomycin with bacitracin [16], to irinotecan-based
+therapy.
+The dose-limiting toxicity in a pediatric phase I study of intravenous irinotecan administered
+[(qd × 5) × 2] was diarrhea [8]. The mechanism of irinotecan-induced diarrhea is not known,
+but is thought to be due to the conversion of inactive SN-38G in the intestinal lumen to
+SN-38. In a study of oral irinotecan in children [17], diarrhea prophylaxis with an oral
+cephalosporin allowed for a higher MTD that resulted in a median SN-38 lactone exposure
+similar to one trial of intravenous irinotecan [18] but not as high as in other studies [8,9].
+Although it appears that administration of a cephalosporin can ameliorate the diarrhea
+caused by intravenous irinotecan [15,16], selective intestinal decontamination to allow
+further escalation of the MTD of intravenous irinotecan has not been prospectively studied.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+McGregor et al. Page 3
+There are preclinical data that demonstrate that the exposures currently being attained in
+patients are not optimal for drug efficacy [4]. This study investigates whether use of an oral
+cephalosporin allows escalation of the dosage of intravenous irinotecan administered on a
+[(qd × 5) × 2] schedule.
+Methods
+Eligibility
+Criteria included age ≤ 21 years, histologically verified solid tumor refractory to
+conventional therapy, Karnofsky or Lansky score ≥ 50%, life expectancy > 8 weeks,
+recovery from the acute toxic effects of prior therapy, normal bone marrow without
+transfusion [ (ANC) ≥ 1000/μl, platelet count ≥ 75,000/μl, and hemoglobin ≥ 8 g/dL)]; renal
+(creatinine level ≤ 3× normal for age); and liver function (serum bilirubin ≤ 3× normal, and
+ALT elevation ≤ 3× normal). For patients with CNS disease, any deficits must have been
+stable for at least 2 weeks with a stable or decreasing dexamethasone dosage. Pregnant or
+breastfeeding patients were excluded. Patients receiving anticonvulsants that interact with
+CYP3A (i.e., phenytoin, carbamazepine, oxcarbazepine, phenobarbital) were excluded.
+Additional exclusion criteria were uncontrolled infection and previous allergic reaction to
+penicillin or cephalosporins. Written informed consent was obtained from patients, parents,
+or legal guardians, with assent as appropriate. The protocol was approved by the St. Jude
+Institutional Review Board (IRB) and registered at ClinicalTrial.gov (NCT00143533). The
+IRB later approved review of the St. Jude medical records of the study participants to obtain
+and report data regarding those who continued with an oral cephalosporin and intravenous
+irinotecan after withdrawing from protocol therapy. Data obtained include (1) reason for
+withdrawal from protocol therapy, (2) further toxicity data, and (3) continued response
+information.
+Drug administration and study design
+Irinotecan (Camptosar™, Pfizer, New York, NY) (purchased and supplied by our institution
+under IND # 67,457) was diluted in 5% dextrose or 0.9% NaCl to a final concentration of
+0.12– 2.8 mg/ml prior to intravenous administration at our institution over 1 hour on days 1–
+5 and 8–12 of a 21-day course. Oral cefpodoxime [10 mg/kg/day divided BID] was
+administered starting 2 days prior to the beginning of the first course and continued for as
+long as the patient was on study. Guidelines were provided for treating acute irinotecan-
+associated diarrhea with atropine and late diarrhea with loperamide. Filgrastim was not
+administered during the first course of therapy.
+The starting dosage level of irinotecan, 20 mg/m2/dose, was the previous MTD of the
+intravenous [(qd × 5) × 2] schedule [8]. Subsequent planned dose levels were 30, 45, and 60
+mg/m2/dose. After the 45 mg/m2/dose was found not to be tolerated, the study was amended
+to add an intermediate dose level of 40 mg/m2/dose. Toxicity assessment during the first
+course was used to assess DLT and determine the MTD. Patients without DLT nor disease
+progression could receive further courses at the same dosage level after recovery from non-
+hematologic toxicity and with ANC> 1,000/mm3 and platelets > 75,000/mm3. No intra-
+patient dose escalation was permitted.
+At least 3 evaluable patients were treated at each dose level. If 1 of 3 patients at a given
+level experienced a DLT during course #1, 3 more were accrued at that level. If 2 or more of
+these patients experienced DLT, the maximum tolerated dose (MTD) was exceeded and the
+next 3 patients were treated at the next lower dose level. The MTD was the dose level at
+which no more than 1 patient experienced DLT and was one level less than the dose level at
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+McGregor et al. Page 4
+which 2 or more of 3–6 patients experienced DLT. At least 6 patients were treated at the
+MTD.
+Patient evaluation
+Patient medical histories and physical examinations with routine laboratory evaluations
+(CBCs, serum electrolytes, renal and liver function tests) were obtained before enrollment,
+weekly during course 1 of therapy, and before each subsequent course. Pregnancy tests (if
+applicable) and urinalysis were obtained prior to each course. Patients who failed to
+complete one course of therapy due to toxicity at least possibly attributable to protocol
+therapy were evaluated for toxicity but not response. Patients not completing one course of
+therapy for reasons unrelated to toxicity were replaced.
+Adverse events were assessed using the NCI Common Terminology Criteria (CTC), version
+2.0 [19]. Nonhematologic DLT was defined as any grade 3 or 4 nonhematologic toxicity
+attributable to the investigational drug, with the exclusion of (1) grade 3 nausea or vomiting;
+(2) grade 3 hepatic toxicity resolving before the second course; (3) grade 3 fever (with or
+without neutropenia); (4) grade 3 or 4 stomatitis lasting <72 hours; (5) grade 3 diarrhea
+persisting for <72 h, (6) grade 3 or 4 electrolyte abnormalities and grade 3 dehydration
+associated with diarrhea, vomiting or renal abnormalities. Hematologic DLT was defined as
+grade 4 neutropenia or thrombocytopenia for >7 days.
+Patients underwent disease-appropriate evaluations within 2 weeks prior to study entry, after
+course 1 of therapy, and after every other course thereafter. Tumor response was assessed
+using the Response Evaluation Criteria in Solid Tumors (RECIST) [20].
+Irinotecan Pharmacokinetic Studies
+Irinotecan, SN-38, and SN-38G pharmacokinetics were evaluated in patients who consented
+to pharmacokinetic studies as previously described [21]. Pharmacokinetic studies were
+performed on the first and last days of irinotecan therapy during the first course. Whole
+blood (3 mL) samples were collected in sodium heparin tubes from a site contralateral to the
+irinotecan infusion site prior to the infusion, at the end of the infusion, and 0.25, 1, 2, 4, and
+6 hours after the end of the infusion. The sample was centrifuged to isolate plasma and an
+aliquot of plasma extracted by addition to cold methanol. Irinotecan (IRN), SN-38, and
+SN-38G plasma concentrations were determined using high-performance liquid
+chromatography with fluorescence detection, which allowed for measurement of lactone and
+carboxylate forms.
+A multicompartment model was fit to plasma concentration-time data of the lactone forms
+of irinotecan, SN-38, and SN-38G using the importance sampling expectation maximization
+algorithm in NONMEM 7. Irinotecan was modeled with a central and peripheral
+compartment and metabolites were modeled with a single compartment each. As previously
+described, elimination of irinotecan in this model was through the formation of SN-38, and
+elimination of SN-38 was through glucuronidation and subsequent formation of SN-38G.
+All data were modeled simultaneously with concentrations in molar units, although data
+were converted to ng/mL for plots for comparison with previous literature. Area under the
+plasma concentration versus time curves (AUC) for irinotecan, SN-38, and SN-38G from
+the beginning of the infusion to 7 hours were calculated by integration of the simulated
+concentration-time data from model estimates. As a measure of net conversion, ratios of the
+AUCs (in units of μM*h) were calculated for SN-38/irinotecan and SN-38G/SN38.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+McGregor et al. Page 5
+Results
+Between December 2003 and December 2008, 20 patients were enrolled; three who enrolled
+at dosage level 3 were deemed not evaluable due to failure to complete the first course of
+therapy (rapid disease progression in one; toxicity unrelated to protocol therapy in two).
+Two of these patients were replaced. The third was not replaced because two of the five
+evaluable patients experienced DLT, thus ending enrollment at that level. Table I shows
+characteristics for the 17 evaluable patients. Ten patients received only 1 course of therapy,
+2 received two courses, 3 received 3 courses, 1 patient received 4 courses, and 1 patient
+received 12 courses. The number of patients enrolled at each dosage level is provided in
+Table II.
+There were 5 patients who continued to receive the combination of irinotecan and
+cefpodoxime after being removed from the protocol. Two patients were removed according
+to protocol guidelines for dose-limiting diarrhea during the first course, then received
+subsequent courses at the single-agent MTD of irinotecan (20 mg/m2/dose) with
+cefpodoxime until disease progression. One also received vincristine. The other three
+patients electively withdrew from protocol therapy because they preferred to return home.
+All continued the same therapy with their local oncologists at the previously assigned
+dosage of irinotecan with cefpodoxime. They remained in contact with study investigators
+and provided updates regarding significant toxicities and disease progression.
+Toxicity
+No DLT was observed in the first 3 patients enrolled at dosage levels 1 (20 mg/m2/dose) and
+2 (30 mg/m2/dose). Two of five patients experienced dose-limiting diarrhea at level 3 (45
+mg/m2/dose), therefore an additional 3 patients were accrued at level 2. Of these, 1 patient,
+who had bone marrow involvement with neuroblastoma, had dose-limiting neutropenia. The
+study was then amended to add an intermediate level of 40 mg/m2/dose. Three additional
+patients were added at this level 4 (40 mg/m2/dose). Of these 3 patients, 2 experienced dose-
+limiting diarrhea and the study was closed, thus concluding MTD at level 2 (30 mg/m2/
+dose). Table II summarizes dosage levels and DLTs.
+Table III summarizes all toxicities greater than grade 1 that were possibly, probably, or
+definitely attributable to protocol therapy. The hematologic toxicities were mild with no
+patients requiring platelet transfusion and only 2 patients requiring packed red blood cell
+transfusions during course 1. There were 2 patients with uncomplicated febrile neutropenia
+during course 1; no patients experienced febrile neutropenia during the 22 later courses.
+Both of the patients with febrile neutropenia were removed from protocol therapy after the
+first course, one due to hematologic DLT (prolonged neutropenia) and the other due to
+progressive disease.
+The most common grade 3 nonhematologic toxicities were diarrhea (33.3% of all courses),
+nausea (15.4% of all courses), and vomiting (12.8% of all courses). Interestingly, although
+the rate of grade 3 diarrhea did not significantly change between course 1 (35.3%) and
+subsequent courses (31.8%), there was almost no significant nausea and vomiting in
+subsequent courses; in contrast, 29% of patients experienced grade 3 nausea and vomiting
+during course 1. Most of the other non-hematologic toxicities, such as electrolyte
+disturbances and dehydration, were related to the gastrointestinal symptoms. There were no
+incidences of Clostridium difficile toxin positive stool. One patient was positive for
+Clostridium difficile toxin prior to beginning therapy, but never had the toxin detected again
+despite 12 courses of therapy. This patient also had colonization with vancomycin-resistant
+enterococci (VRE) prior to starting therapy that cleared while receiving twice-daily
+cefpodoxime. One of the 5 patients who continued with irinotecan therapy after withdrawal
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+McGregor et al. Page 6
+from the protocol experienced diarrhea related to Clostridium difficile that cleared while
+continuing cefpodoxime and irinotecan.
+Antitumor activity
+Two patients met the imaging criteria for partial response after course 1 as illustrated in
+Figure 1, but neither received a second course on protocol and thus the responses were not
+confirmed. One patient had a partial response by imaging of his Ewing sarcoma and
+maintained that response through 5 more courses of irinotecan (reduced from 45 mg/m2/
+dose to 20 mg/m2/dose by the treating physician after removal from protocol therapy for
+DLT) until choosing to pursue alternative therapy. A patient with a partial response of his
+metastatic paraganglioma electively withdrew from the protocol after the first course but
+continued the same treatment (irinotecan 30 mg/m2/dose with cefpodoxime) for 11 more
+courses until disease progression. All of the subsequent imaging of these 2 patients was
+performed at our institution. One child with primary refractory neuroblastoma had disease
+stabilization through 12 courses of therapy at dosage level 2 until electively withdrawing
+from therapy. Another two patients had disease stabilization while receiving protocol
+therapy and received the therapy off-protocol until disease progression: one with recurrent
+neuroblastoma treated at dosage level 1 for a total of 8 courses (4 on protocol) and one with
+chordoma treated at dosage level 4 for a total of 5 courses (3 on protocol).
+Pharmacokinetics
+Pharmacokinetic parameters were analyzed for 11 participants. The other 9 patients either
+did not consent to pharmacokinetic studies, consented but had poor venous access, or did not
+have samples obtained due to logistical considerations. The median (range) for the
+irinotecan systemic clearance and volume of distribution was 11.8 L/h/m2 (9.9 to 16.5 L/hr/
+m2) and 105.4 L/m2 (102.7 to 107.7 L/m2). The AUC values for irinotecan, SN-38, and
+SN-38 glucuronide are presented in Table IV. The median (range) relative extent of
+conversion of irinotecan and relative extent of glucuronidation of SN-38 was 0.09 (0.06 to
+0.17) and 2.0 (0.71 to 6.05).
+Discussion
+This phase I study demonstrates that the MTD of intravenous irinotecan administered to
+children with refractory solid tumors on a [(qd × 5) × 2] schedule could be increased by 50%
+to 30 mg/m2/dose with the addition of twice daily cefpodoxime given orally. The regimen
+was tolerated well, with diarrhea (and associated dehydration and anorexia in some patients)
+as the major dose-limiting toxicity. The most notable other toxicities were nausea and
+vomiting during course 1 that appeared to improve with subsequent courses. Hematologic
+toxicity was manageable. Our study is the first prospective trial to demonstrate that
+concomitant administration of an oral cephalosporin allows advancement in the dosage of
+intravenous irinotecan similar to findings with oral irinotecan [17].
+Irinotecan, as a single-agent or in combination with other chemotherapeutic agents, has been
+effective in treating a variety of childhood solid tumors [9,22,23] with diarrhea as the
+predominant toxicity. As reviewed by Wagner et al [24], there have been a variety of
+approaches to the prevention of irinotecan-associated diarrhea, including attempts to
+diminish biliary excretion with cyclosporine [25], decrease intestinal absorption with
+activated charcoal [26], minimize colonic inflammation with budesonide or thalidomide
+[27,28], and prevent colonic injury with amifostine or glutamine [29,30]. In a randomized
+study in tumor-bearing rats receiving irinotecan [14], modulation of glucuronidase activity
+was more effective than activated charcoal or cyclosporine in ameliorating irinotecan-
+associated diarrhea. Similarly, studies in humans have shown that targeting glucuronidase
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+McGregor et al. Page 7
+production [15–17] or activity [31] improves irinotecan-associated diarrhea. Few studies
+have attempted to actually increase the irinotecan dosage with any of these approaches.
+Using activated charcoal, investigators were able to deliver more of the prescribed doses of
+irinotecan [26] and decrease the number of patients who developed diarrhea [32], but neither
+study attempted to increase the dosage. Two phase I studies in children [33,34] have
+included an oral cephalosporin when trying to combine intravenous irinotecan with other
+agents, but neither was able to advance the irinotecan dosage past 20 mg/m2/day. This study
+also supports that antibiotic use, to presumably decrease the levels of intestinal
+glucuronidase, is an effective mechanism for ameliorating irinotecan-associated diarrhea and
+even allows further escalation of the dosage.
+Colonization resistance is the concept that the anaerobic bacterial flora in the gastrointestinal
+tract inhibits the adherence, colonization, and proliferation of potentially pathogenic aerobic
+flora [35]. The goal of selective intestinal decontamination is to administer an antibiotic that
+spares the commensal anaerobic flora while eliminating the potential pathogenic aerobic
+flora (or aerobic glucuronidase-producing flora in this study), thereby preserving
+colonization resistance. Original work done in patients with neutropenia utilized
+nonabsorbable antibiotics as prophylactic agents [36]. In recent years, however, the use of
+broad-spectrum absorbable antibiotics like fluoroquinolones has become a common practice
+when chemoprophylaxis in neutropenic patients is given [37]. As with any prolonged
+administration of oral antibiotics, there is an increased risk of gram-positive infections and
+the potential for antibiotic resistance [37]. Risk of systemic absorption and subsequent renal
+damage with prolonged use of neomycin (>2 weeks) [38] renders it a less attractive
+candidate for prolonged selective intestinal decontamination. A third-generation oral
+cephalosporin has the advantage of being effective against Escherichia coli [39], a known
+producer of glucuronidase [40], while not eliminating the anaerobes that are important for
+maintaining colonization resistance. A previous study demonstrated that administration of a
+cephalosporin decreased stool bacterial beta-glucuronidase [17] without inducing significant
+rates of colonization by pathogens (such as Clostridium difficile) or resistant organisms such
+as VRE [17,41,42]. We did not see increased infections with fungi as can occur with
+prolonged antibiotic use and disruption of colonization resistance. Neither did we observe
+increased infection with gram-positive organisms. Thus, it appears that selective intestinal
+decontamination was achieved.
+Because all patients were pretreated and had a variety of diagnoses, it is difficult to
+accurately estimate the activity of this regimen. Pharmacokinetics are sometimes useful to
+estimate whether patients are being exposed to effective levels of a chemotherapy agent.
+However, as reviewed by Deeken et al [43], the pharmacokinetics and pharnacodynamics of
+irinotecan are quite complex, involving many overlapping metabolic pathways. The best-
+described source of pharmacokinetic variation is the polymorphisms of uridine diphosphate
+glucuronosyltransferease 1A1 (UGT1A1), but there are many other genes involved in the
+metabolism of irinotecan currently under study [43]. This unpredictable variability in the
+pharmacokinetics of irinotecan is depicted in Table V; exposure to the active form of
+irinotecan, SN-38, varies widely among patients, even when the same dosage is
+administered by the same route. For the intravenous dose of 20 mg/m2/d, the median SN-38
+lactone AUC ranged from 14.8 to 106 ng-h/mL with the absolute range of 7.8 to 421 ng-h/
+mL. In our study, the median AUC of the 30 mg/m2/d dose was 67 ng-h/mL, which is
+greater than the median AUC achieved with a dose of 20 mg/m2/d in 3 of the 4 referenced
+studies. The range of the AUC of SN-38 lactone at the intravenous MTD of this study was
+greater than that reported when oral irinotecan is administered at a dose of 60 mg/m2/d in
+one study [17] and similar to that of another [42]. The range of SN-38 lactone AUC
+associated with partial responses in neuroblastoma xenograft models was 99 to 129 ng-h/mL
+[4]. Thus, some patients are achieving this level of exposure, but not all. Given this wide
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+McGregor et al. Page 8
+interpatient variability, no study has demonstrated clearly that there is a definitive level of
+SN-38 exposure associated with tumor response. However, it is reasonable to infer that there
+could be some threshold of exposure that should be achieved for irinotecan to be effective as
+was demonstrated in the neuroblastoma xenograft models [4]. By increasing the dosage of
+irinotecan to 30 mg/m2/d, exposure to SN-38 is potentially increased, thus increasing the
+likelihood that the threshold of effective exposure is reached. A phase II study is required to
+formally assess the activity of this regimen.
+Consistent with the fact that irinotecan exerts its effect during the S phase of the cell cycle
+[44], many of the published responses of pediatric tumors to irinotecan have been from
+studies using the protracted schedule [8,9,18,22]. More recently, a randomized study in
+children with relapsed rhabdomyosarcoma [45] demonstrated comparable response rates to
+vincristine combined with irinotecan 50 mg/m2/day for 5 days [qd × 5] versus irinotecan 20
+mg/m2/day on the protracted [(qd × 5) × 2] schedule. Based on this finding, many pediatric
+studies are transitioning to a 5-day regimen of irinotecan [41]. Since the DLT of the [qd × 5]
+regimen was diarrhea in less-heavily pretreated children [46], use of a concurrent oral
+cephalosporin may be useful to escalate the irinotecan dosage on that regimen as well. As
+was demonstrated with a 5-day oral irinotecan regimen [41], it may be possible to decrease
+the length of antibiotic administration while still advancing the dosage of the 5-day
+intravenous irinotecan. A reduction in number of days of cephalosporin administration may
+decrease the risk of antibiotic-associated toxicity and the emergence of resistance bacteria.
+In this study, there was evidence of antitumor activity with irinotecan as a single agent in
+combination with a cephalosporin. It is important to note that when irinotecan was tested as
+a single agent in children with rhabdomyosarcoma, there was an unacceptable number of
+patients with disease progression [9]. When vincristine was added to the regimen, the
+percentage of patients with disease progression decreased from 32% to 8% [9]. Thus
+irinotecan is combined with other cytotoxic agents, such as vincristine [9,41] or
+temozolomide [47,48], or with targeted therapies such as antiangiogenesis agents [49–51] or
+agents directed against epidermal growth factor signaling [52,53]. In some of these
+combinations, irinotecan could not be administered at the single agent MTD [18,53].
+Diarrhea was one of the dose-limiting toxicities in both of those studies. Addition of a
+cephalosporin to these and other combinations might allow advancement of the irinotecan
+dosage, but there is also a risk of new toxicities with addition of another drug. Vigilance will
+be needed to identify any emerging toxicities from adding another drug to irinotecan
+combinations.
+In summary, the purpose of this study was to investigate if the MTD of irinotecan
+administered on a protracted intravenous schedule could be increased with selective
+intestinal decontamination using an oral cephalosporin. We were able to effectively increase
+the MTD by 50% using this approach, resulting in an increase in SN-38 exposure. There was
+evidence of antitumor activity as demonstrated by two patients with partial responses of
+their disease and several others with disease stabilization. Future uses of these results
+include attempts to advance the irinotecan dose on the same schedule when combined with
+other agents, such as vincristine or temozolomide, and potentially advancing the dosage of
+the alternate 5-day irinotecan regimen.
+Acknowledgments
+This study was supported by Childhood Cancer Solid Tumor Program Project Grant CA23099 and Cancer Center
+Support Grant CA21765 from the US National Institutes of Health (NIH), and by the American Lebanese Syrian
+Associated Charities (ALSAC). The authors would like to thank Dana Hawkins, Kathleen Campbell, Debbie Poe,
+and Amy Sanders for their assistance with the conduct of the study and data collection; Dr. Alberto Pappo for
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+McGregor et al. Page 9
+reviewing the manuscript; Brenda Clark for assistance with manuscript preparation; and all of the patients and their
+parents that participated in the study.
+References
+1. Houghton PJ, Cheshire PJ, Hallman JD, et al. Efficacy of topoisomerase I inhibitors, topotecan and
+irinotecan, administered at low dose levels in protracted schedules to mice bearing xenografts of
+human tumors. Cancer Chemother Pharmacol. 1995; 36(5):393–403. [PubMed: 7634381]
+2. Jansen WJ, Kolfschoten GM, Erkelens CA, et al. Anti-tumor activity of CPT-11 in experimental
+human ovarian cancer and human soft-tissue sarcoma. Int J Cancer. 1997; 73(6):891–6. [PubMed:
+9399672]
+3. Pawlik CA, Houghton PJ, Stewart CF, et al. Effective schedules of exposure of medulloblastoma
+and rhabdomyosarcoma xenografts to topotecan correlate with in vitro assays. Clin Cancer Res.
+1998; 4(8):1995–2002. [PubMed: 9717830]
+4. Thompson J, Zamboni WC, Cheshire PJ, et al. Efficacy of systemic administration of irinotecan
+against neuroblastoma xenografts. Clin Cancer Res. 1997; 3(3):423–31. [PubMed: 9815701]
+5. Zamboni WC, Stewart CF, Thompson J, et al. Relationship between topotecan systemic exposure
+and tumor response in human neuroblastoma xenografts. J Natl Cancer Inst. 1998; 90(7):505–11.
+[PubMed: 9539245]
+6. Houghton PJ, Cheshire PJ, Myers L, et al. Evaluation of 9-dimethylaminomethyl-10-
+hydroxycamptothecin against xenografts derived from adult and childhood solid tumors. Cancer
+Chemother Pharmacol. 1992; 31(3):229–39. [PubMed: 1464161]
+7. Vassal G, Boland I, Santos A, et al. Potent therapeutic activity of irinotecan (CPT-11) and its
+schedule dependency in medulloblastoma xenografts in nude mice. Int J Cancer. 1997; 73(1):156–
+63. [PubMed: 9334824]
+8. Furman WL, Stewart CF, Poquette CA, et al. Direct translation of a protracted irinotecan schedule
+from a xenograft model to a phase I trial in children. J Clin Oncol. 1999; 17(6):1815–24. [PubMed:
+10561220]
+9. Pappo AS, Lyden E, Breitfeld P, et al. Two consecutive phase II window trials of irinotecan alone or
+in combination with vincristine for the treatment of metastatic rhabdomyosarcoma: the Children's
+Oncology Group. J Clin Oncol. 2007; 25(4):362–9. [PubMed: 17264331]
+10. Akimoto K, Kawaii M, Ohya K. Kinetic studies of the hydrolysis and lactonization of
+camptothecin and its derivatives. Chemother Pharmacol Bull. 1994; 42:2135–8.
+11. Iyer L, King CD, Whitington PF, et al. Genetic predisposition to the metabolism of irinotecan
+(CPT-11). Role of uridine diphosphate glucuronosyltransferase isoform 1A1 in the
+glucuronidation of its active metabolite (SN-38) in human liver microsomes. J Clin Invest. 1998;
+101(4):847–54. [PubMed: 9466980]
+12. Kaneda N, Nagata H, Furuta T, et al. Metabolism and pharmacokinetics of the camptothecin
+analogue CPT-11 in the mouse. Cancer Research. 1990; 50(6):1715–20. published erratum appears
+in Cancer Res 1990 Jul 15;50(14):4451. [PubMed: 2306725]
+13. Takasuna K, Hagiwara T, Hirohashi M, et al. Inhibition of intestinal microflora beta-glucuronidase
+modifies the distribution of the active metabolite of the antitumor agent, irinotecan hydrochloride
+(CPT-11) in rats. Cancer Chemother Pharmacol. 1998; 42(4):280–6. [PubMed: 9744772]
+14. Takasuna K, Hagiwara T, Watanabe K, et al. Optimal antidiarrhea treatment for antitumor agent
+irinotecan hydrochloride (CPT-11)-induced delayed diarrhea. Cancer Chemother Pharmacol. 2006;
+58(4):494–503. [PubMed: 16437251]
+15. Kehrer DF, Sparreboom A, Verweij J, et al. Modulation of irinotecan-induced diarrhea by
+cotreatment with neomycin in cancer patients. Clin Cancer Res. 2001; 7(5):1136–41. [PubMed:
+11350876]
+16. Alimonti A, Satta F, Pavese I, et al. Prevention of irinotecan plus 5-fluorouracil/leucovorin-
+induced diarrhoea by oral administration of neomycin plus bacitracin in first-line treatment of
+advanced colorectal cancer. Ann Oncol. 2003; 14(5):805–6. [PubMed: 12702539]
+17. Furman WL, Crews KR, Billups C, et al. Cefixime allows greater dose escalation of oral
+irinotecan: a phase I study in pediatric patients with refractory solid tumors. J Clin Oncol. 2006;
+24(4):563–70. [PubMed: 16446328]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+McGregor et al. Page 10
+18. Wagner LM, Crews KR, Iacono LC, et al. Phase I trial of temozolomide and protracted irinotecan
+in pediatric patients with refractory solid tumors. Clin Cancer Res. 2004; 10(3):840–8. [PubMed:
+14871959]
+19. Common Terminology Criteria (CTC). Cancer Therapy Evaluation Program. version 2.0. U.S.
+Department of Health and Human Services, National Institutes of Health, National Cancer
+Institute; Bethesda, MD: Apr 30. 1999
+20. Therasse P, Arbuck SG, Eisenhauer EA, et al. New guidelines to evaluate the response to treatment
+in solid tumors. European Organization for Research and Treatment of Cancer, National Cancer
+Institute of the United States, National Cancer Institute of Canada. J Natl Cancer Inst. 2000; 92(3):
+205–16. [PubMed: 10655437]
+21. Crews KR, Stewart CF, Jones-Wallace D, et al. Altered irinotecan pharmacokinetics in pediatric
+high-grade glioma patients receiving enzyme-inducing anticonvulsant therapy. Clin Cancer Res.
+2002; 8(7):2202–9. [PubMed: 12114421]
+22. Bisogno G, Riccardi R, Ruggiero A, et al. Phase II study of a protracted irinotecan schedule in
+children with refractory or recurrent soft tissue sarcoma. Cancer. 2006; 106(3):703–7. [PubMed:
+16369989]
+23. Shitara T, Shimada A, Tsuchida Y, et al. Successful clinical response to irinotecan in relapsed
+neuroblastoma. Med Pediatr Oncol. 2003; 40(2):126–8. [PubMed: 12461801]
+24. Wagner LM, Crews KR, Stewart CF, et al. Reducing irinotecan-associated diarrhea in children.
+Pediatr Blood Cancer. 2008; 50(2):201–7. [PubMed: 17570704]
+25. Desai AA, Kindler HL, Taber D, et al. Modulation of irinotecan with cyclosporine: a phase II trial
+in advanced colorectal cancer. Cancer Chemother Pharmacol. 2005; 56(4):421–6. [PubMed:
+15895230]
+26. Michael M, Brittain M, Nagai J, et al. Phase II study of activated charcoal to prevent irinotecan-
+induced diarrhea. J Clin Oncol. 2004; 22(21):4410–7. [PubMed: 15514383]
+27. Karthaus M, Ballo H, Abenhardt W, et al. Prospective, double-blind, placebo-controlled,
+multicenter, randomized phase III study with orally administered budesonide for prevention of
+irinotecan (CPT-11)-induced diarrhea in patients with advanced colorectal cancer. Oncology.
+2005; 68(4–6):326–32. [PubMed: 16020959]
+28. Govindarajan R, Heaton KM, Broadwater R, et al. Effect of thalidomide on gastrointestinal toxic
+effects of irinotecan. Lancet. 2000; 356(9229):566–7. [PubMed: 10950238]
+29. Savarese D, Al Zoubi A, Boucher J. Glutamine for irinotecan diarrhea. J Clin Oncol. 2000; 18(2):
+450–1. [PubMed: 10637264]
+30. Delioukina ML, Prager D, Parson M, et al. Phase II trial of irinotecan in combination with
+amifostine in patients with advanced colorectal carcinoma. Cancer. 2002; 94(8):2174–9. [PubMed:
+12001114]
+31. Mori K, Kondo T, Kamiyama Y, et al. Preventive effect of Kampo medicine (Hangeshashin-to)
+against irinotecan-induced diarrhea in advanced non-small-cell lung cancer. Cancer Chemother
+Pharmacol. 2003; 51(5):403–6. [PubMed: 12687289]
+32. Sergio GC, Felix GM, Luis JV. Activated charcoal to prevent irinotecan-induced diarrhea in
+children. Pediatr Blood Cancer. 2008; 51(1):49–52. [PubMed: 18253955]
+33. McGregor LM, Spunt SL, Furman WL, et al. Phase 1 study of oxaliplatin and irinotecan in
+pediatric patients with refractory solid tumors: a Children's Oncology Group study. Cancer. 2009;
+115(8):1765–75. [PubMed: 19170226]
+34. McNall-Knapp RY, Williams CN, Reeves EN, et al. Extended phase I evaluation of vincristine,
+irinotecan, temozolomide, and antibiotic in children with refractory solid tumors. Pediatr Blood
+Cancer. 2010; 54(7):909–15. [PubMed: 20405511]
+35. Vollaard EJ, Clasener HA. Colonization resistance. Antimicrob Agents Chemother. 1994; 38(3):
+409–14. [PubMed: 8203832]
+36. Yates JW, Holland JF. A controlled study of isolation and endogenous microbial suppression in
+acute myelocytic leukemia patients. Cancer. 1973; 32(6):1490–8. [PubMed: 4202191]
+37. Patrick CC. Use of fluoroquinolones as prophylactic agents in patients with neutropenia. Pediatr
+Infect Dis J. 1997; 16(1):135–9. [PubMed: 9002124]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+McGregor et al. Page 11
+38. Neomycin sulfate tablet [X-GEN Pharmaceuticals, Inc.]. Daily Med. National Library of Medicine
+(US); Sep 6. 2010 2010
+39. Knothe H, Shah PM, Eckardt O. Cefpodoxime: comparative antibacterial activity, influence of
+growth conditions, and bactericidal activity. Infection. 1991; 19(5):370–6. [PubMed: 1800379]
+40. McBain AJ, Macfarlane GT. Ecological and physiological studies on large intestinal bacteria in
+relation to production of hydrolytic and reductive enzymes involved in formation of genotoxic
+metabolites. J Med Microbiol. 1998; 47(5):407–16. [PubMed: 9879941]
+41. Wagner LM, Perentesis JP, Reid JM, et al. Phase I trial of two schedules of vincristine, oral
+irinotecan, and temozolomide (VOIT) for children with relapsed or refractory solid tumors: a
+Children's Oncology Group phase I consortium study. Pediatr Blood Cancer. 2010; 54(4):538–45.
+[PubMed: 20049936]
+42. Wagner LM, Villablanca JG, Stewart CF, et al. Phase I trial of oral irinotecan and temozolomide
+for children with relapsed high-risk neuroblastoma: a new approach to neuroblastoma therapy
+consortium study. J Clin Oncol. 2009; 27(8):1290–6. [PubMed: 19171709]
+43. Deeken JF, Slack R, Marshall JL. Irinotecan and uridine diphosphate glucuronosyltransferase 1A1
+pharmacogenetics: to test or not to test, that is the question. Cancer. 2008; 113(7):1502–10.
+[PubMed: 18720361]
+44. Del BG, Lassota P, Darzynkiewicz Z. The S-phase cytotoxicity of camptothecin. Exp Cell Res.
+1991; 193(1):27–35. [PubMed: 1995300]
+45. Mascarenhas L, Lyden ER, Breitfeld PP, et al. Randomized phase II window trial of two schedules
+of irinotecan with vincristine in patients with first relapse or progression of rhabdomyosarcoma: a
+report from the Children's Oncology Group. J Clin Oncol. 2010; 28(30):4658–63. [PubMed:
+20837952]
+46. Blaney S, Berg SL, Pratt C, et al. A phase I study of irinotecan in pediatric patients: a pediatric
+oncology group study. Clin Cancer Res. 2001; 7(1):32–7. [PubMed: 11205914]
+47. Bagatell R, London WB, Wagner LM, et al. Phase II Study of Irinotecan and Temozolomide in
+Children With Relapsed or Refractory Neuroblastoma: A Children's Oncology Group Study. J Clin
+Oncol. 2011; 29(2):208–13. [PubMed: 21115869]
+48. Wagner LM, McAllister N, Goldsby RE, et al. Temozolomide and intravenous irinotecan for
+treatment of advanced Ewing sarcoma. Pediatr Blood Cancer. 2007; 48(2):132–9. [PubMed:
+16317751]
+49. Aguilera DG, Goldman S, Fangusaro J. Bevacizumab and irinotecan in the treatment of children
+with recurrent/refractory medulloblastoma. Pediatr Blood Cancer. 2011; 56(3):491–4. [PubMed:
+21072819]
+50. Gururangan S, Chi SN, Young PT, et al. Lack of efficacy of bevacizumab plus irinotecan in
+children with recurrent malignant glioma and diffuse brainstem glioma: a Pediatric Brain Tumor
+Consortium study. J Clin Oncol. 2010; 28(18):3069–75. [PubMed: 20479404]
+51. Packer RJ, Jakacki R, Horn M, et al. Objective response of multiply recurrent low-grade gliomas to
+bevacizumab and irinotecan. Pediatr Blood Cancer. 2009; 52(7):791–5. [PubMed: 19165892]
+52. Furman WL, Navid F, Daw NC, et al. Tyrosine kinase inhibitor enhances the bioavailability of oral
+irinotecan in pediatric patients with refractory solid tumors. J Clin Oncol. 2009; 27(27):4599–604.
+[PubMed: 19687340]
+53. Trippett TM, Herzog C, Whitlock JA, et al. Phase I and pharmacokinetic study of cetuximab and
+irinotecan in children with refractory solid tumors: a study of the pediatric oncology experimental
+therapeutic investigators' consortium. J Clin Oncol. 2009; 27(30):5102–8. [PubMed: 19770383]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+McGregor et al. Page 12
+Figure 1.
+Thoracic CT of partial responses of recurrent metastatic Ewing sarcoma (A and B) and of
+metastatic paraganglioma (C and D) after one course of therapy. Post-contrast CT images
+show a pulmonary metastasis of Ewing sarcoma in the left lower lobe (arrow) with
+associated pleural effusion prior to therapy (A) and a decrease in the size of the solid
+metastasis with resolution of the effusion after therapy (B). Likewise, a metastatic deposit of
+paraganglioma in the right chest wall (arrows) evident prior to enrollment (C) decreased in
+size after the first course (D).
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+McGregor et al. Page 13
+Table I
+Characteristics of evaluable patients
+Patient Characteristics (N=17)
+Characteristics No. %
+Age at Protocol Enrollment, years
+Median 12.3
+Range 4.3 20.0
+Sex
+Male 14 82.4
+Female 3 17.6
+Race
+White 12 70.6
+Black 3 17.6
+Other 2 11.8
+Diagnosis
+Neuroblastoma 5 29.4
+Wilms Tumor 3 17.6
+Ewing Sarcoma 2 11.8
+Nasopharyngeal carcinoma 2 11.8
+Malignant Peripheral Nerve Sheath Tumor 1 5.9
+Paraganglioma 1 5.9
+Renal cell carcinoma 1 5.9
+Chordoma 1 5.9
+High-grade sarcoma 1 5.9
+Prior Therapy
+Chemotherapy Regimens (16 patients with prior chemotherapy)
+Median 3
+Range 1 – 5
+Radiation 14 82.4
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+McGregor et al. Page 14
+Table II
+Dose Levels and DLTs
+Dosage Level Irinotecan dose (mg/m2/dose) Pts. Enrolled (Pts. Evaluable) DLTs DLTs (# patients)
+1 20 3 (3) 0 None
+2 30 6 (6) 1 Neutropenia (1)
+3 45 8 (5) 2 Diarrhea (2), Dehydration (1)
+4 40 3 (3) 2 Diarrhea(2), Anorexia (1), Dehydration (1)
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+McGregor et al. Page 15
+III
+elbaT
+)ypareht
+locotorp
+ot
+detubirtta
+yletinifed
+ro
+ylbaborp
+,ylbissop(
+seiticixoT
+22=N
+21
+ot
+2
+sesruoC
+71=N
+1 esruoC
+edarG
+edarG
+4
+3
+2
+4
+3
+2
+seiticixoT
+cigolotameH
+2
+nibolgomeH
+9
+2
+3
+setycokueL
+5
+2
+5
+setycolunarg/slihportueN
+2
+sCBRp:noisufsnarT
+seiticixoT
+cigolotameH-noN
+3
+2
+gnipmarc
+ro
+niap
+lanimodbA
+1
+aixeronA
+1
+niaP
+enoB
+2
+1
+noitardyheD
+7
+6
+)ymotsoloc
+tuohtiw(
+aehrraiD
+2
+aineportuen
+elirbeF
+1
+aimelakrepyH
+2
+1
+4
+aimelakopyH
+2
+aimertanopyH
+1
+aimetahpsohpopyH
+1
+5
+aesuaN
+1
+)sitisocum
+laegnyrahp
+laro(
+sitignyrahp/sititamotS
+5
+gnitimoV
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+McGregor et al. Page 16
+Table IV
+Median (range) AUC values for irinotecan, SN-38 lactone, and SN-38G lactone after intravenous irinotecan
+administration
+Dosage (mg/m2/d) N IRN AUC 0→7 (ng*h/mL) SN-38 AUC 0→7 (ng*h/mL) SN-38G AUC 0→7 (ng*h/mL)
+20 2 270, 464 14, 40 123, 174
+30 4 814 (491–979) 67 (36 – 111) 191 (89 – 268)
+40 1 990 62 131
+45 4 1057 (894 – 1354) 53 (49 – 58) 127 (73 –171)
+N = number of patients; AUC: area under the concentration-time curve; IRN: irinotecan.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.
+
+--- Page 17 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+McGregor et al. Page 17
+V
+elbaT
+.enotcal
+83-NS
+rof
+seulav
+CUA
+)egnar(
+naidem
+dehsilbup
+fo
+nosirapmoC
+ecnerefeR
+)Lm/h*gn(
+7→0
+CUA
+G83-NS
+)Lm/h*gn(
+7→0
+CUA
+83-NS
+etuoR
+N
+)d/2m/gm(
+egasoD
+yduts
+tnerruC
+)862
+– 98(
+191
+)111
+–
+63(
+76
+VI
+4
+03
+]8[
+)124
+–
+14(
+601
+VI
+8
+02
+]9[
+)5.58–5.93(
+1.37
+)8.24–8.7(
+8.41
+VI
+4
+02
+]9[
+)9.432–2.42(
+1.64
+)6.77–5.52(
+9.23
+RCV
++ VI
+01
+02
+]12[
+)9.061–3.24(
+8.08
+)1.911–9(
+4.82
+VI
+12
+02
+]71[
+)3.02–9.8(
+2.41
+)9.71–8.3(
+1.11
+OP
+7
+04
+]71[
+)1.811–1.13(
+6.24
+)9.82–2.11(
+8.02
+XFC+OP
+7
+06
+]24[
+)9.832–8.12(
+4.54
+)5.68–2.53(
+5.96
+XFC
++ZMT+OP
+5
+06
+;edimolozomet:ZMT
+;emixifec
+:XFC
+;enitsircniv:RCV
+;htuom
+yb
+:OP
+;suonevartni
+:VI
+;evruc
+emit-noitartnecnoc
+eht
+rednu-aera
+:CUA
+;stneitap
+fo
+rebmun
+=
+N
+Pediatr Blood Cancer. Author manuscript; available in PMC 2013 March 01.

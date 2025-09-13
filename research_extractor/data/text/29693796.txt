@@ -1,0 +1,873 @@
+Source: 29693796.pdf
+Extracted on: Sat Sep 13 00:02:27 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Published in final edited form as:
+Pediatr Blood Cancer. 2018 August ; 65(8): e27077. doi:10.1002/pbc.27077.
+A Phase 1 Study of Cabozantinib in Children and Adolescents
+with Recurrent or Refractory Solid Tumors, Including CNS
+Tumors: Trial ADVL1211, A Report from the Children’s Oncology
+Group
+Meredith K. Chuk1, Brigitte C. Widemann1, Charles G. Minard2, Xiaowei Liu3, AeRang Kim4,
+M. Brooke Bernhardt2, Rachel A. Kudgus5, Joel M. Reid5, Stephan D. Voss6, Susan
+Blaney2, Elizabeth Fox7, and Brenda J. Weigel8
+1Pediatric Oncology Branch, NCI, CCR, Bethesda, MD
+2Baylor College of Medicine, Houston, TX
+3Children’s Oncology Group – Operations Center, Monrovia, CA
+4Children’s National Medical Center, Washington, DC
+5Mayo Clinic, Rochester, MN
+6Dana Farber Cancer Institute, Boston, MA
+7Children’s Hospital of Philadelphia, Philadelphia, PA
+8University of Minnesota, Minneapolis, MN
+Abstract
+Background—We conducted a phase 1 trial to determine the maximum tolerated dose (MTD),
+toxicity profile, pharmacokinetics (PK), pharmacodynamics (PD), and preliminary activity of
+cabozantinib in children with refractory or relapsed solid tumors.
+Methods—Patients received cabozantinib tablets on a continuous dosing schedule in a rolling-six
+escalating phase 1 trial design. PK and PD studies were performed.
+Results—Forty-one patients, median (range) age 13 (4-18) years, received cabozantinib to
+achieve a weekly cumulative dose equivalent to 30 (n=6), 40 (n=23) or 55 (n=12) mg/m2/day. At
+40 mg/m2/d, DLTs were palmar-plantar erythrodysesthesia syndrome, mucositis, and elevated
+alanine aminotransferase, lipase, and bilirubin. At 55 mg/m2/d, hypertension, reversible posterior
+leukoencephalopathy syndrome, headache, fatigue, and proteinuria were DLTs. Frequent non-
+DLTs included diarrhea, hypothyroidism, fatigue, nausea, vomiting, elevated hepatic
+transaminases, and proteinuria. In subsequent cycles, DLTs occurred at all dose levels. Across all
+dose levels, the steady state exposure and peak cabozantinib concentrations were similar. Four
+patients experienced a confirmed partial response: medullary thyroid carcinoma (MTC; n=2),
+Contact information for corresponding author: Meredith K. Chuk, Pediatric Oncology Branch, NCI, CCR, 10 Center Drive, Bethesda,
+MD 20892, Meredith.chuk@fda.hhs.gov.
+Conflict of Interest Statement: All authors declare that they have no COI to disclose.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Chuk et al. Page 2
+Wilms tumor, and clear cell sarcoma. Stable disease (>6 cycles) was seen in seven patients (MTC
+(n=2), Ewing sarcoma, synovial sarcoma, alveolar soft part sarcoma, paraganglioma, and
+ependymoma).
+Conclusions—A protocol-defined MTD was not reached; DLTs and dose reductions for toxicity
+occurred in the first, and subsequent cycles, at all dose levels. Based on the toxicity profile,
+pharmacokinetics, and responses, the recommended dose of cabozantinib in pediatric patients with
+refractory solid tumors is 40 mg/m2/day. A phase 2 study of cabozantinib is being conducted.
+Keywords
+cabozantinib; pediatrics; phase 1
+Introduction
+Cabozantinib (XL184, COMETRIQ®; CABOMETYX™, Exelixis, San Francisco, CA) is a
+small molecule inhibitor of multiple tyrosine kinases including MET, VEGFR2, RET, and
+AXL. Selective inhibition of VEGFR2 may lead to increased invasiveness and metastasis,
+and preclinical models suggest that inhibition of VEGFR2 together with c-MET may
+decrease tumor size, decrease invasiveness and metastases1,2. Cabozantinib, 140 mg
+capsules once daily, was FDA approved in 2012 for patients with progressive metastatic
+medullary thyroid cancer (MTC) based on improved progression-free survival compared to
+placebo [11.2 months vs. 4 months; HR (95% CI) 0.28 (0.19, 0.40)]. In 2016, cabozantinib,
+60 mg tablet once daily, was approved for adults with advanced renal cell carcinoma
+following prior antiangiogenic therapy3–5. The most commonly reported adverse drug
+reactions (≥25%) in adult trials were diarrhea, stomatitis, palmar-plantar erythrodysesthesia
+(PPE) syndrome, decreased weight, decreased appetite, nausea, vomiting, fatigue, oral pain,
+hair color changes, dysgeusia, hypertension, abdominal pain, and constipation3,4.
+The approved dose of cabozantinib for adults with MTC is 140 mg/d (capsules); however, in
+the trial that lead to approval, 79% and 41% of patients had dose-reductions to 100 mg/d and
+60 mg/d, respectively. Adverse events (AEs) led to discontinuation in 16% of patients4.
+There is an ongoing trial to fulfill a post-marketing requirement to evaluate two different
+dosing regimens of cabozantinib in adult patients with MTC, 140 mg capsules and 60 mg
+tablets (NCT01896479)6,7. Cabozantinib is being evaluated in adults with prostate,
+genitourinary, colon, non-small cell lung, breast, hepatocellular carcinoma, sarcoma, and
+AML.
+The primary objectives of this phase I trial were to identify a maximum tolerated dose
+(MTD) or recommended phase 2 dose (RP2D), characterize the toxicity profile, and describe
+the pharmacokinetics (PK) of cabozantinib in pediatric patients with refractory or recurrent
+solid tumors. Additional objectives were to describe preliminary evidence of activity and
+pharmacodynamics (PD) of cabozantinib in this patient population.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Chuk et al. Page 3
+Patients and Methods
+Patient Eligibility
+Eligible patients were between the ages of 2 and 18 years (y), had a body surface area
+≥0.35m2; had a relapsed or refractory solid tumor including CNS tumors (Part A), or MTC
+(Part B); measurable or evaluable disease; no known curative therapy or therapy proven to
+prolong survival with an acceptable quality of life; a Lansky (≤16y) or Karnofsky (>16y)
+performance status ≥ 50%; and were recovered from the acute toxic effects of prior
+anticancer therapy. In addition, they were able to swallow intact tablets, had adequate organ
+function defined as: absolute neutrophil count (ANC) ≥1000/mm3, platelet count
+≥100,000/mm3, creatinine clearance or radioisotope GFR ≥70 ml/min/1.73 m2 or serum
+creatinine(Cr) (mg/dL) based on age and gender; urine protein ≤ 30 mg/dL in urinalysis or ≤
+1+ on dipstick; total bilirubin ≤ 1.5 x upper limit of normal (ULN) for age, ALT ≤ 110 U/L,
+serum albumin ≥ 2.8 g/dL; PT and INR ≤ 1.5x ULN; serum amylase and lipase ≤ 1.5x ULN;
+blood pressure ≤ 95th percentile for age, height, and gender, and were not receiving
+medication for treatment of hypertension.
+Patients were not eligible if they had a history of congenital prolonged QTc syndrome, QTc
+>480msec; significant cardiac arrhythmias, stroke, or myocardial infarction within 6 months
+prior to enrollment; were receiving potent CYP3A4 inducers or inhibitors, systemic
+treatment anticoagulation, enzyme-inducing anticonvulsants, escalating doses of
+corticosteroids, or drugs that prolong QTc; or had any active bleeding or major surgical
+procedure within 28 days of enrollment or minor procedures within 7 days of enrollment.
+This multi-institutional trial was conducted at Children’s Oncology Group (COG) Phase I
+Consortium Institutions and approved by local IRBs. Informed consent, and assent as
+appropriate, was obtained from patients and their guardians prior to enrollment. The trial is
+listed on clinicaltrials.gov as NCT017094356.
+Treatment Regimen and Dose Escalation
+Cabozantinib (20 and 60mg tablets supplied by Exelixis and distributed by the National
+Cancer Institute’s Division of Cancer Treatment and Diagnosis) was administered orally in a
+fasted state (2 hours after or 1 hour before food) to achieve a weekly cumulative dose on a
+continuous dosing schedule in 28-day cycles. Due to limitations of available tablet strengths,
+dosing was based on a nomogram to achieve a total weekly dose within 10% of the intended
+dose (Supplemental Table S1). Three dose levels were evaluated: 30, 40, and 55 mg/m2/day
+(d). The trial was conducted in several parts: in Part A, the starting dose was 30 mg/m2/d
+with escalation to 40 and 55 mg/m2/d in subsequent cohorts utilizing the rolling-six design8;
+Part B was continuously open to enrollment for patients with MTC at one dose level below
+Part A if no openings were available on Part A. Patients were also enrolled in expansion
+cohorts to gather additional information on toxicity and PK in various ages.
+Toxicities were graded according to CTCAE v.4. Patients were monitored with weekly
+complete blood counts, chemistries including liver function tests, blood pressure, and
+physical exams during Cycle 1 (C1). Tibial radiographs were obtained at baseline and for
+patients with open growth plates, radiographs were monitored during protocol therapy for
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Chuk et al. Page 4
+growth plate toxicity by local and central review. Patients with MTC had serum levels of
+calcitonin and CEA measured at baseline and periodically thereafter.
+Subsequent cycles were administered if the patient met eligibility laboratory parameters, did
+not experience study-drug related adverse events (AEs) warranting discontinuation, and had
+no evidence of disease progression.
+Radiographic disease evaluation was conducted at baseline, at the end of C1, C3, C5, and
+then every three cycles. Radiographic response was assessed using RECIST v 1.1 by the
+treating physician-investigator. In addition, objective responses or prolonged stable disease,
+defined as ≥6 cycles, were centrally reviewed by an independent radiologist.
+Definition of Dose Limiting Toxicity
+Hematologic dose-limiting toxicity was defined as Grade 4 decrease in ANC or platelet
+count, any myelosuppression that caused a delay of >14 days between treatment cycles and,
+for patients with CNS tumors, more than one platelet transfusion administered for a platelet
+count ≤50,000/mcL during a cycle.
+Non-hematologic DLT was defined as any Grade 3 or 4 non-hematological toxicity with the
+exception of Grade 4 fever and the following Grade 3 toxicities: nausea and vomiting of < 3
+days duration, diarrhea ≤ 3 days duration, liver enzyme elevation that returned to eligibility
+or baseline levels within 7 days of drug interruption and did not recur upon re-challenge,
+electrolyte abnormality responsive to supplementation, asymptomatic amylase or lipase
+elevation that resolved to ≤ Grade 1 within 7 days of drug interruption and did not recur
+upon re-challenge, fever, infection < 5 days duration, and proteinuria unless it was
+confirmed with a second measurement within 72 hours. In patients who began
+antihypertensive therapy, a blood pressure > 10 mmHg but ≤ 25 mmHg above the 95th
+percentile for age, height, and gender for > 14 days was a DLT. In addition, any Grade 2
+non-hematological toxicity that persisted for ≥ 7 days and was considered sufficiently
+medically significant or intolerable by patients that it required treatment interruption, and
+any toxicity requiring interruption of study drug during a cycle of therapy for ≥ 7 days or
+which recurs upon drug challenge was considered a DLT.
+Definition of Maximum Tolerated Dose (MTD) and Dose Modifications for Toxicity
+The MTD, determined from toxicity during C1, was defined as the dose level immediately
+below the level in which two or more in a cohort of six patients experienced a DLT. Two
+dose reductions were permitted following recovery from a DLT.
+Pharmacokinetics
+Plasma pharmacokinetic sampling was performed at the beginning of C1 and at steady state.
+Samples were obtained on all patients prior to and 4 hours after the dose on Cycle 1 Day 1
+(C1D1), prior to and 2, 4, 8, and 24 hours after the dose on C1D21, and prior to the dose on
+C3D1. Plasma concentrations of cabozantinib were measured using a validated, previously
+described, LC-MS/MS method9. Pharmacokinetic parameters were calculated by standard
+non-compartmental analysis using Phoenix WINNONLIN 6.3 (Certara, L.P., St. Louis MO).
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Chuk et al. Page 5
+Pharmacodynamics
+Blood samples for biomarker analysis for known targets of cabozantinib and markers of
+hypoxia, inflammation, and angiogenesis were collected at baseline and prior to
+cabozantinib dosing on C1D1, C1D21 and C1D28. Plasma (EDTA) samples were shipped
+on dry ice to AssayGate (Ijamsville, MD) for multiplex immunoassay using standard
+protocols for quantitation of soluble forms of c-MET, VEGFR2, HGF, AXL, CA9, EPO,
+OPN, PIGF, IL-6, and TIMP-1. Analyte concentrations in samples were determined by
+either four or five-parameter logistic regression algorithm with analysis of the median
+fluorescence intensity or optical density readings of each eight-point standard curve.
+Results
+Patient characteristics
+Forty-one patients were enrolled; all were eligible and 36 were evaluable for the primary
+endpoints. The five inevaluable patients either did not receive at least 85% percent of
+protocol-prescribed drug during C1 as a result of early disease progression (n=4) or
+withdrew consent for non-toxicity reasons (n=1). Patient demographics and disease
+characteristics are presented in Table 1. The median (range) number of cycles administered
+was 3 (1-25). At the time of data cut-off, 4 patients continued on protocol therapy, two
+patients in C13 (ependymoma and Ewing sarcoma), and two patients with MTC, one in C20,
+and one in C25.
+Toxicity and MTD
+Six patients were enrolled at 30 mg/m2/d. No C1 DLTs were observed.
+Twenty-three patients were enrolled at 40 mg/m2/d (nine in Part A, four in Part B, and 10 in
+the PK cohort). Nineteen patients were evaluable for toxicity; five patients (26%) had a DLT
+during C1 (PPE; mucositis and PPE; and increased ALT, lipase, and bilirubin).
+Twelve patients were enrolled at 55 mg/m2/d (six in Part A and six in the PK expansion
+cohort). Eleven were evaluable for toxicity; three patients (27%) had a C1 DLT (headache
+and fatigue, reversible posterior leukoencephalopathy syndrome (RPLS) and hypertension in
+one patient, proteinuria and hypertension in one patient).
+Table 2 summarizes DLTs in the first and later cycles, dose modifications for DLTs, and the
+average daily dose received by patients in each dose level. Across dose-levels, nine patients
+accounted for 13 dose-reductions for toxicity after C1; the majority of dose reductions
+(10/13; 77%) occurred in C2 or C3. Reasons for dose-reductions included increased ALT,
+arthralgia, fatigue, hypertension, increased lipase, oral mucositis, nausea, decreased
+neutrophil count, PPE, proteinuria, thromboembolic event, vomiting, and weight loss.
+Overall, 3 patients discontinued therapy due to DLTs. One patient who discontinued
+cabozantinib (55 mg/m2/d) due to dose limiting RPLS and hypertension during cycle 1,
+experienced toxicity possibly related to cabozantinib during the 30 day follow up period.
+The patient developed Grade 4 adult respiratory distress syndrome 4 days after the last dose
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Chuk et al. Page 6
+of cabozantinib, and Grade 5 multi-organ failure 17 days after discontinuation of
+cabozantinib.
+Hematologic and non-hematologic adverse events as well as laboratory abnormalities that
+were assessed by the investigator to be at least possibly attributed to cabozantinib are
+summarized in Supplemental Table S2. Hypertension, gastrointestinal disorders (diarrhea,
+nausea and vomiting), constitutional (fatigue, arthralgia, weight loss), dermatological (rash
+and hypopigmentation of hair), and laboratory abnormalities (increased hepatic
+transaminases, hypothyroidism, proteinuria) were prevalent. All of these toxicities were
+grade 1 or 2 except for cases of grade 3 hypertension (n=3), PPE (n=3), diarrhea (n=2),
+increased ALT (n=2), proteinuria (n=1), fatigue (n=1), and weight loss (n=1). Overall, the
+toxicity profile was similar to adults.
+Twenty-six patients underwent growth plate evaluations. Growth plate widening on therapy
+(Figure 1) was identified in 5 of 23 patients who had open physes at baseline. Of the five
+patients, three patients were treated at 40 mg/m2/d and two patients at 55 mg/m2/d;
+diagnoses were anaplastic ependymoma (n=2), Ewings sarcoma (n=1), clear cell sarcoma
+(n=1), hepatocellular carcinoma (n=1). Despite the presence of physeal widening,
+longitudinal growth occurred in all 5 patients, even in those treated for greater than 12
+months.
+Pharmacokinetics
+Steady-state pharmacokinetics (day 22) were evaluated in 32 patients. Estimates of the
+cabozantinib pharmacokinetic parameters are summarized in Table 3. The median time of
+the peak concentration was 2 hours after drug administration. Mean peak concentrations
+were greater than 1693 ng/ml, and similar across the dose levels studied. Cabozantinib AUC
+was similar across dose levels. The steady-state oral clearance (Cl/F) was calculated over the
+24-hour dosing interval, and BSA-normalized oral clearance (mean ± SD) was 1.68 ± 0.76
+L/h/m2 for all patients and appeared to be similar across the dose levels. BSA-normalized
+Cl/F was similar in females and males (1.54 ± 0.55 L/h/m2 versus 1.72 ± 1.02 L/h/m2).
+BSA- normalized values tended to be higher in children less than 12 years of age compared
+with older children (1.89 ± 0.83 L/h/m2 versus 1.53 ± 0.69 L/h/m2); however, this was not
+significantly different (p=0.31, Wilcoxon rank sum test). The elimination half-life could not
+be calculated for most patients. Therefore, the day 21:day 1 accumulation ratio was
+calculated as 4.3 ± 3.9, and used to estimate the cabozantinib half-life of 66.2 ± 64.7 hours.
+Pharmacodynamics
+Change from baseline in plasma pharmacodynamic markers is presented in Table 4. AXL,
+CA9, and PIGF increased on study D21 and D28 versus baseline. OPN, TIMP-1, and
+VEGFR2 decreased on D21 and D28 versus baseline. The Wilcoxon signed rank test was
+used to test the null hypothesis that there was no change in biomarkers at D21 and D28
+versus baseline (p-values were adjusted for multiple hypothesis testing using the Bonferroni
+correction). There were significant changes in AXL, CA9, OPN, PIGF, TIMP-1, and
+VEGFR2 (p<0.05) at both D21 and D28 versus baseline. There was no significant change in
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Chuk et al. Page 7
+cMET, EPO, HGF, or IL-6. There was no significant biomarker change among cabozantinib
+dose levels or among patients who achieved response (data not shown).
+Response
+There were no complete responses. Four patients had a partial response (PR), and seven
+patients had prolonged stable disease (SD). PRs were achieved in two patients with MTC at
+the 40 mg/m2/d dose level (both continued on study at the time of data cut-off, C20 and
+C25), one patient with Wilms tumor at 55 mg/m2/d received 24 cycles before progressive
+disease (PD), and one with clear cell sarcoma at 55 mg/m2/d received seven cycles prior to
+PD. Of the seven patients with prolonged SD, two continue cabozantinib (40 mg/m2/d) at
+cycle 13 (Ewing sarcoma and ependymoma); three patients receiving 40 mg/m2/d
+discontinued therapy for PD after 8-10 cycles (MTC (n=2), alveolar soft part sarcoma). One
+patient with synovial sarcoma discontinued protocol therapy due to toxicity; this patient was
+receiving cabozantinib 30 mg/m2/d and experienced dose limiting weight loss in cycle 10.
+One patient with paraganglioma discontinued cabozantinib (55 mg/m2/d) after C11 when the
+family withdrew consent for non-toxicity reasons.
+Calcitonin and CEA
+Five patients with advanced MTC were treated on the trial. All had multiple endocrine
+neoplasia type 2B (MEN2B), a genetic cancer predisposition syndrome caused by germline
+activating mutations in the RET proto-oncogene. All had a point mutation in exon 16 (codon
+918). A decrease in calcitonin from baseline to the end of C1, ranging from 24 to 87%, was
+observed. Changes in CEA were more variable with three patients having a decrease and two
+patients, who remained on trial for 20 and 2 cycles, with an increase from baseline to post
+C1.
+Discussion
+No protocol-defined MTD was reached in this dose-escalation phase 1 study. No patients in
+the 30 mg/m2/d cohort, 5 of 19 (26%) patients in the 40 mg/m2/d cohort, and 3 of 11 (27%)
+patients in the 55 mg/m2/d cohort, had first cycle DLTs. Due to the long half-life of
+cabozantinib estimated in pediatric patients (66 h), steady-state drug concentrations are not
+achieved until the beginning of the third week of therapy. Thus, evaluation of toxicity for
+dose-determination during the first 28 day cycle is likely inadequate to evaluate the long-
+term tolerability of the drug and consideration should be given to toxicities in later cycles
+when determining the MTD or recommended dose. Delayed emergence of cabozantinib
+toxicity was observed in adults with MTC; the majority of patients required a dose reduction
+in the pivotal trial.
+Patients in this trial received a median of 3 cycles (range 1-25). DLTs after C1 occurred at
+all dose levels. To further evaluate the toxicity profile across dose levels, the average daily
+dose actually received was calculated for each patient and then averaged for each dose level
+(Table 2). This average daily dose was the sum of all course doses divided by the cycle
+length. This calculation accounted for dose reductions for DLTs and dose delays for
+resolution of dose-limiting and non-dose limiting toxicity. For 30, 40, and 55 mg/m2/d
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Chuk et al. Page 8
+cohorts, the average daily dose actually received was 30.8 ±3.6, 31.5 ±10.3, and 46.0 ±11.1
+mg/m2/d, respectively. The variation in daily dosing was due, in part, to the lack of a
+pediatric oral formulation, and complicated nomogram (see Supplemental Table S1). In
+addition, these factors limited the ability for precise dose reductions.
+Cabozantinib capsules (140 mg) are FDA approved in adults with MTC. In adults with renal
+cell carcinoma, cabozantinib tablets (60 mg) are FDA approved. These formulations are not
+bioequivalent. The tablet formulation was used in this pediatric study and the apparent
+clearance (1.1-1.8 L/h/m2) in children was variable but similar to reported clearance of this
+formulation in healthy adults (1.3-2 L/h/m2)10.
+The toxicity profile of cabozantinib in pediatric patients was similar to that seen in adults5.
+Common toxicities included increased ALT, diarrhea, fatigue, proteinuria, hypothyroidism,
+hypertension, weight loss, PPE, anorexia, and nausea. These toxicities were generally low
+grade and manageable with supportive care, dose interruption or reduction.
+Evidence of clinical activity of cabozantinib was seen in MTC and several sarcoma
+subtypes. Of the eleven patients with clinical benefit (PR or prolonged SD) ten received
+cabozantinib at the 40 or 55 mg/m2/d dose level. There was no significant change in the
+evaluated biomarkers in these patients.
+Given the toxicity profile (including DLT rate and actual dose administered), similar drug
+exposure and PD profile, and response data across the dose levels, the dose of cabozantinib
+recommended for further evaluation in pediatric patients with solid tumors is 40 mg/m2/d
+(tablets) orally. This is equivalent to an adult dose of 72 mg/d, and is similar to the 60 mg/d
+(tablets) dose approved for renal cell carcinoma and the dose being evaluated in several
+ongoing trials in other cancers. A Children’s Oncology Group phase 2 trial (ADVL1622) has
+opened to accrual to further evaluate the activity of cabozantinib in pediatric patients
+(NCT02867592).
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+Additional contributions received from Charlotte H. Ahern (formerly from Baylor College of Medicine), Paul
+Jarosinski from the NCI Clinical Center, Wendy Martinez, Catalina Martinez and Thalia Beeles from the Children’s
+Oncology Group Operations Center.
+Abbreviations
+CNS Central nervous system
+Mg Milligram
+d Day
+AML Acute myeloid leukemia
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Chuk et al. Page 9
+References
+1. Paez-Ribes M, Allen E, Hudock J, et al. Antiangiogenic therapy elicits malignant progression of
+tumors to increased local invasion and distant metastasis. Cancer cell. 2009; 15(3):220–231.
+[PubMed: 19249680]
+2. Yakes FM, Chen J, Tan J, et al. Cabozantinib (XL184), a novel MET and VEGFR2 inhibitor,
+simultaneously suppresses metastasis, angiogenesis, and tumor growth. Molecular cancer
+therapeutics. 2011; 10(12):2298–2308. [PubMed: 21926191]
+3. Cometriq USPI. Food and Drug Administration. http://www.accessdata.fda.gov/drugsatfda_docs/
+label/2016/203756s002lbl.pdf
+4. Cabometyx USPI. Food and Drug Administration. http://www.accessdata.fda.gov/drugsatfda_docs/
+label/2016/208692s000lbl.pdf
+5. Elisei R, Schlumberger MJ, Muller SP, et al. Cabozantinib in progressive medullary thyroid cancer.
+Journal of clinical oncology: official journal of the American Society of Clinical Oncology. 2013;
+31(29):3639–3646. [PubMed: 24002501]
+6. Cabozantinib in Treating Younger Patients With Recurrent or Refractory Solid Tumors. https://
+clinicaltrials.gov/ct2/show/NCT01709435
+7. Nguyen L, Holland J, Ramies D, et al. Effect of Renal and Hepatic Impairment on the
+Pharmacokinetics of Cabozantinib. J Clin Pharmacol. 2016; 56(9):1130–1140. [PubMed: 26865195]
+8. Skolnik JM, Barrett JS, Jayaraman B, Patel D, Adamson PC. Shortening the timeline of pediatric
+phase I trials: the rolling six design. Journal of clinical oncology: official journal of the American
+Society of Clinical Oncology. 2008; 26(2):190–195. [PubMed: 18182661]
+9. Lacy S, Hsu B, Miles D, Aftab D, Wang R, Nguyen L. Metabolism and Disposition of Cabozantinib
+in Healthy Male Volunteers and Pharmacologic Characterization of Its Major Metabolites. Drug
+Metab Dispos. 2015; 43(8):1190–1207. [PubMed: 26015560]
+10. Nguyen L, Benrimoh N, Xie Y, Offman E, Lacy S. Pharmacokinetics of cabozantinib tablet and
+capsule formulations in healthy adults. Anticancer Drugs. 2016; 27(7):669–678. [PubMed:
+27139820]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Chuk et al. Page 10
+Figure 1. Growth Plate Toxicity
+Progressive growth plate widening on therapy. Tibial radiographs obtained prior to Cycle 1
+(A), Cycle 9 (B), Cycle 16 (C), and Cycle 20 (D) show abnormal widening and irregularity
+of the distal femoral and proximal tibial physes. The physeal widening increases from the
+normal baseline seen prior to Cycle 1 (A) to become progressively more widened during the
+course of treatment.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Chuk et al. Page 11
+Table 1
+Patient Demographics and Disease Characteristics
+Characteristic Number (%)
+Age (years)
+Median (Range) 13 (4 – 18)
+Sex
+Male 21 (51)
+Female 20 (49)
+Race
+White 26 (63)
+Asian 3 (7)
+American Indian or Alaska Native 0 (0)
+Black or African American 7 (17)
+Unknown 5 (12)
+Ethnicity
+Non-Hispanic 38 (93)
+Hispanic 3 (7)
+Unknown 0 (0)
+Prior Chemotherapy Regimens 31 (76)
+Median number of regimens (Range) 3 (1 – 9)
+Prior Radiation 28 (68)
+Tumor Type
+Sarcoma 12 (29)
+Alveolar soft part sarcoma 2
+Clear cell sarcoma 1
+Embryonal rhabdomyosarcoma 2
+Ewing sarcoma 4
+Osteosarcoma 2
+Synovial sarcoma 1
+CNS 9 (22)
+Ependymoma 2
+Glioma 6
+Medulloblastoma 1
+Medullary thyroid carcinoma 5 (12)
+Renal cell carcinoma 3 (7)
+Epithelial-myoepithelial carcinoma 2 (5)
+Hepatoblastoma 2 (5)
+Wilms tumor 2 (5)
+Neuroblastic tumors
+Neuroblastoma 2 (5)
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+
+--- Page 12 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Chuk et al. Page 12
+Characteristic Number (%)
+Ganglioneuroblastoma 1 (2)
+Hepatocellular carcinoma 2 (5)
+Paraganglioma 1 (2)
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+
+--- Page 13 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Chuk et al. Page 13
+2
+elbaT
+snoitacifidoM
+esoD
+dna
+seiticixoT
+gnitimiL-esoD
+fo
+ecnedicnI
+a
+esod
+yliad
+egarevA
+TLD
+ot
+eud
+noitaunitnocsiD
+TLD
+rof
+noitcuder
+esoD
+1
+elcyC
+retfa
+TLD
+1
+elcyC
+gnirud
+TLD
+level
+esoD
+)DS(
+d/2m/gm
+elbaulavE/gniunitnocsid
+stneitaP
+/noitcuder
+esod
+gnivah
+stneitaP
+elbaulavE/stneve
+TLD
+fo
+rebmuN
+elbaulavE/TLD
+htiw
+stneitaP
+)d/2m/gm(
+)%(
+stneitaP
+)%(
+stneitap
+elbaulavE
+)%(
+stneitap
+)%(stneitap
+)6.3(
+8.03
+)71(
+6/1
+)0(
+6/0
+)04(
+5/2
+)0(
+6/0
+03
+)3.01(
+5.13
+)0(
+91/0
+)62(b
+91/5
+)05(
+61/8
+)62(
+91/5
+04
+)1.11(
+0.64
+)81(
+11/2
+)63(c
+11/4
+)65(
+9/5
+)72(
+11/3
+55
+noitaived
+dradnats=DS
+;yticixot
+gnitimil
+esod=TLD
+:elbat
+ni
+snoitaiverbbA
+a
+.htgnel
+elcyc
+dna
+aera
+ecafrus
+ydob
+yb
+dedivid
+elcyc
+rep
+deviecer
+gm
+ni
+esod
+latot
+sa
+detaluclac
+saw
+selcyc
+lla
+revo
+tneitap
+hcae
+rof
+esod
+yliad
+egarevA
+b
+snoitcuder
+esod
+owt
+dah
+stneitap
+owt
+,noitcuder
+esod
+eno
+dah
+stneitap
+eerhT
+c
+snoitcuder
+esod
+owt
+dah
+stneitap
+owt
+,noitcuder
+esod
+eno
+dah
+stneitap
+owT
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+
+--- Page 14 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Chuk et al. Page 14
+3
+elbaT
+sretemaraP
+citenikocamrahP
+amsalP
+leveL
+esoD
+d/2m/gm
+55
+d/2m/gm
+04
+d/2m/gm
+03
+veDdtS
+naeM
+N
+veDdtS
+naeM
+N
+veDdtS
+naeM
+N
+208
+9832
+01
+296
+3961
+61
+856
+5202
+6
+lm/gn
+, xam
+C
+75.6
+7.4
+01
+64.8
+83.7
+61
+39.8
+42.5
+6
+h , xam
+T
+58721
+10183
+01
+58901
+01003
+61
+2208
+71223
+6
+lm/gn·h
+, h42-0 CUA
+50.1
+13.2
+01
+68.0
+12.2
+61
+34.0
+26.1
+6
+h/L ,f/lC
+46.0
+97.1
+01
+78.0
+18.1
+61
+63.0
+41.1
+6
+2m/h/L
+,2m/f/lC
+32.1
+28.2
+9
+60.5
+27.4
+61
+71.2
+52.5
+6
+1yad,rh4
+C/
+12yad,rh4
+C
+oitaR
+noitalumuccA
+8.02
+8.73
+9
+3.68
+1.97
+41
+3.63
+7.87
+6
+h
+,
+t
+detsujdA
+noitalumuccA
+2/1
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Chuk et al. Page 15
+Table 4
+Pharmacodynamic Markers Change from Baseline
+Biomarker Study day Median change p-valueˆ
+AXL* 21
+2383.16 0.011
+CA9* 2
+2
+8
+1
+18
+3
+2
+2
+3
+.7
+.1
+2
+1
+<0
+0
+.
+.
+0
+0
+0
+0
+1
+4
+28 35.52 <0.001
+PIGF* 21 40.59 <0.001
+28 41.41 <0.001
+OPN* 21 −18.41 0.008
+28 −21.02 0.018
+TIMP-1* 21 −42.13 <0.001
+28 −28.13 <0.001
+VEGFR2* 21 −1581.01 <0.001
+28 −1992.72 <0.001
+cMET 21 15.61 0.173
+28 14.33 0.111
+EPO 21 2.77 0.524
+28 6.46 0.119
+HGF 21 −144.25 0.077
+28 −123.01 0.650
+IL-6 21 0.00 1
+28 0.00 1
+*
+Significant change from baseline
+ˆ
+P-values testing the null hypothesis that there is a change in the biomarker level versus baseline using Wilcoxon signed rank test and adjusted for
+multiple comparisons using the Bonferroni correction.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2019 August 01.

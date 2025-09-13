@@ -1,0 +1,623 @@
+Source: 28422758.pdf
+Extracted on: Fri Sep 12 23:55:13 PDT 2025
+==================================================
+
+--- Page 1 ---
+CLINICAL MEDICINE
+First-in-human trial of multikinase
+VEGF inhibitor regorafenib and anti-EGFR
+antibody cetuximab in advanced
+cancer patients
+Vivek Subbiah,1 Muhammad Rizwan Khawaja,1 David S. Hong,1 Behrang Amini,2 Jiang Yungfang,1
+Hui Liu,1 Adrienne Johnson,3 Alexa B. Schrock,3 Siraj M. Ali,3 James X. Sun,3 David Fabrizio,3
+Sarina Piha-Paul,1 Siqing Fu,1 Apostolia M. Tsimberidou,1 Aung Naing,1 Filip Janku,1 Daniel D. Karp,1
+Michael Overman,4 Cathy Eng,4 Scott Kopetz,4 Funda Meric-Bernstam,4 and Gerald S. Falchook5
+1Department of Investigational Cancer Therapeutics, Division of Cancer Medicine, 2Division of Radiology, The University
+of Texas MD Anderson Cancer Center, Houston, Texas, USA. 3Foundation Medicine, Cambridge, Massachusetts, USA.
+4Department of GI Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.
+5Drug Development Program, Sarah Cannon Research Institute at HealthONE, Presbyterian/St. Luke’s Medical
+Center, Denver, Colorado, USA.
+Role of funding source: The funding
+organizations had no role in study
+design, data collection and analysis, BACKGROUND. The combination of multikinase VEGF inhibitor regorafenib and anti-EGFR antibody
+decision to publish, or preparation of cetuximab overcomes intrinsic and acquired resistance in both EGFR-sensitive and EGFR-resistant
+the manuscript. preclinical models of colorectal cancer (CRC).
+Conflict of interest: V. Subbiah
+METHODS. Utilizing a standard 3+3 design, a phase I study was designed to determine safety,
+received research funding
+maximum tolerated dose (MTD), and dose-limiting toxicities (DLTs) of the regorafenib plus
+from Novartis, Bayer, GSK,
+cetuximab combination among patients with advanced cancer including CRC. Comprehensive
+Nanocarrier, Vegenics, Northwest
+Biotherapeutics, Berghealth, genomic profiling was performed on the exceptional responder.
+Incyte, Fujifilm, Pharmamar, D3,
+RESULTS. Among the 27 patients enrolled the median age was 54 years. None of 19 patients treated
+Pfizer, Amgen, and Abbvie. D.S.
+at dose level 1 (cetuximab i.v. 200 mg/m2 followed by 150 mg/m2 weekly + regorafenib 80 mg daily)
+Hong received research funding
+experienced a DLT, and 2 of 5 patients treated at dose level 2 (cetuximab i.v. 200 mg/m2 followed
+from Novartis, Genentech, Eisai,
+Astra-Zenica, Pfizer, and MiRNA. by 150 mg/m2 weekly + regorafenib 120 mg daily) experienced a DLT (grade 3 thrombocytopenia
+F. Janku received research funding [n = 1] and grade 3 intra-abdominal bleed [n = 1]). Most common adverse events were grade 1 or 2
+from Novartis. S. Piha-Paul received rash (20 patients). Of 24 evaluable patients, 11 (46%) patients had clinical benefit (stable disease
+research funding from Merck, Puma, > 6 cycles or partial response [PR]) (CRC n = 8, one patient each with head and neck cancer,
+Samumed, Curis, Cerulean, Incyte,
+carcinoma of unknown primary, and glioblastoma). A CRC patient, who progressed on anti-EGFR
+AbbVie, FivePrime, GlaxoSmithKline,
+and regorafenib, achieved a PR (46% decrease per RECIST v1.1) lasting 15 months. Genomic profiling
+Helix, Biomarin, Bayer, and
+of an exceptional responder with response for over 27 cycles revealed hypermutated genotype with
+XuanZhu. A. Johnson, S. Ali, J.X.
+Sun, D. Fabrizio, and A. Schrock are microsatellite instability (MSI).
+employees of Foundation Medicine
+CONCLUSION. Regorafenib 80 mg daily plus cetuximab 200 mg/m2 loading dose, followed by 150
+and own stock in the company.
+mg/m2 every week is the MTD/recommended phase II dose. The combination demonstrated early
+F. Meric-Bernstam received
+research funding from Novartis signals of activity in wild-type CRC, including 1 exceptional responder with MSI high.
+and Genentech. G. Falchook is an
+TRIAL REGISTRATION. clinicaltrials.gov NCT02095054
+employee of the Sarah Cannon
+Research Institute at HealthONE. FUNDING. The University of Texas MD Anderson Cancer Center is supported by the NIH Cancer
+Submitted: August 29, 2016 Center Support Grant CA016672. This work was supported in part by the Cancer Prevention Research
+Accepted: March 7, 2017 Institute of Texas grant RP110584 and National Center for Advancing Translational Sciences grant
+Published: April 20, 2017 UL1 TR000371 (Center for Clinical and Translational Sciences).
+Reference information:
+JCI Insight. 2017;2(8):e90380.
+https://doi.org/10.1172/jci.
+insight.90380.
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 1
+
+--- Page 2 ---
+CLINICAL MEDICINE
+Introduction
+Table 1. Patient Characteristics on
+Angiogenesis and EGFR signaling have now well-established roles in cancer biology.
+the phase 1 trial with cetuximab and
+VEGF plays a pivotal role in tumor angiogenesis, while activation of the EGFR has been
+regorafenib
+linked to many processes crucial to tumor progression (1, 2). Close relationships exist
+No. of Patients between these 2 pathways. Preclinical studies suggest that the EGFR may have a role in
+(n = 27) angiogenesis, and also that inhibition of the EGFR downregulates VEGF (3-6). Converse-
+Sex ly, VEGF upregulation independent of EGFR signaling seems to contribute to resistance
+Male 16 (59 %)
+to EGFR inhibition (7). Moreover, VEGF inhibition may also block EGFR autocrine sig-
+Female 11 (41%)
+naling and thereby inhibit cancer cell growth (8).
+Age
+Given that the EGFR and VEGF share common downstream signaling pathways, com-
+≤50 years 12 (44 %)
+bined inhibition of these 2 targets may enhance efficacy. In vivo preclinical data have dem-
+>50 years 15 (56%)
+onstrated decreased angiogenesis as well as increased tumor and endothelial cell apoptosis
+Previous Therapies
+<3 Lines 7 (26%) with combined inhibition of VEGF and EGFR (9).
+≥3 Lines 20 (74%) Inhibitors of VEGF and EGFR have become key therapies in several tumor types.
+Anti-VEGF Therapy 22 (81%) Regorafenib is a multikinase inhibitor, with targets including VEGF receptors 1–3, KIT,
+Anti-EGFR Therapy 21 (78%) and PDGFR-α and -β. It is approved for use in patients with refractory colon cancer
+Phase I Trial Therapy 5 (19%)
+as well was gastrointestinal stromal tumors. Cetuximab is one of the earliest employed
+Surgery 17 (63%)
+monoclonal antibodies targeting the EGFR, and is approved for use in metastatic KRAS
+Radiation 10 (37%)
+wild-type colorectal cancer (CRC) and surgically unresectable squamous cell carcinoma
+ECOG Performance status
+of head and neck. All patients receiving regorafenib or cetuximab eventually progress, and
+0 3
+1 19 a search for more effective treatments continues.
+2 5 Recently, Napolitano et al. studied the in vitro effect of the combination of regorafenib
+Diagnoses plus cetuximab in KRAS- and BRAF-mutated human colorectal cell lines as a model of pri-
+Colorectal 17( 63%) mary resistance to cetuximab as well as colorectal cell line models of acquired resistance to
+Unknown Primary 3 (11%) cetuximab (10). The study demonstrated a synergistic antiproliferative and apoptotic effect of
+Hepatocellular 2 (7%)
+this combination by blocking MAPK and AKT pathways, compared with either drug alone
+Cervical 2 (7%)
+or control. The authors then injected nude mice with colorectal cancer cell lines with primary
+Glioblastoma 1 (3.7%)
+and secondary resistance to cetuximab, and demonstrated significant tumor inhibition with
+Renal Cell 1 (3.7%)
+the combination of regorafenib and cetuximab compared with either drug alone or control.
+Head and Neck 1 (3.7%)
+Similar results were also observed in an orthotopic KRAS-mutated human CRC xenograft.
+We hypothesized that the combination of regorafenib and cetuximab may enhance antitu-
+mor efficacy. Therefore, this phase I trial was conducted to determine maximum tolerated dose
+(MTD) and dose-limiting toxicities (DLTs) with this regimen, and to assess the antitumor efficacy
+of this combination. We also report on comprehensive genomic profiling (CGP) in a patient with CRC and mis-
+match repair (MMR) deficiency who had an exceptional response of stable disease beyond 20 cycles of therapy.
+Recently, MMR status was shown to predict response to checkpoint immunotherapy in CRC and non-CRC
+patients (11). More patients with CRC are being tested for microsatellite instability (MSI) status for checkpoint
+therapy and treatment options are needed for checkpoint progressors.
+Results
+All 27 patients enrolled in the trial were evaluable for toxicity and 24 (89%) (13 male [54%]) were evaluable
+for response, as they completed a full cycle with restaging and were included in the analysis. The median
+age of patients was 54 (range 28–68) years. Sixty-three percent of the patients had CRC (17 patients).
+Patients had received a median of 4 (range 0–7) lines of systemic therapies. Twenty patients had received
+local treatments including surgery, radiation, chemo-embolization and/or radiofrequency ablation. Twen-
+ty-two patients had an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1. Patient
+characteristics are summarized in Table 1.
+Toxicities. None of the 19 patients treated at dose level 1 experienced any DLTs. Two of 5 patients
+treated at dose level 2 experienced DLT. Therefore, MTD was considered to have been exceeded at dose
+level 2, and dose level 1 was determined to be the recommended phase II dose. DLTs included grade 3
+thrombocytopenia in 1 patient with a diagnosis of glioblastoma, and grade 3 intra-abdominal bleed in 1
+patient with a diagnosis of CRC. Other treatment-related adverse events are summarized in Table 2. The
+most common toxicities included rash (20 patients), fatigue (7 patients), hand-foot syndrome (4 patients),
+myalgia (4 patients), and nausea (4 patients); all these common toxicities were grade 1 or 2.
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 2
+
+--- Page 3 ---
+CLINICAL MEDICINE
+Table 2. Treatment-related adverse events in the phase 1 trial with cetuximab and regorafenib.
+Adverse Event No. of Patients Total
+Grade 1 Grade 2 Grade 3 Grade 4
+Anemia 1 1 2
+Anorexia 2 2
+Back Pain 1 1
+Blurred Vision 1 1
+Diarrhea 2 2
+Dry eyes 2 2
+Dry Skin 1 1
+EF decrease 1 1
+Elevated Amylase 1 1
+Elevated Lipase 1 1
+Elevated ASTA 1 1
+Fatigue 6 1 7
+Hand-foot Syndrome 3 1 4
+Hyperbilirubinemia 1 1
+Hypertension 1 1
+Hypomagnesemia 1 1 1 3
+Intra-Abdominal Bleed 1 1
+Leukopenia 1 1
+Mucositis 1 1
+Myalgia 3 1 4
+Nausea 4 4
+Neutropenia 1 1 2
+Proteinuria 1 1
+Rash 17 3 20
+Thrombocytopenia 1 1 2
+Vomiting 2 2
+Weight Loss 1 1
+AAspartate aminotransferase.
+Patients were able to continue treatment for a median of 5 (range 1–22) cycles; 1 patient is continuing
+treatment after 27 cycles without any evidence of progression. Thirteen patients received treatment for
+fewer than 6 cycles, 9 received treatment for 6 to 10 cycles, and 2 for 20 or more cycles.
+Responses. Twenty-four patients were evaluable for response. One patient achieved partial response, and
+16 had stable disease as best response. Eleven (46%) of patients had clinical benefit from treatment and
+included 8 patients with CRC and 1 patient each with squamous cell cancer of head and neck, cancer of
+unknown primary, and glioblastoma (with EGFR G598V mutation).
+Among 17 patients with CRC, all had previously received anti-VEGF as well as anti-EGFR therapy, and
+5 had received regorafenib (Table 3). Among these, 7 patients received treatment for fewer than 6 cycles, 6
+received treatment for 6 to 10 cycles, and 2 patients for 20 or more cycles. Best response among 14 response-
+evaluable patients included partial response in 1 patient and stable disease in 10 patients. Eight (53%) patients
+with CRC had clinical benefit from treatment. Six had up to a 50% decrease and 5 had more than a 50%
+decrease in serum carcinoembryonic antigen (CEA). Three patients had an increase in CEA. Although we
+selected for KRAS wild-type CRC, there were no NRAS or atypical KRAS mutations included.
+We identified 2 patients who had an exceptional benefit from this treatment for further study. The first
+patient had CRC and had previously progressed on cetuximab, bevacizumab, and regorafenib as individual
+monotherapies. The patient achieved a partial radiographic response with a 46% decrease in tumor mea-
+surements per RECIST v1.1 that lasted for approximately 15 months. A 50-gene next-generation sequenc-
+ing analysis of the tumor specimen revealed a mutation in TP53.
+The second patient had CRC with Lynch syndrome (MSI high) and had also progressed on cetux-
+imab, bevacizumab, and regorafenib. The 50-gene analysis of the tumor specimen revealed mutations
+in the CTNNB1 and FGFR1 genes. Subsequent comprehensive genomic profiling identified alterations
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 3
+
+--- Page 4 ---
+CLINICAL MEDICINE
+Table 3. Mutational analysis of patients enrolled in the trial
+Patient Acc. Sex Age Prior chemotherapies Molecular Profile Best response
+No.
+3 M 41 FOLFOXA; FOLFIRI + Avastin; cetuximab + irinotecan; TP53 Mutation SD
+regorafenib
+4 F 54 5-FU + XRT; FOLFOX; FOLFOX + Avastin; 5-FU + Avastin; CDH1 Variant and TP53 Mutation PR
+FOLFIRI + Avastin; cetuximab + irinotecan
+6 F 45 5-FU + oxaliplatin; Avastin; FOLFIRI + Avastin; FOLFIRI + TP53 Mutation, APC Mutation, TAF1L PD
+Zaltrap; FOLFIRI + cetuximab; FOLFOX + Zaltrap Mutation, LRP1B Mutation
+7 F 65 FOLFOX + Avastin; Xeloda + Avastin; FOLFIRI + Avastin; TP53 Mutation SD
+FOLFIRI + Erbitux
+9 M 48 oxaliplatin + 5-FU; Avastin; cetuximab + FOLFOX; TP53 Mutation PD
+Camptosar + Zaltrap; Xeloda; oxaliplatin + irinotecan + 5-FU
+10 F 67 FOLFOX; 5-FU + Avastin; FOLFOX + Avastin; FOLFIRI + TP53 Mutation, APC Mutation, ERBB2 PD
+Avastin; cetuximab + irinotecan; regorafenib Amplification, MLL3, PGAP3 Amplification
+11 M 52 FOLFOX; FOLFIRI; carboplatin + Avastin + Torisel TP53 Mutations, APC Mutations, PIK3CA N/EB
+Variant
+13 M 46 FOLFIRINOX + Avastin; FOLFIRI; XELOX; irinotecan + Erbitux CSF1R Mutation, SMAD4 Mutation, TP53 N/EB
+Mutation
+14 M 63 Xeloda + oxaliplatin; FOLFIRI + Avastin; FOLFIRI + DNMT3A, FGFR3, AKT2, BRCA1, BRCA2, SD > 20
+cetuximab + irinotecan CTNNB1, PIK3CA, BCORL1, CDKN18, CIC, months
+CREBBP, MSH2, MSH6, SETD2, SMARCA4,
+SOX9, STAT4, CTNNB1, FGFR1
+16 M 64 FOLFOX + bevacizumab; FOLFIRI; panitumumab; APC, EGFR Amplification, MET Amplification, SD
+FOLFIRI + Avastin; regorafenib EGFR, TP53, APC, ABL1 Variant, KIT Variant,
+TP53, FLT3, FLT1, ALK, FN1
+17 M 59 FOLFOX; -FOLFIRI + cetuximab; APC Mutation, TP53 Mutation SD
+Avastin + FOLFOX; Avastin + 5-FU; FOLFOX + Avastin
+18 M 55 FOLFOX + Avastin; FOLFIRI + cetuximab; capecitabine; TP53, APC, ALK, HSP90AB1, NTRK3, RUNX1, SD
+FOLFOX + bevacizumab; crizotinib + pazopanib CARD11, DICER1, FOXP4, SYNE1, TCF12,
+CSMD3, PLAG1
+21 M 53 XELOX + Avastin; XELIRI + Avastin; irinotecan + cetuximab; WT KRAS SD
+PEGylated recombinant IL-10
+23 F 28 FOLFOX + Avastin; Xeloda + Avastin; FOLFIRI + cetuximab; TP53, BAI3, CARD11, COL1A1, CSMD3, PTPRT, SD
+irinotecan + cetuximab TRRAP Mutation, MET Variant
+24 M 72 FOLFIRI + Avastin; Xeloda + Celebrex; FOLFIRI + Avastin; TP53, PIK3CA, APC, NSD1, RPS6KA2, SDHC PD
+irinotecan + cetuximab 3; FOLFOX + panitumumab Mutation, KIT Variant detected
+25 M 41 FOLFOX; FOLFOX + Avastin; FOLFIRI + Avastin; APC, TP53 Mutation, MET Variants detected SD
+panitumumab; MLN9708 + Vorinostat
+26 M 68 FOLFOX + Avastin; Xeloda + Avastin; FOLFIRI + Erbitux CTNNB1 Mutation, EGFR Amplification SD
+AFOLFOX, 5-fluorouracil + oxaliplatin leucovorin; 5-FU, 5-fluorouracil; FOLFIRI, 5-FU + leucovorin + irinotecan; FOLFIRINOX, 5-FU + leucovorin + irinotecan
++ oxaliplatin; PD, progressive disease; PR, partial response; SD, stable disease; XELOX, capecitabine + oxaliplatin; XELIRI, irinotecan + capecitabine; XRT,
+radiation therapy. BPatients not evaluable for response but evaluable for toxicity as patients developed toxicity and did not get restaging for cycle 1.
+in the AKT2, BRCA1, BRCA2, CTNNB1, DNMT3A, FGFR3, MSH2, MSH6, PIK3CA, CDKN1B, BCORL,
+CIC, CREBBP, SETD2, SMARCA4, SOX9, and STAT4 genes. These alterations were frameshift muta-
+tions and are summarized in Tables 4–6. The mutational burden in this tumor was 99 mutations/
+megabase, which exceeds 99.3% of other tumors (Frampton et al., manuscript in preparation, personal
+communication). This patient harbors a MSH2 R389* nonsense mutation, and there is an additional
+MSH2 splice site mutation and an MSH6 frameshift mutation (Tables 4–6). This patient has ongoing
+stable disease after 20 cycles of treatment (Figure 1).
+Discussion
+This open-label phase I trial studied the safety and tolerability of the regorafenib plus cetuximab combina-
+tion among patients with advanced cancer refractory to several lines of therapy. Dose level 1 was deter-
+mined to be the MTD, and no patients experienced any DLT at this dose level. Toxicities observed were
+consistent with previously published literature about these drugs (12–14).
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 4
+
+--- Page 5 ---
+CLINICAL MEDICINE
+Figure 1. Dose escalation schema showing the number of dose levels, doses, number of patients enrolled, and dose-limiting toxicities (DLTs).
+To our knowledge, this is the first trial to study the combination of regorafenib and cetuximab. Previous
+trials have studied combinations of other anti-VEGF and anti-EGFR agents. Combination of bevacizumab,
+an anti-VEGF monoclonal antibody, in combination with erlotinib, a small-molecule EGFR inhibitor, in
+patients with non–small cell lung cancer demonstrated encouraging efficacy and safety profile (15, 16).
+Although based on a phase II BOND-2 trial, there was initial enthusiasm for combining anti-VEGF plus
+anti-EGFR therapy with chemotherapy among patients with CRC, which showed encouraging efficacy of
+a combination of cetuximab, bevacizumab, and irinotecan among bevacizumab-naive irinotecan-refractory
+patients (17). However, subsequent trials demonstrated less favorable results. The phase II BOND-2.5 trial
+studied the same combination among bevacizumab-refractory patients and reported modest efficacy (18).
+Similarly, the CAIRO-2 trial evaluated the addition of cetuximab to chemotherapy plus bevacizumab and
+Figure 2. Representative examples
+of imaging studies of patients with
+response in the phase 1 trial. Top 2 rows:
+A 54-year-old woman with metastatic
+colorectal cancer and partial response. (A–
+D) A left lower lobe nodule decreases in
+size over the course of the first 3 followup
+scans, obtained approximately every 6
+weeks. (E–H) A right hepatic lobe lesion
+decreases in size and enhancement over
+the same time period. Bottom 2 rows:
+A 35-year-old woman with metastatic
+carcinoma of unknown primary and stable
+disease. (I–L) Maximum intensity projec-
+tions from 18F-FDG PET/CTs obtained
+approximately every 6 weeks show a left
+breast mass, left axillary adenopathy,
+and a right lower lobe metastasis. (M–P)
+Axial fused images at the level of the
+left breast mass show stable maximum
+standard uptake value (SUVmax) when
+accounting for scan-to-scan variation.
+The postobstructive consolidation in the
+right lower lobe related to a right perihilar
+lesion can also be seen.
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 5
+
+--- Page 6 ---
+CLINICAL MEDICINE
+reported worse outcomes with dual antibody therapy; no
+Table 4. Comprehensive genomic profile of patient that had prolonged
+benefit of dual antibody therapy was observed even among
+stable disease and clinical benefit on protocol
+patients with wild-type KRAS colorectal cancer (19). The
+Gene CDSA Effect Protein Effect Allele Frequency (%) PACCE trial evaluated the addition of panitumumab,
+AKT2 1112G>A R371H 10 an anti-EGFR antibody, to chemotherapy and bevaci-
+BRCA1 1961_1961delA K654fs*47 9 zumab, and reported increased toxicity and progression,
+CTNNB1 110C>A S37Y 13
+irrespective of KRAS status (20). Another trial of a phase
+DNMT3A 2645G>A R882H 12
+III randomized, placebo-controlled study of cetuximab
+DNMT3A 2222C>T A741V 9
+plus brivanib alaninate versus cetuximab plus placebo in
+EPHB6 2155C>T R719W 9
+patients with metastatic, chemotherapy-refractory, wild-
+FANCM 4414G>C E1472Q 5
+type K-RAS CRC was also negative despite positive effects
+MSH2 1165C>T R389* 52
+PIK3CA 112C>T R38C 2 on progression-free survival and objective response (21).
+BCORL1 5042_5042delC P1681fs*20 21 More recently, results were reported for a phase I
+BRCA2 7480C>T R2494* 10 study of cetuximab with erlotinib and bevacizumab in
+CDKN1B 192_193insT Q65fs*60 12 heavily pretreated cancer patients, most of whom had
+CIC 3138_3138delG S1048fs*45 10
+previously received prior cetuximab as well as bevacizum-
+CREBBP 3244_3244delA I1084fs*15 12
+ab. The combination was well tolerated and demonstrat-
+FGFR3 1172C>T A391V 8
+ed clinical benefit in 34% patients with CRC (22). A ret-
+MSH2 792+1G>A splice site 792+1G>A 12
+rospective review of patients treated with EGFR therapy
+MSH6 226_226delC L76fs*5 7
+who progressed and rechallenged supported the notion of
+SETD2 6181_6182delAG D2064fs*8 10
+SMARCA4 3557C>T A1186V 14 anti-EGFR retreatment in metastatic CRC (23).
+SOX9 916_916delG V306fs*77 15 The current study demonstrates that the combination
+STAT4 1094+2T>C splice site 1094+2T>C 7 of regorafenib (80 mg daily for 5 days every week for 3
+ABL2 2881C>T R961* 7 weeks, followed by a week off) and cetuximab (200 mg/
+ABL2 1743A>C Q581H 7 m2 loading dose, followed by 150 mg/m2 every week) is
+AKT1 455A>G Y152C 6
+well tolerated. The combination, although at a lower dose
+AKT3 1435G>A E479K 7
+level of the drug, showed a clinical benefit of 46% and 53%
+APC 5687G>T S1896I 14
+among all patients and CRC patients, respectively. Among
+ARID1A 1280C>T P427L 13
+patients with CRC, 79% had a decrease in CEA and 36%
+ARID1A 6203C>T S2068L 8
+ARID1B 2165_2165delC P722fs*10 15 had a more than 50% reduction in CEA. These are note-
+ARID1B 3861_3862delGA Q1287fs*20 7 worthy results for patients with advanced CRC, given that
+ATM 6482G>A R2161H 6 all the patients had previously received anti-EGFR as well
+BAP1 1552C>T R518W 13 as anti-VEGF therapy, and several patients had previously
+BRCA2 2880G>T K960N 16 received regorafenib. While this trial selected for KRAS
+BRCA2 7507G>A V2503I 14
+wild-type CRC, there were no NRAS or atypical KRAS
+BRIP1 1340A>T N447I 7
+mutations included in the group, as this is the emerging
+CARD11 1657_1657delC R555fs*45 17
+definition of cetuximab-appropriate patients.
+CDC73 1537C>T R513W 12
+We present a few putative mechanisms underlying the
+CDH5 1427C>T A476V 7
+CDK12 3377A>G Q1126R 6 efficacy we observed with dual anti-EGFR and anti-VEGF
+inhibition in CRC patients. First, unlike earlier studies (17–
+ACDS, coding sequence.
+20, 22), we selected only KRAS wild-type CRC patients
+for this study. Second, the combination of regorafenib and
+cetuximab may overcome the resistance to cetuximab, as
+suggested by preclinical data reported by Napolitano et al. (10). Third, regorafenib is a multikinase inhibitor
+of VEGF receptors 1–3 that also targets KIT, PDGFR-α and -β, RET, FGFR 1 and 2, TIE2, DDR2, TrkA,
+Eph2A, RAF-1, BRAF, SAPK-2, PTK5, and ABL. It is plausible that inhibition of one of the other targets of
+regorafenib contribute to overcoming resistance to previous anti-VEGF or anti-EGFR therapy.
+Notably, the exceptional responder with Lynch syndrome may represent a distinct mode of benefit
+from the combination of cetuximab and regorafenib. Genomic profiling demonstrated an exceptionally
+high mutational burden even in the context of MSI. The benefit here may be linked to either the very
+high mutational burden or to the specific mutations in this tumor. Although the other patients in this
+study were microsatellite stable, CGP was not performed to assess tumor mutational burden (TMB)
+in these patients to further support this hypothesis, including a lack of characterization of the partial
+responder patient as to whether this patient had high TMB despite displaying MSI.
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 6
+
+--- Page 7 ---
+CLINICAL MEDICINE
+In this vein, an important followup study would be to apply
+Table 5. Comprehensive genomic profile of patient that had
+this treatment regimen to additional MSI-H, high mutational
+prolonged stable disease and clinical benefit on protocol
+burden CRC patients to assess replication of the response.
+Gene CDSA Effect Protein Effect Allele Frequency (%) The clinical need is clear, as although MSI-H CRC patients
+CIC 499G>A G167R 13 are known to have a good response rate to programmed cell
+CTCF 968G>A R323Q 12 death protein 1 (PD-1) inhibitors, optimal treatment for such
+CYLD 1190G>A R397H 13
+patients is unclear after progression on immunotherapy. The
+DNMT3A 506G>A R169Q 6
+combined cetuximab/regorafenib regimen could also benefit
+DNMT3A 446C>T A149V 12
+those CRC patients who are de novo refractory to PD-1 treat-
+EGFR 1975G>A G659R 8
+ment or contraindicated from receiving such treatment due to
+EPHB1 733_734insG E245fs*16 7
+comorbidities such as autoimmune disease. In conclusion, the
+EPHB4 2597G>A R866H 15
+EPHB4 1120G>A G374R 11 combination of regorafenib (80 mg daily for 3 weeks, followed
+EPHB6 308C>T A103V 12 by a week off) and cetuximab (200 mg/m2 loading dose, fol-
+EPHB6 2393C>T A798V 7 lowed by 150 mg/m2 every week) is reasonably well tolerated
+EZH2 1516G>A A506T 6 and demonstrated early signals of activity. We recommend a
+FANCA 1304G>A R435H 13
+larger phase II study with this combination among patients
+FANCM 3295C>T R1099C 7
+with KRAS wild-type colorectal cancer who have previously
+FAT3 1172C>A P391H 13
+received anti-EGFR and anti-VEGF therapy, and an explicit
+FAT3 1951C>A L651I 7
+effort to include MSI and/or high TMB patients to replicate
+FLT3 1014A>T Q338H 6
+the exceptional responder outcome seen here.
+FLT4 815A>G Q272R 5
+H3F3A 404G>A R135H 10
+IGF2R 2174C>T T725M 11 Methods
+IKZF1 551G>A R184Q 10 Patients were eligible if they were aged 12 years or older, had
+INHBA 514A>G T172A 14 evaluable or measurable advanced or metastatic cancer refrac-
+INHBA 95_95delC D34fs*30 8 tory to standard therapies, and had significant organ function
+INSR 236C>A P79H 7
+reserve, defined as leukocyte count (WBC) greater than or
+IRS2 2800C>T P934S 18
+equal to 3,000/ml, absolute neutrophil count (ANC) greater
+IRS2 1853C>T A618V 11
+than or equal to 1,000/ml, platelets greater than or equal to
+JAK1 2432G>A R811K 12
+100,000/ml, creatinine less than or equal to 2 times the upper
+JAK3 94G>A A32T 13
+KDM5A 2860C>T R954* 12 limit of normal (ULN), total bilirubin less than or equal to 2
+LRP1B 5845A>G T1949A 7 times ULN, alanine aminotransferase (ALT, formerly serum
+LRP6 86G>A R29Q 13 glutamic pyruvic transaminase [SGPT]) less than or equal to
+MERTK 764C>T T255M 11 3 times ULN, and the ECOG performance status less than or
+MKNK2 1033A>G I345V 13 equal to 2. For patients with liver metastases, total bilirubin less
+MLL 5225G>A G1742E 9
+than or equal to 3 times the ULN, ALT or aspartate amino-
+MLL2 15491A>G Q5164R 7
+transferase (AST, formerly serum glutamic oxaloacetic trans-
+MLL2 4322G>A R1441H 10
+aminase [SGOT]) less than or equal to 5 times the ULN were
+MLL2 878C>T T293M 12
+allowed. Patients with KRAS-mutated CRC, recent history of
+MLL3 3865C>T Q1289* 11
+MYCL1 1119_1120insA R375fs*22+ 13 major surgery, hemoptysis or uncontrolled bleed, uncontrolled
+MYCL1 446G>C R149P 14 hypertension, clinically significant cardiovascular disease, or
+ACDS, coding sequence. untreated or uncontrolled brain metastases were excluded.
+Using the standard 3+3 trial design, patients received an
+escalating dose of regorafenib and cetuximab (Table 1) in 28-day
+cycles (Figure 2 and Table 7). During each cycle, regorafenib was
+administered orally daily for 21 days; patients did not receive any regorafenib during week 4 of each cycle.
+Cetuximab was administered i.v. every week following an initial loading dose on day 1 of cycle 1.
+Three patients were enrolled at the same dose level; if none of them experienced DLT, the next
+cohort of 3 patients was treated at the next higher dose level. If 1 of 3 patients treated at a dose level
+experienced DLT, 3 more patients were enrolled at the same dose level. If no other patient experienced
+DLT, the next cohort of 3 patients was enrolled at the next higher dose level. If 2 or more patients
+treated at a dose level experienced DLT, the MTD was considered to have been exceeded. In that case,
+3 more patients (for a total of 6) were enrolled at the next lower dose level unless 6 patients had already
+been treated at that dose. In summary, the MTD was defined as the highest dose studied in which the
+incidence of DLT was less than 33%.
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 7
+
+--- Page 8 ---
+CLINICAL MEDICINE
+Table 6. Comprehensive genomic profile of patient that had prolonged stable disease and clinical benefit on protocol
+Gene CDSA Effect Protein Effect Allele Frequency (%)
+MYST3 5879G>A S1960N 47
+NCOR1 5216G>A R1739Q 10
+NFKBIA 586C>A L196M 12
+NOTCH3 4130c>G A1377G 53
+NSD1 5843G>A R1948H 13
+NSD1 7354G>A A2452T 13
+PLCG2 3682C>T R1228W 9
+POLD1 1520G>A R507H 11
+PRKDC 9168G>T E3056D 13
+PRKDC 5126A>G E1709G 5
+PRSS8 157G>A A53T 6
+PTCH2 2524A>G R842G 49
+RAD54L 1375C>T H459Y 13
+RAD54L 1816C>T R606W 10
+RPTOR 3353T>A M1118K 11
+SMARCA4 4544G>A R1515H 10
+SOX10 109G>A G37S 12
+SOX9 184_186delAAG K62del 6
+SPEN 425G>A R142H 7
+SPTA1 4520G>A R1507Q 13
+SPTA1 2054A>G E685G 5
+TAF1 4300G>A V1434M 24
+TBX3 2221G>A A741T 19
+TEK 3227G>A R1076Q 15
+TNFAIP3 2282G>A R761H 5
+TNFRSF14 58G>A V20I 48
+TNKS 952G>C A318P 47
+TNKS2 1235A>G H412R 6
+TOP2A 4297_4297delA R1435fs*13 14
+TP53BP1 1459G>A V487I 46
+TRRAP 335_336insA N112fs*15 11
+TSC1 3194C>T T1065M 12
+TSC2 1381G>A V461M 12
+VEGFA 1033G>A V345M 10
+VHL 614G>A R205H 6
+XRCC3 476C>T P159L 17
+ZNF217 1201C>T R401W 15
+ZNRF3 1700A>G Y567C 5
+ACDS, coding sequence.
+No patients were enrolled in the next dose level until 3 patients enrolled at the previous dose level had
+completed at least 1 cycle of therapy. If a DLT was observed in a patient, dose escalation did not proceed
+until a total of 6 patients in the cohort had been assessed for toxicity after 1 cycle. DLTs were defined as
+adverse events related to the study agents during the first cycle of treatment and included any grade 3 or 4
+nonhematologic toxicity (except nausea and vomiting responsive to appropriate regimens, alopecia, or cor-
+rectable electrolyte imbalances), any grade 4 hematologic toxicity lasting 2 weeks or longer despite support-
+ive care, or any severe or life-threatening complication or abnormality. All toxicities were graded according
+to Common Terminology Criteria for Adverse Events, version 4.0 (CTCAE v4.0).
+Once the MTD was determined, additional patients were enrolled; if 33% or more of patients at
+that dose level experienced DLT, then that dose level was to be considered above the MTD. Patients had
+radiologic restaging after every 2 cycles and were allowed to continue treatment in the absence of disease
+progression or significant toxicity. Radiographic response or progression was evaluated on the basis of
+Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST v1.1) (24).
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 8
+
+--- Page 9 ---
+CLINICAL MEDICINE
+Table 7. Planned dose escalation schema, number of patients enrolled in each cohort, and dose-limiting toxicities (DLTs)
+Dose Level Regorafenib Cetuximab No. of Patients No. of DLTs
+1 80 mg 200 mg/m2 → 150 mg/m2 19 0
+2 120 mg 200 mg/m2 → 150 mg/m2 5 2
+3 120 mg 300 mg/m2 → 200 mg/m2 - -
+4 160 mg 300 mg/m2 → 200 mg/m2 - -
+5 160 mg 400 mg/m2 → 250 mg/m2 - -
+–1 80 mg 100 mg/m2 → 75 mg/m2 - -
+Molecular profiling. All histology was centrally reviewed and molecularly tested at MD Anderson as part of
+standard of care as previously published (23). Paraffin-embedded tumor sections that were macrodissected were
+used for DNA extraction. KRAS exon 2 (codons 12 and 13) mutations, whenever done were expanded to also
+report KRAS, NRAS, BRAF V600E, and PIK3CA mutations. This was based on the standard of care testing
+results done in accordance with the Clinical Laboratory Improvement Amendment (CLIA)-certified lab (23).
+One patient with durable response had biopsy samples submitted as formalin-fixed, paraffin-embedded
+blocks for CGP. Using FoundationOne, DNA of 315 cancer-related genes plus select introns from 31 genes
+involved in rearrangements was sequenced to a median depth of coverage of 481×.
+Statistics. The primary objective of this study was to assess safety and tolerability as well as to define
+the MTD of combination treatment with regorafenib and cetuximab in patients with advanced cancer and
+CRC. Secondary objectives included a preliminary assessment of antitumor efficacy of the combination
+(objective response by RECIST) and a preliminary assessment of the exceptional responder using clinical
+next-generation sequencing. Descriptive statistics were performed to report patient characteristics, adverse
+events, and responses observed. Clinical benefit was defined as objective response or no evidence of pro-
+gression for 6 or more cycles (partial response or stable disease ≥ 6 cycles).
+Study approval. This was an investigator-initiated, non–company sponsored, open-label phase I dose escala-
+tion trial conducted at The University of Texas MD Anderson Cancer Center. Informed written consent was
+obtained from all patients, and the study was reviewed and approved by the IRB of MD Anderson Cancer Center.
+Author contributions
+VS and GSF were principal investigators of the phase 1 trial; they designed, conducted, and provided finan-
+cial and administrative support for the trial, wrote the manuscript, critically revised the manuscript, and
+submitted the revisions. VS, MRK, SMA, and GSF analyzed the data and wrote the manuscript. VS, MRK,
+DSH, BA, JY,HL, SP, SF, AMT, AN, FJ, DDK, MO, CE, SK, and FMB enrolled patients in the clinical
+trial and analyzed data. AJ, ABS, SMA, JXS, and DF performed the next-generation sequencing analysis
+for the exceptional responder and analyzed the data. All authors were involved in critical analysis of the
+manuscript and approved the final version of the manuscript.
+Acknowledgments
+The authors wish to thank the motivated patients who were enrolled in this clinical trial. We wish to
+acknowledge the support from “The Beck Family” (Robert Beck and Merry Beck research funds) for Clini-
+cal Trial Research Funding. The University of Texas MD Anderson Cancer Center is supported by the
+National Institutes of Health Cancer Center Support Grant CA016672.
+Address correspondence to: Vivek Subbiah, The University of Texas MD Anderson Cancer Center,
+1515 Holcombe Boulevard, Unit 455, Houston, Texas 77030, USA. Phone: 713.792.6620; E-mail:
+vsubbiah@mdanderson.org.
+1. Yarden Y, Sliwkowski MX. Untangling the ErbB signalling network. Nat Rev Mol Cell Biol. 2001;2(2):127–137.
+2. Hicklin DJ, Ellis LM. Role of the vascular endothelial growth factor pathway in tumor growth and angiogenesis. J Clin Oncol.
+2005;23(5):1011–1027.
+3. Kim SJ, Uehara H, Karashima T, Shepherd DL, Killion JJ, Fidler IJ. Blockade of epidermal growth factor receptor signaling in
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 9
+
+--- Page 10 ---
+CLINICAL MEDICINE
+tumor cells and tumor-associated endothelial cells for therapy of androgen-independent human prostate cancer growing in the
+bone of nude mice. Clin Cancer Res. 2003;9(3):1200–1210.
+4. de Jong JS, van Diest PJ, van der Valk P, Baak JP. Expression of growth factors, growth-inhibiting factors, and their receptors in
+invasive breast cancer. II: Correlations with proliferation and angiogenesis. J Pathol. 1998;184(1):53–57.
+5. Petit AM, et al. Neutralizing antibodies against epidermal growth factor and ErbB-2/neu receptor tyrosine kinases down-
+regulate vascular endothelial growth factor production by tumor cells in vitro and in vivo: angiogenic implications for signal
+transduction therapy of solid tumors. Am J Pathol. 1997;151(6):1523–1530.
+6. Hirata A, et al. ZD1839 (Iressa) induces antiangiogenic effects through inhibition of epidermal growth factor receptor tyrosine
+kinase. Cancer Res. 2002;62(9):2554–2560.
+7. Vallböhmer D, et al. Molecular determinants of cetuximab efficacy. J Clin Oncol. 2005;23(15):3536–3544.
+8. Ciardiello F, et al. Antitumor effects of ZD6474, a small molecule vascular endothelial growth factor receptor tyrosine kinase
+inhibitor, with additional activity against epidermal growth factor receptor tyrosine kinase. Clin Cancer Res. 2003;9(4):1546–1556.
+9. Shaheen RM, et al. Inhibited growth of colon cancer carcinomatosis by antibodies to vascular endothelial and epidermal
+growth factor receptors. Br J Cancer. 2001;85(4):584–589.
+10. Napolitano S, et al. Primary and acquired resistance of colorectal cancer to anti-EGFR monoclonal antibody can be overcome
+by combined treatment of regorafenib with cetuximab. Clin Cancer Res. 2015;21(13):2975–2983.
+11. Le DT, et al. PD-1 blockade in tumors with mismatch-repair deficiency. N Engl J Med. 2015;372(26):2509–2520.
+12. Grothey A, et al. Regorafenib monotherapy for previously treated metastatic colorectal cancer (CORRECT): an international,
+multicentre, randomised, placebo-controlled, phase 3 trial. Lancet. 2013;381(9863):303–312.
+13. Li J, et al. Regorafenib plus best supportive care versus placebo plus best supportive care in Asian patients with previously
+treated metastatic colorectal cancer (CONCUR): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol.
+2015;16(6):619–629.
+14. Jonker DJ, et al. Cetuximab for the treatment of colorectal cancer. N Engl J Med. 2007;357(20):2040–2048.
+15. Herbst RS, et al. Phase II study of efficacy and safety of bevacizumab in combination with chemotherapy or erlotinib compared
+with chemotherapy alone for treatment of recurrent or refractory non small-cell lung cancer. J Clin Oncol. 2007;25(30):4743–4750.
+16. Herbst RS, et al. Phase I/II trial evaluating the anti-vascular endothelial growth factor monoclonal antibody bevacizumab in
+combination with the HER-1/epidermal growth factor receptor tyrosine kinase inhibitor erlotinib for patients with recurrent
+non-small-cell lung cancer. J Clin Oncol. 2005;23(11):2544–2555.
+17. Saltz LB, et al. Randomized phase II trial of cetuximab, bevacizumab, and irinotecan compared with cetuximab and bevaci-
+zumab alone in irinotecan-refractory colorectal cancer: the BOND-2 study. J Clin Oncol. 2007;25(29):4557–4561.
+18. Segal NH, et al. Phase II study of bevacizumab in combination with cetuximab plus irinotecan in irinotecan-refractory colorec-
+tal cancer (CRC) patients who have progressed on a bevacizumab-containing regimen (the BOND 2.5 study). J Clin Oncol.
+2009;27(15Suppl):4087–4087.
+19. Tol J, et al. Chemotherapy, bevacizumab, and cetuximab in metastatic colorectal cancer. N Engl J Med. 2009;360(6):563–572.
+20. Hecht JR, et al. A randomized phase IIIB trial of chemotherapy, bevacizumab, and panitumumab compared with chemotherapy
+and bevacizumab alone for metastatic colorectal cancer. J Clin Oncol. 2009;27(5):672–680.
+21. Siu LL, et al. Phase III randomized, placebo-controlled study of cetuximab plus brivanib alaninate versus cetuximab plus pla-
+cebo in patients with metastatic, chemotherapy-refractory, wild-type K-RAS colorectal carcinoma: the NCIC Clinical Trials
+Group and AGITG CO.20 Trial. J Clin Oncol. 2013;31(19):2477–2484.
+22. Falchook GS, et al. Dual EGFR inhibition in combination with anti-VEGF treatment in colorectal cancer. Oncoscience.
+2014;1(8):540–549.
+23. Liu X, et al. Retreatment with anti-EGFR based therapies in metastatic colorectal cancer: impact of intervening time interval
+and prior anti-EGFR response. BMC Cancer. 2015;15:713.
+24. Eisenhauer EA, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer.
+2009;45(2):228–247.
+insight.jci.org https://doi.org/10.1172/jci.insight.90380 10

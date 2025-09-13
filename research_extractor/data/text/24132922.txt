@@ -1,0 +1,1158 @@
+Source: 24132922.pdf
+Extracted on: Sat Sep 13 00:02:44 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+Published in final edited form as:
+Clin Cancer Res. 2013 December 15; 19(24): . doi:10.1158/1078-0432.CCR-13-1594.
+Phase I Trial of Preoperative Chemoradiation Plus Sorafenib for
+High Risk Extremity Soft Tissue Sarcomas with Dynamic
+Contrast-Enhanced MRI Correlates
+Janelle M. Meyer1, Kelly S. Perlewitz2, James B. Hayden3, Yee-Cheen Doung3, Arthur Y.
+Hung3, John T. Vetto3, Rodney F. Pommier3, Atiya Mansoor3, Brooke R. Beckett3, Alina
+Tudorica3, Motomi Mori4, Megan L. Holtorf4, Aneela Afzal5, William J. Woodward5, Eve T.
+Rodler6, Robin L. Jones6, Wei Huang4,5, and Christopher W. Ryan4
+1Loyola University Chicago, Maywood, IL
+2Providence Cancer Center, Newberg, OR
+3Oregon Health & Science University, Portland, OR
+4Oregon Health & Science University Knight Cancer Institute, Portland, OR
+5Oregon Health & Science University Advanced Imaging Research Center, Portland, OR
+6Seattle Cancer Care Alliance, Seattle, WA
+Abstract
+Purpose—We performed a phase I trial of the addition of sorafenib to a chemoradiotherapy
+regimen in patients with high-risk (intermediate/high grade, >5 cm) extremity soft tissue sarcoma
+(STS) undergoing limb salvage surgery. We conducted a correlative study of quantitative dynamic
+contrast-enhanced magnetic resonance imaging (DCE-MRI) to assess response to treatment.
+Experimental Design—Patients were treated at increasing dose levels of sorafenib (200 mg
+daily, 400 mg daily, 400 mg BID) initiated 14 days prior to 3 preoperative and 3 postoperative
+cycles of epirubicin/ifosfamide. 28 Gy of radiation was administered during cycle 2 with
+epirubicin omitted. The primary objective was to determine the maximum tolerated dose (MTD)
+of sorafenib. DCE-MRI was performed at baseline, after 2 weeks of sorafenib, and prior to
+surgery. The imaging data were subjected to quantitative pharmacokinetic analyses.
+Results—18 subjects were enrolled, of which 16 were evaluable. The MTD of sorafenib was 400
+mg daily. Common grade 3–4 adverse events included neutropenia (94%), hypophosphatemia
+(75%), anemia (69%), thrombocytopenia (50%), and neutropenic fever/infection (50%). 38%
+developed wound complications requiring surgical intervention. The rate of ≥95% histopathologic
+tumor necrosis was 44%. Changes in DCE-MRI biomarker ΔKtrans after 2 weeks sorafenib
+correlated with histologic response (R2=0.67, p = 0.012) at surgery.
+Conclusion—The addition of sorafenib to preoperative chemoradiotherapy is feasible and
+warrants further investigation in a larger trial. DCE-MRI detected changes in tumor perfusion after
+2 weeks of sorafenib and may be a minimally-invasive tool for rapid assessment of drug effect in
+STS.
+Corresponding author: Christopher Walter Ryan, OHSU Knight Cancer Institute, 3303 SW Bond Ave CR14, Portland, OR 97239;
+Phone: (503)494-8487, Fax: (503)494-6197, ryanc@ohsu.edu.
+Conflicts of Interest: Christopher Ryan has served as a paid consultant for ONYX and Bayer. He has also received research support
+from ONYX and Bayer.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Meyer et al. Page 2
+Keywords
+Sarcoma; Sorafenib; Chemotherapy; Radiation; MRI
+INTRODUCTION
+The optimal management of patients with high-risk (intermediate/high grade, >5 cm)
+extremity soft tissue sarcomas remains undefined. Although local control rates of 80–90%
+can be achieved with limb-salvage surgery and radiation therapy, up to 50% of these patients
+will die from metastatic disease (1–5). The use of chemotherapy to address micro-metastatic
+disease remains controversial, and the optimal regimen and timing of chemotherapy in
+relation to surgery and radiation is unknown. One strategy that has been investigated is
+combination pre-operative chemotherapy and radiation. This approach has the theoretical
+advantages of early treatment of micro-metastatic disease and radiation-sensitization to
+decrease the chance of local recurrence. We have previously reported our results with a
+regimen of pre- and post-operative epirubicin and ifosfamide with preoperative
+hypofractionated radiotherapy (6). This hypofractionated radiotherapy plan (28 Gy over 8
+fractions) was originally developed by the UCLA group to maximize efficacy while
+minimizing complications (7).
+Overexpression of PDGFR, VEGF, and VEGF-R occurs in soft tissue sarcomas (8–10).
+VEGF-R tyrosine kinase inhibitors have demonstrated activity against a variety of soft tissue
+sarcomas, with pazopanib receiving an FDA-indication for soft tissue sarcoma treatment in
+2012 (11). Sorafenib, an oral inhibitor of multiple tyrosine kinases including VEGF, PDGF,
+raf, flt-3, and c-kit, has likewise been studied in patients with refractory soft tissue sarcomas
+including two phase II studies that suggested clinical benefit particularly in patients with
+vascular sarcoma subtypes (12, 13). The addition of antiangiogenic drugs such as sorafenib
+to chemoradiotherapy has been found to be safe and have promising results in early clinical
+studies in various solid tumors (14–17). Blockade of VEGF signaling may help normalize
+tumor vasculature and enable better drug delivery to the tumor and oxygenation to enhance
+the effectiveness of radiation (15). We hypothesized that the addition of sorafenib to
+chemoradiotherapy would be safe and could improve outcomes by potentiating the effects
+on the local tumor and enhancing the effects on micrometastatic disease.
+We conducted a phase I trial to determine the maximum tolerated dose of sorafenib in
+combination with pre- and post-operative epirubicin and ifosfamide and 28 Gy of
+preoperative hypofractionated radiotherapy. DCE-MRI is a powerful imaging tool for
+evaluation of tumor microvascular properties. An additional exploratory objective was to
+use the quantitative DCE-MRI approach to assess preoperative therapy effects.
+MATERIALS AND METHODS
+Eligibility
+Eligible patients were ≥ 15 years of age with histologically confirmed intermediate or high
+grade (grade 2–3 on a 3 point scale or grade 2–4 on a 4 point scale) soft tissue sarcoma of
+the extremities or body wall. Excluded histologies were rhabdomyosarcoma (pleomorphic
+rhabdomyosarcoma patients were eligible), Ewing sarcoma, primitive neuroectodermal
+tumor, osteosarcoma, or gastrointestinal stromal tumor. Tumors were superficial or deep and
+> 5 cm in greatest dimension. Patients had no contraindications to limb sparing surgery.
+Patients with metastatic disease (excluding brain metastases) were allowed, if they were
+appropriate candidates for resection of the primary tumor. No prior chemotherapy, radiation,
+or biotherapy was permitted. Patients had Eastern Cooperative Group performance status of
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Meyer et al. Page 3
+0 or 1, adequate organ function, and Left Ventricular Ejection Fraction (LVEF) ≥ 50%.
+Patients with systolic blood pressure > 150 mmHg or diastolic pressure > 90 mmHg despite
+optimal medical management, serious bleeding or major surgery within the previous 4
+weeks, coagulopathy, severe peripheral vascular disease, or malabsorption problems were
+excluded. The protocol was approved by the local institutional review board, and all patients
+provided written informed consent.
+Study Design
+Subjects were treated at escalating dose levels of sorafenib (200 mg daily, 400 mg daily, or
+400 mg twice daily) and fixed doses of chemotherapy and hypofractionated radiation.
+Maximum tolerated dose (MTD) was defined as the dose that produced DLT in no more
+than 33% of patients. At least 3 patients were enrolled at each dose level. If one of the first 3
+patients experienced dose limiting toxicity (DLT), the dose level was expanded to a total of
+6 patients. If no more than one DLT was observed among the 6 patients, enrollment
+proceeded to the next dose level. If 2 or more out of 3 patients, or 3 or more out of 6 patients
+experienced DLT, the maximum tolerated dose (MTD) was considered exceeded and the
+dose was reduced to the previous level. Dose escalation was determined based on the DLTs
+observed through the first 8 weeks of therapy. DLT was defined as grade 4 anemia, grade 4
+neutropenia > 7 days, grade 3–4 thrombocytopenia with bleeding or grade 4
+thrombocytopenia > 5 days, and grade 3–4 non-hematologic toxicity. Exceptions to this
+definition included nausea/vomiting responsive to antiemetics, grade 3 neutropenic fever ≤ 5
+days, grade 3 encephalopathy ≤ 2 days, grade 3–4 hypokalemia, hypophosphatemia,
+hypomagnesemia, hypocalcemia unless requiring hospitalization, grade 3 diarrhea controlled
+with medication within 2 days, and grade 3 hypertension controlled with medication.
+Sorafenib was initiated 14 days prior to the first cycle of chemotherapy, and administered
+orally at the assigned dose level. Sorafenib was discontinued 1 week before surgery and
+resumed 1 week after surgery and then continued until the completion of post-operative
+chemotherapy. Chemotherapy consisted of epirubicin 30 mg/m2/day days 1–3 and
+ifosfamide 2.5 g/m2/day days 1–3 every 21 days for 3 preoperative and 3 postoperative
+cycles. These doses were chosen to be 25% less than used in our previous trial as the
+average delivered dose intensity in that study was only 69% of planned (6)_ENREF_14.
+Intravenous hydration and mesna were administered with each cycle. Peg-filgrastim was
+administered after each cycle of chemotherapy. Epirubicin was omitted during cycle 2,
+which coincided with the start of external beam hypofractionated radiotherapy consisting of
+28 gray (Gy) administered over 8 daily fractions. The Biologic Effective Dose of the
+hypofractionated regimen is estimated to be slightly lower than that of a standard
+fractionation regimen in order to maintain the same level of toxicity when the radiation is
+delivered concurrently with radiation-sensitizing chemotherapy. A postoperative
+radiotherapy boost of 12 Gy over 6 daily fractions was given only to patients with positive
+surgical margins and began approximately 2 weeks following resection. At week 11 of
+treatment, surgical resection with wide excision was planned with margins >1cm where
+possible, without compromising function. Around vital structures, the margin removed was
+often <1cm. Dissection was done through grossly normal tissue planes. If the tumor was
+close to or displaced major vessels, nerves, or bone; adventitia, perineurium, or periosteum
+was removed and frozen section was checked. If this margin was considered negative, the
+vessel, nerve, or bone remained. The use of pedicled muscle, myocutaneous flaps, or free
+flaps was encouraged to fill dead space and provide adequate soft tissue coverage for vital
+structures. Split thickness skin graft was used as necessary. Sorafenib and chemotherapy
+were resumed as soon as adequate wound healing was achieved.
+The sorafenib dose was reduced for grade 4 or recurrent grade 3 non-hematologic toxicity,
+and for grade 2 symptomatic/persistent or grade 3 hypertension. Grade 4 hypertension
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Meyer et al. Page 4
+required discontinuation of sorafenib. A dose reduction could also be considered for grade 2
+hand-foot skin reaction and was required for the second occurrence of grade 2 or for grade 3
+hand-foot skin reaction. Re-escalation of sorafenib was permitted after improvement of
+hand-foot skin toxicity to grade 0–1.
+Assessments
+Safety—Safety evaluations including history and physical examinations, vital signs, and
+adverse event (AE) assessment were performed at screening, prior to each cycle, prior to
+surgery, and at the end of treatment. Blood pressure was monitored weekly for the first 6
+weeks of therapy. Laboratory tests including CBC and chemistries were checked weekly
+during treatment. MUGA or Echocardiography was obtained prior to treatment and prior to
+cycle 5. Adverse event severity was graded according to the National Cancer Institute
+Common Terminology Criteria for Adverse Events (CTCAE) version 3.0.
+Efficacy—All specimens of the primary tumor were examined for histologic response at
+the time of surgery by the study pathologist who estimated the amount of viable tumor and
+reported the percentage of necrosis. For the purposes of this study, specimens were
+classified as either ≥95% necrosis or <95% necrosis. Radiographic response of the primary
+tumor was evaluated at baseline and prior to surgery per RECIST criteria (18).
+DCE-MRI
+Subjects were given the opportunity to consent to a separate IRB-approved study evaluating
+the utility of DCE-MRI biomarkers for evaluation of therapy response during the
+preoperative period. DCE-MRI of the primary tumor was performed within 7 days before
+the start of treatment with sorafenib, approximately 2 weeks after initiating sorafenib
+therapy but prior to receiving chemotherapy, and once more after the completion of
+preoperative therapy, prior to surgery. MRI data were acquired with a 3T Siemens Tim Trio
+whole-body system using the body coil as the transmitter and a body matrix phased array
+(combined with a spine matrix phased array) coil as the receiver. Following scout and axial
+T -weighted MRI, a 3D RF-spoiled gradient-echo sequence was used to acquire sagittal
+2
+DCE-MRI images covering the entire tumor, with 100 flip angle, TE/TR = 1.5/6.0 ms, 24–
+26 cm field of view (FOV), 5 mm slice thickness, and 320 × 160 matrix size. A parallel
+imaging acceleration factor of 2 was used for DCE-MRI, resulting in 7–16 s temporal
+resolutions depending on tumor size. The total DCE acquisition time was approximately 10
+min with gadolinium contrast agent (Prohance®) IV injection (0.1 mmol/kg at 2 mL/s)
+carried out following acquisition of five baseline image volumes.
+For pharmacokinetic modeling of the DCE-MRI data, the arterial input function (AIF) was
+determined by direct measurement from a major artery within the image field of view,
+adjacent to the tumor: e.g., femoral artery was used for AIF measurement for most tumors
+located in the thigh, knee, and calf. The DCE-MRI data set was subjected to
+pharmacokinetic analysis twice, once with the Standard Model (SM), or Tofts model (19)
+and once with the Shutter-Speed Model (SSM) (20, 21) – the former ignores while the latter
+takes into account the intercompartmental water exchange kinetics. DCE-MRI time-course
+data fitting with the SM and SSM generated the values of Ktrans (rate constant for contrast
+agent transfer between plasma and interstitium) and v (extravascular and extracellular
+e
+volume fraction) for each model, and ΔKtrans, defined as [Ktrans(SSM) - Ktrans(SM)] (22–
+24), was calculated. Since the only difference between the two models is that the SSM takes
+into account the finite water exchange kinetics while SM does not, ΔKtrans appraises the
+exchange effects on Ktrans estimation (22–24). As a result of always assuming infinitely fast
+equilibrium transcytolemal and transendothelial water exchange kinetics, the SM generally
+underestimates tumor Ktrans values (22–24). In a recent breast DCE-MRI study, we have
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Meyer et al. Page 5
+shown that ΔKtrans is a more sensitive and specific imaging biomarker for breast cancer
+diagnosis than either Ktrans (SSM) or Ktrans (SM) (22, 23). The theory and mathematical
+formulations for the SM and SSM analyses of DCE-MRI data obtained with a gradient echo
+sequence have been described in detail in references (20), (21), and (22). The whole tumor
+region of interest (ROI) DCE-MRI parameter values were calculated by averaging the ROI
+values from each of the image slices covering the entire tumor, weighted by the pixel
+numbers within the ROI in each image slice. Pixel parameter values were analyzed with
+histograms and the amplitude and median values were obtained. MRI tumor size changes
+were assessed with RECIST (18) criteria using the post-contrast DCE images at or near the
+maxima of signal intensity time courses.
+Statistical Analysis
+Descriptive statistics were used to summarize patient clinical characteristics, safety data, and
+the percentage of patients who achieved histologic or radiologic response. Progression-free
+survival (defined as the duration of time from registration to progressive disease, local
+recurrence, distant metastatic disease, or death, whichever occurs first) was estimated using
+Kaplan-Meier method. Linear regression analysis was used to test the association between
+percent necrosis in the pathology specimen at the time of surgical resection (dependent
+variable) and the changes in DCE-MRI parameters and RECIST after 2 weeks of treatment
+with sorafenib (independent variables).
+RESULTS
+Patient Characteristics
+Eighteen patients were consented for this study from September 2009 through July 2011.
+One patient was found to be ineligible due to a history of a gastric bypass. Another patient
+withdrew consent prior to starting treatment leaving 16 patients who were eligible and
+received study treatment (Table 1). The median length of follow-up at the time of this report
+is 26 months (range, 19 to 40 months).
+MTD and DLTs
+A summary of DLTs is included in Table 2. Dose level 1 was expanded by 3 patients due to
+a DLT of grade 3 mucositis in one of the first 3 patients. One patient at dose level 2
+developed grade 3 hypertension that was controlled with adjustment of anti-hypertensive
+medication but nonetheless required sorafenib dose-reduction due to the pre-specified dose
+modification guidelines. As this event did not meet the definition of DLT, an additional
+patient was enrolled at this dose level to adequately determine safety for dose escalation. At
+dose level 3, all patients experienced DLT. One patient developed grade 4 neutropenic
+sepsis with an associated catheter-related septic thrombus as well as grade 3 hand-foot
+syndrome. The remaining two patients developed grade 3 rash and hand-foot syndrome. The
+MTD was determined to be sorafenib 400 mg once daily. Dose level 2 was subsequently
+expanded by an additional three patients to further estimate safety. Of these three patients,
+one experienced a syncopal event, and therefore one DLT in the dose level 2 cohort.
+A summary of delivery of epirubicin and ifosfamide chemotherapy is detailed in Table 2.
+Twelve patients (75%) completed all 6 cycles of planned chemotherapy with epirubicin and
+ifosfamide and six (38%) completed all planned chemotherapy without dose reduction.
+Three of the four patients who did not complete all six cycles received 5 cycles of
+chemotherapy. The remaining one patient, who was treated in the dose level 3 cohort,
+withdrew consent after one cycle of chemotherapy because of toxicity (neutropenic sepsis,
+thrombosis, and hand-foot syndrome).
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Meyer et al. Page 6
+Six patients (38%) discontinued sorafenib prior to the end of treatment. Three patients
+(19%), two in dose level 2 and one in dose level 3, required discontinuation per protocol for
+prolonged thrombocytopenia, decreased LVEF, and rash, respectively. One patient was
+removed from protocol treatment due to a greater than 3 week delay in treatment as the
+result of a wound complication. Two patients withdrew consent. Four patients (25%)
+required at least one dose reduction of sorafenib with three of the four patients being treated
+at dose level 3. The mean dose delivery of the planned sorafenib dose was 91%, 87%, and
+38% for dose levels 1, 2, and 3 respectively.
+Safety
+The most common adverse events are shown in Table 3. Fourteen patients (88%)
+experienced grade 4 toxicity but only two patients (13%) experienced a grade 4
+nonhematologic toxicity similar to 84% and 16% reported with our previous
+chemoradiotherapy regimen without sorafenib (6). Eight patients (50%) experienced a
+neutropenic fever or neutropenic infection despite the routine use of prophylactic colony-
+stimulating factor, similar to the 40% rate previously reported (6). Two patients (13%) had a
+grade 1 decline in LVEF. Two patients (13%) experienced grade 3 ifosfamide-induced
+neurotoxicity. There was a high rate of hypophosphatemia with 12 patients (75%)
+developing grade 3 hypophosphatemia compared to only 16% grade previously reported
+with the chemoradiation alone (6). No treatment related deaths have occurred.
+Nine post-operative wound complications that required surgical intervention occurred in six
+patients (38%). An expected 35% wound complication rate with preoperative radiation alone
+has been previously published (25). Most of the complications were infectious and required
+IV antibiotics and surgical debridement. Four of the six patients with wound complications
+had lower extremity tumors.
+Efficacy
+Limb salvage surgery was performed on all sixteen patients. One patient ultimately required
+amputation after falling and fracturing the tibia at the site of an infected wound. Only one
+patient had microscopically positive margins requiring postoperative boost radiotherapy.
+Seven patients (44%) had ≥95% histologic necrosis in the surgical specimen following
+preoperative chemoradiotherapy; we previously reported a 40% rate in our prior phase II
+trial without sorafenib (6). Three of these patients were treated in the dose level 1 cohort,
+and the remaining four patients were treated in the dose level 2 cohort. Histologic necrosis
+ranged from 10–100%. One patient (6%) had a partial response by RECIST criteria. This
+patient was treated in the dose level 2 cohort and had <95% histologic necrosis in the
+surgical specimen. No patients had progressive disease by RECIST criteria during the
+preoperative treatment period.
+A Kaplan-Meier curve of progression-free survival is shown in Figure 1. With a median
+follow-up of 26 months, none of the 14 subjects with stage III disease have recurred. Two
+subjects with metastatic disease at baseline progressed at 6 and 14 months, respectively,
+after the completion of study treatment. At the time of writing, there have been no local
+recurrences and no patients in this study have died.
+DCE-MRI
+Eleven of the sixteen patients were enrolled in the correlative DCE-MRI study. Eight of
+these patients completed at least the first two of the three planned MRI studies. Tumors that
+demonstrated a greater decrease in ΔKtrans (tumor ROI value or histographic median of the
+pixel values) after 2 weeks of sorafenib were generally found to have a higher percentage of
+histologic necrosis in the subsequent surgical specimen (Figure 2), while changes in
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Meyer et al. Page 7
+RECIST measurements of tumor size after 2 weeks of treatment with sorafenib were
+indiscriminate in relation to necrosis percentage. The inverse relationship of percent change
+in tumor ΔKtrans after 2 weeks of sorafenib with necrosis percentage of surgical specimen is
+statistically significant (R2=0.67, P = 0.012). Based on mean ROI and histographic median
+Ktrans(SM), Ktrans(SSM), and ΔKtrans values, the percent change of ΔKtrans was able to
+differentiate two out of three patients with optimal responses (≥ 95% necrosis in surgical
+specimen) from five with sub-optimal responses (< 95% necrosis) (Fig. 2), while those of
+Ktrans(SM), Ktrans(SSM) could only discriminate one optimal responder from the sub-
+optimal responders. After completion of preoperative treatment, however, multiple MRI
+parameters were good biomarkers to completely differentiate the optimal from sub-optimal
+responders, including RECIST, ROI and histographic median values of Ktrans(SM),
+Ktrans(SSM), and ΔKtrans (data not shown). v is not a good discriminator of the two
+e
+responder groups at either time point (data not shown). Figure 3a shows tumor SM Ktrans,
+SSM Ktrans, and ΔKtrans maps on one image slice at three time points in one patient with a
+good histologic response (≥ 95% necrosis). All three parameter values were substantially
+reduced after 2 weeks of sorafenib, with the decrease in ΔKtrans being the most dramatic.
+The percent change in the mean ROI or histographic median ΔKtrans value, but not those of
+the corresponding Ktrans(SM) and Ktrans(SSM) values, was able to discriminate this patient
+from the sub-optimal responders. After the completion of the entire treatment course, all
+three maps were essentially uniformly blue (close to values of zero), consistent with
+minimal perfusion and considerable necrosis. Figure 3b shows the same types of parametric
+maps at baseline and after two weeks of sorafenib treatment for a sub-optimal (30% necrosis
+at surgery) and another optimal responder (99% necrosis at surgery). Again, the Ktrans (SM
+and SSM) and ΔKtrans parameters were significantly decreased for the optimal responder –
+in this case the percent changes of all three parameters were able to discriminate this optimal
+responder from the sub-optimal responders, while there were no noticeable changes for the
+sub-optimal responder after 2 weeks of sorafenib.
+DISCUSSION
+The addition of sorafenib to chemoradiotherapy for extremity soft tissue sarcomas is feasible
+without significant additional systemic toxicity compared to historical studies using pre-and
+post-operative chemoradiotherapy alone. We determined a MTD for sorafenib of 400 mg
+daily when combined with a regimen of preoperative hypofractionated radiation and pre-
+and post-operative epirubicin and ifosfamide and recommend this dose for phase II testing.
+Sorafenib-associated toxicities including rash and hand-foot syndrome limited further dose
+escalation of sorafenib when administered with chemoradiotherapy. At the MTD of
+sorafenib, toxicity was similar to that seen with chemoradiotherapy alone (6). The most
+common grade 3–4 nonhematologic toxicity was hypophosphatemia, a known side effect of
+both sorafenib and ifosfamide, which was managed with phosphorus replacement and did
+not lead to any sequelae. Side effects were expected from the agents used, and there was no
+clear evidence of synergistic toxicity.
+Acute wound healing complications are a potential disadvantage to the preoperative
+administration of radiotherapy in patients with extremity soft tissue sarcomas. The rate of
+wound complications of 38% in this study is similar to what has been reported with
+preoperative radiation alone, although greater than the 20% rate we previously reported with
+chemoradiation alone (6, 25). While acute wound complications associated with
+preoperative radiation is most commonly a phenomenon of lower extremity tumors, 2 of the
+4 patients with upper extremity tumors in our study experienced wound complications.
+Further evaluation of the effect of sorafenib on wound healing in this setting should be
+carefully evaluated in future clinical trials.
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Meyer et al. Page 8
+The prescribed doses of epirubicin and ifosfamide were 25% less than used in our previous
+trial of chemoradiotherapy, in recognition that the previous study achieved only a 69%
+average delivered dose intensity (6). With the lower doses of chemotherapy used in the
+current study, the mean dose delivered of epirubicin and ifosfamide ranged from 86–94% in
+dose levels 1 and 2 and was only 73% in dose level 3. Higher doses of sorafenib may have
+decreased the tolerability of the chemotherapy backbone, further supporting the choice of
+400 mg sorafenib as the recommended phase II dose.
+We found evidence of activity in this phase I study, with only two patients developing
+progressive disease and no deaths with a median follow-up of 26 months. Both progressing
+patients harbored low volume pulmonary metastatic disease at study entry and remained free
+of disease progression for 6 and 14 months. Of the remaining 14 patients with non-
+metastatic disease at study entry, there have been no local or distant recurrences. The
+estimated 2-year disease-free survival in our previous trial using the chemotherapy backbone
+of epirubicin and ifosfamide was 62% (6). Evidence of significant treatment effect was seen
+in 44% of tumors that were found to have ≥95% histologic necrosis in the operative
+specimen. Since the time that this study was initiated, VEGF-R tyrosine kinase inhibitors
+have been established as active therapy for advanced soft tissue sarcomas (11). Data from a
+VEGF-overexpressing sarcoma mouse model demonstrated that VEGF receptor blockade
+can enhance chemotherapy responsiveness and decrease the development of pulmonary
+metastases (26), suggesting that the benefit of these agents could potentially be greatest in
+the low disease-burden setting of earlier stage disease. The preliminary efficacy results from
+this phase I trial support further study in a larger trial.
+One of the challenges to clinical trial design using antiangiogenic agents is that radiographic
+changes may be subtle. In this study, only one patient had a RECIST-defined partial
+response to preoperative chemoradiotherapy. However, primary soft tissue sarcomas are
+often heterogeneous tumors admixed with viable tumor, fibrosis, and hemorrhage, and
+radiographic tumor shrinkage to preoperative therapy often does not correlate with
+pathologic and clinical outcome (27–30). DCE-MRI is a functional imaging modality that
+can detect changes in blood flow and blood vessel wall permeability and is being
+increasingly used as an imaging biomarker in studying the effect of antiangiogenic agents.
+To our knowledge, this is the first study using DCE-MRI as an imaging biomarker for
+preoperative chemoradiotherapy in high-risk extremity soft tissue sarcomas in humans.
+While the SM (19) is frequently used to estimate kinetic parameters such as Ktrans, the most
+reliable pharmacokinetic parameter for assessing the effect of antiangiogenic drugs remains
+undefined (31). The SSM is a comprehensive method for quantitative DCE-MRI data
+analysis and is probably more accurate in estimating pharmacokinetic parameters as it takes
+into account the fact that equilibrium intercompartmental (transcytolemmal and
+transendothelial) water exchange is not infinitely fast (20, 21). ΔKtrans, which is the
+difference between SSM Ktrans and SM Ktrans and appraises the exchange effects, is a DCE-
+MRI parameter that appears to be rather sensitive to angiogenesis in malignant tumors (23).
+It has also been shown to be an accurate diagnostic marker for breast (22, 23) and prostate
+cancer (24), and a potential biomarker for assessing breast cancer response to chemotherapy
+(32). Consistent with our findings in previous diagnostic studies (22–24), the ΔKtrans
+parameter seems to be more sensitive than either Ktrans(SM) or Ktrans(SSM) to
+antiangiogenic agent induced vascular changes in soft tissue sarcoma. The results from this
+study suggest that the SSM DCE-MRI approach can detect clinically significant changes in
+perfusion of soft tissue sarcomas early in the course of treatment with an antiangiogenic
+agent. Such findings have future implications for modifying the treatment plan for an
+individual patient early in the course of therapy who is not likely to respond to current
+treatment based on functional imaging findings. Additionally, screening novel agents for
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Meyer et al. Page 9
+activity in the primary tumor with this methodology could be explored in future clinical
+trials.
+In conclusion, the addition of sorafenib to peri-operative chemoradiotherapy for high-risk
+soft tissue sarcomas is feasible. A phase II study of this chemoradiotherapy regimen using
+the MTD of sorafenib of 400 mg daily is planned and will incorporate further investigation
+of ΔKtrans as an imaging biomarker for early response to therapy.
+Acknowledgments
+Financial support: This study was supported by Bayer/ONYX, NIH/NCI Grants U01 CA154602, R01 CA120861,
+Cancer Center Support Grant P30 CA069533, and the Oregon Clinical and Translational Research Institute
+(OCTRI) grant number UL1 RR024140.
+References
+1. Suit HD, Russell WO, Martin RG. Sarcoma of soft tissue: clinical and histopathologic parameters
+and response to treatment. Cancer. 1975; 35:1478–83. [PubMed: 1122498]
+2. Lindberg RD, Martin RG, Romsdahl MM, Barkley HT Jr. Conservative surgery and postoperative
+radiotherapy in 300 adults with soft-tissue sarcomas. Cancer. 1981; 47:2391–7. [PubMed: 7272893]
+3. Yang JC, Chang AE, Baker AR, Sindelar WF, Danforth DN, Topalian SL, et al. Randomized
+prospective study of the benefit of adjuvant radiation therapy in the treatment of soft tissue
+sarcomas of the extremity. J Clin Oncol. 1998; 16:197–203. [PubMed: 9440743]
+4. Weitz J, Antonescu CR, Brennan MF. Localized extremity soft tissue sarcoma: improved
+knowledge with unchanged survival over time. J Clin Oncol. 2003; 21:2719–25. [PubMed:
+12860950]
+5. Herbert SH, Corn BW, Solin LJ, Lanciano RM, Schultz DJ, McKenna WG, et al. Limb-preserving
+treatment for soft tissue sarcomas of the extremities. The significance of surgical margins. Cancer.
+1993; 72:1230–8. [PubMed: 8339214]
+6. Ryan CW, Montag AG, Hosenpud JR, Samuels B, Hayden JB, Hung AY, et al. Histologic response
+of dose-intense chemotherapy with preoperative hypofractionated radiotherapy for patients with
+high-risk soft tissue sarcomas. Cancer. 2008; 112:2432–9. [PubMed: 18348295]
+7. Eilber F, Eckardt J, Rosen G, Forscher C, Selch M, Fu YS. Preoperative therapy for soft tissue
+sarcoma. Hematol Oncol Clin North Am. 1995; 9:817–23. [PubMed: 7490243]
+8. Weiner TM, Liu ET, Craven RJ, Cance WG. Expression of growth factor receptors, the focal
+adhesion kinase, and other tyrosine kinases in human soft tissue tumors. Ann Surg Oncol. 1994;
+1:18–27. [PubMed: 7834423]
+9. Franklin WA, Christison WH, Colley M, Montag AG, Stephens JK, Hart CE. In situ distribution of
+the beta-subunit of platelet-derived growth factor receptor in nonneoplastic tissue and in soft tissue
+tumors. Cancer Res. 1990; 50:6344–8. [PubMed: 2169345]
+10. Heymach JV. Angiogenesis and antiangiogenic approaches to sarcomas. Curr Opin Oncol. 2001;
+13:261–9. [PubMed: 11429484]
+11. van der Graaf WT, Blay JY, Chawla SP, Kim DW, Bui-Nguyen B, Casali PG, et al. Pazopanib for
+metastatic soft-tissue sarcoma (PALETTE): a randomised, double-blind, placebo-controlled phase
+3 trial. Lancet. 2012; 379:1879–86. [PubMed: 22595799]
+12. Maki RG, D’Adamo DR, Keohan ML, Saulle M, Schuetze SM, Undevia SD, et al. Phase II study
+of sorafenib in patients with metastatic or recurrent sarcomas. J Clin Oncol. 2009; 27:3133–40.
+[PubMed: 19451436]
+13. von Mehren M, Rankin C, Goldblum JR, Demetri GD, Bramwell V, Ryan CW, et al. Phase 2
+Southwest Oncology Group-directed intergroup trial (S0505) of sorafenib in advanced soft tissue
+sarcomas. Cancer. 2011
+14. Duda DG, Jain RK, Willett CG. Antiangiogenics: the potential role of integrating this novel
+treatment modality with chemoradiation for solid cancers. J Clin Oncol. 2007; 25:4033–42.
+[PubMed: 17827451]
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Meyer et al. Page 10
+15. Jain RK. Normalization of tumor vasculature: an emerging concept in antiangiogenic therapy.
+Science. 2005; 307:58–62. [PubMed: 15637262]
+16. Wadlow RC, Ryan DP. The role of targeted agents in preoperative chemoradiation for rectal
+cancer. Cancer. 2010; 116:3537–48. [PubMed: 20564106]
+17. Spigel DR, Bendell JC, McCleod M, Shipley DL, Arrowsmith E, Barnes EK, et al. Phase II Study
+of Bevacizumab and Chemoradiation in the Preoperative or Adjuvant Treatment of Patients With
+Stage II/III Rectal Cancer. Clin Colorectal Cancer. 2011
+18. Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubinstein L, et al. New
+guidelines to evaluate the response to treatment in solid tumors. European Organization for
+Research and Treatment of Cancer, National Cancer Institute of the United States, National Cancer
+Institute of Canada. J Natl Cancer Inst. 2000; 92:205–16. [PubMed: 10655437]
+19. Tofts PS, Brix G, Buckley DL, Evelhoch JL, Henderson E, Knopp MV, et al. Estimating kinetic
+parameters from dynamic contrast-enhanced T(1)-weighted MRI of a diffusable tracer:
+standardized quantities and symbols. J Magn Reson Imaging. 1999; 10:223–32. [PubMed:
+10508281]
+20. Li X, Rooney WD, Springer CS Jr. A unified magnetic resonance imaging pharmacokinetic theory:
+intravascular and extracellular contrast reagents. Magn Reson Med. 2005; 54:1351–9. [PubMed:
+16247739]
+21. Yankeelov TE, Rooney WD, Li X, Springer CS Jr. Variation of the relaxographic “shutter-speed”
+for transcytolemmal water exchange affects the CR bolus-tracking curve shape. Magn Reson Med.
+2003; 50:1151–69. [PubMed: 14648563]
+22. Huang W, Li X, Morris EA, Tudorica LA, Seshan VE, Rooney WD, et al. The magnetic resonance
+shutter speed discriminates vascular properties of malignant and benign breast tumors in vivo.
+Proc Natl Acad Sci U S A. 2008; 105:17943–8. [PubMed: 19004780]
+23. Huang W, Tudorica LA, Li X, Thakur SB, Chen Y, Morris EA, et al. Discrimination of benign and
+malignant breast lesions by using shutter-speed dynamic contrast-enhanced MR imaging.
+Radiology. 2011; 261:394–403. [PubMed: 21828189]
+24. Li X, Priest RA, Woodward WJ, Tagge IJ, Siddiqui F, Huang W, et al. Feasibility of shutter-speed
+DCE-MRI for improved prostate cancer detection. Magn Reson Med. 2013; 69:171–8. [PubMed:
+22457233]
+25. O’Sullivan B, Davis AM, Turcotte R, Bell R, Catton C, Chabot P, et al. Preoperative versus
+postoperative radiotherapy in soft-tissue sarcoma of the limbs: a randomised trial. Lancet. 2002;
+359:2235–41. [PubMed: 12103287]
+26. Zhang L, Hannay JA, Liu J, Das P, Zhan M, Nguyen T, et al. Vascular endothelial growth factor
+overexpression by soft tissue sarcoma cells: implications for tumor growth, metastasis, and
+chemoresistance. Cancer Res. 2006; 66:8770–8. [PubMed: 16951193]
+27. DeLaney TF, Spiro IJ, Suit HD, Gebhardt MC, Hornicek FJ, Mankin HJ, et al. Neoadjuvant
+chemotherapy and radiotherapy for large extremity soft-tissue sarcomas. Int J Radiat Oncol Biol
+Phys. 2003; 56:1117–27. [PubMed: 12829150]
+28. Meric F, Hess KR, Varma DG, Hunt KK, Pisters PW, Milas KM, et al. Radiographic response to
+neoadjuvant chemotherapy is a predictor of local control and survival in soft tissue sarcomas.
+Cancer. 2002; 95:1120–6. [PubMed: 12209699]
+29. Pisters PW, Patel SR, Varma DG, Cheng SC, Chen NP, Nguyen HT, et al. Preoperative
+chemotherapy for stage IIIB extremity soft tissue sarcoma: long-term results from a single
+institution. J Clin Oncol. 1997; 15:3481–7. [PubMed: 9396401]
+30. Pezzi CM, Pollock RE, Evans HL, Lorigan JG, Pezzi TA, Benjamin RS, et al. Preoperative
+chemotherapy for soft-tissue sarcomas of the extremities. Ann Surg. 1990; 211:476–81. [PubMed:
+2157378]
+31. O’Connor JP, Jackson A, Parker GJ, Roberts C, Jayson GC. Dynamic contrast-enhanced MRI in
+clinical trials of antivascular therapies. Nat Rev Clin Oncol. 2012; 9:167–77. [PubMed: 22330689]
+32. Tudorica AOK, Chui SYC, Roy N, Troxell ML, Chen Y, Naik A, Lopez-Chavez A, Holtorf ML,
+Afzal A, Jayatilake M, Chen Z, Springer CS, Li X, Huang W. Early prediction of breast cancer
+therapeutic response and evaluation of residual disease using quantitative DCE-MRI. Proc Intl Soc
+Magn Reson Med. 2013; 21:504.
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Meyer et al. Page 11
+TRANSLATIONAL RELEVANCE
+Overexpression of PDGFR, VEGF, and VEGF-R is seen in soft tissue sarcomas, and
+VEGF-targeted therapies have shown some activity in the treatment of advanced disease.
+We hypothesized that the addition of sorafenib to a chemoradiotherapy regimen in
+conjunction with surgery is tolerable and could improve disease control. This phase I trial
+established a maximum tolerated dose of 400 mg of sorafenib daily in combination with
+this chemoradiotherapy regimen. Dynamic contrast-enhanced magnetic resonance
+imaging (DCE-MRI) detects changes in blood flow and blood vessel wall permeability,
+making it an attractive imaging modality for assessing response to antiangiogenic agents.
+We observed that a DCE-MRI biomarker, ΔKtrans, measured after only 2 weeks of
+treatment with sorafenib alone correlated with histologic necrosis at surgery. These
+results have provided rationale for investigating this novel imaging biomarker in future
+studies with antiangiogenic agents for early prediction of response.
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Meyer et al. Page 12
+Figure 1.
+Kaplan-Meier Curve of Progression-free survival. With a median follow-up of 26 months,
+there have been no local recurrences and 2 of 16 subjects had progression of distant
+metastatic disease.
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+Meyer et al. Page 13
+Figure 2.
+Scatter plots of percent necrosis at the time of surgery vs. percent changes in tumor ROI
+ΔKtrans (A) and RECIST measure of tumor size (B) after 2 weeks treatment with sorafenib.
+The percent change in ΔKtrans was significantly inversely associated with percent necrosis at
+surgery (A; R2=0.675, p=.012), whereas percent change in RECIST did not correlate with
+percent necrosis at surgery (B; R2=0.019, p=0.747). The solid lines indicate the predicted
+means from the linear regression model with 95% confidence bands shown by dashed lines.
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 14 ---
+Meyer et al. Page 14
+Figure 3.
+(a) Parametric color maps of tumor SM Ktrans, SSM Ktrans, and ΔKtrans before treatment
+(baseline), after 2 weeks of sorafenib, and after completion of preoperative treatment are
+overlaid on corresponding post-contrast DCE-MRI images. Substantial decreases in Ktrans
+(SM and SSM) and especially ΔKtrans were observed after only 2 weeks of sorafenib in a
+myxoid round cell liposarcoma that showed good histologic response (>95% necrosis) at
+surgery. (b) Similar maps at baseline and after 2 weeks of sorafenib from a sub-optimal
+responder (30% necrosis at surgery) and another optimal responder (99% necrosis at
+surgery). No noticeable changes were seen in Ktrans (SM and SSM) and Δ Ktrans maps of the
+sub-optimal responder after 2 weeks of sorafenib.
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Meyer et al. Page 15
+Table 1
+Baseline Patient Demographics and Clinical Characteristics (N=16)
+Characteristic No. %
+Age, years
+Median 54
+Range 25–63
+Sex
+Male 12 75
+Female 4 25
+ECOG
+0 13 81
+1 3 19
+Largest tumor dimension, cm
+Median 11.7
+Range 6.6–26.1
+Grade
+Intermediate 9 56
+High 7 44
+Depth
+Superficial 0 0
+Deep 16 100
+Stage (AJCC 6th edition)
+III 14 88
+IV 2 12
+Histology
+Pleomorphic/NOS 7 44
+Synovial 5 31
+Liposarcoma 3 19
+Leiomyosarcoma 1 6
+Location
+Lower extremity 12 75
+Upper extremity 4 25
+Abbreviations: ECOG, Eastern Cooperative Oncology Group; AJCC, American Joint Committee on Cancer; NOS, not otherwise specified
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Meyer et al. Page 16
+Table 2
+Dose Limiting Toxicities and Dose Intensity
+Dose Level 1 Dose Level 2 Dose Level 3
+Sorafenib dose 200 mg daily 400 mg daily 400 mg BID
+Epirubicin dose per cycle 30 mg/m2/day × 3 days 30 mg/m2/day × 3 days 30 mg/m2/day × 3 days
+Ifosfamide dose per cycle 2500 mg/m2/day × 3 days 2500 mg/m2/day × 3 days 2500 mg/m2/day × 3 days
+Radiation 350 cGy × 8 fractions 350 cGy × 8 fractions 350 cGy × 8 fractions
+# Subjects 6 7 3
+# DLTs 1 1 3
+DLT (Grade) Mucositis (3) Syncope (3) 1 Neutropenic sepsis (4), thrombosis
+(3), hand-foot syndrome (3)
+2 Rash (3), hand-foot syndrome (3)
+3 Rash (3)
+Mean dose delivered of 86% 86% 73%
+Epirubicin (percentage of
+planned dose)
+Mean dose delivered of 94% 92% 73%
+Ifosfamide (percentage of
+planned dose)
+NOTE: DLTs during the first 8 weeks of treatment.
+Abbreviations: DLT, dose limiting toxicity.
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+
+--- Page 17 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Meyer et al. Page 17
+3
+elbaT
+stnevE
+esrevdA
+4–3
+edarG
+dna
+nommoC
+tsoM
+)3=N(
+3 LD
+)7=N(
+2 LD
+)6=N(
+1 LD
+)61=N(
+sLD
+dna
+sedarg
+llA
+4–3
+edarG
+2–1
+edarG
+4–3
+edarG
+2–1
+edarG
+4–3
+edarG
+2–1
+edarG
+%
+.oN
+tnevE
+esrevdA
+cigolotameH
+2
+1
+7
+6
+001
+61
+slihportueN
+1
+2
+6
+1
+6
+001
+61
+ainepohpmyL
+1
+2
+6
+1
+4
+2
+001
+61
+nibolgomeH
+1
+2
+3
+4
+4
+2
+001
+61
+steletalP
+2
+1
+6
+5
+1
+49
+51
+setycokueL cigolotameh-noN
+3
+7
+6
+001
+61
+aicepolA
+3
+7
+6
+001
+61
+gnitimov/aesuaN
+3
+2
+5
+5
+49
+51
+eugitaF
+2
+6
+4
+57
+21
+noitapitsnoC
+2
+4
+1
+4
+96
+11
+aehrraiD
+2
+4
+4
+36
+01
+hsaR
+1
+5
+4
+36
+01
+noitaidar
+htiw
+detaicossa
+nrub/hsaR
+2
+5
+1
+2
+36
+01
+sitisocuM
+1
+4
+3
+05
+8
+snoitcefni
+cineportueN/revef
+cineportueN
+2
+1
+4
+1
+05
+8
+emordnys
+toof-dnaH
+1
+4
+3
+05
+8
+shguocciH
+1
+3
+4
+05
+8
+aixeronA
+1
+1
+1
+3
+1
+44
+7
+noisnetrepyH
+2
+2
+3
+44
+7
+ehcadaeH
+2
+1
+2
+1
+83
+6
+snoitcefni
+cineportuen-noN
+2
+3
+13
+5
+aenpsyD
+1
+4
+13
+5
+aidracyhcat
+sunis/lairtA
+2
+3
+13
+5
+noitaretla
+etsaT
+1
+2
+2
+13
+5
+segnahc
+ecioV
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.
+
+--- Page 18 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Meyer et al. Page 18
+)3=N(
+3 LD
+)7=N(
+2 LD
+)6=N(
+1 LD
+)61=N(
+sLD
+dna
+sedarg
+llA
+4–3
+edarG
+2–1
+edarG
+4–3
+edarG
+2–1
+edarG
+4–3
+edarG
+2–1
+edarG
+%
+.oN
+tnevE
+esrevdA
+2
+2
+52
+4
+tnemriapmi
+yromem/yhtapolahpecnE
+1
+1
+1
+91
+3
+epocnys/lagavosaV
+2
+31
+2
+erutcarF
+1
+1
+31
+2
+sisobmorhT
+seitilamronbA
+yrotarobaL
+3
+6
+2
+4
+49
+51
+aimenimublaopyH
+3
+4
+2
+5
+88
+41
+aimetahpsohpopyH
+3
+1
+4
+1
+5
+88
+41
+aimertanopyH
+1
+4
+6
+96
+11
+sitinimasnarT
+1
+3
+5
+65
+9
+esatahpsohp
+enilaklA
+1
+1
+2
+3
+1
+05
+8
+aimelakopyH
+3
+2
+3
+05
+8
+aimesengamopyH
+1
+3
+1
+2
+44
+7
+aimeclacopyH
+1
+5
+83
+6
+aimecylgrepyH
+1
+2
+91
+3
+aimeniburilibrepyH
+1
+6
+1
+aimelakrepyH
+.sEA
+5 edarg
+on
+erew
+erehT
+.4–3
+edarg
+fi
+ro
+ycneuqerf
+yna
+fo
+%52>
+fi detroper
+era
+sEA
+llA
+:ETON
+.tneve
+esrevda
+,EA
+;level
+esod
+,LD
+:snoitaiverbbA
+Clin Cancer Res. Author manuscript; available in PMC 2014 December 15.

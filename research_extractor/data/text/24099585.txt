@@ -1,0 +1,728 @@
+Source: 24099585.pdf
+Extracted on: Sat Sep 13 00:03:15 PDT 2025
+==================================================
+
+--- Page 1 ---
+Fumoleauetal.BMCCancer2013,13:460
+http://www.biomedcentral.com/1471-2407/13/460
+RESEARCH ARTICLE Open Access
+Phase I dose-finding study of cabazitaxel
+administered weekly in patients with advanced
+solid tumours
+Pierre Fumoleau1*, Jose Manuel Trigo2, Nicolas Isambert1, Dorothée Sémiond3, Sunil Gupta4 and Mario Campone5
+Abstract
+Background: Cabazitaxel is approved in patients withmetastatic hormone-refractory prostate cancer previously
+treated witha docetaxel-containing regimen.This study evaluateda weekly cabazitaxel dosing regimen. Primary
+objectives were to report dose-limiting toxicities (DLTs) and to determine the maximum tolerated dose (MTD).
+Efficacy, safetyand pharmacokinetics were secondary objectives.
+Methods: Cabazitaxel was administered weekly (1-hour intravenous infusion at1.5–12 mg/m2 doses) for thefirst
+4weeks of a 5-week cycle inpatients with solid tumours. Monitoring ofDLTs was used to determine theMTD and
+therecommended weekly dose.
+Results: Thirty-one patients were enrolled.Two ofsix patients experienced DLTs at 12 mg/m2, which was declared
+theMTD. Gastrointestinal disorders were themost common adverseevent. Eight patientsdeveloped neutropenia
+(three≥Grade 3); one occurrence of febrile neutropenia was reported.There were two partial responses (in breast
+cancer) and 13 patients had stable disease (median duration of 3.3months).Increases in C max and AUC 0–t were
+dose proportionalfor the6–12 mg/m2 doses.
+Conclusion: The MTD ofweekly cabazitaxelwas 12 mg/m2 and the recommendedweekly dose was 10 mg/m2.
+The observed safety profile and antitumour activity ofcabazitaxelwere consistent with those observed withother
+taxanes in similar dosing regimens.
+Trial registration: The study was registered with ClinicalTrials.gov as NCT01755390.
+Keywords: Phase I, Cabazitaxel, Solid tumour
+Background spectrumofantitumouractivity,includingtumourspoorly
+Taxanes (including docetaxel and paclitaxel) are used sensitive,ornotsensitive,todocetaxel[3].
+extensively in the treatment of solid malignancies [1]. Preclinical studies have demonstrated that cabazitaxel
+Although taxane-based therapy is associated with fa- has comparable activity to docetaxel in an array of
+vourable antitumour activity, constitutive and acquired docetaxel-sensitive cell lines, and efficacy in docetaxel-
+resistance limits its use [2]. Therefore, novel taxane- resistant cell lines [3]. Preclinical studies have also
+based therapies that demonstrate antitumour activity in shown that cabazitaxel has antitumour activity against a
+taxane-resistant cancers are needed to extend patient large spectrum of murine and human tumours [4-6].
+survival. Furthermore, in animal models, cabazitaxel was able to
+Cabazitaxel is a second-generation microtubule-sta- cross the blood–brain barrier, as evidenced by efficacy
+bilising taxane that binds to tubulin and has a broad against intracranial xenografts [3,7]. Promising results in
+preclinical studies were confirmed in early-phase clinical
+studies that demonstrated that cabazitaxel has a man-
+ageable toxicity profile aswell asantitumouractivity ina
+*Correspondence:pfumoleau@cgfl.fr
+1CentreGeorges-FrançoisLeclerc,1rueProfesseurMarion,21079Dijon range of solid tumours, including those progressing
+Cedex,France under taxane-based therapy [8-10]. In addition, results
+Fulllistofauthorinformationisavailableattheendofthearticle
+©2013Fumoleauetal.;licenseeBioMedCentralLtd.ThisisanOpenAccessarticledistributedunderthetermsoftheCreative
+CommonsAttributionLicense(http://creativecommons.org/licenses/by/2.0),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedtheoriginalworkisproperlycited.
+
+--- Page 2 ---
+Fumoleauetal.BMCCancer2013,13:460 Page2of9
+http://www.biomedcentral.com/1471-2407/13/460
+from the pivotal Phase III trial (TROPIC; NCT00417079) or more than two regimens containing mitomycin C or
+demonstrated that, compared with mitoxantrone, caba- nitrosoureaswerealsoexcludedfromthestudy.
+zitaxel improved survival in patients with metastatic The study was conducted according to the Declaration
+castration-resistant prostate cancer (mCRPC) who had of Helsinki (Somerset West Amendment, October 1996)
+previouslyreceiveddocetaxel[11].Cabazitaxel(25mg/m2 and in compliance with all local regulations. Written in-
+once every 3 weeks) plus prednisone has been approved formed consent was obtained from patients prior to the
+by the US Food and Drug Administration (FDA) and the initiation of any protocol-specific procedure. The proto-
+EuropeanMedicinesAgency(EMA),aswellasbynumer- col was approved by two independent Ethics Commit-
+oushealthauthoritiesworldwideforthetreatmentofmen tees; Comité Consultatif de protection des personnes
+withhormonerefractorymetastaticprostatecancer(more dans la Recherche, Biomedical No. 2, Cellule de Promo-
+recently known as mCRPC) previously treated with a tion, Immeuble Deurbroucq, 5 allée de l’Île Gloriette,
+docetaxel-containing regimen [12,13]. Additional dos- 44093 Nantes, France (Chairperson Dr D. Duveau) and
+ing schedules and treatment combination regimens Comité Ético de Investigación Clínica, Ciudad sanitaria
+with cabazitaxel in a variety of tumours are also being Vall d‘Hebrón, 08035 Barcelona, Spain (Chairperson Dr J.
+investigated. B.Montoro-Ronsano).
+Theprimaryobjectives ofthis studywere todetermine
+the maximum tolerated dose (MTD) and dose-limiting Studydesign
+toxicities (DLTs) of cabazitaxel when given as a weekly The study was a two-centre, open-label, single-arm, dose-
+1-hour intravenous (IV) infusion for the first four con- finding study of cabazitaxel given as a weekly 1-hour IV
+secutive weeks of a 5-week treatment cycle. Secondary infusion to adult patients with advanced solid tumours.
+objectives were to establish the safety and pharmacoki- The dose escalation protocol was based on the Simon 4A
+netic (PK) profilesofcabazitaxel, to evaluate efficacyand design[14]withoutintrapatientdoseescalation.
+to inform the recommended dose and time interval for Toxicity was graded according to The National Cancer
+futuredevelopment. Institute Common Toxicity Criteria (NCI-CTC, version
+2.0) [15]. Non-dose-limiting toxicities (non-DLTs) were
+Methods defined as Grade 2–4 haematological toxicity (excluding
+Eligibilityandpatientcharacteristics neutropenia Grade 4 for>5 days, Grade 4 neutropenia
+The study included patients (18–70 years of age) with with fever for≥1 day or Grade 4 thrombocytopenia) or
+progressive, histologically proven, advanced neoplastic Grade2 non-haematological toxicity (excluding alopecia,
+disease that was either refractory to conventional treat- nausea, vomiting and hypersensitivity). DLTs were de-
+ment or for which no standard therapy existed. Patients fined as Grade 4 neutropenia (absolute neutrophil
+were required to have adequate organ function, a life ex- count<0.5 × 109/l) lasting more than 5 days, Grade 4
+pectancy of≥12 weeks and Eastern Cooperative On- thrombocytopenia (platelet count<10 × 109/l), febrile
+cology Group performance status 0–2. Prior therapies neutropenia (Grade 4 neutropenia with fever≥38.5°C
+were permitted providing they had been terminated a [single elevation in oral temperature]) or Grade 3 or 4
+minimum of 4 weeks prior to the start of the study non-haematological toxicity (excluding alopecia, nausea,
+(depending on the therapy), and the patient had fully vomitingandhypersensitivity).
+recovered from any toxic effects of treatment. Prior pac-
+litaxel and/or docetaxel treatment was permitted provid- Selectionofdosesinthestudy
+ing there was no residual evidence of taxane toxicity A dose of 1.5 mg/m2, which corresponds to one-tenth
+(exceptions included alopecia [any grade] or peripheral of the severely toxic dose in 10% of mice, was chosen
+neuropathy[notexceedingGrade1]). as the starting dose. Eight dose levels were planned
+Patients with haematological malignancies or symptom- (1.5, 2.1, 3, 4.2, 6, 8.4, 10 and 12 mg/m2). Of note, the
+atic brain metastases were ineligible, as were pregnant or 10 mg/m2 dose level was added as a protocol amend-
+lactating women and those receiving concurrent treatment ment. At the first cycle, one patient per dose level was
+with other experimental drugs, any anticancer therapy or to be included until a non-DLT or DLT was observed. If
+corticosteroids(unlessaschronictreatment).Patientswere the patient did not experience a non-DLT or DLT, a
+alsoineligibleiftheyhadanotherseriousmedicalcondition, double-step (100%) dose increment was allowed. If any
+current peripheral neuropathy of any origin or a history patient experienced a non-DLTat the first cycle, at least
+of severe allergic reaction to docetaxel or paclitaxel. three patients were to be included at the dose level at
+Patients who had received previous extensive radio- which it occurred, with a single-step (40%) dose incre-
+therapy (> 20% of bone marrow area), prior intensive ment permitted if no DLT occurred among these three
+therapy with autologous stem cell rescue, more than patients. If any patient exhibited a DLTat a given dose
+two prior chemotherapy regimens for advanceddisease level, a total of at least six patients had to be included at
+
+--- Page 3 ---
+Fumoleauetal.BMCCancer2013,13:460 Page3of9
+http://www.biomedcentral.com/1471-2407/13/460
+that dose level. A single dose reduction was only to be Concomitant medication was allowed in the case of
+made in the case of a DLT. The replacement of patients anaphylactic or hypersensitivity reaction, fluid reten-
+who were not eligible or evaluable was permitted during tion or diarrhoea. Furthermore, curative use of colony-
+the first cycle. Patients who had withdrawn from the stimulating factors was permitted provided that patients
+study were notre-included. demonstratedclinicalevidenceofneutropenicinfection.
+The MTD was defined as the dose at which two or
+more of three or six patients developed a DLT in the
+Efficacyevaluation
+first cycle of therapy. The recommended dose was de-
+An assessment of efficacy (according to RECISTcriteria)
+fined asonedoselevelbelow theMTD.
+was conducted in patients who received at least one
+treatment cycle, had at least one follow-up tumour as-
+Drugadministration sessment and had no major on-study protocol devia-
+Patients were hospitalised for 24 hours during their first tions. Efficacy endpoints were best overall response
+cabazitaxel administration.Bloodpressureandheart rate (defined as the rate of complete and partial response,
+weremonitoredimmediatelybefore,duringandafterad- recorded from the start of treatment until disease pro-
+ministration. Cabazitaxel was administered as a 1-hour gression), duration of response, time to progression and
+IV infusion on Days1, 8,15 and 22 of each 5-weekcycle overallsurvival.
+until there was evidence of disease progression, un- Response was assessed via independently reviewed
+acceptable toxicity or the patient withdrew. No therapy X-ray, ultrasound and computed tomography scans of
+was administered in the last week of the treatment cycle. all uni- or bi-dimensionally measurable lesions. The
+Premedication wasnot requiredinthis study. presence of measurable lesions was not a requirement of
+thestudy.
+Safetyevaluation
+Patients were evaluable for safety if they started at least Pharmacokineticanalysis
+one infusion of cabazitaxel and were not lost to follow- Blood samples (3ml) were collected from all patientsfor
+upafterthefirstinfusion. assessments during cycles 1 and 2. Sampling was per-
+All enrolled patients underwent a complete health formed on Days 1 and 22 at 5, 15, 30 and 60 minutes
+evaluation at least 7 days before treatment commenced. and 2, 4, 6, 10, 24, 48 and 72 hours post-infusion. In
+On the day of cabazitaxel administration, patients were addition, samples were taken immediately prior to infu-
+evaluated to ensure baseline characteristics were within sion and at 30 and 55 minutes during the infusion on
+safelimits(absoluteneutrophilcount≥1.0×109/l;plate- Days 1 and 22 (cycle 1). Cerebrospinal fluid (CSF;
+let count≥75 × 109/l; recovery of all prior severe [Grade 1.5 ml) and plasma samples (3 ml) were collected
+3–4] non-haematological toxicities; alanine aminotrans- 15 minutes post-infusion when possible. Cabazitaxel
+ferase/alkaline phosphatase/aspartate aminotransferase levels in plasma and CSF were measured using a vali-
+≤Grade 1; and total bilirubin/serum creatinine within dated liquid chromatography/tandem mass spectrome-
+normal limits). The duration of a cycle was 5 weeks, but try method [16].
+the interval between two cycles could be extended to Accuracy, defined as the percentage difference bet-
+6 weeks (i.e. 1 week delay between cycles). If such a ween the nominal and the mean measured concentra-
+delay occurred, patients were required to demonstrate tions of quality controls, ranged from −4.1% (n=74) to
+absolute neutrophil count≥1.5 × 109/l and platelet 6.4% (n=75) during the analysis period. The precision
+count≥100 × 109/l, in addition to the above parameters, of the assay, established by the coefficients of variation
+prior to reinitiation of treatment. If recovery from the (CVs) of the quality controls, ranged from 9.9% to 14%
+previous cycle did not occur within 3 weeks, patients during the analysis period, and the accuracy of the dilu-
+were removed from the study. Additionally, during ther- tion controls (1:2 or 1:4) was −4.2% (n=18), with an as-
+apy, neurological, toxicity and general health checks sociatedprecision of3.4%.
+were performed every week, and a cardiology examin- PKanalysis wascarriedout usingWinNonlin software,
+ation (electrocardiogram, with Holter scan if patients version 3.3 (Pharsight, USA). The calculation of PK
+showed evidence of clinical dysrythmias) was conducted parameterswasperformedbyanon-compartmentalana-
+before the start of the trial, every 5 weeks thereafter, and lysis. The maximum observed plasma concentration
+again 3–4 weeks after the last infusion of study drug. (C ) and area under the plasma concentration–time
+max
+Biochemistry monitoring was performed on Days 1, 3, 7, curve (AUC) from time 0 to the time of the last measur-
+14, 21 and 28. All safety evaluations were repeated 3– ableconcentration(AUC 0–t )weredetermined.Accumula-
+4 weeks after the last infusion to identify late-onset tionratioswereestimatedatcycles1and2(C Day22/
+max
+adverse events. C max Day1andAUC 0–t Day22/AUC 0–t Day1).
+
+--- Page 4 ---
+Fumoleauetal.BMCCancer2013,13:460 Page4of9
+http://www.biomedcentral.com/1471-2407/13/460
+Statisticalmethods Results
+StatisticswereanalysedusingUNIX®withSAS®software, Patientcharacteristics
+Version 6.12 (SAS Institute, USA). Descriptive statistics Thirty-one patients were enrolled; all were evaluable for
+were provided by initial planned dose (safety- and safety, and 27 were evaluable for tumour response. All
+efficacy-evaluable patients) and overall dose level (safety patients who received at least one administration of
+only). Furthermore, safety analyses were performed by cabazitaxel were included in these analyses. Baseline pa-
+patient (worst grade under treatment or during follow- tient and disease characteristics are summarised in
+up), by cycle (worst grade or acute adverse events) and Table1.
+at first cycle (worst grade). Kaplan–Meier estimates
+were performed to analyse censored data in the effi-
+cacy population. Treatmentexposure,delaysanddosereductions
+Descriptive statistics were reported for each PK param- The median number of cycles (all dose levels combined)
+eterbydoselevel;thedoseproportionalityoftheexposure was two (range: 1–9 cycles) and the combined median
+was assessed on AUC 0–t and C max after dose normali- relative dose intensity was 100%. Median relative dose
+sation using the Proc GLM procedure of SAS software intensity was not reported for the 1.5 and 3 mg/m2 dose
+(Version 8.2; SAS Institute, USA). A test of linearity was levels, because only one and two patients were enrolled,
+applied on the parameters C max and AUC 0–t against the respectively. The median relative dose intensity for the
+dose expressed in mg/m2 followed by the Proc REG pro- remaining dose levels was 99%, 100%, 100% and 91% for
+cedure of SAS software. The effect of the day (Day 22 6, 8.4, 10 and 12 mg/m2, respectively. With all dose
+versus Day 1) or the cycle (cycle 2 versus cycle 1) on the levels included, median relative dose intensity was 100%.
+exposure (C and AUC ) after dose normalisation and The median cumulative dose was 46.7 mg/m2 (range:
+max 0-t
+logtransformationwasassessedusingaProcMIXEDpro- 6.0–297.8 mg/m2). Four cycles were administered at a
+cedure of SAS software with the patient taken as random reduced dose due to non-haematological toxicities (8.4
+effectandwithdayandcycleasfixedeffects. and12mg/m2doselevel).
+Table1Patientbaselinecharacteristics
+Planneddoselevel,mg/m2
+1.5 3 6 8.4 10 12 Total
+(n=1) (n=1) (n=4) (n=12) (n=7) (n=6) (N=31)
+Age,years,median(range) – – 48 52 44 55 51
+(67–67) (36–36) (39–51) (35–69) (31–65) (34–70) (31–70)
+Male,n(%) 1(100) 0 1(25.0) 2(16.7) 3(42.9) 2(33.3) 9(29.0)
+Caucasian,n(%) 1(100) 1(100) 4(100) 12(100) 7(100) 6(100) 31(100)
+ECOGperformancestatus,n(%)
+0 1(100) – 1(25.0) 2(16.7) 4(57.1) 4(66.7) 12(38.7)
+1 – – 3(75.0) 9(75.0) 2(28.6) 2(33.3) 16(51.6)
+2 – 1(100) – 1(8.3) 1(14.3) – 3(9.7)
+Tumourtype,n(%)
+Breast NA NA NA NA NA NA 13(41.9)
+Ovary NA NA NA NA NA NA 3(9.7)
+Stomach NA NA NA NA NA NA 3(9.7)
+Smallbowel NA NA NA NA NA NA 2(6.5)
+Other NA NA NA NA NA NA 10(32.3)
+Prioranticancertherapy,n(%)
+Chemotherapyonly – – – 1(8.3) – – 1(3.2)
+Immunotherapy* – – – – 1(14.3) – 1(3.2)
+Surgeryonly 1(100) – – – – – 1(3.2)
+Combinationtherapy – 1(100) 4(100) 11(91.7) 6(85.7) 6(100) 28(90.3)
+*Immunotherapy+biologicalmarkers.NAnotavailable.
+
+--- Page 5 ---
+Fumoleauetal.BMCCancer2013,13:460 Page5of9
+http://www.biomedcentral.com/1471-2407/13/460
+Dose-limitingtoxicitiesandmaximumtolerateddose included pain (97%, most of which was tumour-related
+No patients at the 1.5, 3, 6 or 8.4 mg/m2 dose levels ex- [77.4%]), gastrointestinal toxicities (81%, mostly diar-
+perienced any DLTat the first cycle. Two of the six pa- rhoea [52%]), fatigue (68%), sensory neuropathy (36%, of
+tients who received the 12 mg/m2 dose experienced which 26% was Grade 1 and 10% was Grade 2), alopecia
+DLTs (Table 2) (both Grade 3 diarrhoea, including one (19%) and peripheral oedema (16%). Severe liver to-
+serious event leading to study discontinuation); as a re- xicities were reported in two patients (one patient with
+sult, the MTD was reached at 12 mg/m2. As per the Grade 3 alkaline phosphatase and Grade 3 gammagluta-
+original protocol, 8.4 mg/m2 was initially deemed the myltransferaseatcycle1andonepatientwithGrade3al-
+recommended IV dose. However, the protocol was sub- kaline phosphatase at cycle 3); both patients withdrew
+sequently amended to include a dose level of 10 mg/m2, fromthestudyduetoprogressivedisease.Overall,neutro-
+an intermediate dose level between the recommended peniawasreportedineightpatients.Twopatientsexperi-
+IV dose of 8.4 mg/m2 and the MTD of 12 mg/m2. At encedGrade4neutropenia(bothreceived12mg/m2)and
+the point of the amendment, 11 patients had already one patient experienced Grade 3 neutropenia (8.4 mg/m2
+been enrolled and treated at the 8.4 mg/m2 dose level; dose level). Febrile neutropenia was observed in one pa-
+five patients in the dose-escalation phase (three as per tient (Table 3). The median time to neutrophil nadir was
+protocol, plus two who were waiting for the next dose 22 days (range: 17–32 days) and 74% of patients com-
+level to bereleased)and afurther six patientsto confirm pletedtheirtreatmentwithoutneutropeniccomplications.
+8.4 mg/m2 as the recommended dose. At the end of the Neutrophil nadir was not dose dependent. Anaemia was
+study, a patient who had been planned to receive the frequent but only one patient developed Grade 4 toxicity
+10mg/m2dosewasenrolledatthe8.4mg/m2dose.This at8.4mg/m2.
+information accounts for the greater number of patients Eight patients experienced adverse events possibly re-
+in the 8.4 mg/m2 group compared with the 10 mg/m2 latedtothestudydrug.Themostfrequentlyreportedin-
+group. cluded fatigue (45%), diarrhoea (39%) andnausea (32%).
+One of the seven patients treated with the 10 mg/m2 Five serious adverse events (diarrhoea, dysuria/haema-
+dose experienced a DLT (Grade 3 diarrhoea). Therefore, turia, febrile neutropenia and peripheral oedema) were
+10 mg/m2 was defined as the revised recommended IV reported in four patients; all occurred at the 10 and
+(weekly)dosefor further clinicalinvestigations. 12 mg/m2 dose levels. Eight out of 31 patients (26%)
+were withdrawn from the study because of adverse
+Safety events, although in two of these patients the adverse
+The most frequently reported non-haematological ad- events were probably not related to the study drug. Fif-
+verse events regardless of relationship to study drug teen deaths were reported and progressive disease was
+the cause ofall but onedeath,which resulted from pneu-
+monia that was not deemed to be related to cabazitaxel
+Table2Dose-limitingtoxicitiesatcycle1andadverse
+administration.
+eventsatsubsequentcycles
+DLTsatthefirstcycle(n=3)
+Efficacy
+Doselevel,mg/m2 Patients,n Event
+Of the 31 patients treated, 27 were evaluable for re-
+8.4 – – sponse. There were two confirmed partial responses at
+10 1 Grade3diarrhoea 8.4 and 12 mg/m2; both patients had breast cancer. A
+12 2 Grade3diarrhoea(bothpatients) third patient had an unconfirmed partial response. In
+Adverseeventsatcycles≥2(n=13) addition, 13 patientshad stabledisease (median duration
+of 3.3 months) and 11 had progressive disease (Table 4).
+Doselevel,mg/m2 Patients,n Event
+Theduration of the two partialresponses was5+and2+
+8.4 4 Grade3asthenia(threepatients)
+months (8.4 and 12 mg/m2, respectively) from first infu-
+Grade3diarrhoea
+sion to censored date. The median time to progression
+10 1 Grade3haematuria was 2.1 months (95% confidence interval 0.99–3.22;
+Grade3dysuria range: 0–10.4 months), although six patients were
+12 3 Grade3asthenia(twopatients) censored (five for further antitumour therapy and one
+lost during follow-up). Median overall survival was
+Febrileneutropenia
+15.6 months (range: 0.99–32.7 months).
+NeutropeniaGrade4for>5days
+(twopatients)
+Pharmacokinetics
+Grade3diarrhoea
+PK evaluation was carried out in 31 patients during the
+Grade3asthenia firsttwocycles.Afterthefirstadministrationof10mg/m2
+
+--- Page 6 ---
+Fumoleauetal.BMCCancer2013,13:460 Page6of9
+http://www.biomedcentral.com/1471-2407/13/460
+Table3Adverseeventsrelatedtothestudydrug(allcycles)
+Planneddoselevel,mg/m2 All
+(N=31)
+1.5 3 6 8.4 10 12
+(n=1) (n=1) (n=4) (n=12) (n=7) (n=6)
+Adverseevent,n G3 G4 G3 G4 G3 G4 G3 G4 G3 G4 G3 G4 G3 G4
+Non-haematological
+Fatigue – – – – – – 3 – – – 2 – 5 –
+Diarrhoea – – – – – – 1 – 1 – 3 – 5 –
+Haematuria – – – – – – – – 1 – – – 1 –
+Febrileneutropenia – – – – – – – – – – 1 – 1 –
+Dysuria – – – – – – – – 1 – – – 1 –
+Haematological
+Neutropenia – – – – – – 1 – – – – 2 1 2
+Anaemia – – – – – – – 1 – – – – – 1
+Daystoneutrophilnadir,median(range) – – – 17 – – 22
+– 32–32 31–31 17–22 18–18 21–22 17–32
+Medianneutrophilnadir,x109/l(range) – – 2.3 2.2 2.2 3.1 2.3
+(3.4–3.4) (1.8–1.8) (1.4–9.0) (0.9–5.0) (1.2–5.7) (0.2–7.3) (0.2–9.0)
+G3Grade3,G4Grade4.
+in cycle 1, cabazitaxel was detectable up to 6, 10, 23 and quantification,1μg/l)infoursamplesofCSFcollectedup
+73 hours after the end of infusion in the four patients for to 35 minutes after the end of infusion in three patients
+whom PK evaluation was possible. After the fourth in- receiving 3 mg/m2 and 6 mg/m2 doses. Low (≤14.4 μg/l)
+fusion, cabazitaxel was detectable up to 10 hours (one concomitant plasma concentrations of cabazitaxel were
+patient),48hours(onepatient)and72–74hours(twopa- reported in two patients (one taken 3 minutes and one
+tients) after the end of infusion in the four patients for taken5minutespriortolumbarpuncture).
+whom PK evaluation was possible. The PK parameters of
+cabazitaxel are shown in Table 5. The increase in C Discussion
+max
+and AUC 0–t after the first administration in cycle 1 Cabazitaxel is a second-generation taxane that has dem-
+appeared dose-proportional from 1.5–12 mg/m2. Follow- onstrated efficacy against taxane-resistant tumours in
+ing exclusion of the patients treated at 1.5 and 3 mg/m2 bothinvitroandinvivomodels[3-6,9-11,17].Preclinical
+(n=1 each), statistical analysis confirmed that C and studies reported that intermittent dosing schedules (vs
+max
+AUC 0–t were dose-proportional from 6–12 mg/m2 split-dose schedules) allowed the highest dose of caba-
+(Figure 1). There was a significant increase (41%; zitaxel to be administered with the best patient recovery
+p=0.0016) in AUC 0–t on Day 22 compared with Day 1 and optimum antitumour activity [18]. In addition, pre-
+(both cycle 1). However, C remained unchanged com- vious animal studies indicated that the efficacy and
+max
+pared with Day 1. Furthermore, there were no statistical toxicity of cabazitaxel are schedule-dependent [5]. There-
+differencesinC max andAUC 0–t betweencycles1and2on fore,thisstudywasdesignedtoassessDLTsandtheMTD
+eitherDays1or22.Cabazitaxelwasnotdetected(limitof (andthustherecommendeddose)ofaweeklydosingregi-
+men, with patients receiving cabazitaxel weekly for the
+Table4Dosesthatyieldedthebestoverallresponses
+first 4 weeks of a 5-week treatment cycle. These results
+Bestoverallresponsea
+provided the basis for the 5-week treatment cycle de-
+Planneddose Investigator’s Responsereview Final scribed here. Thirty-one patients were enrolled in this
+level,mg/m2 response meeting(expert) evaluation
+Phase I dose-finding study. Investigation of the PK, and
+8.4 PR PR PR safety profiles and efficacy of cabazitaxel were secondary
+PR NC NC objectives.
+10 NCb NCc NCc The MTD for weekly administration without pre-
+medication was established as 12 mg/m2; 10 mg/m2 was
+12 PR PR PR
+the dose recommended for future clinical studies using a
+aEachresponserepresentsonepatient.bCRatcycle2.cPRatcycle2.
+CRcompleteresponse,PRpartialresponse,NCnochange. weekly dosing regimen. There have been several studies
+
+--- Page 7 ---
+Fumoleauetal.BMCCancer2013,13:460 Page7of9
+http://www.biomedcentral.com/1471-2407/13/460
+Table5PharmacokineticparametersofcabazitaxelonDays1and22(cycle1)
+Day1 Day22
+Dose,mg/m2 Patientstreated/ C max, aμg/l AUC 0–t ,μg.h/l Patientstreated/ C max, aμg/l AUC 0–t ,μg.h/l
+withdata withdata
+1.5 1/1 15.5 17.2 1/1 13.5 28.2
+3 1/1 41.9 47.1 1/1 23.0 102
+6 4/3 31.2±15.5(50) 89.7±51.8(58) 4/3 49.4±13.8(28) 150±34(22)
+8.4 12/11 71.7±54.4(76) 144±46(32) 11/9 70±30.4(43) 190±89(47)
+10 7/4 102±52(51) 153±91(60) 4/4 89.3±80.6(90) 187±56(30)
+12 6/3 152±148(97) 212±120(56) 4/2 84.8–480 145–447
+Dataareexpressedasmean±SD(CV%).
+aObservedvalueat5minutesbeforetheendofinfusionexceptforfourpatientsonDays1andforsevenpatientsonDay22forwhommaximalplasma
+concentrationsweremeasured20minutesbeforetheendofinfusion.
+investigating the use of cabazitaxel in solid tumours, exploredtheuseofcabazitaxelinadvancedsolidtumours
+mostly with a 3-weekly administration schedule [8-11]. and recommended a 20 mg/m2 dose, whereas a similarly
+The results of these studies, conducted contemporan- designed Phase I study recommended a 25 mg/m2 dose
+eously with the current study, provide some evidence for future studies [8]. Further evaluation of 3-weekly dos-
+that a 3-weekly dosing schedule may be associated with ing was carried out in a Phase II study in patients with
+more favourable toxicity and efficacy profiles compared metastatic breast cancer, in which patients received
+with a weekly regimen. They also reported different 20 mg/m2, with escalation to 25 mg/m2 if no significant
+MTD and recommended doses; Mita and colleagues [9] adverse event was observed at cycle 1 [10]. The study
+reported promising efficacy results, with two complete
+andeightpartialresponses.Theresultsfromthe3-weekly
+a Phase I and Phase II trials informed the design of the
+350 Phase III TROPIC (NCT00417079) trial of cabazitaxel in
+300 y = 20.165x – 95.734 combination with prednisone in patients with mCRPC
+R2 = 0.2338 previously treated with a docetaxel-containing regimen
+250
+L) [8,9]. This pivotal trial was the basis for the approval by
+g/ 200 the FDA and EMA of cabazitaxel in combination with
+µ
+C
+(
+max 150
+p
+p
+r
+a
+e
+ri
+d
+n
+n
+g
+is
+2
+o
+0
+ne
+m
+in
+g/
+t
+m
+ha
+2
+t
+a
+p
+n
+a
+d
+tie
+2
+n
+5
+t
+m
+po
+g
+p
+/m
+ul
+2
+at
+d
+io
+o
+n
+se
+[
+s
+12
+o
+,
+f
+1
+c
+3
+a
+].
+b
+A
+azi
+t
+t
+r
+a
+ia
+x
+l
+el
+co
+in
+m
+a
+-
+100 head-to-headstudyinpatientswithmCRPCisongoing.
+50 In this study, the median relative dose intensity was
+100% across all dose levels, resulting in an absolute. The
+0
+dose intensity of 10 mg/m2/week (3-weekly regimen)
+4 6 8 10 12 14
+was one of several dose levels assessed in a previous
+Dose (mg/m2)
+Phase I; median relative dose intensity was similar to
+b that reported here [9]. Furthermore, in the pivotal Phase
+350 III TROPIC study, in which the approved regimen
+300 (25 mg/m2 once every 3 weeks) was used, the absolute
+dose intensity was slightly lower, at 8.3 mg/m2/week
+y = 18.615x – 17.614
+h/
+L) 250
+R2 = 0.2083 (relative dose intensity 96.1%) compared with the results
+g. 200 shownhere withalowerdose[11].
+µ
+C
+(
+0–t 150
+sc
+I
+h
+n
+ed
+t
+u
+h
+l
+e
+e
+c
+a
+u
+p
+r
+p
+r
+e
+e
+a
+n
+r
+t
+ed
+stu
+to
+dy
+b
+,
+e
+ca
+t
+b
+o
+a
+le
+z
+r
+it
+a
+a
+b
+x
+l
+e
+e
+l
+w
+gi
+i
+v
+th
+en
+a
+o
+m
+n
+a
+a
+na
+w
+ge
+e
+a
+e
+b
+k
+l
+l
+e
+y
+U 100
+A side-effect profile, despite the fact that cabazitaxel was
+50 administered without premedication. Notable toxicities
+reported in this study included both neutropenia and
+0
+diarrhoea, which are consistent and predictable side
+4 6 8 10 12 14
+effects of taxane-based therapy. The most common
+Dose (mg/m2) Grade≥3 toxicities were fatigue and diarrhoea. The tox-
+Figure1Cabazitaxelpharmacokinetics.(a)C versusdoseand
+max icity results presented here are similar to, but with lower
+(b)AUC 0–t versusdoseatthefirstadministrationatcycle1(n=21). incidence rates than, those reported in theTROPIC trial,
+
+--- Page 8 ---
+Fumoleauetal.BMCCancer2013,13:460 Page8of9
+http://www.biomedcentral.com/1471-2407/13/460
+where cabazitaxel was administered under a different penetration in this study; cabazitaxel was not detected
+schedule [11]. Analyses of results from theTROPIC trial in any CSF samples. However, the negative results do
+demonstrated that these adverse events can be appro- not conclusively demonstrate that cabazitaxel does not
+priately managed with proactive treatment and con- enter the CSF, as levels in plasma samples taken within
+scientious monitoring. Specifically, prophylactic use of 5 minutes of lumbar puncture were low (≤ 14.4 ng/ml),
+granulocyte colony-stimulating factor reduced the sever- all four patients had received low doses of cabazitaxel
+ity of neutropenia in patients receiving cabazitaxel plus (3–6 mg/m2) and a prior study has demonstrated low
+prednisone [19], and diarrhoea was resolved with sup- (8%) free fraction of cabazitaxel in the plasma [8].
+portive treatment. Taken together, the results presented here suggest
+The efficacy results presented from the current Phase that weekly dosing at the recommended dose of
+I study are consistent with those observed in other 10 mg/m2 may be a feasible treatment regimen in pa-
+cabazitaxel studies with other schedules of administra- tients with solid tumours. While this regimen is not
+tion, demonstrating the activity of the agent against a actively being pursued at this time, other studies
+variety of solid tumours in patients who have received evaluating the efficacy of different cabazitaxel doses,
+prior anticancer therapy [9,10]. Indeed, in this study, alone or in combination with other anticancer agents
+over half of the patients experienced either stabilised or or radiotherapy, in a range of solid tumours, are cur-
+improvedresponses,despitetheadvancednatureoftheir rently planned or ongoing.
+disease. Furthermore, in the dose-escalation part of the
+study, treatment with cabazitaxel resulted in median
+Conclusions
+overall survival of 15.6 months and a median time to
+The MTD of weekly cabazitaxel was 12 mg/m2 and the
+progression of 2.1 months. It is notable that Phase III
+recommendeddosefor weeklycabazitaxelwas10mg/m2.
+studies with docetaxel in prostate cancer have demon-
+The adverse events observed were consistent with other
+strated that a weekly regimen may be associated with in-
+taxanes in similar dosing regimens. Antitumour activi-
+ferior efficacy to a 3-weekly regimen [20]. Based on
+ty was also comparable with other taxanes in similar
+these data, it is unlikely that a weekly regimen of
+dosing regimens. PK results showed that C and
+cabazitaxel in patients with prostate cancer will progress max
+toPhaseIIItrials.
+AUC 0–t were dose proportional. In conclusion, this
+study demonstrates promising results with a cabazi-
+Available data indicate that cabazitaxel PK appears to
+taxel weekly dosing regimen, which may provide the
+be dose proportional. Population analyses carried out on
+foundation for future studies.
+pooled PK data, from Phase I, II and III studies, in-
+cluding cabazitaxel plasma concentrations obtained after
+Competinginterests
+the first administration in patients treated at 10 or
+P.FumoleauisIDMCChairmanforJohnson&Johnsonandhasactedasa
+12 mg/m2 from this study, facilitated the estimation of consultant/advisoryboardmemberforAbbott,GlaxoSmithKline,Rocheand
+half-lives, clearance (CL) and volume of distribution at Sanofi.D.SémiondandS.GuptaareemployeesofSanofiandhavestock
+ownershipinSanofi.M.CamponehasreceivedhonorariafromNovartisand
+steady state (V ). PK parameters from this study gener-
+ss hasaconsultantrelationshipwithNovartisandServier.M.Camponehas
+ated in the pooled analysis (mean CL: 25.5 l/h/m2; CV: receivedresearchfundingfromNovartisandCephalon.Thisstudywas
+36%, mean elimination half-life: 130 hours; CV: 72% and sponsoredbySanofi.TheauthorsreceivededitorialsupportfromDrMelissa
+mean V ; 3160 l/m2; CV: 66%) were in the range of PurvesofMediTechMedia,fundedbySanofi.
+ss
+those estimated in patients with solid tumours or with
+Authors’contributions
+mCRPC treated using the 3-weekly schedule [16], in-
+ThestudywasconductedintwocentresundertheresponsibilityofPFand
+dicating no marked difference between weekly and DrJoséBaselga.PFandSanofiauthorswereresponsibleforconceptionand
+3-weekly regimens. designofthestudy.Studymanagement,monitoring,statisticalanalysisand
+PKanalysiswereperformedbySanofiauthors.Datainterpretationwas
+Consistent with the long elimination half-life, some
+performedbySanofiauthorsandPF.Allauthorsreviewedandapprovedthe
+accumulation in the deep distribution compartment manuscript.
+appearedtooccurafterthefourthadministration(within
+cycle 1) of cabazitaxel, with a significant increase in ex- Authors’information
+posure (AUC ). However, no difference in exposure ProfessorFumoleauwasatCentreRenéGauducheau,France,whenthis
+0-t
+studytookplace.
+was observed between the first administrations of cycles DrTrigowasatValld’HebronUniversityHospital,Barcelona,Spainwhenthis
+1 and 2, suggesting that a 2-week treatment break after studytookplace.
+4-weekly administrations can avoid the accumulation
+of cabazitaxel in the plasma, making a weekly admin- Acknowledgements
+istration regimen feasible. As cabazitaxel is able to TheauthorswouldliketoacknowledgeDrJoséBaselga(Principal
+cross the blood–brain barrier in animals [3,7], four Investigator)andDrHeleneFontaine(StudyManager)fortheircontribution
+tothisstudy.WethankDrMelissaPurveswhoprovidedmedicalwriting
+lumbarpunctureswereundertakentoevaluatecabazitaxel servicesonbehalfofSanofi.
+
+--- Page 9 ---
+Fumoleauetal.BMCCancer2013,13:460 Page9of9
+http://www.biomedcentral.com/1471-2407/13/460
+Authordetails 19. OzgurogluM,OudardS,SartorAO,HansenS,MachielsJP,ShenL,etal:
+1CentreGeorges-FrançoisLeclerc,1rueProfesseurMarion,21079Dijon EffectofG-CSFprophylaxisontheoccurrenceofneutropeniainmen
+Cedex,France.2ServiciodeOncologíaMédica,HospitalClínicoUniversitario receivingcabazitaxelplusprednisoneforthetreatmentofmetastatic
+VirgendelaVictoria,CampusdeTeatinoss/n,29010Málaga,Spain.3Sanofi, castration-resistantprostatecancer(mCRPC)intheTROPICstudy.
+batimentClaudeBernard,13quaiJulesGuesde,BP14,94403Vitry-sur-Seine JClinOncol2011,29:Abstract144.
+Cedex,France.4SanofiOncology,55CambridgeParkway,Cambridge, 20. TannockIF,deWitR,BerryWR,HortiJ,PluzansaA,ChiKN,etal:Docetaxel
+Massachusetts02142,USA.5InstitutdeCancérologiedel’Ouest-René plusprednisoneormitoxantroneplusprednisoneforadvancedprostate
+Gauducheau,BoulevardProfesseurJacquesMonod,44805 cancer.NEnglJMed2004,351:1502–1512.
+Saint-Herblain-NantesCedex,France.
+doi:10.1186/1471-2407-13-460
+Received:8November2012Accepted:17September2013 Citethisarticleas:Fumoleauetal.:PhaseIdose-findingstudyof
+Published:7October2013 cabazitaxeladministeredweeklyinpatientswithadvancedsolid
+tumours.BMCCancer201313:460.
+References
+1. GelmonK:Thetaxoids:paclitaxelanddocetaxel.Lancet1994,
+344:1267–1272.
+2. GallettiE,MagnaniM,RenzulliML,BottaM:Paclitaxelanddocetaxel
+resistance:molecularmechanismsanddevelopmentofnewgeneration
+taxanes.ChemMedChem2007,2:920–942.
+3. BisseryM-C,BouchardH,RiouJF,VrignaudP,CombeauJ,BourzatJD,etal:
+PreclinicalevaluationofTXD258,anewtaxoid[abstract#1364].ProcAm
+AssocCancerRes2000,41:214.
+4. AttardG,GreystokeA,KayeS,deBonoJ:Updateontubulin-binding
+agents.PatholBiol(Paris)2006,54:72–84.
+5. VrignaudP,LejeuneP,ChaplinD,LavelleF,BisseryM-C:Invivoefficacyof
+TXD258,anewtaxoid,againsthumantumorxenografts[abstract
+#1365].ProcAmAssocCancerRes2000,41:214.
+6. VrignaudP,LejeuneP,BisseryM-C:TXD258,anewtaxoid,withoral
+antitumoractivity[abstract#1975].ProcAmAssocCancerRes2001,41:214.
+7. DykesDJ,SarsatJP,BisseryM-C:EfficacyevaluationofTXD258,ataxoid
+compound,againstorthotopicandsubcutaneousglioblastomas
+[abstract#1916].ProcAmAssocCancerRes2000,41:301.
+8. DierasV,LortholaryA,LaurenceV,DelvaR,GirreV,LivartowskiA,etal:
+Cabazitaxelinpatientswithadvancedsolidtumours:resultsofaphaseI
+andpharmacokineticstudy.EurJCancer2013,49:25–34.
+9. MitaAC,DenisLJ,RowinskyEK,deBonoJS,GoetzAD,OchoaL,etal:Phase
+IandpharmacokineticstudyofXRP6258(RPR116258A),anoveltaxane,
+administeredasa1-hourinfusionevery3weeksinpatientswith
+advancedsolidtumors.ClinCancerRes2009,15:723–730.
+10. PivotX,KoralewskiP,HidalgoJL,ChanA,GoncalvesA,SchwartsmannG,
+etal:AmulticenterphaseIIstudyofXRP6258administeredasa1-hi.v.
+infusionevery3weeksintaxane-resistantmetastaticbreastcancer
+patients.AnnOncol2008,19:1547–1552.
+11. deBonoJS,OudardS,OzgurogluM,HansenS,MachielsJP,KocakI,etal:
+Prednisonepluscabazitaxelormitoxantroneformetastaticcastration-
+resistantprostatecancerprogressingafterdocetaxeltreatment:a
+randomisedopen-labeltrial.Lancet2010,376:1147–1154.
+12. Sanofi:JEVTANA®(cabazitaxel)Injection,SummaryofProductCharacteristics.
+Paris,France;2013.Availableat:http://www.ema.europa.eu/ema/index.jsp?
+curl=pages/medicines/human/medicines/002018/human_med_001428.
+jsp&murl=menus/medicines/medicines.jsp&mid=WC0b01ac058001d125.
+13. SanofiU.S.LLC:JEVTANA®(cabazitaxel)Injection,PrescribingInformation.
+Bridgewater,NJ,USA;2013.Availableat:HYPERLINKhttp://www.accessdata.
+fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.
+Label_ApprovalHistory#apphist.
+14. SimonP,FreidlinB,RubinsteinL,ArbuckSG,CollinsJ,ChristianMC:
+AcceleratedtitrationdesignsforphaseIclinicaltrialsinoncology.JNatl Submit your next manuscript to BioMed Central
+CancerInst1997,89:1138–1147. and take full advantage of:
+15. U.S.DepartmentofHealthandHumanServices,NationalCancerInstitute,
+NationalInstitutesofHealth:CommonTerminologyCriteriaforAdverseEvents
+• Convenient online submission
+(CTCAE)Version2.0;1999.
+16. FerronGM,DaiY,SémiondD:Populationpharmacokineticsofcabazitaxel • Thorough peer review
+inpatientswithadvancedsolidtumors.CancerChemotherPharmacol • No space constraints or color figure charges
+2013,71:681–692.
+17. AllerAW,KrausLA,BisseryM-C:InvitroactivityofTXD258in • Immediate publication on acceptance
+chemotherapeuticresistanttumorcelllines[abstract#1923].ProcAm • Inclusion in PubMed, CAS, Scopus and Google Scholar
+AssocCancerRes2000,41:303.
+• Research which is freely available for redistribution
+18. VrignaudP,SémiondD,LejeuneP,BouchardH,CalvertL,CombeauC,etal:
+Preclinicalantitumoractivityofcabazitaxel,asemisynthetictaxane
+activeintaxane-resistanttumors.ClinCancerRes2013,19:2973–2983. Submit your manuscript at
+www.biomedcentral.com/submit

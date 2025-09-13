@@ -1,0 +1,855 @@
+Source: 23568716.pdf
+Extracted on: Sat Sep 13 00:02:19 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+Published in final edited form as:
+Invest New Drugs. 2014 February ; 32(1): 113–122. doi:10.1007/s10637-013-9956-5.
+Multi-drug inhibition of the HER pathway in metastatic colorectal
+cancer: Results of a phase I study of pertuzumab plus
+cetuximab in cetuximab-refractory patients
+Douglas A. Rubinson, MD, PhD1, Howard S. Hochster, MD2, David P. Ryan, MD3, Brian M.
+Wolpin, MD, MPH1, Nadine Jackson McCleary, MD, MPH1, Thomas A. Abrams, MD1,
+Jennifer A. Chan, MD, MPH1, Syma Iqbal, MD4, Heinz J. Lenz, MD4, Dean Lim, MD5, Jeffrey
+Rose, MD6, Tanios Bekaii-Saab, MD7, Helen X. Chen, MD8, Charles S. Fuchs, MD, MPH1,
+and Kimmie Ng, MD, MPH1
+1Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA
+2Department of Medical Oncology, Yale Cancer Center, New Haven, CT, USA
+3Massachusetts General Hospital Cancer Center, Massachusetts General Hospital, Boston, MA,
+USA
+4Division of Medical Oncology, Sharon A. Carpenter Laboratory, University of Southern California/
+Norris Comprehensive Cancer Center, Keck School of Medicine, Los Angeles, CA, USA
+5Division of Medical Oncology and Therapeutics Research, City of Hope National Medical Center,
+Duarte, CA, USA
+6Lowcountry Hematology and Oncology, Mount Pleasant, SC, USA
+7Department of Pharmacology, College of Medicine, The Ohio State University, Columbus, OH,
+USA
+8Cancer Therapy Evaluation Program, National Cancer Institute, Bethesda, MD
+Abstract
+Purpose—Resistance to cetuximab, a monoclonal antibody against the epithelial growth factor
+receptor (EGFR), in colorectal cancer (CRC) may result from compensatory signaling through
+ErbB receptors, ErbB2/neu/HER2 (HER2) and ErbB3/HER3 (HER3). Pertuzumab is a
+monoclonal antibody that blocks HER2 hetero-dimerization; thus the combination of pertuzumab
+and cetuximab could possibly overcome cetuximab resistance.
+Patients and methods—This single-arm, open-label, multicenter phase I/II study was designed
+to assess the safety and efficacy of pertuzumab and cetuximab in patients with cetuximab-resistant
+KRAS wild type metastatic CRC. Thirteen patients were enrolled and received cetuximab in
+combination with pertuzumab at several dose levels in a 3+3 design. Patients were assessed for
+dose-limiting toxicity (DLT) during the first cycle. A phase II portion was planned, but not
+initiated due to toxicity.
+Corresponding Author: Kimmie Ng, MD, MPH, Dana-Farber Cancer Institute, 450 Brookline Avenue, Boston, MA 02215, Phone:
+617-632-4150, Fax: 617-632-5370, Kimmie_Ng@dfci.harvard.edu.
+Conflicts of Interest
+Dr. Hochster has received support from Genentech and Bristol-Myers Squibb. Dr. Wolpin has received support from Agensys/
+Astellas, Momenta Pharmaceuticals, Merrimack Pharmaceuticals, and Genentech. Dr. Lenz has served on Advisory Boards and
+received honoraria for lectures from Genentech. Dr. Bekaii-Saab has served as a consultant for Bristol Myers-Squibb and Genentech.
+Dr. Fuchs has received support from Genentech, Metamark Genetics, Sanofi, Amgen, Momenta Pharmaceuticals, Celgene, and Bayer.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Rubinson et al. Page 2
+Results—Six of the thirteen patients (46%) experienced DLTs, therefore the study was
+terminated early. Grade 3 or higher DLTs included dermatitis with desquamation and/or acneiform
+rash (n=6), mucositis or stomatitis (n=5), and diarrhea (n=2). There was one Grade 5 event
+(myocardial infarction) attributed to underlying disease. Among the 13 patients, seven (54%) were
+evaluable for response. The objective response rate was 14%: one patient had a partial response
+lasting 6 months. Two patients had stable disease (29%), and four had progressive disease (57%).
+Median progression free survival was 2.1 months (95% CI, 1.5–4.9) and median overall survival
+was 3.7 months (95% CI, 1.6–7.9).
+Conclusion—Combination pertuzumab and cetuximab in refractory CRC was associated with
+potential antitumor activity; however, the combination was not tolerable due to overlapping
+toxicities.
+Keywords
+Pertuzumab; Cetuximab; Phase I; Phase II; Colorectal Cancer
+Introduction
+The use of cetuximab, a chimeric monoclonal antibody against the epidermal growth factor
+receptor (EGFR), in KRAS wild type, metastatic colorectal adenocarcinoma has expanded
+from single-agent use for chemorefractory disease to combination therapy in the first-,
+second- and third-line settings [1–5]. Initial investigation of EGFR inhibitors in unselected
+colorectal cancer patients showed them to be ineffective in a majority of patients.
+Investigation of this primary resistance to EGFR inhibition demonstrated that a subset of
+non-responders possessed activating mutations in the KRAS oncogene allowing EGFR-
+independent activation of mitogenic signaling pathways[4,6,7]. While application of EGFR
+inhibition only to patients with KRAS-wild type tumors has improved response rates, there
+remains a significant population of patients who fail to respond to anti-EGFR therapy. One
+subset (~5–10%) may reflect patients with the activating BRAF mutation V600E[8], but
+additional mechanisms of primary resistance account for the low observed response rates.
+Further, in patients that initially benefit from cetuximab, resistance emerges within months
+and few effective treatment options remain for refractory patients. One proposed hypothesis
+for both primary and acquired cetuximab resistance invokes activation of parallel signaling
+pathways mediated by the alternate ErbB family members, HER2, HER3, and HER4[9]. For
+example, HER2 upregulation and activity has been consistently demonstrated in a subset of
+cetuximab-resistant cell lines[10–12], providing a potential target for overcoming cetuximab
+resistance.
+Pertuzumab is a monoclonal antibody that disrupts the dimerization domain of HER2 and
+prevents formation and signaling through HER2 homodimers and HER2/EGFR, HER2/
+HER3, and HER2/HER4 heterodimers. Unlike trastuzumab in HER2-positive breast cancer,
+pertuzumab activity does not require HER2 overexpression[13]. It has previously been
+studied as monotherapy[14] and combination therapy[15] in ovarian cancer. Most recently,
+in the first-line treatment of HER2-positive breast cancer, the addition of pertuzumab to
+trastuzumab and docetaxel was associated with a significant improvement in patient
+outcome. [16]. This additive benefit likely reflects the different binding site and mechanism
+of action of pertuzumab compared to trastuzumab.
+Although a study of pertuzumab in colorectal cancer cell lines and xenografts failed to
+demonstrate activity as a single-agent or in combination with irinotecan, some antitumor
+activity was seen when pertuzumab was given in combination with the small-molecule
+EGFR inhibitor, erlotinib[17]. The combination of pertuzumab with erlotinib was
+subsequently explored in a phase Ib study of advanced non-small cell lung cancer which
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Rubinson et al. Page 3
+showed that the combination was well tolerated and demonstrated early signs of clinical
+efficacy[18]. Another study explored the combination of erlotinib and cetuximab for
+combined targeting of the EGFR receptor in colorectal cancer and showed some additive
+benefit[19]. However, no study has attempted to simultaneously target multiple ErbB
+receptors in colorectal cancer. We therefore conducted a phase I/II study to evaluate the
+tolerability and efficacy of the combination of pertuzumab and cetuximab in cetuximab-
+resistant, KRAS wild type, metastatic colorectal cancer patients.
+Patients and Methods
+Study design and treatment
+We conducted a single-arm, open-label, multicenter phase I/II study of pertuzumab in
+combination with cetuximab under a Phase 2 Consortium contract with the Cancer Therapy
+Evaluation Program (CTEP) of the National Cancer Institute (NCI). The phase I portion
+utilized a 3+3 dose escalation design, and was originally written to evaluate two dose levels
+of pertuzumab in combination with standard doses of cetuximab and irinotecan in patients
+with mCRC previously treated with an oxaliplatin-based regimen, but who were cetuximab-
+and irinotecan-naïve. Between November 26, 2007 and May 7, 2008, three patients were
+enrolled to Dose Level 1 (pertuzumab 420 mg IV loading dose on Cycle 1 Day 1, then 210
+mg IV maintenance dose every 21 days thereafter; plus cetuximab 400 mg/m2 IV loading
+dose on Cycle 1 Day 2, then 250 mg/m2 IV maintenance dose weekly, with irinotecan 350
+mg/m2 IV every 21 days). One subject developed grade 3 diarrhea requiring hospitalization,
+and skin toxicity was seen among the three subjects. Due to these adverse events and
+difficulty with patient accrual, the study was amended by the investigators, in conjunction
+with CTEP, in November 2008 to test the combination of pertuzumab and cetuximab in
+cetuximab-refractory mCRC patients. The loading dose of cetuximab was eliminated to help
+ameliorate skin toxicity, and patients whose tumors harbored KRAS mutations were
+excluded. Herein we report the results of the subjects enrolled on this amended portion of
+the trial.
+Each treatment cycle of pertuzumab and cetuximab was 21 days in duration. All patients
+received cetuximab at the maintenance dose of 250 mg/m2 IV, without a loading dose, every
+7 days. For pertuzumab, patients enrolled on Dose Level 1 received a loading dose of 420
+mg IV on Cycle 1 Day 1, followed by a maintenance dose of 210 mg on Day 1 of each
+subsequent cycle. Patients enrolled on Dose Level 1a received pertuzumab 210 mg IV on
+Day 1 of every cycle, whereas those on Dose Level −1 received 175 IV on Day 1 of every
+cycle, both without loading doses. A Dose Level 2 consisting of a load of pertuzumab 840
+mg IV on Cycle 1 Day 1, followed by a maintenance dose of 420 mg IV, was planned but
+did not accrue subjects. Patients were treated until disease progression, intolerability, or
+withdrawal of consent.
+A phase II portion was planned but also did not accrue subjects due to discontinuation of the
+study in the phase I portion for toxicity.
+Eligibility
+Eligible subjects were at least 18 years of age with histologically-confirmed adenocarcinoma
+of the colon or rectum who had failed at least one prior line of therapy for metastatic
+disease. All subjects must have previously received 5-fluorouracil (5-FU) or capecitabine,
+irinotecan or oxaliplatin, and cetuximab, and must have demonstrated radiographic
+progression of disease on a cetuximab-containing regimen. Eastern Cooperative Oncology
+Group (ECOG) performance status had to be 0–1, with adequate bone marrow and organ
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Rubinson et al. Page 4
+function and measurable disease per Response Evaluation Criteria in Solid Tumors, version
+1.0 (RECIST)[20].
+Exclusion criteria included subjects whose tumors harbored KRAS mutations; subjects who
+were pregnant or breastfeeding; brain metastases; or presence of serious medical conditions
+that would impose excessive risk to the patient. Because pertuzumab led to mild decreases in
+left ventricular ejection fraction (LVEF) in early-phase trials[21], subjects with LVEF
+<50%, wall motion abnormalities, or a history of congestive heart failure were also
+excluded. All subjects provided written informed consent, and the study was approved by
+the Institutional Review Boards of Dana-Farber/Harvard Cancer Center and all participating
+institutions.
+Safety and Response Evaluation
+Patients were seen at least once every 21 days throughout the study for safety assessment,
+physical examination, and laboratory studies. Echocardiograms or Multi Gated Acquisition
+Scans (MUGAs) were obtained at baseline and after every three cycles. Dose limiting
+toxicity (DLT) was graded according to the Common Terminology Criteria for Adverse
+Events (CTCAE) version 3.0. DLTs were assessed during the first cycle of treatment;
+subjects were replaced if they were not monitored for a minimum duration of one cycle.
+DLTs were defined as: a) any grade 4 neutropenia lasting for more than 7 days, or any grade
+4 neutropenia with fever, b) any grade 4 thrombocytopenia, c) any grade 3 or higher non-
+hematologic toxicity that was possibly related to study treatment (except nausea or vomiting,
+skin toxicity, alopecia, and treatment-related allergic reaction/hypersensitivity), d) grade 4
+rash/desquamation despite aggressive skin toxicity management, e) grade 3 diarrhea
+requiring hospitalization or lasting more than 24 hours despite aggressive anti-diarrheal
+therapy, f) grade 4 diarrhea despite aggressive anti-diarrheal therapy, g) grade 4 vomiting
+despite optimal anti-emetic therapy, or h) grade 3 or higher left ventricular dysfunction (i.e.,
+symptomatic congestive heart failure). Toxicity-related treatment delays lasting more than
+three weeks, or requirement of more than two dose reductions of cetuximab due to
+treatment-related toxicity, were also considered DLTs.
+Diagnostic imaging with computed tomography (CT) or magnetic resonance imaging (MRI)
+scans and tumor marker assessment with measurement of carcinoembryonic antigen (CEA)
+were performed after every two cycles to evaluate treatment response using RECIST
+guidelines[22]. In addition, positron emission tomography (PET)/CT scans were obtained at
+baseline and after 2 cycles for exploratory studies, and were reviewed and interpreted by the
+Dana-Farber/Harvard Cancer Center Tumor Imaging Metrics Core.
+Statistical Analysis
+The primary end point of the phase I study was the identification of the recommended phase
+II dose (RP2D) of the combination of pertuzumab and cetuximab, defined as the dose level
+at which no more than 1 out of 6 patients experienced a DLT. The primary end point of the
+phase II portion was objective tumor response rate (RR), defined as the proportion of
+patients with a best overall response of complete response (CR) or partial response (PR)
+according to RECIST. Secondary end points included PFS, defined as the duration of time
+from the start of treatment to objective disease progression or death, and OS, defined as the
+duration of time from the start of treatment to death. Subjects were considered evaluable for
+toxicity if they received at least one dose of study treatment, and evaluable for response if
+they received at least one dose of study treatment and had their disease re-evaluated with
+scans. Patients were followed for outcome and survival through May 31st, 2012, when the
+database was locked. Descriptive statistics were used to summarize patient characteristics,
+treatment received, and adverse events. PFS and OS curves were determined with the
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Rubinson et al. Page 5
+Kaplan Meier method, and median PFS and OS were calculated with 95% confidence
+intervals (CI). Statistical analyses were conducted using SAS software version 9.2 (SAS
+Institute Inc, Cary, NC).
+Based on the dose escalation schema of the phase I study, there was a 91% probability of
+escalating given a 10% true DLT rate, 70% probability with a 20% rate, 17% probability
+with a 50% rate, and an 8% probability with a 60% rate.
+Results
+Patient Characteristics and Disposition
+Between March 2009 to July 2010, 14 patients were enrolled on the phase I portion of the
+study and 13 received ≥1 dose of antibody therapy. One patient withdrew consent prior to
+receiving any study drug, and was excluded from safety and efficacy analyses. Table 1
+shows the baseline demographics. Fifty-seven per cent of patients had received 4 or more
+prior lines of therapy), and the majority of patients (64%) had metastases to two or more
+organ sites. Among the 13 patients who received treatment, the median number of cycles
+received was 2 (range 1–8). Five patients discontinued treatment for radiographic disease
+progression per RECIST, two discontinued for symptomatic or clinical progression, and four
+terminated study therapy for unacceptable toxicity. One patient was taken off study at the
+treating physician’s discretion, and one patient withdrew consent.
+Safety
+Unacceptable toxicity was observed at each dose level tested. Initially three patients were
+enrolled on Dose Level 1, and one experienced a DLT (grade 3 mucositis) after the first
+cycle. This cohort was then expanded, and an additional two subjects enrolled also
+experienced DLTs of grade 3 mucositis. On this basis, the trial was amended in September
+2009 to eliminate the loading dose of pertuzumab (Dose Level 1a: pertuzumab 210 mg IV
+every 21 days; cetuximab 250mg/m2 IV weekly) and to add a lower dose of pertuzumab for
+evaluation if necessary (Dose Level −1: pertuzumab 175 mg IV every 21 days; cetuximab
+250 mg/m2 IV weekly). Two patients were enrolled onto Dose Level 1a and both
+experienced DLTs: one patient developed grade 3 diarrhea requiring hospitalization while
+the second experienced grade 3 mucositis. Accrual was then opened to Dose Level −1 with
+three subjects enrolled. One of the three experienced a DLT (grade 3 mucositis), therefore
+the cohort was expanded with an additional three patients enrolled. Of these additional three
+patients, an additional patient experienced a DLT (grade 3 mucositis). At that point, on the
+basis of the pre-defined protocol criteria and the high unacceptable toxicity rate, in
+conjunction with the National Cancer Institute, the trial was permanently closed to accrual.
+Table 2 summarizes all adverse events experienced at any time during study treatment
+regardless of attribution. The primary Grade 3 or higher toxicities related to this regimen
+were rash/desquamation (46% of patients), mucositis or stomatitis (38%), and diarrhea
+(15%). One patient experienced a Grade 5 event, suffering a fatal myocardial infarction 27
+days following his last treatment. The patient had previously come off study after two cycles
+due to unacceptable toxicity with Grade 3 mucositis. The cardiac event occurred in the
+setting of clinical deterioration and was not felt to be related to study treatment. Four
+patients underwent reassessment of LVEF. Three patients had an increase in LVEF (61% to
+65%, 64% to 67%, and 65% to 72%) and one patient had a decrease in LVEF (70% to 65%).
+All patients required dose delays for toxicity (most commonly rash). Across all dose levels,
+all patients experienced grade ≥ 1 rash following their first cycle. In addition to the typical
+acneiform rash seen with EGFR inhibitors (Figure 1b), 10 of 13 patients also exhibited a
+desquamating or dermatitic rash (Grade 3 or higher in six patients) (see Figure 1a, c). The
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Rubinson et al. Page 6
+rash had a lichenoid appearance with a reddish-purple erythema and scaling and crusting of
+the skin.
+Efficacy
+Seven of the 13 treated patients were evaluable for response; six patients were not rescanned
+due to study discontinuation for toxicity. One patient (14%) had a confirmed partial
+response after 40 days and did not experience disease progression until after 182 days
+(approximately 6 months) of treatment. This patient is still alive as of May 30, 3012 and
+continues to be followed on study for survival. Two patients (29%) had a best overall
+response of stable disease and four patients (57%) had progressive disease. The median PFS
+was 2.1 (95% CI, 1.5–4.9) months and median OS was 3.7 (95% CI, 1.6–7.9) months
+(Figure 2).
+The median plasma CEA at study entry was 42.2ng/mL (range 2.0 – 3,743.3). Of the ten
+patients who had at least one follow-up CEA obtained following initiation of therapy, four
+patients (40%) experienced a >50% reduction in plasma CEA, including the patient who
+experienced a radiologic partial response.
+An exploratory analysis attempted to correlate PET/CT response after 2 cycles per European
+Organization for Research and Treatment of Cancer (EORTC) criteria[23] with CT scan
+findings and clinical outcomes. Five patients underwent a PET/CT following two cycles,
+with one patient (20%) showing a partial response and 4 patients (80%) with stable disease.
+No correlation with CT or clinical outcome could be assessed due to the small number of
+evaluable patients.
+Discussion
+This study sought to assess the safety and efficacy of the combination of pertuzumab and
+cetuximab in patients with cetuximab-resistant, metastatic colorectal cancer. Despite
+multiple dose modifications, the combination of cetuximab and pertuzumab could not be
+tolerated. Patients experienced significant mucositis and an unanticipated desquamating
+dermatitis distinct from the typical acneiform rash observed with either drug alone. Neither
+toxicity could be ameliorated by dose reduction, and this ultimately led to the
+discontinuation of the trial. Among the limited number of evaluable patients there was a
+suggestion of efficacy with both a radiologic partial response in one patient and a
+biochemical response in four patients – all among patients who were documented to be
+cetuximab-resistant.
+While evidence suggests that activation of the RAS/BRAF cascade may be one mechanism
+for cetuximab resistance[9,24], a substantial subset of colorectal tumors employ alternative
+mechanisms. The hypothesis that underlies this study is that cetuximab resistance may occur
+through the activation of alternate ErbB receptors. Recent efforts have highlighted the role
+of HER2 signaling as a targetable cetuximab resistance pathway[10,25]. Lapatinib, a small
+molecule inhibitor of EGFR and HER2, was evaluated as monotherapy in chemo-refractory
+colorectal cancer[26,27]. This therapy was well-tolerated but had limited efficacy, possibly
+reflecting either the absence of concurrent cytotoxic chemotherapy and/or insufficient
+inhibition of the ErbB pathway. The use of trastuzumab to inhibit HER2 in colorectal cancer
+was explored in a Phase II study in which enrollment was limited to patients with HER2
+overexpression. The low rate of HER2 overexpression in colorectal cancer (observed in 8%
+of tumors in that trial) [10] resulted in poor enrollment although partial responses were
+observed in 5 of 7 evaluable patients[28]. Similarly, a Cancer and Leukemia Group B
+(CALGB) phase II trial of trastuzumab in combination with 5-fluoruracil, leucovorin and
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Rubinson et al. Page 7
+oxaliplatin in refractory patients showed some efficacy but again was limited by poor
+enrollment due to the low rate of HER2-overexpressing colorectal tumors[29].
+By interfering with HER2 homo- and heterodimerization independent of HER2 DNA
+amplification, pertuzumab may be better suited than trastuzumab for those tumors utilizing
+HER2 to evade cetuximab in colorectal cancer. Pertuzumab as a single-agent demonstrated
+minimal activity in preclinical models of colorectal cancer[17]. Thus, the addition of
+pertuzumab to cetuximab in cetuximab-refractory colorectal cancer directly tests the
+hypothesis that signaling through alternative ErbB receptors provides a mechanism for
+cetuximab resistance. Several drugs currently in early-phase studies in solid malignancies
+are also attempting to completely inhibit the ErbB pathway by simultaneously targeting
+multiple ErbB receptors[18,30]. These efforts have suggested that concurrent inhibition of
+ErbB receptors could be tolerated with acceptable side effects and that some combinations
+may have efficacy in refractory colorectal cancers.
+In the current trial, the combination of cetuximab and pertuzumab caused skin toxicity in
+every patient, including an acneiform and exfoliative dermatitic rash. The dermatitic rash,
+not previously reported with either drug, demonstrated significant improvement within one
+week of holding the study drugs and initiating highly-potent topical corticosteroids. This
+contrasts with the characteristic acneiform rash shared among all agents targeting ErbB
+receptors - occurring in 88.2% of patients receiving cetuximab[31] and 24.6% of patients
+receiving pertuzumab [32] – and is believed to reflect ErbB receptor inhibition within the
+skin. In this trial 77% of patients had evidence of exfoliation or rash with desquamation.
+Among cetuximab-treated colorectal cancer patients, the characteristic acneiform rash has
+been associated with a greater likelihood of anti-tumor activity [33]. In the current trial, the
+limited number of evaluable subjects prevented an assessment of whether the presence or
+severity of rash was predictive of tumor response.
+ErbB receptors are present within multiple layers of the epidermis and dermis, with EGFR
+being the primary ErbB receptor within keratinocytes and HER2 predominantly expressed
+within the proliferating basal cells of the dermis[32,34]. HER2 can also be found in the
+keratinocyte layer and HER2/EGFR heterodimerization has been proposed to contribute to
+signaling in this layer[32,35]. The unique dermatitic rash observed in our trial may reflect
+both the increased toxicity to the superficial keratinocyte layer due to inhibition of EGFR
+and EGFR/HER2 heterodimers as well as impaired repair due to inhibition of HER2 within
+the proliferating basal cell layer. Recent trials targeting multiple ErbB receptors with small
+molecules or other drug combinations have not recapitulated this phenotype[18,30],
+suggesting that the observed dermatitis may be unique to this drug combination and not a
+class effect. Further studies with ErbB-targeting agents will be needed to clarify the
+tolerability of broad ErbB receptor inhibition.
+A tolerable dose of cetuximab and pertuzumab was unable to be identified despite the
+elimination of the loading dose and reductions in pertuzumab dose. Assessment of efficacy
+in this study was impeded by drug toxicity resulting in dose delays, patient withdrawal, and
+early termination of the trial. Within the handful of patients evaluable for response there was
+some evidence of biochemical and radiologic efficacy, including one patient who
+maintained a partial response for 6 months. This efficacy signal suggests that broad
+inhibition of ErbB receptors may be a therapeutic strategy worth pursing in colorectal
+cancer. Evaluation of alternative agents directed at ErbB receptors may identify a subset of
+cetuximab-resistant colorectal tumors that employ HER2-dependent mechanisms to
+overcome EGFR inhibition by cetuximab. Given the number of proposed mechanisms for
+cetuximab resistance it may prove useful to identify biomarkers that are instructive as to the
+mode of cetuximab resistance employed in a given tumor. Re-biopsy of metastatic tumors or
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Rubinson et al. Page 8
+collection of circulating tumor cells to re-assay for KRAS mutation would identify the
+subset of tumors that would be unlikely to respond to ErbB inhibition.
+Immunohistochemical assessment of ErbB receptor expression and phosphorylation status
+could identify those tumors employing a HER2-based mechanism for cetuximab resistance
+that would be amenable to therapy.
+In conclusion, the combination of cetuximab and pertuzumab in cetuximab-refractory
+metastatic colorectal cancer was associated with some antitumor activity. However, the
+combination was intolerable due to overlapping toxicities of diarrhea, rash and mucositis.
+Additionally, a unique rash with desquamation was seen in most patients across all dose
+levels. Neither the elimination of the loading dose of pertuzumab, dose reductions of
+pertuzumab and cetuximab, nor dose delays of both drugs were sufficient to reduce toxicity
+to acceptable levels. Consequently, pertuzumab and cetuximab cannot be safely
+administered together and will not be studied further in metastatic colorectal cancer.
+Acknowledgments
+Pertuzumab was supplied by the Cancer Therapy Evaluation Program (CTEP) of the National Cancer Institute
+(NCI) in Bethesda, MD. The trial was conducted under a Phase 2 Consortium contract with the NCI. Genentech
+also provided supplementary funding for the study.
+References
+1. Saltz LB, Meropol NJ, Loehrer PJ Sr, Needle MN, Kopit J, Mayer RJ. Phase II trial of cetuximab in
+patients with refractory colorectal cancer that expresses the epidermal growth factor receptor.
+Journal of clinical oncology : official journal of the American Society of Clinical Oncology. 2004;
+22(7):1201–1208.10.1200/JCO.2004.10.182 [PubMed: 14993230]
+2. Martin-Martorell P, Rosello S, Rodriguez-Braun E, Chirivella I, Bosch A, Cervantes A. Biweekly
+cetuximab and irinotecan in advanced colorectal cancer patients progressing after at least one
+previous line of chemotherapy: results of a phase II single institution trial. British journal of cancer.
+2008; 99(3):455–458.10.1038/sj.bjc.6604530 [PubMed: 18665167]
+3. Bokemeyer C, Bondarenko I, Makhson A, Hartmann JT, Aparicio J, de Braud F, Donea S, Ludwig
+H, Schuch G, Stroh C, Loos AH, Zubel A, Koralewski P. Fluorouracil, leucovorin, and oxaliplatin
+with and without cetuximab in the first-line treatment of metastatic colorectal cancer. Journal of
+clinical oncology : official journal of the American Society of Clinical Oncology. 2009; 27(5):663–
+671.10.1200/JCO.2008.20.8397 [PubMed: 19114683]
+4. Van Cutsem E, Kohne CH, Hitre E, Zaluski J, Chang Chien CR, Makhson A, D’Haens G, Pinter T,
+Lim R, Bodoky G, Roh JK, Folprecht G, Ruff P, Stroh C, Tejpar S, Schlichting M, Nippgen J,
+Rougier P. Cetuximab and chemotherapy as initial treatment for metastatic colorectal cancer. The
+New England journal of medicine. 2009; 360(14):1408–1417.10.1056/NEJMoa0805019 [PubMed:
+19339720]
+5. Van Cutsem E, Tejpar S, Vanbeckevoort D, Peeters M, Humblet Y, Gelderblom H, Vermorken JB,
+Viret F, Glimelius B, Gallerani E, Hendlisz A, Cats A, Moehler M, Sagaert X, Vlassak S,
+Schlichting M, Ciardiello F. Intrapatient Cetuximab Dose Escalation in Metastatic Colorectal
+Cancer According to the Grade of Early Skin Reactions: The Randomized EVEREST Study.
+Journal of clinical oncology : official journal of the American Society of Clinical Oncology. 2012;
+30(23):2861–2868.10.1200/JCO.2011.40.9243 [PubMed: 22753904]
+6. Amado RG, Wolf M, Peeters M, Van Cutsem E, Siena S, Freeman DJ, Juan T, Sikorski R, Suggs S,
+Radinsky R, Patterson SD, Chang DD. Wild-type KRAS is required for panitumumab efficacy in
+patients with metastatic colorectal cancer. Journal of clinical oncology : official journal of the
+American Society of Clinical Oncology. 2008; 26(10):1626–1634.10.1200/JCO.2007.14.7116
+[PubMed: 18316791]
+7. Baselga J, Rosen N. Determinants of RASistance to anti-epidermal growth factor receptor agents.
+Journal of clinical oncology : official journal of the American Society of Clinical Oncology. 2008;
+26(10):1582–1584.10.1200/JCO.2007.15.3700 [PubMed: 18316790]
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Rubinson et al. Page 9
+8. Maughan TS, Adams RA, Smith CG, Meade AM, Seymour MT, Wilson RH, Idziaszczyk S, Harris
+R, Fisher D, Kenny SL, Kay E, Mitchell JK, Madi A, Jasani B, James MD, Bridgewater J, Kennedy
+MJ, Claes B, Lambrechts D, Kaplan R, Cheadle JP. MCT Investigators. Addition of cetuximab to
+oxaliplatin-based first-line combination chemotherapy for treatment of advanced colorectal cancer:
+results of the randomised phase 3 MRC COIN trial. Lancet. 2011; 377(9783):2103–2114.10.1016/
+S0140-6736(11)60613-2 [PubMed: 21641636]
+9. Diaz LA Jr, Williams RT, Wu J, Kinde I, Hecht JR, Berlin J, Allen B, Bozic I, Reiter JG, Nowak
+MA, Kinzler KW, Oliner KS, Vogelstein B. The molecular evolution of acquired resistance to
+targeted EGFR blockade in colorectal cancers. Nature. 2012; 486(7404):537–540.10.1038/
+nature11219 [PubMed: 22722843]
+10. Oliveras-Ferraros C, Massaguer Vall-Llovera A, Vazquez-Martin A, Salip DC, Queralt B, Cufi S,
+Martin-Castillo B, Bosch-Barrera J, Brunet J, De Llorens R, Menendez JA. Transcriptional
+upregulation of HER2 expression in the absence of HER2 gene amplification results in cetuximab
+resistance that is reversed by trastuzumab treatment. Oncology reports. 2012; 27(6):1887–
+1892.10.3892/or.2012.1732 [PubMed: 22427198]
+11. Bertotti A, Migliardi G, Galimi F, Sassi F, Torti D, Isella C, Cora D, Di Nicolantonio F, Buscarino
+M, Petti C, Ribero D, Russolillo N, Muratore A, Massucco P, Pisacane A, Molinaro L, Valtorta E,
+Sartore-Bianchi A, Risio M, Capussotti L, Gambacorta M, Siena S, Medico E, Sapino A, Marsoni
+S, Comoglio PM, Bardelli A, Trusolino L. A molecularly annotated platform of patient-derived
+xenografts (“xenopatients”) identifies HER2 as an effective therapeutic target in cetuximab-
+resistant colorectal cancer. Cancer discovery. 2011; 1(6):508–
+523.10.1158/2159-8290.CD-11-0109 [PubMed: 22586653]
+12. Quesnelle KM, Grandis JR. Dual kinase inhibition of EGFR and HER2 overcomes resistance to
+cetuximab in a novel in vivo model of acquired cetuximab resistance. Clinical cancer research : an
+official journal of the American Association for Cancer Research. 2011; 17(18):5935–
+5944.10.1158/1078-0432.CCR-11-0370 [PubMed: 21791633]
+13. Agus DB, Akita RW, Fox WD, Lewis GD, Higgins B, Pisacane PI, Lofgren JA, Tindell C, Evans
+DP, Maiese K, Scher HI, Sliwkowski MX. Targeting ligand-activated ErbB2 signaling inhibits
+breast and prostate tumor growth. Cancer cell. 2002; 2 (2):127–137. [PubMed: 12204533]
+14. Gordon MS, Matei D, Aghajanian C, Matulonis UA, Brewer M, Fleming GF, Hainsworth JD,
+Garcia AA, Pegram MD, Schilder RJ, Cohn DE, Roman L, Derynck MK, Ng K, Lyons B, Allison
+DE, Eberhard DA, Pham TQ, Dere RC, Karlan BY. Clinical activity of pertuzumab (rhuMAb
+2C4), a HER dimerization inhibitor, in advanced ovarian cancer: potential predictive relationship
+with tumor HER2 activation status. Journal of clinical oncology : official journal of the American
+Society of Clinical Oncology. 2006; 24(26):4324–4332.10.1200/JCO.2005.05.4221 [PubMed:
+16896006]
+15. Makhija S, Amler LC, Glenn D, Ueland FR, Gold MA, Dizon DS, Paton V, Lin CY, Januario T,
+Ng K, Strauss A, Kelsey S, Sliwkowski MX, Matulonis U. Clinical activity of gemcitabine plus
+pertuzumab in platinum-resistant ovarian cancer, fallopian tube cancer, or primary peritoneal
+cancer. Journal of clinical oncology : official journal of the American Society of Clinical
+Oncology. 2010; 28(7):1215–1223.10.1200/JCO.2009.22.3354 [PubMed: 19901115]
+16. Baselga J, Cortes J, Kim SB, Im SA, Hegg R, Im YH, Roman L, Pedrini JL, Pienkowski T, Knott
+A, Clark E, Benyunes MC, Ross G, Swain SM. CS Group. Pertuzumab plus trastuzumab plus
+docetaxel for metastatic breast cancer. The New England journal of medicine. 2012; 366(2):109–
+119.10.1056/NEJMoa1113216 [PubMed: 22149875]
+17. Pohl M, Stricker I, Schoeneck A, Schulmann K, Klein-Scory S, Schwarte-Waldhoff I, Hasmann M,
+Tannapfel A, Schmiegel W, Reinacher-Schick A. Antitumor activity of the HER2 dimerization
+inhibitor pertuzumab on human colon cancer cells in vitro and in vivo. Journal of cancer research
+and clinical oncology. 2009; 135(10):1377–1386.10.1007/s00432-009-0579-3 [PubMed:
+19340455]
+18. Felip E, Ranson M, Cedres S, Dean E, Brewster M, Martinez P, McNally V, Ross G, Galdermans
+D. A Phase Ib, Dose-Finding Study of Erlotinib in Combination With a Fixed Dose of Pertuzumab
+in Patients With Advanced Non-Small-Cell Lung Cancer. Clinical lung cancer. 201210.1016/j.cllc.
+2012.03.004
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Rubinson et al. Page 10
+19. Weickhardt AJ, Price TJ, Chong G, Gebski V, Pavlakis N, Johns TG, Azad A, Skrinos E, Fluck K,
+Dobrovic A, Salemi R, Scott AM, Mariadason JM, Tebbutt NC. Dual targeting of the epidermal
+growth factor receptor using the combination of cetuximab and erlotinib: preclinical evaluation
+and results of the phase II DUX study in chemotherapy-refractory, advanced colorectal cancer.
+Journal of clinical oncology : official journal of the American Society of Clinical Oncology. 2012;
+30(13):1505–1512.10.1200/JCO.2011.38.6599 [PubMed: 22412142]
+20. Tsuchida Y, Therasse P. Response evaluation criteria in solid tumors (RECIST): new guidelines.
+Medical and pediatric oncology. 2001; 37(1):1–3.10.1002/mpo.1154 [PubMed: 11466715]
+21. Agus DB, Gordon MS, Taylor C, Natale RB, Karlan B, Mendelson DS, Press MF, Allison DE,
+Sliwkowski MX, Lieberman G, Kelsey SM, Fyfe G. Phase I clinical study of pertuzumab, a novel
+HER dimerization inhibitor, in patients with advanced cancer. Journal of clinical oncology :
+official journal of the American Society of Clinical Oncology. 2005; 23(11):2534–2543.10.1200/
+JCO.2005.03.184 [PubMed: 15699478]
+22. Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubinstein L, Verweij J, Van
+Glabbeke M, van Oosterom AT, Christian MC, Gwyther SG. New guidelines to evaluate the
+response to treatment in solid tumors. European Organization for Research and Treatment of
+Cancer, National Cancer Institute of the United States, National Cancer Institute of Canada.
+Journal of the National Cancer Institute. 2000; 92 (3):205–216. [PubMed: 10655437]
+23. Young H, Baum R, Cremerius U, Herholz K, Hoekstra O, Lammertsma AA, Pruim J, Price P.
+Measurement of clinical and subclinical tumour response using [18F]-fluorodeoxyglucose and
+positron emission tomography: review and 1999 EORTC recommendations. European
+Organization for Research and Treatment of Cancer (EORTC) PET Study Group. European
+journal of cancer. 1999; 35 (13):1773–1782. [PubMed: 10673991]
+24. Misale S, Yaeger R, Hobor S, Scala E, Janakiraman M, Liska D, Valtorta E, Schiavo R, Buscarino
+M, Siravegna G, Bencardino K, Cercek A, Chen CT, Veronese S, Zanon C, Sartore-Bianchi A,
+Gambacorta M, Gallicchio M, Vakiani E, Boscaro V, Medico E, Weiser M, Siena S, Di
+Nicolantonio F, Solit D, Bardelli A. Emergence of KRAS mutations and acquired resistance to
+anti-EGFR therapy in colorectal cancer. Nature. 2012; 486(7404):532–536.10.1038/nature11156
+[PubMed: 22722830]
+25. Yonesaka K, Zejnullahu K, Okamoto I, Satoh T, Cappuzzo F, Souglakos J, Ercan D, Rogers A,
+Roncalli M, Takeda M, Fujisaka Y, Philips J, Shimizu T, Maenishi O, Cho Y, Sun J, Destro A,
+Taira K, Takeda K, Okabe T, Swanson J, Itoh H, Takada M, Lifshits E, Okuno K, Engelman JA,
+Shivdasani RA, Nishio K, Fukuoka M, Varella-Garcia M, Nakagawa K, Janne PA. Activation of
+ERBB2 signaling causes resistance to the EGFR-directed therapeutic antibody cetuximab. Science
+translational medicine. 2011; 3(99):99ra86.10.1126/scitranslmed.3002442
+26. Zhou Y, Li S, Hu YP, Wang J, Hauser J, Conway AN, Vinci MA, Humphrey L, Zborowska E,
+Willson JK, Brattain MG. Blockade of EGFR and ErbB2 by the novel dual EGFR and ErbB2
+tyrosine kinase inhibitor GW572016 sensitizes human colon carcinoma GEO cells to apoptosis.
+Cancer research. 2006; 66(1):404–411.10.1158/0008-5472.CAN-05-2506 [PubMed: 16397255]
+27. Fields AL, Rinaldi DA, Henderson CA, Germond CJ, Chu L, Brill KJ, Leopold LH, Berger MS.
+An Open-Label Multicenter Phase II Study of Oral Lapatinib (GW572016) as Single Agent,
+Second-Line Therapy in Patients with Metastatic Colorectal Cancer. Journal of Clinical Oncology.
+2005; 23 (16S):1. [PubMed: 15545667]
+28. Ramanathan RK, Hwang JJ, Zamboni WC, Sinicrope FA, Safran H, Wong MK, Earle M, Brufsky
+A, Evans T, Troetschel M, Walko C, Day R, Chen HX, Finkelstein S. Low overexpression of
+HER-2/neu in advanced colorectal cancer limits the usefulness of trastuzumab (Herceptin) and
+irinotecan as therapy. A phase II trial. Cancer investigation. 2004; 22 (6):858–865. [PubMed:
+15641483]
+29. Clark, JW.; Niedzwiecki, D.; Hollis, D.; Mayer, R. Cancer and Leukemia Group B Phase II trial of
+5-fluorouracil (5-FU), leucovorin (LV), oxaliplatin (Ox), and trastuzumab (T) for patients with
+metastatic colorectal cancer (CRC) refractory to initial therapy. 2003 ASCO Annual Meeting;
+Chicago, IL. ASCO; 2003.
+30. Takahashi T, Boku N, Murakami H, Naito T, Tsuya A, Nakamura Y, Ono A, Machida N,
+Yamazaki K, Watanabe J, Ruiz-Garcia A, Imai K, Ohki E, Yamamoto N. Phase I and
+pharmacokinetic study of dacomitinib (PF-00299804), an oral irreversible, small molecule
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Rubinson et al. Page 11
+inhibitor of human epidermal growth factor receptor-1, -2, and -4 tyrosine kinases, in Japanese
+patients with advanced solid tumors. Investigational new drugs. 201210.1007/s10637-011-9789-z
+31. Su X, Lacouture ME, Jia Y, Wu S. Risk of high-grade skin rash in cancer patients treated with
+cetuximab--an antibody against epidermal growth factor receptor: systemic review and meta-
+analysis. Oncology. 2009; 77(2):124–133.10.1159/000229752 [PubMed: 19622903]
+32. Drucker AM, Wu S, Dang CT, Lacouture ME. Risk of rash with the anti-HER2 dimerization
+antibody pertuzumab: a meta-analysis. Breast cancer research and treatment. 201210.1007/
+s10549-012-2157-7
+33. Cunningham D, Humblet Y, Siena S, Khayat D, Bleiberg H, Santoro A, Bets D, Mueser M,
+Harstrick A, Verslype C, Chau I, Van Cutsem E. Cetuximab monotherapy and cetuximab plus
+irinotecan in irinotecan-refractory metastatic colorectal cancer. The New England journal of
+medicine. 2004; 351(4):337–345.10.1056/NEJMoa033025 [PubMed: 15269313]
+34. Laux I, Jain A, Singh S, Agus DB. Epidermal growth factor receptor dimerization status
+determines skin toxicity to HER-kinase targeted therapies. British journal of cancer. 2006; 94(1):
+85–92.10.1038/sj.bjc.6602875 [PubMed: 16306877]
+35. De Potter IY, Poumay Y, Squillace KA, Pittelkow MR. Human EGF receptor (HER) family and
+heregulin members are differentially expressed in epidermal keratinocytes and modulate
+differentiation. Experimental cell research. 2001; 271(2):315–328.10.1006/excr.2001.5390
+[PubMed: 11716544]
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Rubinson et al. Page 12
+Figure 1.
+Dermatologic toxicity
+Dematologic toxicity as observed in two patients on combination cetuximab and
+pertuzumab. a. Dermatitic and desquamating rash with underlying erythema. b. More typical
+actinic rash affecting the chest of the same patient as 1a. c. A second patient with a
+dermatitic reaction predominantly affecting the periocular skin with a reddish-purple
+erythema.
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+Rubinson et al. Page 13
+Figure 2.
+PFS and OS in patients treated with cetuximab and pertuzumab
+Survival curves showing progression free survival (a) and overall survival (b) among the
+seven patients evaluable for response.
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Rubinson et al. Page 14
+Table I
+Baseline patient and disease characteristics
+Median age (range), years 60 (46–73)
+Sex, no. (%)
+Male 6 (42.8)
+Female 8 (57.2)
+Race
+White 12 (85.7)
+Black 1 (7.1)
+Other 1 (7.1)
+ECOG performance status, no. (%)
+0 5 (35.7)
+1 9 (64.3)
+Histologic grade, no. (%)
+Well differentiated 1 (7.1)
+Moderately differentiated 10 (71.4)
+Poorly differentiated 2 (14.3)
+Unknown 1 (7.1)
+Sites of metastatic disease, no. (%)
+Liver only 2 (14.3)
+Liver plus other sites 9 (64.3)
+Non-liver only 3 (21.4)
+Other 0
+Previous radiation treatment, no. (%) 2 (14.3)
+Number of prior chemotherapy regimens, no. (%)
+1 0
+2 1 (7.1)
+3 5 (35.7)
+4+ 8 (57.2)
+Median baseline CEA (range), ng/mL 42.2 (2.0–3,743.3)
+Median baseline left ventricular ejection fraction (range), % 67 (57–73)
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Rubinson et al. Page 15
+Table 2
+Adverse events, by worst grade per patient (n=13)
+TOXICITY GRADE 1/2 (%) GRADE 3/4 (%) GRADE 5 (%) TOTAL (%)
+Cardiovascular
+Cardiac ischemia 0 0 1 (8) 1 (8)
+Troponin elevation 0 1 (8) 0 1 (8)
+Constitutional
+Fatigue 11 (85) 0 0 11 (85)
+Fever without neutropenia 2 (15) 0 0 2 (15)
+Insomnia 2 (15) 1 (8) 0 3 (23)
+Rigors/chills 3 (23) 0 0 3 (23)
+Weight loss 1 (8) 0 0 1 (8)
+Weakness (non-neuropathic) 1 (8) 0 0 1 (8)
+Dermatologic
+Acneiform rash 3 (23) 1 (8) 0 4 (31)
+Dry skin 1 (8) 1 (8) 0 2 (15)
+Edema of head and neck 2 (15) 0 0 2 (15)
+Edema of limb 3 (23) 0 0 3 (23)
+Edema trunk/genital 1 (8) 0 0 1 (8)
+Erythema multiforme 2 (15) 0 0 2 (15)
+Lymphedema 1 (8) 0 0 1 (8)
+Nail changes 3 (23) 0 0 3 (23)
+Other 1 (8) 0 0 1 (8)
+Pruritis 5 (38) 0 0 5 (38)
+Rash/desquamation 4 (31) 6 (46) 0 10 (77)
+Skin pain 0 3 (23) 0 3 (23)
+Skin (other) 1 (8) 0 0 1 (8)
+Gastrointestinal
+Abdominal pain 5 (38) 0 0 5 (38)
+Anorexia 5 (38) 0 0 5 (38)
+Small bowel obstruction 0 1 (8) 0 1 (8)
+Constipation 1 (8) 0 0 1 (8)
+Dehydration 1 (8) 0 0 1 (8)
+Diarrhea 6 (46) 2 (15) 0 8 (61)
+Distension/bloating 1 (8) 0 0 1 (8)
+Dyspepsia 1 (8) 0 0 1 (8)
+Esophagitis 1 (8) 0 0 1 (8)
+Mucositis or stomatitis 3 (23) 5 (38) 0 8 (61)
+Nausea 6 (46) 0 0 6 (46)
+Vomiting 3 (23) 0 0 3 (23)
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Rubinson et al. Page 16
+TOXICITY GRADE 1/2 (%) GRADE 3/4 (%) GRADE 5 (%) TOTAL (%)
+Genitourinary
+Incontinence – urinary 1 (8) 0 0 1 (8)
+Proteinuria 1 (8) 0 0 1 (8)
+Vaginal discharge 1 (8) 0 0 1 (8)
+Hematologic
+Anemia 9 (69) 0 0 9 (69)
+Leukopenia 1 (8) 0 0 1 (8)
+Lymphopenia 1 (8) 0 0 1 (8)
+Thrombocytopenia 1 (8) 0 0 1 (8)
+Infection
+Urinary tract 1 (8) 0 0 1 (8)
+Colitis – infectious 1 (8) 0 0 1 (8)
+Metabolic/Laboratory
+ALT elevation 2 (15) 0 0 2 (15)
+AST elevation 5 (38) 1 (8) 0 6 (46)
+Alkaline phosphatase elevation 6 (46) 0 0 6 (46)
+Hepatic (other) 1 (8) 0 0 1 (8)
+Hyperbilirubinemia 1(8) 1 (8) 0 2 (15)
+Hyperglycemia 5 (38) 1 (8) 0 6 (46)
+Hyperkalemia 1 (8) 0 0 1 (8)
+Hypoalbuminemia 5 (38) 1 (8) 0 6 (46)
+Hypocalcemia 2 (15) 0 0 2 (15)
+Hypokalemia 2 (15) 1 (8) 0 3 (23)
+Hypomagnesemia 5 (38) 0 0 5 (38)
+Hyponatremia 2 (15) 0 0 2 (15)
+Hypophosphatemia 4 (30) 1 (8) 0 5 (38)
+INR elevation 1 (8) 0 0 1 (8)
+PTT prolongation 1 (8) 0 0 1 (8)
+Metabolic/lab (other) 1 (8) 0 0 1 (8)
+Musculoskeletal/Connective
+Back pain 1 (8) 0 0 1(8)
+Neurologic
+Neuropathy (sensory) 2 (15) 0 0 2 (15)
+Ocular
+Eyelid dysfunction 1 (8) 0 0 1 (8)
+Blurry vision 1 (8) 0 0 1 (8)
+Ocular (other) 1 (8) 0 0 1 (8)
+Other
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.
+
+--- Page 17 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Rubinson et al. Page 17
+TOXICITY GRADE 1/2 (%) GRADE 3/4 (%) GRADE 5 (%) TOTAL (%)
+Epistaxis 3 (23) 0 0 3 (23)
+Voice changes/ dysarthria 1 (8) 0 0 1 (8)
+Psychiatric
+Depression 1 (8) 0 0 1 (8)
+Respiratory
+Dyspnea 1 (8) 1 (8) 0 2 (15)
+Invest New Drugs. Author manuscript; available in PMC 2015 February 01.

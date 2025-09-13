@@ -1,0 +1,515 @@
+Source: 25503302.pdf
+Extracted on: Sat Sep 13 00:00:02 PDT 2025
+==================================================
+
+--- Page 1 ---
+JNeurooncol
+DOI10.1007/s11060-014-1680-2
+CLINICAL STUDY
+Vandetanib plus sirolimus in adults with recurrent glioblastoma:
+results of a phase I and dose expansion cohort study
+Milan G. Chheda • Patrick Y. Wen • Fred H. Hochberg • Andrew S. Chi •
+Jan Drappatz • April F. Eichler • Daniel Yang • Rameen Beroukhim •
+Andrew D. Norden • Elizabeth R. Gerstner • Rebecca A. Betensky •
+Tracy T. Batchelor
+Received:29September2014/Accepted:21November2014
+(cid:2)SpringerScience+BusinessMediaNewYork2014
+Abstract Targeting specific molecular alterations in inducing drugs. Vandetanib and sirolimus were orally
+glioblastoma (GBM) might more effectively kill tumor administered on a continuous daily dosing schedule in
+cells and increase survival. Vandetanib inhibits epidermal escalating dose cohorts. Ten patients enrolled in the dose
+growth factor receptor and vascular endothelial growth escalation phase. Twelve more enrolled at the MTD to
+factor receptor 2. Sirolimus inhibits mammalian target of explore progression-free survival at 6 months (PFS6) in a
+rapamycin (mTOR), a member the phosphoinositide single arm, single stage phase II-type design. In total, 19
+3-Kinase signaling pathway. We sought to determine the patients received at least one dose at the MTD, and 15
+maximumtolerateddose(MTD)anddose-limitingtoxicity completed at least 1 cycle at MTD. MTD was 200 mg
+(DLT) of vandetanib combined with sirolimus. Twenty- vandetanib plus 2 mg sirolimus. The DLT was elevated
+two patients (14 men; 8 women) with recurrent GBM AST/SGOT. The most common toxicities were lympho-
+enrolled. Median age and KPS were 52.5 years and 90 %, penia,fatigue,rash,andhypophosphatemia.For19patients
+respectively. Patients were naive to anti-VEGF and anti- whoreceivedatleastonedoseattheMTD,includingseven
+EGF therapy and mTOR inhibitors, and not on CYP3A4- fromthephaseIgroup,twohadapartialresponse[10.5 %;
+95 % CI (1, 33 %)] and PFS6 was 15.8 % [95 % CI (3.9,
+Clinicaltrials.govidentifier:NCT00821080.
+M.G.Chheda(cid:2)F.H.Hochberg(cid:2)A.S.Chi(cid:2) J.Drappatz
+A.F.Eichler(cid:2)D.Yang(cid:2)E.R.Gerstner(cid:2)T.T.Batchelor(&) DivisionofHematologyandOncology,Departmentsof
+StephenE.andCatherinePappasCenterforNeuro-Oncology, NeurologyandMedicine,andNeuro-OncologyProgram,
+MassachusettsGeneralHospital,Yawkey9East,55FruitStreet, UniversityofPittsburgMedicalCenter,HillmanCancerCenter,
+Boston,MA02114,USA 5115CentreAvenue,Pittsburgh,PA15232,USA
+e-mail:tbatchelor@mgh.harvard.edu
+A.F.Eichler
+PresentAddress: UpToDate,WoltersKluwerHealth,95SawyerRoad,Waltham,
+M.G.Chheda MA02453,USA
+DepartmentofNeurologyandHumanOncologyand
+PathogenesisProgram,MemorialSloan-KetteringCancer R.Beroukhim
+Center,1275YorkAvenue,NewYork,NY10065,USA DepartmentofCancerBiologyandCenterforCancerGenome
+Characterization,Dana-FarberCancerInstitute,450Brookline
+P.Y.Wen(cid:2)R.Beroukhim(cid:2)A.D.Norden Avenue,Boston,MA02215,USA
+CenterforNeuro-Oncology,Dana-Farber/Brighamand
+Women’sCancerCenter,450BrooklineAvenue,Boston, R.A.Betensky
+MA02215,USA DepartmentofBiostatistics,HarvardSchoolofPublicHealth,
+655HuntingtonAvenue,BuildingIIRoom421,Boston,
+F.H.Hochberg MA02115,USA
+DivisionofNeurosurgery,UniversityofCaliforniaatSanDiego,
+Mailcode8893,200WestArborDrive,SanDiego,CA92103,
+USA
+123
+
+--- Page 2 ---
+JNeurooncol
+34.9 %)]. Vandetanib and sirolimus can be safely co- established a maximum tolerated dose of 300 mg daily
+administered on a continuous, daily dosing schedule. [13].
+Pathways that converge on PI3K/Akt/mTOR (phospha-
+Keywords Clinical trial (cid:2) Chemotherapy (cid:2) Glioblastoma tidylinositol 3-kinase/mammalian target of rapamycin)
+signaling play an important role in GBM. Mutations that
+activatePI3Koccurin*15 %ofprimaryGBM,andPI3K
+Introduction is downstream of multiple aberrant receptor tyrosine kina-
+ses(e.g.EGFR,PDGFRA,MET),aswellasRAS,anditis
+Glioblastoma (GBM) is the most common primary malig- regulatedby PTEN. Signaling in this pathway is alteredin
+nant brain tumor and recurrence is nearly inevitable [1]; 87 % of primary GBM [3], making it a logical therapeutic
+average survival is approximately 1 year despite surgical target. Sirolimus targets the pathway by directly inhibiting
+resection, radiation, and temozolomide [2]. Radiation and mTOR, a key regulator of cell growth and metabolism. In
+temozolomide non-specifically target rapidly proliferating preclinicaltesting,mTORinhibitorshaveshownantitumor
+cells by causing DNA damage. An alternative therapeutic activity inmalignant glioma [14,15].
+strategy is to target the specific molecular alterations upon Vandetanib is approved by the United States Food and
+which GBM cells are dependent on survival. Multiple Drug Administration (FDA) for medullary thyroid cancer.
+signaling pathways are commonly aberrant in any given It is metabolized by CYP3A4, and to a minor extent,
+tumor,andtargetingindividualmembersisnotsufficientto FMO1 and FMO3. While co-administration of CYP3A
+kill GBM cells [3–5]. For example, despite the high inducers is to be avoided, no clinically significant inter-
+prevalence of epidermal growth factor receptor (EGFR) action was observed between vandetanib and the potent
+amplificationandmutationinGBM,EGFRinhibitionwith CYP3A4 inhibitor, itraconazole. The most common Com-
+gefitinib or erlotinib did not improve patient outcomes [6– mon Terminology Criteria for Adverse Events version 3.0
+8], although this may have been due to inadequate drug (CTCAE v3.0) adverse reactions observed in treatment
+levels reaching tumor cells [9]. This disappointment with with vandetanib include rash, nausea, headache, decreased
+single agent targeted therapy has in turn led to an under- appetite,abdominalpainandgrade3–4eventsofdiarrhea/
+standing that concomitant use of multiple targeted agents colitis, hypertension and hypertensive crisis, QT prolon-
+may be necessary to increase patient survival. gation,andfatigue[16].Commonlaboratoryabnormalities
+We performed a phase I clinical trial with a dose include decreased calcium, increased ALT/SGPT, and
+expansion cohort to test the combination of two targeted decreased glucose.
+therapies for recurrent GBM: vandetanib targets path- SirolimusisanFDA-approvedimmunosuppressantused
+ways that enable proliferation, invasion, and angiogene- for the treatment and prophylaxis of renal transplant
+sis, while sirolimus impacts cell growth and metabolism. rejections.ItismetabolizedintheliverviatheCYP3Aand
+Vandetanib is a receptor tyrosine kinase (RTK) inhibitor P-glycoprotein 1 systems. Patients treated with it have an
+that targets two frequently aberrant signaling pathways in increased susceptibility to infections and lymphoma.
+GBM [3]: vascular endothelial growth factor (VEGF) and Additionally, common adverse reactions in sirolimus-
+epidermal growth factor (EGF) signaling. Vascular treated patients include hypertension, thromboembolism,
+endothelial growth factor receptor 2 (VEGFR2, KDR) is hypercholesterolemia, hyperlipidemia, hepatotoxicity,
+highly expressed on both tumor endothelial and glioma anemia, thrombocytopenia, arthralgia, nausea, and head-
+cells and EGFR is commonly amplified and mutated in aches [17].
+GBM. In enzyme assays, vandetanib inhibits vascular The rationale for the present study combining vandeta-
+endothelial growth factor receptor2 tyrosine kinase nib and sirolimus was to assess the safety and maximum
+activity (IC = 40 nM), and shows additional inhibitory tolerated dose (MTD) of vandetanib and sirolimus in
+50
+activity at sub-micromolar concentrations against rear- patientswithrecurrentGBM.Additionally,inanexpansion
+ranged during transfection (RET) receptor tyrosine kinase phase of the trial, we sought to assess the proportion of
+(inhibitory concentration [IC ] = 100 nM), Flt-4 (VEGF recurrentGBMpatientstreatedattheMTDthatwerealive
+50
+receptor3: IC = 110 nM) and EGF receptor and progression-free at 6 months.
+50
+(IC = 500 nM) tyrosine kinases [10, 11]. In preclinical
+50
+testing, vandetanib prolonged survival of mice with
+orthotopic glioma xenografts when administered imme- Materials and methods
+diately after implantation. In subcutaneous xenografts,
+vandetanib caused partial tumor regression in most The study was approved by the institutional review board
+models examined [12]. A prior phase I trial with vand- at Dana-Farber/Harvard Cancer Center (Protocol 07-396).
+etanib as a single agent in patients with solid tumors All patients signed informed consent as per institutional
+123
+
+--- Page 3 ---
+JNeurooncol
+guidelines. The study was in accordance with the ethical to be declared the MTD. Patients were assessed for DLTs
+principlesoutlinedintheDeclarationofHelsinki.Between each week for the first two cycles, and every other week
+2/19/2009 and 11/30/2012, 22 patients were enrolled at with subsequent cycles or with each laboratory evaluation
+Massachusetts General Hospital and Dana-Farber Cancer in cases of hematologic toxicities.
+Institute. Parameters for declaring a DLT were defined as any of
+the following occurring during the combination therapy:
+Patient eligibility Grade 3 or 4 thrombocytopenia or neutropenia for more
+than a week; grade 3 or 4 non-hematologic toxicities for
+Patients were eligible for the present study if they were more than a week felt to be related to the study medi-
+adults (age 18 or greater) with recurrent GBM on no cations; grade 3 or 4 nausea, emesis, or diarrhea for more
+CYP3A4-inducing drugs, previously treated with standard than 1 week that is not controllable with medications;
+therapy including resection if feasible, radiation and tem- single QT value of C550 ms or a sustained increase of
+c
+ozolomide,nomorethanthreepriorchemotherapies,na¨ıve C100 ms from baseline. All toxicities were graded
+to prior anti-VEGF, anti-EGF therapy or mTOR inhibitors according to National Cancer Institute’s CTCAE v3.0. A
+andhadaKarnofskyperformancestatus(KPS)C60 %and patient’s first episode of venous thromboembolism (deep
+mini-mental status examination (MMSE) score [15. venous thrombosis [DVT] or pulmonary embolus [PE])
+Patients must have been at least 3 months from the com- was not considered a DLT, as patients with GBM have a
+pletion of radiation or radiosurgery and must have been significantly increased likelihood of developing a PE and/
+maintainedonastableordecreasingcorticosteroidregimen or DVT. Patients with thromboembolism were to be an-
+foratleast3 dayspriortothestartoftreatment.Laboratory ticoagulated with warfarin, low molecular weight heparins
+prerequisites included: normal ANC and platelets, renal, or have an IVC filter placed and were to remain on study.
+liver,andcardiacfunction.Thepatientcouldnotbetaking Subsequent episodes of DVT or PE were to be considered
+any concomitant medication that might cause QT pro- a DLT. Response was assessed by MacDonald criteria
+c
+longation, induce Torsades de Pointes or induce CYP3A4 [18].
+function. Uncontrolled hypertension and hyperlipidemia
+were also exclusions to enrollment. Statistical considerations
+Treatment and study design Theprimaryobjectiveofthestudywastoassesssafetyand
+determine the MTD of the combination in the dose esca-
+We executed a standard phase I dose escalation in cohorts lation(PhaseI)study.InthephaseIstudy,patientswereto
+of3plus3patients,followedbyanexploratoryanalysisin receiveatleast28 daysofvandetanibandsirolimus(unless
+a dose expansion cohort. In the expansion cohort, we a DLT was observed) and have all study procedures per-
+sought,apriori,tostudy15patientswhocompletedatleast formed; if any patient did not meet these criteria, then a
+1 cycle at the MTD (see statistical analysis below). Cycle replacementwouldbeenteredontothestudy.Asecondary
+length and the DLT period were 28 days. Vandetanib was objective was to assess efficacy in a single arm expansion
+supplied by AstraZeneca (Wilmington, DE). The starting cohortofpatientstreatedattheMTD.Asamplesizeof15
+dose was 100 mg. Three to six evaluable patients (receiv- participants who were treated at the MTD for at least
+ing at least 28 days of vandetanib) per cohort were treated 28 days was calculated with 91 % power to reject a null
+at different dose levels of vandetanib (100 mg daily, hypothesis of less than or equal to 15 % alive and pro-
+200 mg daily, and a plan to go to 300 mg daily) in com- gression free at 6 months (APF6) rate using a one-sided
+bination with sirolimus (10 mg loading and 2 mg daily, alpha = 0.10 test if the true APF6 rate was at least 47 %.
+and a plan to go to 15 mg loading and 5 mg daily). The Thestudyhadan80 %probabilityofobserving,inatleast
+study was designed such that cohort one was to have one participant, toxicities that occur with a true rate of at
+completed at least 4 weeks of treatment before the next least 10 %.
+cohort on the higher dose began therapy. The MTD was
+defined as the dose combination that caused DLT in no
+more than one of six patients having received at least Results
+28 daysoftreatment.Ifoneoutofthreepatientshadadose
+limiting toxicity, the cohort was to be increased to six Patient characteristics
+patients. If no others in that cohort had a DLT, then that
+dose was to be declared the MTD; if two or more patients Twenty-two patients with recurrent GBM received vande-
+out of six had a dose limiting toxicity, the dose of vande- tanib and sirolimus as described in Table 1. Median age
+tanib was tobede-escalated by 100 mgdaily andthatwas was 52.5 years (range 33–71 years) and median KPS was
+123
+
+--- Page 4 ---
+JNeurooncol
+Table1 Seriousorlifethreateningtoxicitiesbydoselevel
+Patient Dose limiting Serious or life Grade (G) and details Relationship to Number of
+toxicity? threatening study completed cycles
+toxicities? medications
+Patient 1 No No 3
+Patient 3 No Yes G3 low leukocytes possible 8
+Dose level 1:
+G3 low lymphocytes possible
+100mg vandetanib + 2mg sirolimus***
+Patient 4 No No 12
+Patient 5 No Yes G3 colitis possible 10
+G4 thrombosis/thrombus/ possible
+thromboembolism
+Patient 6 Yes Yes G3 elevated AST/SGOT possible <1 (Dose limiting
+toxicity) Dose level 2:
+Patient 8 No Yes G3 low phosphate probable 2 200mg vandetanib + 2mg sirolimus***
+Patient 9 No Yes G3 headache possible 6
+Patient 10 No No 2
+Patient 14 No Yes G3 low phosphate probable 2
+Patient 15 No No 8
+Patient 16 No No 2
+15 patients treated at
+Patient 17 No Yes G3 prolonged QTc interval possible 4
+maximum tolerated
+Patient 18 No Yes G3 low lymphocytes possible 4 dose for at least 1
+G3 photosensitivity rash possible complete cycle
+with pruritis
+G3 hand-foot skin reaction definite
+G4 thrombosis/thrombus/ possible
+thromboembolism Dose level 2:
+Patient 19 No No 4 200mg vandetanib + 2mg sirolimus***
+Patient 20 No No 2
+Patient 22 No No 2
+Patient 24 No No 1
+Patient 26 Yes Yes G4 low lymphocytes possible 1
+Patient 27 No No 2
+Did not receive treatment; Initially enrolled and then withdrew consent or were deemed ineligible, prior to receiving any treatment:
+Patient 2 Not Applicable Not Applicable
+Patient 7 Not Applicable Not Applicable
+Patient 11 Not Applicable Not Applicable
+Patient 12 Not Applicable Not Applicable
+Patient 21 Not Applicable Not Applicable
+Patients treated less than 1 cycle at maximum tolerated dose (unevaluable):
+Patient 13 No Yes G3 fatigue probable <1 (off trial for
+G3 low phosphate possible progressive Dose level 2:
+disease) 200mg vandetanib + 2mg sirolimus***
+G3 low lymphocytes probable
+G3 low platelets probable
+G3 low leukocytes probable
+Patient 23 No Yes G3 fatigue possible <1
+G3 high triglycerides probable
+Patient 25 No No <1
+Grade3and4toxicitiesthatpatientsencounteredatanytimethroughouttreatment
+a Maintenancedoseofsirolimusislisted,aftera10mgloadingdose
+123
+
+--- Page 5 ---
+JNeurooncol
+90 % (range 60–100 %). Eight patients (36 %) were Table2 Treatment-relatedtoxicities,grade2orabove
+female.Themediannumberofpriortherapieswas2(range
+Toxicity Grade2 Grade3 Grade4 Total
+1–5),includingre-resections.Tenpatientswere partofthe
+dose escalation cohort. Two of these were treated at the Hematologic
+MTDforlessthan1cycle;oneofthesetwowasthepatient Thrombocytopenia 0 1 0 1
+whoexperiencedaDLTinthedoseescalationphaseofthe Leukopenia 0 2 0 2
+trial. Once MTD was determined, additional patients Neutropenia 1 0 0 1
+enrolledsothatatotalof15patientscompletedatleastone Lymphopenia 1 3 1 5
+cycle at the MTD. This took a total of 12 additional en- Dermatologic
+rollees after the dose escalation phase. In all, a total of 19 Acne 4 0 0 4
+patientsinitiatedtreatmentatMTD,andofthese,atotalof Desquamation 3 0 0 3
+15 completed at least 1 cycle at MTD (Table 1). Pruritis 0 1 0 1
+Photosensitivity 0 1 0 1
+Adverse events and toxicities Hand-footrash 0 1 0 1
+Endocrine
+There were no toxicities for the first three patients, treated Hypertriglyceridemia 0 1 0 1
+at 100 mg vandetanib and 2 mg sirolimus (after 10 mg
+Hyperglycemia 1 0 0 1
+loading dose of sirolimus). One patient of the first three
+Hypophosphatemia 1 3 0 4
+treated at 200 mg vandetanib and 2 mg sirolimus had a
+Constitutional
+study-defined DLT of grade 3 elevated AST/SGOT. None
+Fatigue 4 2 0 6
+of the next three evaluable patients treated at 200 mg had
+Gastrointestinal
+toxicities within the first cycle, and by this trial’s design
+Anorexia 1 0 0 1
+(see Treatment and study design above), the MTD was
+Nausea 1 0 0 1
+definedas200 mgvandetanibwith2 mgsirolimus(aftera
+Diarrhea 1 0 0 1
+10 mgsirolimusloadingdose).Atotalofnineteenpatients
+Colitis 0 1 0 1
+initiatedtreatmentattheMTD,fifteenofwhomcompleted
+Liverfunction
+at least 1 cycle (Table 1). 10 out of 19 patients [95 % CI
+ElevatedAST/SGOT 0 1 0 1
+(30, 75 %)] treated at the MTD had potentially treatment-
+Vascular
+related grade 2, 3, and 4 adverse events that were
+Thrombosis/embolism 0 0 2 2
+encountered in any cycle as summarized in Table 2. The
+Other
+most commonly reported grade C2 adverse events proba-
+Proteinuria 1 0 0 1
+bly or definitely related to the study drugs in this dose
+ProlongedQT interval 0 1 0 1
+expansion cohort were fatigue (five patients), rash (four c
+Headache 0 1 0 1
+patients), and hypophosphatemia (three patients). There
+Insomnia 1 0 0 1
+were no deaths related to the study drugs. Considering
+possible associations with vandetanib and/or sirolimus, Grade 2 toxicities listed are those that were deemed probably or
+additional toxicities were: leukopenia (one patient, grade definitelyrelatedtostudymedicationsbytreatingphysicians
+3),lymphopenia(threepatients,grade3;onepatient,grade Grade 3and4 toxicities listed arethose that were deemedpossible,
+probable or definitely related to study medications by treating
+4), photosensitivity with pruritis (one patient, grade 3),
+physicians
+hypophosphatemia (one patient, grade 3), fatigue (one
+patient, grade 3), colitis (one patient, grade 3), elevated
+AST-SGOT (one patient, grade 3), prolonged QT (one 15.8 % [95 % CI (3.9, 34.9 %)]. Median overall survival
+c
+patient, grade 3), headache (one patient, grade 3), and was 7.2 months [95 % CI (3.2, 8.8 months)] and 6-month
+thromboembolism (two patients, grade 4). overall survival was 63 % [95 % CI (38, 80 %)].
+For patients studied at all dose levels, median overall
+Response and survival survival was7.7 months [95 %CI(4.7,9.3 months)]; four
+patients were still alive at the time of analysis (Fig. 1).
+All analyses included patients who received at least a Medianprogression-freesurvivalwas2.1 months[95 %CI
+single dose of vandetanib and sirolimus. In the dose (0.9, 3.1 months)] and 6-month progression-free survival
+expansion cohort, 2 out of 19 patients achieved a partial was18.2 %;oneofthesepatientshadreceivedtreatmentat
+response [10.5 %; 95 % CI (1, 33 %)], median progres- the lowest dose level (Fig. 2).
+sion-free survival was 1.9 months [95 % CI (0.1, If we were to consider those patients with at least one
+1.9 months)]; 6-month progression free survival was cycleoftreatment(asopposedtoasingledose)attheMTD
+123
+
+--- Page 6 ---
+which is also commonly encountered with vandetanib
+100 treatment [20, 21], was not a prominent toxicity in the
+patients enrolled in this trial. The two thromboembolic
+eventsinthisstudywasnotdisproportionateinthecontext
+of the hypercoagulable state associated with glioblastoma
+[22], although they were deemed possibly related to the
+50
+study drugs.
+The progression-free survival proportion at 6 months
+observed in the dose expansion cohort of the study was
+greater than the 6.5 % reported for vandetanib mono-
+therapy[23],2.4–7.8 %fortemsirolimusmonotherapy[14,
+0
+24], and 3.1 % reported for erlotinib, an EGFR inhibitor,
+0 10 20 30 40
+combined with sirolimus [25]. While this might suggest
+Months
+that the vandetanib and sirolimus combination has more
+activity than these agents, comparisons are difficult given
+the small numbers of patients studied. Responses in this
+studywerecomparabletothehistoricalcontrolsofpatients
+with recurrent GBM treated with cytotoxic chemotherapy
+[26],butagain,thecaveatisthatoursamplesizewaslow.
+This study had several limitations. We did not measure
+pharmacokinetic (pK) or pharmacodynamic (pD) parame-
+tersandwedidnotallowintra-patientdosevariationofthe
+study drugs. Detailed pK and pD data is available with
+vandetanib monotherapy [16, 27] and sirolimus [17, 28,
+29]. As monotherapy, vandetanib has been well tolerated
+andefficaciousatdosesupto300 mgdaily[30]howeverit
+has not been previously studied in combination with an
+mTOR inhibitor. Our study did not pre-select patients
+based on pathology that demonstrated activation of the
+VEGFR, EGFR, or PI3K/Akt/mTOR pathways. Tumor
+tissue specimens were not available for retrospective ana-
+lysis of association with clinical outcomes. By treating
+unselected patients, the outcomes data from the dose
+expansioncohortofthestudymayhaveunderestimatedthe
+response proportion.
+In conclusion, the combination of vandetanib and si-
+(15 patients), the median survival was 8.6 months [95 %
+rolimus appears safe and feasible. The most commonly
+CI (4.87, NA)] and the median progression free survival
+observed toxicities were lymphopenia, rash, hypophos-
+was 2.77 months [95 % CI (1.83, 3.27)].
+phatemia, and fatigue. While the APF6 of 15.8 % for
+patients treated at MTD, and 18.2 % for all enrolled
+patients, is modest, our findings suggest that the combi-
+Discussion
+nation of vandetanib and sirolimus is safe to use in further
+studies in patients with evidence of activation of these
+ThephaseIdoselimitingtoxicityofincreasedAST/SGOT
+pathways. In particular, this regimen could be considered
+has been observed inotherstudiesofvandetanib[19].The
+in combination with other agents targeting aberrant path-
+hematologic and dermatologic toxicities as well as fatigue
+ways in GBM.
+are reported to occur with vandetanib or the sirolimus
+prodrug,temsirolimus[14,19].Althoughhypertensionhas
+Acknowledgments We gratefully acknowledge Faye Safavi and
+been described in other studies of vandetanib [19–21], it Karly Griffin for aiding with data collection. This research was
+was not noted in this study; significant QT prolongation conducted with support from the Investigator-Sponsored Study Pro-
+c
+gram of AstraZeneca. Authors received grant support from the NIH
+was observed in a single patient. Rash, as seen in other
+(K08NS062907andK12CA090354CareerDevelopmentAwardsto
+trials of vandetanib monotherapy in patients with solid
+MGC; K24 CA125440 and K12 CA090354 to TTB), Brain Tumor
+tumors [20, 21], was similarly observed here. Diarrhea, CenterofMemorialSloan-KetteringCancerCenter,AmericanBrain
+)%(
+lavivruS
+Fig.1 Overallsurvival.Kaplan–Meiersurvivalcurveforallpatients
+havingreceivedatleastonedoseofvandetanibandsirolimusatthe
+maximumtolerateddose
+100
+50
+0
+0 5 10 15
+Months
+)%(
+lavivrus
+eerf-noissergorP
+JNeurooncol
+Fig.2 Progression-freesurvival.Kaplan–Meierprogression-freesur-
+vival curve for all patients having received at least one dose of
+vandetanibandsirolimusatthemaximumtolerateddose
+123
+
+--- Page 7 ---
+JNeurooncol
+TumorAssociationFellowship,andAmericanAssociationforCancer Chen J, Nassau D, Feng L, Hickey E, Zhang J, Weinstein JN,
+Research/NationalBrainTumorFoundationFellowshiptoMGC;and Barker A, Gerhard DS, Vockley J, Compton C, Vaught J,
+Richard Floor Bequest (FHH). These data were presented in part at FieldingP,FergusonML,SchaeferC,MadhavanS,BuetowKH,
+theannualmeetingoftheAmericanAcademyofNeurology(2012). CollinsF,GoodP,GuyerM,OzenbergerB,PetersonJ,Thomson
+E (2008) Comprehensive genomic characterization defines
+Conflictofinterest Thisresearchwasconductedwithsupportfrom human glioblastoma genes and core pathways. Nature
+the Investigator-Sponsored Study Program of AstraZeneca. PYW 455(7216):1061–1068
+receives research support from AstraZeneca. RB owns shares in 4. StommelJM, KimmelmanAC,YingH,Nabioullin R,Ponugoti
+AstraZeneca. TTB receives research support from AstraZeneca. All AH,WiedemeyerR,SteghAH,BradnerJE,LigonKL,Brennan
+otherauthorshavenoconflictofinterest. C,ChinL,DePinhoRA(2007)Coactivationofreceptortyrosine
+kinasesaffectstheresponseoftumorcellstotargetedtherapies.
+Ethical standards Allstudiescomplywith thelawsoftheUnited Science318:287–290
+States. The study was approved by the institutional review board at 5. Snuderl M, Fazlollahi L, Le LP, Nitta M, Zhelyazkova BH,
+Dana-Farber/HarvardCancerCenter(Protocol07-396). Davidson CJ, Akhavanfard S, Cahill DP, Aldape KD, Betensky
+RA, Louis DN, Iafrate AJ (2011) Mosaic amplification of mul-
+tiplereceptortyrosinekinasegenesinglioblastoma.CancerCell
+20:810–817.doi:10.1016/j.ccr.2011.11.005
+References
+6. Rich JN, Reardon DA, Peery T, Dowell JM, Quinn JA, Penne
+KL, Wikstrand CJ, Van Duyn LB, Dancey JE, McLendon RE,
+1. DolecekTA,ProppJM,StroupNE,KruchkoC(2012)CBTRUS Kao JC, Stenzel TT, Ahmed Rasheed BK, Tourt-Uhlig SE,
+statistical report: primary brain and central nervous system Herndon JE 2nd, Vredenburgh JJ, Sampson JH, Friedman AH,
+tumors diagnosed in the United States in 2005–2009. Neuro- Bigner DD, Friedman HS (2004) Phase II trial of gefitinib in
+Oncol14(Suppl5):vi–49.doi:10.1093/neuonc/nos218 recurrent glioblastoma. J Clin Oncol 22:133–142. doi:10.1200/
+2. Stupp R, Mason WP, van den Bent MJ, Weller M, Fisher B, JCO.2004.08.110
+TaphoornMJ,BelangerK,BrandesAA,MarosiC,BogdahnU, 7. PradosMD,ChangSM,ButowskiN,DeBoerR,ParvataneniR,
+Curschmann J, Janzer RC, Ludwin SK, Gorlia T, Allgeier A, CarlinerH, KabuubiP,Ayers-Ringler J,RabbittJ,Page M,Fe-
+LacombeD,CairncrossJG,EisenhauerE,MirimanoffRO(2005) doroff A, Sneed PK, Berger MS, McDermott MW, Parsa AT,
+Radiotherapy plus concomitant and adjuvant temozolomide for VandenbergS,JamesCD,LambornKR,StokoeD,Haas-Kogan
+glioblastoma.NEnglJMed352:987–996 DA(2009)PhaseIIstudyoferlotinibplustemozolomideduring
+3. McLendon R, Friedman A, Bigner D, Van Meir EG, Brat DJ, and after radiation therapy in patients with newly diagnosed
+MastrogianakisM,OlsonJJ,MikkelsenT,LehmanN,AldapeK, glioblastoma multiforme or gliosarcoma. J Clin Oncol
+Yung WKA, Bogler O, Vandenberg S, Berger M, Prados M, 27:579–584.doi:10.1200/JCO.2008.18.9639
+MuznyD,MorganM,SchererS,SaboA,NazarethL,LewisL, 8. Prados MD, Lamborn KR, Chang S, Burton E, Butowski N,
+Hall O, Zhu Y, Ren Y, Alvi O, Yao J, Hawes A, Jhangiani S, Malec M, Kapadia A, Rabbitt J, Page MS, Fedoroff A, Xie D,
+FowlerG,SanLucasA,KovarC,CreeA,DinhH,SantibanezJ, Kelley SK (2006) Phase 1 study of erlotinib HCl alone and
+Joshi V, Gonzalez-Garay ML, Miller CA, Milosavljevic A, combinedwithtemozolomideinpatientswithstableorrecurrent
+DonehowerL,WheelerDA,GibbsRA,CibulskisK,SougnezC, malignant glioma. Neuro-Oncology 8:67–78. doi:10.1215/
+FennellT,MahanS,WilkinsonJ,ZiaugraL,OnofrioR,Bloom S1522851705000451
+T,NicolR,ArdlieK,BaldwinJ,GabrielS,LanderES,DingL, 9. Vivanco I, Robins HI, Rohle D, Campos C, Grommes C,
+FultonRS,McLellanMD,WallisJ,LarsonDE,ShiX,AbbottR, Nghiemphu PL, Kubek S, Oldrini B, Chheda MG, Yannuzzi N,
+Fulton L,Chen K,Koboldt DC, WendlMC, MeyerR, TangY, TaoH,ZhuS,IwanamiA,KugaD,DangJ,PedrazaA,Brennan
+LinL,OsborneJR,Dunford-ShoreBH,MinerTL,DelehauntyK, CW,HeguyA,LiauLM,LiebermanF,YungWK,GilbertMR,
+MarkovicC,SwiftG,CourtneyW,PohlC,AbbottS,HawkinsA, Reardon DA, Drappatz J, Wen PY, Lamborn KR, Chang SM,
+LeongS,HaipekC,SchmidtH,WiechertM,VickeryT,ScottS, PradosMD,FineHA,HorvathS,WuN,LassmanAB,DeAngelis
+Dooling DJ, Chinwalla A, Weinstock GM, Mardis ER, Wilson LM,YongWH,KuhnJG,MischelPS,MehtaMP,CloughesyTF,
+RK,GetzG,WincklerW,VerhaakRG,LawrenceMS,O’Kelly Mellinghoff IK (2012) Differential sensitivity of glioma- versus
+M, Robinson J, Alexe G, Beroukhim R, Carter S, Chiang D, lungcancer-specificEGFRmutationstoEGFRkinaseinhibitors.
+GouldJ,GuptaS,KornJ,MermelC,MesirovJ,MontiS,Nguyen CancerDiscov2:458–471.doi:10.1158/2159-8290.CD-11-0284
+H,ParkinM,ReichM,StranskyN,WeirBA,GarrawayL,Golub 10. WedgeSR,OgilvieDJ,DukesM,KendrewJ,ChesterR,Jackson
+T, Meyerson M, Chin L, Protopopov A, Zhang J, Perna I, JA,BoffeySJ,ValentinePJ,CurwenJO,MusgroveHL,Graham
+Aronson S, Sathiamoorthy N, Ren G, Yao J, Wiedemeyer WR, GA, Hughes GD, Thomas AP, Stokes ES, Curry B, Richmond
+Kim H, Kong SW, Xiao Y, Kohane IS, Seidman J, Park PJ, GH, Wadsworth PF, Bigley AL, Hennequin LF (2002) ZD6474
+Kucherlapati R, Laird PW, Cope L, Herman JG, Weisenberger inhibitsvascularendothelialgrowthfactorsignaling,angiogene-
+DJ,PanF,VanDenBergD,VanNesteL,YiJM,SchuebelKE, sis,andtumorgrowthfollowingoraladministration.CancerRes
+BaylinSB,AbsherDM,LiJZ,SouthwickA,BradyS,Aggarwal 62:4645–4655
+A, Chung T, Sherlock G, Brooks JD,Myers RM, Spellman PT, 11. Carlomagno F, Vitagliano D, Guida T, Ciardiello F, Tortora G,
+PurdomE,JakkulaLR,LapukAV,MarrH,DortonS,ChoiYG, Vecchio G, Ryan AJ, Fontanini G, Fusco A, Santoro M (2002)
+Han J, Ray A, Wang V, Durinck S, Robinson M, Wang NJ, ZD6474, an orally available inhibitor of KDR tyrosine kinase
+VranizanK,PengV,VanNameE,FontenayGV,NgaiJ,Conboy activity, efficiently blocks oncogenic RET kinases. Cancer Res
+JG,ParvinB,FeilerHS,SpeedTP,GrayJW,BrennanC,Socci 62:7284–7290
+ND,OlshenA,TaylorBS,LashA,SchultzN,RevaB,AntipinY, 12. Rich JN, Sathornsumetee S, Keir ST, Kieran MW, Laforme A,
+StukalovA,GrossB,CeramiE,WangWQ,QinLX,SeshanVE, KaipainenA,McLendonRE,GranerMW,RasheedBK,WangL,
+VillafaniaL,CavatoreM,BorsuL,VialeA,GeraldW,SanderC, Reardon DA, Ryan AJ, Wheeler C, Dimery I, Bigner DD,
+LadanyiM,PerouCM,HayesDN,TopalMD,HoadleyKA,Qi FriedmanHS(2005)ZD6474,anoveltyrosinekinaseinhibitorof
+Y, Balu S, Shi Y, Wu J, Penny R, Bittner M, Shelton T, Len- vascularendothelialgrowthfactorreceptorandepidermalgrowth
+kiewicz E, Morris S, Beasley D, Sanders S, Kahn A, Sfeir R, factorreceptor,inhibitstumorgrowthofmultiplenervoussystem
+123
+
+--- Page 8 ---
+JNeurooncol
+tumors.ClinCancerRes11:8145–8157.doi:10.1158/1078-0432. 22. SemradTJ,O’DonnellR,WunT,ChewH,HarveyD,ZhouH,
+ccr-05-0319 WhiteRH(2007)Epidemiologyofvenousthromboembolismin
+13. TamuraT,MinamiH,YamadaY,YamamotoN,ShimoyamaT, 9489patientswithmalignantglioma.JNeurosurg106:601–608.
+Murakami H, Horiike A, Fujisaka Y, Shinkai T, Tahara M, doi:10.3171/jns.2007.106.4.601
+KawadaK,EbiH,SasakiY,JiangH,SaijoN(2006)AphaseI 23. Kreisl TN, McNeill KA, Sul J, Iwamoto FM, Shih J, Fine HA
+dose-escalationstudyofZD6474inJapanesepatientswithsolid, (2012)AphaseI/IItrialofvandetanibforpatientswithrecurrent
+malignanttumors.JThoracOncol1:1002–1009 malignant glioma. Neuro-Oncology 14:1519–1526. doi:10.1093/
+14. Galanis E, Buckner JC, Maurer MJ, Kreisberg JI, Ballman K, neuonc/nos265
+BoniJ,PeralbaJM,JenkinsRB,DakhilSR,MortonRF,Jaeckle 24. ChangSM,WenP,CloughesyT,GreenbergH,SchiffD,Conrad
+KA, Scheithauer BW, Dancey J, Hidalgo M, Walsh DJ (2005) C,FinkK,RobinsHI,DeAngelisL,RaizerJ,HessK,AldapeK,
+PhaseIItrialoftemsirolimus(CCI-779)inrecurrentglioblastoma Lamborn KR, Kuhn J, Dancey J, Prados MD (2005) Phase II
+multiforme:aNorthCentralcancertreatmentgroupstudy.JClin study of CCI-779 in patients with recurrent glioblastoma multi-
+Oncol23:5294–5304 forme. Investig New Drugs 23:357–361. doi:10.1007/s10637-
+15. Arcella A, Biagioni F, Antonietta Oliva M, Bucci D, Frati A, 005-1444-0
+Esposito V, Cantore G, Giangaspero F, Fornai F (2013) Rapa- 25. Reardon DA, Desjardins A, Vredenburgh JJ, Gururangan S,
+mycin inhibits the growth of glioblastoma. Brain Res Friedman AH, Herndon JE 2nd, Marcello J, Norfleet JA,
+1495:37–51.doi:10.1016/j.brainres.2012.11.044 McLendonRE,SampsonJH,FriedmanHS(2010)Phase2trialof
+16. FDA(2011)Caprelsa(vandetanib)fullprescribinginformation erlotinib plus sirolimus in adults with recurrent glioblastoma.
+17. FDA(2008)Rapamune(Sirolimus)fullprescribinginformation JNeurooncol96:219–230.doi:10.1007/s11060-009-9950-0
+18. MacdonaldDR,CascinoTL,ScholdSCJr,CairncrossJG(1990) 26. Wong ET, Hess KR, Gleason MJ, Jaeckle KA, Kyritsis AP,
+ResponsecriteriaforphaseIIstudiesofsupratentorialmalignant Prados MD, Levin VA, Yung WK (1999) Outcomes and prog-
+glioma.JClinOncol8:1277–1280 nosticfactorsinrecurrentgliomapatientsenrolledontophaseII
+19. HoldenSN,EckhardtSG,BasserR,deBoerR,RischinD,Green clinicaltrials.JClinOncol17:2572–2578
+M, Rosenthal MA, Wheeler C, Barge A, Hurwitz HI (2005) 27. Martin P, Oliver S, Kennedy SJ, Partridge E, Hutchison M,
+Clinical evaluation of ZD6474, an orally active inhibitor of ClarkeD,GilesP(2012)Pharmacokineticsofvandetanib:three
+VEGF and EGF receptor signaling, in patients with solid, phaseIstudiesinhealthysubjects.ClinTher34:221–237.doi:10.
+malignant tumors. Ann Oncol 16:1391–1397. doi:10.1093/ 1016/j.clinthera.2011.11.011
+annonc/mdi247 28. Mahalati K, Kahan BD (2001) Clinical pharmacokinetics of si-
+20. Natale RB, Bodkin D, Govindan R, Sleckman BG, Rizvi NA, rolimus.ClinPharmacokinet40:573–585
+Capo A, Germonpre P, Eberhardt WE, Stockman PK, Kennedy 29. Gallant-Haidner HL, Trepanier DJ, Freitag DG, Yatscoff RW
+SJ,RansonM(2009)Vandetanibversusgefitinibinpatientswith (2000)Pharmacokineticsandmetabolismofsirolimus.TherDrug
+advanced non-small-cell lung cancer: results from a two-part, Monit22:31–35
+double-blind, randomized phase II study. J Clin Oncol 30. HeymachJV,Paz-AresL,DeBraudF,SebastianM,StewartDJ,
+27:2523–2529.doi:10.1200/JCO.2008.18.6015 Eberhardt WE, Ranade AA, Cohen G, Trigo JM, Sandler AB,
+21. Natale RB, Thongprasert S, Greco FA, Thomas M, Tsai CM, BonomiPD,HerbstRS,KrebsAD,VasselliJ,JohnsonBE(2008)
+SunpaweravongP,FerryD,MulateroC,WhorfR,ThompsonJ, RandomizedphaseIIstudyofvandetanibaloneorwithpaclitaxel
+Barlesi F, Langmuir P, Gogov S, Rowbottom JA, Goss GD and carboplatin as first-line treatment for advanced non-small-
+(2011) Phase III trial of vandetanib compared with erlotinib in cell lung cancer. J Clin Oncol 26:5407–5415. doi:10.1200/JCO.
+patients with previously treated advanced non-small-cell lung 2008.17.3138
+cancer. J Clin Oncol 29:1059–1066. doi:10.1200/JCO.2010.28.
+5981
+123

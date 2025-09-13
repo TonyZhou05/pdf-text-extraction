@@ -1,0 +1,918 @@
+Source: 20165849.pdf
+Extracted on: Sat Sep 13 00:00:15 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+Published in final edited form as:
+Cancer Chemother Pharmacol. 2010 November ; 66(6): 1079–1085. doi:10.1007/s00280-010-1265-5.
+A phase I study of obatoclax mesylate, a Bcl-2 antagonist, plus
+topotecan in solid tumor malignancies
+Paul K. Paik,
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA
+Charles M. Rudin,
+The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Baltimore, MD, USA
+Andrew Brown,
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA
+Naiyer A. Rizvi,
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA
+Naoko Takebe,
+Cancer Therapy Evaluation Program, Division of Cancer Treatment and Diagnosis, National Cancer
+Institute, Rockville, MD, USA
+William Travis,
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA
+Leonard James,
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA
+Michelle S. Ginsberg,
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA
+Rosalyn Juergens,
+The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Baltimore, MD, USA
+Susan Markus,
+The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Baltimore, MD, USA
+Leslie Tyson,
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA
+Sara Subzwari,
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA
+Mark G. Kris, and
+© Springer-Verlag 2010
+Correspondence to: Lee M. Krug.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Paik et al. Page 2
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA
+Lee M. Krug
+Thoracic Oncology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center,
+New York, NY 10065, USA, krugl@mskcc.org
+Abstract
+Purpose—To establish the safety, maximum tolerated dose (MTD), recommended phase II dose,
+and preliminary anti-tumor activity of obatoclax mesylate (GX15-070MS), a Bcl-2 antagonist, in
+combination with topotecan in patients with solid tumor malignancies.
+Patients and methods—Patients with solid tumor malignancies for whom topotecan was an
+appropriate treatment were administered obatoclax mesylate and topotecan on a 3-week cycle in a
+pre-defined, standard 3 + 3 dose escalation scheme. The starting dose for obatoclax mesylate was 14
+mg/m2 by 3-h intravenous (IV) infusion. Topotecan 1.25 mg/m2 was given concurrently as an IV
+infusion on days 1–5 of each cycle.
+Results—Fourteen patients received 40 cycles of obatoclax mesylate at the following doses: 14
+mg/m2 on day 1, 14 mg/m2 on days 1 and 3, and 20 mg/m2 on day 1. The most common toxicities
+related to obatoclax were neurologic, including ataxia, mood alterations, somnolence, and cognitive
+dysfunction. The majority of these were grades 1 and 2 (88%). Two of five patients experienced
+dose-limiting grade 3 neurologic toxicity at a dose of 20 mg/m2; no patients experienced grade 4
+neurologic toxicities, and no other patients experienced grade 3 neurologic toxicity. Of the patients
+who experienced grade 3 neurologic events, one later developed febrile neutropenia, which was also
+a dose-limiting toxicity (DLT). After an additional three patients were treated without DLT at the
+previously tolerated dose of 14 mg/m2 on day 1, the level was escalated to 14 mg/m2 on days 1 and
+3. Three patients were treated at this dose and, with none experiencing a DLT, 14 mg/m2 on days 1
+and 3 was defined as the recommended phase II dose. Two patients with small-cell lung cancer
+(SCLC) achieved partial responses and four patients had stable disease. Median time to progression
+(TTP) was 12 weeks.
+Conclusion—Obatoclax mesylate administered at 14 mg/m2 IV on days 1 and 3 is safe and well
+tolerated when given in combination with topotecan 1.25 mg/m2 IV on days 1–5 of an every 3-week
+cycle. A phase II trial to assess the efficacy of this combination for patients with relapsed SCLC is
+currently accruing patients.
+Keywords
+Small-cell lung cancer; Obatoclax mesylate; Topotecan; Apoptosis
+Introduction
+Though malignant transformation of the normal cell can occur through a wide range of biologic
+mechanisms, evasion of programmed cell death is a common, obligate denominator in each.
+Apoptosis can be triggered both by extrinsic death-receptor signaling and by intrinsic
+pathways, such as those elicited by genomic damage [1]. Many cancer types have been found
+to upregulate factors inhibiting apoptosis, most notably anti-apoptotic members of the Bcl-2
+family, such as Bcl-2, Bcl-XL, and Mcl-1. These anti-apoptotic factors bind and inhibit the
+key pro-apoptotic Bcl-2 family members Bax and Bak, which if released, initiate an irreversible
+cascade of programmed cell death signaling through mitochondrial membrane disruption and
+cytoplasmic release of factors including cytochrome c. The anti-apoptotic Bcl-2 family
+members also interact with a third class of Bcl-2 family members, the BH3-only proteins such
+as Bad, Bim, and Bid [2]. BH3-only proteins are activated by both extrinsic and intrinsic
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Paik et al. Page 3
+apoptotic triggers and bind to the anti-apoptotic Bcl-2 family members, releasing Bax and Bak
+and thereby promoting apoptosis [2]. Structurally, Bcl-2 contains three distinct Bcl-2 homology
+(BH) regions: BH1, BH2, and BH3. These regions fold to form a globular domain that contains
+a hydrophobic groove into which the BH3 domain of the pro-apoptotic family members can
+bind [3].
+The convergence of many different cytotoxic stimuli onto Bcl-2 and the specific upregulation
+of Bcl-2 in a variety of cancers have made inhibiting its function an attractive therapeutic target.
+Both peptide and non-peptide BH3 mimetics have been shown to be effective in vitro in
+inhibiting dimerization of Bcl-2 and Bcl-XL with their pro-apoptotic counterparts, shifting the
+balance toward apoptosis [3]. Obatoclax mesylate (GX15-070MS) is a small molecule, which
+may function in part as a BH3-mimetic to promote apoptosis by inhibiting this interaction.
+Obatoclax mesylate induces cell death in nanomolar concentrations in a wide range of cancer
+cell types in vitro, including non-small-cell lung, prostate, colon, cervical, breast, and ovarian
+[4]. Additive cytotoxicity when combining obatoclax mesylate with standard chemotherapy
+was demonstrated in in vitro studies of mantle cell lymphoma [5]. Synergy between obatoclax
+mesylate and cisplatin was also reported in non-small-cell cancer cell lines, associated with an
+inhibition of Mcl-1: Bak interaction [6]. Single-agent anti-tumor activity has also been seen in
+mouse xenograft models of cervical, prostate, breast, and colon cancer [4].
+Small-cell lung cancer (SCLC) is an aggressive subtype of lung cancer, which, relative to non-
+small-cell lung cancer, has a shorter doubling time, higher growth fraction, and tendency for
+the earlier development of widespread metastases. A major clinical challenge in SCLC is the
+short time to relapse following initial chemotherapy. While first-line treatment with cisplatin
+and etoposide has an overall response rate of 60–80%, fully half of these patients relapse by
+24 weeks [7]. Existing second-line treatments are considerably less effective, with a median
+survival of 4–6 months following recurrence.
+Pre-clinical data suggest that a primary mechanism of chemotherapeutic resistance may be
+driven by Bcl-2 expression; indeed, 69–90% of all SCLC tumors are found to over-express
+Bcl-2 [8–11]. In SCLC cell lines, Bcl-2 antisense oligodeoxynucleotides decreased Bcl-2 levels
+and promoted apoptosis, both alone and synergistically in combination with chemotherapy
+[12,13]. Bcl-2 may also rescue SCLC cells driven by other oncogenes, such as c-myc, from
+the cell death that would otherwise ensue [14].
+Topotecan is the only drug currently approved by the United States Food and Drug
+Administration for treatment of recurrent SCLC after first-line platinum-based therapy.
+Topotecan is a semi-synthetic derivative of camptothecin, possessing topoisomerase I
+inhibitory activity. Like other DNA-damaging agents, topoisomerase inhibitors trigger a DNA
+damage-mediated apoptotic signaling pathway that can be inhibited by Bcl-2. In light of data
+supporting the added benefit of Bcl-2-targeted therapy to standard chemotherapy, and given
+their non-overlapping toxicities and potentially synergistic mechanisms of action, we
+combined obatoclax mesylate with topotecan in a phase I study of patients with relapsed SCLC
+and other solid tumor malignancies for which topotecan was an appropriate treatment.
+Patients and methods
+Patient selection
+Men and women ≥18 years of age with a Karnofsky performance status of ≥70% and with
+histologically or cytologically confirmed solid tumors for which topotecan was an appropriate
+treatment were eligible. Patients with progressive brain metastases, leptomeningeal
+involvement, and neurologic dysfunction other than peripheral neuropathy were excluded
+given the need to accurately assess neurologic adverse events associated with obatoclax
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Paik et al. Page 4
+mesylate. Any number of prior chemotherapy or radiation treatments was allowed, with the
+last treatment given ≥4 weeks prior. Normal organ and bone marrow function was required,
+defined as a leukocyte count ≥3,000/µL, absolute neutrophil count ≥1,500/µL, platelets
+≥100,000/µL, total bilirubin within institutional normal limits, AST and ALT ≤2.5 times
+institutional upper limit of normal, and a creatinine clearance ≥60 mL/min/1.73 m2. While
+obatoclax mesylate has a low potential to inhibit drugs metabolized by CYP1A2, CYP2C19,
+and CYP3A4/5, efforts were made to change enzyme-inducing medications to non-inducing
+drugs. A list of commonly prescribed CYP1A2, CYP2C19, and CYP3A4/5 substrates,
+inhibitors, and inducers was provided as an appendix to the study protocol for cross-referencing
+patient medication lists during the eligibility review process. A suitable non-interacting
+replacement drug was substituted when available. Pregnant patients were excluded, as were
+patients with uncontrolled comorbid conditions. All patients signed an informed consent
+document prior to participation in the study.
+Study design and treatment
+Participating centers included Memorial Sloan-Kettering Cancer Center and the Sidney
+Kimmel Comprehensive Cancer Center at Johns Hopkins. This was a phase I, open-label, dose
+escalation study. A standard 3 + 3 dose escalation design was used. Four cycles of therapy
+were planned, though patients could continue on treatment if deemed appropriate by the treating
+physician. Patients were treated until time of disease progression, limitation from an inter-
+current illness, unacceptable adverse event, consent withdrawal, or treatment delay of ≥22 days
+due to toxicity. Obatoclax mesylate was generously provided by GeminX, Biotechnologies,
+Inc. and the National Cancer Institute.
+Based on prior phase I dose escalation studies of obatoclax mesylate, four dose levels were
+initially planned, including 14 mg/m2 on day 1, 20 mg/m2 on day 1, 14 mg/m2 on days 1 and
+3, and 20 mg/m2 on days 1 and 3 of an every 3-week cycle [4]. Following the start of the study,
+interim data were released from a phase I study of obatoclax in patients with advanced
+hematologic malignancies in which no formal MTD was reached despite escalation to 28 mg/
+m2 on days 1–4 of an every 2-week cycle [15]. In addition, multi-day dosing appeared to have
+no greater grade 3/4 toxicity than single-day dosing. In light of this information, an amendment
+to the protocol by the NCI allowed for a reclassification of the 14 mg/m2 days 1 and 3 dose
+level as interim to the 14 and 20 mg/m2 single-day doses (Table 1).
+Obatoclax mesylate was given as a 3-h infusion based on data suggesting a reduced frequency
+of dose-limiting toxicities (DLT) compared to a 1-h infusion. The clinical pharmacokinetics
+at these doses correlate with AUC values that produced antitumor activity in pre-clinical mouse
+models. Topotecan was given at a dose of 1.25 mg/m2 on days 1–5 of each 3-week cycle. This
+dose was selected to mitigate the hematologic toxicities associated with topotecan at the
+initially studied dose of 1.5 mg/m2 while preserving its efficacy, as reported elsewhere [16,
+17]. Growth factor support (pegfilgrastim, Neulasta) was additionally provided on day 6, 7, or
+8 to offset neutropenia.
+Patients were pre-medicated with dexamethasone 10 mg IV, diphenydramine 50 mg IV, and
+ranitidine 50 mg IV before each dose of obatoclax mesylate to prevent a hypersensitivity
+reaction characterized by the rapid onset of severe pain that has been previously described.
+Standard anti-emetics (palonosetron or dolasetron) were provided before each dose of
+topotecan. Patients were monitored with serial neurologic examinations during the obatoclax
+infusion and for at least 1 h after the end of infusion.
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Paik et al. Page 5
+Assessments
+Pretrial screening was performed within 7 days of initial treatment. During treatment, patients
+were evaluated on days 1, 8, and 15 of each 3-week cycle with physical examination (including
+vital signs and neurologic evaluation) and blood work (complete blood count, metabolic panel,
+and liver function tests). Adverse events (AE) were graded utilizing the NIH CTCAE scale,
+version 3.0. Hematologic DLTs were defined as ≥grade 3 treatment-related thrombocytopenia
+for ≥14 days, neutropenia for ≥7 days despite treatment with pegfilgrastim, and ≥grade 3
+neutropenia with fever (≥38.5°C) or clinically documented infection. Non-hematologic DLTs
+were defined as ≥grade 3 neurotoxicity, persistent grade 2 neurotoxicity not resolving to grade
+1 by the next cycle, and any ≥grade 3 treatment-related non-hematologic toxicity considered
+by the investigator to be related or possibly related to the study drug. The maximum tolerated
+dose (MTD) was defined as the dose at which ≥2 of six patients experienced a DLT. The
+recommended phase II dose was defined as the highest dose level below the MTD.
+Radiographic assessment for tumor response was performed every 6 weeks with CT imaging
+using RECIST v1.0. Patients with stable disease or response were allowed to continue.
+Confirmation of stable disease or response was required with a repeat CT scan performed ≥4
+weeks from the preceding scan. Best overall response was defined as the best response from
+the start of treatment until disease progression/recurrence (taking as reference for progressive
+disease the smallest measurements recorded since treatment initiation). Best response
+assignment required achievement of both measurement and confirmation criteria.
+Results
+Patient characteristics
+A total of 14 patients were enrolled between October 2007 and October 2008. Patient
+characteristics are shown in Table 2. The most common tumor type was SCLC (n = 8), followed
+by extrapulmonary small cell (n = 3), pulmonary carcinoid (n = 1), Merkel cell (n = 1), and
+melanoma (n = 1). Patients were divided equally between men and women. The median number
+of prior chemotherapy regimens was two. Patients were enrolled at three dose levels, with 40
+cycles of therapy completed in total. Seven of 14 patients completed all four planned cycles
+of treatment. Seven patients eventually withdrew from the study, six because of progression
+of disease, and one because of dose-limiting toxicity.
+Dose-limiting toxicities and MTD
+Dose escalation of obatoclax mesylate proceeded through a standard 3 + 3 dose escalation
+scheme. The dose of topotecan remained constant at 1.25 mg/m2 on days 1–5. Three patients
+were accrued to the initial dose of 14 mg/m2 day 1, none of whom experienced a DLT. The
+dose was then escalated to 20 mg/m2. Of the initial cohort of three patients, one experienced
+a DLT in the form of grade 3 somnolence and speech impairment (Table 3). As per protocol,
+the cohort was expanded to up to six patients. After two additional patients were enrolled, one
+experienced grade 3 mood alteration, ataxia, and febrile neutropenia (Table 3). With 2 out of
+5 patients experiencing a DLT, the dose of 20 mg/m2 was declared the MTD. The dose was
+subsequently reduced to the previously tolerated level of 14 mg/m2 day 1 and an additional
+three patients accrued, none of whom experienced a DLT.
+Three patients were then recruited to a final dose level of 14 mg/m2 on days 1 and 3. Again,
+none experienced a DLT. One patient required a dose-reduction to 10 mg/m2 during cycles 2–
+4 due to creatinine clearance changes unrelated to either obatoclax mesylate or topotecan. The
+recommended phase II dose for obatoclax mesylate in combination with topotecan 1.25 mg/
+m2 days 1–5 was thus determined to be 14 mg/m2 on days 1 and 3 of an every 3-week cycle.
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Paik et al. Page 6
+Adverse events
+Neurologic toxicities were the most common category of adverse event (AE) seen in this study,
+comprising 50% of all AEs recorded. Most patients experienced some form of transient
+neurologic AE that began 15–30 min after the start of obatoclax mesylate infusion and resolved
+within 1–2 h after treatment end. Toxicities included ataxia, mood alterations (depression,
+euphoria), somnolence, speech impairment, and cognitive disturbances. The majority of these
+adverse events were grades 1 or 2 (88%). Two patients at the 20 mg/m2 dose level experienced
+grade 3 neurologic toxicities, one with somnolence and speech impairment, and the other with
+ataxia and mood disturbance. There were no grade 3/4 neurologic toxicities at either the 14
+mg/m2 day 1 or 14 mg/m2 days 1 and 3 dose levels.
+Hematologic toxicity was seen at each dose level as expected with topotecan (Table 4). Four
+grade 3/4 hematologic AEs were seen at the 14 mg/m2 day 1 dose, 3 at the 14 mg/m2 days 1
+and 3 dose, and 7 at the 20 mg/m2 dose. Of the 7 grade 3/4 hematologic AEs at the 20 mg/
+m2 dose, three were grade 3 anemia (60%), two were grade 3/4 thrombocytopenia (40%), and
+one was febrile neutropenia, which was a DLT. No other hematologic DLTs in any cohort were
+documented. Grade 4 thrombocytopenia was seen in one patient at each of the other dose levels.
+The most frequent non-hematologic toxicities were fatigue and nausea, though almost all of
+these were grade 1/2 (95%). A single episode of grade 3 nausea occurred in one patient at the
+14 mg/m2 day 1 dose level. No other grade 3/4 non-hematologic AEs were reported at any
+dose level.
+A hypersensitivity reaction responsive to steroid and H2-blocker administration was seen in
+one patient treated at 20 mg/m2.
+Antitumor activity
+Of the 14 patients enrolled, 13 were evaluable for response. One patient withdrew from the
+study prior to the first response assessment due to febrile neutropenia. Of these 13 patients, 2
+developed a partial response (PR) and 4 developed stable disease (SD). Both partial responders
+and 3 of the 4 patients with stable disease had diagnoses of SCLC. One patient with pulmonary
+carcinoid maintained stable disease for all four cycles of treatment. No complete responses
+were observed. The median time to progression (TTP) was 12 weeks.
+Discussion
+Because over-expression of Bcl-2 is known to interfere with the cytotoxic effects of
+chemotherapy, it has been of great interest to assess the potential therapeutic synergy between
+Bcl-2 antagonists and standard chemotherapies. To that end, we demonstrated that obatoclax
+mesylate given at a dose of 14 mg/m2 on days 1 and 3 of an every 3-weeks cycle together with
+topotecan 1.25 mg/m2 on days 1–5 is a safe and well-tolerated treatment in patients with
+relapsed SCLC and advanced solid tumor malignancies.
+In particular, while obatoclax mesylate has not been known to have significant bone marrow
+toxicity, it was important to demonstrate that the combination of obatoclax and topotecan was
+not prohibitively myelosuppressive. Historically, rates of grade 3/4 hematologic toxicity with
+topotecan 1.25 mg/m2 in previously treated patients range from 10 to 70% for neutropenia, 5–
+37% for thrombocytopenia, and 1–18% for anemia [16–18], with the higher rates of
+neutropenia and thrombocytopenia seen in patients previously treated with cisplatin. At the
+recommended phase II dose, only 1 of 3 patients (33%) experienced grade 3/4 hematologic
+toxicity, developing grade 3 neutropenia, grade 3 anemia, and grade 4 thrombocytopenia. None
+of these were dose-limiting, and, in the context of prior treatment with cisplatin-based therapy,
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Paik et al. Page 7
+these toxicities did not exceed what would be expected with single-agent topotecan at 1.25 mg/
+m2.
+Neurologic toxicity is a known side effect of treatment with obatoclax mesylate, and indeed
+was the most common AE seen. Ataxia, mood alteration, and somnolence were the most
+frequent of the neurologic AEs experienced (33, 18, and 19%, respectively). Grade 3/4
+toxicities were, however, uncommon, and seen exclusively in 2 patients treated at 20 mg/m2.
+All neurologic AEs were transient as well, ceasing 1–2 h after the end of the infusion. In
+comparison with other phase I trials of obatoclax mesylate, the addition of topotecan did not
+appear to increase the prevalence of neurologic AEs [15,19]. The absence of similar neurologic
+toxicities in clinical evaluation of other Bcl-2 inhibitors studied to date suggests that this is an
+off-target effect.
+Two of five patients experienced a DLT at a dose of 20 mg/m2, meeting criteria for the
+definition of this dose as the MTD and requiring accrual of an additional three patients to the
+previously tolerated dose of 14 mg/m2. Interim data from a phase I trial of obatoclax mesylate
+in patients with advanced hematologic malignancies similarly led to an amendment in the dose
+escalation design, allowing a final dose escalation to 14 mg/m2 on days 1 and 3. With no DLTs
+experienced at this level, a dose of 14 mg/m2 on days 1 and 3 was declared as the recommended
+phase II dose.
+While the study was not powered to assess for efficacy, response assessment demonstrated
+partial responses in two patients and stable disease in four, with a median TTP of 12 weeks.
+Of these six patients, five were diagnosed with SCLC, including both partial responders. This
+rate compares favorably to historical overall response rates of between 9.2 and 21.7% seen
+with second-line topotecan in patients with SCLC [17].
+In light of the recent phase I results of the more potent Bcl-2 inhibitor ABT-263, the modest
+hematologic toxicity of obatoclax mesylate in this study was notable. ABT-263 is a second-
+generation analog of the BH3-mimetic ABT-737, designed to overcome the poor oral
+bioavailability and solubility of the latter [20]. It retains a similar specificity profile to that of
+ABT-737, binding with low nanomolar affinity to Bcl-2, Bcl-XL, and Bcl-w, but less well to
+Mcl-1. Recent studies have highlighted Bcl-XL’s role in protecting platelets from apoptosis,
+which is underscored by the rapid though reversible induction of thrombocytopenia in mice
+and dogs treated with ABT-737 [21,22]. Similarly, dose-limiting thrombocytopenia in 3/15
+patients with CLL and dose-dependent reversible thrombocytopenia in all patients treated with
+ABT-263 were characteristic toxicities that emerged from the two phase I clinical trials of
+ABT-263 [23,24].
+This toxicity stands in contrast to that seen in our study of combined therapy with topotecan,
+where 36% (5/14) of patients developed thrombocytopenia, a rate comparable to that of
+topotecan alone. This divergence is likely related to the disparate binding affinities of ABT-263
+and obatoclax mesylate to the Bcl-2 family members [25]. While ABT-263 has strong
+preferential binding to Bcl-2 and Bcl-XL, and relatively weak affinity for Mcl-1, obatoclax
+mesylate demonstrates lower affinity against a broader spectrum of Bcl-2 family members
+including Mcl-1. This may have relevance for SCLC, which can express Mcl-1 and its pro-
+apoptotic partner Noxa [25,26]. Obatoclax mesylate may also have cytotoxic effects
+independent of Bcl-2 family member interaction. Whether relative intratumoral expression of
+Bcl-2 family members is clinically important in stratifying patients responsive to obatoclax
+mesylate awaits correlative studies.
+Preliminary results have been reported from another phase I trial in which obatoclax was
+combined with carboplatin (AUC 5, day 1) and etoposide (100 mg/m2, days 1–3) in patients
+with extensive-stage (ES)-SCLC [27]. As in the current study, reversible, infusion-related
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Paik et al. Page 8
+neurotoxicity was the primary AE. The MTD of obatoclax in this study was 30 mg/m2 on days
+1–3 of an every 3-week cycle with standard doses of etoposide and carboplatin. At this dose
+and at one dose level below it, 7/7 patients with untreated ES-SCLC developed a PR. While
+this exceeds the overall response rate to first-line platinum-based therapy in patients with ES-
+SCLC, less robust results were seen with patients treated at similar doses with a 24-h infusion
+(3/6 PR). The efficacy of this regimen is being tested in an ongoing randomized phase II trial
+of this regimen.
+In conclusion, obatoclax mesylate given IV at a dose of 14 mg/m2 on days 1 and 3 in
+combination with IV topotecan at 1.25 mg/m2 on days 1–5 of an every 3-week cycle is a safe
+and well-tolerated regimen in patients with relapsed solid tumor malignancies. Based on the
+recommended phase II dose from this study, a phase II, open-label, single-arm trial studying
+the efficacy of obatoclax mesylate with topotecan in patients with relapsed SCLC has been
+opened, and is currently accruing patients.
+Acknowledgments
+Supported by CTEP, NIH 5U01CA069856-15 and NIH U01CA070095; NCI-sponsored trial #7937.
+References
+1. Hu W, Kavanagh JJ. Anticancer therapy targeting the apoptotic pathway. Lancet Oncol 2003;4:721–
+729. [PubMed: 14662428]
+2. Adams JM, Cory S. The Bcl-2 apoptotic switch in cancer development and therapy. Oncogene
+2007;26:1324–1337. [PubMed: 17322918]
+3. Fesik SW. Promoting apoptosis as a strategy for cancer drug discovery. Nat Rev Cancer 2005;5:876–
+885. [PubMed: 16239906]
+4. GeminX, I. Investigator’s brochure GX15-070MS. Malvern, PA: 2006.
+5. Perez-Galan, P.; Roue, G.; Villamor, N. The small molecule pan-Bcl-2 inhibitor GX15-070 induces
+apoptosis in vitro in mantle cell lymphoma (MCL) cells and exhibits a synergistic effect in combination
+with the proteasome inhibitor bortezomib. AACR; 2006. p. A575
+6. Li J, Viallet J, Haura E. A small molecule pan-Bcl-2 family inhibitor, GX15-070, induces apoptosis
+and enhances cisplatin-induced apoptosis in non-small cell lung cancer cells. Cancer Chemother
+Pharmacol 2008;61:525–534. [PubMed: 17505826]
+7. Eckardt JR, von Pawel J, Papai Z, et al. Open-label, multicenter, randomized, phase III study comparing
+oral topotecan/cisplatin versus etoposide/cisplatin as treatment for chemotherapy-naive patients with
+extensive-disease small-cell lung cancer. J Clin Oncol 2006;24:2044–2051. [PubMed: 16648504]
+8. Higashiyama M, Doi O, Kodama K, et al. Bcl-2 oncoprotein expression is increased especially in the
+portion of small cell carcinoma within the combined type of small cell lung cancer. Tumour Biol
+1996;17:341–344. [PubMed: 8938949]
+9. Jiang S, Sato Y, Kuwao S, et al. Expression of bcl-2 oncogene protein is prevalent in small cell lung
+carcinomas. J Pathol 1995;177:135–138. [PubMed: 7490679]
+10. Fokkema E, de Vries E, Groen H, et al. Expression of apoptosis-related proteins and morphological
+changes in a rat tumor model of human small cell lung cancer prior to and after treatment with
+radiotherapy, carboplatin, or combined treatment. Virchows Arch 2003;442:349–355. [PubMed:
+12715170]
+11. Sartorius U, Krammer P. Upregulation of bcl-2 is involved in the mediation of chemotherapy
+resistance in human small cell lung cancer cell lines. Int J Cancer 2002;97:584–592. [PubMed:
+11807782]
+12. Ziegler A, Luedke GH, Fabbro D, et al. Induction of apoptosis in small-cell lung cancer cells by an
+antisense oligodeoxynucleotide targeting the Bcl-2 coding sequence. J Natl Cancer Inst
+1997;89:1027–1036. [PubMed: 9230884]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Paik et al. Page 9
+13. Zangemeister-Wittke U, Schenker T, Luedke G, et al. Synergistic cytotoxicity of bcl-2 antisense
+oligodeoxynucleotides and etoposide, doxorubicin and cisplatin on small-cell lung cancer cell lines.
+Br J Cancer 1998;78:1035–1042. [PubMed: 9792147]
+14. Kim YH, Girard L, Giacomini CP, et al. Combined microarray analysis of small cell lung cancer
+reveals altered apoptotic balance and distinct expression signatures of MYC family gene
+amplification. Oncogene 2005;25:130–138. [PubMed: 16116477]
+15. Schimmer AD, O’Brien S, Kantarjian H, et al. A phase I study of the pan Bcl-2 family inhibitor
+obatoclax mesylate in patients with advanced hematologic malignancies. Clin Cancer Res
+2008;14:8295–8301. [PubMed: 19088047]
+16. Koschel R, Huber R, Gatzmeier U. Toptecan in second-line treatment of small cell lung cancer reduced
+toxicity with individualized therapy. Lung Cancer 2000;20:42.
+17. Huber RM, Reck M, Gosse H, et al. Efficacy of a toxicity-adjusted topotecan therapy in recurrent
+small cell lung cancer. Eur Respir J 2006;27:1183–1189. [PubMed: 16481389]
+18. Perez-Soler R, Glisson BS, Lee JS, et al. Treatment of patients with small-cell lung cancer refractory
+to etoposide and cisplatin with the topoisomerase I poison topotecan. J Clin Oncol 1996;14:2785–
+2790. [PubMed: 8874340]
+19. O’Brien SM, Claxton DF, Crump M, et al. Phase I study of obatoclax mesylate (GX15-070), a small
+molecule pan-Bcl-2 family antagonist, in patients with advanced chronic lymphocytic leukemia.
+Blood 2009;113:299–305. [PubMed: 18931344]
+20. Tse C, Shoemaker AR, Adickes J, et al. ABT-263: a potent and orally bioavailable Bcl-2 family
+inhibitor. Cancer Res 2008;68:3421–3428. [PubMed: 18451170]
+21. Mason KD, Carpinelli MR, Fletcher JI, et al. Programmed anuclear cell death delimits platelet life
+span. Cell 2007;128:1173–1186. [PubMed: 17382885]
+22. Zhang H, Nimmer PM, Tahir SK, et al. Bcl-2 family proteins are essential for platelet survival. Cell
+Death Differ 2007;14:943–951. [PubMed: 17205078]
+23. Roberts A, Wilson W, Gandhi L, et al. Ongoing phase I studies of ABT-263: Mitigating Bcl-XL
+induced thrombocytopenia with lead-in and continuous dosing. J Clin Oncol 2009;27:3505. (abstr).
+24. Wilson W, O’Connor O, Roberts A. ABT-263 activity and safety in patients with relapsed or refractory
+lymphoid malignancies in particular chronic lymphocytic leukemia (CLL)/small lymphocytic
+lymphoma (SLL). J Clin Oncol 2009;27:8574. (abstr).
+25. Nguyen M, Marcellus RC, Roulston A, et al. Small molecule obatoclax (GX15-070) antagonizes
+MCL-1 and overcomes MCL-1-mediated resistance to apoptosis. Proc Natl Acad Sci USA
+2007;104:19512–19517. [PubMed: 18040043]
+26. Hauck P, Chao BH, Litz J, et al. Alterations in the Noxa/Mcl-1 axis determine sensitivity of small
+cell lung cancer to the BH3 mimetic ABT-737. Mol Cancer Ther 2009;8:883–892. [PubMed:
+19372561]
+27. Chiappori A, Schreeder M, Moezi M. A phase Ib trial of Bcl-2 inhibitor obatoclax in combination
+with carboplatin and etoposide for previously untreated patients with extensive-stage small cell lung
+cancer (ES-SCLC). J Clin Oncol 2009;27:3576. (abstr).
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Paik et al. Page 10
+Table 1
+Dose escalation scheme
+Obatoclax mesylate Topotecan ( mg/m2) Patients (N)
+Level 1 14 mg/m2 1.25 6
+Level 2 14 mg/m2 day 1 and 3 1.25 3
+Level 3 20 mg/m2 1.25 5
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+
+--- Page 11 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Paik et al. Page 11
+Table 2
+Patient characteristics
+Characteristic No. patients
+Number of patients 14
+Median age, years (range) 57 (26–74)
+Gender
+Male 7
+Female 7
+Median KPS (range) 80% (70–90%)
+Median number of prior therapies 2
+Tumor type
+SCLC 8
+Extrapulmonary small cell 3
+Carcinoid 1
+Merkel cell 1
+Melanoma 1
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+
+--- Page 12 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Paik et al. Page 12
+Table 3
+Dose-limiting toxicities
+Toxicity 14 mg/m2 14 + 14 mg/m2 20 mg/m2
+(N = 6) (N = 3) (N = 5)
+Febrile neutropenia 0 0 1 (20%)
+Somnolence 0 0 1 (20%)
+Mood alteration 0 0 1 (20%)
+Ataxia 0 0 1 (20%)
+Speech impairment 0 0 1 (20%)
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Paik et al. Page 13
+4
+elbaT
+level
+esod
+yb
+stneve
+esrevda
+llA
+c4/3
+edarG
+c2/1
+edarG
+b4/3
+edarG
+b2/1
+edarG
+a4/3
+edarG
+a2/1
+edarG
+yticixoT
+cigolotameH
+e
+,d)04(
+2
+)02(
+1
+d)33(
+1
+–
+d)61(
+1
+–
+ainepotycobmorhT
+)06(
+3
+)04(
+2
+)33(
+1
+)33(
+1
+)61(
+1
+)61(
+1
+aimenA
+d)02(
+1
+–
+)33(
+1
+–
+)33(
+2
+)61(
+1
+aineportueN
+)02(
+1
+–
+–
+–
+–
+–
+aineportuen
+elirbeF
+–
+–
+–
+)66(
+2
+–
+–
+gnideelB
+cigolotameh-noN
+–
+)02(
+1
+–
+)001(
+3
+–
+)33(
+2
+eugitaF
+–
+)06(
+3
+–
+)33(
+1
+)61(
+1
+)33(
+2
+aesuaN
+–
+)02(
+1
+–
+)33(
+1
+–
+–
+niaP
+–
+)02(
+1
+–
+–
+–
+–
+ygrellA
+–
+–
+–
+–
+–
+)61(
+1
+aicepolA
+–
+–
+–
+–
+–
+)61(
+1
+RFG
+–
+)02(
+1
+–
+–
+–
+–
+aixopyH
+–
+)02(
+1
+–
+–
+–
+–
+lmnba
+TFL
+cigolorueN
+)02(
+1
+)06(
+3
+–
+)66(
+2
+–
+)38(
+5
+aixatA
+)02(
+1
+)06(
+3
+–
+–
+–
+)05(
+3
+noitaretla
+dooM
+)02(
+1
+)04(
+2
+–
+)33(
+1
+–
+)66(
+4
+ecnelonmoS
+–
+)02(
+1
+–
+–
+–
+–
+segnahc
+noisiV
+–
+)04(
+2
+–
+)33(
+1
+–
+–
+ssenizziD
+–
+–
+–
+–
+–
+)61(
+1
+sisohcysP
+–
+–
+–
+–
+–
+)61(
+1
+gel
+sseltseR
+)02(
+1
+–
+–
+)33(
+1
+–
+–
+tnemriapmi
+hceepS
+–
+)04(
+2
+–
+)33(
+1
+–
+–
+ecnabrutsid
+evitingoC
+–
+–
+–
+)33(
+1
+–
+–
+noitatigA
+–
+–
+–
+)33(
+1
+–
+–
+ytilanosreP
+–
+)02(
+1
+–
+–
+–
+–
+ssol
+yromeM
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Paik et al. Page 14
+)6
+=
+N(
+2m/gm
+41
+a
+)3
+= N(
+2m/gm
+41
++
+41
+b
+)5
+=
+N(
+2m/gm
+02
+c d
+stneve
+4
+edarg
+ylno
+eht
+erew
+aineportuen
+dna
+ainepotycobmorhT
+e
+ainepotycobmorht
+4
+edarg
+dna
+3
+edarg
+fo hcae
+edosipe
+enO
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2011 November 1.

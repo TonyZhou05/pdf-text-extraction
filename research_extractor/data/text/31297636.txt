@@ -1,0 +1,839 @@
+Source: 31297636.pdf
+Extracted on: Fri Sep 12 23:55:59 PDT 2025
+==================================================
+
+--- Page 1 ---
+InvestigationalNewDrugs(2020)38:800–811
+https://doi.org/10.1007/s10637-019-00830-3
+PHASEISTUDIES
+Phase 1b study of a small molecule antagonist of human chemokine
+(C-C motif) receptor 2 (PF-04136309) in combination
+with nab-paclitaxel/gemcitabine in first-line treatment of metastatic
+pancreatic ductal adenocarcinoma
+MarcusNoel1&EileenM.O’Reilly2&BrianM.Wolpin3&DavidP.Ryan4&AndreaJ.Bullock5&CarolynD.Britten6&
+DavidC.Linehan7&BrianA.Belt8&EricC.Gamelin9&BishuGanguly9,10&DonghuaYin9&TenshangJoh9&
+IraA.Jacobs9&CarrieT.Taylor9&MaeveA.Lowery11
+Received:1May2019/Accepted:1July2019/Publishedonline:12July2019
+#TheAuthor(s)2019
+Summary
+BackgroundInpancreaticductaladenocarcinoma(PDAC),thechemokine(C-Cmotif)ligand2(CCL2)/chemokine(C-Cmotif)
+receptor2(CCR2)axisplaysakeyroleinimmunosuppressivepropertiesofthetumormicroenvironment,patientprognosis,and
+chemoresistance.ThisphaseIbstudyassessedtheeffectsoftheorallyadministeredCCR2inhibitorPF-04136309incombination
+with nab-paclitaxel and gemcitabine in patients with previously untreated metastatic PDAC. Methods Patients received PF-
+04136309twicedaily(BID)continuouslyplusnab-paclitaxel(125mg/m2)andgemcitabine(1000mg/m2)administeredondays
+1, 8, and 15 of each 28-day cycle. The primary objectives were to evaluate safety and tolerability, characterize dose-limiting
+toxicities(DLTs),anddeterminetherecommendedphaseIIdose(RP2D)ofPF-04136309.ResultsInall,21patientsreceivedPF-
+04136309atastartingdoseof500mgor750mgBID.TheRP2Dwasidentifiedtobe500mgBID.Of17patientstreatedatthe
+500 mg BID starting dose, three (17.6%) experienced a total of four DLTs, including grade 3 dysesthesia, diarrhea, and
+hypokalemia and one event ofgrade 4 hypoxia.Relativetothe small numberofpatients(n=21),a highincidence (24%) of
+pulmonarytoxicitywasobservedinthisstudy.Theobjectiveresponseratefor21patientswas23.8%(95%confidenceinterval:
+8.2–47.2%).LevelsofCD14+CCR2+inflammatorymonocytes(IM)decreasedintheperipheralblood,butdidnotaccumulate
+inthe bonemarrow. ConclusionsPF-04136309 incombination withnab-paclitaxelplusgemcitabine had a safetyprofile that
+raises concern for synergistic pulmonary toxicity and did not show an efficacy signal above nab-paclitaxel and gemcitabine.
+ClinicalTrials.govidentifier:NCT02732938.
+Electronicsupplementarymaterial Theonlineversionofthisarticle
+(https://doi.org/10.1007/s10637-019-00830-3)containssupplementary
+material,whichisavailabletoauthorizedusers.
+* IraA.Jacobs 6 DivisionofHematology/Oncology,MedicalUniversityofSouth
+ira.jacobs@pfizer.com Carolina,Charleston,SC,USA
+7 DepartmentofSurgery,UniversityofRochesterMedicalCenter
+1 DepartmentofMedicine,DivisionofHematology/Oncology,
+SchoolofMedicine&Dentistry,Rochester,NY,USA
+UniversityofRochesterMedicalCenterSchoolofMedicine&
+Dentistry,Rochester,NY,USA
+8 DepartmentofSurgery,UniversityofRochester,Rochester,NY,
+2 DepartmentofMedicine,MemorialSloanKetteringCancerCenter, USA
+WeillCornellMedicalCollege,NewYork,NY,USA
+3 DepartmentofMedicalOncology,Dana-FarberCancerInstitute, 9 EarlyOncologyDevelopmentandClinicalResearch,PfizerInc,219
+East42ndStreet,NewYork,NY10017,USA
+Boston,MA,USA
+4 MGHCancerCenter,DivisionofHematogy-Oncology, 10 LyellImmunopharmaInc,PaloAlto,CA,USA
+MassachusettsGeneralHospital,Boston,MA,USA
+5 DivisionofHematology/Oncology,BethIsraelDeaconessMedical 11 TrinityStJames’sCancerInstitute,TrinityCollegeDublin,
+Center,Boston,MA,USA Dublin,Ireland
+
+--- Page 2 ---
+InvestNewDrugs(2020)38:800–811 801
+Keywords CCR2inhibitor.Pancreaticcancer.Immuno-oncology.Tumor-infiltratingmacrophages .Tumor-infiltratingcells
+Introduction
+Previously, a phase Ib study demonstrated the CCR2
+inhibitor PF-04136309 in combination with
+Metastatic pancreatic ductal adenocarcinoma (mPDAC) is a FOLFIRINOX significantly increased the proportion of
+lethal disease with a median survival duration of less than patients achieving partial response (PR) compared to that
+1 year [1–4]. While two combination regimens, anticipated with FOLFIRINOX alone [22]. The study also
+FOLFIRINOX (folinic acid, fluorouracil, irinotecan, and demonstrated the clinical activity of PF-04136309 corre-
+oxaliplatin) and nab-paclitaxel/gemcitabine are used as stan- lated with an accumulation of CCR2+ inflammatory
+dardtherapies,themediansurvivalassociatedwiththesereg- monocytes (IM) in the bone marrow, reduced levels of
+imensislessthanayear,hencetheneedtoseekothernovel IM in peripheral blood, and decreased TAM in tumors.
+therapeuticapproaches[5].Progressinbasicandtranslational These encouraging results prompted the current study,
+immunologyhasconfirmedtheimportanceofcontrollingthe which assessed the efficacy, safety, and tolerability, as
+immunesystemincancerprogressionandinitstreatment,and well as the pharmacokinetics (PK) and pharmacodynam-
+hasrenewedaninterestinimmune-basedtherapyforvarious ics, of PF-04136309 combined with nab-paclitaxel/
+cancers,includingPDAC. gemcitabine in patients with mPDAC.
+Themaincellularcomponentscontributingtotheimmuno-
+suppressive microenvironmentinclude myeloid-derived sup-
+Methods
+pressor cells (MDSCs), tumor associated macrophages
+(TAMs), mast cells, and T-regulatory cells (Tregs) [6, 7].
+MDSCs comprise a heterogeneous population of immature Studydesign
+cells of myeloid lineage that are considered to be key in or-
+chestratingthesuppressivetumormicroenvironment.MDSC ThiswasamulticenterphaseIbdose-findingstudyinthefirst-
+prevalence is increased in the peripheral blood and in the linetreatmentofpatientswithmPDAC.Thestudywasopen
+tumormicroenvironmentofpatientswithsolidtumors,includ- labelandpatientsreceivedprespecifieddosesofPF-04136309
+ing PDAC [8]. In solid tumors, the number of circulating in combination with nab-paclitaxel/gemcitabine. PF-
+MDSCs significantly correlates with clinical state and meta- 04136309 was supplied as a formulated 125-mg tablet and
+statictumorburden[9]and,inmice,reductionofMDSCsby given orally twice daily (BID) in 28-day cycles. Nab-
+inhibition [10] or deletion [11, 12] of factors that promote paclitaxel (125 mg/m2) plus gemcitabine (1000 mg/m2) was
+MDSCexpansionhasbeenshowntoimproveantitumorim- administered in 28-day cycles by intravenous infusion over
+mune response [10], reduce primary and metastatic tumor 30–40 min on days 1, 8, and 15 of each cycle, followed by
+progression [11], and abolish the tumor-promoting activity 1weekofftreatment.
+of MDSCs [11]. The pharmacologic modulation of MDSCs In the dose-finding phase, a cohort offour patients was
+and preventionoftheir appearanceorinfiltrationinsolid tu- initially enrolled to receivethe PF-04136309starting dose
+mors represent potential novel and innovative therapeutic of 750 mg BID in combination with nab-paclitaxel/
+strategiesincancer[10,13–18]. gemcitabinein28-daycycles.Observedtoxicitiesinthose
+Inmurinemodelsofpancreaticcancer,ithasbeenshown patients led to a PF-04136309 dose reduction to 500 mg
+that MDSCs are upregulated in the tumor-bearing host, pro- BID. Following the established safety observed in these
+mote tumor growth, and suppress antitumor immunity [8]. four patients treated through the first cycle at 500 mg
+Thechemokine(C-Cmotif)ligand2(CCL2)/chemokine(C- BID, the cohort was expanded with an additional 12 pa-
+C motif)receptor2 (CCR2)signaling axiscontributes totu- tientstreatedatthisdoseleveltoestablish500mg BIDas
+morprogressionthroughCCR2-mediatedMDSCrecruitment the recommended phase II dose (RP2D) of PF-04136309
+and/oraccumulation[19–21].PF-04136309,anorallyadmin- in combination withnab-paclitaxel/gemcitabine. Although
+istered CCR2 inhibitor, could block CCR2-mediated signal the phase II portion of the protocol was terminated by the
+transduction,chemotaxis,andCCL2bindinginhumanmono- sponsor, the development pathway for PF-04136309 is
+cytes and human whole blood. In addition, tumor-bearing still under review.
+wild-type mice treated with a CCR2 inhibitor demonstrated The hypothetical mechanisms of action of PF-04136309
+asignificantdecreaseinlivermetastasiscomparedwithvehi- wereexploredbyanalysisofbiopsies,bonemarrowaspirates,
+cleorgemcitabine-onlytreatedmice[8].Theseresultssuggest and peripheral blood (pre- and post-treatment during the
+thatCCR2isapromisingtherapeutictargetinPDAC,acon- study). Serial blood samples were collected from patients to
+ditionassociatedwithamarkedupregulationofMDSCsinthe determine the multiple-dose PK of PF-04136309 given in
+tumormicroenvironmentinbothmousemodelsandpatients. combinationwithnab-paclitaxel/gemcitabine.
+
+--- Page 3 ---
+802 InvestNewDrugs(2020)38:800–811
+Patientselection nab-paclitaxel/gemcitabine,whererelationshipwiththecom-
+bination could not be ruled out. DLTs were hematologic
+Eligible patients were males and females ≥18 years of eventsofgrade4neutropenialasting>5days;febrileneutro-
+age, with histologically or cytologically proven diagnosis penia;grade≥3neutropenicinfection;grade≥3thrombocy-
+of mPDAC who had provided a baseline tumor sample at topenia withgrade ≥ 2 bleeding; grade 4 thrombocytopenia;
+registration. Patients had not received previous radiother- and nonhematologiceventsofgrade 3 toxicities. Exceptions
+apy, surgery, chemotherapy, or investigational therapy for includednauseaandvomitingrespondingtoprophylaxisand/
+the treatment of metastatic disease and had a life expec- or treatment and lasting <7 days from each chemotherapy
+tancy ≥12 weeks. Patients with Eastern Cooperative infusionperiod;diarrhearespondingtotreatmentandlasting
+Oncology Group performance status (ECOG PS) 0 or 1 <7days;grade3fatiguelasting<7days;grade3QTinterval
+and adequate bone marrow, renal, and liver function were corrected for heart rate prolongation (>500 msec) persisting
+included. Patients with known symptomatic brain metas- aftercorrectionofanyreversiblecauses;and/orgrade3aspar-
+tases requiring steroids or who had prior therapy with tateaminotransferase(AST) and/oralanine aminotransferase
+modulators of monocyte or TAM function in metastatic (ALT) increase lasting ≤7 days. All grade 4 toxicities and a
+setting were ineligible to participate. delayof>2weeksinreceivingthenextscheduledcycledueto
+persistent treatment-related toxicities were considered DLTs.
+Objectives AEsmeetingDLTcriteriainthedose-expansionphaseinclud-
+ed grade 3 events ofdiarrhea, hypokalemia, and dysesthesia
+Theprimaryobjectivesweretoevaluatethesafetyandtoler- andgrade4hypoxia.Treatmentfortheseeventsfollowedthe
+ability of PF-04136309 in combination with nab-paclitaxel/ DLTdefinedbyguidelinesusedduringthedose-findingphase
+gemcitabine, to characterize the dose-limiting toxicities anddidnotchangetheidentificationoftheRP2Dinthestudy.
+(DLTs), and determine the RP2D of PF-04136309. AEs were graded according to the National Cancer
+Secondary objectives included assessment of PF-04136309 Institute Common Terminology Criteria for Adverse
+PKanalysisandexvivoinhibitionofCCL2-inducedextracel- Events, version 4.03.
+lular signal-regulated kinase phosphorylation (pERK) as a
+measureoftargetengagement.Exploratoryobjectivesinclud- Efficacy
+ed evaluation of CCL2 levels in peripheral blood and the
+prevalence of IM, TAM, and other relevant immune cells in Objectiveresponserate(ORR)wasdefinedastheproportion
+theperipheralblood,bonemarrow,andcoreneedlebiopsyof of patients with confirmed complete response (CR) or con-
+metastasesorfine-needleaspirateprimarytumortissue. firmed PR according to Response Evaluation Criteria In
+Solid Tumors, version 1.1, relative to all enrolled patients
+Statisticalmethods who had baseline measurable disease. Confirmed responses
+were those that persisted on repeat imaging ≥4 weeks after
+Themodifiedintent-to-treat(mITT)populationwasdefinedas initial documentation of response. Indeterminate responses
+allpatientswhohadreceivedatleastonedoseofstudymed- were those with no documented progression and absence of
+ication and had measurable disease at baseline assessment properassessmentoftargetlesions.
+(within 28 days prior to study entry). The mITT population Patientswithouton-studyradiographictumorre-evaluation
+wasassessedforantitumorresponse. andthosewhodied,progressed,ordroppedoutforanyreason
+priortoreachingaCRorPRwerecountedasnonresponders
+Safety intheassessmentofORR.TheORR,CR,andPRpointesti-
+mates for each treatment arm were provided along with the
+Safety assessments included collection of adverse events corresponding two-sided 95% confidence intervals (CIs)
+(AEs), serious AEs (SAEs), vital signs and physical ex- usinganexactmethod.
+amination, electrocardiogram (12-lead), laboratory assess- Imagingfortumorassessmentsincludedcomputedtomog-
+ments, including pregnancy test, and verification of con- raphy(CT)orMRIscansofthechest,abdomen,andpelvis;
+comitant treatments. brain CTor MRI scan for patients with known or suspected
+A patient was considered as DLT-evaluable if the patient brain metastases; and bone scan and/or bone X-rays for pa-
+experienced a DLTorifotherwise,inthe absence ofa DLT, tientswithknownorsuspectedbonemetastases.
+thepatientreceivedatleast85%oftheplanneddosesofeach
+studydruginthefirst28-daycycle.DLTsweredefinedasany Pharmacokineticandpharmacodynamicassessment
+ofthefollowingeventsoccurringinthefirstcycleoftreatment
+(days1through 28)andattributed(i.e.,judgedtobeatleast Blood samples sufficient to provide ≥1 mL of plasma were
+possibly related) to the combination of PF-04136309 plus collected for measurement of PF-04136309 concentrations.
+
+--- Page 4 ---
+InvestNewDrugs(2020)38:800–811 803
+Plasma PF-04136309 concentrations were quantified with The most frequently reported PF-04136309-related TEAE
+a validated liquid chromatography–mass spectrometry (≥30%)wasrash(n=3[75.0%]).
+method.PF-04136309concentration–time datafromcycle Ofthefourtreatedpatientsinthe750-mgBIDgroup,one
+1 day 15 were analyzed using noncompartmental methods (25.0%)experiencedaDLTofgrade3cognitivedisorderthat
+to estimate PK parameters. occurredoncycle1day7andresolvedonthesameday;the
+The levels of CD14+CCR2+ IM or other immune-cell patientwasdisorientated,hadlossofmemory,andpresented
+phenotypes in the samples from the core needle biopsy, withanacuteonsetofspeechdifficulties,whichlastedseveral
+fine-needle aspirate from primary tumor tissue, bone mar- hours and required a visit to the emergency department. An
+row, and peripheral blood were assessed by flow cytome- ischemicstrokewasruledoutforthispatientandtherewasno
+try.CCL2levelsweredeterminedusingwholebloodplas- previousneurologichistory ofstroke.ThisDLTwasconsid-
+ma by immunoassay using a luminex-based method. The eredtoberelatedtotreatmentwithPF-04136309andresulted
+ex vivo inhibition of CCL2-induced pERK by PF- in a dose reduction to 250 mg BID, which continued until
+04136309 was measured in whole blood using flow cy- discontinuation from treatment phase. The remaining three
+tometry. Percentages of CD4+, CD8+, and CD4+FoxP3+ patients did not experience DLTs, but all experienced AEs
+Tcells within CD45+ populations were evaluated by flow (grade1–2eventsofperipheralsensoryneuropathy,rash,rash
+cytometry in paired fresh biopsy samples from three pa- maculopapular,orcellulitis)thatresultedindosereductionof
+tients. Two patients provided both baseline and on-study PF-04136309. To allow better tolerability, the PF-04136309
+biopsies, and one patient provided a baseline biopsy only. dose was reduced to 500 mg BID in combination with nab-
+paclitaxel/gemcitabineforthesubsequentcohortofpatients.
+In the 500-mg BID group (n=17), the most frequently
+Results reported (≥60%) all-causality TEAEs were nausea (n=14
+[82.4%]), fatigue (n=13 [76.5%]), pyrexia (n=12
+[70.6%]), and anemia (n=11 [64.7%]) (Table 2). Twelve
+Patientcharacteristics
+(70.6%) patients had at least one grade 3 TEAE; the most
+frequently reported (≥20%) events were lymphopenia, fa-
+Twenty-one patients(nab-paclitaxel/gemcitabine plus:PF-
+tigue,andincreasedAST(n=5each[29.4%])andanemia
+04136309 750 mg BID [n=4] or 500 mg BID [n=17])
+(n=4 [23.5%]) (Table 2). Three patients (17.6%) had at
+were treated and included in the PK and safety analyses
+least one grade 4 TEAE, including increased ALT
+(Table1).All21patientsdiscontinuedfromboththetreat-
+(Table2),decreasedneutrophilcountandwhitebloodcell
+mentphaseandstudyphase.PatientshadECOGPS0or1,
+count, and hypoxia (n=1 each [5.9%]) (data not shown).
+except for one patient in the 500-mg BID group who had
+The most frequently reported PF-04136309-related TEAE
+baselineECOGPS2–thispatienthadECOGPS1during
+(≥30%) was rash (n=6 [35.3%]).
+the screening period.
+Of the 17 treated patients in the 500-mg BID group,
+three (17.6%) experienced a total of four DLTs: one pa-
+Safety tient with two DLTs of grade 3 diarrhea and hypokalemia,
+one patient with one DLTof grade 3 dysesthesia, and one
+PreviousclinicalstudiesdemonstratedthatPF-04136309was patient with one DLT of grade 4 hypoxia. Grade 3 pneu-
+generallysafeandwelltoleratedafterasingleoraldoseofup monitis was reported as a late-onset DLT. Additionally,
+to 1000 mg, and after repeated oral administration up to one patient experienced grade 5 SAE of pneumonia
+500 mg BID as a single agent or in combination with (Supplementary Table S2), which was considered unrelat-
+FOLFIRINOX [22]. Repeated dosing with >500 mg BID ed to PF-04136309, but determined by the sponsor to be
+was previously untested. In this study, repeated PF- possibly related to gemcitabine and nab-paclitaxel.
+04136309dosingof750 mg BIDwas evaluated forthe first Eleven deaths occurred in total, all in the PF-04136309
+time,incombinationwithnab-paclitaxel/gemcitabine. 500-mg BID group. The main cause of death (10 out of 11)
+In the 750-mgBID group (n=4), the mostfrequently re- wasdiseaseunderstudy,allofwhichoccurredaftertheSAE
+ported(≥75%)all-causalitytreatment-emergentAEs(TEAEs) reportingperiod(i.e.,after28daysfollowingthelastdoseof
+werenauseaand fatigue(n=4 each[100.0%]) and leukope- studytreatment).TheonedeaththatoccurredduringtheSAE
+nia,neutropenia,constipation,vomiting,ALTincrease,alope- reportingperiodwasduetostudytreatmenttoxicity(theafore-
+cia,andrash(n=3each[75.0%])(Table2).Eachofthefour mentioned grade5pneumonia). Thepatientwasadmittedto
+(100.0%) patients had at least one grade 3 TEAE: the most an intensive care unit due to hypoxic respiratory failure. A
+frequentlyreported(≥50%)eventswereleukopeniaandneu- right-sidedcentrallinewasplacedforadministrationofmed-
+tropenia(n=3each[75.0%])(SupplementaryTableS1).No ications, which resulted in a right-sided pneumothorax.
+patientexperiencedgrade4TEAEortreatment-relateddeath. Although diagnosed as pneumonia, pathogens were not
+
+--- Page 5 ---
+804 InvestNewDrugs(2020)38:800–811
+Table1 Patientcharacteristics
+PF-04136309BID+nab-P/Gem(N=21)a
+750mg 500mg Total
+n=4 n=17a n=21
+Age,mean(range) 61.3(50–73) 61.9(46–79) 61.8(46–79)
+Males/Females,n 0/4 11/6 11/10
+Race,n(%)
+White 4(100.0) 15(88.2) 19(90.5)
+Black 0 1(5.9) 1(4.8)
+Asian 0 1(5.9) 1(4.8)
+ECOGPS
+0 3(75.0) 8(47.1) 11(52.4)
+1 1(25.0) 8(47.1) 9(42.9)
+2 0 1(5.9) 1(4.8)
+Siteofmetastaticdisease,n(%)
+Liver 2(50.0) 14(82.4) 16(76.2)
+Lung 1(25.0) 6(35.3) 7(33.3)
+Lymphnode–Other 1(25.0) 4(23.5) 5(23.8)
+Lymphnode–Supraclavicular 0 1(5.9) 1(4.8)
+Peritoneum 0 2(11.8) 1(4.8)
+Other 4(100.0) 14(82.4) 18(85.7)
+CA19.9(U/mL)atbaseline
+n 3 16 19
+Mean 30197.33 15544.02 17857.70
+Range 25.0–87160.0 0.5–112193.0 0.5–112193.0
+Assignedtotreatment,n
+Treated 4(100) 17(100) 21(100)
+Discontinued 4(100) 17(100) 21(100)
+DLT,n(%)b 1(25) 3(17.6) 4(19.0)c
+Firstsubject–firstvisit:May4,2016;Lastsubject–firstvisit:September15,2017
+aTwenty-two patients(n=4 and 18inthe PF-04136309750 mg BID + nab-paclitaxel/gemcitabine and PF-
+04136309500 mg BID + nab-paclitaxel/gemcitabinegroups, respectively) were assigned tostudy treatment,
+butonepatientfromthe500-mgBIDgroupwithdrewconsentanddidnotreceivestudytreatment
+bDLTobservationperiodsthatoccurinthefirstcycleoftreatment(days1through28)andareattributed(i.e.,
+judgedtobeatleastpossiblyrelated)tothecombinationofPF-04136309plusnab-paclitaxel/gemcitabinewhere
+relationshipwiththecombinationcannotberuledout.DLTsareclassifiedaccordingtoCTCAEversion4.03.A
+patientisclassifiedasDLTevaluableifhe/sheexperiencesaDLToraDLTisabsentbutpatientreceives85%of
+theplanneddosesofeachstudydruginthefirst28-daycycle
+c5DLTswerereportedinfourpatients
+Abbreviations:CA-19.9cancerantigen19.9,CTCAECommonTerminologyCriteriaforAdverseEvents,DLT
+dose-limitingtoxicities,ECOGPSEasternCooperativeOncologyGroupperformancestatus,nab-P/Gemnab-
+paclitaxel/gemcitabine
+cultured. Despite the fact that the patient was provided with ofthethreeexposuredrugs[PF-04136309,nab-paclitaxel,or
+antibiotics,supplementaloxygen,andsupportivecare,thepa- gemcitabine]) (Supplementary Table S3). Most of the SAEs
+tient continued to desaturate and required higher ventilation wereinonepatienteach.FourpatientshadSAEsthatledto
+settingandrespiratorycare,andsubsequentlydevelopedacute permanentdiscontinuationsofstudytreatment.Ofnote,three
+renalfailurewithrisinglevelsofcreatinine.Thepatientdied patientsexperiencedSAEsofpneumonitis,allofwhichwere
+approximately7daysfollowinghospitaladmission. considered treatment-related and resulted in permanent dis-
+Overall,14(66.7%)ofthe21treatedpatientsexperienced continuations of study treatment (Supplementary Table S3).
+SAEs (SupplementaryTableS2) and seven (33.3%) patients Twopatientswhowerepermanentlydiscontinuedfromtreat-
+experiencedtreatment-relatedSAEs(attributedtoatleastone ment experienced a grade 4 SAE of hypoxia and a grade 2
+
+--- Page 6 ---
+InvestNewDrugs(2020)38:800–811 805
+Table2 SummaryofTEAEsain
+>25%patientsinanytreatment Grade1 Grade2 Grade3 Grade4 Grade5 Total
+group(all-causality,allcycles)– n(%) n(%) n(%) n(%) n(%) N(%)
+safetyanalysisset
+PF-04136309750mgBID+nab-P/Gem(n=4)
+AnyAE 0 0 4(100.0) 0 0 4(100.0)
+Anemia 0 2(50.0) 0 0 0 2(50.0)
+Leukopenia 0 0 3(75.0) 0 0 3(75.0)
+Neutropenia 0 0 3(75.0) 0 0 3(75.0)
+Thrombocytopenia 1(25.0) 1(25.0) 0 0 0 2(50.0)
+Constipation 2(50.0) 1(25.0) 0 0 0 3(75.0)
+Nausea 3(75.0) 0 1(25.0) 0 0 4(100.0)
+Vomiting 2(50.0) 1(25.0) 0 0 0 3(75.0)
+Chills 2(50.0) 0 0 0 0 2(50.0)
+Fatigue 3(75.0) 1(25.0) 0 0 0 4(100.0)
+Malaise 2(50.0) 0 0 0 0 2(50.0)
+Pyrexia 1(25.0) 1(25.0) 0 0 0 2(50.0)
+Cellulitis 0 1(25.0) 1(25.0) 0 0 2(50.0)
+ALTincrease 0 2(50.0) 1(25.0) 0 0 3(75.0)
+Appetitedecrease 1(25.0) 0 1(25.0) 0 0 2(50.0)
+Paininextremity 1(25.0) 1(25.0) 0 0 0 2(50.0)
+Insomnia 1(25.0) 1(25.0) 0 0 0 2(50.0)
+Alopecia 2(50.0) 1(25.0) 0 0 0 3(75.0)
+Rash 2(50.0) 1(25.0) 0 0 0 3(75.0)
+PF-04136309500mgBID+nab-P/Gem(n=17)
+AnyAE 0 1(5.9) 12(70.6) 3(17.6) 1(5.9) 17(100.0)
+Anemia 2(11.8) 5(29.4) 4(23.5) 0 0 11(64.7)
+Lymphopenia 0 0 5(29.4) 0 0 5(29.4)
+Abdominalpain 0 3(17.6) 3(17.6) 0 0 6(35.3)
+Constipation 5(29.4) 2(11.8) 0 0 0 7(41.2)
+Diarrhea 4(23.5) 2(11.8) 1(5.9) 0 0 7(41.2)
+Nausea 12(70.6) 2(11.8) 0 0 0 14(82.4)
+Vomiting 6(35.3) 1(5.9) 0 0 0 7(41.2)
+Fatigue 4(23.5) 4(23.5) 5(29.4) 0 0 13(76.5)
+Edema,peripheral 7(41.2) 1(5.9) 0 0 0 8(47.1)
+Pyrexia 7(41.2) 5(29.4) 0 0 0 12(70.6)
+ALTincrease 1(5.9) 2(11.8) 3(17.6) 1(5.9) 0 7(41.2)
+ASTincrease 0 1(5.9) 5(29.4) 0 0 6(35.3)
+Bloodalkalinephosphatase 1(5.9) 4(23.5) 2(11.8) 0 0 7(41.2)
+Weightdecreased 5(29.4) 4(23.5) 0 0 0 9(52.9)
+Appetitedecrease 5(29.4) 0 1(5.9) 0 0 6(35.3)
+Hyperglycemia 2(11.8) 3(17.6) 3(17.6) 0 0 8(47.1)
+Headache 4(23.5) 1(5.9) 0 0 0 5(29.4)
+Neuropathyperipheral 8(47.1) 1(5.9) 0 0 0 9(52.9)
+Insomnia 7(41.2) 1(5.9) 0 0 0 8(47.1)
+Alopecia 7(41.2) 3(17.6) 0 0 0 10(58.8)
+Rash 7(41.2) 1(5.9) 0 0 0 8(47.1)
+aMaximumgradeperCommonTerminologyCriteriaforAdverseEvents[CTCAE]
+Abbreviations:AEadverseevent,ALTalanineaminotransferase,ASTaspartateaminotransferase,BIDtwicedaily,
+Nnumberofevaluablepatients,nnumberofpatientsinthecategory,nab-P/Gemnab-paclitaxel/gemcitabine,
+TEAEtreatment-emergentadverseevent
+non-SAE of ALTincrease, respectively, both of which were Therewerenoclinicallysignificantchangesinvitalsignsdata
+considered treatment-related. Five patients were identified consistentwitharelationshiptostudydrugandnoconsistent
+withanacutepulmonaryAEthatmayhavebeenattributable pattern in findings on physical examinations. The RP2D for
+to the combination of nab-paclitaxel, gemcitabine, and PF- PF-04136309incombinationwithnab-paclitaxel/gemcitabine
+04136309 (Supplementary Table S3). The grade 4 AEs of wasdeterminedtobe500mgBID.
+decreased neutrophil counts, decreased white blood cell
+counts, and increased ALT, observed in one patient each in Efficacy
+the500-mgBIDgroup,wereallconsideredunrelatedtostudy
+treatment.Therewerenoclinicallysignificantchangesinlab- All 21 treated patients had measurable disease at baseline
+oratory tests consistent with a relationship to study drug. assessmentandwereincludedinthemITTpopulation.None
+
+--- Page 7 ---
+of the 21 treated patients achieved CR (Fig. 1a and the500mggroupand1ofthe4patientsinthe750mggroup
+Supplementary Table S4). Five patients (all in the 500-mg hadprogressioneventsandtherestwerecensored.Themedi-
+BIDgroup)showedabestoverallresponseofPR.Ofthefour an progression-free survival (mPFS) for the 500 mg group
+treated patients in the 750-mg BID group, the best overall was5.3months,butduetothecensoringandthesmallnum-
+response observed was unconfirmed PR in one (25.0%) pa- berofpatientswithprogressionevents,mPFSisnotanappro-
+tient,stabledisease inone (25.0%) patient,and wasindeter- priateestimateinthisregard.
+minate in two (50.0%) patients (Fig. 1 and Supplementary
+TableS4).Ofthe17treatedpatientsinthe500-mgBIDgroup, PKassessment
+the best overall response observed was PR in five (29.4%)
+patients,unconfirmedPRinone(5.9%)patient,stabledisease PF-04136309wasquicklyabsorbedfollowingoraladministra-
+in two (11.8%) patients, objective progression in three tion, with a median time to maximum plasma concentration
+(17.6%) patients, early death inone (5.9%)patient,and was (T )of1.42hatthe500-mgBIDdosage.Theobservedvalues
+max
+indeterminate in five (29.4%) patients (Fig. 1a and ofareaundertheplasmaconcentration–time(AUC)profilewithin
+Supplementary Table S4). For all 21 patients who received thedoseintervaltau(AUC ;10,600and15,700ng·hr/mL)and
+tau
+treatment, the ORR was 23.8% (95% exact CI, 8.2–47.2%). maximumplasmaconcentration(C ;2950and3390ng/mL)
+max
+Inthe500mgBIDgroup(n=17)theORRwas29.4%(95% valueswerehigherinthe750-mgBIDgroup(n=2)compared
+exact CI, 10.3–56.0%) (Supplementary Table S4). Overall withthemeanAUC (5873ng·hr/mL)andmeanC (1276ng/
+tau max
+survival was not evaluated in this study. Due to the study mL)inthe500-mgBIDgroup.At500-mgBIDdosing(n=13),
+being terminated prematurely, only 2 of the 17 patients in steady-state PK parameters for PF-04136309 were associated
+a
+Week 23
+PF-04136309 750 mg BID + nab-paclitaxel/gemcitabine
+PF-04136309 500 mg BID + nab-paclitaxel/gemcitabine
+n = 21
+PD
+PR
+SD
+In
+DLT
+DR in PF-04136309
+DR in nab-paclitaxel
+DR in gemcitabine
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75
+Weeks on Treatment
+ataD
+tneitaP
+laudividnI
+b
+n = 18
+Un Un
+0 In In SD SD In PR PR PR In PR PR PR PR
+PD SD PD PD In
+PF-04136309 750 mg BID + nab-paclitaxel/gemcitabine
+PF-04136309 500 mg BID + nab-paclitaxel/gemcitabine
+Individual Patient Data
+)%(
+enilesaB
+morF
+egnahC
+806 InvestNewDrugs(2020)38:800–811
+Fig.1 Clinicalresponse.aBar
+plotfordurationoftreatmentby
+doselevel(includingresponse,
+dosereduction,andDLT).mITT
+populationwasanalyzed.Only
+thefirsttimeofdosereductionis
+presented.Eachbarrepresents
+onepatientinthestudy.Duration
+wascalculatedasfollows:(last
+dosedate–firstdosedate+1)/7.
+bWaterfallplotoftumorsize
+percentchangedata.mITT
+populationwasanalyzed.Largest
+decreaseorsmallestincrease
+representsbestresponseto
+treatment.Onlypatientswith
+targetlesionsatbaselineandat
+leastonepost-baselinetarget
+lesionbasedoninvestigator
+assessmentperRECISTversion
+1.1areincluded(n=18).
+Abbreviations:BIDtwicedaily,
+DLTdose-limitingtoxicity,DR
+dosereduction,Inindeterminate, 20
+mITTmodifiedintent-to-treat,PD
+progressivedisease,PRpartial
+response,RECISTResponse
+EvaluationCriteriainSolid
+Tumors,SDstable/noresponse, –20
+UnPRunconfirmedpartial
+response
+–40
+–60
+–80
+–100
+
+--- Page 8 ---
+withamoderateinterpatientvariability,withacoefficientofvar- disease,SAEs,orinthosewhowithdrewfromthestudy(Fig.3b).
+iationof44%,57%,and30%forC ,C ,andAUC ,respec- AnaccumulationofCCR2+CD14+monocytesinthebonemar-
+max min tau
+tively.Therewasnoapparentcorrelationbetweencycle1steady- rowwasnotobservedatweek6postdosingcomparedwithbase-
+stateplasmaexposureandORRortheoccurrenceofDLTs. lineinpatientstreatedwithPF-04136309500mgBID(Fig.3c).
+Twopatientsinthe500-mgBIDgroupexhibitedanincreasein
+CD4+andCD8+cellswithinCD45+populationsmeasuredin
+Pharmacodynamicassessment freshbiopsytumorsamples(Fig.3d).CCR2+TAMlevelsalsofell
+in the aforementioned two patients in the 500-mg BID group
+An increase in CCL2 levels (Fig. 2a, b) and drop in pERK (~6%to~1%and~4%to3%,respectively;datanotshown).It
+(Fig.2c,d)wasobservedinmostpatientsoverthecourseofstudy shouldbenotedthaton-treatmentbiopsieswerenotmandatory
+atboththe500mg(n=17)and750mg(n=4)BIDdosesofPF- andveryfewpatientsprovidedconsentforthisprocedure.
+04136309.Nearlyallpatientsexhibitedadropinabsolutecounts
+ofCD14+CCR2+IMinperipheralbloodfrombaseline(study
+day1pre-dose)tostudyday2andthelevelwassustainedthrough
+Discussion
+studyday15(Fig.3a,b).Patientsinthe500-mgBIDgroupwitha
+bestresponseofstablediseaseorPRexhibitedadropinmonocyte
+countsbetweenday1pre-doseandday2(Fig.3a).Asimilar,but mPDAC is a lethal disease with poor 5-year survival and is
+lessconsistentpatternwasobservedinpatientswithprogressive projected to be the second leading cause of cancer death by
+a 750 mg BID PF-04136309 + nab-P/gem (n = 4)
+6000
+5000
+4000
+3000
+2000
+1000
+0
+PRE C1D1 C1D2 C1D8 C1D1
+C
+5 1D22 C2D1 C3D1 C4D1 C7D
+C
+1 10D1 EOT F-U
+Visit
+)Lm/gp(
+2LCC
+amsalP
+b 500 mg BID PF-04136309 + nab-P/gem (n = 18)
+8000
+6000
+4000
+2000
+0
+PRE C1D1 C1D2 C1D8 C1D1
+C
+5 1D22 C2D1 C3D1 C4D1 C7D
+C
+1 10D1 EOT F-U
+Visit
+)Lm/gp(
+2LCC
+amsalP
+c 750 mg BID PF-04136309 + nab-P/gem (n = 4)
+2500
+2000
+1500
+1000
+500
+0
+C1D1-0H C1D1-2H C1D1-6H C1D1-12
+V
+H
+isit
+C1D2 C1D3 C1D4
+)IF
+naideM(
+KREp/2LCC
+,+41DC
+,+54DC
+d 500 mg BID PF-04136309 + nab-P/gem (n = 17)
+4000
+3000
+2000
+1000
+0
+C1D1-0H C1D1-2H C1D1-6H C1D1-12
+V
+H
+isit
+C1D2 C1D3 C1D4
+)IF
+naideM(
+KREp/2LCC
+,+41DC
+,+54DC
+InvestNewDrugs(2020)38:800–811 807
+Fig. 2 Effect of PF-04136309 in combination with nab-paclitaxel/ 04136309+nab-paclitaxel/gemcitabine. Each symbol represents
+gemcitabineontheCCL2pathway.aandbPlasmaCCL2levelsof individual patient. Abbreviations:BID twice daily, C cycle,CCL2the
+individualswereexaminedbyanimmunoassayusingaluminex-based chemokine (C-C motif) ligand 2, D day, EOTend of treatment, Fl
+method.canddIndividualplotsofCCL2-inducedpERKbytreatment fluorescence intensity, F-U follow-up, H hour, nab-P/gem nab-
+group.TargetengagementwasmeasuredbyanexvivoCCL2-induced paclitaxel/gemcitabine, pERK phosphorylated extracellular signal
+pERKassay.aandctreatmentgroup:750mgBIDPF-04136309+nab- regulatedkinasephosphorylation,PREbeforetreatment
+paclitaxel/gemcitabine. b and d treatment group: 500 mg BID PF-
+
+--- Page 9 ---
+808 InvestNewDrugs(2020)38:800–811
+2020 in the United States [23, 24]. Although both combination with FOLFIRINOX [22]. Some of the pulmo-
+FOLFIRINOX and gemcitabine combined with nab- nary toxicity observed in this study may have been caused
+paclitaxelimprovepatientsurvivalanddiseaseresponsecom- by the combination between PF-04136309 and gemcitabine
+paredwithsingle-agentgemcitabine,thereisanimmunosup- withnab-paclitaxel.
+pressive tumor microenvironment directed in part by the Multiplemeasuresmayneedtobeundertakeninorderto
+CCL2/CCR2axis. Sincethe degreeoftherapeutic resistance further understandthese pulmonary events. The clinicalout-
+with metastatic spread affects the lethality of aggressive comewouldlikelydependontheparticularmacrophagepop-
+cancers, understanding and targeting the mechanisms that ulations involved (immune regulatory vs. pro-immune) and
+are responsible for chemoresistance is critical to improv- characteristicsofthelocaltissueenvironment,sincethemech-
+ing therapeutic outcomes. Immunologic targeting, in par- anismofactionofPF-04136309isthe inhibitionofthe traf-
+ticular, is considered a key to effective treatment of this fickingofIMsfromthebonemarrowtothetumor,resultingin
+refractory disease [25, 26]. the depletion of TAMs from tumor microenvironment, en-
+In a prior phase II study, patients with previously un- hancing antitumor immunity[22].Onthe other hand, deple-
+treated advanced pancreatic cancer dosed with 125 mg/m2 tionofmacrophages fromhealthy tissues could theoretically
+nab-paclitaxelplus1000 mg/m2gemcitabine ondays1,8, increase the probability of autoimmune-mediated inflamma-
+and 15 every 28 days reported grade≥3 TEAEs of neu- tion or, alternatively, the probability of infection, potentially
+tropenia, leukopenia, thrombocytopenia, and anemia [27], elevatingtheriskofgemcitabine-relatedpneumonitis.Further
+with a median progression-free survival and overall sur- validationbyalargerstudyisnecessarytoclarifymechanisms
+vival of 7.9 months and 12.2 months, respectively. In the ofpulmonarytoxicity,whichmaybecausedbythecombina-
+current study, we observed similar grade≥3 hematologic tionofnab-paclitaxel,gemcitabine,andPF-04136309.
+TEAEs (except thrombocytopenia) with PF-04136309 Previous phase II and III studies in patients with PDAC
+500 mg BID in combination with nab-paclitaxel/ demonstrated that a regimen of nab-paclitaxel plus
+gemcitabine and following the same dosing and treatment gemcitabine had tolerableadverse effects with antitumor ac-
+schedule as the previously reported phase II study [27]. tivity[27] and improvedpatients’survivaland responserate
+In addition to those hematologic TEAEs, we observed [3]comparedwithgemcitabinealone.PF-04136398incom-
+three patients with grade 3 pneumonitis, one patient with binationwithFOLFIRINOXwasshowntobewell-tolerated
+grade 4 hypoxia, and one patient with grade 5 pneumonia anddemonstratedclinicalactivityinpatientswithborderline
+among the 21 patients in the current study. The patient with resectableandlocallyadvancedpancreaticcancer[22].Inthe
+grade 5 pneumonia received PF-04136309 500 mg BID in presentstudy,althoughtheefficacyofPF-04136309incom-
+cycle1throughday16,andwashospitalizedduetopneumo- binationwithnab-paclitaxel/gemcitabinecouldnotbeevalu-
+nia6dayslater.Itisimportanttonotethatbothnab-paclitaxel atedadequatelyinasmallpatientpopulation,basedonall21
+and gemcitabine have a known association with pulmonary patients, an ORR of 23.8% was observed; the ORR for the
+toxicity, mainlypneumonitis,bothalone and incombination 500mgBIDtreatmentgroup(n=17)was29.4%.
+(synergistically).Anobservedrateofpneumonitisinpatients ThehypothesizedmechanismofactionofPF-04136309
+treatedwithgemcitabinewasapproximately1%andwasele- is the inhibition of CCL2-induced trafficking of IM from
+vatedupto4%whencombinedwithnab-paclitaxel[3],lead- the bone marrow to the tumor. Three components of this
+ingtoahighlevelofmorbidity.Furthermore,advanced-stage proof of mechanism are the depletion of TAM from the
+disease,smoking,andalcoholconsumption,andpossiblyun- tumor, a decrease of CD14+CCR2+ IM in the peripheral
+derlying lung disease, can be potential risk factors of blood,andtheaccumulationofCD14+CCR2+IMinbone
+gemcitabine-related pneumonitis [28]. Infections, in particu- marrow. Although we observed a drop of CD14+CCR2+
+lar,arefrequentcomplicationsinpatientswithmalignancies. IM in peripheral blood, a decrease of CCR2+ TAM in the
+Although relevant laboratory information was not available, tumorwasonlyobservedfortwopatientsandisinadequate
+bone-marrowsuppression,asapredisposingfactorforinfec- tosupportadefinitiveconclusionaboutthiscomponentof
+tion as well as dyspnea and pneumonitis, is a common side the mechanism of action. Further, an accumulation of
+effect of nab-paclitaxel and gemcitabine. The patient with CCR2+CD14+IMinthebonemarrowdidnottakeplace
+grade5pneumoniawasasmokerandthushadanadditional at week 6 post dose compared with baseline, unlike a pre-
+predisposing factor for respiratory tract infections. vious study examining the combination of PF-04136309
+Nevertheless,weobservedarelativelyhighincidence(24%) with FOLFIRINOX [22]. The lack of accumulation of IM
+of pulmonary toxicity in this study, whereas no pulmonary in the bone marrow can be explained in part by the previ-
+events have been reported in patients administered PF- ousobservationthatgemcitabinetreatmentresultedinper-
+04136309 as a single agent in non-oncology studies (N= sistence of IM in the peripheral blood of patients [8], thus
+178:76healthyvolunteersand102patients)andin39patients possibly counterbalancing the effect of PF-04136309 with
+with advanced PDAC treated with PF-04136309 in regard to IM maintenance in the bone marrow.
+
+--- Page 10 ---
+a
+1000
+750
+500
+400
+300
+200
+100
+0
+Screen 1 2 8 15 28 56 84 112 196 EOT
+Study Day
+Arecentstudythatanalyzedpatientsamplesandmicewith non-metastaticPDACadministeredaCCR2inhibitorshowed
+establishedorthotopictumorsdemonstratedthatpatientswith acompensatoryinfluxofC-X-Cmotifchemokinereceptor2
+)Lm/sllec(
+setyconoM
++2RCC
++41DC
+Partial response
+Stable disease
+Group mean
+nab-P/gem
+dosing
+b
+1000 Progressive disease
+Serious AE
+750
+Withdrawn from study
+500 Group mean
+400
+300
+200
+100
+0
+Screen 1 2 8 15 28 56 84 EOT
+Study Day
+)Lm/sllec(
+setyconoM
++2RCC
++41DC
+nab-P/gem
+dosing
+c
+100
+75
+50
+25
+0
+–25
+–50
+–75
+–100
+)%(
+enilesaB
+morF
+egnahC
+d
+CD8+ T cells (n = 3) 15
+10
+5
+0
+CD4+ T cells (n = 3)
+Treg (Fox P3+) T cells (n = 3)
+slleC
+latoT
+fo
+%
+slleC
+latoT
+fo
+%
+slleC
+4DC
+fo
+%
+InvestNewDrugs(2020)38:800–811 809
+Baseline On Study
+20
+15
+10
+5
+0
+Baseline On Study
+20
+15
+10
+5
+0
+Baseline On Study
+
+--- Page 11 ---
+810 InvestNewDrugs(2020)38:800–811
+ Fig.3 Changesofimmunecelllevelsintheperipheralblood,bone Compliancewithethicalstandards
+marrow, or tumor after dosing with PF-04136309 in combination
+with nab-paclitaxel/gemcitabine. Changes of CD14+ CCR2+ Conflictofinterest MNisaconsultantofCelgeneandTaihoOncology.
+monocytesinpatientswith(a)bestresponseofstablediseaseorpartial
+CDB has received researchfunding to her institution from Pfizer, Eli
+responseor(b)patientswithprogressivedisease,seriousadverseevent,
+Lilly, Celgene, EMD Serono, Five Prime, Regeneron, Tesaro, and
+orwithdrawnfromstudy.cPercentagechangeofCCR2+monocytesin Halozyme,andtravelpaidforbyFivePrime,Genentech,andAmgen.
+thebonemarrow.BarrepresentsSEM.dPercentageofCD8+,CD4+,and
+EOR has received research funding to her institution from Pfizer,
+CD4+FoxP3+Tcellsinbiopsysamplesatbaselineandweek6.Each
+Celgene, Mabvax, Actabiologica, and Halozyme, and is a consultant
+symbolrepresentsindividualpatient.Abbreviations:AEadverseevent, and member of advisory panels for Celgene, Targovax, and Roche.
+CCR2chemokine(C-Cmotif)receptor2,EOTendoftreatment,nab-P/
+BMWhasreceivedresearchfundingfromCelgene,andisaconsultant
+gem nab-paclitaxel/gemcitabine, SEM standard error of mean; Treg
+ofG1Therapeutics,BioLineRx,andGRAIL.DRisanadvisorofMPM
+regulatoryTcell
+Capital.DRisanadvisorandstockholderofMPMCapital,anadvisorfor
+OncorusandGritsoneOncology,receivedroyaltiesfromJohnsHopkins
+UniversityPress,Uptodate,andMcGrawHillandfundingfromPfizer.
+[CXCR2]+tumor-associated neutrophils (TAN), an increase DCLhasreceivedresearchfundingtohisinstitutionfromPfizer.AJBis
+anadvisorforBayer,Halozyme,Taiho,andExelixis.MLisaconsultant
+thatcorrelateswithpoorprognosis in PDAC [29].Targeting
+andmemberofadvisoryboardsforCelgeneandAgiospharmaceuticals.
+CCR2+TAMandCXCR2+TANincombinationcausedin-
+ECG,DY,TH,IAJ,andCTTareemployeesofandholdsharesinPfizer.
+fluxofbothCD8+andCD4+Tcellsinthetumormicroenvi- BGholdssharesinPfizerandisanemployeeof,andholdsstockoptions
+ronment,improvingantitumorimmunityandreducingtumor inLyellImmunopharma.
+burden [29]. In the present study, one patient who received
+Ethicalapproval Allproceduresperformedinstudiesinvolvinghuman
+PF-04136309hadanincreaseinprogrammedcelldeathpro-
+participants werein accordance with the ethical standards ofthe local
+tein 1 (PD-1)+CD4+ and PD-1+CD8+ cells in the tumor
+institutionalreviewandprivacyboardandwiththe1964Helsinkidecla-
+biopsy sample (data not shown), suggesting PF-04136309 ration and its later amendments or comparable ethical standards. The
+alsomodulatedPD-1immunecheckpointinmPDAC.These studywasconductedatsevencentersintheUnitedStatesandwasalso
+in compliance with all International Council for Harmonisation Good
+results imply CCR2 inhibition reprogrammed the immuno-
+ClinicalPracticeGuidelines andalllocalregulatoryrequirements.The
+suppressive tumor microenvironment and that tumor-
+studyisregisteredatClinicalTrials.gov,identifierNCT02732938.
+induced immune plasticity in response to treatment with
+CCRinhibitorsmayberesponsiblefortherapeuticresistance. Informedconsent Informedconsentwasobtainedfromallindividual
+Although our data are limited by the nonrandomized participantsincludedinthestudy.
+design and small sample size, some clinical activity was
+OpenAccess ThisarticleisdistributedunderthetermsoftheCreative
+observed with the combination of PF-04136309 and nab-
+Commons Attribution 4.0 International License (http://
+paclitaxel/gemcitabine; nonetheless the combination had a creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+safety profile that raises concern for synergistic pulmo- distribution, and reproduction in any medium, provided you give
+appropriatecredittotheoriginalauthor(s)andthesource,providealink
+nary toxicity in patients with mPDAC. Inhibition of
+totheCreativeCommonslicense,andindicateifchangesweremade.
+CCR2 by treatment with PF-04136309 in the presence
+of nab-paclitaxel/gemcitabine resulted in a drop of IM in
+peripheral blood and tumor, but unexpectedly did not ac-
+cumulate IM in the bone marrow, possibly due to com-
+References
+pensatory activity by gemcitabine.
+Acknowledgments Theauthorsthankallstudyparticipants,aswellasall 1. RyanDP,HongTS,BardeesyN(2014)Pancreaticadenocarcino-
+ma. N Engl J Med 371:2140–2141. https://doi.org/10.1056/
+investigativesitesandsitestaff,andthefollowingstudyteammembers:
+AnitaTudsico(PfizerInc),DarcyIzzarelli(PfizerInc),BrigitteEnglahner NEJMc1412266
+(PfizerInc),ElenaSpanjaard(PfizerInc),KinnariPandya(PfizerInc), 2. Hidalgo M (2010) Pancreatic cancer. N Engl J Med 362:1605–
+Kimberly Ward (Pfizer Inc), Stephen Danko (Pharmaceutical Product 1617.https://doi.org/10.1056/NEJMra0901557
+Development, Inc), Kenny Zhou (Pharmaceutical Product 3. VonHoffDD,ErvinT,ArenaFPetal(2013)Increasedsurvivalin
+Development, Inc), Daniel Klem (Pharmaceutical Product pancreaticcancerwithnab-paclitaxelplusgemcitabine.NEnglJ
+Development,Inc). Med369:1691–1703.https://doi.org/10.1056/NEJMoa1304369
+4. ConroyT,DesseigneF,YchouMetal(2011)FOLFIRINOXver-
+Role of contributors All authors participated in the interpretation of sus gemcitabine for metastatic pancreatic cancer. N Engl J Med
+studyresults,andinthedrafting,criticalrevision,andapprovalofthe 364:1817–1825.https://doi.org/10.1056/NEJMoa1011923
+finalversionofthemanuscript.EOR,ML,ECG,CTT,BG,DY,TJ,and 5. AdamskaA,DomenichiniA,FalascaM(2017)Pancreaticductal
+DCLwereinvolvedinthestudydesign,datacollection,andinterpreta- adenocarcinoma:currentandevolvingtherapies.IntJMolSci18.
+tion. CDB was involved indatacollectionandinterpretation. AB was https://doi.org/10.3390/ijms18071338
+involvedindatacollection. 6. RodriguezD,SilveraR,CarrioRetal(2013)Tumormicroenvi-
+ronment profoundly modifies functional status of macrophages:
+Funding ThisstudywassponsoredbyPfizer.Medicalwritingsupport peritonealandtumor-associatedmacrophagesaretwoverydifferent
+was provided by Tomo Sawado, PhD, and Chu Kong Liew, PhD, of subpopulations.CellImmunol283:51–60.https://doi.org/10.1016/
+EngageScientificSolutionsandwasfundedbyPfizer. j.cellimm.2013.06.008
+
+--- Page 12 ---
+InvestNewDrugs(2020)38:800–811 811
+7. RolinskiJ,HusI(2014)Breakingimmunotoleranceoftumors:a in mice. Biochem Biophys Res Commun 365:279–284. https://
+new perspective for dendritic cell therapy. J Immunotoxicol 11: doi.org/10.1016/j.bbrc.2007.10.182
+311–318.https://doi.org/10.3109/1547691X.2013.865094 22. NyweningTM,Wang-GillamA,SanfordDEetal(2016)Targeting
+8. SanfordDE,BeltBA,PanniRZetal(2013)Inflammatorymono- tumour-associatedmacrophageswithCCR2inhibitionincombina-
+cytemobilizationdecreasespatientsurvivalinpancreaticcancer:a tionwithFOLFIRINOXinpatientswithborderlineresectableand
+rolefortargetingtheCCL2/CCR2axis.ClinCancerRes19:3404– locally advanced pancreatic cancer: a single-centre, open-label,
+3415.https://doi.org/10.1158/1078-0432.CCR-13-0525 dose-finding, non-randomised, phase 1b trial. Lancet Oncol 17:
+9. Diaz-Montero CM, Salem ML, Nishimura MI, Garrett-MayerE, 651–662.https://doi.org/10.1016/S1470-2045(16)00078-4
+Cole DJ, Montero AJ (2009) Increased circulating myeloid- 23. RahibL,SmithBD,AizenbergR,RosenzweigAB,FleshmanJM,
+derivedsuppressorcellscorrelatewithclinicalcancerstage,meta- Matrisian LM (2014) Projecting cancer incidence and deaths to
+static tumor burden, and doxorubicin-cyclophosphamide chemo- 2030:theunexpectedburdenofthyroid,liver,andpancreascancers
+therapy. Cancer Immunol Immunother 58:49–59. https://doi.org/ intheUnitedStates.CancerRes74:2913–2921.https://doi.org/10.
+10.1007/s00262-008-0523-4 1158/0008-5472.CAN-14-0155
+10. Melani C, Sangaletti S, Barazzetta FM, Werb Z, Colombo MP 24. PokornyAMJ,ChinVT,NagrialAM,YipD,ChantrillLA(2018)
+(2007)Amino-biphosphonate-mediatedMMP-9inhibitionbreaks Metastaticpancreaticductaladenocarcinoma:diagnosisandtreat-
+thetumor-bonemarrowaxisresponsibleformyeloid-derivedsup- mentwithaviewtothefuture.InternMedJ48:637–644.https://
+pressorcellexpansionandmacrophageinfiltrationintumorstroma. doi.org/10.1111/imj.13810
+CancerRes67:11438–11446. https://doi.org/10.1158/0008-5472.
+25. Mitchem JB, Brennan DJ, Knolhoff BL et al (2013) Targeting
+CAN-07-1882
+tumor-infiltratingmacrophagesdecreasestumor-initiatingcells,re-
+11. YangL,DeBuskLM,FukudaKetal(2004)Expansionofmyeloid
+lieves immunosuppression, and improves chemotherapeutic re-
+immunesuppressorgr+CD11b+cellsintumor-bearinghostdirectly sponses.CancerRes73:1128–1141.https://doi.org/10.1158/0008-
+promotestumorangiogenesis.CancerCell6:409–421.https://doi.
+5472.CAN-12-2731
+org/10.1016/j.ccr.2004.08.031
+26. ChioreanEG,CovelerAL(2015)Pancreaticcancer:optimizingtreat-
+12. Bunt SK, Yang L, Sinha P, Clements VK, Leips J, Ostrand-
+mentoptions,new,andemergingtargetedtherapies.DrugDesDevel
+RosenbergS(2007)Reducedinflammationinthetumormicroen- Ther9:3529–3545.https://doi.org/10.2147/DDDT.S60328
+vironmentdelaystheaccumulationofmyeloid-derivedsuppressor
+cellsandlimitstumorprogression.CancerRes67:10019–10026. 27. VonHoffDD,RamanathanRK,BoradMJetal(2011)Gemcitabine
+plusnab-paclitaxelisanactiveregimeninpatientswithadvanced
+https://doi.org/10.1158/0008-5472.CAN-07-2354
+pancreatic cancer:a phaseI/IItrial. J Clin Oncol29:4548–4554.
+13. SinhaP,ClementsVK,BuntSK,AlbeldaSM,Ostrand-Rosenberg
+https://doi.org/10.1200/JCO.2011.36.5742
+S(2007)Cross-talkbetweenmyeloid-derivedsuppressorcellsand
+28. SahinIH,GeyerAI,KellyDW,O'ReillyEM(2016)Gemcitabine-
+macrophagessubvertstumorimmunitytowardatype2response.J
+Immunol179:977–983 related pneumonitis in pancreas adenocarcinoma–an infrequent
+event: elucidation of risk factors and management implications.
+14. Srivastava MK, Sinha P, Clements VK, Rodriguez P, Ostrand-
+Clin Colorectal Cancer 15:24–31. https://doi.org/10.1016/j.clcc.
+Rosenberg S (2010) Myeloid-derived suppressor cells inhibit T-
+2015.08.003
+cellactivationbydepletingcystineandcysteine.CancerRes70:
+68–77.https://doi.org/10.1158/0008-5472.CAN-09-2587 29. NyweningTM,BeltBA,CullinanDRetal(2018)Targetingboth
+15. GabrilovichDI,NagarajS(2009)Myeloid-derivedsuppressorcells tumour-associated CXCR2(+) neutrophils and CCR2(+) macro-
+asregulatorsoftheimmunesystem.NatRevImmunol9:162–174. phagesdisruptsmyeloidrecruitmentandimproveschemotherapeu-
+https://doi.org/10.1038/nri2506
+ticresponsesinpancreaticductaladenocarcinoma.Gut67:1112–
+16. MarxJ(2008)Cancerimmunology.Cancer'sbulwarkagainstim- 1123.https://doi.org/10.1136/gutjnl-2017-313738
+muneattack:MDScells.Science319:154–156.https://doi.org/10.
+1126/science.319.5860.154 Publisher’s note Springer Nature remains neutral with regard to
+17. Ostrand-RosenbergS,SinhaP(2009)Myeloid-derivedsuppressor jurisdictionalclaimsinpublishedmapsandinstitutionalaffiliations.
+cells:linkinginflammationandcancer.JImmunol182:4499–4506.
+https://doi.org/10.4049/jimmunol.0802740
+18. Ostrand-Rosenberg S (2010) Myeloid-derived suppressor cells: DataSharing Uponrequest,andsubjecttocertaincriteria,conditions
+more mechanisms for inhibiting antitumor immunity. Cancer and exceptions (see https://www.pfizer.com/science/clinical-trials/trial-
+Immunol Immunother 59:1593–1600. https://doi.org/10.1007/ data-and-results for more information), Pfizer will provide access to
+s00262-010-0855-8 individualde-identifiedparticipantdatafromPfizer-sponsoredglobalin-
+19. HuangB,LeiZ,ZhaoJetal(2007)CCL2/CCR2pathwaymediates terventionalclinicalstudiesconductedformedicines,vaccinesandmed-
+recruitmentofmyeloidsuppressorcellstocancers.CancerLett252: icaldevices(1)forindicationsthathavebeenapprovedintheUSand/or
+86–92.https://doi.org/10.1016/j.canlet.2006.12.012 EUor(2)inprogramsthathavebeenterminated(i.e.,developmentforall
+20. Huang B, Pan PY, Li Q et al (2006) Gr-1+CD115+ immature indicationshasbeendiscontinued).Pfizerwillalsoconsiderrequestsfor
+myeloid suppressor cells mediate the development of tumor- theprotocol,datadictionary,andstatisticalanalysisplan.Datamaybe
+induced Tregulatory cells and T-cell anergy in tumor-bearing requestedfromPfizertrials24monthsafterstudycompletion.Thede-
+host. Cancer Res 66:1123–1131. https://doi.org/10.1158/0008- identified participantdatawillbemadeavailabletoresearcherswhose
+5472.CAN-05-1299 proposalsmeettheresearchcriteriaandotherconditions,andforwhich
+21. Koga M, Kai H, Egami K et al (2008) Mutant MCP-1 therapy an exception doesnot apply, via a secure portal.To gain access, data
+inhibits tumor angiogenesis and growth of malignant melanoma requestorsmustenterintoadataaccessagreementwithPfizer.

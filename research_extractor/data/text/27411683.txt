@@ -1,0 +1,571 @@
+Source: 27411683.pdf
+Extracted on: Sat Sep 13 00:01:25 PDT 2025
+==================================================
+
+--- Page 1 ---
+Huangetal.BMCCancer (2016) 16:464
+DOI10.1186/s12885-016-2517-5
+RESEARCH ARTICLE Open Access
+Phase I/II dose-finding study of
+nanoparticle albumin-bound paclitaxel
+nab
+( ®-Paclitaxel) plus Cisplatin as Treatment
+for Metastatic Nasopharyngeal Carcinoma
+Yan Huang1,2† , Wenhua Liang4,1,2† , Yunpeng Yang1,2† , Liping Zhao5,1,2, Hongyun Zhao1,2, Xuan Wu6,1,2,
+Yuanyuan Zhao1,2, Yang Zhang1,2 and Li Zhang1,2,3,7*
+Abstract
+Background: This phase I/II study aimed to determine the maximum tolerated dose (MTD) of nanoparticle
+albumin-bound paclitaxel (nab®-paclitaxel) plus cisplatin as treatment for metastatic nasopharyngeal
+carcinoma (NPC).
+Methods: Patients were enrolled into 1 of 3 dose cohorts, each with 21-day treatment cycles: 1)
+intravenous (IV) nab-paclitaxel 260 mg/m2 on day 1; 2) IV nab-paclitaxel 140 mg/m2 on days 1 and 8; 3)
+IV nab-paclitaxel 100 mg/m2 on days 1, 8, and 15. All patients received IV cisplatin 75 mg/m2 on day 1.
+Treatment continued for 4–6 cycles, or until progression or unacceptable toxicity. If more than one-third of
+the patients in a cohort experienced a dose-limiting toxicity (DLT), the dose used in the previous cohort
+would be designated the MTD. Secreted protein acidic and rich in cysteine (SPARC) expression was
+detected by immunohistochemistry staining.
+Results: Sixty-nine patients were enrolled, of whom 64 and 67 were eligible for efficacy and safety analysis,
+respectively. Two DLTs occurred in cohort 1 (grade 4 febrile neutropenia, grade 3 myalgia), none occurred
+in cohort 2, and 2 occurred in cohort 3 (both grade 3 fatigue). The MTD was not reached. Partial responses
+were achieved by 42 patients, 15 had stable disease, and 7 had progressive disease, giving an overall
+response rate of 66 %. Median progression-free survival was 9 months (95 % CI, 6–12 months). Grade≥3
+adverse events were mainly hematologic. There was no significant difference between the 3 cohorts with
+respect to efficacy or safety. Biomarker analyses indicated that stromal, rather than tumoral, SPARC may
+predict the response to nab-paclitaxel in NPC.
+Conclusions: Our findings suggest that nab-paclitaxel plus cisplatin is a highly active regimen with moderate
+toxicity for the treatment of metastatic NPC, which warrants further investigation in a phase III study.
+Trial registrations: ClinicalTrials.gov ID: NCT01735409. The trial was registered on November 20th, 2012.
+*Correspondence:zhangli6@mail.sysu.edu.cn
+†Equalcontributors
+1SunYat-senUniversityCancerCenter,Yuexiu,Guangzhou,China
+2StateKeyLaboratoryofOncologyinSouthChina,Guangzhou,China
+Fulllistofauthorinformationisavailableattheendofthearticle
+©2016TheAuthor(s).OpenAccessThisarticleisdistributedunderthetermsoftheCreativeCommonsAttribution4.0
+InternationalLicense(http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedyougiveappropriatecredittotheoriginalauthor(s)andthesource,providealinkto
+theCreativeCommonslicense,andindicateifchangesweremade.TheCreativeCommonsPublicDomainDedicationwaiver
+(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,unlessotherwisestated.
+
+--- Page 2 ---
+Huangetal.BMCCancer (2016) 16:464 Page2of11
+Background Methods
+Nasopharyngealcarcinoma(NPC)hasaparticularlyhigh Studydesign
+incidence in Southern China (annual incidence>20/ This was a single-center, single-arm, non-randomized,
+100,000 population [1–3]). Risk factors for NPC in- open-label, phase I/II trial, conducted at the Sun Yat-sen
+clude, but are not limited to, Chinese ethnicity, male University Cancer Center in Guangzhou, China. Eligible
+gender, family history or a genetic predisposition, patients were enrolled into 3 dose cohorts, each with
+smoking, and Epstein-Barr virus (EBV) infection [1, 2]. 21-day treatment cycles: cisplatin 75 mg/m2 IV on day 1
+Platinum-based chemotherapy is the backbone of treat- with sufficient hydration, plus nab-paclitaxel IV (30-min
+ment for metastatic or recurrent NPC [4–6], with infusion) at doses of: 260 mg/m2 on day 1 (cohort 1,
+cisplatin or, less commonly, carboplatin typically being dose intensity 260 mg/m2 per cycle); 140 mg/m2 on days
+administered with 1 or 2 other active chemotherapeutic 1 and 8 (cohort 2, dose intensity 280 mg/m2 per cycle);
+agents [4–6]. or100mg/m2ondays1,8,and15(cohort3,doseinten-
+When combined with platinum-containing chemo- sity 300 mg/m2 per cycle). Treatment was administered
+therapy, paclitaxel has been shown to be effective in for 4–6 cycles, or until disease progression or unaccept-
+the treatment of advanced or metastatic NPC [7–14]. abletoxicity.
+Indeed, paclitaxel plus cisplatin or carboplatin com- It was planned that 23 patients would be enrolled into
+binations are now considered standard treatment op- each cohort. If more than one-third of patients in a
+tions [4–6]. Traditional solvent-based paclitaxel is given cohort experienced a dose-limiting toxicity (DLT)
+highly hydrophobic, and is therefore formulated in a during all treatment cycles, enrollment would be
+mixture of polyoxyethylated castor oil (Cremophor stopped and the dose used in the previous cohort would
+EL) and ethanol to facilitate intravenous (IV) infusion be designated as the maximum tolerated dose (MTD).
+[15]. Nanoparticle albumin-bound paclitaxel (nab®- At the initiation stage, we followed the routine mode
+paclitaxel; ABRAXANE, Celgene, Summit, NJ, USA) of dose escalation studies: we enrolled a total of 3 pa-
+is a water-soluble form of paclitaxel linked to albumin tients into cohort 1. After the 3 patients in this co-
+nanoparticles [16]. In a number of metastatic solid tu- hort completed the designated cycles of treatment,
+mors, nab-paclitaxel has shown similar or superior ef- and no more than 1 DLT occurred, we started cohort
+ficacy to traditional solvent-based paclitaxel, but with 2 and enrolled another 3 patients for dose checking
+an improved safety profile [17–20]. Indeed, its ap- (the same for cohort 3). The cohorts that have com-
+proval in combination with carboplatin for the treat- pleted the initiation stage then entered the expansion
+ment of locally advanced metastatic non-small cell stage and additional 20 participants were recruited.
+lung cancer was based on clinical trial results de- Eligible patients were sequentially assigned to all ac-
+monstrating significantly improved response rates ver- tive cohorts (either in initiation stage or expansion
+sus solvent-based paclitaxel plus carboplatin [19]. As stage) one by one. If more than 1 patient experienced
+nab-paclitaxel is associated with a lower incidence of DLT in the initiation stage or more than 1/3 of total
+neurological toxicities than solvent-based paclitaxel patients experienced DLT in the expanding stage of
+[19], and in view of the potentially increased clinical any cohort, the corresponding cohort will be closed
+activity of cisplatin versus carboplatin [21, 22], we and the remaining quota of the cohort would be re-
+decided to evaluate nab-paclitaxel in combination assigned to the previous dose cohort.
+with cisplatin in the treatment of metastatic NPC. DLTs were defined as any of the following: National
+This phase I/II, dose-finding study (ClinicalTrials.gov Cancer Institute Common Terminology Criteria for
+registration ID: NCT01735409) was designed to in- Adverse Events (NCI-CTCAE) grade 4 neutropenia last-
+vestigate the safety (especially with regard to neu- ing for>7 days; neutropenia with fever (defined as an
+rological effects), tolerability, and antitumor activity of absolute neutrophilcount [ANC]<1×109/L with abody
+3 different doses/dosing schedules of nab-paclitaxel temperature of≥38.3 °C); grade 4 thrombocytopenia, or
+when combined with cisplatin for the treatment of grade 3 thrombocytopenia with hemorrhage; grade≥3
+metastatic NPC. As elevated expression of secreted neuropathy; or any other grade≥3 non-hematologic
+protein acidic and rich in cysteine (SPARC) is associ- toxicitythatdidnotresolvefollowingsymptomatictreat-
+ated with metastasis and a poor prognosis in NPC ment. Concomitant medications without antineoplastic
+[23], evaluation of the relationship between SPARC activitywere permitted, buttheirusewasrecorded.
+expression and the clinical activity of nab-paclitaxel The study was conducted according to the Declaration
+was an exploratory objective of the study. Investiga- of Helsinki, Good Clinical Practice guidelines, and local
+tion of the correlation between post-treatment EBV- regulatory requirements. The Ethics Committee of Sun
+DNA copy number and clinical outcomes was also an Yat-sen University approved the protocol. All patients
+exploratory objective. providedwritten informed consent.
+
+--- Page 3 ---
+Huangetal.BMCCancer (2016) 16:464 Page3of11
+Treatment could be delayed for a maximum of Endpoints
+2 weeks to allow recovery from toxicity. For dose adjust- Primaryendpoint
+ments, if patients suffered from grade 4 neutropenia or The primary endpoint was MTD (phase I setting). The
+thrombocytopenia, a 25 % reduction in nab-paclitaxel primary efficacy endpoint, (phase II setting) which was
+was applied in the subsequent cycle/administration. used to estimate sample size, was the objective response
+Subsequent dose escalation to the original dosage was rate (ORR; defined as the proportion of patients with a
+allowed providing the patient tolerated the doses given complete response [CR] or partial response [PR]) accord-
+at the 75 % level. For non-hematological toxicities, ing to Response Evaluation Criteria in Solid Tumors
+nab-paclitaxel and cisplatin were reduced to a 75 % (RECIST) version 1.1 [25].Tumor assessment was under-
+dose if there were grade 3 toxicities, and the patient taken every 2 cycles, with best responses being recorded.
+went off-study with grade 4 toxicities, excluding those Responseswereassessedbytheinvestigatoronly.
+due to nausea/vomiting or alopecia. Patients went off-
+study if they suffered from grade 3 or worse neur- Secondaryendpoints
+opathy. Subsequent dose escalation was not allowed. Secondary endpoints included: disease control rate (DCR;
+A maximum of 2 dose reductions per patient was defined as the proportion of patients with a CR, PR, or
+allowed. bestresponseofstabledisease[SD]),andprogression-free
+survival (PFS) measured from the date of first infusion
+Patients untilthedateofprogressionordeath.
+Patients aged≥18 years with a histologically proven diag-
+nosis of NPC and evidence of metastatic disease were Assessments
+enrolled. Principal inclusion criteria were: previous failure Safetyassessments
+or intolerance of standard treatment (prior chemotherapy Safety and tolerability were assessed by adverse event
+or radiotherapy up to one line) for advanced NPC, or (AE) monitoring and evaluation of vital signs, hepatic
+ineligibility for standard therapy (intermediate radiother- and renal function, electrocardiograms, blood counts,
+apy for local disease); an Eastern Cooperative Oncology and changes in electrolytes. AEs were graded according
+Group performance status (ECOG PS) of 0–2; at least 1 toNCI-CTCAEversion 4.0.
+measurableevaluablelesion;lifeexpectancyof≥12weeks;
+adequatehematologic(ANC>1.5×109/L,plateletcount> Efficacyassessments
+100×109/L, and hemoglobin≥90 g/L), hepatic (aspartate Antitumor activity wasevaluated in the response-evaluable
+aminotransferase [AST] and alanine aminotransferase population,definedasallpatientswhomcompleted4–6cy-
+[ALT]<2.5×upper limit of normal [ULN], and bilirubin cles of treatment with post-baseline response assessments.
+<1.0×ULN), and renal (serum creatinine<1.5×ULN or Safetyendpointswereassessedinthesafety population(all
+estimated creatinine clearance≥60 mL/min [calculated patientswhoreceived≥1doseofstudymedication).
+using the Cockcroft-Gault formula]; [24]) function; and
+willingness to provide a biopsy sample for assessment of AssessmentofEBV-DNAcopynumber
+SPARCexpression. EBV-DNA copy number was evaluated at baseline and
+Exclusion criteria included: treatment with either after each chemotherapy cycle (before administration of
+more than 2 prior lines of anticancer therapy for any study medication), using real-time, quantitative,
+metastatic disease, or any chemotherapy, radiother- fluorescence-based polymerase chain reaction (PCR).
+apy, or other anticancer therapies within 3 weeks be- The primer and probe sequences are as follows: AGT
+fore enrollment; central nervous system metastases; CTTCTGTCCTCCAGGCAA (forward), ACAGAGGGC
+pre-existing peripheral neuropathy of NCI-CTCAE CTGTCCACCG (reverse), FAM-CACTGTCTGTAAAG
+grade≥2; any active, clinically serious infection re- TCCAGCCTCC-TAMRA(probe).
+quiring or likely to require antibiotics for>4 weeks;
+a life-threatening medical condition (e.g., congestive AssessmentofSPARCexpression
+heart failure, symptomatic coronary artery disease, or Immunohistochemical assessment of SPARC expression
+heart block); a history of myocardial infarction within was carried out at the end of enrollment. All the tissue
+3 months before enrollment; prior or current immuno- samples were stored samples that were obtained from
+deficiency; a history of allergy to paclitaxel or docetaxel; the primary lesion or metastatic lymph nodes before
+or a previous or concurrent malignancy other than curative radiotherapy or first-line chemotherapy. SPARC
+NPC (except cervical carcinoma in situ, treated basal were marked using mouse monoclonal antibody (Life
+cell carcinoma, superficial bladder tumors [Ta, Tis, Technologies®, clone No., ON1-1). Expression was qu-
+T1], or any cancer curatively treated>3 years prior to antified using H-score [26] for tumoral SPARC and Z-
+study entry). score [27]forstromalSPARC.
+
+--- Page 4 ---
+Huangetal.BMCCancer (2016) 16:464 Page4of11
+Statisticalanalyses intolerable toxicities were reported in any of the 5 pa-
+Samplesizeestimation tients who withdrew prematurely. Sixty-seven patients
+The clinical activity of nab-paclitaxel was assessed using were included in the safety population (2 patients with-
+historical controls. The response rate of the most com- drew after receiving only the first dose and were reluc-
+monly used standard regimen of 5-fluorouracil and cis- tant to provide toxicity report. Thus, we were unable to
+platin for the treatment of advanced NPC is 60 % [3]. include theminto thesafetyanalysis.).
+Superiority of nab-paclitaxel plus cisplatin versus histor- Demographicsandbaselinecharacteristicswerebalanced
+ical controls would be established if the ORR reached betweenthe3nab-paclitaxeldosecohorts(Table1).
+70 %, based on a value of half the bilateral 95 % CI, 50–
+90 %. To give a significance level (α) of 0.05 with 80 % Dose-limitingtoxicityandmaximumtolerateddose
+statistical power according to the Exact (Clopper-Pear- DLTs were observed in 2 patients in each of cohort 1
+son) approach, it was calculated that the study would (grade 4 febrile neutropenia [cycle 2; managed using
+need toenroll69patients(23ineachcohort). granulocyte-colonystimulating factor]andgrade3myal-
+gia [cycle 1; managed using a COX-2 inhibitor]) and
+Statisticalmethods cohort 3 (both grade 3 fatigue; cycles 1 and 2). All DLTs
+For comparisons of baseline characteristics or rate of ef- resolved and the patients received a 25 % dose reduction
+ficacy/toxicity among all cohorts, one-way ANOVA was of nab-paclitaxel in all subsequent cycles. DLTs were not
+used to compare the means of continuous variables, reported in cohort 2. The incidence of DLTs did not
+non-parametric test was used to compare the median differ significantly between the 3 cohorts (cohort 1, 9 %;
+values,and R×Ctable Chi-squaretestwas usedto com- cohort 2, 0 %; cohort 3, 8 %; P=0.37). As less than one-
+pare the categorical parameters. For survival analyses, third of the patients in each cohort experienced a DLT,
+time-to-event distribution was estimated using the theMTDwasnot reached.
+Kaplan-Meier method; the p value for the stratified log-
+rank test was obtained from the score test. For all tests, Antitumoractivity
+P value<0.05wasconsideredtobesignificant. Among the 64 evaluable patients, 42 achieved a PR, 15
+had SD, and 7 had progressive disease, resulting in an
+Subgroupanalyses ORR of 66 % and a DCR of 89 % (Table 2). None of the
+Subgroup analyses were performed post-hoc, and in- patients achieved a CR. Fig. 1 shows the maximum
+cluded: assessment of ORR in chemotherapy-naïve ver- change in the sum of the longest diameters of target
+sus previously treated patients, and in paclitaxel-naïve lesions for all 64 response-evaluable patients. One pa-
+versus paclitaxel-pretreated patients; comparison of tient underwent a mixed response, partial response of
+DCR between patients with a>10 % decrease in EBV- the pulmonary lesion but progressive disease of the
+DNA from baseline after cycle 1 versus those with a≤ lesion at axillary lymph node, which was considered as
+10 % decrease; and analysis of PFS in patients with≤ overall progressive disease in this study. No statistically
+30 %, > 30 to<50 %, and≥50 % tumor regression (de- significant differences in ORR were observed between
+fined as the maximum decrease in the sum of the lon- the3dose cohorts(P=0.94;Table2).
+gest diameters of target lesions), and in patients with In the post-hoc subgroup analyses, chemotherapy-
+complete EBV-DNA clearance at any time during treat- naïve patients achieved a significantly higher ORR than
+ment versus those with non-zero trough EBV-DNA. Es- chemotherapy-pretreated patients (100 % [17/17] vs.
+timations and comparisons of PFS between the 3 dose 53 % [25/47], respectively; P<0.01). The ORR was
+cohorts and the exploratory subgroups were carried out numerically, but not statistically significantly, higher
+byKaplan-Meiermethodologyusingalog-rank test. in paclitaxel-naïve than in paclitaxel-pretreated pa-
+tients(58%[18/31]vs.44%[7/16],respectively;P=0.35).
+Results When stratified according to EBV-DNA copy number,
+Patients patients with a>10 % decrease in EBV-DNA from
+Between January 2013 and January 2014, 69 eligible baseline to cycle 1 achieved a DCR of 95 %, whereas,
+patients were enrolled: 23 into cohort 1, 22 into cohort patients with a≤10 % decrease had a DCR of 76 %
+2, and 24 into cohort 3. In total, 64 patients received 4– (P=0.02).
+6 cycles of chemotherapy and were included in the MedianPFSamongallevaluablepatientswas9months
+response-evaluable population. Five patients discontin- (95 % CI, 6–12; Fig. 2a), and did not differ significantly
+ued the study before completing 4–6 cycles of chemo- between the 3 dose cohorts (7 vs. 6 vs. 9 months, re-
+therapy for personal reasons (4 patients after 1 cycle, spectively; P=0.91; Fig. 2b). However, median PFS
+owing to unwillingness to receive the study therapy, and did differ significantly between patients with a≤30 %,
+1 patient after 2 cycles for economic reasons). No > 30 to<50 %, and≥50 % decrease in the sum of the
+
+--- Page 5 ---
+Huangetal.BMCCancer (2016) 16:464 Page5of11
+Table1Patientdemographicsandbaselinecharacteristics(safetypopulation)
+Characteristic Cohort1(n=23) Cohort2(n=22) Cohort3(n=24) Pa
+Meanage,years(SD) 47(10) 50(10) 45(12) 0.27
+Male,n(%) 22(96) 19(86) 20(83) 0.39
+WHOhistopathologicalgrade,n(%) 0.77
+GradeI 2(9) 2(9) 1(4)
+GradeII 0 0 0
+GradeIII 21(91) 20(91) 23(96)
+Currentorpastsmoker,n(%) 13(57) 15(68) 14(58) 0.69
+Alcoholuse,n(%) 19(83) 18(82) 19(79) 0.95
+Metastaticsites,n(%)
+Lung 8(35) 5(22) 7(29) 0.67
+Liver 8(35) 10(45) 13(54) 0.41
+Bone 13(57) 12(55) 12(50) 0.90
+Distantlymphnodes 7(30) 7(32) 4(17) 0.43
+Multiplesites 10(44) 10(46) 10(42) 0.97
+Priorchemotherapy,n(%)
+Anychemotherapy 16(70) 15(68) 20(83) 0.43
+Paclitaxel 5(21) 4(27) 9(45) 0.49
+Treatmenthistory,n(%) 0.07
+Failed1st-linechemotherapy 15(65) 10(46) 12(50)
+Recurrenceaftercurativetreatment 1(4) 6(27) 9(38)
+Treatment-naïve 7(30) 6(27) 3(13)
+Mediancyclesofpriorlinesofchemotherapy(range) 5(1to14) 5(2to8) 4(1to10) 0.75
+Meantimesincelastchemotherapy,months(SD) 4(4) 7(11) 7(8) 0.40
+Priorradiotherapy,n(%) 10(44) 11(50) 17(71) 0.143
+Cohort1,cisplatin75mg/m2day1+nab-paclitaxel260mg/m2day1Q3W;Cohort2,cisplatin75mg/m2day1+nab-paclitaxel140mg/m2day1,8Q3W;Cohort
+3,cisplatin75mg/m2day1+nab-paclitaxel100mg/m2day1,8,15Q3W
+aPvaluefortheinter-cohortdifference
+Q3W,every3weeks;SD,standarddeviation;WHO,WorldHealthOrganization
+longest diameters of target lesions (P=0.001; Fig 2c). Stromal SPARC overexpression predicted significantly
+Additionally, median PFS was significantly longer in better response (74 % [40/54] vs. 29 % [2/7]; odds ratio
+patients with complete EBV-DNA clearance at any [OR] 7.1; 95 % CI, 1.2–41.1; P=0.03) and prolonged PFS
+time during treatment than in those with non-zero (9vs.3months;P=0.01).However,SPARCexpressionon
+trough EBV-DNA (9 vs. 6 months, respectively; P=0.02; the tumor cell surface alone failed to predict response to
+Fig.2d). treatment(74%[29/39]vs.59%[13/22];OR1.4;95%CI,
+Table2TumorresponseaccordingtoRECISTversion1.1(response-evaluablepopulation)
+Response Patients,n(%) Pa
+Allpatients(N=64) Cohort1(n=22) Cohort2(n=19) Cohort3(n=23)
+CR 0 0 0 0 NA
+PR 42(66) 15(68) 12(63) 15(65) 0.94
+SD 15(23) 5(23) 4(21) 6(26) 0.93
+PD 7(11) 2(9) 3(16) 2(9) 0.72
+ORR 42(66) 15(68) 12(63) 15(65) 0.94
+DCR 57(89) 20(91) 16(84) 21(91) 0.72
+Cohort1,cisplatin75mg/m2day1+nab-paclitaxel260mg/m2day1Q3W;Cohort2,cisplatin75mg/m2day1+nab-paclitaxel140mg/m2day1,8Q3W;Cohort
+3,cisplatin75mg/m2day1+nab-paclitaxel100mg/m2day1,8,15Q3W
+aPvaluefortheinter-cohortdifference
+NA,notapplicable;PD,progressivedisease
+
+--- Page 6 ---
+Huangetal.BMCCancer (2016) 16:464 Page6of11
+Fig.1Waterfall plot of maximum percentage change in the sum of the longest diameters of target lesions. PD was defined as an
+increase of>20 % in tumor size; PR was defined as a decrease of>30 % in tumor size
+0.7–2.8;P=0.38).Representativeexamplesoftumorsam- patient from cohort 2 died during treatment (between
+plesstainedforSPARCexpressionareshowninFig.3. cycles 4 and 5) following a cerebral infarction; this was
+thoughttobepartially relatedtotreatment.
+Safety
+All patients included in the safety analysis experienced at Discussion
+least 1 AE during treatment. AEs of grade≥3 occurred in Our results demonstrate moderate toxicity and substan-
+51 patients (76 %). No patients discontinued the trial tial antitumor activity of nab-paclitaxel plus cisplatin in
+because of AEs. There were a total of 285 events of dose metastatic NPC, particularly among chemotherapy-naïve
+delaying and 21 events of dose reduction in a total of 628 patients.
+administrations in 316 cycles (note: there are 1, 2 and 3 Among evaluable patients, the ORR was 66 % (100 %
+administrationspercycleincohort1,2and3respectively). inchemotherapy-naïve patients), theDCRwas89%,and
+The most commonly reported AEs of any grade were median PFS was 9 months. The high antitumor activity
+alopecia (97 %) and leucopenia (96 %; Table 3). Grade≥3 of the nab-paclitaxel/cisplatin regimen reflects the
+AEs were mainly hematologic in nature. The most com- known chemosensitivity ofNPC [3,4]. TheORRof66 %
+mon were neutropenia (64 %) and leucopenia (54 %; is consistent with response rates reported for standard-
+Table 3). Only one case experienced febrile neutropenia of-care, first- (50–90 %) and second-line (22–75 %)
+but recovered soon after granulocyte colony stimulat- platinum-based doublets in metastatic NPC [3]. The
+ing factor treatment and empirically prophylactic anti- 100 % ORR in chemotherapy-naïve patients suggests
+biotic treatment, without any evidence of infection. that nab-paclitaxel/cisplatin may be particularly active in
+Non-hematologic grade≥3 AEs that occurred in≥5 % of frontline use. However, as responses were seen in both
+patients were vomiting (6 %), fatigue (5 %), and skin rash paclitaxel-naïve and paclitaxel-pretreated patients, prior
+(5%).Nograde4non-hematologiceventsoccurred. treatment with taxane-based therapy should not be
+There were no significant differences between the 3 considered a barrier to treatment with nab-paclitaxel.
+cohorts in the incidence of individual AEs (any grade or ThemedianPFSof9monthsisalso consistentwith data
+grade≥3), except for grade 1–2 edema, which was reported for active platinum-based doublets in meta-
+significantly more common in cohort 3 (P=0.004). One static or recurrent NPC (median, 4–11 months; [3]). As
+
+--- Page 7 ---
+Huangetal.BMCCancer (2016) 16:464 Page7of11
+Fig.2Kaplan-Meieranalysisofmedianprogressionfreesurvivalin:a,allstudypatients;b,all3nab-paclitaxeldosecohorts;c,patients
+with≤30%,>30to<50%,and≥50%maximumdecreaseinthesumofthelongestdiametersoftargetlesions;andd,patientswith
+completeEBV-DNAclearanceatanytimeduringtreatmentversusthosewithnon-zerotroughEBV-DNA.Cohort1,cisplatin75mg/m2day
+1+nab-paclitaxel260mg/m2day1Q3W;Cohort2,cisplatin75mg/m2day1+nab-paclitaxel140mg/m2day1,8Q3W;Cohort3,cisplatin
+75mg/m2day1+nab-paclitaxel100mg/m2day1,8,15Q3W.CI,confidenceinterval
+would be expected, patients in our study with the largest reports of severe neuropathy. Although half the enrolled
+reductionsintumor sizehadthelongestPFS(Fig. 2c). population had received cisplatin-based first-line ther-
+Toxicities associated with nab-paclitaxel and cisplatin apy, we observed no intolerable aggravation of neur-
+were predictable, generally acceptable, and manageable. opathy among these patients. The overall incidence of
+Only 4 DLTs were reported, and the MTD was not all-grade or grade 3/4 toxicities might be numerically
+reached. Toxicities associated with nab-paclitaxel and higher in this study than previous reports on nab-
+cisplatin were mainly hematologic in nature, and were paclitaxel regimens [17–20]. There are several potential
+typical of platinum/paclitaxel doublets in metastatic/re- reasons; first, more than half of all included patients
+current NPC and other head and neck carcinomas [7–9, were in 2nd line chemotherapy in this study, patients in
+28–33]. Grade≥3 hematologic toxicities were observed this group may be more susceptible to toxicity especially
+in the majority of patients; however, grade≥3 non- hematological types. Second, all included patients were
+hematologic toxicities were relatively uncommon (inci- Chinese.Thereisarelativelylargebodyofevidenceshow-
+dence≤6 % for individual AEs), and there were no ing that Asianpopulations experience higherincidence of
+
+--- Page 8 ---
+Huangetal.BMCCancer (2016) 16:464 Page8of11
+Fig.3SPARCproteinexpression.Panelsa(20×magnification)andc(40×magnification)showhighstromalexpressionandlowexpressionon
+thetumorsurface;panelsb(20×magnification)andd(40×magnification)showthatstromalexpressionisscarce,andthereislittleexpression
+onthetumorsurface
+or more severe toxicities at the standard dose com- theinconvenienceofIVdruginfusion,werecommendthat
+pared with Caucasians [34]. Third, since this is a thenab-paclitaxeldoseof260mg/m2givenonday1every
+phase I/II study, we used a self-report form and more 3weeksshouldbetakenforwardintofurtherstudiesofthe
+intense inquiry strategy to track the toxicity event in nab-paclitaxel/cisplatincombinationinmetastaticNPC.
+order not to miss any of the events we concerned, EBV-DNA levels during treatment have been shown to
+which might contribute to higher recorded toxicity predict disease progression/relapse and overall survival
+than some historical data. (OS) in both non-metastatic and metastatic NPC [36–42].
+To our knowledge, this is the first dose-finding clinical Inourstudy,areductioninEBV-DNAcopynumberduring
+trial to evaluate nab-paclitaxel combined with cisplatin treatment with nab-paclitaxel and cisplatin predicted both
+alone in metastatic NPC. One important implication of disease control and prolonged PFS. Patients with a>10 %
+ourresultsisthatnab-paclitaxelcombinedwithcisplatin decreaseinEBV-DNAfrombaselineaftercycle1hadasta-
+is a safe, tolerable regimen, especially with respect to tistically higher DCR than patients with a≤10 % decrease
+neuropathy.Thesefindingscanbeprojectedtothetreat- (95 % vs. 76 %, respectively; P=0.02). Similarly, patients
+ment of other malignant tumors, such as non-small cell withcompleteEBV-DNAclearanceduringtreatmenthada
+lungcancerandovariancancer. longer PFS than those with non-zero trough EBV-DNA
+Previous studies in other indications have shown that (median, 9 vs. 6 months, respectively; P=0.02). Overall,
+nab-paclitaxel has an AE profile similar in nature to that theseresultssuggestthatchangesinEBV-DNAcopynum-
+of conventional paclitaxel, but with a lower incidence of ber may be a practical surveillance tool in patients with
+some AEs (e.g., grade≥3 neutropenia, arthralgia, and metastatic NPC receiving nab-paclitaxel/cisplatin combin-
+myalgia), and without side effects usually attributed to ationtreatment.
+Cremophor EL, such as bronchospasms, hypotension, SPARC overexpression has been associated with a re-
+and hypersensitivity reactions [17–19, 35]. Consistently, duced disease-free interval and poorer OS in patients
+nosuchAEswere observedinourstudy. with head and neck cancer [43]. However, due to the
+Neither toxicity (except for any-grade edema, which was interaction between SPARC and albumin-bound drugs,
+more common in the highest dose cohort) nor antitumor SPARC overexpression may be predictive of improved
+activity differed significantly between the 3 nab-paclitaxel outcomes following treatment with nab-paclitaxel in
+dosecohorts.Basedonthesefindings,andbearinginmind head and neck cancer and advanced pancreatic cancer
+
+--- Page 9 ---
+Huangetal.BMCCancer (2016) 16:464 Page9of11
+Table3Adverseevents(NCI-CTCAEversion4.0)reportedduringtreatmentwithnab-paclitaxelandcisplatin(safetypopulation)
+AE Patientswithgrade1–2AEs,n(%) Pa Patientswithgrade≥3AEs,n(%) Pa
+All Cohort1 Cohort2 Cohort3 All Cohort1 Cohort2 Cohort3
+(N=67) (n=23) (n=21) (n=23) (N=67) (n=23) (n=21) (n=23)
+Anytype 67(100) 23(100) 21(100) 23(100) NA 51(76) 17(74) 17(81) 17(74) 0.82
+Hematologicb
+Leucopenia 64(96) 21(91) 21(100) 22(96) 0.38 36(54) 10(43) 13(62) 13(57) 0.45
+Neutropenia 58(87) 20(87) 18(86) 20(87) 0.99 43(64) 15(65) 14(67) 14(61) 0.92
+Anemia 55(82) 16(70) 19(90) 20(87) 0.15 6(9) 3(13) 1(5) 2(9) 0.63
+Thrombocytopenia 18(27) 8(35) 5(24) 5(22) 0.57 0 0 0 0 NA
+Non-hematologicc N=64 n=23 n=18 n=23 N=64 n=23 n=18 n=23
+Alopecia 62(97) 21(91) 21(91) 23(100) 0.16 0 0 0 0 NA
+Fatigue 57(89) 21(91) 17(94) 19(83) 0.44 3(5) 1(4) 0 2(9) 0.42
+Anorexia 53(83) 21(91) 16(89) 16(70) 0.11 0 0 0 0 NA
+Myasthenia 52(81) 18(78) 17(94) 17(74) 0.22 2(3) 0 0 2(9) 0.16
+Neuropathy 46(72) 17(74) 15(83) 14(61) 0.27 0 0 0 0 NA
+Constipation 42(66) 14(61) 15(83) 13(57) 0.17 0 0 0 0 NA
+Nausea 40(63) 15(65) 13(72) 12(52) 0.40 0 0 0 0 NA
+Arthralgia 39(61) 16(70) 12(67) 11(48) 0.27 1(2) 1(4) 0 0 0.40
+Vomiting 38(59) 11(48) 14(78) 13(57) 0.14 4(6) 1(4) 3(17) 0 0.08
+Skinrash 35(55) 14(61) 8(44) 13(57) 0.56 3(5) 2(9) 1(6) 0 0.37
+Myalgia 34(53) 10(43) 10(56) 14(61) 0.48 1(2) 1(4) 0 0 0.40
+Pruritus 32(50) 15(65) 5(28) 12(52) 0.06 0 0 0 0 NA
+Diarrhea 21(33) 8(35) 6(33) 7(30) 0.95 1(2) 0 1(6) 0 0.27
+Edema 20(31) 5(22) 2(11) 13(57) 0.004 0 0 0 0 NA
+Cohort1,cisplatin75mg/m2day1+nab-paclitaxel260mg/m2day1Q3W;Cohort2,cisplatin75mg/m2day1+nab-paclitaxel140mg/m2day1,8Q3W;Cohort
+3,cisplatin75mg/m2day1+nab-paclitaxel100mg/m2day1,8,15Q3W
+aPvaluefortheinter-cohortdifference
+bBloodsamplesforhematologicAEassessmentwereavailablefor67patients
+cNon-hematologicAEswereassessedinthe64patientswhocompleted4–6cycles
+[44, 45], although this correlation was not found in Conclusions
+NSCLC cell lines [46]. In our study, stromal SPARC In conclusion, the results of the present phase I/II
+overexpression strongly predicted a better response to trial suggest that, in patients with metastatic NPC,
+nab-paclitaxel (OR 7.1; 95 % CI, 1.2–41.1; P=0.03) and nab-paclitaxel plus cisplatin is a highly active regimen
+improved PFS (9 vs. 3 months; P=0.01) than expression with moderate toxicity. Future studies may provide
+at normal levels. By contrast, SPARC expression on the further evidence to support a role for nab-paclitaxel
+surface of tumor cells was not predictive of a response. plus cisplatin in this indication. The raw data are
+This is similar to findings in an earlier phase I/II trial in available in the (Additional file 1: Table S1).
+advanced pancreatic cancer, where only stromal SPARC
+expression appeared to be an effective marker of
+Additional file
+increased activity of nab-paclitaxel [45]. However, in the
+phase III Metastatic Pancreatic AdenocarcinomaClinical
+Trial (MPACT) of nab-paclitaxel plus gemcitabine Additionalfile1:Rawdatathatsupportstheconclusion.(XLS763kb)
+versus gemcitabine alone, no association was found
+between stromal, tumor epithelial, or plasma SPARC Abbreviations
+expression and either survival or ORR in patients with AE,adverseevent;ALT,alanineaminotransferase;AST,aspartate
+aminotransferase;CR,completeresponse;DCR,diseasecontrolrate;DLT,dose-
+metastatic pancreatic cancer [47]. The contradictory
+limitingtoxicity;ECOGPS,EasternCooperativeOncologyGroupperformance
+findings in these studies underline that further research status;EBV,Epstein-Barrvirus;IV,Intravenous;MTD,maximumtolerateddose;
+is needed to clarify whether, and in which cancer types,
+nab®-paclitaxel,nanoparticlealbumin-boundpaclitaxel;NPC,nasopharyngeal
+carcinoma;NCI-CTCAE,NationalCancerInstituteCommonTerminologyCriteria
+SPARC expression may be a valuable tool to predict
+forAdverseEvents;ORR,objectiveresponserate;OS,overallsurvival;PR,partial
+response to nab-paclitaxel. response;PCR,polymerasechainreaction;PFS,progression-freesurvival;RECIST,
+
+--- Page 10 ---
+Huangetal.BMCCancer (2016) 16:464 Page10of11
+ResponseEvaluationCriteriainSolidTumors;SPARC,Secretedproteinacidic [cited2014Oct9].Availablefrom: http://www.nccn.org/professionals/
+andrichincysteine;SD,stabledisease;ULN,upperlimitofnormal. physician_gls/f_guidelines.asp
+5. ChanAT,GrégoireV,LefebvreJL,LicitraL,HuiEP,LeungSF,etal.
+Acknowledgments Nasopharyngealcancer:EHNS-ESMO-ESTROClinicalPracticeGuidelinesfor
+Theauthorswouldliketothankthepatientswhoparticipatedinthisstudy diagnosis,treatmentandfollow-up.AnnOncol.2012;23(7):vii83–5.
+andtheirfamilies,aswellastheinvestigatorsandstaffattheSunYat-sen 6. MesíaR,PastorM,GrauJJ,DelBarcoE,SEOM.SEOMclinicalguidelinesfor
+UniversityCancerCenter. thetreatmentofnasopharyngealcarcinoma2013.ClinTranslOncol.
+2013;15:1025–9.
+Funding 7. CiuleanuTE,FountzilasG,CiuleanuE,PlataniotisM,TodorN,GhilezanN.
+1.NationalHighTechnologyResearchandDevelopmentProgramofChina Paclitaxelandcarboplatininrelapsedormetastaticnasopharyngeal
+(2012AA02A501); carcinoma:amulticenterphaseIIstudy.JBUON.2004;9:161–5.
+2.MolecularClassification,PersonalizedDiagnosisandTherapyof 8. YeoW,LeungTW,ChanAT,ChiuSK,YuP,MokTS,etal.AphaseIIstudyof
+NasopharyngealCarcinoma(2006AA02A404) combinationpaclitaxelandcarboplatininadvancednasopharyngeal
+3.SunYat-SenUniversityClinicalMedicalResearchProject5010(20130008) carcinoma.EurJCancer.1998;34:2027–31.
+9. JinY,CaiXY,ShiYX,XiaXY,CaiYC,CaoY,etal.Comparisonof5cisplatin-
+Availabilityofdataandmaterials basedregimensfrequentlyusedasthefirst-lineprotocolsinmetastatic
+Pleasefindinthe(Additionalfile1:TableS1)therawdatathatsupportsthe nasopharyngealcarcinoma.JCancerResClinOncol.2012;138:1717–25.
+conclusion. 10. ChenC,WangFH,AnX,LuoHY,WangZQ,LiangY,etal.Tripletcombination
+withpaclitaxel,cisplatinand5-FUiseffectiveinmetastaticand/orrecurrent
+Authors’contributions nasopharyngealcarcinoma.CancerChemotherPharmacol.2013;71:371–8.
+Conceptionanddesign:HY,LWH,ZLP,ZL;Acquisitionofdata:HY,LWH,ZHY, 11. MostafaE,NasarMN,RabieNA,IbrahimSA,BarakatHM,RabieAN.Induction
+WX,YYP,ZYY,ZY,ZL;Analysisandinterpretationofdata:LWH,ZL;Writing, chemotherapywithpaclitaxelandcisplatin,followedbyconcomitant
+review,and/orrevisionofthemanuscript:HY,LWH,ZLP,ZL;Approvaloffinal cisplatinandradiotherapyforthetreatmentoflocallyadvanced
+manuscriptforsubmission:allauthors.Allauthorsreadandapprovedthe nasopharyngealcarcinoma.JEgyptNatlCancInst.2006;18:348–56.
+finalmanuscript. 12. LeongSS,WeeJ,RajanS,TohCK,LimWT,HeeSW,etal.Triplet
+combinationofgemcitabine,paclitaxel,andcarboplatinfollowedby
+Competinginterests maintenance5-fluorouracilandfolinicacidinpatientswithmetastatic
+L.ZhangreceivesresearchfundingandconsultancyfeesfromCelgene nasopharyngealcarcinoma.Cancer.2008;113:1332–7.
+Corporation.Allotherauthorshavenothingtodisclose. 13. LeongSS,WeeJ,TayMH,TohCK,TanSB,ThngCH,etal.Paclitaxel,
+carboplatin,andgemcitabineinmetastaticnasopharyngealcarcinoma:a
+Consentforpublication
+PhaseIItrialusingatripletcombination.Cancer.2005;103:569–75.
+Notapplicable. 14. TanEH,KhooKS,WeeJ,FongKW,LeeKS,LeeKM,etal.PhaseIItrialofa
+paclitaxelandcarboplatincombinationinAsianpatientswithmetastatic
+Ethicsapprovalandconsenttoparticipate
+nasopharyngealcarcinoma.AnnOncol.1999;10:235–7.
+TheEthicsCommitteeofSunYat-senUniversityapprovedtheprotocol. 15. GelderblomH,VerweijJ,NooterK,SparreboomA.CremophorEL:the
+Allpatientsprovidedwritteninformedconsent. drawbacksandadvantagesofvehicleselectionfordrugformulation.EurJ
+Cancer.2001;37:1590–8.
+Previouspresentationsofstudydata 16. ViúdezA,RamírezN,Hernández-GarcíaI,CarvalhoFL,VeraR,HidalgoM.
+2014AmericanSocietyofClinicalOncology(ASCO)AnnualMeeting,30May
+Nab-paclitaxel:Aflatteringfacelift.CritRevOncolHematol.2014;92:166–80.
+–3June,Chicago,IL,USA:ZhangL,LiangW,HuangY,etal.Adose-finding 17. GradisharWJ,TjulandinS,DavidsonN,ShawH,DesaiN,BharP,HawkinsM,
+studyofnanoparticlealbumin-boundpaclitaxelpluscisplatininpatientswith
+O’ShaughnessyJ.PhaseIIItrialofnanoparticlealbumin-boundpaclitaxel
+metastaticnasopharyngealcarcinomas.Abstract6049. comparedwithpolyethylatedcastoroil-basedpaclitaxelinwomenwith
+EuropeanSocietyforMedicalOncology(ESMO)2014Congress,26–30 breastcancer.JClinOncol.2005;23:7794–803.
+September,Madrid,Spain:LiangW,ZhaoL,WuX,etal.Biomarkeranalyses 18. GuanZ,FengF,LiQL,JiangZ,ShenZ,YuS,etal.Randomizedstudycomparing
+ofaphaseI/IIstudyofnanoparticlealbumin-boundpaclitaxelpluscisplatin nab-paclitaxelwithsolvent-basedpaclitaxelinChinesepatients(pts)with
+inthetreatmentofadvancednasopharyngealcarcinomas.Abstract5677. metastaticbreastcancer(MBC)[abstract].JClinOncol.2007;25(1):1038.
+19. SocinskiMA,BondarenkoI,KarasevaNA,MakhsonAM,VynnychenkoI,
+Authordetails OkamotoI,etal.Weeklynab-paclitaxelincombinationwithcarboplatin
+1SunYat-senUniversityCancerCenter,Yuexiu,Guangzhou,China.2StateKey versussolvent-basedpaclitaxelpluscarboplatinasfirst-linetherapyin
+LaboratoryofOncologyinSouthChina,Guangzhou,China.3Collaborative patientswithadvancednon-small-celllungcancer:finalresultsofaphaseIII
+InnovationCenterforCancerMedicine,Guangzhou,China.4TheFirst trial.JClinOncol.2012;30:2055–62.
+AffiliatedHospitalofGuangzhouMedicalUniversity,Guangzhou,China. 20. HirshV,OkamotoI,HonJK,DakhilSR,PageRD,OrsiniJ,etal.Weekly
+5ShaoguanYuebeiPeopleHospital,Shaoguan,China.6ShenzhenHospitalof nab-paclitaxelincombinationwithcarboplatinasfirst-linetherapyin
+PekingUniveristy,Shenzhen,China.7DepartmentofMedicalOncology, patients(pts)withadvancednon-smallcelllungcancer(NSCLC):Analysisof
+CancerCenter,SunYat-SenUniversity,651DongfengRoad,East,Guangzhou patient-reportedneuropathyandtaxane-associatedsymptoms.JClinOncol.
+510060,People’sRepublicofChina. 2012;30(15):TPS7618.
+21. ArdizzoniA,BoniL,TiseoM,FossellaFV,SchillerJH,PaesmansM,etal.
+Received:23August2015Accepted:28June2016 Cisplatin-versuscarboplatin-basedchemotherapyinfirst-linetreatment
+ofadvancednon-small-celllungcancer:anindividualpatientdata
+meta-analysis.JNatlCancerInst.2007;99:847–57.
+References 22. GalskyMD,ChenGJ,OhWK,BellmuntJ,RothBJ,PetrioliR,etal.Comparative
+1. CaoSM,SimonsMJ,QianCN.Theprevalenceandpreventionof effectivenessofcisplatin-basedandcarboplatin-basedchemotherapyfor
+nasopharyngealcarcinomainChina.ChinJCancer.2011;30:114–9. treatmentofadvancedurothelialcarcinoma.AnnOncol.2012;23:406–10.
+2. HutajuluSH,KurniandaJ,TanIB,MiddeldorpJM.Therapeuticimplicationsof 23. WangH-Y,LiY-Y,ShaoQ,HouJH,WangF,CaiMB,etal.Secretedprotein
+Epstein-Barrvirusinfectionforthetreatmentofnasopharyngealcarcinoma. acidicandrichincysteine(SPARC)isassociatedwithnasopharyngeal
+TherClinRiskManag.2014;10:721–36. carcinomametastasisandpoorprognosis.JTranslMed.2012;10:27.
+3. BensoudaY,KaikaniW,AhbeddouN,RahhaliR,JabriM,MrabtiH,etal. 24. CockcroftDW,GaultMH.Predictionofcreatinineclearancefromserum
+Treatmentformetastaticnasopharyngealcarcinoma.EurAnn creatinine.Nephron.1976;16:31–41.
+OtorhinolaryngolHeadNeckDis.2011;128:79–85. 25. EisenhauerEA,TherasseP,BogaertsJ,SchwartzLH,SargentD,FordR,etal.
+4. NationalCancerInstitute[Internet].NCCNClinicalPracticeGuidelinesin Newresponseevaluationcriteriainsolidtumours:revisedRECISTguideline
+Oncology(NCCNGuidelines®).HeadandNeckCancersVersion2.2014 (version1.1).EurJCancer.2008;45:228–47.
+
+--- Page 11 ---
+Huangetal.BMCCancer (2016) 16:464 Page11of11
+26. SinicropeFA,RuanSB,ClearyKR,etal.bcl-2andp53oncoprotein
+expressionduringcolorectaltumorigenesis.CancerRes.1995;55(2):237–41.
+27. FromowitzFB,ViolaMV,ChaoS,OravezS,MishrikiY,FinkelG,etal.Rasp21
+expressionintheprogressionofbreastcancer.HumPathol.1987;18:1268–75.
+28. AdamoV,FerraroG,PergolizziS,SergiC,LaudaniA,SettineriN,etal.
+Paclitaxelandcisplatininpatientswithrecurrentandmetastaticheadand
+necksquamouscellcarcinoma.OralOncol.2004;40:525–31.
+29. BasaranM,BavbekSE,GüllüI,DemirelliF,SakarB,TenekeciN,etal.Aphase
+IIstudyofpaclitaxelandcisplatincombinationchemotherapyinrecurrent
+ormetastaticheadandneckcancer.JChemother.2002;14:207–13.
+30. ForastiereAA,LeongT,RowinskyE,MurphyBA,VlockDR,DeContiRC,etal.
+PhaseIIIcomparisonofhigh-dosepaclitaxel+cisplatin+granulocyte
+colony-stimulatingfactorversuslow-dosepaclitaxel+cisplatininadvanced
+headandneckcancer:EasternCooperativeOncologyGroupStudyE1393.
+JClinOncol.2001;19:1088–95.
+31. GibsonMK,LiY,MurphyB,etal.RandomizedphaseIIIevaluationof
+cisplatinplusfluorouracilversuscisplatinpluspaclitaxelinadvancedhead
+andneckcancer(E1395):anintergrouptrialoftheEasternCooperative
+OncologyGroup.JClinOncol.2005;23:3562–7.
+32. LicitraL,CapriG,FulfaroF,HussainMH,DeContiRC,EnsleyJ,etal.Biweekly
+paclitaxelandcisplatininpatientswithadvancedheadandneck
+carcinoma.AphaseIItrial.AnnOncol.1997;8:1157–8.
+33. ThödtmannF,TheissF,KemmerichM,HeinrichB,LaubenbacherC,
+QuasthoffS,etal.ClinicalphaseIIevaluationofpaclitaxelincombination
+withcisplatininmetastaticorrecurrentsquamouscellcarcinomaofthe
+headandneck.AnnOncol.1998;9:335–7.
+34. SooRA,KawaguchiT,LohM,OuSH,ShiehMP,ChoBC,etal.Differencesin
+outcomeandtoxicitybetweenAsianandcaucasianpatientswithlung
+cancertreatedwithsystemictherapy.FutureOncol.2012;8(4):451–62.
+35. SurapaneniMS,DasSK,DasNG.DesigningPaclitaxeldrugdeliverysystems
+aimedatimprovedpatientoutcomes:currentstatusandchallenges.ISRN
+Pharmacol.2010;2012:623139.
+36. ChanAT,LoYM,ZeeB,ChanLY,MaBB,LeungSF,etal.PlasmaEpstein-Barr
+virusDNAandresidualdiseaseafterradiotherapyforundifferentiated
+nasopharyngealcarcinoma.JNatlCancerInst.2002;94:1614–9.
+37. LinJC,WangWY,ChenKY,WeiYH,LiangWM,JanJS,etal.Quantification
+ofplasmaEpstein-BarrvirusDNAinpatientswithadvancednasopharyngeal
+carcinoma.NEnglJ.2004;350:2461–70.
+38. AnX,WangFH,DingPR,DengL,JiangWQ,ZhangL,etal.PlasmaEpstein-Barr
+virusDNAlevelstronglypredictssurvivalinmetastatic/recurrentnasopharyngeal
+carcinomatreatedwithpalliativechemotherapy.Cancer.2011;117:3750–7.
+39. NganRK,LauWH,YipTT,ChoWC,ChengWW,LimCK,etal.Remarkable
+applicationofserumEBVEBER-1inmonitoringresponseofnasopharyngeal
+cancerpatientstosalvagechemotherapy.AnnNYAcadSci.2001;945:73–9.
+40. HsuCL,ChanSC,ChangKP,LinTL,LinCY,HsiehCH,etal.Clinicalscenario
+ofEBVDNAfollow-upinpatientsoftreatedlocalizednasopharyngeal
+carcinoma.OralOncol.2013;49:620–5.
+41. YipTT,NganRK,FongAH,LawSC.Applicationofcirculatingplasma/serum
+EBVDNAintheclinicalmanagementofnasopharyngealcarcinoma.Oral
+Oncol.2014;50:527–38.
+42. HouX,ZhaoC,GuoY,HanF,LuLX,WuSX,etal.Differentclinical
+significanceofpre-andpost-treatmentplasmaEpstein-BarrvirusDNAload
+innasopharyngealcarcinomatreatedwithradiotherapy.ClinOncol(RColl
+Radiol).2011;23:128–33.
+43. ChinD,BoyleGM,WilliamsRM,FergusonK,PandeyaN,PedleyJ,etal.
+Novelmarkersforpoorprognosisinheadandneckcancer.IntJCancer.
+2005;113:789–97.
+Submit your next manuscript to BioMed Central
+44. DesaiN,TrieuV,DamascelliB,Soon-ShiongP.SPARCexpressioncorrelates
+withtumorresponsetoalbumin-boundpaclitaxelinheadandneckcancer and we will help you at every step:
+patients.TranslOncol.2009;2:59–64.
+45. VonHoffDD,RamanathanRK,BoradMJ,LaheruDA,SmithLS,WoodTE, • We accept pre-submission inquiries
+etal.Gemcitabineplusnab-paclitaxelisanactiveregimeninpatientswith (cid:129) Our selector tool helps you to find the most relevant journal
+advancedpancreaticcancer:aphaseI/IItrial.JClinOncol.2011;29:4548–54.
+(cid:129) We provide round the clock customer support
+46. ShaoH,TangH,SalavaggioneOE,YuC,HylanderB,TanW,RepaskyE,etal.
+Improvedresponsetonab-paclitaxelcomparedwithcremophor-solubilized (cid:129) Convenient online submission
+paclitaxelisindependentofsecretedproteinacidicandrichincysteine (cid:129) Thorough peer review
+expressioninnon-smallcelllungcancer.JThoracOncol.2011;6:998–1005.
+(cid:129) Inclusion in PubMed and all major indexing services
+47. HidalgoM,PiazaC,IlleiP,BrachmannC,HeiseC,PierceD,etal.SPARC
+analysisinthephaseIIIMPACTtrialofnab-paclitaxel(nab-p)plus (cid:129) Maximum visibility for your research
+gemcitabine(gem)vsgemaloneforpatientswithmetastaticpancreatic
+cancer(PC).AnnOncol.2014;25(2):O-0004. Submit your manuscript at
+www.biomedcentral.com/submit

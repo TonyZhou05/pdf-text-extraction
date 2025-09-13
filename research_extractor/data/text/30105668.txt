@@ -1,0 +1,416 @@
+Source: 30105668.pdf
+Extracted on: Fri Sep 12 23:59:03 PDT 2025
+==================================================
+
+--- Page 1 ---
+InvestigationalNewDrugs(2019)37:159–165
+https://doi.org/10.1007/s10637-018-0650-5
+SHORTREPORT
+Phase 1 dose-escalation study of momelotinib, a Janus kinase 1/2
+inhibitor, combined with gemcitabine and nab-paclitaxel in patients
+with previously untreated metastatic pancreatic ductal adenocarcinoma
+KimmieNg1&AndrewHendifar2&AlexanderStarodub3&JorgeChaves4&YingsiYang5&BrianKoh5&DavidBarbie1&
+WilliamC.Hahn1&CharlesS.Fuchs6
+Received:6July2018/Accepted:20July2018/Publishedonline:30July2018
+#TheAuthor(s)2018
+Summary
+PurposePreclinicalevidencesuggeststheimportanceofJanusactivatingkinase(JAK)andTANK-bindingkinase1(TBK1)in
+pancreaticductaladenocarcinoma(PDAC).Weevaluatedthesafetyandefficacyofmomelotinib(MMB),aJAK1/2inhibitor
+with additional activity against TBK1, plus albumin-bound paclitaxel + gemcitabine (nab-P+G), in patients with previously
+untreatedmetastaticPDAC.ExperimentalDesignPatientswereenrolledintofivecohortsofincreasingdosesofMMBbetween
+100 and 200 mg administered once or twice daily in combination with nab-P+G in 28-day cycles to determine maximum
+tolerateddose(MTD).Safety,efficacy,pharmacokinetics,andpharmacodynamicswereassessedforallpatients.ResultsTwenty-
+fivepatientswereenrolled.Dose-limitingtoxicitiesofGrade3diarrheaoccurredin1patienteachinthe100and200mgMMB
+once-dailydosegroups.MTDwasnotreached.The200mgMMBtwice-dailywasthemaximumadministereddose.Objective
+responseratewas28%(allpartialresponses),and13(52%)patientshadabestresponseofstabledisease.Themostcommon
+adverse events(AEs)werefatigue (80%),nausea(76%),and anemia(68%).Grade 3 or4 AEs,mostcommonlyneutropenia
+(32%),werereportedby88%ofpatients,ofwhich44%wereconsideredrelatedtoMMB.Pharmacokineticanalysesshowed
+MMBconcentrationsweretoolowforTBK1inhibition.ConclusionsMMBwassafeandwelltoleratedincombinationwithnab-
+P+G.AsnoOSorPFSbenefitvsnab-P+GwasapparentincontextofsuboptimalengagementofthetargetTBK1,thisstudy
+doesnotsupportfurtherdevelopmentofMMBasafirst-linetherapyinpancreaticcancer.
+Keywords Momelotinib .JAKinhibitor.TBK1inhibitor.Phase1
+Introduction
+people will be diagnosed and nearly 44,330 will die from
+pancreatic cancer [1]. Pancreatic cancer has an exceedingly
+As the third leading cause of cancer-related death in the poorprognosis,withamajorityofpatientsdyingwithinayear
+United States, estimates for 2018 are that more than 55,440 of diagnosis and only 9% surviving past 5 years [1].
+Consequently, new and effective therapies are urgently
+needed.
+* KimmieNg
+Pancreaticductaladenocarcinoma(PDAC),themostcom-
+Kimmie_Ng@DFCI.HARVARD.EDU
+mon pancreatic cancer, is often detected at a late stage, pre-
+cluding potentially curable surgical intervention. Approved
+1 Dana-FarberCancerInstitute,HarvardMedicalSchool,Boston,MA,
+chemotherapies offer a relatively modest survival benefit of
+USA
+4–5monthsatbest[2].
+2 Cedars-SinaiSamuelOschinComprehensiveCancerInstitute,Los
+KRAS mutations are present in >90% of pancreatic carci-
+Angeles,CA,USA
+nomas, and initiate and drive aggressive tumor growth by
+3 ParkviewPhysiciansGroupMedicalOncology,FortWayne,IN,
+engaging multiple downstream signaling pathways [2].
+USA
+Efforts to inhibit KRAS directly have remained elusive, and
+4 NorthwestMedicalSpecialties,Tacoma,WA,USA
+strategiestotargetthedownstreamPI3K/AktandMAPkinase
+5 GileadSciences,FosterCity,CA,USA pathways have beendisappointing [3–5].TANK-bindingki-
+6 YaleCancerCenter/SmilowCancerHospital,NewHaven,CT,USA nase 1 (TBK1), which regulates innate immunity, lies
+
+--- Page 2 ---
+160 InvestNewDrugs(2019)37:159–165
+downstream of KRAS. Activated TBK1 drives specific review board approved the study protocol. All patients pro-
+NF-κB–regulated survival signals that promote continued videdwritteninformedconsent.
+proliferationand/orsurvivalandfeedforwardinanautocrine Screening occurred within 21 days before the first MMB
+cytokinecircuitthroughJanusactivatingkinase(JAK)/STAT dose and included medical history and prior/concomitant
+signaling[6–8].AberrantactivationofSTAT3isrequiredfor medication review, physical exam and assessments of vital
+PDAC initiationand proliferation [9].Suppression ofTBK1 signs, ECOG performance status, pregnancy test (females),
+induces apoptosis of KRAS-driven cancer cells, and JAK2 laboratory assessment, adverse event (AE) assessment, and
+inhibition of STAT3 activation results in decreased growth staging CT or MRI. MMB was given orally once or twice
+[9,10].Consequently,JAK2andTBK1inhibitorsmayhave daily as per the assigned dosing cohort: Cohort 1–100 mg
+utilityinthiscancer. MMB once daily; Cohort 2–150 mg MMB once daily;
+Momelotinib(MMB)isaninvestigationaloralagentwith Cohort 3–200 mg MMB once daily; Cohort 4–150 mg
+potentJAK1/2inhibitoryactivitythatalsoinhibitsTBK1[11]. MMBtwicedaily;andCohort5–200mgMMBtwicedaily.
+The objective of this study (ClinicalTrials.gov Identifier: All patients received nab-P+G intravenously (125 mg/m2
+NCT02101021) was to evaluate the safety, efficacy, and nab-paclitaxelfollowedby1000mg/m2Gasperinstitutional
+pharmacokinetics of MMB combined with albumin-bound standardofcare) onDays 1,8,and 15ofeach28-daytreat-
+paclitaxel + gemcitabine (nab-P+G), and define the maxi- mentcycle.Eachdosecohortconsistedof3patients,unlessa
+mum tolerated dose (MTD). Enrollment was stopped early dose-limitingtoxicity(DLT)wasexperiencedduringthefirst
+attheinflectionpointbetweenthephase1andplannedphase 28daysoftreatment.IfoneDLTwasexperienced,3addition-
+3portionsofthestudyduetolimitedefficacyandsuboptimal alpatientswereenrolledinthedosecohort.IfasecondDLT
+TBK1 pharmacodynamics. We report the final results of the wasexperiencedinthesamecohort,MTDwasconsideredto
+trial. beexceeded.DoseescalationcontinuedfromDoseLevel2to
+3to4to5ifnoDLToccurredin3evaluablesubjectsor<2
+DLTsoccurredin6evaluablepatientswithineachdoselevel.
+Methods StagingCTorMRIscanswereperformedatbaselineand
+approximately every 8 weeks following Cycle 1 Day 1.
+Imaging modalities were maintained over the course of the
+Patientpopulation
+study. Treatment was to continue in the absence of disease
+progression,unacceptabletoxicity,consentwithdrawal,orre-
+Patientswere≥18yearsofagewithpreviouslyuntreatedmet-
+fusaloftreatment.Afterdiscontinuationoftreatment,patients
+astatic PDAC (measurable per Response Evaluation Criteria
+werefollowedforsafetyfor30days.
+inSolidTumors[RECIST]v1.1);andanEasternCooperative
+Primary endpoint was incidence of DLT(s) based on the
+Oncology Group (ECOG) performance status ≤1 and ade-
+Common Terminology Criteria for Adverse Events
+quatehematologic,renal,andhepaticfunction.Patientswere
+(CTCAE) version 4.03. Secondary endpoints were overall
+excludedforanycurrentorprevioustreatmentwithbiologic,
+survival(OS)(definedasthetimeintervalfromthefirstdose
+small-molecule, immunotherapy, chemotherapy, or other
+ofMMBtodeathfromanycause;patientslosttofollow-upor
+agentsformetastaticpancreaticcarcinoma;uncontrolledinter-
+whosurviveduntiltheendofstudywerecensoredatthelast
+currentillness;recentmajororminorsurgery;certainprioror
+datethattheywereknowntobealive),progression-freesur-
+secondary malignancies; human immunodeficiency virus in-
+vival(PFS)(definedasthetimeintervalfromthefirstdoseof
+fection;hepatitisA,B,orCinfection;peripheralneuropathy
+MMB to the earlier of the first documentation of definitive
+≥Grade2;centralnervoussystemmetastases;histologyother
+diseaseprogressionordeathfromanycause),overallresponse
+thanpancreaticadenocarcinoma;externalbiliarydrain;myo-
+rate(ORR)(proportion ofpatientswhoachieveda complete
+cardialinfarctionorunstable/uncontrolledcardiacdisease;un-
+or partial response [CR or PR, respectively] during MMB
+controlledhypertension;anduseofstrongCYP3A4inducers
+therapy), and duration of response (time from CR or PR to
+within 2 weeks prior to first dose of study medication. All
+definitivediseaseprogressionordeathfromanycause).
+patients provided written informed consent prior to
+enrollment.
+Pharmacokineticanalyses
+Trialdesignandtreatments Blood samples were collected from patients prior to the
+MMB dose and at specified time points up to 24 h
+The study was conducted at four sites in the United States post-dose on Cycle 1 Day 15. Pharmacokinetic (PK)
+from June 2014 to April 2017 in accordance with the parameters were estimated using Phoenix WinNonlin®
+Declaration of Helsinki, Good Clinical Practice guidelines, software (Certara USA, Inc., Princeton, NJ) using stan-
+and relevant regulatory laws. Each center’s institutional dard noncompartmental methods.
+
+--- Page 3 ---
+InvestNewDrugs(2019)37:159–165 161
+Statisticalanalysis Safety
+Planned enrollment was up to 30 patients based on the TwoDLTsoccurred.ThefirstDLTwasGrade3diarrheawith
+standard3+3design.Theefficacyanalyseswereconduct- intermittentfeverina68-year-oldmalewithmultiplechronic
+edinallenrolledpatients.Safetyanalyseswereconducted concomitant illnesses in the 100 mg once-daily dose group.
+inallenrolledpatientswhoreceived≥1doseofstudytreat- The second patient was a 62-year-old male with multiple
+ment. Descriptive summary statistics were provided for chronicconcomitantillnessesinthe200mgonce-dailygroup
+patient characteristics and safety variables. Kaplan-Meier whoexperiencedGrade3diarrheabeginningonCycle1Day
+estimateswereusedforOS,PFS,durationofresponse,and 18and was admittedtothehospitalforGrade3 febrileneu-
+their 95% confidence intervals (CIs). The ORR was sum- tropeniaonCycle1Day21.
+marized for each dose level cohort with corresponding 2- MTDwasnotreached.The200mgMMBtwice-dailydose
+sided 95% exact CIs based on the Clopper-Pearson wasthemaximumadministereddose(MAD).
+method. All patients experienced at least one treatment-emergent
+AE(TEAE).ThemostcommonTEAEswerefatigue(80%);
+nausea(76%);anemia(68%);diarrhea(64%);pyrexia(56%);
+Results
+constipation and vomiting (52% each); peripheral edema
+(48%); abdominal pain (44%); alopecia, decreased appetite,
+The study screened 38 patients and enrolled 25 patients anddysgeusia(40%each);andhypertension,peripheralneu-
+with a mean age 60.7±10.2 years and mean body mass ropathy, and peripheral sensory neuropathy (36% each).
+index 25.8±5.4 kg/m2; most were male (68%) and Serious AEs (SAEs) were experienced by 72% of patients
+white (88%). Patient disposition is shown in Fig. 1. (24%consideredrelatedtoMMB).88%ofpatientsreported
+Mean duration of MMB exposure was 22.2±15.3 weeks. Grade3or4TEAEs,mostcommonlyneutropenia(Grades3
+Mean number of cycles was 5.6±3.8. All 25 patients and 4, 16% each) and anemia and pneumonia (all Grade 3,
+discontinued MMB nab-P+G treatment, most common- 24%each).SAEswereconsideredrelatedtoMMBin24%of
+ly for disease progression and AEs. Patients patients. Grade 3 MMB-related AEs included diarrhea
+discontinued the study due to death (n=16 [64.0%]), (12.0%); peripheral sensory motor neuropathy, anemia,
+withdrawal of consent (n=4 [16.0%]), study termination thrombocytopenia, and decreased neutrophil count (8.0%
+by the sponsor (n=4 [16.0%]), or loss to follow-up each); and fatigue, peripheral edema, malaise, generalized
+(n=1 [4.0%]). edema, polyneuropathy, tremor, febrile neutropenia,
+Fig.1 Patientdisposition.BID,twicedaily;MMB,momelotinib;QD,oncedaily
+
+--- Page 4 ---
+162 InvestNewDrugs(2019)37:159–165
+dehydration,cachexia,decreasedweight,respiratorydistress, concentrations of MMB reached a peak approximately 3–
+hypertension, deep vein thrombosis, and nephrolithiasis 4.5 h after the first dose of MMB; median terminal half-life
+(4.0%each).Grade4eventsincludedembolicstroke,neutro- was approximately 5–6.6 h. Increases in exposure of MMB
+penia,andincreasedblooduricacid(4.0%each).Therewere werelessthandose-proportional; peakplasmaconcentration
+nodeathsduetoTEAEs. (C ) and area under the curve (AUC ) were less than 2-
+max tau
+Peripheral neuropathy, a predefined AE of interest, oc- foldhigherafter the 200 mgonce-dailydoseofMMB com-
+curred in 15 patients (60%), with a higher incidence at the paredwiththe100mgonce-dailydose.BasedontheC of
+max
+two highest doselevels, and led todiscontinuation ofMMB approximately 300 ng/mL, we estimate transient maximal
+in2patients(8%,Grade3peripheralsensorymotorneuropa- TBK1inhibitioninthe70%maximaleffectiveconcentration
+thyandGrade3mixedpolyneuropathy).Investigatorsattrib- (EC )range.
+70
+utedperipheralsensoryneuropathyandperipheralneuropathy OnCycle1Day15,plasmaconcentrationsofGS-644603
+as being related to MMB in 6 (24%) and 4 (16%) patients, reached a peak approximately 3–5 h after the first dose of
+respectively;relatedtonab-paclitaxelin9(36%)and8(32%) MMB. Across dose levels, the median terminal half-life of
+patients,respectively; and related to gemcitabine in7 (28%) GS-644603 was approximately 6–28h.Meanmetabolite-to-
+and5(20%)patients,respectively. parentratioacrossdosinggroupsrangedfrom0.9to2.7and
+1.2to4.6forC andAUC ,respectively.
+max tau
+Efficacy
+Response rates are shown in Table 1. The best percentage Discussion
+changefrombaselineintumorsizeisshowninFig.2.There
+were no CRs and 7 PRs across the dose cohorts. Thus, the
+In this study, MMB in doses of up to 200 mg twice daily
+ORR in the overall study population was 28% (95% CI:
+(MAD) was safe in combination with nab-P+G. Only 2
+12.1%–49.4%).Atotalof13patients(52%)hadstabledisease
+DLTs of Grade 3 diarrhea were experienced. Thesewerein-
+as the best response, including all 4 patients in the 200 mg
+sufficient to guide determination of the MTD in this patient
+twice-daily cohort(MAD).Forthe overall study population,
+population.
+themedian(95%CI)OSwas8.7(6.7,18.8)monthsandthe
+OS and PFS values varied inconsistently with dose, but
+median(95%CI)PFSwas5.7(5.3,7.2)months.Themedian
+weregenerallycomparabletothoseobservedwithnab-P+G
+(95%CI)durationofresponseforthe7patientswithaPRwas
+alone in the MPACT trial (median OS=8.5 months in the
+4.0(0.5,notreached)months.
+nab-P+G group [12]. There was no apparent dose relation-
+ship in terms of tumor response, with no CRs in any of the
+Pharmacokineticassessment dosecohorts,thehighestORRinthe200mgonce-dailyco-
+hort(middledose),andanORRof0inthecohortreceiving
+Twenty subjects were included in the PK analyses. Of the 5 theMAD.Thisisconsistentwiththelackofdose-proportional
+patientsnotincludedinthePKanalyses,4hadMMBdosing PKincreasesthatwereobserved.
+interruptedordecreasedatthetimeofPKsamplingand1had The limited efficacy demonstrated and lack of apparent
+discontinued the study before PK samples were taken. PK relationshipbetweendoseandefficacyattheinflectionpoint
+parameters for MMB and its major metabolite, GS-644603, betweenthedose-findingphase1portionofthetrialandthe
+are shown in Table 2. On Cycle 1 Day 15, plasma randomizedphase3portionofthetrialledtoadecisionnotto
+Table1 BestOverallResponsen,
+(%) n,(%) 100mg 150mg 200mg 150mg 200mg
+MMBQD MMBQD MMBQD MMBBID MMBBID
+n=7 n=4 n=7 n=3 n=4
+ORR(CR+PR) 2(28.6) 1(25.0) 3(42.9) 1(33.3) 0
+CR 0 0 0 0 0
+PR 2(28.6) 1(25.0) 3(42.9) 1(33.3) 0
+SD 2(28.6) 2(50.0) 4(57.1) 1(33.3) 4(100.0)
+PD 1(14.3) 1(25.0) 0 0 0
+Notevaluable 2(28.6) 0 0 1(33.3) 0
+BID,twicedaily;CR,completeresponse;MMB,momelotinib;ORR,overallresponserate;PR,partialresponse;
+PD,progressivedisease;QD,oncedaily;SD,stabledisease
+
+--- Page 5 ---
+InvestNewDrugs(2019)37:159–165 163
+Fig.2 Waterfallplotofbestpercentagechangefrombaselineintumorsizebydoselevel.BID,twicedaily;MMB,momelotinib;QD,oncedaily
+initiatetheplannedphase3portionofthetrial.Announcement to the phase 3 portion. That trial found that although the
+of the results of a trial assessing the combination of prespecifiedprimaryendpointofOSwasnotmetintheover-
+ruxolitinib,anotherJAK1/2inhibitor,withcapecitabineinpa- all study population (HR for OS comparing ruxolitinib vs
+tientswithmetastaticpancreaticcancerthatwasrefractoryto placebo=0.79 [95% CI, 0.53–1.18]; P=0.25), a subgroup
+gemcitabineoccurredasthephase1portionofthisstudywas analysissuggestedbenefitforpatientswithC-reactivepeptide
+concluding,andfurthersupportedthedecisiontonotadvance >13mg/L(HRforOS=0.47[95%CI,0.26–0.85],P=0.011)
+Table2 Steady-stateMMBPK
+Parameters Parametera 100mg 150mg 200mg 150mg 200mg
+MMBQD MMBQD MMBQD MMBBID MMBBID
+n=6 n=3 n=6 n=1b n=3
+Momelotinib
+C ,ng/mL 257.8(83.4) 200.3(19.0) 363.8(92.3) 215.0 330.0(56.2)
+max
+AUC ,h(cid:129)ng/mL 2004.5(64.1) 1679.6(53.7) 3340.1(101.3) 1518.2 1976.8(54.4)
+tau
+T ,hr 4.5(2.0,6.0) 3.2(2.1,4.0) 3.5(1.0,7.7) 3.0 3.0(1.0,4.0)
+max
+T ,hr 5.4(5.2,5.5) 6.6(5.0,8.1) 5.3(4.0,6.8) 5.0 5.5(3.8,5.9)
+1/2
+GS-644603
+C ,ng/mL 170.4(51.3) 513.7(53.2) 342.7(52.1) 247.0 349.7(41.7)
+max
+AUC ,h(cid:129)ng/mL 2132.5(67.2) 5431.4(50.8) 3772.5(46.3) 1922.9 2693.4(25.7)
+tau
+T ,hr 5.0(2.0,6.0) 4.0(3.1,6.0) 3.8(3.0,8.0) 2.97 3.0(1.0,4.0)
+max
+T ,hr 9.1(6.4,10.0) 6.3(5.7,6.9) 6.8(4.1,8.0) 6.620 28.4(4.3,31.7)
+1/2
+GS-644603/momelotinibratio
+AUC 1.2(67.5) 4.6(93.6) 1.5(38.7) 1.2 1.7(65.0)
+tau
+C 0.9(80.0) 2.7(67.9) 1.5(67.0) 1.1 1.4(65.2)
+max
+aDataforC andAUC arepresentedasthemean(%coefficientofvariation);dataforT andt are
+max tau max 1/2
+presentedasmedian(firstquarter,thirdquarter);andGS-644603/momelotinibratiosarepresentedasthemean(%
+coefficientofvariation)
+bStandarddeviationwasnotcalculatedbecausen=1forthisparameteratthegivendoselevel
+AUC ,areaunderthecurvetau;BID,twicedaily;C ,peakplasmaconcentration;MMB,momelotinib;QD,
+tau max
+oncedaily;t ,amountoftimethatadrugispresentatthemaximumconcentrationinserum
+max
+
+--- Page 6 ---
+164 InvestNewDrugs(2019)37:159–165
+[13]. Two phase 3 trials (JANUS-1 and -2) were initiated to Compliancewithethicalstandards
+confirmtheseinitialfindings.Unfortunately,interimanalyses
+of both the JANUS-1 and JANUS-2 trials resulted in early Conflicts of interest KN: research funding from Gilead, Genentech,
+Tarrex,andPharmavite,andadvisoryboardforBayer.AH:consultant/
+termination for futility (HR for ruxolitinib vs placebo for
+advisory roleforGenentech,Ipsen, Novartis, Perthera. JC: None. AS:
+OS=0.969 [95% CI, 0.75–1.26], P=0.409; and HR for
+consulting/advisory role for Sandoz, Bayer, and speakers bureau for
+OS=1.584 [95% CI, 0.89–2.83], P=0.942, respectively) BMS.YY:employeeofGileadSciences,Inc.BK:employeeofGilead
+[14]. Sciences,Inc.DB:consultantforNofOne.WCH:None.CSF:consultant
+for Eli Lilly, Entrinsic Health, Genentech, Merck, Sanofi, Five Prime
+No unexpected toxicities occurred with MMB. TEAEs
+Therapeutics, Merrimack, Bayer, Agios, Taiho, Kew, Bain Capital,
+were consistent withthose reported previously ina myelofi-
+Unum,andboardmemberforCytomX.
+brosispopulation[15,16].AEsconsistentwithJAK1/2inhi-
+bitionareanemia,thrombocytopenia,andneutropenia,which Ethicalapproval Allproceduresperformedinstudiesinvolvinghuman
+wereobservedin68%,20%,and32%ofpatients,respective- participantswereinaccordancewiththeethicalstandardsoftheinstitu-
+tional and/or national researchcommittee and with the 1964 Helsinki
+ly,inthisstudy.TheseAEshavealsobeenobservedintrials
+declarationanditslateramendmentsorcomparableethicalstandards.
+conducted in patients with myelofibrosis treated with MMB
+[15,16]andwithruxolitinib[17,18].Peripheralneuropathyis
+Informedconsent Informedconsentwasobtainedfromallindividual
+known tobeassociatedwithJAK inhibition, and resultedin participantsincludedinthestudy.
+discontinuation of MMB in 2 patients (8%) in this study.
+OpenAccess ThisarticleisdistributedunderthetermsoftheCreative
+Assessment of this AE is confounded by the fact that nab-
+Commons Attribution 4.0 International License (http://
+paclitaxelisalsoassociatedwithneuropathy,whichmayex- creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+plainthehigherincidenceofneuropathywithMMBinPDAC distribution,andreproductioninanymedium,providedyougiveappro-
+patients (60%) than in myelofibrosis patients (10–44%) priatecredittotheoriginalauthor(s)andthesource,providealinktothe
+[17–19]. CreativeCommonslicense,andindicateifchangesweremade.
+PKanalysiswasgenerallycomparabletopriorevaluations
+[16,20].Maximummomelotinibplasmaconcentrationswere
+approximately 300 ng/mL (equal to 0.72 μmol/L). Our esti-
+References
+matesoftransientmaximalTBK1inhibitionintheEC range
+70
+are insufficient to achieve clinically meaningful levels of
+TBK1inhibition[21].Tonicinhibitionatsignificantlyhigher 1. PancreaticCancerActionNetwork(2018)Pancreaticcancerfacts.
+http://media.pancan.org/pdf/GAA-PC-Facts.pdf. Accessed 19
+EC levels would theoretically be required for therapeutic
+February2018
+efficacy.
+2. Cid-ArreguiA, JuarezV (2015)Perspectivesin the treatment of
+pancreaticadenocarcinoma.WorldJGastroenterol21:9297–9316
+3. ChungV,McDonoughS,PhilipPA,CardinD,Wang-GillamA,
+HuiL,TejaniMA,SeeryTE,DyIA,alBaghdadiT,HendifarAE,
+Conclusion
+Doyle LA, Lowy AM, Guthrie KA, Blanke CD, Hochster HS
+(2017)EffectofselumetinibandMK-2206vsoxaliplatinandfluo-
+rouracil in patients with metastatic pancreatic cancer after prior
+Momelotinibisaninvestigationalagentwhichiswelltolerat-
+therapy: SWOG S1115 study randomized clinical trial. JAMA
+ed in combination with gemcitabine and nab-paclitaxel for Oncol3:516–522
+previouslyuntreatedPDAC.Thisstudywasstoppedpriorto 4. O'NeilBH,ScottAJ,MaWW,CohenSJ,LeichmanL,AisnerDL,
+entering the planned phase 3 portion of the trial because of Menter AR, Tejani MA, Cho JK, Granfortuna J, Coveler AL,
+Olowokure OO, Baranda JC, Cusnir M, Phillip P, Boles J,
+limited efficacy in context of suboptimal dose/exposure of
+NazemzadehR,RarickM,CohenDJ,RadfordJ,FehrenbacherL,
+momelotinibformeaningfulengagementofthetargetTBK1
+Bajaj R, Bathini V, Fanta P, Berlin J, McRee A, Maguire R,
+andasimilarlackofefficacyofJAKinhibitioninothertrials. Wilhelm F, Maniar M,Jimeno A,Gomes CL, MessersmithWA
+Thedisappointingresultsinthisstudydonotsupportfurther (2015) A phaseII/III randomizedstudy to compare the efficacy
+andsafetyofrigosertibplusgemcitabineversusgemcitabinealone
+developmentofMMBasacomponentoffirst-linetherapyin
+inpatientswithpreviouslyuntreatedmetastaticpancreaticcancer.
+pancreatic cancer, but TBK1 remains a significant target of AnnOncol26:1923–1929
+interest. 5. Bedard PL, Tabernero J, Janku F, Wainberg ZA, Paz-Ares L,
+VansteenkisteJ,vanCutsemE,Perez-GarciaJ,StathisA,Britten
+Acknowledgements This clinical study was supported by research CD,LeN,CarterK,DemanseD,CsonkaD,PetersM,ZubelA,
+fundingfromGileadSciences,Inc.(FosterCity,CA).Writingandedito- NauwelaertsH,SessaC(2015)AphaseIbdose-escalationstudyof
+rial assistance forthisarticlewas provided byImpactCommunication theoralpan-PI3Kinhibitorbuparlisib(BKM120)incombination
+PartnersandfundedbyGileadSciences,Inc.C.S.Fuchswassupported withtheoralMEK1/2inhibitortrametinib(GSK1120212)inpa-
+byNationalInstitutesofHealth(grantsP50CA127003,R01CA118553, tientswithselected advanced solid tumors. ClinCancerRes 21:
+and R01 CA169141), Lustgarten Foundation for Pancreatic Cancer 730–738
+Research,andaStandUpToCancer(SU2C)ColorectalCancerDream 6. NewmanAC,ScholefieldCL,KempAJ,NewmanM,MelverEG,
+Teamtranslationalresearchgrant. KamalAetal(2012)TBK1kinaseaddictioninlungcancercellsis
+
+--- Page 7 ---
+InvestNewDrugs(2019)37:159–165 165
+mediatedviaautophagyofTax1bp1/Ndp52andnon-canonicalNF- 14. Hurwitz HI, Van Cutsem E, Bendell JC, Hidalgo M, Li CP,
+κBsignalling.PLoSOne7:e50672 GarrisdoMetal(2017)Tworandomized,placebo-controlledphase
+7. BarbieTU,AlexeG,ArefAR,LiS,ZhuZ,ZhangX,ImamuraY, 3studiesofruxolitinib(Rux)+capecitabine(C)inpatients(pts)
+ThaiTC,HuangY,BowdenM,HerndonJ,CohoonTJ,FlemingT, with advanced/metastatic pancreatic cancer (mPC) after failure/
+TamayoP,MesirovJP,OginoS,WongKK,EllisMJ,HahnWC, intoleranceoffirst-linechemotherapy:JANUS1(J1)andJANUS
+BarbieDA,GillandersWE(2014)TargetinganIKBKEcytokine 2(J2).JClinOncol35(4_suppl):343–343.
+networkimpairstriple-negativebreastcancergrowth.JClinInvest 15. PardananiA,LabordeRR,LashoTL,FinkeC,BegnaK,Al-KaliA
+124:5411–5423 etal (2013) Safety and efficacy of CYT387,a JAK1 and JAK2
+8. BarbieDA,TamayoP,BoehmJS,KimSY,MoodySE,DunnIF, inhibitor,inmyelofibrosis.Leukemia27:1322–1327
+SchinzelAC,SandyP,MeylanE,SchollC,FröhlingS,ChanEM, 16. Gupta V, Mesa RA, Deininger MW, Rivera CE, Sirhan S,
+SosML, Michel K, Mermel C, Silver SJ, WeirBA, ReilingJH, BrachmannCBetal(2017)Aphase1/2,open-labelstudyevalu-
+Sheng Q, Gupta PB,Wadlow RC, le H, Hoersch S, Wittner BS, atingtwice-dailyadministrationofmomelotinibinmyelofibrosis.
+Ramaswamy S, Livingston DM, Sabatini DM, Meyerson M, Haematologica102:94–102
+ThomasRK,LanderES,MesirovJP,RootDE,GillilandDG,Jacks 17. Harrison C, Kiladjian JJ, Al-Ali HK, Gisslinger H, Waltzman R,
+T,HahnWC(2009)SystematicRNAinterferencerevealsthatonco- StalbovskayaVetal(2012)JAKinhibitionwithruxolitinibversus
+genicKRAS-drivencancersrequireTBK1.Nature462:108–112 bestavailabletherapyformyelofibrosis.NEnglJMed366:787–798
+9. Corcoran RB, Contino G, Deshpande V, Tzatsos A, Conrad C,
+18. VerstovsekS,MesaRA,GotlibJ,LevyRS,GuptaV,DiPersioJFet
+Benes CH, Levy DE, Settleman J, Engelman JA, Bardeesy N
+al(2012)Adouble-blind,placebo-controlledtrialofruxolitinibfor
+(2011) STAT3 plays a critical role in KRAS-induced pancreatic myelofibrosis.NEnglJMed366:799–807
+tumorigenesis.CancerRes71:5020–5029
+19. MesaRA,KiladjianJJ,CatalanoJV,DevosT,EgyedM,Hellmann
+10. ToyonagaT,NakanoK,NaganoM,ZhaoG,YamaguchiK,Kuroki
+A,McLornanD,ShimodaK,WintonEF,DengW,DubowyRL,
+S,EguchiT,ChijiiwaK,TsuneyoshiM,TanakaM(2003)Blockade
+MaltzmanJD,CervantesF,GotlibJ(2017)SIMPLIFY-1:aphase
+ofconstitutivelyactivatedJanuskinase/signaltransducerandacti-
+IIIrandomizedtrialofmomelotinibversusruxolitinibinjanuski-
+vatoroftranscription-3pathwayinhibitsgrowthofhumanpancre-
+naseinhibitor-naïvepatientswithmyelofibrosis.JClinOncol35:
+aticcancer.CancerLett201:107–116
+3844–3850
+11. Tyner JW, Bumm TG, Deininger J, Wood L, Aichberger KJ,
+20. XinY,KawashimaJ,WengW,KwanE,TarnowskiT,Silverman
+Loriaux MM, Druker BJ, Burns CJ, Fantino E, Deininger MW
+JA(2018)Pharmacokineticsandsafetyofmomelotinibinsubjects
+(2010)CYT387,anovelJAK2inhibitor,induceshematologicre-
+withhepaticorrenalimpairment.JClinPharmacol58:522–532
+sponsesandnormalizesinflammatorycytokinesinmurinemyelo-
+proliferativeneoplasms.Blood115:5232–5240 21. Zhu Z, Aref AR, Cohoon TJ, Barbie TU, Imamura Y, Yang S,
+MoodySE,ShenRR,SchinzelAC,ThaiTC,ReibelJB,Tamayo
+12. vonHoffDD,ErvinT,ArenaFP,ChioreanEG,InfantaJ,MooreM
+P,GodfreyJT,QianZR,PageAN,MaciagK,ChanEM,Silkworth
+et al (2013) Increased survival in pancreatic cancer with nab-
+paclitaxelplusgemcitabine.NEnglJMed369:1691–1703 W, Labowsky MT, Rozhansky L, Mesirov JP, Gillanders WE,
+OginoS,HacohenN,GaudetS,EckMJ,EngelmanJA,Corcoran
+13. HurwitzHI,UppalN,WagnerSA,BendellJC,BeckJT,WadeSM
+RB,WongKK,HahnWC,BarbieDA(2014)InhibitionofKRAS-
+3rd et al (2015) Randomized, double-blind, phase II study of
+driventumorigenicitybyinterruptionofanautocrinecytokinecir-
+ruxolitiniborplaceboincombinationwithcapecitabineinpatients
+cuit.CancerDiscov4:452–465
+with metastatic pancreatic cancer for whom therapy with
+gemcitabinehasfailed.JClinOncol33:4039–4047

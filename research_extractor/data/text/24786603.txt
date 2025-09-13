@@ -1,0 +1,521 @@
+Source: 24786603.pdf
+Extracted on: Sat Sep 13 00:02:30 PDT 2025
+==================================================
+
+--- Page 1 ---
+FULL PAPER
+British Journal of Cancer (2014) 110, 2655–2661 | doi: 10.1038/bjc.2014.209
+Keywords: high-grade glioma; temozolomide; sorafenib; tyrosine kinase inhibitor; radiation therapy; pharmacokinetic study
+Phase I study of sorafenib combined with
+radiation therapy and temozolomide as
+first-line treatment of high-grade glioma
+A F Hottinger*,1,2, A B Aissa1, V Espeli1, D Squiban1, N Dunkel1, M I Vargas3, T Hundsberger4, N Mach1,
+K Schaller5, D C Weber1,6, A Bodmer1 and P-Y Dietrich1
+1ClinicalResearchUnitoftheFoundationDrHenriDuboisFerrie´reDinuLipatti&CentreofOncology,GenevaUniversityHospitals
+andUniversityofGeneva,Geneva,Switzerland;2DepartmentofClinicalNeurosciences&Oncology,CHUVUniversityHospitaland
+University of Lausanne, Lausanne, Switzerland; 3Department of Neuroradiology, Geneva University Hospitals and University of
+Geneva, Geneva, Switzerland; 4Department of Neurology and hematology/oncology, Cantonal Hospital St Gallen, St Gallen,
+Switzerland; 5Department of Neurosurgery Geneva University Hospitals and University of Geneva, Geneva, Switzerland and
+6Department of Radio-oncology, GenevaUniversity Hospitals andUniversity of Geneva,Geneva,Switzerland
+Background: Sorafenib (Sb) is a multiple kinase inhibitor targeting both tumour cell proliferation and angiogenesis that may
+further act as a potent radiosensitizer by arresting cells in the most radiosensitive cell cycle phase. This phase I open-label,
+noncontrolled dose escalation study was performed to determine the safety and maximum tolerated dose (MTD) of Sb in
+combination withradiation therapy(RT) andtemozolomide (TMZ) in17patientswith newly diagnosedhigh-grade glioma.
+Methods: Patients were treated with RT (60Gy in 2Gy fractions) combined with TMZ 75mgm(cid:2)2 daily, and Sb administered at
+three dose levels (200mg daily, 200mg BID, and 400mg BID) starting on day 8 of RT. Thirty days after the end of RT, patients
+receivedmonthlyTMZ(150–200mgm(cid:2)2D1–5/28)andSb(400mgBID).Pharmacokinetic(PK)analyseswereperformedonday8
+(TMZ)and onday21(TMZ&Sb) (Clinicaltrials ID: NCT00884416).
+Results: The MTD of Sb was established at 200mg BID. Dose-limiting toxicities included thrombocytopenia (two patients),
+diarrhoea(onepatient)andhypercholesterolaemia(onepatient).Sbadministrationdidnotaffectthemeanareaunderthecurve
+(0–24)
+andmeanC ofTMZanditsmetabolite5-amino-imidazole-4-carboxamide(AIC).T ofbothTMZandAICwasdelayedfrom
+max max
+0.75(TMZalone)to1.5h(combinedTMZ/Sb).Themedianprogression-freesurvivalwas7.9months(95%confidenceinterval(CI):
+5.4–14.55),andthe medianoverall survival was17.8 months(95%CI: 14.7–25.6).
+Conclusions: Although Sb can be combined with RT and TMZ, significant side effects and moderate outcome results do not
+support further clinical development in malignant gliomas. The robust PK data of the TMZ/Sb combination could be useful in
+othercancer settings.
+Mostpatientswithglioblastoma(GBM)arecurrentlytreatedwith Oneattractiveoptionistoexplorethepotentialofdrugstargeting
+maximalsaferesectionfollowedbyconcomitantradiationtherapy intracellular pathways involved in gliomagenesis.
+(RT)andtemozolomide(TMZ)followedbyadjuvantTMZ(Stupp Sorafenib (Sb) (Nexavar) was initially developed as a specific
+et al, 2005). Despite some long-term benefit obtained in a small inhibitor of the serine/threonine Raf kinase (Wilhelm et al, 2004)
+fraction of patients with this combined treatment, the median andhasbeenapprovedbytheUSFoodandDrugAdministration
+overall survival remains poor, at 14 months only (Stupp et al, forthetreatmentofpatientswithkidneycancerandhepatocellular
+2005). Strategies to improve this outcome are desperately needed. carcinoma (Kane et al, 2006; Llovet et al, 2008). Further in vitro
+*Correspondence:DrAFHottinger;E-mail:andreas.hottinger@gmail.com
+Received31January2014;revised18March2014;accepted24March2014;publishedonline1May2014
+&2014CancerResearchUK.Allrightsreserved0007–0920/14
+www.bjcancer.com|DOI:10.1038/bjc.2014.209 2655
+
+--- Page 2 ---
+BRITISHJOURNAL OF CANCER Sorafenib, RT andTMZinnewhigh-grade glioma
+and in vivo studies showed that Sb targets multiple kinases, Approval was obtained from the Institutional Review Board
+including vascular endothelial growth factor receptor-2 (VEGFR), oftheUniversityHospitalsofGenevaandthestudywasconducted
+VEGFR-3, Flt3, c-RAF, wild type and V599E mutant B-Raf, in accordance with Good Clinical Practice Guidelines and the
+platelet-derived growth factor receptor b (PDGFRb), c-KIT, Declaration ofHelsinki. Thetrialwas registeredas NCT00884416
+fibroblast growth factor receptor 1, p38a and RET (Liu et al, on clinicaltrials.gov.
+2006). Thus, the cellular consequences of Sb are diverse
+(promotion of apoptosis, inhibition of tumour cell proliferation Study design. The study was a classical 3þ3 design, phase I,
+andangiogenesis,etc.),possiblyleadingtotumourgrowtharrestby single-arm, single-centre study conducted to establish the max-
+targeting both tumour cells and blood vessels. imum tolerated dose (MTD) of Sb in conjunction with TMZ and
+Inthecaseofmalignantglioma,severalpathwaysintumourand concurrent RT in patients with newly diagnosed high-grade
+endothelial cells have key roles in disease progression and gliomas (Le Tourneau et al, 2009). A minimum of three patients
+resistancetotreatment.Highlevelsofvascularendothelialgrowth were included at each dose level. If none of the patients
+factor (VEGF) and VEGF receptors are frequently observed experienced a dose-limiting toxicity (DLT) until the end of week
+(Salmaggi et al, 2003), PDGFR is often activated (Hermanson 10 (completion of RT and a 4 week break period), the next dose
+etal,1992;Shihetal,2004;Martinhoetal,2009),andupto30%of level was opened. If one patient had a DLT, three additional
+patients carry an amplicon on chromosome 4q12 comprising the patients were enrolled at that dose level. If no additional patients
+VEGFR2, PDGFR-a and KIT genes (Joensuu et al, 2005; Puputti had a DLT until the end of week 10, then the dose level was
+etal,2006;Holtkampetal,2007).Inaddition,althoughmutations increased. If one or more of the additional patients had a DLT
+inRasorRafarerare,theMAPKpathwayisfrequentlyactivated, (thereforetwoormoreoutofsixpatients),thenthatdoselevelwas
+leading to poor prognosis (Davies et al, 2002). Altogether, several deemed to be too toxic and an additional three patients were
+kinases involved in glioma progression are potentially targeted by accrued to the prior dose level if only three patients had been
+Sb, which therefore appears as a very attractive drug candidate to enrolled.Ifwelltolerated,thisdoselevelwouldbedocumentedas
+be tested. being the MTD.
+ThesynergisticmodeofactionoftheassociationofSbnotonly
+with TMZ but also with RT is supported by experimental and Study outcomes. The primary objectives of this study were to
+clinical observations: combined with or following RT, Sb was determine the safety profile and tolerability of Sb when
+shown to induce cell cycle arrest and a reduction in colony- administered in conjunction with TMZ and RT and to establish
+forming units, as well as a delay in tumour growth in vivo in the MTD of this combination. Secondary objectives were to
+animalmodels(Plastarasetal,2007).Morerecentdataconfirmed evaluate pharmacokinetics (PKs), tumour response and survival.
+that Sb, TMZ and RT synergistically reduced the tumour cell
+viability (Den et al, 2012), suggesting that the optimal benefit of Treatment plananddosing levels. ThephaseIpartofthestudy
+thisdrugmaybereachedbycombiningitwithRT(DalLagoetal, was defined as the period of concurrent treatment with RT, TMZ
+2008).HerewereporttheresultsofaphaseIstudyofSbcombined andSbaswellasthefollowing4-weekperiod,wherepatientswere
+with TMZ and RT in the upfront management of malignant off treatment. The maintenance phase was defined as the period
+glioma. coveringthesixcyclesofmaintenanceTMZandSb.Asconcurrent
+administration of Sb and TMZ without RT had previously been
+describedinpatientswithmelanoma(Amaravadietal,2009),this
+treatment phase was not considered to be a part of the phase I
+MATERIALS AND METHODS studyandSbwasadministeredatafixedlevelof400mgtwicedaily
+(BID).
+Patient selection. Patients with newly diagnosed high-grade Radiation therapy consisted of a conventionally fractionated
+glioma (WHO grade III or GBM) for whom treatment with RT regimentoatotaldoseof60Gy,administeredin30dailyfractions
+and TMZ was considered medically reasonable were eligible for of2Gy,withorwithoutvolumetricmodulatedarctherapy.Target
+inclusioninthisstudy.EligibilitycriteriafurtherincludedageX18 volume definition was based on pre- and postoperative MRI with
+years, ECOG performance status 0–2 and a life expectancy of at mandatory coregistration (fusion) of the MRI scan and the
+least3months.Patientswerealsorequiredtohaveadequaterenal, planning CT. Radiation therapy was delivered in accordance with
+hepatic,cardiacandbonemarrowfunctionandtobeonstableor Radiation Therapy Oncology Group guidelines and dose con-
+decreasing dose of steroids in the 2 weeks prior to enrolment. All straints.Standarddoseconstraintswereusedfornormalstructures.
+patients with reproductive potential were required to use effective All patients were required to start treatment within 6 weeks of
+birth control. Patients on stable anticoagulation therapy were surgery.Temozolomidewasadministeredcontinuouslyatadoseof
+allowed to enter the study. Given the primary aim of this phase I 75mgm(cid:2)2 concurrently with RT, starting on the first day of RT,
+study, O6-methylguanine DNA-methyltransferase gene (MGMT) and administered daily for up to 42 days or until the end of RT.
+determination was performed in all patients but was not used as Three dose levels for Sb were planned as follows: cohort 1
+the selection or stratification criterion. received a single daily oral dose of 200mg, cohort 2 received
+Exclusion criteria included having previous or current malig- 200mg Sb BID and cohort 3 received 400mg BID. In the
+nancies at other sites (with the exception of cervical carcinoma concurrentphase,Sbwasstartedatthepre-specifieddoselevelon
+in situ, non melanoma carcinoma of the skin, superficial bladder day 8 after the start of RT and TMZ.
+tumour(Ta,TisandT1)oranycancercurativelytreated43years After a break of 4 weeks, patients were treated in the
+prior to study entry), serious medical or psychiatric illness that maintenance phase with TMZ (150mgm(cid:2)2 on d1–5 for the first
+might interfere with the prescribed treatment, history of HIV cycle of 28 days) followed for a total of up to six cycles of TMZ
+infection, chronic hepatitis C or B, having had organ allograft, given at 200mgm(cid:2)2 on d1–5/28 if the first cycle was tolerated
+renaldialysis,aswellaspriorexposuretoRaspathwayinhibitors. withoutsignificantsideeffects.Sorafenibwasrestartedonday1of
+Of note, in our institution, all brain tumour patients are treated the first cycle at 400mg BID regardless of the dose level in the
+exclusively with non-enzyme-inducing anti-seizure medication. concurrent phase. Treatment was continued until evidence of
+Thisinvestigator-drivenstudywasdevelopedandwrittenatthe progressive disease or excessive toxicity, patient’s refusal to
+Geneva University Hospitals. All patients provided written continue or if the treating physician felt termination to be in the
+informed consent in accordance with institutional guidelines. patient’s best interest.
+2656 www.bjcancer.com|DOI:10.1038/bjc.2014.209
+
+--- Page 3 ---
+Sorafenib, RT andTMZinnewhigh-grade glioma BRITISH JOURNALOF CANCER
+Safety. All patients who received at least one dose of Sb were plasmaconcentrationsofSbwasperformedusingafullyvalidated
+evaluatedforsafety.Patientswereevaluatedcontinuouslythrough- specific LC-MS/MS assay method with a LOQ of 0.01mgl(cid:2)1 for
+out the study for physical assessment, vital signs and incidence of Sb. Assays were performed at Bayer HealthCare.
+adverse events, DLTs and abnormal laboratory values. Pharmacokinetic parameters were derived by non-compart-
+Toxicities were graded according to the National Cancer mental analysis, using WinNonlin v.4.1a. Primary PK parameters
+Institute’s Common Terminology Criteria for Adverse Events, wereC and areaunder thecurve(AUC) for Sb,and C
+max (0–12) max
+version 3.0. The DLTs for this study were defined as any of the and AUC for TMZ. Secondary PK parameters assessed
+(0–24)
+following adverse events related to the combination treatment: included T and T . Data are presented as arithmetic
+max 1/2
+grade4thrombocytopenia,grade4neutropenialastingover7days, mean±s.d., except for T , for which median and range are
+max
+grade 3 or 4 febrile neutropenia, or any grade 3 or 4 non- presented. Ratios of day 21 to day 7 PK parameters and 90%
+haematologic toxicities except alopecia, nausea, vomiting, hypo- confidence interval (CI) were derived from geometric means.
+phosphataemia, fatigue or fever that can be rapidly controlled by
+MGMT promoter methylation status determination. The pro-
+adequate measures.
+moter methylation status of the MGMT was assessed on DNA
+isolatedfromparaffin-embeddedtumoursamplesobtainedatinitial
+Pharmacokinetics. Pharmacokinetic profiles of TMZ were deter-
+surgery. MDxHealth, Lie`ge, Belgium, performed the test with
+minedonday7(priortotheinitiationofSb)andday21(after14
+quantitativemethylation-specificPCR(Vlassenbroecketal, 2008).
+days of treatment with Sb) of the concurrent treatment. On these
+days,plasmasampleswerecollectedpriortotheingestionofTMZ Efficacy. All patients who received at least one dose of RT and
+and 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12 and 24h thereafter to TMZ were assessed for tumour response based on MacDonald
+determine the concentrations of TMZ and of its metabolite criteria. Time to treatment failure, event-free survival and overall
+5-amino-imidazole-4-carboxamide (AIC). For the determination survival were also assessed. Tumour measurements were per-
+ofTMZandAIC,bloodsamples(5mlaliquots)werecollectedinto formed at baseline, 4 weeks after completion of Sb/TMZ/RT
+atubecontainingammoniumheparin,andcentrifugedat2000(cid:3)g treatment and every 2 months thereafter.
+for5minat þ41Ctoseparatetheplasma.Twomloftheplasma
+was then transferred to polypropylene tubes containing 0.2ml of
+1M hydrochloric acid, mixed for 1min and frozen (at (cid:2)701C or RESULTS
+lower)untilassayed.Sampleswerekeptinthedarkandoniceatall
+times during manipulations. Temozolomide and AIC were Atotalof17patientswereenrolledfromApril2009toMarch2011
+quantified in plasma samples by liquid chromatography–mass in this dose escalation study: six in cohort 1, six in cohort 2 and
+spectrometry (LC-MS/MS). The lower limit of quantification three in cohort 3; two patients signed consent but had to be
+(LOQ) was5mgl(cid:2)1for TMZ and 10mgl(cid:2)1 for AIC. Assays were excluded because of neurological deterioration prior to start of
+performed at Bayer HealthCare, Berlin, Germany. treatment.Thebaselinedemographicsforallpatientsareshownin
+Plasma concentrations of Sb were also determined on day 21 Table1.AllpatientswerediagnosedwithGBMexceptonepatient
+priortoadministrationofSb,aswellas0.5,1,2,4,8,10and12h of cohort 2 (WHO grade III anaplastic oligoastrocytoma after
+thereafter. Blood samples were centrifuged at 2000(cid:3)g for 10min pathological review). Seven patients had a complete or near-
+at þ41Candtheplasmawasthentransferredtoapolypropylene complete (over 90%) resection, five patients had an incomplete
+tube and frozen at (cid:2)201C until analysis. The determination of resection (o90%) and three patients (all in cohort 2) underwent
+Table1.Patientbaselinecharacteristics
+Ageat Typeof MGMT ECOG Sorafenibadminstrationin
+Patient Sex diagnosis Diagnosis resection Status atinclusion phaseIpart
+Doselevel1 1DLT
+Patient1 M 67.1 GBM Incomplete Unmethylated 0 DLT(thrombocytopeniagrade4)
+Patient2 M 37.3 GBM Complete Invalidtest 0 Completed
+Patient3 F 62.4 GBM Nearcomplete Unmethylated 0 Completed
+Patient4 F 64.0 GBM Incomplete Unmethylated 0 Completed(pulmonaryembolism,grade4)
+Patient5:screeningfailure
+Patient6 M 43.3 GBM Complete Unmethylated 0 Completed
+Patient7 M 54.6 GBM Incomplete Unmethylated 0 Completed
+Doselevel2 1DLT
+Patient8:screeningfailure
+Patient9 F 61.7 GBM Nearcomplete Methylated 0 Completed
+Patient10 F 48.5 GBM Incomplete Methylated 0 Completed
+Patient11 M 62.5 GBM Biopsy Invalidtest 1 Completed
+Patient15 F 25.1 GBM Complete Unmethylated 0 Completed
+Patient16 F 57.8 GBM Biopsy Notdetermined 0 Completed
+Patient17 F 45.3 OAgrade3 Biopsy Notdetermined 0 DLT(thrombocytopeniagrade4)
+Doselevel3 2DLTs
+Patient12 F 41.2 GBM Nearcomplete Unmethylated 0 Interrupted(pt’swishafterhand-footsyndrome
+grade3)
+Patient13 F 47.8 GBM Incomplete Methylated 1 DLT(hypercholesterolaemiaand
+triglyceridaemia,grade3)
+Patient14 F 69.9 GBM Complete Unmethylated 0 DLT(diarrhoeagrade4)
+Abbreviations:DLT¼dose-limitingtoxicity;ECOG¼EasternCooperativeOncologyGroupperformancestatus;GBM¼glioblastoma;MGMT¼O6-methylguanineDNA-methyltransferase
+gene;OA¼oligoastrocytoma.
+www.bjcancer.com|DOI:10.1038/bjc.2014.209 2657
+
+--- Page 4 ---
+biopsyonly.AllbuttwopatientspresentedwithanECOGof0.Of Regarding TMZ, comparison of PK parameters from day 7
+note, given the risk of interaction with Sb and TMZ, none of the (TMZintheabsenceofSb)andday21(TMZplusSb)showedthat
+patientsincludedinthisstudyweretreatedwithenzyme-inducing Sbadministrationatanyofthestudieddoseshadnoeffectonboth
+antiepileptic agents. mean AUC and mean C of TMZ and its metabolite AIC
+(0–24) max
+(Figure 1a and b and Table 3). The narrow ranges of all values
+confirm the limited inter-individual variability of bioavailability
+Adverse events and dose-limiting toxicities. The 17 patients
+when both drugs are taken together. Temozolomide half-life was
+enrolled in the study were evaluable for safety analyses (Table 2).
+also unaffected by Sb, averaging 1.6–1.7h for all cohorts with or
+All patients (100%) experienced at least one treatment-related
+withoutSb.AIChalf-lifewasalsounaffectedbySb(Table3).The
+adverse event at any grade. Eleven patients (65%) reported
+onlyPKparameterthatwasslightlyaffectedwasTMZT ,which
+treatment-related adverse events of grade 3 or 4. The most max
+was slightly prolonged from0.75 to 1.5h withcombined Sb/TMZ
+common toxicities were haematologic, fatigue and hand-foot skin
+at the MTD in cohort 2 compared with TMZ alone (Table 3).
+reaction (HFSR). Hand-foot skin reaction was reported more
+frequentlywithhigherdosesofSb(cohorts2and3).Atotaloffour
+Responsetotreatment. Thebestresponsesobservedinthisstudy
+patients developed DLTs: two cases of grade 4 thrombocytopenia
+were 2 partial responses (cohorts 1 and 2, 13.3%) and 10 stable
+(oneincohort1andoneincohort2),onegrade3hypercholester-
+diseases(fourincohort1,threeincohort2andthreeincohort3,
+olaemia and hypertriglyceridaemia, and one grade 3 diarrhoea
+66.6%). Of note, 2 of these 10 patients maintained complete
+(both in cohort 3). These toxicities failed to improve within the
+responses following complete resection (one patient in cohorts 1
+preset time frame and were evaluated to be definitely or probably
+and2,each).Onepatientofcohort1andtwopatientsofcohort2
+linked to the combination of Sb with TMZ and/or RT. Thus, the
+showed progressive disease (20% of all patients).
+recommendeddoseforSbinconjunctionwithRTanddailyTMZ
+Of note, seven patients (46% of all patients) presented with
+(75mgm(cid:2)2 per day) was established at 200mg BID. Of note, all
+pseudoprogression on the first MRI performed 4 weeks after
+patients who did not develop DLTs completed the Sb and TMZ
+completion of RT. For this study, pseudoprogression was defined
+treatment of the concomitant phase of the protocol.
+as a radiological progression of the lesion in the first MRI
+During the maintenance phase, 7 out of 17 patients did not
+performed after completion of RT with a subsequent MRI that
+restartSb:4patientshaddevelopedDLTsduringtheinitialphase,
+showed either stable disease (six patients in our study) or partial
+2patientswithdrewtheirconsenttoparticipatetothemaintenance
+remission(onepatient).Themedianprogression-freesurvival(PFS)
+phase of the trial, mainly because of non-DLT adverse reactions
+experienced during the initial phase, and 1 patient was taken off
+study because of tumour progression on the MRI performed
+100000
+4 weeks after completion of concomitant RT/TMZ/Sb. Four
+additional patients prematurely stopped the Sb and TMZ
+10000
+treatments due to adverse events (grade 3 HFSR, grade 4
+neutropenia, grade 4 liver enzyme abnormalities and grade 3
+hypertriglyceridaemia, and grade 4 thrombocytopenia).
+Pharmacokinetic studies. Pharmacokinetic parameters were
+assessed in all 12 patients of cohorts 1 and 2 and in two patients
+ofcohort3.AnalysisofPKsforSbwasperformedonday21ofthe
+combined treatment (RT/TMZ/Sb). Mean AUC (mghl(cid:2)1)
+(0–12)
+was 23.0±10.5, 40.9±25.2 and 63.8±4.3, and mean C was
+max 3.1±1.8, 6.3±4.8 and 7.24±0.05, for cohorts 1, 2 and 3,
+respectively. The concentration of Sb in plasma remained stable
+over at least 12h.
+Table2.Adverseeventsobservedduringconcomitantphase
+Grade
+1–2, Grade Grade Grade
+Toxicity n(%) 3,n(%) 4,n(%) 5,n(%)
+Haematological-Thrombocytopenia 1(6.6%) 3(20%) 2(13.3%) 0
+Haematological-Lymphopenia 0 1(6.6%) 2(13.3%) 0
+Haematological-Neutropenia 1(6.6%) 1(6.6%) 1(6.6%) 0
+Pulmonaryembolism 0 0 1(6.6%) 0
+Cutaneous-Skinrash 6(40%) 0 0 0
+Cutaneous-Hand-footsyndrome 4(26.6%) 2(13.2%) 0 0
+Dyslipidemia 1(6.6%) 1(6.6%) 0 0
+Diarrhoea 1(6.6%) 1(6.6%) 0 0
+Constipation 0 1(6.6%) 0 0
+Hypertension 2(13.3%) 2(13.3%) 0 0
+Heartrateabnormalities 4(26.6%) 1(6.6%) 0 0
+Fatigue 3(20%) 2(13.3%) 0 0
+%areexpressedasnumberofeventscomparedwiththeentirecohortofpatients.
+)1–l
+gµ(
+noitartnecnoC
+)1–l
+gµ(
+noitartnecnoC
+BRITISHJOURNAL OF CANCER Sorafenib, RT andTMZinnewhigh-grade glioma
+Day 7, cycle 1
+Day 21, cycle 1
+1000
+100
+10
+1
+0 3 6 9 12 15 18 21 24
+Time (h)
+100000
+10000
+Day 7, cycle 1
+Day 21, cycle 1
+1000
+100
+10
+1
+0 3 6 9 12 15 18 21 24
+Time (h)
+Figure1.(A)PlasmaconcentrationsofTMZfollowingmultipledoses
+of75mgm(cid:2)2ofTMZwithout(Day7,Cycle1)andafterconcomitant
+treatment(Day21,Cycle1)withmultipleoraldosesof200mgBID
+sorafenibinpatientsofcohort2(geometricmeans,geometricSD;
+n¼6).(B)PlasmaconcentrationsofAICfollowingmultipledoses
+of75mgm(cid:2)2ofTMZwithout(Day7,Cycle1)andafterconcomitant
+treatment(Day21,Cycle1)withmultipleoraldosesof200mg
+BIDsorafenibinpatientsofcohort2(geometricmeans,geometric
+SD;n¼6).
+2658 www.bjcancer.com|DOI:10.1038/bjc.2014.209
+
+--- Page 5 ---
+Sorafenib, RT andTMZinnewhigh-grade glioma BRITISH JOURNALOF CANCER
+was 7.9 months (95% CI: 5.4–14.55) and the 6-month PFS was AnothertrialalsoinvestigatedthecombinationofSbwithinitial
+86.7%. Of the 13 patients who developed progressive disease, RT or re-irradiation in conjunction with TMZ in patients with
+5 (38%) did not receive any further treatment, mainly because of denovoorrecurrentgliomas(Denetal,2012).TheMTDforSbwas
+high kinetics of tumour growth and poor performance status. Five also suggested to be 200mg twice daily, concurring with our data.
+patients(38%)received asingleadditional lineoftreatment (single However,thisstudyhadimportantlimitationsbecauseofacomplex
+bevacizumabinfourpatients,re-resectionfollowedbybevacizumab: designleadingtovariousRTdurationsanddoses,andtheinclusion
+onepatient).Ofthosepatients,oneisstillontreatment.Onepatient of patients in different settings. Consequently, the majority of
+was treated with two further lines of treatment (dose-dense TMZ patientswereexposedtominimalamountsofSb.Indeed,over60%
+followed by bevacizumab) and two patients have received three ofpatientsdiscontinuedtreatmentpriortotheendofradiotherapy.
+further lines of treatment (dose-dense TMZ/bevacizumab/CCNU Moreover,thedosesofRTconsiderablyvaried(35Gystereotacticvs
+and bevacizumab/CCNU/metronomic TMZ, respectively). Of note, 60Gy in 30 fractions) and the treatment period extended between
+2 patients out of 17 (12%) developed impressive leptomeningeal 2–6 weeks, further shortening the exposition to the combination
+dissemination of the GBM (confirmed by CSF cytology) following treatment,withtheriskofmissingpotentialtoxicitiesthatmayarise
+treatment of recurrent disease with bevacizumab (Figure 2). The followingprolongedexposuretothetherapeuticagents.Incontrast,
+medianoverallsurvivalwas 17.8months(95%CI: 14.7–25.6). in our study, over 78% of the total planned doses of Sb have been
+administeredduringtheconcomitantphase,definitivelyestablishing
+the SbMTDat200mgtwice daily.
+DISCUSSION Another finding from our study is that the addition of Sb did
+notsignificantlychangetheplasmaconcentrationsofTMZ.Thus,
+When combined with RT and continuous administration of TMZ there is no pharmacological impediment to combining Sb, TMZ
+(75mgm(cid:2)2 per day), the MTD of Sb was established at 200mg and irradiation. However, it is interesting to note that at the dose
+twice daily in this study. The main toxicity was grade 3/4 level of200mg SbBID,T max wasdelayed byB0.75hwhen TMZ
+thrombocytopenia, with an increased incidence in our study, and Sb were co-administered. This effect was not observed at the
+compared with what has been reported for TMZ or Sb alone doseof200mgperday,potentiallybecausetheconcentrationofSb
+(43.3% vs 19% and o2%, respectively (Andenmatten et al, 2013)). wastoosmalltoinducethisinteraction.Atthedoseof400mgSb
+Incontrast,theincidencesofneutropenia,lymphopenia,skinrashor BID, two patients only were evaluated, complicating the inter-
+hand-foot skin reaction were similar to those reported with either pretation of the results from cohort 3. This delay in T max may
+TMZorSbalone(Stuppetal,2005;Escudieretal,2007;Llovetetal, however be clinically relevant, as TMZ is routinely administered
+2008). Other toxicities leading to the MTD were intractable 1hbeforeirradiationsothatthepeakplasmaTMZconcentration
+diarrhoea, as well as grade 3 hypertriglyceridaemia and hyper- coincides with the administration of RT.
+cholesterolaemia. Whether the risk of this last toxicity, which is a Althoughthisstudywasnotpoweredtodeterminetheeffectson
+rare side effect observed with TMZ (investigator’s brochure), is PFS or radiographic response rate, the results observed in this
+increased by the combined administration of Sb and TMZ is phaseIstudysuggestthatadditionofSbtoRTandTMZdoesnot
+unknown. resultinsignificantimprovementofPFS,whencomparedwiththe
+Table3.PharmacokineticparametersofTMZanditsmetaboliteAICafteradministrationofTMZ75mgm(cid:2)2perdaywithout(day7)andwithvarying
+dosesofSb(day21)
+Cohort1,n¼6 Cohort2,n¼6 Cohort3,n¼2
+TMZ AIC TMZ AIC TMZ AIC
+C (mgl(cid:2)1),mean±s.d.
+max
+TMZalone(day7) 6.1±1.7 0.37±0.08 4.1±0.9 0.33±0.09 4.4±1.6 0.40±0.09
+TMZ&Sb(day21) 6.7±3.1 0.32±0.08 3.9±1.2 0.31±0.15 3.6±1.4 0.21±0.25
+Ratio(day21/day7) 1.02 0.87 0.94 0.76 0.8 0.31
+90%CI 0.80–1.31 0.79–0.96 0.71–1.26 0.38–1.50 0.71–0.91 0.001–1.88
+AUC(0–24)(mghl(cid:2)1),mean±s.d.
+TMZalone(day7) 11.7±1.9 1.58±0.48 10.8±1.4 1.64±0.31 10.5±0.5 1.70±0.45
+TMZ&Sb(day21) 13.3±2.42 1.70±0.47 11.9±0.96 1.51±0.79 10.3±1.89 n.d.
+Ratio(day21/day7) 1.14 1.08 1.1 0.73 0.97 n.d.
+90%CI 1.04–1.24 1.00–1.18 0.97–1.25 0.35–1.52 0.52–1.81
+T (h),median(range)
+max
+TMZalone(day7) 0.25(0.25–1.50) 1.75(1.50–2.00) 0.75(0.25–1.50) 1.75(1.50–4.00) 0.63(0.50–0.75) 2.00(2.00–2.00)
+TMZ&Sb(day21) 0.50(0.25–2.00) 2.00(0.75–3.00) 1.50(0.25–2.00) 2.00(1.50–3.00) 0.88(0.75–1.00) 2.00(2.00–2.00)
+T (h),mean±s.d.
+1/2
+TMZalone(day7) 1.59±0.09 1.71±0.21 1.69±0.08 2.37±0.92 1.78±0.19 2.09±0.26
+TMZ&Sb(day21) 1.71±0.07 1.99±0.11 1.77±0.16 2.56±1.48 1.65±0.02 2.29±0.45
+Abbreviations:AUC¼areaunderthecurve;Cmax¼concentrationmax;n.d¼notdone;Sb¼sorafenib;Tmax¼timemax;TMZ¼temozolomide.
+www.bjcancer.com|DOI:10.1038/bjc.2014.209 2659
+
+--- Page 6 ---
+BRITISHJOURNAL OF CANCER Sorafenib, RT andTMZinnewhigh-grade glioma
+GBMpatientstreatedwithbevacizumab(Luetal,2012).Giventhe
+extendedVEGFinhibitionthroughSbandbevacizumab,onemay
+hypothesise that activation of alternative pathways may select for
+more aggressive and invasive tumour phenotypes.
+In conclusion, the PK results of this study definitely show that
+TMZ and Sb can be combined without major pharmacological
+interaction.However,theimportanceofsideeffectsandtherather
+poor outcome results obtained in patients with newly diagnosed
+high-grade glioma do not support the further clinical exploration
+of this combined modality (RT/TMZ/Sb).
+ACKNOWLEDGEMENTS
+We are indebted to the patients and their families for agreeing to
+participateinthistrial.Thisworkwassupportedbyanunrestricted
+educational grant from Bayer, Zurich, Switzerland, which also
+providedthestudydrugs.Bayerhadnorolein(a)thedesignofthe
+study, (b) the data collection, analysis and interpretation and
+(c) the preparation of the manuscript, and had no rights to
+approve, delay or disapprove of publication of the work.
+Figure2.Twopatientsdevelopedleptomeningealdisseminationof CONFLICT OFINTEREST
+GBMfollowingtreatmentwithRT/TMZ/Sbfollowedbybevacizumab
+treatmentatrecurrence:T1gadoliniumsequenceofpatient10
+Andreas F Hottinger: advisory board for MSD, Switzerland and
+showingextensiveleptomeningealdissemination(arrows).
+Roche,Switzerland,andhonorariafromthespeakersbureaufrom
+MSD, International. Thomas Hundsberger: advisory boards for
+phase III landmark trial (7.9 vs 6.9 months) (Stupp et al, 2005). MSD, Switzerland and Roche, Switzerland. Pierre-Yves Dietrich:
+There are some potential reasons for these disappointing results. advisory board for Bayer, Switzerland. The other authors declare
+Although the plasma levels of both TMZ and Sb were within the no conflict of interest.
+expected range (Lee et al, 2012), CNS distribution studies have
+shownthatCNSpenetrationofSbislimited,predominantlybythe
+breastcancerresistanceprotein(ABCG2/BRCP),amemberofthe AUTHORCONTRIBUTIONS
+ATP-binding cassette transporters (Agarwal et al, 2011). Such
+properties may also contribute to the disappointing results Conception and design: AFH, ABo, PYD. Development of
+obtained in other studies combining Sb and TMZ without methodology: AFH, PYD. Acquisition of data: AFH, AB, VE, DS,
+irradiation for patients with recurrent GBM or as standalone ND, MIV, KS, DCW. Analysis and interpretation of data: AFH,
+maintenance treatment following RT (Hainsworth et al, 2010; TH,PYD.Writing,reviewand/orrevisionofthemanuscript:AFH,
+Reardon et al, 2011; Lee et al, 2012). Moreover, the addition of AB, VE, DS, ND, MIV, TH, NM, KS, DCW, ABo, PYD.
+TMZ to RT has been shown to favour the induction of an Administrative, technical or material support: AFH, NM, PYD.
+exaggerated reaction to RT, which has been termed pseudo- Study supervision: AFH, PYD.
+progression (Taal et al, 2008).
+Interestingly, in ourcohort, themedian overall survival of17.8
+months was unexpectedly longer than the OS observed in the REFERENCES
+landmarkEORTCtrial(14.2months)andinarecentphaseIItrial
+thatevaluatedtheroleofbevacizumabandeverolimusinaddition AgarwalS,SaneR,OhlfestJR,ElmquistWF(2011)Theroleofthebreast
+to RT and TMZ as upfront treatment for GBM (13.9 months) cancerresistanceprotein(ABCG2)inthedistributionofsorafenibtothe
+(Hainsworth et al, 2012). Our results are, however, in line with a brain.JPharmacolExpTher336:223.
+number of phase II trials evaluating the upfront addition of AmaravadiRK,SchuchterLM,McDermottDF,KramerA,GilesL,GramlichK,
+bevacizumabtoRTandTMZ,whichhavereportedamedianOSof CarberryM,TroxelAB,LetreroR,NathansonKL,AtkinsMB,O’DwyerPJ,
+FlahertyKT(2009)PhaseIItrialoftemozolomideandsorafenibin
+19.6,21.3and23months(Laietal,2011;Vredenburghetal,2012).
+advancedmelanomapatientswithorwithoutbrainmetastases.ClinCancer
+Whether this moderate rise in overall survival may be partially
+Res15:7711.
+related to the addition of Sb, reflects the overall improvement
+AndenmattenR,ErdoganS,SchwanderP,FreiS,BorerD(2013)
+observed with the current multidisciplinary management of
+CompendiumSuissedesme´dicaments.
+patients with high-grade gliomas or is an unexpected patient DalLagoL,D’HondtV,AwadaA(2008)Selectedcombinationtherapywith
+selection bias (especially given the better overall performance sorafenib:areviewofclinicaldataandperspectivesinadvancedsolid
+statusofthepatientsenrolledinthisstudy)cannotbedetermined tumors.Oncologist13:845.
+without a phase III study. However, the minimal response rates DaviesH,BignellGR,CoxC,StephensP,EdkinsS,CleggS,TeagueJ,
+along with the disappointing PFS results obtained in the present WoffendinH,GarnettMJ,BottomleyW,DavisN,DicksE,EwingR,
+study did not support this further step of clinical development. FloydY,GrayK,HallS,HawesR,HughesJ,KosmidouV,MenziesA,
+MouldC,ParkerA,StevensC,WattS,HooperS,WilsonR,JayatilakeH,
+Also of concern was the impressive leptomeningeal dissemina-
+GustersonBA,CooperC,ShipleyJ,HargraveD,Pritchard-JonesK,
+tion observed in two patients following salvage treatment with
+MaitlandN,Chenevix-TrenchG,RigginsGJ,BignerDD,PalmieriG,
+bevacizumab. It remains unclear whether this observation is
+CossuA,FlanaganA,NicholsonA,HoJW,LeungSY,YuenST,
+relatedtoSb,butthispossibilitycannotbeexcludedwithcertainty. WeberBL,SeiglerHF,DarrowTL,PatersonH,MaraisR,MarshallCJ,
+Inhibition of VEGF signalling has been shown to lead to a WoosterR,StrattonMR,FutrealPA(2002)MutationsoftheBRAF
+pro-invasive phenotypeinmouseGBMmodelsandinasubsetof geneinhumancancer.Nature417:949.
+2660 www.bjcancer.com|DOI:10.1038/bjc.2014.209
+
+--- Page 7 ---
+Sorafenib, RT andTMZinnewhigh-grade glioma BRITISH JOURNALOF CANCER
+DenRB,KamravaM,ShengZ,Werner-WasikM,DoughertyE,MarinucchiM, VEGFinhibitstumorcellinvasionandmesenchymaltransitionthrough
+LawrenceYR,HegartyS,HyslopT,AndrewsDW,GlassJ,FriedmanDP, aMET/VEGFR2complex.CancerCell22:21.
+GreenMR,CamphausenK,DickerAP(2012)AphaseIstudyofthe MartinhoO,Longatto-FilhoA,LambrosMB,MartinsA,PinheiroC,SilvaA,
+combinationofsorafenibwithtemozolomideandradiationtherapyfor PardalF,AmorimJ,MackayA,MilaneziF,TamberN,FenwickK,
+thetreatmentofprimaryandrRecurrenthigh-gradegliomas.IntJRadiat AshworthA,Reis-FilhoJS,LopesJM,ReisRM(2009)Expression,
+OncolBiolPhys85:321–328. mutationandcopynumberanalysisofplatelet-derivedgrowthfactor
+EscudierB,EisenT,StadlerWM,SzczylikC,OudardS,SiebelsM,NegrierS, receptorA(PDGFRA)anditsligandPDGFAingliomas.BrJCancer101:
+ChevreauC,SolskaE,DesaiAA,RollandF,DemkowT,HutsonTE, 973.
+GoreM,FreemanS,SchwartzB,ShanM,SimantovR,BukowskiRM PlastarasJP,KimSH,LiuYY,DickerDT,DorseyJF,McDonoughJ,CernigliaG,
+(2007)Sorafenibinadvancedclear-cellrenal-cellcarcinoma.NEnglJMed RajendranRR,GuptaA,RustgiAK,DiehlJA,SmithCD,FlahertyKT,
+356:125. El-DeiryWS(2007)Cellcycledependentandschedule-dependentantitumor
+HainsworthJD,ErvinT,FriedmanE,PriegoV,MurphyPB,ClarkBL, effectsofsorafenibcombinedwithradiation.CancerRes67:9443.
+LamarRE(2010)Concurrentradiotherapyandtemozolomidefollowedby PuputtiM,TynninenO,SihtoH,BlomT,MaenpaaH,IsolaJ,PaetauA,
+temozolomideandsorafenibinthefirst-linetreatmentofpatientswith JoensuuH,NupponenNN(2006)AmplificationofKIT,PDGFRA,
+glioblastomamultiforme.Cancer116:3663. VEGFR2,andEGFRingliomas.MolCancerRes4:927.
+HainsworthJD,ShihKC,ShepardGC,TillinghastGW,BrinkerBT, ReardonDA,VredenburghJJ,DesjardinsA,PetersK,GururanganS,
+SpigelDR(2012)PhaseIIstudyofconcurrentradiationtherapy, SampsonJH,MarcelloJ,HerndonJEn,McLendonRE,JanneyD,
+temozolomide,andbevacizumabfollowedbybevacizumab/everolimus FriedmanAH,BignerDD,FriedmanHS(2011)EffectofCYP3A-inducing
+asfirst-linetreatmentforpatientswithglioblastoma.ClinAdvHematol anti-epilepticsonsorafenibexposure:resultsofaphaseIIstudyof
+Oncol10:240. sorafenibplusdailytemozolomideinadultswithrecurrentglioblastoma.
+HermansonM,FunaK,HartmanM,Claesson-WelshL,HeldinCH, JNeurooncol101:57.
+WestermarkB,NisterM(1992)Platelet-derivedgrowthfactorandits SalmaggiA,EoliM,FrigerioS,SilvaniA,GelatiM,CorsiniE,BroggiG,
+receptorsinhumangliomatissue:expressionofmessengerRNAand BoiardiA(2003)IntracavitaryVEGF,bFGF,IL-8,IL-12levelsinprimary
+proteinsuggeststhepresenceofautocrineandparacrineloops.CancerRes andrecurrentmalignantglioma.JNeurooncol62:297.
+52:3213. ShihAH,DaiC,HuX,RosenblumMK,KoutcherJA,HollandEC(2004)
+HoltkampN,ZiegenhagenN,MalzerE,HartmannC,GieseA,vonDeimlingA Dose-dependenteffectsofplatelet-derivedgrowthfactor-Bonglial
+(2007)Characterizationoftheamplicononchromosomalsegment4q12 tumorigenesis.CancerRes64:4783.
+inglioblastomamultiforme.NeuroOncol9:291. StuppR,MasonWP,vandenBentMJ,WellerM,FisherB,TaphoornMJ,
+JoensuuH,PuputtiM,SihtoH,TynninenO,NupponenNN(2005) BelangerK,BrandesAA,MarosiC,BogdahnU,CurschmannJ,JanzerRC,
+AmplificationofgenesencodingKIT,PDGFRalphaandVEGFR2 LudwinSK,GorliaT,AllgeierA,LacombeD,CairncrossJG,EisenhauerE,
+receptortyrosinekinasesisfrequentinglioblastomamultiforme. MirimanoffRO(2005)Radiotherapyplusconcomitantandadjuvant
+JPathol207:224. temozolomideforglioblastoma.NEnglJMed352:987.
+KaneRC,FarrellAT,SaberH,TangS,WilliamsG,JeeJM,LiangC,BoothB, TaalW,BrandsmaD,deBruinHG,BrombergJE,Swaak-KragtenAT,
+ChidambaramN,MorseD,SridharaR,GarveyP,JusticeR,PazdurR SmittPA,vanEsCA,vandenBentMJ(2008)Incidenceofearly
+(2006)Sorafenibforthetreatmentofadvancedrenalcellcarcinoma. pseudo-progressioninacohortofmalignantgliomapatientstreated
+ClinCancerRes12:7271. withchemoirradiationwithtemozolomide.Cancer113:405.
+LaiA,TranA,NghiemphuPL,PopeWB,SolisOE,SelchM,FilkaE, VlassenbroeckI,CalificeS,DiserensAC,MigliavaccaE,StraubJ,DiStefanoI,
+YongWH,MischelPS,LiauLM,PhuphanichS,BlackK,PeakS, MoreauF,HamouMF,RenardI,DelorenziM,FlamionB,DiGuiseppiJ,
+GreenRM,SpierCE,KolevskaT,PolikoffJ,FehrenbacherL,ElashoffR, BierauK,HegiME(2008)Validationofreal-timemethylation-specific
+CloughesyT(2011)PhaseIIstudyofbevacizumabplustemozolomide PCRtodetermineO6-methylguanine-DNAmethyltransferasegene
+duringandafterradiationtherapyforpatientswithnewlydiagnosed promotermethylationinglioma.JMolDiagn10:332.
+glioblastomamultiforme.JClinOncol29:142. VredenburghJJ,DesjardinsA,KirkpatrickJP,ReardonDA,PetersKB,
+LeTourneauC,LeeJJ,SiuLL(2009)DoseescalationmethodsinphaseI HerndonJEn,MarcelloJ,BaileyL,ThreattS,SampsonJ,FriedmanA,
+cancerclinicaltrials.JNatlCancerInst101:708. FriedmanHS(2012)Additionofbevacizumabtostandardradiation
+LeeEQ,KuhnJ,LambornKR,AbreyL,DeangelisLM,LiebermanF,RobinsHI, therapyanddailytemozolomideisassociatedwithminimaltoxicityin
+ChangSM,YungWK,DrappatzJ,MehtaMP,LevinVA,AldapeK,DanceyJE, newlydiagnosedglioblastomamultiforme.IntJRadiatOncolBiolPhys
+WrightJJ,PradosMD,CloughesyTF,GilbertMR,WenPY(2012)Phase 82:58.
+I/IIstudyofsorafenibincombinationwithtemsirolimusforrecurrent WilhelmSM,CarterC,TangL,WilkieD,McNabolaA,RongH,ChenC,
+glioblastomaorgliosarcoma:NorthAmericanBrainTumorConsortium ZhangX,VincentP,McHughM,CaoY,ShujathJ,GawlakS,EveleighD,
+study05-02.NeuroOncol14:1511–1518. RowleyB,LiuL,AdnaneL,LynchM,AuclairD,TaylorI,GedrichR,
+LiuL,CaoY,ChenC,ZhangX,McNabolaA,WilkieD,WilhelmS,LynchM, VoznesenskyA,RiedlB,PostLE,BollagG,TrailPA(2004)BAY43-9006
+CarterC(2006)SorafenibblockstheRAF/MEK/ERKpathway,inhibits exhibitsbroadspectrumoralantitumoractivityandtargetstheRAF/
+tumorangiogenesis,andinducestumorcellapoptosisinhepatocellular MEK/ERKpathwayandreceptortyrosinekinasesinvolvedintumor
+carcinomamodelPLC/PRF/5.CancerRes66:11851. progressionandangiogenesis.CancerRes64:7099.
+LlovetJM,RicciS,MazzaferroV,HilgardP,GaneE,BlancJF,deOliveiraAC,
+SantoroA,RaoulJL,FornerA,SchwartzM,PortaC,ZeuzemS,BolondiL,
+GretenTF,GallePR,SeitzJF,BorbathI,HaussingerD,GiannarisT,
+Thisworkispublishedunderthestandardlicensetopublishagree-
+ShanM,MoscoviciM,VoliotisD,BruixJ(2008)Sorafenibinadvanced
+hepatocellularcarcinoma.NEnglJMed359:378. ment. After 12 months the work will become freely available and
+LuKV,ChangJP,ParachoniakCA,PandikaMM,AghiMK,MeyronetD, the license terms will switch to a Creative Commons Attribution-
+IsachenkoN,FouseSD,PhillipsJJ,ChereshDA,ParkM,BergersG(2012) NonCommercial-Share Alike 3.0 Unported License.
+www.bjcancer.com|DOI:10.1038/bjc.2014.209 2661

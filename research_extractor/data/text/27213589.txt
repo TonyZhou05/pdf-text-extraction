@@ -1,0 +1,666 @@
+Source: 27213589.pdf
+Extracted on: Fri Sep 12 23:55:27 PDT 2025
+==================================================
+
+--- Page 1 ---
+www.impactjournals.com/oncotarget/ Oncotarget, Vol. 7, No. 27
+Clinical Research Paper
+Phase I study of pemetrexed with sorafenib in advanced solid
+tumors
+Andrew Poklepovic1,2, Sarah Gordon2, Danielle A. Shafer1,2, John D. Roberts1,2,7,
+Prithviraj Bose1,2,8, Charles E. Geyer Jr.1,2, William P. McGuire1,2, Mary Beth Tombes1,
+Ellen Shrader1, Katie Strickler1, Maria Quigley1, Wen Wan1,3, Maciej Kmieciak1,
+H. Davis Massey4, Laurence Booth5, Richard G. Moran1,6, Paul Dent1,5
+1
+Department of Massey Cancer Center, Virginia Commonwealth University, Richmond, Virginia, USA
+2
+Department of Internal Medicine, Virginia Commonwealth University, Richmond, Virginia, USA
+3
+Department of Biostatistics, Virginia Commonwealth University, Richmond, Virginia, USA
+4
+Department of Pathology, Virginia Commonwealth University, Richmond, Virginia, USA
+5
+Department of Biochemistry and Molecular Biology, Virginia Commonwealth University, Richmond, Virginia, USA
+6
+Department of Pharmacology and Toxicology, Virginia Commonwealth University, Richmond, Virginia, USA
+7
+Current address: Department of Medical Oncology, Yale School of Medicine, New Haven, Connecticut, USA
+8
+Current address: Department of Leukemia, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA
+Correspondence to: Andrew Poklepovic, email: andrew.poklepovic@vcuhealth.org
+Keywords: clinical trial, pemetrexed, solid tumors, sorafenib
+Received: February 26, 2016 Accepted: April 16, 2016 Published: May 18, 2016
+ABSTRACT
+Purpose: To determine if combination treatment with pemetrexed and sorafenib
+is safe and tolerable in patients with advanced solid tumors.
+Results: Thirty-seven patients were enrolled and 36 patients were treated
+(24 in cohort A; 12 in cohort B). The cohort A dose schedule resulted in problematic
+cumulative toxicity, while the cohort B dose schedule was found to be more tolerable.
+The maximum tolerated dose (MTD) was pemetrexed 750 mg/m2 every 14 days with
+oral sorafenib 400 mg given twice daily on days 1–5. Because dosing delays and
+modifications were associated with the MTD, the recommended phase II dose was
+declared to be pemetrexed 500 mg/m2 every 14 days with oral sorafenib 400 mg given
+twice daily on days 1–5. Thirty-three patients were evaluated for antitumor activity.
+One complete response and 4 partial responses were observed (15% overall response
+rate). Stable disease was seen in 15 patients (45%). Four patients had a continued
+response at 6 months, including 2 of 5 patients with triple-negative breast cancer.
+Experimental Design: A phase I trial employing a standard 3 + 3 design was
+conducted in patients with advanced solid tumors. Cohort A involved a novel dose
+escalation schema exploring doses of pemetrexed every 14 days with continuous
+sorafenib. Cohort B involved a modified schedule of sorafenib dosing on days 1–5
+of each 14-day pemetrexed cycle. Radiographic assessments were conducted every
+8 weeks.
+Conclusions: Pemetrexed and intermittent sorafenib therapy is a safe and
+tolerable combination for patients, with promising activity seen in patients with breast
+cancer.
+www.impactjournals.com/oncotarget 42625 Oncotarget
+
+--- Page 2 ---
+INTRODUCTION interact in a greater than additive fashion to kill a wide
+variety of tumor cell types in vitro and in several models
+Pemetrexed, an anti-folate chemotherapeutic agent, of mammary carcinoma in vivo, the latter without any
+was developed as an inhibitor of thymidylate synthase and apparent deleterious effects on normal tissues as judged by
+is approved for the treatment of advanced non-small cell histologic staining or reduced animal body mass [6, 19].
+lung cancer and mesothelioma. It has also demonstrated In these prior studies, we demonstrated that pemetrexed
+modest activity in previously untreated breast cancer and sorafenib interacted to kill tumor cells through
+[1]. Pemetrexed has been shown to have more than one endoplasmic reticulum stress signaling, inactivation of the
+mechanism of action in tumor cells as illustrated by the PI3K/mTor pathway, and the induction of a toxic form of
+continued anti-proliferative effect of the drug in cells autophagic flux [6, 19]. Treatment of mammary carcinoma
+exposed to exogenous thymidine (which prevents the cells with pemetrexed and sorafenib reduced expression
+cytotoxic effects of thymidylate synthase inhibition) [2–5]. of the chaperone GRP78/BiP/HSPA5 in parallel with
+A secondary target of pemetrexed has more recently been increased phosphorylation of eIF2α serine 51, all
+shown to be aminoimidazolecarboxamide ribonucleotide indicative of an endoplasmic reticulum stress response
+formyltransferase (AICART), the downstream folate- being induced by the drug combination [20]. Knock-
+dependent enzyme in de novo purine synthesis [2, 3]. down of PKR-like endoplasmic reticulum kinase (PERK)
+ZMP, the substrate of AICART, accumulates in prevented the stimulation of eIF2α phosphorylation, in
+pemetrexed-treated tumor cells, strongly suggesting that agreement with GRP78/BiP/HSPA5 being an inhibitor
+the reaction catalyzed by AICART is the step in purine of PERK activity [20–22]. Pemetrexed and sorafenib
+synthesis that becomes rate-limiting after drug treatment increased the number of autophagosomes in cells as
+[2]. Increasing concentrations of ZMP activate AMP- judged by an increase in the mean number of punctate
+activated protein kinase (AMPK), which subsequently LC3-GFP bodies per cell, an effect that was prevented
+inhibits the mammalian target of rapamycin (mTOR). by expression of dominant negative eIF2α S51A [20].
+The activation of AMPK [2] and inactivation of mTOR Over-expression of GRP78/BiP/HSPA5, or expression
+[6] increases autophagosome formation. Pemetrexed also of dominant negative eIF2α S51A, significantly reduced
+induces the formation of toxic acidic vesicular organelles, the lethality of pemetrexed and sorafenib treatment [20].
+supporting the hypothesis that pemetrexed causes tumor Thus, by reducing chaperone expression and increasing
+cell death by autophagy [7]. endoplasmic reticulum stress signaling, treatment with the
+Sorafenib is FDA-approved for the treatment of drug combination leads to a toxic form of autophagy.
+advanced hepatocellular carcinoma, renal cell carcinoma, Given the preclinical data, a single-center phase
+and thyroid cancer. It is a multi-kinase inhibitor that I clinical trial of the pemetrexed and sorafenib drug
+was originally developed as an inhibitor of RAF-1, combination was initiated in patients with advanced
+a component of the ERK1/2 pathway. Sorafenib was solid tumor malignancies. A novel 3 + 3 dose-escalation
+subsequently found to inhibit multiple other kinases design was used, with escalating doses of pemetrexed
+including class III tyrosine kinase receptors such as (500–1,000 mg/m2; IV) given every 14 days and
+platelet-derived growth factor receptor (PDGFR), vascular sorafenib (200–400 mg; orally; twice daily) given
+endothelial growth factor receptor (VEGFR), c-kit, and continuously (cohort A). Dose-limiting toxicity (DLT)
+fms-like tyrosine kinase (FLT-3) [8–13]. Sorafenib also was assessed during the initial 4-week period. Because of
+mediates down-regulation of MCL-1, a cytoprotective unexpected and cumulative toxicity in cohort A, cohort
+protein, through inhibition of protein translation, a process B received a modified schedule of intermittent sorafenib
+mediated by endoplasmic reticulum stress signaling dosing on days 1–5 of each pemetrexed administration
+[13, 14]. Reduced MCL-1 levels due to sorafenib exposure (every 14 days). Radiographic response assessments were
+have been linked in many tumor types to increased levels conducted approximately every 8 weeks using Response
+of mitochondrial dysfunction and apoptosis [13, 15, 16]. Evaluation Criteria for Solid Tumors (RECIST) v1.1.
+Although high-dose sorafenib exposure (10 μM) increases
+the levels of autophagic markers, including increased RESULTS
+numbers of LC3-GFP vesicles and elevated expression
+of Beclin 1 and ATG5, lower, more clinically relevant,
+Patient characteristics
+sorafenib concentrations (~1–3 μM) were found to only
+cause a modest transient alteration in autophagy flux or Between October 2011 and December 2014,
+expression of regulatory proteins [13, 15, 17, 18]. 37 patients were enrolled and 36 were treated. One patient
+Because sorafenib and pemetrexed exert their withdrew prior to initiating study treatment. Twenty-
+effects through different pathways, we hypothesized four patients were treated in cohort A and 12 in cohort
+that the drug combination would lead to a synergistic B. Thirty-three patients were evaluable for antitumor
+increase in autophagy and enhanced tumor cell killing. activity. This study was for all advanced solid tumors, but
+Pemetrexed and sorafenib were subsequently shown to breast cancer was the most common tumor type enrolled
+www.impactjournals.com/oncotarget 42626 Oncotarget
+
+--- Page 3 ---
+(12 patients), including 5 with triple-negative disease and longer disease response. The median length of treatment
+one male breast cancer patient. Baseline characteristics of for each dose level is shown in Table 2.
+the patients are summarized in Table 1. Common (occurring in at least 25% of patients)
+grade 2 and all grade 3 and 4 adverse events possibly,
+Dose escalation and DLTs probably, or definitely related to study treatment are shown
+in Tables 3 and 4.
+In cohort A, a total of 6 DLT events occurred (Table 2). Grade 3 hypertension occurred more often in cohort
+No DLTs were seen at dose levels A1 and A2. Two DLTs, A (29%) than cohort B (8%). There were no episodes of
+both grade 3 mucositis, were seen at dose level A3. grade 3 oral mucositis in cohort B. Thirteen percent of
+The dose escalation matrix used in cohort A indicated patients in cohort A developed mucositis. Also, grade
+that the next dose level, A4, employ a reduced dose of 2 palmar-plantar erythrodysesthesia (PPE, hand-foot
+pemetrexed with the dose of sorafenib maintained, given syndrome) was seen in 42% of patients in cohort A and
+that the DLT seen at A3 was most likely pemetrexed- no patients in cohort B, clearly related to the change in
+related. Therefore, pemetrexed dosing was reduced from sorafenib dosing from continuous to intermittent.
+1,000 mg/m2 to 750 mg/m2 (dose level A4). Two DLTs, In general, fewer grade 4 adverse events were
+deemed to be pemetrexed-related, were observed at dose observed in cohort B compared to cohort A. One patient
+level A4 (grade 4 cytopenias [including leucopenia, in cohort A, but none in cohort B, developed grade 4
+neutropenia, lymphopenia, and thrombocytopenia] and hypertension. Other grade 4 adverse events observed in
+grade 3 increases in ALT and AST). The next cohort (A5) cohort A included the following: leucopenia (3 patients);
+employed a lower dose of pemetrexed (500 mg/m2) with lymphopenia, neutropenia, thrombocytopenia (each
+sorafenib 400 mg given orally twice daily. Two DLTs occurring in 2 patients); and hepatic failure, hyperkalemia,
+(grade 4 hypertension and grade 4 hepatic failure) occurred hypocalcemia and sepsis (each occurring in 1 patient). The
+at dose level A5. Enrollment resumed at the initial grade 4 hepatic failure, with elevated ammonia, bilirubin,
+enrollment dose level A1 (pemetrexed 500 mg/m2 with and alkaline phosphatase, occurred in the setting of
+sorafenib 200 mg given orally twice daily) and no DLTs hepato-renal syndrome due to massive and progressive
+were seen. Dose level A1 was defined as the initial MTD intrahepatic metastasis from cholangiocarcinoma.
+for cohort A: 500 mg/m2 pemetrexed IV every 14 days The only grade 4 adverse event in cohort B was
+with 200 mg sorafenib orally twice daily, continuously. thrombocytopenia in 1 patient. The patient did not have
+After the DLT period, however, delayed grade 3 toxicities any associated bleeding episodes.
+including enterocolitis, nausea, vomiting, and dehydration Five treatment-unrelated deaths occurred on study,
+were observed in one patient. Due to this and cumulative all in cohort A, with 3 occurring during treatment and 2
+toxicities requiring dose modifications in cohort A, the during follow-up. No study-related deaths occurred. One
+protocol was revised and cohort A was closed to further patient with a history of chronic aspiration experienced
+accrual, and it was concluded that pemetrexed at any respiratory failure due to aspiration pneumonia, which
+dose with continuous sorafenib was not tolerable. As the was deemed unlikely related to study treatment. A patient
+preclinical data supported concurrent drug administration, with severe disease-related bowel obstruction died due to
+pulsatile dosing of sorafenib during pemetrexed exposure aspiration. A patient with rapid disease progression also
+was therefore evaluated to maintain combination treatment developed hepato-renal syndrome with hyperkalemia,
+exposure and to provide drug-free intervals. Cohort B and it was felt the study drugs may have contributed to
+was opened to explore intermittent dosing of sorafenib some of the decline in liver function. The patient declined
+(days 1–5) with each dose of pemetrexed (IV every 14 days). further intervention and died due to myocardial infarction
+Dose escalation continued to dose level B8 of 750 mg/m2 and not as a result of therapy. Two deaths due to disease
+pemetrexed (IV every 14 days) with 400 mg sorafenib progression occurred during follow-up and within 30 days
+(orally twice a day, days 1–5). No DLTs occurred in after treatment was stopped for progressive disease.
+cohort B. The MTD was not reached in cohort B and based One patient discontinued treatment due to adverse
+upon the improved tolerance and response patterns with events. The patient (cohort A), with an ongoing objective
+pemetrexed at 500 mg/m2, dose level B7 was declared to PR, had breast cancer metastatic to the liver and developed
+be the RP2D. liver function abnormalities (grade 3 bilirubin, grade 1
+ALT, AST and alkaline phosphatase increases) in the
+Safety and tolerability twelfth month of study therapy. These abnormalities
+persisted despite stenting, which prohibited further
+The median duration of treatment was 7 weeks for protocol therapy.
+cohort A, 18 weeks for cohort B, and 10 weeks for all Five patients withdrew from study treatment
+cohorts combined. Duration on treatment was longer in but remained in study follow-up. The first patient with
+cohort B than cohort A due to both decreased toxicity and hepatocellular cancer (cohort A) opted to discontinue study
+www.impactjournals.com/oncotarget 42627 Oncotarget
+
+--- Page 4 ---
+Table 1: Characteristics of 36 patients treated
+Characteristic Number (%)
+Age, y
+Median 59.5
+Range 35–78
+Gender
+Female 24 (67)
+Male 12 (33)
+Race
+Asian 1 (3)
+Black or AA 11 (30)
+White 24 (67)
+Tumor type
+Adenoid cystic carcinoma 1 (3)
+Breast, female, ER–, PR–, HER2– 5 (14)
+Breast, female, ER–, PR–, HER2+ 1 (3)
+Breast, female, ER+, PR–, HER2– 1 (3)
+Breast, female, ER+, PR+, HER2+ 1 (3)
+Breast, female, ER+, PR+, HER2– 2 (6)
+Breast, female, ER+, PR+, HER2+ 1 (3)
+Breast, male 1 (3)
+Cervix 2 (6)
+Cholangiocarcinoma 1 (3)
+Chondrosarcoma 1 (3)
+Colon 3 (8)
+Hepatocellular carcinoma 2 (6)
+Kidney 1 (3)
+Lung, adenocarcinoma 1 (3)
+Lung, squamous cell carcinoma 1 (3)
+Neuroendocrine carcinoma 1 (3)
+Ovary 5 (14)
+Pancreas 2 (6)
+Soft tissue sarcoma 1 (3)
+Thymus 1 (3)
+Unknown primary, squamous cell carcinoma 1 (3)
+Study treatment, weeks
+Mean 15.9
+Median 10.2
+Range 1–52
+treatment following sequential sorafenib dose reductions for of stable disease, withdrew to pursue immunotherapy on
+PPE that would have required continuation with pemetrexed another clinical trial. The fifth patient (cohort B) chose to
+alone. The second patient (cohort A) withdrew to transfer withdraw due to a constellation of side effects from therapy
+to hospice. The third patient (cohort A) experienced DLT including grade 3 fatigue, grade 2 malaise, and prolonged
+(grade 4 hypertension) and withdrew from study declining cytopenias (grade 2 neutropenia, grade 4 thrombocytopenia,
+recommended dose reductions. The fourth patient (cohort grade 2 leucopenia, and grade 2 lymphopenia), making a
+B), after 8 cycles of study treatment and a best response decision to forego further recommended dose reductions.
+www.impactjournals.com/oncotarget 42628 Oncotarget
+
+--- Page 5 ---
+Table 2: Dose escalation and dose limiting toxicities (DLTs)
+Dose Pemetrexed Sorafenib Patients, DLTs, Weeks of treatment,
+DLT event
+Level (mg/m2) (mg) n n median (range)
+Cohort Every 14 Continuous (D1–14),
+A days, IV twice daily, oral
+A1 500 200 8 0 7.6 (2.6–51.0)
+A2 750 400 in AM, 200 in PM 3 0 5.0 (4.9–16.0)
+Grade 3 mucositis
+A3 1000 400 2 2 24.1 (9.0–39.1)
+(2 patients)
+Cohort Every 14 Intermittent (D1–5),
+B days, IV twice daily, oral
+B6 500 200 3 0 18.0 (16.0–52.0)
+B7 500 400 3 0 19.6 (8.0–52.3)
+B8 750 400 6 0 16.7 (9.0–26.9)
+Table 3: Common (occurring in ≥ 25% of patients) grade 2 adverse events possibly, probably,
+definitely related to study treatment
+# patients (% patients)
+Cohort A Cohort B
+n = 24 n = 12
+Adverse event Grade 2 Grade 2
+Alkaline phosphatase increased 7 (29)
+Anemia 15 (63) 5 (42)
+Anorexia 5 (42)
+Fatigue 14 (58) 4 (33)
+Lymphocyte count decreased 17 (71) 8 (67)
+Malaise 5 (42)
+Mucositis oral 3 (25)
+Nausea 5 (42)
+Neutrophil count decreased 9 (38) 7 (58)
+Palmar-plantar erythrodysesthesia syndrome 10 (42)
+White blood cell decreased 9 (38) 7 (58)
+Twenty-seven patients had study treatment ranging from 6 to 10 months. Two of those 3 patients
+discontinued due to disease progression. had triple-negative breast cancer. The fourth patient had
+chondrosarcoma and despite a period of rapid growth of
+Disease response his tumor prior to enrollment onto study, remained on
+study with stable disease for 12 months. Nine patients
+Although this study was not powered to assess (27%) with at least stable disease remained on study for
+response, 1 CR and 4 PRs were observed among the 6 or more months. The duration of therapy for patients
+33 response-evaluable patients for an overall response with a best response of SD or better is illustrated in a
+rate of 15%. SD was seen in 15 patients (45%). Best swimmers’ plot (Figure 1B).
+response to therapy is illustrated in a waterfall plot Among patients with breast cancer, cutaneous
+(Figure 1A). Long-term responses were seen, with metastases, nodal metastases, and visceral disease were
+4 patients having continued responses at 6 months. all observed to respond to therapy (Figure 2). Transient
+Three of the 4 patients with continued responses inflammatory responses were observed in a few patients
+had breast cancer, with the duration of best response before an objective response was observed.
+www.impactjournals.com/oncotarget 42629 Oncotarget
+
+--- Page 6 ---
+Table 4: All grade 3 and 4 adverse events possibly, probably, definitely related to study treatment
+#patients (% patients)
+Cohort A Cohort B
+n = 24 n = 12
+Adverse event Grade 3 Grade 4 Grade 3 Grade 4
+Alanine aminotransferase increased 1 (4)
+Alkaline phosphatase increased 1 (4)
+Anemia 7 (29) 3 (25)
+Aspartate aminotransferase increased 1 (4)
+Blood bilirubin increased 1 (4)
+Cardiac troponin I increased 1 (4)
+Chest wall pain 1 (8)
+Dehydration 1 (4) 1 (8)
+Diarrhea 1 (4)
+Dyspnea 1 (8)
+Enterocolitis 1 (4)
+Fatigue 5 (21) 4 (33)
+Febrile neutropenia 2 (8)
+Generalized muscle weakness 1 (4)
+Hepatic failure 1 (4)
+Hyperkalemia 1 (4)
+Hypertension 7 (29) 1 (4) 1 (8)
+Hypocalcemia 1 (4)
+Hyponatremia 1 (4)
+Hypophosphatemia 2 (8)
+Lymphocyte count decreased 11 (46) 2 (8) 5 (42)
+Maculo-papular rash 1 (4) 1 (8)
+Mucositis oral 3 (13)
+Nausea 1 (4)
+Neutrophil count decreased 6 (25) 2 (8) 3 (25)
+Platelet count decreased 1 (4) 2 (8) 2 (17) 1 (8)
+Sepsis 1 (4)
+Skin infection 1 (4)
+Upper respiratory infection 1 (4)
+Vomiting 1 (4) 1 (8)
+White blood cell decreased 9 (38) 3 (13) 5 (42)
+Biomarker studies location of Beclin 1 staining, cytoplasm versus
+perinuclear, was not associated with patient response. In
+IHC staining was performed to determine the contrast, samples from 5 patients did not express PTEN,
+expression of Beclin 1, PTEN, and PDGFRβ in archived and samples from another 3 patients expressed PTEN in
+tumor samples from 18 of 33 patients who received less than 40% of the tumor cells. Of the 5 patients with
+treatment and were evaluable for response (Table 5). no tumor expression of PTEN by IHC, there were 2 PRs
+Samples were evaluated by a board certified pathologist, (duration of therapy 18 and 52 weeks) and one durable
+and scored for both intensity of the immunostain and SD (chondrosarcoma, duration of therapy 52 weeks). All
+percentage of cells staining positive. All samples stained 3 patients with low PTEN expression (< 40% of tumor
+positive for Beclin 1 and PDGFRβ. The intracellular cells positive and an intensity of “+” by IHC) had SD
+www.impactjournals.com/oncotarget 42630 Oncotarget
+
+--- Page 7 ---
+Table 5: Association between PTEN expression and patient response
+Patient PTENa Best responseb Duration on therapy (weeks)
+% Intensity
+1 0 0 PR 18
+2 0 0 PD 6
+3 0 0 PR 52
+4 0 0 SD 52
+5 0 0 PD 11
+6c 15 + CR 39
+7 20 + SD 18
+8 20 + SD 25
+9 35 + SD 16
+10 50 + PD 3
+11 60 + SD 27
+12 70 + PD 5
+13 90 ++ SD 15
+14 95 + PD 7
+15 100 ++ PD 9
+16 100 ++ PD 10
+17 100 ++ PD 7
+18 100 ++ PD 9
+19 100 ++ SD 15
+aArchival tumor tissue was analyzed by immunohistochemistry for percentage of tumor cells staining positive for PTEN
+expression and for the intensity of staining (0, +, ++, +++). Intensity of staining was determined by a board certified
+pathologist using commonly used methods of assessing IHC stain intensity.
+bBest response was described as one of the following: CR: complete response; PD: progressive disease; PR: partial response;
+SD: stable disease.
+cThe evaluation of PTEN expression for this patient was done by a commercial assay (CARIS Life Sciences) prior to
+enrollment in the study.
+(duration of therapy 16, 18, and 25 weeks). In contrast, and sorafenib would kill cancer cells and reduce tumor
+among the 10 patients with high expression (≥ 50%), 3 growth via a toxic form of autophagy. The initial study
+had SD, and none had a PR. The ordinal regression results design (cohort A) utilized the standard dosing of sorafenib
+indicate a significant association between no or low (twice daily continuously) along with pemetrexed. DLT
+expression of PTEN and the ordinal clinical response (p events occurred at each dose level in cohort A when the
+= 0.028). Excluded from the above analysis was a patient dose of sorafenib was escalated to 400 mg twice daily
+who did not have PTEN staining done as part of the continuously, regardless of the dose of pemetrexed
+study, but who did have prior PTEN evaluation done by (Table 2). All patients in cohort A had appropriate organ
+commercial assay (CARIS Life Sciences), the results of function and vitamin B12 and folate administration at the
+which showed low PTEN expression. This patient had a time of study entry, and no clear additional risk factors or
+complete response (CR, duration of therapy of 39 weeks), predictors of enhanced toxicity could be identified in the
+which if included in the above analysis, would result in patients who experienced DLT. Due to this, methylmalonic
+stronger correlations between the expression levels of acid and homocysteine levels were monitored prior
+PTEN and the response (p = 0.0131). to enrollment in cohort B. However, with no DLTs
+seen in cohort B, no conclusions could be drawn about
+DISCUSSION interactions between those levels and risk of DLT.
+Additionally, a cumulative, sorafenib-mediated
+This phase I drug combination study evaluated the toxicity developed after the DLT observation period
+safety of the combination of pemetrexed with sorafenib for in patients on cohort A and led to sorafenib dose
+the treatment of patients with advanced solid tumors. The modifications for the remainder of therapy. In one
+study was predicated on the hypothesis that pemetrexed patient on dose level A1, the first 2 doses of combination
+www.impactjournals.com/oncotarget 42631 Oncotarget
+
+--- Page 8 ---
+therapy were well tolerated; however, the third dose primed some patients for enhanced hematologic and non-
+led to profound and long-lasting cytopenias, as well as hematologic toxicity from pemetrexed administration,
+enteric and hepatic injury. Following the development of while other patients were able to continue therapy with
+substantial toxicity in this patient outside of the standard continuous sorafenib extended exposure to the drug
+DLT evaluation period, the decision was made to halt combination. Reasons for this discrepant outcome remain
+accrual to cohort A (continuous sorafenib dosing) and unclear after an extensive search for pre-entry differences
+revise the protocol to define and initiate accrual to cohort between the two groups.
+B (intermittent sorafenib dosing). It is hypothesized Given the experience in cohort A, the decision was
+that continuous administration of sorafenib may have made to investigate intermittent dosing of sorafenib, to
+Figure 1: Treatment duration and tumor size change from baseline for patients with a best response of stable disease
+(SD), partial response (PR), or complete response (CR). (A), each bar represents the treatment duration of an individual patient.
+The tumor type and cohort for each patient is given on the y-axis. (B), each bar represents the maximum change in tumor size in comparison
+to baseline for an individual patient. The tumor type and cohort for each patient is given on the x-axis.
+www.impactjournals.com/oncotarget 42632 Oncotarget
+
+--- Page 9 ---
+allow dose escalation of the combination, with inclusion pre-planned dose levels were explored without any DLTs
+of drug-free intervals for patient recovery, based on pre- identified (Table 2). Generally, treatment in cohort B was
+clinical data. The study was reopened with cohort B, very well tolerated. Of the 12 patients treated in cohort B,
+utilizing a standard 3 + 3 dose escalation design, with 1 patient at the highest dose of pemetrexed (750 mg/m2)
+pemetrexed given once every 14 days and sorafenib developed reversible but prolonged toxicity in the
+daily for 5 days starting with each pemetrexed dose. fourth month (grade 3 fatigue, grade 3 anemia, grade 4
+This intermittent dosing of sorafenib in cohort B reduced thrombocytopenia). The patient declined further dose
+the toxicity seen with the drug combination, and all reduction and opted to withdraw from study treatment.
+Figure 2: Clinical vignettes. (A), diagnosis: hormone receptor positive breast cancer; previous treatment: 6 lines of systemic therapy;
+best response: PR; duration of therapy: 12 months. (B), diagnosis: initially ER+, Her-2- breast cancer, with subsequent development of
+triple-negative metastatic disease; previous treatment: 5 lines of systemic therapy; best response: PR; duration of therapy: 12 months. (C),
+diagnosis: triple-negative breast cancer; previous treatment: 7 lines of systemic therapy; best response: PR; duration of therapy: 9 months.
+www.impactjournals.com/oncotarget 42633 Oncotarget
+
+--- Page 10 ---
+No subjects in cohort B were removed from the study due Based on response and toxicity data, dose level
+to adverse events. B7 (pemetrexed 500 mg/m2 IV day 1, sorafenib 400 mg
+One of the 3 patients treated at dose level B7 twice daily on days 1–5, every 14 days) is the RP2D
+(pemetrexed 500 mg/m2, sorafenib 400 mg2 twice daily) of the combination. This dose level was well tolerated
+required a dose delay and was treated every 21 days instead and below the highest tolerable dose of 750 mg/m2 of
+of every 14 days. This patient tolerated treatment well after pemetrexed with intermittent sorafenib 400 mg orally
+increasing the interval between pemetrexed doses. At dose twice daily. Fewer dose delays and no dose modifications
+level B8 (pemetrexed 750 mg/m2, sorafenib 400 mg twice were required at this dose level compared to dose level B8.
+daily), 4 of the 6 patients treated required a dose delay. Two The 500 mg/m2 dose of pemetrexed has been selected for
+of these patients also required a dose reduction. phase 2 testing in breast cancer. Four of the 5 responding
+Patients in both cohorts were observed to have patients with breast cancer were treated at this dose during
+remarkably durable responses as well as SD, especially this study, and higher doses of pemetrexed have been
+given the heavy pretreatment that is typical in this studied previously in lung cancer and were not associated
+population. Forty-five percent of patients had SD and with improvements in response rate or median overall
+an average length on treatment of 19 weeks. Seventeen survival [23].
+patients were treated for 3 or more months, including 75% Lack of expression of the tumor suppressor gene,
+of patients on cohort B. Sustained treatment responses PTEN, in multiple solid and hematologic malignancies
+lasting six months or more were seen in 4 patients and has been strongly associated with a reduced response to
+response duration ranged from 6 to 10 months. PR or SD chemotherapy and to more rapid disease progression and
+was seen in 75% of patients on cohort B. death [24]. Our results suggest that reduced expression
+Enrollment of 12 patients with breast cancer on this of PTEN may correlate with the biological and clinical
+trial presented an opportunity to gain more information responses of patients. We view these results as hypothesis
+about this therapy in this disease population. An objective generating at this time and plan to do a prospective
+response or SD was observed in 58% of breast cancer analysis of PTEN levels and function as part of the
+patients (7 out of 12 patients). Three patients with breast successor phase II clinical study in triple negative breast
+cancer had sustained responses lasting 6 months or more cancer. The decreased expression of PTEN in responders
+and remained on treatment for 9 to 12 months. All objective is contrary to our a priori assumptions regarding tumor
+responses (1 CR and 4 PR) were seen in patients with breast resistance with loss of this biomarker. The present studies
+cancer, including 3 patients with triple-negative disease. did not determine, in those patients expressing high
+All of the patients with triple-negative breast cancer (5 of levels of PTEN protein who also exhibited stable disease,
+5 patients) had stable disease or better on this therapy. One whether the phosphatase activity of the PTEN enzyme
+patient with triple-negative breast cancer, previously treated was abolished due to a point mutation or reduced due
+with 7 lines of therapy, achieved a CR and remained on to PTEN hyper-phosphorylation. Additional laboratory
+treatment for 9 months. PRs and stable disease were each based studies are presently defining PTEN functionality
+seen in 2 additional patients with triple-negative breast in all patients from this trial, and whether reduced PTEN
+cancer (4 total patients). Due to these encouraging results function and tumor cell sensitivity in any of these patients
+suggestive of disease specific activity, a phase II trial in correlated with higher basal activities of AKT, mTOR,
+triple-negative breast cancer is under development. p70 S6K, and ERK1/2 as was observed in our pre-clinical
+One patient with previously untreated chondrosarcoma studies.
+had durable SD for 6 months and remained on treatment It was observed that 20 of 33 patients (61%) had
+for 12 months until new splenic lesions were reported on stable disease or tumor regression as a best response.
+imaging, but his bulky primary tumor sites remained under This supports further evaluation of this drug combination,
+control. Study therapy was well tolerated without toxicity especially with intermittent sorafenib dosing, which was
+at the planned phase II dose. While one patient is a limited well tolerated, possibly with the addition of other novel
+sample, stable disease for 6 months in chondrosarcoma for agents to explore enhancement of toxic autophagy as
+which there is no accepted first line standard therapy is a an antineoplastic approach. Our laboratory is presently
+notable observation that deserves further assessment. developing 3-drug combinations using the combination of
+While no MTD was reached in cohort B, further pemetrexed with sorafenib as a backbone1.
+dose escalation was not explored. Experience in cohort
+A demonstrated that pemetrexed doses in excess of MATERIALS AND METHODS
+750 mg/m2 led to unacceptable levels of mucositis. DLTs
+and delayed toxicity of the continuous dosing combination
+Drug supply
+made escalation of intermittent sorafenib doses beyond
+400 mg orally twice daily impractical. In addition, 2 Commercial stock of pemetrexed (Alimta,
+patients required dose modification of both agents at dose LY231514; NSC 698037; Eli Lilly and Company) was
+level B8. obtained and provided at no cost to patients by the Virginia
+www.impactjournals.com/oncotarget 42634 Oncotarget
+
+--- Page 11 ---
+Commonwealth University (VCU) Massey Cancer Center. Treatment plan
+Sorafenib (Nexavar, BAY 43-9006; NSC 724772; Bayer
+Healthcare Pharmaceuticals) was obtained by VCU This study was designed as a phase I, non-
+Massey Cancer Center or stock was provided by Bayer randomized, dose-escalation study to determine the
+and provided at no cost to participants. Both drugs were maximum-tolerated dose (MTD) for the pemetrexed
+provided through the VCU Health System Investigational and sorafenib combination, where pemetrexed was
+Drug Service, unless a patient’s diagnosis met FDA- administered as a 15-minute infusion every 14 days.
+indications for either drug and third-party authorization Sorafenib in cohort A was given orally continuously,
+could be obtained, in which case the agent was obtained starting concurrent with the first dose of pemetrexed.
+commercially. Sorafenib doses ranged from 200 to 400 mg twice a day
+and pemetrexed doses ranged from 500 to 1,000 mg/m2.
+Patient eligibility Following a protocol revision, cohort A was closed to
+further accrual, and cohort B, exploring intermittent
+Patients must have had a diagnosis of advanced dosing of sorafenib with each dose of pemetrexed, was
+solid tumor malignancy with no potential curative opened. In cohort B, sorafenib was given orally on days
+treatment. Any number of prior lines of therapy 1–5, starting the morning of each pemetrexed dose.
+was allowed. Ineligible patients included those with Sorafenib doses ranged from 200 to 400 mg twice a day
+uncontrolled brain metastases, contraindication to and pemetrexed doses ranged from 500 to 750 mg/m2.
+antiangiogenic agents, arterial thromboembolic or Pemetrexed treatment was repeated every 14 days in
+embolic events within the past 6 months, major cardiac both cohorts. Disease status was assessed approximately
+dysfunction, systolic blood pressure greater than 160 mm every 8 weeks. Patients experiencing a partial or complete
+Hg or diastolic pressure greater than 100 mm Hg despite response (PR or CR) or stable disease (SD) were allowed
+optimal medical management, inability to interrupt to continue treatment indefinitely at the investigator’s
+aspirin or non-steroidal anti-inflammatory agents for a discretion. Pharmacokinetics were not performed in this
+5-day period, serious uncontrolled infection (Common study given that pemetrexed is cleared through the kidneys
+Terminology Criteria for Adverse Events [CTCAE] and sorafenib is metabolized in the liver.
+v 4; grade > 2), or known or presumed intolerance to
+pemetrexed or sorafenib. Patients unwilling or unable Study design, definition of DLT, and
+to take folic acid, vitamin B12, or dexamethasone, or identification of the MTD and recommended
+with an inability to swallow or suspected malabsorption phase 2 dose
+were also ineligible. Prior treatment with pemetrexed or
+sorafenib was allowed. A novel dose escalation matrix in which one or
+Eligible patients had to meet the following criteria: both agents could be escalated or de-escalated based
+at least 18 years of age; aspartate transaminase (AST) on observed toxicities was used to define dose levels
+or alanine transaminase (ALT) less than or equal to 3 for cohort A [26]. For cohort B, a standard 3 + 3 dose-
+times the upper institutional limit of normal (ULN); escalation design was used, with dose level expansion of
+total bilirubin of less than or equal to 1.5 times the up to 6 evaluable patients if a DLT was noted. The MTD
+upper institutional limit; creatinine clearance of at least was defined as the highest dose level at which fewer than 2
+45 mL/min by standard Crockcroft-Gault equation; INR of 6 patients experienced DLT. The recommended phase 2
+less than or equal to 1.5, unless due to anticoagulants; dose (RP2D) may not exceed than the MTD, but could be
+hemoglobin levels of at least 8.5 g/dL; total white count set to less than the MTD if the pattern of toxicity and dose
+of at least 3.0 × 109/L; an absolute neutrophil count of at modifications suggest that a lower dose would be preferred
+least 1.5 × 109/L; and a platelet count of at least 80 × 109/L for further development.
+for cohort A and at least 100 × 109/L for cohort B. Initially, The first 28 days of treatment comprised the DLT-
+an Eastern Cooperative Oncology Group (ECOG) evaluation period. For both cohorts, DLT was defined as
+performance status score of 2 or less was required. A any toxicity of grade 3 or greater that was determined to be
+protocol amendment effective for cohort B modified the possibly, probably, or definitely related to study treatment
+ECOG performance status inclusion criteria to a score of except for the following: (i) nausea, vomiting, or diarrhea
+1 or less for cohort B and further defined eligibility criteria in the absence of adequate prophylaxis and/or responsive
+by excluding any patients with grade 2 or greater neuropathy, to medical management; (ii) fatigue responsive to medical
+low serum B12/folate levels, or platelets of less than 100 management; (iii) grade 3 hypertension; (iv) asymptomatic
+× 102/L. Prior chemotherapy toxicities were allowed as laboratory abnormalities; (v) electrolyte abnormalities that,
+long as they were stable and did not interfere with study once corrected, could be maintained with oral repletion; and
+drug toxicity assessment. Patients were required to have (vi) maculo-papular rash. For cohort B, any of the following
+measurable or evaluable disease by RECIST v1.1 [25]. grade 3 events were also excluded as DLT events: hand-
+www.impactjournals.com/oncotarget 42635 Oncotarget
+
+--- Page 12 ---
+foot syndrome, anemia, thrombocytopenia, neutropenia, Human investigation studies
+leukopenia, lymphopenia, or febrile neutropenia.
+Studies were performed after Institutional Review
+Toxicity evaluation Board approval and in accordance with an assurance
+filed with and approved by the Department of Health and
+NCI CTCAE v 4 was used for reporting adverse Human Services. Informed consent was obtained from
+events. each patient. The ClinicalTrials.gov trial registration ID
+is NCT01450384.
+Response evaluation
+ACKNOWLEDGMENTS
+Tumor masses were evaluated for response
+according to RECIST v 1.1 [25]. The authors wish to thank Dr. Kevin Hogan for
+his review and editing of the manuscript, Dr. Kellie
+Archival tumor tissue for biomarker analysis Archer for her statistical review, and Bayer Healthcare
+Pharmaceuticals for providing at no cost some of the
+Archival tumor tissue was analyzed by
+sorafenib used in the study. Services in support of the
+immunohistochemistry (IHC) for PTEN, Beclin 1, and
+research project were provided by the VCU Massey
+PDGFRb expression. Tumor tissues were deparaffinized
+Cancer Center Biostatistics Shared Resource.
+and rehydrated through graded alcohols to water.
+Heat-induced antigen retrieval was done with sodium
+CONFLICTS OF INTEREST
+citrate buffer (10 μM, pH 6.0) for PTEN staining
+and with Tris/EDTA buffer (pH 9.0) for Beclin 1 and
+The authors have no conflicts of interest to disclose.
+PDGFRβ staining. The slides for staining with anti-
+PTEN or anti-PDGFRβ antibodies were washed with
+GRANT SUPPORT
+TBS containing 0.025% Tween 20, and the slides for
+staining with anti-Beclin 1 antibody were washed
+The study was supported, in part, by grants from
+with PBS containing 0.1% Tween 20. Before staining,
+the National Institutes of Health including P30CA016059
+the slides were incubated for 10 minutes with Dual
+(Cancer Center Support Grant to the VCU Massey Cancer
+Endogenous Enzyme Block, an endogenous peroxidase
+Center), UL1TR000058 (Clinical & Translational Science
+inhibitor (EnVision+ Dual Link System-HRP (DAB+);
+Award to the VCU Center for Clinical and Translational
+DakoCytomation, Denmark). The slides were then
+Research), R01DK52825 (PD), R01CA141703 (PD),
+blocked with 10% normal goat serum for 2 hours at
+R01CA150214 (PD), R01CA192613, and R01CA140416
+room temperature with the diluent for each antibody as
+(RGM).
+specified by the manufacturer. After washing, the slides
+were stained overnight at 4°C with anti-PTEN (1:100,
+#9559, Cell Signaling Technology), anti-Beclin 1 (1:1,000, REFERENCES
+ab62472, Abcam), or anti-PDGFRb (1:100, ab5511,
+Abcam) antibody. Antibody staining was visualized using 1. Robert NJ, Conkling PR, O’Rourke MA, Kuefler PR,
+EnVision+ Dual Link System-HRP (DAB+) according to McIntyre KJ, Zhan F, Asmar L, Wang Y, Shonukan OO,
+the manufacturer’s protocol. The slides were read by a O’Shaughnessy JA. Results of a phase II study of
+clinical pathologist who was blinded to the identity of the pemetrexed as first-line chemotherapy in patients with
+patient specimens. advanced or metastatic breast cancer. Breast Cancer Res
+Treat. 2011; 126:101–108.
+Statistical analysis 2. Racanelli AC, Rothbart SB, Heyer CL, Moran RG.
+Therapeutics by cytotoxic metabolite accumulation:
+Demographics, adverse events, DLTs, dose levels, pemetrexed causes ZMP accumulation, AMPK activation,
+and clinical responses were summarized by basic and mammalian target of rapamycin inhibition. Cancer Res.
+descriptive statistics such as frequency, proportion, mean, 2009; 69:5467–5474.
+median, and range. An ordinal regression method with
+3. Rothbart SB, Racanelli AC, Moran RG. Pemetrexed
+cumulative logits link was used to determine if there was
+indirectly activates the metabolic kinase AMPK in human
+a statistically significant association (p ≤ 0.05) between
+carcinomas. Cancer Res. 2010; 70:10299–10309.
+biomarker expression levels (high vs. low/null expression)
+4. Jarmula A. Antifolate inhibitors of thymidylate synthase
+and the ordinal clinical response (complete response [CR],
+as anticancer drugs. Mini Rev Med Chem. 2010; 10:
+PR, SD, and progressive disease [PD]).
+1211–1222.
+www.impactjournals.com/oncotarget 42636 Oncotarget
+
+--- Page 13 ---
+5. Fleeman N, Bagust A, McLeod C, Greenhalgh J, Boland A, 15. Zhang G, Park MA, Mitchell C, Hamed H, Rahmani M,
+Dundar Y, Dickson R, Tudur Smith C, Davis H, Green J, Martin AP, Curiel DT, Yacoub A, Graf M, Lee R,
+Pearson M. Pemetrexed for the first-line treatment of locally Roberts JD, Fisher PB, Grant S, et al. Vorinostat and
+advanced or metastatic non-small cell lung cancer. Health sorafenib synergistically kill tumor cells via FLIP
+Technol Assess. 2010; 14:47–53. suppression and CD95 activation. Clin Cancer Res. 2008;
+6. Bareford MD, Park MA, Yacoub A, Hamed HA, Tang Y, 14:5385–5399.
+Cruickshanks N, Eulitt P, Hubbard N, Tye G, Burow ME, 16. Zhang G, Park MA, Mitchell C, Walker T, Hamed H,
+Fisher PB, Moran RG, Nephew KP, et al. Sorafenib Studer E, Graf M, Rahmani M, Gupta S, Hylemon PB,
+enhances pemetrexed cytotoxicity through an autophagy- Fisher PB, Grant S, Dent P. Multiple cyclin kinase inhibitors
+dependent mechanism in cancer cells. Cancer Res. 2011; promote bile acid-induced apoptosis and autophagy in
+71:4955–4967. primary hepatocytes via p53-CD95-dependent signaling. J
+7. Park JH, Lee YR, So HS, Lee KK, Lee SY, Moon SR, Biol Chem. 2008; 283:24343–24358.
+Jo HJ, Lee S, Jeong K, Kwon KB, Yang SH. The role of 17. Park MA, Mitchell C, Zhang G, Yacoub A, Allegood J,
+autophagy induced by pemetrexed in lung adenocarcinoma Haussinger D, Reinehr R, Larner A, Spiegel S, Fisher PB,
+cells. Oncol Rep. 2014; 31:2365–2370. Voelkel-Johnson C, Ogretmen B, Grant S, et al. Vorinostat
+8. Strumberg D, Richly H, Hilger RA, Schleucher N, Korfee S, and sorafenib increase CD95 activation in gastrointestinal
+Tewes M, Faghih M, Brendel E, Voliotis D, Haase CG, tumor cells through a Ca(2+)-de novo ceramide-PP2A-
+Schwartz B, Awada A, Voigtmann R, et al. Phase I clinical reactive oxygen species-dependent signaling pathway.
+and pharmacokinetic study of the Novel Raf kinase and Cancer Res. 2010; 70:6313–6324.
+vascular endothelial growth factor receptor inhibitor BAY 18. Rahmani M, Davis EM, Crabtree TR, Habibi JR,
+43–9006 in patients with advanced refractory solid tumors. Nguyen TK, Dent P, Grant S. The kinase inhibitor sorafenib
+J Clin Oncol. 2005; 23:965–972. induces cell death through a process involving induction
+9. Yacoub A, Hamed HA, Allegood J, Mitchell C, Spiegel S, of endoplasmic reticulum stress. Mol Cell Biol. 2007;
+Lesniak MS, Ogretmen B, Dash R, Sarkar D, Broaddus WC, 27:5499–5513.
+Grant S, Curiel DT, Fisher PB, et al. PERK-dependent 19. Bareford MD, Hamed HA, Allegood J, Cruickshanks N,
+regulation of ceramide synthase 6 and thioredoxin play a Poklepovic A, Park MA, Ogretmen B, Spiegel S, Grant S,
+key role in mda-7/IL-24-induced killing of primary human Dent P. Sorafenib and pemetrexed toxicity in cancer cells is
+glioblastoma multiforme cells. Cancer Res. 2010; 70: mediated via SRC-ERK signaling. Cancer Biol Ther. 2012;
+1120–1129. 13:793–803.
+10. Park MA, Yacoub A, Rahmani M, Zhang G, Hart L, 20. Booth L, Roberts JL, Tavallai M, Chuckalovcak J,
+Hagan MP, Calderwood SK, Sherman MY, Koumenis C, Stringer DK, Koromilas AE, Boone DL, McGuire WP,
+Spiegel S, Chen CS, Graf M, Curiel DT, et al, Grant S, Poklepovic A, Dent P. [Pemetrexed + Sorafenib] lethality
+Dent P. OSU-03012 stimulates PKR-like endoplasmic is increased by inhibition of ERBB1/2/3-PI3K-NFkappaB
+reticulum-dependent increases in 70-kDa heat shock protein compensatory survival signaling. Oncotarget. 2016. doi:
+expression, attenuating its lethal actions in transformed 10.18632/oncotarget.8281.
+cells. Mol Pharmacol. 2008; 73:1168–1184. 21. Roberts JL, Tavallai M, Nourbakhsh A, Fidanza A, Cruz-
+11. Walker T, Mitchell C, Park MA, Yacoub A, Graf M, Luna T, Smith E, Siembida P, Plamondon P, Cycon KA,
+Rahmani M, Houghton PJ, Voelkel-Johnson C, Grant S, Doern CD, Booth L, Dent P. GRP78/Dna K Is a Target
+Dent P. Sorafenib and vorinostat kill colon cancer cells for Nexavar/Stivarga/Votrient in the Treatment of Human
+by CD95-dependent and -independent mechanisms. Mol Malignancies, Viral Infections and Bacterial Diseases. J
+Pharmacol. 2009; 76:342–355. Cell Physiol. 2015; 230:2552–2578.
+12. Martin AP, Park MA, Mitchell C, Walker T, Rahmani M, 22. Booth L, Roberts JL, Cruickshanks N, Grant S,
+Thorburn A, Haussinger D, Reinehr R, Grant S, Dent P. Poklepovic A, Dent P. Regulation of OSU-03012 toxicity
+BCL-2 family inhibitors enhance histone deacetylase by ER stress proteins and ER stress-inducing drugs. Mol
+inhibitor and sorafenib lethality via autophagy and Cancer Ther. 2014; 13:2384–2398.
+overcome blockade of the extrinsic pathway to facilitate 23. Cullen MH, Zatloukal P, Sorenson S, Novello S, Fischer JR,
+killing. Mol Pharmacol. 2009; 76:327–341. Joy AA, Zereu M, Peterson P, Visseren-Grul CM, Iscoe N.
+13. Park MA, Reinehr R, Haussinger D, Voelkel-Johnson C, A randomized phase III trial comparing standard and high-
+Ogretmen B, Yacoub A, Grant S, Dent P. Sorafenib activates dose pemetrexed as second-line treatment in patients with
+CD95 and promotes autophagy and cell death via Src family locally advanced or metastatic non-small-cell lung cancer.
+kinases in gastrointestinal tumor cells. Mol Cancer Ther. Ann Oncol. 2008; 19:939–945.
+2010; 9:2220–2231. 24. Zhang S, Yu D. PIking apart PTEN’s role in cancer. Clin
+14. Dokmanovic M, Clarke C, Marks PA. Histone deacetylase Cancer Res. 2010; 16:4325–4330.
+inhibitors: overview and perspectives. Mol Cancer Res. 25. Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH,
+2007; 5:981–989. Sargent D, Ford R, Dancey J, Arbuck S, Gwyther S,
+www.impactjournals.com/oncotarget 42637 Oncotarget
+
+--- Page 14 ---
+Mooney M, Rubinstein L, Shankar L, Dodd L, et al, 26. Harrington JA, Wheeler GM, Sweeting MJ, Mander AP,
+Lacombe D, Verweij J. New response evaluation criteria in Jodrell DI. Adaptive designs for dual-agent phase I
+solid tumours: revised RECIST guideline (version 1.1). Eur dose-escalation studies. Nat Rev Clin Oncol. 2013; 10:
+J Cancer. 2009; 45:228–247. 277–288.
+www.impactjournals.com/oncotarget 42638 Oncotarget

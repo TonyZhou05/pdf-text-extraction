@@ -1,0 +1,506 @@
+Source: 30992546.pdf
+Extracted on: Fri Sep 12 23:59:46 PDT 2025
+==================================================
+
+--- Page 1 ---
+www.nature.com/bjc
+ARTICLE
+Clinical Study
+fi
+A phase Ib dose- nding, pharmacokinetic study of the focal
+adhesion kinase inhibitor GSK2256098 and trametinib in
+patients with advanced solid tumours
+Gabriel Mak1,2, Jean-Charles Soria3, SarahP.Blagden4,5,Ruth Plummer6, Ronald A.Fleming7, Noelia Nebot7,9,Jianping Zhang8,
+JollyMazumdar7,10,Debra Rogan7,Anas Gazzah3,IvanaRizzuto4, Alastair Greystoke6, Li Yan7, Jerry Tolson7, KurtR.Auger7 and
+Hendrik-TobiasArkenau1,2
+BACKGROUND:Combinedfocaladhesion kinase (FAK)and MEK inhibitionmayprovide greater anticancer effect thanFAK
+monotherapy.
+METHODS:Thisdose-findingphaseIbstudy(adaptive3+3design)determinedthemaximumtolerateddose(MTD)oftrametinib
+andtheFAK inhibitor GSK2256098 incombination. Eligiblepatients hadmesothelioma or other solidtumours with probable
+mitogenactivated protein kinase pathway activation.Adverse events (AEs),dose-limiting toxicities, disease progression and
+pharmacokinetics/pharmacodynamics wereanalysed.
+RESULTS:Thirty-foursubjectswereenrolled.TheGSK2256098/trametinibMTDswere500mgtwicedaily(BID)/0.375mgoncedaily
+(QD)(high/low)and250mgBID/0.5mgQD(low/high).ThemostcommonAEswerenausea,diarrhoea,decreasedappetite,pruritus,
+fatigueandrash;noneweregrade4.Systemicexposuretotrametinibincreasedwhenco-administeredwithGSK2256098,versus
+trametinib monotherapy;GSK2256098 pharmacokinetics wereunaffectedby concomitant trametinib. Median progression-free
+survival(PFS)was11.8weeks(95%CI:6.1–24.1)insubjectswithmesotheliomaandwaslongerwithMerlin-negativeversusMerlin-
+positivetumours (15.0 vs7.3weeks).
+CONCLUSIONS:Trametinibexposureincreasedwhenco-administeredwithGSK2256098,butnotviceversa.Mesotheliomapatients
+withlossofMerlinhadlongerPFSthansubjectswithwild-type,althoughsupportforefficacywiththiscombinationwaslimited.
+Safetyprofileswere acceptable upto theMTD.
+British Journalof Cancer(2019) 120:975–981;https://doi.org/10.1038/s41416-019-0452-3
+BACKGROUND patients with Merlin-negative tumours had a progression-free
+Focal adhesion kinase (FAK) is a non-receptor tyrosine kinase survival (PFS) nearly twice that of Merlin-positive mesothelioma
+whose activity is critical for cancer cell proliferation, survival, patients.7
+migration,andinvasion.1FAKoverexpressionhasbeendocumen- Trametinib is an oral, small molecule inhibitor of MEK1/2.8
+ted in several solid tumours, including mesothelioma, and MEK1/2isanenzymewithinthemitogenactivatedproteinkinase
+haematologicalmalignancies,1–5butFAKisdetectedatlowlevels (MAPK) or RAS/RAF/MEK/ERK pathway. Activation of ERK is
+in normal tissues or benign tumours.2 FAK overexpression may commonly observed in cancers, such as mesothelioma, where it
+relate to prognosis in various human malignancies3,5 and is occurs in 75% of patients.9–11 We hypothesised that a combina-
+therefore an attractive target for anticancertherapy. tion of FAK and MEK inhibition may provide greater anticancer
+GSK2256098isapotent,oral,reversibleinhibitorofthetyrosine effect than FAK monotherapy, supported by preclinical evidence
+kinaseactivitymeasuredbytheautophosphorylationsite(Tyr397) of synergistic growth inhibition and cell death between
+of FAK.6 In preclinical studies, GSK2256098 was demonstrated GSK2256098 and trametinib across a range of mesothelioma cell
+to be at least 20 times more active in vitro in Merlin-negative lines(GSKInternal data;manuscript in preparation).
+(encoded by NF-2) mesothelioma cells than in Merlin-positive This study aimed to identify the maximum tolerated doses
+cells.6 In a recent phase I study of GSK2256098 monotherapy (MTD) of GSK2256098 and trametinib when administered in
+for patients with advanced solid tumours, mesothelioma combination and to examine the safety, pharmacokinetics,
+1SarahCannonResearchInstitute,London,UK;2CancerCentre,UniversityCollegeLondon,London,UK;3DrugDevelopmentDepartmentatGustaveRoussyCancerCampus,
+UniversityParis-Sud,Paris,France;4DepartmentofOncology,ImperialCollegeHealthcareNHSTrust,London,UK;5DepartmentofOncology,UniversityofOxford,Oxford,UK;
+6NorthernInstituteforCancerResearch,NewcastleUniversity,NewcastleuponTyne,UK;7GlaxoSmithKline,ResearchTrianglePark,NCandUpperProvidence,Collegeville,PA,
+USAand8PAREXELInternational,Durham,NC,USA
+Correspondence:Hendrik-TobiasArkenau(Tobias.Arkenau@HCAHealthcare.co.uk)
+9Presentaddress:NovartisPharmaceuticalsCorporation,EastHanover,NewJersey,USA
+10Presentaddress:ChimeronBio,NewYork,NY10016,USA
+Received:22August2018Revised:21March2019Accepted:26March2019
+Publishedonline:17April2019
+©TheAuthor(s)2019 PublishedbySpringerNatureonbehalfofCancerResearchUK
+
+--- Page 2 ---
+AphaseIbdose-finding,pharmacokineticstudyofthefocaladhesion...
+GMaketal.
+976
+pharmacodynamics, and clinical activity of this combination in For PK analysis of trametinib, blood samples were taken via an
+patientswith mesothelioma orother solidtumours. indwellingcannula(orbydirectvenepuncture),collectedintoadi-
+potassium ethylenediaminetetraacetic acid (K2-EDTA) tube and
+immediatelyplacedonwaterice.Bloodsamplesstoredonwetice
+METHODS werecentrifugedwithin1hofcollectionatapproximately1500gfor
+Studydesign 10minat4°C.Supernatantplasmawastransferredtoa3.6mLNunc
+This multipart phase I study (NCT01938443) was conducted at tube and stored at 20°C before shipment. Samples were shipped
+threecentresintheUK,andoneinFrancebetween7November frozenondryiceatagreedtimepointsthroughoutthestudytoGSK
+2013and 24June2016. Pharmaceuticals,UpperMerion,PA,USA,foranalysis.
+Part1aimedtoidentifyalowGSK2256098/hightrametiniband For pharmacokinetic analysis of GSK2256098, blood samples
+a high GSK2256098/low trametinib MTD, using a standard weretakenviaanindwellingcannula(orbydirectvenepuncture),
+adaptive 3+3 design. Starting doses were GSK2256098 500mg collected into a K2-EDTA tube and gently mixed by inversion of
+orally twice daily (BID), 50% of the single-agent MTD, and thecappedtube3timesuntilalltheEDTAhaddissolvedintothe
+trametinib1mgorallyoncedaily(QD),50%oftherecommended sample.Approximately15μLbloodwasthentransferredfromthe
+monotherapy dose.7,12 Dose de-escalation was followed if the “end-to-end” EDTA capillary tube onto the Whatman FTA DBS
+initial doses exceeded the MTD exposure. GSK2256098 was card.
+administered with a light meal to limit nausea while trametinib Plasma samples were analysed for trametinib using the
+was administered ≥2h after a meal as per the prescription validated analytical method based on liquid-liquid extraction,
+information.Patientsremainedonstudymedicationsuntildisease followed by high-performance liquid chromatography mass
+progression, adverse events (AE) warranting discontinuation, or spectrometry (HPLC-MS/MS) analysis using a TurboIonSpray
+withdrawalof consent. interface and multiple reaction monitoring. The lower limit of
+Once each dose combination had been cleared for safety, two quantification(LLQ)fortrametinibwas0.25ng/mLusinga50-mL
+to three additional subjects were enrolled in a trailing pharma- aliquot of human plasma with a higher limit of quantification
+codynamic cohort. Mandatory pre- and post-treatment biopsies (HLQ)of250ng/mL.BloodsampleswereanalysedforGSK2256098
+wereobtainedfromthesesubjects.TheplannedPart2expansion using a validated analytical method based on acetonitrile
+cohort study wascancelled after reviewof results fromPart 1. extractionfromdriedbloodspotsontheWhatmanFTADBScard,
+followedbyHPLC/MS/MSanalysisusingaTurboIonSprayinterface
+Patientselection and multiple reaction monitoring. The LLQ for GSK2256098 was
+Subjectswereeligibleforthestudyiftheywereaged≥18years,had 10ng/mL using a3-mm diameter.
+mesothelioma or solid tumours with a high likelihood of MAPK GSK2256098 in human blood was also analysed from blood/
+pathwayactivation,andhadreceived≥1priorcourseofchemother- water(50/50,v/v)usingthevalidatedanalyticalmethodbasedon
+apy. Other key eligibility criteria included Eastern Cooperative protein precipitation followed by HPLC-MS/MS analysis using a
+Oncology Group (ECOG) performance status 0–1; adequate TurboIonSpray interface and multiple reaction monitoring. The
+haematologic, hepatic, and renal function; ability to swallow oral LLQforGSK2256098was10ng/mLusinga25-μLaliquotofblood/
+medication;andleftventricularejectionfraction(LVEF)atorabove water (50/50, v/v)with anHLQ of 10000ng/mL.
+the lower limit of normal. Female patients with childbearing GSK2256098whole-bloodanddrybloodspotconcentration-time
+potential were asked to comply with protocol-specified contra- data as well as trametinib plasma concentration-time data were
+ceptive measures, and male patients with female partners of analysed by standard noncompartmental methods using Phoenix
+childbearing potential needed to have had a prior vasectomy or WinNonlin version 6.3. Calculations of all Pharmacokinetic para-
+agree to use effective contraception. Patients with symptomatic meters were based on doses of GSK2256098 and trametinib
+leptomeningealorbrainmetastaseswereexcluded,aswerepatients administeredandactualsamplingtimesfromtherespectivedosing.
+with active interstitial lung disease or pneumonitis; a history of
+retinal vein occlusion or central serous retinopathy; current use of Clinical activity
+warfarin;historyorevidenceofcardiovascularrisk;andpresenceof Clinicalactivitywasassessedatbaselineandevery8weeksusing
+activegastrointestinaldiseaseorotherconditionthatmayinterfere the Response Evaluation Criteria In Solid Tumours (RECIST) 1.1
+withthepharmacokineticsofthedrugs. guidelines;14 mesothelioma was assessed using Modified RECIST
+forMesothelioma.15
+Dose-limitingtoxicity
+AEs were assessed throughout the study using the National Patientmonitoring
+CancerInstituteCommonTerminologyCriteriaforAdverseEvents Haematology and clinical chemistry laboratory tests were
+v4.0 guidelines.13 An AE was considered a dose-limiting toxicity performed at baseline, Days 1, 8, 15, 22, 29, and every 4 weeks
+(DLT) if it had a causal or possible causal relationship to study thereafter.Electrocardiogramswereperformedatbaseline,Days1,
+treatment within the first 28 days and met the following criteria: 15,22,and then every8 weeks fromDay1.
+≥Grade 3 non-haematologic toxicity not controlled by routine
+supportivemeasures;Grade4neutropenialasting>5days;febrile Tumourbiopsy collectionand determination of pFAKlevels
+neutropenia of any grade; Grade 4 thrombocytopenia; PairedtumourbiopsieswerecollectedpriortodosingonDay1
+alanine aminotransferase >3x upper limit of normal (ULN) with and on a day from Days 15 to 22 inclusive. Samples were
+bilirubin >2x ULN; any toxicity that resulted in missing ≥14 analysedforpFAKandtotalFAKbyaproprietaryCollaborative-
+consecutiveornon-consecutivedaysofscheduleddosing during Enzyme Enhanced Reactive-immunoassay (CEER) (Prometheus
+the initial 28-day period; any Grade 2 toxicity that, in the Laboratories, California, USA). A proximity-based immunoassay,
+investigator’sjudgement, would be doselimiting. the CEER assay leverages a multiplexed immune-microarray
+platform combined with triple-antibody-enzyme channelling
+Pharmacokineticanalysis signal amplification. Specific signal amplification occurs when
+Blood samples for pharmacokinetic analysis were collected prior target proteins (pFAK and FAK) captured on an antibody
+tomorningdosingofGSK2256098onDay15,andat1,1.5,2,4,6, microarray co-localize with two additional detector-antibodies
+8h after the morning dose of GSK2256098. Trametinib was linked with channelling enzymes (horseradish peroxidase, HRP,
+administered immediately after the 1.5-hour pharmacokinetic and glucose oxidase, GO). pFAK levels were normalised to total
+samplewascollected. FAK. The same technology was leveraged to analyse pERK and
+:,;)(0987654321
+
+--- Page 3 ---
+AphaseIbdose-finding,pharmacokineticstudyofthefocaladhesion...
+GMaketal.
+977
+other MAPK pathway markers. However, a channel enzyme Determination oftheMTD
+−enhancedreactionassayfortotalERKcouldnotbedeveloped, Table 1 summarises doses and DLTs. Two of three subjects
+so pERK was normalized to total FAK. receivingtrametinib1mgQD/GSK2256098500mgBIDdeveloped
+DLTs. As a result, the trametinib dose was reduced to 0.5mg QD
+Determination ofMerlin status for Cohort 2, with GSK2256098 maintained at 500mg BID. Of
+Paraffin-embedded, archival tumour samples were required for seven subjects enrolled, six were evaluable, and DLTs developed
+allsubjects.Merlin(theproteinproductoftheNF2gene)status in two of these six subjects. Five subjects in Cohort 3 received
+was determined by immunohistochemistry of formalin fixed trametinib 0.5mg QD/GSK2256098 250mg BID; one subject
+paraffin-embedded (FFPE) archival samples collected from developed a DLT. Five additional subjects were enrolled at this
+subjects with mesothelioma (n=21). The immunohistochem- doseforpharmacodynamicassessments.InCohort4,foursubjects
+istry assay was developed and conducted by Mosaic Labora- received trametinib 0.25mg QD/GSK2256098 500mg BID. Three
+tories (Lake Forest, California, USA). The primary antibody subjects were evaluable, but none developed DLTs. Four
+included an NF2 antibody (C-18): sc332, Santa Cruz Biotechnol- additional subjects were enrolled at this dose for pharmacody-
+ogy(Dallas,Texas,USA).Acelllinetissuemicroarraycomprising namic assessments. Cohort 5 had four subjects treated with
+a total of six high, moderate, and low Merlin expressors and a trametinib 0.375mg QD/GSK2256098 500mg BID; one subject
+rabbit IgG served as the positive and negative control, had a DLT. Two additional subjects were enrolled for pharmaco-
+respectively. dynamicassessment; therewereno additional DLTs.
+Merlinstatusfromarchivedtumourtissuewasrecordedasthe The high GSK2256098/low trametinib MTD was determined to
+percentage of cells that stain at+2,+3 using the above assay be 500mg BID/0.375mg QD and the low GSK2256098/high
+and then dichotomised as either “Merlin Negative,” if the trametinib MTD as250mg BID/trametinib0.5mg QD.
+percentage of neoplastic cells stained in the intensity staining
+category3and2equalled0orwaslessthan10incategory2,or Safety
+“MerlinPositive”otherwise. All subjects reported at least 1 AE. AEs occurring in ≥20% of all
+subjects were nausea (59%), diarrhoea (53%), decreased appetite
+Statistical analysis (38%), pruritus, fatigue (both 29%), rash (26%), vomiting (24%),
+Noformalstatisticalhypothesesweretested.Anexploratoryanalysis andasthenia,cough,oracneiformdermatitis(21%each)(Table2
+of PFS was conducted for the subgroup of subjects with andSupplementary Table2).Therewerenograde4AEs.Twenty
+mesothelioma. PFS was defined as the time from the first dose of subjects (59%) had ≥1 Grade 3 AE; diarrhoea (n=3), asthenia
+study drug to the first documented disease progression on (n=3),decreasedappetite(n=2),andfatigue(n=2)weremost
+radiological or clinical assessment, or to death from any cause. common.
+PFSwascensoredatthetimeoflastradiologicaldiseaseassessment Fourteen subjects developed serious AEs, most commonly
+insubjectswhodidnotprogressordie,andatthedateofthefirst diarrhoea (n=2), lower respiratory tract infection (n=2), nausea
+doseofstudydruginsubjectswhodiscontinuedthestudywithno (n=2), and vomiting (n=2), although none of these were
+post-treatment tumour assessment. Kaplan–Meier curves were considered related to GSK2256098; 15% of subjects had an SAE
+produced for all mesothelioma subjects together and separately thatcouldbeattributedtotrametinib.Sixteensubjects(47%)had
+byMerlinstatus. ≥1AEleadingtodoseinterruption.Seventeenpercentofsubjects
+in the group receiving high GSK2256098/low trametinib (500mg
+BID/0.375mg QD) had an AE causing dose interruption
+RESULTS compared with 60% in the low GSK2256098/high trametinib
+Demographics andsubject disposition (250mgBID/0.5mgQD)group.Fivesubjectshadadosereduction
+Thirty-foursubjectswereenrolledandreceivedatleastonedose due to non-serious AEs, with no notable differences across
+of combination treatment. Of eight subjects who discontinued dose groups. The trametinib dose was reduced inthree subjects,
+thestudy,sevenwithdrewconsentandonewasremovedatthe the GSK2256098 dose in one, and the dose of both agents in
+investigator’s discretion. Thirty-two subjects were included in another.
+the pharmacokinetic population and 21 in the pharmacody-
+namic cohort. Patient characteristics are shown in Supplemen- Pharmacokinetics and pharmacodynamics
+taryTable1.Themean(±SD)ageofsubjectswas64.4years(± Peak plasma concentration (C ) and area under the
+max
+9.95); 22 subjects (65%) were aged ≥65 years. Most subjects (n concentration-time curve over the dosing interval (AUC (0-τ) ) were
+=33; 97%) were white. Mesothelioma was the most common generallydoseproportional forbothagents (Table3).Trametinib
+tumour type (n=21; 62%). exposure (C and AUC) was 2- to 4-fold higher when
+max
+Table1. Summaryofdose-limitingtoxicities
+Cohort Treatment No.ofsubjectstreated No.ofsubjectswithDLTs
+1 GSK2256098500mgBID+trametinib1.0mg 3 2–Grade3rash(pustular)-Grade3rash(dermatitisacneiform)
+QD
+2 GSK2256098500mgBID+trametinib0.5mg 7 2–Grade3decreasedappetite-Grade3fatigue,Grade3rash
+QD (maculopapular)
+3 GSK2256098250mgBID+trametinib0.5mg 10 1–Grade3ejectionfractiondecreased
+QD
+4 GSK2256098500mgBID+trametinib 8 0
+0.25mgQD
+5 GSK2256098500mgBID+trametinib 6 1–Grade2dermatitis(acneiform)
+0.375mgQD
+BIDtwicedaily,DLTdose-limitingtoxicity,PDpharmacodynamics,PKpharmacokinetics,QDoncedaily
+
+--- Page 4 ---
+AphaseIbdose-finding,pharmacokineticstudyofthefocaladhesion...
+GMaketal.
+978
+Table2. Adverseeventsoccurringin≥10%ofpatients,regardlessofcausality
+Adverseevent GSK2256098250mg GSK2256098500mg GSK2256098500mg GSK2256098500mg GSK2256098500mg Total
+BID+0.5mg BID+0.25mg BID+0.375mg BID+0.5mg BID+1.0mg
+trametinibQD trametinibQD trametinibQD trametinibQD trametinibQD
+(N=10) (N=8) (N=6) (N=7) (N=3) (N=34)
+Anyevent,n(%) 10(100) 8(100) 6(100) 7(100) 3(100) 34(100)
+Nausea 5(50) 4(50) 3(50) 5(71) 3(100) 20(59)
+Diarrhoea 5(50) 3(38) 4(67) 3(43) 3(100) 18(53)
+Decreasedappetite 4(40) 1(13) 2(33) 5(71) 1(33) 13(38)
+Fatigue 2(20) 3(38) 1(17) 2(29) 2(67) 10(29)
+Pruritus 3(30) 3(38) 0 1(14) 3(100) 10(29)
+Rash 3(30) 2(25) 0 2(29) 2(67) 9(26)
+Vomiting 1(10) 1(13) 1(17) 4(57) 1(33) 8(24)
+Asthenia 2(20) 0 3(50) 2(29) 0 7(21)
+Cough 2(20) 2(25) 2(33) 1(14) 0 7(21)
+Dermatitisacneiform 1(10) 3(38) 2(33) 0 1(33) 7(21)
+Constipation 3(30) 2(25) 0 0 0 5(15)
+Dyspnoea 1(10) 2(25) 1(17) 1(14) 0 5(15)
+Folliculitis 3(30) 0 2(33) 0 0 5(15)
+Anaemia 2(20) 0 0 2(29) 0 4(12)
+Gastro-oesophageal 1(10) 1(13) 0 2(29) 0 4(12)
+refluxdisease
+Oedemaperipheral 1(10) 1(13) 1(17) 0 1(33) 4(12)
+Grade3adverseeventsoccurringinthreesubjects:diarrhoea,asthenia;Grade3adverseeventsoccurringintwosubjects:decreasedappetite,fatigue;Grade3
+adverseeventsoccurringinonesubject:pruritus,dermatitisacneiform,constipation,dyspnoea,anaemia,increasedserumcreatinine,lowerrespiratorytract
+infection,maculopapularrash,atrialfibrillation,confusion,pulmonaryembolism,acutemyocardialinfarction,cancerpain,dehydration,decreasedejection
+fraction,bonemetastases,neutropenia,pericardialeffusion,pneumonitis,pneumothorax,pustularrash.
+BIDtwicedaily,QDoncedaily
+administered with GSK2256098 versus trametinib monotherapy DISCUSSION
+data(Table3).TheexposureofGSK2256098wasnotalteredwhen This is the first clinical study evaluating the combination of FAK
+co-administered with trametinib. The median time to C (t ) and MEK inhibitors in subjects with cancer. Preclinical studies of
+max max
+forGSK2256098wasgenerally2hpost-doseforGSK2256098and the combination demonstrated synergistic activity in several
+1.5 to 2.5h post-dose for trametinib. The t of trametinib was tumour types, including mesothelioma, providing justification for
+max
+slightlydelayed with GSK2256098 co-administration. evaluatingthis combination.
+There was good agreement between dried blood spot and We used an adaptive design to allow simultaneous evaluation
+wholebloodconcentrations of GSK2256098 (Table3). ofmultipledoselevels,startingat50%oftheMTDofGSK2256098
+Paired biopsies were available for eight subjects and phos- and50%oftherecommendeddoseoftrametinib.7,12DLTsatthe
+phorylated FAK (pFAK)/FAK was determined for six; two subjects first dose level required dose de-escalation. Initially we assumed
+with insufficient post-dose tumour tissue were not evaluable. that the excessive toxicity resulted from overlapping effects on
+Three of six subjects showed >70% decrease in pFAK/FAK signaltransduction pathways.However, pharmacokinetic analysis
+from baseline; two showed >45% reduction in pFAK/FAK levels. showed that systemic exposure of trametinib was unexpectedly
+TheremainingsubjectdemonstratedanincreasedpFAK/FAKratio highwhenco-administeredwithGSK2256098.Afterdosenormal-
+(Table 4). pERK data were obtained in only three of the eight ization,thegeometricmeanC andAUCfortrametinibwere2-
+max
+subjects showing a divergent trend: two subjects had >70% to4-foldhigherwhentrametinibwasadministeredconcomitantly
+inhibition of pFAK and >60% inhibition of pERK (Fig. 1a; withGSK2256098comparedwithtrametinibmonotherapy.16Our
+exampledatafor subject #200); the other had activation ofpERK data also suggest that t may be slightly delayed when
+max
+(Fig. 1b; example data for subject #202). The remaining five trametinib is co-administered with GSK2256098 relative to the
+subjectshadsignalsbelowthelowerlimitofquantification.Merlin monotherapy t .16 The pharmacokinetics of GSK2256098 were
+max
+status was determined for 18/21 archival tumour samples from unaffected by concomitant trametinib and were comparable to
+subjects with mesothelioma; 15 (71%) samples stained negative thoseseen inaprevious monotherapy study.7
+forMerlin. Trametinib is metabolised predominantly via deacetylation
+(non-CYP mediated) alone or with mono-oxygenation or in
+Clinical activity combination with glucuronidation biotransformation pathways.
+No objective responses to treatment were reported. The best Althoughtheenzymeresponsibleisunidentified,deacetylationis
+response was stable disease in 13 subjects (38%). Median PFS likelymediatedbyhydrolyticesterases,suchascarboxylesterases
+was 11.8 weeks (95% CI: 6.1, 24.1) for subjects with mesothe- or amidases. The mechanism of the pharmacokinetic interaction
+lioma. Median PFS for 14 mesothelioma subjects with Merlin- betweenGSK2256098andtrametinibisnotfullyunderstood,but
+negative tumours was 15.0 weeks (95% CI: 4.4, 24.1) and in vitro investigation found that GSK2256098 inhibits deacetyla-
+7.3 weeks for 3 subjects with Merlin-positive tumours (CI not tion of trametinib by inhibiting human carboxylesterases
+calculable) (Fig. 2). (eg, hCES1b, hCES1c, and hCES2) and potentially other esterases
+
+--- Page 5 ---
+AphaseIbdose-finding,pharmacokineticstudyofthefocaladhesion...
+GMaketal.
+979
+Table3. GSK2256098andtrametinibpharmacokineticparametersafterrepeatdosingonDay15
+C max ,ng/mLGeometric t max ,hMedian(range) AUC (0–τ) ,ng·h/mL
+mean(%CV) Geometricmean(%CV)
+GSK2256098pharmacokineticswhengivenincombinationwithtrametinib(wholeblood)
+GSK2256098250mg(n=10) 1397(71) 2.0(1.5–4.1) 5467(58)
+GSK2256098500mg(n=21) 2453(82) 2.0(1.5–6.0) 10410a(62)
+GSK2256098pharmacokineticswhengivenincombinationwithtrametinib(drybloodspot)
+GSK2256098250mg(n=6) 1229(73) 2.8(1.5–4.1) 4975(57)
+GSK2256098500mg(n=10) 2834(44) 2.0(1.5–4.0) 12663(27)
+TrametinibpharmacokineticswhengivenincombinationwithGSK2256098(plasma)
+Trametinib0.25mg+GSK2256098500mgBID(n=6) 6.23(17) 2.5(0.33–6.5) 122(15)
+Trametinib0.375mg+GSK2256098500mgBID(n=6) 11.2(47) 2.5(2.0–6.0) 229(43)
+Trametinib0.5mg+GSK2256098250mgBID(n=10) 16.3(35) 2.4(0.50–6.5) 347b(33)
+Trametinib0.5mg+GSK2256098500mgBID(n=6) 13.0(27) 2.6(0.62–4.8) 266(26)
+Trametinib1.0mg+GSK2256098500mgBID(n=3) 36.0(11) 1.5(1.5–6.5) 732(22)
+Trametinibpharmacokineticswhengivenasmonotherapy(plasma)16
+Trametinib2.0mg(n=13) 22.2(28) 1.75(1.0–3.0) 370c(22)
+AUC area under the concentration-time curve over the dosing interval, BID twice daily, C , maximal plasma concentration, QD once daily, t time
+max max
+toC ,%CVbetween-subjectcoefficientofvariation
+max
+an=20
+bn=8
+cAUCinthisstudywasreportedas0–24h
+Table4. PharmacodynamicresponseforpFAKinpre-andpost-dosetumoursamples
+SubjectNo. Visit pFAK(CU/μg) TotalFAK(CU/μg) pFAK/FAK %ChangefrombaselinepFAK %ChangefrombaselinepFAK/FAK
+GSK2256098250mgBID+trametinib0.5mgQD
+509 Baseline 112.070 1329.1 0.084 NA NA
+Day15 13.950 585.9 0.024 –87.6 –71.763
+510 Baseline 92.400 103.3 0.895 NA NA
+Day15 60.860 245.7 0.248 –34.1 –72.310
+202 Baseline 189.010 680.3 0.278 NA NA
+Day22 30.960 762.1 0.041 –83.6 –85.378
+206 Baseline 99.580 207.3 0.480 NA NA
+Day22 50.110 59.2 0.846 –49.7 76.125
+GSK2256098500mgBID+trametinib0.25mgQD
+507 Baseline 72.750 1710.6 0.043 NA NA
+Day15 NA 1107.3 NA NA NA
+121 Baseline 41.680 183.7 0.227 NA NA
+Day22 25.900 214.6 0.121 –37.9 –46.809
+GSK2256098500mgBID+trametinib0.375mgQD
+118 Baseline 79.470 268.6 0.296 NA NA
+Day22 NA NA NA NA NA
+GSK2256098500mgBID+trametinib0.5mgQD
+200 Baseline 15.230 12.1 1.263 NA NA
+Day22 24.600 62.0 0.397 −61.5 –68.586
+BIDtwicedaily,FAKfocaladhesionkinase,NAnotavailable,pFAKphosphorylatedFAK,QDoncedaily
+(GSK data on file). The increased trametinib plasma levels may Several strategies are used to determine doses of anticancer
+result from inhibition of its metabolic pathway. GSK2256098 agents administered in combination. Although it is tempting to
+also appears to impact trametinib’s absorption, based on the use the MTD of the more active agent and titrate up the
+delayed t in this study relative to historical trametinib investigationalagentuntiltheMTDisidentified,suchanapproach
+max
+monotherapy data.16 in the current study could have resulted in life-threatening AEs.
+
+--- Page 6 ---
+Merlin ve
+Fortunately, by adjusting down the dose of trametinib, MTDs for withapoorerfreedomfromrecurrenceandpooreroverallsurvival
+both low trametinib/high GSK2256098 and high trametinib/low than in mesothelioma patients with higher Merlin expression.
+GSK2256098combinationsweredetermined.Theclinicalconcen- DespitelowMerlintumourexpressionbeinganegativeprognostic
+trations at these doses are within the range of those associated factor in patients with mesothelioma, our results suggest that
+withthein vitrogIC and dEC forboth compounds.6,17 mesotheliomapatientswithabsentorlowMerlinexpressionhave
+50 50
+Except at the initial dose levels, the overall safety of the alongerdurationoftreatmentthanMerlin-positivepatientswhen
+combinationwasacceptable.Ofnotewasthebettertolerabilityof administered GSK2256098.18 These current findings confirm the
+the high GSK2256098/low trametinib MTD versus the low priormonotherapyfindingsofGSK2256098.
+GSK2256098/hightrametinib dose level. A greater effect of FAK inhibition in Merlin-negative than
+Theresultsofthepresentstudyshowedalmostequivalenteffect Merlin-positive mesothelioma tumours is consistent with
+between GSK2256098+trametinib combination and those from data showing that Merlin inactivation in mesothelioma cell
+anearlier GSK2256098 monotherapystudy7intermsofreduction lines is related to invasiveness and upregulation of the FAK
+ofFAKlevels.Theadditionoftrametinibdidnotshowanyclinically pathway.19
+relevant benefit. Pharmacodynamic studies demonstrated that In conclusion, we identified MTDs for a GSK2256098/
+GSK2256098 inhibited pFAK at the doses evaluated. An earlier trametinib combination for use in future clinical studies. There
+GSK2256098monotherapystudysimilarlyfoundthatpatientswith was,however,limitedsupportforefficacyofthiscombinationin
+Merlin-negative mesothelioma had longer PFS than those these patients. We also highlight the importance of pharmaco-
+with Merlin-positive mesothelioma.7 The prognostic significance kineticmonitoringandcarefulselectionofstartingdosesduring
+of Merlin status has been recently reported by Meerang.18 phase Ib dose-escalation combination studies, even where no
+Meerang et al reported in two independent cohorts of mesothe- pharmacokinetic interaction between investigational agents is
+lioma patients that low tumour Merlin expression is associated anticipated.
+stneitap
+amoilehtosem
+ni
+sutats
+nilreM
+120
+100
+80
+60
+40
+20
+0
+pFAK/FAK pERK/FAK
+Measured analytes
+SD
+Merlin ve SD
+Merlin ve PD
+Merlin ve PD
+Merlin +ve SD
+Merlin ND PD
+Merlin ND SD
+Merlin ve PD
+Merlin ve SD
+Merlin ve PD
+Merlin ve SD
+Merlin ve SD Merlin status: ve - negative
+Merlin ve SD +ve - positive
+Merlin +ve PD ND - not done
+Merlin ve SD NE - non evaluable
+Merlin ND PD
+250 mg GSK2296098 BID + 0.5 mg trametinib QD
+Merlin ve SD
+500 mg GSK2296098 BID + 0.25 mg trametinib QD
+Merlin +ve NE
+Merlin ND SD 500 mg GSK2296098 BID + 0.375 mg trametinib QD
+500 mg GSK2296098 BID + 0.5 mg trametinib QD
+Merlin ve PD
+Merlin ve NE 500 mg GSK2296098 BID + 1 mg trametinib QD
+0 20 40 60 80 100
+Treatment duration (weeks)
+Fig.2 Plotofdurationontreatmentandbestresponseinsubjectswithmesothelioma.BIDtwicedaily,PDprogressivedisease,QDoncedaily,
+SDstabledisease
+)%(
+level
+evitaleR
+120
+100
+80
+60
+40
+20
+0
+pFAK/FAK pERK/FAK
+Measured analytes
+)%(
+level
+evitaleR
+AphaseIbdose-finding,pharmacokineticstudyofthefocaladhesion...
+GMaketal.
+980
+a b
+Fig.1 Pharmacodynamicresponseintumoursamplesevaluatedatbaseline(pre-dose)andkpost-dosingofGSK2256098andtrametinibfor
+22days.Theexpressionlevelrelativetobaselinelevels(normalizedto100%;Darkgreybars)ofpFAKandpERKnormalisedtothelevelofFAK
+inthesample.TheratioofthepFAKlevelrelativetoFAKandthepERKlevelrelativetoFAKareshownforeachsubjectandareindicativeof
+kinaseinhibitionbyGSK2256098andtrametinib,respectively(Lightgreybars).a)Subject#200dosedwithGSK2256098at500mgBIDand
+trametinibat0.5mgQD.bSubject#202dosedwithGSK2256098at250mgBIDandtrametinibat0.5mgQD
+
+--- Page 7 ---
+AphaseIbdose-finding,pharmacokineticstudyofthefocaladhesion...
+GMaketal.
+981
+ACKNOWLEDGEMENTS 5. Sood,A.K.,Coffin,J.E.,Schneider,G.B.,Fletcher,M.S.,DeYoung,B.R.,Gruman,L.
+TheStudyInvestigatorsthankthepatientsandfamiliesfortheirparticipationinthis M.etal.Biologicalsignificanceoffocaladhesionkinaseinovariancancer:rolein
+study.EditorialsupportwasprovidedbyAndrewSmith,PhD,ofFishawackIndicia migrationandinvasion.Am.J.Pathol.165,1087–1095(2004).
+Ltd., UK, funded by GlaxoSmithKline (GSK). This study was supported by 6. Auger,K.R.,Smitheman,K.N.,Korenchuk,S.,McHugh,C.,Kruger,R.,VanAller,G.
+GlaxoSmithKline.ThestudycentresattheImperialCollegeLondonandNewcastle S. et al. Focal adhesion kinase inhibitor GSK2256098: a potent and selective
+aresupportedbyExperimentalCancerMedicineCentre(ECMC)grantsfromCancer inhibitorforthetreatmentofcancer.Eur.J.Cancer48,118(2012).
+ResearchUK,andtheDepartmentofHealth. 7. Soria,J.C.,Gan,H.K.,Blagden,S.P.,Plummer,R.,Arkenau,H.T.,Ranson,M.etal.A
+phaseI,pharmacokineticandpharmacodynamicstudyofGSK2256098,afocal
+adhesionkinaseinhibitor,inpatientswithadvancedsolidtumors.Ann.Oncol.27,
+AUTHORCONTRIBUTIONS 2268–2274(2016).
+H.-T.A.wasinvolvedintheconceptionanddesignofthestudyandtheacquisition 8. Long,G.V.,Stroyakovskiy,D.,Gogas,H.,Levchenko,E.,deBraud,F.,Larkin,J.etal.
+ofdata.KRA,NN,DR,LY,JPZandRAFwereinvolvedintheconceptionanddesign Dabrafenib and trametinib versus dabrafenib and placebo for Val600 BRAF-
+mutantmelanoma:amulticentre,double-blind,phase3randomisedcontrolled
+ofthestudyandtheanalysisandinterpretationofthedata.RPwasinvolvedinthe
+trial.Lancet386,444–451(2015).
+acquisitionofdata.J-CS,SPB,GM,AGa,AGrandIRwereinvolvedintheacquisition
+9. Tamminen,J.A.,Yin,M.,Ronty,M.,Sutinen,E.,Pasternack,A.,Ritvos,O.etal.
+ofdataandtheanalysisandinterpretationofthedata.JMwasinvolvedinthe
+Overexpression of activin-A and -B in malignant mesothelioma - attenuated
+conception and design of the study. JT was involved in the analysis and
+interpretation of the data. All authors have contributed to the writing of the Smad3 signaling responses and ERK activation promote cell migration and
+manuscriptandhavecriticallyreviewedandapprovedthecontent.
+invasivegrowth.Exp.CellRes.332,102–115(2015).
+10. deMelo,M.,Gerbase,M.W.,Curran,J.&Pache,J.C.Phosphorylatedextracellular
+signal-regulatedkinasesaresignificantlyincreasedinmalignantmesothelioma.J.
+Histochem.Cytochem.54,855–861(2006).
+ADDITIONAL INFORMATION
+11. Vintman, L., Nielsen, S., Berner, A., Reich, R. & Davidson, B. Mitogen-activated
+Supplementaryinformationisavailableforthispaperathttps://doi.org/10.1038/ protein kinase expression and activation does not differentiate benign from
+s41416-019-0452-3. malignantmesothelialcells.Cancer103,2427–2433(2005).
+12. NovartisPharmaceuticalsCorporation.Mekinist(trametinib)Tablets,forOralUse.
+Competinginterests:Atthetimeoftheclinicalstudy,R.A.F,N.N,J.M.,D.R.,L.Y.,J.T.,
+Prescribing Information https://www.pharma.us.novartis.com/sites/www.pharma.
+and K.R.A. were employees of GlaxoSmithKline. R.P. and J-C.S. have received us.novartis.com/files/mekinist.pdf(2017).
+honoraria or consultancy fees from GSK. The remaining authors declare no 13. National Cancer Institute. Common Terminology Criteria for Adverse Events
+competinginterests. (CTCAE)Version4.0https://evs.nci.nih.gov/ftp1/CTCAE/CTCAE_4.03_2010-06-
+14_QuickReference_8.5x11.pdf(2009).
+Ethics approval and consent to participate: The study was conducted in 14. Eisenhauer,E.A.,Therasse,P.,Bogaerts,J.,Schwartz,L.H.,Sargent,D.,Ford,R.
+accordance with the International Conference on Harmonisation of Technical etal.Newresponseevaluationcriteriainsolidtumours:revisedRECISTguideline
+Requirements for Registration of Pharmaceuticals for Human Use Good Clinical (version1.1).Eur.J.Cancer45,228–247(2009).
+Practice, the Declaration of Helsinki 2008 and applicable country-specific require- 15. Byrne,M.J.&Nowak,A.K.ModifiedRECISTcriteriaforassessmentofresponsein
+ments.Priortothestudy,ethicscommitteeandinstitutionalreviewboardapproval malignantpleuralmesothelioma.Ann.Oncol.15,257–260(2004).
+wereobtainedfromMHRAHealthResearchAuthorityNRESCommitteeNorthWest- 16. Infante,J.R.,Fecher,L.A.,Falchook,G.S.,Nallapareddy,S.,Gordon,M.S.,Becerra,C.
+Haydock(Manchester,UK)andCPPÎle-de-FranceIII,HôpitalTarnier(Paris,France).All etal.Safety,pharmacokinetic,pharmacodynamic,andefficacydatafortheoralMEK
+subjects provided written informed consent before any study specific procedures inhibitortrametinib:aphase1dose-escalationtrial.Lancet.Oncol.13,773–781(2012).
+wereperformed. 17. Cho, H., Matsumoto, S., Fujita, Y., Kuroda, A., Hashimoto, M., Takuwa, T. et al.
+AntitumoreffectofTrametinib,aselectiveMEKinhibitor,incombinationwith4-
+methylumbelliferone,ahyaluronicacidsynthesisinhibitor,inMalignantpleural
+Dataavailability:Summariesofthestudyprotocolandresultsareavailablefrom
+https://gsk-clinicalstudyregister.com/search/?study_ids=FAK114746. Anonymized mesotheliomacelllines.CancerRes.75:2581(2015).
+individual participant data and study documents can be requested for further 18. Meerang,M.,Berard,K.,Friess,M.,Bitanihirwe,B.K.,Soltermann,A.,Vrugt,B.etal.
+researchfromwww.clinicalstudydatarequest.com. LowMerlinexpressionandhighSurvivinlabelingindexareindicatorsforpoor
+prognosis in patients with malignant pleural mesothelioma. Mol. Oncol. 10,
+1255–1265(2016).
+Publisher’snote:SpringerNatureremainsneutralwithregardtojurisdictionalclaims
+19. Poulikakos,P.I.,Xiao,G.H.,Gallagher,R.,Jablonski,S.,Jhanwar,S.C.&Testa,J.R.Re-
+inpublishedmapsandinstitutionalaffiliations.
+expressionofthetumorsuppressorNF2/merlininhibitsinvasivenessinmesothe-
+liomacellsandnegativelyregulatesFAK.Oncogene25,5960–5968(2006).
+REFERENCES
+Open Access This article is licensed under a Creative Commons
+1. McLean,G.W.,Carragher,N.O.,Avizienyte,E.,Evans,J.,Brunton,V.G.&Frame,M.
+Attribution 4.0 International License, which permits use, sharing,
+C.Theroleoffocal-adhesionkinaseincancer-anewtherapeuticopportunity.
+Nat.Rev.Cancer5,505–515(2005). adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+2. Cance, W. G., Harris, J. E., Iacocca, M. V., Roche, E., Yang, X., Chang, J. et al.
+Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+Immunohistochemical analyses of focal adhesion kinase expression in benign
+andmalignanthumanbreastandcolontissues:correlationwithpreinvasiveand
+materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+invasivephenotypes.Clin.CancerRes.6,2417–2423(2000). indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+3. Lai,I.R.,Chu,P.Y.,Lin,H.S.,Liou,J.Y.,Jan,Y.J.,Lee,J.C.etal.Phosphorylationof
+focaladhesionkinaseatTyr397ingastriccarcinomasanditsclinicalsignificance. regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+Am.J.Pathol.177,1629–1637(2010). fromthecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.
+org/licenses/by/4.0/.
+4. Recher, C., Ysebaert, L., Beyne-Rauzy, O., Mansat-De Mas, V., Ruidavets, J. B.,
+Cariven,P.etal.Expressionoffocaladhesionkinaseinacutemyeloidleukemiais
+associatedwithenhancedblastmigration,increasedcellularity,andpoorprog-
+nosis.CancerRes.64,3191–3197(2004). ©TheAuthor(s)2019

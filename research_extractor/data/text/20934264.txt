@@ -1,0 +1,879 @@
+Source: 20934264.pdf
+Extracted on: Fri Sep 12 23:59:16 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+Published in final edited form as:
+Int J Radiat Oncol Biol Phys. 2011 December 1; 81(5): 1422–1427. doi:10.1016/j.ijrobp.2010.07.1997.
+A phase I trial of tipifarnib with radiation therapy, with and
+without temozolomide, for patients with newly diagnosed
+glioblastoma
+Phioanh Leia Nghiemphu, M.D.,
+University of California, Los Angeles, California
+Patrick Y. Wen, M.D.,
+Dana -Farber/Brigham and Women’s Cancer Center, Boston, Massachusetts
+Kathleen R. Lamborn, Ph.D.,
+University of California, San Francisco, California
+Jan Drappatz, M.D.,
+Dana -Farber/Brigham and Women’s Cancer Center, Boston, Massachusetts
+H. Ian Robins, M.D., Ph.D.,
+University of Wisconsin, Madison, Wisconsin
+Karen Fink, M.D., Ph.D.#,
+University of Texas, Southwestern, Dallas, Texas
+Mark G. Malkin, M.D.,
+Memorial Sloan-Kettering Cancer Center, New York, New York
+Frank S. Lieberman, M.D.,
+University of Pittsburgh, Pittsburgh, Pennsylvania
+Lisa M. DeAngelis, M.D.,
+Memorial Sloan-Kettering Cancer Center, New York, New York
+Alejandro Torres-Trejo, M.D.,
+University of Pittsburgh, Pittsburgh, Pennsylvania
+Susan M. Chang, M.D.,
+University of California, San Francisco, California
+Lauren Abrey, M.D.,
+Memorial Sloan-Kettering Cancer Center, New York, New York
+Howard A. Fine, M.D.,
+Neuro-Oncology Branch, National Cancer Institute, National Institute of Health
+Alexis Demopoulos, M.D.,
+Corresponding author: Phioanh Leia Nghiemphu, M.D., 710 Westwood Plaza, Reed 1-230, Los Angeles, CA 90095, Ph:
+310-825-5321, Fax: 310-825-0644, leian@ucla.edu.
+#Current address: Baylor University Medical Center, Dallas, Texas
+*Current address: Department of Neurosciences, Moores Cancer Center, University of California, San Diego, La Jolla, California
+Authors report no conflict of interest
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Nghiemphu et al. Page 2
+Memorial Sloan-Kettering Cancer Center, New York, New York
+Andrew B. Lassman, M.D.,
+Memorial Sloan-Kettering Cancer Center, New York, New York
+Santosh Kesari, M.D., Ph.D.*,
+Dana -Farber/Brigham and Women’s Cancer Center, Boston, Massachusetts
+Minesh P. Mehta, M.D.,
+University of Wisconsin, Madison, Wisconsin
+Michael D. Prados, M.D.,
+University of California, San Francisco, California
+Timothy F. Cloughesy, M.D., and
+University of California, Los Angeles, California
+North American Brain Tumor Consortium
+Abstract
+Purpose—To determine the maximum tolerated dose (MTD) of tipifarnib in combination with
+conventional radiotherapy (RT) for patients with newly diagnosed glioblastoma (GBM). MTD
+was evaluated in three patient cohorts, stratified based on concurrent use of enzyme inducing
+antiepileptic drugs (EIAED) or concurrent treatment with temozolomide (TMZ): Group A -
+patients not receiving EIAED and not receiving TMZ; Group A-TMZ - patients not on EIAED,
+and on treatment with TMZ; Group B – any patients receiving EIAED, but no TMZ.
+Methods and Materials—After diagnostic surgery or biopsy, treatment with tipifarnib started
+5–9 days before initiating RT, twice daily, in four-week cycles using discontinuous dosing (21 out
+of 28 days), until toxicity or progression. For Group A-TMZ, patients also received TMZ daily
+during radiotherapy and then standard 5/28 days dosing after radiotherapy. Dose limiting toxicity
+(DLT) was determined over the first 10 weeks of therapy for all cohorts.
+Results—Fifty-one patients were enrolled for MTD determination: 10 patients in Group A, 21
+patients in Group A-TMZ, 20 patients in Group B. In Group A and Group A-TMZ cohorts,
+patients achieved the intended MTD of 300 mg bid with DLTs including rash and fatigue. For
+Group B, the MTD was determined as 300 mg bid, half the expected dose. DLTs included rash
+and 1 intracranial hemorrhage. Thirteen of the 20 patients evaluated in Group A-TMZ were alive
+at one year.
+Conclusion—Tipifarnib is well tolerated at 300 mg bid given discontinuously (21/28 days) in 4-
+week cycles, concurrently with standard chemo/radiotherapy. A phase II study should evaluate the
+efficacy of tipifarnib with radiation and TMZ in patients with newly diagnosed GBM and not on
+EIAED.
+Keywords
+tipifarnib; newly diagnosed glioblastoma; radiation; farnesyltransferase inhibitor; temozolomide
+INTRODUCTION
+Treatment of malignant glioma remains a major therapeutic challenge. The heterogeneity of
+molecular signaling pathways involved in the growth and survival of glioma make it
+difficult to treat this neoplasm(1–2). Currently, there is limited chemotherapeutic treatment
+for glioma, and novel agents that target aberrant signaling pathways need to be evaluated.
+Several pathways implicated in the pathogenesis of malignant astrocytoma and its
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Nghiemphu et al. Page 3
+microenvironment, including amplification of the epidermal growth factor receptor or
+platelet-derived growth factor, and overexpression of the angiogenic vascular endothelial
+growth factor, can lead to activation of Ras genes(3–5). Ras genes control normal cell
+growth and differentiation, and overexpression of the Ras oncogene is also found in a large
+proportion of human cancers(5). Additionally, recently discovered mutations in the
+neurofibromatosis gene NF1 may activate Ras and play a role in the pathogenesis and
+progression of some high grade gliomas(6).
+Tipifarnib (R115777, Zarnestra; Johnson & Johnson Pharmaceutical Research &
+Development LLC, Titusville, NJ) is a potent and selective nonpeptidomimetic
+farnesyltransferase inhibitor (FTI). FTIs were originally developed to block the post-
+translational activation of Ras proteins but subsequently were found to inhibit farnesylation
+of other targets such as Rho. Additionally, effects of this agent include inhibition of
+proliferation in tumors both with and without Ras mutations as well as effects on
+antiangiogenesis, apoptosis, and tumor microenvironment(7–9). Several pre-clinical studies
+also demonstrated that FTIs can sensitize tumors to radiotherapy(8,10) and have activity
+against gliomas(11–12).
+Given that glioma patients face limited therapeutic options, FTIs present a new therapeutic
+modality with a unique mechanism of action that affects multiple tumor-promoting
+pathways. In pharmacokinetic phase I studies, tipifarnib has revealed oral bioavailability
+with dose-proportional pharmacokinetics(13–14). Tipifarnib has also been studied in the
+treatment of patients with recurrent glioma(15–16). These studies found that the toxicity
+profile and efficacy of tipifarnib can depend on the types of antiepileptic drugs being taken
+by patients. Commonly, patients with glioma are prescribed enzyme-inducing antiepileptic
+drugs (EIAEDs) for prevention or treatment of seizures. Induction of hepatic enzymes by
+EIAEDs can alter the metabolism of concurrently administered chemotherapeutic agents,
+which might lead to reduced dosing. Patients receiving EIAEDs show decreased plasma
+levels of several chemotherapeutic drugs, when administered at conventional doses(17–19).
+A phase I study using tipifarnib in recurrent glioma showed that both maximum tolerated
+dose (MTD) and type of dose limiting toxicity (DLT) differed between patients taking
+EIAEDs compared to patients not taking EIAEDs(17): MTD was 600 mg bid for 21 days
+every 4 weeks in patients on EIAED, double the MTD for patients not receiving EIAEDs,
+and the predominate DLT was rash rather than myelosuppression. Pharmacokinetic
+evaluation showed that the area under the plasma concentration-time curve (AUC) from 0–
+12 hours at MTD was approximately halved in those receiving EIAEDs compared with
+those not receiving EIAEDs. However, a limited pharmacodynamic evaluation revealed that
+the MTD dosing scheme in patients receiving EIAEDs was adequate to inhibit farnesylation
+in peripheral blood mononuclear cells. Interestingly, a phase II clinical trial for exploratory
+progression free survival (PFS) analysis comparing recurrent glioblastoma (GBM) patients
+treated with tipifarnib at MTD on or off EIAED favored those not on EIAED(16). Although
+these data are intriguing, the response, PFS and survival data were modest at best.
+Without clinically significant benefits as a single agent, tipifarnib might have better efficacy
+when combined with other cytotoxic therapies or complementary targeted molecular agents.
+Therefore, we conducted a phase I clinical trial of tipifarnib with radiation or
+chemoradiation for the treatment of newly diagnosed glioblastoma.
+PATIENTS AND METHODS
+Patient Population
+Eligible patients were ≥ 18 years of age with pathologically confirmed newly diagnosed
+GBM. Other than surgery, patients were not allowed any additional therapeutic intervention
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Nghiemphu et al. Page 4
+prior to enrollment. Eligibility criteria also included KPS ≥60 and adequate hematologic and
+organ function. Patients were excluded from the study if they had significant existing
+medical problems, were pregnant or breast feeding. The protocol and informed consent were
+approved by the local institutional review board at each participating institution. All patients
+reviewed, signed, and provided written informed consent before enrollment.
+Stratification
+Three phase I evaluations were conducted and stratified based upon use of EIAED and
+concomitant use of temozolomide (Table 1). Any patient taking one or more EIAEDs
+(carbamazepine, oxcarbazepine, phenytoin, fosphenytoin, phenobarbital, or primidone) was
+stratified to Group B and was required to stay on at least one EIAED for the duration of the
+study. All other patients were evaluated in Group A. Initially, the protocol evaluated only
+patients receiving tipifarnib in combination with radiation therapy alone for both Group A
+and B. Later, in April 2005, as data revealed that combination treatment of radiotherapy and
+temozolomide (TMZ) chemotherapy conferred better survival for patients with newly
+diagnosed GBM(20), a protocol amendment changed tipifarnib to be taken concurrently
+with radiation therapy and temozolomide. These patients on combination of tipifarnib and
+chemoradiation were evaluated as phase I Group A-TMZ. Patients who switched from an
+EIAED to a non-EIAED were required to be off the EIAED for a minimum of 2 weeks prior
+to enrollment.
+Study Design
+This study is a phase I dose-escalation trial to establish the MTD for tipifarnib in
+combination with radiation alone or chemoradiation in patients on or off EIAEDs. The study
+was also designed to define the safety profile of tipifarnib taken twice a day in this patient
+population. A secondary, exploratory objective was to assess antitumor activity against
+newly diagnosed glioblastoma as measured by PFS and overall survival (OS). See Figure 1
+for study schema.
+Tipifarnib Dosing
+Tipifarnib was supplied by the National Cancer Institute (Bethesda, MD) as 100-, 200-, and
+300-mg tablets. Tipifarnib was given twice a day for 21 days followed by 7 days off in
+repeating 28-day cycles (21/28 days). Patients were counseled to take the study drug with
+food. The first dose of tipifarnib was given 5–9 days prior to starting radiation or
+chemoradiation. After the completion of radiation or chemoradiation, maintenance dosing of
+tipifarnib continued until tumor progression or unacceptable toxicities.
+Dose escalation was performed in cohorts of three patients beginning at a starting dose of
+tipifarnib of 200 mg bid for Groups A and A-TMZ, and 400 mg bid for Group B. If no DLT
+occurred in that cohort, a subsequent cohort of three additional patients would be opened at
+the next dose level as per Table 2. If one patient experienced a DLT, three more patients
+would be added to that dose cohort. The MTD was defined as the dose at which no more
+than one in six patients experienced a DLT and at which the next higher dose exceeded that
+limit, or the maximum planned dose level. DLT was determined over the first 10 weeks of
+treatment (i.e. time surrounding radiation or chemoradiation). A cycle of treatment was
+defined by tipifarnib dosing. A cycle was considered 28 days in length. The maximum dose
+for each group was defined by the previously described MTD for single agent use of 300 mg
+bid for Group A and 600 mg bid for Group B15.
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Nghiemphu et al. Page 5
+Radiation Therapy
+Radiotherapy was given by external beam to a partial brain field in daily fractions for 2 Gy,
+to a planned total dose of 60 Gy. 3D planning techniques were routinely used, and intensity
+modulated radiotherapy was not permitted. The total dose was delivered using a sequential
+boost technique, with the initial large field, typically defined by the MRI T2 or FLAIR
+abnormality plus a 2 cm margin receiving 46 Gy in 23 fractions, and a final cone-down
+volume defined by the T1 MR enhancement plus surgical cavity with a 1 cm margin
+receiving an additional 14 Gy. RT-QA was not performed on every patient on the trial.
+Temozolomide dosing
+Temozolomide was given only to patients enrolled in Group A-TMZ.
+With radiation: Patients received TMZ daily at 75 mg/m2 starting the first day of
+radiotherapy, and stopped the night before the last fraction of radiotherapy. Patients were
+instructed to take TMZ on an empty stomach(21).
+Post-radiation: Since DLT was determined over a 10-week period, after radiation,
+chemotherapy was not re-initiated until patients had been on trial for at least 10 weeks with
+the next planned cycle of tipifarnib. The first post radiation cycle was administered at
+150mg/m2 for the first 5 days out of 28 days (5/28). If this was tolerated and at the
+investigators discretion, subsequent cycles could be given at 200 mg/m2 daily at 5/28
+dosing.
+Patient Evaluation
+Pretreatment evaluation included a medical history and physical examination. Baseline
+tumor measurements by magnetic resonance imaging (MRI) or computed tomography (CT)
+were obtained within 21 days before study entry. Baseline hematologies and chemistries
+were obtained within 14 days of initiation of therapy. Hematology was performed every
+week during the first three cycles and then twice a month for subsequent cycles. Chemistry
+panel was obtained every 2 weeks for the first three cycles and then once a month for
+subsequent cycles. Complete physical examination, including an evaluation of the skin
+within the radiation treatment portal, and neurologic examination were performed each week
+during radiation therapy and then prior to each cycle after completion of radiation therapy.
+MRI/CT was performed 4 weeks after the completion of radiation therapy and then every 8
+weeks to assess response. Patients with stable or responding disease received the same dose
+of tipifarnib at the next cycle or a reduced dose if adverse events were observed in the
+current cycle. If a patient experienced a DLT, the dose on the subsequent cycle was reduced
+by one dose level.
+DLT was evaluated according to the National Cancer Institute Common Toxicity Criteria
+version 3. DLT was defined as any grade 4 hematologic toxicity, any nonhematologic grade
+3 toxicity, grade 4 radiation induced skin changes, failure to recover from toxicities within 3
+weeks from the last dose of study drug, or holding radiation therapy for more than 2 weeks
+due to toxicity. Patients with progression prior to 10 weeks were considered evaluable for
+DLT if they were able to undergo a DLT evaluation at 10 weeks. During the first 10 weeks,
+patients assigned to a treatment cohort remained at the assigned dose level until tumor
+progression, unacceptable toxicity, or patient request.
+Tumor progression was defined as a new lesion representing tumor, clear worsening of
+evaluable disease, failure to return for evaluation due to death, or deteriorating condition.
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Nghiemphu et al. Page 6
+Statistical Considerations
+The primary end points for this tipifarnib dose-escalation, phase I study were to define DLT
+and determine the MTD for dosing in a phase II trial. The dose for patients was escalated as
+described, and DLT, MTD, and safety were evaluated. Using this dose-escalation scheme,
+the probabilities of escalating to the next dose level are based on the true rate of DLT at the
+current dose. Overall, if the true underlying proportion of DLTs was 30% at the current
+dose, there would be a 49% chance of escalating to the next dose. However, if the proportion
+of DLTs was 50%, the chance of escalation would only be 17%. Once MTD was reached, 10
+more patients were enrolled in Group A-TMZ and Group B to define safety further in these
+populations.
+RESULTS
+Patient Characteristics
+A total of 51 patients were enrolled between June 2003 and March 2007 at eight US centers
+that were part of the North American Brain Tumor Consortium (Table 1). There were 10
+patients in Group A, 21 patients in Group B, and 20 patients in Group A-TMZ.
+Toxicity
+Table 3 lists grade 3 and 4 toxicities for each group whose attributions were possible,
+probable or definitely related to tipifarnib. The DLTs at each dose level of each cohort are in
+table 4.
+Group A—Tipifarnib dose ranged from 200 to 300 mg bid. There were no grade 3 or 4
+toxicities other than one grade 3 rash at the second dose level. Grade 3 rash was the only
+DLT at any dose. The rash was a maculopapular, diffuse, erythematous rash involving the
+trunk and extremities. Subsequent patients who developed this DLT also had similar rash
+characteristics. The rash resolved after discontinuation of tipifarnib and use of
+antihistamines and oral corticosteroids. Radiation therapy was not affected by the rash. This
+treatment cohort was able to meet the predefined dosing goal of 300 mg bid. There were 7
+patients enrolled to the second dose level because one patient became non-compliant and
+withdrew from study prior to the evaluation period but had no toxicity.
+Group B—Tipifarnib dose started at 400 mg bid and deescalated to 300mg bid. At the first
+dose level, 2 patients had DLTs of grade 3 rash. One patient was replaced after withdrawing
+for toxicities not attributable to study drug. The dose level was deescalated to 300mg bid,
+and 1 of 6 patients had a DLT of grade 3 CNS hemorrhage. In this cohort, 1 patient was
+replaced due to tumor progression and death prior to the 10-week DLT evaluation period.
+One patient did develop a grade 3 rash after the DLT evaluation period. The MTD was
+defined as 300 mg bid.
+Group A-TMZ—Two DLTs were defined in this group. One DLT was a grade 4 fatigue at
+tipifarnib dose of 200 mg bid, and this dose level was expanded to a total of 6 patients with
+no further DLTs. One additional patient was added to this cohort to replace one subject
+whose toxicities were, at first, thought to be unrelated to drugs. At the next dose level of 300
+mg bid, only 1 patient had a DLT of grade 3 rash. Other probable, possible or definite grade
+3 or 4 adverse events that occurred outside of the 10-week DLT window or in the 10-
+patients expansion cohort included various hematologic toxicities and 1 grade 4 pulmonary
+embolism. This treatment cohort was able to meet the predefined dosing goal of 300 mg bid.
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Nghiemphu et al. Page 7
+Clinical Outcomes
+Given the small number of patients in each group, significant findings cannot be derived
+from the outcome data. Of the 20 patients enrolled in Group A-TMZ, 5 patients are free of
+tumor progression at one year after protocol registration and 13 patients survived beyond
+one year, 3 in the 200 mg bid cohort, and 10 in the 300 mg bid group.
+DISCUSSION
+This study was successful in reaching the planned dose level (300 mg bid) in Group A with
+or without TMZ. This dose has been shown to inhibit HDJ-2 protein farnesylation in
+peripheral blood mononuclear (PBMN) cells(22–23), one of the presumed anti-tumor targets
+of tipifarnib. Other studies have determined the MTD of tipifarnib when dosed with
+radiation. One study also in newly diagnosed GBM patients used tipifarnib continuously
+through radiation therapy and found that 100 mg bid was the MTD(24). In our study, not
+only was the tipifarnib MTD higher at 300 mg bid during the 6-week radiotherapy course,
+the use of concomittant temozolomide did not change MTD.
+This study also defined the MTD for Group B, patients receiving EIAEDs, at 300 mg bid. In
+contrast, previous studies of single agent tipifarnib in patients receiving EIAEDs found the
+MTD to be 600 mg bid(15). This unexpected lower dosing for MTD in this study might be a
+result of tipifarnib now being given in conjunction with radiation therapy. Grade 3 rash is
+the predominate DLT in this group. This rash was not limited to the radiation field only, but
+rather a rash consistent with drug eruptions. There does seem to be a hypersensitivity and
+higher incidence of rash seen with seizure medications such as phenytoin during radiation
+therapy for brain tumors(25–26), and perhaps the DLTs in this group are related more to
+EIAED being given with radiation therapy rather than tipifarnib itself. We did not collect
+information on the type of rash, or whether patients also discontinued their EIAEDs at the
+time of rash and saw resolution of the rash. Previous studies also found that the 600 mg bid
+dosing might not be pharmacokinetically equivalent to 300 mg bid(15), thus future
+evaluations of tipifarnib will likely exclude the use of EIAED. We did not evaluate PK in
+this study, given the unlikely impact of radiation therapy or TMZ upon metabolism of
+tipifarnib. Given the skin toxicities, future trials are also not expected to limit the skin dose
+of radiation, but rather will track this toxicity in greater detail.
+Other than rash, CNS hemorrhage and fatigue were the only other DLTs that occurred in this
+study. We described similar events in our previous single agent phase I study in recurrent
+GBM, where the DLTs were rash and headache(15). In comparison, the study by Moyal et
+al(24) had different DLTs of a sudden death and two episodes of pneumonitis, one
+associated with grade 4 neutropenia and the other with pulmonary embolism. During the
+post DLT-evaluation period, this study did report grade 3–4 toxicities of hematologic
+cytopenias and pulmonary embolism, but these DLTs were predominately limited to the
+Group A-TMZ cohorts.
+Although the primary endpoint of this study was not clinical efficacy, we felt it might be
+insightful to report some of the clinical outcomes of the 20 patients treated in Group A-TMZ
+cohort as this combination will most likely be the regimen for studies in future trials.
+Although the results seem promising when compared to historical controls(20), given the
+small number of patients in this cohort, no conclusions can be made on possible additive or
+inhibitory effect of tipifarnib on chemoradiation. Since these patients were treated in the
+newly diagnosed setting, objective tumor responses were not reported because it would be
+difficult to interpret progression or response after post-operative changes or radiographical
+pseudoprogression(27). The addition of temozolomide therapy to radiotherapy may have
+increased pseudoprogression(28–30), and further addition of tipifarnib may enhance these
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Nghiemphu et al. Page 8
+radiographic treatment effects. Clinical efficacy will need to be determined with future
+phase II studies, and true tumor response may require use of new imaging criteria such as
+the RANO criteria(31).
+References
+1. Louis, D.; Cavenee, W. Molecular biology of central nervous system neoplasms. In: DeVita, V.;
+Hellman, S.; Rosenberg, S., editors. Principles & Practice of Oncology. 6. Philadelphia, PA:
+Lippincott Williams & Wilkins; 2001. p. 2091-2100.
+2. Mischel PS, Cloughesy TF. Targeted molecular therapy of GBM. Brain Pathol. Jan; 2003 13(1):52–
+61. [PubMed: 12580545]
+3. Feldkamp MM, Lala P, Lau N, Roncari L, Guha A. Expression of activated epidermal growth factor
+receptors, Ras-guanosine triphosphate, and mitogen-activated protein kinase in human glioblastoma
+multiforme specimens. Neurosurgery. Dec; 1999 45(6):1442–1453. [PubMed: 10598712]
+4. Feldkamp MM, Lau N, Rak J, Kerbel RS, Guha A. Normoxic and hypoxic regulation of vascular
+endothelial growth factor (VEGF) by astrocytoma cells is mediated by Ras. Int J Cancer. Mar 31;
+1999 81(1):118–124. [PubMed: 10077162]
+5. Guha A. Ras activation in astrocytomas and neurofibromas. Can J Neurol Sci. Nov; 1998 25(4):
+267–281. [PubMed: 9827227]
+6. McGillicuddy LT, Fromm JA, Hollstein PE, et al. Proteasomal and genetic inactivation of the NF1
+tumor suppressor in gliomagenesis. Cancer Cell. Jul 7; 2009 16(1):44–54. [PubMed: 19573811]
+7. Feldkamp MM, Lau N, Roncari L, Guha A. Isotype-specific Ras. GTP-levels predict the efficacy of
+farnesyl transferase inhibitors against human astrocytomas regardless of Ras mutational status.
+Cancer Res. Jun 1; 2001 61(11):4425–4431. [PubMed: 11389071]
+8. Delmas C, Heliez C, Cohen-Jonathan E, et al. Farnesyltransferase inhibitor, R115777, reverses the
+resistance of human glioma cell lines to ionizing radiation. Int J Cancer. Jul 1; 2002 100(1):43–48.
+[PubMed: 12115585]
+9. End DW, Smets G, Todd AV, et al. Characterization of the antitumor effects of the selective
+farnesyl protein transferase inhibitor R115777 in vivo and in vitro. Cancer Res. Jan 1; 2001 61(1):
+131–137. [PubMed: 11196150]
+10. Delmas C, End D, Rochaix P, Favre G, Toulas C, Cohen-Jonathan E. The farnesyltransferase
+inhibitor R115777 reduces hypoxia and matrix metalloproteinase 2 expression in human glioma
+xenograft. Clin Cancer Res. Dec 1; 2003 9(16 Pt 1):6062–6068. [PubMed: 14676133]
+11. Pollack IF, Bredel M, Erff M, Hamilton AD, Sebti SM. Inhibition of Ras and related guanosine
+triphosphate-dependent proteins as a therapeutic strategy for blocking malignant glioma growth:
+II--preclinical studies in a nude mouse model. Neurosurgery. Nov; 1999 45(5):1208–1214.
+discussion 1214–1205. [PubMed: 10549939]
+12. Bredel M, Pollack IF, Freund JM, Hamilton AD, Sebti SM. Inhibition of Ras and related G-
+proteins as a therapeutic strategy for blocking malignant glioma growth. Neurosurgery. Jul; 1998
+43(1):124–131. discussion 131–122. [PubMed: 9657198]
+13. Hudes, G.; Schol, J.; Baab, J. Phase I clinical and pharmacokinetic trial of the farnesyltransferase
+inhibitor R115777 in a 21-day dosing schedule. Journal of Clinical Oncology; Proceedings of the
+Annual Meeting of the Amercian Society of Clinical Oncology; 1999. p. 156aAbstract no. 601
+14. Zujewski J, Horak ID, Bol CJ, et al. Phase I and pharmacokinetic study of farnesyl protein
+transferase inhibitor R115777 in advanced cancer. J Clin Oncol. Feb; 2000 18(4):927–941.
+[PubMed: 10673536]
+15. Cloughesy TF, Kuhn J, Robins HI, et al. Phase I trial of tipifarnib in patients with recurrent
+malignant glioma taking enzyme-inducing antiepileptic drugs: a North American Brain Tumor
+Consortium Study. J Clin Oncol. Sep 20; 2005 23(27):6647–6656. [PubMed: 16170172]
+16. Cloughesy TF, Wen PY, Robins HI, et al. Phase II trial of tipifarnib in patients with recurrent
+malignant glioma either receiving or not receiving enzyme-inducing antiepileptic drugs: a North
+American Brain Tumor Consortium Study. J Clin Oncol. Aug 1; 2006 24(22):3651–3656.
+[PubMed: 16877733]
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Nghiemphu et al. Page 9
+17. Kuhn, J.; Prados, M.; Robins, H. Phase I trial of R115777 (Zarnestra) in patients with recurrent
+malignant glioma taking enzyme inducting antiepileptic drugs (EIAED): A North American Brain
+Tumor Consortium (NABTC) report. Paper presented at: Proceedings of the American Society of
+Clinical Oncology; May, 2000;
+18. Kuhn JG. Influence of anticonvulsants on the metabolism and elimination of irinotecan. A North
+American Brain Tumor Consortium preliminary report. Oncology (Williston Park). Aug; 2002
+16(8 Suppl 7):33–40. [PubMed: 12199631]
+19. Chang SM, Kuhn JG, Robins HI, et al. A Phase II study of paclitaxel in patients with recurrent
+malignant glioma using different doses depending upon the concomitant use of anticonvulsants: a
+North American Brain Tumor Consortium report. Cancer. Jan 15; 2001 91(2):417–422. [PubMed:
+11180089]
+20. Stupp R, Mason WP, van den Bent MJ, et al. Radiotherapy plus Concomitant and Adjuvant
+Temozolomide for Glioblastoma. New England Journal of Medicine. March 10; 2005 352(10):
+987–996. [PubMed: 15758009]
+21. Temodar (temozolomide) [package insert]. Schering Corporation; Kenilworth, NJ: 2004.
+22. Gore L, Holden SN, Cohen RB, et al. A phase I safety, pharmacological and biological study of the
+farnesyl protein transferase inhibitor, tipifarnib and capecitabine in advanced solid tumors. Ann
+Oncol. Nov; 2006 17(11):1709–1717. [PubMed: 16980604]
+23. Zimmerman TM, Harlin H, Odenike OM, et al. Dose-ranging pharmacodynamic study of tipifarnib
+(R115777) in patients with relapsed and refractory hematologic malignancies. J Clin Oncol. Dec 1;
+2004 22(23):4816–4822. [PubMed: 15570084]
+24. Moyal EC, Laprie A, Delannes M, et al. Phase I trial of tipifarnib (R115777) concurrent with
+radiotherapy in patients with glioblastoma multiforme. Int J Radiat Oncol Biol Phys. Aug 1; 2007
+68(5):1396–1401. [PubMed: 17570606]
+25. Delattre J-Y, Safai B, Posner JB. Erythema multiforme and Stevens-Johnson syndrome in patients
+receiving cranial irradiation and phenytoin. Neurology. February 1.1988 38(2):194. [PubMed:
+3340279]
+26. Mamon HJ, Wen PY, Burns AC, Loeffler JS. Allergic Skin Reactions to Anticonvulsant
+Medications in Patients Receiving Cranial Radiation Therapy. Epilepsia. 1999; 40(3):341–344.
+[PubMed: 10080516]
+27. de Wit MCY, de Bruin HG, Eijkenboom W, Sillevis Smitt PAE, van den Bent MJ. Immediate
+post-radiotherapy changes in malignant glioma can mimic tumor progression. Neurology. August
+10; 2004 63(3):535–537. [PubMed: 15304589]
+28. Brandes AA, Tosoni A, Spagnolli F, et al. Disease progression or pseudoprogression after
+concomitant radiochemotherapy treatment: pitfalls in neurooncology. NEURO ONCOL. Jun; 2008
+10(3):361–367. [PubMed: 18401015]
+29. Brandsma D, Stalpers L, Taal W, Sminia P, van den Bent MJ. Clinical features, mechanisms, and
+management of pseudoprogression in malignant gliomas. Lancet Oncol. May; 2008 9(5):453–461.
+[PubMed: 18452856]
+30. Chamberlain MC, Glantz MJ, Chalmers L, Van Horn A, Sloan AE. Early necrosis following
+concurrent Temodar and radiotherapy in patients with glioblastoma. J Neurooncol. Mar; 2007
+82(1):81–83. [PubMed: 16944309]
+31. Wen PY, Macdonald DR, Reardon DA, et al. Updated response assessment criteria for high-grade
+gliomas: response assessment in neuro-oncology working group. J Clin Oncol. Apr 10; 2010
+28(11):1963–1972. [PubMed: 20231676]
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Nghiemphu et al. Page 10
+Figure 1.
+Phase I Trial Schema. Abbrev.: R115777=tipifarnib, PE= physical examination, DLT=dose
+limiting toxicity evaluation.
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Nghiemphu et al. Page 11
+Table 1
+Patient Characteristics
+Group A Group B
+All
+No TMZ With TMZ No TMZ
+Number of Patients 10 20 21 51
+Gender: M/F 7/3 11/9 14/7 32/19
+KPS: Median (Range) 90 (60–100) 90 (60–100) 90 (70 – 100) 90 (60–100)
+Race: Caucasian No. 10 19 21 50
+Age: Median (Range) 52 (38–61) 52 (37–74) 58 (39–73) 54 (37–74)
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+
+--- Page 12 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Nghiemphu et al. Page 12
+Table 2
+R115777 Dose Levels
+Group A and Group A-TMZ
+Dose Level Dose Schedule Days Administered
+−2 100 mg QD D1 – D21 every 28 days
+−1 100 mg BID D1 – D21 every 28 days
+1 200 mg BID D1 – D21 every 28 days
+2 300 mg BID D1 – D21 every 28 days
+3 400 mg BID D1 – D21 every 28 days
+Group B
+Dose Level Dose Schedule Days Administered
+−2 200 mg BID D1 – D21 every 28 days
+−1 300 mg BID D1 – D21 every 28 days
+1 400 mg BID D1 – D21 every 28 days
+2 500 mg BID D1 – D21 every 28 days
+3 600 mg BID D1 – D21 every 28 days
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Nghiemphu et al. Page 13
+3
+elbaT
+stneve
+esrevda
+4
+dna
+3 edarG
+B
+puorG
+A
+puorG
+ZMT
+oN
+ZMT
+htiw
+ZMT
+oN
+)71(
+003
+)4(
+004
+)31(
+003
+)7(
+002
+)7(
+003
+)3(
+002
+).oN(
+dib
+esod
+gm
+777511R
+edarG
+EA
+.oN
+edarG
+EA
+.oN
+edarG
+EA
+.oN
+edarG
+EA
+.oN
+edarG
+EA
+.oN
+edarG
+EA
+.oN
+3
+1
+3
+2
+3
+^2
+0
+0
+3
+1
+0
+0
+hsaR
+0
+0
+0
+0
+4--3
+2
+0
+0
+0
+0
+0
+0
+ainepotycolunarG
+0
+0
+0
+0
+3
+1
+3
+1
+0
+0
+0
+0
+ainepotycobmorhT
+0
+0
+0
+0
+4--3
+2
+0
+0
+0
+0
+0
+0
+ainepokueL
+0
+0
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+ainepotycohpmyL
+0
+0
+0
+0
+4
+*1
+0
+0
+0
+0
+0
+0
+aenpsyD
+0
+0
+0
+0
+4
+*1
+0
+0
+0
+0
+0
+0
+niaP
+citiruelP
+/sisobmorhT
+0
+0
+0
+0
+4
+*1
+0
+0
+0
+0
+0
+0
+msilobmE/submorhT
+0
+0
+0
+0
+0
+0
+4
+*1
+0
+0
+0
+0
+ssenkaeW
+elcsuM
+0
+0
+0
+0
+0
+0
+4
+*1
+0
+0
+0
+0
+eugitaF
+0
+0
+0
+0
+0
+0
+4
+*1
+0
+0
+0
+0
+ssenizziD
+0
+0
+0
+0
+0
+0
+3
+*1
+0
+0
+0
+0
+aimenA
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+egahrromeH
+SNC
+*
+tneitap
+emas
+ni
+gnirrucco
+EA
+dedahs
+dna
+dlob
+sa
+detoned
+TLD
+^
+doirep
+noitaulave
+keew-01
+laitini
+ni
+poleved
+hsar
+dah
+tneitap
+eno
+ylno
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Nghiemphu et al. Page 14
+Table 4
+DLTs
+Cohort Groups Dose Level Patient # DLT DLT Type
+Group A 1 3 none NA
+2 7 one Rash
+Group B 2 4 two Rash
+1 17 one CNS Hemorrhage
+Group A w/TMZ 1 7 one Fatigue
+2 13 one Rash
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2012 December 1.

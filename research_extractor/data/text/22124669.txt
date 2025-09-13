@@ -1,0 +1,1295 @@
+Source: 22124669.pdf
+Extracted on: Fri Sep 12 23:58:12 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+Published in final edited form as:
+Cancer Chemother Pharmacol. 2012 April ; 69(4): 1089–1097. doi:10.1007/s00280-011-1789-3.
+A phase I trial of docetaxel and pulse-dose 17-allylamino-17-
+demethoxygeldanamycin in adult patients with solid tumors
+Gopa Iyer,
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+Michael J. Morris,
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+Dana Rathkopf,
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+Susan F. Slovin,
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+Macaulay Steers,
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+Steven M. Larson,
+Department of Nuclear Medicine, Memorial Sloan-Kettering Cancer Center, New York, NY, USA
+Lawrence H. Schwartz,
+Department of Radiology, Memorial Sloan-Kettering Cancer Center, New York, NY, USA
+Tracy Curley,
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+Anthony DeLaCruz,
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+Qing Ye,
+Department of Molecular Pharmacology and Chemistry, Memorial Sloan-Kettering Cancer
+Center, New York, NY, USA
+Glenn Heller,
+Department of Biostatistics, Memorial Sloan-Kettering Cancer Center, New York, NY, USA
+Merrill J. Egorin,
+Molecular Therapeutics/Drug Discovery Program, University of Pittsburgh School of Medicine,
+Pittsburgh, PA, USA
+© Springer-Verlag 2011
+Correspondence to: David B. Solit.
+solitd@mskcc.org.
+Parts of this work have been presented in abstract form at the American Society of Clinical Oncology 2005 annual meeting.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Iyer et al. Page 2
+S. Percy Ivy,
+Investigational Drug Branch, Cancer Therapy Evaluation Program, Division of Cancer Treatment
+and Centers, National Cancer Institute, Bethesda, MD, USA
+Neal Rosen,
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+Department of Molecular Pharmacology and Chemistry, Memorial Sloan-Kettering Cancer
+Center, New York, NY, USA
+Howard I. Scher, and
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+David B. Solit
+Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York,
+NY 10021, USA
+The Human Oncology and Pathogenesis Program, Memorial Sloan-Kettering Cancer Center,
+New York, NY, USA
+Abstract
+Purpose—To define maximum tolerated dose (MTD), clinical toxicities, and pharmacokinetics
+of 17-allylamino-17-demethoxygeldanamycin (17-AAG) when administered in combination with
+docetaxel once every 21 days in patients with advanced solid tumor malignancies.
+Experimental design—Docetaxel was administered over 1 h at doses of 55, 70, and 75 mg/m2.
+17-AAG was administered over 1–2 h, following the completion of the docetaxel infusion, at
+escalating doses ranging from 80 to 650 mg/m2 in 12 patient cohorts. Serum was collected for
+pharmacokinetic and pharmacodynamic studies during cycle 1. Docetaxel, 17-AAG, and 17-AG
+levels were determined by high-performance liquid chromatography. Biologic effects of 17-AAG
+were monitored in peripheral blood mononuclear cells by immunoblot.
+Results—Forty-nine patients received docetaxel and 17-AAG. The most common all-cause
+grade 3 and 4 toxicities were leukopenia, lymphopenia, and neutropenia. An MTD was not
+defined; however, three dose-limiting toxicities were observed, including 2 incidences of
+neutropenic fever and 1 of junctional bradycardia. Dose escalation was halted at docetaxel 75 mg/
+m2-17-AAG 650 mg/m2 due to delayed toxicities attributed to patient intolerance of the DMSO-
+based 17-AAG formulation. Of 46 evaluable patients, 1 patient with lung cancer experienced a
+partial response. Minor responses were observed in patients with lung, prostate, melanoma, and
+bladder cancers. A correlation between reduced docetaxel clearance and 17-AAG dose level was
+observed.
+Conclusions—The combination of docetaxel and 17-AAG was well tolerated in adult patients
+with solid tumors, although patient intolerance to the DMSO formulation precluded further dose
+escalation. The recommended phase II dose is docetaxel 70 mg/m2 and 17-AAG 500 mg/m2.
+Keywords
+17-AAG; Geldanamycin; Hsp90; Docetaxel; Phase I
+Introduction
+Heat shock protein 90 (Hsp90) is an abundant cellular chaperone that is required for
+refolding of unfolded proteins, cellular survival under stress conditions, and the
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Iyer et al. Page 3
+conformational maturation of a variety of proteins that play key roles in transducing
+proliferative and anti-apoptotic signals [1, 2]. 17-allylamino-17-demethoxygeldanamycin
+(17-AAG), a derivative of the natural product geldanamycin, was the first Hsp90 inhibitor to
+enter clinical testing [3–7]. Geldanamycin and its derivatives bind to a regulatory ATP/ADP
+pocket in the aminoterminal portion of Hsp90 that is conserved across species [8].
+Occupancy of the pocket by drug leads to the degradation of Hsp90 client proteins, many of
+which play central roles in tumor initiation, maintenance of the transformed phenotype, and
+tumor progression [9, 10]. These Hsp90 clients include steroid receptors such as the
+androgen and estrogen receptors and a subset of serine/threonine and tyrosine kinases,
+including Raf-1, Akt, HER2, and insulin-like growth factor-1 receptor [11–15].
+In cell culture models, 17-AAG synergistically enhances the activity of chemotherapeutics
+including paclitaxel and doxorubicin [16–18]. 17-AAG induces a potent G1 arrest in tumors
+with intact retinoblastoma protein 1 (RB1) function, and thus, sensitization to cell cycle-
+specific cytotoxics is schedule dependent in most systems [16]. For example, in tumors with
+intact RB1 function, 17-AAG enhances the antiproliferative and pro-apoptotic effects of
+paclitaxel when the 2 agents are administered either simultaneously or when the taxane
+precedes 17-AAG [16, 19]. In contrast, pretreatment with 17-AAG in such systems induces
+G1 cell cycle arrest and antagonizes the pro-apoptotic effects of the taxane. In human
+xenograft models, maximal enhancement occurs when the taxane and 17-AAG are
+administered on the same day, suggesting that a mechanistic interaction between these
+agents is responsible for the observed synergy [13]. Further exploration of the mechanisms
+responsible for synergy in HER2-driven breast cell lines suggested that inactivation of PI3
+kinase/Akt signaling following Hsp90 inhibition was required for synergy [13]. Notably, a
+pulsatile 17-AAG dosing regimen with no single-agent activity that inhibits Akt activity for
+24–48 h was sufficient to sensitize tumors to paclitaxel [13].
+On the basis of these preclinical data, we initiated a phase I clinical trial of docetaxel in
+combination with pulse-dosed 17-AAG in patients with advanced solid tumor malignancies.
+The primary objectives of the study were to define the maximum tolerated dose (MTD) of
+17-AAG as well as clinical toxicities of the combination. Secondary endpoints included
+pharmacokinetic studies and the effects of treatment on the expression of Hsp90 clients in
+peripheral blood mononuclear cells (PBMCs).
+Materials and methods
+Patient eligibility
+The trial was approved by the Institutional Review Board of Memorial Sloan-Kettering
+Cancer Center on January 23, 2003 (clinicaltrials.gov identifier: NCT00058253). All
+patients signed written informed consent. Patients were required to have a histologically
+confirmed malignancy that was metastatic or unresectable and for which curative or
+palliative measures did not exist or were no longer effective. Progressive disease could be
+documented either by new lesions or an increase in preexisting lesions on bone scintigraphy,
+computed tomography (CT), magnetic resonance imaging (MRI), or by physical
+examination. For patients with prostate cancer, a rising prostate-specific antigen (PSA) alone
+was sufficient to document progression.
+Patients were required to be over 18 years of age, have a Karnofsky Performance Status
+≥70%, and a life expectancy >6 months. Intact hepatic, renal, and bone marrow function as
+defined by specific laboratory ranges was a prerequisite for enrollment.
+Exclusion criteria included prior chemotherapy, radiotherapy, or other investigational
+therapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C); active brain metastases
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Iyer et al. Page 4
+or epidural disease; symptomatic peripheral neuropathy ≥Grade 2; a history of severe
+hypersensitivity reaction to paclitaxel, docetaxel, or polysorbate 80; and allergy to egg or
+egg products (because of its inclusion in the EPL diluent vehicle).
+Cardiac-specific exclusion criteria were altered during the course of the trial. The initial 43
+patients enrolled required screening radionuclide angiography or echocardiogram for
+suspected or documented congestive heart failure with a depressed ejection fraction,
+coronary artery disease, or arrhythmia other than atrial fibrillation. Following reports of
+prolonged QTc intervals on other 17-AAG trials, we also excluded from this study patients
+with significant cardiac disease including heart failure that met New York Heart Association
+(NYHA) class III or IV definitions, a history of myocardial infarction or active ischemic
+heart disease within 12 months of study entry, uncontrolled dysrhythmias, and individuals
+requiring antiarrhythmic drugs. Patients with the following were also excluded: history of
+serious ventricular arrhythmia (VT or VF lasting ≥ 3 consecutive beats); QTc > 450 ms for
+men and >470 ms for women; congenital long QT syndrome; left bundle branch block;
+history of prior radiation that potentially included the heart in the field (e.g., mantle); or
+LVEF ≤ 40% by multi-gated acquisition scan or echocardiography. Medications previously
+shown to prolong the QTc interval were restricted.
+Treatment
+On a 21-day cycle, patients were treated intravenously with docetaxel over 1 h followed
+immediately by 17-AAG. The infusion duration of 17-AAG at doses of 450 mg/m2 or higher
+was 2 h, while doses of 375 mg/m2 or less were infused over 1 h. All patients received
+dexamethasone premedication to reduce the incidence and severity of fluid retention or
+hypersensitivity reactions.
+Patient assessment
+Pharmacokinetic samples were drawn at specific time points on day 1 (pretreatment, 30 and
+55 min after initiation of docetaxel infusion, and 30 min, 1, 2, 3, 4, and 6–8 h after initiation
+of 17-AAG infusion), and also on days 2 and 3 of cycle 1.
+PBMCs were assessed for changes in Hsp70, Raf-1, and Akt by immunoblot. Blood samples
+were drawn into heparin-containing tubes and PBMCs were isolated by centrifugation. Up to
+6 samples were drawn during cycle 1 only. Cells were lysed in NP40 lysis buffer (50 mM
+Tris [pH 7.4], 1% NP40, 150 mM NaCl, 40 mM NaF, 1 mM Na VO , 1 mM
+3 4
+phenylmethylsulphonylfluoride, and 10 mg/ml each of leupeptin, aprotinin, and soybean
+trypsin inhibitor) for 30 min on ice. Lysates were centrifuged at approximately 13,000×g for
+10 min, and the protein concentration of the supernatant was determined by bicinchoninic
+acid (BCA) assay (Pierce, Rockford, IL). Equal amounts of total protein were resolved by
+sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS–PAGE) and transferred
+onto nitrocellulose membranes. Blots were probed overnight at 4°C with the primary
+antibody. After incubation with horseradish peroxidase-conjugated secondary antibodies,
+proteins were detected using chemiluminescence. The following primary antibodies were
+used: Akt (Cell Signaling, Beverly, MA), Hsp70 (StressGen, Victoria, BC, Canada), p85
+subunit of PI3 kinase (Upstate Biotechnology, Lake Placid, NY), and Raf-1 (Santa Cruz
+Biotechnology, Santa Cruz, CA). The p85 subunit of PI3 kinase was used as a loading
+control since its expression is unaffected by 17-AAG.
+Although response was not the primary endpoint of this trial, patients with measurable
+disease were assessed by the Response Evaluation Criteria in Solid Tumors (RECIST)
+version 1.0.
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Iyer et al. Page 5
+Toxicity and MTD
+Toxicities and adverse events were assessed using the National Cancer Institute (NCI)
+Common Toxicity Criteria (CTC) version 2.0. Dose-limiting toxicity (DLT) was defined as
+the occurrence of any of the following events during cycle 1 of treatment:
+1. Grade 4 neutropenia lasting greater than 7 days (defined as 2 or more consecutive
+CBC with differentials documenting grade 4 neutropenia drawn ≥8 days apart)
+2. Febrile neutropenia (ANC < 1,000/mm3 and temperature ≥38.5°C)
+3. Grade 3 or greater thrombocytopenia, or other grade 3 or higher neurologic,
+gastrointestinal, or cardiovascular toxicities attributable to the study treatment
+4. Grade 3 or greater QTc interval prolongation (QTc > 0.50 s)
+The MTD was defined as the highest dose level with an observed incidence of DLT in no
+more than 1 out of 6 patients treated at a particular dose level. The dose escalation scheme
+was as follows: if none of an initial 3 patients at a given dose level experienced a DLT, the
+next dose level was studied in another cohort of 3 patients. Escalation then continued if none
+or one of the additional patients experienced a DLT. If 1 of the initial 3 patients at a given
+dose level experienced a DLT, up to 3 additional patients were treated at that same dose
+level. Escalation then continued if none of the additional patients experienced a DLT. If 2 or
+3 of the first 3 patients experienced a DLT, or 2 or more patients out of a cohort of 6
+experienced a DLT at a given dose level, the MTD was defined as the preceding dose level.
+If 3 or fewer patients were treated at a dose under consideration as the MTD, additional
+patients to total 6 were to be treated at that level to confirm the MTD.
+Analytical chemical methods and pharmacokinetic data analysis
+Concentrations of 17-AAG and its metabolite 17-AG were measured using a high-
+performance liquid chromatography (HPLC) assay with absorbance detection [20], while
+docetaxel plasma concentrations were quantitated with a liquid chromatography-mass
+spectrometry assay, both of which were developed and validated in the Egorin laboratory
+[21]. Plasma concentration was correlated with time data for 17-AAG and 17-AG non-
+compartmentally using the LaGrange function [22] as implemented by the Lagran computer
+program [23].
+Results
+Patients
+A total of 49 patients were treated, with 46 evaluable for response. Baseline demographics
+are shown in Table 1. Three patients were not evaluable for response due to removal from
+the study for toxicity during cycle 1. Nine patients were removed before the first scheduled
+restaging at 9 weeks due to rapid progression of disease. The dose escalation scheme as well
+as the number of patients treated at each dose level is shown in Table 2. The mean number
+of cycles was 4 (range 1–13).
+Safety and tolerability
+Toxicities observed during cycle 1 that were probably or definitely attributable to the study
+drugs are listed in Table 3. The most common grade 3 and 4 drug-related toxicities in cycle
+1 included leukopenia (22 and 8%, respectively) and neutropenia (20 and 16%,
+respectively). Three patients developed dose-limiting toxicities in cycle 1, including 2
+episodes of neutropenic fever (1 patient each on dose levels 6 and 9) and 1 episode of
+junctional bradycardia (dose level 11). These dose levels were thus expanded to 6 patients
+each. One patient enrolled in dose level 11 (docetaxel 75 mg/m2 and 17-AAG 650 mg/m2)
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Iyer et al. Page 6
+developed third-degree AV block associated with asymptomatic bradycardia (HR of 43
+bpm) immediately posttreatment on day 1 of cycle 1. The heart block and bradycardia
+resolved spontaneously. This event was classified as a DLT and the patient was not
+rechallenged with 17-AAG; however, subsequent treatment with single-agent docetaxel
+occurred without incident. One patient enrolled in cohort 8 was not evaluable for liver
+toxicity. This patient had a normal AST and grade 1 ALT elevation at the time of screening
+evaluation 10 days prior to first treatment, but on day 1 had asymptomatic Grade 4 AST and
+ALT elevations pretreatment. As these abnormalities were present pretreatment, they were
+not drug related. This patient tolerated treatment well and the liver function abnormalities
+resolved by day 40. The patient was later rechallenged with the study drugs and in total
+received 9 cycles of 17-AAG and docetaxel without further Grade 2 or greater transaminitis.
+During cycle 1, 6 patients experienced grade 3 hyperglycemia, 3 patients experienced grade
+3 hyponatremia, and 1 patient grade 4 hypophosphatemia. These events were not associated
+with clinical symptoms and were not thought to be related to 17-AAG therapy.
+Table 4 lists the grade-specific frequency of any toxicities that occurred with grade 3 or 4
+severity as well as any grade 1 and 2 toxicities which occurred at a frequency of 25% or
+greater, regardless of causality. As expected with a docetaxel-based combination regimen,
+cytopenias were frequently observed, including grade 3 leukopenia and lymphopenia (41%
+each), as well as grade 4 neutropenia (47%). Two patients developed delayed grade 3 or
+greater transaminitis. In one instance, grade 4 elevation of bilirubin, AST, and ALT occurred
+following cycle 4 in a patient with colon cancer treated at the highest dose level (dose level
+11: 17-AAG 650 mg/m2). These liver abnormalities were associated with biliary duct
+obstruction secondary to disease progression and thus were unlikely to be drug related. The
+second patient (dose level 9: 17-AAG 450 mg/m2) developed grade 3 nausea, dehydration,
+and AST elevation following cycle 4. This patient also developed grade 3 neutropenic fever.
+As a result of these adverse events, the patient was dose-reduced and rechallenged with the
+combination and went on to receive 2 additional cycles of treatment which were tolerated
+well.
+As preclinical studies suggested a role for Hsp90 in the maturation of the hERG cardiac
+potassium channel [24], QTc was assessed pre and posttreatment. The mean QTc interval for
+all patients was 425 ms; mean posttreatment QTc interval was 428 ms. No patient had a QTc
+interval posttreatment of greater than 500 ms. PR interval prolongation was observed in
+several patients. The mean pretreatment PR interval was 158 ms; mean posttreatment PR
+interval was 174 ms. Six patients on the study developed first-degree AV block
+posttreatment. Two additional patients had preexisting first-degree AV block. Further, as
+described previously, 1 patient enrolled on dose level 11 (docetaxel 75 mg/m2 and 17-AAG
+650 mg/m2) developed asymptomatic junctional bradycardia immediately posttreatment on
+day 1 of cycle 1 which resolved spontaneously.
+An intolerance of the odor related to the DMSO-based formulation of 17-AAG, with
+associated nausea and vomiting at higher dose levels, ultimately led to discontinuation of
+this trial in favor of alternative formulations of 17-AAG currently in development.
+Antitumor activity
+Of 46 evaluable patients, 1 patient with non-small cell lung cancer had a partial response to
+therapy. Nineteen patients (41%) experienced stable disease lasting 3 cycles: 11 (24%)
+experienced stable disease for at least 6 cycles, and 4 (9%, all melanoma and prostate
+cancer) having stable disease lasting 9 cycles or greater.
+In patients with prostate cancer (n = 16), 4 patients exhibited a PSA decline of 20% or
+greater, and 2 of these patients had received prior docetaxel treatment. The patient who
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Iyer et al. Page 7
+experienced the greatest PSA response had received 1 dose of the study drugs, with
+subsequent removal from the study due to febrile neutropenia. At 3 weeks postdrug
+administration, the patient had a 69.5% decline in PSA (baseline 13.73, nadir 3.19). This
+patient was taxane-naïve.
+Pharmacokinetics
+The pharmacokinetics of 17-AAG, its active metabolite 17-AG, and docetaxel were
+examined during cycle 1. Estimates of pharmacologic parameters grouped by dose level are
+listed in Table 5. Peak plasma concentrations of both 17-AAG and 17-AG were greater than
+those required for antitumor effects in preclinical models. At the 450 mg/m2 dose level (n =
+9), the mean Cmax was 15.9 ± 0.5 μmol/L, and the t
+1/2
+and clearance values for 17-AAG
+were 2.9 ± 0.1 h and 13.3 ± 0.4 L/h/m2, respectively. A linear increase in 17-AAG Cmax
+was observed with increasing dose (Table 5), while clearance of docetaxel was inversely
+proportional with the 17-AAG dose (Fig. 1). 17-AG was detected at all dose levels. At the
+220 mg/m2 17-AAG dose level, a mean peak 17-AG level of 1.4 ± 0.3 μmol/L was observed
+1.7 h after initiation of the 17-AAG infusion, and the mean t was 5.9 ± 0.6 h (Table 5).
+1/2
+Lymphocyte studies
+To assess for inhibition of Hsp90, PBMCs were collected pretreatment and following drug
+administration. As has been reported with single-agent administration of 17-AAG [3],
+increased expression of Hsp70 was observed in the majority of patients treated at or above
+the 110 mg/m2 dose level. Representative immunoblots from 4 patients treated at the
+docetaxel 75 mg/m2 and 17-AAG 450 mg/m2 dose level are shown in Fig. 2. A consistent
+pattern of changes in Raf1 or Akt expression was not observed.
+Discussion
+This phase I trial was initiated to determine the maximal tolerated dose of the Hsp90
+inhibitor 17-AAG that could be coadministered with docetaxel when each agent was pulse
+dosed on an every 3 week schedule. Hsp90 is overexpressed in cancer cells, and Hsp90
+inhibitors have been shown to be selectively toxic to tumor cells [25, 26]. These
+observations and the antitumor activity of 17-AAG in preclinical models prompted several
+groups, including our own, to initiate phase I clinical trials of 17-AAG in patients with
+advanced cancer [3–7]. Demonstrable single-agent clinical activity with Hsp90 inhibitors
+has been limited, however. In patients with solid tumors, the most compelling clinical data
+to date with Hsp90 inhibitor monotherapy have been observed in patients with HER2-
+amplified breast cancer and non-small cell lung cancer [27–30]. Due to evidence of synergy
+between 17-AAG and a broad range of cytotoxic agents, a logical iterative approach in the
+clinical development of this compound was to combine it with standard cytotoxics.
+A 3-week interval dosing schedule was chosen because every 3 week docetaxel
+administration has been shown to be optimal for many solid tumors, and our preclinical data
+suggested that concurrent administration of 17-AAG only on those days on which the taxane
+was administered would maximize synergy between the two agents [13]. Using this
+schedule, we were able to safely and with minimal toxicity deliver doses of 17-AAG as high
+as 650 mg/m2 in combination with the full standard dose of docetaxel to a population of
+heavily pretreated cancer patients. The antitumor responses noted with 17-AAG in breast
+cancer when administered weekly at a dose of 450 mg/m2 [31] suggest that the dose levels
+achieved in this trial were likely sufficient to induce the degradation of at least some Hsp90
+clients, such as HER2. As pre and posttreatment tumor biopsies were not incorporated into
+this study, however, the complement of Hsp90 clients degraded at the dose levels achieved
+remains unknown.
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Iyer et al. Page 8
+PBMCs were collected to assess the effects of docetaxel/17-AAG treatment on the
+expression of Hsp70, Akt, and Raf-1. While the posttreatment rise in Hsp70 levels in most
+patients suggests Hsp90 target modulation, a dose-dependent pattern of Akt and Raf-1
+degradation was not observed. As recent studies have indicated that the affinity of 17-AAG
+for Hsp90 may vary between normal and tumor tissues [26], the utility of normal tissues for
+pharmacodynamic studies of Hsp90 inhibitors may be limited. Therefore, such studies do
+not prove that these clients were not degraded in the corresponding tumors and they should
+not be considered a substitute for the assessment of changes in the expression and activation
+of Hsp90 clients in tumor tissue.
+An MTD was not defined for this study. Dose escalation was halted at the 650 mg/m2 dose
+level because of cumulative toxicities that were attributable in part to the DMSO-based 17-
+AAG formulation. Specifically, for the majority of patients treated at this dose level, the
+odor associated with the DMSO formulation was the primary treatment-associated
+complaint. For this reason, and with the subsequent development of non-DMSO-based 17-
+AAG formulations, further dose escalation was not felt to be warranted.
+Our results do suggest that docetaxel can be combined safely with an inhibitor of Hsp90 at
+doses above those sufficient to induce responses in patients with breast and lung cancers. On
+the basis of these results, a phase I trial of docetaxel and IPI-504 [32], an Hsp90 inhibitor
+that does not use a DMSO-based formulation, was proposed and is now ongoing.
+Acknowledgments
+We would like to thank Kin Tse for his assistance with data collection and analysis. National Cancer Institute grants
+P50-CA92629 and U01-CA69856 and the generous support of the Prostate Cancer Foundation.
+References
+1. Solit DB, Rosen N. Hsp90: a novel target for cancer therapy. Curr Top Med Chem. 2006; 6:1205–
+1214. [PubMed: 16842157]
+2. Trepel J, Mollapour M, Giaccone G, Neckers L. Targeting the dynamic HSP90 complex in cancer.
+Nat Rev Cancer. 2010; 10:537–549. [PubMed: 20651736]
+3. Banerji U, O'Donnell A, Scurr M, Pacey S, Stapleton S, Asad Y, et al. Phase I pharmacokinetic and
+pharmacodynamic study of 17-allylamino, 17-demethoxygeldanamycin in patients with advanced
+malignancies. J Clin Oncol. 2005; 23:4152–4161. [PubMed: 15961763]
+4. Goetz MP, Toft D, Reid J, Ames M, Stensgard B, Safgren S, et al. Phase I trial of 17-allylamino-17-
+demethoxygeldanamycin in patients with advanced cancer. J Clin Oncol. 2005; 23:1078–1087.
+[PubMed: 15718306]
+5. Grem JL, Morrison G, Guo XD, Agnew E, Takimoto CH, Thomas R, et al. Phase I and
+pharmacologic study of 17-(allylamino)-17-demethoxygeldanamycin in adult patients with solid
+tumors. J Clin Oncol. 2005; 23:1885–1893. [PubMed: 15774780]
+6. Ramanathan RK, Trump DL, Eiseman JL, Belani CP, Agarwala SS, Zuhowski EG, et al. Phase I
+pharmacokinetic-pharmaco-dynamic study of 17-(allylamino)-17-demethoxygeldanamycin
+(17AAG, NSC 330507), a novel inhibitor of heat shock protein 90, in patients with refractory
+advanced cancers. Clin Cancer Res. 2005; 11:3385–3391. [PubMed: 15867239]
+7. Solit DB, Ivy SP, Kopil C, Sikorski R, Morris MJ, Slovin SF, et al. Phase I trial of 17-
+allylamino-17-demethoxygeldanamycin in patients with advanced cancer. Clin Cancer Res. 2007;
+13:1775–1782. [PubMed: 17363532]
+8. Stebbins CE, Russo AA, Schneider C, Rosen N, Hartl FU, Pavletich NP. Crystal structure of an
+Hsp90-geldanamycin complex: targeting of a protein chaperone by an antitumor agent. Cell. 1997;
+89:239–250. [PubMed: 9108479]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Iyer et al. Page 9
+9. Schulte TW, Neckers LM. The benzoquinone ansamycin 17-allylamino-17-
+demethoxygeldanamycin binds to HSP90 and shares important biologic activities with
+geldanamycin. Cancer Chemother Pharmacol. 1998; 42:273–279. [PubMed: 9744771]
+10. Mimnaugh EG, Chavany C, Neckers L. Polyubiquitination and proteasomal degradation of the
+p185c-erbB-2 receptor protein-tyrosine kinase induced by geldanamycin. J Biol Chem. 1996;
+271:22796–22801. [PubMed: 8798456]
+11. Sepp-Lorenzino L, Ma Z, Lebwohl DE, Vinitsky A, Rosen N. Herbimycin A induces the 20 S
+proteasome- and ubiquitin-dependent degradation of receptor tyrosine kinases. J Biol Chem. 1995;
+270:16580–16587. [PubMed: 7622464]
+12. Solit DB, Zheng FF, Drobnjak M, Munster PN, Higgins B, Verbel D, et al. 17-Allylamino-17-
+demethoxygeldanamycin induces the degradation of androgen receptor and HER-2/neu and
+inhibits the growth of prostate cancer xenografts. Clin Cancer Res. 2002; 8:986–993. [PubMed:
+12006510]
+13. Solit DB, Basso AD, Olshen AB, Scher HI, Rosen N. Inhibition of heat shock protein 90 function
+down-regulates Akt kinase and sensitizes tumors to Taxol. Cancer Res. 2003; 63:2139–2144.
+[PubMed: 12727831]
+14. Basso AD, Solit DB, Chiosis G, Giri B, Tsichlis P, Rosen N. Akt forms an intracellular complex
+with heat shock protein 90 (Hsp90) and Cdc37 and is destabilized by inhibitors of Hsp90 function.
+J Biol Chem. 2002; 277:39858–39866. [PubMed: 12176997]
+15. Schulte TW, Blagosklonny MV, Ingui C, Neckers L. Disruption of the Raf-1-Hsp90 molecular
+complex results in destabilization of Raf-1 and loss of Raf-1-Ras association. J Biol Chem. 1995;
+270:24585–24588. [PubMed: 7592678]
+16. Munster PN, Basso A, Solit D, Norton L, Rosen N. Modulation of Hsp90 function by ansamycins
+sensitizes breast cancer cells to chemotherapy-induced apoptosis in an RB- and schedule-
+dependent manner. See: Sausville EA, Combining cytotoxics and 17-allylamino, 17-
+demethoxygeldanamycin: sequence and tumor biology matters. Clin Cancer Res. 2001; 7:2155–
+2158. 2228–2236. [PubMed: 11489788]
+17. Sain N, Krishnan B, Ormerod MG, De Rienzo A, Liu WM, Kaye SB, et al. Potentiation of
+paclitaxel activity by the HSP90 inhibitor 17-allylamino-17-demethoxygeldanamycin in human
+ovarian carcinoma cell lines with high levels of activated AKT. Mol Cancer Ther. 2006; 5:1197–
+1208. [PubMed: 16731752]
+18. Nguyen DM, Lorang D, Chen GA, Stewart JHt, Tabibi E, Schrump DS. Enhancement of
+paclitaxel-mediated cytotoxicity in lung cancer cells by 17-allylamino geldanamycin: in vitro and
+in vivo analysis. Ann Thorac Surg. 2001; 72:371–378. discussion 8–9. [PubMed: 11515869]
+19. Nguyen DM, Chen A, Mixon A, Schrump DS. Sequence-dependent enhancement of paclitaxel
+toxicity in non-small cell lung cancer by 17-allylamino 17-demethoxygeldanamycin. J Thorac
+Cardiovasc Surg. 1999; 118:908–915. [PubMed: 10534697]
+20. Egorin MJ, Zuhowski EG, Rosen DM, Sentz DL, Covey JM, Eiseman JL. Plasma
+pharmacokinetics and tissue distribution of 17-(allylamino)-17-demethoxygeldanamycin (NSC
+330507) in CD2F1 mice1. Cancer Chemother Pharmacol. 2001; 47:291–302. [PubMed:
+11345645]
+21. Parise RA, Ramanathan RK, Zamboni WC, Egorin MJ. Sensitive liquid chromatography-mass
+spectrometry assay for quantitation of docetaxel and paclitaxel in human plasma. J Chromatogr B
+Anal Technol Biomed Life Sci. 2003; 783:231–236.
+22. Yeh KC, Kwan KC. A comparison of numerical integrating algorithms by trapezoidal, Lagrange,
+and spline approximation. J Pharmacokinet Biopharm. 1978; 6:79–98. [PubMed: 650423]
+23. Rocci ML Jr, Jusko WJ. LAGRAN program for area and moments in pharmacokinetic analysis.
+Comput Programs Biomed. 1983; 16:203–216. [PubMed: 6688572]
+24. Ficker E, Dennis AT, Wang L, Brown AM. Role of the cytosolic chaperones Hsp70 and Hsp90 in
+maturation of the cardiac potassium channel HERG. Circ Res. 2003; 92:e87–e100. [PubMed:
+12775586]
+25. Vilenchik M, Solit D, Basso A, Huezo H, Lucas B, He H, et al. Targeting wide-range oncogenic
+transformation via PU24FCl, a specific inhibitor of tumor Hsp90. Chem Biol. 2004; 11:787–797.
+[PubMed: 15217612]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Iyer et al. Page 10
+26. Kamal A, Thao L, Sensintaffar J, Zhang L, Boehm MF, Fritz LC, et al. A high-affinity
+conformation of Hsp90 confers tumour selectivity on Hsp90 inhibitors. Nature. 2003; 425:407–
+410. [PubMed: 14508491]
+27. Xu W, Mimnaugh E, Rosser MF, Nicchitta C, Marcu M, Yarden Y, et al. Sensitivity of mature
+Erbb2 to geldanamycin is conferred by its kinase domain and is mediated by the chaperone protein
+Hsp90. J Biol Chem. 2001; 276:3702–3708. [PubMed: 11071886]
+28. Chandarlapaty S, Scaltriti M, Angelini P, Ye Q, Guzman M, Hudis CA, et al. Inhibitors of HSP90
+block p95-HER2 signaling in Trastuzumab-resistant tumors and suppress their growth. Oncogene.
+2010; 29:325–334. [PubMed: 19855434]
+29. Normant E, Paez G, West KA, Lim AR, Slocum KL, Tunkey C, et al. The Hsp90 inhibitor IPI-504
+rapidly lowers EML4-ALK levels and induces tumor regression in ALK-driven NSCLC models.
+Oncogene. 2011; 30:2581–2586. [PubMed: 21258415]
+30. Sequist LV, Gettinger S, Senzer NN, Martins RG, Janne PA, Lilenbaum R, et al. Activity of
+IPI-504, a novel heat-shock protein 90 inhibitor, in patients with molecularly defined non-small-
+cell lung cancer. J Clin Oncol. 2010; 28:4953–4960. [PubMed: 20940188]
+31. Modi S, Stopeck A, Linden H, Solit D, Chandarlapaty S, Rosen N, et al. HSP90 Inhibition Is
+Effective in Breast Cancer: A Phase II Trial of Tanespimycin (17-AAG) Plus Trastuzumab in
+Patients with HER2-Positive Metastatic Breast Cancer Progressing on Trastuzumab. Clin Cancer
+Res. 2011; 17:5132–5139. [PubMed: 21558407]
+32. Sydor JR, Normant E, Pien CS, Porter JR, Ge J, Grenier L, et al. Development of 17-
+allylamino-17-demethoxygeldanamycin hydroquinone hydrochloride (IPI-504), an anti-cancer
+agent directed against Hsp90. Proc Natl Acad Sci USA. 2006; 103:17408–17413. [PubMed:
+17090671]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Iyer et al. Page 11
+Fig. 1.
+Effect of 17-AAG dose on docetaxel clearance (n = 33). Docetaxel pharmacokinetic data
+were not collected from patients receiving 80 mg/m2 17-AAG
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Iyer et al. Page 12
+Fig. 2.
+Immunoblot studies of peripheral blood mononuclear cells collected pretreatment and days
+2, 3, 8, and 15 of cycle 1. The four representative patients shown were all treated at the
+docetaxel 75 mg/m2 and 17-AAG 450 mg/m2 dose level
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Iyer et al. Page 13
+Table 1
+Baseline demographics and characteristics
+Characteristics
+Patients treated 49
+Age, years
+Median 61
+Range 32–78
+Sex
+Male 42
+Female 7
+Race
+White non-Hispanic 44
+White Hispanic 1
+Black non-Hispanic 3
+Black Hispanic 1
+*
+KPS
+Median 90
+Range 70–90
+No. prior chemotherapy regimens
+Median 2
+Range 0–8
+Primary tumor site
+Prostate 16
+Melanoma 12
+Head/Neck 7
+Renal 4
+Bladder 3
+Lung 3
+Breast 2
+Other 2
+*
+Karnofsky Performance Status; available on 48 patients
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Iyer et al. Page 14
+2
+elbaT
+emehcs
+noitalacse
+esoD
+selcyc
+fo
+.oN
+stneitap
+fo
+.oN
+)2m/gm(
+GAA-71
+)2m/gm(
+lexatecoD
+level
+esoD
+egnaR
+naideM
+3
+3
+3
+08
+55
+1
+6–2
+6
+3
+08
+07
+2
+5–2
+5
+3
+011
+07
+3
+3
+3
+3
+061
+07
+4
+3–2
+2
+3
+022
+07
+5
+9–1
+3
+6
+003
+07
+6
+11–2
+6
+3
+573
+07
+7
+9–3
+9
+4
+054
+07
+*
+8
+6–1
+5.2
+6
+054
+57
+9
+6–3
+3
+3
+045
+57
+01
+4–1
+2
+6
+056
+57
+11
+31–3
+5.3
+6
+005
+07
+21
+*
+txet
+eht
+ni
+debircsed
+sa
+,yticixot
+rof
+elbaulave-non
+saw
+tneitap
+eht
+sa
+decalper
+saw
+8
+level
+esod
+no
+dellorne
+tneitap
+enO
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Iyer et al. Page 15
+Table 3
+Drug-related toxicities during cycle 1 of therapy, in 49 evaluable patients
+Toxicity, n (%) Grade 1 Grade 2 Grade 3 Grade 4
+Hematologic
+Lymphopenia 0 0 7 (14) 0
+Leukocytes 11 (22) 16 (33) 11 (22) 4 (8)
+Neutrophils/granulocytes 5 (10) 10 (20) 10 (20) 8 (16)
+Platelets 2 (4) 0 0 0
+Gastrointestinal
+Nausea 2 (4) 0 0 0
+Vomiting 1 (2) 0 0 0
+Constipation 1 (2) 0 0 0
+Anorexia 1 (2) 0 0 0
+Hepatic
+SGOT (AST) 12 (24) 3 (6) 0 0
+SGPT (ALT) 9 (18) 0 0 0
+Alkaline phosphatase 1 (2) 0 0 0
+Cardiovascular
+* 0 1 (2) 0 0
+Nodal/junctional arrhythmia
+Infection
+* 0 0 2 (4) 0
+Febrile neutropenia
+Neurologic
+Insomnia 1 (2) 0 0 0
+Constitutional symptoms
+Fatigue 2 (4) 0 0 0
+Fever 1 (2) 0 0 0
+Other 2 (4) 0 0 0
+*
+Dose-limiting toxicity
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Iyer et al. Page 16
+Table 4
+All grade 3/4 toxicities, and any grade 1/2 toxicity present in >25% patients, regardless of causality, during all
+cycles
+Toxicity, n (%) Grade 1 Grade 2 Grade 3 Grade 4
+Hematologic
+Hemoglobin (Hgb) 23 (47) 13 (27) 9 (18) 0
+Transfusion pRBCs 0 0 2 (4) 0
+Leukocytes 6 (12) 11 (22) 20 (41) 8 (16)
+Lymphopenia 0 0 20 (41) 0
+Neutrophils/granulocytes 5 (10) 9 (18) 9 (18) 23 (47)
+Coagulation
+PT 24 (49) 0 1 (2) 0
+PTT 19 (39) 2 (4) 0 0
+Endocrine
+Hyperglycemia 13 (27) 22 (45) 11 (22) 2 (4)
+Hypoglycemia 3 (6) 0 0 1 (2)
+Infection
+Febrile neutropenia 0 0 2 (4) 0
+Infection without neutropenia 2 (4) 2 (4) 2 (4) 0
+Infection with Grade 3/4 neutropenia 0 0 4 (8) 1 (2)
+Gastrointestinal
+Anorexia 22 (45) 0 0 0
+Dehydration 0 0 1 (2) 0
+Dysphagia 5 (10) 1 (2) 1 (2) 0
+Nausea 19 (39) 2 (4) 1 (2) 0
+Vomiting 13 (27) 0 1 (2) 0
+Diarrhea 21 (43) 3 (6) 0 0
+Constipation 17 (35) 6 (12) 0 0
+Abdominal pain 11 (22) 1 (2) 1 (2) 0
+Other 4 (8) 0 2 (4) 0
+Cardiovascular
+Chest pain 1 (2) 0 1 (2) 0
+Supraventricular tachycardia 0 1 (2) 1 (2) 0
+Thrombosis 0 0 1 (2) 0
+Metabolic/Laboratory
+Hyperkalemia 8 (16) 4 (8) 4 (8) 0
+Hypokalemia 4 (8) 0 1 (2) 0
+Hyponatremia 24 (49) 0 3 (6) 0
+Hypocalcemia 17 (35) 4 (8) 1 (2) 0
+Hypophosphatemia 1 (2) 9 (18) 7 (14) 2 (4)
+Hyperuricemia 0 0 0 1 (2)
+Alkaline phosphatase 23 (47) 4 (8) 2 (4) 0
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+
+--- Page 17 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Iyer et al. Page 17
+Toxicity, n (%) Grade 1 Grade 2 Grade 3 Grade 4
+Bilirubin 10 (20) 4 (8) 1 (2) 1 (2)
+AST 15 (31) 4 (8) 2 (4) 1 (2)
+ALT 19 (39) 3 (6) 1 (2) 1 (2)
+Hypoalbuminemia 27 (55) 4 (8) 0 0
+Renal/Genitourinary
+Creatinine 16 (33) 0 0 1 (2)
+Urinary frequency 24 (49) 0 0 0
+Pulmonary
+Dyspnea 0 18 (37) 1 (2) 1 (2)
+Pneumonitis 0 0 0 1 (2)
+Musculoskeletal
+Myalgias 18 (37) 0 0 0
+Arthralgia 9 (18) 1 (2) 1 (2) 0
+Bone pain 6 (12) 0 1 (2) 0
+Neurologic
+Neuropathy–sensory 16 (33) 5 (10) 1 (2) 0
+Other 0 0 1 (2) 0
+Constitutional symptoms
+Fatigue 33 (67) 13 (26) 0 0
+Weight loss 23 (47) 4 (8) 0 0
+Other 5 (10) 1 (2) 0 1 (2)
+Pain
+Headache 9 (18) 1 (2) 1 (2) 0
+Tumor pain 11 (22) 3 (6) 2 (4) 0
+Other 6 (12) 2 (4) 1 (2) 0
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.
+
+--- Page 18 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Iyer et al. Page 18
+5
+elbaT
+sretemarap
+citenikocamrahP
+)2m/h/L(
+LC
+GAA-71
+)h(
+2/1
+t GA-71
+)h(
+2/1
+t
+GAA-71
+)h
+L/lomμ(
+CUA
+GA-71
+)h
+L/lomμ(
+CUA
+GAA-71
+)L/lomμ(
+xam
+C
+GA-71
+)L/lomμ(
+xam
+C
+GAA-71
+)2m/gm(
+esoD
+lexatecoD
+)2m/gm(
+esoD
+GAA-71
+n
+level
+esoD
+)14
+=
+n(
+esod
+GAA-71
+fo
+noitcnuf
+a
+sa
+sretemarap
+citenikocamrahp
+GA-71
+dna
+GAA-71
+.A
+1.2
+±
+5.22
+6.0
+±
+0.5
+1.0
+±
+3.2
+3.0
+±
+1.2
+8.0
+±
+5.7
+0.0
+±
+4.0
+5.0
+±
+1.3
+07–55
+08
+5
+2 ,1
+6.2
+±
+5.12
+4.0
+±
+8.3
+5.0
+±
+6.3
+4.0
+±
+5.3
+0.1
+±
+4.9
+4.0
+±
+5.1
+6.1
+±
+6.5
+07
+011
+3
+3
+9.4
+±
+1.03
+0.1
+±
+4.3
+4.0
+±
+2.2
+6.0
+±
+3.3
+6.1
+±
+6.9
+1.0
+±
+7.0
+3.0
+±
+9.2
+07
+061
+2
+4
+0.1
+±
+7.91
+6.0
+±
+9.5
+4.0
+±
+7.3
+6.2
+±
+1.01
+9.0
+±
+3.91
+3.0
+±
+4.1
+7.0
+±
+2.7
+07
+022
+3
+5
+6.0
+±
+9.41
+2.0
+±
+4.4
+9.1
+±
+7.7
+4.1
+±
+1.42
+4.1
+±
+3.63
+2.0
+±
+9.2
+6.0
+±
+9.21
+07
+003
+6
+6
+7.0
+±
+6.31
+4.1
+±
+9.6
+3.0
+±
+2.4
+5.6
+±
+8.96
+7.2
+±
+9.74
+6.0
+±
+0.7
+7.0
+±
+1.91
+07
+573
+3
+7
+4.0
+±
+3.31
+3.0
+±
+6.5
+1.0
+±
+9.2
+7.4
+±
+9.35
+4.2
+±
+9.06
+4.0
+±
+3.5
+5.0
+±
+9.51
+57–07
+054
+9
+9 ,8
+6.4
+±
+2.61
+9.1
+±
+5.5
+2.0
+±
+1.2
+4.51
+±
+2.35
+5.91
+±
+3.86
+1.1
+±
+1.7
+5.3
+±
+6.02
+57
+045
+2
+01
+7.0
+±
+6.9
+3.0
+±
+6.5
+9.0
+±
+6.4
+9.71
+±
+5.271
+2.11
+±
+9.931
+9.0
+±
+3.21
+2.1
+±
+8.92
+57
+056
+6
+11
+7.0
+±
+8.31
+4.0
+±
+9.3
+9.0
+±
+1.3
+8.51
+±
+6.84
+0.3
+±
+3.26
+1.3
+±
+6.7
+6.1
+±
+1.51
+07
+005
+2
+21
+)h/L(
+btLC
+)2m/h/L(
+btLC
+)h
+L/lomμ(
+CUA
+)h(
+2/1
+T
+)L/lomμ(
+xam
+C
+)n(
+stneitaP
+)2m/gm(
+egasoD
+)73
+=
+n(
+esod
+lexatecod
+fo
+noitcnuf
+a
+sa
+sretemarap
+citenikocamrahp
+lexatecoD
+.B
+2.55
+1.82
+3.3
+2.42
+5.2
+32
+07
+1.15
+1.42
+4.4
+5.22
+3.3
+41
+57
+DS
+±
+eulav
+sa
+nwohs
+era
+sretemarap
+citenikocamrahP
+ecnaraelC
+ydoB
+latoTb
+tLC
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 October 15.

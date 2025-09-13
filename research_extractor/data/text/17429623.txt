@@ -1,0 +1,1764 @@
+Source: 17429623.pdf
+Extracted on: Fri Sep 12 23:57:47 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+Published in final edited form as:
+Cancer Chemother Pharmacol. 2008 March ; 61(3): 423–433. doi:10.1007/s00280-007-0485-9.
+Phase I and pharmacokinetic study of UCN-01 in combination
+with irinotecan in patients with solid tumors
+Antonio Jimeno,
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Cancer Research
+Building I, 1650 Orleans Street, Room 186, Baltimore, MD, USA
+Michelle A. Rudek,
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Cancer Research
+Building I, 1650 Orleans Street, Room 186, Baltimore, MD, USA
+Thomas Purcell,
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Cancer Research
+Building I, 1650 Orleans Street, Room 186, Baltimore, MD, USA
+Daniel A. Laheru,
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Cancer Research
+Building I, 1650 Orleans Street, Room 186, Baltimore, MD, USA
+Wells A. Messersmith,
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Cancer Research
+Building I, 1650 Orleans Street, Room 186, Baltimore, MD, USA
+Janet Dancey,
+Cancer Therapy Evaluation Program, National Cancer Institute, Bethesda, MD, USA
+Michael A. Carducci,
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Cancer Research
+Building I, 1650 Orleans Street, Room 186, Baltimore, MD, USA
+Sharyn D. Baker,
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Cancer Research
+Building I, 1650 Orleans Street, Room 186, Baltimore, MD, USA
+Manuel Hidalgo, and
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Cancer Research
+Building I, 1650 Orleans Street, Room 186, Baltimore, MD, USA
+Ross C. Donehower
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Cancer Research
+Building I, 1650 Orleans Street, Room 186, Baltimore, MD, USA
+Abstract
+Purpose—7-Hydroxystaurosporine (UCN-01) is a protein kinase inhibitor that inhibits several
+serine–threonine kinases including PKC and PDK1. Due to the preclinical synergistic effects seen
+with topoisomerase I inhibitors and non-overlapping toxicity, UCN-01 and irinotecan were
+© Springer-Verlag 2007
+Correspondence to: Ross C. Donehower.
+donehro@jhmi.edu.
+Presented in part at the 16th EORTC-NCI-AACR Symposium on Molecular Targets and Cancer Therapeutics, September 2004.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Jimeno et al. Page 2
+combined in a dose-finding study designed to determine the maximum tolerated dose (MTD),
+toxicity profile, and pharmacokinetics (PK) of UCN-01 and irinotecan.
+Methods—Patients with incurable solid malignancies received UCN-01 intravenously (IV) as a
+3-h infusion on day 1 and irinotecan IV over 90 min on days 1 and 8 of a 21-day cycle. Doses of
+UCN-01 for subsequent cycles were half the starting dose. Dose level 1 (DL1) consisted of
+UCN-01 and irinotecan doses of 50 and 60 mg/m2, respectively. Blood samples were collected in
+cycle 1 for UCN-01, irinotecan, and irinotecan metabolites.
+Results—A total of 16 patients were enrolled on the trial at UCN-01/Irinotecan doses of 50/60
+mg/m2 (DL1; n = 1), 70/60 mg/m2 (DL2; n = 6), 90/60 mg/m2 (DL3; n = 4), and 70/90 mg/m2
+(DL4; n = 5). Two dose-limiting toxicities were observed each in DL3 and DL4 (2 grade 3
+hypophosphatemia, 1 grade 4 hyperglycemia and grade 3 hypophosphatemia, 1 grade 4 febrile
+neutropenia). Fatigue, diarrhea, nausea, and anorexia were the most prevalent toxicities. No
+objective responses were documented, and four patients had stable disease for at least ten cycles.
+The long half-life (292.0 ± 135.7 h), low clearance (0.045 ± 0.038 1/h), and volume of distribution
+(14.3 ± 5.9 l) observed for UCN-01 are consistent with prior UCN-01 data. There was a significant
+decrease in C of APC, AUC of APC and SN-38, and AUC ratio of SN-38:irinotecan when
+max
+comparing days 1 and 8 PK.
+Conclusions—APC and SN-38 exposure decreased when administered in combination with
+UCN-01. The MTD of the combination based on protocol criteria was defined as 70 mg/m2 of
+UCN-01 on day 1 and 60 mg/m2 of irinotecan on days 1 and 8 in a 21-day cycle.
+Keywords
+UCN-01; Irinotecan; Phase I; Cell cycle; G2/M checkpoint
+Introduction
+7-Hydroxystaurosporine (UCN-01) (Fig. 1) has been shown to be a selective inhibitor of a
+number of serine–threonine kinases, including the Ca2+- and phospholipid-dependent
+protein kinase C (PKC), cell cycle-specific kinases [29, 30], Chk1 [11, 36] and 3-
+phosphoinositide-dependent protein kinase-1 (PDK1) [7, 19]. UCN-01 was selected for
+clinical development because of its potent antiproliferative activity in vitro in the NCI
+human tumor cell screen against several cell lines and its antineoplastic activity in xenograft
+systems. While UCN-01 is a potent inhibitor of several important kinases, the precise
+mechanism of action for its antitumor activity is still not fully understood. In numerous
+preclinical studies it was documented that UCN-01 causes arrest of cell cycle progression at
+G /S phase and/or abrogation of arrest at G phase at concentrations that reduce PKC
+1 2
+activity, although the extent to which PKC or PDK1 modulation contributes to these effects
+remains undetermined.
+Induction of apoptosis by UCN-01 has been reported in various human cell lines, including
+MCF-7 and MDAMB453 breast carcinoma [27], A431 epidermoid carcinoma [1], A549
+NCSLC [16], U-87 and SG-388 glioma [3], and SBC-3 small cell lung cancer lines [34].
+UCN-01 has also been shown to enhance the cytotoxic properties of a variety of agents in
+human tumor cell lines [23]. At clinically relevant concentrations (20–150 nM), UCN-01
+was shown to act synergistically with thiotepa, mitomycin C, cisplatin, melphalan,
+topotecan, gemcitabine, fludarabine, and 5-fluorouracil. In particular, preclinical studies
+with UCN-01 and topoisomerase inhibitors demonstrate a synergy that is not sequence
+dependent [33].
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Jimeno et al. Page 3
+Phase I studies of UCN-01 evaluating schedules of 72-and 3-h intravenous (IV) infusions
+have been completed [9, 25]. Pharmacokinetic data from these studies revealed that the
+agent binds tightly to human alpha-1 acid glycoprotein (AAG) resulting in a long half-life of
+several weeks, small volume of distribution at steady state and low systemic clearance. To
+prevent drug accumulation UCN-01 dose was reduced by half after the first cycle in both
+schedules. The maximum tolerated dose (MTD) of UCN-01 for the 72-h schedule was 42.5
+mg/m2/day for 3 days during cycle 1 and the same dose per day for 1.5 days for subsequent
+cycles. For the 3-h schedule, the cycle 1 MTD is 95 mg/m2 of UCN-01. Significant
+toxicities seen with this agent include hyperglycemia with metabolic acidosis, nausea,
+vomiting, and hypotension. Pulmonary toxicity was seen on the 72-h infusion phase I, and
+although in the 3-h trial of single agent UCN-01 no pulmonary toxicity or dyspnea was docu
+mented, the current combination study required adequate respiratory function as entry
+criteria.
+These single-agent studies suggest that at doses close to the MTD, free UCN-01
+concentrations are in the range predicted to enhance the antitumor effect of topoisomerase
+inhibitors. A combination of UCN-01 and topotecan has been recently reported, which
+showed good tolerance and preliminary evidence of clinical activity [14]. Due to potential
+synergy and non-overlapping toxicity profiles, UCN-01 and irinotecan were combined in a
+dose-finding phase I study, designed to determine the MTD, acute and chronic toxicity
+profile, and pharmacokinetics (PK) of UCN-01 and irinotecan.
+Patients and methods
+Patient eligibility
+Patients were required to have histologically confirmed malignancy that was metastatic or
+unresectable and for which standard curative or palliative measures did not exist, age ≥18,
+ECOG performance status ≤2, life expectancy of 12 weeks or longer. Eligibility criteria also
+included adequate bone marrow, hepatic, and renal function [leukocytes ≥ 3,000/μl, absolute
+neutrophil count (ANC) ≥1.500/μl, platelet count ≥100,000/μl, glucose lower than 200 mg/
+dl, normal bilirubin level, AST or ALT levels <2.5× the upper limit of normal (ULN),
+creatinine within normal limits or creatinine clearance ≥60 ml/min/1.73 m2 for patients with
+creatinine levels above institutional normal limits], and amylase levels <2.0× the ULN.
+FEV1 > 75% of predicted, and adequate respiratory function tests (including a DLCO >
+75% of predicted) were also required. Patients could have received any prior chemotherapy
+or radiation therapy, as long as it was terminated 28 days prior to study initiation. Patients
+who had not recovered from adverse events due to agents administered more than 4 weeks
+earlier and those with clinically significant and/or uncontrolled medical conditions were
+excluded. A special focus was put on patients with diabetes mellitus, symptomatic coronary
+artery disease, or pulmonary dysfunction. The institutional review board of our institution
+granted protocol approval. Patients were required to provide written informed consent prior
+to enrollment into the study.
+Study objectives
+The primary objectives of the trial were to determine the MTD and recommended phase II
+doses of UCN-01 in combination with irinotecan, and to characterize the PKs of UCN-01
+and irinotecan when given in combination. The secondary objectives of the trial included
+gaining preliminary evidence for anti-tumor effect of the combination of UCN-01 and
+irinotecan and determining the relationship between alpha-acid glycoprotein (AAG)
+concentration and UCN-01 disposition. Adverse events were classified and graded according
+to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Jimeno et al. Page 4
+CTCAE) version 3.0. Standard RECIST were used to define response or progression [31].
+Patients were considered evaluable for toxicity and efficacy once therapy was initiated.
+Treatment plan
+7-Hydroxystaurosporine was supplied by the National Cancer Institute, Division of Cancer
+Treatment and Diagnosis, Cancer Therapy Evaluation Program. Because of the potential for
+venous irritation from UCN-01, a central port was inserted before initiation of therapy.
+Treatment consisted of UCN-01 administered IV on day 1 and irinotecan administered IV on
+days 1 and 8, both in an outpatient setting. Starting doses of UCN-01 and irinotecan were 50
+and 60 mg/m2, respectively. Due to its prolonged half-life, the UCN-01 dose was reduced by
+50% for cycles 2 and beyond. On day 1, irinotecan was administered over 90 min followed
+by UCN-01 as a 3-h infusion. A cycle consisted of 21 days. Prophylactic antiemetics
+included IV 5-HT antagonists and a single dose of glucocorticoids (dexamethasone 10 mg
+3
+IV) prior to chemotherapy. In the absence of treatment delays due to adverse events,
+treatment was administered until disease progression, intercurrent illness that prevented
+further administration of treatment, unacceptable adverse event(s), or withdrawal of consent.
+Re-treatment on day 22 required an ANC ≥1.500/μl, platelet count ≥100,000/μl, a creatinine
+clearance rate >50 ml/min, and resolution of all non-hematological toxicities (except
+alopecia and fatigue) to baseline or less than grade 1. In case of a delay longer than 14 days,
+the patient was removed from the study. The dose escalation scheme is shown in Table 1.
+Follow-up and monitoring
+Toxic events were recorded on a continuous basis, and followed until they were resolved to
+baseline or less than grade 1. Immediately prior to study entry, patients had a complete
+clinical history and physical examination, vital sign assessment, complete blood counts,
+serum biochemistry tests (albumin, alkaline phosphatase, total bilirubin, bicarbonate, BUN,
+calcium, chloride, creatinine, glucose, LDH, phosphorus, potassium, total protein, AST,
+ALT, sodium, magnesium, amylase), electrocardiogram, chest X-ray, pulmonary function
+test, and a disease assessment by computed tomography (CT) scan. CT scan of disease sites
+was repeated every two cycles. Patients on this study had serum glucose measured 2 and 24
+h after the infusion of UCN-01. History, adverse events, complete blood counts, and serum
+biochemistry tests were performed on a weekly basis, or when clinically indicated.
+Definition of dose-limiting toxicity and maximum tolerated dose
+Non-hematologic DLT was defined as any grade 3 toxicity with the exception of diarrhea or
+nausea/vomiting, or any grade 4 toxicity during the first cycle. Grade 3 diarrhea lasting more
+than 24 h despite antidiarrheals and grade 3 nausea/vomiting despite optimal antiemetics
+were also considered a DLT. Hematologic DLT was defined as any grade 4 hematologic
+toxicity except neutropenia also during the first cycle. Patients with grade 4 neutropenia for
+>5 days or presenting with neutropenic fever were classified as a DLT. Patients with
+thrombocytopenia <25,000/μl regardless of duration was classified as a DLT. An
+accelerated titration design was used for dose escalation, where one patient was treated at
+each dose level until occurrence of grade 2 or higher toxicity; when grade 2 toxicity
+occurred the cohort was expanded to a total of three patients. After this three patients were
+treated at each dose level. If no DLT was encountered in the three patients in cycle 1, dose
+escalation was allowed. If one of the three patients experienced a DLT, three more patients
+were to be enrolled at the same dose level and if none of these three additional patients
+experienced a DLT, dose escalation was allowed. The MTD was defined as the highest dose
+tested in which fewer than 33% of patients experienced DLT attributable to the study
+drug(s), when at least six patients were treated at that dose and were evaluable for toxicity.
+The MTD is the recommended Phase II dose for the combination of UCN-01 and irinotecan
+at the tested schedule.
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Jimeno et al. Page 5
+Pharmacokinetic sampling and analytic assay for irinotecan
+Pharmacokinetic studies were done in all patients during cycle 1 day 1 and cycle 1 day 8.
+Blood samples were collected at the following times: pretreatment; at 0.5 h during the
+irinotecan infusion; 5 min before the end of infusion; and postinfusion at 0.17, 0.5, 1, 2, 4,
+7.5, 24, 48, and 72 h after the end of the infusion. Blood samples were collected in
+heparinized tubes and centrifuged at 1,000×g for 10 min, and plasma was frozen at –70°C
+until the time of analysis. Total plasma concentrations (i.e., the total of lactone and
+carboxylate) of irinotecan and its metabolites SN-38, SN-38 glucuronide (SN-38G), and
+APC were determined by reverse-phase high-performance liquid chromatography with
+fluorescence detection using a modification of a procedure described previously [8, 35].
+Irinotecan, SN-38, SN-38G, and APC were quantitated over the range of 10–3,000, 2–600,
+100–600, and 2–600 ng/ml, respectively. SN-38G was measured indirectly by quantitation
+of the peak area at the retention time of SN-38G using the SN-38 calibration curve as
+previously described [8, 35]. A limited amount of SN-38G was available to confirm the
+retention time of this metabolite (Aventis Pharma, Vitro-sur-Seine Cedex, France). Quality
+assurance samples were assayed with each analytic run and were within 15% of the nominal
+concentration.
+Pharmacokinetic sampling and analytic assay for UCN-01
+Pharmacokinetic studies were done in all patients during cycle 1. Blood samples were
+collected at the following times: pretreatment; at 0.5, and 1.5 h during the infusion of
+UCN-01; 5 min before the end of infusion; and postinfusion at 0.5, 2, 4, 24, 48, and 72 h
+after the end of the infusion. Samples were also obtained at 1 and 2 weeks after the end of
+the infusion and immediately before the second infusion. Blood samples were collected in
+heparinized tubes and centrifuged at 1,000×g for 10 min, and plasma was frozen at –70°C
+until the time of analysis. Plasma samples were analyzed using a modification of a high-
+performance liquid chromatography method using an UV spectrophotometer [9]. UCN-01
+plasma concentrations were quantitated over the range of 0.1–100 μmol/l. Quality assurance
+samples were assayed with each analytic run and were within 15% of the nominal
+concentration.
+Pharmacokinetic data analysis
+Individual plasma concentrations of irinotecan and metabolites were analyzed using
+noncompartmental methods as implemented in the computer software program WinNonlin
+version 5.0 (Pharsight, Inc., Mountain View, CA, USA). The maximum plasma
+concentration (C ) was the observed value. The area under the plasma concentration-time
+max
+curve (AUC) value was calculated to the last quantifiable sample (AUC ) by use of the
+last
+linear/log trapezoidal rule. The AUC values were extrapolated to infinity (AUC ) by
+inf
+dividing the last quantifiable concentration by the terminal disposition rate constant (λz ),
+which was determined from the slope of the terminal phase of the concentration-time profile
+with a 1/[concentration]2 weight. The terminal half-life (T ) was calculated as 0.693
+1/2
+divided by λz . The clearance (Cl) was calculated by dividing the dose administered by
+AUC . Metabolic ratios were calculated from plasma AUC values and included the relative
+inf
+extent of conversion of irinotecan to its active metabolite SN-38 (i.e., AUC /
+SN-38
+AUC ), the relative extent of glucuronidation of SN-38 (i.e., AUC /AUC ), irinotecan SN-38G SN-38
+and the relative extent of metabolism of irinotecan to APC (i.e., AUC /AUC ).
+APC irinotecan
+7-Hydroxystaurosporine PKs were determined using a two-compartmental linear model.
+Individual PK parameters were estimated by the method of weighed least-squares regression
+as implemented in ADAPT II release 5.0 [6]. The model-fit parameters included V, K ,
+c 12
+K , and K. Calculated secondary PK variables included V , t , t , and Cl . AUC was
+21 e ss ½,α ½,ß s
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Jimeno et al. Page 6
+calculated as dose divided by Cl . C values were obtained from the concentration-time
+s max
+data at the end of the drug infusion.
+Statistical analysis
+Univariate linear correlation analysis was used to assess the relationship between body
+surface area (BSA) and UCN-01 AUC. ANOVA was used to determine the association
+among patient demographics and UCN-01 exposure and worst grade of hypotension and
+hyperglycemia during course 1. The method of Tukey–Kramer was used to adjust for
+multiple comparisons of mean values. The association between categorical variables was
+assessed using Fisher's exact test. Statistical analysis was done using JMP Statistical
+Discovery Software version 3.2.6 (SAS Institute, Cary, NC, USA). The a priori level of
+significance was P < 0.05.
+Results
+Patient characteristics
+Between January 2003 and January 2006, 16 patients with advanced solid tumors were
+accrued into the study. Strict entry criteria significantly hindered accrual. All patients were
+assessable for toxicity, and response could be evaluated in 14 patients. Demographic and
+clinical characteristics of the subjects are summarized in Table 2. A total of 76 cycles of the
+study regimen were delivered (median, two cycles; range 1–16).
+Dose escalation process
+Starting doses of UCN01 and irinotecan were 50 and 60 mg/m2, respectively (Table 1). No
+grade 2 or greater toxicity was observed in the first patient at dose level 1, thus dose level 2
+was opened, where UCN-01 was increased to 70 mg/m2 (Table 1). No DLTs were observed
+in dose level 2 but the cohort was increased to 3 due to a grade 2 toxicity, and thus accrual
+continued in dose level 3, where UCN-01 dose was escalated to 90 mg/m2. The third patient
+at dose level 3 experienced a grade 3 hypophosphatemia during cycle 1. Expansion was
+initiated but the fourth patient at dose level 3 experienced an episode of grade 3
+hypophosphatemia, and thus this dose level was not considered safe and no further patients
+were treated. Both patients were reduced to the prior dose level and continued therapy for an
+additional cycle without recurrence of the event. Three more patients were entered at dose
+level 2, without any DLT. In an attempt to deliver an irinotecan dose closer to the single-
+agent dose, the protocol was amended and accrual continued in dose level 4, where UCN-01
+was kept at 70 mg/m2 and irinotecan dose was escalated to 90 mg/m2. The first patient at
+dose level 4 experienced grade 3 hypophosphatemia and grade 4 hyperglycemia and
+expansion to six patients was planned. However, the fourth patient treated at this dose level
+had a grade 3 hypophosphatemia and the fifth subject was hospitalized with grade 4 febrile
+neutropenia. Dose level 2 (already expanded to six patients and with 0/6 DLTs) consisting of
+70 mg/m2 of UCN-01 on day 1 and 60 mg/m2 of irinotecan on days 1 and 8 of a 21-day
+cycle was defined as the MTD.
+Toxicity
+Treatment was generally well tolerated and in concordance with the expected side effect
+profile of both agents. The toxic events experienced during cycle 1 or during all cycles of
+therapy and thought to be possibly, probably, or likely related to UCN-01 and/or irinotecan
+are listed in Tables 3 and 4, respectively. The most common adverse events were fatigue,
+diarrhea, nausea, vomiting, anorexia, hyperglycemia, hypotension, and abdominal cramps.
+Diarrhea and abdominal cramps are thought to be related to irinotecan, whereas nausea,
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Jimeno et al. Page 7
+vomiting, hyperglycemia, and hypotension (and lightheadedness) have been consistently
+associated with UCN-01.
+A significant number of patients had laboratory abnormalities which constituted the majority
+of the grade 3–4 events, particularly during the first cycle. Eight patients experienced
+hyperglycemia in 11 courses, of which two were grade 3 and one grade 4. Patients were
+successfully managed with hypoglycemic agents and did not require dose reductions. Five
+patients had significant hypophosphatemia in 13 courses, of which five were grade 3; four of
+these grade 3 events occurred during the first cycle, constituting the principal dose-limiting
+toxicity of the combination, as detailed above. After dose reductions in the affected patients,
+the events did not recur. Infusion-related nausea, vomiting, headache, and lightheadedness
+were also likely UCN-01-related toxicities that were frequently observed. Interestingly,
+whereas nausea/vomiting occurred repeatedly over subsequent cycles of therapy
+(successfully managed with increased antiemetic therapy), headache and light-headedness
+were almost exclusively documented during the first cycle. Despite the occurrence of
+hyperglycemia, the reason for maintaining a single dose of dexamethasone prior to UCN-01
+in subsequent cohorts were that nausea and vomiting represented a toxicity that was more
+relevant clinically, and a single corticosteroid dose in non-diabetic subjects was not felt to
+substantially increase the risk of a severe hyperglycemic event. Other less frequent toxicities
+observed were hypokalemia, hyponatremia, stomatitis, fever, and facial flushing. Few
+neurologic and no pulmonary events were recorded. One patient presented with a transient,
+grade 2 episode of confusion that was attributed to concomitant medication and one patient
+presented grade 1 numbness in the perioral area that subsided spontaneously. A small
+proportion of patients experienced hematologic toxicity, although one case of grade 4 febrile
+neutropenia was documented. This event had an uncomplicated course and the patient
+recovered shortly thereafter, but was taken off the study for disease progression and thus the
+impact of reducing the dose could not be evaluated.
+Patient demographics (age, BSA, and sex), AAG concentrations, and UCN-01 plasma
+exposure (C and AUC) were not related to worst grade of hypotension or hyperglycemia
+max
+during course 1 (P > 0.08). UCN-01 AUC was related to worst grade of hypotension during
+course 1 (P = 0.02).
+Activity
+Of the 16 patients, 14 are assessable for response. In one subject progression was suspected
+clinically and documented radiologically after one course of treatment, and seven had
+progressive disease upon reevaluation after two cycles. The other six patients had stable
+disease as best response, and there were four patients (two ECOG 0, two ECOG 1) that
+received ten or more cycles of the study regimen (base of tongue carcinoma and biliary
+adenocarcinoma ten cycles each, medullary thyroid cancer 11 cycles, and colorectal
+adenocarcinoma 16 cycles), without requiring dose reductions for acute or chronic toxicities.
+Pharmacokinetics
+Plasma samples were obtained from all 16 patients for UCN-01, and PK data were evaluable
+for all patients for UCN-01 and 15 patients for irinotecan. UCN-01 plasma PK variables are
+listed in Table 5. At the MTD, 70 mg/m2 administered over 3 h, average (±standard
+deviation) values for V , t , and Cl were 14.3 ± 5.9 l, 292.0 ± 135.7 h, and 0.045 ±
+ss 1/2,ß s
+0.038 l/h, respectively. At this dose level, average (±standard deviation) values for C and
+max
+AUC were 34.7 ± 16.9 μmol/l and 10,061 ± 5,106 μmol h/1, and values for these exposure
+variables varied 4.8- and 14.5-fold, respectively.
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Jimeno et al. Page 8
+Because the dose of UCN-01 is calculated based on a patient's BSA, the relationship
+between BSA and UCN-01 PK variables were assessed. BSA was associated with neither
+UCN-01 V (R = 0.05; P = 0.85) nor Cl (R = 0.37; P = 0.16). To search for other clinical
+ss s
+variables that may be related to UCN-01 exposure, the relationships between pre-treatment
+AAG and UCN-01 PK variables were also assessed. Pre-treatment AAG concentrations
+were correlated with both UCN-01 V (R = 0.59; P = 0.06) and Cl (R = 0.56; P = 0.07) but
+ss s
+did not reach significance in this small population. Co-administration of irinotecan does not
+appear to alter UCN-01 PKs.
+Irinotecan plasma PK variables are listed in Table 6. When using a paired t-test to compare
+AUC and C on both day 1 and day 8, there was a significant reduction in SN-38 AUC (P
+max
+= 0.03), APC AUC (P = 0.04), and APC C (P = 0.03). This translated to a 50% decrease
+max
+in SN38:irinotecan AUC ratio (P = 0.03). A similar trend was observed with the
+APC:irinotecan AUC ratio (P = 0.06) but it did not reach statistical significance. The
+alteration was not observed in a significant chance in irinotecan or metabolite half-lives.
+Discussion
+7-Hydroxystaurosporine is a selective inhibitor of a number of serine–threonine kinases,
+particularly PKC, Chk1, and PDK1. Despite its level of preclinical activity against multiple
+in vivo models, the two reported phase I trials encompassing a total of 71 patients (17
+treated at the respective MTDs) showed modest antitumor activity, with one melanoma
+patient showing a partial response [9, 25]. Thus, rational combinations with cytotoxic agents
+have been conducted. Based on the observed preclinical synergy and the potentially non-
+overlapping toxicity profiles, UCN-01 and irinotecan were combined in this dose-finding
+phase I study designed to determine the MTD, acute, and chronic toxicity profile, and PK of
+UCN-01 and irinotecan. The escalation design successfully increased UCN-01 first, but
+neither further increases in UCN-01, nor escalations of irinotecan, were well tolerated. Thus
+dose level 2, consisting of 70 mg/m2 of UCN-01 on day 1 and 60 mg/m2 of irinotecan on
+days 1 and 8 of a 21-day cycle, was defined as the MTD. At this dose level no DLTs
+occurred in six treated patients. In this trial the accelerated titration design did not seem
+advantageous, possibly due to the relative (onefold) proximity of the combination starting
+doses to the single-agent tolerated doses.
+Metabolic toxicities such as hypophosphatemia and hyperglycemia constituted most of the
+grade 3–4 events, and were defined as dose-limiting. Hypophosphatemia had not previously
+been identified as dose limiting and may be unique to this combination. Hyperglycemia has
+previously been described as due to insulin resistance and may be related to UCN-01
+inhibiting PDK signaling [20]. As expected with irinotecan, diarrhea, and abdominal
+disturbances were prevalent but easily managed, and no potentiation by UCN-01 was seen.
+Interestingly, few neurological and pulmonary events occurred, suggesting a close dose-
+dependency of these toxicities with UCN-01. Hematologic toxicity was notably mild, with
+the exception of one episode of grade 4 febrile neutropenia. Another remarkable aspect was
+that none of the four patients who received ten or more cycles of the study regimen required
+dose reductions for acute or chronic toxicities, highlighting the tolerability of the
+combination at the evaluated doses.
+The molecular basis of these UCN-01-related metabolic toxicities is currently undetermined.
+Parathyroid hormone is the main phosphate regulation mechanism, and inhibits proximal
+tubular reabsorption of phosphate by retrieval of type IIa Na-PO cotransporters (Npt2a)
+4
+from the renal tubule membrane. This process is mediated by a complex equilibrium
+between the activation of both protein kinases A and C [32] that ultimately converge on the
+extracellular signal-regulated kinase/mitogen-activated protein kinase (ERK/MAPK)
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Jimeno et al. Page 9
+pathway [2]. Therefore, UCN-01-mediated PKC inhibition/modulation may disrupt this
+equilibrium and induce the observed alterations in phosphate and calcium levels. PKC is
+also involved at several steps in glucose metabolism. PKC regulates insulin action and
+degradation by interacting with insulin receptor substrates [24]. Glucose absorption control
+is mediated in part by PKC and ERK/MAPK-dependent activation and recruitment of
+glucose transporters to the intestinal membrane [13, 18]. Glucose and fatty acid uptake by
+tissues is also mediated in part by PKC modulation [21], and PKC has been proposed to
+have a pathogenic impact in diabetes, as PKC-beta and other PKC isoenzymes have been
+implicated in the loss of endothelial barrier function in diabetic micro-angiopathy [15]. The
+complexities of these control mechanisms are evidenced by the observation of opposite
+effects on the same pathway, as although hyperglycemia was predominant, hypoglycemia
+was also documented.
+Similar to results from the phase I study of 72-h infusions [25] and shorter infusion times of
+1–3 h [9], UCN-01 exhibited a long half-life (292 h), low clearance (0.045 l/h), and marked
+variability in AUC values (~15-fold). The long half-life has been attributed in part to high-
+affinity binding to AAG which only has a half-life of (3–5 days) [10, 25]. As with other
+studies, we saw no relationship between AAG and several PK parameters [9, 28]. Not
+unexpectedly, there were no correlations between increasing UCN-01 exposure and
+increasing grade of toxicity which is consistent with previous single agent trials [9].
+Since irinotecan is highly susceptible to CYP3A4 and ABCB1 inhibition [17] and induction
+[22] in humans, alterations to the PKs are anticipated with agents that modulate these
+proteins. A limitation of the current study was not performing a PK assessment of irinotecan
+alone to determine the true interaction since UCN-01 was present during both day 1 and day
+8. Despite this, a significant decrease in both CYP3A4 and carboxylesterase-mediated
+pathways was observed by 8 days of continual exposure to UCN-01. A previous study
+demonstrated that ABCB1 was not induced in the presence of UCN-01 in the lung cancer
+cell line A549 [5]. Currently, there appears to be no published literature on the alteration of
+CYP3A4 with UCN-01. Therefore, the mechanisms behind this possible drug interaction are
+unknown.
+A study combining of UCN-01 and topotecan has been reported, showing good tolerance
+and preliminary evidence of clinical activity in platinum-refractory ovarian cancer patients
+[14]. The recommended phase II schedule was UCN-01 70 mg/m2 as a 3-h infusion on day
+1, followed by topotecan 1.0 mg/m2 infused over 30 minutes on days 1–5. The authors
+reported a profile of non-hematological toxicities that resembles the currently presented
+data, consisting of hyperglycemia, infection, coagulation abnormalities, fatigue,
+hypotension, nausea, and hypomagnesemia. However, hematologic toxicities occurred
+universally in that study, supporting the known higher myelotoxicity of topotecan when
+compared with irinotecan. A subsequent phase II study of this combination in patients with
+ovarian cancer is underway. Unfortunately the PK analysis did not include topotecan, and
+thus we cannot ascertain whether the interaction observed with irinotecan is agent-or family-
+specific.
+The significance and potential use of this combination is uncertain, as it is not clear at this
+point whether UCN-01 will continue its clinical development. However, as a class of agents
+PKC inhibitors are showing promise. Enzastaurin is an orally available PKC beta inhibitor
+that displays proapoptotic properties against a spectrum of malignancies and is currently
+being investigated in clinical trials [4, 12].
+In summary, the combination of UCN-01 and irinotecan at clinically relevant doses for both
+agents was shown to have an acceptable toxicity profile in patients with advanced solid
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Jimeno et al. Page 10
+malignancies. While UCN-01 was not affected by irinotecan, irinotecan and SN38 exposure
+decreased when administered in combination with UCN-01.
+Acknowledgments
+UO1 program CA 70095, Commonwealth Foundation for Cancer Research, American Society of Clinical Oncology
+Young Investigator Award (A.J.).
+References
+1. Akinaga S, Nomura K, Gomi K, Okabe M. Effect of UCN-01, a selective inhibitor of protein kinase
+C, on the cell-cycle distribution of human epidermoid carcinoma, A431 cells. Cancer Chemother
+Pharmacol. 1994; 33:273–280. [PubMed: 7506638]
+2. Bacic D, Schulz N, Biber J, Kaissling B, Murer H, Wagner CA. Involvement of the MAPK-kinase
+pathway in the PTH-mediated regulation of the proximal tubule type IIa Na+/Pi co-transporter in
+mouse kidney. Pflugers Arch. 2003; 446:52–60. [PubMed: 12690463]
+3. Bredel M, Pollack IF, Freund JM, Rusnak J, Lazo JS. Protein kinase C inhibition by UCN-01
+induces apoptosis in human glioma cells in a time-dependent fashion. J Neurooncol. 1999; 41:9–20.
+[PubMed: 10222418]
+4. Carducci MA, Musib L, Kies MS, et al. Phase I dose escalation and pharmacokinetic study of
+enzastaurin, an oral protein kinase C beta inhibitor, in patients with advanced cancer. J Clin Oncol.
+2006; 24:4092–4099. [PubMed: 16943527]
+5. Courage C, Bradder SM, Jones T, Schultze-Mosgau MH, Gescher A. Characterisation of novel
+human lung carcinoma cell lines selected for resistance to anti-neoplastic analogues of
+staurosporine. Int J Cancer. 1997; 73:763–768. [PubMed: 9398059]
+6. D'Argenio DZ, Schumitzky A. A program package for simulation and parameter estimation in
+pharmacokinetic systems. Comput Programs Biomed. 1979; 9:115–134. [PubMed: 761456]
+7. Dasmahapatra GP, Didolkar P, Alley MC, Ghosh S, Sausville EA, Roy KK. In vitro combination
+treatment with perifosine and UCN-01 demonstrates synergism against prostate (PC-3) and lung
+(A549) epithelial adenocarcinoma cell lines. Clin Cancer Res. 2004; 10:5242–5252. [PubMed:
+15297428]
+8. de Bruijn P, Willems EW, Loos WJ, Verweij J, Sparreboom A. determination of the irinotecan
+metabolite 7-ethyl-10-O-glucuronyl-camptothecin in human samples. Anal Biochem. 2004; 328:84–
+86. [PubMed: 15081912]
+9. Dees EC, Baker SD, O'Reilly S, et al. A phase I and pharmacokinetic study of short infusions of
+UCN-01 in patients with refractory solid tumors. Clin Cancer Res. 2005; 11:664–671. [PubMed:
+15701854]
+10. Fuse E, Tanii H, Kurata N, et al. Unpredicted clinical pharmacology of UCN-01 caused by specific
+binding to human alpha1-acid glycoprotein. Cancer Res. 1998; 58:3248–3253. [PubMed:
+9699650]
+11. Graves PR, Yu L, Schwarz JK, et al. The Chk1 protein kinase and the Cdc25C regulatory pathways
+are targets of the anti-cancer agent UCN-01. J Biol Chem. 2000; 275:5600–5605. [PubMed:
+10681541]
+12. Green LJ, Marder P, Ray C, et al. Development and validation of a drug activity biomarker that
+shows target inhibition in cancer patients receiving enzastaurin, a novel protein kinase C-beta
+inhibitor. Clin Cancer Res. 2006; 12:3408–3415. [PubMed: 16740765]
+13. Helliwell PA, Rumsby MG, Kellett GL. Intestinal sugar absorption is regulated by phosphorylation
+and turnover of protein kinase C betaII mediated by phosphatidylinositol 3-kinase- and
+mammalian target of rapamycin-dependent pathways. J Biol Chem. 2003; 278:28644–28650.
+[PubMed: 12766174]
+14. Hotte SJ, Oza A, Winquist EW, et al. Phase I trial of UCN-01 in combination with topotecan in
+patients with advanced solid cancers: a Princess Margaret Hospital Phase II Consortium study.
+Ann Oncol. 2006; 17:334–340. [PubMed: 16284058]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Jimeno et al. Page 11
+15. Idris I, Gray S, Donnelly R. Protein kinase C-beta inhibition and diabetic microangiopathy: effects
+on endothelial permeability responses in vitro. Eur J Pharmacol. 2004; 485:141–144. [PubMed:
+14757134]
+16. Kawakami K, Futami H, Takahara J, Yamaguchi K. UCN-01, 7-hydroxyl-staurosporine, inhibits
+kinase activity of cyclin-dependent kinases and reduces the phosphorylation of the retinoblastoma
+susceptibility gene product in A549 human lung cancer cell line. Biochem Biophys Res Commun.
+1996; 219:778–783. [PubMed: 8645257]
+17. Kehrer DF, Mathijssen RH, Verweij J, de Bruijn P, Sparreboom A. Modulation of irinotecan
+metabolism by ketoconazole. J Clin Oncol. 2002; 20:3122–3129. [PubMed: 12118026]
+18. Kellett GL. The facilitated component of intestinal glucose absorption. J Physiol. 2001; 531:585–
+595. [PubMed: 11251042]
+19. Komander D, Kular GS, Bain J, Elliott M, Alessi DR, Van Aalten DM. Structural basis for
+UCN-01 (7-hydroxystaurosporine) specificity and PDK1 (3-phosphoinositide-dependent protein
+kinase-1) inhibition. Biochem J. 2003; 375:255–262. [PubMed: 12892559]
+20. Kortmansky J, Sauter N, O'Reilly E. Management of hyperglycemia in patients with metastatic
+pancreatic cancer receiving UCN-01 and fluorouracil (2004 ASCO annual meeting proceedings
+(post-meeting edn)). J Clin Oncol. 2004; 22(14S (July 15 Suppl)):2140.
+21. Luiken JJ, Coort SL, Koonen DP, Bonen A, Glatz JF. Signalling components involved in
+contraction-inducible substrate uptake into cardiac myocytes. Proc Nutr Soc. 2004; 63:251–258.
+[PubMed: 15294039]
+22. Mathijssen RH, Verweij J, de Bruijn P, Loos WJ, Sparreboom A. Effects of St John's wort on
+irinotecan metabolism. J Natl Cancer Inst. 2002; 94:1247–1249. [PubMed: 12189228]
+23. Monks A, Harris ED, Vaigro-Wolff A, Hose CD, Connelly JW, Sausville EA. UCN-01 enhances
+the in vitro toxicity of clinical agents in human tumor cell lines. Invest New Drugs. 2000; 18:95–
+107. [PubMed: 10857990]
+24. Oriente F, Andreozzi F, Romano C, et al. Protein kinase C-alpha regulates insulin action and
+degradation by interacting with insulin receptor substrate-1 and 14-3-3 epsilon. J Biol Chem.
+2005; 280:40642–40649. [PubMed: 16216880]
+25. Sausville EA, Lush RD, Headlee D, et al. Clinical pharmacology of UCN-01: initial observations
+and comparison to preclinical models. Cancer Chemother Pharmacol. 1998; 42(Suppl):S54–S59.
+[PubMed: 9750030]
+26. Sausville EA, Arbuck SG, Messmann R, et al. Phase I trial of 72-hour continuous infusion
+UCN-01 in patients with refractory neoplasms. J Clin Oncol. 2001; 19:2319–2333. [PubMed:
+11304786]
+27. Seynaeve CM, Stetler-Stevenson M, Sebers S, Kaur G, Sausville EA, Worland PJ. Cell cycle arrest
+and growth inhibition by the protein kinase antagonist UCN-01 in human breast carcinoma cells.
+Cancer Res. 1993; 53:2081–2086. [PubMed: 7683251]
+28. Sparreboom A, Chen H, Acharya MR, et al. Effects of alpha1-acid glycoprotein on the clinical
+pharmacokinetics of 7-hydroxystaurosporine. Clin Cancer Res. 2004; 10:6840–6846. [PubMed:
+15501960]
+29. Takahashi I, Kobayashi E, Asano K, Yoshida M, Nakano H. UCN-01, a selective inhibitor of
+protein kinase C from Streptomyces. J Antibiot (Tokyo). 1987; 40:1782–1784. [PubMed:
+3429345]
+30. Takahashi I, Saitoh Y, Yoshida M, et al. UCN-01 and UCN-02, new selective inhibitors of protein
+kinase C. II. Purification, physico-chemical properties, structural determination and biological
+activities. J Antibiot (Tokyo). 1989; 42:571–576. [PubMed: 2656615]
+31. Therasse P, Arbuck SG, Eisenhauer EA, et al. New guidelines to evaluate the response to treatment
+in solid tumors. European Organization for Research and Treatment of Cancer, National Cancer
+Institute of the United States, National Cancer Institute of Canada. J Natl Cancer Inst. 2000;
+92:205–216. [PubMed: 10655437]
+32. Traebert M, Volkl H, Biber J, Murer H, Kaissling B. Luminal and contraluminal action of 1-34 and
+3-34 PTH peptides on renal type IIa Na-P(i) cotransporter. Am J Physiol Renal Physiol. 2000;
+278:F792–F798. [PubMed: 10807591]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Jimeno et al. Page 12
+33. Tse AN, Schwartz GK. Potentiation of cytotoxicity of topoisomerase i poison by concurrent and
+sequential treatment with the checkpoint inhibitor UCN-01 involves disparate mechanisms
+resulting in either p53-independent clonogenic suppression or p53-dependent mitotic catastrophe.
+Cancer Res. 2004; 64:6635–6644. [PubMed: 15374978]
+34. Usuda J, Saijo N, Fukuoka K, et al. Molecular determinants of UCN-01-induced growth inhibition
+in human lung cancer cells. Int J Cancer. 2000; 85:275–280. [PubMed: 10629089]
+35. van Erp NP, Baker SD, Zhao M, et al. Effect of milk thistle (Silybum marianum) on the
+pharmacokinetics of irinotecan. Clin Cancer Res. 2005; 11:7800–7806. [PubMed: 16278402]
+36. Yu Q, La Rose J, Zhang H, Takemura H, Kohn KW, Pommier Y. UCN-01 inhibits p53 up-
+regulation and abrogates gamma-radiation-induced G(2)-M checkpoint independently of p53 by
+targeting both of the checkpoint kinases, Chk2 and Chk1. Cancer Res. 2002; 62:5743–5748.
+[PubMed: 12384533]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+Jimeno et al. Page 13
+Fig. 1.
+Chemical structure of UCN-01
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Jimeno et al. Page 14
+1
+elbaT
+emehcs
+noitalacse
+esoD
+sTLD
+fo
+rebmuN
+stneitap
+fo
+rebmuN
+)2m/gm(
+nacetonirI
+)2m/gm(
+)+2
+selcyc(
+10-NCU
+)2m/gm(
+)1
+elcyc(
+10-NCU
+level
+esoD
+0
+1
+06
+52
+05
+1
+0
+6
+06
+53
+07
+2
+2
+4
+06
+54
+09
+3
+3
+5
+09
+53
+07
+4
+yticixot
+gnitimil-esogT
+LD
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Jimeno et al. Page 15
+Table 2
+Patient characteristics
+Characteristics No. of patients
+No. of patients 16
+Sex (male/female) 11/5
+Age (years), median (range) 59 (34–75)
+Eastern Cooperative Oncology Group Performance Status
+0 6
+1 10
+Primary tumor site
+Colorectal 4
+Pancreas (adenocarcinoma) 2
+Pancreas (neuroendocrine) 1
+Biliary 1
+Duodenal 1
+Hepatocellular 1
+Base of tongue (adenocystic carcinoma) 1
+Mesothelioma 1
+Thyroid (medullary) 1
+Ovary 1
+Skin (merkel cell) 1
+Unknown primary (adenocarcinoma) 1
+Prior regimens for advanced disease
+0–2 12
+3 or more 4
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Jimeno et al. Page 16
+3
+elbaT
+stneitap
+erom
+ro
+owt
+ni
+gnitneserp
+)1
+elcyc(
+yticixot
+cigolotameh
+dna
+cigolotamehnon
+fo yrammuS
+)nacetoniri/10-NCU(
+level
+esod
+yb
+stneve
+yticixoT
+stneitaP
+yticixoT
+)5
+=
+n(
+09/07
+)4
+=
+n(
+06/09
+)6
+=
+n(
+06/07
+)1
+=
+n(
+06/05
+4–3
+2–1
+4–3
+2–1
+4–3
+2–1
+4–3
+2–1
+cigolotamehnoN
+1
+2
+3
+1
+3
+1
+11
+aehrraiD
+3
+2
+5
+01
+eugitaF
+4
+1
+2
+1
+2
+01
+aesuaN
+3
+1
+2
+1
+2
+9
+gnitimoV
+3
+1
+4
+8
+aixeronA
+3
+2
+1
+6
+ehcadaeH
+4
+1
+1
+6
+noisnetopyH
+2
+2
+2
+6
+siserohpaiD
+1
+2
+1
+1
+5
+aimecylgrepyH
+1
+1
+3
+5
+gnipmarC
+2
+2
+4
+aimetahpsohpopyH
+1
+1
+1
+3
+ssendedaehthgiL
+1
+2
+3
+reveF
+3
+3
+TLA
+detavelE
+cigolotameH
+2
+1
+3
+aimenA
+2
+2
+ainepohpmyL
+2
+2
+ainepokueL
+1
+1
+aineportuen
+elirbeF
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+
+--- Page 17 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Jimeno et al. Page 17
+4
+elbaT
+stneitap
+erom
+ro
+owt
+ni
+gnitneserp
+)selcyc
+lla(
+yticixot
+cigolotameh
+dna
+cigolotamehnon
+fo yrammuS
+)nacetoniri/10-NCU(
+level
+esod
+yb
+stneve
+yticixoT
+sesruoC
+stneitaP
+yticixoT
+)5
+=
+n(
+09/07
+)4
+=
+n(
+06/09
+)6
+=
+n(
+06/07
+)1
+=
+n(
+06/05
+4–3
+2–1
+4–3
+2–1
+4–3
+2–1
+4–3
+2–1
+cigolotamehnoN
+3
+4
+9
+9
+52
+31
+eugitaF
+1
+3
+11
+1
+9
+1
+5
+13
+11
+aehrraiD
+5
+1
+6
+2
+4
+81
+01
+aesuaN
+3
+6
+6
+51
+01
+aixeronA
+4
+1
+4
+1
+4
+41
+9
+gnitimoV
+1
+4
+1
+1
+1
+2
+11
+8
+aimecylgrepyH
+3
+3
+1
+7
+7
+ehcadaeH
+2
+1
+4
+1
+8
+6
+gnipmarC
+1
+4
+1
+1
+7
+6
+noisnetopyH
+2
+2
+3
+7
+6
+siserohpaiD
+2
+2
+2
+6
+21
+5
+aimetahpsohpopyH
+1
+1
+1
+1
+1
+5
+5
+ssendedaehthgiL
+1
+1
+2
+4
+4
+noitapitsnoC
+2
+1
+3
+3
+aimelakopyH
+2
+1
+3
+3
+sititamotS
+1
+2
+3
+3
+reveF
+3
+3
+2
+TLA
+detavelE
+1
+2
+3
+2
+hsaR
+1
+1
+2
+2
+aimertanopyH
+1
+1
+2
+2
+gnihsulf
+laicaF
+cigolotameH
+2
+2
+7
+11
+4
+aimenA
+2
+2
+2
+ainepohpmyL
+2
+2
+2
+ainepokueL
+1
+1
+1
+aineportuen
+elirbeF
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+
+--- Page 18 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Jimeno et al. Page 18
+5
+elbaT
+10-NCU
+fo
+sretemarap
+scitenikocamrahp
+fo
+yrammuS
+selbairav
+citenikocamrahP
+)h(
+noitarud
+noisufnI
+stneitap
+fo
+.oN
+)2m/gm(
+esod
+10-NCU
+level
+esoD
+)h/l(
+s lC
+)h(
+β,2/1
+T
+)l(
+ss V
+)l/h
+lomμ(
+CUA
+)l/lomμ(
+xam
+C
+240.0
+402
+2.21
+500,4
+8.91
+07.2
+1
+05
+1
+750.0
+±
+150.0
+7.731
+±
+2.382
+3.4
+±
+7.31
+261,5
+±
+289,9
+9.02
+±
+1.73
+01.0
+±
+37.2
+6
+07
+2
+530.0
+±
+050.0
+2.281
+±
+4.143
+5.8
+±
+0.91
+198,31
+±
+625,21
+6.22
+±
+6.13
+11.0
+±
+56.2
+4
+09
+3
+710.0
+±
+330.0
+6.521
+±
+6
+082
+8.4
+±
+8.11
+346,5
+±
+751,01
+7.21
+±
+8.13
+21.0
+±
+89.2
+5
+07
+4
+340.0
+±
+340.0
+7.521
+±
+0.282
+4.4
+±
+8.21
+601,5
+±
+160,01
+9.61
+±
+7.43
+71.0
+±
+48.2
+11
+07
+4
+dna
+2
+830.0
+±
+540.0
+7.531
+±
+0.292
+9.5
+±
+3.41
+71.0
+±
+87.2
+61
+llA
+noitaived
+dradnats
+±
+naem
+eht
+sa
+detroper
+era
+seulaV
+ecnaraelc
+cimetsyss
+lC
+,etats-ydaets
+ta
+noitubirtsid
+fo
+emulovs
+sV
+,efil-flah
+lanimret
+β
+,2/1T
+,noitartnecnoc
+amsalp
+lamixamx
+amC
+,evruc
+emit-noitartnecnoc
+eht
+rednu
+aeraC
+UA
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.
+
+--- Page 19 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Jimeno et al. Page 19
+6
+elbaT
+setilobatem
+sti dna
+nacetoniri
+fo
+sretemarap
+scitenikocamrahp
+fo
+yrammuS
+selbairav
+citenikocamrahP
+level
+esoD
+stneitap
+fo
+.oN
+)2m/gm(
+esod
+nacetonirI
+)h( T
+oitar
+CUA
+nacetoniri:etilobateM
+)lm/h
+gn(
+CUA
+)lm/gn(
+C
+2/1
+xam
+8D
+lD
+8D
+lD
+8D
+lD
+8D
+lD
+7.8
+± 5.8
+8.1 ± 9.5
+664,4
+± 765,6
+781,2
+±
+435,5
+504
+±
+302,1
+492
+± 060,1
+01
+06
+3
+dna
+,2
+,1
+nacetonirI
+)7 =n (
+)7
+=n
+(
+1.7
+±
+9.31
+0.6
+± 2.01
+215,1
+± 349,4
+564,1
+±
+525,5
+153
+±
+619
+311
+± 810,1
+5
+09
+4
+3.8
+±
+4.01
+6.4± 9.7
+51
+llA
+)21 =n (
+2.71
+±
+2.81
+2.8
+± 4.11
+=n
+( 30.0
+±
+50.0
+n(
+70.0±
+21.0
+742
+±
+543
+515
+±
+275
+42
+± 03
+42 ± 04
+01
+06
+3
+dna
+,2
+,1
+83-NS
+)8
+=n
+(
+)8
+)7
+=
+5.72
+±
+4.24
+± 6.23
+50.0
+±
+80.0
+60.0
+±
+90.0
+943
+±
+164
+n(
+291
+±
+644
+11
+± 32
+8 ± 42
+5
+09
+4
+=n ( 7.22
+)3
+=n
+(
+)3
+=
+)3
+3.42
+±
+3.82
+± 7.61
+=n
+( 40.0
+±
+60.0
+n(
+70.0±
+11.0
+51
+llA
+)31
+=n
+(
+=n ( 3.51
+)31
+)01
+=
+)21
+3.2
+± 7.6
+2.2 ± 3.7
+32.0
+±
+13.0
+62.0
+±
+25.0
+443,1
+± 056,1
+483,1
+±
+705,2
+721
+±
+671
+441 ± 322
+01
+06
+3
+dna
+,2
+,1
+CPA
+)7
+=n
+(
+4.11
+±
+9.31
+3.7
+± 9.31
+42.0
+±
+53.0
+81.0
+±
+83.0
+746,1
+± 849,1
+494,1
+±
+723,2
+85
+±
+511
+06 ± 921
+5
+09
+4
+)4 =n (
+)4
+=n
+(
+)4
+=n
+(
+5.7
+± 3.9
+2.5 ± 3.9
+22.0
+±
+23.0
+32.0
+±
+74.0
+51
+llA
+)31 =n (
+)11
+=n
+(
+2.1
+± 0.5
+9.2 ± 0.6
+=n
+( 21.0
+±
+05.0
+22.0
+±
+07.0
+427
+± 914,3
+892
+±
+312,4
+461
+±
+374
+561 ± 273
+01
+06
+3
+dna
+,2
+,1
+G83-NS
+)3
+=n
+(
+)3 =n (
+)3
+)3
+=n
+(
+)3
+=n
+(
+)3
+=n
+(
+)3
+=n
+(
+)4 =n (
+8.71
+,7.7
+)0 =n (
+)2
+=n
+(
+97.0
+,65.0
+)0
+=n
+(
+449,4
+,176,2
+)0
+=n
+(
+n(
+412
+,681
+)1
+=n ( 151
+5
+09
+4
+)2
+=n
+(
+)2
+=n
+(
+)2
+=
+6.5
+± 1.8
+9.2 ± 0.6
+=n
+( 51.0
+±
+75.0
+22.0
+±
+07.0
+51
+llA
+)5
+=n
+(
+)3 =n (
+)5
+)3
+=n
+(
+2
+<n
+nehw detroper
+era
+eulav
+lautcA
+.noitaived
+dradnats
+±
+naem
+eht
+sa
+detroper
+e
+ra
+seulaV
+efil-flah
+lanimret
+2/1T
+,noitartnecnoc
+amsalp
+lamixamx
+amC
+,evruc
+emit-noitartnecnoc
+eht
+rednu
+aeraC
+UA
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2013 January 28.

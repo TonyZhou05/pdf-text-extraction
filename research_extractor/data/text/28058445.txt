@@ -1,0 +1,2395 @@
+Source: 28058445.pdf
+Extracted on: Fri Sep 12 23:59:42 PDT 2025
+==================================================
+
+--- Page 1 ---
+Cancer Chemother Pharmacol (2017) 79:339–351
+DOI 10.1007/s00280-016-3210-8
+ORIGINAL ARTICLE
+Safety and pharmacokinetics of cabazitaxel in patients
+with hepatic impairment: a phase I dose‑escalation study
+John Sarantopoulos1 · Alain C. Mita2 · Aiwu He3 · James L. Wade4 · Chung‑Tsen Hsueh5 · John C. Morris6 ·
+A. Craig Lockhart7 · David I. Quinn8 · Jimmy Hwang3 · James Mier9 · Wenping Zhang10 · Claudine Wack11 ·
+Jian Yin10 · Pierre‑François Clot11 · Olivier Rixe12
+Received: 14 June 2016 / Accepted: 29 November 2016 / Published online: 5 January 2017
+© The Author(s) 2017. This article is published with open access at Springerlink.com
+Abstract was lower in C-1 (geometric mean [GM] 13.4 L/h/m2) than
+Purpose Cabazitaxel has not been studied in patients expected (26.4 L/h/m2), but similar in C-2 (23.5 L/h/m2)
+with hepatic impairment (HI). This phase I study assessed and C-3 (27.9 L/h/m2). CL/BSA in C-4 was 18.1 L/h/m2.
+cabazitaxel safety and pharmacokinetics in patients with Compared with C-2, CL/BSA increased 19% in C-3 (GM
+HI. ratio 1.19; 90% CI 0.74–1.91), but decreased 23% in C-4
+Methods Patients with advanced, non-hematologic cancer, (0.77; 0.39–1.53). Cabazitaxel free fraction was unaltered.
+and normal hepatic function (Cohort 1: C-1), or mild (C-2), No significant correlation was found between grade 3–4
+moderate (C-3), severe (C-4) HI received cabazitaxel start- toxicities and pharmacokinetic parameters.
+ing doses of 25, 20, 10, and 10 mg/m2, respectively. Doses Conclusions Mild–moderate HI did not cause substantial
+were escalated in patients with HI based on Cycle 1 dose- decline in cabazitaxel clearance. Cabazitaxel dose reduc-
+limiting toxicities (DLTs). Adverse events and the cabazi- tions in patients with mild–moderate HI, and a contrain-
+taxel pharmacokinetic profile were assessed. dication in patients with severe HI, are justified based on
+Results In C-2, three patients receiving cabazitaxel 25 mg/ safety data.
+m2 experienced DLTs; maximum tolerated dose (MTD)
+was 20 mg/m2. In C-3, two patients receiving 20 mg/m2 Keywords Cabazitaxel · Hepatic impairment · Maximum
+experienced DLTs; MTD was 15 mg/m2. C-4 was discon- tolerated dose · Pharmacokinetics · Phase I
+tinued early due to DLTs. The most frequent cabazitaxel-
+related, grade 3–4 toxicity was neutropenia (42%). Cabazi-
+taxel clearance normalized to body surface area (CL/BSA)
+* Olivier Rixe 6 Division of Hematology-Oncology, Department of Medicine,
+ORixe@salud.unm.edu University of Cincinnati Cancer Institute, Cincinnati,
+OH, USA
+1 Institute for Drug Development, Cancer Therapy
+7 Siteman Cancer Center, Washington University School
+and Research Center, University of Texas Health Science
+of Medicine, St. Louis, MO, USA
+Center at San Antonio, San Antonio, TX, USA
+8 University of Southern California Norris Comprehensive
+2 Samuel Oschin Comprehensive Cancer Institute,
+Cancer Center, Los Angeles, CA, USA
+Cedars-Sinai Medical Center, Los Angeles, CA, USA
+9 Department of Medicine, Dana-Farber/Harvard Cancer
+3 Department of Medicine and Oncology and Innovation
+Center, Beth Israel Deaconess Medical Center, Boston,
+Center for Biomedical Informatics, Lombardi Comprehensive
+MA, USA
+Cancer Center, Georgetown University, Washington,
+DC, USA 10 Sanofi, Bridgewater, NJ, USA
+4 Division of Medical Oncology/Hematology, Cancer Care 11 Sanofi, Chilly-Mazarin, France
+Center of Decatur, Decatur, IL, USA
+12 Division of Hematology/Oncology, Comprehensive Cancer
+5 Division of Medical Oncology/Hematology, Loma Linda Center, University of New Mexico, Albuquerque, NM, USA
+University, Loma Linda, CA, USA
+1 3
+
+--- Page 2 ---
+3 40 Cancer Chemother Pharmacol (2017) 79:339–351
+Introduction patients at MTD in Cohort 2, six patients at MTD in Cohort
+3, and six patients at MTD in Cohort 4, in order to evaluate
+Cabazitaxel, a second-generation semisynthetic taxane, the safety and PK profile of cabazitaxel.
+has demonstrated activity in the second-line treatment of
+metastatic castration-resistant prostate cancer (mCRPC) Patients
+after progression on docetaxel-based treatment [1]. Cabazi-
+taxel is approved in combination with prednisone or pred- Eligible patients were aged 18 years with a life expectancy
+≥
+nisolone for mCRPC [1–3]. Similar to the first-generation of >3 months, diagnosed with metastatic or locally advanced
+taxanes, paclitaxel and docetaxel, cabazitaxel is primar- non-hematologic cancer for which no effective curative ther-
+ily metabolized by the liver, mainly by cytochrome P450 apy was available, had refractory or progressive disease fol-
+CYP3A4/5 isoenzyme and, to a lesser extent, CYP2C8, and lowing standard therapies, and had normal hepatic function
+is excreted in the bile via the feces [2, 4, 5]. or chronic hepatic impairment. Patients were enrolled into
+Hepatic impairment may have an unpredictable impact one of four cohorts based on their degree of hepatic function,
+on the pharmacokinetics (PK) of chemotherapies metabo- defined using National Cancer Institute (NCI) criteria [12].
+lized by the liver, and low serum albumin levels associated Cohort 1 had normal hepatic function, defined as total bili-
+with hepatic impairment can result in an increased fraction rubin and aspartate aminotransferase (AST) institutional
+≤
+of free drug leading to increased toxicity [6–9]. Based on upper limit of normal (ULN); Cohort 2 had mild hepatic
+this, clinical trials have generally excluded patients with impairment, defined as total bilirubin >1.0 to 1.5 ULN
+≤ ×
+significant hepatic impairment. For many chemotherapy or AST >1.5 ULN; Cohort 3 had moderate hepatic impair-
+×
+agents, there are no specific data to guide chemotherapy ment, defined as total bilirubin >1.5 to 3.0 ULN; and
+≤ ×
+dosing in patients with hepatic impairment and current rec- Cohort 4 had severe hepatic impairment, defined as total bili-
+ommendations remain empiric. rubin >3.0 to 10.0 ULN. Stable liver function or dysfunc-
+×
+As previous studies of cabazitaxel in solid tumors tion was required. Key exclusion criteria included Eastern
+excluded patients with hepatic impairment, the safety pro- Cooperative Oncology Group (ECOG) performance status
+file of cabazitaxel in this subgroup has not been established >2, prior bone marrow transplant or cabazitaxel, known brain
+[1, 10]. Here, we present the results of a study that exam- metastases, history of Gilbert’s syndrome or grade 3 hyper-
+≥
+ined the PK and safety profile of cabazitaxel in patients sensitivity to taxanes, polysorbate 80 or similar compounds,
+with varying degrees of hepatic impairment. prior anticancer therapy <3 weeks before study initiation,
+concurrent or planned participation in another clinical trial,
+expected need for major surgery or radiation therapy during
+Materials and methods the study, other concurrent serious illness, acute or chronic
+medical illness or psychiatric condition that might affect the
+Study design trial results or the patients’ ability to participate. Patients with
+significant laboratory abnormalities requiring further investi-
+This was an open-label, dose-escalation, multicenter, phase gation, unresolved significant toxicity from prior therapy, or
+I study (NCT01140607) of cabazitaxel in patients with inadequate organ function were also excluded.
+non-hematologic cancers and varying degrees of hepatic
+function. This study was designed to evaluate the maximum Study treatment
+tolerated dose (MTD) and safety, and assess the PK prop-
+erties and relationship between PK and safety parameters, Patients received cabazitaxel during a 1-hour intravenous
+of cabazitaxel in patients with varying degrees of hepatic (IV) infusion on Day 1 of each 3-week cycle until unac-
+impairment. A similar design was employed in the study of ceptable toxicity, disease progression, withdrawal of
+irinotecan in patients with hepatic dysfunction [11]. This consent, investigator decision, or study cutoff. Different
+study was approved by ethics committees/review boards at starting doses of cabazitaxel were used for each cohort
+all participating institutions, and all patients provided writ- based on information from the BEX6702 study [13]. The
+ten informed consent prior to participation. According to cabazitaxel starting dose (dose level [DL] 0) was based on
+the cabazitaxel dose-escalation schedule and dose-escala- the level of hepatic function: Cohort 1 (normal function)
+tion decision rules defined in the protocol, which specified received 25 mg/m2, Cohort 2 (mild hepatic impairment)
+different starting dose levels for each cohort and were based received 20 mg/m2, and Cohorts 3 and 4 (moderate or
+on the number of dose-limiting toxicities (DLTs) observed severe hepatic impairment) received 10 mg/m2. The start-
+at the different dose levels, a total of 39–75 patients were ing dose for Cohort 4 was decided by the Study Committee
+expected to be enrolled. This sample size would ensure based on safety and PK findings in the first three patients
+that at least six patients would be enrolled in Cohort 1, 12 treated in Cohort 3. Doses were adjusted in Cohorts 2, 3,
+1 3
+
+--- Page 3 ---
+Cancer Chemother Pharmacol (2017) 79:339–351 341
+and 4 based on DLTs observed in Cycle 1. In Cohort 2, area under the concentration versus time curve calculated
+doses were adjusted to 15 mg/m2 (DL –1) or 25 mg/m2 using the trapezoidal method from time 0 to real-time t
+last
+(DL 1), and in Cohorts 3 and 4, doses were adjusted to (AUC ), terminal half-life (t ), total body clearance
++ last 1/2z
+15 mg/m2 (DL 1), 20 mg/m2 (DL 2), or 25 mg/m2 (DL (CL), and volume of distribution at steady state (V ). CL
++ + ss
+3). If a Cycle 1 DLT was observed in at least two of up and V were normalized to body surface area (BSA; CL/
++ ss
+to six patients at a given dose level, no further dose escala- BSA, V /BSA). Effect of hepatic impairment on cabazi-
+ss
+tion occurred. If a Cycle 1 DLT occurred in one of the first taxel PK parameters (CL/BSA and dose-normalized expo-
+three patients treated at a given dose level, three additional sure parameters [AUC/dose]) was evaluated using linear
+patients received that dose. The MTD was the highest dose mixed-effect modelling with degree of hepatic impair-
+at which none of the first three patients or one of up to six ment as the fixed effect. Additional plasma samples were
+total patients experienced a Cycle 1 DLT up to the 25 mg/ collected 5 min before, 3 h after and 24 h after the start
+m2 dose. Use of granulocyte colony-stimulating factor of infusion to determine the cabazitaxel free fraction after
+(G-CSF) was not permitted during Cycle 1. equilibrium dialysis in buffer using a validated LC-MS/
+MS method with a LLOQ of 0.1 ng/mL. Cabazitaxel free
+Safety assessments fraction was estimated using a linear mixed-effect model,
+with cohort and dose level as fixed effect and time and
+Safety evaluations included vital signs, physical examina- BSA as continuous variable and patient as random effect.
+tions, ECOG performance status, electrocardiograms, and
+laboratory parameter tests. Adverse events (AEs) were
+assessed according to the NCI Common Terminology Results
+Criteria for AEs (CTCAE) v4.03 [14] from the time of
+informed consent until 30 days after last cabazitaxel dose. Baseline patient characteristics
+≥
+DLTs were defined as cabazitaxel-related clinical AEs or
+laboratory abnormalities. Liver DLTs included increases Of 77 patients screened, 43 were enrolled including six
+in bilirubin and/or transaminase levels to three times the patients in Cohort 1 (normal hepatic function), 18 in
+baseline value. Other DLTs included grade 3–4 non-hema- Cohort 2 (mild impairment), 12 in Cohort 3 (moderate
+tologic AEs (excluding grade 3 fatigue, anorexia, fever impairment), and seven in Cohort 4 (severe impairment)
+without infection, inadequately treated nausea, vomiting, (Table 1). The remaining patients (n 34) were consid-
+=
+mucositis or stomatitis; transaminase or bilirubin eleva- ered non-eligible based on inclusion and/or exclusion
+tions returning to baseline by next treatment cycle [Cohort criteria. Overall, approximately half of the patients were
+1]; hypersensitivity reaction in the absence of required pre- male, median age was 60 years (range 18–79 years), and
+medication; peripheral neuropathy returning to grade 2 by most patients (81%) had an ECOG performance status of
+next treatment cycle) and hematologic toxicity defined as 1. Patients had various primary tumors with colon and liver
+febrile neutropenia, grade 4 neutropenia lasting more than the most frequent (19% each). At study entry, most patients
+seven days, or grade 4 thrombocytopenia. had metastatic disease (91%), some had locally advanced
+disease (7%), and a minority had locoregional recurrence
+Pharmacokinetic assessments (2%). Median time from cancer diagnosis to first cabazi-
+taxel dose was 2.93 years (range 0.5–17.9 years), and
+Heparinized blood samples were collected from all median time from last relapse/progression to first cabazi-
+patients in Cycle 1, on Day 1 immediately prior to the start taxel dose was 1.08 months (range 0.2–24.2 months).
+of infusion, 5 min before the end of infusion, and then at Approximately two-thirds of patients had received three or
+5, 15, and 30 min and 1, 2, 3, 5, 7, and 10 h after the end more prior anticancer regimens.
+of infusion. Samples were also collected on Days 2, 3, 4,
+5, 8, and 10 after cabazitaxel infusion. Cabazitaxel plasma Treatment
+concentrations were analyzed using a validated liquid
+chromatography with tandem mass spectrometry method The cabazitaxel doses administered in each cohort were
+(LC-MS/MS; lower limit of quantitation [LLOQ] 1 ng/ as follows: Cohort 1 (normal hepatic function), 25 mg/m2;
+=
+mL). Cabazitaxel PK parameters were calculated using Cohort 2 (mild impairment), 20 and 25 mg/m2; and Cohorts
+non-compartmental analysis with validated software 3 (moderate impairment) and 4 (severe impairment), 10, 15,
+(PKDMS Version 2.0 with WinNonlin Professional, Ver- and 20 mg/m2 (Table 1). Patients received a median of two
+sion 5.2.1, Pharsight). PK parameters included maximum cycles of cabazitaxel (range 1–31 cycles) (Table 2). The
+observed concentration (C ), area under the concentra- median number of cycles and relative dose intensity ver-
+max
+tion versus time curve extrapolated to infinity (AUC ), sus planned dose was similar across cohorts. The median
+inf
+1 3
+
+--- Page 4 ---
+3 42 Cancer Chemother Pharmacol (2017) 79:339–351
+1 3
+scitsiretcarahc
+tneitap
+enilesaB
+1 elbaT
+stneitap
+llA
+4 trohoC
+3 trohoC
+2 trohoC
+1 trohoC
+34
+N
+tnemriapmi
+citapeh
+ereves
+tnemriapmi
+citapeh
+etaredom
+tnemriapmi
+citapeh
+dlim
+2m/gm 52
+=
+citapeh
+lamron
+2m/gm
+02
+2m/gm
+51
+2m/gm
+01
+2m/gm
+02
+2m/gm
+51
+2m/gm
+01
+2m/gm
+52
+2m/gm
+02
+noitcnuf
+1
+n
+3
+n
+3
+n
+2
+n
+7
+n )DTM(
+3
+n
+6
+n
+21
+n )DTM(
+6
+n
+=
+=
+=
+=
+=
+=
+=
+=
+=
+/)2.15(
+22
+/)001(
+1
+/0
+/)7.66(
+2
+/0
+/)1.75(
+4
+/)001(
+3
+/)7.66(
+4
+/)7.14(
+5
+/)0.05(
+3
+)%(
+n ,elamef/elaM
+)8.84(
+12
+0
+)001(
+3
+)3.33(
+1
+)001(
+2
+)9.24(
+3
+0
+)3.33(
+2
+)3.85(
+7
+)0.05( 3
+)97–81(
+0.06
+)06–06(
+0.06
+)26–83(
+0.26
+)86–74(
+0.46
+)06–84(
+0.45
+)76–25(
+0.65
+)47–05(
+0.46
+)07–73(
+0.45
+)57–81(
+0.95
+)97–05(
+0.86
+,sraey
+ni egA
+)egnar(
+naidem
+)%( n ,sutats
+ecnamrofrep
+GOCE
+)6.11(
+5
+0
+0
+0
+0
+)3.41(
+1
+0
+)3.33(
+2
+)3.8(
+1
+)7.61(
+1
+0
+)4.18(
+53
+)001(
+1
+)001(
+3
+)7.66(
+2
+)0.05(
+1
+)4.17(
+5
+)001(
+3
+)7.66(
+4
+)7.19(
+11
+)3.38(
+5
+1
+)0.7(
+3
+0
+0
+)3.33(
+1
+)0.05(
+1
+)3.41(
+1
+0
+0
+0
+0
+2
+b)9.71–5.0(
+39.2
+)0.3–0.3(
+99.2
+a)9.4–8.1(
+43.3
+)1.41–8.0(
+83.1
+)6.3–7.0(
+61.2
+)7.3–6.1(
+83.2
+)7.8–5.1(
+71.6
+)8.8–1.1(
+16.3
+)2.71–5.0(
+20.3
+)9.71–0.1(
+19.2
+ecnis
+shtnoM
+naidem
+,sisongaid
+)egnar(
+)%(
+n
+,etis
+romut
+yramirP
+)6.11(
+5
+0
+)3.33(
+1
+0
+0
+)3.41(
+1
+0
+0
+)3.8(
+1
+)3.33(
+2
+tsaerB
+)6.81(
+8
+)001(
+1
+)3.33(
+1
+)3.33(
+1
+)0.05(
+1
+)3.41(
+1
+)3.33(
+1
+0
+)7.61(
+2
+0
+noloC
+)3.2(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+kcen/daeH
+)6.81(
+8
+0
+0
+0
+0
+)1.75(
+4
+0
+)7.61(
+1
+)0.52(
+3
+0
+reviL
+)3.9(
+4
+0
+0
+0
+)0.05(
+1
+0
+0
+)7.61(
+1
+0
+)3.33(
+2
+sgnuL
+)3.2(
+1
+0
+0
+0
+0
+0
+0
+0
+0
+)7.61(
+1
+saercnaP
+)0.7(
+3
+0
+0
+0
+0
+0
+)3.33(1
+0
+)7.61(
+2
+0
+etatsorP
+)2.03(
+31
+0
+)3.33(
+1
+)3.33(
+1
+0
+)3.41(
+1
+)3.33(
+1
+)7.66(
+4
+)3.33(
+4
+)7.61(
+1
+crehtO
+)%(
+n ,yrtne
+yduts
+ta
+tnetxe
+esaesiD
+)0.7(
+3
+0
+0
+0
+0
+)9.24(
+3
+0
+0
+0
+0
+decnavda
+yllacoL
+)3.2(
+1
+0
+0
+0
+0
+)3.41(
+1
+0
+0
+0
+0
+lanoigerocoL ecnerrucer
+)7.09(
+93
+)001(
+1
+)001(
+3
+)001(
+3
+)001(
+2
+)9.24(
+3
+)001(
+3
+)001(
+6
+)001(
+21
+)001(
+6
+citatsateM
+)%( n ,snemiger
+recnacitna
+roirP
+)0.41(
+6
+0
+0
+0
+)0.05(
+1
+)6.82(
+2
+0
+)3.33(
+2
+)3.8(
+1
+0
+1
+)9.02(
+9
+0
+)7.66(
+2
+0
+0
+)3.41(
+1
+0
+0
+)3.33(
+4
+)3.33(
+2
+2
+)1.56(
+82
+)001(
+1
+)3.33(
+1
+)001(
+3
+)0.05(
+1
+)1.75(
+4
+)001(
+3
+)7.66(
+4
+)3.85(
+7
+)7.66(
+4
+3 ≥
+esod
+detarelot
+mumixam
+DTM
+;puorG
+ygolocnO
+evitarepooC
+nretsaE
+GOCE 2 n
+a
+= 24 n
+b
+=
+-odneoruen
+,amoilehtosem
+,amocras
+llec
+laivonys
+tsehc
+roiretna
+thgir
+rewol
+,noitcnuj
+laegahposeortsag
+,recnac
+laegahpose
+,amonicracoignalohc
+,recnac
+reddalb
+,)niks(
+amonicrac
+llec
+lasab
+c
+recnac
+latcer
+,amonicrac
+enircodneoruen
+citaercnap
+,evlav
+lacecoeli
+eht
+fo
+amonicrac
+enirc
+
+--- Page 5 ---
+Cancer Chemother Pharmacol (2017) 79:339–351 343
+1 3
+scitsiretcarahc
+tnemtaerT
+2 elbaT
+stneitap
+llA
+4
+trohoC
+3 trohoC
+2 trohoC
+1 trohoC
+34
+N
+tnemriapmi
+citapeh
+ereves
+tnemriapmi
+citapeh
+etaredom
+tnemriapmi
+citapeh
+dlim
+2m/gm
+52
+=
+citapeh
+lamron
+2m/gm
+02
+2m/gm
+51
+2m/gm
+01
+2m/gm
+02
+2m/gm
+51
+2m/gm
+01
+2m/gm
+52
+2m/gm
+02
+noitcnuf
+1
+n
+3
+n
+3
+n
+2
+n
+7
+n
+)DTM(
+3
+n
+6
+n
+21
+n )DTM(
+6
+n
+=
+=
+=
+=
+=
+=
+=
+=
+=
+811
+1
+8
+6
+2
+31
+6
+21
+45
+61
+lexatizabac
+latoT yb selcyc n ,tneitap
+)13–1(
+2
+)1–1(
+1
+)4–1(
+3
+)4–1(
+1
+)1–1(
+1
+)3–1(
+2
+)4–1(
+1
+)6–1(
+1
+)13–1(
+2
+)4–1(
+3
+naideM lexatiz abac yb selcyc n ,tneitap )egnar(
+)50.1–36.0(
+99.0
+)99.0–99.0(
+99.0
+)50.1–88.0(
+10.1
+)20.1–29.0(
+00.1
+)50.1–00.1(
+30.1
+)10.1–27.0(
+09.0
+)10.1–18.0(
+99.0
+)20.1–07.0(
+10.1
+)20.1–48.0(
+79.0
+)10.1–36.0(
+99.0
+esod evitaleR ,ytisnetni ,keew/2m/gm
+)egnar(
+naidem
+)0.701–0.3(
+00.6
+)0.3–0.3(
+00.3
+)0.21–0.3(
+92.01
+)1.31–0.3(
+00.3
+)0.3–0.3(
+00.3
+)0.01–0.3(
+00.6
+)1.21–0.3(
+00.3
+)9.02–0.3(
+00.3
+)0.701–0.3(
+41.6
+)1.61–0.3(
+70.9
+yduts fo skeeW ,tnemtaert
+)egnar(
+naidem
+)7.79(
+24
+)001(
+1
+)001(
+3
+)001(
+3
+)001(
+2
+)001(
+7
+)001(
+3
+)001(
+6
+)7.19(
+11
+)001(
+6
+-sid tnemtaerT ,noitaunitnoc )%(
+n
+)9.02(
+9
+)001(
+1
+0
+0
+0
+)9.24(
+3
+)3.33(
+1
+)7.61(
+1
+)7.61(
+2
+)7.61(
+1
+tneve esrevdA
+)1.56(
+82
+0
+)3.33(
+1
+)001(
+3
+)001(
+2
+)1.75(
+4
+)7.66(
+2
+)7.66(
+4
+)7.66(
+8
+)7.66(
+4
+esaesiD noissergorp
+)6.11(
+5
+0
+)7.66(
+2
+0
+0
+0
+0
+)7.61(
+1
+)3.8(
+1
+)7.61(
+1
+nosaer rehtO
+esod
+detarelot
+mumixam
+DTM
+
+--- Page 6 ---
+3 44 Cancer Chemother Pharmacol (2017) 79:339–351
+duration of treatment was 6 weeks (range 3–107 weeks). Pharmacokinetics
+All patients had discontinued study treatment at study cut-
+off, except for one patient in Cohort 2 (20 mg/m2) who had Of 43 patients, 38 were eligible for PK assessment
+received 31 cycles. Primary reasons for cabazitaxel discon- (Table 4). Four patients were excluded because of PK
+tinuation included disease progression (65%) and toxicity/ deviations and one patient because of ineligibility for any
+AEs (21%) (Table 2). defined cohort in the study. In addition, two patients from
+Cohort 3 receiving cabazitaxel 10 mg/m2 were excluded
+Safety data from PK analysis because they displayed aberrant PK
+behaviors, including a very low C and a mean CL/
+max
+Of the 43 treated patients, 38 were evaluable for DLTs BSA (517 L/h/m2) that was approximately 20-fold higher
+with five excluded due to concomitant G-CSF administra- than other patients in Cohort 3 (30.5 L/h/m2 for patients
+tion during Cycle 1 in the absence of a DLT. In Cycle 1, receiving cabazitaxel 15 and 20 mg/m2 collectively). The
+13 patients (34%) across all cohorts experienced a DLT CL/BSA estimate for patients in Cohort 1 (normal hepatic
+(Table 3). Hematologic and non-hematologic DLTs were function; 13.4 L/h/m2) was in the very low range of typi-
+each reported in eight patients (21%) with three patients cal cabazitaxel clearance shown in a previous population
+experiencing both. No liver-related DLTs were reported. In PK analysis (26.4 L/h/m2, coefficient of variation: 38.8%;
+Cohort 2 (mild hepatic impairment), three of five patients n 170) [15] and other phase I studies assessing cabazi-
+=
+receiving 25 mg/m2 experienced DLTs (grade 4 febrile taxel PK (28.6 L/h/m2, n 4 [13]; 27.3 L/h/m2, n 25
+= =
+neutropenia, grade 3 hypophosphatemia, and grade 4 neu- [16]; 44.7 L/h/m2 n 21 [17]). Because of this unusu-
+=
+tropenia without fever), and the MTD was established as ally low cabazitaxel clearance in Cohort 1, meaning-
+20 mg/m2. In Cohort 3 (moderate impairment), the first ful PK comparisons could not be made between patients
+two patients treated at 20 mg/m2 experienced DLTs (grade with hepatic impairment and normal hepatic function. As
+4 neutropenic sepsis, and grade 3 febrile neutropenia and a result, comparisons were made using patients with mild
+stoma site infection), and the MTD was established as hepatic impairment. Compared with Cohort 2 (mild hepatic
+15 mg/m2. In Cohort 4 (severe impairment), the MTD impairment), Cohort 3 (moderate impairment) showed a
+was not established because no patient treated with 10 or 19% increase in CL/BSA, associated with a 14% decrease
+15 mg/m2 experienced DLTs during Cycle 1 and treat- in AUC /dose, whereas Cohort 4 (severe impairment)
+last
+ment was discontinued early for this cohort because the showed a 23% decrease in CL/BSA, associated with a 17%
+first patient treated at 20 mg/m2 experienced DLTs and increase in AUC /dose (Table 5; Fig. 1a). A sensitivity
+last
+subsequently died from a combination of septic shock, analysis, which excluded patients with erratic PK profiles,
+tumor lysis syndrome and acute respiratory failure in the showed consistent findings to the main analysis. Compared
+context of acute renal failure and disease progression. with Cohort 2, Cohort 3 showed a 6% decrease in CL/
+Based on this outcome, patient accrual into Cohort 4 was BSA (ratio: 0.94; 90% CI 0.64–1.38) and Cohort 4 showed
+discontinued. a 39% decrease (ratio: 0.61; 90% CI 0.36–1.05). Hepatic
+AEs were assessed in all patients (Table 3). The most impairment did not affect the free fraction of cabazi-
+frequent treatment-emergent AEs (TEAEs) of any grade taxel (5.6–6.6% across the cohorts); thus, analysis of free
+(in >25% of patients overall), regardless of causality, drug PK led to the same conclusions as for total drug PK
+were fatigue (54%), neutropenia (42%), diarrhea (40%), (Fig. 1b).
+nausea (40%), anemia (37%), vomiting (35%), abdomi-
+nal pain (28%), and peripheral edema (26%). The most Correlation between safety and PK parameters
+frequent TEAEs were observed in all cohorts, except
+for vomiting which was not reported in Cohort 1. The No significant correlation (p < 0.05) was found between
+most frequent grade 3–4 TEAEs (in >3 patients over- grade 3–4 TEAEs or laboratory abnormalities in Cycle 1
+all), regardless of causality, were neutropenia (42%), and PK parameters. Study cohort (degree of hepatic func-
+anemia (23%), febrile neutropenia (16%), abdominal tion) was not a statistically significant covariate in any of
+pain (14%), leukopenia (9%), and dehydration (9%). Six the logistic regression models of PK parameters.
+patients (14%) presented with a TEAE (of any causality)
+related to hepatobiliary disorders: one patient in Cohort Efficacy
+2 (mild hepatic impairment) and five patients in Cohort
+3 (moderate impairment). Neutropenia was the most fre- There were no efficacy endpoints in this study, and there-
+quent grade 3–4 treatment-related TEAE (Table 3). Anal- fore, data were not routinely collected. However, one
+ysis of AEs did not reveal any trends related to hepatic patient with cholangiocarcinoma had stable disease, which
+impairment. was maintained at Cycle 32.
+1 3
+
+--- Page 7 ---
+Cancer Chemother Pharmacol (2017) 79:339–351 345
+1 3
+stneve
+esrevda
+tnegreme-tnemtaert
+dna
+seiticixot
+gnitimil-esoD
+3 elbaT
+stneitap
+llA
+4
+trohoC
+3
+trohoC
+2 trohoC
+1 trohoC
+34
+N
+tnemriapmi
+citapeh
+ereves
+tnemriapmi
+citapeh
+etaredom
+tnemriapmi
+citapeh
+dlim
+2m/gm
+52
+=
+citapeh
+lamron
+2m/gm
+02
+2m/gm
+51
+2m/gm
+01
+2m/gm
+02
+2m/gm
+51
+2m/gm
+01
+2m/gm
+52
+2m/gm
+02
+noitcnuf
+1
+n
+3
+n
+3
+n
+2
+n
+7
+n
+)DTM(
+3
+n
+6
+n
+21
+n )DTM(
+=
+=
+=
+=
+=
+=
+=
+=
+6
+n
+=
+a83
+N
+1
+n
+3
+n
+3
+n
+2
+n
+6
+n
+3
+n
+5
+n
+11
+n
+4
+n
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+)2.43(
+31
+)001(
+1
+0
+0
+)001(
+2
+)7.61(
+1
+0
+)0.06(
+3
+)3.72(
+3
+)0.57(
+3
+gnirud
+TLD
+,1 elcyC )%(
+n
+)1.12(
+8
+0
+0
+0
+)0.05(
+1
+0
+0
+)0.04(
+2
+)3.72(
+3
+)0.05(
+2
+cigolotameH
+)1.12(
+8
+)001(
+1
+0
+0
+)001(
+2
+)7.61(
+1
+0
+)0.02(
+1
+)2.81(
+2
+)0.52(
+1
+-otameh-noN cigol
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+reviL
+)0.39(
+04
+)001(
+1
+)7.66(
+2
+)001(
+3
+)001(
+2
+)7.58(
+6
+)001(
+3
+)001(
+6
+)7.19(
+11
+)001(
+6
+4–3 edarG )%( n ,EAET
+)4.47(
+23
+)001(
+1
+)3.33(
+1
+)3.33(
+1
+)001(
+2
+)7.58(
+6
+)3.33(
+1
+)001(
+6
+)0.57(
+9
+)3.38(
+5
+4–3 edarG -tnemtaert
+,EAET
+detaler )%(
+n
+-taert
+4–3 edarG detaler-tnem sEAET ni gnirrucco ,tneitap
+1>
+)%(
+n
+)9.14(
+81
+0
+)3.33(
+1
+0
+0
+)1.75(
+4
+)3.33(
+1
+)7.66(
+4
+)0.52(
+3
+)3.38(
+5
+aineportueN
+)3.61(
+7
+0
+0
+0
+)0.05(
+1
+)3.41(
+1
+0
+)7.61(
+1
+)0.52(
+3
+)7.61(
+1
+-uen elirbeF aineport
+)6.11(
+5
+)001(
+1
+)3.33(
+1
+0
+0
+0
+0
+0
+)7.61(
+2
+)7.61(
+1
+aimenA
+)3.9(
+4
+0
+0
+0
+0
+)6.82(
+2
+0
+0
+)7.61(
+2
+0
+ainepokueL
+)0.7(
+3
+0
+0
+0
+)0.05(
+1
+0
+0
+0
+0
+)3.33(
+2
+eugitaF
+)0.7(
+3
+0
+0
+0
+0
+0
+0
+)7.61(
+1
+)3.8(
+1
+)7.61(
+1
+ainepohpmyL
+)7.4(
+2
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+)3.8(
+1
+0
+aehrraiD
+)7.4(
+2
+)001(
+1
+0
+0
+0
+0
+0
+0
+)3.8(
+1
+0
+noitardyheD
+)7.4(
+2
+)001(
+1
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+0
+tcart yranirU noitcefni
+)7.4(
+2
+0
+0
+0
+0
+0
+0
+0
+)7.61(
+2
+0
+tnuoc teletalP desaerced
+)7.4(
+2
+0
+0
+0
+)0.05(
+1
+0
+0
+0
+)3.8(
+1
+0
+doolb etihW tnuoc llec desaerced
+
+--- Page 8 ---
+3 46 Cancer Chemother Pharmacol (2017) 79:339–351
+1 3
+deunitnoc
+3
+elbaT
+stneitap
+llA
+4
+trohoC
+3
+trohoC
+2 trohoC
+1 trohoC
+34
+N
+tnemriapmi
+citapeh
+ereves
+tnemriapmi
+citapeh
+etaredom
+tnemriapmi
+citapeh
+dlim
+2m/gm
+52
+=
+citapeh
+lamron
+2m/gm
+02
+2m/gm
+51
+2m/gm
+01
+2m/gm
+02
+2m/gm
+51
+2m/gm
+01
+2m/gm
+52
+2m/gm
+02
+noitcnuf
+1
+n
+3
+n
+3
+n
+2
+n
+7
+n
+)DTM(
+3
+n
+6
+n
+21
+n )DTM(
+=
+=
+=
+=
+=
+=
+=
+=
+6
+n
+=
+)9.02(
+9
+)001(
+1
+0
+0
+0
+)9.24(
+3
+)3.33(
+1
+)7.61(
+1
+)7.61(
+2
+)7.61(
+1
+,edarg
+ynA
+ytilasuac
+yna
+gnidael
+EAET
+-unitnocsid
+ot
+)%( n
+,noita
+)0.41(
+6
+0
+0
+0
+0
+)1.75(
+4
+)3.33(
+1
+)7.61(
+1
+0
+0
+,edarg
+ynA
+ytilasuac
+yna
+i libotapeh ,EAETyra
+)%(
+n
+)7.4(
+2
+0
+0
+0
+0
+)3.41(
+1
+0
+)7.61(
+1
+0
+0
+citapeH eruliaf
+)7.4(
+2
+0
+0
+0
+0
+)3.41(
+1
+)3.33(
+1
+0
+0
+0
+ecidnuaJ
+)3.2(
+1
+0
+0
+0
+0
+)3.41(
+1
+0
+0
+0
+0
+sitignalohC
+)3.2(
+1
+0
+0
+0
+0
+)3.41(
+1
+0
+0
+0
+0
+-urilibrepyH aimenib
+tneve
+esrevda
+tnegreme-tnemtaert
+EAET
+;esod
+detarelot
+mumixam
+DTM
+;yticixot
+gnitimil-esod
+TLD
+TLD
+a
+fo
+ecnesba
+eht
+ni
+tnemtaert
+fo
+skeew
+eerht
+tsrfi
+eht
+gnirud
+rotcaf
+gnitalumits-ynoloc
+etycolunarg
+fo
+noitartsinimda
+eht
+ot
+eud
+dedulcxe
+stneitap
+evfi
+:)83
+N(
+noitalupop
+elbaulave-TLD
+a
+=
+
+--- Page 9 ---
+Cancer Chemother Pharmacol (2017) 79:339–351 347
+1 3
+scitsitats
+evitpircsed
+:sretemarap
+citenikocamrahP
+4 elbaT
+4
+trohoC
+3 trohoC
+2 trohoC
+1 trohoC
+:retemaraP
+tnemriapmi
+citapeh
+ereves
+tnemriapmi
+citapeh
+etaredom
+tnemriapmi
+citapeh
+dlim
+lamron
+2m/gm
+52
+DS
+naem ±
+noitcnuf
+citapeh
+)naem
+cirtemoeg(
+2m/gm
+02
+2m/gm
+51
+2m/gm
+01
+2m/gm 02
+2m/gm
+51
+2m/gm
+01
+2m/gm
+52
+2m/gm 02
+6
+n
+]%VC[
+1
+n
+3
+n
+2
+n
+2
+n
+7 n )DTM(
+a2
+n
+6
+n
+9
+n )DTM(
+=
+=
+=
+=
+=
+=
+=
+=
+=
+CN
+4.77
+9.39
+711
+CN
+873
+CN 333
+572 212
+CN 4.61
+981 823
+352 492
+365 196
+Lm/gn
+,
+C
+±
+±
+±
+±
+±
+±
+±
+±
+±
+xam
+]CN[
+)4.77(
+]18[
+)7.29(
+]CN[
+)702(
+]CN[
+)492(
+]031[ )131(
+]CN[
+)4.51(
+]75[ )782(
+]68[
+)312(
+]28[ )545(
+CN
+195
+705
+585
+CN
+899
+CN 486
+451 783
+CN 481
+0501 0401
+0001
+398
+0241 0102
+, CUA
+±
+±
+±
+±
+±
+±
+±
+±
+±
+tsal
+]CN[
+)195(
+]78[
+)454(
+]CN[
+)245(
+]CN[
+)476(
+]04[ )063(
+]CN[
+)0.45(
+]001[ )787(
+]211[
+)216(
+]07[ )0161(
+Lm/h*gn
+CN
+141
+32.5
+111
+CN
+3.67
+CN 111
+3.26 4.89
+CN 74.3
+0.21 7.49
+8.83
+4.09
+9.63 9.77
+h ,
+t
+±
+±
+±
+±
+±
+±
+±
+±
+±
+z2/1
+]CN[
+)141(
+]5[
+)111(
+]CN[
+)2.67(
+]CN[
+)011(
+]36[ )6.87(
+]CN[
+)72.2(
+]31[ )1.49(
+]34[
+)0.18(
+]74[ )7.96(
+CN
+519
+CN
+479
+CN
+CN
+CN 139
+342 625
+CN 602
+0031 0241
+0901
+0111
+0141 0222
+Lm/h*gn
+, CUA
+]CN[
+)5 ± 19(
+e]CN[
+)9 ± 09(
+d]CN[
+)C ± N(
+]CN[
+)5 ± 29(
+c]64[ )8 ± 74(
+]CN[
+)8 ± .26(
+b]29[ )0 ± 111(
+]89[
+± )928(
+]36[ )0 ± 681(
+fni
+CN
+7.63
+CN
+4.33
+CN
+CN
+CN 6.93
+0.33 5.26
+CN 079
+4.52 9.64
+5.83
+0.55
+7.61 6.72
+h/L ,LC
+]CN[
+)7 ± .63(
+e]CN[
+)7 ± .13(
+d]CN[
+)C ± N(
+]CN[
+)4 ± .93(
+c]35[ )1 ± .65(
+]CN[
+)4 ± 13(
+b]45[ )0 ± .04(
+]07[
+)0 ± .44(
+]06[ )1 ± .32(
+CN
+0327
+CN
+0335
+CN
+CN
+CN 0664
+0613 0084
+CN 0852
+0361 0404
+0442
+0494
+0542 0222
+L ,
+V
+]CN[
+)0 ± 327(
+e]CN[
+)0 ± 714(
+d]CN[
+)C ± N(
+]CN[
+)0 ± 144(
+c]66[ )0 ± 593(
+]CN[
+)0 ± 442(
+b]04[ )0 ± 473(
+]94[
+)0 ± 283(
+]011[ )0 ± 141(
+ss
+CN
+6.12
+CN
+7.71
+CN
+CN
+CN 1.22
+1.61 3.33
+CN 715
+8.31 6.62
+1.02
+2.03
+07.9 9.51
+2m/h/L
+,ASB/LC
+]CN[
+)6 ± .12(
+e]CN[
+)5 ± .61(
+d]CN[
+)C ± N(
+]CN[
+)0 ± .22(
+c]84[ )1 ± .03(
+]CN[
+)3 ± 41(
+b]25[ )7 ± .22(
+]76[
+)0 ± .42(
+]16[ )4 ± .31(
+CN
+0524
+CN
+0682
+CN
+CN
+CN 0162
+0311 0832
+CN 0311
+429 0132
+0441
+0772
+0031 0521
+2m/L
+,ASB/
+V
+]CN[
+)0 ± 524(
+e]CN[
+)0 ± 812(
+d]CN[
+)C ± N(
+]CN[
+)0 ± 642(
+c]74[ )0 ± 212(
+]CN[
+)0 ± 111(
+b]04[ )0 ± 212(
+]25[
+)0 ± 802(
+]401[ ± )028(
+ss
+-artnecnoc
+amsalp
+eht
+rednu
+aera
+CUA
+;evruc
+emit–noitartnecnoc
+amsalp
+eht
+rednu aera
+detalopartxe
+CUA
+;ytinfini
+ot detalopartxe
+evruc
+emit–noitartnecnoc
+amsalp
+eht
+rednu
+aera
+CUA
+tsal
+TXE
+fni
+-artnecnoc
+amsalp
+devresbo
+mumixam
+C
+;aera
+ecafrus
+ydob
+ot dezilamron
+ecnaraelc ASB/LC
+;ecnaraelc
+LC
+;noitartnecnoc
+lexatizabac
+tsal
+eht fo emit
+eht
+ot orez emit
+morf
+evruc
+emit–noit
+xam
+ydaets
+ta noitubirtsid
+fo emulov
+ASB/
+V
+;etats
+ydaets
+ta
+noitubirtsid
+fo
+emulov
+V ;efil-flah
+lanimret
+tnerappa
+t
+;noitaived
+dradnats
+DS
+;detaluclac
+ton
+CN
+;noitairav
+fo
+tneicfifeoc
+VC ;noit
+ss
+ss
+z2/1
+aera
+ecafrus ydob
+ot
+dezilamron
+etats
+sisylana
+lacitsitats
+eht
+morf dedulcxe
+erew ) C
+wol
+yrev(
+sroivaheb
+KP
+tnarreba
+gniyalpsid
+dna
+2m/gm
+01 lexatizabac
+gniviecer
+3
+trohoC
+ni
+stneitaP
+a
+xam
+)%04>
+CUA(
+tneitap
+eno
+rof
+elbaluclac
+ton
+retemarap
+,5 n
+b
+txE
+=
+)%04>
+CUA(
+tneitap
+eno
+rof
+elbaluclac
+ton
+retemarap
+,6 n
+c
+txE
+=
+)%04>
+CUA(
+stneitap
+owt
+rof
+elbaluclac
+ton
+retemarap
+,0 n
+d
+txE
+=
+)%04>
+CUA(
+tneitap
+eno
+rof
+elbaluclac
+ton
+retemarap
+,2 n
+e
+txE
+=
+
+--- Page 10 ---
+3 48 Cancer Chemother Pharmacol (2017) 79:339–351
+Table 5 Pharmacokinetic parameters: effect of hepatic impairment
+Parameter Cohort (hepatic function/ n Geometric mean Versus cohort 1 (normal Versus cohort 2 (mild
+impairment) (90% CI) hepatic function) hepatic impairment)
+Ratio (90% CI) Ratio (90% CI)
+CL, L/h Cohort 1 (normal) 6 23.00 (14.73, 35.92) 1.00 –
+Cohort 2 (mild)a 14 42.54 (31.92, 56.71) 1.85 (1.09, 3.14) –
+Cohort 3 (moderate)b 8 51.50 (35.12, 75.53) 2.24 (1.24, 4.05) 1.21 (0.75, 1.95)
+Cohort 4 (severe)c 3 33.32 (17.91, 62.01) 1.45 (0.67, 3.12) 0.78 (0.40, 1.55)
+CL/BSA, L/h/m2 Cohort 1 (normal) 6 13.42 (8.64, 20.83) 1.00 –
+Cohort 2 (mild)a 14 23.51 (17.63, 31.35) 1.75 (1.04, 2.96) –
+Cohort 3 (moderate)b 8 27.86 (19.03, 40.77) 2.08 (1.16, 3.72) 1.19 (0.74, 1.91)
+Cohort 4 (severe)c 3 18.13 (9.73, 33.76) 1.35 (0.63, 2.89) 0.77 (0.39, 1.53)
+AUC /dose, Cohort 1 (normal) 6 74.52 (48.01, 115.68) 1.00 –
+inf
+ng*h/mL/mg/m2 Cohort 2 (mild)a 14 42.53 (31.89, 56.72) 0.57 (0.34, 0.97) –
+Cohort 3 (moderate)b 8 35.91 (24.53, 52.55) 0.48 (0.27, 0.86) 0.84 (0.52, 1.36)
+Cohort 4 (severe)c 3 55.17 (29.62, 102.75) 0.74 (0.35, 1.59) 1.30 (0.65, 2.57)
+AUC /dose, Cohort 1 (normal) 6 64.21 (38.39, 107.40) 1.00 –
+last
+ng*h/mL/mg/m2
+Cohort 2 (mild) 15 31.09 (22.46, 43.05) 0.48 (0.26, 0.89) –
+Cohort 3 (moderate)d 9 26.6 (17.48, 40.48) 0.41 (0.21, 0.80) 0.86 (0.50, 1.46)
+Cohort 4 (severe) 6 36.24 (21.67, 60.62) 0.56 (0.27, 1.17) 1.17 (0.63, 2.14)
+C /dose, Cohort 1 (normal) 6 21.78 (12.11, 39.18) 1.00 –
+max
+ng/mL/mg/m2
+Cohort 2 (mild) 15 11.01 (7.60, 15.97) 0.51 (0.25, 1.01) –
+Cohort 3 (moderate)d 9 10.08 (6.24, 16.28) 0.46 (0.22, 0.99) 0.92 (0.50, 1.68)
+Cohort 4 (severe) 6 8.46 (4.71, 15.23) 0.39 (0.17, 0.89) 0.77 (0.38, 1.54)
+t , h Cohort 1 (normal) 6 71.07 (49.36, 102.31) 1.00 –
+1/2z
+Cohort 2 (mild) 15 85.92 (68.55, 107.69) 1.21 (0.79, 1.86) –
+Cohort 3 (moderate)d 9 83.64 (62.30, 112.29) 1.18 (0.73, 1.89) 0.97 (0.67, 1.41)
+Cohort 4 (severe) 6 102.12 (71.46, 145.92) 1.44 (0.86, 2.39) 1.19 (0.78, 1.81)
+V , L Cohort 1 (normal) 6 1442.95 (802.87, 2593.34) 1.00 –
+ss
+Cohort 2 (mild)a 14 3785.17 (2593.95, 5523.44) 2.62 (1.31, 5.27) –
+Cohort 3 (moderate)b 8 4005.9 (2421.05, 6628.21) 2.78 (1.27, 6.06) 1.06 (0.56, 1.99)
+Cohort 4 (severe)c 3 4981.61 (2201.05, 11,274.82) 3.45 (1.26, 9.46) 1.32 (0.54, 3.24)
+V /BSA, L/m2 Cohort 1 (normal) 6 819.68 (464.42, 1446.71) 1.00 –
+ss
+Cohort 2 (mild)a 14 2093.46 (1443.24, 3036.63) 2.55 (1.30, 5.04) –
+Cohort 3 (moderate)b 8 2201.19 (1345.79, 3600.29) 2.69 (1.27, 5.69) 1.05 (0.57, 1.95)
+Cohort 4 (severe)c 3 2729.48 (1222.20, 6095.62) 3.33 (1.24, 8.91) 1.30 (0.54, 3.16)
+AUC /dose, area under the plasma concentration–time curve extrapolated to infinity normalized to dose; AUC , extrapolated area under the
+inf EXT
+plasma concentration–time curve; AUC /dose, area under the plasma concentration–time curve from time zero to the time of the last cabazi-
+last
+taxel concentration, normalized to dose; CL, clearance; CL/BSA, clearance normalized to body surface area; CI, confidence interval; C /dose,
+max
+maximum observed plasma concentration normalized to dose; t , apparent terminal half-life; V , volume of distribution at steady state; V /
+1/2z ss ss
+BSA, volume of distribution at steady state normalized to body surface area
+a n 14, parameter not calculable for one patient (AUC >40%)
+= Ext
+b n 8, patients receiving cabazitaxel 10 mg/m2 and displaying aberrant PK behaviors (very low C ) were excluded from the statistical analy-
+= max
+sis and parameter not calculable for one patient (AUC > 40%)
+Ext
+c n 3, parameter not calculable for three patients (AUC > 40%)
+= Ext
+d n 9, patients receiving cabazitaxel 10 mg/m2 and displaying aberrant PK behaviors (very low C ) were excluded from the statistical analy-
+= max
+sis
+Discussion who have normal hepatic function. Cabazitaxel is primar-
+ily metabolized by the liver, and therefore, it is important
+This study assessed the safety and PK of cabazitaxel in to assess the effect of hepatic impairment on cabazitaxel
+patients with hepatic impairment compared with patients metabolism. The first-generation taxanes, docetaxel and
+1 3
+
+--- Page 11 ---
+Cancer Chemother Pharmacol (2017) 79:339–351 349
+80
+60
+40
+20
+0
+1 2 3 4 1 2 3 4
+Normal Mild Moderate Severe Normal Mild Moderate Severe
+paclitaxel, are administered at lower doses in patients with function. Potentially, albumin levels could have been cor-
+hepatic impairment because of an increased risk of myelo- related with PK and safety parameters.
+suppression, stomatitis, neutropenia, and treatment-related The MTD of cabazitaxel administered by IV infusion
+death [4, 5, 18, 19]. every 3 weeks in patients with advanced solid tumors was
+In this study, parameters used for patient recruitment determined to be 20 and 15 mg/m2 for patients with mild
+and for defining hepatic impairment levels were based on or moderate hepatic impairment, respectively. For patients
+the NCI criteria [12] and were previously used in a study with severe hepatic impairment, treatment in Cohort 4 was
+assessing irinotecan in patients with hepatic dysfunction prematurely discontinued following the death of the first
+[11]. These parameters made patient recruitment challeng- patient treated with cabazitaxel 20 mg/m2 from a com-
+ing, particularly for severely impaired patients. Using albu- bination of AEs (including DLTs) and disease progres-
+min levels or Child-Pugh-Turcotte classification scores, sion; therefore, the MTD in this cohort of patients remains
+versus metabolic status, to define hepatic function and undetermined.
+guide cohort allocation may have been beneficial and may The overall safety profile of cabazitaxel was consist-
+have provided a more accurate characterization of hepatic ent with the known safety profile with no new safety issues
+1 3
+2m/h/L
+,ASB/LC
+25 mg/m2 - Normal (n = 6), Mild (n = 5) 20 mg/m2 - Mild (n = 9), Moderate (n = 2), Severe (n = 1) 15 mg/m2 - Moderate (n = 6), Severe (n = 2)
+60
+40
+20
+0
+2m/h/L
+,ASB/LC
+a
+b
+0.92
+%
+,noitcarf
+eerf
+lexatizabaC
+Cabazitaxel clearance normalized to body surface area (CL/BSA) Cabazitaxel clearance normalized to body surface area (CL/BSA)
+Individual and mean (and standard deviation) per cohort Mean (and standard deviation) per dose and per cohort
+Cohort Cohort
+Cabazitaxel free fraction
+Mean (and standard deviation) per cohort
+12
+Normal (n = 6)
+Mild (n = 15)
+Moderate (n = 9)
+10 Severe (n = 6)
+8
+6
+4
+3 24
+Time, hours
+Fig. 1 Pharmacokinetic analysis in the pharmacokinetic population (erratic profiles excluded) of a CL/BSA b cabazitaxel free fraction
+
+--- Page 12 ---
+3 50 Cancer Chemother Pharmacol (2017) 79:339–351
+identified. The safety profile of cabazitaxel 20 and 15 mg/ Based on this study and in the absence of appropriate data,
+m2 (MTD) in patients with mild or moderate hepatic impair- the use of cabazitaxel is not recommended in patients with
+ment, respectively, was generally similar to that observed in severe hepatic impairment. Based on PK data, there was no
+patients with normal hepatic function receiving 25 mg/m2. In evidence of a relationship between safety and PK param-
+this study, prophylactic use of G-CSF was not permitted dur- eters as the lower MTDs could not be justified by higher
+ing Cycle 1. Prophylactic administration of G-CSF has the cabazitaxel exposure in patients with mild or moderate
+ability to reduce hematologic toxicity in clinical practice. hepatic impairment. However, dose reductions of cabazi-
+As CL/BSA for cabazitaxel in patients with normal taxel in patients with mild or moderate hepatic impairment,
+hepatic function was low compared with historical data and contraindication in patients with severe hepatic impair-
+[13, 15–17], PK data for patients with normal hepatic ment, are justified based on safety data. A recent phase III
+function in this study could not be used in comparisons. non-inferiority study (PROSELICA) has demonstrated
+The reason for these low values is unclear; patients with that cabazitaxel administered at a dose of 20 mg/m2 main-
+no reason for exclusion showed variability in parameters tains at least 50% of the survival benefit observed with the
+and erratic PK profiles. The number of patients with nor- approved 25 mg/m2 dose of cabazitaxel versus mitoxantrone
+mal hepatic function was small (n 6), which may help in the previous phase III TROPIC study [1], in patients with
+=
+explain the large variability in cabazitaxel clearance for this mCRPC who have received prior docetaxel treatment [21].
+cohort as several outliers considerably affected the aver-
+age values of the cohort and created a substantial shift in Acknowledgements The authors would like to thank participating
+patients and their families, in addition to the staff at participating
+average CL/BSA. Patients with mild or moderate hepatic
+sites. This study was supported by Sanofi. The authors received edito-
+impairment had CL/BSA values comparable to historical
+rial support in the form of medical writing services provided by Dan-
+data, suggesting no influence of mild or moderate hepatic ielle Lindley of MediTech Media, funded by Sanofi. The authors were
+impairment on cabazitaxel PK. There was no evidence responsible for all content and editorial decisions and received no
+honoraria related to the development of this manuscript. The authors
+that moderate versus mild hepatic impairment resulted in
+had full access to all of the data in the study and take responsibility
+a substantial decline in cabazitaxel clearance. There was
+for the integrity of the data and the accuracy of the data analysis. The
+no evidence that the lower MTD in patients with mild or authors would like to thank the Institute for Drug Development at the
+moderate hepatic impairment, compared with the approved Cancer Therapy and Research Center, University of Texas Health Sci-
+25 mg/m2 cabazitaxel dose, were due to higher cabazitaxel ence Centre, San Antonio, Texas, for the Cancer Center Support Grant
+(P30CA054174).
+exposure. Patients with severe hepatic impairment had a
+numerically decreased CL/BSA compared with mildly Compliance with ethical standards
+impaired patients, indicating some effect of severe impair-
+ment on PK parameters. This numerical increase in cabazi- Conflict of interest John Sarantopoulos, Jimmy Hwang, James Mier,
+taxel exposure may, in part, explain the increased toxicity and Aiwu He have no conflicts of interest to disclose. Olivier Rixe has
+been a member of advisory boards for Areva Med and Sisene Oncol-
+of cabazitaxel observed in this patient cohort. However,
+ogy. John C. Morris has participated at speaker bureaus for Boehringer
+because of the limitations of a small study and unbalanced
+Ingelheim. Alain C. Mita has participated at speaker bureaus for Genen-
+sample sizes per cohort, this observation should be inter- tech. James L. Wade is a stockholder of Celgene and Seattle Genetics.
+preted with caution. A. Craig Lockhart has received research funding from Amgen, Bayer,
+Lilly, Novartis, Pfizer, and Genentech. David I. Quinn has received
+Hepatic impairment had no effect on the cabazitaxel
+research funding and honoraria from Sanofi and has been a member
+unbound fraction with a low free fraction estimated across
+of advisory boards for Sanofi. Chung-Tsen Hsueh has been a member
+all cohorts (5.6–6.6%). These results are consistent with of advisory boards for Bayer, Merrimack, and Onyx. Pierre-François
+the high binding of cabazitaxel to total plasma proteins Clot is an employee of Sanofi. Wenping Zhang, Claudine Wack, and
+Jian Yin are employees and stock holders of Sanofi.
+observed ex vivo and in vitro (89–92%) [2, 15, 17].
+Even though cabazitaxel is primarily metabolized by
+Ethical approval All procedures performed in studies involving
+CYP3A in the liver, the minimal impact of hepatic impair-
+human participants were in accordance with the ethical standards of
+ment on cabazitaxel PK parameters is consistent with a high
+the Institutional and/or National Research Committee and with the
+cabazitaxel clearance driven by hepatic blood flow and is 1964 Declaration of Helsinki and its later amendments or comparable
+also consistent with the modest effect that repeated keto- ethical standards.
+conazole (a strong CYP3A inhibitor) administration has
+on cabazitaxel clearance; in one study, repeated ketocona- Open Access This article is distributed under the terms of the Crea-
+zole administration resulted in a 20% decrease in cabazi- tive Commons Attribution 4.0 International License (http://crea-
+tivecommons.org/licenses/by/4.0/), which permits unrestricted use,
+taxel clearance [20]. Data from this study support the use
+distribution, and reproduction in any medium, provided you give
+of cabazitaxel in patients with mild or moderate hepatic
+appropriate credit to the original author(s) and the source, provide a
+impairment at reduced doses of 20 and 15 mg/m2, respec- link to the Creative Commons license, and indicate if changes were
+tively, compared with the approved dose of 25 mg/m2. made.
+1 3
+
+--- Page 13 ---
+Cancer Chemother Pharmacol (2017) 79:339–351 351
+References Dosage adjustment and pharmacokinetic profile of irinote-
+can in cancer patients with hepatic dysfunction. J Clin Oncol
+20:4303–4312
+1. de Bono JS, Oudard S, Ozguroglu M, Hansen S, Machiels JP,
+12. National Cancer Institute Organ Dysfunction Working Group
+Kocak I, Gravis G, Bodrogi I, Mackenzie MJ, Shen L, Roess-
+(2014) Organ dysfunction criteria. http://ctep.cancer.gov/pro-
+ner M, Gupta S, Sartor AO (2010) Prednisone plus cabazitaxel or
+tocolDevelopment/docs/CTEP_Organ_Dysfunction_Protocol_
+mitoxantrone for metastatic castration-resistant prostate cancer
+Template.docx. Accessed May 2016
+progressing after docetaxel treatment: a randomised open-label
+13. Ridoux L, Semiond DR, Vincent C, Fontaine H, Mauriac
+trial. Lancet 376:1147–1154
+C, Sanderink GJ, Oprea C, Kelly L, Clive S (2015) A phase I
+2. Sanofi (2014) JEVTANA® (cabazitaxel) injection, prescrib-
+open-label study investigating the disposition of [14C]-cabazi-
+ing information, FDA. http://www.products.sanofi.us/jevtana/
+taxel in patients with advanced solid tumors. Anticancer Drugs
+jevtana.html. Accessed May 2016
+26:350–358
+3. Sanofi (2015). JEVTANA® (cabazitaxel) Injection, summary
+14. National Cancer Institute (2010) Common Terminology Criteria
+of product characteristics, EMA. http://www.ema.europa.eu/
+for Adverse Events (CTCAE) version 4.03. http://www.evs.nci.
+docs/en_GB/document_library/EPAR_-_Product_Information/
+nih.gov/ftp1/CTCAE/About.html. Accessed May 2016
+human/002018/WC500104764.pdf. Accessed May 2016
+15. Ferron GM, Dai Y, Semiond D (2013) Population pharmacoki-
+4. Bristol-Myers Squibb (2011). TAXOL® (paclitaxel) injection,
+netics of cabazitaxel in patients with advanced solid tumors.
+prescribing information, FDA. http://www.accessdata.fda.gov/
+Cancer Chemother Pharmacol 71:681–692
+drugsatfda_docs/label/2011/020262s049lbl.pdf. Accessed May
+16. Mita AC, Denis LJ, Rowinsky EK, de Bono JS, Goetz AD,
+2016
+Ochoa L, Forouzesh B, Beeram M, Patnaik A, Molpus K, Semi-
+5. Sanofi (2010). TAXOTERE® (docetaxel) injection concentrate,
+ond D, Besenval M, Tolcher AW (2009) Phase I and pharma-
+intravenous infusion (IV) prescribing information. http://www.
+cokinetic study of XRP6258 (RPR 116258A), a novel taxane,
+accessdata.fda.gov/drugsatfda_docs/label/2013/020449s071lbl.
+administered as a 1-hour infusion every 3 weeks in patients with
+pdf. Accessed May 2016
+advanced solid tumors. Clin Cancer Res 15:723–730
+6. Superfin D, Iannucci AA, Davies AM (2007) Commentary:
+17. Dieras V, Lortholary A, Laurence V, Delva R, Girre V, Livar-
+oncologic drugs in patients with organ dysfunction: a summary.
+towski A, Assadourian S, Semiond D, Pierga JY (2013) Cabazi-
+Oncologist 12:1070–1083
+taxel in patients with advanced solid tumours: results of a phase I
+7. Eklund JW, Trifilio S, Mulcahy MF (2005) Chemotherapy dos-
+and pharmacokinetic study. Eur J Cancer 49:25–34
+ing in the setting of liver dysfunction. Oncology (Williston Park)
+18. Venook AP, Egorin MJ, Rosner GL, Brown TD, Jahan TM,
+19:1057–1063
+Batist G, Hohl R, Budman D, Ratain MJ, Kearns CM, Schilsky
+8. US Department of Health and Human Serviced Food and
+RL (1998) Phase I and pharmacokinetic trial of paclitaxel in
+Drug Administration Center for drug Evaluation and Research
+patients with hepatic dysfunction: cancer and leukemia group B
+(CDER) (2003). Guidance for industry, pharmacokinetics in
+9264. J Clin Oncol 16:1811–1819
+patients with impaired hepatic function: study design, data anal-
+19. Burris HA (1996) Optimal use of docetaxel (Taxotere): maxi-
+ysis, and impact on dosing and labelling. Revised May 2003.
+mizing its potential. Anticancer Drugs 7(Suppl 2):25–28
+http://www.fda.gov/downloads/drugs/guidancecomplianceregu-
+20. Sarantopoulos J, Mita AC, Wade JL, Morris JC, Rixe O, Mita
+latoryinformation/guidances/ucm072123.pdf. Accessed May
+MM, Dedieu JF, Wack C, Kassalow L, Lockhart AC (2014) Phase
+2016
+I study of cabazitaxel plus cisplatin in patients with advanced
+9. European Medical Agency (2005) Guidance on the evaluation
+solid tumors: study to evaluate the impact of cytochrome P450
+of the pharmacokinetics of medicinal products in patients with
+3A inhibitors (aprepitant, ketoconazole) or inducers (rifampin)
+impaired hepatic function. Revised February 2005. http://ema.
+on the pharmacokinetics of cabazitaxel. Cancer Chemother Phar-
+europa.eu/docs/en_GB/document_library/Scientific_guide-
+macol 74(6):1113–1124
+line/2009/09/WC500003122.pdf. Accessed May 2016
+21. De Bono JS, Hardy-Bessard A-C, Kim C-S, Geczi L, Ford D,
+10. Pivot X, Koralewski P, Hidalgo JL, Chan A, Goncalves A,
+Mourey L, Carles J, Parente P, Font A, Kacso G, Chadjaa M,
+Schwartsmann G, Assadourian S, Lotz JP (2008) A multicenter
+Zhang W, Ravez F, Eisenberger MA (2016) Phase III non-infe-
+phase II study of XRP6258 administered as a 1-h i.v. infu-
+riority study of cabazitaxel (C) 20 mg/m2 (C20) versus 25 mg/
+sion every 3 weeks in taxane-resistant metastatic breast cancer
+m2 (C25) in patients (pts) with metastatic castration-resistant
+patients. Ann Oncol 19:1547–1552
+prostate cancer (mCRPC) previously treated with docetaxel (D).
+11. Raymond E, Boige V, Faivre S, Sanderink GJ, Rixe O, Vernil-
+J Clin Oncol 34(suppl):Abstract 5008
+let L, Jacques C, Gatineau M, Ducreux M, Armand JP (2002)
+1 3

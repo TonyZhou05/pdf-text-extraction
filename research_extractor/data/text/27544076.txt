@@ -1,0 +1,2166 @@
+Source: 27544076.pdf
+Extracted on: Fri Sep 12 23:57:06 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Published in final edited form as:
+Leuk Res. 2016 September ; 48: 92–100. doi:10.1016/j.leukres.2016.07.004.
+A phase I trial of the human double minute 2 inhibitor (MK-8242)
+in patients with refractory/recurrent acute myelogenous
+leukemia (AML)
+Farhad Ravandia,*, Ivana Gojob, Mrinal M. Patnaikc, Mark D. Mindend, Hagop Kantarjiana,
+Amy O. Johnson-Levonase, Craig Fancourte, Raymond Lame, Mary Beth Jonese, Clayton D.
+Knoxe, Shelonitda Rosee, Payal Shah Patele, and Raoul Tibesf
+aThe University of Texas MD Anderson Cancer Center, Houston, TX
+bJohns Hopkins University, Baltimore, MD
+cMayo Clinic, Rochester, MN
+dPrincess Margaret Hospital, Toronto, ON
+eMerck & Co., Inc., Kenilworth, NJ
+fMAYO Clinic Arizona, Scottsdale, AZ
+Abstract
+Objective—Evaluate safety/tolerability/efficacy of MK-8242 in subjects with refractory/
+recurrent AML.
+Methods—MK-8242 was dosed p.o. QD (30–250 mg) or BID (120–250 mg) for 7on/7off in 28-
+day cycle. Dosing was modified to 7on/14off, in 21-day cycle (210 or 300 mg BID).
+Results—26 subjects enrolled (24 evaluable for response); 5/26 discontinued due to AEs. There
+were 7 deaths; 1 (fungal pneumonia due to marrow aplasia) possibly drug-related. With the 7on/
+7off regimen, 2 subjects had DLTs in the 250 mg BID group (both bone marrow failure and
+prolonged cytopenia). With the 7on/14off, no DLTs were observed in 210 mg BID or 300 mg BID
+Corresponding Author: Dr. Farhad Ravandi, University of Texas - MD Anderson Cancer Center, Unit 428, 1515 Holcombe Boulevard,
+Houston, TX 77030, Phone: 713-745-0394, Fax: 713-745-4612, fravandi@mdanderson.org.
+Contributions
+FR, IG, MMP, MDM, HK, AJL-L, CF, RL, MBJ, CDK, SR, PSP and RT are responsible for the work described in this paper. All
+authors were involved in at least one of the following: [conception, design, acquisition, analysis, statistical analysis, interpretation of
+data] and [drafting the manuscript and/or revising/reviewing the manuscript for important intellectual content]. All authors provided
+final approval of the version to be published. All authors agree to be accountable for all aspects of the work in ensuring that questions
+related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Conflict of Interest Statement
+The study was sponsored by Merck & Co., Inc, Kenilworth, New Jersey, USA. AOJ-L, CF, RL, MBJ, CDK, SR, PSP are current or
+former employees of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Kenilworth, New Jersey, USA, and may own
+stock or stock options in the company. IG reports advisory board fees from Merck & Co., Inc., outside of the submitted work. FR,
+MDM, HK, RT and MMP have no conflicts of interest to disclose.
+www.clinicaltrials.gov NCT01451437
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Ravandi et al. Page 2
+(doses >300 mg not tested). Best responses were: 1/24 PR (11 weeks;120 mg QD, 7on/7off); 1/24
+CRi (2 weeks;210 mg BID, 7on/14off); 1/24 morphologic leukemia-free state (4 weeks; 250 mg
+BID, 7on/7off). PK on Day7 at 210 mg BID revealed AUC 8.7 μM*hr, C 1.5 μM (n=5,
+0-12hr max
+T , 2–6 hr), T 7.9 hr, CL /F 28.8 L/hr, and V /F 317 L.
+max 1/2 ss ss
+Conclusions—The 7on/14off regimen showed a more favorable safety profile; no MTD was
+established. Efficacy was seen using both regimens providing impetus for further study of HDM2
+inhibitors in subjects with AML.
+Keywords
+Human Double Minute 2 Inhibitor; MK-8242; Acute Myelogenous Leukemia; p53; Phase I
+1. Introduction
+Acute myelogenous leukemia (AML) is the most common form of myeloid leukemia, with
+an overall incidence rate of approximately 4.0 cases per 100,000 persons and a median age
+of onset of 67 [1, 2]. It is a clonal hematopoietic stem cell disorder with the accumulation of
+poorly differentiated progenitor cells that fail to respond to the normal regulators of
+proliferation and differentiation [3]. When left untreated, this uncontrolled hematopoietic
+proliferation generally leads to rapid death due to cellular infiltration of the bone marrow
+and organs, leading to bleeding and infection [4, 5].
+In patients younger than 60 years, treatment of AML typically consists of cytotoxic
+chemotherapy with a general cure rate of 35–40% depending on the cytogenetic
+classification [5]. In contrast, standard chemotherapy produces a similar outcome in only 5–
+15 % of older patients, primarily because of their inability to tolerate intensive treatment and
+their generally higher risk disease features [4, 5]. Treatment of older or frail patients usually
+involves supportive care, low-dose cytarabine and hypomethylating agents; however, no
+consensus treatment algorithm exists for this difficult to treat population [5, 6].
+Unfortunately, treatment outcomes in older patients who are unable to receive intensive
+chemotherapy are extremely poor, with a median survival of 5 to 10 months [6]. For the
+majority of treated AML patients who achieve remission, relapse will occur within 3 years
+of the initial diagnosis [4, 7]. In general, the prognosis for AML patients following disease
+relapse is poor and the treatment options are unsatisfactory [6, 8–11]. Therefore an urgent
+unmet medical need exists for the development of new AML therapies, particularly in older
+and relapsed patients.
+The transcription factor p53 is a powerful tumor suppressor that plays a critical role in
+maintaining genomic stability and protecting against malignant transformation [12]. Nearly
+50% of all human cancers harbor loss of function mutations in the p53 gene [13]. However,
+the frequency of p53 mutations in hematologic cancers is low with only 3–8% of AML cases
+demonstrating a detectable p53 mutation [14]. Even in the presence of wild type p53, other
+aberrations can deleteriously influence the function and activity of p53, including over-
+expression of negative regulators [15]. The interaction of p53 with one such negative
+regulator, murine double minute 2 (MDM2; sometimes called HDM2 for its human analog),
+normally plays a central role in controlling the cell cycle by arresting p53 function [16].
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Ravandi et al. Page 3
+HDM2 directly binds to p53 thereby inhibiting its transcriptional activity and mediating its
+ubiquitination and subsequent degradation [17]. Additionally, inactivation of the p53
+pathway by HDM2 overexpression allows cancer cells to avoid p53-driven apoptosis in
+response to treatment with cytotoxic agents and radiation therapy. In cancer cells, the tight
+control of the HDM2:p53 protein-protein interaction is disrupted, thereby minimizing the
+tumor-suppressive activities of HDM2 on p53 and promoting a cell growth advantage [12].
+These data collectively support the notion that HDM2 inhibition may hold promise as a
+potential anti-cancer therapeutic strategy in a wide variety of human malignancies, either
+alone or in combination with traditional chemotherapy, by restoring normal p53 function
+[18].
+Prior research has shown that HDM2 over-expression, frequently resulting from increased
+mRNA expression rather than gene amplification, is a signature associated with certain
+malignancies including AML [19–23]. Furthermore, leukemia cells over-expressing HDM2
+are often resistant to conventional therapy resulting in a poor overall prognosis [24]. Taken
+together, these findings suggest that HDM2 inhibitors may be effective in patients with
+AML as well as other types of cancer. Indeed, small molecule HDM2 inhibitors have shown
+significant activity in animal models of leukemia and in preclinical experiments using
+patient AML cells and leukemic cell lines [25, 26]. Given these promising preclinical
+results, several HDM2 inhibitors have progressed to clinical evaluation in patients with
+AML and other hematologic malignancies (NCT02319369, NCT02098967, NCT02545283,
+NCT02319369; NCT02143635) [27].
+MK-8242 (otherwise known as SCH 900242) is a potent, orally bioavailable, small-molecule
+inhibitor of the HDM2:p53 protein-protein interaction. MK-8242 has an IC value as low as
+50
+20 nM resulting in growth arrest and cell death [28]. This report describes the results of a
+Phase I clinical dose-ranging study designed to establish the recommended phase 2 dose
+(RP2D) of MK-8242 based on safety, tolerability and pharmacokinetics (PK) in adult
+patients with refractory or recurrent AML. Other objectives of this study were to determine
+the complete response (CR) rate, the complete response with incomplete platelet recovery
+(CRi) [29], and the duration of response following treatment with MK-8242.
+2. Methods
+2.1. Study design
+This was a multi-center, non-randomized, open-label, 2-part (dose escalation and
+confirmation) study (Study Sponsor: Merck & Co., Inc., Kenilworth, New Jersey; Clinical
+Protocol MK-8242-005; www.clinicaltrials.gov NCT01451437) conducted between
+December 2011 and September 2014. The study was terminated in June 2014 by the
+Sponsor for reasons unrelated to safety (i.e., reprioritization of oncology portfolio) and only
+the monotherapy cohort (i.e., Arm A, Part 1) was enrolled.
+2.2. Treatments
+MK-8242 was initially dosed p.o. either QD (30 mg-250 mg) or BID (120 mg-250 mg) for 7
+days on/7 days off (7 on/7 off) in a 28-day cycle (Fig. 1A). To improve the safety/tolerability
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Ravandi et al. Page 4
+profile of myelosuppression with prolonged cytopenia and infection, the dosing schedule
+was later modified to 7 on/14 off in a 21-day cycle (210 mg or 300 mg BID) (Fig. 1B).
+Subjects were initially enrolled in cohorts of single subjects and treated at accelerated,
+escalating dose levels of MK-8242 as per Simon et al. [30]. When ≥1 dose-limiting toxicity
+(DLT) occurred at a particular treatment level, escalation was converted to a modified 3+3
+design [31]. When ≥1 subject at a given dose level experienced a Grade 2 or greater adverse
+event (AE) that did not meet DLT criteria and was not clearly attributable to another cause,
+the level was expanded to 3 subjects. If no additional Grade 2 or greater AEs occurred,
+escalation continued with the accelerated design. If at any time ≥2 subjects out of 3
+experienced a Grade 2 or greater AE that was not clearly attributable to another cause, dose
+escalation converted to a 3+3 design for the remainder of the study. In Part 1, monotherapy
+escalation continued until a preliminary maximum tolerated dose (MTD) was identified.
+Patients continued to receive treatment until withdrawal criterion was met or up to 4 cycles
+of study treatment was received with additional cycles allowed at the Investigator’s/
+Sponsor’s discretion.
+Each subject provided written informed consent prior to the conduct of any study
+procedures. The study protocols were approved by the Ethics Review Committees for the
+individual study centers. The study protocols were conducted in accordance with the
+guidelines on good clinical practice and with ethical standards for human experimentation
+established by the Declaration of Helsinki.
+2.3. Eligibility criteria
+Eligible patients were aged ≥18 years with a diagnosis of refractory or recurrent AML. They
+had to have an Eastern Cooperative Oncology Group (ECOG) performance status ≤2 with
+adequate organ function (creatinine <1.5 upper limit of normal [ULN] or calculated
+creatinine clearance ≥60 mL/min, total bilirubin <1.5 ULN aspartate aminotransferase/serum
+glutamic-oxalecetic transaminases and alanine aminotransferase/serum glutamic-pyruvic
+transaminases (SGPT) <3 x ULN) and were ineligible for standard therapy. Subjects
+enrolled in the 3+3 escalation portion of Part 1 were required to have a confirmed WT p53
+status (as per Roche Molecular Systems AmpliChip p53 Assay). Significant exclusion
+criteria included: active malignancy other than AML; history of leptomeningeal leukemia
+requiring intrathecal therapy; myelodysplasic syndrome (Part 1, only); isolated
+extramedullary leukemia without meeting bone marrow criteria for AML; diagnosis of AML
+blast crisis of chronic myelogenous leukemia; bone marrow transplant with active graft-
+versus-host disease or who received immunosuppressive therapy.
+Patients could be withdrawn from the study for failure to comply with the study
+requirements, pregnancy, disease recurrence or progression, dose delay >2 weeks,
+intercurrent illness preventing further administration of treatment, unacceptable AEs not
+manageable by symptomatic therapy, or a serious or life-threatening AE. A subject who
+discontinued from the study was allowed to be replaced if they did not complete the
+evaluation period for DLTs in Cycle 1 for reasons other than study treatment-related toxicity.
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Ravandi et al. Page 5
+Dose delays of up to 14 days were allowed for any ≥Grade 3 hematologic AE not clearly
+attributable to underlying disease. In addition, dose delays were allowed for ≥Grade 3 non-
+hematologic AE not clearly attributable to underlying disease or another cause, and persist
+beyond 72 hours following maximal supportive care. Subjects were assessed weekly until
+the AE resolved.
+2.4. Study endpoints
+The primary safety endpoint was to identify DLTs and establish the RP2D. Other safety
+endpoints included AEs, laboratory safety assessments, ECOG performance status,
+electrocardiograms (ECGs), vital signs and physical examinations. All laboratory
+assessments were performed on-site. Pre-specified AEs of clinical interest associated with
+AML included myelosuppression, neutropenia, thrombocytopenia, fever, infection, bleeding,
+and fatigue.
+The primary efficacy endpoint was to find the percentage of evaluable subjects with
+clinically relevant responses including CR, or CRi, as defined by Cheson et al. at the RP2D
+[29]. Other endpoints included AEs and laboratory safety assessments; CR and CRi rates at
+dose levels other than RP2D; and duration of CR and CRi response.
+2.5. Study assessments
+AEs were graded according to the National Cancer Institute (NCI) Common Toxicity
+Criteria for Adverse Events (CTCAE) version 4.0. A DLT was any ≥Grade 3 non-
+hematological toxicity considered drug-related during Cycle 1, except: (1) infection, fatigue,
+anorexia or alopecia; (2) Grade 3 nausea, vomiting, diarrhea or dehydration responsive to
+treatment (i.e., resolving <72 hours with maximal supportive care); (3) any ≥Grade 3
+toxicities not related to an underlying disease or another event.
+A hematological DLT was defined as neutropenia and/or thrombocytopenia (i.e., neutrophil
+count <500 mm3 and/or platelet count <25,000 mm3) observed in Cycle 1 by Day 42 or Day
+35 for the 7 on/7 off and 7 on/14 off schedules, respectively, and lasting >6 weeks in the
+context of no morphological evidence of recurrent or residual acute leukemia at Day 28 (i.e.,
+bone marrow blasts <5% and no clusters of blasts).
+The preliminary MTD was the dose at which the percentage of subjects experiencing a DLT
+was less than 33%. Dose escalation in Part 1 was scheduled to continue until an MTD was
+established at which point dose confirmation in Part 2 was scheduled to begin followed by
+response assessment.
+Physical examinations, ECGs, vital signs, urinalysis, blood chemistry and laboratory safety
+test were performed. AEs were followed for ≥30 days following the administration of the
+last dose of study therapy. Subjects who were discontinued from the study due to AEs were
+followed until resolution or stabilization of the AE. Bone marrow biopsies and aspirates for
+p53 status were shipped to assigned laboratories for analysis.
+The PK profiles of MK-8242 and M16 (a metabolite of MK-8242 with similar in-vitro
+potency) were characterized following oral administration of multiple doses of MK-8242
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Ravandi et al. Page 6
+during Cycle 1. Blood samples for the determination of plasma MK-8242 concentrations
+were collected from each subject pre-dose and at Days 1, 6, 7 and 8 post-dose following
+administration of MK-8242 in Cycle 1. These samples were collected in chilled 6 mL K
+2
+EDTA vacutainers and were centrifuged between 1000–1300 RCF (x g) at 4°C for 15
+minutes, and stored at −20°C or colder until analysis. Plasma samples were analyzed for
+MK-8242 using a validated assay liquid chromatography–mass spectrometric assay with a
+lower limit of quantitation of 20 ng/mL and an analytical range of 20 to 10000 ng/mL.
+2.6. Response methodology
+Bone marrow aspirates and biopsies were obtained monthly for Cycles 2–4, then every other
+cycle, until the discontinuation visit. If the morphologic result was ambiguous, a second
+bone marrow examination was performed one week later. Responses were evaluated
+following Cycle 1 according to the International Working Group criteria adapted from
+Cheson et al. for CR, CRi, and partial remission (PR) [29].
+Briefly, the designation of morphologic leukemia-free state required less than 5% blasts in
+an aspirate sample with marrow spicules and with a count of at least 200 nucleated cells.
+There could not be any blasts with Auer rods or persistence of extramedullary disease. The
+presence of a unique phenotype (by flow cytometry) identical to that found in the
+pretreatment specimen (e.g., CD34, CD7 coexpression) was considered persistence of
+leukemia. CR was defined as a morphologic leukemia-free state with a neutrophil count
+≥1,000/μL, a platelet count ≥100,000/μL, no extramedullary disease, and red blood cell
+transfusion independence.
+For CRi, subjects had to fulfill all of the criteria for CR except for residual neutropenia
+(<1,000/μL), thrombocytopenia (<100,000/μL), or red blood cell transfusion dependence.
+PR was defined as a ≥50% decrease in bone marrow blasts to 5% to 25% in the bone
+marrow. A value of <5% blasts was also considered a PR if Auer rods were present. A
+determination of PR required a neutrophil count ≥1,000/μL, a platelet count ≥100,000/μL,
+and no extramedullary disease. Disease progression was defined as an increase of 50% or
+more in bone marrow or circulating blasts, new development of circulating blasts on at least
+2 consecutive determinations, or development of extramedullary disease. Relapse was
+defined as a reappearance of leukemic blasts in the peripheral blood or >5% blasts in the
+bone marrow not attributable to any other cause (e.g., bone marrow regeneration) following
+the determination of CR. The appearance of new dysplastic changes also was considered a
+relapse. Stable disease was defined as any disease state not meeting the criteria for CR, CRi,
+PR, disease progression, or relapse.
+2.7. Statistical analyses
+Safety and tolerability were assessed by clinical review of all relevant parameters including
+AEs, laboratory tests, vital signs, and ECG measurements. Toxicities were recorded
+according to NCI-CTCAE 4.0 and summarized by dose level. The number and percentage of
+DLTs in each dose level were provided. AEs were summarized as counts and frequencies for
+each dose level. Laboratory assessments, vital signs, and other safety endpoints were
+summarized as appropriate.
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Ravandi et al. Page 7
+MK-8242 PK parameters were estimated and summarized by dose level using descriptive
+statistics in Parts 1 and 2. The following MK-8242 PK parameters were estimated:
+maximum observed plasma concentration (C ), area under the plasma concentration time
+max
+curve (AUC), time of maximum observed plasma concentration (T ), accumulation ratio
+max
+(R), and if feasible, apparent terminal half-life (t ), apparent total body clearance (CL/F),
+1/2
+and volume of distribution (Vd/F). For all PK parameters except T , the geometric mean
+max
+and coefficient of variation (median and range for T ) were calculated at each dose level.
+max
+To assess dose proportionality, the power model at a 90% confidence interval was applied to
+log-transformed PK parameters. The geometric mean accumulation ratio from Day 1 to Day
+7 was measured using AUC for QD dosing, or AUC for BID dosing.
+0-24hr 0-12hr
+3. Results
+3.1. Subject characteristics
+At the time of trial termination, 26 subjects (all with AML) had been enrolled in Arm A,
+Part 1 and received study treatment across 9 dose levels. Subject characteristics are
+summarized in Table 1. The median age was 66 years (range: 29–81) and the majority of
+subjects were males (77%). Per the study inclusion criteria, all enrolled patients were
+diagnosed with recurrent or refractory acute myelogenous leukemia (AML) at study entry
+(N=26; Supplementary Table 1). Three (3/26=12%) patients in this study had been
+previously diagnosed and only once treated for AML, excluding the current recurrence that
+led to study entry. All 3 of these patients had ‘progressive disease’ as their best response
+prior to entering the study. Of the patients with multiple prior recurrences of relapsed/
+refractory AML, 13 (57%), 7 (30%), 2 (9%), and 1 (4%) patients had 1, 2, 3 and 6 previous
+recurrence(s) of disease, respectively, excluding the current recurrence that led to study
+entry. A total of 23 (23/26= 89%) enrolled patients had genetic testing performed at baseline
+to determine WTp53 status. Of the enrolled patients with genetic testing, 7 (30%) were
+confirmed positive for WT p53 and 16 (70%) had abnormal genetic findings (i.e., p53
+mutations).
+3.2. Subject disposition and treatment exposure
+All 26 subjects discontinued from the study early, with 14 (54%) discontinuing due to
+progressive disease, 5 (19%) discontinuing due to AEs and 7 (27%) due to other reasons, 4
+subjects (15.4%) discontinuing due to the physician’s decision, 2 subjects (7.7%)
+discontinuing due to withdrawal of consent, and 1 subject (3.8%) discontinuing due to a
+protocol violation (concomitant treatment with an antineoplastic agent; Table 2). Overall,
+subjects received a median of 1 treatment cycle (range: 1 to 7) with a median of 21.0 days on
+therapy.
+3.3. Overall AE summary
+All subjects had ≥1 AE, with 18 (69.2%) of all subjects experiencing ≥1 drug-related AE of
+any grade (Supplementary Table 2). Commonly-reported, drug-related AEs of any grade
+included diarrhea (23.1%), nausea (42.3%), vomiting (34.6%), fatigue (19.2%), and
+decreased appetite (23.1%). All were Grades 1– 2, except one Grade 3 fatigue. Nausea
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Ravandi et al. Page 8
+occurred more frequently in subjects dosed BID 10/20 (50.0%) versus those dosed QD 1/6
+(16.7%). All of these AEs were considered expected for MK-8242.
+Sixteen subjects (61.5%) experienced an SAE; only 2 (7.7%) were considered to be drug-
+related. One subject, dosed at 210 mg BID, experienced Grade 3 atrial fibrillation and Grade
+2 acute renal failure. The other subject, dosed at 250 mg BID, experienced a DLT of bone
+marrow failure (Grade 4) associated with Grade 5 fungal pneumonia, Grade 4 febrile
+neutropenia, Grade 3 Escherichia infection, and Grade 2 cellulitis.
+In total, 7 deaths occurred within 52 days (range, 20–52 days) after the first dose of
+MK-8242, including 5 deaths in the 7 on/7 off dosing schedule and 2 deaths in the 7 on/14
+off schedule. The most frequently reported causes of death were respiratory-related (4; i.e., 3
+pneumonia and 1 respiratory failure) followed by AML progression (2) and sepsis (1). One
+death (i.e., fungal pneumonia due to marrow aplasia) was reported to be drug-related.
+Five (19.2%) subjects experienced ≥1 Grade 3–5 drug-related AE, including 2 (1 each in the
+120 mg QD and 250 mg BID dose groups) in the 7 on/7 off dosing schedule and 3 (2 in the
+210 BID and 1 in the 300 mg BID dose groups) in the 7 on/14 off schedule (Table 3).
+3.4. DLT summary
+Subjects were initially treated at 30, 60, 120, and 250 mg QD and at 120, 170, and 250 mg
+BID, using a 7 day on/7 day off dosing schedule in a 28-day treatment cycle. Hematological
+DLTs occurred in 2 out of 3 patients who were enrolled in the 250 mg BID group (Grade 4
+bone marrow failure and Grade 1 bone marrow failure with prolonged cytopenia which met
+the hematologic DLT criteria; Supplementary Table 3) which was dosed above the MTD as
+defined by the study protocol. The trajectory of decreases in peripheral blood counts in these
+patients suggested that Cycle 1, Day 14 was likely at or near the nadir. Re-dosing MK-8242
+on Cycle 1 Day 15 could have reintroduced toxicity prior to potential recovery. Holding the
+Day 15 dose and re-dosing on Day 21 (i.e. 7 days on/14 days off) was expected to result in
+less hematologic toxicity and a greater likelihood of recovery. Unpublished data from
+subjects with advanced solid tumors enrolled in a separate study, which utilized BID dosing
+and a 7 days on/14 days off dosing schedule in a 21-day treatment cycle, provided additional
+support for this hypothesis. Therefore the dosing schedule was changed to a 7 day on/14 day
+off schedule in a 21-day treatment cycle. After switching to the 7 on/14 off schedule, no
+DLTs were observed for the 210 mg BID or 300 mg BID groups (doses above 300 mg not
+tested). No MTD was established for 7 on/14 off dosing schedule.
+Since doses above 300 mg BID were not tested in this study (unrelated to safety), a RP2D
+for MK-8242 monotherapy could not be established utilizing the 7-day on/14-day off dosing
+schedule.
+3.5. Hematologic response rates
+Bone marrow biopsies were available for 24/26 (92%) subjects in this study; however, 2
+subjects did not have Day 28 and Day 42 bone marrow biopsies due to medical reasons.
+Across both dosing schedules, the best responses were as follows: 1 PR observed after 11
+weeks of treatment (4%; 120 mg QD, 7 on/7 off) with a response duration of 113 days (i.e.,
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Ravandi et al. Page 9
+this patient had a diagnosis of refractory AML and was confirmed positive for WT p53 at
+baseline); 1 CRi observed after 2 weeks of treatment (4%; 210 mg BID, 7 on/14 off) with a
+response duration of 51 days (i.e., this patient had a diagnosis of recurrent AML and was
+confirmed positive for WT p53 at baseline); 1 morphologic leukemia-free state after 4 weeks
+of treatment (4%; 250 mg BID, 7 on/7 off) with a response duration of 22 days (i.e., this
+patient had a diagnosis of recurrent AML and had an unknown genetic status at baseline).
+3.6. Pharmacokinetics
+The PK profiles of MK-8242 and M16 (a metabolite of MK-8242 with similar in vitro
+potency) were characterized on Days 1 and 7 (Fig. 2, Table 4 and Supplementary Table 4).
+On Day 7 (following 7 days of dosing) across all treatment arms, the median T range was
+max
+1.6 to 4.6 hr for MK-8242, and 2.0 to 4.8 hr for M16; and geometric mean half-life range
+was 4.6 to 10.3 hr for MK-8242, and 3.8 to 9.7 hr for M16. The 210 mg BID dose revealed a
+geometric mean AUC of 8.7 μM*hr, C of 1.5 μM (n=5, T , 2–6 hr), t of 7.9 hr,
+0-12hr max max 1/2
+CL /F of 28.8 L/hr, and V /F of 317 L. Moderate to high inter-subject variability in AUC
+ss ss
+and C was observed, as measured by the coefficient of variation (CV).
+max
+The daily exposure target of MK-8242 was established in the preclinical xenograft model as
+25.0 μM*hr. On Day 7, there were no doses for which the geometric mean projected daily
+exposure of MK-8242 or M16 was greater than the daily exposure target. On Day 7
+following 7 days of dosing and across all treatment arms, the geometric mean projected
+daily exposure (based on geometric mean AUC for QD dosing, or 2x geometric mean
+0-24hr
+AUC for BID dosing) range was 515 to 20200 nM*hr for MK-8242, and 37.1 to 11000
+0-12hr
+for M16. The geometric mean projected daily exposure of MK-8242 + M16 was greater than
+the target exposure for doses of 210 mg BID (27.5 μM*hr), 250 mg BID (25.5 μM*hr), and
+300 mg BID (28.3 μM*hr). On Day 7, the projected daily exposure increased in a supra-
+proportional manner with respect to the total daily dose for MK-8242, M16, and their sum.
+The geometric mean accumulation ratio range across all treatment arms was 0.63 to 1.33 for
+MK-8242, and 1.77 to 3.11 for M16.
+4. Discussion
+In this study, MK-8242 was initially administered orally either QD or BID across 7 dose
+levels ranging from 30 mg to 250 mg using a 7-day on/7-day off dosing schedule in a 28-day
+cycle. Following the observation of hematologic toxicities, the dosing schedule was
+subsequently modified whereby MK-8242 was administered orally at 250 mg and 300 mg
+BID using a 7-day on/14-day off schedule in a 21-day cycle. A limited number of cycles
+were administered (median of 1) to patients in this study primarily due to either disease
+progression or complications related to treatment. A total of 2 DLTs out of 3 patients were
+observed at the 250 mg BID dose using the 7-day on/7-day off schedule. The observed DLTs
+were bone marrow failure with associated prolonged cytopenia (i.e., Grade 4 bone marrow
+failure and Grade 1 bone marrow failure with prolonged cytopenia which met the
+hematologic DLT criteria). No DLTs were observed at the 210 mg BID and 300 mg BID
+dosing levels using the 7-day on/14-day off dosing schedule in a 21-day treatment cycle
+(doses above 300 mg not tested). The results of this study show that treatment with
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Ravandi et al. Page 10
+MK-8242 as monotherapy had an acceptable safety and toxicity profile. The modified 7-day
+on/14-day off schedule demonstrated a more favorable safety profile compared to the 7-day
+on/7-day off schedule; however, an MTD was not established for the 7-day on/14-day off
+schedule. Thus, a RP2D was not identified in this study.
+Overall, the pattern of toxicity seen in this study was consistent with previous findings of
+another HDM2 inhibitor[32] and included gastrointestinal toxicities, particularly diarrhea,
+nausea, vomiting, as well as hematologic toxicities, which included neutropenia and
+thrombocytopenia. Most of the commonly reported, drug-related AEs observed in this study
+were less than Grade 3 and manageable. However, there were instances of Grade 3–5
+hematologic SAEs consisting of bone marrow failure, leukopenia, febrile neutropenia,
+neutropenia and thrombocytopenia (all occurring in 2 patients at the 250 mg BID dose using
+the 7-day on/7-day off schedule). One drug-related death of fungal pneumonia occurred in a
+subject who also experienced a Grade 4 DLT of bone marrow failure at the 250 mg BID
+dose using the 7-day on/7-day off schedule. The hematologic AEs and infections seen in this
+study are common and expected in patients with advanced AML, thus rendering it difficult
+to distinguish between those that may have been due to the drug and those related to
+underlying leukemia. In addition, 1 subject had a Grade 3 drug-related AE of atrial
+fibrillation. Atrial fibrillation also was reported in a modest proportion of patients (~10%)
+treated with another clinically tested HDM2 inhibitor [32]. The mechanism(s) underlying
+the potential anti-rhythmic effects of MDM2 inhibitors is unclear and has not been reported
+widely in the literature. A knockout study in mice showed that full ablation of MDM2 gene
+induces cardiomyocyte loss resulting in embryonic lethality [33]. In the case of ibrutinib
+(another small molecule inhibitor), the proposed mechanism of cardiotoxicity involves
+possible inhibition of cardiac PI3K-AKT signaling [34, 35]. It is possible that MK-8242 and
+other similar compounds also may inhibit cardiac muscle enzymes and signaling molecules.
+Pharmacokinetic analysis revealed that MK-8242 and its bioactive metabolite, M16,
+exhibited non-linear kinetics in that the increase in exposure with respect to dose was supra-
+proportional (i.e., greater than linear). Neither MK-8242 nor M16 individually met the
+preclinically established daily exposure target at any dose tested in this study; however, the
+sum of MK-8242 and M16 exceeded the target for doses of 210, 250, and 300 mg BID.
+The preliminary assessment of efficacy in this study demonstrated modest single-agent
+activity of MK-8242 in patients with very advanced AML. All patients had recurrent or
+refractory disease at study entry, with refractory disease being the most common, and the
+median age was 62 years. Among 26 evaluable patients, 3 experienced an objective response
+following treatment with MK-8242 monotherapy according to IWG criteria. The best
+responses included 1 PR after 11 weeks (120 mg QD, 7on/7off) in a patient diagnosed with
+refractory AML and confirmed positive for WT p53; 1 CRi after 2 weeks (210 mg BID, 7on/
+14off) in a patient diagnosed with recurrent AML and confirmed positive for WT p53; and 1
+morphologic leukemia-free state after 4 weeks (250 mg BID, 7on/7off) in a patient
+diagnosed with recurrent AML and an unknown genetic status at baseline. The limited
+clinical activity seen in this study may be due to the generally more advanced disease state
+of the study population and limited number of treatment cycles. It is unclear if MK-8242
+might show greater efficacy in less heavily pre-treated or younger patients, longer duration
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Ravandi et al. Page 11
+of treatment, or when administered in combination with other traditional chemotherapeutic
+agents.
+MDM2 Inhibitors have been shown to have an acceptable tolerability profile in preclinical
+studies with normal cells showing less susceptibility toward drug-induced death compared
+with cancer cells [36–38]. However, given the adverse events seen in this and other clinical
+studies the preclinical findings may not be fully predictive of the human toxicity profile. In
+addition, previous in vitro reports showed that non-genotoxic HD2M inhibitors can sensitize
+cells to the effects of conventional chemotherapeutic agents, such as cytarabine and
+selumetinib, thus providing a strong rationale for moving combination regimens forward
+into clinical testing [26, 39–42]. It should be possible to use MK-8242 in combination with
+cytotoxic chemotherapy, if continuous dosing of the drug is not employed during the
+treatment cycle. For example, if cytarabine is used in combination with MK-8242 on a 21-
+day treatment cycle, MK-8242 for the combination therapy would be administered on Days
+1–7 and cytarabine on Days 1–4 of each treatment cycle to allow sufficient time for bone
+marrow recovery prior to the start of next treatment cycle. To this end, the safety and
+efficacy profiles of several HDM2/chemotherapeutic combination regimens are being
+extensively explored in early clinical trials of patients with hematological and solid tumors
+[28, 43]. Our preclinical data suggests that MK-8242 and cytarabine enhance survival when
+coadministered using an EOL-1 Luc animal model at a range of clinically relevant doses
+including those used in this study. Unfortunately, the present clinical study was terminated
+before the combination cytarabine treatment arm was enrolled. Nevertheless, several studies
+using other HDM2 inhibitors either have explored or are currently exploring the clinical
+efficacy and safety/tolerability of combination therapy with cytarabine in patients with AML
+(NCT01635296, NCT01773408, NCT02545283). The gastrointestinal, hematologic and
+potential cardiac AEs seen in this study with the administration of MK-8242 should be taken
+into consideration in the design of future studies to minimize toxicities and maximize
+clinical efficacy. This is especially important for combination therapy studies in light of the
+fact that standard chemotherapeutic agents also elicit similar toxicities that may be
+exacerbated when administered together with HDM2 inhibitors.
+Modest clinical efficacy was observed in this study with single-agent MK-8242. Using the 7-
+day on/14 day-off dosing schedule MK-8242 showed adequate safety at doses up to 300 mg
+BID with no significant AEs and no DLTs. An MTD and RP2D were not established
+because MK-8242 development was not further pursued by the sponsor for reasons unrelated
+to safety. Thus adequate exposure for single agent activity, at least based on preclinical
+models, was not reached in this study. In addition, combination tolerance and activity was
+not explored in this study. Thus, additional studies are required to more thoroughly evaluate
+the potential clinical activity of H2DM inhibitors both as monotherapy and in combination
+in patients with AML. The results of the current study should guide improved trail design,
+patient selection and treatment outcomes for future studies.
+5. Conclusion
+In summary, MK-8242 showed adequate safety in patients with recurrent/relapsed AML at
+doses up to 300 mg BID, using a modified 7-day on/14-day off dosing schedule. No DLT’s
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Ravandi et al. Page 12
+or significant adverse effects were observed. However, a MTD and RP2D were not
+established for the better tolerated 7-day on/14-day off dosing schedule because the study
+ended early. Further single agent tolerance was not explored by the sponsor since doses
+above 300 mg BID were not tested in this study. The observed toxicity profile of MK-8242
+was consistent with that reported for other HDM2 inhibitors, and included gastrointestinal
+and hematologic AEs and one event of atrial fibrillation. The incidence of these AEs
+appeared to be dose related. Single agent clinical activity was observed in this study,
+providing impetus for further evaluation of HDM2 inhibitors administered either as a single
+agent or in combination with standard cytotoxic chemotherapy in patients with AML.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+The authors would like to acknowledge Kristen Lewis (Merck & Co., Inc., Kenilworth, NJ) and Sheila Erespe
+(Merck & Co., Inc., Kenilworth, NJ) for their assistance preparing this paper for publication.
+Funding for this study was provided by Merck & Co., Inc., Kenilworth, New Jersey, USA. The funding organization
+was involved in the following: design and conduct of the study; collection, management, analysis, and interpretation
+of the data; and preparation, review, and approval of the manuscript.
+References
+1. National Cancer Institute. SEER Stat Fact Sheets: Acute Myeloid Leukemia (AML). 2015. http://
+seer.cancer.gov/statfacts/html/amyl.html
+2. Roboz GJ. Novel approaches to the treatment of acute myeloid leukemia. Hematology Am Soc
+Hematol Educ Program. 2011; 2011:43–50. [PubMed: 22160011]
+3. Wang J, Yang YG, Zhou M, et al. Meta-analysis of randomised clinical trials comparing idarubicin
++ cytarabine with daunorubicin + cytarabine as the induction chemotherapy in patients with newly
+diagnosed acute myeloid leukaemia. PLoS One. 2013; 8:e60699. [PubMed: 23593285]
+4. Estey E, Dohner H. Acute myeloid leukaemia. Lancet. 2006; 368:1894–907. [PubMed: 17126723]
+5. Dohner H, Estey EH, Amadori S, et al. Diagnosis and management of acute myeloid leukemia in
+adults: recommendations from an international expert panel, on behalf of the European
+LeukemiaNet. Blood. 2010; 115:453–74. [PubMed: 19880497]
+6. Longo DL, Armitage JO. Controversies in the treatment of early-stage Hodgkin’s lymphoma. N
+Engl J Med. 2015; 372:1667–9. [PubMed: 25901431]
+7. Ravandi F. Are adjuncts to induction chemotherapy worthwhile in the treatment of acute myeloid
+leukemia? Best Pract Res Clin Haematol. 2014; 27:241–6. [PubMed: 25455273]
+8. Craddock C, Tauro S, Moss P, Grimwade D. Biology and management of relapsed acute myeloid
+leukaemia. Br J Haematol. 2005; 129:18–34. [PubMed: 15801952]
+9. Breems DA, Van Putten WL, Huijgens PC, et al. Prognostic index for adult patients with acute
+myeloid leukemia in first relapse. J Clin Oncol. 2005; 23:1969–78. [PubMed: 15632409]
+10. Giles F, O’Brien S, Cortes J, et al. Outcome of patients with acute myelogenous leukemia after
+second salvage therapy. Cancer. 2005; 104:547–54. [PubMed: 15973664]
+11. Estey EH. Treatment of relapsed and refractory acute myelogenous leukemia. Leukemia. 2000;
+14:476–9. [PubMed: 10720145]
+12. Duffy MJ, Synnott NC, McGowan PM, Crown J, O’Connor D, Gallagher WM. p53 as a target for
+the treatment of cancer. Cancer Treat Rev. 2014; 40:1153–60. [PubMed: 25455730]
+13. Vogelstein B, Lane D, Levine AJ. Surfing the p53 network. Nature. 2000; 408:307–10. [PubMed:
+11099028]
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Ravandi et al. Page 13
+14. Nahi H, Selivanova G, Lehmann S, et al. Mutated and non-mutated TP53 as targets in the treatment
+of leukaemia. Br J Haematol. 2008; 141:445–53. [PubMed: 18341636]
+15. Saha MN, Qiu L, Chang H. Targeting p53 by small molecules in hematological malignancies. J
+Hematol Oncol. 2013; 6:23. [PubMed: 23531342]
+16. Wade M, Li YC, Wahl GM. MDM2, MDMX and p53 in oncogenesis and cancer therapy. Nat Rev
+Cancer. 2013; 13:83–96. [PubMed: 23303139]
+17. Kubbutat MH, Jones SN, Vousden KH. Regulation of p53 stability by Mdm2. Nature. 1997;
+387:299–303. [PubMed: 9153396]
+18. Saiki AY, Caenepeel S, Yu D, et al. MDM2 antagonists synergize broadly and robustly with
+compounds targeting fundamental oncogenic signaling pathways. Oncotarget. 2014; 5:2030–43.
+[PubMed: 24810962]
+19. Onel K, Cordon-Cardo C. MDM2 and prognosis. Mol Cancer Res. 2004; 2:1–8. [PubMed:
+14757840]
+20. Bueso-Ramos CE, Yang Y, deLeon E, McCown P, Stass SA, Albitar M. The human MDM-2
+oncogene is overexpressed in leukemias. Blood. 1993; 82:2617–23. [PubMed: 8219216]
+21. Quesnel B, Preudhomme C, Oscier D, et al. Over-expression of the MDM2 gene is found in some
+cases of haematological malignancies. Br J Haematol. 1994; 88:415–8. [PubMed: 7803295]
+22. Moller MB, Nielsen O, Pedersen NT. Oncoprotein MDM2 overexpression is associated with poor
+prognosis in distinct non-Hodgkin’s lymphoma entities. Mod Pathol. 1999; 12:1010–6. [PubMed:
+10574597]
+23. Wojcik I, Szybka M, Golanska E, et al. Abnormalities of the P53, MDM2, BCL2 and BAX genes
+in acute leukemias. Neoplasma. 2005; 52:318–24. [PubMed: 16059649]
+24. Gu L, Zhu N, Findley HW, Zhou M. MDM2 antagonist nutlin-3 is a potent inducer of apoptosis in
+pediatric acute lymphoblastic leukemia cells with wild-type p53 and overexpression of MDM2.
+Leukemia. 2008; 22:730–9. [PubMed: 18273046]
+25. Wang S, Sun W, Zhao Y, et al. SAR405838: an optimized inhibitor of MDM2-p53 interaction that
+induces complete and durable tumor regression. Cancer Res. 2014; 74:5855–65. [PubMed:
+25145672]
+26. Kojima K, Konopleva M, Samudio IJ, et al. MDM2 antagonists induce p53-dependent apoptosis in
+AML: implications for leukemia therapy. Blood. 2005; 106:3150–9. [PubMed: 16014563]
+27. Zhao Y, Aguilar A, Bernard D, Wang S. Small-molecule inhibitors of the MDM2-p53 protein-
+protein interaction (MDM2 Inhibitors) in clinical trials for cancer treatment. J Med Chem. 2015;
+58:1038–52. [PubMed: 25396320]
+28. Zhang Q, Zeng SX, Lu H. Targeting p53-MDM2-MDMX loop for cancer therapy. Subcell
+Biochem. 2014; 85:281–319. [PubMed: 25201201]
+29. Cheson BD, Bennett JM, Kopecky KJ, et al. Revised recommendations of the International
+Working Group for Diagnosis, Standardization of Response Criteria, Treatment Outcomes, and
+Reporting Standards for Therapeutic Trials in Acute Myeloid Leukemia. J Clin Oncol. 2003;
+21:4642–9. [PubMed: 14673054]
+30. Simon R, Freidlin B, Rubinstein L, Arbuck SG, Collins J, Christian MC. Accelerated titration
+designs for phase I clinical trials in oncology. J Natl Cancer Inst. 1997; 89:1138–47. [PubMed:
+9262252]
+31. Ji Y, Li Y, Nebiyou BB. Dose-finding in phase I clinical trials based on toxicity probability
+intervals. Clin Trials. 2007; 4:235–44. [PubMed: 17715248]
+32. Ray-Coquard I, Blay JY, Italiano A, et al. Effect of the MDM2 antagonist RG7112 on the P53
+pathway in patients with MDM2-amplified, well-differentiated or dedifferentiated liposarcoma: an
+exploratory proof-of-mechanism study. Lancet Oncol. 2012; 13:1133–40. [PubMed: 23084521]
+33. Grier JD, Xiong S, Elizondo-Fraire AC, Parant JM, Lozano G. Tissue-specific differences of p53
+inhibition by Mdm2 and Mdm4. Mol Cell Biol. 2006; 26(1):192–8. [PubMed: 16354690]
+34. Shanafelt TD, Chaffee KG, Call TG, et al. Atrial fibrillation in patients with chronic lymphocytic
+leukemia (CLL). Blood. 2015; 126(23):2950.
+35. Yang T, Moslehi JJ, Roden DM. Proarrhythmic Effects of Ibrutinib, a Clinically Approved
+Inhibitor of Bruton’s Tyrosine Kinase (BTK) Used in Cancer Therapy. Circulation. 2015;
+132:A14587.
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Ravandi et al. Page 14
+36. Shangary S, Qin D, McEachern D, et al. Temporal activation of p53 by a specific MDM2 inhibitor
+is selectively toxic to tumors and leads to complete tumor growth inhibition. Proc Natl Acad Sci U
+S A. 2008; 105(10):3933–8. [PubMed: 18316739]
+37. Secchiero P, Barbarotto E, Tiribelli M, et al. Functional integrity of the p53-mediated apoptotic
+pathway induced by the nongenotoxic agent nutlin-3 in B-cell chronic lymphocytic leukemia (B-
+CLL). Blood. 2006; 107(10):4122–9. [PubMed: 16439677]
+38. Tovar C, Graves B, Packman K, et al. MDM2 small-molecule antagonist RG7112 activates p53
+signaling and regresses human tumors in preclinical cancer models. Cancer Res. 2013; 73(8):
+2587–97. [PubMed: 23400593]
+39. Kojima K, Konopleva M, Tsao T, Nakakuma H, Andreeff M. Concomitant inhibition of Mdm2-p53
+interaction and Aurora kinases activates the p53-dependent postmitotic checkpoints and
+synergistically induces p53-mediated mitochondrial apoptosis along with reduced
+endoreduplication in acute myelogenous leukemia. Blood. 2008; 112:2886–95. [PubMed:
+18633130]
+40. Kojima K, Kornblau SM, Ruvolo V, et al. Prognostic impact and targeting of CRM1 in acute
+myeloid leukemia. Blood. 2013; 121:4166–74. [PubMed: 23564911]
+41. Saha MN, Micallef J, Qiu L, Chang H. Pharmacological activation of the p53 pathway in
+haematological malignancies. J Clin Pathol. 2010; 63:204–9. [PubMed: 19955555]
+42. Zhang W, Konopleva M, Burks JK, et al. Blockade of mitogen-activated protein kinase/
+extracellular signal-regulated kinase kinase and murine double minute synergistically induces
+Apoptosis in acute myeloid leukemia via BH3-only proteins Puma and Bim. Cancer Res. 2010;
+70:2424–34. [PubMed: 20215498]
+43. Khoo KH, Verma CS, Lane DP. Drugging the p53 pathway: understanding the route to clinical
+efficacy. Nat Rev Drug Discov. 2014; 13:217–36. [PubMed: 24577402]
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Ravandi et al. Page 15
+Highlights
+• This study evaluated MK-8242 in subjects with wild type p53 refractory/
+recurrent AML.
+• Adequate safety was seen at doses ≤300mg BID using 7-day on/14-day off
+dosing.
+• Observed dose-related toxicities included gastrointestinal and hematologic
+AEs.
+• An MTD and RP2D were not established for 7-day on/14-day off dosing
+schedule.
+• Single agent clinical activity was observed in this study.
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 16 ---
+Ravandi et al. Page 16
+Fig. 1.
+Study diagram for Arm A, MK-8242 monotherapy using a (A) 28-day treatment cycle and
+(B) 21-day treatment cycle.
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 17 ---
+Ravandi et al. Page 17
+Fig. 2.
+Mean plasma-concentration time profiles of MK-8242 and metabolite M16 on Days 1 and 7
+following treatment with MK-8242 30–300 mg doses administered once-daily (QD) or
+twice-daily (BID). Only one dose was administered on Day 7 in BID panels to support PK
+characterization.
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ravandi et al. Page 18
+1
+elbaT
+scitsiretcarahc
+esaesid
+dna
+scihpargomed
+enilesaB
+latoT
+elcyc
+yad-12
+a
+ni
+ffo
+41/no
+7
+elcyc
+yad-82
+a ni
+ffo
+7/no
+7
+eludehcs
+gnisoD
+DIB
+gm
+003
+DIB
+gm
+012
+DIB
+gm
+052
+DIB
+gm
+071
+DIB
+gm
+021
+DQ
+gm
+052
+DQ
+gm
+021
+DQ
+gm
+06
+DQ
+gm
+03
+esod
+2428-KM
+62
+4
+6
+3
+3
+4
+1
+3
+1
+1
+dellorne
+rebmuN
+)9.67(
+02
+)57(
+3
+)05(
+3
+)001(
+3
+)7.66(
+2
+)001(
+4
+)001(
+1
+)7.66(
+2
+)001(
+1
+)001(
+1
+)%(
+.on
+,)elam(
+xeS
+5.51
+±
+2.26
+3.41
+±
+0.14
+5.11
+±
+5.36
+5.21
+±
+3.27
+6.41
+±
+3.36
+5.81
+±
+8.85
+0.77
+7.6
+±
+3.27
+0.47
+0.36
+DS
+± naem
+,)sraey(
+egA
+)%(
+.on ,ecaR
+)3.29(
+42
+)57(
+3
+)3.38(
+5
+)001(
+3
+)001(
+3
+)001(
+4
+)001(
+1
+)001(
+3
+)001(
+1
+)001(
+1
+etihW
+)6.7(
+2
+)52(
+1
+)7.61(
+1
+0
+0
+0
+0
+0
+0
+0
+rehtO
+sisongaiD
+yramirP
+)5.83(
+01
+)05(
+2
+)05(
+3
+)7.66(
+2
+0
+0
+)001(
+1
+)7.66(
+2
+0
+0
+LMA
+tnerruceR
+)5.16(
+61
+)05(
+2
+)05(
+3
+)33(
+1
+)001(
+3
+)001(
+4
+0
+)3.33(
+1
+)001(
+1
+)001(
+1
+LMA
+yrotcarfeR
+)9.62(
+7
+)0.05(
+2
+)0.05(
+3
+0
+)3.33(
+1
+0
+0
+)3.33(
+1
+0
+0
+evitisop
+35p
+TW
+)5.16(
+61
+)0.52(
+1
+)0.05(
+3
+)3.33(
+1
+)7.66(
+2
+)001(
+4
+)001(
+1
+)7.66(
+2
+)001(
+1
+)001(
+1
+evitagen
+35p
+TW
+)5.11(
+3
+)0.52(
+1
+0
+)7.66(
+2
+0
+0
+0
+0
+0
+0
+demrofrep
+ton
+gnitset
+citeneG
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ravandi et al. Page 19
+2
+elbaT
+erusopxe
+tnemtaert
+dna
+noitisopsid
+tcejbus
+fo
+yrammuS
+latoT
+elcyc
+yad
+-12
+a
+ni
+ffo
+41/no
+7
+elcyc
+yad-82
+a ni
+ffo
+7/no
+7
+eludehcs
+gnisoD
+DIB
+gm
+003
+DIB
+gm
+012
+DIB
+gm
+052
+DIB
+gm
+071
+DIB
+gm
+021
+DQ
+gm
+052
+DQ
+gm
+021
+DQ
+gm
+06
+DQ
+gm
+03
+esod
+2428-KM
+62
+4
+6
+3
+3
+4
+1
+3
+1
+1
+dellorne
+rebmuN
+)001(
+62
+)001(
+4
+)001(
+6
+)001(
+3
+)001(
+3
+)%001(
+4
+)001(
+1
+)001(
+3
+)001(
+1
+)001(
+1
+)%(
+on
+,deunitnocsiD
+)2.91(
+5
+)52(
+1
+)7.61(
+1
+)7.66(
+2
+)3.33(
+1
+0
+0
+0
+0
+0
+EA
+)4.51(
+4
+0
+0
+0
+0
+0
+0
+)7.66(
+2
+)001(
+1
+)001(
+1
+noisiced
+naicisyhP
+)8.35(
+41
+)57(
+3
+)05(
+3
+)3.33(
+1
+)7.66(
+2
+)57(
+3
+)001(
+1
+)3.33(
+1
+0
+0
+esaesid
+evissergorP
+)8.3(
+1
+0
+)7.61(
+1
+0
+0
+0
+0
+0
+0
+0
+noitaloiv
+locotorP
+)7.7(
+2
+0
+)7.61(
+1
+0
+0
+)52(
+1
+0
+0
+0
+0
+tcejbus
+yb
+lawardhtiW
+)091–6(
+12
+)75–7(
+7
+)36–7(
+7
+)12-12(
+12
+)97–74(
+77
+)401–6(
+34
+)02-02(
+02
+)091–12(
+12
+)12-12(
+12
+)19-19(
+19
+)egnar(
+naidem
+,ypareht
+no
+syad
+.oN
+)7–1(
+1
+)2–1(
+1
+)3–1(
+1
+)1-1(
+1
+)3–2(
+3
+)4–1(
+2
+)1-1(
+1
+)7–1(
+1
+)1-1(
+1
+)4-4(
+4
+)egnar(
+naidem
+,selcyc
+tnemtaert
+.oN
+tneve
+esrevda
+=
+EA
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+
+--- Page 20 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ravandi et al. Page 20
+3 elbaT
+esod
+2428-KM
+yb
+detneserp
+)%
+;N/n(
+sEA
+5–3
+edarG
+detaler-gurd
+fo
+yrammus
+llarevO
+latoT
+elcyc
+yad-12
+a
+ni
+ffo
+41/no
+7
+elcyc
+yad-82
+a ni
+ffo
+7/no
+7
+eludehcs
+gnisoD
+62=N
+DIB
+gm
+003
+DIB
+gm
+012
+DIB
+gm
+052
+DIB
+gm
+071
+DIB
+gm
+021
+DQ
+gm
+052
+DQ
+gm
+021
+DQ
+gm
+06
+DQ
+gm
+03
+esod 2428-KM
+4=n
+6=n
+3=n
+3=n
+4=n
+1=n
+3=n
+1=n
+1=n
+)2.91(
+5
+)0.52(
+1
+)3.33(
+2
+)3.33(
+1
+0
+0
+0
+)3.33(
+1
+0
+0
+5–3
+edarG
+,EA
+detaler-gurd
+1≥
+htiw stcejbuS
+)7.7(
+2
+0
+0
+)3.33(
+1
+0
+0
+0
+)3.33(
+1
+0
+0
+sredrosid
+metsys
+citahpmyl
+dna doolB
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+eruliaf
+worram enoB
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+aineportuen
+elirbeF
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+ainepokueL
+)7.7(
+2
+0
+0
+)3.33(
+1
+0
+0
+0
+)3.33(
+1
+0
+0
+aineportueN
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+ainepotycobmorhT
+)8.3(
+1
+0
+)7.61(
+1
+0
+0
+0
+0
+0
+0
+0
+sredrosid
+caidraC
+)8.3(
+1
+0
+)7.61(
+1
+0
+0
+0
+0
+0
+0
+0
+noitallirbif
+lairtA
+)8.3(
+1
+0
+)7.61(
+1
+0
+0
+0
+0
+0
+0
+0
+etis
+noitartsinimda
+dna
+sredrosid
+lareneG snoitidnoc
+)8.3(
+1
+0
+)7.61(
+1
+0
+0
+0
+0
+0
+0
+0
+eugitaF
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+snoitatsefni
+dna snoitcefnI
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+noitcefni
+aihcirehcsE
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+lagnuf
+ainomuenP
+)8.3(
+1
+0
+)7.61(
+1
+0
+0
+0
+0
+0
+0
+0
+snoitagitsevnI
+)8.3(
+1
+0
+)7.61(
+1
+0
+0
+0
+0
+0
+0
+0
+desaercni
+niburilib doolB
+)7.7(
+2
+)0.52(
+1
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+sredrosid
+noitirtun
+dna
+msilobateM
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+aimeaclacopyH
+)7.7(
+2
+)0.52(
+1
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+aimealakopyH
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+aimeasengamopyH
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+aimeatahpsohpopyH
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+sredrosid
+ralucsaV
+)8.3(
+1
+0
+0
+)3.33(
+1
+0
+0
+0
+0
+0
+0
+noisnetopyH
+†
+nmuloc
+dna
+wor
+elbacilppa
+hcae
+rof
+emit
+elgnis
+a
+detnuoc
+si tcejbus yrevE
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+
+--- Page 21 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ravandi et al. Page 21
+4
+elbaT
+no
+)DIB(
+yliad-eciwt
+ro
+)DQ(
+yliad-ecno
+deretsinimda
+2428-KM
+fo
+sesod
+gm 052
+–
+03
+gniwollof
+2428-KM
+fo
+sretemarap
+citenikocamrahp
+fo yrammuS
+,)
+C(
+noitartnecnoc
+mumixam
+era
+sretemarap
+KP
+.)noitaziretcarahc
+KP
+troppus
+ot
+slenap
+DIB
+ni 7
+yaD
+no
+deretsinimda
+saw
+esod
+1 ylno(
+7 dna
+1
+syaD
+xam
+evruc
+emit-noitartnecnoc
+eht
+rednu
+aera
+,)
+CUA(
+rh
+21
+ot
+0
+morf
+evruc
+emit-noitartnecnoc
+eht
+rednu
+aera
+,)
+T(
+noitartnecnoc
+mumixam
+fo
+emit
+rh21-0
+xam
+llA
+.)F/
+V(
+etats-ydaets
+ta
+noitubirtsid
+fo emulov
+,)F/
+LC(
+ecnaraelc
+etats-ydaets
+ydob
+latot
+tnerappa
+,)
+t(
+efil-flah
+lanimret
+,)
+CUA(
+rh
+42 ot
+0
+morf
+ss
+ss
+2/1
+rh42-0
+.)egnar(
+naidem
+si
+hcihw
+,
+T rof
+tpecxe
+,)noitairav
+fo
+tneiciffeoc
+%(
+snaem
+cirtemoeg
+era
+sretemarap
+KP
+xam
+a)L(
+F/
+V
+a)rh/L(
+F/
+LC
+a)rh(
+t
+a)Mn*rh(
+CUA
+a)Mn*rh(
+CUA
+b)rh(
+T
+a)Mn(
+C
+yaD
+N
+esoD
+ss
+ss
+2/1
+rh42-0
+rh21-0
+xam
+xam
+--
+--
+--
+406
+893
+2.6
+7.65
+1
+1
+DQ
+gm
+03
+463
+7.35
+7.4
+566
+225
+0.2
+8.88
+7
+1
+--
+--
+--
+015
+015
+0.2
+901
+1
+1
+DQ
+gm
+06
+--
+931
+--
+515
+515
+0.2
+871
+7
+1
+--
+--
+--
+)621( 0173
+)701(
+0872
+)0.4
+– 1.2(
+0.4
+)18(
+614
+1
+3
+DQ
+gm
+021
+)43( 813
+)55(
+3.14
+)42(
+33.5
+)55( 0643
+)25(
+0082
+)0.2
+– 0.1(
+0.2
+)65(
+035
+7
+3
+--
+--
+--
+c)101( 0323
+c)09(
+0182
+)0.4
+– 1.2(
+0.4
+)25(
+165
+1
+4
+DIB
+gm
+021
+--
+)24(
+5.24
+--
+)14( 0814
+)24(
+0633
+)0.4
+– 0.2(
+0.4
+)65(
+447
+7
+3
+--
+--
+--
+00901
+0397
+0.4
+0721
+1
+1
+DQ
+gm
+052
+782
+5.34
+75.4
+0486
+0706
+0.2
+0231
+7
+1
+--
+--
+--
+d)721( 0496
+d)531(
+0495
+)1.4
+– 0.2(
+0.2
+)39(
+489
+1
+3
+DIB
+gm
+071
+e577
+)38(
+5.23
+e03.01
+)501( 0448
+)38(
+0226
+)0.6
+– 2.2(
+2.4
+)56(
+0021
+7
+3
+--
+--
+--
+f)67( 0046
+f)46(
+0055
+)1.4
+– 9.1(
+0.2
+)25(
+0131
+1
+5
+DIB
+gm
+012
+c)05(
+713
+)84(
+8.82
+c)23(
+29.7
+)35( 00211
+)84(
+0768
+)0.6
+– 0.2(
+0.4
+)15(
+0551
+7
+5
+--
+--
+--
+)28( 0197
+)67(
+0176
+)0.4
+– 0.2(
+0.2
+)66(
+0151
+1
+3
+DIB
+gm
+052
+d)07(
+222
+)47(
+1.14
+d)81(
+12.5
+)75( 0088
+)47(
+0427
+)1.4
+– 9.1(
+0.2
+)801(
+0051
+7
+3
+--
+--
+--
+e0849
+e0038
+)0.6
+– 0.2(
+1.2
+)62(
+0491
+1
+3
+DIB
+gm
+003
+d)13(
+483
+)05(
+4.53
+d)73(
+60.7
+)26( 00241
+)05(
+00101
+)0.6
+– 0.4(
+0.4
+)18(
+0291
+7
+3
+a
+;)VC%(
+naem cirtemoeG
+b
+;)xam
+- nim(
+naideM
+Leuk Res. Author manuscript; available in PMC 2017 September 01.
+
+--- Page 22 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ravandi et al. Page 22
+c
+;3=N
+d
+;2=N
+e
+;1=N
+f
+;4=N
+Leuk Res. Author manuscript; available in PMC 2017 September 01.

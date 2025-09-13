@@ -1,0 +1,958 @@
+Source: 26783290.pdf
+Extracted on: Fri Sep 12 23:55:23 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Published in final edited form as:
+Clin Cancer Res. 2016 June 01; 22(11): 2650–2658. doi:10.1158/1078-0432.CCR-15-2160.
+A Phase I Study of the AKT Inhibitor MK-2206 in Combination
+with Hormonal Therapy in Postmenopausal Women with
+Estrogen Receptor Positive Metastatic Breast Cancer
+Cynthia X. Ma1,#, Cesar Sanchez1, Feng Gao2, Robert Crowder1, Michael Naughton1,
+Timothy Pluard1, Allison Creekmore1, Zhanfang Guo1, Jeremy Hoog1, A. Craig Lockhart1,
+Laurence Doyle3, Charles Erlichman4, and Matthew J. Ellis5,#
+1Division of Oncology, Department of Internal Medicine, Washington University School of
+Medicine, St. Louis, MO
+2Department of Biostatistics, Washington University School of Medicine, St. Louis, MO
+3Cancer Therapy Evaluation Program, National Cancer Institute (NCI), Rochester, MN
+4Mayo Clinic, Rochester, MN
+5Lester and Sue Smith Breast Center, Baylor College of Medicine, Houston, TX
+Abstract
+Purpose—Phosphatidylinositol-3-kinase (PI3K)/AKT pathway activation is an important
+endocrine resistance mechanism in estrogen receptor positive (ER+) breast cancer. After
+promising preclinical modeling of MK-2206, an allosteric pan-AKT inhibitor, with either
+estrogen-deprivation or fulvestrant, we conducted a Phase 1 trial in patients with metastatic ER
++HER2− breast cancer to determine the recommended phase II treatment dose (RPTD) of
+MK-2206 when combined with either anastrozole, fulvestrant, or anastrozole/fulvestrant.
+Methods—ER+ breast cancer cell lines were exposed in vitro to MK-2206 plus estrogen-
+deprivation with or without fulvestrant and monitored for apoptosis. A standard 3+3 design was
+employed to first determine the maximum tolerated dose (MTD) of MK-2206 plus anastrozole
+based on cycle 1 toxicity. Each cycle was 28 days. The RPTD was determined based on toxicities
+observed at MTD level during the first 3 cycles. Subsequent patients received MK-2206, at the
+RPTD determined above, and fulvestrant or anastrozole/fulvestrant to define RPTD for these
+additional regimens.
+Results—MK-2206 induced apoptosis in parental ER+ but not in long term estrogen deprived
+cell lines, for which fulvestrant was required for apoptosis induction. Thirty one patients enrolled.
+The RPTD was defined as MK-2206 150 mg PO weekly with prednisone prophylaxis for each
+#Corresponding author, Cynthia X. Ma, M.D., Ph.D., Associate Professor of Medicine, Clinical Director of the Breast Cancer
+Program, Section of Medical Oncology, Division of Oncology, Department of Medicine, Siteman Cancer Center, Washington
+University School of Medicine, 660 South Euclid Avenue, St Louis, MO 63110, cma@dom.wustl.edu, Tel: 314-362-9383, Fax:
+314-362-7086. #Corresponding author, Matthew J. Ellis, M.B., B.Chir., Ph.D., Director of the Lester and Sue Smith Breast Center,
+Baylor College of Medicine, One Baylor Plaza, 320A Cullen, MS 600, Houston TX 77030, mjellis@bcm.edu, Tel: 713-798-1640.
+Conflict of Interest Statement: Authors disclose no conflict of interest
+Presented in part at the 2014 Annual meeting for the American Society of Clinical Oncology
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Ma et al. Page 2
+combination. Grade 3 rash was dose limiting. 42% (95% CI: 23%–63%) patients derived clinical
+benefit without progression within 6 months. Response was not associated with tumor PIK3CA
+mutation.
+Conclusion—MK-2206 plus endocrine treatments were tolerable. MK-2206 in combination with
+anastrozole is being further evaluated in a phase II neoadjuvant trial for newly diagnosed ER
++HER2− breast cancer.
+Keywords
+Estrogen receptor positive breast cancer; endocrine resistance; AKT; MK-2206; PIK3CA
+Introduction
+Estrogen receptor positive (ER+) breast cancer accounts for the majority of the breast cancer
+mortality. The lack of an apoptotic response to standard treatment with chemotherapy (1)
+and endocrine agents (2) is thought to be an important mechanism of treatment resistance.
+Accumulating evidence indicates that the phosphatidylinositol-3-kinase (PI3K)/Akt
+signaling, which is crucial to many aspects of cell growth and survival (3), plays an
+important role in maintaining cell survival and resistance to endocrine therapy in ER+ breast
+cancer (4), likely as a result of frequent somatic mutations and epigenetic alterations in the
+pathway components. For example, mutations in PIK3CA, which encodes the alpha catalytic
+subunit of PI3K, is the most frequent somatic mutation in ER+ breast cancer (30 to 50%) (4,
+5). In addition, lower frequency mutations in phosphatase and tensin homolog (PTEN) (2%
+to 4%), AKT1 (2% to 3%) and phosphatidylinositol 3-kinase regulatory subunit alpha
+(PIK3R1: 1% to 2%), have also been observed (4, 5). Furthermore, adaptation of ER+ breast
+cancer under long-term estrogen deprivation (LTED) is accompanied by up-regulation of
+PI3K pathway signaling, suppression of which inhibits cell proliferation (6). We previously
+demonstrated that inhibition of PI3K, either by targeted knockdown of the PIK3CA or
+pharmacologically using inhibitors of PI3K pathway, induced apoptosis of ER+ breast
+cancer in a manner that required simultaneous suppression of ER function. These data
+suggest a synthetic lethal interaction between ER and PI3K pathway targeting (7, 8),
+supporting the development of clinical strategies to simultaneously inhibitor ER and PI3K/
+Akt.
+AKT, a serine/threonine kinase with 3 isoforms (AKT1, AKT2, and AKT3), is an important
+downstream target of the PI3K pathway that plays a key role in regulating cell survival,
+proliferation, growth, and glycogen metabolism (9–11). Increased AKT kinase activity,
+which signals activated PI3K, is detected in 20–55% of breast cancer specimens (12) and
+associated with relapse and death in ER+ breast cancer (13). MK-2206 is an allosteric
+inhibitor of AKT in clinical development for cancer therapeutics. It is highly potent against
+AKT1 (IC50, 5 nmol/L), AKT2 (IC50, 12 nmol/L), and AKT3 (IC50, 65 nmol/L) and has
+greater than 100-fold selectivity for AKT versus 256 other kinases (14). In vitro, MK-2206
+inhibited auto-phosphorylation of AKT and prevents AKT-mediated phosphorylation of
+downstream targets (15). MK-2206 demonstrated anti-proliferative activity as a single agent
+and in combination with other agents in multiple human cancer cell lines including breast
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Ma et al. Page 3
+cancer (16). In previous Phase I trials MK-2206 was well tolerated in human and
+demonstrated evidence of AKT inhibition (17).
+The goal of this study was to evaluate whether the addition of MK-2206 to endocrine
+therapy in combination with estrogen deprivation or fulvestrant, an ER down regulator, can
+induce apoptosis in ER+ breast cancer and to determine the recommended phase II treatment
+dose (RPTD) of MK-2206 in combination with common endocrine therapy regimens
+including anastrozole and fulvestrant (NCT01344031). As promising activity was observed
+for the combination of anastrozole and fulvestrant when compared to anastrozole alone in
+the first line endocrine therapy setting for patients with advanced ER+ breast cancer (18), we
+included anastrozole plus fulvestrant as a third endocrine regimen to be combined with
+MK-2206. To ensure treatment tolerability in future studies and in clinical practice, the
+RPTD was defined based on toxicities observed in the first 3 cycles rather than 1 cycle of
+treatments in this trial. Exploratory objectives of this trial included preliminary efficacy
+assessment and analysis of archival tumor specimens for predictors of response.
+Material and Methods
+Materials and cell lines for preclinical studies
+MK-2206 was obtained through material transfer agreement with Merck & Co., Inc.
+(Kenilworth, NJ, USA). Fulvestrant (Sigma-Aldrich, St. Louis, MO, USA) and 17β-estradiol
+(Sigma-Aldrich) were from commercial sources. 17β-Estradiol was dissolved in ethanol.
+MK-2206 was dissolved in dimethylsulfoxide.
+The HCC712 cell line was kindly provided by Dr. Adi Gazdar (19). Other cell lines were
+obtained from American Type Culture Collection (ATCC, Manassas, VA). All cell lines were
+used within 6 months upon receiving. No further authentication was performed in our
+laboratory. LTED MCF7, T47D, MDA-MB-415, and HCC712 cell lines were generated by
+culturing the parental lines for > 6 months in phenol red-free RPMI 1640 containing 5%
+charcoal stripped FBS (charcoal stripped serum (CSS); Invitrogen, Carlsbad, CA, USA),
+antibiotics and supplements containing 50 µg/mL gentamycin, pyruvate, 10 mM Hepes and
+glucose to 4.5 g/L (CSS medium).
+In vitro Cell Culture, Western Blot, Apoptosis Assay, and Statistical analysis
+Experiments with parental cell lines were performed with low passage number cells used
+within 2–3 months following revival from the supplier. Cell lines were propagated in RPM1
+1640 containing 10% FBS with antibiotic and supplements (50 µg/mL gentamycin,
+pyruvate, 10 mM Hepes and glucose to 4.5 g/L) in a humidified 37°C incubator containing
+5% CO . Short term estrogen-deprivation was achieved by maintaining in CSS medium for
+2
+1–3 weeks prior to treatment with MK-2206. The method for protein extraction,
+immunoblotting, apoptosis assay, and statistical analysis for in vitro studies were described
+in our previous publication (8).
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Ma et al. Page 4
+Patients
+Eligible patients were postmenopausal females aged ≥ 18 years, with stage IV, measurable
+or evaluable ER+ breast cancer, ECOG performance status ≤ 1, adequate organ and marrow
+function, total bilirubin not above the institutional upper limit of normal (ULN),
+AST(SGOT)/ALT(SGPT) <2.5 × institutional ULN, and normal creatinine), fasting glucose
+≤ 120 mg/dL and HbA1c ≤ 8%. Patients were allowed any number of prior regimens for the
+treatment of breast cancer. Patients with known brain metastases were eligible if stable ≥3
+months after local therapy and were off steroid. Measurable or evaluable disease by RECIST
+was allowed. Patients with prior AKT inhibitor, disease progression on anastrozole
+(MK-2206 plus anastrozole cohort), fulvestrant (MK-2206 plus fulvestrant cohort), or both
+anastrozole and fulvestrant (MK-2207 plus anastrozole and fulvestrant cohort) or baseline
+QTcF >470 msec, uncontrolled intercurrent illness, medications or substances that are strong
+inhibitors or inducers of CYP 450 3A4, or chemotherapy or radiotherapy within 4 weeks
+were excluded. Medications that may cause QTc interval prolongation were avoided. The
+protocol was approved by Washington University Institutional Review Board. Informed
+consent was obtained from each patient. All race and ethnic groups were included. This trial
+was registered at ClinicalTrials.gov (NCT01344031).
+Clinical trial study design and treatment
+The phase I study started with the combination of MK-2206 PO weekly and anastrozole
+1mg PO daily to determine the recommended phase II treatment dose (RPTD) of this
+combination. Three dose levels of MK-2206 (100, 150, 200 mg) were tested. Each cycle was
+28 days. RPTD was defined as the highest dose level at which no more than 1 of 6 evaluable
+patients developed a dose limiting toxicity (DLT) within the first 3 cycles. To expedite study
+progress, a standard 3+3 phase I design was employed to first determine the maximum
+tolerated dose (MTD) based on cycle 1 toxicity. The MTD was defined as the highest dose
+level at which no more than 1 of 6 experienced a DLT during cycle 1. RPTD was reached if
+no more than 1 of the 6 patients treated at MTD experienced a DLT within the first 3 cycles.
+Otherwise dose de-escalation for MK-2206 would occur. The RPTD of MK-2206 defined in
+combination with anastrozole was then used as the starting dose of MK-2206 to treat 6
+patients each with MK-2206 in combination with either fulvestrant or fulvestrant plus
+anastrozole to determine the RPTD for these regimens. For RPTD assessments, only patients
+who completed at least 3 cycles of therapy or those who developed a DLT within the first 3
+cycles are considered evaluable. Patients who discontinued study therapy due to reasons
+other than toxicities (such as disease progression) prior to completing cycle 3 were replaced.
+In this trial, DLT was defined as any grade 4 hematological event; uncontrollable
+hyperglycemia; any grade 3 or 4 non-hematological toxicity; grade 3 or 4 nausea, vomiting,
+or diarrhea; any intolerable grade 2 non-hematological or grade 3 hematological toxicity
+requiring a dose reduction; or a delay of MK-2206 or anastrozole for > 1 week during cycle
+1 or > 3 total weeks during the first 3 cycles of therapy in RPTD determination.
+Patients were evaluated for adverse events (AEs) weekly during the 1st cycle of therapy, then
+on day 1 of each subsequent cycle. Restaging per RECIST 1.1 was completed every 12
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Ma et al. Page 5
+weeks or 3 cycles. Patients were continued on treatment until disease progression,
+unacceptable toxicity, or withdrawal of consent occurred.
+Anastrozole was administered for at least 14 days prior to the first dose of MK-2206 on Day
+1 cycle 1 to ensure full estrogen deprivation. Fulvestrant 500 mg was administered monthly
+following a loading dose of 500 mg on days 1 and 15 during cycle 1. Fulvestrant was
+administered for at least 28 days prior to the start of cycle 1 day 1 MK-2206. Prophylactic
+prednisone was administered to the 9th and subsequent patients enrolled in the study
+following a protocol amendment for rash prophylaxis. Prednisone was administered at a
+starting dose of 20mg PO daily for three days on the day before, the day of, and the day after
+each MK-2206. Prednisone dose was tapered as tolerated to the next lower dose level (10mg,
+5mg, 0mg) every 4 or more weeks, or up escalated to 40mg if grade 2 or above rash was
+observed despite 20mg dose of prednisone.
+Toxicity Management and Dose Modification
+For grade 1 hyperglycemia, MK-2206 was to continue while initiating or to increase oral
+diabetic agents. For grade 2 hyperglycemia, MK-2206 was held while adjusting diabetic
+medications. MK-2206 was restarted at the same dose level when glucose level recovered to
+grade 1 or lower. For grade 3/4 hyperglycemia, consultation with an endocrinologist or other
+subspecialist was recommended to adjust diabetic medications. MK-2206 was held until
+hyperglycemia recovered to grade 1. If recovery was more than 7 days, MK-2206 was
+resumed at 1 dose level reduction.
+For rash, if grade 1, patients continued the same dose of MK-2206 and prophylactic
+prednisone. If grade 2, patients continued MK-2206 with an increase in the dose of
+prophylactic prednisone to a higher dose level. If grade 3, MK-2206 was held and
+prednisone was administered as needed. MK-2206 was reduced by one dose level when rash
+resolved to grade 1 or lower unless MK-2206 was already at the lowest dose level. In
+addition, prophylactic prednisone dose was increased to the next higher dose level. Patient
+went off study if grade 3 rash developed despite maximum prophylactic prednisone (40mg).
+If the rash was grade 4, MK-2206 was discontinued permanently and a dermatologist was
+consulted to assist management.
+For other unspecified AEs, if grade 2, MK-2206 was continued or held at physician’s
+discretion depending on the nature of the AE. If held, MK-2206 could be restarted at the
+initial dose or by one dose level reduction when AEs recovered to grade 1 or less. If grade 3,
+MK-2206 was held until symptoms resolved to grade 1 or lower. MK-2206 was reduced by
+one dose level when treatment resumed. If grade 4, MK-2206 was discontinued. Resumption
+of MK-2206 at one dose level reduction could be considered if a patient was deriving benefit
+from therapy and the grade 4 AE was transient and recovered to no more than grade 1 and
+unlikely to recur with retreatment.
+Archival tumor DNA sequencing
+Tumor DNA, extracted from archival formalin fixed paraffin embedded (FFPE) tumor
+specimens using QIAamp DNA FFPE Tissue Kit (Qiagen, cat# 56404), and matched
+leukocyte germ-line DNA were subjected to targeted Illumina next generation sequencing by
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Ma et al. Page 6
+2×100 paired end reads of an 83-gene panel as described (20) at McDonnell Genome
+Institute at Washington University. Sequencing analysis was performed as previously
+described (21–27).
+Results
+Preclinical data supporting synergistic apoptotic effect of MK-2206 in combination with
+hormonal therapy
+To investigate the apoptotic effect of MK-2206 on ER+ breast cancer, we performed in vitro
+studies using a panel of ER+ breast cancer cell lines with diverse genetic background in the
+absence or presence of estradiol (Fig. 1). Although HCC1428, which has normal PIK3CA
+and PTEN, exhibited sensitivity to MK-2206, majority of the sensitive cell lines carried
+mutations in PIK3CA or PTEN or harbored HER2 amplification (Fig. 1a). Estrogen
+deprivation was required for apoptotic induction by MK-2206 in majority of the cell lines
+tested (Fig. 1b), prompting a clinical investigation of MK-2206 in combination with
+aromatase inhibitors (AI) in patients with ER+ breast cancers.
+To investigate the effect of MK-2206 on AI resistant ER+ breast cancer, long term estrogen
+deprived (LTED) lines derived from MCF7, T47D, MDA-MB415, and HCC712, were
+treated with MK-2206 in the presence or absence of fulvestrant (Fig. 1c). Neither agent
+alone was effective in inducing apoptosis, however combination treatment induced
+significant apoptosis in 2 of the 4 lines, including MCF7 LTED and HCC712 LTED. In
+MDA-MB415 LTED and T47D LTED, which were not responsive to the combination, ER
+levels were low and PI3K activity was not enhanced in the LTED compared to the
+corresponding parental cell lines (Fig. 1d). These data indicated that MK-2206 in
+combination with fulvestrant could overcome endocrine resistance in some AI resistant ER+
+breast cancer justifying a clinical trial in the second or later line endocrine therapy setting.
+Patients Characteristics, Dose Limiting Toxicities, and Recommended Phase II Treatment
+Dose
+Thirty one patients were enrolled in the study at three dose levels of MK-2206 (Table 1).
+One patient in the MK-2206/Fulvestrant cohort withdrew consent following 1 dose of
+MK-2206, and therefore was excluded from analysis. Table 2 shows the clinical
+characteristics of the remaining 30 patients. All patients had ER+HER2− disease. The phase
+I trial started with MK-2206 150mg PO weekly (dose level 1) in combination with
+anastrozole, which resulted in a DLT (grade 3 rash) in 2 of 5 patients, leading to dose de-
+escalation to dose level −1 (MK-2206 100mg), at which 1 of 3 patients experienced a DLT
+(grade 3 rash). The rashes were typically pruritic and erythematous maculopapular in
+appearance that occurred post the 2nd dose of MK-2206 and commonly resolved within 1
+week in response to prednisone (Suppl. Fig. 1a). Antihistamines were not as successful in
+treating the rash. Biopsy of the rash in one patient revealed perivascular lymphocytic
+infiltrate with eosinophils, consistent with hypersensitivity dermatitis (Suppl. Fig. 1b).
+Because of the exquisite sensitivity of the MK-2206 induced rash to prednisone, the protocol
+was subsequently amended to include prophylactic prednisone 20mg PO for 3 days,
+administered on the day before, the day of, and the day after each MK-2206 dose (starting
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Ma et al. Page 7
+with the 9th patient enrolled to the study). With prophylactic prednisone, 0 of 6 patients
+experienced a DLT with MK-2206 150mg weekly in combination with anastrozole, however,
+both patients treated at the next higher dose level of MK-2206 (200mg) experienced a DLT
+(grade 3 rash) despite prophylactic prednisone. Therefore dose level 1, MK-2206 150mg
+weekly with prophylactic prednisone, was defined as the MTD. All 6 patients at the MTD
+dose of MK-2206 in combination with anastrozole were evaluable for RPTD assessment,
+and none experienced any DLT within the first 3 cycles of treatment. Therefore RPTD was
+defined as MK-2206 150mg PO weekly with prophylactic prednisone (20mg PO daily on
+the day before, the day of, and the day after each MK-2206 dose) when combined with
+anastrozole. Eight patients were then enrolled to received MK-2206 at this dose level with
+prophylactic prednisone and fulvestrant, among whom 6 were evaluable for RPTD
+assessment (1 patient withdrew consent after 1 dose of MK-2206, 1 patient discontinued
+study drug therapy before completing 3 cycles of therapy due to disease progression).
+Additionally, seven patients received MK-2206 at this dose level with prophylactic
+prednisone, in combination with anastrozole plus fulvestrant, among whom 6 were evaluable
+for RPTD assessment (1 patient discontinued study drug therapy before completing 3 cycles
+of therapy due to disease progression). DLT (grade 3 rash) was observed in 1 of the 6
+evaluable patients in each of these two subsequent cohorts. Therefore MK-2206 150mg PO
+weekly with prophylactic prednisone (20mg PO daily on the day before, the day of, and the
+day after each MK-2206 dose) was also defined as the RPTD when combined with
+fulvestrant, or the combination of anastrozole and fulvestrant.
+Adverse Events
+All 30 patients were evaluable for AE. Treatment was well tolerated (Table 3). The most
+common all-cycle treatment related grade 2 and above AEs included rash (33.3%),
+hyperglycemia (20%), hypophosphatemia (16.7%), and fatigue (10%). Despite prophylactic
+prednisone, the incidence of grade 2 and above hyperglycemia was low: 13.3% (6% grade 3)
+during cycle 1 and 20% (7% grade 3) in all cycles. There was no grade 4 hyperglycemia.
+Only 1 grade 4 AE (asymptomatic hypophosphatemia). No grade 5 toxicities were observed
+in this trial. The 3-cycle AE profile was similar to cycle 1 AE, with slight increased
+incidence of hyperglycemia, hypophosphatemia, fatigue, diarrhea and reduced lymphocyte
+counts. Five patients (4 patients in cycle 1 and 1 patient in cycle 3) discontinued study drug
+therapy due to rash.
+Anti-tumor Activity
+Four patients discontinued study drug therapy within the first cycle of therapy due to adverse
+events (grade 3 rash), therefore were not evaluable for response (Table 4). Among the 30
+intent to treat patient population, the clinical benefit rate (CBR) was 36.7% (95% CI: 20% –
+56%), including 2 partial response (PR) and 9 stable disease (SD) ≥ 6 months. Among the
+26 patients evaluable for clinical benefit, the median time to progression (TTP) was 5.8
+months (inter-quantile range (IQR): 3 – 14 months) and the CBR was 42% (95% CI: 23% –
+63%). Among the 13 patients with measurable disease, the overall response rate was 15.4%.
+The Waterfall plot depicting individual patient response by the percentage change in the sum
+of the longest diameter of target lesions at best response compared to the baseline is shown
+in Figure 2a.
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Ma et al. Page 8
+TTP was further analyzed according to other clinical variables including prior therapy,
+presence or absence of visceral metastasis, or treatment induced hyperglycemia, none of
+which led to statistically significant differences in TTP (data not shown). There was a trend
+toward longer TTP (14 months, IQR: 5.9 months – not reached, vs 3.3 months, IQR: 3 – 9
+months, p=0.076) in patients who received study drug as first line endocrine therapy (n=9),
+defined as no prior ET in the metastatic setting or receiving study drug at recurrence
+following at least 12 months after completion of adjuvant endocrine therapy. The CBR of the
+study treatments was 67% (6 of 9), 57% (4 of 7), 10% (1 of 10), respectively when
+administered in the first, 2nd and the third line or above setting (Suppl. Table S1).
+Mutation analysis of archival tumors
+Archival tumor specimens were available for next generation sequencing analysis of an 83-
+gene panel from 16 patients who were evaluable for response (primary site, n=6; metastatic
+site, n=9). Notable PI3K pathway genes identified with mutations included PIK3CA (n=6,
+37.5%) and AKT1 E17K (n=1, 6.3%) (Figure 2b). In this small sample set, PIK3CA
+mutation status did not obviously associate with TTP (Figure 2b). The AKT1 E17K
+mutation occurred concomitantly with PIK3CA H1047R in a patient who had a best
+response of stable disease and went off study due to disease progression at 6 months. Other
+mutations were rare, which included HER2 S310F mutation identified in the tumor from a
+patient who did not respond to study drug therapy (Figure 2b).
+Discussion
+We demonstrated that MK-2206 induced apoptosis in a panel of ER+ breast cancer cell
+lines, majority of which required estrogen deprivation to elicit this response. Although the
+LTED cell lines were resistant to apoptotic induction by MK-2206 or fulvestrant alone, the
+combination of MK-2206 and fulvestrant resulted in significantly increased apoptosis. These
+results were in line with our prior observations with PI3K inhibitors in ER+ breast cancer (7,
+8) and provided the preclinical rationale for the clinical evaluation of MK-2206 in ER+
+breast cancer.
+We successfully determined the RPTD of MK-2206 in combination with anastrozole, or
+fulvestrant, or anastrozole plus fulvestrant being 150mg PO weekly, with prednisone
+prophylaxis. The combination regimens were well tolerated, with common grade 2 and
+above AEs being rash and hyperglycemia, which were observed in previous studies of
+MK-2206 (17, 28). Grade 3 rash appeared at lower dose levels of MK-2206 in our trial
+compared to the single agent MK-2206 phase I study (28). It is unclear whether this was
+related to the patient population or the concomitant administration of endocrine therapy
+agents. However, there is no theoretical pharmacokinetic interaction between MK-2206 and
+anastrozole or fulvestrant. We demonstrated that prednisone prophylaxis could reduce the
+incidence of rash, allowing chronic drug administration. Although the mechanism of
+MK-2206 induced rash is not fully understood, pathology of skin biopsy was consistent with
+hypersensitivity reaction.
+In this phase I study in patients with metastatic ER+HER2− breast cancer and heterogeneous
+treatment histories, MK-2206 in combination with standard endocrine therapy agent(s)
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Ma et al. Page 9
+induced a clinical benefit rate of 36.7% and 42% in the intent to treat and evaluable patient
+populations, respectively, including 2 with PR and 9 with SD lasting for ≥ 6 months. There
+was a trend toward improved response when the study drugs were administered at earlier
+treatment settings (CBR: 67%, 57%, 10% ; TTP: 14, 8.6, 3.3 months, in the 1st, 2nd and the
+3rd line and above endocrine treatment setting, respectively). Majority of the patients (7 out
+of 9) treated in the first line setting in this trial received MK-2206 and anastrozole
+combination. As single agent anastrozole resulted in a CBR in the range of 60% and TTP of
+11–13 months in the first line endocrine treatment setting for metastatic ER+ breast cancer
+in previous randomized trials (29, 30), the efficacy data observed in this trial (CBR: 67%,
+TTP: 14 months) was at least comparable. The 2nd line activity (CBR: 57%, TTP: 8.6
+months) observed in this trial was numerically similar to that of everolimus in combination
+with exemestane (progression free survival: 6.9 – 10.6 months) rather than exemestane alone
+(PFS: 2.8 – 4.1 months) in BOLERO 2 trial (31), suggesting potential benefit with the
+addition of MK-2206 in the second line setting. Although limited by the small sample size,
+the overall impression from the study is that the activity of MK-2206 was modest with the
+dose and the patient population studied.
+The lack of striking tumor regression or disease control beyond what might be expected
+from standard endocrine therapy could be explained by several factors. The first is that we
+may not have reached a high enough dose of MK-2206 because of the dose-limiting
+hypersensitivity rash. The MTD of MK-2206 defined in this trial was lower than that for
+single agent MK-2206. A second possibility is that patients enrolled in the trial harbored
+tumors with resistance mechanisms not addressed by MK-2206 inhibition. We were able to
+retrospectively identify one case in our study with an E17K AKT1 mutation, but this subject
+did not experience an extreme response of the type described for patients with mTOR gene
+mutations treated with everolimus (32). To investigate the biomarker effect and anti-tumor
+activity of MK-2206 in combination with anastrozole treatment naïve tumors, a phase II
+study in the neoadjuvant setting is being conducted in patients with clinical stage II or III ER
++HER2− breast cancer (NCT01776008). Results of this trial are expected to further our
+understanding regarding the mechanisms of action of this combination therapy. A third
+possibility is that our preclinical models based on established breast cancer cell lines were
+misleading. While response to PI3 Kinase pathway inhibition in preclinical models did
+appear to associate with PIK3CA and other PI3 kinase pathway mutations, in the clinical
+setting these relationships have not been consistently observed (33–37). Clearly the in vivo
+growth requirement of ER+ tumors, many of which do not generate cell lines, may be quite
+different from the in vitro cell culture drug sensitivity studies.
+A number of new agents targeting the PI3K pathway are in clinical development, many of
+which directly target the PI3 kinase isoforms themselves. Although the pan class IA PI3K
+inhibitor pictilisib did not improve the progression free survival (PFS) when combined with
+fulvestrant for the treatment of aromatase inhibitor resistant metastatic ER+ HER2− breast
+cancer in the FERGI phase II trial (37), the dose of pictilisib might not have been optimal
+due to frequent dose reductions as a result of skin and gastrointestinal toxicities. Buparlisib,
+another pan PI3K inhibitor, plus fulvestrant, has been examined in a phase III trial in
+postmenopausal women with ER+HER2− locally advanced or metastatic breast cancer
+progressed on/after an aromatase inhibitor (BELLE-2: NCT01610284). Recently reported at
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Ma et al. Page 10
+the 2015 San Antonio Breast Cancer Symposium, BELLE-2 met its primary endpoint for
+PFS improvement in the full population [6.9 (95% CI 6.8–7.8) months in the buparlisib plus
+fulvestrant arm (n=576) versus 5.0 (95% CI 4.0–5.2) months in the placebo plus fulvestrant
+arm (n=571); HR 0.78 (95% CI 0.67–0.89), one-sided p value <0.001)] (35). Although the
+PFS improvement was not statistically significant in the PI3K activated group defined by
+PIK3CA mutation and/or loss of PTEN expression in archival tumor tissues, pre-planned
+evaluation of PIK3CA mutation in circulating tumor DNA (ctDNA) in a subgroup of 587
+patients demonstrated a significant improvement in PFS [7.0 versus 3.2 months; HR 0.56
+(95% CI 0.39–0.80), one-sided p value <0.001] and overall response rate (18.4% vs 3.5%)
+with the addition of buparlisib in the ctDNA PIK3CA mutant population but not in the non-
+mutant population. This data suggests that targeting of the PIK3CA mutant kinase might
+indeed be most effective. It was worth noting that AEs, including transaminitis,
+hyperglycemia, rash, and mood disorders, were common, leading to buparlisib dose
+reduction and interruptions in 46% and 56% of the patients, respectively, which may have
+limited its efficacy in the BELLE-2 trial. Several alpha specific PI3K inhibitors are in
+clinical development with the hope for more potent inhibition of PIK3CA and tolerable
+toxicity profiles (38).
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+This study was funded in part by the Siteman Cancer Center, Fashion Footwear Association of New York, the Mayo
+PIIC (N01-CM-2011-00099) and Cancer Clinical Investigator Team Leadership Award awarded by the National
+Cancer Institute though a supplement to P30CA091842 (to C. Ma). We wish to thank the patients and their families
+for participation in this study. We would like to acknowledge the McDonnell Genome Institute for DNA sequencing
+and analysis, Ms. Shana Thomas for editorial assistance of the manuscript, and Ms. Jing Han for tumor specimens
+collection, and clinical research and regulatory coordinators.
+References
+1. Houssami N, Macaskill P, von Minckwitz G, Marinovich ML, Mamounas E. Meta-analysis of the
+association of breast cancer subtype and pathologic complete response to neoadjuvant
+chemotherapy. Eur J Cancer. 2012; 48:3342–54. [PubMed: 22766518]
+2. Dowsett M, Smith IE, Ebbs SR, Dixon JM, Skene A, Griffith C, et al. Proliferation and apoptosis as
+markers of benefit in neoadjuvant endocrine therapy of breast cancer. Clin. Cancer Res. 2006;
+12:1024s–30s. [PubMed: 16467120]
+3. Cantley LC. The Phosphoinositide 3-Kinase Pathway. Science. 2002; 296:1655–7. [PubMed:
+12040186]
+4. Ma CX, Crowder RJ, Ellis MJ. Importance of PI3-kinase pathway in response/resistance to
+aromatase inhibitors. Steroids. 2011; 76:750–2. [PubMed: 21420991]
+5. Network TCGA. Comprehensive molecular portraits of human breast tumours. Nature. 2012;
+490:61–70. [PubMed: 23000897]
+6. Miller TW, Hennessy BT, Gonzalez-Angulo AM, Fox EM, Mills GB, Chen H, et al. Hyperactivation
+of phosphatidylinositol-3 kinase promotes escape from hormone dependence in estrogen receptor-
+positive human breast cancer. J Clin Invest. 2010; 120:2406–13. [PubMed: 20530877]
+7. Crowder RJ, Phommaly C, Tao Y, Hoog J, Luo J, Perou CM, et al. PIK3CA and PIK3CB inhibition
+produce synthetic lethality when combined with estrogen deprivation in estrogen receptor-positive
+breast cancer. Cancer research. 2009; 69:3955–62. [PubMed: 19366795]
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Ma et al. Page 11
+8. Sanchez CG, Ma CX, Crowder RJ, Guintoli T, Phommaly C, Gao F, et al. Preclinical modeling of
+combined phosphatidylinositol-3-kinase inhibition with endocrine therapy for estrogen receptor-
+positive breast cancer. Breast Cancer Res. 2011; 13:R21. [PubMed: 21362200]
+9. Datta SR, Brunet A, Greenberg ME. Cellular survival: a play in three Akts. Genes Dev. 1999;
+13:2905–27. [PubMed: 10579998]
+10. Staal SP. Molecular cloning of the akt oncogene and its human homologues AKT1 and AKT2:
+amplification of AKT1 in a primary human gastric adenocarcinoma. Proc. Natl. Acad. Sci. U.S.A.
+1987; 84:5034–7. [PubMed: 3037531]
+11. Brunet A, Bonni A, Zigmond MJ, Lin MZ, Juo P, Hu LS, et al. Akt promotes cell survival by
+phosphorylating and inhibiting a Forkhead transcription factor. Cell. 1999; 96:857–68. [PubMed:
+10102273]
+12. Altomare DA, Testa JR. Perturbations of the AKT signaling pathway in human cancer. Oncogene.
+2005; 24:7455–64. [PubMed: 16288292]
+13. Kirkegaard T, Witton CJ, McGlynn LM, Tovey SM, Dunne B, Lyon A, et al. AKT activation
+predicts outcome in breast cancer patients treated with tamoxifen. J Pathol. 2005; 207:139–46.
+[PubMed: 16088978]
+14. Yan L. Abstract #DDT01-1: MK-2206: A potent oral allosteric AKT inhibitor. AACR Meeting
+Abstracts. 2009 Abstract: DDT01-1.
+15. Sangai T, Akcakanat A, Chen H, Tarco E, Wu Y, Do KA, et al. Biomarkers of response to Akt
+inhibitor MK-2206 in breast cancer. Clin. Cancer Res. 2012; 18:5816–28. [PubMed: 22932669]
+16. Hirai H, Sootome H, Nakatsuru Y, Miyama K, Taguchi S, Tsujioka K, et al. MK-2206, an allosteric
+Akt inhibitor, enhances antitumor efficacy by standard chemotherapeutic agents or molecular
+targeted drugs in vitro and in vivo. Mol. Cancer Ther. 2010; 9:1956–67. [PubMed: 20571069]
+17. Yap TA, Yan L, Patnaik A, Fearen I, Olmos D, Papadopoulos K, et al. First-in-man clinical trial of
+the oral pan-AKT inhibitor MK-2206 in patients with advanced solid tumors. J Clin. Oncol. 2011;
+29:4688–95. [PubMed: 22025163]
+18. Mehta RS, Barlow WE, Albain KS, Vandenberg TA, Dakhil SR, Tirumali NR, et al. Combination
+anastrozole and fulvestrant in metastatic breast cancer. New Engl. J. Med. 2012; 367:435–44.
+[PubMed: 22853014]
+19. Wistuba II, Behrens C, Milchgrub S, Syed S, Ahmadian M, Virmani AK, et al. Comparison of
+features of human breast cancer cell lines and their corresponding tumors. Clin. Cancer Res. 1998;
+4:2931–8. [PubMed: 9865903]
+20. Griffith, OL., Griffith, M., Luo, J., Hundall, J., Miller, CA., Larson, DE., et al. Prognostic effects of
+gene mutation in estrogen receptor positive breast cancer. San Antonio Breast Cancer Symposium;
+2014. Abstract S1-02
+21. Griffith M, Griffith OL, Smith SM, Ramu A, Callaway MB, Brummett AM, et al. Genome
+Modeling System: A Knowledge Management Platform for Genomics. PLoS Comput Biol. 2015;
+11:e1004274. [PubMed: 26158448]
+22. Li H, Durbin R. Fast and accurate short read alignment with Burrows-Wheeler transform.
+Bioinformatics. 2009; 25:1754–60. [PubMed: 19451168]
+23. McKenna A, Hanna M, Banks E, Sivachenko A, Cibulskis K, Kernytsky A, et al. The Genome
+Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data.
+Genome Res. 2010; 20:1297–303. [PubMed: 20644199]
+24. Larson DE, Harris CC, Chen K, Koboldt DC, Abbott TE, Dooling DJ, et al. SomaticSniper:
+identification of somatic point mutations in whole genome sequencing data. Bioinformatics. 2012;
+28:311–7. [PubMed: 22155872]
+25. Koboldt DC, Zhang Q, Larson DE, Shen D, McLellan MD, Lin L, et al. VarScan 2: somatic
+mutation and copy number alteration discovery in cancer by exome sequencing. Genome Res.
+2012; 22:568–76. [PubMed: 22300766]
+26. Saunders CT, Wong WS, Swamy S, Becq J, Murray LJ, Cheetham RK. Strelka: accurate somatic
+small-variant calling from sequenced tumor-normal sample pairs. Bioinformatics. 2012; 28:1811–
+7. [PubMed: 22581179]
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Ma et al. Page 12
+27. Nicol JW, Helt GA, Blanchard SG Jr, Raja A, Loraine AE. The Integrated Genome Browser: free
+software for distribution and exploration of genome-scale datasets. Bioinformatics. 2009;
+25:2730–1. [PubMed: 19654113]
+28. Yap TA, Yan L, Patnaik A, Tunariu N, Biondo A, Fearen I, et al. Interrogating two schedules of the
+AKT inhibitor MK-2206 in patients with advanced solid tumors incorporating novel
+pharmacodynamic and functional imaging biomarkers. Clin. Cancer Res. 2014; 20:5672–85.
+[PubMed: 25239610]
+29. Nabholtz JM, Buzdar A, Pollak M, Harwin W, Burton G, Mangalik A, et al. Anastrozole is
+superior to tamoxifen as first-line therapy for advanced breast cancer in postmenopausal women:
+results of a North American multicenter randomized trial. Arimidex Study Group. J Clin. Oncol.
+2000; 18:3758–67. [PubMed: 11078488]
+30. Robertson JF, Lindemann JP, Llombart-Cussac A, Rolski J, Feltl D, Dewar J, et al. Fulvestrant 500
+mg versus anastrozole 1 mg for the first-line treatment of advanced breast cancer: follow-up
+analysis from the randomized 'FIRST' study. Breast Cancer Res Treat. 2012; 136:503–11.
+[PubMed: 23065000]
+31. Baselga J, Campone M, Piccart M, Burris HA 3rd, Rugo HS, Sahmoud T, et al. Everolimus in
+postmenopausal hormone-receptor-positive advanced breast cancer. New Engl. J. Med. 2012;
+366:520–9. [PubMed: 22149876]
+32. Iyer G, Hanrahan AJ, Milowsky MI, Al-Ahmadie H, Scott SN, Janakiraman M, et al. Genome
+Sequencing Identifies a Basis for Everolimus Sensitivity. Science. 2012; 338:221. [PubMed:
+22923433]
+33. Hortobagyi, GN., Piccart-Gebhart, MJ., Rugo, HS., Burris, HA., Campone, M., Noguchi, S., et al.
+Correlation of molecular alterations with efficacy of everolimus in hormone receptor–positive,
+HER2-negative advanced breast cancer: Results from BOLERO-2. Annual Meeting of the
+American Society of Clinical Oncology; Chicago, IL. 2013. Abstract: LBA509
+34. Mayer IA, Abramson VG, Isakoff SJ, Forero A, Balko JM, Kuba MG, et al. Stand up to cancer
+phase ib study of pan-phosphoinositide-3-kinase inhibitor buparlisib with letrozole in estrogen
+receptor-positive/human epidermal growth factor receptor 2-negative metastatic breast cancer. J.
+Clin. Oncol. 2014; 32:1202–9. [PubMed: 24663045]
+35. Baselga, J., Im, S-A., Iwata, H., Clemons, M., Ito, Y., Awada, A., et al. PIK3CA status in
+circulating tumor DNA (ctDNA) predicts efficacy of buparlisib (BUP) plus fulvestrant (FULV) in
+postmenopausal women with endocrine-resistant HR+/HER2– advanced breast cancer (BC): First
+results from the randomized, phase III BELLE-2 trial. 2015 San Antonio Breast Cancer
+Symposium; San Antonio, Texas. 2015. Abstract: S6-01
+36. Ma CX, Luo J, Naughton M, Ademuyiwa FO, Suresh R, Griffith M, et al. A phase 1 trial of
+BKM120 (Buparlisib) in combination with fulvestrant in postmenopausal women with estrogen
+receptor positive metastatic breast cancer. Clin. Cancer Res. 2015 Nov 12. Epub.
+37. Krop, I., Johnston, S., Mayer, IA., Dickler, M., Ganju, V., Forero-Torres, A., et al. The FERGI
+phase II study of the PI3K inhibitor pictilisib (GDC-0941) plus fulvestrant vs fulvestrant plus
+placebo in patients with ER+, aromatase inhibitor (AI)-resistant advanced or metastatic breast
+cancer – Part I results. 2014 San Antonio Breast Cancer Symposium; San Antonio, Texas. 2014.
+Abstract: S2-02
+38. Ma, CX. The PI3K Pathway as a Therapeutic Target in Breast Cancer. American Journal of
+Hematology / Oncology. Mar. 2015 http://www.gotoper.com/publications/ajho/2015/mar/the-pi3k-
+pathway-as-a-therapeutic-target-in-breast-cancer
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Ma et al. Page 13
+Statement of Translational Relevance
+In this study we demonstrated that MK-2206, an allosteric pan-AKT inhibitor in clinical
+development, induced apoptosis of estrogen receptor positive (ER+) breast cancer cells
+under estrogen deprived condition or when combined with the ER down-regulator
+fulvestrant in the preclinical setting. We therefore conducted a Phase 1 trial of MK-2206
+in combination with either anastrozole, or fulvestrant, or anastrozole plus fulvestrant, in
+patients with metastatic ER+ HER2− breast cancer and determined the recommended
+phase II treatment dose (RPTD). In this heterogeneous patient population, forty two
+percent (11 of 26) evaluable participants derived clinical benefit without disease
+progression for at least 6 months. Results of these studies led to an ongoing phase II trial
+of MK-2206 in combination with anastrozole for ER+ HER2− breast cancer in the
+neoadjuvant setting to further define its therapeutic potential in a treatment naïve
+population.
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Ma et al. Page 14
+Fig. 1. MK-2206 induced apoptosis in ER+ breast cancer cells in vitro
+a, MK-2206 induced apoptosis in ER+ breast cancer cell lines. Mutations in PIK3CA and
+PTEN, and HER2 amplification were indicated. Cells cultured under estrogen-deprived
+conditions for 1–3 weeks were treated with MK-2206 250 nmol/L, followed by apoptosis
+assay by TUNEL. The ER- cell line MDA-MB-231 served as a negative control. b, Estrogen
+suppressed apoptotic induction by MK-2206 in some ER+ breast cancer cell lines. Cells
+cultured without or with 10 nmol/L estradiol (E) were treated with MK-2206 250nmol/L
+2
+for 4 days followed by apoptosis assay. c, LTED ER+ cell lines were resistant to MK-2206
+but sensitive to fulvestrant plus MK-2206 in 2 of the 4 lines tested. ER+ LTED cells were
+pre-treated with fulvestrant for 3 days prior to the addition of MK-2206 for 4 days followed
+by apoptosis assessment. Results were from at least 3 replicates for each treatment
+condition. Significant activation of apoptosis was indicated (*, p<0.05). d, Western Blot of
+ER and PI3K pathway markers for LTED and parental ER+ cell lines cultured under
+estrogen deprivation.
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Ma et al. Page 15
+Fig. 2. Anti-tumor activity
+a, Waterfall plot of tumor diameter change at best response
+Percentage change in the sum of the longest diameter of target lesions at best response
+compared to that at baseline was plotted for patients with measurable disease. Treatment
+cohort was denoted by the color of the bar graph. PIK3CA mutation status and AKT1
+mutation were annotated if available.
+b, Individual patient response
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 16 ---
+Ma et al. Page 16
+This figure shows individual patient response, TTP and tumor AKT1 and PIK3CA mutation
+status for the 26 evaluable patients. TTP was defined as the duration between the start of
+treatment to time of progression or off study. TTP was censored to May 10, 2015 in patients
+continued to receive therapy as of that day.
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 17
+1
+elbaT
+)TLD(
+seiticixoT
+gnitimiL
+esoD
+dna
+tnemllornE
+tneitaP
+**)TLD(
+N
+ypareht
+lanomroH
+)gm(
+6022-KM
+N
+leveL
+esoD
+trohoC
+2
+elozortsanA
+051
+5
+*1
+1
+elozortsanA
+001
+3
+1−
+elozortsana
+dna
+6022-KM
+0
+elozortsanA
+051
+6
+#1
+2
+elozortsanA
+002
+2
+#2
+1
+tnartsevluF
+051
+b
+a, 8
+#1
+tnartsevluf
+dna
+6022-KM
+1
+tnartsevluF
+sulp
+elozortsanA
+051
+b7
+#1
+tnartsevluf
+sulp
+elozortsana
+dna
+6022-KM
+*
+esod
+gnitratS
+**
+hsar
+3 edarG
+erew
+sTLD
+llA
+a
+6022-KM
+fo
+esod
+1
+retfa
+tnesnoc
+werdhtiw
+tneitap
+1 b
+.noissergorp
+esaesid
+ot
+eud
+selcyc
+3
+nihtiw
+ypareht
+gurd
+yduts
+deunitnocsid
+tneitap
+1 #
+.6022-KM
+hcae
+retfa
+yad
+eht
+dna
+,fo
+yad
+eht
+,erofeb
+yad
+eht
+:syad
+3
+rof
+yliad
+OP
+gm02
+enosinderP
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 18
+Table 2
+Patient Characteristics
+Patients (N = 30)
+Characteristic No. %
+Age, years
+Median 55
+Range 32–79
+Duration on therapy (cycles)
+Median 5.8
+Range <1 – 46
+Prior endocrine therapy in adjuvant setting
+Yes 15 50%
+No 15 50%
+Endocrine therapy in metastatic setting
+Median 1
+Range 0 – 5
+No. prior chemotherapy regimens in metastatic setting
+Median 0.5
+Range 0 – 3
+Visceral involvement
+Yes 19 63%
+No 11 37%
+Reason off study
+Progressive disease 20 67%
+Adverse event 5 17%
+Physician decision (non-compliance) 1 3%
+Treatment Ongoing 4 13%
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 19
+Table 3
+Grade 2 and above AE (> 5% incidence) at least possible related to study drug
+Cycle 1
+AE (Adverse event) Grade 2 Grade 3 Grade 4 N (%)
+Rash 2 6 0 8 (26.7%)
+Hyperglycemia 2 2 0 4 (13.3%)
+All Cycles
+AE (Adverse event) Grade 2 Grade 3 Grade 4
+Rash 3 7 0 10 (33.3%)
+Hyperglycemia 4 2 0 6 (20.0%)
+Hypophosphatemia 2 2 1 5 (16.7%)
+Fatigue 3 0 0 3 (10.0%)
+Diarrhea 2 0 0 2 (6.7%)
+Lymphocyte reduced 1 1 0 2 (6.7%)
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.
+
+--- Page 20 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 20
+Table 4
+Summary of Antitumor Response
+Best Response N %
+Partial response 2 7.7%
+Stable disease 57.7%
+≥ 6 months 9
+< 6 months 6
+Progressive disease 9 34.6%
+Not evaluable 4
+Total 30 100%
+Clinical Benefit Rate: 11 of 26 evaluable patients (42 %, 95% CI: 23% – 63%)
+Clin Cancer Res. Author manuscript; available in PMC 2017 July 13.

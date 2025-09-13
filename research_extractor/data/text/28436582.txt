@@ -1,0 +1,783 @@
+Source: 28436582.pdf
+Extracted on: Sat Sep 13 00:01:07 PDT 2025
+==================================================
+
+--- Page 1 ---
+Phase-I Study of Bortezomib in Combination with Irinotecan in Patients with
+Relapsed/Refractory High Risk Neuroblastoma
+Rajen Mody, M.B.B.S, M.S.1,, Lili Zhao, Ph.D.2, Gregory Anthony Yanik, M.D.1, and
+Valerie Opipari, M.D.1,3
+Authors/ Affiliations:
+1. Department of Pediatrics and Communicable Diseases, University of
+Michigan, Ann Arbor, Michigan, USA
+2. Department of Biostatistics, University of Michigan, Ann Arbor, Michigan,
+USA
+3. Alfred Taubman Research Institute
+Corresponding Author:
+Rajen Mody, M.B.B.S, M.S:
+D4207, Medical Professional Building, University of Michigan, 1500 East Medical
+Center Drive, Ann Arbor, Michigan, USA, 48109-5718
+Email: rmody@umich.edu
+Phone: 734-232-9335
+Fax: 734-615-0464
+This is the author manuscript accepted for publication and has undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may lead to
+differences between this version and the Version of Record. Please cite this article as doi:
+10.1002/pbc.26563.
+This article is protected by copyright. All rights reserved.
+
+--- Page 2 ---
+Word Count: Abstract – 250, Main text – 3784
+Number of Figures- 1, Number of Tables-4
+RUNNING TITLE: Phase 1 Study: Bortezomib + Irinotecan in Neuroblastoma
+KEYWORDS: Relapsed/Refractory High Risk Neuroblastoma, Proteasome Inhibitor,
+Irinotecan
+ABBREVIATIONS KEY:
+HR-NBL High risk Neuroblastoma
+TITE-CRM Time To Event Continuous Reassessment Method
+DL Dose level
+MTD Maximum tolerated dose
+DLT Dose limited toxicity
+OR Objective responses
+PR Partial remission
+SD Stable disease
+NBL Neuroblastoma
+UPP Ubiquitin proteasome pathway
+CT Computed tomography
+MRI Magnetic resonance imaging
+MIBG Metaiodobenzylguanidine
+BM Bone marrow
+INRC International Neuroblastoma Response Criteria
+DFS Disease Free Survival
+2
+This article is protected by copyright. All rights reserved.
+
+--- Page 3 ---
+GCSF Granulocyte colony stimulating factor
+CR Complete response
+ORR Overall response rate
+VGPR Very good partial response
+ABSTRACT
+Purpose: Prognosis for relapsed/ refractory high risk Neuroblastoma (HR-NBL)
+remains poor. Bortezomib, a proteasome inhibitor has shown preclinical activity
+against NBL, as a single agent and in combination with cytotoxic chemotherapy
+including irinotecan.
+Patients and Methods: Eighteen HR-NBL patients with primary refractory (n=8) or
+relapsed (n=10) disease were enrolled in a Phase-I study using modified Time To
+Event Continuous Reassessment Method (TITE-CRM). Bortezomib (1.2
+mg/m2/day) was administered on days 1, 4, 8 and 11 intravenously, irinotecan given
+IV on days 1-5 (35, 40, or 45 mg/m2/day, on dose levels (DL) 1-3 respectively). The
+maximum tolerated dose (MTD), dose limiting toxicity (DLT) and response rate were
+examined.
+Results: Eighteen NBL patients were evaluable for toxicity, 17 were evaluable for
+response assessment. A total of 142 courses were delivered (mean 8.2, median 2,
+range 1-48) with 2 patients receiving > 40 courses of therapy. Two dose limiting
+toxicities (DLT) were reported, including a grade-4 thrombocytopenia (DL2) and a
+grade-3 irritability (DL3). MTD was estimated as DL3. 2/17 (12%) evaluable patients
+3
+This article is protected by copyright. All rights reserved.
+
+--- Page 4 ---
+showed objective responses (OR) lasting > 40 courses, including 1 partial remission
+(PR), 1 complete remission (CR). Four patients (23%) had prolonged stable disease
+(SD) lasting 6 or more courses with a total of 35% study patients demonstrating
+clinical benefit in form of prolonged OR or SD.
+Conclusion The combination of bortezomib and irinotecan was well tolerated by
+patients with relapsed/ refractory NBL with favorable toxicity profile. It also showed
+modest but promising clinical activity and merits further testing in Phase-II studies.
+INTRODUCTION
+Despite recent advances in high risk Neuroblastoma (NBL) therapy, long-term survival for
+patients with metastatic or high risk disease remains less than 40%[1-3]. Further, patients
+who experience a relapse of their disease or fail to achieve complete remission have an
+extremely poor prognosis with 2-year survival rates < 25%[4-7]. Better understanding the
+biology of neuroblastoma is critical in identifying new therapeutic targets and improving
+outcomes for this patient population.
+Irinotecan is a camptothecin prodrug which induces cytotoxicity through its
+active metabolite (SN-38) by inhibiting the nuclear enzyme topoisomerase–I. It has
+shown single-agent activity against NBL in both in vivo mouse models of NBL[8-10]
+as well as in patients with refractory NBL in multiple clinical trials[11-15].
+Bortezomib is a selective inhibitor of the ubiquitin proteasome pathway
+(UPP) which is essential for the degradation of most intracellular proteins involved in
+critical cellular processes, including cell cycle regulation, apoptosis and transcription
+factor activation[16,17]. Bortezomib selectively sensitizes malignant cells to
+apoptosis, although the precise mechanism of its anti-cancer activity is unknown
+4
+This article is protected by copyright. All rights reserved.
+
+--- Page 5 ---
+[18]. NF-κB is a known regulator of neuroblastoma tumor cell survival[19,20] and
+bortezomib has shown ability to decrease NF-κB activity by inhibition of I-κB
+degradation in NBL cell lines as well as other systems[21]. In addition, bortezomib
+has been shown to be synergistic with a variety of chemotherapy agents including
+irinotecan, in both in vitro and in vivo xenograft models of disease[17,22].
+Bortezomib has already been shown to be safe in children with refractory solid
+tumors in a Phase-I study and is well tolerated[23]. In view of the potential synergy
+between irinotecan and bortezomib, we designed a phase-I clinical trial to study the
+safety, maximum tolerated dose (MTD) and clinical activity of this combination in
+patients with relapsed/ refractory high risk NBL. The traditional 3+3 design has been
+the standard for conducting pediatric phase-I clinical trials. However, it has several
+disadvantages, including intermittent suspension for toxicity evaluation between
+dose escalations. In a single institution phase-I trial for a rare disease, where an
+eligible patient can come anytime, these stoppages can lead to unnecessary delays
+and many eligible patients would not be able to participate if they present during trial
+closure. To avoid this, we deployed a novel, more adaptive, simulation model-based
+dose escalation design, known as the Time To Event Continual Reassessment
+Method (TITE-CRM)[24]. This design has been tested in adult phase-I studies and it
+has shown to be as safe as standard rolling six or 3+3 designs. Importantly, TITE-
+CRM trials have the advantage of being the most efficient trial design as far as
+timely completion of trial is concerned, [25]. More recently, modified phase-I CRM
+design was also shown to be more accurate in predicting MTD, exposing fewer
+patients to potentially toxic doses in pediatric brain tumor consortium trial
+(PBTC)[26].
+5
+This article is protected by copyright. All rights reserved.
+
+--- Page 6 ---
+PATIENTS AND METHODS
+Eligibility
+Patients with histology proven high-risk NBL 30 years or younger at diagnosis were
+eligible if they had either recurrent/progressive disease or refractory disease after
+front-line therapy with a minimum of 4 cycles of multi-agent chemotherapy. Patients
+were required to have either measurable disease (>10mm in one dimension) on
+computed tomography (CT) or magnetic resonance imaging (MRI), or evaluable
+disease with uptake in at least 1 abnormal site by metaiodobenzylguanidine (MIBG)
+scintigraphy, with or without bone marrow (BM) involvement. However, patients
+whose only known site of disease was bone marrow involvement were not eligible
+for the study. Other eligibility criteria included Karnofsky or Lansky scores ≥ 60,
+recovery from acute toxic effects of prior therapies; negative pregnancy test for
+women of child-bearing potential; absolute neutrophil count ≥1,000/uL, platelet
+count ≥100,000/DL, and adequate renal and hepatic function as defined by serum
+creatinine ≤1.5x normal serum creatinine as adjusted for age, ALT ≤2.5x ULN for
+age, and bilirubin <1.5x ULN for age. Patients with BM involvement at study entry
+were eligible irrespective of hematologic parameters, but they were not eligible for
+evaluation for hematological toxicities. More than 3, 6 or 8 weeks must have
+elapsed from prior cytotoxic chemotherapy, high dose MIBG therapy or autologous
+stem-cell transplantation respectively. Exclusion criteria included use of enzyme-
+inducing anticonvulsants, active infection, or ≥ grade 2 diarrhea (CTCv3.0). Patients
+had to complete 2 cycles of chemotherapy in order to be eligible for response
+6
+This article is protected by copyright. All rights reserved.
+
+--- Page 7 ---
+evaluation. Clinical protocol and informed consent documents were approved by
+local institutional review boards prior to patient enrollment.
+Drug Administration
+Irinotecan was administered intravenously (IV) over 60 minutes on Days 1-5. The
+starting dose of irinotecan was selected as a 35mg/m2/day, which is 70% of a single
+agent IV irinotecan MTD[15]. The study planned to examine 5 dose levels of
+irinotecan: DL 1-4 at 35, 40, 45 and 50mg/m2/day respectively, with a starting dose
+level of 35mg/m2/day and a de-escalation dose level -1 of 30mg/m2/day. No intra-
+patient dose escalation was allowed. Bortezomib (1.2 mg/m2/day, IV bolus infusion)
+was administered following irinotecan on days 1, 4, 8, and 11 of each 21 day cycle,
+with dosing based upon a prior pediatric phase I trial for refractory solid tumors[23].
+Supportive care: Supportive care measures included daily oral cefixime
+(8mg/kg/day with maximum daily dose of 400mg) or cefpodoxime (10mg/kg/day
+divided BID with a maximum daily dose of 800mg), 3 days prior and 2 days following
+chemotherapy completion. Patients were given instructions for use of loperamide to
+treat diarrhea occurring >24 hours after irinotecan. Filgrastim (granulocyte colony-
+stimulating factor) was only recommended to be administered during subsequent
+courses of therapy for patients who were hospitalized for fever and neutropenia or in
+whom re-initiation of prior cycles were delayed for > 14 days due to neutropenia.
+7
+This article is protected by copyright. All rights reserved.
+
+--- Page 8 ---
+Study Design
+Study was conducted using a modification of the Time-to-Event Continual Reassessment
+Method (TITE-CRM). The TITE-CRM assumes a regression model for the probability of DLT
+as a function of dose, and allows information from all patients enrolled in the trial to be
+employed when allocating a new patient to a dose level. Subjects were continuously
+recruited throughout the trial, without recruitment pauses. In this study, a priori DLT
+probabilities (“skeleton”) for the five doses are, in dose order: 0.05, 0.10, 0.15, 0.25, and
+0.35. The power model (containing a single parameter β) was used to model the DLT rate of
+each dose. We placed a normal distribution with mean 0 and standard deviation 0.3 on the
+parameter β. To incorporate patients with partial follow-up for DLT, uniformly distributed
+DLT times were assumed. The MTD was defined as the highest dose with DLT probability
+of no more than 0.25. Furthermore, we have adopted a number of steps that limit escalation
+and obtain a safety profile. These steps include: 1) The dose assigned to each patient has
+an estimated DLT rate closest to, but not greater than the target probability; 2) Dose
+escalation is restricted to one level between adjacent patients; 3) Escalation from the current
+dose is not allowed until at least one patient assigned to the current dose completes their
+follow-up; and 4) Discontinue the trial when the probability of DLT at the lowest dose is
+larger than 25%. Details of TITE-CRM study design and simulation studies of the proposed
+design have been summarized in detail in an earlier report[24]. All dose escalation decisions
+being supervised and approved by study statistician (LZ). Patients were allowed a maximum
+of 3 years provided that that they didn’t develop disease progression, or other protocol
+related toxicity which necessitated cessation of protocol therapy.
+8
+This article is protected by copyright. All rights reserved.
+
+--- Page 9 ---
+Required observations included performance of a weekly history and physical exam,
+CBC with differential, comprehensive metabolic panel (including albumin, liver
+function, renal function and electrolytes) and spot urine VMA and HVA repeated at
+the beginning of each cycle. Re-evaluation was performed using CT/MRI
+chest/abdomen/pelvis, I123-MIBG scan, after cycles 2, 4, 8, and 12 and every 4
+cycles on study thereafter. Bilateral bone marrow biopsy and aspirate were obtained
+with re-evaluation if positive at study entry.
+Monitoring for Toxicity and Response Evaluation: Toxicities were graded
+according to Common Toxicity Criteria for Adverse Events (CTCAE) v 3.0[27]. For
+the purposes of the determination of dose limiting toxicities (DLT) and maximum
+dose tolerated dose (MTD), all toxicities observed during first 2 treatment cycles
+were included. We selected 2 cycles for MTD determination as median time for
+bortezomib induced neurotoxicity is around 2 month[28]. Hematological DLT’s were
+defined as: platelets <10,000/μl on two consecutive blood draws, and/or more than
+one platelet transfusion required per week, grade 4 neutropenia (ANC < 500/μl) for
+> 7 days, neutropenia or thrombocytopenia which causes a delay of ≥ 14 days
+beyond the planned interval between treatment cycles. Patient with BM involvement
+at study entry were not eligible for evaluation of hematological DLT’s.
+Non-Hematological DLT’s were defined as any grade 3-4 non-hematologic toxicity
+excluding: grade 3 nausea or vomiting; Grade 3 diarrhea lasting ≤72 hours; grade
+3 fever or infection, with or without neutropenia; grade 3-4 stomatitis lasting ≤72
+9
+This article is protected by copyright. All rights reserved.
+
+--- Page 10 ---
+hours; or grade 3 transaminase elevation resolving to original eligibility criteria prior
+to next cycle of chemotherapy. Recommended dose modifications were specified in
+the study. Any patient experiencing DLT after an initial dose modification of
+irinotecan or bortezomib was removed from protocol therapy.
+Response Evaluation
+Patients who received at least two cycles of bortezomib and irinotecan were
+evaluable for response. RECIST criteria were used for response assessment in
+patients with measurable disease[29]. For patients with MIBG-avid lesions only,
+response was based upon International Neuroblastoma Response Criteria (INRC),
+examining the presence or absence of MIBG avidity in skeletal and soft-tissue sites.
+Overall response was defined using International Neuroblastoma Response Criteria
+(INRC)[30]. Survival curves were constructed using the Kaplan-Meier method[31].
+Disease Free Survival (DFS) and Overall Survival were calculated as a secondary
+endpoint of the study.
+RESULTS
+Patient Characteristics: A total of 18 eligible patients with high risk NBL were
+enrolled between May 2008 to March 2012, at C.S. Mott Children’s Hospital /
+University of Michigan Medical Center, with all 18 patients eligible for toxicity
+evaluation while 17 patients were eligible for response evaluation. One patient was
+taken off protocol therapy after one cycle of therapy due to poor compliance with
+study dosing. The patient did not experience any DLTs during study therapy.
+Demographics and clinical characteristics of the study patients are shown in Table-
+10
+This article is protected by copyright. All rights reserved.
+
+--- Page 11 ---
+1. Patients were enrolled on the study at the time of declaration of primary refractory
+disease (n=8) or at the time of presenting with relapsed / progressive disease
+(n=10). The majority of patients were heavily pretreated (median prior regimen=2),
+with measurable disease (n=11), bone marrow involvement (n=14), and twelve were
+status post autologous BMT. Three patients had received prior therapeutic doses of
+I131-MIBG therapy. Overall summary and clinical course of all study patients are
+described in Table-2.
+Dose Limiting Toxicities (DLT): A total of 18 patients were treated, for a total of
+142 courses of protocol therapy. Three patients were treated on DL1, 9 on DL2 and
+6 were treated on DL3 (Table-3). Two DLT’s were reported, including one at dose
+level 2 (irinotecan dose level 40mg/m2) and another at dose level-3 (irinotecan dose
+level 45mg/m2), with no DLT’s reported at dose level-1 (Table-3). The first DLT was
+a grade 4 thrombocytopenia which required > 2 platelet transfusion for 2 weeks
+during cycle 2 but without any clinical bleeding. Though the patient was eligible to
+continue study therapy (with dose reduction), the patient was electively withdrawn
+from study. The second DLT occurred in a patient experiencing grade-3 irritability
+and inconsolable crying. The episode developed during the day 8 bortezimib dose
+during cycle 2, and continued for several hours and re-developed after the cycle 2,
+day 11 dose. Despite multiple consolation and supportive techniques including
+diphenhydramine and lorazepam, the symptoms only resolved 12 hours after the
+last treatment dose. The patient had no history of other injury. Follow up scans
+revealed stable disease with no disease progression in any bony sites or intracranial
+extension or evidence of any intracranial bleed. The patient exhibited otherwise
+unremarkable neurological examination including normal deep tendon reflexes,
+11
+This article is protected by copyright. All rights reserved.
+
+--- Page 12 ---
+sensory and motor examinations. The true cause of irritability was unclear, however
+after full evaluation to rule out other etiology, it is our clinical impression that it was
+related to neuropathic pain, a well-known toxicity of bortezomib in adults[32].
+Irritability has not been reported as a side effect of bortezomib before and the
+patient made a full recovery from this toxicity. The family elected to pursue another
+investigational study following the 2nd cycle. Five more patients were subsequently
+enrolled on dose level-3 without DLT. Based on the TITE-CRM design described
+above, we calculated the DLT rate at each dose level given DLT information in
+Table 3. We found that posterior probabilities of DLT at Dose level-3 and 4 are 0.17
+and 0.26, respectively. Hence, dose level-3 (irinotecan 45mg/m2) was determined to
+be the MTD (the highest dose with DLT probability of no more than 0.25). Patients
+with bone marrow involvement were not eligible for heme DLT assessment.
+However, if we were to apply the heme DLT definition to all 14 patients with BM
+involvement 5/14 (36%) of patients would have met hematological DLT definition,
+including 3 patients with grade 4 neutropenia for > 7 days and 2 with
+thrombocytopenia requiring multiple transfusions in a week.
+Other Toxicities: Overall toxicity experience during the entire course of therapy is
+described in Table-4. Even though 10 patients (56%) experienced grade 3 or 4
+neutropenia, only 1 patient (6%) developed grade 3 febrile neutropenia without the
+use of granulocyte colony stimulating factor (GCSF). Three patients (18%) required
+multiple transfusions (1 PRBC and 2 platelet transfusions).
+Even though both agents include diarrhea as a DLT in single agent clinical
+trials, only 3 (17%) reported grade 3-4 diarrhea without any DLT with very little
+moderate to severe nausea or vomiting. The incidence of peripheral neurotoxicity
+12
+This article is protected by copyright. All rights reserved.
+
+--- Page 13 ---
+was relatively low, with 2 patients (11%) experiencing sensory neuropathy (1 Grade-
+2, 1 Grade-3).
+Anti-Tumor Activity: Two objective responses (OR) were observed out of 17
+eligible patients (12%), as defined by INRC NBL criteria[30]. One response was in
+3-year-old patient with refractory NBL with N-MYC non-amplified disease, with
+measurable soft tissue lesions in in the liver, and maxillary sinus on the right. The
+patient demonstrated a partial response by CT and MIBG scans after 6 cycles and
+maintained the response for a total of 48 cycles (Table-2). At that point the patient
+came off study to enroll in another investigational study, remaining in PR for 2 years
+post protocol therapy. A second response was seen in a 7-year-old boy with N-MYC
+non-amplified, evaluable disease in sacral bone by MIBG scan and iliac crest bone
+marrow by bone marrow evaluation. The patient had prior exposure to irinotecan
+with no objective response. However, after 2 cycles of protocol therapy he had
+complete response (CR), with complete resolution of MIBG-avidity, and clearance of
+marrow disease. He maintained in CR for a total of 44 cycles before coming off
+study to enroll on a vaccination study at an outside institution. The patient remains
+in CR 30 months post protocol therapy.
+Four additional patients (23%) received 6 or more cycles of protocol therapy
+with minimal toxicity and prolonged stable disease (SD) (6, 6, 8 and 8 cycles
+respectively). Overall, 35% of these patients received clinical benefit from the study
+therapy, with prolonged objective responses (n=2) or prolonged disease stabilization
+(n=4). Three-year DFS and OS rates for this study cohort were 28% (± 11%) and
+44% (±12%), respectively (Figs. 1A and 1B).
+13
+This article is protected by copyright. All rights reserved.
+
+--- Page 14 ---
+DISCUSSION
+Bortezomib is a first in class boronic proteasome inhibitor that reversibly inhibits
+activity of the 20S proteasome but its true mechanism of action is still unknown.
+However, inhibition of NF-κB, activation of pro-apoptotic proteins like caspases and
+cleavage of DNA repair enzymes, increasing the susceptibility of cancer cells to
+classes of DNA-damaging agents are some of the proposed mechanisms[21,33,34].
+Based on the role of NF-kB in NBL pathogenesis, our group and others explored the
+role of bortezomib in vivo and in vitro against NBL and have shown a synergy
+between bortezomib and irinotecan and other cytotoxic agents[22,35,36] forming the
+basis of this trial. To our knowledge, this is the first clinical trial of bortezomib against
+NBL. As most of the patients with refractory / relapsed NBL have already seen very
+dose intense cytotoxic chemotherapy, we chose irinotecan given its known activity
+against neuroblastoma, favorable toxicity profile, with less myelosuppressive effects
+as compared to other cytotoxic agents. We really wanted to explore the effect of
+maximum inhibition of proteasome and its clinical effect when combined with
+escalating doses of irinotecan and because of this we elected to keep a constant
+dose of bortezomib with maximum proteasome suppression.
+The combination of bortezomib and irinotecan was very well tolerated with
+only 2 DLT’s in 18 patients and there were 6 patients who received between 6-48
+cycles of chemotherapy. Thrombocytopenia has been reported in many other single
+agent bortezomib and irinotecan studies[14,23]. In the current trial, only 4 of 18
+patients were eligible for assessment of hematologic toxicity, thus limiting our ability
+to assess thrombocytopenia. One non-hematologic DLT was irritability and
+inconsolable crying, a complaint not reported in other pediatric studies with these
+14
+This article is protected by copyright. All rights reserved.
+
+--- Page 15 ---
+agents. Though, the etiology of the event remains unclear, it is possible that it was a
+manifestation of neurotoxicity in a toddler. In terms of other toxicities seen in our
+trial, in general they were mild. Overall patients had no adverse impact on quality of
+life while on therapy with most continuing school or pre-school activities while on
+protocol therapy. The infectious complications were minimal with only one episode
+of febrile neutropenia without any septic episodes. Gastrointestinal side effects were
+notable for diarrhea, which was expected as both agents are known to cause
+diarrhea. However, nausea and vomiting were minimal. Surprisingly, neurotoxicity
+was also minimal which has been a major dose limiting toxicity in older adults. Prior
+exposure to cisplatin and vincristine in pre-protocol therapy for primary NBL
+treatment did not increase the incidence of neurotoxicity secondary to bortezomib in
+our study. This is similar to what has been described in adults where increasing age
+was the only predictive variable associated with neurotoxicity in response to
+bortezomib, not prior exposure to any neurotoxic agents[37]. The favorable toxicity
+profile makes this an ideal combination for using as a backbone for adding
+additional investigational agents especially in children who cannot tolerate
+temozolomide orally.
+Another novel aspect of our trial was the modified TITE-CRM phase-I study
+design. There are several potential advantages of this approach including treating
+all eligible patients[24], and keeping a trial open continuously in between doses.
+During the entire time period when this trial was open, all eligible patients who were
+interested in participating in the study were able to be enrolled on our study. This
+could be of tremendous value in improving efficiency of pediatric oncology phase-I
+clinical trials, which are known for intermittent closures and lack of available spots
+15
+This article is protected by copyright. All rights reserved.
+
+--- Page 16 ---
+when an eligible patient is identified. Based on extensive simulation studies we
+reported earlier, we were able to show that the TITE-CRM design was able to 1)
+identify the MTD more accurately without increasing the probability of exposing
+patients to toxic doses, and 2) treat more patients at or close to MTD dosing when
+compared more traditional designs[24], making a very compelling case for TITE-
+CRM to be a novel alternative to traditional phase-I designs for pediatric phase-I
+trials and[24].
+We enrolled 18 patients in approximately 3 years and 10 months, which took
+much longer than we expected. Generally, the TITE-CRM design doesn’t have
+much advantage of shortening the trial duration in this situation when the patient
+recruitment is slow, but there were 4 patients enrolled within 2 weeks after the
+previously enrolled patient. It’s likely that these four patients would either have their
+entry delayed or would be treated off protocol with some other agent if the trial was
+of traditional design. Given the small sample size in phase I trials, the selected MTD
+has a large uncertainty. The model-based design using all patients’ data is likely to
+be more efficient than the rule-based designs. But the TITE-CRM design relies on
+certain assumptions (such as the dose-toxicity function and the a priori DLT
+probabilities). Although it has been shown that results are quite robust to the choice
+of dose-toxicity model[38,39], we need to carefully evaluate these assumptions for
+every trial design.
+In this study, we have made a conservative choice in selecting Dose level-3
+as the MTD. The DLT probability at DL3 is 17%, which is the highest dose with DLT
+probability of no more than 0.25. However, Dose level-4 has an estimated DLT
+16
+This article is protected by copyright. All rights reserved.
+
+--- Page 17 ---
+probability of 26%, which is only slightly larger than 25%. Because of the limited
+sample size and no data (no patient was treated) at Dose level-4, we can’t rule out
+the possibility of DL4 being the MTD. Thus, we suggest to consider both DL3 and
+DL4 in future trials.
+Finally, the combination of bortezomib and irinotecan showed a modest hint
+of clinical efficacy within the confines of this phase-I trial with an overall 12% OR
+rate, including in 1 patient with prior irinotecan exposure. This is similar to other
+standard therapy used in relapsed neuroblastoma [4,7]. Even though the OR were
+seen only in patients with evaluable disease, 35% of patients had prolonged SD or
+better from 6-48 courses with minimal toxicity, suggesting a very favorable long term
+toxicity profile. These findings will need to be confirmed in a larger phase-II trial to
+determine the true efficacy of this combination in refractory NBL. Going forward
+there are other treatment strategies to take advantage of these agents in efforts to
+improve the clinical response in refractory NBL. As examples, irinotecan and
+temolozomide have shown to be active in combination against refractory NBL with
+minimal toxicity and are considered an ideal backbone for the addition of novel
+biologic agents for testing. It is intriguing to consider bortezomib in such a treatment
+combination[4,7]. In addition, both irinotecan and bortezomib have shown to be
+radio-sensitizers and could be considered in combination with either therapeutic
+doses of I131-MIBG or conventional radiation therapy[40-44]. Finally, oral irinotecan
+and subcutaneous bortezomib have been shown to be equally efficacious in patient
+friendly formulations, as both agents can be delivered in an ambulatory/home
+setting[7,45].
+17
+This article is protected by copyright. All rights reserved.
+
+--- Page 18 ---
+Our study has several limitations: a) it is a small, single institution study b) it
+had only 4 patients without bone marrow involvement who were eligible for
+determination of hematological toxicities and so the determination of hematological
+DLT was inadequate. C) it had large inter-patient study entry time leading to a close
+to 4 year completion time and mitigated many benefits of TITE-CRM design.
+In summary, the combination of bortezomib and irinotecan was very well
+tolerated with favorable short and long term toxicity profile, and showed modest
+clinical activity. The clinical activity of this novel combination merits testing in a
+larger phase II clinical trial against refractory / relapsed neuroblastoma.
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFICTS OF INTEREST
+The author(s) indicated no potential conflicts of interest.
+FUNDING AND SUPPORT: This work was supported by University of Michigan
+Comprehensive Cancer Center (UMCCC) Clinical and Translational Research
+Award (RM) and Investigator Initiated Clinical Grant by Millennium Pharmaceutical
+Inc. (2008-2013) (RM). However, the study concept, design, conduct, analysis and
+the manuscript preparation are all done solely by investigators (RM, LZ and VO) and
+support had no impact on any intellectual aspect of the study.
+ACKOWLEDGEMENTS: We would like also like to acknowledge Mr. Kevin Frank
+and Ms. Bailey Anderson in preparation and formatting of the manuscript and Ms.
+Rhonda McDougall, Ms. Christine Leslie, Ms. Courtney Oliver and Ms. Ashley
+Carpenter for their role in the conduct of the study. Above all, our deepest gratitude
+is to patients and families, without their generosity, it would not have been possible
+to complete this study.
+18
+This article is protected by copyright. All rights reserved.
+
+--- Page 19 ---
+AUTHOR CONTRIBUTIONS:
+Conception and design: Rajen Mody, M.B.B.S, M.S., Lili Zhao, Ph.D., Greg Yanik,
+M.D. and Valerie Opipari, M.D.
+Administrative support: Rajen Mody, M.B.B.S and Valerie Opipari, M.D.
+Provision of study materials or patients: Rajen Mody, M.B.B.S, M.S., Greg
+Yanik, M.D. and Valerie Opipari, M.D.
+Collection and assembly of data: Rajen Mody, M.B.B.S, M.S., Lili Zhao, Ph.D.,
+and Valerie Opipari, M.D.
+Data analysis and interpretation: Rajen Mody, M.B.B.S, M.S., Lili Zhao, Ph.D.,
+and Valerie Opipari, M.D.
+Final approval of manuscript: Rajen Mody, M.B.B.S, M.S., Lili Zhao, Ph.D., Greg
+Yanik, M.D. and Valerie Opipari, M.D.
+19
+This article is protected by copyright. All rights reserved.
+
+--- Page 20 ---
+REFERENCES
+1. Kreissman SG, Seeger RC, Matthay KK, et al. Purged versus non-purged peripheral blood
+stem-cell transplantation for high-risk neuroblastoma (COG A3973): a randomised
+phase 3 trial. Lancet Oncol 2013:14(10):999-1008.
+2. Matthay KK, Reynolds CP, Seeger RC, et al. Long-term results for children with high-risk
+neuroblastoma treated on a randomized trial of myeloablative therapy followed by 13-
+cis-retinoic acid: a children's oncology group study. J Clin Oncol 2009:27(7):1007-1013.
+3. Pearson AD, Pinkerton CR, Lewis IJ, et al. High-dose rapid and standard induction
+chemotherapy for patients aged over 1 year with stage 4 neuroblastoma: a randomised
+trial. Lancet Oncol 2008:9(3):247-256.
+4. Bagatell R, London WB, Wagner LM, et al. Phase II study of irinotecan and temozolomide
+in children with relapsed or refractory neuroblastoma: a Children's Oncology Group
+study. J Clin Oncol 2011:29(2):208-213.
+5. Moreno L, Rubie H, Varo A, et al. Outcome of children with relapsed or refractory
+neuroblastoma: A meta-analysis of ITCC/SIOPEN European phase II clinical trials.
+Pediatr Blood Cancer 2017:64(1):25-31.
+6. Basta NO, Halliday GC, Makin G, et al. Factors associated with recurrence and survival
+length following relapse in patients with neuroblastoma. Br J Cancer 2016:115(9):1048-
+1057.
+7. Wagner LM, Villablanca JG, Stewart CF, et al. Phase I trial of oral irinotecan and
+temozolomide for children with relapsed high-risk neuroblastoma: a new approach to
+neuroblastoma therapy consortium study. J Clin Oncol 2009:27(8):1290-1296.
+8. Houghton PJ, Stewart CF, Cheshire PJ, et al. Antitumor activity of temozolomide
+combined with irinotecan is partly independent of O6-methylguanine-DNA
+methyltransferase and mismatch repair phenotypes in xenograft models. Clin Cancer
+Res 2000:6(10):4110-4118.
+9. Thompson J, Zamboni WC, Cheshire PJ, et al. Efficacy of systemic administration of
+irinotecan against neuroblastoma xenografts. Clin Cancer Res 1997:3(3):423-431.
+10. Vassal G, Pondarre C, Cappelli C, et al. DNA-topoisomerase I, a new target for the
+treatment of neuroblastoma. Eur J Cancer 1997:33(12):2011-2015.
+20
+This article is protected by copyright. All rights reserved.
+
+--- Page 21 ---
+11. Shitara T, Shimada A, Hanada R, et al. Irinotecan for children with relapsed solid tumors.
+Pediatr Hematol Oncol 2006:23(2):103-110.
+12. Bomgaars L, Kerr J, Berg S, et al. A phase I study of irinotecan administered on a weekly
+schedule in pediatric patients. Pediatr Blood Cancer 2006:46(1):50-55.
+13. Kushner BH, Kramer K, Modak S, et al. Five-day courses of irinotecan as palliative
+therapy for patients with neuroblastoma. Cancer 2005:103(4):858-862.
+14. Mugishima H, Matsunaga T, Yagi K, et al. Phase I study of irinotecan in pediatric patients
+with malignant solid tumors. J Pediatr Hematol Oncol 2002:24(2):94-100.
+15. Blaney S, Berg SL, Pratt C, et al. A phase I study of irinotecan in pediatric patients: a
+pediatric oncology group study. Clin Cancer Res 2001:7(1):32-37.
+16. Adams J, Palombella VJ, Sausville EA, et al. Proteasome inhibitors: a novel class of potent
+and effective antitumor agents. Cancer Res 1999:59(11):2615-2622.
+17. Teicher BA, Ara G, Herbst R, et al. The proteasome inhibitor PS-341 in cancer therapy.
+Clin Cancer Res 1999:5(9):2638-2645.
+18. Hochstrasser M. Ubiquitin, proteasomes, and the regulation of intracellular protein
+degradation. Curr Opin Cell Biol 1995:7(2):215-223.
+19. Yang HJ, Wang M, Wang L, et al. NF-kappaB regulates caspase-4 expression and
+sensitizes neuroblastoma cells to Fas-induced apoptosis. PLoS One
+2015:10(2):e0117953.
+20. Yang HJ, Wang L, Xia YY, et al. NF-kappaB mediates MPP+-induced apoptotic cell death
+in neuroblastoma cells SH-EP1 through JNK and c-Jun/AP-1. Neurochem Int
+2010:56(1):128-134.
+21. Hideshima T, Richardson P, Chauhan D, et al. The proteasome inhibitor PS-341 inhibits
+growth, induces apoptosis, and overcomes drug resistance in human multiple myeloma
+cells. Cancer Res 2001:61(7):3071-3076.
+22. Armstrong MB, Schumacher KR, Mody R, et al. Bortezomib as a therapeutic candidate for
+neuroblastoma. J Exp Ther Oncol 2008:7(2):135-145.
+23. Blaney SM, Bernstein M, Neville K, et al. Phase I study of the proteasome inhibitor
+bortezomib in pediatric patients with refractory solid tumors: a Children's Oncology
+Group study (ADVL0015). J Clin Oncol 2004:22(23):4804-4809.
+24. Zhao L, Lee J, Mody R, et al. The superiority of the time-to-event continual reassessment
+method to the rolling six design in pediatric oncology Phase I trials. Clin Trials
+2011:8(4):361-369.
+21
+This article is protected by copyright. All rights reserved.
+
+--- Page 22 ---
+25. Doussau A, Asselain B, Le Deley MC, et al. Dose-finding designs in pediatric phase I
+clinical trials: comparison by simulations in a realistic timeline framework. Contemp
+Clin Trials 2012:33(4):657-665.
+26. Onar A, Kocak M, Boyett JM. Continual reassessment method vs. traditional empirically
+based design: modifications motivated by Phase I trials in pediatric oncology by the
+Pediatric Brain Tumor Consortium. J Biopharm Stat 2009:19(3):437-455.
+27. Trotti A, Colevas AD, Setser A, et al. CTCAE v3.0: development of a comprehensive
+grading system for the adverse effects of cancer treatment. Semin Radiat Oncol
+2003:13(3):176-181.
+28. Dimopoulos MA, Mateos MV, Richardson PG, et al. Risk factors for, and reversibility of,
+peripheral neuropathy associated with bortezomib-melphalan-prednisone in newly
+diagnosed patients with multiple myeloma: subanalysis of the phase 3 VISTA study. Eur
+J Haematol 2011:86(1):23-31.
+29. Therasse P, Arbuck SG, Eisenhauer EA, et al. New guidelines to evaluate the response to
+treatment in solid tumors. European Organization for Research and Treatment of
+Cancer, National Cancer Institute of the United States, National Cancer Institute of
+Canada. J Natl Cancer Inst 2000:92(3):205-216.
+30. Brodeur GM, Pritchard J, Berthold F, et al. Revisions of the international criteria for
+neuroblastoma diagnosis, staging, and response to treatment. J Clin Oncol
+1993:11(8):1466-1477.
+31. Kaplan EL, Meier P. Nonparametric Estimation from Incomplete Observations. Journal of
+the American Statistical Association 1958:53(282):457-481.
+32. Richardson PG, Briemberg H, Jagannath S, et al. Frequency, characteristics, and
+reversibility of peripheral neuropathy during treatment of advanced multiple myeloma
+with bortezomib. J Clin Oncol 2006:24(19):3113-3120.
+33. Mitsiades N, Mitsiades CS, Richardson PG, et al. The proteasome inhibitor PS-341
+potentiates sensitivity of multiple myeloma cells to conventional chemotherapeutic
+agents: therapeutic applications. Blood 2003:101(6):2377-2380.
+34. Hideshima T, Mitsiades C, Akiyama M, et al. Molecular mechanisms mediating
+antimyeloma activity of proteasome inhibitor PS-341. Blood 2003:101(4):1530-1534.
+35. Brignole C, Marimpietri D, Pastorino F, et al. Effect of bortezomib on human
+neuroblastoma cell growth, apoptosis, and angiogenesis. J Natl Cancer Inst
+2006:98(16):1142-1157.
+22
+This article is protected by copyright. All rights reserved.
+
+--- Page 23 ---
+36. Hamner JB, Dickson PV, Sims TL, et al. Bortezomib inhibits angiogenesis and reduces
+tumor burden in a murine model of neuroblastoma. Surgery 2007:142(2):185-191.
+37. Corso A, Mangiacavalli S, Varettoni M, et al. Bortezomib-induced peripheral neuropathy
+in multiple myeloma: a comparison between previously treated and untreated patients.
+Leuk Res 2010:34(4):471-474.
+38. Paoletti X, Kramar A. A comparison of model choices for the Continual Reassessment
+Method in phase I cancer trials. Stat Med 2009:28(24):3012-3028.
+39. Shen L, O'Quigley JO. Consistency of continual reassessment method under model
+misspecification. Biometrika 1996:83(2):395-405.
+40. Van Rensburg CE, Slabbert JP, Bohm L. Influence of irinotecan and SN-38 on the
+irradiation response of WHO3 human oesophageal tumour cells under hypoxic
+conditions. Anticancer Res 2006:26(1A):389-393.
+41. Zeng YC, Yu L, Xiao YP, et al. Radiation enhancing effects with the combination of
+sanazole and irinotecan in hypoxic HeLa human cervical cancer cell line. J BUON
+2013:18(3):713-716.
+42. Wardman P. Chemical radiosensitizers for use in radiotherapy. Clin Oncol (R Coll Radiol)
+2007:19(6):397-417.
+43. Goel A, Dispenzieri A, Greipp PR, et al. PS-341-mediated selective targeting of multiple
+myeloma cells by synergistic increase in ionizing radiation-induced apoptosis. Exp
+Hematol 2005:33(7):784-795.
+44. Kamer S, Ren Q, Dicker AP. Differential radiation sensitization of human cervical cancer
+cell lines by the proteasome inhibitor velcade (bortezomib, PS-341). Arch Gynecol
+Obstet 2009:279(1):41-46.
+45. Merz M, Salwender H, Haenel M, et al. Subcutaneous versus intravenous bortezomib in
+two different induction therapies for newly diagnosed multiple myeloma: an interim
+analysis from the prospective GMMG-MM5 trial. Haematologica 2015:100(7):964-969.
+23
+This article is protected by copyright. All rights reserved.
+
+--- Page 24 ---
+LEGENDS LIST:
+Fig. 1: Kaplan-Meier Survival Curve of patients with relapsed or refractory NBL (A)
+Disease free survival. (B) Overall survival
+24
+This article is protected by copyright. All rights reserved.
+
+--- Page 25 ---
+25
+This article is protected by copyright. All rights reserved.
+
+--- Page 26 ---
+TABLE 1 Patient Demographics and Clinical Characteristics
+Clinical and Biological Feature Numbers
+Age, Median Years (range) 5 (1-21)
+Gender (Male/ Female) 8/ 10
+N-Myc Amplification, Yes / No/ Unknown 5/ 9/4
+Disease Status, Primary Refractory/ Relapsed 8/10
+Measurable disease, Yes / No 11/7
+Bone Marrow Involvement , Yes / No 14/4
+Prior Therapies, Median (Range) 2 (1-4)
+Prior Irinotecan Exposure (Yes/ No) 5/ 13
+Autologus BMT (Yes/ No) 12/6
+High Dose MIBG (Yes/ No) 3/15
+Patients on Dose Level 1 (Bortezomib 1.2mg/m2/Day, Irinotecan 35mg/m2/D) 3
+Patients on Dose Level 2 (Bortezomib 1.2mg/m2/Day, Irinotecan 40mg/m2/D) 9
+Patients on Dose Level 3 (Bortezomib 1.2mg/m2/Day, Irinotecan 45mg/m2/D) 6
+Number of Courses of Protocol Therapy Received, Median (Range) 2 (1-48)
+Number of patient eligible for toxicity evaluation 18
+Number of patients eligible for response evaluation 17
+Overall Responses by INRC (Percentages) 2 (12%)
+Abbreviations: BMT, Bone Marrow Transplant; MIBG, Metaiodobenzylguanidine; INRC,
+International Neuroblastoma Response Criteria
+26
+This article is protected by copyright. All rights reserved.
+
+--- Page 27 ---
+TABLE 2 Summary of Study Patients
+Disease Evaluable Dose Limiting
+# of Prior Total # of BestBBestBest Ov Best
+Patient Age Stage at N-Myc Status vs. BM Prior Prior Dose Toxicity (DLT)
+Gender Previous Irinotecan Cycles on Overall
+ID (Yr) Diagnosis Amplification Measurable Involvement BMT MIBG Level
+Regimens Exposure Therapy Response
+Disease
+01 6 M IV Not amplified Relapse Evaluable Yes 3 No Yes Yes 1 6 SD
+Refractory Evaluable
+02 17 F III Amplified No 2 No Yes No 1 2 PD
+Refractory Measurable Not
+Evaluable
+03 21 M IV Unknown No 3 Yes Yes No 1 1
+for
+response
+Not Refractory Measurable
+04 4 M IV Yes 1 No Yes No 2 2 PD
+Amplified
+Relapse Evaluable No Grade-4
+05 4 M IV Amplified 2 No Yes No 2 2 Thrombocytope SD
+nia
+Refractory Evaluable Yes
+06 5 F IV Unknown 2 No No No 2 2 SD
+Relapse Measurable Yes
+07 5 F IV Unknown 2 No Yes No 2 8 SD
+Not Relapse Measurable Yes
+08 2 F IV 1 No No No 2 2 PD
+Amplified
+Not Refractory Measurable Yes
+09 1 F IV 2 Yes Yes No 2 6 SD
+Amplified
+Not Relapse Measurable Yes
+010 6 M IV 1 No Yes No 2 2 PD
+Amplified
+IV Amplified Relapse Measurable 2 Grade-3
+Irritability,
+011 2 M Yes 2 No Yes No 3 PD
+inconsolable
+crying
+Not Refractory Evaluable Yes
+012 7 M IV 4 Yes Yes Yes 2 44 CR
+Amplified
+Relapse Measurable Yes
+013 8 F IV Amplified 3 Yes No No 2 2 SD
+Relapse Measurable Yes
+014 2 F IV Unknown 2 No Yes No 3 2 SD
+Not Refractory Evaluable
+015 3 F IV No 4 No Yes No 3 48 PR
+Amplified
+016 8 F IV Amplified Relapse Measurable Yes 1 No No No 3 3 SD
+Not Relapse Measurable Yes
+017 5 F IV 3 Yes No Yes 3 4 SD
+Amplified
+Not Refractory Evaluable Yes
+018 5 M IV 1 No No No 3 8 SD
+Amplified
+27
+This article is protected by copyright. All rights reserved.
+
+--- Page 28 ---
+TABLE 3 Irinotecan Dose Levels and Dose Limiting Toxicities (DLT)
+Dose Bortezomi Irinotecan # of DLT
+Leve b Patient
+Dose
+l s
+Dose
+1 1.2 mg/m2 35 3 -
+mg/m2/da
+y
+2 1.2 mg/m2 40 9 1
+mg/m2/da (Thrombocytopenia
+y )
+3 1.2 mg/m2 45 6 1 (Irritability,
+mg/m2/da inconsolable crying)
+y
+28
+This article is protected by copyright. All rights reserved.
+
+--- Page 29 ---
+TABLE 4 Highest Grade of Overall Toxicities (CTCAE 3.0)*
+None Grade Grade-
+Adverse Event Grade-4
+1-2 3
+12 3 (17%)
+Leukopenia 3 (17%)
+(66%)
+Neutropenia 8 (45%) 6 (33%) 4 (22%)
+17 1 (6%)
+Anemia 0
+(94%)
+13 2 (11%)
+Thrombocytopenia 3 (17%)
+(72%)
+17 1 (6%)
+Nausea 0
+(94%)
+17 1 (6%)
+Vomiting 0
+(94%)
+3 (17%) 12 2 (11%)
+Diarrhea 1 (6%)
+(66%)
+Peripheral Sensory 16 (88%) 1 (6%)
+Neuropathy/ 1 (6%) 0
+Irritability
+Febrile 17 (94%) 1 (6%)
+0
+Neutropenia
+* Common Terminology Criteria For Adverse Event Version 3.0
+29
+This article is protected by copyright. All rights reserved.

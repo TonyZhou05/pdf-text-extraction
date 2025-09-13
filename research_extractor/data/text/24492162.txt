@@ -1,0 +1,536 @@
+Source: 24492162.pdf
+Extracted on: Fri Sep 12 23:56:17 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+Published in final edited form as:
+Clin Lung Cancer. 2014 May ; 15(3): 197–201. doi:10.1016/j.cllc.2013.12.008.
+Phase I trial of cisplatin, pemetrexed, and imatinib mesylate in
+chemo-naïve patients with unresectable malignant pleural
+mesothelioma
+AS Tsao1, N Harun2, J.J Lee2, J Heymach1, K Pisters1, WK Hong3, J Fujimoto4, and I
+Wistuba4
+1The University of Texas M.D. Anderson Cancer Center Department of Thoracic/Head & Neck
+Medical Oncology, Houston, Texas
+2The University of Texas M.D. Anderson Cancer Center Department of Biostatistics, Houston,
+Texas
+3The University of Texas M.D. Anderson Cancer Center Division of Cancer Medicine, Houston,
+Texas
+4The University of Texas M.D. Anderson Cancer Center Department of Molecular Pathology,
+Houston, Texas
+Abstract
+Background—We conducted a phase I trial of cisplatin-pemetrexed-imatinib mesylate, an oral
+PDGFR inhibitor, in chemo-naive MPM patients.
+Methods—A standard 3+3 dose-escalating trial was used with the endpoints of MTD, response
+rate, survival, safety/toxicity and tumor PDGFR levels.
+Results—17 MPM patients were enrolled. The most common (any grade) side effects were
+nausea, fatigue, hypomagnesemia, and anemia. The MTD was established at dose level 3 (imatinib
+600 mg) with the DLT nausea and vomiting. The median PFS was 7.9 months and median OS was
+8.8 months. Sarcomatoid patients have worse PFS (p=0.01) and OS (p=0.009), while better ECOG
+PS 0–1 predicted for improved OS (p=0.001) and PFS (p=0.013). The 6 patients who completed
+all 6 treatment cycles had better OS (p=0.006), their median PFS was 9.6 months and OS was 22.4
+months. In the translational studies, 14 patients had adequate tumor tissue that could be assessed
+for IHC and FISH. Patients with higher than median p- PDGFRα IHC expression had a better OS
+(p=0.013). When assessed as a continuous variable, higher p-PDGFRα in tumor cells correlated
+with an improved OS (p=0.045). None of the other 8 IHC biomarkers were predictive or
+prognostic for survival. Twelve patients had successful PDGFRB FISH results, but none met the
+Corresponding author: Anne S. Tsao, MD, Associate Professor, Department of Thoracic/Head & Neck Medical Oncology, 1515
+Holcombe Blvd. Unit 432 Houston, TX 77030, Fax: 713-792-2121, Phone: 713-792-6363, astsao@mdanderson.org.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Tsao et al. Page 2
+criteria of ≥ 4 copies of PDGFRB gene, thus a correlation with clinical outcomes could not be
+done.
+Conclusions—Cisplatin-pemetrexed-imatinib mesylate has clinical benefit in some MPM
+patients but was not well-tolerated. Further investigation into alternative anti-angiogenic agents,
+including PDGFRα inhibitors is warranted.
+Keywords
+imatinib mesylate; pemetrexed; cisplatin; mesothelioma; PDGFR
+Introduction
+Unresectable malignant pleural mesothelioma (MPM) is a challenging disease with few
+treatment options. The median survival ranges between 9–12 months with systemic
+chemotherapy response rates occurring between 3% to 30%.1 The current standard of care
+frontline systemic chemotherapy is cisplatin-pemetrexed, which showed superiority over
+cisplatin monotherapy in a randomized trial of 456 unresectable patients.2 This study
+reported improvement in the combination arm in median overall survival (12.1 months vs.
+9.3 months; p=0.02) and response rate (41.3% vs. 16.7%, p<0.0001).2 Although this
+regimen was an advance in the field, the survival statistics remain dismal and novel agents
+and new methods of drug delivery are needed to optimize treatment for this disease.
+Imatinib mesylate (STI-571, Gleevec, Novartis Pharma AG, Basel, Switzerland) is a 2-
+phenylaminopyrimidine, a highly selective inhibitor of platelet derived growth factor
+receptor (PDGF-Rα,β).3,4 The PDGF/PDGF-R pathway activates several downstream
+signaling cascades (i.e. c-Src, phospholipase C-γ, phosphotidylinositol-3-kinase/AKT,
+vascular endothelial growth factor, and Grb2/Sos) that ultimately induce cell proliferation,
+cell morphology changes, and anti-apoptosis.5 MPM tumor cells express protein PDGF-BB
+and PDGF-Rβ and PDGF has been shown to increase cell proliferation in vitro by murine
+xenografts with potential autocrine stimulation.6–11 It is theorized that the PDGF pathway
+has autocrine stimulation in malignant mesothelioma cells.7,9 In addition, inhibition of
+PDGF/PDGF-R pathway enhances tumor vascular uptake of chemotherapy by decreasing
+tumor interstitial fluid pressure (IFP).12–15
+Although prior studies16,17 of single agent imatinib mesylate in MPM largely failed to show
+significant response rates, preclinical mesothelioma and solid tumor studies report
+synergistic benefit with the combination of imatinib mesylate and chemotherapy.12,18,19
+Early solid tumor phase I trials also reported anecdotal responses with the combination of
+imatinib and chemotherapy in MPM.20 We hypothesized that inhibition of PDGF pathway in
+combination with cisplatin-pemetrexed in chemo-naive MPM patients would show a clinical
+benefit and embarked on a phase I clinical trial. For the correlative studies, we saught to
+identify any predictive biomarkers from the PDGFR pathway by immunohistochemistry and
+fluorescent in situ hybridization on the baseline tumor tissue. We postulated that
+overexpression of PDGFR pathway proteins or PDGFRB gene amplification would correlate
+to better clinical outcomes.
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Tsao et al. Page 3
+Materials and Methods
+A standard phase I 3+3 study design (see Table 1) evaluated daily imatinib mesylate with
+every 4 week (1 cycle = 28 days) intravenous cisplatin-pemetrexed for a maximum of 6
+cycles of therapy. Imatinib mesylate was given orally daily 1 week before the cisplatin and
+pemetrexed was administered. Cisplatin and pemetrexed was given every 28 days (+/− 4
+days). Patients continued on this regimen until disease progression, unacceptable side
+effects, or withdrawal of consent. Patients received a maximum of 6 cycles of cisplatin and
+pemetrexed. Patients will stop taking imatinib mesylate 28 days (+/− 4 days) after
+completion of 6 cycles of therapy or immediately if they develop progressive disease.. There
+was no maintenance therapy given on this trial. Eligible patients had unresectable MPM (any
+histology), chemo-naive, ECOG PS 0–2. The primary endpoint was maximum tolerated dose
+(MTD); secondary endpoints included response rate (RR), progression-free and overall
+survival, safety/toxicity, and tumor biomarker results. The dose-limiting toxicity (DLT) was
+defined by National Cancer Institute Common Toxicity Criteria Version 3. Dose-limiting
+toxicities (DLT) are defined as (1) febrile neutropenia (fever > grade 2 with grade 4
+neutropenia and requiring IV antibiotics); (2) grade 4 neutropenia (ANC < 500/μL) for more
+than seven days duration; (3) grade 4 thrombocytopenia; (4) grade 3 or 4 non-hematologic
+toxicity (except alopecia). The MTD was the highest dose level in which 6 patients had ≤ 2
+instances of DLT. No intra-patient dose escalations were allowed. Clinical responses were
+assessed by RECIST21 every 8 weeks by CT scans. Progression-free survival, overall
+survival, and response duration were estimated using Kaplan-Meier method. Log-rank tests
+were used to conduct univariate analyses for categorical variables and Cox proportional
+hazards models were used for univariate analysis of continuous biomarkers. Adjustment for
+covariates in a multivariable model was not done due to small sample size.
+Baseline tumor tissue specimens were obtained and evaluated for immunohistochemistry
+(IHC) biomarkers (PDGFRα, PDGFRβ, p-PDGFRα, p-PDGFRβ) in the tumor, nucleus,
+stroma and fluorescence in situ hybridization (FISH) for PDGFRβ gene amplification. The
+methodology for the IHC and FISH has been previously published.22,23
+Immunohistochemistry
+We performed standard IHC studies of 3 biomarkers and localized them to the stromal,
+nucleus, and membrane: PDGFRβ, p-PDGFRβ, and PDGFRα. The histology sections were
+incubated with primary antibodies PDGFR-β (P-20, dilution 1:300, Santa Cruz
+Biotechnology, Inc., Santa Cruz, CA), p-PDGFRβ (Tyr 1021, dilution 1:400, Santa Cruz
+Biotechnology, Inc., Santa Cruz, CA) for 65 min, and PDGFRα (dilution 1:100, Cell
+Signaling Technology, Danvers, MA) for 90 min, at room temperature. Tissue sections were
+then incubated with the secondary antibody (EnVision Dual Link+; DAKO, Carpinteria, CA)
+for 30 min, after which diaminobenzidine chromogen was applied for 5 min. Tumor
+malignant cells and stroma were evaluated using the same methodology for PDGFRβ, p-
+PDGFRβ, and PDGFRα protein expressions. Briefly, for each marker, two experienced
+thoracic pathologists (I.I.W. and J.F.) examined both the intensity and extent of
+immunostaining by light microscopy using a ×20 magnification objective. Immunoreactivity
+of all antibodies was detected in the cytoplasm22 of malignant cell and stroma fibroblast, and
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Tsao et al. Page 4
+p- PDGFRβ was detected in both the cytoplasm and nucleus. Cytoplasmic or nuclear
+expressions were quantified using a four-value intensity score (0, none; 1+, weak; 2+,
+moderate; and 3+, strong) and the percentage (0–100%) of the extent of reactivity. A final
+expression score was obtained by multiplying the intensity and reactivity extension values
+(range, 0–300).22
+Fluorescence in situ hybridization (FISH) for analysis of gene copy number gain (CNG)
+In addition, PDGFRB gene copy CNG was evaluated in tumor tissue. We analyzed the gene
+copy number per cell using a dual-color FISH assay. The PDGFRB probe was prepared from
+the Vysis LSI CSF1R probe (5q33-34) SpectrumOrange (Abbott Molecular, Illinois). A
+similarly probe Vysis LSI D5S23, D5S721 SpectrumGreen Probe (Abbott Molecular,
+Illinois) mapping to chromosome 5p was used as an internal control. The 4 μm thick
+sections were incubated for two hours to overnight at 56°C, deparaffinized in Citri-Solv
+(Fisher, Waltham, MA) and washed in 100% ethanol. The slides were sequentially incubated
+in 2x Saline-sodium Citrate Buffer (SSC) at 75°C for 18 to 23 min, digested in 0.5mg/ml
+proteinase K/2xSSC at 45°C for 18 to 23 min, washed in 2xSSC for 5 min, and dehydrated
+in ethanol. DNA denaturation was performed for 15 min at 85°C and hybridization was
+allowed to occur at 37°C for 36–48 hours. Chromatin was counterstained with 4’,6-
+diamidino-2-phenyldole (0.3 μg/ml in Vectashield mounting medium, Vector Laboratories).
+Gene copy number analysis was done in approximately 50 nuclei per tumor in at least four
+areas, and the selection of the area was guided by H&E-stained section. PDGFRB gene copy
+number was evaluated by three ways: a) gene amplification, defined as presence of loose or
+tight gene cluster or PDGFRB gene to centromeric probe 5 ratio ≥2; b) copy number gain
+(CNG) defined at 2 levels: ≥ 4 copies in > 10% cells and in > 40% of cells as previously
+published.23
+Results
+There were 17 chemo-naive mesothelioma patients enrolled on this phase I trial from
+September 2006 until April 2009. Patient demographics are listed in Table 2. The adverse
+events by dose level are listed in Table 3. The most common (any grade) side effects
+associated with this regimen were nausea, fatigue, hypomagnesemia, and anemia. Grade 3
+toxicities included anemia (n=4), neutropenia (n=2), vomiting (n=2), and one incident each
+of hypomagnesemia, hypophosphatemia, and leukopenia were reported. There was one
+grade 4 anemia event reported. There were no treatment related deaths that occured. The
+MTD was established at dose level 3 with the DLT of nausea and vomiting.
+Best response by RECIST criteria, showed 1 PR, 3 minor responses, 7 SD, and 3 PD. Three
+patients were not evaluable for a response as they did not complete re-staging studies. Six
+patients completed all 6 cycles of therapy, 1 completed 5 cycles, 2 completed 4 cycles of
+treatment, 1 completed 3 cycles of therapy. The remaining 7 patients completed 2 or fewer
+cycles of therapy. The median number of cycles was 4, range 1–6. Patients were removed
+from the study for the following reasons: 5 disease progression, 1 renal insufficiency, 2
+withdrew due to treatment intolerance, 1 withdrew for social reasons, 1 had debility, and 1
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Tsao et al. Page 5
+was hospitalized for pneumonia with his treatment held and exceeded the amount of time
+allowed to be off the imatinib mesylate.
+For the 17 patients on trial, the median PFS was 7.9 months and median OS was 8.8 months
+(see Figure 1). Patients with sarcomatoid histology had a worse PFS (p=0.01) and OS
+(p=0.009) compared to epitheliod and biphasic histology patients. Gender and race were not
+significant in predicting survival outcomes, but improved ECOG PS 0 or 1 predicted for
+improved OS (p=0.001) and PFS (p=0.013). In the 6 patients who completed 6 cycles of
+therapy, their median PFS was 9.6 months and OS was 22.4 months (Figure 1). Patients who
+were able to complete 6 cycles of treatment had a better OS compared to those who were not
+able to complete treatment (p=0.006). The histology of these 6 patients included 4 epitheliod
+and 2 biphasic mesothelioma.
+In the translational studies, fourteen patients had adequate tumor tissue that could be
+assessed for IHC and FISH. In the IHC results, when assessing results by above and below
+the median, patients with higher than median p- PDGFRα IHC expression in tumor cells had
+a better OS (p=0.013). When assessed as a continuous variable, higher p-PDGFRα in tumor
+cells correlated with an improved OS (p=0.045). Patients with higher p-PDGFRα in tumor
+cells were more likely to have completed 6 cycles of triplet therapy. None of the other 8 IHC
+biomarkers were predictive or prognostic for survival.
+There were 12 patients with successful PDGFRβ FISH results, but none met the criteria of ≥
+4 copies of PDGFRB gene or had gene amplification. Thus a correlation with clinical
+outcomes could not be done.
+Discussion
+This study was undertaken to demonstrate the feasibility of treating mesothelioma patients
+with triplet therapy regimen including a PDGFR inhibitor. The MTD was established at dose
+level 3 (cisplatin 75 mg/m2, pemetrexed 500 mg/m2, imatinib mesylate 600 mg). In the
+efficacy analysis, patients who completed 6 cycles of therapy had a significant PFS (9.6
+months) and OS benefit (22.4 months). The demographic analysis showed that these patients
+were more likely to have a better ECOG PS 0-1 and none had sarcomatoid histology. It is
+therefore difficult to claim that this regimen had significant efficacy as this subgroup of
+patientsare more likely to have improved survival outcomes anyway.
+This triplet regimen was tolerable in good performance status patients, but a significant
+proportion of patients chose to remove themselves from this study or had unacceptable side
+effects requiring study discontinuation. Seven patients received ≤ 2 cycles of this triplet
+regimen. Also post-study, 4 patients received no subsequent therapy, 4 patients received 1 or
+2 cycles of additional single agent therapy, 2 patients were unknown, and the remaining
+seven received 2 or more lines of subsequent treatment. This emphasizes the difficulty of
+treating MPM patients and future studies should account for the fact that MPM patients are
+less likely to receive salvage therapy.
+The tumor tissue results were not helpful in identifying predictive biomarkers since the study
+was small and the baseline tissue specimens were not prospectively obtained. However, it is
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Tsao et al. Page 6
+plausible that higher expression of p-PDGFRα on tumor cells may identify a population of
+patients who have a better OS with systemic treatment, but this should be studied in a
+prospective manner with a larger sample size. Unfortunately as well, none of the 12 patients
+with adequate tissue for FISH had a positive result, and correlations could not be done.
+Our initial hypothesis that PDGFR inhibition has a synergistic role with systemic
+chemotherapy, has been well-supported by data from preclinical models.12 However, in our
+trial, PDGFR inhibition with chemotherapy was difficult to tolerate and led to insufficient
+treatment. In the small number of patients who received adequate therapy, the triplet regimen
+had more of a stabilizing effect rather than improved response. Thus, it may be a more
+effective strategy to target PDGFR in the maintenance setting or to study chemotherapy in
+combination with other multi-targeted anti-angiogenic inhibitors. SWOG 0905 is a phase I/II
+trial for chemo-naive patients with unresectable or metastatic malignant pleural
+mesothelioma. S0905 combines cisplatin-pemetrexed +/− cediranib, a dual PDGFR and
+VEGFR inhibitor and is currently open for enrollment in the randomized phase II portion
+which has a maintenance arm of cediranib versus placebo.
+In conclusion, cisplatin-pemetrexed-imatinib mesylate was tolerable in good performance
+status patients and was able to prolong survival outcomes in patients who were able to
+complete 6 cycles of therapy. However, this study is significantly limited as there were small
+numbers of patients and tumor specimens to evaluate. Also, this trial is limited as it did not
+include a maintenance therapy treatment arm, since it was designed and conducted prior to
+this paradigm shift in thoracic oncology. It is unlikely that this triplet regimen with imatinib
+mesylate will be developed further. SWOG 0905 with PDGFR/VEGFR inhibition is the
+evolution from this clinical trial. Future translational studies should elaborate on the
+prognostic role of PDGFRα expression on mesothelioma tumor cells.
+Acknowledgments
+Supported by a grant from Novartis investigator initiated mechanism, National Institute of Health 5 K12 CA088084
+05(PP-9), and Aileen M. Dillon and Lee M. Bourg Mesothelioma Fund
+References
+1. Baas P. Chemotherapy for malignant mesothelioma: from doxorubicin to vinorelbine. Semin Oncol.
+2002; 29:62–9.
+2. Vogelzang NJ, Rusthoven JJ, Symanowski J, et al. Phase III study of pemetrexed in combination
+with cisplatin versus cisplatin alone in patients with malignant pleural mesothelioma. J Clin Oncol.
+2003; 21:2636–44. [PubMed: 12860938]
+3. Buchdunger E, Cioffi CL, Law N, et al. Abl protein-tyrosine kinase inhibitor STI571 inhibits in
+vitro signal transduction mediated by c-kit and platelet-derived growth factor receptors. J Pharmacol
+Exp Ther. 2000; 295:139–45. [PubMed: 10991971]
+4. Savage DG, Antman KH. Imatinib mesylate--a new oral targeted therapy. N Engl J Med. 2002;
+346:683–93. [PubMed: 11870247]
+5. Pietras K, Sjoblom T, Rubin K, et al. PDGF receptors as cancer drug targets. Cancer Cell. 2003;
+3:439–43. [PubMed: 12781361]
+6. Roberts F, Harper CM, Downie I, et al. Immunohistochemical analysis still has a limited role in the
+diagnosis of malignant mesothelioma. A study of thirteen antibodies. Am J Clin Pathol. 2001;
+116:253–62. [PubMed: 11488073]
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Tsao et al. Page 7
+7. Nowak AK, Lake RA, Kindler HL, et al. New approaches for mesothelioma: biologics, vaccines,
+gene therapy, and other novel agents. Semin Oncol. 2002; 29:82–96. [PubMed: 11836673]
+8. Langerak AW, van der Linden-van Beurden CA, Versnel MA. Regulation of differential expression
+of platelet-derived growth factor alpha- and beta-receptor mRNA in normal and malignant human
+mesothelial cell lines. Biochim Biophys Acta. 1996; 1305:63–70. [PubMed: 8605252]
+9. Prins JB, Langerak AW, Dirks RP, et al. Identification of regulatory sequences in the promoter of the
+PDGF B-chain gene in malignant mesothelioma cell lines. Biochim Biophys Acta. 1996; 1317:223–
+32. [PubMed: 8988239]
+10. Ascoli V, Scalzo CC, Facciolo F, et al. Platelet-derived growth factor receptor immunoreactivity in
+mesothelioma and nonneoplastic mesothelial cells in serous effusions. Acta Cytol. 1995; 39:613–
+22. [PubMed: 7543232]
+11. Dorai T, Kobayashi H, Holland JF, et al. Modulation of platelet-derived growth factor-beta mRNA
+expression and cell growth in a human mesothelioma cell line by a hammerhead ribozyme. Mol
+Pharmacol. 1994; 46:437–44. [PubMed: 7935323]
+12. Pietras K, Rubin K, Sjoblom T, et al. Inhibition of PDGF receptor signaling in tumor stroma
+enhances antitumor effect of chemotherapy. Cancer Res. 2002; 62:5476–84. [PubMed: 12359756]
+13. Pietras K, Ostman A, Sjoquist M, et al. Inhibition of platelet-derived growth factor receptors
+reduces interstitial hypertension and increases transcapillary transport in tumors. Cancer Res.
+2001; 61:2929–34. [PubMed: 11306470]
+14. Sleeman BD, Nimmo HR. Fluid transport in vascularized tumours and metastasis. IMA J Math
+Appl Med Biol. 1998; 15:53–63. [PubMed: 9549906]
+15. Zlotecki RA, Baxter LT, Boucher Y, et al. Pharmacologic modification of tumor blood flow and
+interstitial fluid pressure in a human tumor xenograft: network analysis and mechanistic
+interpretation. Microvasc Res. 1995; 50:429–43. [PubMed: 8583955]
+16. Porta C, Mutti L, Tassi G. Negative results of an Italian Group for Mesothelioma (G.I.Me.) pilot
+study of single-agent imatinib mesylate in malignant pleural mesothelioma. Cancer Chemother
+Pharmacol. 2007; 59:149–50. [PubMed: 16636799]
+17. Mathy A, Baas P, Dalesio O, et al. Limited efficacy of imatinib mesylate in malignant
+mesothelioma: a phase II trial. Lung Cancer. 2005; 50:83–6. [PubMed: 15951053]
+18. Bertino P, Piccardi F, Porta C, et al. Imatinib mesylate enhances therapeutic effects of gemcitabine
+in human malignant mesothelioma xenografts. Clin Cancer Res. 2008; 14:541–8. [PubMed:
+18223230]
+19. Bertino P, Porta C, Barbone D, et al. Preliminary data suggestive of a novel translational approach
+to mesothelioma treatment: imatinib mesylate with gemcitabine or pemetrexed. Thorax. 2007;
+62:690–5. [PubMed: 17311837]
+20. Ali Y, Lin Y, Gharibo MM, et al. Phase I and pharmacokinetic study of imatinib mesylate
+(Gleevec) and gemcitabine in patients with refractory solid tumors. Clin Cancer Res. 2007;
+13:5876–82. [PubMed: 17908982]
+21. Therasse P, Arbuck SG, Eisenhauer EA, et al. New guidelines to evaluate the response to treatment
+in solid tumors. European Organization for Research and Treatment of Cancer, National Cancer
+Institute of the United States, National Cancer Institute of Canada. J Natl Cancer Inst. 2000;
+92:205–16. [PubMed: 10655437]
+22. Behrens C, Feng L, Kadara H, et al. Expression of interleukin-1 receptor-associated kinase-1 in
+non-small cell lung carcinoma and preneoplastic lesions. Clin Cancer Res. 16:34–44.
+23. Varella-Garcia M, Diebold J, Eberhard DA, et al. EGFR fluorescence in situ hybridisation assay:
+guidelines for application to non-small-cell lung cancer. J Clin Pathol. 2009; 62:970–7. [PubMed:
+19861557]
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Tsao et al. Page 8
+Figure 1.
+Individual Survival outcomes for progression-free and overall survival and designation of
+histologic subtype.
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Tsao et al. Page 9
+1
+elbaT
+dexertemep
+dna
+nitalpsic
+,etalysem
+binitami
+fo
+slevel
+esod
+denifed-erp
+6
+htiw
+deilppa
+saw
+ngised
+”3+3“
+dradnats
+ehT
+3+
+2+
+1+
+0
+1−
+2−
+slevel
+esoD
+006
+004
+003
+003
+003
+003
+)gm(
+etalysem
+binitamI
+57
+57
+57
+06
+06
+06
+)2m/gm(
+nitalpsiC
+005
+005
+005
+005
+004
+053
+)2m/gm(
+dexertemeP
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+
+--- Page 10 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Tsao et al. Page 10
+Table 2
+Patient Demographics.
+Patient Characteristic N patients (n=17) % patients
+Age
+Median 61
+Range 48–79
+Gender
+Female 3 18%
+Male 14 82%
+Ethnicity
+Caucasian 11 65%
+Hispanic 2 11%
+Asian/Indian 1 6%
+African-American 2 11%
+Native American Indian 1 6%
+ECOG PS
+0 3 18%
+1 11 65%
+2 3 18%
+Histology
+Epitheliod 7 41%
+Biphasic 5 29%
+Sarcomatoid 5 29%
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.
+
+--- Page 11 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Tsao et al. Page 11
+Table 3
+Adverse events by grade.
+ADVERSE EVENT 1 2 3 4
+ALOPECIA 1 0 0 0
+ANEMIA 5 5 4 1
+ANOREXIA 6 1 0 0
+CONSTIPATION 0 1 0 0
+DEHYDRATION 3 4 0 0
+DIARRHEA 3 1 0 0
+DIZZINESS 0 1 0 0
+EDEMA 7 0 0 0
+EPISTAXIS 1 0 0 0
+FATIGUE 3 4 0 0
+GASTRITIS 0 1 0 0
+HEARING DEFICIT 0 1 0 0
+HYPERURICEMIA 1 0 0 0
+HYPOCALCEMIA 3 0 0 0
+HYPOKALEMIA 4 0 0 0
+HYPOMAGNESEMIA 8 5 1 0
+HYPONATREMIA 3 0 0 0
+HYPOPHOSPHATEMIA 1 2 1 0
+INFECTION 1 0 0 0
+LYMPHOPENIA 1 0 0 0
+MUSCLE WEAKNESS 3 1 0 0
+NAUSEA 7 24 0 0
+NEUTROPENIA 6 4 3 0
+OCULAR/VISUAL CHANGES 2 0 0 0
+PAIN 2 1 0 0
+PROTEINURIA 1 0 0 0
+RASH 1 1 0 0
+TASTE ALTERATION 1 0 0 0
+THROMBOCYTOPENIA 2 1 0 0
+VOMITING 2 8 2 0
+WEIGHT LOSS 1 0 0 0
+Clin Lung Cancer. Author manuscript; available in PMC 2016 October 26.

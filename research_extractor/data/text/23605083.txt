@@ -1,0 +1,1094 @@
+Source: 23605083.pdf
+Extracted on: Sat Sep 13 00:00:24 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Published in final edited form as:
+Breast Cancer Res Treat. 2013 May ; 139(1): 145–153. doi:10.1007/s10549-013-2528-8.
+A phase I trial of the IGF-1R antibody Cixutumumab in
+combination with temsirolimus in patients with metastatic breast
+cancer
+Cynthia X. Ma,
+Section of Breast Oncology, Division of Oncology, Department of Internal Medicine, Washington
+University School of Medicine, 660 South Euclid Avenue, P.O. Box 8056, St. Louis, MO 63110,
+USA. Alvin J. Siteman Cancer Center, Washington University School of Medicine, St. Louis, MO,
+USA
+Vera J. Suman,
+Division of Biomedical Statistics and Informatics, Mayo Clinic, Rochester, MO, USA
+Matthew Goetz,
+Department of Oncology, Mayo Clinic, Rochester, MO, USA
+Paul Haluska,
+Department of Oncology, Mayo Clinic, Rochester, MO, USA
+Timothy Moynihan,
+Department of Oncology, Mayo Clinic, Rochester, MO, USA
+Rita Nanda,
+Division of Hematology and Oncology, Department of Medicine, University of Chicago Medical
+Center, Chicago, IL, USA
+Olufunmilayo Olopade,
+Division of Hematology and Oncology, Department of Medicine, University of Chicago Medical
+Center, Chicago, IL, USA
+Timothy Pluard,
+Section of Breast Oncology, Division of Oncology, Department of Internal Medicine, Washington
+University School of Medicine, 660 South Euclid Avenue, P.O. Box 8056, St. Louis, MO 63110,
+USA. Alvin J. Siteman Cancer Center, Washington University School of Medicine, St. Louis, MO,
+USA
+Zhanfang Guo,
+Section of Breast Oncology, Division of Oncology, Department of Internal Medicine, Washington
+University School of Medicine, 660 South Euclid Avenue, P.O. Box 8056, St. Louis, MO 63110,
+USA
+Helen X. Chen,
+Cancer Therapy Evaluation Program, National Cancer Institute, Bethesda, MD, USA
+Correspondence to: Cynthia X. Ma, cma@dom.wustl.edu.
+Conflict of interest All authors disclosed no conflict of interest.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Ma et al. Page 2
+Charles Erlichman,
+Department of Oncology, Mayo Clinic, Rochester, MO, USA
+Matthew J. Ellis, and
+Section of Breast Oncology, Division of Oncology, Department of Internal Medicine, Washington
+University School of Medicine, 660 South Euclid Avenue, P.O. Box 8056, St. Louis, MO 63110,
+USA. Alvin J. Siteman Cancer Center, Washington University School of Medicine, St. Louis, MO,
+USA
+Gini F. Fleming
+Division of Hematology and Oncology, Department of Medicine, University of Chicago Medical
+Center, Chicago, IL, USA
+Cynthia X. Ma: cma@dom.wustl.edu
+Abstract
+The mammalian target of rapamycin (mTOR) plays a critical role in promoting tumor cell growth
+and is frequently activated in breast cancer. In preclinical studies, the antitumor activity of mTOR
+inhibitors is attenuated by feedback up-regulation of AKT mediated in part by Insulin-like growth
+factor type 1 receptor (IGF-1R). We designed a phase I trial to determine the maximum-tolerated
+dose (MTD) and pharmacodynamic effects of the IGF-1R antibody Cixutumumab in combination
+with temsirolimus in patients with metastatic breast cancer refractory to standard therapies. A 3 +
+3 Phase I design was chosen. Temsirolimus and Cixutumumab were administered intravenously
+on days 1, 8, 15, and 22 of a 4-week cycle. Of the 26 patients enrolled, four did not complete cycle
+1 because of disease progression (n = 3) or comorbid condition (n = 1) and were replaced. The
+MTD was determined from the remaining 22 patients, aged 34–72 (median 48) years. Most
+patients (86 %) had estrogen receptor positive cancer. The median number of prior chemotherapy
+regimens for metastatic disease was 3. The MTD was determined to be Cixutumumab 4 mg/kg
+and temsirolimus 15 mg weekly. Dose-limiting toxicities (DLTs) included mucositis, neutropenia,
+and thrombocytopenia. Other adverse events included grade 1/2 fatigue, anemia, and
+hyperglycemia. No objective responses were observed, but four patients experienced stable
+disease that lasted for at least 4 months. Compared with baseline, there was a significant increase
+in the serum levels of IGF-1 (p < 0.001) and IGFBP-3 (p = 0.019) on day 2. Compared with day 2,
+there were significant increases in the serum levels of IGF-1 (p < 0.001), IGF-2 (p = 0.001), and
+IGFBP-3 (p = 0.019) on day 8. A phase II study in women with metastatic breast cancer is
+ongoing.
+Keywords
+Cixutumumab; Temsirolimus; Metastatic breast cancer; IGF-1R; mTOR
+Introduction
+Aberrant activation of the phosphatidylinositol-3-kinase (PI3K) pathway occurs frequently
+in breast cancer as a result of a variety of mechanisms. For example, mutation in PIK3CA
+(the p110α subunit of PI3-Kinase) is detected in 25–40 % of breast cancers [1–4], and loss
+of PTEN expression has been reported to occur in up to 50 % of breast cancers [5]. Other
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Ma et al. Page 3
+genetic events include mutations in AKT1 [6] and amplification of upstream receptor
+tyrosine kinases, such as HER2 or downstream signaling molecules such as S6K1 [7, 8]. The
+mammalian target of rapamycin (mTOR), the central mediator of the PI3K pathway, has
+therefore generated significant interest as a potential therapeutic target in breast cancer.
+Rapamycin analogs bind to FKBP12 and disrupt the rapamycin sensitive mTOR-Raptor
+complex to impair the production of proteins important for cell–cycle progression and
+angiogenesis. The rapamycin analogs are clinically available for the treatment of renal cell
+cancer and pancreatic islet cell tumor. The combination of everolimus and exemestane was
+FDA approved for the treatment of breast cancer patients with hormone receptor positive
+tumors that have been previously treated with nonsteroidal aromatase inhibitors based on the
+results of BOLERO-2 demonstrating an increase in progression-free survival over
+exemestane alone [9]. However, several other studies of mTOR inhibitors in the treatment of
+breast cancer have been disappointing [10–12].
+A potential mechanism of resistance to mTOR inhibitor therapy is the induction of AKT
+phosphorylation, which is frequently observed in both preclinical and clinical studies [13–
+17]. Data indicate that the up-regulation of AKT activity is dependent on Insulin-like growth
+factor (IGF)/Insulin like growth factor type 1 receptor (IGF-1R) signaling [14, 15, 18, 19].
+In preclinical studies, exogenous IGFs completely reversed the antiproliferative effects of
+rapamycin [14, 18, 20], while inhibition of IGF-1R, either by a small molecule inhibitor or
+an IGF-1R antibody such as Cixutumumab, abrogated the induction of AKT activity and
+enhanced the antiproliferative effect of rapamycin [14, 15, 18, 19].
+In addition to having a potential role in mediating resistance to rapamycin treatment, IGF/
+IGF-1R signaling is a crucial component of normal growth and is essential for malignant
+transformation and the development of breast cancer [21, 22]. 1GF-1R is the primary
+response mediator for both IGF-1 and IGF-2. Binding of IGFs to IGF-1R activates the
+receptor tyrosine kinase activity which triggers a cascade of downstream signalings
+especially the PI3K pathway [23] mediated by the insulin receptor substrate (IRS-1) and
+Ras-Raf-MAPK signaling [24]. IGFs are potent mitogens for breast cancer proliferation
+[25–29]. Constitutive activation of IGF-1R causes rapid appearance of mammary tumors
+[30], and inhibition of IGF-1R suppresses xenograft growth of breast cancer cells in athymic
+mice [31, 32]. In addition, IGF-1R over-expression is common in breast cancer cell lines and
+fresh tumor biopsies [27, 33, 34]. These results justify the evaluation of IGF-1R as a
+therapeutic target in breast cancer.
+Cixutumumab (ImClone, Inc.) is a fully humanized monoclonal antibody that binds to the
+IGF-1R with high affinity (K = 0.04 nM) and blocks ligand binding to the receptor.
+d
+Treatment with Cixutumumab has been associated with down-regulation of the IGF-1R
+levels and IGF-1R phosphorylation, inhibition of downstream signaling, induction of
+apoptosis, decrease in cell proliferation [35, 36], and inhibition of in vivo xenograft tumor
+growth [35]. Importantly, Cixutumumab has been shown to abrogate AKT activation that
+was induced by mTOR inhibition in breast cancer cell lines.
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Ma et al. Page 4
+Patient population and methods
+Eligibility and enrollment
+This study enrolled women 18 years of age or older with a histologically confirmed
+diagnosis of metastatic or locally recurrent breast cancer that was either measurable or
+evaluable. Any number of prior therapies was acceptable. Additional eligibility criteria
+included Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0–1,
+fasting serum glucose <120 mg/dL, and adequate organ function. Exclusion criteria included
+diabetes requiring oral hypoglycemics or insulin, uncontrolled brain metastases, current use
+of hormonal therapy, investigational agents, herbal preparations, enzyme-inducing anti-
+epileptic drugs or CYP3A4 inducers, systemic anticancer therapy within 3 weeks or
+radiation within 2 weeks before registration; prior treatment with agents targeting
+IGF-1R/IGF or PI3K/Akt/mTOR pathway, known hypersensitivity reactions to macrolide
+antibiotics, known HIV positivity, and uncontrolled intercurrent illnesses. Women who were
+pregnant or breast feeding were not eligible.
+Participating institutions obtained study approval from their respective institutional review
+boards and had filed assurances with the Department of Health and Human Services.
+Written informed consent was required for enrollment.
+Study treatment
+Patients were pretreated with 25–50 mg of diphenhydramine administered intravenously
+(i.v.) or by mouth (po) approximately 15–30 min before starting temsirolimus as a 30-min
+i.v. infusion followed by Cixutumumab as a 60 min i.v. infusion on days 1, 8, 15, and 22 of
+a 28-day cycle. Treatment was continued until disease progression, unacceptable adverse
+events, patient decision to withdraw from the study, or inability to continue treatment.
+Management of toxicity
+Temsirolimus was to be held, and Cixutumumab continued for grade ≥3 neutropenia or
+grade ≥2 thrombocytopenia until absolute neutrophil count reached >1,000/mcL and platelet
+count >100,000/mcL, at which time temsirolimus was to be administered at next lower dose
+level (reduction by 5 mg) with Cixutumumab continued at the same dose. Temsirolimus was
+to be discontinued, and Cixutumumab continued for grade ≥2 pneumonitis. If symptoms
+continued or worsened, then Cixutumumab was also to be discontinued. Temsirolimus was
+to be discontinued for grade 4 and held for grade 3 or intolerable grade 2 stomatitis until
+symptoms resolved to grade 0 or 1, at which time, those who had had a grade 3 stomatitis
+were resumed with temsirolimus at one dose-level reduction (dose level −1), and those who
+had grade 2 stomatitis could be resumed with temsirolimus at the same dose or one dose
+lower (dose level −1). Cixutumumab was to be held for grade ≥3 stomatitis until symptoms
+resolved to grade 0 or 1, at which time Cixutumumab could be restarted at the same dose.
+Cixutumumab and temsirolimus were both to be held for grade ≥3 hyperglycemia or
+symptomatic glucose ≥300 mg/ml. Cixutumumab was to be discontinued if the patient
+developed a grade ≥3 allergic reaction or acute infusion reaction to the agent. Temsirolimus
+and Cixutumumab could be continued or be held at the physician’s discretion for other grade
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Ma et al. Page 5
+2 AEs depending on the nature of the AE. All treatments were discontinued for other grade 4
+toxicities. Both agents were to be held for other grade ≥3 toxicities until symptoms resolved
+to grade 0 or 1 with a one dose-level reduction when treatment was resumed.
+Patient evaluations
+Within 14 days before study registration, before each treatment cycle and 4 weeks after
+completion of treatment, patients underwent a complete physical exam, blood chemistries,
+toxicity assessments (CTCAE v3.0), and research blood draws. Imaging studies for disease
+status were performed within 28 days before registration, and at the end of every other
+treatment cycle. Complete blood counts were taken and fasting blood glucose was measured
+weekly during treatment. Treatment response was evaluated according to RECIST v1.1 in
+patients with measurable disease.
+Statistical considerations
+A 3 + 3 phase I clinical trial design was chosen where the MTD was defined as the highest
+dose tested where at most one of the six patients developed a dose-limiting toxicity (DLT)
+during the first cycle of treatment. DLT was defined as any of the following adverse events
+judged to be possibly, probably or definitely related to the study agents: grade 4 hematologic
+toxicity; hyperglycemia that could not be controlled with diabetic mediation; any grade ≥3
+non-hematologic toxicity (except asymptomatic medically manageable laboratory
+abnormalities that did not result in a treatment delay); dose reduction or treatment delay of
+greater than 1 week during first treatment cycle.
+Dose escalation
+The first cohort of 3–6 patients was to receive temsirolimus at 25 mg and Cixutumumab at 3
+mg/kg (dose level 1). If fewer than 2 DLTs occurred, subsequent cohorts of 3–6 patients
+were to receive temsirolimus at 25 mg and Cixutumumab increased to 5 mg/kg (dose level
+2) and then 6 mg/kg (dose level 3). If the first dose level was not well-tolerated, the next
+cohort of three patients was to be treated with temsirolimus lowered to 20 mg with the
+Cixutumumab remaining at 3 mg/kg (dose level −1).
+Two of the three patients were treated at dose level 1, and the two patients who were treated
+at dose level −1 developed DLT. As such, the protocol was amended so that the next cohort
+of patients would be treated with temsirolimus at 15 mg and Cixutumumab 3 mg/kg (dose
+level −2). If the combination was well-tolerated, then subsequent cohorts of 3–6 patients
+were to receive temsirolimus at 15 mg with Cixutumumab increased in 1 mg/kg increments
+to a maximum of 6 mg/kg (dose levels: −2A, −2B, and −2C, respectively). No intrapatient
+dose escalation was allowed.
+Peripheral blood collection and measurement of serum levels of IGF-1, IGF-2, and IGFBP-3
+Blood for serum and plasma was collected on day 1 before study drug administration, day 2
+(24-h post completion of drug administration), and day 8 (before study drug administration).
+Serum IGF-1, IGF-2, and IGFBP-3 levels were analyzed at the Core Laboratory for Clinical
+Studies at Washington University School of Medicine. Serum IGF-1 and IGFBP-3 levels
+were measured using the solid-phase, enzyme-labeled Chemiluminescent immunometric
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Ma et al. Page 6
+assay on the Immulite 1000 System supplied by Siemens Medical Solutions. Serum IGF-2
+levels were determined using the BioVendor ELISA kit read on the BioTek ELx800 plate
+reader.
+Results
+Study course
+Between October 1, 2008 and January 15, 2011, 26 Caucasian women were enrolled onto
+this trial at three institutions (Mayo Clinic Rochester, University of Chicago, and
+Washington University in St Louis). Four patients were not included in the determination of
+the MTD; three progressed before the completion of their first cycle of treatment, and one
+discontinued therapy during cycle 1 because of wisdom tooth pain unrelated to the study
+drug. The demographics and tumor characteristics of the remaining 22 patients are presented
+in Table 1. The median age was 48 (range 34–72) years, with ECOG PS 0 (n = 12) or 1 (n =
+10). Twenty-one patients had hormone receptor positive disease. The median number of
+chemotherapy regimens for the treatment of metastatic breast cancer was three.
+Treatment course and toxicities
+Table 2 provides a summary of dose levels tested. Three patients were treated at the starting
+dose of 25 mg of temsirolimus with 3 mg/kg of Cixutumumab. Two of these three patients
+developed DLTs, namely, a grade 2 oral mucositis requiring treatment delay of greater than
+7 days. Enrollment was then opened to dose level −1 (temsirolimus at 20 mg and
+Cixutumumab at 3 mg/kg) where the first two patients treated developed grade 3 AEs. One
+experienced grade 3 neutropenia requiring a dose reduction. The other patient was
+hospitalized with grade 3 anorexia, fatigue, and dyspnea that were initially considered to be
+related to treatment (DLT) but, after further evaluation and follow-up, these were recognized
+as related to disease progression when a bone scan revealed disease progression and the
+symptoms worsened after treatment discontinuation. This information did not become
+available until after three patients had been enrolled onto the next lower dose (Dose level
+−2: temsirolimus at 15 mg and Cixutumumab at 3 mg/kg).
+One of the first three patients on dose level −2 developed grade 3 oral mucositis, but none of
+the three additional patients enrolled developed a DLT. Three patients were then enrolled at
+dose level −2A (temsirolimus at 15 mg and Cixutumumab at 4 mg/kg). As none of these
+patients developed a DLT, enrollment to dose level −2B (temsirolimus at 15 mg and
+Cixutumumab at 5 mg/kg) was opened. One of the first three patients enrolled developed
+grade 2 thrombocytopenia requiring a treatment delay of more than 7 days, and one of the
+three additional patients enrolled at this dose level developed grade 3 neutropenia requiring
+a treatment delay of more than 7 days. Dose escalation was halted. Three additional patients
+were enrolled onto dose level −2A, and none developed a DLT. Thus, dose level −2A is
+considered to be the MTD in patients with pretreated metastatic breast cancer.
+Table 2 provides the DLTs as well as the severe (grade 3 and higher) toxicities reported to
+be possibly, probably, or definitely related to study drug over the entire course of treatment
+for the 22 patients evaluable for MTD. There were no grade 4 or 5 toxicities.
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Ma et al. Page 7
+Efficacy and patient outcome
+All patients have discontinued treatment. There were no clinical responses by RECIST
+criteria. Four patients (assigned dose levels: 2, 2A, 2A, and 2B) experienced disease
+stabilization lasting at least 4 months. The reasons for treatment discontinuation included
+disease progression (n = 19), excessive toxicity (n = 2), and refusal (n = 1) (Table 3).
+Serum levels of IGF-1, IGF-2, and IGFBP-3
+To evaluate target inhibition by Cixutumumab, serum levels of IGF-1, IGF-2, and IGFBP-3
+were tested on day 1 before study drug, on day 2, and on day 8 for patients treated on dose
+levels −2, −2A, and −2B (Table 4 and Fig. 1). We hypothesized that IGF-IR blockade by
+Cixutumumab would disrupt the negative feedback regulation of pituitary growth hormone
+secretion and therefore increase hepatic production of IGFs and IGFBP3. We found the
+percent increases in IGF-1 and IGFBP-3 on day 2 from pretreatment levels as well as the
+percent increase in IGF-1, IGF-2, and IGFBP-3 on day 8 from pretreatment levels to be
+significant. Moreover, percent change in IGF-2 levels on day 2 from pretreatment levels
+were significantly greater among those who maintained stable disease for at least 4 months
+relative to those who did not (median percent change: 14 % vs. 2 %; rank sum p value =
+0.028).
+Discussion
+In this phase I study, the MTD of Cixutumumab in combination with temsirolimus in
+patients with metastatic breast cancer was defined as Cixutumumab 4 mg/kg and
+temsirolimus 15 mg administered intravenously weekly. The most frequent hematologic
+toxicities with the combination therapy were grade 2 anemia, neutropenia, and
+thrombocytopenia. The most frequent non-hematologic AEs were grade 2 mucositis,
+hyperglycemia, fatigue, and anorexia. Mucositis, neutropenia, and thrombocytopenia were
+dose limiting. There were no grade 4 or higher AEs. Most of the toxicities were manageable.
+At the MTD, the AEs were mild to moderate, and no DLT was observed. Because of
+theoretical concerns about hyperglycemia, we monitored glucose levels weekly during the
+first cycle, but no grade 3+ hyperglycemia was observed.
+The MTD for Cixutumumab and temsirolimus determined in this trial was lower than that
+reported by Naing et al. in patients with advanced solid tumors, in which the MTD
+(maximum-tolerated dose) for the combination was the single agent MTD of Cixutumumab
+(6 mg/kg) with the single agent MTD of temsirolimus (25 mg) [37]. The DLTs in both trials
+were mucositis, thrombocytopenia, and neutropenia. Both trials found mucositis and
+hyperglycemia to be among the most common AEs. A higher proportion of patients
+experienced metabolic complications such as hypertriglyceridemia and
+hypercholesterolemia, but fewer patients experienced fatigue and anorexia in the Niang
+study, while mucositis was more frequent and intolerable in our patient population. Both
+trials enrolled patients who were previously heavily treated. However, our patient population
+is restricted to women with metastatic breast cancer, whereas only 55 % of the patients were
+women and 21 % had breast cancer in the Naing study. In addition, patients were younger in
+our trial compared to those in the Naing study (median age: 48 vs. 53 years old). It is
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Ma et al. Page 8
+possible that Cixutumumab potentiated the toxicities of temsirolimus more in patients with
+metastatic breast cancer (or female) than in those with other cancer types (or male). In
+contrast to the results of the current study, in which 8 of 22 patients (36 %; 7 grade 2 and 1
+grade 3) experienced grade 2+ stomatitis, only 16 % of patients experienced grade 2
+stomatitis in our previous phase II study of single agent temsirolimus (25 mg IV weekly) in
+patients with metastatic breast cancer [38]. Target inhibition by Cixutumumab was
+demonstrated by increases in the levels of IGFs and IGFBP3 following treatment, similar to
+what was observed in other studies of IGF-1R inhibitors [37, 39].
+Our trial population was predominantly composed of patients with resistant ER+ breast
+cancers. The median number of prior chemotherapy regimens was 3 in the metastatic
+therapy setting. We did not observe any objective responses (by RECIST criteria) in this
+heavily pretreated unselected metastatic patient cohort, although prolonged stable disease
+lasting more than 4 months was observed in four of these patients.
+IGF-1R as a therapeutic target in breast cancer is currently being evaluated in a number
+clinical trials, especially as part of strategies to overcome resistance to endocrine therapy for
+ER+ breast cancer and trastuzumab in HER2 positive disease [40, 41]. In this trial, we
+observed a prolonged disease stabilization in one patient with ER+/HER2+ breast cancer,
+who was treated primarily with Cixutumumab alone since cycle 1 day 15 after temsirolimus
+was discontinued due to toxicity, demonstrating the potential activity of IGF-IR inhibition in
+this tumor type. Recent preclinical data suggested that inhibition of both IGF-1R and IR
+(insulin receptor) may be necessary and that combination treatment with hormonal therapy
+may be synergistic [42,43]. A phase 2 study of a tyrosine kinase inhibitor of both IGF-1R
+and IR, BMS-754807 combined with letrozole or BMS-754807 alone is being conducted in
+hormone receptor-positive breast cancer with acquired resistance to nonsteroidal aromatase
+inhibitors (NCT01225172).
+Clinical trials combining mTOR inhibitors and endocrine agents have shown efficacy in the
+treatment of metastatic endocrine-resistant ER+ breast cancer [9, 44], leading to the
+approval of the combination of everolimus and exemestane in this setting. However, it
+remains a challenging task to identify predictors of response to mTOR inhibitors in breast
+cancer [38, 45] despite preclinical data suggesting loss of PTEN, mutations in PIK3CA, or
+over-expression S6K1 or phosphorylation of AKT (all markers of PI3K pathway signaling
+activation) as potential candidates [46–49]. A recent report identified TSC1 loss of function
+mutation as a predictor of response to everolimus in bladder cancer [50]. Whether TSC1
+mutation predicts sensitivity to mTOR inhibitors in breast cancer remains to be tested, but
+the incidence of TSC1 mutation in breast cancer is low, having been reported in only 3 out
+of 512 samples tested in the COSMIC data base (http://cancer.sanger.ac.uk/cosmic/gene/
+analysis?ln=TSC1#histo). Although preclinical data suggested that ER targeting is needed
+for mTOR inhibitors to be most effective [51], this concept remains to be tested in clinical
+trials. The small sample size and heterogeneity of patients enrolled in this phase I study
+limited our ability to assess the anti-tumor activity of the combination of temsirolimus and
+Cixutumumab. A phase II study in patients with metastatic breast cancer, who have had at
+least one but no more than two chemotherapy regimens for the treatment of metastatic breast
+cancer is currently ongoing (NCT00699491).
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Ma et al. Page 9
+Acknowledgments
+We wish to thank the patients and their families for participation in this study. We also thank the nurses, clinical
+research, and regulatory coordinators at Washington University Siteman Cancer Center, Mayo Clinic Rochester and
+University of Chicago. This trial was partly supported by a Career Development Award from the American Society
+of Clinical Oncology (C.X.M.), St. Louis Komen Foundation (C.X.M.), N01-CM62205, and N01-CM-2011-00071.
+References
+1. Saal LH, Holm K, Maurer M, Memeo L, Su T, Wang X, Yu JS, Malmstrom PO, Mansukhani M,
+Enoksson J, et al. PIK3CA mutations correlate with hormone receptors, node metastasis, and
+ERBB2, and are mutually exclusive with PTEN loss in human breast carcinoma. Cancer Res. 2005;
+65(7):2554–2559. [PubMed: 15805248]
+2. Samuels Y, Wang Z, Bardelli A, Silliman N, Ptak J, Szabo S, Yan H, Gazdar A, Powell SM,
+Riggins GJ, et al. High frequency of mutations of the PIK3CA gene in human cancers. Science.
+2004; 304(5670):554. [PubMed: 15016963]
+3. Bachman KE, Argani P, Samuels Y, Silliman N, Ptak J, Szabo S, Konishi H, Karakas B, Blair BG,
+Lin C, et al. The PIK3CA gene is mutated with high frequency in human breast cancers. Cancer
+Biol Ther. 2004; 3(8):772–775. [PubMed: 15254419]
+4. Campbell IG, Russell SE, Choong DY, Montgomery KG, Ciavarella ML, Hooi CS, Cristiano BE,
+Pearson RB, Phillips WA. Mutation of the PIK3CA gene in ovarian and breast cancer. Cancer Res.
+2004; 64(21):7678–7681. [PubMed: 15520168]
+5. Garcia JM, Silva J, Pena C, Garcia V, Rodriguez R, Cruz MA, Cantos B, Provencio M, Espana P,
+Bonilla F. Promoter methylation of the PTEN gene is a common molecular change in breast cancer.
+Genes Chromosom Cancer. 2004; 41(2):117–124. [PubMed: 15287024]
+6. Carpten JD, Faber AL, Horn C, Donoho GP, Briggs SL, Robbins CM, Hostetter G, Boguslawski S,
+Moses TY, Savage S, et al. A transforming mutation in the pleckstrin homology domain of AKT1 in
+cancer. Nature. 2007; 448(7152):439–444. [PubMed: 17611497]
+7. Barlund M, Forozan F, Kononen J, Bubendorf L, Chen Y, Bittner ML, Torhorst J, Haas P, Bucher
+C, Sauter G, et al. Detecting activation of ribosomal protein S6 kinase by complementary DNA and
+tissue microarray analysis. J Natl Cancer Inst. 2000; 92(15):1252–1259. [PubMed: 10922410]
+8. Andersen CL, Monni O, Wagner U, Kononen J, Barlund M, Bucher C, Haas P, Nocito A, Bissig H,
+Sauter G, et al. High-throughput copy number analysis of 17q23 in 3520 tissue specimens by
+fluorescence in situ hybridization to tissue microarrays. Am J Pathol. 2002; 161(1):73–79.
+[PubMed: 12107091]
+9. Baselga J, Campone M, Piccart M, Burris HA III, Rugo HS, Sahmoud T, Noguchi S, Gnant M,
+Pritchard KI, Lebrun F, et al. Everolimus in postmenopausal hormone-receptor-positive advanced
+breast cancer. N Engl J Med. 2012; 366(6):520–529. [PubMed: 22149876]
+10. Chan S, Scheulen ME, Johnston S, Mross K, Cardoso F, Dittrich C, Eiermann W, Hess D, Morant
+R, Semiglazov V, et al. Phase II study of temsirolimus (CCI-779), a novel inhibitor of mTOR, in
+heavily pretreated patients with locally advanced or metastatic breast cancer. J Clin Oncol. 2005;
+23(23):5314–5322. [PubMed: 15955899]
+11. Sawyers CL. Will mTOR inhibitors make it as cancer drugs? Cancer Cell. 2003; 4(5):343–348.
+[PubMed: 14667501]
+12. Goncalves R, Ma C, Luo J, Suman V, Ellis MJ. Use of neoadjuvant data to design adjuvant
+endocrine therapy trials for breast cancer. Nat Rev Clin Oncol. 2012; 9(4):223–229. [PubMed:
+22371132]
+13. Sun S-Y, Rosenberg LM, Wang X, Zhou Z, Yue P, Fu H, Khuri FR. Activation of Akt and eIF4E
+survival pathways by rapamycin-mediated mammalian target of rapamycin inhibition. Cancer Res.
+2005; 65(16):7052–7058. [PubMed: 16103051]
+14. O’Reilly KE, Rojo F, She QB, Solit D, Mills GB, Smith D, Lane H, Hofmann F, Hicklin DJ,
+Ludwig DL, et al. mTOR inhibition induces upstream receptor tyrosine kinase signaling and
+activates Akt. Cancer Res. 2006; 66(3):1500–1508. [PubMed: 16452206]
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Ma et al. Page 10
+15. Wan X, Harkavy B, Shen N, Grohar P, Helman LJ. Rapamycin induces feedback activation of Akt
+signaling through an IGF-1R-dependent mechanism. Oncogene. 2007; 26(13):1932–1940.
+[PubMed: 17001314]
+16. Tabernero J, Rojo F, Calvo E, Burris H, Judson I, Hazell K, Martinelli E, Ramon y Cajal S, Jones
+S, Vidal L, et al. Dose- and schedule-dependent inhibition of the mammalian target of rapamycin
+pathway with everolimus: a phase I tumor pharmacodynamic study in patients with advanced solid
+tumors. J Clin Oncol. 2008; 26(10):1603–1610. [PubMed: 18332469]
+17. Cho, DC. Low expression of surrogates for mTOR pathway activation predicts resistance to
+CCI-779 in patients with advanced renal cell carcinoma (RCC). Proceedings of 17th Symp Mol
+Targets Cancer Thera; November 2005; Philadelphia, USA. 2005. p. C137
+18. Galvan V, Logvinova A, Sperandio S, Ichijo H, Bredesen DE. Type 1 insulin-like growth factor
+receptor (IGF-IR) signaling inhibits apoptosis signal-regulating kinase 1 (ASK1). J Biol Chem.
+2003; 278(15):13325–13332. [PubMed: 12556535]
+19. Shi Y, Yan H, Frost P, Gera J, Lichtenstein A. Mammalian target of rapamycin inhibitors activate
+the AKT kinase in multiple myeloma cells by up-regulating the insulin-like growth factor receptor/
+insulin receptor substrate-1/phosphatidylinositol 3-kinase cascade. Mol Cancer Ther. 2005; 4(10):
+1533–1540. [PubMed: 16227402]
+20. Thimmaiah KN, Easton J, Huang S, Veverka KA, Germain GS, Harwood FC, Houghton PJ.
+Insulin-like growth factor I-mediated protection from rapamycin-induced apoptosis is independent
+of Ras-Erk1-Erk2 and phosphatidylinositol 3′-kinase-Akt signaling pathways. Cancer Res. 2003;
+63(2):364–374. [PubMed: 12543789]
+21. D’Ambrosio C, Ferber A, Resnicoff M, Baserga R. A soluble insulin-like growth factor I receptor
+that induces apoptosis of tumor cells in vivo and inhibits tumorigenesis. Cancer Res. 1996; 56(17):
+4013–4020. [PubMed: 8752172]
+22. Prager D, Li HL, Asa S, Melmed S. Dominant negative inhibition of tumorigenesis in vivo by
+human insulin-like growth factor I receptor mutant. Proc Natl Acad Sci USA. 1994; 91(6):2181–
+2185. [PubMed: 8134369]
+23. Pollak MN, Schernhammer ES, Hankinson SE. Insulin-like growth factors and neoplasia. Nat Rev
+Cancer. 2004; 4(7):505–518. [PubMed: 15229476]
+24. Byron SA, Horwitz KB, Richer JK, Lange CA, Zhang X, Yee D. Insulin receptor substrates
+mediate distinct biological responses to insulin-like growth factor receptor activation in breast
+cancer cells. Br J Cancer. 2006; 95(9):1220–1228. [PubMed: 17043687]
+25. Yu H, Rohan T. Role of the insulin-like growth factor family in cancer development and
+progression. J Natl Cancer Inst. 2000; 92(18):1472–1489. [PubMed: 10995803]
+26. Gooch JL, Van Den Berg CL, Yee D. Insulin-like growth factor (IGF)-I rescues breast cancer cells
+from chemotherapy-induced cell death-proliferative and anti-apoptotic effects. Breast Cancer Res
+Treat. 1999; 56(1):1–10. [PubMed: 10517338]
+27. Cullen KJ, Yee D, Sly WS, Perdue J, Hampton B, Lippman ME, Rosen N. Insulin-like growth
+factor receptor expression and function in human breast cancer. Cancer Res. 1990; 50(1):48–53.
+[PubMed: 2152773]
+28. Yee D, Cullen KJ, Paik S, Perdue JF, Hampton B, Schwartz A, Lippman ME, Rosen N. Insulin-
+like growth factor II mRNA expression in human breast cancer. Cancer Res. 1988; 48(23):6691–
+6696. [PubMed: 3180080]
+29. Huff KK, Kaufman D, Gabbay KH, Spencer EM, Lippman ME, Dickson RB. Secretion of an
+insulin-like growth factor-I-related protein by human breast cancer cells. Cancer Res. 1986; 46(9):
+4613–4619. [PubMed: 3731113]
+30. Carboni JM, Lee AV, Hadsell DL, Rowley BR, Lee FY, Bol DK, Camuso AE, Gottardis M, Greer
+AF, Ho CP, et al. Tumor development by transgenic expression of a constitutively active insulin-
+like growth factor I receptor. Cancer Res. 2005; 65(9):3781–3787. [PubMed: 15867374]
+31. Salatino M, Schillaci R, Proietti CJ, Camevale R, Frahm I, Molinolo AA, Iribarren A, Charreau
+EH, Elizalde PV. Inhibition of in vivo breast cancer growth by antisense oligodeoxynucleotides to
+type I insulin-like growth factor receptor mRNA involves inactivation of ErbBs, PI-3K/Akt and
+p42/p44 MAPK signaling pathways but not modulation of progesterone receptor activity.
+Oncogene. 2004; 23(30):5161–5174. [PubMed: 15122317]
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Ma et al. Page 11
+32. Arteaga CL, Kitten LJ, Coronado EB, Jacobs S, Kull FC Jr, Allred DC, Osborne CK. Blockade of
+the type I somatomedin receptor inhibits growth of human breast cancer cells in athymic mice. J
+Clin Invest. 1989; 84(5):1418–1423. [PubMed: 2553774]
+33. Sachdev D, Yee D. Inhibitors of insulin-like growth factor signaling: a therapeutic approach for
+breast cancer. J Mammary Gland Biol Neoplasia. 2006; 11(1):27–39. [PubMed: 16947084]
+34. Peyrat JP, Bonneterre J, Beuscart R, Djiane J, Demaille A. Insulin-like growth Factor 1 receptors
+in human breast cancer and their relation to estradiol and progesterone receptors. Cancer Res.
+1988; 48(22):6429–6433. [PubMed: 2972358]
+35. Burtrum D, Zhu Z, Lu D, Anderson DM, Prewett M, Pereira DS, Bassi R, Abdullah R, Hooper AT,
+Koo H, et al. A fully human monoclonal antibody to the insulin-like growth factor I receptor
+blocks ligand-dependent signaling and inhibits human tumor growth in vivo. Cancer Res. 2003;
+63(24):8912–8921. [PubMed: 14695208]
+36. Wu JD, Odman A, Higgins LM, Haugk K, Vessella R, Ludwig DL, Plymate SR. In vivo effects of
+the human type I insulin-like growth factor receptor antibody A12 on androgen-dependent and
+androgen-independent xenograft human prostate tumors. Clin Cancer Res. 2005; 11(8):3065–
+3074. [PubMed: 15837762]
+37. Naing A, Kurzrock R, Burger A, Gupta S, Lei X, Busaidy N, Hong D, Chen HX, Doyle LA,
+Heilbrun LK, et al. Phase I trial of Cixutumumab combined with temsirolimus in patients with
+advanced cancer. Clin Cancer Res. 2011; 17(18):6052–6060. [PubMed: 21750201]
+38. Fleming G, Ma C, Huo D, Sattar H, Tretiakova M, Lin L, Hahn O, Olopade FO, Nanda R,
+Hoffman P, et al. Phase II trial of temsirolimus in patients with metastatic breast cancer. Breast
+Cancer Res Treat. 2012; 136(2):355–363. [PubMed: 22245973]
+39. Malempati S, Weigel B, Ingle AM, Ahern CH, Carroll JM, Roberts CT, Reid JM, Schmechel S,
+Voss SD, Cho SY, et al. Phase I/II trial and pharmacokinetic study of Cixutumumab in pediatric
+patients with refractory solid tumors and Ewing Sarcoma: a report from the children’s oncology
+group. J Clin Oncol. 2012; 30(3):256–262. [PubMed: 22184397]
+40. Roop RP, Ma CX. Endocrine resistance in breast cancer: molecular pathways and rational
+development of targeted therapies. Future Oncol. 2012; 8(3):273–292. [PubMed: 22409464]
+41. Nahta R. Deciphering the role of insulin-like growth factor-I receptor in trastuzumab resistance.
+Chemother Res Pract. 2012; 2012:648965. [PubMed: 22830017]
+42. Fox EM, Miller TW, Balko JM, Kuba MG, Sánchez V, Smith RA, Liu S, González-Angulo AM,
+Mills GB, Ye F, et al. A Kinome-wide screen identifies the insulin/IGF-I receptor pathway as a
+mechanism of escape from hormone dependence in breast cancer. Cancer Res. 2011; 71(21):6773–
+6784. [PubMed: 21908557]
+43. Hou X, Huang F, Macedo LF, Harrington SC, Reeves KA, Greer A, Finckenstein FG, Brodie A,
+Gottardis MM, Carboni JM, et al. Dual IGF-1 R/InsR inhibitor BMS-754807 synergizes with
+hormonal agents in treatment of estrogen-dependent breast cancer. Cancer Res. 2011; 71(24):
+7597–7607. [PubMed: 22042792]
+44. Bachelot T, Bourgier C, Cropet C, Ray-Coquard I, Ferrero J-M, Freyer G, Abadie-Lacourtoisie S,
+Eymard J-C, Debled M, Spaëth D, et al. Randomized phase II trial of everolimus in combination
+with tamoxifen in patients with hormone receptor-positive, human epidermal growth factor
+receptor 2-negative metastatic breast cancer with prior exposure to aromatase inhibitors: a
+GINECO study. J Clin Oncol. 2012; 30(22):2718–2724. [PubMed: 22565002]
+45. Baselga J, Semiglazov V, van Dam P, Manikhas A, Bellet M, Mayordomo J, Campone M, Kubista
+E, Greil R, Bianchi G, et al. Phase II randomized study of neoadjuvant everolimus plus letrozole
+compared with placebo plus letrozole in patients with estrogen receptor-positive breast cancer. J
+Clin Oncol. 2009; 27(16):2630–2637. [PubMed: 19380449]
+46. Steelman LS, Navolanic PM, Sokolosky ML, Taylor JR, Lehmann BD, Chappell WH, Abrams SL,
+Wong EW, Stadelman KM, Terrian DM, et al. Suppression of PTEN function increases breast
+cancer chemotherapeutic drug resistance while conferring sensitivity to mTOR inhibitors.
+Oncogene. 2008; 27(29):4086–4095. [PubMed: 18332865]
+47. Stemke-Hale K, Gonzalez-Angulo AM, Lluch A, Neve RM, Kuo WL, Davies M, Carey M, Hu Z,
+Guan Y, Sahin A, et al. An integrative genomic and proteomic analysis of PIK3CA, PTEN, and
+AKT mutations in breast cancer. Cancer Res. 2008; 68(15):6084–6091. [PubMed: 18676830]
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Ma et al. Page 12
+48. Di Nicolantonio F, Arena S, Tabernero J, Grosso S, Molinari F, Macarulla T, Russo M, Cancelliere
+C, Zecchin D, Mazzucchelli L, et al. Deregulation of the PI3K and KRAS signaling pathways in
+human cancer cells determines their response to everolimus. J Clin Invest. 2010; 120(8):2858–
+2866. [PubMed: 20664172]
+49. DeGraffenried LA, Fulcher L, Friedrichs WE, Grunwald V, Ray RB, Hidalgo M. Reduced PTEN
+expression in breast cancer cells confers susceptibility to inhibitors of the PI3 kinase/Akt pathway.
+Ann Oncol. 2004; 15(10):1510–1516. [PubMed: 15367412]
+50. Iyer G, Hanrahan AJ, Milowsky MI, Al-Ahmadie H, Scott SN, Janakiraman M, Pirun M, Sander
+C, Socci ND, Ostrovnaya I, et al. Genome sequencing identifies a basis for everolimus sensitivity.
+Science. 2012; 338(6104):221. [PubMed: 22923433]
+51. Crowder RJ, Phommaly C, Tao Y, Hoog J, Luo J, Perou CM, Parker JS, Miller MA, Huntsman
+DG, Lin L, et al. PIK3CA and PIK3CB inhibition produce synthetic lethality when combined with
+estrogen deprivation in estrogen receptor-positive breast cancer. Cancer Res. 2009; 69(9):3955–
+3962. [PubMed: 19366795]
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Ma et al. Page 13
+Fig. 1.
+Serum levels of IGF-1, IGFBP-3, and IGF-2 samples were collected on 15-mg temsirolimus
+dose levels with Cixutumumab at 3 mg/kg (DL-2), 4 mg/kg (DL-2A), and 4 mg/kg (DL-2B)
+at the indicated time points
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 14
+1
+elbaT
+scitsiretcarahc
+romut
+dna
+tneitaP
+)6
+=
+n(
+B2−
+)6
+=
+n(
+A2−
+)6
+=
+n(
+2−
+)1
+=
+n(
+1−
+)3
+=
+n(
+1
+alevel
+esoD
+)27–34(
+94
+)36–34(
+15
+)56–63(
+84
+65
+)04–43(
+53
+)egnar(
+sraey
+ni
+ega
+naideM
+sutats
+ecnamrofrep
+GOCE
+3
+2
+3
+1
+3
+0
+3
+4
+3
+0
+0
+1
+sutats
+2REH/RP/RE
+3
+1
+0
+1
+2
++2REH/+RP
+ro
++RE
+2
+5
+6
+0
+1
+−2REH/+RP
+ro
++RE
+1
+0
+0
+0
+0
++2REH/−RP
+dna
+−RE
+gnittes
+citatsatem
+ni snemiger
+yparehtomehc
+roirp
+.oN
+2
+3
+1
+0
+0
+1–0
+4
+3
+4
+1
+3
+5–2
+0
+0
+1
+0
+0
+erom
+ro
+6
+gnittes
+citatsatem
+ni
+snemiger
+ypareht
+enomroh
+roirp
+.oN
+4
+3
+2
+1
+3
+1–0
+1
+2
+4
+0
+0
+5–2
+1
+1
+0
+0
+0
+erom
+ro
+6
+6
+6
+6
+1
+3
+sisatsatem
+larecsiv
+fo
+ecneserP
+a
+bamumutuxiC
+dna
+sumilorismet
+fo
+sesod
+rof
+2
+elbaT
+ot
+refer
+esaelP
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 15
+2
+elbaT
+level
+esod
+yb
+tnemtaert
+gnirud
+detroper
+seiticixot
+ereves
+rehto
+dna
+seiticixot
+gnitimil-esod
+1
+elcyC
+detroper
+seiticixot
+rehgih
+ro
+3
+edarg
+rehtO
+)1
+elcyc(
+seiticixot
+gnitimil-esoD
+elbaulave.N/dellorne
+.oN
+)gk/gm(
+bamumutuxiC
+)gm(
+sumilorismeT
+level
+esoD
+aesruoc
+tnemtaert
+gnirud enoN
+syad
+7>
+yaled
+tnemtaert
+htiw
+sitisocum
+laro
+2 edarG
+3/3
+3
+52
+b1
+)2 =
+n(
+)1 =
+n( ainepokuel
+3 edarG
+=
+n(
+noitcuder
+esod
+gniriuqer
+aineportuen
+3 edarG
+1/2
+3
+02
+1−
+)1
+= n(
+ainepohpmyl
+3 edarG
+)1
+)1 =
+n( ainepokuel
+3 edarG
+)1
+=
+n(
+sitisocum
+laro
+3 edarG
+6/7
+3
+51
+2−
+)1
+= n(
+ainepohpmyl
+3 edarG
+)1
+= n(
+aixerona
+3 edarG
+)1
+=
+n(
+TLA
+3 edarG
+)1 =
+n( ainepokuel
+3 edarG
+enoN
+6/6
+4
+51
+cA2
+sisobmorht
+3 edarG
+)1
+=
+n(
+TLA
+3 edarG
+7>
+yaled
+tnemtaert
+htiw
+ainepotycobmorht
+2 edarG
+6/8
+5
+51
+B2−
+)1
+= n( syad
+syad
+7>
+yaled
+tnemtaert
+htiw
+aineportuen
+3 edarG )1 =
+n(
+hteet
+modsiw
+dna
+,)2
+= n :B2−
+level
+esod
+;1 =
+n
+:1−
+level
+esod(
+noissergorp
+esaesid
+fo
+noitatnemucod
+fo
+esuaceb
+tnemtaert
+1 elcyc
+etelpmoc
+ton
+did
+yeht
+ecnis
+DTM
+rof
+elbaulave
+ton
+erew
+stneitap
+ruoF
+)1
+=
+n
+:2−
+level
+esod(
+noitnetta
+lacidem
+gniriuqer
+smelborp
+a
+TLD
+a
+sa
+detroper
+esoht
+gnidulcni
+toN
+.tneitap
+hcae
+rof dedivorp
+edarg
+tsehgih
+eht htiw
+,tnemtaert
+ot
+detaler
+yletinifed
+ro
+,ylbaborp
+,ylbissop
+stnevE
+esrevdA
+b
+level
+esod
+gnitratS
+c
+DTM
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 16
+Table 3
+Patient course
+Dose level No. cycles Reason off treatment PFSa (days) OSb (months)
+1 1, 2, 2 prog; prog; prog 29, 54, 56 17.7; 24.0+; 12.0
+−1 2 prog 56 11.3+
+−2 1, 1, 1 prog; ae; ae; 37, 37+, 317, 24.0+, 18.1+, 15.4+,
+4, 4, 6 prog; prog; prog 114, 119, 164 19.4, 8.2+, 18.7+
+−2A 2, 2, 2, prog; prog; prog; 32, 50, 56, 1.7, 12.1, 18.7,
+4, 5, 6 prog; refusal; prog 109, 140+, 166 13.1+, 4.6+, 24.0+
+−2B 2, 2, 2 prog; prog; prog 47, 53, 54, 24.0+, 3.6, 11.1
+2, 2, 6 prog; prog; prog 55, 55, 163 3.2, 8.9+, 10.9
+prog disease progression, ae adverse events
+a
+CT scans were required after every 2 cycles of treatment
+b
+Patients were to be followed until death or a maximum of 2 years
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 17
+Table 4
+Serum IGF-1, IGF-2, and IGFBP-3 (DL −2, −2A, and −2B)
+Percent change n Median (%) 25–75th percentile Sign-rank test p value
+IGF-1
+Day 2 relative to day 1 15 ↑46 30 to 66 % <0.001
+Day 8 relative to day 2 13 ↑149 127 to 177 % <0.001
+IGF-2
+Day 2 relative to day 1 12 ↑5 −1 to 14 % NS
+Day 8 relative to day 2 12 ↑13 6 to 22 % 0.001
+IGFBP-3
+Day 2 relative to day 1 15 ↑14 4 to 19 % 0.019
+Day 8 relative to day 2 13 ↑47 33 to 63 % <0.001
+Breast Cancer Res Treat. Author manuscript; available in PMC 2015 July 28.

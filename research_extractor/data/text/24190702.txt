@@ -1,0 +1,554 @@
+Source: 24190702.pdf
+Extracted on: Sat Sep 13 00:00:39 PDT 2025
+==================================================
+
+--- Page 1 ---
+Cancer Chemother Pharmacol (2014) 73:181–189
+DOI 10.1007/s00280-013-2339-y
+OrIgInal artICle
+A phase 1b clinical trial of the multi-targeted tyrosine kinase
+inhibitor lenvatinib (E7080) in combination with everolimus
+for treatment of metastatic renal cell carcinoma (RCC)
+Ana M. Molina · Thomas E. Hutson · James Larkin ·
+Anne M. Gold · Karen Wood · Dave Carter ·
+Robert Motzer · M. Dror Michaelson
+received: 3 October 2013 / accepted: 23 October 2013 / Published online: 5 november 2013
+© the author(s) 2013. this article is published with open access at Springerlink.com
+Abstract Results twenty patients (mean 58.4 years) received len-
+Purpose lenvatinib is an oral multi-targeted tyrosine vatinib [12 mg (n 7); 18 mg (n 11); 24 mg (n 2)]
+= = =
+kinase inhibitor of VegFr1-3, FgFr1-4, PDgFrβ, ret , plus everolimus 5 mg. MtD was established as once daily
+and KIt. everolimus is an oral mammalian target of rapa- lenvatinib 18 mg plus everolimus 5 mg. the most com-
+mycin inhibitor approved for advanced renal cell carcinoma mon treatment-related treatment-emergent adverse events
+(rCC). this phase 1b study assessed safety, maximum (all dosing cohorts) were fatigue 60 % (grade 3: 10 %),
+≥
+tolerated dose (MtD), and preliminary antitumor activity mucosal inflammation 50 %, proteinuria (grade 3: 15 %),
+≥
+of lenvatinib plus everolimus in metastatic rCC (mrCC) diarrhea (grade 3: 10 %), vomiting (grade 3: 5 %),
+≥ ≥
+patients. hypertension, and nausea, each 40 %. In MtD and lowest-
+Methods Patients with advanced unresectable or mrCC dose cohorts (n 18), best responses of partial response
+=
+and eastern Cooperative Oncology group performance and stable disease were achieved in 6 (33 %) and 9 (50 %)
+status 0–1 were eligible (number of prior treatments not patients, respectively.
+restricted). Starting dose was lenvatinib 12 mg once daily Conclusions lenvatinib 18 mg combined with everolimus
+with everolimus 5 mg once daily administered continu- 5 mg was associated with manageable toxicity consistent
+ously in 28-day cycles using a conventional 3 3 dose- with individual agents and no new safety signals. Observed
++
+escalation design. at the MtD, additional patients were activity warrants further evaluation of the combination in
+enrolled in an expansion cohort. advanced rCC patients.
+Keywords lenvatinib · everolimus · Metastatic renal cell
+a. M. Molina (*) · r. Motzer carcinoma · antitumor · mt Or · VegF
+Memorial Sloan-Kettering Cancer Center, 1275 York avenue,
+new York, nY 10065, USa
+e-mail: molinaa@mskcc.org
+Introduction
+t. e. Hutson
+texas Oncology, Dallas, tX, USa
+Vascular endothelial growth factor (VegF)-mediated angi-
+ogenesis and mammalian target of rapamycin (mt Or)-
+J. larkin
+the royal Marsden Hospital, london, UK mediated regulation of cell growth, cell proliferation, cel-
+lular metabolism, and angiogenesis have been identified
+a. M. gold
+as key factors in the development of renal cell carcinoma
+eisai Inc, Woodcliff lake, nJ, USa
+(rCC) [1, 2]. Several agents that inhibit the VegF pathway
+K. Wood · D. Carter have shown clinical benefit in metastatic rCC (mrCC),
+eisai ltd, Hatfield, Hertfordshire, UK including sorafenib, sunitinib, axitinib, pazopanib, and bev-
+acizumab (in combination with interferon-α) [3]. everoli-
+M. D. Michaelson
+mus and temsirolimus, both of which target the mt Or
+Massachusetts general Hospital Cancer Center, Boston, Ma,
+USa pathway, have also shown clinical benefit in mrCC [3].
+1 3
+
+--- Page 2 ---
+1 82 Cancer Chemother Pharmacol (2014) 73:181–189
+In previously treated mrCC patients, everolimus demon- controlled blood pressure, adequate hematologic, hepatic,
+strated partial response (Pr) rates of 1.8 %, with no com- renal, and blood coagulation function, and internationalized
+plete responses (Crs), and overall survival of 14.8 months normalized ratio (Inr) of 1.5. there was no upper limit
+≤
+[4]. although treatment with everolimus is considered a on prior therapies.
+reference standard for previously treated rCC patients, as Key exclusion criteria included prior exposure to len-
+currently recommended by nCCn Clinical Practice guide- vatinib, discontinuation of prior tKI due to toxicity, known
+lines in Oncology (nCCn guidelines ®), tumor responses intolerance to rapamycins, therapy with an anticancer
+are generally low and transient in the majority of patients agent or major surgery within 21 days, or treatment with
+[5–7]. any investigational agent within 30 days. Patients with sig-
+tumors are believed to become resistant to therapy nificant cardiovascular impairment, bleeding or thrombotic
+through feedback mechanisms that compensate for targeted disorders requiring anticoagulant therapy and therapeutic
+inhibition [1, 8]. Upregulation of hypoxia-inducible factor 1 Inr monitoring, prolongation of Qtc interval (>480 ms),
+target genes, including VegF, has been implicated in rCC untreated or unstable metastases to the central nervous sys-
+[9, 10]. additionally, genetic alterations leading to constitu- tem, urine protein 1 g/24 h, uncontrolled diabetes [fasting
+≥
+tive activation of the mt Or signaling pathway have also glucose >1.5 upper limit of normal (Uln)], fasting total
+×
+been implicated in rCC [11, 12]. theoretically, a combina- cholesterol >7.75 mmol/l, and fasting triglyceride levels
+tion of agents targeting both VegF- and mt Or-mediated >2.5 Uln were also excluded.
+×
+pathways could simultaneously block two critical signaling the study was approved by Institutional review
+pathways activated in rCC and potentially overcome an Boards at each participating site and carried out in accord-
+aspect of resistance to single-agent therapy [13]. lenvatinib ance with local Independent ethics Committee standards,
+is an oral, multi-targeted tyrosine kinase inhibitor (tKI) World Medical association Declaration of Helsinki, and
+of VegF receptors (VegFrs) 1-3, fibroblast growth fac- the International Conference on Harmonisation of tech-
+tor receptors 1–4, platelet-derived growth factor receptor β, nical requirements for registration of Pharmaceuticals
+ret , and KIt [14]. In phase 1 and 2 studies, lenvatinib has for Human Use guidelines. all patients provided written
+demonstrated an acceptable toxicity profile and antitumor informed consent prior to participation.
+activity in patients with multiple solid tumors, including
+advanced rCC [15–19]. Data from in vitro binding assays Study design
+show that lenvatinib binding specificity is mostly restricted
+to the receptor kinase domain of the kinome dendrogram this was the phase 1b component of a multicenter, open-
+[20]. the binding specificity of lenvatinib may be associ- label, phase 1b/2 study. the phase 2 component of the
+ated with less off-target toxicity, although this needs valida- study is ongoing. the study used a standard “3 3” dose-
++
+tion in clinical trials. escalation scheme. Patients were treated in sequential
+In a randomized, open-label, phase 1b/2 study, we evalu- cohorts of escalating doses of lenvatinib in combination
+ated the use of everolimus in combination with lenvatinib with everolimus, each administered once daily in 28-day
+in rCC patients with unresectable or metastatic disease treatment cycles until disease progression, development of
+(Clinicaltrials.gov: nCt01136733). the primary objec- unacceptable toxicity, or withdrawal of consent. the initial
+tives of the phase 1b component reported here were to dose of lenvatinib was 12 mg once daily in combination
+determine the dose-limiting toxicities (Dlts), maximum with everolimus 5 mg once daily (Cohort 1). Subsequent
+tolerated dose (MtD), and recommended phase 2 dose for doses were lenvatinib 18 mg once daily with everolimus
+lenvatinib plus everolimus. 5 mg once daily (Cohort 2) and lenvatinib 24 mg once daily
+with everolimus 5 mg once daily (Cohort 3).
+Dlts were assessed during the first treatment cycle and
+Methods were defined either as treatment-related failure to adminis-
+ter 75 % of the planned dosage of lenvatinib/everolimus
+≥
+Patient eligibility combination or as specific common toxicity criteria (CtC)
+grade 3 hematologic or nonhematologic toxicities con-
+≥
+Patients were aged 18 years, with histologically con- sidered to be at least possibly related to lenvatinib and/
+≥
+firmed and documented evidence of unresectable advanced or everolimus therapy. a treatment cycle was defined as
+or mrCC and disease progression after prior therapy tar - 28 days, and dosing was continuous. Hematologic toxici-
+geting the VegF domain. two patients who had received ties were defined as grade 4 neutropenia lasting at least
+no prior regimens were enrolled prior to a protocol 7 days, febrile neutropenia with neutrophils <1 103/μl
+×
+amendment. eligible patients had an eastern Cooperative and a recorded temperature >38.5 °C, or grade 3 throm-
+≥
+Oncology group performance status of 0 or 1, adequately bocytopenia with bleeding or lasting more than 7 days.
+1 3
+
+--- Page 3 ---
+Cancer Chemother Pharmacol (2014) 73:181–189 183
+nonhematologic toxicities were defined as grade 3 tox- Results
+icities for >7 days (except grade 3/4 hyperamylasemia or
+hyperlipasemia without pancreatitis); in addition, nausea, Patient characteristics
+vomiting, or diarrhea had to persist at grade 3 or 4 despite
+maximal medical therapy. If one of the first three patients there were 20 patients recruited, dosed, and included in
+enrolled within a cohort demonstrated a Dlt , an additional this analysis. Demographics and baseline characteristics
+three patients were enrolled into that cohort. If two or for the study population are summarized in table 1. Mean
+more patients demonstrated Dlts during the first 4 weeks age of patients was 58.4 years (standard deviation, 6.29),
+of therapy in any cohort, dose escalation was halted and, with the majority (90 %) being younger than 65 years. all
+if necessary, additional patients were enrolled to the next patients were Caucasian, 70 % were male, and 85 % had
+lower dose to achieve a total of six patients in that cohort. received at least one prior anti-VegF therapy. the median
+MtD was defined as the highest dose level resulting in number of prior therapeutic anticancer rCC regimens
+1 of 6 Dlts. the definition of confirmed MtD was the received was 1.5 (range 0–4).
+≤
+highest dose level resulting in 1/3 of at least 10 patients
+≤
+experiencing Dlts during Cycle 1 or intolerable toxicities Duration of treatment, dose-limiting toxicities,
+that could not be managed with dose interruption and/or and maximum tolerated dose
+reduction during Cycle 2. Once the MtD was established,
+the patient cohort at MtD was expanded and the MtD val- Median overall duration of treatment (range) was 19.0 (1–
+idated by assessing Dlts during the first cycle and intoler - 69) weeks across all dosing cohorts and was 32.0 (1–68),
+able toxicities (i.e., not manageable with dose interruption 16.0 (1–69), and 3.5 (2–5) weeks for Cohorts 1, 2, and 3,
+and/or reduction) during the second cycle of therapy. respectively. Median number of treatment cycles was 5.5
+tumor measurements were assessed by clinical examina- (range 1–18). treatment was discontinued for reasons other
+tion, computed tomography or magnetic resonance imaging, than disease progression by 30 % (6/20) of patients: one
+and bone scans and were based on investigator review data (14 %) patient in Cohort 1 for reason listed as “other—
+in conjunction with a radiologist using modiefi d response clinical deterioration”; three (27 %) patients in Cohort 2
+evaluation Criteria in Solid tumors, version 1.1 [21]. [two patients due to adverse events (aes); one withdrew
+tumor response assessments were conducted at baseline consent]; two (100 %) patients in Cohort 3 (one due to
+and then approximately every 8 weeks, and responses con- aes; one due to patient choice). lenvatinib doses were
+firmed at a follow-up examination after 30 days. tumor reduced in 10 patients (50 %) and treatment interrupted in
+≥
+response was defined as Cr, Pr, stable disease (SD) (min- 14 patients (70 %). no patients required a dose reduction
+imum duration from randomization to SD 7 weeks), or in everolimus; however, dose interruptions of everolimus
+≥
+progressive disease (PD). Disease control rate (DCr) was were needed for nine patients. the lowest-dose cohort had
+defined as the percentage of patients with a best overall the fewest number of lenvatinib dose reductions (Cohort
+response of Cr, Pr, or SD. Durable SD was defined as 1: 29 %; Cohort 2: 64 %; Cohort 3: 50 %); however, the
+SD 23 weeks. number of patients with treatment interruption was compa-
+≥
+rable in the three cohorts (Cohort 1: 71 %; Cohort 2: 73 %;
+Statistical analysis Cohort 3: 50 %).
+Four patients experienced Dlts: (1) CtC grade 3
+Cohorts of three to six patients each in phase 1b were con- abdominal pain (Cohort 1; Dlt equivalent); (2) failure to
+sidered adequate to evaluate initial safety assessments sup- administer >75 % of planned dose due to grade 3 elevated
+porting dose escalation. a minimum of 10 patients was creatinine phosphokinase, grade 2 fatigue, and grade 1
+considered adequate to confirm the MtD of phase 1b. the reflux (Cohort 2); (3) grade 3 nausea and vomiting (Cohort
+safety analysis set included all patients who received at 3; Dlt equivalent); and (4) failure to administer >75 % of
+least one dose of the study drug and have at least one post- planned dose due to grade 2 mucosal inflammation (Cohort
+baseline safety evaluation and was the analysis set for all 3). Cohort 2, lenvatinib 18 mg once daily and everolimus
+safety and efficacy evaluations. 5 mg once daily, was identified as the MtD.
+Baseline and demographic variables, including age, gen-
+der, and race, were summarized using descriptive statistics. Safety
+Objective response rate (Orr), DCr, and durable SD rate
+were calculated with exact 95 % confidence intervals (CIs) twenty patients who received at least one dose of study
+using the Clopper and Pearson method. all statistical anal- therapy with 1 postbaseline safety evaluation were
+≥
+yses were performed using SaS® software (SaS Institute, included in the safety population. treatment-emergent
+Cary, nC, USa). aes (teaes) occurred in 90 % (n 18) of study patients,
+=
+1 3
+
+--- Page 4 ---
+1 84 Cancer Chemother Pharmacol (2014) 73:181–189
+Table 1 Patient demographics and baseline characteristics
+total Cohort 1 Cohort 2 Cohort 3
+(N 20) lenvatinib lenvatinib lenvatinib
+=
+12 mg everolimus 18 mg everolimus 24 mg everolimus
++ + +
+5 mg (n 7) 5 mg (n 11) 5 mg (n 2)
+= = =
+age, year
+Mean (SD) 58.4 (6.29) 58.0 (3.92) 58.1 (7.97) 61.0 (2.83)
+Median 59.0 59.0 58.0 61.0
+Min, max 46, 72 53, 62 46, 72 59, 63
+age group, n (%)
+<65 year 18 (90) 7 (100) 9 (82) 2 (100)
+65 year 2 (10) 0 2 (18) 0
+≥
+gender, n (%)
+Female 6 (30) 3 (43) 2 (18) 1 (50)
+Male 14 (70) 4 (57) 9 (82) 1 (50)
+White, non-Hispanic, n (%) 20 (100) 7 (100) 11 (100) 2 (100)
+number of prior anticancer regimens, median (range)a 1.5 (0–4) 3 (1–4) 1 (0–4) 0.5 (0–1)
+Patients with prior anti-VegF treatment, n (%) 17 (85) 7 (100) 9 (82) 1 (50)
+Patients with prior mtOr-targeted therapy, n (%) 7 (35) 4 (57) 3 (27) 0
+Patients with both prior anti-VegF and mt Or- 7 (35) 4 (57) 3 (27) 0
+targeted therapy, n (%)
+mTOR mammalian target of rapamycin, SD standard deviation, VEGF vascular endothelial growth factor
+a therapeutic regimens for rCC
+although the majority of these aes were grade 1/2. grade baseline to postbaseline nadir is shown in Fig. 1. Figure
+3/4 aes were reported in 15 (75 %) patients. One patient 2 illustrates a patient’s radiologic response to combined
+experienced grade 5 cholangitis (Cohort 1) deemed unre- therapy.
+lated to study medication and occurred 11 days after the
+last lenvatinib dose.
+the most common treatment-related aes were fatigue Discussion
+(60 %), mucosal inflammation (50 %), diarrhea, hyper -
+tension, nausea, proteinuria, and vomiting (40 % each) therapeutic targeting of VegF- and mt Or-mediated path-
+(table 2). the most common CtC grade 3 treatment- ways has expanded available treatment options for mrCC
+≥
+related aes were hypertriglyceridemia (15 %), proteinuria [3]. Several challenges remain to improving targeted
+(15 %), diarrhea, and fatigue (10 % each) (table 3). Hyper- treatment outcomes once resistance to initial single-agent
+triglyceridemia and proteinuria occurred in 3/11 patients in therapy arises. Optimal sequencing of these agents has not
+Cohort 2 but was not present in Cohort 1 or 3. been defined, and clinical development of combinations
+of agents has been challenging due to unacceptable toxic-
+tumor response ity, complications of administration (e.g., combining oral
+and intravenous administration routes), or transient tumor
+at the data cutoff date, Pr rate was 30 % (95 % CI 11.9– responses. there is a continued need for more effective
+54.3, n 6; Cohort 1, n 2; Cohort 2, n 4) as assessed combinations of targeted agents, namely those associated
+= = =
+by investigators. no Crs were observed (t able 4). In the with improved efficacy and manageable toxicity relative to
+MtD and lower-dose cohort, Pr was observed in 6/18 single-agent sequential treatment [1, 3, 6].
+patients (33 %) and SD or Pr was achieved in 15/18 the MtD and recommended phase 2 dose in this phase
+patients for a DCr of 83.3 % (t able 4). Four patients expe- 1b component was confirmed to be lenvatinib 18 mg once
+rienced durable SD. the median progression-free survival daily in combination with everolimus 5 mg once daily. all
+(PFS) was 330 days (95 % CI 157–446; approximately patients were previously treated with therapeutic regimens
+10.9 months) at the MtD and lower-dose cohort, while the for rCC (with the exception of two patients with no prior
+6- and 12-month PFS rates were 72.1 % (95 % CI 48.8– treatment who were enrolled prior to a protocol amend-
+95.4 %) and 49.5 % (95 % CI 22.7–76.2 %), respectively. ment). at the MtD and lower-dose cohort (lower-dose
+a waterfall plot of maximum percent tumor change from cohort: lenvatinib 12 mg plus everolimus 5 mg once daily),
+1 3
+
+--- Page 5 ---
+Cancer Chemother Pharmacol (2014) 73:181–189 185
+Table 2 treatment-related aes occurring in 20 % of patients (safety analysis set)
+≥
+total (N 20) Cohort 1 Cohort 2 Cohort 3
+=
+lenvatinib 12 mg lenvatinib 18 mg lenvatinib 24 mg
++ + +
+everolimus 5 mg (n 7) everolimus 5 mg (n 11) everolimus 5 mg
+= =
+(n 2)
+=
+Patients with grades 1–5 aes, n (%) 18 (90) 7 (100) 9 (82) 2 (100)
+grades 1–5 ( 20 %) aes by patient count, n (%)
+≥
+Fatigue 12 (60) 4 (57) 6 (55) 2 (100)
+Mucosal inflammation 10 (50) 3 (43) 5 (46) 2 (100)
+Diarrhea 8 (40) 3 (43) 4 (36) 1 (50)
+Hypertension 8 (40) 5 (71) 3 (27) 0
+nausea 8 (40) 4 (57) 3 (27) 1 (50)
+Proteinuria 8 (40) 3 (43) 5 (46) 0
+Vomiting 8 (40) 4 (57) 3 (27) 1 (50)
+Decreased appetite 7 (35) 2 (29) 4 (36) 1 (50)
+rash 7 (35) 2 (29) 4 (36) 1 (50)
+Constipation 5 (25) 2 (29) 2 (18) 1 (50)
+epistaxis 5 (25) 2 (29) 3 (27) 0
+Hypertriglyceridemia 5 (25) 0 5 (46) 0
+edema peripheral 5 (25) 1 (14) 4 (36) 0
+Dry skin 4 (20) 2 (29) 2 (18) 0
+Dyspnea 4 (20) 1 (14) 2 (18) 1 (50)
+Weight decreased 4 (20) 1 (14) 3 (27) 0
+the combination of lenvatinib and everolimus was associ- of each single agent, prompting an attempt to study this
+ated with manageable toxicity. treatment-related aes were combination in a phase 3 setting; however, the phase 3
+consistent with class effects typical of VegFr and mt Or trial was closed prematurely due to failure of accrual.
+inhibitors, with no new safety signals observed. the appar - additional phase 2 trials in mrCC using combinations of
+ent lack of additive toxicity from the combination may bevacizumab and temsirolimus [28] or bevacizumab and
+have important clinical implications as unexpected, and everolimus [29] were associated with prohibitive toxic-
+severe toxicities observed with other combined treatments ity and low clinical activity to warrant consideration as a
+have thus far limited clinical development of effective regi- treatment regimen, which has raised serious questions as to
+mens [22–24]. Fatigue, mucosal inflammation, proteinu- whether targeted agents in rCC can be dosed fully together
+ria, hypertension, as well as gastrointestinal (gI) toxicity as combination treatment.
+(nausea, diarrhea, and vomiting) were the most common Whether the responses observed with the present com-
+aes. Proteinuria, hypertriglyceridemia, diarrhea, and bination therapy confer an advantage relative to single-
+fatigue were the most common grade 3 treatment-related agent therapy will require further study. In our exploratory
+≥
+teaes. analysis of tumor response, treatment at or below the MtD
+a phase 1 study of everolimus plus sorafenib was con- resulted in a Pr rate of 33.3 %, durable SD ( 23 weeks)
+≥
+ducted in advanced mrCC patients [24]. While the Pr rate rate of 22.2 %, and median PFS of approximately
+of 25 % was greater than typically observed with either 10.9 months in patients who received a median of 1.5 prior
+drug as monotherapy, dose reductions (n 3 of eight anti-VegF treatments. anti-VegFr multi-tKI treatments
+=
+patients in one cohort) or study discontinuation (n 2) currently available for previously treated mrCC patients
+=
+was necessary for gI toxicity, and there was a substantially include sorafenib, sunitinib, axitinib, and pazopanib and
+higher incidence of rash (55 vs. 29 % for everolimus alone, have demonstrated response rates ranging between 9 and
+40 % for sorafenib alone) [24–26]. In a phase 2 trial com- 34 % and PFS between 4.7 and 8.3 months as single-agent
+bining full doses of bevacizumab with everolimus, median treatment [30–34]. everolimus 10 mg once daily treat-
+PFS and Orr in previously untreated and previously ment of patients with mrCC who had progressed on suni-
+treated patients were 9.1 and 7.1 months (30 and 23 %), tinib, sorafenib, or both resulted in a Pr rate of 1.8 % and
+respectively [27]. the combination regimen was associated a median PFS of 4.9 months [4]. although data from dif-
+with a toxicity profile consistent with the known toxicities ferent clinical trials must be interpreted with caution, the
+1 3
+
+--- Page 6 ---
+1 86 Cancer Chemother Pharmacol (2014) 73:181–189
+Table 3 grade 3 treatment-related aes in safety analysis set
+≥
+total (N 20) Cohort 1 Cohort 2 Cohort 3
+=
+lenvatinib 12 mg lenvatinib 18 mg lenvatinib 24 mg
++ + +
+everolimus 5 mg everolimus 5 mg everolimus 5 mg
+(n 7) (n 11) (n 2)
+= = =
+Patients with grade 3 aes, n (%) 14 (70) 5 (71) 8 (73) 1 (50)
+≥
+Patients with grade 5 aes, n (%) 0 0 0 0
+grade 3/4 aes by patient count, n (%)
+Hypertriglyceridemia 3 (15) 0 3 (27) 0
+Proteinuria 3 (15) 0 3 (27) 0
+Diarrhea 2 (10) 1 (14) 1 (9) 0
+Fatigue 2 (10) 1 (14) 1 (9) 0
+abdominal pain 1 (5) 1 (14) 0 0
+anemia 1 (5) 1 (14) 0 0
+Blood creatine phosphokinase 1 (5) 0 1 (9) 0
+↑
+Cardiomyopathy 1 (5) 0 1 (9) 0
+Cellulitis 1 (5) 0 1 (9) 0
+edema peripheral 1 (5) 1 (14) 0 0
+ejection fraction 1 (5) 0 1 (9) 0
+↓
+gastric hemorrhage 1 (5) 0 1 (9) 0
+gastritis 1 (5) 0 1 (9) 0
+Hypercholesterolemia 1 (5) 0 1 (9) 0
+Hyponatremia 1 (5) 0 1 (9) 0
+Hypophosphatemia 1 (5) 1 (14) 0 0
+lipase 1 (5) 0 1 (9) 0
+↑
+lung infection 1 (5) 0 1 (9) 0
+nausea 1 (5) 0 0 1 (50)
+Vomiting 1 (5) 0 0 1 (50)
+White blood cell count 1 (5) 0 1 (9) 0
+↓
+Table 4 Best response
+Objective response total (N 20) Cohort 1 Cohort 2 Cohort 3
+=
+lenvatinib 12 mg lenvatinib 18 mg lenvatinib 24 mg
++ + +
+everolimus 5 mg everolimus 5 mg everolimus 5 mg
+(n 7) (n 11) (n 2)
+= = =
+Pr, n (%) 6 (30.0) 2 (28.6) 4 (36.4) 0 (0.0)
+95 % CI (11.9–54.3) (3.7–71.0) (10.9–69.2)
+SD ( 7 weeks), n (%) 10 (50.0) 4 (57.1) 5 (45.5) 1 (50.0)
+≥
+95 % CI (27.2–72.8) (18.4–90.1) (16.7–76.6) (1.3–98.7)
+Durable SD rate (SD 23 weeks), n (%) 4 (20.0) 2 (28.6) 2 (18.2) 0 (0.0)
+≥
+95 % CI (5.7–43.7) (3.7–71.0) (2.3–51.8)
+PD, n (%) 1 (5.0) 0 (0.0) 1 (9.1) 0 (0.0)
+DCr (Cr Pr SD), n (%) 16 (80.0) 6 (85.7) 9 (81.8) 1 (50.0)
++ +
+95 % CI (56.3–94.3) (42.1–99.6) (48.2–97.7) (1.3–98.7)
+Unknown, n (%) 3 (15.0) 1 (14.3) 1 (9.1) 1 (50.0)
+95 % CI (3.2–37.9) (0.4–57.9) (0.2–41.3) (1.3–98.7)
+CI confidence interval, CR complete response, DCR disease control rate, PD progressive disease, PR partial response, SD stable disease
+1 3
+
+--- Page 7 ---
+Cancer Chemother Pharmacol (2014) 73:181–189 187
+Fig. 1 Waterfall plot of percent
+of maximum change in summed
+longest diameter of target lesion
+from baseline, by investigator.
+SD
+PD progressive disease, PR par-
+tial response, SD stable disease PD SD SD SD
+SD
+SD
+SD SD SD SD
+PR
+PR PR
+PR
+PR PR
+Three additional patients could not be graphically represented because
+they did not have postbaseline tumor assessment.
+response rate of 33 % and PFS of 10.9 months for len- In conclusion, the MtD and recommended phase 2
+vatinib in combination with everolimus are encouraging in dose was identified to be lenvatinib 18 mg once daily plus
+the context of what has been reported in the literature. everolimus 5 mg once daily. Most treatment-related aes
+1 3
+ridaN
+ta
+enilesaB
+morF
+egnahC
+tnecreP
+2200
+1100
+SD
+00
+PD SD SD SD
+SD
+SD
+--1100 SD SD SD SD
+PR
+--2200
+PR PR
+PR
+--3300
+PR PR
+--4400
+--5500
+--6600
+CCoohhoorrtt 11:: LLeennvvaattiinniibb 1122 mmgg ++ eevveerroolliimmuuss 55 mmgg
+--7700
+CCoohhoorrtt 22:: LLeennvvaattiinniibb 1188 mmgg ++ eevveerroolliimmuuss 55 mmgg
+CCoohhoorrtt 33:: LLeennvvaattiinniibb 2244 mmgg ++ eevveerroolliimmuuss 55 mmgg
+--8800
+Three additional patients could not be graphically represented because
+they did not have postbaseline tumor assessment.
+Fig. 2 radiologic response to lenvatinib in combination with everolimus. Baseline and follow-up images of one patient treated with lenvatinib
+14 mg and everolimus 5 mg
+
+--- Page 8 ---
+1 88 Cancer Chemother Pharmacol (2014) 73:181–189
+were consistent with class effects typical of mt Or and targeted therapies. Br J Cancer 104:399–406. doi:10.1038/sj.
+VegFr inhibitors and were managed effectively by dose bjc.6606084
+9. Kaelin Wg Jr (2005) the von Hippel-lindau protein, HIF
+interruptions or reductions. Importantly, no new safety sig-
+hydroxylation, and oxygen sensing. Biochem Biophys res Com-
+nals were evident with the use of combination therapy. the mun 338:627–638
+clinical benefit rate, including Prs and durable SD, appears 10. Staehler M, rohrmann K, Haseke n, Stief Cg, Siebels M (2005)
+favorable, and the ongoing phase 2 portion of this study targeted agents for the treatment of advanced renal cell carci-
+noma. Curr Drug targets 6:835–846
+will further elucidate the clinical value of this regimen.
+11. Brugarolas JB, Vazquez F, reddy a, Sellers Wr, Kaelin Wg Jr
+(2003) tSC2 regulates VegF through mt Or-dependent and
+Acknowledgments this work was supported by eisai Inc. the -independent pathways. Cancer Cell 4:147–158
+authors would like to thank Phase Five Communications Inc. for 12. thomas gV, tran C, Mellinghoff IK, Welsbie DS, Chan e, Fue-
+medical editorial assistance with this manuscript and C. andresen, ger B, Czernin J, Sawyers Cl (2006) Hypoxia-inducible factor
+former employee of eisai Inc., for medical monitoring. We also thank determines sensitivity to inhibitors of mtOr in kidney cancer.
+the commitment of participating patients, their families, and the study nat Med 12:122–127
+investigators for their invaluable contribution to this research. 13. Sosman Ja, Puzanov I, atkins MB (2007) Opportunities and
+obstacles to combination targeted therapy in renal cell cancer.
+Conflict of interest a.M. Molina has acted as a consultant and par- Clin Cancer res 13(2 Pt 2):764s–769s
+ticipated in research for novartis, Inc. t.e. Hutson is a consultant and 14. Matsui J, Yamamoto Y, Funahashi Y, tsuruoka a, Watanabe
+speaker bureau member for Pfizer, glaxoSmithKline, and novartis. t, Wakabayashi t, Uenaka t, asada M (2008) e7080, a novel
+J. larkin is a consultant for eisai Inc. a.M. gold, K. Wood, and D. inhibitor that targets multiple kinases, has potent antitumor
+Carter are employees of eisai ltd. r. Motzer is a consultant for aveo activities against stem cell factor producing human small cell
+Oncology and Pfizer Oncology and received support for clinical trial lung cancer H146, based on angiogenesis inhibition. Int J Cancer
+conduct on behalf of Memorial Sloan-Kettering Cancer Center. M.D. 122:664–671
+Michaelson participated in research for eisai. 15. Boss DS, glen H, Beijnen JH, Keesen M, Morrison r, tait B,
+Copalu W, Mazur a, Wanders J, O’Brien JP, Schellens JH, evans
+tr (2012) a phase I study of e7080, a multitargeted tyrosine
+Open Access this article is distributed under the terms of the Crea-
+kinase inhibitor, in patients with advanced solid tumours. Br J
+tive Commons attribution license which permits any use, distribu-
+Cancer 106:1598–1604. doi:10.1038/bjc.2012.154
+tion, and reproduction in any medium, provided the original author(s)
+16. Yamada K, Yamamoto n, Yamada Y, nokihara H, Fujiwara Y,
+and the source are credited.
+Hirata t, Koizumi F, nishio K, Koyama n, tamura t (2011)
+Phase I dose-escalation study and biomarker analysis of e7080 in
+patients with advanced solid tumors. Clin Cancer res 17:2528–
+References
+2537. doi:10.1158/1078-0432.CCr-10-2638
+17. Sherman SI, Jarzab B, Cabanillas Me, licitra lF, Pacini F, Mar -
+1. rini BI, atkins MB (2009) resistance to targeted therapy in tins r, robinson B, Ball D, McCaffrey J, Shah MH, Bodenner
+renal-cell carcinoma. lancet Oncol 10:992–1000. doi:10.1016/ D, allison r, newbold K, elisei r, O’Brien JP, Schlumberger M
+S1470-2045(09)70240-2 (2011) a phase II trial of the multitargeted kinase inhibitor e7080
+2. eichelberg C, Junker K, ljungberg B, Moch H (2009) Diagnostic in advanced radioiodine (raI)-refractory differentiated thyroid
+and prognostic molecular markers for renal cell carcinoma: a crit- cancer (DtC). J Clin Oncol 29(suppl):abstract 5503
+ical appraisal of the current state of research and clinical applica- 18. Schlumberger M, Jarzab B, Cabanillas Me, robinson B, Pacini
+bility. eur Urol 55:851–863. doi:10.1016/j.eururo.2009.01.003 F, Ball DW, McCaffrey JC, newbold K, allison r, Martins r,
+3. Hutson te (2011) targeted therapies for the treatment of meta- licitra lF, Shah MH, Bodenner D, elisei r, Burmeister la,
+static renal cell carcinoma: clinical evidence. Oncologist 16(suppl Funahashi Y, Sellecchia r, andresen C, O’Brien JP, Sherman SI
+2):14–22. doi:10.1634/theoncologist.2011-S2-14 (2012) a phase II trial of the multitargeted kinase inhibitor len-
+4. Motzer rJ, escudier B, Oudard S, Hutson te, Porta C, Bracarda vatinib (e7080) in advanced medullary thyroid cancer (MtC). J
+S, grünwald V, thompson Ja, Figlin ra, Hollaender n, Kay Clin Oncol 30(suppl):abstract 5591
+a, ravaud a, reCOrD-1 Study group (2010) Phase 3 trial of 19. Vergote I, teneriello M, Powell Ma, Miller DS, garcia aa,
+everolimus for metastatic renal cell carcinoma: final results and Mikheeva On, Pinter t, Bidzinski M, Cebotaru Cl, Fan J, ren
+analysis of prognostic factors. Cancer 116:4256–4265. doi:10.10 M, Meneses n, Funahashi Y, Kadowaki t, O’Brien JP, Penson
+02/cncr.25219 rt (2013) a phase II trial of lenvatinib in patients with advanced
+5. nCCn Clinical Practice guidelines in Oncology (nCCn or recurrent endometrial cancer: angiopoietin-2 as a predictive
+guidelines®) for Kidney Cancer, Version 1. (2013). http:// marker for clinical outcomes. J Clin Oncol 31(suppl):abstract
+file3.baitianshi.com/upload/res/201212/c29/9f/5c8d5.pdf. 5520
+accessed 20 Feb 2013 20. Fabian Ma, Biggs WH 3rd, treiber DK, atteridge Ce, azimio-
+6. Santos n, Wenger JB, Havre P, liu Y, Dagan r, Imanirad I, Ivey ara MD, Benedetti Mg, Carter ta, Ciceri P, edeen Pt , Floyd
+aM, Zlotecki ra, algood CB, gilbert SM, allegra CJ, Okunieff M, Ford JM, galvin M, gerlach Jl, grotzfeld rM, Herrgard S,
+P, Vieweg J, Dang nH, luesch H, Dang lH (2011) Combination Insko De, Insko Ma, lai ag, lélias JM, Mehta Sa, Milanov
+therapy for renal cell cancer: what are possible options? Oncol- ZV, Velasco aM, Wodicka lM, Patel HK, Zarrinkar PP, lockhart
+ogy 81:220–229. doi:10.1159/000333470 DJ (2005) a small molecule-kinase interaction map for clinical
+7. Cho IC, Chung J (2012) Current status of targeted therapy for kinase inhibitors. nat Biotechnol 23:329–336
+advanced renal cell carcinoma. Korean J Urol 53:217–228. doi:10 21. eisenhauer ea, therasse P, Bogaerts J, Schwartz lH, Sargent
+.4111/kju.2012.53.4.217 D, Ford r, Dancey J, arbuck S, gwyther S, Mooney M, rubin-
+8. gore Me, larkin JM (2011) Challenges and opportunities stein l, Shankar l, Dodd l, Kaplan r, lacombe D, Verweij J
+for converting renal cell carcinoma into a chronic disease with (2009) new response evaluation criteria in solid tumours: revised
+1 3
+
+--- Page 9 ---
+Cancer Chemother Pharmacol (2014) 73:181–189 189
+reCISt guideline (version 1.1). eur J Cancer 45:228–247. 30. escudier B, eisen t, Stadler WM, Szczylik C, Oudard S, Sie-
+doi:10.1016/j.ejca.2008.10.026 bels M, negrier S, Chevreau C, Solska e, Desai aa, rolland F,
+22. Feldman Dr, Baum MS, ginsberg MS, Hassoun H, Flombaum Demkow t, Hutson te, gore M, Freeman S, Schwartz B, Shan
+CD, Velasco S, Fischer P, ronnen e, Ishill n, Patil S, Motzer M, Simantov r, Bukowski rM, target Study group (2007)
+rJ (2009) Phase I trial of bevacizumab plus escalated doses of Sorafenib in advanced clear-cell renal-cell carcinoma. n engl J
+sunitinib in patients with metastatic renal cell carcinoma. J Clin Med 356:125–134
+Oncol 27:1432–1439. doi:10.1200/JCO.2008.19.0108 31. Motzer rJ, rini BI, Bukowski rM, Curti BD, george DJ, Hudes
+23. Sosman Ja, Flaherty Kt , atkins MB (2008) Updated results of gr, redman Bg, Margolin Ka, Merchan Jr, Wilding g, gins-
+phase I trial of sorafenib (S) and bevacizumab (B) in patients berg MS, Bacik J, Kim St, Baum CM, Michaelson MD (2006)
+with metastatic renal cell cancer (mrCC). J Clin Oncol Sunitinib in patients with metastatic renal cell carcinoma. JaMa
+26(suppl):abstract 5011 295:2516–2524
+24. Harzstark al, Small eJ, Weinberg VK, Sun J, ryan CJ, lin aM, 32. escudier B, eisen t, Stadler WM, Szczylik C, Oudard S, Stae-
+Fong l, Brocks Dr, rosenberg Je (2011) a phase 1 study of hler M, negrier S, Chevreau C, Desai aa, rolland F, Demkow
+everolimus and sorafenib for metastatic clear cell renal cell carci- t, Hutson te, gore M, anderson S, Hofilena g, Shan M, Pena
+noma. Cancer 117:4194–4200. doi:10.1002/cncr.25931 C, lathia C, Bukowski rM (2009) Sorafenib for treatment of
+25. afinitor [prescribing information]. east Hanover, nJ: novartis renal cell carcinoma: final efficacy and safety results of the phase
+Pharmaceuticals Corp (2012) III treatment approaches in renal cancer global evaluation trial. J
+26. nexavar [prescribing information]. Wayne, nJ: Bayer HealthCare Clin Oncol 27:3312–3318. doi:10.1200/JCO.2008.19.5511
+Pharmaceuticals Inc. (2012) 33. Sternberg Cn, Davis ID, Mardiak J, Szczylik C, lee e, Wag-
+27. Hainsworth JD, Spigel Dr, Burris Ha 3rd, Waterhouse D, Clark staff J, Barrios CH, Salman P, gladkov Oa, Kavina a, Zarbá JJ,
+Bl, Whorf r (2010) Phase II trial of bevacizumab and everoli- Chen M, McCann l, Pandite l, roychowdhury DF, Hawkins
+mus in patients with advanced renal cell carcinoma. J Clin Oncol re (2010) Pazopanib in locally advanced or metastatic renal cell
+28:2131–2136. doi:10.1200/JCO.2009.26.3152 carcinoma: results of a randomized phase III trial. J Clin Oncol
+28. négrier S, gravis g, Pérol D, Chevreau C, Delva r, Bay JO, 28:1061–1068. doi:10.1200/JCO.2009.23.9764
+Blanc e, Ferlay C, geoffrois l, rolland F, legouffe e, Sevin 34. rini BI, escudier B, tomczak P, Kaprin a, Szczylik C, Hutson
+e, laguerre B, escudier B (2011) temsirolimus and bevaci- te, Michaelson MD, gorbunova V a, gore Me, rusakov Ig,
+zumab, or sunitinib, or interferon alfa and bevacizumab for negrier S, Ou YC, Castellano D, lim HY, Uemura H, tarazi J,
+patients with advanced renal cell carcinoma (tOra Va): a ran- Cella D, Chen C, rosbrook B, Kim S, Motzer rJ (2011) Com-
+domised phase 2 trial. lancet Oncol 12:673–680. doi:10.1016/ parative effectiveness of axitinib versus sorafenib in advanced
+S1470-2045(11)70124-3 renal cell carcinoma (aXIS): a randomised phase 3 trial. lancet
+29. Harshman lC, Barbeau S, McMillian a, Srinivas S (2013) a 378:1931–1939. doi:10.1016/S0140-6736(11)61613-9
+phase II study of bevacizumab and everolimus as treatment for
+refractory metastatic renal cell carcinoma. Clin genitourin Can-
+cer 11:100–106. doi:10.1016/j.clgc.2012.12.002
+1 3

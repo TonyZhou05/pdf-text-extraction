@@ -1,0 +1,561 @@
+Source: 30088048.pdf
+Extracted on: Sat Sep 13 00:01:51 PDT 2025
+==================================================
+
+--- Page 1 ---
+Cancer Chemotherapy and Pharmacology (2018) 82:757–766
+https://doi.org/10.1007/s00280-018-3661-1
+ORIGINAL ARTICLE
+A phase I study to assess afatinib in combination with carboplatin
+or with carboplatin plus paclitaxel in patients with advanced solid
+tumors
+Mary E. R. O’Brien1 · Debashis Sarker2 · Jaishree Bhosle1 · Kiruthikah Thillai2 · Timothy A. Yap1 ·
+Martina Uttenreuther‑Fischer3 · Karine Pemberton4 · Xidong Jin5 · Sabrina Wiebe3 · Johann de Bono1 · James Spicer2
+Received: 11 July 2018 / Accepted: 30 July 2018 / Published online: 7 August 2018
+© The Author(s) 2018
+Abstract
+Purpose Afatinib, an irreversible ErbB family blocker, has demonstrated preclinical antitumor activity with chemotherapy.
+Methods As part of a phase I trial in patients with advanced solid tumors (NCT00809133; 3 + 3 dose-escalation design),
+we determined the maximum tolerated dose (MTD) of afatinib with carboplatin (A/C) or with carboplatin plus paclitaxel
+(A/C/P). Starting doses: afatinib 20 mg/day, carboplatin AUC6 (A/C) with paclitaxel 175 mg/m2 (A/C/P) (chemotherapy:
+Day 1 of 21-day cycles). The primary objective was to determine the MTDs; safety, pharmacokinetics and antitumor activ-
+ity were also evaluated.
+Results Thirty-eight patients received A/C (n = 12) or A/C/P (n = 26). No dose-limiting toxicities (DLTs) were reported with
+A(20 mg)/C(AUC6). One patient experienced DLT in the A(40 mg)/C(AUC6) cohort (grade 3 acneiform rash); A(40 mg)/
+C(AUC6) was determined as the recommended phase II dose (RP2D) for A/C. Two patients each had DLTs with A(20 mg/
+day)/C(AUC6)/P(175 mg/m2): fatigue, infection, diarrhea, small intestine hemorrhage, dehydration, renal impairment,
+neutropenic sepsis (n = 1), mucositis (n = 1); A(40 mg)/C(AUC5)/P(175 mg/m2): febrile neutropenia (n = 1), mucositis,
+fatigue (n = 1); and A(30 mg)/C(AUC5)/P(175 mg/m2): stomatitis (n = 1), mucositis (n = 1). No DLT was observed with
+A(20 mg)/C(AUC5)/P(175 mg/m2), determined as the RP2D for A/C/P. The most frequent drug-related adverse events were
+(A/C; A/C/P): rash (75%; 73%), fatigue (67%; 69%), and diarrhea (58%; 88%). Drug plasma concentrations were similar
+between cycles, suggesting no drug–drug interactions. Objective response rates in these heavily pretreated patients were
+A/C, 3/12 (25%); A/C/P, 5/26 (19%).
+Conclusions Afatinib 40 mg/day (approved monotherapy dose) with carboplatin AUC6, and afatinib 20 mg/day with car-
+boplatin AUC5 and paclitaxel 175 mg/m2 demonstrated manageable safety and antitumor activity. Afatinib > 20 mg/day in
+the triple combination was not well tolerated.
+Keywords Afatinib · Carboplatin · Paclitaxel · Phase I · Solid tumors
+Introduction
+* James Spicer
+Afatinib is an irreversible ErbB family blocker, which
+james.spicer@kcl.ac.uk
+binds covalently to the intracellular kinase domains of,
+1 Royal Marsden NHS Foundation Trust, Downs Road, Sutton, and prevents signaling from, all kinase-active members of
+UK the ErbB family. It is, therefore, active against epidermal
+2 King’s College London, Guy’s Hospital, 3rd Floor growth factor receptor (EGFR), human epidermal growth
+Bermondsey Wing, London, UK factor receptor 2 (HER2) and ErbB4, and indirectly inhibits
+3 Boehringer Ingelheim International GmbH, Biberach, transphosphorylation of the kinase-inactive ErbB3 [1]. As a
+Germany single agent, afatinib is approved for the first-line treatment
+4 Boehringer Ingelheim Ltd, Bracknell, UK of advanced EGFR mutation-positive lung adenocarcinoma,
+5 Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT, having demonstrated improved progression-free survival
+USA (PFS) versus platinum-based chemotherapy in these patients
+Vol.:(0112 33456789)
+
+--- Page 2 ---
+7 58 Cancer Chemotherapy and Pharmacology (2018) 82:757–766
+[2, 3]. In addition, afatinib was recently approved for the HER2-targeting drugs or other investigational drugs within
+treatment of patients unselected for EGFR mutations with 4 weeks prior to starting trial medication.
+advanced squamous cell carcinoma of the lung following The study was conducted in accordance with the Dec-
+first-line chemotherapy, with activity superior to erlotinib laration of Helsinki and Good Clinical Practice, and ethi-
+in this setting [4]. cal approval was provided by the UK Integrated Research
+Given their non-overlapping mechanisms of action, the Application System. All patients provided written informed
+addition of targeted therapies such as afatinib to existing consent.
+chemotherapy regimens may improve outcomes in patients
+Study design and treatment
+with advanced solid tumors. In vitro cell-based assays have
+shown greater efficacy with afatinib combined with pacli-
+taxel than with single-agent treatment [5]. The combination A phase I open-label trial assessed four different drug
+of afatinib with paclitaxel or docetaxel in xenograft animal combinations using a 3 + 3 dose-escalation design
+models has also demonstrated improved efficacy compared (NCT00809133); previous analyses of other combination
+with single-agent therapy [6]. regimens included in the trial have been reported [5, 7].
+The clinical feasibility and tolerability of combining In this report, afatinib was evaluated in combination with
+afatinib with paclitaxel, and with paclitaxel plus bevaci- carboplatin (A/C) or carboplatin plus paclitaxel (A/C/P).
+zumab, were previously explored in earlier parts of this trial In both combinations, oral afatinib was administered once
+(a total of four drug combinations were assessed in patients daily, beginning on Day 2 of Cycle 1 in 21-day cycles, at
+with advanced solid tumors in this trial [NCT00809133]) a starting dose of 20 mg/day, and escalated to 40 mg (the
+[5, 7]. Both of these earlier combination regimens demon- approved monotherapy starting dose) and then 50 mg in
+strated manageable safety profiles and antitumor activity at subsequent dose cohorts. Chemotherapy was administered
+the maximum tolerated doses (MTDs). Here, we evaluated intravenously on Day 1 of each 21-day cycle: carboplatin at
+the combination of afatinib with carboplatin, and with carbo- a dose targeting an area under the concentration–time curve
+platin and paclitaxel, in patients with advanced solid tumors. of 6 mg/mL.min (AUC6), and paclitaxel at 175 mg/m2 (car-
+boplatin was administered after paclitaxel, consistent with
+standard medical practice in the United Kingdom) [8]. Tar-
+get doses for carboplatin were calculated using the Calvert
+Materials and methods
+formula (dose [mg] = target AUC [mg/mL.min] × (glomeru-
+lar filtration rate [GFR; mL/min] + 25 mL/min)). Based on
+Patients
+the American Society for Clinical Oncology guidelines, the
+GFR used in the Calvert formula was capped at 125 mL/min
+Patients eligible for treatment had advanced, non-resect- [9]. In the event of toxicity with carboplatin AUC6, a dose
+able and/or metastatic solid tumors suitable for treatment reduction to AUC5 was allowed. Patients continued combi-
+with either carboplatin or carboplatin and paclitaxel, and nation treatment for six cycles or until tumor progression,
+were recruited at two centers in the United Kingdom. Key intolerable adverse events (AEs) or withdrawal of consent.
+eligibility criteria included age ≥ 18 years; Eastern Coop- Patients with clinical benefit after six cycles could continue
+erative Oncology Group performance status (ECOG PS) of either with combination treatment or single-agent afatinib.
+0 or 1; life expectancy of at least 3 months and adequate The primary endpoint was safety, assessed as dose-
+organ function (cardiac left ventricular function with limiting toxicities (DLTs) to define the MTD of the two
+resting ejection fraction [LVEF] ≥ 50%; absolute neutro- afatinib–chemotherapy combinations. MTD was defined as
+phil count ≥ 1.5 × 109/L [> 2.0 × 109/L for patients allo- the highest dose of afatinib in combination with carboplatin,
+cated to carboplatin]; platelets ≥ 100,000/µL; total biliru- or with carboplatin and paclitaxel, at which no more than
+bin ≤ 26 µmol/L; aspartate aminotransferase and/or alanine one of six patients experienced a DLT during Cycle 1. To be
+aminotransferase ≤ 2.5 times the upper limit of normal; cre- evaluable for determination of the MTD, patients must have
+atinine ≤ 132 µmol/L and creatinine clearance > 60 mL/min completed the first 2 weeks of therapy or have experienced a
+by Cockcroft–Gault equation). DLT; patients who did not meet either of these criteria were
+Exclusion criteria included gastrointestinal tract disease replaced within the respective dose cohort. Secondary end-
+that could impair drug absorption; significant cardiovas- points included pharmacokinetic parameters and antitumor
+cular disease; active infectious disease; known interstitial activity (objective tumor responses [OR]).
+lung disease; untreated or symptomatic brain metastases;
+persistent grade ≥ 2 neuropathy or neurotoxicity from any
+cause; and treatment with chemotherapy, immunotherapy,
+radiotherapy, biologic therapy, hormone therapy, EGFR- or
+1 3
+
+--- Page 3 ---
+Cancer Chemotherapy and Pharmacology (2018) 82:757–766 759
+Assessments Results
+All patients were assessed for AEs according to the Patients and treatment exposure
+National Cancer Institute Common Terminology Criteria
+for Adverse Events (NCI CTCAE, version 3.0); relation- Thirty-eight patients were treated in the trial, with the most
+ship to study treatment was assessed by the investigators. common tumor type (A/C, 58%; A/C/P, 65%) being non-
+DLTs were defined as any of the following drug- small cell lung cancer (NSCLC). Additional baseline demo-
+related AEs: grade 4 uncomplicated neutropenia (i.e., graphics and disease characteristics are shown in Table 1.
+fever ≤ 38.3 °C) for > 7 days; neutropenia associated with Twelve patients received the combination of A/C and 26
+fever > 38.5 °C; platelets < 25 × 109/L or grade 3 thrombo- received A/C/P. In the A/C arm, 10 (83%) patients completed
+cytopenia associated with bleeding requiring transfusion; at least one cycle and 6 (50%) patients completed at least six
+grade ≥ 2 decrease in LVEF; uncontrolled hypertension cycles of treatment; all patients discontinued study treatment
+despite multiple anti-hypertension therapies; grade ≥ 2 due to PD. In the A/C/P arm, 24 (92%) patients completed
+worsening of renal function; grade > 2 diarrhea despite at least one cycle and 11 (42%) patients completed at least
+anti-diarrheal treatment; persistent grade ≥ 2 diarrhea six cycles of treatment. The primary reason for termination
+for ≥ 7 days despite supportive care; grade > 2 nausea of study treatment in the A/C/P arm was PD in 21 patients
+and/or vomiting despite antiemetic treatment; persistent (81%) and AEs, including DLTs, in 5 patients (19%). Median
+grade ≥ 2 vomiting for ≥ 7 days despite supportive care; treatment duration was 106 days (range 13–390) for A/C and
+and all other non-hematologic toxicities of grade ≥ 3, 85 days (range 6–401) for A/C/P.
+except incompletely treated nausea, vomiting or diarrhea.
+For the assessment of pharmacokinetic parameters of MTD assessment
+afatinib (AUC and C ), total platinum (AUC
+τ,ss max,ss 0−24
+and C ) and paclitaxel (AUC and C ), blood was In the A/C arm, nine patients were evaluable for the deter-
+max 0−23 max
+collected on Days 1 and 2 of Cycles 1 and 2. Samples mination of MTD (Fig. 1a; Table 2). In Cohort 1 (afatinib
+were taken pre- and post- (1.0, 1.5, 2.0, 3.0, 4.0, 6.0, 8.0 20 mg plus carboplatin AUC6), three patients received com-
+and 24.0 h) carboplatin infusion (in the A/C arm) and pre- bination treatment and no DLTs were reported. In Cohort
+and post- (1.0, 2.0, 3.0, 3.5, 4.0, 4.5, 5.0, 6.0, 8.0, 9.0 and 2 (afatinib 40 mg plus carboplatin AUC6), no DLTs were
+24.0 h) paclitaxel infusion (in the A/C/P arm). Of note, reported in the first three evaluable patients (two patients
+the 1.0- and 2.0-h time points post-paclitaxel infusion were not evaluable for MTD determination and were
+were conducted only during Cycle 2. A sample was also replaced), and the cohort was expanded to nine patients
+collected on Day 15 of Cycle 1 before the administration (one patient was not evaluable and was replaced). Of the six
+of afatinib in both treatment combinations. Plasma con- patients who were evaluable for MTD in Cohort 2, one expe-
+centrations of afatinib and paclitaxel were analyzed by a rienced a DLT (grade 3 acneiform rash). The afatinib dose,
+validated high-performance liquid chromatography–tan- here combined with a dose of carboplatin, was not further
+dem mass spectrometry method at Boehringer Ingelheim escalated from the standard monotherapy dose of 40 mg,
+(Biberach, Germany) and Nuvisan GmbH (Neu-Ulm, consistent with standard of care. Afatinib 40 mg plus carbo-
+Germany), respectively. Concentrations of total plati- platin AUC6 was defined as the recommended phase II dose
+num (from carboplatin) were determined by a validated (RP2D) in the A/C arm, without an MTD being reached.
+inductively coupled plasma/mass spectrometry assay at In the A/C/P arm, 23 of 26 patients were evalu-
+Nuvisan GmbH (Neu-Ulm, Germany). able for assessment of the MTD (Fig. 1b; Table 2). Of
+Tumor assessments were performed by the investi- the seven patients who received treatment in Cohort 1
+gators at screening and every 6 weeks after the start of (afatinib 20 mg plus carboplatin AUC6 plus paclitaxel
+treatment until progressive disease (PD) according to 175 mg/m2), six were evaluable for MTD and two had
+Response Evaluation Criteria in Solid Tumors (RECIST, DLTs, which included grade 3 neutropenic sepsis with
+version 1.0). Clostridium difficile diarrhea in one patient and grade
+3 mucositis in the other patient (Table 2). The carbopl-
+atin dose was decreased to AUC5 in Cohort 2 (afatinib
+Statistical analysis 20 mg plus carboplatin AUC5 plus paclitaxel 175 mg/m2),
+in which three patients received treatment and no DLTs
+AEs and antitumor activity were assessed in all patients were reported. The afatinib dose was then increased to
+who received at least one dose of afatinib. All analyses in 40 mg in Cohort 3 (afatinib 40 mg plus carboplatin AUC5
+this trial were descriptive and exploratory. plus paclitaxel 175 mg/m2), and five patients received
+1 3
+
+--- Page 4 ---
+7 60 Cancer Chemotherapy and Pharmacology (2018) 82:757–766
+Table 1 Patient demographics A/C (n = 12) A/C/P (n = 26)
+at baseline
+Age, years
+Median (range) 57.5 (35–80) 60.5 (26–73)
+Gender, n (%)
+Male 8 (67) 13 (50)
+Female 4 (33) 13 (50)
+Race, n (%)
+White 8 (67) 23 (88)
+Black 2 (17) 1 (4)
+Asian 2 (17) 2 (8)
+ECOG PS, n (%)
+0 0 2 (8)
+1 12 (100) 23 (88)
+2 0 1 (4)a
+Time from first histologic diagnosis, years
+Median (range) 1.5 (0.7–6.3) 1.9 (0.7–6.6)
+Tumor type, n (%)
+NSCLC 7 (58) 17 (65)
+Pancreas 1 (8) 3 (12)
+Gastrointestinal tract 2 (17) 0
+Breast 0 2 (8)
+Otherb 2 (17) 4 (15)
+Patients with previous anti-cancer therapy, n (%)
+Surgery 5 (42) 11 (42)
+Systemic chemotherapy 12 (100) 26 (100)
+Immunotherapy 1 (8) 1 (4)
+Hormone therapy 0 (0) 1 (4)
+Radiotherapy 6 (50) 13 (50)
+Other (including biologic therapy) 7 (58) 6 (23)
+A/C afatinib plus carboplatin, A/C/P afatinib plus carboplatin plus paclitaxel, ECOG PS Eastern Coopera-
+tive Oncology Group performance status; NSCLC non-small cell lung cancer
+a ECOG PS declined between screening and baseline; baseline visit was 2 days after the screening visit for
+this patient
+b Esophageal (n = 1) and ovarian cancer (n = 1) in the A/C arm, adrenal (n = 1), biliary tree (n = 1), bladder
+(n = 1) and endometrial cancer (n = 1) in the A/C/P arm
+treatment and were evaluable for MTD; two patients Adverse events
+had DLTs (grade 3 fatigue and grade 3 mucositis in one
+patient; grade 3 febrile neutropenia in another). Owing The most frequent drug-related AEs of any grade in the A/C
+to the DLTs observed, an intermediate afatinib dose of arm were rash (grouped term; n = 9, 75%), which was most
+30 mg was explored in Cohort 4 (afatinib 30 mg plus car- commonly acneiform, fatigue (n = 8, 67%) and diarrhea
+boplatin AUC5 plus paclitaxel 175 mg/m2). Eight patients (n = 7, 58%). Most AEs were of CTCAE grade 1 or 2 in
+received this treatment and, of the six patients evaluable intensity (Table 3), and the only non-hematologic treatment-
+for MTD, two reported DLTs (grade 3 stomatitis; grade related grade 3 AEs in this arm were rash, fatigue and diar-
+3 mucositis). The next lower dose level (afatinib 20 mg rhea (one patient each; 8%). There were no treatment-related
+plus carboplatin AUC5 plus paclitaxel 175 mg/m2) was grade ≥ 4 AEs.
+then expanded with three patients, in addition to the three The most frequent drug-related AEs in the A/C/P arm
+patients already treated with these doses in Cohort 2, and were diarrhea (n = 23, 88%), rash (grouped term; n = 19,
+no DLTs were reported. Thus, afatinib 20 mg was identi- 73%) and fatigue (n = 18, 69%). Most AEs were of CTCAE
+fied as the MTD in combination with carboplatin AUC5 grade 1 or 2 in intensity, and there were no grade ≥ 4
+and paclitaxel 175 mg/m2. This dose was also identified treatment-related AEs (Table 4). The most common non-
+as the RP2D for the A/C/P combination. hematologic treatment-related grade 3 AEs in this arm
+1 3
+
+--- Page 5 ---
+Cancer Chemotherapy and Pharmacology (2018) 82:757–766 761
+Fig. 1 Dose-escalation schema a
+and incidence of DLTs in the
+A/C arm (a) and the A/C/P
+arm (b). A20 + C6, afatinib 20
+mg/day + carboplatin AUC6;
+A40 + C6, afatinib 40 mg/day
++ carboplatin AUC6; A20 +
+P175 + C5, afatinib 20 mg/
+day + paclitaxel 175 mg/m2
++ carboplatin AUC5; A20 +
+P175 + C6, afatinib 20 mg/
+day + paclitaxel 175 mg/m2
++ carboplatin AUC6; A30 +
+P175 + C5, afatinib 30 mg/
+day + paclitaxel 175 mg/m2
++ carboplatin AUC5; A40 +
+P175 + C5, afatinib 40 mg/
+day + paclitaxel 175 mg/m2 + b
+carboplatin AUC5
+were mucositis (n = 4; 15%) and fatigue (n = 3; 12%). Seven tumor response. Five patients (42%) achieved disease control
+(27%) patients, including one patient with Clostridium dif- (PR or SD) for at least 6 months. No ORs were seen in the
+ficile infection and one patient with mucositis (discussed seven patients with NSCLC receiving A/C treatment, but
+above as DLTs), had AEs leading to discontinuation of study four patients (57%) had a best response of SD, one (14%) for
+treatment. at least 6 months. A response duration of 10.2 months was
+seen in one patient with a gastrointestinal neuroendocrine
+Pharmacokinetics
+tumor.
+In the A/C/P arm, five patients (19%) had a confirmed
+Table 5 summarizes key pharmacokinetic parameters for PR, eleven (42%) had SD and six (23%) had PD; four
+the RP2D cohorts of both treatment arms. Total platinum patients (15%) were not evaluable for tumor response.
+and paclitaxel showed a comparable exposure, based on Of the 17 patients with NSCLC treated with A/C/P, ORs
+C and AUC, in the absence and presence of afatinib, were reported for three patients (18%), and eight (47%)
+max
+suggesting no clinically relevant effect of afatinib on had SD. Four patients (15%), all of whom had NSCLC,
+the pharmacokinetic parameters of these drugs. Afatinib achieved disease control (PR or SD) for at least 6 months.
+reached peak plasma concentration 1–4 h after administra- A response duration of 10.5 months was seen in one patient
+tion in the A/C arm and 3–8 h after administration in the with NSCLC.
+A/C/P arm.
+Antitumor activity Discussion
+In the A/C arm, three patients (25%) had a confirmed partial In this phase I study, we assessed the safety and prelimi-
+response (PR), five (42%) had stable disease (SD) and one nary antitumor activity of afatinib in combination with car-
+(8%) had PD; three patients (25%) were not evaluable for boplatin, and with carboplatin plus paclitaxel. In the A/C
+1 3
+
+--- Page 6 ---
+7 62 Cancer Chemotherapy and Pharmacology (2018) 82:757–766
+Table 2 DLTs (related to study drug) in Cycle 1 by dose cohort
+A/C A/C/P
+A (20 mg) + C A (40 mg) + C A (20 mg) + C A (20 mg) + C A (40 mg) + C A (30 mg) + C
+(AUC6) (n = 3) (AUC6) (n = 9) (AUC6) + P (AUC5) + P (AUC5) + P (AUC5) + P (175 mg/
+(175 mg/m2) (n = 7) (175 mg/m2) (n = 6) (175 mg/m2) (n = 5) m2) (n = 8)
+Patients evaluable 3 6 6 6 5 6
+for MTD
+Patients with a DLT 0 1 2 0 2 2
+DLTs leading to 0 0 2 0 0 0
+permanent discon-
+tinuation of study
+treatment
+DLTs, n
+Acneiform rasha 0 1 0 0 0 0
+Mucositisb 0 0 1 0 1 1
+Fatigue 0 0 1 0 1 0
+Infection 0 0 1 0 0 0
+Dehydration 0 0 1 0 0 0
+Diarrhea 0 0 1 0 0 0
+Febrile neutrope- 0 0 1 0 1 0
+nia/neutropenic
+sepsisd
+Renal impairment 0 0 1 0 0 0
+Small intestinal 0 0 1 0 0 0
+hemorrhage
+Stomatitis 0 0 0 0 0 1
+A/C afatinib plus carboplatin, A/C/P afatinib plus carboplatin plus paclitaxel, AUC5 area under the concentration–time curve of 5 mg/mL min,
+AUC6 area under the concentration–time curve of 6 mg/mL min, DLT dose-limiting toxicity, MTD maximum tolerated dose
+a Preferred term: dermatitis acneiform
+b Preferred term: mucosal inflammation
+c Clostridium difficile
+d Includes one patient with febrile neutropenia and one patient with neutropenic sepsis
+arm, dose escalation was not continued beyond afatinib Afatinib pharmacokinetic parameters were consistent
+40 mg/day plus carboplatin AUC6 and so an MTD was with earlier studies of afatinib as a single agent [13, 14] and
+not reached. The standard dose for afatinib monotherapy is in combination [7], suggesting carboplatin and paclitaxel
+40 mg/day [10, 11]. Since manageable safety and antitumor did not influence absorption and plasma concentrations of
+activity were observed at this dose level with carboplatin afatinib. Similarly, total platinum (from carboplatin) and
+AUC6, and no drug–drug interactions were observed, the paclitaxel plasma concentrations were similar in the absence
+RP2D was determined as afatinib 40 mg plus carbopl- and presence of afatinib, suggesting there were no relevant
+atin AUC6. In the A/C/P arm, the MTD and RP2D were interactions between afatinib and paclitaxel and/or carbopl-
+determined to be afatinib 20 mg plus carboplatin AUC5 atin in this study.
+plus paclitaxel 175 mg/m2. For this triplet combination, Evidence of antitumor activity was observed with both
+the afatinib single-agent dose needed to be de-escalated the A/C and A/C/P combinations. A/C was associated with
+(from 40 to 20 mg) for the regimen to be tolerated. In both disease control (PR or SD) in eight patients (67%), while
+treatment combinations, afatinib at the RP2D was associ- disease control was observed in 16 patients (62%) receiv-
+ated with a manageable safety profile. The most common ing A/C/P. In this study, 58% and 65% of patients in the
+drug-related AEs were rash, fatigue and diarrhea, and the A/C and A/C/P arms, respectively, had NSCLC. Of these
+majority of these were grade 1 or 2 in intensity. The AE pretreated NSCLC patients, more than half in each treat-
+profiles of the combinations were in line with the known ment combination had disease control (57% in the A/C arm
+individual safety profiles of afatinib, carboplatin and pacli- and 65% in the A/C/P arm), with 18% achieving an OR
+taxel [5, 10, 12‒12]. in the A/C/P arm. Of note, a response in one patient with
+1 3
+
+--- Page 7 ---
+Cancer Chemotherapy and Pharmacology (2018) 82:757–766 763
+Table 3 Treatment-related AEs AEs A (20 mg) + C (AUC6) A (40 mg) + C (AUC6) Total (n = 12), n (%)
+in at least 10% of total patients (n = 3), n (n = 9), n
+in the A/C arm
+All grades Grade 3a All grades Grade 3a All grades Grade 3a
+Any AE 3 0 9 3 12 (100) 3 (25)
+Rash+ 2 0 7 1 9 (75) 1 (8)
+Fatigue 3 0 5 1 8 (67) 1 (8)
+Diarrhea 1 0 6 1 7 (58) 1 (8)
+Nausea/vomiting+ 1 0 5 0 6 (50) 0
+Anorexiab 1 0 3 0 4 (33) 0
+Thrombocytopenia 1 0 2 0 3 (25) 0
+Epistaxis 0 0 3 0 3 (25) 0
+Oropharyngeal pain 0 0 3 0 3 (25) 0
+Stomatitis 0 0 2 0 2 (17) 0
+Rhinitis 0 0 2 0 2 (17) 0
+Taste changec 1 0 1 0 2 (17) 0
+Dry skin 0 0 2 0 2 (17) 0
+Weight lossd 1 0 1 0 2 (17) 0
+Nasal inflammation 0 0 2 0 2 (17) 0
+A/C afatinib plus carboplatin, AE adverse event, AUC6 area under the concentration–time curve of 6 mg/
+mL min
++ Grouped term (rash included reported preferred terms of folliculitis, cellulitis, dermatitis acneiform and
+rash; nausea/vomiting included reported preferred terms of nausea and vomiting)
+a There were no treatment-related grade 4 or 5 events
+b Preferred term: decreased appetite
+c Preferred term: dysgeusia
+d Preferred term: weight decreased
+NSCLC in the A/C/P combination arm was maintained for and erlotinib, compared to chemotherapy alone [16]. In
+10.5 months. contrast to the TALENT and TRIBUTE studies, the phase
+Several randomized trials have evaluated the poten- III FAST-ACT2 trial, conducted primarily in Asia, dem-
+tial clinical activity of the combination of EGFR-targeted onstrated significantly improved PFS (HR 0.57, 95% CI
+agents with chemotherapy in advanced cancers, particularly 0.47–0.69; p < 0.0001) and OS (HR 0.79, 95% CI 0.64–0.99;
+NSCLC. Phase III studies in the first-line NSCLC setting p = 0.0420) with first-line chemotherapy (gemcitabine and
+in populations unselected for EGFR mutation have shown platinum; Days 1 and 8 of a 4-week cycle) plus erlotinib
+varying degrees of clinical efficacy for EGFR-targeted (Days 15–28 of each cycle) over chemotherapy alone in 451
+agent–chemotherapy combinations versus chemotherapy treatment-naïve patients with NSCLC. Benefit was primar-
+alone [15‒17]. In the phase III TRIBUTE trial, 1059 ily shown in those with EGFR mutation-positive disease;
+treatment-naïve patients with NSCLC were randomized to however, tumor samples were available in only 53% of the
+first-line carboplatin and paclitaxel combined with either intent-to-treat population [17].
+erlotinib or placebo. No survival benefit was observed with The combination of EGFR-targeted agents with chem-
+erlotinib plus chemotherapy versus placebo plus chemother- otherapy has also been explored in the relapsed/refrac-
+apy in the overall trial population; however, a substantial tory NSCLC setting. A randomized, phase II study in 165
+prolongation of survival was observed in the ‘never smoked’ patients with non-squamous NSCLC previously treated with
+subgroup (22.5 vs 10.1 months; hazard ratio [HR] 0.49, 95% one prior platinum-based chemotherapy regimen showed
+confidence interval [CI] 0.28–0.85; p = 0.01) [15]. Similarly, that pemetrexed plus erlotinib significantly improved PFS,
+in the phase III TALENT trial, 1172 treatment-naïve patients OS and time to treatment failure versus pemetrexed alone;
+with NSCLC were randomized to first-line gemcitabine however, the combination was associated with an increase
+and cisplatin combined with either erlotinib or placebo, in grade 3/4 AEs [18]. We have previously reported on the
+with no survival benefit observed in the erlotinib group. In combination of afatinib and weekly paclitaxel in patients
+a small subgroup of patients who ‘never smoked’, overall with advanced solid tumors [5]. This regimen has since
+survival (OS) and PFS were increased with chemotherapy been assessed in a phase III trial of patients with relapsed/
+1 3
+
+--- Page 8 ---
+7 64 Cancer Chemotherapy and Pharmacology (2018) 82:757–766
+Table 4 Treatment-related AEs in at least 10% of total patients in the A/C/P arm
+AEs A (20 mg) + C A (20 mg) + C A (40 mg) + C A (30 mg) + C Total (n = 26), n (%)
+(AUC6) + P (175 mg/ (AUC5) + P (175 mg/ (AUC5) + P (175 mg/ (AUC5) + P (175 mg/
+m2) (n = 7), n m2) (n = 6), n m2) (n = 5), n m2) (n = 8), n
+All grades Grade 3a All grades Grade 3a All grades Grade 3a All grades Grade 3a All grades Grade 3a
+Any AE 7 3 6 2 5 4 7 3 25 (96) 12 (46)
+Diarrhea 6 1 6 0 5 0 6 0 23 (88) 1 (4)
+Rash+ 2 0 5 0 5 0 7 0 19 (73) 0
+Fatigue 5 1 4 0 5 2 4 0 18 (69) 3 (12)
+Mucositisb 3 1 2 0 3 1 4 2 12 (46) 4 (15)
+Anorexiac 4 0 1 0 3 0 2 0 10 (38) 0
+Dry skin 2 0 2 0 1 0 3 0 8 (31) 0
+Nausea/vomiting+ 4 0 0 0 1 0 3 0 8 (31) 0
+Stomatitis 0 0 3 1 3 0 1 1 7 (27) 2 (8)
+Thrombocytopenia 2 2 2 2 1 0 1 0 6 (23) 4 (15)
+Peripheral neuropathy 1 0 2 0 0 0 3 0 6 (23) 0
+Abdominal pain 4 0 0 0 1 0 1 0 6 (23) 0
+Neutropenia 1 1 3 2 1 1 0 0 5 (19) 4 (15)
+Epistaxis 2 0 1 0 1 0 1 0 5 (19) 0
+Nasal inflammation 0 0 2 0 3 0 0 0 5 (19) 0
+Alopecia 1 0 1 0 2 0 1 0 5 (19) 0
+Arthralgia 1 0 1 0 1 0 2 0 5 (19) 0
+Taste changed 1 0 0 0 1 0 2 0 4 (15) 0
+Constipation 1 0 1 0 1 0 1 0 4 (15) 0
+Dyspepsia 2 0 0 0 0 0 2 0 4 (15) 0
+Myalgia 1 0 3 0 0 0 0 0 4 (15) 0
+Palmar–plantar 0 0 1 0 0 0 2 0 3 (12) 0
+erythrodysesthesia
+syndrome
+A/C/P afatinib plus carboplatin plus paclitaxel, AE adverse event, AUC5 area under the concentration–time curve of 5 mg/mL min, AUC6 area
+under the concentration–time curve of 6 mg/mL min
++ Grouped term (rash included reported preferred terms of rash, rash erythematous, rash pustular, dermatitis acneiform, skin fissures, blister and
+dermatitis; nausea/vomiting included reported preferred terms of nausea and vomiting)
+a There were no treatment-related grade 4 or 5 events
+b Preferred term: mucosal inflammation
+c Preferred term: decreased appetite
+d Preferred term: dysgeusia
+refractory NSCLC following ≥ 1 line of chemotherapy, a suggestion of improved outcomes in patients lacking the
+and whose tumors had progressed after disease control T790M resistance mutation [21].
+of ≥ 12 weeks with erlotinib or gefitinib, and thereafter, In the current study, the safety and clinical activity of
+afatinib. The combination of afatinib with paclitaxel sig- two new afatinib combinations in patients with advanced
+nificantly improved tumor response and PFS compared with solid tumors are presented. The RP2Ds of oral afatinib in
+paclitaxel alone in patients who had EGFR tyrosine kinase these new combinations were defined as 40 mg/day with
+inhibitor (TKI)-resistant (including afatinib) disease [19]. carboplatin AUC6, and 20 mg/day with carboplatin AUC5
+Conversely, in the phase III IMPRESS study, gefitinib plus and paclitaxel 175 mg/m2. These regimens may be of poten-
+cisplatin and pemetrexed in patients with EGFR mutation- tial interest for further study, for example, in patients with
+positive advanced NSCLC and acquired resistance to first- squamous NSCLC; in selected populations with EGFR
+line gefitinib did not prolong PFS in the overall population mutations; and, particularly for the combination of afatinib
+versus cisplatin plus pemetrexed [20]. Indeed, OS was infe- and carboplatin, in elderly populations and patients with an
+rior in the experimental arm of this trial, although there was ECOG PS of ≥ 2.
+1 3
+
+--- Page 9 ---
+Cancer Chemotherapy and Pharmacology (2018) 82:757–766 765
+Table 5 Pharmacokinetic
+A (40 mg) + C (AUC6) A (20 mg) + C (AUC5) + P (175 mg/
+parameters for carboplatin
+m2)
+(measured as total platinum)
+and paclitaxel in the presence Cycle 1 (− afatinib) Cycle 2 (+ afatinib) Cycle 1 (− afatinib) Cycle 2
+and absence of afatinib at the (+ afatinib)
+RP2D
+gMean gCV, % gMean gCV, % gMean gCV, % gMean gCV, %
+Afatinib
+AUC Ʈ, ss , ng h/mL – n = 3a – n = 7c
+465 91.8 326 60.4
+C ng/mL – n = 3 – n = 7
+max,ss
+44.2 9.76 18.3 52.6
+Total platinum
+AUC , ng h/mL n = 9 n = 6a n = 5b n = 8c
+0 − 24
+76,800 16.9 75,700 23.6 69,700 12.4 65,400 20.9
+C . ng/mL n = 9 n = 6 n = 5 n = 8
+max
+21,100 31.0 19,600 26.8 16,200 22.9 17,800 15.8
+Paclitaxel
+AUC ng⋅h/mL – – n = 5b n = 8c
+0 − 23,
+10,400 21.8 10,700 32.2
+C ng/mL – – n = 5 n = 8
+max,
+3710 23.4 3620 50.9
+A afatinib, AE adverse event, AUC area under the concentration–time curve of the analyte in plasma
+0−23
+over 0–23 h, AUC area under the concentration–time curve of the analyte in plasma over 0–24 h, AUC
+0−24
+Ʈ,ss area under the concentration–time curve of the analyte in plasma over a dosing interval, tau, at steady
+state, AUC5 area under the concentration–time curve of 5 mg/mL min, AUC6 area under the concentra-
+tion–time curve of 6 mg/mL min, C carboplatin, C maximum measured concentration of the analyte
+max
+in plasma, C C at steady state, gCV geometric coefficient of variation, gMean geometric mean, P
+max,ss max
+paclitaxel, PK pharmacokinetic, RP2D recommended phase II dose
+a Some patients who entered into the A (40 mg) + C (AUC6) cohort were not included in PK analyses in
+Cycle 2 due to AEs leading to treatment discontinuation, insufficient data availability for accurate PK eval-
+uation or time violations in PK sampling
+b One patient who entered into the A (20 mg) + C (AUC5) + P (175 mg/m2) cohort was not included in PK
+analyses in Cycle 1
+c Additional patients who received A (30 mg) + C (AUC5) + P (175 mg/m2) in Cycle 1 were subsequently
+moved to the A (20 mg) + C (AUC5) + P (175 mg/m2) dose cohort for Cycle 2 and were included in the PK
+analyses
+Acknowledgements This study was supported financially by TAY, MU-F, KP, XJ, SW, JB, JS. Final approval of manuscript: MO,
+Boehringer Ingelheim, as well as by the UK Department of Health via DS, JB, KT, TAY, MU-F, KP, XJ, SW, JB, JS.
+the National Institute for Health Research (NIHR) Biomedical Research
+Centre (BRC) award to Guy’s & St Thomas’ NHS Foundation Trust Compliance with ethical standards
+in partnership with King’s College London and King’s College Hos-
+pital NHS Foundation Trust (and NIHR Clinical Research Facility),
+and to The Institute of Cancer Research and Royal Marsden Hospital Conflict of interest J. Bhosle has received non-financial support from
+NHS Foundation Trust. King’s College London and the Royal Mars- Boehringer Ingehleim. J. de Bono has received grants, personal fees
+den hold Experimental Cancer Medicine Centre grants. Katy Pelling, and non-financial support from AstraZeneca, Genentech and Merck
+an employee of Boehringer Ingelheim International GmbH during the Sharp & Dohme; personal fees from Pfizer Oncology, Janssen On-
+time of manuscript development, provided substantial contributions cology and Merck Serono; and grants and personal fees from Sanofi
+towards data assembly, analysis and interpretation, and manuscript Aventis and GlaxoSmithKline. J. Spicer reports institutional receipt
+writing. Medical writing assistance, funded by Boehringer Ingelheim, of honoraria from Boehringer Ingelheim. M. Uttenreuther-Fischer, K.
+was provided by Laura Winton of GeoMed, an Ashfield Company, part Pemberton, X. Jin and S. Wiebe are employees of Boehringer Ingel-
+of UDG healthcare plc. heim International GmbH. All other authors report no potential con-
+flicts of interest.
+Author contributions Conception and design: MU-F, JB, JS. Collec- Ethical approval All procedures performed in studies involving human
+tion and assembly of data: MO, DS, JB, KT, MU-F, KP, JB, JS. Data
+participants were in accordance with the ethical standards of the insti-
+analysis and interpretation: TAY, MU-F, XJ, SW, JB, JS. Provision of
+tutional and/or national research committee and with the 1964 Helsinki
+study material or patients: JB. Manuscript writing: MO, DS, JB, KT,
+declaration and its later amendments or comparable ethical standards.
+1 3
+
+--- Page 10 ---
+7 66 Cancer Chemotherapy and Pharmacology (2018) 82:757–766
+Informed consent Informed consent was obtained from all individual Society of Clinical Oncology clinical practice guideline. J Clin
+participants included in the study. Oncol 30:1553–1561
+10. European Medicines Agency (2013) Giotrif 20 mg film-coated
+tablets: Summary of Product Characteristics, Annex 1. http://
+Open Access This article is distributed under the terms of the Crea- www.ema.europa .eu/docs/en_GB/docume nt_librar y/EPAR_-_
+tive Commons Attribution 4.0 International License (http://creati veco Produc t_Inform ation /human/ 00228. 0/WC5001 52392 pdf
+mmons. org/licens es/by/4.0/), which permits unrestricted use, distribu- 11. Food and Drug Administration (2016) Gilotrif prescribing infor-
+tion, and reproduction in any medium, provided you give appropriate mation. http://www.access data. fdagov /drugsa tfda_ docs/label
+credit to the original author(s) and the source, provide a link to the /2016/201292 s009l blpdf
+Creative Commons license, and indicate if changes were made. 12. EMC (2014) Carboplatin 10 mg/ml concentrate for solution for
+infusion. https: //www.medici nes.org.uk/emc/medici ne/25716
+13. Wind S, Schmid M, Erhardt J et al (2013) Pharmacokinetics of
+References afatinib, a selective irreversible ErbB family blocker, in patients
+with advanced solid tumours. Clin Pharmacokinet 52:1101–1109
+14. Murakami H, Tamura T, Takahashi T et al (2012) Phase I study of
+1. Solca F, Dahl G, Zoephel A et al (2012) Target binding properties continuous afatinib (BIBW 2992) in patients with advanced non-
+and cellular activity of afatinib (BIBW 2992), an irreversible ErbB small cell lung cancer after prior chemotherapy/erlotinib/gefitinib
+family blocker. J Pharmacol Exp Ther 343:342–350 (LUX-Lung 4). Cancer Chemother Pharmacol 69:891–899
+2. Sequist LV, Yang JC, Yamamoto N et al (2013) Phase III study 15. Herbst RS, Prager D, Hermann R et al (2005) TRIBUTE: a phase
+of afatinib or cisplatin plus pemetrexed in patients with meta- III trial of erlotinib hydrochloride (OSI-774) combined with car-
+static lung adenocarcinoma with EGFR mutations. J Clin Oncol boplatin and paclitaxel chemotherapy in advanced non-small-cell
+31:3327–3334 lung cancer. J Clin Oncol 23:5892–5899
+3. Wu YL, Zhou C, Hu CP et al (2014) Afatinib versus cisplatin 16. Gatzemeier U, Pluzanska A, Szczesna A et al (2007) Phase III
+plus gemcitabine for first-line treatment of Asian patients with study of erlotinib in combination with cisplatin and gemcitabine
+advanced non-small-cell lung cancer harbouring EGFR mutations in advanced non-small-cell lung cancer: the Tarceva Lung Cancer
+(LUX-Lung 6): an open-label, randomised phase 3 trial. Lancet Investigation Trial. J Clin Oncol 25:1545–1552
+Oncol 15:213–222 17. Wu YL, Lee JS, Thongprasert S et al (2013) Intercalated combi-
+4. Soria JC, Felip E, Cobo M et al (2015) Afatinib versus erlotinib nation of chemotherapy and erlotinib for patients with advanced
+as second-line treatment of patients with advanced squamous cell stage non-small-cell lung cancer (FASTACT-2): a randomised,
+carcinoma of the lung (LUX-Lung 8): an open-label randomised double-blind trial. Lancet Oncol 14:777–786
+controlled phase 3 trial. Lancet Oncol 16:897–907 18. Dittrich C, Papai-Szekely Z, Vinolas N et al (2014) A randomised
+5. Suder A, Ang JE, Kyle F et al (2015) A phase I study of daily phase II study of pemetrexed versus pemetrexed + erlotinib as
+afatinib, an irreversible ErbB family blocker, in combination with second-line treatment for locally advanced or metastatic non-
+weekly paclitaxel in patients with advanced solid tumours. Eur J squamous non-small cell lung cancer. Eur J Cancer 50:1571–1580
+Cancer 51:2275–2284 19. Schuler M, Yang JC, Park K et al (2016) Afatinib beyond progres-
+6. Solca F, Baum A, Himmelsbach F et al (2006) Efficacy of BIBW sion in patients with non-small-cell lung cancer following chem-
+2992, an irreversible dual EGFR/HER2 receptor tyrosine kinase otherapy, erlotinib/gefitinib and afatinib: phase III randomized
+inhibitor, in combination with cytotoxic agents. Eur J Cancer LUX-Lung 5 trial. Ann Oncol 27:417–423
+Suppl 4:172 20. Soria JC, Wu YL, Nakagawa K et al (2015) Gefitinib plus chemo-
+7. Spicer J, Irshad S, Ang JE et al (2017) A phase I study of afatinib therapy versus placebo plus chemotherapy in EGFR-mutation-
+combined with paclitaxel and bevacizumab in patients with positive non-small-cell lung cancer after progression on first-line
+advanced solid tumors. Cancer Chemother Pharmacol 79:17–27 gefitinib (IMPRESS): a phase 3 randomised trial. Lancet Oncol
+8. European Medicines Agency (2015) Abraxane—European Public 16:990–998
+Assessment Report (summary). http://www.ema.europa .eu/docs/ 21. Soria J-C, Kim S-W, Wu Y-L et al (Gefitinib/Chemotherapy vs
+en_GB/docume nt_librar y/EPAR_-_Summar y_for_the_public / Chemotherapy in EGFR Mutation-Positive NSCLC Resistant to
+human/ 000778 /WC5000 20431 .pdf First-Line Gefitinib: IMPRESS T790M Subgroup Analysis. In:
+9. Griggs JJ, Mangu PB, Anderson H et al (2012) Appropriate chem- 16th World Conference on Lung Cancer, Denver, CO, September
+otherapy dosing for obese adult patients with cancer: American 6–9 2015) Oral presentation 17.08
+1 3

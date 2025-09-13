@@ -1,0 +1,458 @@
+Source: 29843755.pdf
+Extracted on: Sat Sep 13 00:03:13 PDT 2025
+==================================================
+
+--- Page 1 ---
+Abdel-Wahabetal.JournalofHematology&Oncology (2018) 11:71
+https://doi.org/10.1186/s13045-018-0616-2
+RESEARCH Open Access
+Randomized, phase I/II study of
+gemcitabine plus IGF-1R antagonist
+(MK-0646) versus gemcitabine plus
+erlotinib with and without MK-0646
+for advanced pancreatic adenocarcinoma
+Reham Abdel-Wahab1,4, Gauri R. Varadhachary1, Priya R. Bhosale2, Xuemei Wang3, David R. Fogelman1,
+Rachna T. Shroff1, Michael J. Overman1, Robert A. Wolff1 and Milind Javle1*
+Abstract
+Background: Binding of insulin-like growth factor-I(IGF-1)to its receptor (IGF-1R) initiates downstream signals that
+activatePI3K/Akt/mTORandMEK/Erkpathways,whichstimulatecancercellproliferationandinducedrugresistance.
+CrosstalkbetweenIGF-1Randepidermalgrowthfactorreceptor(EGFR)mediatesresistancetoanti-EGFRagents.We
+studiedsafety,tolerability,andoutcomesofMK-0646,IGF-1monoclonalantibody,incombinationwithgemcitabine
+(G)±erlotinib(E)inmetastaticpancreaticcancer.
+Methods:OurstudyincludedaphaseIdoseescalationandphaseIIrandomizationandexpansioncohorts.A3+3
+doseescalationprotocolwasusedtodetermineMK-0646maximumtolerabledose(MTD)incombinationwithG±E
+standarddoses.ForphaseII,patientswererandomizedtoarmA(G+MK),armB(G+MK+E),orarmC(G+E).
+Primaryendpointwasprogression-freesurvival(PFS).Secondaryendpointswereoverallsurvival(OS),diseasecontrol
+rate,toxicity,andcorrelationbetweenOSandIGF-1inpatientstreatedwithMK-0646.
+Results:MK-0646MTDwas10mg/kgincombinationwithGand5mg/kgincombinationwithG+E.Inrandomization
+cohort,15patientsweretreatedineacharm.Diseasecontrolrateswere50,60,and40%respectively.PFSwasnot
+differentbetweenthethreearms.OSwassignificantlydifferentbetweenarmA(10.4months)andC(5.7months)
+(P=0.02).However,additionoferlotinibinarmByieldednoOSbenefitcomparedtoarmA(P=0.6).Plasmaand
+tissueIGF-1levelsdidnotcorrelatewithOS(P=0.64,0.87).Grade3–4toxicityduringphaseIIcohortswereneutropenia
+(10/armA,14/armB,5/armC),leukopenia(5/A,5/B,7/C),thrombocytopenia(8/A,9/B,2/C),hyponatremia(1/A,3/B),and
+hyperglycemia(8/A,1/B).
+Conclusions:MK-0646wastolerableincombinationwithGandassociatedwithimprovementinOSbutnotPFSas
+comparedwithG+E.TissueandserumIGF-1didnotcorrelatewithclinicaloutcome.
+Trialregistration:ThistrialisregisteredinClinicalTrial.govundertheIdentifierNCT00769483andregistrationdatewas
+October9,2008.
+Keywords:MK-0646,Gemcitabine,Erlotinib,Advancedpancreaticadenocarcinoma
+*Correspondence:mjavle@mdanderson.org
+1DepartmentofGastrointestinalMedicalOncology,TheUniversityofTexas
+MDAndersonCancerCenter,1515HolcombeBlvd,Unit426,Houston,TX
+77030,USA
+Fulllistofauthorinformationisavailableattheendofthearticle
+©TheAuthor(s).2018OpenAccessThisarticleisdistributedunderthetermsoftheCreativeCommonsAttribution4.0
+InternationalLicense(http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedyougiveappropriatecredittotheoriginalauthor(s)andthesource,providealinkto
+theCreativeCommonslicense,andindicateifchangesweremade.TheCreativeCommonsPublicDomainDedicationwaiver
+(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,unlessotherwisestated.
+
+--- Page 2 ---
+Abdel-Wahabetal.JournalofHematology&Oncology (2018) 11:71 Page2of9
+Background Methods
+Pancreatic cancer (PCA) is an aggressive disease with < Studydesign
+1-year median overall survival (OS). Gemcitabine This study was an open-label single-institution three-
+provided a survival advantage over 5-fluorouracil for part clinical trial comprising a phase I dose escalation
+advanced disease stage [1]. Combination regimens cohort, a phase II randomization cohort, and a phase II
+including gemcitabine/nab-paclitaxel or 5-fluorouracil/ expansioncohort.
+leucovorin/irinotecan/oxaliplatin (FOLFIRINOX) result In phase I, a 3+3 dose escalation design was used to
+in improved survival over single-agent gemcitabine. The determine the MK-0646 maximum tolerable dose (MTD)
+median overall survival (OS) and progression-free sur- in combination with G (gemcitabine) (arm A) or G + E
+vival (PFS) were 8.5 and 5.5 months in the gemcitabine/ (erlotinib) (arm B). Gemcitabine was administered at
+nab-paclitaxel group as compared to 6.7 and 3.7 months 1000 mg/m2 over 100 min on days 1, 8, and 15 of a 28-
+with single-agent gemcitabine group. Likewise, the me- day cycle, while erlotinib was administered orally at
+dian overall survival (OS) and progression-free survival 100mgdaily.MK-0646wasadministeredintravenouslyat
+(PFS) were 11.1 and 6.4 months in the FOLFIRINOX twodoselevels:5mg/kg(levelI)or10mg/kg(levelII)on
+group as compared to 6.8 and 3.3 months with days1,8,15,and22.TheMTD(i.e.,recommendedphase
+gemcitabine alone [2, 3]. However, the course of aggres- II dose (RP2D)) was defined as the highest dose that
+sive disease is unlikely to be altered by cytotoxic drugs induced a dose-limiting toxicity (DLT) in <2 patients
+alone, and addition of molecularly targeted agents is the among at least six patients. Patient enrollment in this
+focus ofcurrentinvestigations. phasewassequential,notrandomized(Fig.1a).
+Previous studies showed that epidermal growth factor In phase II, patients were randomized into three arms:
+receptor (EGFR) aberrations are common in PCA and A (G + MK), B (G + MK + E), and C (G + E), where the
+represent therapeutic targets [4]. Furthermore, the RP2D from phase I was used for arms A and B. The
+addition of erlotinib to gemcitabine resulted in a modest primary endpoint was progression-free survival (PFS). A
+survival improvement over single-agent gemcitabine [5]. Bayesian adaptive randomization design was used where
+However, the association between clinical response to the first 45 patients were equally randomized among the
+erlotinib andthe presence ofEGFR and KRAS mutations three arms. As the trial progressed and data accrued, the
+remains to be conclusively proven, and studies have randomization was planned in favor of the treatment
+yielded inconsistent results [6–9] However, tumors that arm with better PFS results.If at anypoint, the posterior
+respond to EGFR inhibitors may develop resistance, probability of a given arm being better than other two
+either due to mutant KRAS, development of secondary arms was less than 10%, that arm was suspended. A
+EGFR mutations, c-met amplification, or cross talk minimum of 45 and a maximum of 78 patients were
+between EGFR and insulin-like growth factor-I receptor planned for enrollment.
+(IGF-1R)pathways [10]. In the expansion phase, additional patients were
+Binding of IGF-1 to its receptor (IGF-1R) initiates enrolled to receive G + MK for correlative studies.
+downstream signals that activate PI3K/Akt/mTOR and Plasma and tissue levels of IGF-1 were measured for
+MEK/Erk pathways, which stimulate cellular prolifera- phase II patients to assess the correlation between IGF-1
+tion and induce drug resistance [11]. Inhibition of IGF- expression and OS. This clinical trial (NCT00769483)
+1R signaling enhanced the antitumor effect of gemcita- was approved by the Institutional Review Board, and all
+bine and cisplatin in PCA xenografts and ovarian cancer study participantssignedaninformedconsent.
+celllines,respectively[12,13].Furthermore,theaddition
+of h7C10, anti-IGF-1R monoclonal antibody (mAB), to
+cetuximab, EGFR mAB, in A549 non-small cell lung Patientselection
+cancer (NSCLC) xenograft models of wild-type EGFR Theeligibilitycriteriaincludedtreatment naïvemetastatic
+and activated RAS mutation led to growth inhibition, PCA; age >18 years; Eastern Cooperative Oncology
+unlike cetuximab alone [14]. Group(ECOG)≤1;adequateorganfunction;hadmeasur-
+MK-0646, humanized IGF-1 mAB, binds to IGF-1R. ablediseaseasdefinedbytheResponseEvaluationCriteria
+This binding inhibits IGF-1R autophosphorylation and inSolidTumor(RECIST)version1.1;≥6monthselapsed
+downstream signaling activation of PI3K/Akt/mTOR since completion of previous therapy; and patients who
+and MEK/Erk pathways, leading to inhibition of cellular enrolledinphaseIIcohortswererequiredtohadbiopsies
+proliferation [15]. Our study was planned before the forcorrelativestudies.
+clinical trials of gemcitabine/nab-paclitaxel or FOLFIRI- We excluded patients who had prior systemic therapy,
+NOX. Our purpose was to determine safety, tolerability, had brain metastases, were pregnant or nursing, had un-
+and outcomes of MK-0646 with gemcitabine ± erlotinib controlled illness that would limit study compliance, and
+inadvanced PCA. had another cancer, excepttreated basalor squamouscell
+
+--- Page 3 ---
+Abdel-Wahabetal.JournalofHematology&Oncology (2018) 11:71 Page3of9
+Fig.1Studydesignschemes.aPhaseIdoseescalationtrialscheme.bPhaseIIrandomizationtrialscheme
+skin carcinoma or cervical carcinoma in situ, or if patient Adverse Eventsv3.0. Each patientwas evaluated for DLT
+hadbeendisease-freefor>2years. after the first cycle; DLT was defined as grade 4 (G4)
+neutropenia for ≥7 days, febrile neutropenia (≥G3
+Safetyandefficacyassessments neutropenia of any duration with fever ≥38.5 °C), G4
+All patients underwent a complete medical evaluation, thrombocytopenia, or ≥G3 non-hematological toxicity
+with assessment of ECOG status, adverse events, and excluding hyperglycemia, skin rash, nausea, vomiting, or
+hematologicalandorganfunctionlaboratoryanalysisona diarrhea, unless these occurred despite maximal prophy-
+weeklybasisduringthefirst2cyclesandonceeverycycle laxis or treatment. For all G3/4 TEAE, treatment was
+thereafter unless the patient experienced treatment- withhelduntilthepatient’ssymptomsresolvedorreturned
+emergentadverseevents(TEAE). Radiological assessment to G1. Any dose interruption for >14 days because of
+of tumor response according to RECIST version 1.1 TEAEwasconsideredDLT.
+criteriawasperformedevery2cycles.
+PlasmaandtissueIGF-1assay
+Dose-limitingtoxicity Blood samples were collected, anticoagulated, and centri-
+All toxic effects were graded according to the National fuged;then,IGF-1wasmeasuredinplasmabyQuantikine
+Cancer Institute’s Common Terminology Criteria for Human IGF-1 enzyme-linked immunosorbent assay Kit.
+
+--- Page 4 ---
+Abdel-Wahabetal.JournalofHematology&Oncology (2018) 11:71 Page4of9
+The expression of IGF-1 in tissue was assessed by using Table1Patientsdemographicsandclinico-pathological
+reverse transcription reaction. Pre-amplification tech- characteristicsforphaseIandIIenrolledpancreaticcancer
+niqueswereusedtoamplifytargetedcDNApriortoquan-
+patients(N=75)
+titative polymerase chain reaction analysis. The generated Enrolledpatients(N=75)(%)
+datawerethenanalyzedusingLightCycler®480software.
+Agegroup
+Median(range) 62.8(44–83)
+Statisticalanalysis
+<60 27(36%)
+Patient characteristics were summarized using median
+≥60 48(64%)
+(range) for continuous variables and frequency (percent-
+age) for categorical variables. The probabilities of overall Sex
+survival (OS) and progression-free survival (PFS) were Maletofemaleratio 1.7:1
+estimated using the Kaplan-Meier method. OS was Female 28(37.3%)
+defined as the time interval between start of treatment
+Male 47(62.7%)
+and death date. Patients who were alive were censored
+Race
+at the last follow-up date. PFS was defined as the time
+White 61(81.3%)
+interval between start of treatment and date of disease
+progression or death. Patients who were alive and Black 4(5.3%)
+without disease progression were censored at the last Hispanic 4(5.3%)
+follow-up date. Log-rank tests were used to assess the Asian 4(5.3%)
+differences in OS and PFS between treatment arms. All
+Others 2(2.7%)
+statistical analyses were conducted by using SAS version
+Tumordifferentiation
+9.2 (SAS Institute Inc.) and S plus software version 8
+(TIBCO Software, Inc). P value <0.05 was considered Moderate 22(29.3%)
+significant. Poor 23(30.7%)
+Unknown 30(40%)
+Results ECOG
+Studyparticipants 0 8(10.7%)
+Atotalof81patientswereenrolledoverthethreecohorts
+1 67(89.3%)
+betweenDecember2008andOctober2013.InphaseI,22
+Tumorlocation
+patients were enrolled but only 21 were treated, as one
+patient withdrew consent and was never treated with the Head 22(29.3%)
+studydrug.ForphaseIIrandomizationcohort,50patients Body 32(42.7%)
+were enrolled and 45 patients were evaluable for evalu- Tail 19(25.3%)
+ation. Of the 5 non-evaluable patients, 1 patient did not
+Unknown 2(2.7%)
+passthescreenandwasnevertreated,1patientwithdrew
+Siteofmetastasis
+consent after being randomized to G + E, and 3 patients
+Liver 61(75.3%)
+were not randomized or treated. The remaining 45
+patients were equally randomized among the three arms. Lung 10(12.3%)
+An additional 9 patients were enrolled in the expansion Peritoneal 15(18.5%)
+cohortandweretreatedwithG+MK.Overall,75patients Others 4(5.3%)
+weretreatedinphaseIandII.Patients’demographicsand
+CA19-9(U/ml)
+clinicalcharacteristicsaresummarizedinTable1.
+Median(range) 58,159.1(0.9–58,160)
+≤35 12(16%)
+PhaseIdoseescalation
+The first 3 patients were treated with G + MK 5 mg/kg >35 63(84%)
+(arm A, level I) and completed the first cycle without Previoustreatment
+DLT. The next 3 patients were treated with the same Denovo 69(92%)
+regimen plus erlotinib (arm B, level I) without DLT. The
+Surgery 4(4.9%)
+next 3 patients were treated with G + MK 10 mg/kg
+Chemotherapy 4(4.9%)
+(arm A, level II) without DLT. However, when erlotinib
+was added to this regimen in the next 3 patients, 1/3
+developed DLT in the form of G3 febrile neutropenia none of these 3 additional patients in arm A, level II,
+(arm B, level II). An additional 3 patients were enrolled developed DLT, 1/3 patients enrolled in arm B, level II,
+inarmA,levelII,andanother3inarmB,levelII.While developed DLT that required treatment interruption for
+
+--- Page 5 ---
+Abdel-Wahabetal.JournalofHematology&Oncology (2018) 11:71 Page5of9
+>14 days. Therefore, an additional 3 patients were en- phaseIand15fromphaseII)withG+MK+E5mg/kg.
+rolled under arm B,levelI, without DLT. Thus, MK-0646 The median number of administered cycles was 2 (range
+10 mg/kg was declared to be the MTD in combination 1–12)forarmAand2(range1–23)forarmB.Responses
+with gemcitabine and 5 mg/kg the MTD in combination totreatment forthese patients aresummarized inFig.2b.
+withG+E(Fig.1b). The estimated median PFS for phase I and phase II
+patients combined was 2.1 months (95% CI 1.8–7.2) for
+PhaseIIrandomizationandexpansioncohort arm A and 1.8 months (95% CI 1.8–5.1) for arm B. The
+The median number of cycles administered was 2 (range medianOSwas10.3months(95%CI8.0–14.3)forarmA
+1–11) in arm A, 2 (range 1–23) in arm B, and 2 (range and6.8months(95%CI4.8–14.9)forarmB(Fig.4a,b).
+1–7) in arm C. Treatment response was evaluated for all In terms of subsequent therapies administered after
+phase II patients except for 1 patient who was treated first-line G + M or G + E, Additional file 1 shows that
+with G+MK. TheresponsesaresummarizedinFig.2a. 53.3% of patients progressed on G + E received support-
+Among the 45 randomized patients, the estimated ive carealoneascomparedwith40%ofG+MKgroup.
+median PFS was 1.8 months (95% confidence interval
+[CI] 1.8–9.7) for armA, 1.8 months (95% CI 1.7–5.5)for
+arm B, and 1.9 months (95% CI 1.8–5.4) for arm C. The Treatmenttoxicityandtolerability
+difference between arms A and C was marginally signifi- Additionalfile 2summarizesthe reported G3/4 TEAEin
+cant (P=0.09), but the difference between arms A and B phase II cohorts. The most frequently reported grade 3
+was not significant (P=0.20; Fig. 3a). Furthermore, the toxicity in group A were hyperglycemia (33.3%),
+median OS was 10.4 months (95% CI 3.9–18.9) for arm thrombocytopenia (29.2%), leukopenia (20.8%),
+A, 7.1 months (95% CI 5.2–20.0) for arm B, and 5. lymphopenia (20.8%), neutropenia (16.7%), and elevated
+7 months (95% CI 4.0–9.5) for arm C. However, patients AST (12.5%); in group B, toxicities noted were
+treated with G + MK had a significantly longer OS than thrombocytopenia (53.3%), neutropenia (53.3%),
+patients treated with G + E(P=0.02).Addition of erloti- leukopenia (33.3%), fatigue (26.7%), elevated ALT (20%),
+nib to G + MK did not improve OS (P=0.60; Fig. 3b). hyponatremia (20%), and acne-like rash (13.3%); and in
+We also computed the posterior probability of each arm group C, they were neutropenia (33.3%), leukopenia (33.
+in terms of PFS, and the probability of G + E arm was 3%), anemia (13.3%), and fatigue (13.3%). Furthermore,
+below the pre-defined threshold of 0.10. We therefore 40%of patientstreatedingroupBdeveloped G4neutro-
+withheld patient enrollment in G + E arm and expanded penia, compared to 25% in arm A. Generally, 3 patients
+enrollmenttoadditional9patientsfor G+MKarm. in arm A and 4 patients in arm B developed a DLT, in
+During phase I and phase II combined, a total of 30 the form of G4 thrombocytopenia and G4 neutropenia
+patients (6 from phase I and 24 from phase II) were for ≥7 days. None of the patients developed febrile
+treated with G + MK 10 mg/kg and 21 patients (6 from neutropenia.
+Fig.2Treatmentresponsewithinthetreatmentarms.aTreatmentresponseratesbetweenpatientstreatedwithgemcitabine+MK-0646,gemcitabine+
+MK-0646+erlotinib,andgemcitabine+erlotinibaloneasapartofphaseIIrandomizationcohort.bTreatmentresponseratesforallpatientstreatedwith
+gemcitabine+MK-0646(10mg/kg)comparedwithgemcitabine+MK-0646(5mg/kg)+erlotinibasapartofphaseIandII(randomizationand
+expansion)cohorts.G,gemcitabine;M,MK-0646;E,erlotinib;PD,progressivedisease;PR,partialresponse;SD,stabledisease
+
+--- Page 6 ---
+Abdel-Wahabetal.JournalofHematology&Oncology (2018) 11:71 Page6of9
+Fig.3Kaplan-MeiercurvesforthethreearmsofthephaseIIrandomizationcohort.aKaplan-Meierprogression-freesurvivalcurvesbetweenthe
+threearmsofthephaseIIrandomizationcohort.bKaplan-MeieroverallsurvivalcurvesbetweenthethreearmsofthephaseIIrandomizationcohort.
+G,gemcitabine;M,MK-0646;E,erlotinib
+IGF-1asapredictivemarkerforMK-0646 Notably, G + MK was associated with acceptable toxicity
+Among phase II cohorts, 21 patients had available and longer OS than G + E in the phase II. Furthermore,
+plasma and 23 patients had available tissue to measure addition of erlotinib to G + MK did not improve OS and
+the level of IGF-1. Although the mean level of plasma PFS. The observed adverse events associated with MK-
+IGF-1washigher inpatientswith OS≥12months,there 0646 were generally tolerable, the most frequently re-
+was no significant correlation between plasma IGF-1 portedbeinghyperglycemiaandhematologicaltoxicities.
+level and OS (P=0.64). The same result was noted for The IGF pathway is regulated by two ligands (IGF-1
+the IGF-1 tissue expression (P=0.87). However, the lack and IGF-1I), two transmembrane receptors (IGF-1R and
+of significant effects could be due to the small sample of IGF-1IR), and up to ten IGF-binding proteins (IGFBPs).
+patientswith OS≥12months(Additional file3). Binding of IGF-1 and IGF-1I to their receptors results in
+auto-activation of tyrosine kinases and autophosphoryl-
+Discussion ation of tyrosines, including tyrosine 950 in the juxta-
+Based on our phase I dose escalation results, we deter- membrane, which can serve as the docking site for the
+mined that MK-0646 RP2D is 10 mg/kg in combination insulin receptor substrates (IRS) and SHC. IRS-I stimu-
+withgemcitabineand5mg/kgincombinationwithG+E. lates the PI3K/AKT/mTOR, Src, and SHC pathways.
+Fig.4Kaplan-Meiercurvesforallpatientstreatedwithgemcitabine+MK-0646comparedwithgemcitabine+MK-0646+erlotinibduringphase
+IandII(randomizationandexpansion)cohorts.aKaplan-Meierprogression-freesurvivalcurvesforpatientstreatedwithgemcitabine+MK-0646
+comparedwithgemcitabine+MK-0646+erlotinib.bKaplan-Meieroverallsurvivalcurvesforpatientstreatedwithgemcitabine+MK-0646compared
+withgemcitabine+MK-0646+erlotinib
+
+--- Page 7 ---
+Abdel-Wahabetal.JournalofHematology&Oncology (2018) 11:71 Page7of9
+Activation of the SHC pathway induces formation of the possible explanation forthis discordanceisthatagreater
+Grb-2/son of sevenless complex, which activates the p21 number of patients with G + M received second-line
+Ras and Raf/MEK/Erk pathways, leading to cellular pro- therapy as compared with G + E. More patients in the G
+liferation[16]. + E arm transitioned to supportive care or hospice due
+We demonstrated that IRS-specific small interfering todeteriorationinperformancestatus.
+RNA inhibited activation of PI3K/AKT/mTOR in These findings highlight the need to identify IGF-1R
+transfected PCA cells [17]. Therefore, investigating the mAB response predictive biomarkers. A significant
+IGF pathway incancer iscrucial.MK-0646, ahumanized correlation between circulating level of free IGF-1 and
+IGF-1 mAB, has been previously tested in several response to figitumumab was reported in patients with
+cancers [18–23]. To our knowledge, this is the first NSCLC [29]. Furthermore, high tissue expression of IGF-
+clinical trial to evaluate MK-0646 efficacy and safety in 1 was a surrogate biomarker for response to MK-0646
+PCApatients. [26]. Atzori et al. evaluated the safety and tolerability of
+The efficacy of IGF-1R inhibitors in the clinical setting MK-0646inpatientswithadvancedsolidtumorsexpress-
+is unproven. Although a few advanced solid tumors have ing IGF-1R and found that, although MK-0646 was well
+responded to IGF-1R inhibitors, the majority showed no tolerated, most tumors did not respond to treatment
+evidence of improvement. In a trial of the IGF-1R mAB despite their IGF-1R expression [22]. In our study, there
+[IMC-A12] ± cetuximab in metastatic colorectal wasnosignificantcorrelationbetweenIGF-1levelandOS
+carcinomas (MCRC), 1/41 patients had a partial tumor rate;however,thiscouldbeduetothelimitedsize.
+response (PR) with combined therapy, while no antitu- Our study has several limitations. First, it is a single
+mor activity was observed in the monotherapy arm [24]. institutional experience with a limited sample size in
+MK-0646 was tolerable in combination with cisplatin each treatment arm. Also, in our study we compared
+and etoposide in small cell lung cancer, but the clinical MK-0646withgemcitabine±erlotinib.Although,gemci-
+response was not meaningfully different from cisplatin tabine alone is currently used for advanced pancreatic
+and etoposide alone [23]. In contrast, 10/28 sarcoma cancer patients with ECOG PS of 2, at the current time,
+patients treated with figitumumab, another IGF-1R first-line regimens of choice for patients with good per-
+mAB, had stable disease (SD) or PR [25]. In our study, formance status include FOLFIRINOX and gemcitabine/
+addition of MK-0646 to G ± E yielded 53 and 36% SD nab-paclitaxel. Despite these limitations, we hypothesize
+rates, respectively, compared to 27% in patients treated that the combination of MK-0646 with the above
+with G+E. combination regimens may result in favorable outcomes,
+Preclinical studies showed a promising effect of MK- given its low toxicity and overall impact on survival
+0646 + cetuximab [14]. In a randomized phase II/III resulting from sequential therapies. Multicenter trials
+study evaluating the response to MK-0646 + cetuximab exploring MK-0646 with combination chemotherapy
++ irinotecan in MCRC, addition of MK-0646 did not regimens arewarranted.
+improve OS or tumor response [21]. The same treat-
+ment combination in a phase I clinical trial in Japanese Conclusion
+MCRC patients showed that the triple combination is Although addition of MK-0646 to gemcitabine resulted
+well tolerated [19]. A randomized phase II/III study was in an OS improvement and tolerable toxicities as com-
+initiated in the same population to evaluate safety, pared with gemcitabine plus erlotinib, a greater fraction
+tolerability, and effectiveness of this triple combination, of patients receiving gemcitabine + MK-0646 received
+but the trial was terminated at the first interim analysis second-line therapies as compared with gemcitabine and
+because the triple combination yielded significantly erlotinib. Future clinical trials are necessary to identify
+shorter OS and PFS [26]. Similarly, addition of cixutu- the impact of MK-0646 addition to gemcitabine/nab-
+mumab, humanized IGF-1R mAB, to G + E did not paclitaxelandFOLFIRINOX.
+improve PFS or OS compared with G + E alone in PCA
+[27]. These findings support our data wherein the Additional files
+addition of erlotinib did not result in any improvement
+in OS or PFS as compared with G + MK. In contrast, Additionalfile1:Tablesummaryofvariouspost-studytreatment
+the combinationofganitumab,humanizedIGF-1RmAB, approaches.(DOCX18kb)
+with gemcitabine was tolerable and associated with a Additionalfile2:Themostcommonlyreportedgrade3and4toxicity
+inpatientstreatedwithgemcitabine+MK-0646versusgemcitabine+
+trend in OS improvement compared to gemcitabine
+erlotinibwithandwithoutMK-0646.(DOCX21kb)
+aloneinPCA[28].Thiswasalsonotedinourstudywith
+Additionalfile3:Aboxplotflowtoidentifyvariationsininsulinlike
+G + MK. Although we have demonstrated that G + M growthfactor1expressioninplasmaandtissuebetweenpatientswith
+demonstrated an improved OS as compared with G + E, overallsurvivalrate≥12monthsversusthosewithshortsurvivaldefined
+as<12month.(TIF107kb)
+the PFS was not different between these arms. One
+
+--- Page 8 ---
+Abdel-Wahabetal.JournalofHematology&Oncology (2018) 11:71 Page8of9
+Abbreviations 3. VonHoffDD,ErvinT,ArenaFP,ChioreanEG,InfanteJ,MooreM,Seay
+DLT:Dose-limitingtoxicity;E:Erlotinib;ECOG:EasternCooperativeOncology T,TjulandinSA,MaWW, SalehMN,etal.Increasedsurvivalin
+Group;EGFR:Epidermalgrowthfactorreceptor;G:Gemcitabine;IGF- pancreaticcancerwithnab-paclitaxelplusgemcitabine.NEnglJMed.
+1R:Insulin-likegrowthfactor-1receptor;IGFBPs:Insulin-likegrowthfactor 2013;369:1691–703.
+bindingproteins;IRS:Insulinreceptorsubstrates;mAB:Monoclonalantibody; 4. Oliveira-CunhaM,NewmanWG,SiriwardenaAK.Epidermalgrowthfactor
+MCRC:Metastaticcolorectalcarcinomas;MTD:Maximumtolerabledose; receptorinpancreaticcancer.Cancers.2011;3:1513–26.
+NSCLC:Non-smallcelllungcancer;OS:Overallsurvival;PCA:Pancreatic 5. MooreMJ,GoldsteinD,HammJ,FigerA,HechtJR,GallingerS,AuHJ,
+cancer;PFS:Progression-freesurvival;PR:Partialresponse;RECIST:Response MurawaP,WaldeD,WolffRA,etal.Erlotinibplusgemcitabinecompared
+EvaluationCriteriainSolidTumor;RP2D:RecommendedphaseIIdose; withgemcitabinealoneinpatientswithadvancedpancreaticcancer:a
+SD:Stabledisease;TEAE:Treatment-emergentadverseevents phaseIIItrialoftheNationalCancerInstituteofCanadaClinicalTrialsGroup.
+JClinOncol.2007;25:1960–6.
+Acknowledgements 6. KimST,LimDH,JangK-T,LimT,LeeJ,ChoiY-L,JangH-L,YiJH,BaekKK,
+Wewouldliketothankallparticipatingpatientsandtheirfamilies.Editorial ParkSH,etal.ImpactofKRASmutationsonclinicaloutcomesinpancreatic
+assistancewasprovidedbyKathrynHalefromUTMDAndersonScientific cancerpatientstreatedwithfirst-linegemcitabine-basedchemotherapy.
+publicationdepartment. MolCancerTher.2011;10:1993–9.
+7. WangJP,WuC-Y,YehY-C,ShyrY-M,WuY-Y,KuoC-Y,HungY-P,ChenM-H,
+Funding LeeW-P,LuoJ-C,etal.Erlotinibiseffectiveinpancreaticcancerwith
+ThisclinicaltrialwassponsoredbyMerckSharp&DohmeCorp.andMD epidermalgrowthfactorreceptormutations:arandomized,open-label,
+AndersonCancerCenter. prospectivetrial.Oncotarget.2015;6:18162–73.
+8. daCunhaSG,DhaniN,TuD,ChinK,LudkovskiO,Kamel-ReidS,SquireJ,
+Availabilityofdataandmaterials ParulekarW,MooreMJ,TsaoMS.Molecularpredictorsofoutcomeina
+Thedatasetsgeneratedand/oranalyzedduringthecurrentstudyarenot phase3studyofgemcitabineanderlotinibtherapyinpatientswith
+publiclyavailableduetopatients’confidentialitybutareavailablefromthe advancedpancreaticcancer:NationalCancerInstituteofCanadaClinical
+correspondingauthoronreasonablerequest.
+TrialsGroupStudyPA.3.Cancer.2010;116:5599–607.
+9. BoeckS,JungA,LaubenderRP,NeumannJ,EggR,GoritschanC,Ormanns
+Authors’contributions S,HaasM,ModestDP,KirchnerT,HeinemannV.KRASmutationstatusis
+Dr.MJhadfullaccesstoallofthedatainthestudytakesresponsibilityfor notpredictiveforobjectiveresponsetoanti-EGFRtreatmentwitherlotinib
+theintegrityandtheaccuracyofthedataanalysis.MJcontributedtothe
+inpatientswithadvancedpancreaticcancer.JGastroenterol.2013;48:544–8.
+studyconceptanddesign.RA,GRV,DRF,RTS,MJO,RAW,andMJhelpedin 10. FallerBA,BurtnessB.Treatmentofpancreaticcancerwithepidermalgrowth
+theacquisitionofdata.RAandXWhelpedintheanalysisandinterpretation
+factorreceptor-targetedtherapy.Biologics.2009;3:419–28.
+ofdata.RA,GRV,PRB,XW,DRF,RTS,MJO,RAW,andMJhelpedindrafting 11. SteelmanLS,ChappellWH,AbramsSL, Kempf CR,LongJ,LaidlerP,
+themanuscript.RA,GRV,PRB,XW,DRF,RTS,MJO,RAW,andMJcontributed MijatovicS,Maksimovic-IvanicD,StivalaF,MazzarinoMC,etal.Rolesof
+tothecriticalrevisionofthemanuscriptforimportantintellectualcontent. theRaf/MEK/ERKandPI3K/PTEN/Akt/mTORpathwaysincontrolling
+RAandXWdidthestatisticalanalysis.MJobtainedfunding;provided growthandsensitivitytotherapy-implicationsforcancerandaging.
+administrative,technical,ormaterialsupport;andsupervisedthestudy.
+Aging(AlbanyNY).2011;3:192–222.
+Allauthorsreadandapprovedthefinalmanuscript. 12. TianX,HaoK,QinC,XieK,XieX,YangY.Insulin-likegrowthfactor1
+receptorpromotesthegrowthandchemoresistanceofpancreaticcancer.
+DigDisSci.2013;58:2705–12.
+Ethicsapprovalandconsenttoparticipate
+Thisclinicaltrial(NCT00769483)wasapprovedbytheMDAnderson 13. EcksteinN,Servan K,HildebrandtB,PölitzA,GvJ, Wolf-KümmethS,
+InstitutionalReviewBoard,andallstudyparticipantssignedaninformed NapierskiI, Hamacher A,KassackMU,BudcziesJ,etal.Hyperactivation
+consent. oftheinsulin-like growthfactorreceptorIsignalingpathwayisan
+essentialeventforcisplatin resistanceofovariancancer cells.Cancer
+Res.2009;69:2996–3003.
+Competinginterests
+14. GoetschL,GonzalezA,LegerO,BeckA,PauwelsPJ,HaeuwJF,CorvaiaN.A
+Theauthorsdeclarethattheyhavenocompetinginterests.
+recombinanthumanizedanti-insulin-likegrowthfactorreceptortypeI
+antibody(h7C10)enhancestheantitumoractivityofvinorelbineandanti-
+Publisher’s Note epidermalgrowthfactorreceptortherapyagainsthumancancerxenografts.
+SpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+IntJCancer.2005;113:316–28.
+publishedmapsandinstitutionalaffiliations. 15. ScartozziM,BianconiM,MaccaroniE,GiampieriR,BerardiR,CascinuS.
+Dalotuzumab,arecombinanthumanizedmAbtargetedagainstIGFR1for
+Authordetails thetreatmentofcancer.CurrOpinMolTher.2010;12:361–71.
+1DepartmentofGastrointestinalMedicalOncology,TheUniversityofTexas 16. Abdel-WahabR,ShehataS,HassanMM,HabraMA,EskandariG,TinkeyPT,
+MDAndersonCancerCenter,1515HolcombeBlvd,Unit426,Houston,TX MitchellJ,LeeJS,AminHM,KasebAO.TypeIinsulin-likegrowthfactorasa
+77030,USA.2DepartmentofDiagnosticRadiology,TheUniversityofTexas liverreserveassessmenttoolinhepatocellularcarcinoma.JHepatocell
+MDAndersonCancerCenter,Houston,TX,USA.3DepartmentofBiostatistics, Carcinoma.2015;2:131–42.
+TheUniversityofTexasMDAndersonCancerCenter,Houston,TX,USA. 17. DongX,JavleM,HessKR,ShroffR,AbbruzzeseJL,LiD.Insulin-likegrowth
+4ClinicalOncologyDepartment,AssiutUniversityHospitals,Assiut,Egypt. factoraxisgenepolymorphismsandclinicaloutcomesinpancreaticcancer.
+Gastroenterology.2010;139:464–73.473.e461-463
+Received:14February2018Accepted:6May2018 18. DiCosimoS,SathyanarayananS,BendellJC,CervantesA,SteinMN,BranaI,
+RodaD,HainesBB,ZhangT,WinterCG,etal.CombinationofthemTOR
+inhibitorridaforolimusandtheanti-IGF1Rmonoclonalantibody
+References dalotuzumab:preclinicalcharacterizationandphaseIclinicaltrial.Clin
+1. BurrisH3rd,MooreMJ, AndersenJ, GreenMR,RothenbergML,
+CancerRes.2015;21:49–59.
+ModianoMR,CrippsMC,PortenoyRK,Storniolo AM,TarassoffP. 19. DoiT,MuroK,YoshinoT,FuseN,UraT,TakahariD,FengHP,
+Improvementsinsurvivalandclinicalbenefitwithgemcitabineasfirst- ShimamotoT,NoguchiK,OhtsuA.Phase1pharmacokineticstudy of
+linetherapyforpatientswithadvancedpancreascancer:arandomized MK-0646(dalotuzumab),ananti-insulin-likegrowthfactor-1receptor
+trial.JClin Oncol. 1997;15:2403–13. monoclonalantibody,in combinationwithcetuximabandirinotecanin
+2. ConroyT,DesseigneF,YchouM,BouchéO,GuimbaudR,BécouarnY, Japanesepatientswithadvancedcolorectalcancer.CancerChemother
+AdenisA,RaoulJ-L,Gourgou-BourgadeS,delaFouchardièreC. Pharmacol.2013;72:643–52.
+FOLFIRINOXversusgemcitabineformetastatic pancreaticcancer.NEngl 20. Reidy-LagunesDL,VakianiE,SegalMF,HollywoodEM,TangLH,SolitDB,
+JMed. 2011;364:1817–25. PietanzaMC,CapanuM,SaltzLB.Aphase2studyoftheinsulin-likegrowth
+
+--- Page 9 ---
+Abdel-Wahabetal.JournalofHematology&Oncology (2018) 11:71 Page9of9
+factor-1receptorinhibitorMK-0646inpatientswithmetastatic,well-
+differentiatedneuroendocrinetumors.Cancer.2012;118:4795–800.
+21. SclafaniF,KimTY,CunninghamD,KimTW,TaberneroJ,SchmollHJ,RohJK,
+KimSY,ParkYS,GurenTK,etal.ArandomizedphaseII/IIIstudyof
+dalotuzumabincombinationwithcetuximabandirinotecanin
+chemorefractory,KRASwild-type,metastaticcolorectalcancer.JNatlCancer
+Inst.2015;107:djv258.
+22. AtzoriF,TaberneroJ,CervantesA,PrudkinL,AndreuJ,Rodriguez-BraunE,
+DomingoA,GuijarroJ,GamezC,RodonJ,etal.AphaseIpharmacokinetic
+andpharmacodynamicstudyofdalotuzumab(MK-0646),ananti-insulin-like
+growthfactor-1receptormonoclonalantibody,inpatientswithadvanced
+solidtumors.ClinCancerRes.2011;17:6304–12.
+23. EllisPM,ShepherdFA,LaurieSA,GossGD,OlivoM,PowersJ,SeymourL,
+BradburyPA.NCICCTGIND.190phaseItrialofdalotuzumab(MK-0646)in
+combinationwithcisplatinandetoposideinextensive-stagesmall-celllung
+cancer.JThoracOncol.2014;9:410–3.
+24. ReidyDL,VakianiE,FakihMG,SaifMW,HechtJR,Goodman-DavisN,
+HollywoodE,ShiaJ,SchwartzJ,ChandrawansaK,etal.Randomized,phase
+IIstudyoftheinsulin-likegrowthfactor-1receptorinhibitorIMC-A12,with
+orwithoutcetuximab,inpatientswithcetuximab-orpanitumumab-
+refractorymetastaticcolorectalcancer.JClinOncol.2010;28:4240–6.
+25. OlmosD,Postel-VinayS,MolifeLR,OkunoSH,SchuetzeSM,PaccagnellaML,
+BatzelGN,YinD,Pritchard-JonesK,JudsonI,etal.Safety,pharmacokinetics,
+andpreliminaryactivityoftheanti-IGF-1Rantibodyfigitumumab(CP-
+751,871)inpatientswithsarcomaandEwing’ssarcoma:aphase1
+expansioncohortstudy.LancetOncol.2010;11:129–35.
+26. WatkinsDJAM,CunninghamD,TaberneroJ,TejparS,KimTY,etal.
+MolecularanalysisoftherandomizedphaseII/IIIstudyoftheanti-IGF-1R
+antibodydalotuzumab(MK-0646)incombinationwithcetuximab(Cx)and
+irinotecan(Ir)inthetreatmentofchemorefractoryKRASwild-type
+metastaticcolorectalcancer(mCRC).JClinOncol.2012;30:2012.
+27. KindlerHL,RichardsDA,GarboLE,GaronEB,StephensonJJJr,Rocha-Lima
+CM,SafranH,ChanD,KocsDM,GalimiF,etal.Arandomized,placebo-
+controlledphase2studyofganitumab(AMG479)orconatumumab(AMG
+655)incombinationwithgemcitabineinpatientswithmetastatic
+pancreaticcancer.AnnOncol.2012;23:2834–42.
+28. PhilipPA,GoldmanB,RamanathanRK,LenzHJ,LowyAM,WhiteheadRP,
+WakatsukiT,IqbalS,GaurR,BenedettiJK,BlankeCD.Dualblockadeof
+epidermalgrowthfactorreceptorandinsulin-likegrowthfactorreceptor-1
+signalinginmetastaticpancreaticcancer:phaseIbandrandomizedphaseII
+trialofgemcitabine,erlotinib,andcixutumumabversusgemcitabineplus
+erlotinib(SWOGS0727).Cancer.2014;120:2980–5.
+29. GualbertoA,HixonML,KarpDD,LiD,GreenS,Dolled-FilhartM,Paz-Ares
+LG,NovelloS,BlakelyJ,LangerCJ,PollakMN.Pre-treatmentlevelsof
+circulatingfreeIGF-1identifyNSCLCpatientswhoderiveclinicalbenefit
+fromfigitumumab.BrJCancer.2011;104:68–74.

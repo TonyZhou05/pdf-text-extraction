@@ -1,0 +1,1411 @@
+Source: 25467181.pdf
+Extracted on: Sat Sep 13 00:02:34 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Published in final edited form as:
+Clin Cancer Res. 2015 April 1; 21(7): 1558–1565. doi:10.1158/1078-0432.CCR-14-0595.
+A Phase I Study of Cixutumumab (IMC-A12) in Combination with
+Temsirolimus (CCI-779) in Children with Recurrent Solid
+Tumors: A Children’s Oncology Group Phase 1 Consortium
+Report
+Maryam Fouladi1, John P. Perentesis1, Lars M. Wagner1, Alexander A. Vinks1, Joel M.
+Reid2, Charlotte Ahern3, George Thomas4, Carol A. Mercer4, Darcy A. Krueger1, Peter J.
+Houghton5, L. Austin Doyle6, Helen Chen6, Brenda Weigel7, and Susan M. Blaney8
+1Cincinnati Children’s Hospital Medical Center, Cincinnati, OH
+2Mayo Clinic College of Medicine, Rochester, MN
+3Children’s Oncology Group Operations Center, Arcadia, CA
+4University of Cincinnati, Cincinnati, OH
+5Nationwide Children’s Hospital, Columbus, OH
+6Cancer Therapy Evaluation Program, National Cancer Institute, Bethesda, MD
+7University of Minnesota, Minneapolis, MN
+8Texas Children’s Cancer Center/Baylor College of Medicine, Houston, TX
+Abstract
+Purpose—To determine the maximum tolerated dose (MTD), dose-limiting toxicities (DLT),
+pharmacokinetics, and biologic effects of cixutumumab administered in combination with
+temsirolimus to children with refractory solid tumors.
+Experimental Design—Cixutumumab and temsirolimus were administered intravenously once
+every 7 days in 28 day cycles. Pharmacokinetic and biology studies, including assessment of
+mTOR downstream targets in peripheral blood mononuclear cells, were performed during the first
+cycle.
+Results—Thirty-nine patients, median age 11.8 years (range, 1–21.5), with recurrent solid or
+CNS tumors were enrolled of who 33 were fully assessable for toxicity. There were four dose
+levels, which included two dose reductions and a subsequent intermediated dose escalation: (1)
+IMC-A12 6 mg/kg, temsirolimus 15 mg/m2; (2) IMC-A12 6 mg/kg, temsirolimus 10 mg/m2; (3)
+IMC-A12 4 mg/kg, temsirolimus 8 mg/m2 and (4) IMC-A12 6 mg/kg, temsirolimus 8 mg/m2.
+Mucositis was the predominant DLT. Other DLTs included: hypercholesterolemia, fatigue,
+Corresponding author: Maryam Fouladi, M.D., Division of Oncology, Cincinnati Children’s Hospital Medical Center, 3333 Burnet
+Avenue, Cincinnati, OH, 45229. Telephone: (513) 803-0721; Telefax: (513) 636-3549; maryam.fouladi@cchmc.org cc:
+pubs@childrensoncologygroup.org.
+Presented in part at the American Society of Clinical Oncology, Chicago, IL, June 2012
+ClinicalTrials.gov Identifier: NCT00217412
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Fouladi et al. Page 2
+thrombocytopenia, and increased ALT. Target inhibition (decreased S6K1 and PAkt) in PBMNCs
+was noted at all dose levels. Marked interpatient variability in temsirolimus PK parameters was
+noted. At 8 mg/m2, the median temsirolimus AUC was 2946 ng•h/mL (range, 937–5536) with a
+median sirolimus AUC of 767 ng•h/mL (range, 245–3675).
+Conclusions—The recommended pediatric phase II doses for the combination of cixutumumab
+and temsirolimus are 6 mg/kg and 8 mg/m2, respectively.
+Keywords
+Phase I trial; temsirolimus; cixutumumab
+INTRODUCTION
+Deregulated insulin-like growth-factor signaling through the type 1 receptor is common to
+many childhood solid tumors(1) including Ewing sarcoma,(2) rhabdomyosarcoma,(3)
+osteosarcoma,(4, 5) neuroblastoma,(6–8) brain tumors,(9–13) Wilms tumor(14) and
+hepatoblastoma.(15) Similarly, the cell signaling pathways that activate the mammalian
+target of rapamycin (mTOR) are altered in many pediatric cancers, making them susceptible
+to mTOR inhibition by sirolimus and its analogs.(16–18) Although we have previously
+shown preclinical activity of mTOR inhibitors in pediatric cancers,(17) monotherapy with
+these agents has had limited clinical activity.(16, 19) This may, in part, be explained by a
+feedback loop in which inhibition of mTOR signaling leads to upregulation of IGF-1R
+signaling through loss of S6K1 phosphorylation, leading to activation of PI3K and Akt.(20),
+(21),(22) Indeed, Akt activation has been demonstrated in cancer cell lines and in patients
+treated with mTOR inhibitors.(23) IGF-1R inhibition should prevent rapamycin-induced Akt
+activation hence abrogating at least one survival pathway and synergizing with mTOR
+inhibitors.(20),(21) (24)
+Cixutumumab (IMC-A12) is a fully recombinant IgG1 monoclonal antibody that
+specifically targets the human IGF-IR1 with high affinity. It acts as an antagonist of IGF-1
+and IGF-2 ligand binding and signaling. It also blocks ligand binding to IGF-IR and inhibits
+downstream signaling of the two major insulin-like growth factor pathways: MAPK and
+PI3K/AKT. Cixutumumab has potent dose-dependent in vitro and in vivo anti-tumor activity
+in a variety of cell-lines and xenografts.
+Temsirolimus is a small molecule inhibitor of mTOR. Like sirolimus and everolimus,
+temsirolimus forms a gain-of-function complex with FK506-binding protein 12 (FKBP12)
+that binds and inhibits mTOR, leading to antiproliferative effects, including G1-phase cell
+cycle arrest,(25) and apoptosis. The primary downstream targets of mTOR include eIF4E
+binding protein (4E-BP1) (26) (27) and p70S6 kinase, important in the translation regulation
+of mRNA encoding proteins involved in G1 phase progression. mTOR inhibitors have
+potent in vitro activity against many human cancer cell lines and xenograft models. The
+Pediatric Preclinical Testing Program(28),(29) and others have reported preclinical single
+agent and synergistic combination activity of these agents in many solid tumors.(24),(30, 31)
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Fouladi et al. Page 3
+We report the results of a phase I trial of cixutumumab in combination with temsirolimus in
+children with recurrent or refractory solid tumors. The primary objectives were to estimate
+the maximum tolerated dose (MTD), determine dose-limiting toxicities (DLTs) and
+characterize the pharmacokinetics of IMC A12 and temsirolimus administered once weekly
+in combination, to children with refractory solid tumors. The secondary objectives were to
+assess the biological activity of temsirolimus by measuring levels of phospho-S6Ser235/236,
+phospho-AKTSer473, and phospho-4EBP1Ser65 in peripheral blood mononuclear cells
+(PBMNCs).
+PATIENTS AND METHODS
+Patient Eligibility
+Patients > 12 months and < 22 years with measurable or evaluable solid tumors refractory to
+therapy were eligible. Histologic verification of malignancy was required except for patients
+with intrinsic brainstem glioma. Other eligibility criteria included: Lansky or Karnofsky
+score ≥ 50; recovery from the acute toxic effects of prior therapy; ≥ 3 months since total
+body irradiation, craniospinal or hemi-pelvic radiation and ≥ 2 months since a stem cell
+transplant; adequate bone marrow function [peripheral absolute neutrophil count (ANC) ≥
+1000/μL, platelets ≥ 100,000/μL (transfusion independent), hemoglobin ≥ 8.0 g/dL];
+adequate renal function (age-adjusted normal serum creatinine or a GFR ≥ 70 mL/min/
+1.73m2); adequate liver function [total bilirubin ≤ 1.5x institutional upper limit of normal for
+age, SGPT (ALT) ≤ 5× institutional upper limit of normal for age and albumin ≥ 2 g/dL]; PT
+and INR < 1.2 × upper limit of normal. Patients receiving corticosteroids had to be on a
+stable or decreasing dose for ≥ 7 days prior to study enrollment.
+Patients were excluded if they had known bone marrow involvement; had received prior
+temsirolimus or monoclonal antibody therapy targeting IGF-1R; were pregnant or lactating;
+had an uncontrolled infection; were receiving enzyme inducing anticonvulsants (EIACD),
+insulin, growth hormone therapy, or any of the following CYP3A4 inducers or inhibitors:
+erythromycin, clarithromycin, ketoconazole, azithromycin, itraconazole, grapefruit juice or
+St. John’s wort or other non-cytotoxic anticancer agents. Also excluded were patients with a
+history of allergic reactions attributed to compounds of similar chemical or biological
+composition to cixutumumab or temsirolimus, or patients who had undergone major surgery
+within 6 weeks prior to study enrollment. The Institutional Review Boards of participating
+institutions approved the protocol. Informed consent and assent, as appropriate, were
+obtained according to local institutional guidelines.
+Drug Administration
+Cixutumumab [5 mg/mL (250 mg) or 10 mg/mL (500 mg) vials] and temsirolimus (25 mg/
+mL), supplied by the Cancer Therapy Evaluation Program (NCI, Bethesda, MD), were
+administered weekly as a 1 hour and 30 minute infusion, respectively in 28 day cycles. In
+the absence of disease progression, patients could receive a total of twenty-five cycles of
+therapy.
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Fouladi et al. Page 4
+The starting dose of cixutumumab was 6 mg/kg (one dose level below the recommended
+phase II dose of 9 mg/kg) in the pediatric phase I study) (32) and of temsirolimus was15
+mg/m2, with planned dose escalations to a maximum of 9 mg/kg for cixutumumab and 35
+mg/m2 for temsirolimus. The starting dose of temsirolimus was based on published studies
+in adult combination trials.(33) Due to toxicity, the study was amended to incorporate
+several dose de-escalations as shown in Table 1.
+Trial Design
+Toxicities were graded according to the Common Terminology Criteria for Adverse Events
+(CTCAE) v3.0. (http://ctep.cancer.gov/forms/CTCAEv3.pdf). Hematologic DLT was
+defined as grade 4 neutropenia for > 7 days, or prior to drug administration on days 8,15 or
+21; platelet count <20,000/mm3 on 2 separate days or requiring platelet transfusions on 2
+separate days within a 7 day period, or myelosuppression that caused a delay of ≥ 14 days
+between treatment cycles. Non-hematological DLT was defined as grade 3 or 4 non-
+hematological toxicity with the specific exclusion of: grade 3 nausea and vomiting of < 3
+days duration, grade 3 transaminase elevations that returned to Grade ≤ 1 or baseline prior to
+the time for the next treatment cycle, grade 3 fever or infection, non-hematological toxicity
+that caused a delay of ≥ 14 days between treatment cycles.
+Any patient who experienced DLT at any time during protocol therapy was considered fully
+evaluable for toxicity. Patients without DLT who received at least 85% of the prescribed
+dose during the first 28-day cycle were considered evaluable for toxicity as well as response.
+Dose escalation proceeded using a modified 3 + 3 cohort design in which three patients were
+initially studied at each dose level. If none of these three patients experience DLT, the dose
+was escalated to the next higher level. If one of three patients experienced DLT, then up to
+three more patients were accrued at the same dose level. If none of these three additional
+patients experienced DLT, then the dose was escalated. If one or more of these three
+additional patients experience DLT the MTD was exceeded, unless one of the DLTs did not
+appear to be related to dose or the DLTs were of different classes and the toxicities were
+readily reversible. In that circumstance, the cohort could be expanded to 12. The MTD was
+the maximum dose at which fewer than one third of patients experienced DLT. Once the
+MTD for the combination was defined up to 6 patients with recurrent or refractory solid
+tumors were to be enrolled to acquire additional PK data in patients < 12 years.
+Response Evaluation
+Disease evaluations were obtained at baseline, at the end of cycle 1 and after every other
+cycle. Tumor response was reported using the Response Evaluation Criteria in Solid Tumors
+(RECIST).(34)
+Pharmacokinetics Studies
+Blood samples (5 mLs) for PK analysis of cixutumumab were obtained prior to
+administration on days 1, 8, 15, 22 and 28 of cycle 1, and days 15 and 28 of cycle 2. In
+patients who agreed to have additional PK sampling, 3 mLs of blood were collected at the
+end of the day 1 infusion, and 1, 3, 6 and 24 (± 2) hours, and 4 days (± 1 day) after the first
+dose. All blood samples were collected at a site distant from the infusion, in tubes without
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Fouladi et al. Page 5
+anticoagulant, allowed to clot at room temperature, centrifuged at 1500 rpm for 15 minutes
+and stored at less than −20°C. A validated ELISA (enzyme–linked immunosorbent assay)
+was used to quantify levels of cixutumumab as previously described.(32)
+Blood samples (1 mL) for PK analysis of temsirolimus were obtained prior to temsirolimus
+administration on days 1 and 28 of cycle 1, and days 15 and 28 of cycle 2. In patients who
+agreed to have additional PK sampling, blood was collected prior at the end and at 15
+minutes, 30 minutes, 1, 3, 6, 24 (± 2) hours after the infusion on day 1. All blood samples
+were collected at a site distant from the infusion.
+Temsirolimus and sirolimus concentrations were determined using validated isotope-dilution
+HPLC-tandem mass spectrometry assays based on previously described principles. (35)
+The maximum plasma concentration (C ) and time to maximum plasma concentration
+max
+(T ) were determined by visual inspection of the plasma concentration-time profiles for
+max
+subjects participating in the extended PK sampling. Temsirolimus clearance (CL), steady-
+state volume of distribution (Vd ), half-life (t ) and area under the plasma concentration
+ss 1/2
+vs. time curve (AUC and AUC ) were analyzed using standard non-compartmental
+0–24 0–∞
+methods (NCA, Phoenix WinNonlin, Pharsight Corp, Mountain View, CA). Sirolimus PK
+parameter estimates for t½ and AUC were generated using model-based Bayesian
+0–∞
+analysis (MW/Pharm (Version 3.60, Mediware, Groningen, Netherlands). (36)
+Biological Assays
+Whole blood (4 mLs) was collected in BD Vacutainer CPT sodium citrate tubes prior to
+administration of protocol therapy on days 1,8, and 28 of cycle 1 in consenting patients.
+Within 1 hour of acquisition, PBMNC lysate was prepared as described,(37) snap-frozen in
+liquid nitrogen, and stored at −80ºC until phosphoprotein analysis. Phosphorylated and total
+S6K1, Akt, and 4E-BP1 detection and quantification were performed via Western blot
+analysis followed by densitometric analysis with ImageQuant 5.0 (Molecular Dynamics,
+Sunnyvale, CA). The ratio of phosphorylated protein to total (phosphorylated and
+unphosphoylated) protein in each patient sample was then calculated.
+RESULTS
+Of 39 patients enrolled, all were eligible, six were not fully assessable for toxicity: two
+never received protocol therapy because of clinical deterioration, two experienced
+progressive disease during cycle 1, and two withdrew consent for non-dose limiting
+toxicities [grade 2 ALT/AST (n=1) and grade 2 mucositis (n=1)]. Table 2 summarizes the
+characteristics of the eligible patients. Patients received a median of 2 cycles (range, 1–20)
+of therapy.
+Toxicity
+Table 1 summarizes the DLTs across all dose levels. At the starting dose [cixutumumab (6
+mg/kg); temsirolimus (15 mg/m2)], one patient in the initial cohort of three had dose-
+limiting hypercholesterolemia (grade 3). The cohort was expanded to include three more
+evaluable patients, one of whom had dose-limiting mucositis (grade 3). Since the observed
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Fouladi et al. Page 6
+DLTs observed were readily reversible, of different classes and unrelated to dose, the
+statistical design allowed enrollment of up to six additional patients at this dose level. Three
+different DLTs were observed among this expanded cohort of 6 (grade 3 ALT, fatigue and
+prolonged thrombocytopenia > 14 days), resulting in a dose de-escalation. At dose level 0
+[cixutumumab (6 mg/kg); temsirolimus (10 mg/m2)], 1/3 patients experienced grade 3 dose-
+limiting mucositis. Three additional patients were enrolled; one of whom experienced grade
+3 dose-limiting mucositis. As a result, the protocol was amended to incorporate dose level
+−1 in which the doses of both agents were further decreased [cixutumumab, (4 mg/kg) and
+temsirolimus at (8 mg/m2)]. None of the patients at dose level −1 experienced a DLT. An
+intermediate dose level [cixutumumab (6 mg/kg) and temsirolimus (8 mg/m2)] was
+subsequently added and one of six patients experienced grade 3 mucositis; none of 6 patients
+experienced a DLT among an expanded cohort for children < 12 years.
+Table 3 summarizes all non-dose-limiting toxicities at least possibly attributable to
+cixutumumab or temsirolimus in the 33 patients fully assessable for toxicity.
+Responses
+One partial response, confirmed on central review, was observed following cycle 1 in a
+patient with medulloblastoma enrolled at dose level 1. Unfortunately, tumor progression was
+noted on surveillance imaging studies performed after cycle 4. Stable disease for ≥ 3 cycles,
+was observed in three patients (median 12 cycles, range: 11–20) with epithelioid sarcoma,
+neuroblastoma and alveolar rhabdomyosarcoma, respectively.
+Pharmacokinetics
+Cixutumumab single-dose pharmacokinetics were studied in 19 patients and steady-state
+pharmacokinetics were studied in 36 patients who received the combination of cixutumumab
+with temsirolimus. There were no changes in cixutumumab clearance as the temsirolimus
+dose was increased (Table 4). The median weight-adjusted clearance and half-life values for
+all patients were 0.17 ml/hr/kg (range, 0.07–0.43 ml/hr/kg) and 122 hr (range, 64–446 hr),
+respectively. Cixutumumab serum trough concentrations (C ) exhibited marked inter-
+trough
+patient variability, increased throughout the first cycle of treatment (Supplemental Figure 1)
+and a median C of approximately 200 μg/ml was achieved on day 28 following a 6
+trough
+mg/kg dose (Supplemental Table 1). The median cixutumumab C at the recommended
+trough
+phase 2 dose was 197 μg/ml (range, 60–544).
+Results of the pharmacokinetic data (n=19) following the first dose of temsirolimus at 8, 10
+and 15 mg/m2/dose are summarized in Table 5. There was marked inter-patient and inter-
+dose group variability. Sirolimus, the metabolite of temsirolimus, exposure did not
+appreciably increase with dose. The steady-state volume of distribution (V ) was large and
+ss
+increased with dose, ranging from 46.3 L (after 8 mg/m2 dose) to 74.9 L (after 15 mg/m2
+dose). Similarly, temsirolimus clearance from whole blood increased with increasing dose,
+from 2.3 L/h after an 8 mg/m2 dose to 6.7 L/h after a 15 mg/m2 dose.
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Fouladi et al. Page 7
+mTOR Pathway Activity
+At the recommended phase 2 dose, a total of 23 PBMNC samples were obtained from 9
+consenting patients. Four patients had suitable samples from the day 1, 8 and 28 timepoints,
+three had samples from days 1 and 8, and one had samples from days 1 and 28. Baseline
+variation in total S6K1 protein was observed among patients, but intra-patient levels were
+consistent at each time point (days 1, 8, and 28). Phospho-S6K1 (T389) was reduced at day
+8 in the seven evaluable patients when compared to baseline (day 1), and in the majority of
+cases was further reduced at day 28; in only one patient was S6K1 phosphorylation higher at
+day 28 when compared to baseline. Unlike S6K1, total and phospho-4EPB1 (S65) followed
+expression levels at each time point, with no observed change in phosphorylation as a
+function of treatment on day 8 or day 28. Akt phosphorylation (S473) was more variable
+than S6K1, showing a reduction at day 8 in five patients, and slight or no increase in two
+others. By day 28, Akt phosphorylation in the five evaluable patients remained variable,
+with evidence of an increase in three patients, and decrease in the other two, when compared
+to baseline. Figure 1 depicts a western blot of representative patient PBMNC samples
+showing inhibition of target proteins p-S6K1 T389 and p-AKT S473.
+Discussion
+The recommended pediatric phase II doses of the combination of cixutumumab and
+temsirolimus in children with refractory solid tumor are 6 mg/kg and 8 mg/m2, respectively.
+Similar to adults, observed DLTs included mucositis, fatigue, hypercholesterolemia and
+transaminitis. However, the MTD of temsirolimus for this combination in children was
+significantly lower than observed in adults with advanced cancers, (38) relapsed Ewing
+sarcoma (39) (cixutumumab 6 mg/kg IV and temsirolimus 25 mg flat dose [14 mg/m2]) or
+metastatic prostate cancer (cixutumumab 6 mg/kg IV and temsirolimus 20 mg flat dose [11
+mg/m2]).(40) It was noted in the prostate cancer trial that the weekly schedule was difficult
+to maintain long-term due to chronic toxicities. Pharmacokinetic data were not available for
+any of the adult trials. Interestingly, in the adult trials, grade 3 mucositis was observed in 3
+to 27% of patients.(38–40) In our study, 4 of 27 patients or 15% experienced grade 3
+mucositis, leading to repeated dose de-escalations of the temsirolimus and cixutumumab
+dose.
+Although the pharmacokinetics of cixutumumab (32) and temsirolimus (41) have been
+previously reported in single agent pediatric studies, this is the first description of the
+disposition of these drugs when used in combination in children. Cixutumumab clearance,
+C and half-life at 6 mg/kg when combined with temsirolimus at the MTD of 8 mg/m2
+max
+were similar to those reported earlier in the pediatric phase I single agent study of
+cixutumumab.(32) Furthermore, cixutumumab half-life and steady-state trough
+concentrations of 122 hours and 197 mg/mL, respectively, at 6 mg/kg were similar to the
+values of 209 hours and 145 mg/mL reported for adults at that same dose. (42)
+Although there was large inter-patient and inter-dose variability in pharmacokinetic
+parameter estimates for temsirolimus and its active metabolite sirolimus, the temsirolimus
+and sirolimus AUCs did not increase significantly with dose, which has previously been
+reported.(43, 44) The steady-state volume of distribution (Vss) of temsirolimus was
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Fouladi et al. Page 8
+generally large, increased with dose, and ranged from 230 L (after a 25-mg dose) to as high
+as 900 L (after a 250-mg dose). The distribution of temsirolimus into red blood cells
+appeared to be saturable at higher doses. Additionally, the clearance from whole blood
+increased with increasing dose, as observed with Vss, with mean values ranging from 20 L/h
+after a 25-mg dose to 100 L/h after a 250-mg dose (coefficient of variation, approximately
+16%–27%).(44) We compared the PK parameters in the pediatric single agent temsirolumus
+phase I trial to the current study. Spunt et al reported no MTD for temsirolimus at dose
+levels ranging from 10–150 mg/m2.(41) The median temsirolimus C and AUC values at
+max
+the MTD of 8 mg/m2 in our study, were comparable to median values reported at the 25 and
+75 mg/m2 dose level reported by Spunt et al. By contrast, the sirolimus AUC and C were
+max
+substantially lower in our study at similar doses, with lower sirolimus to temsirolimus ratios
+at all dose levels tested. The AUCs and C of temsirolimus, AUCs and C of sirolimus
+max min
+and cixutumumab observed concentrations did not show an association with toxicity or
+inhibition of target. The lower MTD observed in this study is possibly pharmacodynamic in
+nature and related to the combination of IGF-1R and m-TOR inhibition, but requires further
+evaluation in a larger patient cohort. As these inhibitors affect signaling pathways that
+regulate glucose, lipid and energy metabolism, it is possible that children may be
+biologically more sensitive to these drugs, particularly in combination; however, this
+determination would require further evaluation in a larger patient cohort.
+We demonstrated that this combination significantly inhibited the phosphorylation of S6K1,
+but not 4E-BP1 in PBMNCs at all dose levels. Phospho-S6K1 was reduced at day 8 in the 7
+patients with evaluable samples, and was further reduced in 4 of 5 patients with samples at
+day 28. Although S6K1 and 4E-BP1 are both downstream effectors of mTORC1, these data
+are consistent with reports that in some cells, rapamycin and the rapalogs are incomplete
+inhibitors of mTORC1, affecting S6K1 phosphorylation more strongly than 4E-BP1.(45)
+Similar to previous pediatric and adult reports,(41,46) the phosphorylation status of S6K1,
+4E-BP1 and Akt did not correlate with objective responses or prolonged stabilization of
+disease, limiting their use as biomarkers. There was considerable variation in Akt
+phosphorylation on days 8 and 28, with either an increase or decrease in Akt
+phosphorylation when compared to baseline. The pAkt variability is consistent with an
+earlier pediatric temsirolimus study that demonstrated a lack of correlation between
+temsirolimus dose and phosphorylation of Akt, S6, and 4E-BP1.(41) However, in the current
+study, phosphorylation trends of the mTORC1 targets S6K1 and 4E-BP1 were consistently
+decreased or unchanged, respectively. In five patients, Akt S473 phosphorylation was
+generally decreased in response to treatment, paralleling S6K1 phosphorylation and
+consistent with the inhibition of mTOR complex 2 (mTORC2) observed in cells exposed to
+long term treatment with rapamycin.(47) This decrease may also reflect the efficacy of
+cixutumumab, but the contribution of IGF-1R signaling to PI3K and Akt may be minor in
+PBMNCs. In two patients, there was an inverse correlation between pS6K1 (decreased) and
+pAkt (increased), which may be explained by temsirolimus-mediated inhibition of the
+mTORC1-S6K1 negative feedback loop, (48–50) leading to increased PI3K signaling to
+Akt. The variability of pAkt among patients does not appear to correlate with the magnitude
+of S6K1 inhibition, but instead may be due to a multitude of factors that are patient-specific,
+including variability in the makeup of the lymphocytes and monocytes in the PBMNC
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Fouladi et al. Page 9
+population, and unknown changes in the status of the immune system following prolonged
+treatment with temsirolimus and cixutumumab.
+This study demonstrates that the combination of cixutumumab and temsirolimus can be
+safely given to children with recurrent solid tumors, albeit at lower doses than in adult
+combination studies. One patient with a medulloblastoma had a confirmed partial response
+and 3 patients experienced prolonged disease stabilization for ≥ 3 cycles. Target inhibition
+was noted in PBMCs at all dose levels as evidenced by a decrease in phosphor-S6K1 and
+pAKT. A phase II study of this combination has recently been completed in children with
+recurrent tumors in the Children’s Oncology Group.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+We thank Melissa Asman for excellent technical assistance as well as Biljana Georgievska, Thalia Beeles, and
+Mark Ingle of the COG Phase 1/Pilot Consortium Coordinating Center for outstanding administrative and data
+management support throughout the development and conduct of this trial.
+Supported by National Cancer Institute grant No. U01 CA97452 and UM1 CA097452-11
+References
+1. Kim SY, Toretsky JA, Scher D, Helman LJ. The role of IGF-1R in pediatric malignancies.
+Oncologist. 2009; 14:83–91. [PubMed: 19126579]
+2. Scotlandi K, Benini S, Sarti M, Serra M, Lollini PL, Maurici D, et al. Insulin-like growth factor I
+receptor-mediated circuit in Ewing’s sarcoma/peripheral neuroectodermal tumor: a possible
+therapeutic target. Cancer Res. 1996; 56:4570–4. [PubMed: 8840962]
+3. Cao L, Yu Y, Darko I, Currier D, Mayeenuddin LH, Wan X, et al. Addiction to elevated insulin-like
+growth factor I receptor and initial modulation of the AKT pathway define the responsiveness of
+rhabdomyosarcoma to the targeting antibody. Cancer Res. 2008; 68:8039–48. [PubMed: 18829562]
+4. Kappel CC, Velez-Yanguas MC, Hirschfeld S, Helman LJ. Human osteosarcoma cell lines are
+dependent on insulin-like growth factor I for in vitro growth. Cancer Res. 1994; 54:2803–7.
+[PubMed: 8168113]
+5. Burrow S, Andrulis IL, Pollak M, Bell RS. Expression of insulin-like growth factor receptor, IGF-1,
+and IGF-2 in primary and metastatic osteosarcoma. J Surg Oncol. 1998; 69:21–7. [PubMed:
+9762887]
+6. El-Badry OM, Romanus JA, Helman LJ, Cooper MJ, Rechler MM, Israel MA. Autonomous growth
+of a human neuroblastoma cell line is mediated by insulin-like growth factor II. J Clin Invest. 1989;
+84:829–39. [PubMed: 2547840]
+7. El-Badry OM, Helman LJ, Chatten J, Steinberg SM, Evans AE, Israel MA. Insulin-like growth
+factor II-mediated proliferation of human neuroblastoma. J Clin Invest. 1991; 87:648–57. [PubMed:
+1991849]
+8. van Golen CM, Schwab TS, Kim B, Soules ME, Su Oh S, Fung K, et al. Insulin-like growth factor-I
+receptor expression regulates neuroblastoma metastasis to bone. Cancer Res. 2006; 66:6570–8.
+[PubMed: 16818629]
+9. Sun Q, Wei X, Feng J, Zhang R, Shen Q, Dong J, et al. Involvement of insulin-like growth factor-
+insulin receptor signal pathway in the transgenic mouse model of medulloblastoma. Cancer Sci.
+2008; 99:234–40. [PubMed: 18271920]
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Fouladi et al. Page 10
+10. Del Valle L, Enam S, Lara C, Ortiz-Hidalgo C, Katsetos CD, Khalili K. Detection of JC
+polyomavirus DNA sequences cellular localization of T-antigen and agnoprotein in
+oligodendrogliomas. Clin Cancer Res. 2002; 8:3332–40. [PubMed: 12429619]
+11. Wang JY, Del Valle L, Gordon J, Rubini M, Romano G, Croul S, et al. Activation of the IGF-IR
+system contributes to malignant growth of human and mouse medulloblastomas. Oncogene. 2001;
+20:3857–68. [PubMed: 11439349]
+12. Del Valle L, Enam S, Lassak A, Wang JY, Croul S, Khalili K, et al. Insulin-like growth factor I
+receptor activity in human medulloblastomas. Clin Cancer Res. 2002; 8:1822–30. [PubMed:
+12060623]
+13. Hoelzinger DB, Mariani L, Weis J, Woyke T, Berens TJ, McDonough WS, et al. Gene expression
+profile of glioblastoma multiforme invasive phenotype points to new therapeutic targets.
+Neoplasia. 2005; 7:7–16. [PubMed: 15720813]
+14. Gansler T, Allen KD, Burant CF, Inabnett T, Scott A, Buse MG, et al. Detection of type 1
+insulinlike growth factor (IGF) receptors in Wilms’ tumors. Am J Pathol. 1988; 130:431–5.
+[PubMed: 2831722]
+15. Gray SG, Eriksson T, Ekstrom C, Holm S, von Schweinitz D, Kogner P, et al. Altered expression
+of members of the IGF-axis in hepatoblastomas. Br J Cancer. 2000; 82:1561–7. [PubMed:
+10789725]
+16. Fouladi M, Laningham F, Wu J, O’Shaughnessy MA, Molina K, Broniscer A, et al. Phase I study
+of everolimus in pediatric patients with refractory solid tumors. J Clin Oncol. 2007; 25:4806–12.
+[PubMed: 17947729]
+17. Houghton PJ, Morton CL, Kolb EA, Gorlick R, Lock R, Carol H, et al. Initial testing (stage 1) of
+the mTOR inhibitor rapamycin by the pediatric preclinical testing program. Pediatr Blood Cancer.
+2007
+18. Bjornsti MA, Houghton PJ. The TOR pathway: a target for cancer therapy. Nat Rev Cancer. 2004;
+4:335–48. [PubMed: 15122205]
+19. Spunt SL, Grupp S, Vik T. Phase I, safety, pharmacokinetic, exploratoryu biomarker study of
+intravenosu temsirolimus in children with advanced solid tumors. American Society of Pediatric
+Hematology Oncology. 2007
+20. O’Reilly KE, Rojo F, She QB, Solit D, Mills GB, Smith D, et al. mTOR inhibition induces
+upstream receptor tyrosine kinase signaling and activates Akt. Cancer Res. 2006; 66:1500–8.
+[PubMed: 16452206]
+21. Shi Y, Yan H, Frost P, Gera J, Lichtenstein A. Mammalian target of rapamycin inhibitors activate
+the AKT kinase in multiple myeloma cells by up-regulating the insulin-like growth factor receptor/
+insulin receptor substrate-1/phosphatidylinositol 3-kinase cascade. Mol Cancer Ther. 2005;
+4:1533–40. [PubMed: 16227402]
+22. Wan X, Harkavy B, Shen N, Grohar P, Helman LJ. Rapamycin induces feedback activation of Akt
+signaling through an IGF-1R-dependent mechanism. Oncogene. 2007; 26:1932–40. [PubMed:
+17001314]
+23. Cloughesy TF, Yoshimoto K, Nghiemphu P, Brown K, Dang J, Zhu S, et al. Antitumor activity of
+rapamycin in a Phase I trial for patients with recurrent PTEN-deficient glioblastoma. PLoS Med.
+2008; 5:e8. [PubMed: 18215105]
+24. Kurmasheva RT, Boltz C, Phelps D, et al. Human monoclonal antibody CP751871 combined with
+rapamycin is effective treatment for childhood sarcomal xenografts. 2008
+25. Brown EJ, Albers MW, Shin TB, Ichikawa K, Keith CT, Lane WS, et al. A mammalian protein
+targeted by G1-arresting rapamycin-receptor complex. Nature. 1994; 369:756–8. [PubMed:
+8008069]
+26. Lin TA, Kong X, Haystead TA, Pause A, Belsham G, Sonenberg N, et al. PHAS-I as a link
+between mitogen-activated protein kinase and translation initiation. Science. 1994; 266:653–6.
+[PubMed: 7939721]
+27. Graves LM, Bornfeldt KE, Argast GM, Krebs EG, Kong X, Lin TA, et al. cAMP- and rapamycin-
+sensitive regulation of the association of eukaryotic initiation factor 4E and the translational
+regulator PHAS-I in aortic smooth muscle cells. Proc Natl Acad Sci USA. 1995; 92:7222–6.
+[PubMed: 7638171]
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Fouladi et al. Page 11
+28. Houghton PJ, Morton CL, Kolb EA, Gorlick R, Lock R, Carol H, et al. Initial testing (stage 1) of
+the mTOR inhibitor rapamycin by the pediatric preclinical testing program. Pediatr Blood Cancer.
+2008; 50:799–805. [PubMed: 17635004]
+29. Kolb EA, Gorlick R, Maris JM, Keir ST, Morton CL, Wu J, et al. Combination testing (Stage 2) of
+the Anti-IGF-1 receptor antibody IMC-A12 with rapamycin by the pediatric preclinical testing
+program. Pediatr Blood Cancer. 2012; 58:729–35. [PubMed: 21630428]
+30. Chung J, Kuo CJ, Crabtree GR, Blenis J. Rapamycin-FKBP specifically blocks growth-dependent
+activation of and signaling by the 70 kd S6 protein kinases. Cell. 1992; 69:1227–36. [PubMed:
+1377606]
+31. Kurihara M, Tokunaga Y, Tsutsumi K, Kawaguchi T, Shigematsu K, Niwa M, et al.
+Characterization of insulin-like growth factor I and epidermal growth factor receptors in
+meningioma. J Neurosurg. 1989; 71:538–44. [PubMed: 2552046]
+32. Malempati S, Weigel B, Ingle AM, Ahern CH, Carroll JM, Roberts CT, et al. Phase I/II trial and
+pharmacokinetic study of cixutumumab in pediatric patients with refractory solid tumors and
+Ewing sarcoma: a report from the Children’s Oncology Group. J Clin Oncol. 2012; 30:256–62.
+[PubMed: 22184397]
+33. Ma CX, Suman VJ, Goetz M, Haluska P, Moynihan T, Nanda R, et al. A phase I trial of the
+IGF-1R antibody Cixutumumab in combination with temsirolimus in patients with metastatic
+breast cancer. Breast Cancer Res Treat. 2013; 139:145–53. [PubMed: 23605083]
+34. Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubinstein L, et al. New
+guidelines to evaluate the response to treatment in solid tumors. European Organization for
+Research and Treatment of Cancer, National Cancer Institute of the United States, National Cancer
+Institute of Canada. J Natl Cancer Inst. 2000; 92:205–16. [PubMed: 10655437]
+35. Christians U, Jacobsen W, Serkova N, Benet LZ, Vidal C, Sewing KF, et al. Automated, fast and
+sensitive quantification of drugs in blood by liquid chromatography-mass spectrometry with on-
+line extraction: immunosuppressants. Journal of chromatography B, Biomedical sciences and
+applications. 2000; 748:41–53.
+36. Proost JH, Meijer DK. MW/Pharm, an integrated software package for drug dosage regimen
+calculation and therapeutic drug monitoring. Computers in biology and medicine. 1992; 22:155–
+63. [PubMed: 1617949]
+37. Boulay A, Zumstein-Mecker S, Stephan C, Beuvink I, Zilbermann F, Haller R, et al. Antitumor
+efficacy of intermittent treatment schedules with the rapamycin derivative RAD001 correlates with
+prolonged inactivation of ribosomal protein S6 kinase 1 in peripheral blood mononuclear cells.
+Cancer Res. 2004; 64:252–61. [PubMed: 14729632]
+38. Naing A, Kurzrock R, Burger A, Gupta S, Lei X, Busaidy N, et al. Phase I trial of cixutumumab
+combined with temsirolimus in patients with advanced cancer. Clin Cancer Res. 2011; 17:6052–
+60. [PubMed: 21750201]
+39. Naing A, LoRusso P, Fu S, Hong DS, Anderson P, Benjamin RS, et al. Insulin growth factor-
+receptor (IGF-1R) antibody cixutumumab combined with the mTOR inhibitor temsirolimus in
+patients with refractory Ewing's sarcoma family tumors. Clin Cancer Res. 2012; 18:2625–31.
+[PubMed: 22465830]
+40. Rathkopf DEDDC, Morris MJ, Slovin SF, Borwick LS, Momen L, Curley T, Arauz G, Larson SM,
+Fleisher M, Rosen N, Scher HI. Anti-insulin-like growth factor-1 receptor (IGF-1R) monoclonal
+antibody cixutumumab (cix) plus mTOR inhibitor temsirolimus (tem) in metastatic castration-
+resistant prostate cancer (mCRPC): Results of a phase I pilot study. J Clin Oncol. 2011; 29 (suppl;
+abstr e15081) 2011;29.
+41. Spunt SL, Grupp SA, Vik TA, Santana VM, Greenblatt DJ, Clancy J, et al. Phase I study of
+temsirolimus in pediatric patients with recurrent/refractory solid tumors. J Clin Oncol. 2011;
+29:2933–40. [PubMed: 21690471]
+42. McKian KP, Haluska P. Cixutumumab. Expert Opin Investig Drugs. 2009; 18(7):1025–33.
+43. Boni J, Leister C, Burns J, Cincotta M, Hug B, Moore L. Pharmacokinetic profile of temsirolimus
+with concomitant administration of cytochrome p450-inducing medications. J Clin Pharmacol.
+2007; 47:1430–9. [PubMed: 17913896]
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Fouladi et al. Page 12
+44. Atkins MB, Hidalgo M, Stadler WM, Logan TF, Dutcher JP, Hudes GR, et al. Randomized phase
+II study of multiple dose levels of CCI-779, a novel mammalian target of rapamycin kinase
+inhibitor, in patients with advanced refractory renal cell carcinoma. J Clin Oncol. 2004; 22:909–
+18. [PubMed: 14990647]
+45. Dowling RJ, Topisirovic I, Alain T, Bidinosti M, Fonseca BD, Petroulakis E, et al. mTORC1-
+mediated cell proliferation, but not cell growth, controlled by the 4E-BPs. Science. 2010;
+328:1172–6. [PubMed: 20508131]
+46. Chan S, Scheulen ME, Johnston S, Mross K, Cardoso F, Dittrich C, et al. Phase II study of
+temsirolimus (CCI-779), a novel inhibitor of mTOR, in heavily pretreated patients with locally
+advanced or metastatic breast cancer. J Clin Oncol. 2005; 23:5314–22. [PubMed: 15955899]
+47. Sarbassov DD, Ali SM, Sengupta S, Sheen JH, Hsu PP, Bagley AF, et al. Prolonged rapamycin
+treatment inhibits mTORC2 assembly and Akt/PKB. Mol Cell. 2006; 22:159–68. [PubMed:
+16603397]
+48. Zick Y. Insulin resistance: a phosphorylation-based uncoupling of insulin signaling. Trends Cell
+Biol. 2001; 11:437–41. [PubMed: 11684411]
+49. Um SH, Frigerio F, Watanabe M, Picard F, Joaquin M, Sticker M, et al. Absence of S6K1 protects
+against age- and diet-induced obesity while enhancing insulin sensitivity. Nature. 2004; 431:200–
+5. [PubMed: 15306821]
+50. Zhang H, Bajraszewski N, Wu E, Wang H, Moseman AP, Dabora SL, et al. DGFRs are critical for
+PI3K/Akt activation and negatively regulated by mTOR. J Clin Invest. 2007; 117:730–8.
+[PubMed: 17290308]
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Fouladi et al. Page 13
+Statement of Relevance
+Deregulated insulin-like growth-factor signaling through the type 1 receptor is common
+to many childhood solid tumors. Similarly, the cell signaling pathways that activate the
+mammalian target of rapamycin (mTOR) are altered in many pediatric cancers. IGF-1R
+inhibition should prevent rapamycin-induced Akt activation hence abrogating at least one
+survival pathway and synergizing with mTOR inhibitors. This first pediatric phase I
+combination study established the recommended pediatric phase II doses for
+cixutumumab and temsirolimus at 6 mg/kg and 8 mg/m2, respectively with mucositis as
+the dose limiting toxicity. Target inhibition (decreased p-S6K1 and p-Akt) in peripheral
+blood mononuclear cells (PBMNCs) was noted at all dose levels. One partial response
+was reported in a medulloblastoma patient; prolonged stable disease was noted in 3
+patients (median: 12 cycles). These results lay the groundwork for additional
+combination studies with IGFR and mTOR inhibitors. A phase II study of this
+combination has recently been completed by the COG.
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Fouladi et al. Page 14
+Figure 1.
+Western blot of representative patient samples showing inhibition of target proteins pS6K1
+T389 and pAKT S473 along with the respective total protein. Samples were taken before the
+first dose was administered (1) and on day 8 and 28 post treatment.
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Fouladi et al. Page 15
+1
+elbaT
+)TLD(
+yticixot
+gnitimil-esoD
+stneitaP
+fo
+rebmuN
+stneitaP
+fo
+rebmuN
+stneitaP
+fo
+rebmuN
+)n(
+TLD
+fo
+epyT
+)2m/gm(
+sumilorismeT
+)gk/gm(
+21A-CMI
+leveL
+esoD
+TLD
+htiw
+elbaulavE
+deretnE
+TLA
+,)1(
+sitisocuM
+,)1(
+eugitaF
+,)1(
+steletalP
+5
+21
+51
+51
+6
+1
+)1(
+aimertselohcrepyH
+,)1(
+)2(
+sititamots/sitisocuM
+2
+6
+6
+01
+6
+0
+0
+3
+4
+8
+4
+1−
+)1(
+sitisocuM
+1
+6
+8
+8
+6
+etaidemretnI
+0
+6
+6
+8
+6
+trohoc
+KP
+dednapxE
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Fouladi et al. Page 16
+Table 2
+Characteristics of Eligible Patients (n=39)
+Characteristic Number
+Age (years)
+Median (Range) 11.8 (1.0–21.5)
+Male:Female 20 (51%) : 19 (49%)
+Diagnosis
+Rhabdomyosarcoma 9
+Osteosarcoma 6
+Ewing sarcoma 5
+Malignant Glioma (including GBM) 4
+Medulloblastoma 2
+Wilms Tumor 2
+Desmoplastic small round cell tumor 2
+Astrocytoma NOS 1
+Choroid plexus papilloma 1
+Neuroblastoma 1
+Neurilemmoma 1
+Ganglioneuroblastoma 1
+Gatrointestinal stromal tumor 1
+Hepatocellular carcinoma 1
+Atypical teratoid rhabdoid tumor 1
+Epithelioid Sarcoma 1
+Prior Therapy
+Chemotherapy regimens : Median (Range) 2 (0–7)
+Prior Radiotherapy 28
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Fouladi et al. Page 17
+3
+elbaT
+)33=n(
+stneitap
+elbaulave
+ni
+devresbo
+ypareht
+locotorp
+ot
+detaler
+seiticixot
+gnitimiL
+esoD-noN
+)selcyc
+pu-wollof
+22+77
+,latoT(
+02
+ot
+2
+selcyc
+ssorca
+yticixot
+fo
+edarg
+mumixaM
+)selcyc
+33
+,latot(
+1
+elcyc
+ssorca
+yticixot
+fo
+edarg
+mumixaM
+epyT yticixoT
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+cigolotameH
+7
+5
+3
+2
+11
+aimenA
+2
+2
+8
+1
+1
+4
+11
+desaerced
+tnuoc
+etycohpmyL
+1
+4
+3
+1
+3
+7
+3
+desaerced
+tnuoc lihportueN
+2
+1
+9
+4
+3
+71
+desaerced
+tnuoc teletalP
+2
+3
+6
+2
+6
+8
+desaerced
+llec doolb
+etihW
+*cigolotameH-noN
+1
+3
+3
+2
+9
+desaercni
+esarefsnartonima
+eninalA
+3
+4
+2
+6
+desaercni
+esarefsnartonima
+etatrapsA
+1
+5
+2
+31
+hgih loretselohC
+1
+3
+noitapitsnoC
+1
+4
+desaercni
+eninitaerC
+4
+1
+7
+eugitaF
+2
+1
+5
+ehcadaeH
+6
+6
+6
+51
+aimecylgrepyH
+2
+4
+aimesengamrepyH
+3
+7
+4
+41
+aimedirecylgirtrepyH
+4
+1
+6
+aimeclacopyH
+3
+4
+aimelakopyH
+5
+5
+aimertanopyH
+2
+2
+1
+3
+2
+7
+aimetahpsohpopyH
+2
+1
+3
+5
+5
+laro sitisocuM
+1
+1
+3
+3
+6
+aesuaN
+1
+3
+1
+airunietorP
+1
+5
+mrofienca
+hsaR
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Fouladi et al. Page 18
+)selcyc
+pu-wollof
+22+77
+,latoT(
+02
+ot
+2
+selcyc
+ssorca
+yticixot
+fo
+edarg
+mumixaM
+)selcyc
+33
+,latot(
+1
+elcyc
+ssorca
+yticixot
+fo
+edarg
+mumixaM
+epyT
+yticixoT
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+2
+1
+1
+5
+ssol
+thgieW
+*
+ypareht
+fo
+elcyc
+tsrif
+eht
+ni
+denimreted
+sa
+stneitap
+fo
+%01>
+ni
+derrucco
+taht
+esoht
+era
+seiticixot
+cigolotameh-noN
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Fouladi et al. Page 19
+4
+elbaT
+sretemaraP
+)KP(
+citenikocamrahP
+21A-CMI
+1
+elcyC
+fo
+yrammuS
+gk/gm
+6
+gk/gm
+6
+gk/gm
+6
+esoD
+21A-CMI
+2m/gm
+51
+2m/gm
+01
+2m/gm
+8
+esoD
+sumilorismeT
+)4
+=
+n(
+)3
+=
+n(
+)8=n(
+egnaR
+naideM
+egnaR
+naideM
+egnaR
+naideM
+)464–161(
+032
+)093–912(
+772
+)553–932(
+182
+)Lm/gμ(
+xamC
+)0.7–1.1(
+1.2
+)2.2–1.1(
+1.1
+)0.7–0.1(
+0.2
+)h(
+xamT
+)644–89(
+031
+)331–88(
+221
+)161–46(
+89
+)h(
+t
+2/1
+)0.43–8.41(
+4.62
+)7.82–6.02(
+6.52
+)7.92–6.11(
+6.02
+)L/gμ•h(
+CUA
+d7–0
+)3.41–1.3(
+0.7
+)5.41–9.2(
+9.9
+)2.51–1.1(
+3.8
+)h/Lm(
+LC
+)42.0–70.0(
+31.0
+)81.0–21.0(
+71.0
+)34.0–21.0(
+91.0
+)gk/h/Lm(
+LC
+)0042–095(
+0681
+)0481–074(
+0571
+)0932–051(
+0501
+)Lm(
+ssdV
+)3.24–6.81(
+1.13
+)4.92–7.02(
+7.22
+)3.04–8.02(
+8.52
+)gk/Lm(
+ssdV
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.
+
+--- Page 20 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Fouladi et al. Page 20
+5
+elbaT etilobateM
+sti
+dna
+sumilorismeT
+rof
+ataD
+citenikocamahP
+1
+elcyC
+fo yrammuS
+51
+01
+8
+sumilorismeT
+)5 =
+n(
+2m/gm
+)3 =
+n(
+2m/gm
+)11=n(
+2m/gm
+esoD
+egnaR
+naideM
+egnaR
+naideM
+egnaR
+naideM
+sumilorismeT
+0131
+516
+066
+576
+382
+606
+0102
+781
+905
+)Lm/gn(
+xamC
+7.0
+5.0
+6.0
+3.1
+6.0
+7.0
+2.1
+5.0
+8.0
+)h(
+xamT
+7.42
+5.5
+7.6
+4.11
+5.1
+5.5
+2.8
+1.1
+3.2
+)h/L(
+LC
+6.99
+4.81
+9.47
+1.86
+5.04
+4.05
+5.421
+2.6
+3.64
+)L(
+ssdV
+9.21
+3.7
+3.01
+4.81
+8.3
+5.01
+9.54
+3.5
+3.01
+)h(
+t 2/1
+8204
+379
+4872
+5792
+0561
+4562
+4915
+896
+2202
+)Lm/gn•h(
+CUA h42–0
+3925
+379
+4723
+0284
+6661
+6463
+6355
+739
+6492
+)Lm/gn•h(
+CUA fni
+sumiloriS
+5.83
+4.12
+3.23
+1.82
+2.01
+3.12
+2.38
+4.3
+3.02
+)Lm/gn(
+xamC
+2.1
+8.0
+0.1
+7.1
+3.1
+7.1
+5.6
+0.1
+6.1
+)h(
+xamT
+5.321
+3.51
+9.07
+0.17
+8.06
+9.86
+8.621
+4.52
+0.15
+)h(
+t 2/1
+166
+022
+975
+353
+061
+582
+2521
+77
+372
+)Lm/gn•h(
+CUA h42–0
+3655
+0581
+0782
+0123
+155
+8621
+5763
+542
+767
+*)Lm/gn•h(
+f CUA ni
+4648
+3282
+6446
+1735
+6784
+4194
+2398
+2811
+0575
+)Lm/gn•h(
+S+T_CUA
+muS
+9.1
+5.0
+0.1
+9.1
+1.0
+3.0
+7.1
+1.0
+3.0
+meT/riS
+oitaR
+)∞–0(
+ytinifni
+ot
+orez
+emit mrof
+=
+fnI
+Clin Cancer Res. Author manuscript; available in PMC 2016 April 01.

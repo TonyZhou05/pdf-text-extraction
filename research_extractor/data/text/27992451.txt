@@ -1,0 +1,516 @@
+Source: 27992451.pdf
+Extracted on: Fri Sep 12 23:55:55 PDT 2025
+==================================================
+
+--- Page 1 ---
+RESEARCHARTICLE
+Phase I/II Trial of Sorafenib in Combination
+with Vinorelbine as First-Line Chemotherapy
+for Metastatic Breast Cancer
+CristianoFerrario1*,IvanStrepponi2,KhashayarEsfahani1*,HelenCharamis1,
+AdrianLangleben1,EmanuelaScarpi3,OrianaNanni3,WilsonH.Miller,Jr1,Lawrence
+C.Panasci1
+1 DepartmentofMedicalOncology,McGillUniversity,Montreal,Canada,2 DepartmentofCellTherapeutics,
+SedeSecondariaDellaCellTherapeutics,Bresso,Italy,3 Departmentofstatistics,IstitutoScientifico
+a11111 RomagnoloperloStudioelaCuradeiTumori,Rome,Italy
+*cristianoferrario@gmail.com(CF);Khashayar.esfahani@mail.mcgill.ca(KE)
+Abstract
+OPENACCESS
+Background
+Citation:FerrarioC,StrepponiI,EsfahaniK,
+CharamisH,LanglebenA,ScarpiE,etal.(2016) Preclinicalmodelshavereportedasynergisticinteractionbetweensorafenibandvinorel-
+PhaseI/IITrialofSorafenibinCombinationwith
+bine.Weinvestigatedthetoxicity,efficacy,andpharmacokineticsinteractionofthiscombi-
+VinorelbineasFirst-LineChemotherapyfor
+nationasfirst-linetreatmentforpatientswithmetastaticbreastcancer.
+MetastaticBreastCancer.PLoSONE11(12):
+e0167906.doi:10.1371/journal.pone.0167906
+Editor:EldaTagliabue,FondazioneIRCCSIstituto Methods
+NazionaledeiTumori,ITALY
+PatientswereHER2-negativeandtreatedwithvinorelbine30mg/m2IVdays1,8every21
+Received:July24,2016
+plusdailyoralsorafenib.InthephaseIportion(3+3design)patientsreceivedsorafenib200
+Accepted:November18,2016 mgBID(cohort1)or400mgBID(cohort2).InthephaseIIexpansion,21moreevaluable
+Published:December19,2016 patientswereplannedtoreceivethemaximumtolerateddose(MTD).Pharmacokinetic
+analysiswasperformedin6patients:bloodconcentrationswerecomparedforeachdrugin
+Copyright:©2016Ferrarioetal.Thisisanopen
+accessarticledistributedunderthetermsofthe thepresenceorabsenceoftheotherdrug.
+CreativeCommonsAttributionLicense,which
+permitsunrestricteduse,distribution,and
+Results
+reproductioninanymedium,providedtheoriginal
+authorandsourcearecredited.
+Incohort1,onepatientexperiencedadose-limitingtoxicity(DLT)(grade3pancreatitis),
+DataAvailabilityStatement:Allrelevantdataare requiringtheexpansionofthiscohortto6patients,withoutfurtherdocumentedDLTs.In
+withinthepaperanditsSupportingInformation cohort2,onepatientofsixexperiencedagrade4DLT(asymptomaticriseinamylasenot
+files.
+requiringdrugdiscontinuation),establishingthisdoselevelastheMTD(sorafenib400mg
+Funding:ThestudyisfundedbyBayer BID).AfterexpansionattheMTD,atotalof27patients(medianage57)weretreatedfora
+Pharmaceutical(Grantnumber12661;https://
+medianof8cycles.Onegrade5febrileneutropeniaoccurred.Withrepeatedcycles,52%of
+www.bayer.ca).Thefunderprovidedsupportinthe
+formofresearchmaterialsforauthorLP,butdid patientsrequiredatleast1dosereductionofeitherdrug.Onepatientexperiencedasus-
+nothaveanyadditionalroleinthestudydesign, tainedgrade3fatigueresultingintreatmentdiscontinuation.Theresponseratewas30%.
+datacollectionandanalysis,decisiontopublish,or
+MedianPFSwas5.7months(95%CI4.4–7.6),andclinicalbenefit(absenceofdiseasepro-
+preparationofthemanuscript.Thespecificrolesof
+gressionat6months)was48%.PKanalysisshowedasignificantinteractionbetweenthe
+thisauthorarearticulatedinthe‘author
+contributions’section. twodrugs,resultinginahigherCmaxofvinorelbineinthepresenceofsorafenib.
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 1/14
+
+--- Page 2 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+CompetingInterests:Thestudywasfundedby Conclusion
+BayerPharmaceutical.IS,ES,andONareaffiliated
+Thecombinationofsorafenibandvinorelbineatfulldosesisfeasiblebutnotdevoidoftoxic-
+withSedeSecondariaDellaCellTherapeuticsand
+helpedprovidestatisticalanalysisforthestudy, ity,likelyalsoduetoasignificantPKinteraction.
+withoutfurtherconflictofinterest,financialor
+other.ThesedonotalterouradherencetoPLOS TrialRegistration
+ONEpoliciesonsharingdataandmaterials.
+ClinicalTrials.govNCT00764972
+Introduction
+Metastaticbreastcancerisavirtuallyincurabledisease,forwhichaggressivetreatmentsare
+notjustifiedinmostcases.Rather,thereisaneedtodevelopnewcombinationsthatmight
+maintainagoodefficacyprofile,withoutsignificantlycompromisingqualityoflife.
+Vinorelbineisasemisyntheticvincaalkaloidthatinhibitsmicrotubulepolymerizationand
+hasshownsignificantclinicalactivityassalvagetherapyformetastaticbreastcancer(MBC)
+[1].Vinorelbineisoftenadministeredondays1and8of21-daycycles,withnodecreaseinthe
+administereddoseintensitycomparedtomorefrequentschedules.Themaindoselimiting
+toxicity(DLT)ishematological,specificallyneutropenia,andthemostcommonlyreported
+toxicityisneurological,mainlyoccasionalparesthesia,diminutionofdeep-tendonreflexes,
+andconstipation.
+SorafenibwasoriginallyidentifiedasastronginhibitorofC-andB-RAFandreducesbasal
+phosphorylationofthedownstreamMAPKpathwayinapanelofbreastcancercelllines[2].
+TheRaf/MEK/ERKpathwayisastronginducerofproliferativeandantiapoptoticgenes
+involvedindrugresistanceandpotentiationoftumormetastasis[3].Furthercharacterization
+ofthecompoundalsoconfirmedpotentinhibitionofaspectrumofreceptortyrosinekinases
+mainlyinvolvedinangiogenesis,includingVEGFR2,Flt-3,PDGFR-beta,andc-kit[4].Sorafe-
+nibisthusexpectedtoexertacombinedtargetedantiproliferativeeffectontumorcells
+togetherwithantiangiogenesisproperties.
+Favourablecytotoxiceffectswerereportedaftertreatmentofabroadspectrumofhuman
+cancercelllinesandxenografts,withsorafenibandseveralchemotherapeuticagents,including
+vinorelbine,suggestingasynergisticinteraction[2,5].Twopreliminaryreportsofsorafenibas
+singleagentinMBCshowedclinicalactivity,withmanageabletoxicityprofileconsistingof
+mostlygrade1cutaneous,constitutional,andgastrointestinaltoxicity[6,7].Sorafenibhasalso
+beensafelycombinedwithmultiplechemotherapyagents.
+Weinvestigatedtheclinicalsafetyandactivityofvinorelbineandsorafenib(VS),defining
+therecommendeddosesforthiscombinationanditsefficacyasfirst-lineinMBCpatients.
+Aparallelpharmacokinetic(PK)studywasalsorun,toinvestigateapossibleinteraction,as
+themetabolismofbothsorafenibandvinorelbinedependsonhepaticCYP3Aisoenzymes.
+MaterialsandMethods
+Studydesign
+Thisissinglecenterstudy,conductedwiththeapprovaloftheJewishGeneralHospital
+ResearchEthicsCommitteeinSeptember2016.Duetoanadministrativeoversight,thefirst
+patientwasrecruitedbeforethetrialwasofficiallyregistered.However,theauthorsconfirm
+thatallongoingandrelatedtrialsforthisdrug/interventionareregistered.Writteninformed
+consentwasobtainedfromallpatients.Thestudyplannedfirstaphase1b,todefinetherec-
+ommendeddosesoftheVScombination.Withatraditional3+3doseescalationinsubsequent
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 2/14
+
+--- Page 3 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+cohorts,wetestedincreasingdosesofsorafenib(withafixedstartingdoseofvinorelbine)up
+totherecommendeddoseforsorafenibmonotherapy:200mgbid(cohort1)and400mgbid
+(cohort2).Incaseofdose-limitingtoxicity(DLT)observedincohort1,theprotocolallowed
+fortestingofacohort–1(200mgqd).
+Threepatientswereenrolledstartingatthefirstdoselevelandobserveduntilcompletionof
+cycle1:ifanypatientexperiencedaDLT,uptothreeadditionalpatientsweretobeenrolledat
+thesamedoselevel.
+Therecommendeddoseforthesecondpartofthestudywasthemaximumtolerateddose
+(MTD),definedasthehighestdoseatwhichnomorethanonepatientoutofsixwouldexperi-
+enceaDLTor,intheabsenceofatoxicdose,thedoseof400mgbid.
+Inthesecondpartofthetrial(phaseII)thecohortofpatientstreatedattheMTDwas
+expandeduptoatotalof27patientstreatedwiththisscheduleofVS.Primaryendpointwas
+overallresponserate.Secondaryendpointsincludedclinicalbenefitrate,progression-freesur-
+vivalandsafetyanalysis.
+Patientselection
+Womenatleast18yearsofagewithhistologicallyprovenmetastaticbreastcancerandalife
+expectancyover6monthswereeligibleforthestudy.Inclusioncriteriaincluded:HER-2nega-
+tivediseaseasdefinedbylocaltesting,measurablediseasebyRECIST1.0criteria;ECOGper-
+formancestatusof0–1,adequatebonemarrowreserve,aswellasnormalheart,kidneyand
+liverfunctions(creatinine(cid:20)1.5UNL,bilirubin(cid:20)1.5UNL,AST/ALT(cid:20)2UNLandabaseline
+leftventricularejectionfraction(LVEF)ofatleast50%).Patientswereexcludedifthey
+receivedpreviouschemotherapyformetastaticdisease,anyprevioustherapywithvinorelbine
+oranyanti-angiogenictherapy,anybreastcancertreatmentin4weeksprecedingenrolment,
+knowncentralnervoussystemmetastases,previoushistoryofischemiccardiovasculardisease
+orthromboembolicevents,andotheruncontrolledrelevantmedicalconditions.
+Treatmentandprocedures
+Patientsreceivedvinorelbine30mg/m2ondays1,8every21daysandsorafenibdaily(200mg
+bidincohort1and400mgincohort2).Radiologicalimagingwasrepeatedeverytwocycles
+andcardiacmonitoring(12-leadEKGplusechocardiogramorMUGAscan)wasalsosched-
+uledevery12weeks.Intheabsenceofdiseaseprogressionorunacceptabletoxicity,patients
+receivedcombinationVStherapyforupto8cycles,orupto4cyclesafterachievingbest
+response.Patientsnotprogressingduringthecombinationtreatmentcontinuedtoreceive
+maintenancesorafenibmonotherapy(400mgbid).Doseadjustmentsanddelaysbasedon
+observedtoxicitiesweredetailedintheprotocol.
+Statisticalconsiderations
+Fromapooledanalysisofpublisheddataonmonotherapyvinorelbineasfirst-linetreatment
+formetastaticbreastcancer,anoverallresponserateof43%wasselectedashistoricalcontrol.
+ForthesamplesizecalculationofthephaseIIportionofthestudy,wehypothesizedthatifthe
+VScombinationcouldleadtoaresponserateof63%(20%overhistoricalcontrol),developing
+arandomizedtrialwouldhavebeenreasonable.Withapowerof80%todetectsuchan
+increaseandasignificancelevel(alpha)of0.10,theminimumsamplesizeneededwas27
+evaluablepatients.Kaplan-Meierestimateswereusedtoanalyzetime-to-eventdata.
+ForPKanalysis,nonparametricWilcoxonsigne-ranktestwasusedtocomparetheprofile
+ofeachdrug(andtheM2activemetaboliteofsorafenib)intheabsenceorpresenceofthe
+otherdrug.
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 3/14
+
+--- Page 4 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+Pharmacokinetics
+PlasmasamplesforPKwerecollectedinsixpatientstreatedattherecommendeddoseand
+analyzedbyBayerusingvalidatedliquidchromatography–massspectrometry(LC-MS/MS)
+assays.Thesepatientsstartedtakingsorafenibonday4ofthefirstcycle,allowingustocom-
+paretheplasmalevelsofvinorelbine,sorafenibandM2(N-oxideactivemetaboliteofsorafe-
+nib)whenvinorelbineandsorafenibwereadministeredconcomitantlyandwhentheywere
+givenapartfromeachother.
+Plasmasamplesforvinorelbinewerecollectedonday1ofthefirstcycle(beforesorafenib
+treatment,startingonday4)andonday1ofcycle2,inthepresenceofsteadystatelevelsof
+sorafenib.Inbothcases,collectiontimepointsforsampleswere:time0(pre-dose),attheend
+oftheinfusion,0.5,1,2.5,5,7,24,48,72hoursfromtheendoftheinfusion.
+SamplesforsorafenibandM2werecollectedwithasimilarschedule(0,0.5,1,2.5,5,7,24
+hoursafterthefirstdailyintake)onday21ofcycle1(thedaybeforevinorelbineadministra-
+tion)andonthefollowingday(day1ofcycle2)aftervinorelbineadministration:time,plus48
+and72hoursafterthefirstsorafenibintakeoncycle2day1.
+Results
+BetweenDec2007andJuly2011,34patientswerescreenedand33wereconsentedtopartici-
+pateinthestudy(Fig1).Twopatientsdiscontinuedtreatmentduringthefirstcycleoftreat-
+mentintheabsenceofDLT,onebecauseofthediscoveryofbrainmetastasesandtheother
+onewithdrewconsent.Thesetwopatientswerethendeemednotevaluableforefficacyanaly-
+sis,butwereincludedinthesafetyanalysis.Therewasnolosstofollow-up.
+PhaseI
+Inthefirstcohortofpatients(sorafenib200mgbid)oneDLTafter1cyclewasobservedin
+patient2(grade3pancreatitis),requiringexpansionofthiscohorttosixpatientstotal,withno
+furtherDLTreportedatcycle1.Thisdoselevelwasconfirmedtobesafealsoforrepeated
+cycles:onlyonepatientwithabaselineborderlineLVEF(<55%)hadtodiscontinuetreatment
+after8cyclesbecauseoftoxicity,developingarecurrentgrade2LVEFdecrease,thatrecovered
+to>50%aftertreatmentwasstopped.
+Incohort2(sorafenib400mgbid)onepatientoutofsixdevelopedaDLTatcycle1,con-
+sistingofagrade4increaseinamylaseandlipase.Evenifthiswascompatiblewiththeper-
+protocoldefinitionofDLT,itwascompletelyasymptomaticandfelttobeclinicallynon-rele-
+vant.WithrepeatedcyclesnootherpatienthadtodiscontinuetreatmentforDLT,buttempo-
+rarydrugsuspensionsordosereductionswereusedforpatientsnottoleratingsustained
+treatment.Onepatientdecidedtowithdrawfromthestudyforsubjectivelyunacceptable
+grade2fatigueandwasreplacedbyanotherevaluablepatient.
+TheMTDwasnotformallyreachedanditwasthenestablishedthattherecommendeddose
+forthephaseIIexpansionwas:vinorelbine30mg/m2day1,8every21daysandsorafenib400
+mgbid,
+PhaseII:patientpopulation
+InthephaseIIpartofthestudy21morepatientsstartedontreatmentattheMTD,soasto
+haveatotalof27evaluablepatientstreatedatthisdose(includingthe6evaluablepatients
+treatedinthephaseIcohort2).Patientswereallfemale,withamedianageof57(range35–
+71).Theyreceivedamedianof8cycles(1–28).Patientcharacteristicsaresummarizedin
+Table1.
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 4/14
+
+--- Page 5 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+PhaseII:toxicity
+Onepatientexperiencedatoxicdeathatcycle1,withfebrileneutropeniacomplicatedwith
+shockbeforeshewasstartedonG-CSF.Withrepeatedcycles52%ofpatientsrequiredatleast
+1dosereductionofeitherdrug.Onepatientdiscontinuedtherapyfortoxicity(sustainedgrade
+3fatigue).OthertoxicitiesarelistedinTable2.
+• Otheradverseeventsmax.grade1–2,reportedin15–27%ofpatients:asymptomaticAST/
+ALTincrease,asymptomaticALKincrease,mucositis,nausea,vomiting,diffusepain,abdomi-
+nalpain,dyspepsia,constipation.
+Fig1.Flowdiagramofthepatientsenrolledinthestudy.
+doi:10.1371/journal.pone.0167906.g001
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 5/14
+
+--- Page 6 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+Table1. BaselinecharacteristicsofthepatientstreatedwiththeVScombinationattheMTD.
+Characteristics Value
+Totalpatients 27
+Medianage(range) 57(35–71)
+Mediannumberofcycles 8(1–28)
+Characteristic Patients,no.
+Hormonestatus
+ER+/PR+ 17
+ER+/PR- 3
+ER-/PR- 7
+Tumorsubtype
+Ductal 21
+Lobular 3
+Inflammatory–NOS 2
+Medullary 1
+Numberofmetastaticsites
+1 6
+2 10
+(cid:21)3 11
+Metastaticsites
+Lung 6
+Liver 13
+Bone 16
+Node 7
+Skin 5
+doi:10.1371/journal.pone.0167906.t001
+• Otheradverseeventsmax.grade1–2,reportedin4–11%ofpatients:thrombocytopenia,
+anemia,insomnia,depressedmood,weightloss,dyspnea,dysgeusia,increasedcreatinine,
+increaseduricacid,headache,chills,myalgia,abscess,tinnitus,chestpain,hypothyroidism,dry
+mucosae,dryskin.
+Table2. Adverseeventsobservedinthe27patientstreatedattherecommendeddose.
+GRADE 1 2 3 4 5
+Febrileneutropenia 2(7%) 1(4%)
+Uncomplicatedneutropenia 5(18%) 5(19%) 10(37%)
+Fatigue 13(48%) 5(19%)
+Hand-footsyndrome 7(26%) 3(11%)
+Diarrhea 13(48%) 1(4%)
+Rash 9(34%) 1(4%)
+Enteritis 1(4%)
+Hypertension 1(4%)
+DecreaseLVEF 1(4%)
+Lipase/amylase* 5(19%) 2(7%)
+Bilirubin/GGT* 3(11%) 3(11%)
+Alopecia 6(22%) 5(19%)
+Sensorialneuropathy 5(19%) 2(7%)
+*Asymptomaticincrease
+doi:10.1371/journal.pone.0167906.t002
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 6/14
+
+--- Page 7 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+PhaseII:efficacy
+Bestresponseswereasfollows:30%partialresponse,55%stabledisease(cid:21)4cycles,and15%
+diseaseprogression(includingtoxicdeath).Clinicalbenefitrate(definedastheabsenceofdis-
+easeprogressionforatleast6months)was48%.Medianprogression-freesurvivalwas5.7
+months(95%CI4.4–7.6)(Fig2).Mediantime-to-progressionwasthesame:5.7months(95%
+CI4.5–8.7).
+Exploratoryanalysis
+WenoticedalongerPFSinthepatientstreatedinthecohort1ofthephaseI.Wethenranan
+unplannedhypothesis-generatinganalysiscomparingPFSbetweenpatientsstartedontreat-
+mentat400mgbidofsorafenibandmaintainingthisdoseduringtreatmentversusthose
+Fig2.Progression-freesurvivaloftheVScombination
+doi:10.1371/journal.pone.0167906.g002
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 7/14
+
+--- Page 8 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+treatedat200mgbidfromthestartorreducingtheirdoseto200mgbidwithinthefirst2
+cycles.
+Thereappearstobeanadvantageassociatedwiththelowerdoseofsorafenib,withaPFSof
+8.7monthsin18patientstreatedatthelowerdoseversus4.8monthsinthosetreatedatfull
+dosesofsorafenib(p=0.002)(Fig3).Resultsweresimilarwhenconsideringinthe"200mg
+subgroup"onlythepatientstreatedfromthestartatthelowerdoseorthoserequiringdose
+reductionbecauseoftoxicity.
+Pharmacokinetics
+OneofthesixpatientsanalyzedforPKanalyseshadtoreducethedoseofsorafenibfortoxicity
+afterthefirstcycle,soinhercaseallPKanalyseswerere-runfortreatmentwith200mgbidof
+sorafenib.
+Fig3.Progression-freesurvivalbythedoseoftheregorafenib
+doi:10.1371/journal.pone.0167906.g003
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 8/14
+
+--- Page 9 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+Assorafenibintakewasevery12hours,concentrationcurvesforsorafenibandM2metabo-
+liteweretruncatedatthe7-hourtimepoint,inordertoincreasethesensitivityinthePKanaly-
+sisinbetweendoses.
+Plasmalevelsofvinorelbineshowedlittleinterpatientvariabilityandwerecompatiblewith
+atriphasiceliminationprofile,asdescribedintheliterature.
+Plasmaconcentrationsofsorafenib(Fig4A)andM2metabolite(Fig4B)shownoticeable
+variabilityacrossthe6patientsanalyzed,hereinthepresenceofvinorelbine.Similarvariability
+wasobservedalsointheabsenceofvinorelbine(datanotshown).
+Table3summarizesmeanPKparameters(inall6patients)withSD.
+WeobserveasignificantlyhigherCmaxofvinorelbinewhenthedrugisadministeredin
+thepresenceofsteady-stateconcentrationsofsorafenib(Fig5).Thiswasclearin5outof6
+patientsanalyzedandfoundtobestatisticallysignificant(bothwithWilcoxonsigned-ranktest
+andwithpairedt-test).
+Therewasamarginalsignificanceforanincreaseoftheareaunderthecurveuntilthelast
+measurableconcentration(AUClast)ofsorafenibinthepresenceofvinorelbine.
+Discussion
+AntiangiogenesistherapyforMBChasbeenthesubjectofmanypreclinicalandlargerandom-
+izedclinicaltrialswithpotentiallycontroversialresults.Themostwidelystudiedagentisbeva-
+cizumab,ahumanizedmonoclonalantibodyagainstVEGF.InaphaseIIIrandomizedtrial,
+theadditionofbevacizumabtopaclitaxelsignificantlyimprovedPFS(median11.8vs5.9
+months)andincreasedoverallresponserate(ORR36.9%vs21.2%),withoutimprovingOS
+(median26.7vs25.2months)[8].Additionaltrialscombiningbevacizumabwithmultiple
+otherchemotherapyagentsreportedverysimilarresults[9,10,11].Ameta-analysisofthesetri-
+alsconfirmedthatbevacizumabcombinedwithchemotherapyinthefirst-linetreatmentof
+MBCsignificantlyimprovesORRandPFS,butattheexpenseofincreasedratesofgrade3–4
+toxicities,andwithoutanystatisticallysignificantOSbenefit[12].
+AspartoftheTrialstoInvestigatetheEfficacyofSorafenib(TIES)inbreastcancerpro-
+gram,sorafenibhasbeenstudiedwithvariousagentsinMBCinfourrandomized,placebo-
+controlled,double-blindedtrials:aphaseIIBofsorafenibincombinationwithfirst-orsec-
+ond-linecapecitabineinHER2-MBC(SOLTI-0701)thatshowedasignificantimprovement
+inPFSof6.4monthsvs4.1months[13],acombinationwithfirstlinepaclitaxel(NU07B1)
+thatshowedaPFSof6.9monthsvs5.6months[14],afirst-orsecond-linetrialincombination
+withcapecitabineorgemcitabine(AC01B07)thatshowedaPFSof3.4monthsvs2.7months
+[15],andafirstlinecombinationwithletrozoleand/ordocetaxel(FM-B07-01)trialthat
+showedPFSof9.2monthsvs.10.2months[16].TheSOLTI-0701trialofsorafenibincombi-
+nationwithcapecitabine1000mg/m214daysofa21-daycycleistheonlytrialthatreporteda
+statisticallysignificantPFSimprovement,withoutasignificantimpactonOS(22.2vs20.9
+months)oroverallresponse(38%vs31%).Tofurtherinvestigatethiscombination,aphaseIII
+trialofsorafenibincombinationwithcapecitabine(RESILIENCE-NCT01234337)iscurrently
+underway.
+OurresultsfromthisphaseI/IItrialalsofailtoreportaresponseratehigherthanhistorical
+controldatamatchedforlineoftreatment(firstlineonly),withourreportedORRof30%in
+thisstudybeinglowerthanthehistoricalcontrolof43%.Nevertheless,thePFSobservedin
+thisstudyisstillinteresting,withaclinicalbenefit>6monthsin16of33patients(48%).Act-
+ingmainlyasacytostaticagent,sorafenibmightcontributemoretoalongerdiseasecontrol
+ratherthanincreasingtumorshrinkage.Thishighlightsthechallengesinvolvedinexploring
+combinationswithbiologicalagentsinsmall-sizedphase2trials,inparticularforwhat
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 9/14
+
+--- Page 10 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+Fig4. A:PlasmaconcentrationofSorafenibovertime.B:Plasmaconcentrationofsorafenibmetabolites(M2)overtime
+doi:10.1371/journal.pone.0167906.g004
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 10/14
+
+--- Page 11 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+Table3. Meanpharmacokineticparametersinall6patientswithSD.
+t½(hr) Cmax(ng/mL) AUClast(hr*ng/mL)
+V Valone Mean 0.21 1301 p=0.031 856 p=0.219
+SD 0.04 553 358
+V+S Mean 0.19 2039 1057
+SD 0.04 383 189
+S Salone Mean 1.67 9,135 p=0.156 44800 p=0.093
+SD 1.29 1624 3839
+S+V Mean 2.67 10,502 55413
+SD 2.04 3159 11234
+M2 Salone Mean 1.76 2,224 p=0.312 10662 p=0.312
+SD 1.18 988 4054
+S+V Mean 3.42 2,503 12576
+SD 2.69 1352 5461
+V=vinorelbineS=sorafenibM2=M2metabolitep=significanceofWilcoxonsigned-ranktest
+doi:10.1371/journal.pone.0167906.t003
+concernstheselectionoftheidealprimaryendpointandtheimportancetoalsodevelopphar-
+macodynamicsmarkersofbiologicalactivity.
+Recently,anotherphaseI/IItrialinMBCreportedonthecombinationofvinorelbineand
+sorafenib[17].With44%patientsfreeofprogressionat4months,authorsconcludedthatthe
+VSregimendidnotappearclearlysuperiortohistoricaldataforsingle-agentvinorelbine,
+althoughwewouldpointoutthatareliablecomparisonisalmostimpossiblegiventhat
+Fig5.Meanplasmaconcentrationsofvinorelbinewhenadministeredasasingleagent(cycle1day1,bluecurve)orinthepresenceofsteady-
+stateconcentrationsofsorafenib(cycle2day1,redcurve).
+doi:10.1371/journal.pone.0167906.g005
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 11/14
+
+--- Page 12 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+patientsweretreatedinthisstudyinacombinationoffirst-,second-andthird-linetherapies.
+Othercharacteristicsofthattrialdistinguishingitfromoursandmakingitsinterpretation
+somehowmorecomplexincludethefactthat41%ofpatientshadtriplenegativedisease,and
+24%ofpatientshadreceivedbevacizumabaspartofprevioustreatmentsforMBC.
+Anothersignificantfindinginourstudyisthatalthoughthesafetyanalysisafter1cycle
+failedtodetermineatoxicdoselevel,withrepeatedcyclesabouthalfofthepatientsrequiredat
+leastonedosereductionofeitherdrug.Inmostcasesthiswasdonetooptimizetreatmenttol-
+erabilityintheabsenceoflife-threateningtoxicities,althoughwealsoobservedonecaseof
+fatalfebrileneutropenia.Unexpectedlow-gradetoxicityincludedasignificantportionof
+patientswithgrade1–2hairloss,whichisusuallynotobservedwheneitherdrugisusedasa
+singleagent.
+Webelievethatpartofthesefindingsderivefromthesignificantpharmacokineticinterac-
+tionbetweensorafenibandvinorelbinethatweobserved,resultinginamarginallysignificant
+increaseofAUClastofsorafenibandmoreimportantlyastatisticallysignificantincreasein
+Cmaxofvinorelbinewhenthetwodrugsarecombined.Consideringalloftheabove,areason-
+ableoptiontopursuedevelopmentoftheVScombinationinclinicalpracticewithbettertoler-
+abilitywouldbetostarttherapywithsorafenibat200mgbidandfulldosesofvinorelbine,
+consideringagradualdoseincreasetofulldosesforthosepatientsinwhichnograde2–3tox-
+icityisobserved.Itissomehowreassuringthatweobservednodetrimentaleffectforpatients
+receivingsorafenibatthereduceddoseof200mgbid.
+Conclusion
+Combiningsorafenibandvinorelbineatfulldosesisfeasible,butnotdevoidoftoxicityfor
+repeatedcycles,mostlikelyduetoasignificantPKinteraction.Prolongeddiseasecontrolis
+observedalsowithareduceddoseofsorafenib.Thiscombinationshouldbeonlypursuedif
+validpharmacodynamicsbiomarkersorpredictivebiomarkersbecomeavailable.
+SupportingInformation
+S1File.NexavarProtocol.
+(PDF)
+S2File.TRENDStatement
+(PDF)
+Acknowledgments
+WewouldliketothanktheMcGillDepartmentofOncologyfortheirhelpinpublishingthis
+article.
+AuthorContributions
+Conceptualization:CFLP.
+Datacuration:CFISKEHCALESONWMLP.
+Formalanalysis:CFKEISESONLP.
+Fundingacquisition:CFLP.
+Investigation:CFKEHCALWMLP.
+Methodology:CFISKEHCALESONWMLP.
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 12/14
+
+--- Page 13 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+Projectadministration:HC.
+Resources:ISESON.
+Software:ISESON.
+Supervision:CFLP.
+Validation:CFISKEHCALESONWMLP.
+Visualization:CFLP.
+Writing–originaldraft:CFISKEESONLP.
+Writing–review&editing:CFISKEHCALESONWMLP.
+References
+1. ManoM.Vinorelbineinthemanagementofbreastcancer:Newperspectives,revivedroleintheeraof
+targetedtherapy.Cancertreatmentreviews.2006;32(2):106–18.Epub2006/02/14.doi:10.1016/j.ctrv.
+2005.12.008PMID:16473470
+2. WilhelmSM,CarterC,TangL,WilkieD,McNabolaA,RongH,etal.BAY43–9006exhibitsbroadspec-
+trumoralantitumoractivityandtargetstheRAF/MEK/ERKpathwayandreceptortyrosinekinases
+involvedintumorprogressionandangiogenesis.Cancerresearch.2004;64(19):7099–109.Epub
+2004/10/07.doi:10.1158/0008-5472.CAN-04-1443PMID:15466206
+3. HilgerRA,ScheulenME,StrumbergD.TheRas-Raf-MEK-ERKpathwayinthetreatmentofcancer.
+Onkologie.2002;25(6):511–8.PMID:12566895
+4. WilhelmSM,AdnaneL,NewellP,VillanuevaA,LlovetJM,LynchM.Preclinicaloverviewofsorafenib,a
+multikinaseinhibitorthattargetsbothRafandVEGFandPDGFreceptortyrosinekinasesignaling.
+Molecularcancertherapeutics.2008;7(10):3129–40.Epub2008/10/15.doi:10.1158/1535-7163.MCT-
+08-0013PMID:18852116
+5. CarterCA,ChenC,BrinkC,VincentP,MaxuitenkoYY,GilbertKS,etal.Sorafenibisefficaciousand
+toleratedincombinationwithcytotoxicorcytostaticagentsinpreclinicalmodelsofhumannon-smallcell
+lungcarcinoma.Cancerchemotherapyandpharmacology.2007;59(2):183–95.doi:10.1007/s00280-
+006-0257-yPMID:16724239
+6. Moreno-AspitiaA,MortonRF,HillmanDW,LingleWL,RowlandKMJr.,WiesenfeldM,etal.PhaseII
+trialofsorafenibinpatientswithmetastaticbreastcancerpreviouslyexposedtoanthracyclinesortax-
+anes:NorthCentralCancerTreatmentGroupandMayoClinicTrialN0336.JClinOncol.2009;27
+(1):11–5.Epub2008/12/03.PubMedCentralPMCID:PMCPMC2645094.doi:10.1200/JCO.2007.15.
+5242PMID:19047293
+7. BianchiG,LoiblS,ZamagniC,SalvagniS,RaabG,SienaS,etal.PhaseIImulticenter,uncontrolled
+trialofsorafenibinpatientswithmetastaticbreastcancer.Anti-cancerdrugs.2009;20(7):616–24.Epub
+2009/09/10.PMID:19739318
+8. MillerK,WangM,GralowJ,DicklerM,CobleighM,PerezEA,etal.Paclitaxelplusbevacizumabversus
+paclitaxelaloneformetastaticbreastcancer.NEnglJMed.2007;357(26):2666–76.doi:10.1056/
+NEJMoa072113PMID:18160686
+9. RobertNJ,DierasV,GlaspyJ,BrufskyAM,BondarenkoI,LipatovON,etal.RIBBON-1:randomized,
+double-blind,placebo-controlled,phaseIIItrialofchemotherapywithorwithoutbevacizumabforfirst-
+linetreatmentofhumanepidermalgrowthfactorreceptor2-negative,locallyrecurrentormetastatic
+breastcancer.JClinOncol.2011;29(10):1252–60.doi:10.1200/JCO.2010.28.0982PMID:21383283
+10. BrufskyAM,HurvitzS,PerezE,SwamyR,ValeroV,O’NeillV,etal.RIBBON-2:arandomized,double-
+blind,placebo-controlled,phaseIIItrialevaluatingtheefficacyandsafetyofbevacizumabincombina-
+tionwithchemotherapyforsecond-linetreatmentofhumanepidermalgrowthfactorreceptor2-negative
+metastaticbreastcancer.JClinOncol.2011;29(32):4286–93.Epub2011/10/13.doi:10.1200/JCO.
+2010.34.1255PMID:21990397
+11. MillerKD,ChapLI,HolmesFA,CobleighMA,MarcomPK,FehrenbacherL,etal.Randomizedphase
+IIItrialofcapecitabinecomparedwithbevacizumabpluscapecitabineinpatientswithpreviouslytreated
+metastaticbreastcancer.JClinOncol.2005;23(4):792–9.Epub2005/02/01.doi:10.1200/JCO.2005.
+05.098PMID:15681523
+12. RossariJR,Metzger-FilhoO,PaesmansM,SainiKS,GennariA,deAzambujaE,etal.Bevacizumab
+andBreastCancer:AMeta-AnalysisofFirst-LinePhaseIIIStudiesandaCriticalReappraisalof
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 13/14
+
+--- Page 14 ---
+Sorafenib-NavelbineforMetastaticBreastCancer
+AvailableEvidence.Journalofoncology.2012;2012:417673.PubMedCentralPMCID:
+PMCPMC3447373.doi:10.1155/2012/417673PMID:23008712
+13. BaselgaJ,SegallaJG,RocheH,DelGiglioA,PinczowskiH,CiruelosEM,etal.Sorafenibincombina-
+tionwithcapecitabine:anoralregimenforpatientswithHER2-negativelocallyadvancedormetastatic
+breastcancer.JClinOncol.2012;30(13):1484–91.Epub2012/03/14.doi:10.1200/JCO.2011.36.7771
+PMID:22412143
+14. GradisharWJ,KaklamaniV,SahooTP,LokanathaD,RainaV,BondardeS,etal.Adouble-blind,ran-
+domised,placebo-controlled,phase2bstudyevaluatingsorafenibincombinationwithpaclitaxelasa
+first-linetherapyinpatientswithHER2-negativeadvancedbreastcancer.Europeanjournalofcancer
+(Oxford,England:1990).2013;49(2):312–22.Epub2012/09/08.
+15. SchwartzbergLS,TauerKW,HermannRC,Makari-JudsonG,IsaacsC,BeckJT,etal.Sorafenibor
+placebowitheithergemcitabineorcapecitabineinpatientswithHER-2-negativeadvancedbreastcan-
+certhatprogressedduringorafterbevacizumab.Clinicalcancerresearch:anofficialjournalofthe
+AmericanAssociationforCancerResearch.2013;19(10):2745–54.Epub2013/02/28.
+16. MarianiGBO,RomanL,etal.Adouble-blind,randomizedphaseIIbstudyevaluatingtheefficacyand
+safetyofsorafenib(SOR)comparedtoplacebo(PL)whenadministeredincombinationwithdocetaxel
+and/orletrozoleinpatientswithmetastaticbreastcancer(MBC):FM-B07e01trial.EurJCancer.2011;
+47(suppl2):10(abstract).
+17. LuuT,FrankelP,ChungC,ChowW,MortimerJ,HurriaA,etal.PhaseI/IItrialofvinorelbineandsora-
+fenibinmetastaticbreastcancer.Clinicalbreastcancer.2014;14(2):94–100.Epub2013/12/29.doi:10.
+1016/j.clbc.2013.10.013PMID:24370210
+PLOSONE|DOI:10.1371/journal.pone.0167906 December19,2016 14/14

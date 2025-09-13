@@ -1,0 +1,613 @@
+Source: 25003665.pdf
+Extracted on: Fri Sep 12 23:58:28 PDT 2025
+==================================================
+
+--- Page 1 ---
+FULL PAPER
+British Journal of Cancer (2014) 111, 858–865 | doi: 10.1038/bjc.2014.370
+Keywords: gemcitabine; sirolimus; rapamycin; mTOR; phase I
+Phase I study and preclinical efficacy
+evaluation of the mTOR inhibitor sirolimus
+plus gemcitabine in patients with advanced
+solid tumours
+JMartin-Liberal1,MGil-Martı´n2,MSa´inz-Jaspeado3,NGonzalo4,RRigo5,HColom6,CMun˜oz4,OMTirado7
+and X Garcı´a del Muro*,2
+1The Royal Marsden Hospital, Fulham Road, London SW3 6JJ, UK; 2Institut Catala` d’Oncologia L’Hospitalet, Genitourinary
+Tumors, Sarcoma and Melanoma Unit, Avda Gran Via 199, L’Hospitalet, 08908 Barcelona, Spain; 3Department of Immunology,
+Genetics and Pathology, Rudbeck Laboratory, Uppsala University, Dag Hammarskjo¨ldsv 20, 751 85 Uppsala, Sweden; 4Institut
+Catala` d’Oncologia L’Hospitalet, Laboratori de Farmacocine`tica, Avda Gran Via 199, L’Hospitalet, 08908 Barcelona, Spain;
+5Hospital de Bellvitge, A`rea de Bioquı´mica i Biologia Molecular, Feixa Llarga s/n, L’Hospitalet, 08907 Barcelona, Spain;
+6Universitat de Barcelona, Facultat de Farma`cia, Avda de Joan XXIII 31, 08028 Barcelona, Spain and 7Institut d’Investigacio´
+Biome`dicadeBellvitge(IDIBELL),Laboratorid’Oncologı´aMolecular,SarcomaResearchGroup,AvdaGranVia199,L’Hospitalet,
+08908Barcelona, Spain
+Background:WeconductedaphaseIstudyinpatientswithadvancedsolidtumourstoidentifytherecommendeddose,assess
+pharmacokinetics (PK), pharmacodynamic activity and preclinical antitumour efficacy of the combination of sirolimus and
+gemcitabine.
+Methods:Nineteenpatientsweretreatedwithsirolimus2or5mgdailyandgemcitabine800or1000mgm(cid:2)2ondays1and8.
+Doseescalationdependedondose-limitingtoxicity(DLT)rateduringthefirst3-weekperiod.Pairedskinbiopsieswereevaluated
+for phosphorylated S6 (pS6) as marker of mTOR (mammalian target of rapamycin) inhibition. Pharmacokinetics and preclinical
+evaluation of efficacy usingtwo different sarcoma celllines and leiomyosarcomaxenografts were also conducted.
+Results:ThreeDLTswereobserved:grade3transaminitis,grade3thrombocytopeniaandgrade4thrombocytopenia.Common
+treatment-related adverse events included anaemia, neutropenia, thrombocytopenia and transaminitis. Pharmacodynamic
+analyses demonstrated mTOR inhibition with sirolimus 5mg and PK showed no influence of sirolimus concentrations on
+gemcitabineclearance.InvitroandinvivostudiessuggestedmTORpathwayhyperactivationbygemcitabinethatwasreversedby
+sirolimus. Tumourgrowth inleiomyosarcoma xenografts was dramatically inhibitedby thetreatment.
+Conclusions: Recommended dose was sirolimus 5mg per 24h plus gemcitabine 800mgm(cid:2)2. Antitumour activity in preclinical
+sarcoma models andmTOR signallinginhibition wereobserved. Aphase II study iscurrently ongoing.
+Themammaliantargetofrapamycin(mTOR)isaserine/threonine Sabatini, 2006). Activation of mTOR by different environmental
+kinase that plays a central role in the phosphatidyl inositol and nutritional stimuli triggers transduction of proliferative signals
+30-kinase (PI3K)-AKT signalling pathway (Aoki et al, 2001; bythephosphorylationoftwokeydownstreameffectors,thep70S6
+*Correspondence:DrXGarc´ıadelMuro;E-mail:garciadelmuro@iconcologia.net
+Received26March2014;revised21May2014;accepted7June2014;publishedonline8July2014
+&2014CancerResearchUK.Allrightsreserved0007–0920/14
+858 www.bjcancer.com|DOI:10.1038/bjc.2014.370
+
+--- Page 2 ---
+PhaseI studyof sirolimus plusgemcitabine insolid tumours BRITISH JOURNALOF CANCER
+kinase and the eukaryotic initiation factor 4E binding protein 1 Allpatientssignedwritteninformedconsentandthestudywas
+(4EBP-1; Janus et al, 2005). These proteins are involved in the conducted according to local and national ethical review board
+biosynthesis of ribosomes and translation of mRNA necessary for approval, the Declaration of Helsinki and standards of Good
+normalcell-cycleregulation(Mamaneetal,2006).Thecorrelation Clinical Practice.
+between mTOR pathway abnormalities and carcinogenesis has
+been extensively reported (Shaw and Cantley, 2006; Hernando Study design and drug dosage, escalation and administration.
+et al, 2007). Indeed, up to half of all human tumours have been Sirolimus was administered as a continuous daily oral dose (2 or
+foundtobesomehowdrivenbyalterationsinthemTORpathway 5mg)startingonday2ofcycle1untilprogressionorintolerance.
+(VivancoandSawyers,2002;Xuetal,2004).Inaddition,itisalso Gemcitabinewasadministeredintravenouslyatafixed-doserateof
+critical in some tumour microenvironment processes such as
+10mgm(cid:2)2min(cid:2)1ondays1and8ofeachcycle.Thedurationof
+angiogenesis (Vin˜als et al, 1999; Guba et al, 2002; Hudson et al, each cycle was 21 days. A maximum of six cycles of gemcitabine
+2002; Humar et al, 2002; Mayerhofer et al, 2002; Land and Tee, per patient were allowed. Single agent sirolimus was continued
+2007). Therefore, targeting mTOR is a rational therapeutic after six planned cycles of gemcitabine in the absence of
+approach in human cancer. Sirolimus, also known as rapamycin, progressive disease (PD) and good tolerance. Protocol was
+wasoneofthefirstcompoundsabletoinhibitmTOR(Wiederrecht amended according to pharmacodynamic results and a new dose
+etal,1995).Itisamacrolidethatpreventsthephosphorylationof level was added (Table 1).
+S6 and 4EBP-1 and therefore their activation (Brown et al, 1994; Thetrialwasperformed usingastandard3þ3dose-escalation
+Faivre et al, 2006). Some of its derivatives, namely everolimus, phaseIdesignwithcohortsof3–6patients.Iflessthanone-thirdof
+temsirolimusandridaforolimus,havebeensuccessfullyassessedin patientsatadoselevelexperiencedadose-limitingtoxicity(DLT),
+phaseIIItrialsindifferentmalignancies(Hudesetal,2007;Motzer dose escalation continued. If more than one-third but less than
+etal,2008;Yaoetal,2011;Baselgaetal,2012;Demetrietal,2013). two-thirds of patients at a dose level had a DLT, three additional
+Gemcitabine is a pyrimidine analogue that targets cells under- patientswereenrolledatthatsamedoselevel.Iftwo-thirdsormore
+going DNA synthesis and blocks progression of cells from G1 to of patients at a dose level experienced a DLT, the dose was
+S-phase (Elnaggar et al, 2012). It is currently used in a vast considered toxic and the next cohort of patients was included at
+spectrum of tumours either alone or in combination thanks to its thenextlowerdoselevel.Doseescalationwithinapatientwasnot
+favourable toxicity profile (Gesto et al, 2012). permitted. Patients were withdrawn from study treatment when
+Combination of sirolimus with gemcitabine has been reported there was evidence of PD, unacceptable toxicity or consent
+to increase apoptosis in vitro and enhance antitumoural activity withdrawal.
+in vivo on different epithelial tumours (Gru¨nwald et al, 2002; Routineclinicalandlaboratoryassessmentswereconductedon
+Mondesireetal,2004).Specificallyinsarcomas,aninvitrostudyin a weekly basis. Toxicity was graded using the National Cancer
+leiomyosarcoma cell lines has shown that this combination has a Institute Common Toxicity Criteria version 3.0 (NCI-CTCAE
+synergic effect in extracellular-signal-regulated kinases (ERK 1/2) v3.0). Dose-limiting toxicity was defined as any of the following
+inhibition, producing a dramatic effect in cell cycle (Merimsky within 3 weeks after the administration of the first cycle: absolute
+etal,2007).However,nostudiesinxenograftsarcomamodelshave
+neutrophilcounto0.5(cid:3)109l(cid:2)1overX5daysorassociatedwith
+beenpublishedtodate.Nevertheless,responseinapatientaffected fever X38.51C, platelets o50(cid:3)109l(cid:2)1, any grade 3–4 non-
+byleiomyosarcomahasbeenreported(Merimsky,2004)suggesting haematological toxicity (excluding nausea and vomiting non-
+that this combination may have profound effects on these refractory to antiemetic treatment) orskinrash grade 2related to
+malignancies. treatment andnotcontrolledwithsupport medication.Maximum
+ThisphaseItrialwasdesignedtodeterminetherecommended tolerated dose (MTD) was defined as the highest dose level in
+dose (RD), safety profile, pharmacokinetic (PK) parameters and which two or more patients experienced DLT. Next lower dose
+pharmacodynamic activity of the combination of sirolimus and level was considered as RD.
+gemcitabine. Preclinical antitumour efficacy both in vitro and In order to assess tumour response to treatment, thorax–
+in vivo was also evaluated. abdomen–pelvis CT scans were performed every 6 weeks and
+ResponseEvaluationCriteriainSolidTumorsversion1.0(RECIST
+v1.0) were used (Therasse et al, 2000).
+MATERIALS AND METHODS
+Pharmacokinetics. Gemcitabineconcentrationsweremeasuredat
+days1and24ofthestudyandPKsamplingwasperformedat0.5,
+Patientselection. Tobeenrolledinthisstudy,patientshadtomeet
+1, 2.5, 4, 8, 10 and 24h after the start of the infusion, which was
+the following eligibility criteria: diagnosis of advanced solid tumour
+ranged from 0.95 to 3.28h.
+that have progressed or are ineligible for standard treatment, no
+GemcitabinePKbloodsampleswerecollectedinpolypropylene
+prior treatment with mTOR inhibitors or gemcitabine, Eastern
+tubes with EDTA, which contained tetrahydrouridine to inacti-
+CooperativeOncologyGroupperformancestatus(ECOGPS)0–1,
+either measurable or evaluable disease and age X18 and p70 vated gemcitabine degradation. After plasma separation by
+centrifugation, samples were stored at (cid:2)801C until analysis.
+years. Theupper limitofagewasestablished dueto theincreased
+riskoftoxicityoftenseeninsomeelderlypatients.Adequatebone
+marrow, hepatic and renal function were mandatory and were Table1.Doselevelsanddose-limitingtoxicities(DLTs)
+defined as: absolute neutrophil count X1.5(cid:3)109l(cid:2)1, platelets
+X100(cid:3)109l(cid:2)1, bilirubin, aspartate aminotranferase (AST),
+Sirolimus
+alanine aminotransferase and creatinine p1.5(cid:3) upper limit of (mgper Gemcitabine
+normal and creatinine clearance X60mlmin(cid:2)1. Patients with a Dose 24h) (mgm(cid:2)2) DLT/
+historyofotherpreviousmalignanciesdiagnosedortreatedinthe level orally intravenously patients Toxicity
+past 5 years (except basal cell skin carcinoma, adenocarcinoma 1 2 800 0/3
+in situ of the uterine cervix and superficial bladder cancer) and
+2 2 1000 1/6 TransaminitisG3
+known central nervous system metastases were considered
+2.A 5 800 0/6
+ineligible. Other exclusion criteria were treatment with experi-
+mentaldrugswithin30daysprior,pregnancyorlactancy,presence 3 5 1000 2/4 ThrombocytopeniaG3
+of active infection or any concomitant serious disease. ThrombocytopeniaG4
+www.bjcancer.com|DOI:10.1038/bjc.2014.370 859
+
+--- Page 3 ---
+BRITISHJOURNAL OF CANCER PhaseI studyof sirolimus plus gemcitabine insolid tumours
+An Alliance 2695 (Milford, MA, USA) separations module and In vitro study. Two sarcoma cell lines acquired from Cell Lines
+photodiode array detector, with Empower 2 software (Waters, Service(CLS,Eppelheim,Germany)wereusedtoassesstheinvitro
+Milford,MA,USA)toonlinedataacquisitionwereused.Separation efficacy of the treatment: SKLMS-1 and SW982 (leiomyosarcoma
+was performed on a Nova Pak C cartridge column, (Waters), andsynovialsarcoma,respectively).Bothcelllineswereculturedin
+18
+which was maintained at 301C. The mobile phases consisted of RPMI 1640 (Invitrogen, Carlsbad, CA, USA) supplemented with
+solutionsof5%(v/v)heptanesulfonicacidandmethanol,andwere 10% heat-inactivated fetal bovine serum (Invitrogen) and were
+delivered following a flow rate of 1mlmin(cid:2)1. Gemcitabine and its incubated at 371C in a humidified atmosphere of 5% CO in air.
+2
+internal standard (2-desoxicitidina) were extracted from plasma
+samples by protein precipitation followed liquid–liquid extraction. Cell proliferation assay. Sirolimus and gemcitabine were diluted
+ThisHPLCmethodwasvalidatedusingqualitycontrolsamplesand in cell medium at 20ngml(cid:2)1 and 100nM, respectively and then
+standardofcalibrationobtainedfromspikedblankplasmasamples cells were treated with both drugs separately, sequentially and in
+withdifferentconcentrationsofgemcitabine. Intra-assayand inter- combination for 48h. Dimethyl sulfoxide (DMSO) was added to
+day imprecision and accuracy was evaluated with the control cultures as control. Cell proliferation and cell death were
+samplesplasmaatthreeconcentrationsinfourdaysandthevalues determined by the trypan blue exclusion assay.
+obtainedwereo10%and8%,respectively.Thelimitofquantifica-
+tion (LLOQ) was 200mgl(cid:2)1 and measurements were linear from Westernblot. SKLMS-1-andSW982-treatedcellswerelysedwith
+200to20000mgl(cid:2)1 (r2¼0.99). radioimmunoprecipitation assay buffer containing protease inhibi-
+Sirolimus concentrations weremeasured at day21ofthestudy tors (1mmoll(cid:2)1 phenylmethylsulfonyl fluoride, 10mgml(cid:2)1 apro-
+before both gemcitabine and sirolimus dose administrations (pre- tinin,and10mgml(cid:2)1leupeptin)andthelysateswerecentrifugedat
+dose concentrations). Sirolimus PK blood samples were collected 13000(cid:3)g,at41C,for30min.Lysatealiquots(50mg)wereresolved
+into plasma tubes with EDTA-K (Vacuette, Kremsmu¨nster, by10%SDS–PAGEandtransferredontonitrocellulosemembranes.
+3
+Austria) and stored at (cid:2)801C until analysis. An Acquity UPLC After blocking with 5% skimmed milk in PBS containing
+integrated measurement system (Waters) was used. Separation 0.2% Tween 20 (Dallas, TX, USA) at room temperature for 1h,
+was performed on a MassTraK TDM C cartridge column, membranes were incubated overnight at 41C with the appropriate
+18
+2.1(cid:3)10mm(Waters),whichwasmaintainedat551C.Themobile primary antibody (cleaved caspase 3 #9661, native S6 #2217, and
+phases,consistedofsolutionsofammoniumacetate2mMand0.1% pS6 #4858 from Cell Signaling Technology). Blots were then
+(v/v)formicacideitherinwaterorinmethanol,andweredelivered incubated at room temperature for 1h with a horseradish
+following a flow rate of 0.4mlmin(cid:2)1. Detection was carried out peroxidase-conjugated secondary antibody and the peroxidase
+using an Acquity TQD tandem-quadrupole mass spectrometer activity was detected by enhanced chemiluminescence (Pierce,
+equipped with a Z-spray electrospray ionisation source (Waters) Rockford, IL, USA) following theinstructionsofthe manufacturer.
+operating in positive mode. Sirolimus and its internal standard Immunodetectionofa-tubulinwas used asaloading reference.
+([13C D ]-everolimus)weredetectedinmultiplereactionmonitor-
+2 4 In vivo study. An in vivo xenograft model was established by
+ing mode using mass-to-charge (m/z) transition of 931.9-864.4 subcutaneous injection of 3.5(cid:3)106 SKLMS-1 cells suspended in
+and 981.9-914.4, respectively. The MassTrak immunosuppres-
+100mlofsalineinathymicnudemice(BALB/cnu/nu)fromHarlan
+sants XE RUO kit provided by Waters was used. Intra-assay and
+(Indianapolis, IN, USA). Animal care and procedures were
+inter-day coefficients of variation, accuracy and relative measure-
+followed according to the Institutional Guidelines for the Care
+menterrorsrangedfrom7.8%to10.0%,8.9%to12.4%, (cid:2)8.7%to and Use ofLaboratory Animals. Oncetumours reached 100mm3,
+(cid:2)6.0% and (cid:2)5.0% to 15.0%, respectively. The limit of groups of five mice were treated with sirolimus 2.5mgkg(cid:2)1 and
+quantification was 1.7mgl(cid:2)1 and the measurement interval was gemcitabine 60mgkg(cid:2)1 followed by sirolimus 2.5mgkg(cid:2)1 after
+linear between 1.7 and 31.1mgl(cid:2)1 (r2¼0.996).
+24h. All treatments were administered in intraperitoneal manner
+The population PK model development and simulations were
+for 2 weeks (sirolimus once daily and gemcitabine once weekly).
+performed with the nonlinear mixed-effects modelling (NON-
+An additional group of five mice were treated with DMSO as
+MEM) software, version 7.2 (ICON Development Solutions,
+controls. Tumours were measured every 2 days with calipers, and
+Ellicott City, MD, USA) using the subroutine ADVAN3 TRANS4
+toxicity was monitored by weight loss. Mice were killed once
+(user-defined non-linear model). To statistically distinguish tumours reached 2500mm3 (or after manifestation of morbidity)
+between nested models, the difference in the MOFV8 (minimum
+and tumours were removed and stored in 4% paraformaldehyde.
+objective function value) was used because this difference is
+Immunohistochemistry wasperformed informalin-fixed paraffin-
+approximatelyw2distributed.AsignificancelevelofPo0.005that
+embedded sections from tumour samples. Phosphorylated S6 was
+corresponded to a difference in MOFV of 7.879 for 1 degree of
+detectedwitha1:50dilutionofarabbitpolyclonalantibody#4858
+freedomwasconsidered.Additionally,tothediagnosticplotsused
+(from Cell Signaling Technology).
+for evaluation during model building development with Xpose
+version 4.0 (Division of Pharmacokinetics and Drug Therapy,
+Uppsala University, Uppsala, Sweden), an internal validation was RESULTS
+performed. The bootstrap method with replacement was used to
+assess the stability of the final model and to construct confidence
+Patient characteristics. From June 2010 to September 2011, 19
+intervals of PK parameters using the PsN-Toolkit (version 3.2.4;
+patientswereenrolledinasinglecentre.Allpatientswereassessable
+Division of Pharmacokinetics and Drug Therapy, Uppsala
+for toxicity and efficacy. Demographics characteristicsareshownin
+University, Uppsala, Sweden).
+Table 2. All patients except one had received prior chemotherapy
+treatment.Mediannumberofpreviouslineswas2.5(range0–6)and
+Pharmacodynamics. Paired skin biopsies were planned for every
+7(37%)patientshadradiationtherapybeforeenrolmentinthestudy.
+patient: at baseline and 21 days after first dose administration. In
+Atotalof77cyclesofthestudyregimenwereadministered.Median
+ordertoassessmTORpathwayinhibition,immunohistochemistry
+numberofcyclesperpatientwas4(range1–6).
+ofphosphorylatedS6atSer235/236(pS6)#4858wasperformedin
+formalin-fixedparaffin-embeddedsectionsofskinsamplesusinga Safety. All 19 patients were evaluable for DLT. Initially, the three
+1:50dilutionofarabbitpolyclonalantibody(fromCellSignaling dose levels planned were evaluated. One patient experienced
+Technology,Danvers,MA,USA).Then,qualitativechangesinthe DLT consisting in grade 3 transaminitis at dose level 2 and two
+expression of pS6 were assessed. patients experienced DLT at dose level 3 consisting in grade 3
+860 www.bjcancer.com|DOI:10.1038/bjc.2014.370
+
+--- Page 4 ---
+PhaseI studyof sirolimus plusgemcitabine insolid tumours BRITISH JOURNALOF CANCER
+Pharmacokinetics and pharmacodynamics. Since gemcitabine is
+Table2.Demographicsandbaselinecharacteristics
+a drug with well-known activity against a large number of
+malignancies, we designed the study to determine whether the
+Totalpatients(n¼19)
+additionofsirolimushasanyinfluenceonitsPK.Datafromall19
+Gender patients were used in the PK analysis. The effects of gender, age,
+weight (WGT), body surface area (BSA) and sirolimus through
+Male 7(37%) concentrations were assessed on gemcitabine PK at day 21.
+Female 12(63%)
+Demographic characteristics and sirolimus trough concentrations
+Age are summarised in Table 4. Correlation between WGT/BSA and
+height (HGT) was found.
+Median 51 The plasma concentration vs time profiles of gemcitabine at
+Range 36–70 days 1 and 21 are displayed in Figure 1. It should be noted that
+quantifiable gemcitabine concentrations were found up to 2.5–4h
+ECOGPS
+postadministrationinbothoccasions.ThePKofgemcitabineafter
+0 5(26%) intravenousinfusionof10mgm(cid:2)2min(cid:2)1inthetargetpopulation
+1 14(74%) was best described by a two-open-compartment model with first-
+order elimination. All recorded covariates were tested in the PK
+Tumour
+parameters, plasma clearance (CL) and central compartment
+Colorectal 7 distribution volume (Vc), with NONMEM, but no statistically
+Gastric 3 significant relationship could be identified in any case. No
+Cervix 1 statistically significant effect of anthropometric covariates (WGT,
+NSCLC 1 HGTandBSA)andageonthePKparameterswasfound(P40.05)
+Poorlydifferentiatedchondrosarcoma 1 andnospecifictrendswereobservedbetweenCLorVcvaluesand
+Eccrineglandadeno 1 sirolimusconcentrations(SupplementaryFigure1).Theestimated
+Renalclearcell 1 PK parameters with final model (NONMEN) listed in
+Thymoma 1 Supplementary Table 1 were in agreement with those previously
+Adrenalcarcinoma 1 reported in the literature (Keith et al, 2003; Lin et al, 2004).
+Urothelialcarcinoma 1
+Between-patient variabilitycouldbeassociated toCL (14.6%)and
+Anaplasticthyroidal 1
+Vc(98.2%),meanwhilebetween-occasionvariabilitycouldbetoVc
+Previoustreatment (47.1%).
+Immunohistochemistry of pS6 in patients’ paired skin biopsies
+Linesofchemotherapy showed significant inhibition of mTOR at RD (Supplementary
+0 1(5%) Figure 2). Weaker staining of pS6 was achieved with 5mg (dose
+1 3(16%) levels 2.A and 3) compared to 2mg.
+2 4(21%)
+42 7(37%) Efficacy. Twopatientsachievedpartialresponse(PR):onepatient
+Unknown 4(21%) atdoselevel2.A(colonadenocarcinoma)andtheotheroneatdose
+Median 2.5(range0–6) level 3 (uterine cervix cancer). Nine patients experienced stable
+Radiotherapy disease (SD) as best response that lasted 412 weeks and in three
+cases, the duration of the stabilisation was at least 6 months.
+Yes 7(37%)
+No 12(63%)
+In vitro study results
+Abbreviations: ECOG PS¼Eastern Cooperative Oncology Group performance status;
+Cell proliferation assay results. Both cell lines were sensitive to
+NSCLC¼non-smallcelllungcancer.
+gemcitabine and sirolimus. Interestingly, higher cell death rate
+was observed in both cell lines with the sequential treatment
+administering first gemcitabine and 24h later sirolimus than with
+thrombocytopeniaandgrade4thrombocytopenia,respectively.Thus,
+the inverse order or with the administration of both drugs at the
+MTD was reached at dose level 3. However, the pharmacodynamic
+same time (data not shown).
+analysis performed in the 13 patients treated at those dose levels
+revelled poor mTOR pathway inhibition at doses o5mg of
+sirolimus. Therefore, an amendment was performed including a Western blot results. We used cleaved caspase 3 as apoptosis
+newdoselevelunderthereachedMTDconsistingofsirolimus5mg marker to assess the in vitro efficacy of the combination. Results
+andgemcitabine800mgm(cid:2)2(doselevel2.A).Atthisdoselevel,no showedthatthegreatestactivationofapoptosiswasachievedwith
+DLTwasobservedanditwasestablishedastheRD(Table1). the sequential treatment administering gemcitabine first followed
+Themajorityofsideeffectsreportedweregrade1–2.Themost by sirolimus 24h later (Figure 2A).
+commonlyobservedtreatment-relatedeventswerehaematological: WeassessedbywesternblotphosphorylationofS6asamarker
+anaemia (84%; n¼16), neutropenia (68%; n¼13) and thrombo- ofmTORactivity.Althoughthenon-phosphorylatedformshadno
+cytopenia (68%; n¼13). The most frequent non-haematological relevantchangeswiththetreatment,pS6washighlyinducedwhen
+toxicitieswereraisedAST(58%;n¼11),raisedGGT(47%;n¼9), cells were treated with gemcitabine alone. This induction was
+hypercholesterolaemia (47%; n¼9), anorexia (47%; n¼9) and clearly reversed when sirolimus was added (Figure 2B).
+mucositis (42%; n¼8). In general, toxicity was mild and easily
+manageable. No pulmonary toxicity was reported. Three patients In vivo study results. Xenograft model was established using
+required dose reduction of sirolimus, being grade 3 thrombocy- SKLMS-1 cells. According to in vitro results, treatment was
+topenia the reason in two cases and grade 2 fever in one case. administered in a sequential fashion (first gemcitabine and 24h
+Gemcitabine dose reduction was required in two patients due to later sirolimus). Tumour growth was strongly inhibited with the
+grade4anaemiaandgrade2transaminitis,respectively.Toxicityis sequentialcombinationofthetwodrugscomparedtoControland
+summarised in Table 3. to each drug alone (Figure 3).
+www.bjcancer.com|DOI:10.1038/bjc.2014.370 861
+
+--- Page 5 ---
+BRITISHJOURNAL OF CANCER PhaseI studyof sirolimus plus gemcitabine insolid tumours
+Table3.Toxicity
+Total(n¼19)
+Doselevel2.A
+Doselevel1(n¼3) Doselevel2(n¼6) (n¼6) Doselevel3(n¼4) Allgrades Grade3–4
+Grade Grade Grade Grade
+Toxicity Allgrades 3–4 Allgrades 3–4 Allgrades 3–4 Allgrades 3–4 n % n %
+Anorexia 2 2 3 2 9 47
+Mucositis 2 2 3 1 8 42
+Fever 3 3 1 7 37
+Nausea/vomiting 1 3 2 1 7 37
+Fatigue 3 3 6 32
+Rash 2 3 1 6 32
+Diarrhoea 1 2 3 16
+Anaemia 2 4 6 1 4 16 84 1 5
+Neutropenia 2 1 3 1 5 3 3 1 13 68 6 32
+Thrombocytopenia 1 1 4 5 3 2 13 68 3 16
+Leukopenia 1 1 3 3 8 42
+RaisedAST 1 4 1 4 2 11 58 1 5
+RaisedGGT 3 1 2 1 4 9 47 2 11
+Hypercholesterolaemia 1 4 1 3 1 9 47 1 5
+RaisedALT 1 3 2 2 1 7 37 2 11
+Hyperglycaemia 1 2 2 5 26
+Raisedcreatinine 1 1 5
+Abbreviations:ALT¼alanineaminotransferase;AST¼aspartateaminotranferase;GGT¼gamma-glutamyltransferase.Toxicitiesreportedatanytimefromfirsttreatmentadministrationto30
+daysoflasttreatmentadministrationareincluded.
+Table4.Demographiccharacteristicsofpatientsofthestudypopulation
+Patients’characteristics Mean(RSE%) Median Minimum Maximum
+Patients(n) 19 — — —
+Age(years) 54.1(18.6) 54.5 36 70
+Gender(n),male 13 — — —
+Female 6 — — —
+Height(cm) 166.9(10.6) 167 151 184
+Bodyweight(kg) 73.0(22.0) 75 44.2 107
+Bodysurfacearea(m2) 1.81(13.22) 1.90 1.40 2.30
+Sirolimusconcentrations(mgl(cid:2)1) 9.05(7.78) 7.60 0.90 28.50
+Abbreviation:RSE%¼relativestandarderror.
+Immunohistochemistry results. Strong pS6 staining in tumours registered were haematological, but they were generally mild and
+treated with gemcitabine alone was observed. In contrast, that easilymanageable.Othermildtoxicitiesobservedwereraisedliver
+staining was dramatically absent in tumours treated with the enzymes, hypercholesterolaemia, anorexia and mucositis, all of
+combination, indicating that the addition of sirolimus is able to them usually related to either sirolimus or gemcitabine in
+reverse pS6 induction also in vivo (Figure 4). monotherapy,butmodificationsinthetreatmentscheduleordose
+were not necessary in almost any case. Furthermore, the toxicity
+profile showed no synergistic effects in these adverse events with
+DISCUSSION the combination of the two drugs. Transaminitis grade 3 and
+thrombocytopenia grades 3 and 4 where the DLTs found, all of
+This study demonstrates that the combination of sirolimus and themarerelativelycommonandexpectedinpatientstreatedwith
+gemcitabine is feasible and safe, allowing administration of active gemcitabine. Nounexpectedtoxicityappearedwiththetreatment.
+dosesofbothagentsandachievingmTORpathwayinhibitioneven Moreover, PK showed no effects of sirolimus concentrations on
+in heavily pretreated patients. The most common adverse events gemcitabine clearance. This favourable profile leads us to
+862 www.bjcancer.com|DOI:10.1038/bjc.2014.370
+
+--- Page 6 ---
+3000
+Control
+GEM
+2500 SIR
+GEM+SIR
+2000
+1500
+1000
+500
+0
+and Mcl-1 (Tirado et al, 2005; Faber et al, 2014). Thus, sirolimus
+addition sequentially after gemcitabine may prevent resistance to
+this drug through antiapoptotic pathway activation. In agreement
+withthishypothesis,severalreportsdemonstratethatinhibitionof
+antiapoptotic bcl-2 family members sensitises tumour cells to
+gemcitabine (Schniewind et al, 2004; Zhang et al, 2011).
+In contrast, one of the main effects of mTOR inhibition is G1
+arrest(Carewetal,2011)thatmakescellslesspronetobedamaged
+by gemcitabine. This hypothesis is being currently tested in the
+laboratory.Ontheotherhand,wefoundbothinvitroandinvivo
+A SKLMS-1 SW982 that S6 was activated when cells were treated with gemcitabine
+alonebutsuchactivationdramaticallyreversedwhensirolimuswas
+Cleaved caspase 3
+added, correlatingwiththeefficacy ofthecombinatorytreatment.
+Tubulin These interesting data suggest hyperactivation of mTOR pathway
+V G S G+ S
+G
+→S
+S
+→G V G S G+ S
+G
+→S
+S
+→G as a cellular mechanism of defence triggered by gemcitabine that
+can be reversed with the addition of sirolimus. This brand new
+B finding opens an exciting line of investigation worth exploring.
+SKLMS-1 SW982
+Furthermore, xenograft tumour growth was dramatically reduced
+Tubulin with the combined treatment and pharmacodynamic analysis
+showed an effective mTOR inhibition at RD, making this
+pS6 therapeutic strategy even more promising.
+Combination of an mTOR inhibitor with conventional
+S6
+chemotherapy with gemcitabine could be a way to improve the
+V G S G+SG→S V G S G+S G→S efficacyofeitheroftheagentsaloneindifferenttumourtypessuch
+aspancreatic cancer,renalcellcancerorsarcomas.Specifically, in
+Figure2.(A)Westernblotcleavedcaspase3.Thegreatestcleavageof
+sarcomas, positive results with mTOR inhibitors have been
+caspase3wasachievedwhentreatmentwasadministeredina
+reported.Thus,sirolimusanditsderivedtemsirolimushaveshown
+sequentialmanner:firstgemcitabinefollowedbysirolimus24hlater.
+activity in perivascular epithelioid cell tumours (PEComas), a
+(B)WesternblotpS6andS6.TheactivationofS6observedwhencells
+specific subtype of mesenchymal tumour (Italiano et al, 2010;
+weretreatedwithgemcitabinealonewasreversedwiththeadditionof
+Wagneretal,2010).Moreover,ithasbeenrecentlypublishedina
+sirolimus.G¼gemcitabine;S¼sirolimus;V¼control.
+positive phase III trial in sarcomas with the mTOR inhibitor
+ridaforolimus.Thisdouble-blind,placebo-controlledphaseIIItrial
+recommend dose level 2.A (sirolimus 5mg per 24h plus randomised702sarcomapatientswhohadachievedCR,PR,orSD
+gemcitabine 800mgm(cid:2)2) as the optimal dose due to its after 1, 2, or 3 lines of chemotherapy to receive placebo or
+well-proved safety record. ridaforolimus as maintenance treatment. Ridaforolimus showed
+In addition, the preclinical study also showed encouraging signs of activity, inducing a mean 1.3% decrease in target lesion
+results.Thus,theinvitrostudyshowedthatcaspase3cleavagewas size vs a 10.3% increase with placebo. In addition, it achieved a
+more evident when cells were treated sequentially (gemcitabine statistically significant improvement in PFS compared to placebo
+before sirolimus) than administering both drugs simultaneously. inbothindependentandperinvestigatorassessment.However,the
+Therefore, a clear pro-apoptotic induction as a result of this magnitude of that improvement was very modest (median PFS
+combination is responsible for the dramatic effect on tumour 17.7 weeks vs 14.6 weeks per independent review; Demetri et al,
+survival.Sequentialadministrationofdrugs,includingsirolimus,as 2013).Theseresults,positivebutexcessivelylimited,suggestsome
+a cancer therapeutic strategy has been used elsewhere (Iacovelli important conclusions: mTOR inhibitors are active in sarcomas
+et al, 2013; Rosa et al, 2013). mTOR inhibition results in but the best therapeutic strategy is still unknown. Thereafter,
+downregulation of several antiapoptotic proteins such as Bcl-xL combinationtreatmentswithmTORinhibitorsandcytotoxicdrugs
+)3mm(
+emulov
+ruomuT
+A Day 1
+10000
+2000
+* 500 *
+100
+0 1 2 3 4
+Time (h)
+**
+B Day 21 0 2 4 6 8 10 12 15 17 20 22 25 27 30
+10000 Days
+Figure3.SKLMS-1xenografttumourgrowth.t-Test:*Pp0.03;
+**Pp0.0001.Leiomyosarcomaxenografttumourgrowthwasstrongly
+2000
+inhibitedbythecombinationtreatment.GEM¼gemcitabine;
+SIR¼sirolimus.
+500
+100
+0 1 2 3 4
+Time (h)
+)1–l
+g(cid:2)(
+noitartnecnoC
+)1–l
+g(cid:2)(
+noitartnecnoC
+PhaseI studyof sirolimus plusgemcitabine insolid tumours BRITISH JOURNALOF CANCER
+Figure1.(A)Observedgemcitabineplasmaconcentrations(mgl(cid:2)1)vs
+time(h)afterintravenousinfusionof10mgm(cid:2)2min(cid:2)1onday1.
+(B)Observedgemcitabineplasmaconcentrations(mgl(cid:2)1)vstime(h)
+afterintravenousinfusionof10mgm(cid:2)2min(cid:2)1onday21.
+www.bjcancer.com|DOI:10.1038/bjc.2014.370 863
+
+--- Page 7 ---
+(liketheoneassessedinthisstudy)areapromisingalternativethat ElnaggarM,GiovannettiE,PetersGJ(2012)Moleculartargetsofgemcitabine
+deserve further investigation. action:rationalefordevelopmentofnoveldrugsanddrugcombinations.
+Inconclusion,thisphaseItrialofthecombinationofsirolimus CurrPharmDes18(19):2811–2829.
+and gemcitabine demonstrated that this regimen is feasible and FaberAC,CoffeeEM,CostaC,DasturA,EbiH,HataAN,YeoAT,
+safe.Moreover,itshowedsignsofactivitybothinvitroandinvivo. EdelmanEJ,SongY,TamAT,BoisvertJL,MilanoRJ,RoperJ,
+KodackDP,JainRK,CorcoranRB,RiveraMN,RamaswamyS,HungKE,
+Inaddition,mTORinhibitionwasachievedatRDandPKanalysis
+BenesCH,EngelmanJA(2014)mTORinhibitionspecificallysensitizes
+showed no influence of sirolimus on gemcitabine clearance.
+colorectalcancerswithKRASorBRAFmutationstoBCL-2/BCL-XL
+Further studies to assess the activity of this combination are
+inhibitionbysuppressingMCL-1.CancerDiscov4(1):42–52.
+warranted and a phase II trial in sarcomas is ongoing (Clinical-
+FaivreS,KroemerG,RaymondE(2006)CurrentdevelopmentofmTOR
+Trials.gov identifier NCT01684449).
+inhibitorsasanticanceragents.NatRevDrugDiscov5(8):671–688.
+GestoDS,CerqueiraNM,FernandesPA,RamosMJ(2012)Gemcitabine:
+acriticalnucleosideforcancertherapy.CurrMedChem19(7):1076–1087.
+Gru¨nwaldV,DeGraffenriedL,RusselD,FriedrichsWE,RayRB,
+ACKNOWLEDGEMENTS
+HidalgoM(2002)InhibitorsofmTORreversedoxorubicinresistance
+conferredbyPTENstatusinprostatecancercells.CancerRes62(21):
+We thank Laura Lagares-Tena for her help with the preclinical 6141–6145.
+studiesandPedroAl´ıaandAnaClope´sfortheirhelpwiththePK GubaM,vonBreitenbuchP,SteinbauerM,KoehlG,FlegelS,HornungM,
+analyses. This work was supported by Grants TRA-163 from BrunsCJ,ZuelkeC,FarkasS,AnthuberM,JauchKW,GeisslerEK(2002)
+SpanishMinistryofHealth(toXG)andPI12/01908fromInstituto Rapamycininhibitsprimaryandmetastatictumourgrowthby
+de Salud Carlos III (to XG). antiangiogenesis:involvementofvascularendothelialgrowthfactor.Nat
+Med8(2):128–135.
+HernandoE,CharytonowiczE,DudasME,MenendezS,MatushanskyI,
+MillsJ,SocciND,BehrendtN,MaL,MakiRG,PandolfiPP,
+CONFLICT OF INTEREST Cordon-CardoC(2007)TheAKT-mTORpathwayplaysacriticalrole
+inthedevelopmentofleiomyosarcomas.NatMed13(6):748–753.
+The authors declare no conflict of interest. HudesG,CarducciM,TomczakP,DutcherJ,FiglinR,KapoorA,
+StaroslawskaE,SosmanJ,McDermottD,BodrogiI,KovacevicZ,
+LesovoyV,Schmidt-WolfIG,BarbarashO,GokmenE,O’TooleT,
+LustgartenS,MooreL,MotzerRJ,TrialGA(2007)Temsirolimus,
+REFERENCES interferonalfa,orbothforadvancedrenal-cellcarcinoma.NEnglJMed
+356(22):2271–2281.
+AokiM,BlazekE,VogtPK(2001)AroleofthekinasemTORincellular HudsonCC,LiuM,ChiangGG,OtternessDM,LoomisDC,KaperF,
+GiacciaAJ,AbrahamRT(2002)Regulationofhypoxia-induciblefactor
+transformationinducedbytheoncoproteinsP3kandAkt.ProcNatlAcad
+1alphaexpressionandfunctionbythemammaliantargetofrapamycin.
+SciUSA98(1):136–141.
+MolCellBiol22(20):7004–7014.
+BaselgaJ,CamponeM,PiccartM,BurrisHA,RugoHS,SahmoudT,
+HumarR,KieferFN,BernsH,ResinkTJ,BattegayEJ(2002)Hypoxia
+NoguchiS,GnantM,PritchardKI,LebrunF,BeckJT,ItoY,YardleyD,
+enhancesvascularcellproliferationandangiogenesisinvitrovia
+DeleuI,PerezA,BachelotT,VittoriL,XuZ,MukhopadhyayP,
+rapamycin(mTOR)-dependentsignaling.FASEBJ16(8):771–780.
+LebwohlD,HortobagyiGN(2012)Everolimusinpostmenopausal
+IacovelliR,Carten`ıG,SternbergCN,MilellaM,SantoniM,DiLorenzoG,
+hormone-receptor-positiveadvancedbreastcancer.NEnglJMed366(6):
+OrtegaC,SabbatiniR,RicottaR,MessinaC,LorussoV,AtzoriF,
+520–529.
+DeVincenzoF,SaccoC,BoccardoF,ValdugaF,MassariF,BaldazziV,
+BrownEJ,AlbersMW,ShinTB,IchikawaK,KeithCT,LaneWS,SchreiberSL
+CinieriS,MoscaA,RuggeriEM,BerrutiA,CerboneL,ProcopioG(2013)
+(1994)AmammalianproteintargetedbyG1-arrestingrapamycin-
+Clinicaloutcomesinpatientsreceivingthreelinesoftargetedtherapy
+receptorcomplex.Nature369(6483):756–758.
+formetastaticrenalcellcarcinoma:resultsfromalargepatientcohort.
+CarewJS,KellyKR,NawrockiST(2011)MechanismsofmTORinhibitor EurJCancer49(9):2134–2142.
+resistanceincancertherapy.TargetOncol6(1):17–27. ItalianoA,DelcambreC,HosteinI,CazeauAL,MartyM,AvrilA,
+DemetriGD,ChawlaSP,Ray-CoquardI,LeCesneA,StaddonAP, CoindreJM,BuiB(2010)TreatmentwiththemTORinhibitor
+MilhemMM,PenelN,RiedelRF,Bui-NguyenB,CranmerLD, temsirolimusinpatientswithmalignantPEComa.AnnOncol21(5):
+ReichardtP,BompasE,AlcindorT,RushingD,SongY,LeeRM, 1135–1137.
+EbbinghausS,EidJE,LoewyJW,HaluskaFG,DodionPF,BlayJY(2013) JanusA,RobakT,SmolewskiP(2005)Themammaliantargetofthe
+ResultsofaninternationalrandomizedphaseIIItrialofthemammalian rapamycin(mTOR)kinasepathway:itsroleintumourigenesisand
+targetofrapamycininhibitorridaforolimusversusplacebotocontrol targetedantitumourtherapy.CellMolBiolLett10(3):479–498.
+metastaticsarcomasinpatientsafterbenefitfrompriorchemotherapy. KeithB,XuY,GremJL(2003)Measurementoftheanti-canceragent
+JClinOncol31(19):2485–2492. gemcitabineinhumanplasmabyhigh-performanceliquid
+nilyxotameaH
+6Sp
+BRITISHJOURNAL OF CANCER PhaseI studyof sirolimus plus gemcitabine insolid tumours
+Control GEM SIR GEM→SIR
+Figure4.ImmunohistochemistryofpS6inleiomyosarcomaxenograftsamples.SirolimusisabletoreversethehyperactivationofthemTOR
+pathwaycausedbygemcitabineinleiomyosarcomaxenografts.GEM¼gemcitabine;SIR¼sirolimus.
+864 www.bjcancer.com|DOI:10.1038/bjc.2014.370
+
+--- Page 8 ---
+PhaseI studyof sirolimus plusgemcitabine insolid tumours BRITISH JOURNALOF CANCER
+chromatography.JChromatogrBAnalytTechnolBiomedLifeSci TherasseP,ArbuckSG,EisenhauerEA,WandersJ,KaplanRS,RubinsteinL,
+785(1):65–72. VerweijJ,VanGlabbekeM,vanOosteromAT,ChristianMC,Gwyther
+LandSC,TeeAR(2007)Hypoxia-induciblefactor1alphaisregulatedbythe SG(2000)Newguidelinestoevaluatetheresponsetotreatmentinsolid
+mammaliantargetofrapamycin(mTOR)viaanmTORsignalingmotif. tumors.EuropeanOrganizationforResearchandTreatmentofCancer,
+JBiolChem282(28):20534–20543. NationalCancerInstituteoftheUnitedStates,NationalCancerInstitute
+LinNM,ZengS,MaSL,FanY,ZhongHJ,FangL(2004)Determinationof ofCanada.JNatlCancerInst92(3):205–216.
+gemcitabineanditsmetaboliteinhumanplasmausinghigh-pressure TiradoOM,Mateo-LozanoS,NotarioV(2005)Rapamycininducesapoptosis
+liquidchromatographycoupledwithadiodearraydetector.Acta ofJN-DSRCT-1cellsbyincreasingtheBax:Bcl-xLratiothrough
+PharmacolSin25(12):1584–1589. concurrentmechanismsdependentandindependentofitsmTOR
+MamaneY,PetroulakisE,LeBacquerO,SonenbergN(2006)mTOR, inhibitoryactivity.Oncogene24(20):3348–3357.
+translationinitiationandcancer.Oncogene25(48):6416–6422. VivancoI,SawyersCL(2002)Thephosphatidylinositol3-KinaseAKT
+MayerhoferM,ValentP,SperrWR,GriffinJD,SillaberC(2002)BCR/ABL pathwayinhumancancer.NatRevCancer2(7):489–501.
+inducesexpressionofvascularendothelialgrowthfactorandits
+Vin˜alsF,ChambardJC,Pouysse´gurJ(1999)p70S6kinase-mediatedprotein
+transcriptionalactivator,hypoxiainduciblefactor-1alpha,througha synthesisisacriticalstepforvascularendothelialcellproliferation.JBiol
+Chem274(38):26776–26782.
+pathwayinvolvingphosphoinositide3-kinaseandthemammaliantarget
+WagnerAJ,Malinowska-KolodziejI,MorganJA,QinW,FletcherCD,
+ofrapamycin.Blood100(10):3767–3775.
+VenaN,LigonAH,AntonescuCR,RamaiyaNH,DemetriGD,
+MerimskyO(2004)Targetingmetastaticleiomyosarcomabyrapamycinplus
+KwiatkowskiDJ,MakiRG(2010)ClinicalactivityofmTORinhibition
+gemcitabine:anintriguingclinicalobservation.IntJMolMed14(5):
+withsirolimusinmalignantperivascularepithelioidcelltumors:targeting
+931–935.
+thepathogenicactivationofmTORC1intumors.JClinOncol28(5):
+MerimskyO,GorzalczanyY,Sagi-EisenbergR(2007)Molecularimpactsof
+835–840.
+rapamycin-baseddrugcombinations:combiningrapamycinwith
+WiederrechtGJ,SabersCJ,BrunnGJ,MartinMM,DumontFJ,AbrahamRT
+gemcitabineorimatinibmesylate(Gleevec)inahumanleiomyosarcoma
+(1995)Mechanismofactionofrapamycin:newinsightsintothe
+model.IntJOncol31(1):225–232.
+regulationofG1-phaseprogressionineukaryoticcells.ProgCellCycleRes
+MondesireWH,JianW,ZhangH,EnsorJ,HungMC,MillsGB,
+1:53–71.
+Meric-BernstamF(2004)Targetingmammaliantargetofrapamycin
+XuG,ZhangW,BertramP,ZhengXF,McLeodH(2004)Pharmacogenomic
+synergisticallyenhanceschemotherapy-inducedcytotoxicityinbreast
+profilingofthePI3K/PTEN-AKT-mTORpathwayincommonhuman
+cancercells.ClinCancerRes10(20):7031–7042.
+tumors.IntJOncol24(4):893–900.
+MotzerRJ,EscudierB,OudardS,HutsonTE,PortaC,BracardaS,
+YaoJC,ShahMH,ItoT,BohasCL,WolinEM,VanCutsemE,
+Gru¨nwaldV,ThompsonJA,FiglinRA,HollaenderN,UrbanowitzG,
+HobdayTJ,OkusakaT,CapdevilaJ,deVriesEG,TomassettiP,PavelME,
+BergWJ,KayA,LebwohlD,RavaudA,GroupR-S(2008)Efficacyof HoosenS,HaasT,LincyJ,LebwohlD,O¨bergK.RAD001inAdvanced
+everolimusinadvancedrenalcellcarcinoma:adouble-blind,randomised, NeuroendocrineTumors,ThirdTrial(RADIANT-3)StudyGroup(2011)
+placebo-controlledphaseIIItrial.Lancet372(9637):449–456. Everolimusforadvancedpancreaticneuroendocrinetumors.NEnglJMed
+RosaR,DamianoV,NappiL,FormisanoL,MassariF,ScarpaA, 364(6):514–523.
+MartignoniG,BiancoR,TortoraG(2013)Angiogenicandsignalling ZhangC,CaiTY,ZhuH,YangLQ,JiangH,DongXW,HuYZ,LinNM,
+proteinscorrelatewithsensitivitytosequentialtreatmentinrenalcell HeQJ,YangB(2011)Synergisticantitumoractivityofgemcitabineand
+cancer.BrJCancer109(3):686–693. ABT-737invitroandinvivothroughdisruptingtheinteractionofUSP9X
+SabatiniDM(2006)mTORandcancer:insightsintoacomplexrelationship. andMcl-1.MolCancerTher10(7):1264–1275.
+NatRevCancer6(9):729–734.
+SchniewindB,ChristgenM,KurdowR,HayeS,KremerB,KalthoffH,
+UngefrorenH(2004)Resistanceofpancreaticcancertogemcitabine
+Thisworkispublishedunderthestandardlicensetopublishagree-
+treatmentisdependentonmitochondria-mediatedapoptosis.IntJCancer
+109(2):182–188. ment. After 12 months the work will become freely available and
+ShawRJ,CantleyLC(2006)Ras,PI(3)KandmTORsignallingcontrols the license terms will switch to a Creative Commons Attribution-
+tumourcellgrowth.Nature441(7092):424–430. NonCommercial-Share Alike 3.0 Unported License.
+Supplementary Information accompanies this paper on British Journal of Cancer website (http://www.nature.com/bjc)
+www.bjcancer.com|DOI:10.1038/bjc.2014.370 865

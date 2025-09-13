@@ -1,0 +1,566 @@
+Source: 25552401.pdf
+Extracted on: Sat Sep 13 00:00:03 PDT 2025
+==================================================
+
+--- Page 1 ---
+Cancer Chemother Pharmacol (2015) 75:475–483
+DOI 10.1007/s00280-014-2664-9
+ORIGINAL ARTICLE
+Phase I/II study of gefitinib (Iressa ®) and vorinostat (IVORI)
+in previously treated patients with advanced non‑small cell lung
+cancer
+Ji‑Youn Han · Soo Hyun Lee · Geon Kook Lee ·
+Tak Yun · Young Joo Lee · Kum Hui Hwang ·
+Jin Young Kim · Heung Tae Kim
+Received: 4 August 2014 / Accepted: 22 December 2014 / Published online: 1 January 2015
+© The Author(s) 2014. This article is published with open access at Springerlink.com
+Abstract tolerated. In an unselected patient population, this combi-
+Purpose Vorinostat has been shown to overcome resist- nation dose did not improve PFS. However, this combina-
+ance to gefitinib. We performed a phase I/II study combin- tion showed a potential for improving efficacy of gefitinib
+ing gefitinib with vorinostat in previously treated non-small in EGFR-mutant NSCLC (NCT01027676).
+cell lung cancer (NSCLC).
+Methods A 3 3 dose-escalation design was used to Keywords Gefitinib · Vorinostat · EGFR · NSCLC
++
+determine maximum tolerated dose (MTD) and recom-
+mended phase II dose (RP2D). Three dose levels were
+tested: 250 mg/day gefitinib on days 1–28 and 200, 300 or Introduction
+400 mg/day vorinostat on days 1–7, and 15–21 out of every
+28 days. The primary endpoint was median progression- Epidermal growth factor receptor (EGFR)–tyrosine kinase
+free survival (PFS). inhibitors (TKIs) are now the therapy of choice for patients
+Results Fifty-two patients were enrolled and treated (43 with EGFR-mutant non-small cell lung cancer (NSCLC).
+in phase II). The median age was 59 years, 28 patients However, despite the initial response to EGFR-TKIs, most
+were male, 44 had adenocarcinoma, 29 had never smoked, patients develop resistance and eventually relapse. The
+and 36 had undergone one prior treatment. Twenty-two mechanisms responsible for acquired resistance to EGFR-
+patients exhibited sensitive EGFR mutations. Planned TKIs include secondary EGFR T790 M mutation, MET
+dose escalation was completed without reaching the MTD. amplification, epithelial-to-mesenchymal transition (EMT)
+The RP2D was 250 mg gefitinib and 400 mg vorinostat. signature, histologic transformation to small cell lung can-
+In 43 assessable patients in phase II, the median PFS was cer, and AXL kinase activation [1]. Furthermore, approxi-
+3.2 months; the overall survival (OS) was 19.0 months. mately 20 % of patients harboring sensitive EGFR muta-
+There were 16 partial responses and six cases of sta- tions exhibit a suboptimal response or primary resistance to
+ble disease. In EGFR-mutant NSCLC, response rate was EGFR-TKIs. In addition to the coexistence of other genetic
+77 %, median PFS was 9.1 months, and median OS was alterations, such as PIK3CA or EGFR exon 20 insertion
+24.1 months. The most common adverse events were ano- mutations, germline BIM deletion polymorphism has been
+rexia and diarrhea. reported as a possible mechanism of primary resistance to
+Conclusions Treatment with 250 mg gefitinib daily with EGFR-TKIs [2]. Novel strategies to overcome the multi-
+biweekly 400 mg/day vorinostat was feasible and well factorial resistance are needed to improve the efficacy of
+EGFR-TKIs, particularly in patients with EGFR mutations.
+In addition, there is controversy regarding the use of
+J.-Y. Han (*) · S. H. Lee · G. K. Lee · T. Yun · Y. J. Lee · EGFR-TKIs for patients with EGFR wild-type NSCLC.
+K. H. Hwang · J. Y. Kim · H. T. Kim So far, EGFR-TKIs have been widely used for advanced
+Center for Lung Cancer, Research Institute and Hospital,
+NSCLC irrespective of the EGFR mutation status because
+National Cancer Center, 323 Ilsan-ro, Ilsandong-gu, Goyang-si,
+earlier trials that demonstrated the efficacy of EGFR-TKIs
+Gyeonggi-do 410-769, Republic of Korea
+e-mail: jymama@ncc.re.kr for second- or third-line therapy of advanced NSCLC did
+1 3
+
+--- Page 2 ---
+4 76 Cancer Chemother Pharmacol (2015) 75:475–483
+not consider EGFR genotype. However, recent randomized history of uncontrolled cardiac dysfunction, or any previous
+trials comparing erlotinib and docetaxel as a second-line treatment with EGFR signaling inhibitors or HDAC inhibi-
+therapy in EGFR wild-type NSCLC demonstrated the clear tors. The protocol was approved by an independent ethics
+superiority of docetaxel over EGFR-TKIs in patients with committee/institutional review board and was conducted in
+EGFR wild-type NSCLC [3, 4]. Thus, further defining the accordance with the Declaration of Helsinki, Good Clinical
+subpopulation of EGFR wild-type NSCLC patients that is Practice. Each patient provided written informed consent.
+suitable for EGFR-TKIs therapy is needed.
+Histone deacetylase inhibitors (HDACis) have emerged Study design
+as promising multifunctional anticancer agents that regu-
+late gene expression and transcription through chromatin The phase I study was a standard 3 3 dose-escalation
++
+remodeling. HDACis can also modulate a variety of cel- design, followed by a phase II part. The primary endpoint
+lular functions, including growth, differentiation, and sur- of the phase I part was to determine the maximum tolerated
+vival, through the acetylation of a wide range of proteins, dose (MTD) and the recommended phase II dose (RP2D)
+including transcription factors, molecular chaperones, and of vorinostat in combination with gefitinib. The primary
+structural components [5]. Recent data suggest that HDA- endpoint of phase II part was progression-frees survival. In
+Cis can increase sensitivity to EGFR-TKIs in lung can- the phase I study, three patients were treated per cohort for
+cer cells. HDACis can reverse resistance to EGFR-TKIs one cycle (28 days per cycle). Dose-limiting toxicity (DLT)
+through induction of E-cadherin expression in lung cancer was defined as any grade 3 or 4 non-hematologic toxicity
+cells [6]. In addition, HDACis induce acetylation of Hsp90, (except nausea or vomiting that responds to symptomatic
+resulting in reduced association of Hsp90 with key chaper- therapy, fatigue that responds to maximal management
+one proteins, including EGFR, c-Src, STAT3, and Akt [7]. and alopecia) or any grade 4 hematologic toxicity occur-
+Furthermore, HDACis increase the expression of the proa- ring during the first cycle. Toxicity was graded according
+poptotic BH3 domain-containing isoform of BIM, which to the National Cancer Institute Common Toxicity Criteria
+restores the sensitivity to EGFR-TKIs [8]. Thus, current of Adverse Events (CTCAE) version 4.0. In the absence
+research on incorporating HDACis in NSCLC treatment is of any DLT, three patients were treated in the subsequent
+focused on the combination of HDACis with EGFR-TKIs cohort. The presence of DLT in a cohort required that
+[9]. another three patients be treated in the cohort for one cycle.
+Vorinostat is an inhibitor of class I and II histone dea- If no DLTs occurred, then dose escalation continued. RP2D
+cetylases that regulate the transcription of various genes was defined as the highest dosage at which one of six
+involved in cell survival and apoptosis. Vorinostat has dem- patients at most experienced a DLT. No intra-patient dose
+onstrated profound anti-growth activity against NSCLC escalation was permitted.
+cells [10]. Given the potential synergy between HDACis
+and EGFR-TKIs, we conducted a phase I/II study of gefi- Treatment delivery
+tinib and vorinostat in patients with advanced NSCLC.
+All patients received once-daily oral doses of 250 mg gefi-
+tinib on days 1–28 in combination with vorinostat on days
+Methods 1–7 and days 15–21 of each 28 days cycle. Up to three dose
+levels of vorinostat were evaluated (200, 300, and 400 mg/
+Patients day). During phase II, vorinostat was administered at the
+RP2D of 400 mg/day. Study treatment continued until dis-
+The main eligibility criteria were histologic confirmation of ease progression (PD) or until another termination crite-
+advanced NSCLC, previous chemotherapy with at least one rion was met: unacceptable toxicity, consent withdrawal,
+platinum-containing regimen, age 18 years, an Eastern loss to follow-up, death, major protocol violation, or
+≥
+Cooperative Oncology Group (ECOG) performance status noncompliance.
+(PS) of less or equal to 2, and a measurable disease accord-
+ing to the Response Evaluation Criteria in Solid Tumors Study assessment
+(RECIST). Adequate hematologic (WBC count 4,000/
+≥
+mm3, platelet count 150,000/mm3), hepatic (bilirubin Safety assessment included history, physical examinations,
+≥
+level 1.5 mg/dL, AST/ALT 80 IU/L), and renal (cre- vital signs, ECOG PS, adverse events (AEs), electrocardi-
+≤ ≤
+atinine concentration 1.5 mg/dL) function was required. ography (ECG), blood chemistry, and hematology. Safety
+≤
+Patients with brain metastases were enrolled if they were assessments were performed at screening, biweekly (days 1
+clinically stable without steroid treatment. The exclusion and 15) during cycles one and two, on day 1 of subsequent
+criteria included serious concomitant systemic diseases or a cycles, and during the final study visit.
+1 3
+
+--- Page 3 ---
+Cancer Chemother Pharmacol (2015) 75:475–483 477
+Baseline computed tomography (CT) scans of the chest sample size, we assumed an exponential distribution. Thus,
+and abdomen, bone scintigraphy, and brain magnetic reso- the estimated 6-month PFS under the null hypothesis and
+nance imaging or CT were obtained within 4 weeks before alternative hypothesis were 0.305 and 0.530, respectively.
+initiation of treatment. Efcfi acy variables, including progres- To achieve a power of .80, with α .05, we calculated a
+=
+sion-free survival (PFS) and overall survival (OS), were eval- sample size of 40 patients. Anticipating a 10 % dropout
+uated during phase II. Tumor response was assessed using rate, the samples size for the phase II portion totaled 44
+RECIST 1.1 [11] after every two cycles of therapy. patients.
+All tests of hypotheses were conducted at a two-sided
+EGFR and KRAS mutation analysis α 0.05 level. The log-rank test was used to compare
+=
+PFS and OS time according to mutation status. The distri-
+Genomic DNA was extracted from 10 % neutral formalin- bution of PFS and OS were estimated using the Kaplan–
+fixed, paraffin-embedded (FFPE) tumor tissue blocks using Meier method. Statistical comparison of the response rates
+the QIAamp DNA Mini Kit (QIAGEN, Hilden, Germany). according to the mutation status was performed using Chi-
+We analyzed EGFR and KRAS mutations using the poly- squared or Fisher’s exact test.
+merase chain reaction (PCR)-based direct DNA sequencing
+method [12].
+Results
+Genotyping of BIM deletion polymorphism (BIM DEL)
+Patient characteristics
+We obtained blood samples before treatment. We extracted
+genomic DNA from patients’ peripheral blood and geno- Between July 2010 and June 2013, 52 patients were
+typed the deletion by a single PCR reaction using the prim- enrolled in this study. The patient characteristics are sum-
+ers 5′-ccaccaatggaaaaggttca-3′ and 5′-gcctgaaggtgctgaga- marized in Table 1. All patients had stage IV disease, and
+aag-3′ and Hotstartaq DNA Polymerase (Qiagen) with the most of the patients exhibited good PS and adenocarcinoma
+following thermo-cycling conditions: 94 °C for 15 min, histology. Thirty-six patients received the study treatment
+(94 °C for 15 s, 60 °C for 30 s, and 68 °C for 5 min) 35, as second-line therapy. The most common reason for study
+×
+and 68 °C for 10 min. The resulting PCR products from the discontinuation was disease progression (45 of 52: 86.5 %).
+deletion (970 bp) and the wild-type (3,873 bp) alleles were
+analyzed on 1.5 % agarose gels. We performed two sepa- Phase I study results
+rate PCR reactions to determine the presence of the wild-
+type and deletion alleles. The toxicities encountered during the phase I study are
+summarized in Table 2. Three patients were enrolled in
+Immunohistochemistry for E-cadherin and vimentin the level 1 treatment, and none experienced DLT. Three
+patients were enrolled in the level 2 treatment, and one
+Samples with E-cadherin (Zymed, CA, USA) and vimentin experienced DLT due to grade 3 hyperglycemia. Conse-
+(Ventana, AZ, USA) immunohistochemistry staining inten- quently, another three patients were enrolled in the level 2
+sity scores of 0 or 1 (<50 % of the cells have complete treatment, and none experienced DLT. In the level 3 treat-
++
+circumferential membrane staining at a low intensity) were ment group, the initial three patients experienced no DLT.
+classified as negative. Those with 2 or 3 ( 50 % of the Thus, the level 3 group was expanded up to six patients,
++ + ≥
+cells have complete circumferential membrane staining at a and one experienced DLT due to grade 3 anorexia. The
+high intensity) were classified as positive. RP2D was determined to be biweekly 400 mg/day vori-
+nostat in combination with daily 250 mg gefitinib (level 3).
+Statistical analysis
+Phase II study
+The primary object of the phase I study was to determine
+the MTD of vorinostat in combination with the standard The following analysis is based on 43 patients, including
+dose of gefitinib. The last six patients enrolled into the six patients who were treated during the MTD of the phase
+phase I study were included in the analysis of the phase I portion and 37 patients who were treated during the phase
+II study. The primary endpoint of the phase II component II portion of this study. The follow-up data were frozen on
+was to reject the null hypothesis (median PFS, 3.5 months) March 3, 2014. The median follow-up was 16.2 months
+and to accept the alternative hypothesis (median PFS, (95 % CI 13.2 to 19.3 months). The median number of
+6.5 months). To test the hypothesis and to calculate the cycles was two (range 1–24 cycles).
+1 3
+
+--- Page 4 ---
+4 78 Cancer Chemother Pharmacol (2015) 75:475–483
+Table 1 Patient characteristics
+Phase I Phase II
+Level 1 Level 2 Level 3
+N 3 6 6 37
+Median age (range) 67 (65–76) 63.5 (59–71) 52.5 (44–66) 56 (39–79)
+Male/female 2/1 3/3 2/4 21/16
+Stage IIIB/IV 0/3 0/6 0/6 0/37
+ECOG performance status 0/1/2 0/3/0 1/2/3 2/4/0 5/25/7
+Histology, adenocarcinoma/squamous/othera 3/0/0 4/2/0 5/1/0 32/3/2
+Sensitive EGFR mutation, positive/negative/unknown 1/2/0 4/2/0 4/2/0 13/23/0
+K-RAS mutation, positive/negative/unknown 1/0/2 1/4/1 0/6/0 3b/34/0
+BIM deletion polymorphism, positive/negative 1/2 1/5 1/5 4/33
+Prior chemotherapy regimen, one/two 2/1 3/3 5/1 26/11
+a NOS, sarcomatoid carcinoma
+b One patient had concurrent EGFR exon 19 deletion with A871T and KRAS G12S mutations: This patient is regarded as KRAS mutation posi-
+tive
+Table 2 Toxicities in phase 1
+Level 1 (n 3) Level 2 (n 6) Level 3 (n 6)
+(n 15) = = =
+=
+Grade 1 2 3 4 1 2 3 4 1 2 3 4
+Anemia 2 1 0 0 2 1 0 0 1 1 0 0
+Blood bilirubin increased 0 0 0 0 1 0 0 0 1 0 0 0
+Creatinine increased 0 0 0 0 2 0 0 0 0 0 0 0
+Hyperglycemia 1 1 0 0 2 0 1 0 1 0 0 0
+Neutrophil count decreased 0 0 0 0 0 0 0 0 0 1 0 0
+Platelet count decreased 0 0 0 0 1 0 0 0 1 0 0 0
+White blood cell count decreased 0 0 0 0 0 0 0 0 3 0 0 0
+Anorexia 1 0 0 0 2 0 0 0 2 1 1 0
+Diarrhea 0 0 0 0 4 0 0 0 5 1 0 0
+Dry mouth 0 0 0 0 1 0 0 0 1 0 0 0
+Dry skin 0 0 0 0 2 0 0 0 2 0 0 0
+Fatigue 1 0 0 0 3 0 0 0 1 0 0 0
+Oral mucositis 0 0 0 0 2 0 0 0 4 1 0 0
+Nausea 1 0 0 0 1 0 0 0 3 0 1 0
+Papulopustular rash 0 0 0 0 0 0 0 0 1 0 0 0
+Pruritus 0 0 0 0 3 0 0 0 4 0 0 0
+Acneiform rash 0 0 0 0 1 0 0 0 1 0 0 0
+Maculopapular rash 0 0 0 0 3 0 0 0 3 0 0 0
+Nasal mucositis 0 0 0 0 0 0 0 0 1 0 0 0
+Vomiting 0 0 0 0 1 0 0 0 2 0 0 0
+Response and survival Toxicity
+Among 43 patients, there were 16 patients with a partial Toxicity was assessable in all 43 patients (Table 3). The
+response (37.2 %), 6 with stable disease (14.0 %), and most frequent grade 3 toxicities were anorexia (11.6 %),
+21 with progressive diseases (48.8 %). The median PFS diarrhea (9.3 %), fatigue (7.0 %), and anemia (4.7 %).
+was 3.2 months (95 % CI 2.3 to 4.1 months). The median There was no grade 4 hematologic toxicity. There was no
+OS was 19.0 months (95 % CI 17.2 to 20.8 months). The treatment-related death or irreversible toxicity that was
+response and PFS data are presented in Fig. 1a, b. considered to be related to the treatment in this study.
+1 3
+
+--- Page 5 ---
+Cancer Chemother Pharmacol (2015) 75:475–483 479
+PR
+(cid:25)(cid:19)
+SD
+PD
+e: sensitive EGFR mutations
+(cid:23)(cid:19)
+k: KRAS codon 12 mutations
+k+: concurrent KRAS G12S & EGFR 19Del, A871 mutations
+* BIM deletion polymorphism
+(cid:21)(cid:19)
+(cid:19)
+(cid:13) (cid:13) (cid:78) (cid:78)(cid:14) (cid:78) (cid:72) (cid:72) (cid:72)(cid:13) (cid:72) (cid:72) (cid:72) (cid:72) (cid:72) (cid:72) (cid:72)(cid:13) (cid:72) (cid:72) (cid:13) (cid:72) (cid:72) (cid:72) (cid:72) (cid:72)
+(cid:20) (cid:21) (cid:22) (cid:23) (cid:24) (cid:25) (cid:26) (cid:27)(cid:28) (cid:20) (cid:19)(cid:20)(cid:20)(cid:20)(cid:21)(cid:20)(cid:22)(cid:20)(cid:23)(cid:20)(cid:24)(cid:20)(cid:25)(cid:20)(cid:26)(cid:20)(cid:27)(cid:20)(cid:28)(cid:21)(cid:19)(cid:21)(cid:20)(cid:21)(cid:21)(cid:21)(cid:22)(cid:21)(cid:23)(cid:21)(cid:24)(cid:21)(cid:25)(cid:21)(cid:26)(cid:21)(cid:27)(cid:21)(cid:28)(cid:22)(cid:19)(cid:22)(cid:20)(cid:22)(cid:21)(cid:22)(cid:22)(cid:22)(cid:23)(cid:22)(cid:24)(cid:22)(cid:25)(cid:22)(cid:26)(cid:22)(cid:27)(cid:22)(cid:28)(cid:23)(cid:19)(cid:23)(cid:20)(cid:23)(cid:21)(cid:23)(cid:22)
+(cid:16)(cid:21)(cid:19)
+(cid:16)(cid:23)(cid:19)
+(cid:16)(cid:25)(cid:19)
+(cid:16)(cid:27)(cid:19)
+(cid:16)(cid:20)(cid:19)(cid:19)
+1 3
+)%(
+ezis
+romut
+ni
+egnahC
+patients
+(cid:21)(cid:24)(cid:17)(cid:19)
+e: sensitive EGFR mutations
+k: KRAS codon 12 mutations
+k+: concurrent KRAS G12S & EGFR 19Del, A871 mutations
+* BIM deletion polymorphism
+(cid:21)(cid:19)(cid:17)(cid:19)
+(cid:20)(cid:24)(cid:17)(cid:19)
+(cid:20)(cid:19)(cid:17)(cid:19)
+(cid:24)(cid:17)(cid:19)
+(cid:19)(cid:17)(cid:19)
+(cid:13) (cid:13) (cid:78) (cid:78)(cid:14)(cid:78) (cid:72) (cid:72) (cid:72)(cid:13) (cid:72) (cid:72) (cid:72) (cid:72) (cid:72) (cid:72) (cid:72)(cid:13) (cid:72) (cid:72) (cid:13) (cid:72) (cid:72) (cid:72) (cid:72)(cid:72)
+(cid:20) (cid:21) (cid:22) (cid:23) (cid:24) (cid:25) (cid:26) (cid:27) (cid:28)(cid:20)(cid:19)(cid:20)(cid:20)(cid:20)(cid:21)(cid:20)(cid:22)(cid:20)(cid:23)(cid:20)(cid:24)(cid:20)(cid:25)(cid:20)(cid:26)(cid:20)(cid:27)(cid:20)(cid:28)(cid:21)(cid:19)(cid:21)(cid:20)(cid:21)(cid:21)(cid:21)(cid:22)(cid:21)(cid:23)(cid:21)(cid:24)(cid:21)(cid:25)(cid:21)(cid:26)(cid:21)(cid:27)(cid:21)(cid:28)(cid:22)(cid:19)(cid:22)(cid:20)(cid:22)(cid:21)(cid:22)(cid:22)(cid:22)(cid:23)(cid:22)(cid:24)(cid:22)(cid:25)(cid:22)(cid:26)(cid:22)(cid:27)(cid:22)(cid:28)(cid:23)(cid:19)(cid:23)(cid:20)(cid:23)(cid:21)(cid:23)(cid:22)
+)shtnom(
+lavivrus
+eerf-noissergorP
+A
+B
+Patients
+Fig. 1 Efficacy. a Waterfall plot of response. b Progression-free survival PR partial response; SD stable disease; PD progressive disease; e sensi-
+tive EGFR mutations; k KRAS codon 12 mutations; BIM Del BIM deletion polymorphism
+
+--- Page 6 ---
+4 80 Cancer Chemother Pharmacol (2015) 75:475–483
+Table 3 Toxicities in phase II (n 43) five L858R mutations, and one R776H mutation) and five
+=
+exhibited KRAS mutations (three G12C and two G12S
+Grade %
+mutations). One patient with KRAS G12S exhibited a
+1 2 3 4 Grade 3/4 (total)
+concurrent EGFR exon 19 deletion and A871T mutation.
+Diarrhea 19 12 4 0 9.3 (81.4) This case was classified as KRAS mutation positive. BIM
+Anorexia 12 14 5 0 11.6 (72.1) DEL was observed in seven patients. Immunohistochemis-
+try was available in 43 patients, and eighteen and nineteen
+Pruritus 21 5 0 0 0 (60.5)
+patients exhibited positive E-cadherin and vimentin expres-
+Acneiform rash 16 10 0 0 0 (60.5)
+sion, respectively. The response and survival data accord-
+Hyperglycemia 19 4 0 0 0 (53.5)
+ing to biomarkers are summarized in Table 4. The pres-
+Anemia 12 8 2 0 4.7 (51.2)
+ence of sensitive EGFR mutations was predictive of higher
+Vomiting 13 6 1 0 2.3 (46.5)
+response rates (RR) and longer PFS and OS compared with
+Nausea 13 4 1 0 2.3 (41.9)
+patients with KRAS mutations or patients without either
+Fatigue 12 2 3 0 7.0 (39.5)
+mutation (Fig. 2a, b). Patients harboring BIM DEL muta-
+Oral mucositis 12 2 0 0 0 (32.6)
+tions exhibited a trend toward higher RR and longer PFS;
+White blood cell count decreased 12 0 0 0 0 (27.9)
+however, the trend failed to achieve statistical significance
+Dry skin 10 1 0 0 0 (25.6)
+(Fig. 2c, d). E-cadherin and vimentin expression was not
+Hypocalcemia 8 2 0 0 0 (23.3)
+associated with RR or survival (Fig. 2e–h).
+ALP increased 9 1 0 0 0 (23.3)
+Platelet count decreased 9 0 1 0 2.3 (23.3)
+Creatinine increased 10 0 0 0 0 (23.3)
+Discussion
+ALT increased 6 2 1 0 2.3 (20.9)
+AST increased 6 2 0 0 0 (18.6)
+Our study demonstrated that gefitinib administered daily
+Weight loss 4 4 0 0 0 (18.6)
+at a dose of 250 mg with biweekly vorinostat at a dose of
+Headache 4 4 0 0 0 (18.6)
+400 mg/day was feasible and well tolerated. However, the
+Blood bilirubin increased 5 2 0 0 0 (16.3)
+efficacy results measured by PFS do not support this com-
+Hyponatremia 6 0 1 0 2.3 (16.3)
+bination for molecularly unselected NSCLC patients. Nev-
+Electrocardiogram QT corrected 6 0 0 0 0 (14.0)
+ertheless, it is noteworthy that patients harboring sensitive
+interval prolonged
+EGFR mutations achieved a remarkable RR of 77 % and a
+Maculopapular rash 6 0 0 0 0 5 (14.0)
+median PFS of 9.1 months even in the second- or third-line
+Epigastric pain 0 6 0 0 0 (14.0)
+setting, results that are comparable to the first-line use of
+Abdominal pain 2 1 3 0 7.0 (14.0)
+gefitinib in EGFR-mutant NSCLC.
+Hypophosphatemia 0 5 1 0 2.3 (14.0)
+Thus far, four randomized phase III studies have dem-
+Hypokalemia 5 0 1 0 2.3 (14.0)
+onstrated superior RR and PFS with first-line use of gefi-
+Constipation 4 1 0 0 0 (11.6)
+tinib over platinum-based chemotherapy in EGFR-mutant
+Peripheral sensory neuropathy 4 1 0 0 0 (11.6)
+NSCLC. First-line gefitinib in EGFR-mutant NSCLC
+LDH increased 5 0 0 0 0 (11.6)
+yields consistent RR of 70–80 % and a median PFS of
+Hypermagnesemia 0 0 3 0 7.0 (7.0)
+9–10 months [13–16]. To date, there are no direct compar-
+Neutrophil count decreased 0 4 0 0 0 (9.3)
+isons between first-line versus second-line use of EGFR-
+Dizziness 2 1 1 0 2.3 (9.3)
+TKIs in EGFR-mutant NSCLC. Although the sequence of
+Nasal mucositis 3 1 0 0 0 (9.3)
+EGFR-TKIs in EGFR-mutant NSCLC may not affect the
+Paronychia 1 0 1 0 2.3 (4.7)
+OS [17], the tumor response rates to second-line EGFR-
+Dehydration 0 0 1 0 2.3 (2.3)
+TKIs are usually lower than to first-line use. Maemondo
+Hand foot syndrome 0 1 0 0 0 (2.3)
+et al. [15] documented that the RR to gefitinib was slightly
+Acute renal failure 0 0 1 0 2.3 (2.3) worse in the second-line setting compared with the first-
+line setting (58.5 vs. 73.7 %) in a randomized phase III
+study. Sugio et al. [18] also reported that the RR to gefi-
+Exploratory biomarker analysis tinib was lower in the second-line setting compared with
+the first-line setting (50.0 vs. 77.8 %). In a randomized
+We analyzed EGFR and KRAS mutations, as well as phase III study that compared gefitinib with docetaxel as
+BIM DEL, and E-cadherin and vimentin expression in all a second- or third-line therapy, the gefitinib arm demon-
+patients. Of the 52 patients enrolled in this study, 22 exhib- strated a RR of 42.1 % and a median PFS of 7.0 months
+ited sensitive EGFR mutations (sixteen exon 19 deletions, in EGFR-mutant patients [19]. Although there was no
+1 3
+
+--- Page 7 ---
+Cancer Chemother Pharmacol (2015) 75:475–483 481
+Table 4 Exploratory biomarker analysis
+EGFR/KRAS mutation BIM deletion polymorphism E-cadherin Vimentin
+EGFR pos KRAS pos Both neg Pos Neg Pos Neg Pos Neg
+N 22 5 25 7 45 18 25 19 24
+Response
+PR 17 0 3 5 15 9 7 7 9
+SD 3 1 4 0 8 2 5 4 3
+PD 2 3 18 2 21 7 12 7 12
+NA 0 1 0 0 1 0 1 1 0
+P* <0.0001 0.247 0.426 0.541
+PFS, months
+Median 9.1 1.8 1.8 9.2 3.6 3.6 3.6 5.4 2.1
+95 % CI 7.4–10.8 NA 1.7–1.9 0.0–18.7 1.2–6.0 0.7–6.7 0.5–6.7 2.4–8.4 1.1–3.1
+P ≠ 0.004 0.486 0.842 0.125
+OS, months
+Median 24.1 7.3 11.4 24.1 19.0 19.0 20.3 18.5 20.3
+95 % CI NA 3.7–11.0 0.0–23.1 6.7–41.5 17.0–21.0 15.5–22.5 8.1–32.5 10.8–26.2 16.5–24.1
+P ≠ 0.017 0.561 0.843 0.812
+pos positive, neg negative, NA not assessable, PFS progression-free survival, OS overall survival, CI confidence interval
+* Chi-square or Fisher’s exact test, ≠ Kaplan–Meier test
+significant difference in the OS treatment effect, the OS third-line therapy. Thus, we enrolled non-molecularly
+in EGFR-mutant NSCLC was 14.2 months with gefi- selected patients.
+tinib [19]. Some data suggest that the relatively inferior Very recently, Reguart et al. [24]. reported a phase I/II
+response to second-line EGFR-TKIs may result from the study of vorinostat and erlotinib for EGFR-mutant NSCLC
+decreased abundance of EGFR-mutant tumor cells after after erlotinib progression. The authors found no meaning-
+chemotherapy [20, 21]. ful activity in the erlotinib-resistant population. Given that
+It is clear that EGFR-TKIs are most active in EGFR- the most common cause of acquired resistance to EGFR-
+mutant NSCLC. The sensitive EGFR mutations target the TKIs in EGFR-mutant NSCLC is T790 M mutation, vori-
+TK domain that is essential for the phosphorylation func- nostat may be not sufficient to overcome T790 M-related
+tion, which results in enhanced kinase activity and also in resistance to EGFR-TKIs. Witta et al. [25] reported a ran-
+increased sensitivity to EGFR-TKIs [22]. A recent experi- domized phase II trial of erlotinib with or without enti-
+mental study revealed that vorinostat treatment increased nostat, an isoform-selective HDACis, in previously treated
+the acetylation of EGFR, which leads to enhanced EGFR NSCLC. The authors also failed to demonstrate improved
+phosphorylation in cancer cells. Additionally, combination outcomes. Nevertheless, the authors reported that high
+therapy effectively inhibited cell growth in vitro compared E-cadherin expression was predictive of longer OS with
+with individual therapy [23]. Despite second- or third-line the combination therapy. However, biomarker analysis was
+use of gefitinib in our study, the relatively higher RR and available in only a subset of patients, and more patients
+longer survival times observed in EGFR-mutant NSCLC enrolled in the combination arm were EGFR FISH posi-
+may be attributed to the combination with vorinostat. Vori- tive. Thus, the impact of E-cadherin expression on HDA-
+nostat-induced acetylation-enhanced tyrosine kinase phos- Cis in combination with erlotinib remains unclear. We also
+phorylation of EGFR may overcome or delay the develop- analyzed E-cadherin expression. Furthermore, we added
+ment of acquired resistance to gefitinib caused by the low vimentin expression to further define cases with an epi-
+abundance of EGFR-mutant cancer cells. By contrast, the thelial phenotype. However, we did not observe any sig-
+efficacy observed in patients with wild-type EGFR was nificant association with efficacy. We also analyzed the pre-
+similar to other reports. Accordingly, vorinostat in com- dictive role of BIM DEL. BIM DEL has been reported to
+bination with gefitinib may be more effective for patients be associated with intrinsic resistance to EGFR-TKIs due
+with EGFR-mutant NSCLC. At the time of the study ini- to the impaired generation of BIM with the proapoptotic
+tiation, EGFR mutation test was not routinely performed BH3 domain [2]. However, vorinostat can upregulate the
+in Korea and gefitinib was usually used as second- or expression of BIM protein with BH3 domain, which restore
+1 3
+
+--- Page 8 ---
+4 82 Cancer Chemother Pharmacol (2015) 75:475–483
+1 3
+lavivrus
+eerf-noissergorP
+lavivrusllarevO
+A B
+Months Months
+lavivrus
+eerf-noissergorP
+lavivrusllarevO
+EGFR positive
+KRAS positive
+EGFR/KRAS negative
+C D
+BIM deletion positive
+BIM deletion negative
+Months Months
+lavivrus
+eerf-noissergorP
+lavivrusllarevO
+E F
+E-Cadherin positive
+E-Cadherin negative
+Months Months
+lavivrus
+eerf-noissergorP
+lavivrusllarevO
+G H
+Vimentin positive
+Vimentin negative
+Months Months
+Fig. 2 Progression-free and overall survival according to EGFR and KRAS mutation status (a, b), BIM deletion polymorphism (c, d), E-cad-
+herin expression (e, f), and vimentin expression (g, h), respectively
+
+--- Page 9 ---
+Cancer Chemother Pharmacol (2015) 75:475–483 483
+sensitivity to gefitinib in EGFR-mutant NSCLC cells with 8. Nakagawa T, Takeuchi S, Yamada T et al (2013) EGFR-TKI
+BIM DEL [8]. Patients with BIM DEL exhibited a trend resistance due to BIM polymorphism can be circumvented in
+combination with HDAC inhibition. Cancer Res 73:2428–2434
+toward longer PFS compared with those without BIM DEL.
+9. Neal JW, Sequist LV (2012) Complex role of histone deacetylase
+However, only seven (13 %) of 52 patients exhibited BIM inhibitors in the treatment of non-small-cell lung cancer. J Clin
+DEL; thus, the impact of vorinostat in combination with Oncol 30:2280–2282
+gefitinib in this population should be investigated further. 10. Hoang T, Campbell TC, Zhang C et al (2014) Vorinostat and bort-
+ezomib as third-line therapy in patients with advanced non-small
+The combination therapy of vorinostat and gefitinib as
+cell lung cancer: a wisconsin oncology network phase II study.
+second- or third-line therapy did not improve outcomes in Invest New Drugs 32:195–199
+an unselected patient population. Nevertheless, the planned 11. Eisenhauer EA, Therasse P, Bogaerts J et al (2009) New response
+biomarker analysis suggests that this combination may be evaluation criteria in solid tumours: revised RECIST guideline
+(version 1.1). Eur J Cancer 45:228–247
+effective for EGFR-mutant NSCLC by enhancing EGFR
+12. Paez JG, Janne PA, Lee JC et al (2004) EGFR mutations in lung
+phosphorylation. Although further study is required to cancer: correlation with clinical response to gefitinib therapy. Sci-
+confirm the usefulness of vorinostat in combination with ence 304:1497–1500
+gefitinib in EGFR-mutant NSCLC, our study suggests the 13. Mok TS, Wu YL, Thongprasert S et al (2009) Gefitinib or car -
+boplatin-paclitaxel in pulmonary adenocarcinoma. N Engl J Med
+potential benefit of vorinostat for improving the efficacy of
+361:947–957
+EGFR-TKIs in EGFR-mutant NSCLC. 14. Han JY, Park K, Kim SW et al (2012) First-SIGNAL: first-line
+single-agent iressa versus gemcitabine and cisplatin trial in
+Acknowledgments This study was partly supported by a research never-smokers with adenocarcinoma of the lung. J Clin Oncol
+grant from AstraZeneca, and vorinostat was provided by Merck Sharp 30:1122–1128
+and Dohme (MSD). 15. Maemondo M, Inoue A, Kobayashi K et al (2010) Gefitinib or
+chemotherapy for non-small-cell lung cancer with mutated
+EGFR. N Engl J Med 362:2380–2388
+Conflict of interest There are no financial disclosures and conflict
+16. Mitsudomi T, Morita S, Yatabe Y et al (2010) Gefitinib versus
+of interest.
+cisplatin plus docetaxel in patients with non-small-cell lung can-
+cer harbouring mutations of the epidermal growth factor receptor
+Open Access This article is distributed under the terms of the Crea-
+(WJTOG3405): an open label, randomised phase 3 trial. Lancet
+tive Commons Attribution License which permits any use, distribu-
+Oncol 11:121–128
+tion, and reproduction in any medium, provided the original author(s)
+17. Zhang Y, Sun Y, Wang L et al (2013) Sequential treatment of
+and the source are credited.
+tyrosine kinase inhibitors and chemotherapy for EGFR-mutated
+non-small cell lung cancer: a meta-analysis of phase III trials.
+Onco Targets Ther 6:1771–1777
+References 18. Sugio K, Uramoto H, Onitsuka T et al (2009) Prospective phase
+II study of gefitinib in non-small cell lung cancer with epidermal
+growth factor receptor gene mutations. Lung Cancer 64:314–318
+1. Shien K, Toyooka S, Yamamoto H et al (2013) Acquired
+19. Douillard JY, Shepherd FA, Hirsh V et al (2010) Molecular pre-
+resistance to EGFR inhibitors is associated with a manifesta-
+dictors of outcome with gefitinib and docetaxel in previously
+tion of stem cell-like properties in cancer cells. Cancer Res
+treated non-small-cell lung cancer: data from the randomized
+73:3051–3061
+phase III interest trial. J Clin Oncol 28:744–752
+2. Ng KP, Hillmer AM, Chuah CT et al (2012) A common BIM
+20. Mok T, Yang JJ, Lam KC (2013) Treating patients with EGFR-
+deletion polymorphism mediates intrinsic resistance and infe-
+sensitizing mutations: first line or second line–is there a differ -
+rior responses to tyrosine kinase inhibitors in cancer. Nat Med
+ence? J Clin Oncol 31:1081–1088
+18:521–528
+21. Zhou Q, Zhang XC, Chen ZH et al (2011) Relative abundance
+3. Garassino MC, Martelli O, Broggini M et al (2013) Erlotinib ver-
+of EGFR mutations predicts benefit from gefitinib treatment for
+sus docetaxel as second-line treatment of patients with advanced
+advanced non-small-cell lung cancer. J Clin Oncol 29:3316–3321
+non-small-cell lung cancer and wild-type EGFR tumours (TAI-
+22. Gazdar AF, Shigematsu H, Herz J, Minna JD (2004) Mutations
+LOR): a randomised controlled trial. Lancet Oncol 14:981–988
+and addiction to EGFR: the Achilles ‘heal’ of lung cancers?
+4. Okano Y, Ando M, Asami K, Fukuda M, Nakagawa H, Ibata H,
+Trends Mol Med 10:481–486
+et al. (2013) Randomized phase III trial of erlotinib versus doc-
+23. Song H, Li CW, Labaff AM et al (2011) Acetylation of EGF
+etaxel as second-or third-line therapy in patients with advanced
+receptor contributes to tumor cell resistance to histone deacety-
+non-small cell lung cancer who have wild type or mutant EGFR.
+lase inhibitors. Biochem Biophys Res Commun 404:68–73
+J Clin Oncol 31 (suppl): abstr 8006
+24. Reguart N, Rosell R, Cardenal F et al (2014) Phase I/II trial of
+5. Tate CR, Rhodes LV, Segar HC et al (2012) Targeting triple-nega-
+vorinostat (SAHA) and erlotinib for non-small cell lung cancer
+tive breast cancer cells with the histone deacetylase inhibitor pan-
+(NSCLC) patients with epidermal growth factor receptor (EGFR)
+obinostat. Breast Cancer Res 14:R79
+mutations after erlotinib progression. Lung Cancer 84:161–167
+6. Witta SE, Gemmill RM, Hirsch FR et al (2006) Restoring
+25. Witta SE, Jotte RM, Konduri K et al (2012) Randomized phase
+E-cadherin expression increases sensitivity to epidermal growth
+II trial of erlotinib with and without entinostat in patients with
+factor receptor inhibitors in lung cancer cell lines. Cancer Res
+advanced non-small-cell lung cancer who progressed on prior
+66:944–950
+chemotherapy. J Clin Oncol 30:2248–2255
+7. Edwards A, Li J, Atadja P et al (2007) Effect of the histone
+deacetylase inhibitor LBH589 against epidermal growth factor
+receptor-dependent human lung cancer cells. Mol Cancer Ther
+6:2515–2524
+1 3

@@ -1,0 +1,922 @@
+Source: 29603591.pdf
+Extracted on: Sat Sep 13 00:01:32 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Published in final edited form as:
+Pediatr Blood Cancer. 2018 July ; 65(7): e27023. doi:10.1002/pbc.27023.
+Phase I study of vorinostat in combination with isotretinoin in
+patients with refractory/recurrent neuroblastoma: A new
+approaches to Neuroblastoma Therapy (NANT) trial
+Navin Pinto1, Steven G. DuBois2, Araz Marachelian3, Scott J. Diede4, Agne Taraseviciute1,
+Julia L. Glade Bender5, Denice Tsao-Wei6, Susan G. Groshen6, Joel M. Reid7, Daphne A.
+Haas-Kogan8, C. Patrick Reynolds9, Min H. Kang9, Meredith S. Irwin10, Margaret E. Macy11,
+Judith G. Villablanca3, Katherine K. Matthay12,13, and Julie R. Park1
+1Seattle Children’s Hospital, University of Washington, Seattle, Washington
+2Dana-Farber/Boston Children’s Cancer and Blood Disorders Center, Harvard Medical School,
+Boston, Massachusetts
+3Children’s Hospital Los Angeles, University of Southern California Keck School of Medicine, Los
+Angeles, California
+4Global Clinical Development—Oncology, Merck Research Laboratories, North Wales,
+Pennsylvania
+5Division of Pediatric Hematology, Oncology, and Stem Cell Transplantation, Columbia University
+Medical Center, New York City, New York
+6Department of Preventative Medicine, University of Southern California, Los Angeles, California
+7Department of Molecular Pharmacology and Experimental Therapeutics, Mayo Clinic, Rochester,
+Minnesota
+8Department of Radiation Oncology, Brigham and Women’s Hospital, Harvard Medical School,
+Boston, Massachusetts
+9Cancer Center and Cell Biology, Texas Tech University Health Sciences Center School of
+Medicine, Lubbock, Texas
+10Division of Haematology/Oncology, The Hospital for Sick Children, University of Toronto,
+Toronto, Canada
+Correspondence: Julie R. Park, Seattle Children’s Hospital, 4800 Sand Point Way NE, M/S MB.8.501, Seattle, WA 98115.
+julie.park@seattlechildrens.org.
+SUPPORTING INFORMATION
+Additional Supporting Information may be found online in the supporting information tab for this article.
+CONFLICT OF INTEREST
+The authors have no conflicts of interest to declare.
+ORCID
+Navin Pinto http://orcid.org/0000-0002-8775-6710
+Steven G. DuBois http://orcid.org/0000-0003-0882-738X
+Meredith S. Irwin http://orcid.org/0000-0002-2452-5181
+Margaret E. Macy http://orcid.org/0000-0001-6446-9180
+Judith G. Villablanca http://orcid.org/0000-0002-7174-669X
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Pinto et al. Page 2
+11Pediatric Hematology/Oncology/Bone Marrow Transplant, University of Colorado Anschutz
+Medical Campus, Aurora, Colorado
+12UCSF Benioff Children’s Hospital, University of California, San Francisco, California
+13UCSF School of Medicine, University of California, San Francisco, California
+Abstract
+Background—Vorinostat combined with retinoids produces additive antitumor effects in
+preclinical studies of neuroblastoma. Higher systemic exposures of vorinostat than achieved in
+pediatric phase I trials with continuous daily dosing are necessary for in vivo increased histone
+acetylation and cytotoxic activity. We conducted a phase I trial in children with relapsed/refractory
+neuroblastoma to determine the maximum tolerated dose (MTD) of vorinostat on an interrupted
+schedule, escalating beyond the previously identified pediatric MTD.
+Methods—Isotretinoin (cis-13-retinoic acid) 80 mg/m2/dose was administered by mouth twice
+daily on days 1–14 in combination with escalating doses of daily vorinostat up to 430 mg/m2/dose
+(days 1–4; 8–11) in each 28-day cycle using the standard 3 + 3 design. Vorinostat pharmacokinetic
+testing and histone acetylation assays were performed.
+Results—Twenty-nine patients with refractory or relapsed neuroblastoma were enrolled and 28
+were evaluable for dose escalation decisions. Median number of cycles completed was two (range
+1–15); 11 patients received four or more cycles. Three patients experienced cycle 1 dose-limiting
+toxicities. A total of 18 patients experienced grade 3/4 toxicities related to study therapy. The
+maximum intended dose of vorinostat (430 mg/m2/day, days 1–4; 8–11) was tolerable and led to
+increased histone acetylation in surrogate tissues when compared to lower doses of vorinostat (P =
+0.009). No objective responses were seen.
+Conclusions—Increased dose vorinostat (430 mg/m2/day) on an interrupted schedule is
+tolerable in combination with isotretinoin. This dose led to increased vorinostat exposures and
+demonstrated increased histone acetylation. Prolonged stable disease in patients with minimal
+residual disease warrants further investigation.
+Keywords
+histone acetylation; neuroblastoma; pharmacokinetics; phase I clinical trial
+1 INTRODUCTION
+Neuroblastoma, a neoplasm of the sympathetic nervous system, is the most common solid
+tumor of early childhood. Clinical and tumor biologic factors ascertained at diagnosis of
+neuroblastoma identify those children who are at risk for poor long-term outcome despite
+intensive multimodal therapy (defined as high-risk neuroblastoma), and outcome for high-
+risk patients who fail to respond to or relapse after upfront therapy remains poor.1 In a phase
+III randomized trial, administration of isotretinoin (cis-13-retinoic acid) at 80 mg/m2/dose
+administered twice daily for 2 weeks monthly over a period of 6 months following
+consolidation therapy improved 3-year event-free survival from 29% in the control cohort to
+45% in patients receiving isotretinoin.2,3 Isotretinoin is therefore a standard agent for high-
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Pinto et al. Page 3
+risk neuroblastoma. Novel therapies that enhance the efficacy of isotretinoin may lead to
+further improvement in survival for patients with this disease.
+Deregulation of histone acetylation (HA) has been implicated in the development of a range
+of malignancies. Thus, there is considerable interest in the use of inhibitors of histone
+deacetylases (HDAC) as a potential therapeutic modality in the treatment of hematological
+and solid tumor malignancies.4 Inhibitors of HDACs may relieve transcriptional repression
+caused by the products of certain oncogenes, leading to gene reactivation of tumor
+suppressors or death pathway genes, which have been abnormally silenced in the generation
+of the malignant phenotype. This reactivation may lead to cell cycle arrest, induction of
+apoptosis, differentiation, or autophagy.5 Neuroblastoma is thought to arise from defects in
+neural crest differentiation caused by aberrant gene regulation. Thus, compounds that affect
+chromatin structure, such as HDAC inhibitors, are potentially useful agents for the treatment
+of neuroblastoma.
+Retinoic acid receptors (RARs) function as modulators of transcription through the
+recruitment of coregulator complexes. In the absence of a ligand, RARs recruit corepressor
+(CoR) complexes with HDAC activity, resulting in histone deacetylation, chromatin
+compaction, and subsequent repression of gene transcription. In contrast, RAR agonist
+binding causes a conformational change that destabilizes the binding of CoR and creates a
+new interaction surface that recruits co-activator complexes with histone acetyltransferase
+activity, leading to increased HA, local chromatin decondensation, and transcriptional
+activation.6 The antitumor activity of retinoic acids (RAs) are thought to be derived from
+their ability to induce differentiation and/or apoptosis of cancer cells. These findings have
+led to considerable interest in combining an HDAC inhibitor with a retinoid (such as
+isotretinoin) for synergistic activity in the treatment of hematological and solid
+malignancies. Both in vitro and in vivo xenograft models have confirmed the cooperative
+actions of retinoids and HDAC inhibitors. The combination of the HDAC inhibitor, m-
+carboxycinnamic acid bis-hydroxamide (CBHA), with all-trans RA (ATRA) led to
+synergistic cytotoxicity against neuroblastoma cell lines in vitro and xenograft in vivo
+models.7,8 Subsequent studies using the combination of ATRA with the HDAC inhibitors
+TSA, sodium butyrate, or vorinostat also demonstrated additive effects on inhibition of
+growth of neuroblastoma cell lines in vitro.9
+Vorinostat (suberoylanilide hydroxamic acid [SAHA]) is a potent inhibitor of HDAC
+activity, binding directly to the catalytic pocket of HDAC enzymes and ultimately blocking
+enzymatic deacetylation at low nanomolar concentrations. The NIH-sponsored Pediatric
+Preclinical Testing Program has also evaluated vorinostat in mouse xenografts established
+from six different neuroblastoma cell lines. Xenografts derived from four of these lines
+showed statistically significant prolongation in event-free survival compared to control-
+treated mice.10 A phase I clinical trial of vorinostat plus isotretinoin in patients with relapsed
+solid tumors was performed by the Children’s Oncology Group (COG) (NCT00217412).
+The maximum tolerated dose (MTD) of vorinostat alone was 230 mg/m2/day dosed
+continuously and 180 mg/m2/day four times per week when combined with 80 mg/m2/dose
+of isotretinoin twice daily on days 1–14 of each 28 day cycle (standard neuroblastoma
+dosing). No HA, a potential surrogate of vorinostat in vitro activity, was observed in
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Pinto et al. Page 4
+peripheral blood mononuclear cells (PBMC) at the 180 mg/m2/dose level, raising concern
+that this vorinostat dose may be insufficient to result in HDAC inhibition.11
+Based on the lack of PBMC HA observed on the COG trial, the New Approaches to
+Neuroblastoma Therapy (NANT) Consortium sought to explore an alternative vorinostat
+schedule. Adult clinical trials support the feasibility of delivering higher daily doses of
+vorinostat given for shorter durations compared to standard dosing of 400 mg once daily
+continuously.12–15 Based on these observations, a phase I trial was designed to assess
+whether an interrupted schedule of escalating doses of vorinostat (dosed on days 1–4 and 8–
+11 of every 28-day cycle) would allow a higher MTD in combination with standard-dose
+isotretinoin and would lead to improved HA.
+2 METHODS
+2.1 Patients
+Patients were required to meet standard NANT eligibility criteria (outlined in Supplementary
+Material S1). Once the MTD of vorinostat was determined, an expansion cohort was opened
+at this dose level in order to further characterize the pharmacokinetic (PK) and
+pharmacodynamic profiles of the intermittent vorinostat dosing regimen. This cohort sought
+to enroll an additional six patients. Eligibility criteria for the expansion cohort were
+modified to also allow patients who had entered a second complete remission after relapse to
+enroll with no evidence of disease. Patients with measurable/evaluable disease were also
+allowed to enroll on the expansion cohort, with the same eligibility requirements outlined in
+Supplementary Material S1.
+All patients were required to meet standard organ function criteria before enrolling (outlined
+in Supplementary Material S1).
+Patients were excluded if they were pregnant, breastfeeding, or had active infection. Patients
+who required scheduled specific strong inducers of hepatic cytochrome enzymes (enzyme
+inducing anticonvulsants, pentamadine, or azole antifungals) were excluded. Patients
+previously treated with vorinostat or isotretinoin were eligible, provided the two drugs had
+not been previously used in combination.
+Patients and/or legal guardians provided written informed consent, with assent obtained as
+appropriate. The institutional review board of each NANT site approved the study.
+2.2 Protocol therapy
+Patients received fixed doses of isotretinoin at 80 mg/m2/dose (2.67 mg/kg/dose for patients
+< 12 kg) given twice daily for the first 14 days of each 28-day cycle. Vorinostat was
+administered once daily on days 1–4 and days 8–11 of each 28-day cycle. The starting
+vorinostat dose was 180 mg/m2/dose; planned subsequent doses 230, 300, 360, and 430
+mg/m2/dose (maximum absolute dose capped at 800 mg).
+In the absence of clinical/radiographic or bone marrow evidence of progression, patients
+could continue to receive up to 24 cycles of therapy (effective with Amendment 9,
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Pinto et al. Page 5
+previously 12 cycles) as long as the patient did not have tumor progression and met
+laboratory and clinical parameters prior to the start of each cycle of protocol therapy.
+Patients who met the criteria for permanent discontinuation of vorinostat due to toxicity
+were removed from protocol therapy.
+2.3 Toxicity assessment
+Toxicity was assessed and reported for all patients who began vorinostat therapy using the
+Common Terminology Criteria for Adverse Events criteria, version 4.0. Patients who, during
+the first cycle, (1) received less than 75% of the planned doses of vorinostat for reasons
+other than toxicity and (2) did not experience a dose-limiting toxicity (DLT) were replaced
+for the purposes of evaluating the dose level for dose escalation/de-escalation decisions (that
+is, not evaluable for DLT). DLT was defined as events that were possibly, probably, or
+definitely attributable to the combination of vorinostat and isotretinoin. Hematologic DLT
+was defined as grade 4 thrombocytopenia (platelet count < 25,000/mm3) or neutropenia
+(absolute neutrophil count < 500/mm3) resulting in delays of greater than 7 days in protocol
+directed therapy, grade 4 thrombocytopenia requiring one or more platelet transfusions, or
+any adverse event requiring omission of three or more doses of vorinostat. Patients with
+known bone marrow metastatic disease were eligible for study but were not evaluable for
+hematologic toxicity. Additional DLT criteria are outlined in Supplementary Material S1.
+2.4 Response evaluation
+Patients underwent disease evaluation at baseline, after cycles 2 and 4, and then every three
+cycles. Overall response was graded according to the NANT Response Criteria (v1.0), as
+previously described.16 Overall responses of complete response (CR) or partial response
+(PR) were considered objective responses. Patients were considered evaluable for response if
+they received at least 75 percent of vorinostat in one course or experienced a DLT at any
+time after at least one dose of vorinostat. Patients who had progressive disease were
+considered to be evaluable for response regardless of drug administration.
+Local radiographic (anatomical imaging and methyliodobenzyl-guanidine [MIBG]) and
+bone marrow reports (aspirates and biopsies) were centrally reviewed at NANT Operations
+Center for accuracy so they were consistent with assigned overall response after any queries
+were resolved. MIBG scans from baseline were centrally reviewed for all patients to
+accurately and consistently describe MIBG avid disease at study entry.
+2.5 PK and pharmacodynamic studies
+All patients were required to submit serial samples during cycle 1 for vorinostat PK studies.
+Three ml of blood were drawn into a serum separator tube before the first dose of vorinostat
+on day 1 and then at hours 0.5, 1, 1.5, 2, 4, 6, 8, and 24 (before the vorinostat dose on day 2).
+Samples were processed and batch analyzed as previously described.17
+For optional isotretinoin PK studies, 5 ml of blood were collected into sodium heparin tubes
+4 hr after the last morning dose of isotretinoin during cycle 1 (day 14). Samples were
+processed and batch analyzed as previously described.18
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Pinto et al. Page 6
+The study included an optional vorinostat pharmacodynamics aim to correlate PBMC HA
+with vorinostat PKs. 5 mL of blood were collected in a sodium heparin tube at four time
+points: cycle 1, day 1 pre-dose, and at 1, 6, and 24 hr post the first dose. ELISA was used to
+quantify acetylated histone H3 as previously described.19
+2.6 Study design and statistical methods
+Evaluation of vorinostat dose levels followed the 3 + 3 dose escalation design.20 Dose
+escalation considerations were based on cycle 1 data only. The MTD was the highest dose
+level tested at which 0/6 or 1/6 patients experienced DLT with at least 2/3 or 2/6 patients
+encountering DLT at the next higher dose. Once the MTD was determined, an expansion
+cohort was opened at that dose level in order to further characterize the PK and
+pharmacodynamic profiles of the intermittent vorinostat dosing regimen.
+Progression-free survival (PFS) was calculated as time from start of treatment to first
+episode of disease progression or death from any cause, whichever was observed first;
+patients who were alive and without progression were censored at last follow-up. For one
+patient who withdrew from treatment and died 2 months later, with date of progression
+unknown, the date of progression was taken as 1 month after withdrawal from treatment.
+Kaplan–Meier plots were used to summarize PFS and overall survival (OS).
+For vorinostat PK measurements, geometric means and associated 95% confidence intervals
+were calculated; for isotretinoin PK measurements, because of the limited numbers of
+values, medians and ranges are presented. For each patient, at each time point, the HA color
+intensity values were measured in triplicate; observed color intensity values were log-
+transformed and the averages of the three readings were calculated. In addition, for each
+patient, the baseline average HA value was subtracted from the average HA value at 1, 6,
+and 12 hr. For presentation, the HA differences (and means and associated 95% confidence
+intervals) were transformed back into percent change. In a final analysis to explore
+associations, the maximum percent change in HA was determined for each patient. To obtain
+a quantitative assessment of the associations between vorinostat and isotretinoin PK’s, and
+dose level and percent change in HA levels, the Pearson correlation was calculated; for all
+other associations, the Spearman correlation was calculated. Scatterplots were drawn and
+inspected whenever possible. To evaluate the association between HA levels (the averages
+and the differences from baseline) over time and over the dose levels, a generalized linear
+model was used with patient as a random effect and dose level and time as fixed effects. All
+P-values are two-sided.
+3 RESULTS
+3.1 Patient characteristics
+Twenty-nine patients enrolled from January 2011 through October 2013. No patients were
+determined to be ineligible after enrollment. Characteristics of the 29 eligible patients are
+provided in Table 1. One patient on dose level 1 missed three doses of vorinostat (due to
+concurrent infection) and was deemed inevaluable for dose escalation decisions and was
+replaced. Ten patients were inevaluable for response. Reasons for inevaluability included
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Pinto et al. Page 7
+taking less than 75% of prescribed protocol therapy and withdrawal from protocol therapy (n
+= 2), incomplete restaging evaluation (n = 1), off treatment due to unacceptable toxicity and
+disease evaluation was not completed (n = 1), and entering protocol therapy in a CR with no
+evaluable disease in the expansion cohort (n = 6). Twenty-three patients were previously
+exposed to isotretinoin and two patients were previously exposed to vorinostat.
+3.2 Dose escalation and toxicity
+A summary of the dose escalation is provided in Table 2. At dose level 1, one patient
+developed a DLT (grade 3 pain in back and extremities, grade 3 pain in skin, and grade 3
+chelitis). On dose level 5, one patient developed a DLT (grade 3 creatinine increase). Dose
+level 5 (vorinostat dose 430 mg/m2) was the maximum intended dose and did not exceed
+toxicity threshold with 1/6 DLT’s; therefore, this was defined as the MTD.
+An additional seven patients (six patients in CR and one patient with evaluable disease at
+study entry) were enrolled in the expansion cohort at the MTD. The patient with evaluable
+disease at study entry experienced a DLT (grade 3 maculopapular rash).
+The 29 eligible patients received a total of 132 cycles of therapy. Nine patients had bone
+marrow involvement at study entry. No patients experienced hematologic DLT. Hematologic
+toxicity in all patients was the most common grade 3 or higher toxicity but was not dose
+limiting; nine patients developed maximum grade 3 and two developed grade 4 neutropenia;
+six patients developed maximum grade 3 and one grade 4 thrombocytopenia. Three patients
+had grade 3 decreased white blood cells. Nonhematologic DLTs were the following: two
+patients had grade 3 pain and two patients experienced grade 3 elevations in alanine
+aminotransferase level. There were no toxic deaths. One patient in the MTD expansion
+cohort required a dose reduction in cycle 4 due to a grade 1 prolonged QTc. Information on
+toxicity ≥grade 3 is summarized in Table 3.
+3.3 Vorinostat/isotretinoin PKs
+Vorinostat and isotretinoin PK were collected during cycle 1 of therapy. A total of 28
+patients provided samples for vorinostat PK; 23 provided all required specimens. Table 4
+summarizes the vorinostat PK results.
+The mean apparent oral vorinostat clearance was 151 l/hr (range 58–435 l/hr) on the
+interrupted dosing schedule. Vorinostat clearance and half-life (2.8 hr, range, 1.2–10.1 hr)
+appeared stable across dose levels, consistent with linear PK (P = 0.60 and P = 0.39,
+respectively). There was substantial interpatient variability in SAHA maximum
+concentration (mean 428 ng/ml, range 158–980 ng/ml) and area under the curve (AUC)
+(median 2174 ng/ml/hr, range 930–5776 ng/ml/hr) values across dose levels, and both
+increased with dose (P < 0.001 and P = 0.003, respectively).
+An optional single isotretinoin PK sample was drawn 4 hr after the last dose of isotretinoin
+in cycle 1 in 12 out of 29 patients. The isotretinoin median serum concentration was 0.83
+μg/ml (range 0.19–1.40 μg/ml) and the 4-oxo-13-cisRA median serum concentration was
+3.17 μg/ml (range 0.47–5.84 μg/ml). There was no apparent association between vorinostat
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Pinto et al. Page 8
+dose and either the RA or the 4-oxo-13-cisRA serum levels (P = 0.68 and P = 0.39,
+respectively), nor any association with the vorinostat PK levels.
+3.4 Vorinostat pharmacodynamics
+Twenty-three of 29 patients consented to the optional vorinostat pharmacodynamic
+assessments. Fifty-three adequate PBMC samples were obtained from 16 patients (nine
+treated at dose levels 1–4 and seven treated at dose level 5/expansion cohort). Overall, the
+percent change from baseline in HA levels at 1 hr post treatment was significantly greater in
+dose level 5 compared to dose levels 1–4 (P = 0.009) and this difference persisted at hours 6
+and 24 (Table 5). After controlling for the dose level, there was an association between the
+vorinostat AUC and clearance values and the increase in HA levels (P = 0.021 for both AUC
+and clearance).
+3.5 Antitumor activity
+No objective responses were seen on this study. A median of two cycles were administered
+(range 1–15). Eleven (38%) of the 29 patients completed ≥4 (median 11, range 4–15) cycles
+without tumor progression. Nineteen patients were evaluable for full response assessment;
+six patients were in CR at study entry and four were classified as inevaluable for response
+(one patient received only 50% of prescribed therapy and three were not re-evaluated after
+start of treatment). Of those evaluable for response, 5/19 (17%) patients achieved prolonged
+stable disease (SD) (median 12 cycles, range 4–15). A median of 7.5 cycles were received
+(range 2–12 cycles) by the six patients who enrolled in second or greater CR and five of
+these six patients (83%) completed a median of 11 cycles without tumor progression (range
+4–12). There was not a statistically significant difference in PFS between patients treated at
+(a) dose levels 1–4 (n = 16), (b) dose level 5 who presented with measurable/evaluable
+disease (n = 7), and (c) dose level 5 who presented without measureable/evaluable disease (n
+= 6), P = 0.35. There was also no statistically significant difference in PFS for patients
+previously exposed to isotretinoin or vorinostat when compared to the entire cohort.
+A total of 20 patients have progressed; one patient died without disease progression of
+infectious complications related to a secondary malignancy and 16 died following
+progression. The median PFS for the entire cohort of 29 patients is 2.0 months (95%
+confidence interval, 1.6–11.0 months). The 6-month PFS rate was 0.36 ± 0.09. The median
+OS for the entire cohort of patients is 30.8 months (95% confidence interval of 13.9–47.0
+months; Figure 1).
+4 DISCUSSION
+The administration of isotretinoin in the setting of minimal residual disease has improved
+outcomes for children with high-risk neuroblastoma and is considered standard-of-care as a
+component of post-consolidation maintenance therapy. Preclinical data suggest that the
+HDAC inhibitor vorinostat has modest single-agent activity in neuroblastoma xenograft
+experiments,10 and may have additive antitumor effects when combined with retinoids.7–9
+We demonstrate that an interrupted schedule of higher dose vorinostat can be safely
+combined with standard doses of isotretinoin in children with high-risk neuroblastoma,
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Pinto et al. Page 9
+achieving in vivo pharmacodynamic activity as determined by PBMC HA without excess
+toxicity.
+Preclinical studies suggest that a higher systemic exposure to vorinostat may be necessary to
+achieve maximal antitumor activity.10 In a previous pediatric phase I trial, single agent MTD
+of vorinostat (180 mg/m2/dose for 14 days) was not tolerable with the standard dose of
+isotretinoin (80 mg/m2/dose twice daily for 14 days).11 However, we demonstrate the
+tolerability of intermittent vorinostat dosing combined with standard dosing of isotretinoin at
+all vorinostat dose levels tested, escalating to the maximum intended dose of 430 mg/m2. In
+addition to safely delivering a higher dose of vorinostat, higher AUC values (mean 2174
+ng/ml/hr, range 930–5776 ng/ml/hr) were achieved, consistent with demonstrated linear
+PKs.11 Additional PKs were similar to those previously reported.11 Pharmacodynamic
+effects of vorinostat were observed with the maximal effect on modulation of PBMC HA
+observed at the MTD. This is in contrast to the COG study of isotretinoin and vorinostat,
+where consistent PBMC HA was only seen at the highest continuous dose level of vorinostat
+(300 mg/m2/dose), a dose determined to be too toxic in combination with isotretinoin. At the
+continuous vorinostat MTD (230 mg/m2/dose), only transient PBMC HA was observed. RA
+and 4-oxo-13-cisRA serum concentrations were similar to previously reported levels in
+patients with neuroblastoma21,22 without evidence for drug interactions.
+Although no objective responses were seen, 11/29 (38%) patients were able to continue the
+combination for four or more cycles without clinical evidence of progression and 7/29
+(24%) received 11–15 cycles of therapy. In addition, 83% (5/6) of patients who entered with
+no evidence of disease were able to complete four or more cycles without disease
+progression. Given the favorable prolonged SD rate, this combination warrants further
+investigation. A randomized phase III clinical trial (COG ANBL0032, NCT00026312)
+demonstrated a survival benefit of postconsolidation GD-2-directed chimeric antibody
+immunotherapy (dinutuximab) with cytokines (alternating cycles of IL-2 and GM-CSF) and
+isotretinoin for patients with neuroblastoma who had achieved at least a PR to induction and
+consolidation therapies.23 Recent investigations have demonstrated that HDACis like
+vorinostat may enhance cancer immunotherapy through an immunostimulatory effect.
+Tumor bearing syngenic mice with solid tumors or lymphoma have significantly improved
+tumor responses to vorinostat and panobinostat with an intact immune system, when
+compared to immunodeficient mice.24 Further trials incorporating intermittent vorinostat
+dosing in combination with isotretinoin and dinutuximab as a postconsolidation maintenance
+strategy should be considered given the preclinical signal7–9 as well as manageable toxicity
+profile and potential activity in children with neuroblastoma who are in a minimal residual
+disease state.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Pinto et al. Page 10
+Acknowledgments
+This study was funded by NIH (grant no. P01CA081403), St. Baldrick’s Foundation, Children’s Neuroblastoma
+Cancer Foundation, and a National Cancer Institute Cancer Clinical Investigator Team Leadership Award to A.M.
+(3P30CA014089-41S2).
+Funding information
+National Cancer Institute, Grant/Award Numbers: 3P30CA014089-41S2, P01CA081403; St. Baldrick’s
+Foundation; Children’s Neuroblastoma Cancer Foundation
+Grant sponsor: NIH, Grant number: P01CA081403, Grant sponsor: National Cancer Institute, Grant number:
+3P30CA014089-41S2, Grant sponsors: St. Baldrick’s Foundation, Children’s Neuroblastoma Cancer Foundation
+Abbreviations
+ATRA all-trans retinoic acid
+AUC area under the curve
+COG Children’s Oncology Group
+CoR corepressor
+CR complete response
+DLT dose-limiting toxicity
+HA histone acetylation
+HDAC histone deacetylase
+MIBG methyliodobenzylguanidine
+MTD maximum tolerated dose
+NANT New Approaches to Neuroblastoma Therapy
+OS overall survival
+PBMC peripheral blood mononuclear cell
+PFS progression-free survival
+PK pharmacokinetic
+PR partial response
+RA retinoic acid
+RARs retinoic acid receptors
+SAHA suberoylanilide hydroxamic acid
+SD stable disease
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Pinto et al. Page 11
+References
+1. Pinto NR, Applebaum MA, Volchenboum SL, et al. Advances in risk classification and treatment
+strategies for neuroblastoma. J Clin Oncol. 2015; 33:3008–3017. [PubMed: 26304901]
+2. Matthay KK, Reynolds CP, Seeger RC, et al. Long-term results for children with high-risk
+neuroblastoma treated on a randomized trial of myeloablative therapy followed by 13-cis-retinoic
+acid: a Children’s Oncology Group study. J Clin Oncol. 2009; 27:1007–1013. [PubMed: 19171716]
+3. Matthay KK, Villablanca JG, Seeger RC, et al. Children’s Cancer Group. Treatment of high-risk
+neuroblastoma with intensive chemotherapy, radiotherapy, autologous bone marrow transplantation,
+and 13-cis-retinoic acid. N Engl J Med. 1999; 341:1165–1173. [PubMed: 10519894]
+4. Xu WS, Parmigiani RB, Marks PA. Histone deacetylase inhibitors: molecular mechanisms of action.
+Oncogene. 2007; 26:5541–5552. [PubMed: 17694093]
+5. Shahbazian MD, Grunstein M. Functions of site-specific histone acetylation and deacetylation.
+Annu Rev Biochem. 2007; 76:75–100. [PubMed: 17362198]
+6. Altucci L, Gronemeyer H. The promise of retinoids to fight against cancer. Nat Rev Cancer. 2001;
+1:181–193. [PubMed: 11902573]
+7. Coffey DC, Kutko MC, Glick RD, et al. The histone deacetylase inhibitor, CBHA, inhibits growth
+of human neuroblastoma xenografts in vivo, alone and synergistically with all-trans retinoic acid.
+Cancer Res. 2001; 61:3591–3594. [PubMed: 11325825]
+8. Coffey DC, Kutko MC, Glick RD, et al. Histone deacetylase inhibitors and retinoic acids inhibit
+growth of human neuroblastoma in vitro. Med Pediatr Oncol. 2000; 35:577–581. [PubMed:
+11107121]
+9. De los Santos M, Zambrano A, Sanchez-Pacheco A, Aranda A. Histone deacetylase inhibitors
+regulate retinoic acid receptor beta expression in neuroblastoma cells by both transcriptional and
+posttranscriptional mechanisms. Mol Endocrinol. 2007; 21:2416–2426. [PubMed: 17622583]
+10. Keshelava N, Houghton PJ, Morton CL, et al. Initial testing (stage 1) of vorinostat (SAHA) by the
+pediatric preclinical testing program. Pediatr Blood Cancer. 2009; 53:505–508. [PubMed:
+19418547]
+11. Fouladi M, Park JR, Stewart CF, et al. Pediatric phase I trial and pharmacokinetic study of
+vorinostat: a Children’s Oncology Group phase I consortium report. J Clin Oncol. 2010; 28:3623–
+3629. [PubMed: 20606092]
+12. Kelly WK, O’Connor OA, Krug LM, et al. Phase I study of an oral histone deacetylase inhibitor,
+suberoylanilide hydroxamic acid, in patients with advanced cancer. J Clin Oncol. 2005; 23:3923–
+3931. [PubMed: 15897550]
+13. Garcia-Manero G, Tambaro FP, Bekele NB, et al. Phase II trial of vorinostat with idarubicin and
+cytarabine for patients with newly diagnosed acute myelogenous leukemia or myelodysplastic
+syndrome. J Clin Oncol. 2012; 30:2204–2210. [PubMed: 22585696]
+14. Ramalingam SS, Parise RA, Ramanathan RK, et al. Phase I and pharmacokinetic study of
+vorinostat, a histone deacetylase inhibitor, in combination with carboplatin and paclitaxel for
+advanced solid malignancies. Clin Cancer Res. 2007; 13:3605–3610. [PubMed: 17510206]
+15. Munster PN, Marchion D, Thomas S, et al. Phase I trial of vorinostat and doxorubicin in solid
+tumours: histone deacetylase 2 expression as a predictive marker. Br J Cancer. 2009; 101:1044–
+1050. [PubMed: 19738609]
+16. DuBois SG, Marachelian A, Fox E, et al. Phase I study of the aurora A kinase inhibitor alisertib in
+combination with irinotecan and temozolomide for patients with relapsed or refractory
+neuroblastoma: a NANT (New Approaches to Neuroblastoma Therapy) trial. J Clin Oncol. 2016;
+34:1368–1375. [PubMed: 26884555]
+17. Parise RA, Holleran JL, Beumer JH, Ramalingam S, Egorin MJ. A liquid chromatography-
+electrospray ionization tandem mass spectrometric assay for quantitation of the histone
+deacetylase inhibitor, vorinostat (suberoylanilide hydroxamicacid, SAHA), and its metabolites in
+human serum. J Chromatogr B Analyt Technol Biomed Life Sci. 2006; 840:108–115.
+18. Vane FM, Stoltenborg JK, Bugge CJ. Determination of 13-cis-retinoic acid and its major
+metabolite, 4-oxo-13-cis-retinoic acid, in human blood by reversed-phase high-performance liquid
+chromatography. J Chromatogr. 1982; 227:471–484. [PubMed: 6460777]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Pinto et al. Page 12
+19. DuBois SG, Groshen S, Park JR, et al. Phase I study of vorinostat as a radiation sensitizer with
+131I-metaiodobenzylguanidine (131I-MIBG) for patients with relapsed or refractory
+neuroblastoma. Clin Cancer Res. 2015; 21:2715–2721. [PubMed: 25695691]
+20. Storer BE. Design and analysis of phase I clinical trials. Biometrics. 1989; 45:925–937. [PubMed:
+2790129]
+21. Khan AA, Villablanca JG, Reynolds CP, Avramis VI. Pharmacokinetic studies of 13-cis-retinoic
+acid in pediatric patients with neuroblastoma following bone marrow transplantation. Cancer
+Chemother Pharmacol. 1996; 39:34–41. [PubMed: 8995497]
+22. Veal GJ, Cole M, Errington J, et al. Pharmacokinetics and metabolism of 13-cis-retinoic acid
+(isotretinoin) in children with high-risk neuroblastoma—a study of the United Kingdom
+Children’s Cancer Study Group. Br J Cancer. 2007; 96:424–431. [PubMed: 17224928]
+23. Yu AL, Gilman AL, Ozkaynak MF, et al. Children’s Oncology Group. Anti-GD2 antibody with
+GM-CSF, interleukin-2, and isotretinoin for neuroblastoma. N Engl J Med. 2010; 363:1324–1334.
+[PubMed: 20879881]
+24. West AC, Mattarollo SR, Shortt J, et al. An intact immune system is required for the anticancer
+activities of histone deacetylase inhibitors. Cancer Res. 2013; 73:7265–7276. [PubMed:
+24158093]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Pinto et al. Page 13
+FIGURE 1.
+Kaplan–Meier plots for progression-free survival and overall survival for all patients (n =
+29)
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pinto et al. Page 14
+TABLE 1
+Patient demographics
+Patient and disease characteristics Number of patients (%)
+(n = 29)
+Male:female 16:13
+Median age (years) at study enrollment (range) 10.3 (3.3–19.4)
+Median age (years) at diagnosis of high risk neuroblastoma (range) 5.0 (2.0–14.5)
+Median months from diagnosis of high risk neuroblastoma to enrollment (range) 47.9 (1.6–141.1)
+MYCN status at diagnosis
+Amplified 4 (14%)
+Nonamplified 22 (76%)
+Unknown 3 (10%)
+Response to frontline therapy
+Recurrent/progressive disease 24 (83%)
+Refractory disease 5 (17%)
+Persistent disease 0 (0%)
+Therapy received prior to enrollment
+Prior isotretinoin 23 (79%)
+Prior vorinostat 2 (7%)
+Prior myeloablative stem cell transplant 24 (83%)
+Sites of tumor at enrollment
+No measurable/evaluable tumor sites 6 (21%)
+Measurable/evaluable disease 23 (79%)
+Disease sites in patients with measurable/evaluable disease (n = 23)
+Bone marrowa
+Positive 9 (39%)
+% Bone marrow tumor for patients positive at baseline
+>0% to <5% 3
+5% 2
+50% 1
+Positive, % not specified 3
+Negative 14 (61%)
+CT/MRIa
+Measurable soft tissue disease 14 (61%)
+Median sum of longest diameters at baseline in cm (range) 8.2 (1.7–20.1)
+No measurable soft tissue disease 9 (39%)
+MIBG status at baselinea
+Positive 18 (78%)
+Median Curie score at baseline among those with positive MIBG (range) 12 (1–20)
+Negative 3 (13%)
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pinto et al. Page 15
+Patient and disease characteristics Number of patients (%)
+(n = 29)
+Known MIBG nonavid 2 (9%)
+Method of isotretinoin intake
+Swallowed/chewed whole capsule 27 (93%)
+All other methods 2 (7%)
+a
+Patients with measurable/evaluable disease.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pinto et al. Page 16
+2
+ELBAT
+nionitertosi
+dna
+tatsonirov
+fo
+slevel
+esod
+detaulave
+dna
+dennalP
+stneitap
+fo
+rebmuN
+stneitap
+fo
+rebmuN
+TLD
+htiw
+elbaulave
+stneitap
+fo
+rebmuN
+aTLD
+rof
+elbaulave
+deretne
+)esod/2m/gm(
+nionitertosI
+)esod/2m/gm(
+tatsoniroV
+level
+esoD
+)sitiliehc
+3
+edarg
+,niap
+niks/kcab/ytimertxe
+3
+edarg(
+1
+6
+7
+08
+081
+1
+0
+3
+3
+08
+032
+2
+0
+3
+3
+08
+003
+3
+0
+3
+3
+08
+063
+4
+)eninitaerc
+3
+edarg(
+1
+6
+6
+08
+034
+5
+)hsar
+ralupapolucam
+3
+edarg(
+1
+7
+7
+08
+)DTM(
+034
+<
+ega(
+1
+trohoc
+noisnapxE
+)sraey
+12
+a
+.TLD
+ecneirepxe
+)2(
+ro
+tatsonirov
+fo
+sesod
+dennalp
+eht
+fo
+erom
+ro
+%57
+eviecer
+)1(
+:ot
+dah
+tneitap
+,elcyc
+tsrif
+gnirud
+,TLD
+rof
+elbaulave
+eb
+oT
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pinto et al. Page 17
+TABLE 3
+Grade 3+ toxicities observed in the first cycle of therapy according to dose level
+Number of patients with maximum toxicity grade observed
+Vorinostat dose level Grade 3+ toxicities observed on first Grade 3+ toxicities observed over all
+(mg/m2/dose) Toxicity cycle cycles
+1 (180) (n = 7) Back pain 1 1
+Cheilitis 1 1
+Decreased neutrophil count 0 1
+Pain in extremity 1 1
+Pain of skin 1 1
+2 (230) (n = 3) Decreased lymphocyte count 1 1
+Decreased neutrophil count 0 1
+Hypertriglyceridemia 0 1
+Nausea 1 1
+Vomiting 1 1
+3 (300) (n = 3) Decreased neutrophil count 1 2
+Decreased white blood cell count 0 1
+Pain in extremity 0 1
+4 (360) (n = 3) Decreased neutrophil count 0 1
+Decreased platelet count 1 1
+Decreased white blood cell count 0 1
+5 (430) (n = 6) Alanine aminotransferase 1 1
+Aspartate aminotransferase 1 1
+Anemia 1 1
+Decreased neutrophil count 0 2a
+Decreased platelet count 2 3
+Decreased white blood cell count 0 1
+Dehydration 0 1
+Fever 0 1
+Increased creatinine 0 1
+Upper respiratory infection 0 1
+Expansion Cohort Alanine aminotransferase 1 1
+1 (430) (n = 7)
+Decreased neutrophil count 0 4a
+Decreased platelet count 2 3a
+Headache 0 1
+Maculopapular rash 1 1
+a
+Included one patient with grade 4 on each.
+Toxicities attributed as unlikely or unrelated to protocol therapy are not shown. Grade 4 or 5 toxicities were not observed in the first cycle of
+therapy at any dose level on this trial.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pinto et al. Page 18
+TABLE 4
+Vorinostat PK summaries by dose level
+AUC inf (ng/ml/hr) C max (ng/ml) Clearance (Cl F obs)
+Geometric mean (95% confidence interval) (n = 23) (n = 28) t ½ (hr) (n = 23) (l/hr) (n = 23)
+Dose level 1 (n = 6/7)a 1351 (904, 2020) 287 (208, 397) 2.6 (1.7, 4.0) 152 (93, 250)
+Dose level 2 (n = 2/3) 1671 (832, 3353) 226 (138, 369) 2.4 (1.2, 4.9) 181 (76, 427)
+Dose level 3 (n = 3/3) 2638 (1494, 4660) 552 (337, 903) 2.5 (1.4, 4.5) 129 (64, 260)
+Dose level 4 (n = 3/3) 1653 (936, 2919) 448 (274, 734) 2.3 (1.3, 4.2) 322 (159, 649)
+Dose level 5—MTD 3253 (2342, 4517) 587 (459, 751) 3.2 (2.3, 4.5) 118 (79, 177)
+(n = 9/12)
+All dose levels (n = 23/28) 2174 (1696, 2787) 428 (348, 526) 2.8 (2.3, 3.4) 151 (115, 197)
+Range of values—all dose levels (n = 23/28) 930–5776 158–980 1.2–10.1 58–435
+P-value (Pearson correlation between PK parameter r = 0.59, P = 0.003 r = 0.62, P < 0.001 r = 0.19, P = 0.39 r = −0.11,
+& dose level) P = 0.60
+a
+Number of patients with complete PK determinations/number of patients enrolled. Cmax, maximum concentration.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pinto et al. Page 19
+TABLE 5
+Percent change in histone acetylation (HA) levels from baseline
+Cohort Hour Number of patients Mean percent change 95% confidence interval
+Dose levels 1–4 1 7 –3.9% (–14.3%, 7.8%)
+6 5 –2.9% (–15.9%, 12.2%)
+Dose level 5 24 7 –5.7% (–16.0%, 5.8%)
+1 6 18.5% (2.6%, 37.0%)
+6 6 21.9% (5.4%, 40.9%)
+24 5 14.4% (–2.5%, 34.2%)
+The percent changes in HA levels were greater in the dose level 5 cohort (P = 0.009 for the main effect of cohort).
+For both cohorts, the changes were not different at the three different time points (P = 0.76 for the main effect of hour).
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 July 11.

@@ -1,0 +1,904 @@
+Source: 34562230.pdf
+Extracted on: Sat Sep 13 00:01:34 PDT 2025
+==================================================
+
+--- Page 1 ---
+Investigational New Drugs (2021) 40:290–299
+https://doi.org/10.1007/s10637-021-01188-1
+PHASE I STUDIES
+Selinexor in combination with carboplatin and paclitaxel in patients
+with advanced solid tumors: Results of a single‑center, multi‑arm
+phase Ib study
+Kyaw Z. Thein1,2 · Daniel D. Karp1 · Apostolia Tsimberidou1 · Jing Gong1 · Selma Sulovic1 · Jatin Shah3 ·
+Denái R. Milton4 · David S. Hong1 · Filip Janku1 · Lacey McQuinn1 · Bettzy A. Stephen1 · Rivka Colen5 ·
+Brett W. Carter6 · Timothy A. Yap1 · Sarina A. Piha‑Paul1 · Siqing Fu1 · Funda Meric‑Bernstam1 · Aung Naing1
+Received: 8 July 2021 / Accepted: 22 September 2021 / Published online: 25 September 2021
+© The Author(s) 2024, corrected publication 2021
+Summary
+Background. Carboplatin and paclitaxel (CT) is one of the standard chemotherapy regimens used in various tumor types.
+Preclinical models have suggested that selinexor, a first-in-class oral potent selective inhibitor of nuclear export Exportin-1,
+and CT exerts antitumor activity in multiple malignancies. Methods. This was a single-center, multi-arm phase Ib study
+utilizing a “basket type” expansion. CT and selinexor was employed as one of the 13 parallel arms. Advanced relapsed/
+refractory solid tumors following standard therapy or where the addition of selinexor to standard regimens deemed appro-
+priate, were eligible. Results. Of 13 patients treated, 12 patients were evaluable for response. The most common cancers
+were breast (n = 4), esophageal (n = 2), ovarian (n = 2) and non-small cell lung cancers (n = 2). All 13 patients had at least
+one treatment-related adverse events (TRAEs) and the most common were neutropenia (85%), leukopenia (85%), thrombo-
+cytopenia (85%), anemia (69%), nausea (54%), vomiting (46%), and fatigue (46%). One patient at 60 mg QW experienced
+DLT with grade 3 nausea and vomiting lasting 3 days. Unconfirmed partial response (uPR) was observed in 3 patients; one
+patient each with esophageal, breast, and ovarian cancer. One patient with esophageal adenocarcinoma had confirmed PR,
+however, was discontinued from the study due to clinical progression. Five patients achieved stable disease (SD). Disease
+control rate was 8%. Majority of patients (77%), including two patients who had uPR, had prior exposure to carboplatin and/
+or paclitaxel. Time-to-treatment failure (TTF) ranged from 1 to 153 weeks. Conclusion. The RP2D of selinexor was 60 mg
+QW in combination with CT. The combination conferred viable clinical activity with durable objective responses which
+should further be explored in tumor types for which CT is used as standard of care. Trial information. ClinicalTrials.gov
+Identifier: NCT02419495. Sponsor(s): Karyopharm Therapeutics. (Trial registration: NCT02419495. Registered 14 April
+2015, https://c linic altri als.g ov/c t2/s how/N CT024 19495).
+Keywords Selinexor · Carboplatin · Paclitaxel · Metastatic solid tumors · Selective inhibitor of nuclear export (SINE)
+Abbreviations DCR Disease control rate
+CT Carboplatin + taxol CBR Clinical benefit rate
+TRAEs Treatment-related adverse events CR C omplete response
+SD S table disease PR P artial response
+* Kyaw Z. Thein 3 Karyopharm Therapeutics, Newton, MA, USA
+theink@ohsu.edu 4 Department of Biostatistics, The University of Texas MD
+1 Department of Investigational Cancer Therapeutics, The Anderson Cancer Center, Houston, TX, USA
+University of Texas MD Anderson Cancer Center, Houston, 5 Department of Diagnostic Radiology, The University
+TX, USA of Texas MD Anderson Cancer Center, Houston, TX, USA
+2 Division of Hematology and Medical Oncology, Oregon 6 Department of Thoracic Imaging, Division of Diagnostic
+Health and Science University/ Knight Cancer Institute, Imaging, The University of Texas MD Anderson Cancer
+Portland, OR, USA Center, Houston, TX, USA
+Vol:.(1234567890)
+
+--- Page 2 ---
+Investigational New Drugs (2021) 40:290–299 291
+uPR U nconfirmed PR cysteine 528 residue of the XPO1 cargo-binding pocket, is
+TTF T ime-to-treatment failure approved by FDA in multiple myeloma and diffuse large B
+XPO1 E xportin-1 cell lymphoma [13, 14]. While DNA damaging agents tran-
+CRM1 Chromosomal region maintenance 1 siently activate multiple TPS, high levels of XPO1 in tumors
+TSP Tumor suppressor proteins lead to rapid nuclear export of these proteins, extinguishing
+SINE Selective inhibitors of nuclear exports their tumor suppressor function. Selinexor was shown to
+DDR DNA damage repair significantly inhibit tumor growth in preclinical models by
+ECOG Eastern cooperative oncology group selectively blocking XPO1-mediated nuclear export leading
+RECIST v1.1 Response evaluation criteria in solid to nuclear retention and functional activation of TSP and
+tumors version 1.1 hindering DNA damage repair (DDR) mechanisms [7, 15].
+CRPC Castrate resistant prostate cancer Furthermore, selinexor was shown to provide synergistic
+PCWG2 Prostate cancer working group 2 activity when combined with DNA damaging therapeutics
+CTCAE Common terminology criteria for adverse in solid tumors [15–18].
+events To further investigate the safety, tolerability and clinical
+PFS P rogression-free survival activity of selinexor in combination with standard therapies,
+DLT D ose-limiting toxicities we conducted an open label, single-center, multi-arm phase
+MTD Maximum tolerated dose Ib of selinexor in combination with standard chemotherapy
+BIW T wice weekly in patients with advanced or metastatic solid tumors. Herein,
+QW W eekly we are reporting selinexor in combination with carboplatin
+TEAEs Treatment-emergent adverse events and paclitaxel (CT) in patients with advanced or metastatic
+OS O verall survival solid tumors.
+SAEs Serious adverse events
+Patients
+PARP Poly ADP-ribose polymerase
+Adult (age ≥ 18 years) patients with histologically docu-
+Introduction
+mented, advanced or metastatic solid tumors (excluding
+brain tumors) whose tumors were unresponsive or had
+Nuclear export proteins, known as exportins, regulate the relapsed following prior systemic therapy or where the addi-
+conveyance of bulky cargo molecules through the nuclear tion of selinexor to standard chemotherapy deemed appropri-
+pore. This is crucial in preserving cellular homeostasis and ate and acceptable were eligible. Other key inclusion crite-
+is paramount in developing as a therapeutic target in can- ria included Eastern Cooperative Oncology Group (ECOG)
+cer drug development [1]. There are at least seven nuclear performance status of 0 or 1 and adequate organ function.
+export proteins and Exportin-1 (XPO1), also called chro- The number of prior treatments was not limited. Patients in
+mosome region maintenance 1 (CRM1), is the most highly the study had to have at least one measurable target lesion
+characterized exportin. XPO1 mediates the translocation of as defined by Response Evaluation Criteria in Solid Tumors
+more than 200 regulatory proteins, such as many tumor sup- (RECIST v1.1) [19, 20] criteria for solid tumors, except
+pressor proteins (TSP) from the nucleus into the cytoplasmic for patients with castrate resistant prostate cancer (CRPC)
+compartment of the cell [1–3]. The derangement in the trans- where prostate cancer working group 2 (PCWG2) criteria
+port mechanism with upregulating in the level of XPO1 was was utilized [21]. Key exclusions were patients with primary
+implicated in tumorigenesis in various malignancies, at least CNS tumor or active CNS tumor involvement, evidence of
+in part by functionally inactivating TSPs by removing them complete or partial bowel obstruction or needing total par-
+from the nucleus [4, 5]. Moreover, overexpression of XPO1 enteral nutrition, prior treatment with an agent targeting the
+was shown to contribute to poor outcome in many tumors exportin, and unstable cardiovascular functions.
+including both hematologic and solid cancers [4–7]. Selec- The primary objective was to establish the safety and
+tive inhibitors of nuclear export (SINE) were developed to tolerability of selinexor when given in combination with
+modulate this synchrony by selectively blocking XPO1, standard chemotherapy regimens; secondary objectives
+resulting in intranuclear accumulation and functional acti- included determining the disease control rate (DCR) and
+vation of TSP. This restores cell cycle checkpoints and halts progression free survival (PFS) of selinexor administered
+tumor growth, leading to the selective apoptosis of cancer with standard chemotherapy treatments. The primary effi-
+cells [8–12]. cacy parameter was the tolerability according to National
+Selinexor (KPT-330) is a first-in-class, orally bioavail- Cancer Institute Common Terminology Criteria for Adverse
+able, potent selective inhibitor of nuclear export (SINE) Events (CTCAE) version 4.03 and the secondary param-
+compound which forms a reversible covalent bond with eters were clinical benefit rate (CBR; percentage of complete
+
+--- Page 3 ---
+2 92 Investigational New Drugs (2021) 40:290–299
+response [CR], partial response [PR] plus stable disease all safety information and made consensus decisions about
+[SD]), DCR (percentage of CR, PR plus SD for at least dose escalation.
+6 months, assessed according to RECIST 1.1 criteria), the
+Statistical methods
+objective tumor response rate (CR + PR), assessed according
+to RECIST 1.1 criteria and PFS defined as the time between
+the cycle 1 start date and the date of disease progression or Patient characteristics, TEAEs, TRAEs, tumor response,
+death, whichever is reported first. and time-to-treatment failure (TTF) were summarized using
+descriptive statistics. PFS time was computed from cycle 1
+Study design and treatment
+start date to the date of disease progression or death (if the
+patient died without disease progression), or the last evalu-
+This was an open-label, single-center, multi-arm phase Ib ation date. Patients who were alive and did not experience
+of selinexor in combination with standard chemotherapy or progression of disease at the last follow-up date were cen-
+immunotherapy treatments to determine the dose-limiting sored. Overall survival time (OS) was computed from cycle
+toxicities (DLTs) and maximum tolerated dose (MTD) of 1 start date to the last-known vital sign. Patients alive at
+selinexor and further explore the safety and tolerability the last follow-up date were censored. The Kaplan–Meier
+of the MTD in patients with advanced or metastatic solid method was used to estimate PFS and OS. All statistical
+tumors (ClinicalTrial.gov identifier: NCT02419495). The analyses were performed using SAS 9.4 for Windows (Copy-
+study was conducted in multi-arms utilizing a standard 3 right © 2002–2012 by SAS Institute Inc., Cary, NC).
+plus 3 design and a “basket type” expansion. Selinexor in
+combination with carboplatin and paclitaxel was employed
+Results
+as one of the 13 parallel arms. While carboplatin was dosed
+at AUC4 along with paclitaxel at 175 mg/m2 intravenously
+Patient characteristics
+every 3 weeks, selinexor was dosed at 60 mg twice weekly
+(BIW) orally on days 1, 3, 8, and 10 of each 21-day cycle
+as well as 40–60 mg once weekly (QW) on days 1, 8, and A total of 13 patients with advanced, metastatic malignan-
+15. The study protocol was approved by the Institutional cies were enrolled between June 2015 and October 2017.
+Review Board or Independent Ethics Committee at the MD Demographic and clinical characteristics of all patients
+Anderson Cancer Center and was conducted in accordance enrolled are summarized in Table 1. The median age of
+with the Declaration of Helsinki, Good Clinical Practice, patients was 57 (range, 41–71 years), with 61.5% female and
+and all local and federal regulatory guidelines. All patients 38.5% male. The median number of prior systemic thera-
+signed informed consent prior to enrolling onto the study. pies was 3 (range, 0–8). The most common types of can-
+cer enrolled were breast (n = 4), esophageal (n = 2), ovarian
+Study assessments (n = 2) and non-small cell lung cancer (n = 2). One patient
+was dosed at BIW dosing of selinexor while six patients
+Tumor response was assessed using RECIST v1.1. Baseline received dose at 60 mg QW, and six patients were dosed at
+imaging was done within 30 days of treatment initiation. 40 mg QW. The median number of cycles completed for all
+Repeat imaging (using the same methodology as at baseline) patients was 4 (range, 0–43). For patients with SD or better,
+was obtained every 9 weeks. Treatment-emergent adverse the median number of cycles completed was 5 (range, 2–43).
+events (TEAEs) and treatment-related adverse events
+Safety and tolerability
+(TRAEs) were graded using the Common Terminology Cri-
+teria for Adverse Events (CTCAE) version 4.03. DLT was
+defined as any selinexor-related grade 4 hematologic adverse Twelve patients are no longer on the study whereas a patient
+event, grade ≥ 3 thrombocytopenia associated with clinically with metastatic lung adenocarcinoma continued the study
+significant bleeding, febrile neutropenia or non-hematologic until the data cut off in May 2020. Progression of disease
+adverse event grade ≥ 3 in severity per CTCAE (v 4.03) accounted for the majority of patient withdrawals from
+despite optimal supportive medications, excluding electro- the study and clinically unacceptable TEAEs contributed
+lyte abnormalities that are reversible, asymptomatic or hair to withdrawal of one patient. All 13 patients had at least
+loss which is not dose-limiting. The MTD was defined as one TEAE. Summaries of TEAEs and TEAEs related to
+the highest dose level at which ≤ 33% of patients experience selinexor are presented in Table 2 and Table 3. The most
+DLTs during cycle 1. After the MTD was defined in each common TEAEs were anemia (85%), neutropenia (85%),
+schedule, the study was extended to include additional evalu- leukopenia (85%), thrombocytopenia (85%), fatigue (62%),
+able patients at the MTD. A safety monitoring committee nausea (54%), hypomagnesemia (54%), and peripheral
+comprised of investigators and the study sponsor reviewed motor or sensory neuropathy (54%). The most prevalent
+
+--- Page 4 ---
+Investigational New Drugs (2021) 40:290–299 293
+grade ≥ 3 TEAEs were neutropenia (69%), thrombocytope- one patient had not completed their first restaging scans due
+nia (54%), leukopenia (46%), and anemia (15%). TEAEs to earlier withdrawal of consent. Twelve patients completed
+related to selinexor were reported in all patients (100%). The their first restaging scans per protocol and considered as
+most common TRAEs were neutropenia (85%), leukopenia efficacy evaluable patients. Unconfirmed PR was noted in
+(85%), thrombocytopenia (85%), anemia (69%), nausea three patients; one patient each with hormone receptor-
+(54%), vomiting (46%), fatigue (46%), hyponatremia (31%), positive, HER-2 negative breast, ovarian, and squamous
+and peripheral motor or sensory neuropathy (31%). The cell esophageal cancer. Although one confirmed PR was
+most common grade 3/4; deemed to be related to selinexor, observed in a patient with adenocarcinoma of esophagus
+adverse events were hematological laboratory abnormali- with -58% in tumor reduction, patient was discontinued
+ties: neutropenia (69%), thrombocytopenia (54%), leukope- from the study due to clinical progression. Reduction in
+nia (46%), and anemia (15%). Table 4 depicted the detailed tumor ranged from -38% to -58% for the four patients expe-
+TEAEs related to selinexor at each dose level. Hematologi- riencing PR as best response. Five patients (42%) achieved
+cal laboratory abnormalities were common when selinexor SD contributing to CBR of 42%. Of the five SD patients,
+was dosed 60 mg QW and above. One patient at 60 mg QW one patient with metastatic lung adenocarcinoma who
+experienced DLT with grade 3 nausea and vomiting last- had progressed on prior three lines of therapies includ-
+ing 3 days. Four patients reported having serious adverse ing carboplatin and pemetrexed, nivolumab followed by
+events (SAE). Two patients had at least one SAE considered ramucirumab plus paclitaxel, had exceptionally durable
+related to selinexor treatment; one patient had grade 3 dehy- stable disease (currently ongoing at the data cut off with
+dration and hyponatremia while another patient experienced TTF of 35.4 months and had completed total of 43 cycles
+grade 3 nausea and vomiting with adult failure to thrive. The of treatments) despite the disease being categorized as
+SAEs experienced by the other two patients were considered non-measurable. Hence, the DCR was 8%. Majority of
+unrelated to selinexor treatment; one patient had grade 3 patients (77%), including two patients who had uPR, had
+lung infection and co-occurring grade 2 pneumonitis and prior exposure to carboplatin and/or paclitaxel. TTF for
+one patient experienced grade 3 infections and infestations patients who achieved durable disease control ranged from
+(other). No patients died during the course of the study. 10 to 153 weeks. Overall, the median TTF was 13 weeks
+(range, 1 to 153 weeks). For patients with SD or better, the
+Antitumor activity
+median TTF was 18 weeks (range, 7 to 153). The median
+PFS was 3.0 months (95% confidence interval [CI]: 1.6
+Best overall tumor response is shown in Fig. 1a. Thirteen – 4.5 months) for all patients, while the median OS was
+patients enrolled in the study had measurable disease, but 11.9 months (95% CI: 4.2 – 19.2 months) (Fig. 1b).
+Fig. 1 a Waterfall plot of maximum change in tumor measurements (per RECIST v1.1) for evaluable patients. b Kaplan-Meier plot showing pro-
+gression free survival (PFS) for evaluable patients and overall survival (OS) for all treated patients
+
+--- Page 5 ---
+2 94 Investigational New Drugs (2021) 40:290–299
+Table 1 Patients baseline demographics and disease characteristics
+Carboplatin 5AUC and Carboplatin 4AUC and Paclitaxel
+Paclitaxel 175mg/m2 IV Q3W 175mg/m2 IV Q3W
+Characteristic Selinexor 60mg Selinexor 60mg Selinexor 40mg Selinexor 40mg Selinexor 60mg All Patients
+PO BIW (n=1) PO QW (n=4) PO QW (n=1) PO QW (n=5) PO QW (n=2) (N= 13)
+Age at consent (years)
+Median 57 60.6 45 58 55.9 57.6
+Range (41.8-70.6) (50-71) (50.4-61.5) (41.8 - 71.6)
+Gender, n (%)
+Male 0 1 (25) 0 3 (60) 1 (50) 5 (38)
+Female 1 (100) 3 (75) 1 (100) 2 (40) 1 (50) 8 (62)
+Race/ethnicity, n (%)
+White 0 4 (100) 1 (100) 1 (20) 2 (100) 8 (62)
+Hispanic 1 (100) 0 0 2 (40) 0 3 (23)
+Black 0 0 0 2 (40) 0 2 (15)
+Asian 0 0 0 0 0 0
+ECOG performance status, n (%)
+0 1 (100) 0 0 0 0 1 (8)
+1 0 4 (100) 1 (100) 5 (100) 2 (100) 12 (92)
+Primary tumor, n (%)
+Ovarian 1 (100) 1 (25) 0 0 0 2 (15)
+Breast 0 1 (25) 0 2 (40) 1 (50) 4 (31)
+Colorectal Cancer 0 0 0 0 0 0
+Endometrial/fallopian 0 1 (25) 0 0 0 1 (8)
+Lung 0 1 (25) 0 1 (20) 0 2 (15)
+Neuroendocrine 0 0 0 0 0 0
+Pancreas 0 0 0 1 (20) 0 1 (8)
+Esophageal 0 0 0 1 (20) 1 (50) 2 (15)
+Head & Neck/salivary gland 0 0 0 0 0 0
+Liver/ 0 0 1 (100) 0 0 1 (8)
+cholangiocarcinoma
+Sarcoma 0 0 0 0 0 0
+Prostate 0 0 0 0 0 0
+Others 0 0 0 0 0 0
+Prior lines of systemic therapies, n (%)
+0 - 1 0 0 0 1 (20) 0 1 (8)
+2 - 3 0 2 (50) 1 (100) 2 (40) 2 (100) 7 (54)
+4 - 5 1 (100) 2 (50) 0 0 0 3 (23)
+> 5 0 0 0 2 (40) 0 2 (15)
+Prior exposure to carboplatin and/or paclitaxel, n (%)
+Yes 1 (100) 4 (100) 0 4 (80) 1 (50) 10 (77)
+No 0 0 1 (100) 1 (20) 1 (50) 3 (23)
+AUC area under the curve, BIW twice weekly dosing schedule, ECOG Eastern Cooperative Oncology Group, IV intravenous, PO oral, Q3W 3
+weekly dosing schedule, QW weekly dosing schedule
+Discussion protein in the cell mediating the efflux of tumor suppres-
+sor proteins and the methyl-guanine capped mRNA binding
+Most bulky cargo proteins > 40kD including TSPs, and protein eIF4E [22, 23]. Active nuclear export of TSPs and
+many RNAs require certain transporters to exit through the eIF4E-bound oncoprotein mRNAs was effectively blocked
+nuclear pore complex; these carriers are called exportins 1–7 by SINE compounds which selectively inhibit XPO1 func-
+[4]. Emerging data has suggested that tumor cells overex- tion, leading to nuclear retention of TSP and eIF4E-bound
+press Exportin-1 (XPO1), which is the major nuclear export mRNAs, impeding the cancer growth and prompting
+
+--- Page 6 ---
+Investigational New Drugs (2021) 40:290–299 295
+Table 2 Summary of treatment emergent adverse events in the phase Table 3 Summary of treatment-emergent and -related adverse events
+I safety population in all grades of severity
+Measure, n (%) All Patients N (%) Treatment emer- Selinexor Treatment
+(N= 13) gent adverse events related adverse events
+(TEAE) (TRAE)
+≥ 1 TEAE 13 (100)
+All grades Grade 3/4 All grades Grade 3/4
+≥ 1 TRAE (selinexor) 13 (100)
+Grade 3/4 TEAE 12 (92) Anemia 11 (85) 2 (15) 9 (69) 2 (15)
+Grade 3/4 TRAE (selinexor) 11 (85) Leukopenia 11 (85) 6 (46) 11 (85) 6 (46)
+SAE* 4 (31) Neutropenia 11 (85) 9 (69) 11 (85) 9 (69)
+≥ 1 TRSAE (selinexor)* 2 (23) Thrombocytopenia 11 (85) 7 (54) 11 (85) 7 (54)
+≥ 1 DLT** 1 (8) Constipation 6 (46) 0 2 (15) 0
+Discontinued due to ≥ 1 TEAE 1 (8) Diarrhea 4 (31) 0 2 (15) 0
+Nausea 7 (54) 1 (8) 7 (54) 1 (8)
+DLT, dose limiting toxicity, SAE serious adverse events, TEAE
+treatment-emergent adverse events, TRAE treatment-related adverse Vomiting 6 (46) 1 (8) 6 (46) 1 (8)
+events, TRSAE treatment-related serious adverse events Elevated AST/ALT 6 (46) 1 (8) 3 (23) 0
+*Four patients were reported to have SAEs; two had at least one Fever 4 (31) 0 0 0
+TRSAE due to selinexor treatment; one patient had grade 3 dehydra- Fatigue 8 (62) 0 6 (46) 0
+tion and hyponatremia and one patient experienced grade 3 nausea
+Anorexia 4 (31) 0 3 (23) 0
+and vomiting with adult failure to thrive. One patient experienced
+grade 3 infections and infestations (other) and one patient experi- Hyponatremia 4 (31) 1 (8) 4 (31) 1 (8)
+enced grade 3 lung infection and co-occurring grade 2 pneumonitis Hypomagnesemia 7 (54) 0 2 (15) 0
+which were considered unrelated to Selinexor treatment Peripheral motor/ 7 (54) 0 4 (31) 0
+**One patient receiving Selinexor 60mg once weekly experienced sensory neuropa-
+dose limiting grade 3 nausea and vomiting lasting 3 days thy
+Dyspnea 3 (23) 1 (8) 1 (8) 0
+Cough 5 (38) 0 0 0
+selective apoptosis of cancer cells [8–12]. Selinexor (KPT- Elevated CPK 2 (15) 1 (8) 1 (8) 1 (8)
+330) is a first-in-class, orally bioavailable, slowly revers- Arthralgia 1 (8) 0 1 (8) 0
+ible, potent SINE which covalently binds the cysteine 528 Infection or infes- 5 (38) 4 (31) 0 0
+residue of the cargo-binding pocket in XPO1 [13, 14]. DNA tation
+damage by cytotoxic chemotherapies transiently activate
+ALT alanine aminotransferase, AST aspartate aminotransferase,
+multiple TSPs, high levels of XPO1 in tumors lead to rapid CPK creatine phosphokinase
+nuclear export of these proteins, extinguishing their tumor
+suppressor function. In preclinical and earlier clinical stud-
+ies, selinexor was shown to provide synergistic or additive dosing regimen in this study in contrast to prior single agent
+activity when combined with DNA damaging agents in solid selinexor studies where twice weekly dosing regimens
+tumors by attenuating DNA damage repair (DDR) mecha- were implemented. In addition, detailed TEAEs related to
+nism and maintaining nuclear localization and functional selinexor at each dose level in our study characterized toxic-
+activation of TSPs [15]. ity as a function of dose level when selinexor combined with
+This is the first study reporting selinexor in combination carboplatin and paclitaxel. Hematological laboratory abnor-
+with carboplatin and paclitaxel (CT), which is one of the malities and gastrointestinal toxicities were notable when
+most commonly used regimens in solid tumors, from the selinexor was dosed 60 mg QW and above. In recent phase
+open label, single-center, multi-arm, “basket type” expan- II KING study where selinexor monotherapy was given in a
+sion phase IB study. Previously, single agent selinexor had cohort of patients with recurrent glioblastoma, once weekly
+been studied in various solid tumors and has shown either selinexor was better tolerated with antiemesis prophylaxis
+some or limited efficacy [24–27]. Compared to previous contributing less high-grade toxicities while attaining some
+single agent selinexor studies where fatigue and hemato- antitumor activity with disease control [26]. Proper utility of
+logical laboratory abnormalities were the most common growth factors and optimizing supportive care is crucial in
+high-grade TRAE ranging from 6 to 21%, greater incidence this combination strategy. Overall, all 13 patients had at least
+of high-grade hematological laboratory abnormalities were one TEAE. The most common TEAEs were hematologi-
+observed with this combination strategy despite employ- cal laboratory abnormalities, fatigue, nausea, hypomagne-
+ing the lower dose of standard of care dose of carboplatin semia, and peripheral motor or sensory neuropathy where
+(AUC of 4 or 5) and paclitaxel (175 mg/m2 every 3 weeks). the latter was contributed from chemotherapy. The most
+Majority of patients (92%) received once weekly selinexor prevalent grade ≥ 3 TEAEs were hematological laboratory
+
+--- Page 7 ---
+2 96 Investigational New Drugs (2021) 40:290–299
+level
+esod
+hcae
+ni
+stneve
+esrevda
+detaler-tnemtaert
+fo
+yrammuS
+4 elbaT
+)EART(
+stneve
+esrevda
+detaler
+tnemtaerT
+roxenileS
+)%(
+N
+,WQ
+gm06
+S
+,WIB
+gm06
+S
+,WQ
+gm06
+S
+,WQ
+gm04
+S
+,WQ
+gm04
+S
+,CUA
+5
+C
+,CUA
+5
+C
+,CUA
+4
+C
+,CUA
+5
+C
+,CUA
+4
+C
+2m/gm
+571
+P
+2m/gm
+571
+P
+2m/gm
+571
+P
+2m/gm
+571
+P
+2m/gm
+571
+P
+)4
+=
+N(
+)1
+=
+N(
+)2
+=
+N(
+)1
+=
+N(
+)5
+=
+N(
+4/3
+edarG
+2/1
+edarG
+4/3
+edarG
+2/1
+edarG
+4/3
+edarG
+2/1
+edarG
+4/3
+edarG
+2/1
+edarG
+4/3
+edarG
+2/1
+edarG
+0
+4
+0
+1
+1
+1
+0
+0
+1
+1
+aimenA
+3
+1
+0
+1
+1
+1
+0
+1
+2
+1
+ainepokueL
+4
+0
+1
+0
+1
+1
+1
+0
+2
+1
+aineportueN
+4
+0
+0
+1
+2
+0
+0
+1
+1
+2
+ainepotycobmorhT
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+noitapitsnoC
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+aehrraiD
+1
+3
+0
+1
+0
+0
+0
+0
+0
+2
+aesuaN
+1
+2
+0
+1
+0
+0
+0
+0
+0
+2
+gnitimoV
+0
+1
+0
+0
+0
+1
+0
+0
+0
+1
+TLA/TSA
+detavelE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+reveF
+0
+3
+0
+0
+0
+0
+0
+1
+0
+2
+eugitaF
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+aixeronA
+0
+1
+0
+1
+0
+0
+1
+0
+0
+1
+aimertanopyH
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+aimesengamopyH
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2
+yrosnes
+/rotom
+larehpireP
+yhtaporuen
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+aenpsyD
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+hguoC
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+KPC
+detavelE
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+aiglarhtrA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+noitatsefni
+ro
+noitcefnI
+
+--- Page 8 ---
+Investigational New Drugs (2021) 40:290–299 297
+abnormalities. TEAEs related to selinexor were neutropenia disease being categorized as non-measurable. Hence,
+(85%), leukopenia (85%), thrombocytopenia (85%), anemia the DCR was 8%. The histology of the two patients with
+(69%), nausea (54%), vomiting (46%), and fatigue (46%). esophageal cancer included squamous cell and adenocar-
+The most common grade ≥ 3 adverse events; deemed to be cinoma; neither patient had any prior exposure with car-
+related to selinexor were the following hematological labo- boplatin and/or paclitaxel. However, the other two patients
+ratory abnormalities: neutropenia (69%), thrombocytopenia with uPR (hormone receptor-positive, HER-2 negative
+(54%), and leukopenia (46%). In our study, one patient at breast cancer and ovarian cancer), did have prior exposure
+60 mg once weekly experienced DLT with grade 3 nausea with carboplatin and/or paclitaxel. There were two patients
+and vomiting lasting 3 days. Four patients reported having with ovarian cancer in the cohort and both patients includ-
+SAEs. Two patients had at least one SAE considered related ing the one who achieved uPR, had received prior poly
+to selinexor treatment; one patient had grade 3 dehydration ADP-ribose polymerase (PARP) inhibitor.
+and hyponatremia while another patient experienced grade
+3 nausea and vomiting with adult failure to thrive. The SAEs
+experienced by the other two patients were considered unre-
+Conclusion
+lated to selinexor treatment; one patient had grade 3 lung
+infection and co-occurring grade 2 pneumonitis and one
+patient experienced grade 3 infections and infestations. One weekly selinexor can be safely combined with standard
+In the initial first-in-human study in patients with carboplatin/paclitaxel and the RP2D of selinexor was 60 mg
+advanced refractory solid tumors, single agent selinexor QW in combination with CT. The combination conferred
+induced a 4% CR + PR rate with 17% SD ≥ 4 months; viable clinical activity with durable objective responses in
+responses were observed in melanoma, colorectal can- this heavily pretreated patient population which should fur-
+cer, ovarian cancer, prostate cancer, thymoma, and cervi- ther be explored in tumor types for which CT is used as
+cal cancer [28]. In patients with metastatic triple-negative standard of care. These results support the evaluation of the
+breast cancer, the study was terminated early due to lack of combination of selinexor and CT in patients with carboplatin
+objective responses despite 3 of 10 patients (30%) had SD and paclitaxel naïve disease. Proper utility of growth factors
+for ≥ 12 weeks [24]. In another phase Ib study of selinexor and optimizing supportive care is crucial in this combina-
+in patients with refractory soft tissue or bone sarcoma, 30 tion strategy.
+of 52 patients (58%) achieved SD while 17 (33%) patients
+Acknowledgements We thank the patients who participated in this
+had durable response lasting more than 4 months and the
+study, and their families for supporting them.
+activity is particularly noted in dedifferentiated liposar-
+coma [26]. In a phase II study employing selinexor in heav- Authors' contributions All the authors have contributed to the prepara-
+ily pretreated gynecological cancers, disease control rate tion of this manuscript and approved the final version.
+(CR + PR + SD ≥ 12 weeks) was reported as 30%, 35% and
+Funding Karyopharm Therapeutics, Clinical and Translational Sci-
+24% in ovarian, endometrial and cervical cancers, respec-
+ences Award (1UL1TR003167) (NIH/NCATS), and MD Anderson
+tively, with PR + CR in 8% in ovarian cancer, 9% in endo- Cancer Support Grant (P30CA016672) (NIH-NCI).
+metrial cancer and 4% in cervical cancer [25].
+Data availability -The datasets used and/or analyzed during the cur-
+In our study, no patient experienced CR. Unconfirmed
+rent study are available from the corresponding author on reasonable
+PR was observed in three patients: one patient each with
+request.
+hormone receptor-positive, HER-2 negative breast, ovar-
+ian, and squamous cell esophageal cancer. A patient with Code availability -Not applicable.
+adenocarcinoma of esophagus had confirmed PR with
+Declarations
+-58% in tumor reduction, however this patient was reported
+to have clinical progression and was discontinued from the Research involving human participants and/or animals Applicable.
+study. Reduction in tumor ranged from -38% to -58% for This study was conducted in accordance with the U.S. Common Rule.
+the four patients experiencing PR as best response. Five
+Ethics approval The study protocol was approved by the Institutional
+patients (42%) achieved SD contributing to CBR of 42%.
+Review Board or Independent Ethics Committee at MD Anderson Can-
+Among five patients who achieved SD, one patient with
+cer Center and was conducted in accordance with the Declaration of
+metastatic lung adenocarcinoma who had progressed on Helsinki, Good Clinical Practice, and all local and federal regulatory
+prior three lines of therapies including carboplatin + pem- guidelines. (obtained).
+etrexed, nivolumab followed by ramucirumab + paclitaxel,
+Informed consent Informed consent was obtained from all individual
+had exceptionally durable stable disease (currently ongo-
+participants included in the study. (obtained).
+ing at the data cut off with TTF of 35.4 months and had
+completed total of 43 cycles of treatments) despite the Consent for publication Applicable (obtained).
+
+--- Page 9 ---
+2 98 Investigational New Drugs (2021) 40:290–299
+Disclosure of potential conflicts of interest Apostolia-Maria Tsim- cals Co., Ltd.; Medimmune, LLC.; Medivation, Inc.; Merck Sharp
+beridou has the following financial relationships to disclose: Research and Dohme Corp.; Novartis Pharmaceuticals; Pieris Pharmaceuticals,
+Funding (Institution): Immatics, Parker Institute for Cancer Immuno- Inc.; Pfizer; Principia Biopharma, Inc.; Puma Biotechnology, Inc.; Rapt
+therapy, Tempus, OBI Pharma, EMD Serono, Baxalta, ONYX, Bayer, Therapeutics, Inc.; Seattle Genetics; Silverback Therapeutics; Taiho
+Boston Biomedical, Placon Therapeutics, Karus Therapeutics, and Oncology; Tesaro, Inc.; TransThera Bio; NCI/NIH; P30CA016672 –
+Tvardi Therapeutics. Consulting or Advisory Role: Covance, Genen- Core Grant (CCSG Shared Resources).
+tech and Tempus. Siqing Fu reports clinical trial research funding paid to the institu-
+tion from Eli Lilly, during the conduct of the study; and clinical trial
+Aung Naing reports research funding from NCI; EMD Serono; Med-
+research funding paid to the institution from AstraZeneca, Abbisko,
+Immune; Healios Onc. Nutrition; Atterocor; Amplimmune; ARMO
+Anaeropharma Science, Arrien Pharmaceuticals, BeiGene, BioAtla,
+BioSciences; Eli Lilly; Karyopharm Therapeutics; Incyte; Novartis;
+LLC, Boehringer Ingelheim, Eli Lilly, Hookipa Biotech GmBH, Huya
+Regeneron; Merck; BMS; Pfizer, CytomX Therapeutics; Neon Thera-
+Bioscience International, IMV, Inc., Innovent Biologics, Co., Ltd.,
+peutics; Calithera Biosciences; TopAlliance Biosciences; Kymab; Psi-
+Lyvgen Biopharm, Co., Ltd., MacroGenics, Medivir AB, Millennium
+Oxus; Arcus Biosciences; NeoimmuneTech; ImmuneOncia; Surface
+Pharmaceuticals, Inc., Nerviano Medical Sciences, NeuPharma, Inc.,
+Oncology. On advisory board of CytomX Therapeutics; Novartis and
+NIH/NCI, Novartis, OncoMed, Parexel International, LLC, Sellas Life
+Genome & Company; OncoSec KEYNOTE-695; STCube. Travel and
+Sciences Group, Soricimed Biopharma, Inc., Tolero Pharmaceuticals,
+accommodation expense from ARMO BioSciences. Spouse Research
+all outside the submitted work.
+funding: Immune Deficiency Foundation, Jeffery Modell Foundation
+Timothy A. Yap reports research support (to institution) from Artios,
+and chao physician-scientist, and Baxalta. Advisory board: Takeda,
+AstraZeneca, Bayer, Clovis, Constellation, Cyteir, Eli Lilly, EMD Se-
+CSL, Behring, Horizon, and Pharming.
+rono, Forbius, F-Star, GlaxoSmithKline, Genentech, ImmuneSensor,
+David S Hong reports Research/Grant Funding: AbbVie,
+Ipsen, Jounce, Karyopharm, Kyowa, Merck, Novartis, Pfizer, Ribon
+Adaptimmune,Aldi-Norte, Amgen, Astra Zeneca, Bayer, Bristol-Myers
+Therapeutics, Regeneron, Repare, Sanofi, Scholar Rock, Seattle Genet-
+Squibb, Daiichi-Sankyo, Eisai, Fate Therapeutics, Genentech, Gen-
+ics, Tesaro, and Vertex Pharmaceuticals, and consultancy fees from Al-
+mab, GlaxoSmithKline, Ignyta, Infinity, Kite, Kyowa, Lilly, LOXO,
+mac, Aduro, AstraZeneca, Atrin, Axiom, Bayer, Bristol-Myers Squibb,
+Merck, MedImmune, Mirati, miRNA, Molecular Templates, Molo-
+Calithera, Clovis, Cybrexa, EMD Serono, F-Star, Guidepoint, Ignyta,
+gen, NCI-CTEP, Novartis, Pfizer, Seattle Genetics, Takeda, Turning
+I-Mab, Janssen, Merck, Pfizer, Repare, Roche, Rubius, Schrodinger,
+Point Therapeutics. Travel, Accommodations, Expenses: Bayer, Gen-
+Seattle Genetics, Varian and Zai Labs outside of the submitted work.
+mab, AACR, ASCO, P.O.E.T, CCLO, SITC. Consulting or Advisory
+Jatin Shah is an employee of and stockholder of Karyopharm. All
+Role: Alpha Insights, Amgen, Axiom, Adaptimmune, Baxter, Bayer,
+remaining authors have declared no conflicts of interest.
+eCancer, Genentech, GLG, Group H, Guidepoint, Infinity,Liberium,
+Medscape, Numab, Oncology Education Project Association, Pfizer, Open Access This article is licensed under a Creative Commons Attri-
+Prime Oncology, Takeda, Trieza, Therapeutics, WebMD. Other owner-
+bution 4.0 International License, which permits use, sharing, adapta-
+ship interests: Molecular Match (Advisor), OncoResponse (Founder),
+tion, distribution and reproduction in any medium or format, as long
+Presagia Inc (Advisor).
+as you give appropriate credit to the original author(s) and the source,
+Filip Janku reports Grant/Research Funding (Institutional): Novartis,
+provide a link to the Creative Commons licence, and indicate if changes
+Genentech, BioMed Valley Discoveries, Plexxikon, Deciphera, Piqur,
+were made. The images or other third party material in this article are
+Symphogen, Bayer, FujiFilm Corporation and Upsher-Smith Laborato-
+included in the article's Creative Commons licence, unless indicated
+ries, Astex, Asana, Astellas, Agios, Proximagen, Bristol-Myers Squibb.
+otherwise in a credit line to the material. If material is not included in
+Scientific Advisory Board: Deciphera, IFM Therapeutics, Synlogic,
+the article's Creative Commons licence and your intended use is not
+Guardant Health, Ideaya, PureTech Health. Paid Consultant: Trova-
+permitted by statutory regulation or exceeds the permitted use, you will
+gene, Immunomet, Jazz Pharmaceuticals, Sotio. Ownership Interests:
+need to obtain permission directly from the copyright holder. To view a
+Trovagene.
+copy of this licence, visit http://c reati vecom mons.o rg/l icens es/b y/4.0 /.
+Funda Meric-Bernstam reports Consulting: Aduro BioTech Inc.,
+Alkermes, AstraZeneca, DebioPharm, eFFECTOR Therapeutics, F.
+Hoffman-La Roche Ltd., Genentech Inc., IBM Watson, Jackson Labo-
+ratory, Kolon Life Science, OrigiMed, PACT Pharma, Parexel Interna- References
+tional, Pfizer Inc., Samsung Bioepis, Seattle Genetics Inc., Tyra Bio-
+sciences, Xencor, Zymeworks. Advisory Committee: Immunomedics,
+1. Fukuda M, Asano S, Nakamura T, Adachi M, Yoshida M,
+Inflection Biosciences, Mersana Therapeutics, Puma Biotechnology
+Yanagida M, Nishida E (1997) CRM1 is responsible for intra-
+Inc., Seattle Genetics, Silverback Therapeutics, Spectrum Pharma-
+cellular transport mediated by the nuclear export signal. Nature
+ceuticals, Zentalis. Sponsored Research: Aileron Therapeutics, Inc.
+390(6657):308–311. https://d oi.o rg/1 0.1 038/3 6894
+AstraZeneca, Bayer Healthcare Pharmaceutical, Calithera Biosciences
+2. Xu D, Grishin NV, Chook YM (2012) NESdb: a database of NES-
+Inc., Curis Inc., CytomX Therapeutics Inc., Daiichi Sankyo Co. Ltd.,
+containing CRM1 cargoes. Mol Biol Cell 23(18):3673–3676.
+Debiopharm International, eFFECTOR Therapeutics, Genentech Inc.,
+https://d oi.o rg/1 0.1 091/m bc.E 12-0 1-0 045
+Guardant Health Inc., Millennium Pharmaceuticals Inc., Novartis,
+3. Nguyen KT, Holloway MP, Altura RA (2012) The CRM1 nuclear
+Puma Biotechnology Inc., Taiho Pharmaceutical Co. Honoraria: Chu-
+export protein in normal development and disease. Int J Biochem
+gai Biopharmaceuticals, Mayo Clinic, Rutgers Cancer Institute of New
+Mol Biol 3(2):137–151
+Jersey. Other (Travel Related): Beth Israel Deaconess Medical Center.
+4. Turner JG, Dawson J, Sullivan DM (2012) Nuclear export of
+Sarina A. Piha-Paul receives Research/Grant Funding through the
+proteins and drug resistance in cancer. Biochem Pharmacol
+institution from the following sources: AbbVie, Inc.; ABM Therapeu-
+83(8):1021–1032. https://d oi.o rg/1 0.1 016/j.b cp.2 011.1 2.0 16
+tics, Inc.; Acepodia, Inc; Alkermes; Aminex Therapeutics; Amphivena
+5. Benkova K, Mihalyova J, Hajek R, Jelinek T (2020) Selinexor,
+Therapeutics, Inc.; BioMarin Pharmaceutical, Inc; Boehringer Ingel-
+selective inhibitor of nuclear export: Unselective bullet for blood
+heim; Bristol Myers Squib; Cerulean Pharma, Inc.; Chugai Pharmaceu-
+cancers. Blood Rev 100758. https://d oi.o rg/1 0.1 016/j.b lre.2 020.
+tical Co., Ltd; Curis, Inc.; Daiichi Sankyo; Eli Lilly; ENB Therapeutics;
+100758
+Five Prime Therapeutics; Gene Quantum; Genmab A/S; GlaxoSmith-
+6. Miyake T, Pradeep S, Wu SY, Rupaimoole R, Zand B, Wen
+Kline; Helix BioPharma Corp.; Incyte Corp.; Jacobio Pharmaceuti-
+Y, Gharpure KM, Nagaraja AS, Hu W, Cho MS, Dalton HJ,
+
+--- Page 10 ---
+Investigational New Drugs (2021) 40:290–299 299
+Previs RA, Taylor ML, Hisamatsu T, Kang Y, Liu T, Shacham RECIST guideline (version 1.1). Eur J Cancer 45 (2):228–
+S, McCauley D, Hawke DH, Wiktorowicz JE, Coleman RL, 247. https://d oi.o rg/1 0.1 016/j.e jca.2 008.1 0.0 26
+Sood AK (2015) XPO1/CRM1 Inhibition Causes Antitumor 20. Nishino M, Jagannathan JP, Ramaiya NH, Van den Abbeele AD
+Effects by Mitochondrial Accumulation of eIF5A. Clin Can- (2010) Revised RECIST guideline version 1.1: What oncologists
+cer Res 21(14):3286–3297. https://d oi.o rg/1 0.1 158/1 078-0 432. want to know and what radiologists need to know. AJR American
+Ccr-1 4-1 953 Journal of Roentgenology 195 (2):281–289. https://d oi.o rg/1 0.
+7. Ranganathan P, Yu X, Santhanam R, Hofstetter J, Walker A, 2214/a jr.0 9.4 110
+Walsh K, Bhatnagar B, Klisovic R, Vasu S, Phelps MA, Devine 21. Sonpavde G, Pond GR, Armstrong AJ, Galsky MD, Leopold L,
+S, Shacham S, Kauffman M, Marcucci G, Blum W, Garzon R Wood BA, Wang SL, Paolini J, Chen I, Chow-Maneval E, Mooney
+(2015) Decitabine priming enhances the antileukemic effects of DJ, Lechuga M, Smith MR, Michaelson MD (2014) Radiographic
+exportin 1 (XPO1) selective inhibitor selinexor in acute myeloid progression by Prostate Cancer Working Group (PCWG)-2 crite-
+leukemia. Blood 125(17):2689–2692. https:// doi. org/ 10. 1182/ ria as an intermediate endpoint for drug development in metastatic
+blood-2 014-1 0-6 07648 castration-resistant prostate cancer. BJU Int 114(6b):E25-e31.
+8. Huang WY, Yue L, Qiu WS, Wang LW, Zhou XH, Sun YJ (2009) https://d oi.o rg/1 0.1 111/b ju.1 2589
+Prognostic value of CRM1 in pancreas cancer. Clin Invest Med 22. Golomb L, Bublik DR, Wilder S, Nevo R, Kiss V, Grabusic
+32(6):E315 K, Volarevic S, Oren M (2012) Importin 7 and exportin 1 link
+9. Noske A, Weichert W, Niesporek S, Roske A, Buckendahl AC, c-Myc and p53 to regulation of ribosomal biogenesis. Mol Cell
+Koch I, Sehouli J, Dietel M, Denkert C (2008) Expression of the 45(2):222–232. https://d oi.o rg/1 0.1 016/j.m olcel.2 011.1 1.0 22
+nuclear export protein chromosomal region maintenance/exportin 23. van der Watt PJ (1809) Leaner VD (2011) The nuclear exporter,
+1/Xpo1 is a prognostic factor in human ovarian cancer. Cancer Crm1, is regulated by NFY and Sp1 in cancer cells and repressed
+112(8):1733–1743. https://d oi.o rg/1 0.1 002/c ncr.2 3354 by p53 in response to DNA damage. Biochim Biophys Acta
+10. Shen A, Wang Y, Zhao Y, Zou L, Sun L, Cheng C (2009) Expres- 7:316–326. https://d oi.o rg/1 0.1 016/j.b bagrm.2 011.0 5.0 17
+sion of CRM1 in human gliomas and its significance in p27 24. Shafique M, Ismail-Khan R, Extermann M, Sullivan D, Goodridge
+expression and clinical prognosis. Neurosurgery 65 (1):153–159; D, Boulware D, Hogue D, Soliman H, Khong H, Han HS (2019)
+discussion 159–160. https://d oi.o rg/1 0.1 227/0 1.N eu.0 00034 8550. A Phase II Trial of Selinexor (KPT-330) for Metastatic Triple-
+47441.4 b Negative Breast Cancer. Oncologist 24(7):887-e416. https://d oi.
+11. Yao Y, Dong Y, Lin F, Zhao H, Shen Z, Chen P, Sun YJ, Tang org/1 0.1 634/t heonc ologi st.2 019-0 231
+LN, Zheng SE (2009) The expression of CRM1 is associated with 25. Vergote IB, Lund B, Peen U, Umajuridze Z, Mau-Sorensen M,
+prognosis in human osteosarcoma. Oncol Rep 21(1):229–235 Kranich A, Van Nieuwenhuysen E, Haslund C, Nottrup T, Han
+12. Parikh K, Cang S, Sekhri A, Liu D (2014) Selective inhibitors SN, Concin N, Unger TJ, Chai Y, Au N, Rashal T, Joshi A, Cro-
+of nuclear export (SINE)–a novel class of anti-cancer agents. J chiere M, Landesman Y, Shah J, Shacham S, Kauffman M, Mirza
+Hematol Oncol 7:78. https://d oi.o rg/1 0.1 186/s 13045-0 14-0 078-0 MR (2020) Phase 2 study of the Exportin 1 inhibitor selinexor
+13. Fung HY, Chook YM (2014) Atomic basis of CRM1-cargo rec- in patients with recurrent gynecological malignancies. Gynecol
+ognition, release and inhibition. Semin Cancer Biol 27:52–61. Oncol 156(2):308–314. https://d oi.o rg/1 0.1 016/j.y gyno.2 019.1 1.
+https://d oi.o rg/1 0.1 016/j.s emcan cer.2 014.0 3.0 02 012
+14. Senapedis WT, Baloglu E, Landesman Y (2014) Clinical transla- 26. Gounder MM, Zer A, Tap WD, Salah S, Dickson MA, Gupta
+tion of nuclear export inhibitors in cancer. Semin Cancer Biol AA, Keohan ML, Loong HH, D’Angelo SP, Baker S, Condy M,
+27:74–86. https://d oi.o rg/1 0.1 016/j.s emcan cer.2 014.0 4.0 05 Nyquist-Schultz K, Tanner L, Erinjeri JP, Jasmine FH, Fried-
+15. Kashyap T, Argueta C, Unger T, Klebanov B, Debler S, Senapedis lander S, Carlson R, Unger TJ, Saint-Martin JR, Rashal T, Ellis J,
+W, Crochiere ML, Lee MS, Kauffman M, Shacham S, Landesman Kauffman M, Shacham S, Schwartz GK, Abdul Razak AR (2016)
+Y (2018) Selinexor reduces the expression of DNA damage repair Phase IB Study of Selinexor, a First-in-Class Inhibitor of Nuclear
+proteins and sensitizes cancer cells to DNA damaging agents. Export, in Patients With Advanced Refractory Bone or Soft Tis-
+Oncotarget 9(56):30773–30786. https://d oi.o rg/1 0.1 8632/o ncot sue Sarcoma. J Clin Oncol 34(26):3166–3174. https://d oi.o rg/1 0.
+arget.2 5637 1200/j co.2 016.6 7.6 346
+16. Arango NP, Yuca E, Zhao M, Evans KW, Scott S, Kim C, Gon- 27. Lassman A, Wen P, van den Bent M, Plotkin S, Walenkamp A,
+zalez-Angulo AM, Janku F, Ueno NT, Tripathy D, Akcakanat Green A, Wang H, Li K, Liu Y, Xu H, Shah J, Kauffman M, Sha-
+A, Naing A, Meric-Bernstam F (2017) Selinexor (KPT-330) cham S, Mau-Soerensen M (2020) CTNI-18. FINAL RESULTS
+demonstrates anti-tumor efficacy in preclinical models of triple- OF A PHASE 2 STUDY OF EFFICACY, SAFETY AND INTRA-
+negative breast cancer. Breast Cancer Res 19(1):93. https://d oi. TUMORAL PHARMACOKINETICS (PK) OF SELINEXOR
+org/1 0.1 186/s 13058-0 17-0 878-6 MONOTHERAPY IN RECURRENT GLIOBLASTOMA
+17. Wahba A, Rath BH, O’Neill JW, Camphausen K, Tofilon PJ (rGBM). Neuro-Oncology 22 (Supplement_2):ii46-ii46. https://
+(2018) The XPO1 Inhibitor Selinexor Inhibits Translation and doi.o rg/1 0.1 093/n euonc/n oaa21 5.1 85
+Enhances the Radiosensitivity of Glioblastoma Cells Grown 28. Abdul Razak AR, Mau-Soerensen M, Gabrail NY, Gerecitano JF,
+In Vitro and In Vivo. Mol Cancer Ther 17(8):1717–1726. https:// Shields AF, Unger TJ, Saint-Martin JR, Carlson R, Landesman
+doi.o rg/1 0.1 158/1 535-7 163.M ct-1 7-1 303 Y, McCauley D, Rashal T, Lassen U, Kim R, Stayner LA, Mirza
+18. Ferreiro-Neira I, Torres NE, Liesenfeld LF, Chan CH, Penson T, MR, Kauffman M, Shacham S, Mahipal A (2016) First-in-Class,
+Landesman Y, Senapedis W, Shacham S, Hong TS, Cusack JC First-in-Human Phase I Study of Selinexor, a Selective Inhibitor
+(2016) XPO1 Inhibition Enhances Radiation Response in Preclini- of Nuclear Export, in Patients With Advanced Solid Tumors. J
+cal Models of Rectal Cancer. Clin Cancer Res 22(7):1663–1673. Clin Oncol 34(34):4142–4150. https://d oi.o rg/1 0.1 200/j co.2 015.
+https://d oi.o rg/1 0.1 158/1 078-0 432.C cr-1 5-0 978 65.3 949
+19. Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent
+D, Ford R, Dancey J, Arbuck S, Gwyther S, Mooney M, Rubin- Publisher's Note Springer Nature remains neutral with regard to
+stein L, Shankar L, Dodd L, Kaplan R, Lacombe D, Verweij J jurisdictional claims in published maps and institutional affiliations.
+(2009) New response evaluation criteria in solid tumours: revised

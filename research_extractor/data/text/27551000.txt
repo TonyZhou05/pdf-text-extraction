@@ -1,0 +1,1379 @@
+Source: 27551000.pdf
+Extracted on: Sat Sep 13 00:00:51 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Published in final edited form as:
+Clin Cancer Res. 2017 February 15; 23(4): 899–907. doi:10.1158/1078-0432.CCR-16-1274.
+A Phase I study of topotecan, carboplatin and the PARP inhibitor
+veliparib in acute leukemias, aggressive myeloproliferative
+neoplasms and chronic myelomonocytic leukemia
+Keith W. Pratz1, Michelle A. Rudek1, Ivana Gojo1, Mark R. Litzow2, Michael A. McDevitt1,
+Jiuping Ji3, Larry M. Karnitz2, James G. Herman1,4, Robert J. Kinders5, B. Douglas Smith1,
+Steven D. Gore1,6, Hetty E. Carraway1,7, Margaret M. Showel1, Douglas E. Gladstone1, Mark
+J. Levis1, Hua-Ling Tsai1, Gary Rosner1, Alice Chen8, Scott H. Kaufmann2,*, and Judith E.
+Karp1,*
+1Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore MD, USA
+2Mayo Clinic, Rochester, MN, USA
+3National Clinical Target Validation Laboratory, Frederick National Laboratory for Cancer
+Research, Bethesda, MD, USA
+5Frederick National Laboratory for Cancer Research, Frederick, MD, USA
+8IDB/CTEP/NCI, National Cancer Institute, Rockville, MD, USA
+Abstract
+Purpose—The poly(ADP-ribose) polymerase (PARP) inhibitor veliparib delays DNA repair and
+potentiates cytotoxicity of multiple classes of chemotherapy drugs, including topoisomerase I
+inhibitors and platinating agents. This study evaluated veliparib incorporation into leukemia
+induction therapy using a previously described topotecan/carboplatin backbone.
+Experimental Design—Employing a 3+3 trial design, we administered escalating doses of
+veliparib combined with topotecan + carboplatin in relapsed or refractory acute leukemias,
+aggressive myeloproliferative neoplasms (MPNs) and chronic myelomonocytic leukemia
+(CMML).
+Corresponding author: Keith W Pratz, The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Division of Hematologic
+Malignancies, The Bunting Blaustein Cancer Research Building, 1650 Orleans Street, Room 2M45, Baltimore, Maryland 21231,
+Phone: (410) 502-7726, Fax: (410) 614-1005, Kpratz1@jhmi.edu.
+4Current address: University of Pittsburgh, Pittsburgh, PA, USA
+6Current address: Yale Cancer Center, New Haven, CT, USA
+7Current address: Cleveland Clinic Foundation, Cleveland Ohio USA
+*denotes equal contribution of last authors.
+Author Contributions: Conception and design: KW Pratz, JE Karp, and SH Kaufmann.
+Provision of study materials or patients: KW Pratz, MR Litzow, I Gojo, MA McDevitt, BD Smith, SD Gore, HE Carraway, M
+Showel, MJ Levis, DE Gladstone, SH Kaufmann, and JE Karp
+Collection and assembly of data: KW Pratz, MR Rudek, MR Litzow, J Ji, R Kinders, LM Karnitz, I Gojo, MA McDevitt, BD Smith,
+S Gore, HE Carraway, M Showel, MJ Levis, DE Gladstone, SH Kaufmann, and JE Karp
+Data analysis and interpretation: KW Pratz, MR Litzow, I Gojo, J Ji, R Kinders, LM Karnitz, HL Tsai, G Rosner, SH Kaufmann,
+and JE Karp
+Manuscript writing: All Authors
+Final approval of manuscript: All Authors
+Conflict of Interest: The authors of this manuscript report no relationship to disclose.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Pratz et al. Page 2
+Results—A total of 99 patients received veliparib 10-100 mg orally twice daily on Days 1-8,
+1-14 or 1-21 along with continuous infusion topotecan 1.0-1.2 mg/m2/d + carboplatin 120-150
+mg/m2/d on Days 3-7. The maximum tolerated dose was veliparib 80 mg twice daily for up to 21
+days with topotecan 1.2 mg/m2/d + carboplatin 150 mg/m2/d. Mucositis was dose limiting and
+correlated with high veliparib concentrations. The response rate was 33% overall (33/99: 14 CR,
+11 CRi, 8 PR) but was 64% (14/22) for patients with antecedent or associated aggressive MPNs or
+CMML. Leukemias with baseline DNA repair defects, as evidenced by impaired DNA damage-
+induced FANCD2 monoubiquitination, had improved survival (hazard ratio .56 (95% CI .27-.92)).
+A single 80 mg dose of veliparib, as well as veliparib in combination with topotecan + carboplatin,
+induced DNA damage as manifested by histone H2AX phosphorylation in CD34+ leukemia cells,
+with greater phosphorylation in cells from responders.
+Conclusions—The veliparib/topotecan/carboplatin combination warrants further investigation,
+particularly in patients with aggressive MPNs, CMML, and MPN- or CMML-related acute
+leukemias.
+Introduction
+Despite advances in the treatment of acute myeloid leukemia (AML) (1), certain groups of
+AML patients, including the elderly, those with therapy-associated disease, and patients with
+prior chronic myelomonocytic leukemia (CMML) or myeloproliferative neoplasms (MPNs)
+have a particularly poor response to conventional cytarabine/anthracycline-based therapy
+and have an unmet clinical need (2-4). For example, patients with AML that arises in the
+setting of prior myelofibrosis with myeloid metaplasia have a 41% response rate (all
+regressing to prior chronic phase MPN and not meeting conventional CR criteria for AML)
+with conventional therapy but only a 9% 1-year survival (5). More generally, median
+survivals in patients with leukemic trans-formation from MPN reportedly range from 2.7 to
+6.6 months, with those receiving induction therapy showing little if any prolongation of
+survival (median survival 3.9 to 6.0 months) (2). Moreover, response rates in transformed
+MPN reportedly range from 0 to 47%, but no uniform response criteria were applied to this
+diverse group of patients (2). JAK2 inhibitors, which have shown activity in chronic phase
+MPNs, exhibit limited efficacy after transformation to AML (6).
+The poly(ADP-ribose) polymerase (PARP) enzymes PARP1 and PARP2 are involved in a
+wide variety of nuclear processes, including DNA damage sensing and repair through the
+base excision repair, single strand break repair, and double strand break (DSB) repair
+pathways (7, 8). Further studies have shown that PARP inhibition can be synthetically lethal
+with defective DSB repair, as seen in neoplasms with defective breast cancer susceptibility
+gene (BRCA), Ataxia Telangiectasia Mutated (ATM), or Fanconi Anemia (FA) proteins
+(9-12). This synthetic lethality has been validated clinically in BRCA1- and BRCA2-
+mutated breast, ovarian and prostate cancers using PARP inhibitors (13-16).
+Studies in diverse myeloid leukemia cell lines and primary human CD34+ chronic
+myelogenous leukemia (CML) cells have documented baseline defects in DNA repair
+pathways (17, 18). Moreover, primary marrow cells from patients with CMML and
+aggressive MPNs exhibit functional defects in DNA repair and hypersensitivity to multiple
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Pratz et al. Page 3
+PARP inhibitors ex vivo (19). Certain AML-associated gene rearrangements, including
+AML1-ETO and PML-RARα fusions, have also been shown to confer PARP inhibitor
+sensitivity through deficiencies in homologous recombination (20). Conversely, elevated
+HOXA9 activity in MLL-rearranged acute leukemias has been associated with PARP
+inhibitor resistance (20).
+Veliparib (ABT-888) is an orally bioavailable, small molecule PARP inhibitor that enhances
+the cytotoxicity of diverse classes of DNA damaging agents, including ionizing radiation,
+alkylating agents, platinating agents and topoisomerase I (topo I) poisons in vitro and in vivo
+(21-23). Studies in AML cell lines and clinical samples have demonstrated that veliparib
+enhances the antiproliferative and proapoptotic effects of topotecan in vitro, whereas no
+synergy is observed with cytarabine or etoposide (24). Further analysis indicated that the
+synergy results from trapping of PARP1 on the damaged DNA, thereby inhibiting repair
+downstream of topo I-DNA covalent complex stabilization (24, 25).
+In earlier studies, topotecan and carboplatin induced synergistic cytotoxicity in acute
+leukemia cell lines and primary AML cells in vitro (26). This observation was the basis for a
+phase I study of topotecan + carboplatin by five-day intravenous continuous infusion (IV CI)
+in adults with relapsed or refractory acute leukemia (26). Oral and gastrointestinal (GI)
+mucositis were the dose limiting toxicities (DLTs) of this combination. Complete remissions
+(CRs) were observed at multiple dose levels, including 3 of 6 patients at the maximum
+tolerated dose (MTD) of topotecan 1.6 mg/m2/day and carboplatin 150 mg/m2/day
+simultaneously for 5 days (26). A subsequent ECOG Phase II trial of topotecan/carboplatin
+at this MTD resulted in CRs in 5 of 35 (14%) patients with relapsed and refractory AML, a
+response rate similar to a mitoxantrone/etoposide/cytarabine- (MEC-) based arm in the same
+trial (27).
+Building on recent demonstrations that veliparib enhances the antineoplastic effects of
+topotecan and carboplatin, we conducted a Phase I dose-escalation trial of veliparib given
+twice daily prior to and during the administration of topotecan and carboplatin by 120-hour
+IV CI on days 3-7. At the MTD, the patient population was streamlined to focus on patients
+with aggressive CMML and progressive MPNs as well as AMLs evolving from these
+diseases based on preclinical studies suggesting PARP inhibitor hypersensitivity of this
+disease subset (19). The duration of veliparib administration was 8 days during the dose
+escalation. Veliparib dosing was extended in two MPN/CMML cohorts to 14 and 21 day
+durations after completion of the topotecan/carboplatin infusion to take advantage of the
+PARP inhibitor sensitivity and defective DNA repair inherent in some CMML and MPN
+cells (19, 28). Here we report the results of this clinical trial, veliparib pharmacokinetics, and
+exploratory studies investigating potential determinants of response.
+Methods
+Patient selection
+Patients over age 18 with pathologically confirmed relapsed or refractory AMLs, newly
+diagnosed aggressive MPN, or aggressive CMML were eligible. Consistent with our
+previous study (29), for aggressive MPNs (primary myelofibrosis, agnogenic myeloid
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Pratz et al. Page 4
+metaplasia, polycythemia vera, essential thrombocythemia, Ph-negative atypical CML) or
+CMML, one or more of the following disease acceleration criteria had to be present (30):
+marrow blasts >5%, peripheral blood blasts + promonocytes >10%, new onset or increasing
+myelofibrosis, new onset or >25% increase in hepatomegaly or splenomegaly, or new onset
+constitutional symptoms (fever, weight loss, splenic pain, bone pain). Patients were required
+to have: an Eastern Cooperative Oncology Group performance status of 0-2; left ventricular
+ejection fraction of ≥ 45%; hepatic enzymes ≤ 5 × upper limit of normal; bilirubin ≤ 2.0
+mg/dL unless due to Gilbert's syndrome; interval of >4 weeks since allogeneic bone marrow
+transplantation (BMT) if performed; and absence of active GVHD, active CNS leukemia,
+and active uncontrolled infection. All patients gave informed consent to participate in the
+IRB-approved protocol according to the Declaration of Helsinki.
+Treatment Plan
+Veliparib was administered orally on a twice-daily schedule with dose escalation according
+to Table 1. Topotecan and carboplatin were given together by IV CI over 120 hours on days
+3-7 of each cycle. Topotecan was dose-reduced for decreases in creatinine clearance (CrCl)
+as follows: CrCl 20-39 ml/min: 50% reduction; CrCl <20 ml/min: topotecan not
+administered. Carboplatin was dose-reduced for decreases in CrCl as follows: CrCl 40-59
+ml/min: 30% reduction; CrCl 16-39 ml/min: 45% reduction; CrCl ≤ 15 ml/min: Carboplatin
+not administered.
+Determination of DLT, MTD, and stopping rules
+We evaluated 3-6 patients per dose level utilizing a standard 3 + 3 design. Toxicity was
+measured according to NCI-CTCAE version 4.0. The MTD was determined as the highest
+dose level where 0/3 or 1/6 experienced DLT. DLT consisted of: 1) any grade 4 non-
+hematologic toxicity; 2) any grade 3 non-hematologic toxicity that did not resolve ≤ grade 2
+within 48 hrs, with the following exceptions: a) Grade 3 bilirubin, transaminases or alkaline
+phosphatase was considered dose-limiting only if resolution to ≤ grade 2 required ≥7 days;
+b) Grade 3 mucositis, diarrhea, nausea or vomiting was considered dose limiting only if
+resolution to ≤ grade 2 (including use of supportive care) required ≥7 days; c) any Grade 3
+neurotoxicity or nephrotoxicity was considered dose limiting. Myelosuppression was not
+considered in evaluating toxicity in patients with acute leukemias except where bone marrow
+(BM) hypoplasia occurred for ≥50 days with BM cellularity ≤5% and no evidence of
+leukemia. At the MTD, 20 patients were treated in an expansion cohort to further establish
+the tolerability of this combination.
+Evaluation of response
+A BM aspirate and/or biopsy was obtained to assess response to therapy at the time of
+hematologic recovery or whenever leukemia regrowth was suspected based on circulating
+blasts or persistent cytopenias at 6-7 weeks after initiation of therapy. Hematologic recovery
+was defined as an absolute neutrophil count (ANC) of ≥500/mm3 and a transfusion-
+independent platelet count of ≥20,000/mm3. Standard definitions for CR, CR with
+incomplete count recovery (CRi) and partial response (PR) were used for response
+assessment in acute leukemia (31, 32).
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Pratz et al. Page 5
+Response in aggressive MPNs or CMML still in chronic phase (pre-treatment blasts less
+than 20%) was defined according to Giles et al. (30). In brief, CR in these patients required
+freedom from all symptoms or signs related to MPN; WBC 1-10 × 109/L with no peripheral
+blood blasts, promyelocytes or myelocytes; normalization of bone marrow (<5% blasts in
+normocellular or hypercellular marrow) for ≥4 weeks; resolution of pretreatment cytopenias,
+including hemoglobin >12.0 gm/dl for males or >11.0 gm/dl for females without
+erythropoietin or transfusion support as well as ANC >1.0 × 109/L and platelet count >100 ×
+109/L without support; and resolution of pretreatment hyperleukocytosis and/or
+thrombocytosis. PR required improvement in two or more of the following: 1) ANC increase
+of 100% up to >109/L for neutropenia and WBC count 1-10 × 109/L with persistence of
+immature cells (blasts, progranulocytes, myelocytes); 2) increase in hemoglobin of ≥2 gm/dl
+if baseline value was <10 gm/dl, and a decrease in transfusion frequency and/or volume by
+at least 50%; 3) persistent thrombocytosis >450 × 109/L but <50% of pretreatment values; 4)
+reduction in bone marrow blasts to <5% if blasts were originally >10% in normocellular or
+hypercellular marrow; and 5) reduction in splenomegaly and/or hepatomegaly by ≥50% of
+pretreatment dimensions.
+Pharmacokinetic studies
+Plasma samples obtained on day 1 of veliparib and on day 4 after the first dose of veliparib
+in combination with topotecan + carboplatin were assayed for veliparib using the validated
+LC/MS/MS method (33). PK variables were calculated by standard noncompartmental
+methods using Phoenix® WinNonlin® version 6.3 (Pharsight A Certara™ Company, Cary,
+NC) as previously described (34).
+Exploratory pretreatment and pharmacodynamic correlates
+Pretreatment FA pathway integrity—Pretreatment BM samples were treated with the
+DNA cross-linker melphalan (10 μM) for 6 h and FANCD2 ubiquitylation was assessed by
+immunoblotting (35). BRCA1 promoter methylation was assessed using previously
+published methods (36).
+Pretreatment expression of PARP1 and topo I—Marrow mononuclear cells were
+isolated on Ficoll-Hypaque step gradients, washed with serum-free RPMI 1640 medium
+containing 10 mM HEPES (pH 7.4 at 21 °C), and prepared for electrophoresis as previously
+described (37). Aliquots containing protein from 5 × 105 cells were subjected to SDS-PAGE
+and immunoblotting with enhanced chemiluminscent detection (38). Each blot contained a
+serial dilution of HL-60 cells. Signals were digitized and quantified relative to the HL-60
+cell signal as previously described (37).
+Assessment of poly(ADP-ribose) polymer (PAR) suppression and DNA
+damage—PAR assays were performed as described (39). Assessments of Ser139-phospho-
+H2AX (γH2AX) in peripheral blood and BM mononuclear cells were performed via flow
+cytometry according to previously described methods, using the CD34+ fraction when
+appropriate to distinguish the leukemic population from other cells (40).
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Pratz et al. Page 6
+Statistical considerations
+Overall survival (OS) was defined from starting date of treatment to death, or censored at the
+last follow up date. Relapse free survival (RFS) was defined from starting date of treatment
+to the first occurrence of relapse date or date of death. OS, RFS, and probabilities of
+outcomes at 6 and 12 months were estimated with the Kaplan-Meier method, along with
+medians and 95% confidence intervals. Exploratory biomarker comparisons of survival were
+performed using Log-rank test.
+Results
+Patient characteristics
+Ninety-nine patients, including 34 with primary refractory AML, 35 with secondary AML
+(myelodysplasia- or treatment-related), 22 with aggressive chronic myeloid neoplasms
+(CMML, non-CML MPN) or AML arising out of aggressive chronic myeloid neoplasms,
+and 4 with refractory ALL, were accrued to the trial. As indicated in Table 2, the median
+number of prior therapies was 2 (range 0-4), including prior allogeneic BMT in 16.
+Treatment, toxicities and determination of dose and schedule
+Patients received oral veliparib beginning day 1 and a 5-day continuous infusion of
+topotecan + carboplatin beginning on day 3 after steady state veliparib exposures were
+achieved. Subjects were accrued over 15 dose levels (Table 1). At the lowest dose of
+veliparib, topotecan 1.3 mg/m2 was associated with dose-limiting GI mucositis. The study
+was redesigned with fixed doses of topotecan and carboplatin at 1.2 mg/m2/d and 150
+mg/m2/d, respectively, to allow for veliparib dose escalation. A DLT of oral mucositis was
+identified at 100 mg veliparib twice daily (Table 3). De-escalation of veliparib to 90 mg
+twice a day also was not tolerable due to mucositis in two of four patients. Therefore, the
+MTD was 80 mg veliparib twice daily in combination with CI IV topotecan 1.2 mg/m2/d +
+carboplatin 150 mg/m2/day on days 3-7. At the MTD of 80 mg Veliparib twice daily, dosing
+was lengthened from 8 days to 14 and 21 days without increased toxicity (Dose levels 14
+and 15, Table 1). Accordingly, the recommended phase 2 dose of the combination is
+veliparib 80 mg twice daily for up to 21 days in combination with CI IV topotecan 1.2
+mg/m2/d + carboplatin 150 mg/m2/day on days 3-7.
+Clinical responses
+As summarized in Table 4, 33% of 99 patients achieved objective responses: 14 CR, 11 CRi,
+and 8 PR. These responses were observed across a wide range of dose levels (Table 4).
+Among patients with AML but no history of MPN or CMML, the response rate was 25%
+(19/77). In contrast, 64% (14/22) with aggressive MPN, CMML or related AML responded,
+11 of whom proceeded to allogeneic BMT with engraftment of donor cells (Supplemental
+Table S1). 93/99 (94%) patients were fully followed and died before analyzing the data. The
+median follow-up was 3.1 years among 6 alive patients. OS and RFS analysis of all patients,
+patients treated in the MTD expansion cohorts, and patients with associated MPN or CMML
+treated on any dose level are depicted in Figure 1.
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Pratz et al. Page 7
+The response rate varied depending on the number of prior regimens. All 6 patients without
+prior therapy had aggressive chronic myeloid neoplasms (aggressive CMML or MPN) or
+AML evolving in the setting of these diseases, with 5 responding. This subset was treated at
+or near the MTD of 80 mg veliparib twice daily for ≥14 days. Patients who received 1-4
+prior therapies fared less well, with a response rate of 30% (28/93). Nonetheless, 15 heavily
+pretreated responders were able to proceed to allogeneic BMT (22 total transplanted after
+response).
+The median duration of the response for all patients who achieved a CR, CRi or PR was 7.5
+(95% CI: 5.4-13.1) months. In the subset with aggressive CMML, MPN or AML associated
+with these disorders, the duration of response was 11.5 (95% CI 7.5-NA) months (Figure
+1A). Patients who achieved CR, CRi or PR had a median OS of 15.3 (95% CI: 10.5-23.0)
+months (Figure 1B). In contrast, median OS for patients who did not achieve a response was
+4.2 (95% CI: 3.1-5.3) months (Figure 1B). Importantly, the duration of response and OS of
+patients achieving a CR/CRi or PR closely paralleled each other, consistent with the
+hypothesis that response contributes to the improved survival in responding patients.
+In view of preclinical data suggesting PARP inhibitor hypersensitivity of a subset of
+aggressive chronic myeloid neoplasms (19), we were particularly interested in that group of
+patients. Patients with an antecedent aggressive MPN, CMML or AML in the setting of
+these disorders had a median OS of 13.3 (95% CI: 8.2-33.3) months (Figure 1C). One-year
+RFS was 41% (95% CI: 25-68%) in these patients vs 12% patients without prior MPN or
+CMML. Patients with antecedent aggressive MPN or CMML who had 0-1 prior therapy had
+a median survival of 14.4 months, whereas those with ≥2 prior therapies had a median
+survival of 9.3 months. Patients without an antecedent aggressive MPN or CMML had a
+median survival of 5.1 months. Since all but two responders in the MPN/CMML subset
+underwent allogeneic BMT, survival data were not censored for BMT.
+Enrollment in the two extended dosing cohorts at the MTD (Dose levels 14 and 15, Table 1)
+was limited to patients with antecedent aggressive MPN or CMML (Figure 1D) based on
+preclinical data developed during the clinical study (19). Eight out of 12 patients had a
+clinical response (1 CR, 5CRi, and 2 PR). Median survival of patients treated in these two
+cohorts was 15.8 months vs 5.8 months for patients treated at dose levels 1-13.
+Veliparib pharmacokinetics
+Single and multiple dose veliparib plasma pharmacokinetics were analyzed in 86 patients
+after both single and multiple doses (Table 5). There was large interpatient variability in
+veliparib exposure. There was significant accumulation of veliparib (accumulation index)
+that corresponded with a decrease in both apparent clearance (Cl/F) and volume of
+distribution (V/F) (all P<0.0001). There were no significant differences in dose-normalized
+exposure (C or AUC) or other pharmacokinetic parameters (t , Cl/F, and V/F) across
+max 1/2
+dose levels. Of note, there was a 1.8-fold increase in C and 2.0-fold increase in AUC
+max
+after multiple doses between the MTD (80 mg) and the highest administered dose (100 mg)
+which is suggestive of non-linear pharmacokinetics. The development of mucositis
+correlated with single dose AUC (P=0.02) and multiple dose C (P = 0.04) suggesting a
+max
+exposure-toxicity relationship.
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Pratz et al. Page 8
+Exploratory Correlative Studies
+Pretreatment assessment of FA pathway function—We examined functional
+integrity of the FA pathway, as assessed by FANCD2 monoubiquitination after melphalan
+exposure ex vivo (Supplemental Figure S1A), in pretreatment BM aspirates because i) FA
+pathway defects are reportedly common in AML and ii) loss of FA pathway function is
+associated with enhanced sensitivity to DNA crosslinking agents and PARP inhibitors (41).
+Impaired FANCD2 monoubiquitination was detected in 28/49 samples (57%) and was
+associated with modest prolongation of survival (median 6.1 vs 4.8 months, 1 year OS 39%
+vs 5%, P = 0.0342, Supplemental Figure S1B).
+BRCA1, MGMT and MLH1 promoter methylation was examined in pretreatment samples
+from 11 of 12 patients in the prolonged dosing cohorts (Dose level 14 and 15, Table 1). One
+patient exhibited BRCA1 promoter hypermethylation and achieved a CRi.
+Pretreatment PARP1 and topo I expression—Preclinical studies have demonstrated
+that PARP inhibitor-induced sensitization to topotecan involves conversion of each enzyme
+into an agent that perpetuates DNA damage upon treatment with the respective inhibitors
+(24). This model predicts that samples with higher levels of PARP1 or topo I will be more
+sensitive to the topotecan/veliparib combination. Accordingly, we examined expression of
+PARP1 and topo I by immunoblotting of pretreatment marrow samples from 21 patients
+treated at or above the veliparib MTD of 80 mg twice daily. As shown in Supplemental
+Figure S2, PARP1 and topo I levels varied without clear-cut relationship with each other.
+Although 5 of these 21 patients achieved response, there also was no clear-cut correlation
+with topo I or PARP1 expression.
+Veliparib inhibits PAR formation in circulating and marrow leukemia—PAR
+assays were performed on samples obtained from 75 patients pretreatment and at various
+time points on days 1 and 4 of therapy. At 40 mg veliparib twice daily and above, inhibition
+of PAR formation by >75% was documented in 20 of 21 samples with baseline PAR >100
+pg/107 cells (Supplemental Fig. S3A). Greater suppression of PAR occurred at the higher
+dose levels in both peripheral blood and marrow samples (Supplemental Figs. S3A and
+S3C). PAR suppression at 2 hr post dosing time point on day 1 did not correlate with clinical
+response (Supplemental Fig. S3B).
+Veliparib induces H2AX phosphorylation in circulating CD34+ blasts—
+Activation of the DNA damage response, as measured by H2AX phosphorylation via flow
+cytometry, was assessed in viable CD34+ BM and peripheral blood cells on day 1 at 4 hours
+after an initial veliparib dose of 80 mg and again on day 4 at 24 hours after the initiation of
+the topotecan/carboplatin infusion. As depicted in Supplemental Table S2, H2AX
+phosphorylation increased in CD34+ BM cells by median 2.6-fold (range 0.6-9.7) and
+peripheral blood by median 1.2-fold (median 0.1-19.2) following a single dose of veliparib
+on day 1 relative to pretreatment levels. Similarly, increases in H2AX phosphorylation were
+noted on day 4 in peripheral blood CD34+ cells during the topotecan/carboplatin infusion
+(median 2.2-fold, range 0.5-38). Peripheral blood CD34+ cohorts from patients who
+achieved clinical responses exhibited greater relative increases than CD34+ cohorts from
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Pratz et al. Page 9
+non-responding patients on Day 4 (median 2.6-fold vs. 1.5-fold, P = 0.021 by unpaired t test,
+Supplemental Table S2).
+Discussion
+This study is the first to investigate the combination of PARP inhibitors with cytotoxic
+chemotherapy in acute leukemias in the clinical setting. The present trial demonstrates
+clinical activity of the topotecan/carboplatin/veliparib combination in patients with
+traditionally drug-resistant myeloid malignancies, in particular aggressive MPNs, CMML,
+and their associated acute leukemic phases. The MTD and recommended phase 2 dose of the
+regimen is veliparib 80 mg twice daily in combination with topotecan 1.2 mg/m2/d and
+carboplatin 150 mg/m2/d on days 3-7. Further escalation of veliparib was not tolerated due
+to mucositis, possibly due to non-linear pharmacokinetics at doses greater than 80 mg (Table
+5).
+Because activity was observed in MPN-associated leukemias during dose escalation and we
+also observed antiproliferative effects upon prolonged exposure of primary MPN and
+CMML cells to PARP inhibitors ex vivo (19), we added two cohorts (Dose Levels 14 and
+15) for patients with antecedent MPN or CMML to allow extended duration PARP
+inhibition. Dosing beyond 8 days was well tolerated without impact on adverse events (Table
+3). Combined cohorts of extended veliparib duration (14 and 21 days) had a response rate of
+67% (8/12) and a favorable median survival of 15.8 months. Accordingly, we recommend
+examining an extended duration of PARP inhibitor treatment in any further trials of this
+combination due to the promising clinical activity and lack of added toxicity.
+The 80 mg twice daily MTD for veliparib in this trial is significantly lower than the 400 mg
+twice daily dose administered in veliparib single-agent trials (42). Other studies combining
+veliparib with chemotherapy in solid tumors have noted less than proportional increases in
+veliparib exposure at doses above 120 mg twice daily (43)(44). In contrast, we observed
+greater than proportionate increases in veliparib exposure above 80 mg (Table 5). A potential
+factor contributing to non-linearity in our study may be that renal elimination of veliparib
+was compromised in the presence of carboplatin and topotecan (44, 45). The single dose
+AUC and multiple dose C at the highest veliparib doses correlated with the DLT of
+max
+mucositis (Table 5).
+Based on levels of intracellular PAR, it appears that veliparib-induced PAR suppression may
+be necessary but not sufficient to determine clinical response. Thus, measurement of PAR
+does not appear promising as a predictor of response. On the other hand, the ability of
+veliparib to increase DNA damage both by itself and in combination with topotecan +
+carboplatin could serve as a potential biomarker of response: The increase in H2AX
+phosphorylation in circulating CD34+ cells was roughly 3-fold greater in responders than
+the modest increases seen in nonresponders (median 160% increase vs. 50% increase,
+respectively). On the other hand, the increase in phospho-H2AX after treatment was also
+greater in patients who had received fewer prior treatments. Accordingly, further studies are
+needed to define the potential role of this parameter as an independent predictor of response.
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Pratz et al. Page 10
+Why the therapy-induced damage is greater in responding leukemias also requires further
+investigation but may relate, at least in part, to genetic features of individual leukemias that
+confer differences in DNA damage response and subsequent PARP inhibitor sensitivity (20).
+Preclinical studies demonstrated that many primary human MPN cell populations are
+hypersensitive to the antiproliferative effects of PARP inhibitors (19). In the present study,
+FANCD2 ubiquitination was impaired in >50% of pretreatment leukemia samples and was
+associated with modest improvement in both median and overall survival (Fig. S1). Higher
+pretreatment PARP1 expression, which could result in greater potentiation of damage
+through trapping of PARP1 on the DNA (24), may be another determinant of response (Fig.
+S2) at doses lower than those that inhibit catalytic acitivity (46) but requires further study.
+In summary, the topotecan/carboplatin/veliparib combination appears to have significant
+activity in myeloid malignancies that consist of or arise from aggressive MPNs and CMML.
+In this subset of patients we observed a striking 64% overall response rate and prolonged
+overall survival compared to previous studies (2). While these results reflect observations
+from a heterogeneous group of patients in a phase I study, they nonetheless suggest that this
+regimen warrants further clinical investigation in these disorders. In addition, several of the
+exploratory biomarkers examined here, including FANCD2 ubiquitylation and H2AX
+phosphorylation, warrant further investigation in future trials as well.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+We thank the patients who participated in this study, the nurses and physicians who cared for them, and Rebecca
+Rickliss, Karen Flatten, Kevin Peterson, Yiping Zhang, Paula Schneider and Cathy Huntoon for technical assistance
+with the correlative studies.
+Funding: This work is supported by NIH grants U01 CA070095, UM1 CA186691, U01 CA69912 and UM1
+CA186686. The Analytical Pharmacology Core of the Sidney Kimmel Comprehensive Cancer Center at Johns
+Hopkins was funded by NIH grants P30 CA006973 and UL1 TR 001079. The National Clinical Target validation
+lab was funded by NCI Contract No: HHSN261200800001E.
+References
+1. Kadia TM, Ravandi F, O'Brien S, Cortes J, Kantarjian HM. Progress in Acute Myeloid Leukemia.
+Clin Lymphoma Myeloma Leuk. 2015; 15:139–51. [PubMed: 25441110]
+2. Rampal R, Mascarenhas J. Pathogenesis and management of acute myeloid leukemia that has
+evolved from a myeloproliferative neoplasm. Curr Opin Hematol. 2014; 21:65–71. [PubMed:
+24366192]
+3. Passamonti F, Rumi E, Arcaini L, Castagnola C, Lunghi M, Bernasconi P, et al. Leukemic
+transformation of polycythemia vera. Cancer. 2005; 104:1032–6. [PubMed: 16047334]
+4. Noor SJ, Tan W, Wilding GE, Ford LA, Barcos M, Sait SNJ, et al. Myeloid blastic transformation of
+myeloproliferative neoplasms—A review of 112 cases. Leuk Res. 2011; 35:608–13. [PubMed:
+20727590]
+5. Mesa RA, Li CY, Ketterling RP, Schroeder GS, Knudson RA, Tefferi A. Leukemic transformation in
+myelofibrosis with myeloid metaplasia: a single-institution experience with 91 cases. Blood. 2005;
+105:973–7. [PubMed: 15388582]
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Pratz et al. Page 11
+6. Eghtedar A, Verstovsek S, Estrov Z, Burger J, Cortes J, Bivins C, et al. Phase 2 study of the JAK
+kinase inhibitor ruxolitinib in patients with refractory leukemias, including postmyeloproliferative
+neoplasm acute myeloid leukemia. Blood. 2012; 119:4614–8. [PubMed: 22422826]
+7. Dantzer F, Schreiber V, Niedergang C, Trucco C, Flatter E, De La Rubia G, et al. Involvement of
+poly(ADP-ribose) polymerase in base excision repair. Biochimie. 1999; 81:69–75. [PubMed:
+10214912]
+8. Krishnakumar R, Kraus WL. The PARP side of the nucleus: molecular actions, physiological
+outcomes, and clinical targets. Mol Cell. 2010; 39:8–24. [PubMed: 20603072]
+9. Farmer H, McCabe N, Lord CJ, Tutt AN, Johnson DA, Richardson TB, et al. Targeting the DNA
+repair defect in BRCA mutant cells as a therapeutic strategy. Nature. 2005; 434:917–21. [PubMed:
+15829967]
+10. Bryant HE, Schultz N, Thomas HD, Parker KM, Flower D, Lopez E, et al. Specific killing of
+BRCA2-deficient tumours with inhibitors of poly(ADP-ribose) polymerase. Nature. 2005;
+434:913–7. [PubMed: 15829966]
+11. Rouleau M, Patel A, Hendzel MJ, Kaufmann SH, Poirier GG. PARP inhibition: PARP1 and
+beyond. Nat Rev Cancer. 2010; 10:293–301. [PubMed: 20200537]
+12. Dedes KJ, Wetterskog D, Ashworth A, Kaye SB, Reis-Filho JS. Emerging therapeutic targets in
+endometrial cancer. Nat Rev Clin Oncol. 2011; 8:261–71. [PubMed: 21221135]
+13. Fong PC, Boss DS, Yap TA, Tutt A, Wu P, Mergui-Roelvink M, et al. Inhibition of Poly(ADP-
+Ribose) Polymerase in Tumors from BRCA Mutation Carriers. N Engl J Med. 2009; 361:123–34.
+[PubMed: 19553641]
+14. Audeh MW, Carmichael J, Penson RT, Friedlander M, Powell B, Bell-McGuinn KM, et al. Oral
+poly(ADP-ribose) polymerase inhibitor olaparib in patients with BRCA1 or BRCA2 mutations and
+recurrent ovarian cancer: a proof-of-concept trial. Lancet. 2010; 376:245–51. [PubMed: 20609468]
+15. Scott CL, Swisher EM, Kaufmann SH. Poly (adp-ribose) polymerase inhibitors: recent advances
+and future development. J Clin Oncol. 2015; 33:1397–406. [PubMed: 25779564]
+16. Mateo J, Carreira S, Sandhu S, Miranda S, Mossop H, Perez-Lopez R, et al. DNA-Repair Defects
+and Olaparib in Metastatic Prostate Cancer. N Engl J Med. 2015; 373:1697–708. [PubMed:
+26510020]
+17. Slupianek A, Hoser G, Majsterek I, Bronisz A, Malecki M, Blasiak J, et al. Fusion tyrosine kinases
+induce drug resistance by stimulation of homology-dependent recombination repair, prolongation
+of G(2)/M phase, and protection from apoptosis. Mol Cell Biol. 2002; 22:4189–201. [PubMed:
+12024032]
+18. Valeri A, Alonso-Ferrero ME, Rio P, Pujol MR, Casado JA, Perez L, et al. Bcr/Abl interferes with
+the Fanconi anemia/BRCA pathway: implications in the chromosomal instability of chronic
+myeloid leukemia cells. PLoS One. 2010; 5:e15525. [PubMed: 21203397]
+19. Pratz KW, Koh BD, Patel AG, Flatten KS, Poh W, Herman JG, et al. Poly(ADP-Ribose)
+Polymerase Inhibitor Hypersensitivity in Aggressive Myeloproliferative Neoplasms. Clinical
+Cancer Research. 2016
+20. Esposito MT, Zhao L, Fung TK, Rane JK, Wilson A, Martin N, et al. Synthetic lethal targeting of
+oncogenic transcription factors in acute leukemia by PARP inhibitors. Nat Med. 2015; 21:1481–
+90. [PubMed: 26594843]
+21. Albert JM, Cao C, Kim KW, Willey CD, Geng L, Xiao D, et al. Inhibition of poly(ADP-ribose)
+polymerase enhances cell death and improves tumor growth delay in irradiated lung cancer
+models. Clin Cancer Res. 2007; 13:3033–42. [PubMed: 17505006]
+22. Donawho CK, Luo Y, Luo Y, Penning TD, Bauch JL, Bouska JJ, et al. ABT-888, an orally active
+poly(ADP-ribose) polymerase inhibitor that potentiates DNA-damaging agents in preclinical
+tumor models. Clin Cancer Res. 2007; 13:2728–37. [PubMed: 17473206]
+23. Horton TM, Jenkins G, Pati D, Zhang L, Dolan ME, Ribes-Zamora A, et al. Poly(ADP-ribose)
+polymerase inhibitor ABT-888 potentiates the cytotoxic activity of temozolomide in leukemia
+cells: influence of mismatch repair status and O6-methylguanine-DNA methyltransferase activity.
+Mol Cancer Ther. 2009; 8:2232–42. [PubMed: 19671751]
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Pratz et al. Page 12
+24. Patel AG, Flatten KS, Schneider PA, Dai NT, McDonald JS, Poirier GG, et al. Enhanced killing of
+cancer cells by poly(ADP-ribose) polymerase inhibitors and topoisomerase I inhibitors reflects
+poisoning of both enzymes. J Biol Chem. 2012; 287:4198–210. [PubMed: 22158865]
+25. Hopkins TA, Shi Y, Rodriguez LE, Solomon LR, Donawho CK, DiGiammarino EL, et al.
+Mechanistic Dissection of PARP1 Trapping and the Impact on In Vivo Tolerability and Efficacy of
+PARP Inhibitors. Mol Cancer Res. 2015; 13:1465–77. [PubMed: 26217019]
+26. Kaufmann SH, Karp JE, Letendre L, Kottke TJ, Safgren S, Greer J, et al. Phase I and
+Pharmacologic Study of Infusional Topotecan and Carboplatin in Relapsed and Refractory Acute
+Leukemia. Clin Cancer Res. 2005; 11:6641–9. [PubMed: 16166443]
+27. Litzow MR, Wang XV, Carroll MP, Karp JE, Ketterling R, Kaufmann SH, et al. A Randomized
+Phase II Trial of Three Novel Regimens for Relapsed/Refractory Acute Myeloid Leukemia (AML)
+Demonstrates Encouraging Results with a Flavopiridol-Based Regimen: Results of Eastern
+Cooperative Oncology Group (ECOG) Trial E1906. Blood. 2014; 124:3742.
+28. McDevitt MA, Koh BD, Patel A, Moliterno AR, Poh W, Herman JG, et al. Genetic and Epigenetic
+Defects in DNA Repair Lead to Synthetic Lethality of Poly (ADP-Ribose) Polymerase (PARP)
+Inhibitors in Aggressive Myeloproliferative Disorders. ASH Annual Meeting Abstracts. 2011;
+118:400.
+29. Zeidner JF, Karp JE, Blackford AL, Smith BD, Gojo I, Gore SD, et al. A phase II trial of sequential
+ribonucleotide reductase inhibition in aggressive myeloproliferative neoplasms. Haematologica.
+2014; 99:672–8. [PubMed: 24362550]
+30. Giles FJ, Cooper MA, Silverman L, Karp JE, Lancet JE, Zangari M, et al. Phase II study of
+SU5416--a small-molecule, vascular endothelial growth factor tyrosine-kinase receptor inhibitor--
+in patients with refractory myeloproliferative diseases. Cancer. 2003; 97:1920–8. [PubMed:
+12673719]
+31. Dohner H, Estey EH, Amadori S, Appelbaum FR, Buchner T, Burnett AK, et al. Diagnosis and
+management of acute myeloid leukemia in adults: recommendations from an international expert
+panel, on behalf of the European LeukemiaNet. Blood. 2010; 115:453–74. [PubMed: 19880497]
+32. Cheson BD, Bennett JM, Kopecky KJ, Buchner T, Willman CL, Estey EH, et al. Revised
+recommendations of the International Working Group for Diagnosis, Standardization of Response
+Criteria, Treatment Outcomes, and Reporting Standards for Therapeutic Trials in Acute Myeloid
+Leukemia. J Clin Oncol. 2003; 21:4642–9. [PubMed: 14673054]
+33. Reinhardt S, Zhao M, Mnatsakanyan A, Xu L, Ricklis RM, Chen A, et al. A rapid and sensitive
+method for determination of veliparib (ABT-888), in human plasma, bone marrow cells and
+supernatant by using LC/MS/MS. J Pharm Biomed Anal. 2010; 52:122–8. [PubMed: 20071126]
+34. Gabrielsson J, Weiner D. Non-compartmental analysis. Methods Mol Biol. 2012; 929:377–89.
+[PubMed: 23007438]
+35. Geng L, Huntoon CJ, Karnitz LM. RAD18-mediated ubiquitination of PCNA activates the Fanconi
+anemia DNA repair network. J Cell Biol. 2010; 191:249–57. [PubMed: 20937699]
+36. Veeck J, Ropero S, Setien F, Gonzalez-Suarez E, Osorio A, Benitez J, et al. BRCA1 CpG Island
+Hypermethylation Predicts Sensitivity to Poly(Adenosine Diphosphate)- Ribose Polymerase
+Inhibitors. J Clin Oncol. 2010; 28:e563–e4. [PubMed: 20679605]
+37. Kaufmann SH, Svingen PA, Gore SD, Armstrong DK, Cheng YC, Rowinsky EK. Altered
+Formation of Topotecan-Stabilized Topoisomerase I-DNA Adducts in Human Leukemia Cells.
+Blood. 1997; 89:2098–104. [PubMed: 9058732]
+38. Kaufmann SH. Reutilization of Immunoblots After Chemiluminescent Detection. Analytical
+Biochemistry. 2001; 296:283–6. [PubMed: 11554725]
+39. Ji J, Kinders RJ, Zhang Y, Rubinstein L, Kummar S, Parchment RE, et al. Modeling
+pharmacodynamic response to the poly(ADP-Ribose) polymerase inhibitor ABT-888 in human
+peripheral blood mononuclear cells. PLoS One. 2011; 6:e26152. [PubMed: 22028822]
+40. Redon CE, Nakamura AJ, Sordet O, Dickey JS, Gouliaeva K, Tabb B, et al. gamma-H2AX
+detection in peripheral blood lymphocytes, splenocytes, bone marrow, xenografts, and skin.
+Methods Mol Biol. 2011; 682:249–70. [PubMed: 21057933]
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Pratz et al. Page 13
+41. McCabe N, Turner NC, Lord CJ, Kluzek K, Bialkowska A, Swift S, et al. Deficiency in the repair
+of DNA damage by homologous recombination and sensitivity to poly(ADP-ribose) polymerase
+inhibition. Cancer Res. 2006; 66:8109–15. [PubMed: 16912188]
+42. Coleman RL, Sill MW, Bell-McGuinn K, Aghajanian C, Gray HJ, Tewari KS, et al. A phase II
+evaluation of the potent, highly selective PARP inhibitor veliparib in the treatment of persistent or
+recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer in patients who carry a
+germline BRCA1 or BRCA2 mutation - An NRG Oncology/Gynecologic Oncology Group study.
+Gynecol Oncol. 2015; 137:386–91. [PubMed: 25818403]
+43. Rodler ET, Kurland BF, Griffin M, Gralow JR, Porter P, Yeh RF, et al. Phase I Study of Veliparib
+(ABT-888) Combined with Cisplatin and Vinorelbine in Advanced Triple-Negative Breast Cancer
+and/or BRCA Mutation–Associated Breast Cancer. American Association for Cancer Research.
+2016; 22:2855–64.
+44. Salem AH, Giranda VL, Mostafa NM. Population pharmacokinetic modeling of veliparib
+(ABT-888) in patients with non-hematologic malignancies. Clin Pharmacokinet. 2014; 53:479–88.
+[PubMed: 24452810]
+45. Li J, Kim S, Sha X, Wiegand R, Wu J, LoRusso P. Complex disease-, gene-, and drug-drug
+interactions: impacts of renal function, CYP2D6 phenotype, and OCT2 activity on veliparib
+pharmacokinetics. Clin Cancer Res. 2014; 20:3931–44. [PubMed: 24947923]
+46. Murai J, Huang SY, Das BB, Renaud A, Zhang Y, Doroshow JH, et al. Trapping of PARP1 and
+PARP2 by Clinical PARP Inhibitors. Cancer Res. 2012; 72:5588–99. [PubMed: 23118055]
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Pratz et al. Page 14
+Translational Relevance
+Poly(ADP-ribose) polymerase (PARP) plays multiple roles in DNA damage response
+pathways. Neoplasias associated with defective homologous recombination (e.g.,
+BRCA1, BRCA2, ATM, or Fanconi anemia pathway mutations) are especially sensitive
+to PARP inhibitors. Here we report phase I clinical trial results in patients with relapsed
+acute myeloid leukemia, chronic myelomonocytic leukemia (CMML) or progressive
+myeloproliferative neoplasms (MPNs) treated the PARP inhibitor veliparib in
+combination topotecan and carboplatin. Consistent with recently published preclinical
+findings showing PARP inhibitor hypersensitivity of CMML and MPNs, these disorders
+and leukemias arising from them appear to be particularly sensitive to this combination.
+Predictors of response include pretreatment defects in crosslinking agent-induced
+FANCD2 monoubiquitination and higher treatment-induced histone H2AX
+phosphorylation. These observations support further study of the veliparib/topotecan/
+carboplatin combination in aggressive myeloid disorders with inherent DNA repair
+deficits such as aggressive MPNs, CMML, and AML arising in the setting of these
+disorders.
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Pratz et al. Page 15
+Figure 1.
+A. Survival analysis plotted in Kaplan Meier method for patients treated on study (expansion
+cohort = dose level 11, MPN subgroups includes patients with MPN, CMML or acute
+leukemias in the setting of prior MPN or CMML treated at any dose level). B. Survival
+analysis based on response to therapy. C. Survival analysis of patients with or without
+associated MPN or CMML irrespective of response. D. Survival analysis of patients treated
+with extended duration veliparib (days 1-14 and 1-21 for dose levels 14 and 15,
+respectively). Censored patients who are alive at their last follow-up dates (last follow-up
+dates were on Dec 2015, to Jan 2016). *p-value denoted in the figures was based on log-rank
+test.
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pratz et al. Page 16
+Table 1
+Dose levels and accruals to veliparib in combination with topotecan and carboplatin
+Dose Level Veliparib Dose (p.o. BID) Days 1-8,14 or 21 Topotecan Continuous Carboplatin Continuous Number of
+IV Days 3-7 IV Days 3-7 Patients Accrued
+1 10 mg × 8 d 1.0 mg/m2/day - 3
+2 10 mg × 8 d 1.3 mg/m2/day - 3
+3 10 mg × 8 d 1.3 mg/m2/day 150 mg/m2/day 4
+4 10 mg × 8 d 1.0 mg/m2/day 120 mg/m2/day 6
+5 10 mg × 8 d 1.2 mg/m2/day 120 mg/m2/day 6
+6 10 mg × 8 d 1.2 mg/m2/day 150 mg/m2/day 6
+7 20 mg × 8 d 1.0 mg/m2/day 120 mg/m2/day 6
+8 20 mg × 8 d 1.2 mg/m2/day 120 mg/m2/day 6
+9 20 mg × 8 d 1.2 mg/m2/day 150 mg/m2/day 6
+10 40 mg × 8 d 1.2 mg/m2/day 150 mg/m2/day 6
+11§ 80 mg × 8 d 1.2 mg/m2/day 150 mg/m2/day 26
+12 100 mg × 8 d 1.2 mg/m2/day 150 mg/m2/day 4
+13 90 mg × 8 d 1.2 mg/m2/day 150 mg/m2/day 5
+14 80 mg ×14 d 1.2 mg/m2/day 150 mg/m2/day 6
+15 80 mg × 21 d 1.2 mg/m2/day 150 mg/m2/day 6
+§
+= Expansion cohort
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pratz et al. Page 17
+Table 2
+Patient Characteristics and Outcomes
+Number Responses (%)
+Median Age 56 (25-76) 33/99 (33%)
+Refractory to prior regimen 78 23/78 (29%)
+Primary refractory 34 9/34 (26%)
+Prior regimens 3 (0-4)
+0 Regimens 6 5/6 (83%)
+1 Regimen 38 14/38 (37%)
+2 Regimens 20 6/20 (30%)
+3 Regimens 25 7/25 (28%)
+4 Regimens 10 1/10 (10%)
+Prior allogeneic bone marrow transplant 16 3/16 (19 %)
+Antecedent hematologic disorder in patients with AML 35 17/35 (49%)
+Myeloproliferative neoplasm-associated 22 14/22 (64%)
+Treatment related 10 3/10 (30%)
+MDS associated (non-MPN) 6 1/6 (17%)
+JAK2 mutated MPN 7 5/7(71%)
+Cytogenetics
+Intermediate 48 12/48 (25%)
+Adverse 45 14/45 (31%)
+BRCA1 mutant 3 2/3 (67%)
+BRCA2 mutant 2 2/2 (100%)
+Azacitidine failures 15 6/15 (40%)
+Acute Lymphoblastic Leukemia 4 1/4 (25%)
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pratz et al. Page 18
+3
+elbaT
+leveL
+esoD
+birapileV
+yb
+yticixoT
+)stp4(
+gm
+001
+)stp
+5(
+gm
+09
+)stp
+6(
+syad
+12
+×
+gm
+08
+)stp
+6(
+syad
+41
+×
+gm
+08
+)stp
+62(
+gm
+08
+)stp
+6(
+gm
+04
+)stp
+81(
+gm
+02
+)stp
+82(
+gm
+01
+edarG
+yrogetaC
+citapeH
+1
+0
+0
+0
+0
+1
+3
+3
+3
+niburiliB
+1
+0
+0
+0
+2
+0
+0
+0
+3
+TSA/TLA
+suoitcefnI
+1
+3
+3
+3
+51
+3
+9
+9
+4/3
+aineportueN
+elirbeF
+0
+0
+0
+0
+2
+1
+1
+0
+3
+sitiloC/sitilhpyT
+2
+2
+1
+1
+5
+0
+2
+3
+3
+sitisocuM
+cilobateM
+0
+0
+0
+1
+1
+0
+2
+3
+3
+aimetahpsohpopyH
+1
+1
+0
+0
+6
+1
+2
+6
+3
+aimelakopyH
+1
+0
+0
+1
+1
+0
+2
+0
+4/3
+aimeclacopyH
+0
+0
+0
+0
+2
+1
+1
+0
+3
+eninitaerC
+detavelE caidraC
+0
+0
+0
+0
+1
+0
+1
+0
+3
+noitagnolorP
+cTQ
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pratz et al. Page 19
+Table 4
+Summary of clinical responses to veliparib in combination with topotecan and carboplatin
+Dose Level Clinical Responses/# Pts Clinical Responses in patients with MPN or CMML (aggressive or
+transformed)
+1 1/3 (CRi) 0
+2 1/3 (CR) 0
+3 0/4 0
+4 1/6 (PR)(0/1 aza failure) 0
+5 2/6 (CRi, PR) 0
+6 2/6 (CR, CRi)(1/1 aza failure) 1/1 (CRi)
+7 1/6 (PR) 0/1
+8 2/6 (CR, PR) 0
+9 2/6 (CR, CRi)(1/2 aza failure) 1/1 (1/1 aza failure) CRi
+10 2/6 (2 CR) 0/1 (0/1 aza failure)
+11§ 8/26 (4 CR, 2 CRi, 2 PR)(1/4 aza failure) 3/5 (1/3 aza failure) CRi, 2 PR
+12 3/4 (3 CR) 1/1 (CR)
+13 0/5 (0/1 aza failure) 0
+14 5/6 (CR, 3CRi, PR) (3/3 aza failure) 5/6 (3/3 aza failure) (CR, 3CRi, PR)
+Total 33/99 (14CR, 11 Cri, 8 PR 14/22 (3 CR, 7 Cri, 4 PR
+Aza failure = patients who have been treated and failed to respond to azacitidine based therapy.
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.
+
+--- Page 20 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Pratz et al. Page 20
+5
+elbaT
+nitalpobrac
+dna
+nacetopot
+htiw
+denibmoc
+nehw
+birapilev
+fo
+1sretemarap
+citenikocamrahp
+amsalP
+)L(
+F/V
+)h/L(
+F/lC
+)h( t
+)Lm/h*gµ(
+CUA
+)h(
+t
+)Lm/gn(
+C
+esoD
+elpitluM
+ro
+elgniS
+esoD
+2/1
+uaT
+ro FNI
+xam
+xam
+)32(
+191
+± 522
+)32(
+3.9
+± 7.72
+)32(
+5.3 ± 5.5
+)32(
+402
+± 525
+)72
+;1.8
+- 3.0(
+0.2
+)72(
+0.33
+± 6.47
+elgniS
+gm
+01
+)22(
+1.55
+± 3.231
+)22(
+2.4
+± 1.61
+)22(
+9.1 ± 8.5
+)52(
+012
+± 696
+)52
+;0.4
+- 5.0(
+0.1
+)52(
+2.33
+± 0.701
+elpitluM
+)21(
+07
+± 612
+)21(
+7.7
+± 7.13
+)21(
+1.1 ± 7.4
+)21(
+342
+± 948
+)21;1.4
+- 0.1(
+0.2
+)21(
+6.13
+± 2.201
+elgniS
+gm
+02
+)11(
+14
+± 331
+)11(
+3.4
+± 7.71
+)11(
+8.2 ± 6.5
+)31(
+314
+± 4421
+)31;1.4
+- 5.0(
+0.1
+)31(
+5.54
+± 2.281
+elpitluM
+)5(
+301
+± 122
+)5(
+4.51
+± 4.63
+)5(
+9.0 ± 1.4
+)5(
+625
+± 4741
+)5
+;0.2
+- 5.0(
+0.1
+)5(
+2.821
+± 2.132
+elgniS
+gm
+04
+)4(
+72
+± 131
+)4(
+5.5
+± 5.02
+)4(
+7.0 ± 5.4
+)5(
+2.075
+± 5681
+)5
+;0.4
+- 5.0(
+1.1
+)5(
+6.112
+± 6.363
+elpitluM
+)03(
+35
+± 371
+)03(
+1.7
+± 2.62
+)03(
+4.1 ± 7.4
+)03(
+8721
+± 7504
+)53
+;0.6
+- 3.0(
+1.1
+)53(
+3.062
+± 7.806
+elgniS
+gm
+08
+)62(
+17
+± 131
+)62(
+2.11
+± 2.02
+)62(
+5.1 ± 7.4
+)63(
+0281
+± 7315
+)63
+;0.4
+- 5.0(
+0.1
+)63(
+6.713
+± 8.658
+elpitluM
+)3(
+61
+± 451
+)3(
+2.01
+± 9.53
+)3(
+2.1 ± 2.3
+)3(
+9131
+± 2403
+)3
+;0.4
+- 0.1(
+0.1
+)3(
+6.001
+± 0.905
+elgniS
+gm
+09
+)2(
+8.602
+,1.77
+)2(
+7.93
+,8.51
+)2(
+6.3 ,4.3
+)3(
+9371
+± 6383
+)3
+;1.4
+- 5.0(
+0.1
+)3(
+8.573
+± 0.586
+elpitluM
+)4(
+547
+± 405
+)4(
+6.05
+± 9.44
+)4(
+4.2 ± 9.5
+)4(
+5562
+± 4405
+)4
+;0.1
+- 0.1(
+0.1
+)4(
+5.817
+± 5.3211
+elgniS
+gm
+001
+)3(
+74
+± 27
+)3(
+3.6
+± 9.21
+)3(
+0.1 ± 6.3
+)3(
+6534
+± 80101
+)4
+;0.1
+- 5.0(
+7.0
+)4(
+8.494
+± 8.5151
+elpitluM
+)57(
+70.1
+± 74.1
+)38(
+38.1
+± 88.1
+xednI
+noitalumuccA
+1
+.detroper
+era
+seulav
+lautca
+eht
+,3<n
+fI
+.)n ;egnar(
+naidem
+sa detneserp
+si
+xam T .)n(
+DS
+±
+seulav
+naem
+sa
+elbat
+eht
+ni
+detneserp
+era
+dna
+yllaro
+birapilev
+gniviecer
+stneitap
+morf
+deniatbo
+erew
+ataD
+tnerappa
+F/lC
+;etats-ydaets
+ta
+lavretni
+gnisod
+eht
+gnirud
+evruc
+emit-noitartnecnoc
+amsalp
+eht
+rednu
+aera
+uaTCUA
+;ytinifni
+ot
+evruc
+emit-noitartnecnoc
+amsalp
+eht
+rednu
+aera
+FNICUA
+:snoitaiverbbA
+.noitubirtsid
+fo emulov
+tnerappa
+F/V
+;efil
+flah
+2/1t
+;noitartnecnoc
+kaep
+ot
+emit
+,xamt
+;noitartnecnoc
+amsalp
+kaep
+,xamC
+;ecnaraelc
+cimetsys
+Clin Cancer Res. Author manuscript; available in PMC 2018 February 15.

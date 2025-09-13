@@ -1,0 +1,1383 @@
+Source: 26285766.pdf
+Extracted on: Fri Sep 12 23:56:15 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+Published in final edited form as:
+J Neurooncol. 2015 October ; 125(1): 123–131. doi:10.1007/s11060-015-1876-0.
+Phase I study of iniparib concurrent with monthly or continuous
+temozolomide dosing schedules in patients with newly
+diagnosed malignant gliomas
+Jaishri O. Blakeley, Stuart A. Grossman, Tom Mikkelsen, Myrna R. Rosenfeld, David
+Peereboom, L. Burt Nabors, Andrew S. Chi, Gary Emmons, Ignacio Garcia Ribas, Jeffrey G.
+Supko, Serena Desideri, and Xiaobu Ye on behalf of the Adult Brain Tumor Consortium
+Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Baltimore, MD (J.O.B., S.A.G.,
+X.Y., S.D.); Henry Ford Hospital, Detroit, MI (T.M.); University of Pennsylvania, Philadelphia, PA
+(M.R.R.); Cleveland Clinic, Cleveland, OH (D.P.); Massachusetts General Hospital, Boston, MA
+(A.C. J.G.S.); University of Alabama at Birmingham, Birmingham, AL (L.B.N.); Sanofi (G.E.,
+I.G.R.)
+Abstract
+Background—Iniparib is a prodrug that converts to highly reactive cytotoxic metabolites
+intracellularly with activity in preclinical glioma models. We investigated the maximum tolerated
+dose (MTD) of iniparib with monthly (m) and continuous (c) temozolomide (TMZ) dosing
+schedules in patients with malignant gliomas (MG).
+Methods—Adults with newly diagnosed MG who had successfully completed ≥ 80% of
+radiation (RT) and TMZ without toxicity received mTMZ dosing (150-200 mg/m2 days 1-5/28
+days) or cTMZ dosing (75 mg/m2/d × 6weeks) in conjunction with iniparib (i.v. 2 days/wk) in the
+adjuvant setting. Iniparib was dose escalated using a modified continual reassessment method
+(mCRM).
+Results—43 patients (32 male; 34 GBM, 8 AA, 1 gliosarcoma; median age 54 yrs; median KPS
+90) were enrolled across 4 dose levels. In the mTMZ group, 2/4 patients had dose limiting
+toxicities (DLT) at 19mg/kg/week (rash/hypersensitivity). At 17.2mg/kg/week, 1/9 patients had a
+DLT (grade 3 fatigue). Additional grade 3 toxicities were neutropenia, lymphopenia, and nausea.
+In the cTMZ group, one DLT (thromboembolic event) occurred at 10.2mg/kg/wk. Dose escalation
+stopped at 16mg/kg/week based on mCRM. The mean maximum plasma concentration of iniparib
+increased with dose. Concentration of the two major circulating metabolites, 4-iodo-3-
+aminobenzamide and 4-iodo-3-aminobenzoic acid, was ≤ 5% of the corresponding iniparib
+concentration.
+Conclusions—Iniparib is well tolerated, at doses higher than previously investigated, in
+combination with TMZ after completion of RT + TMZ in patients with MG. Recommended phase
+2 dosing of iniparib based on mCRM is 17.2mg/kg/wk with mTMZ and 16mg/kg/wk with cTMZ.
+Corresponding Author: Jaishri O. Blakeley, MD, 1550 Orleans Street, Suite 1M-16, Baltimore, Maryland 21287, 410-955-8837,
+410-614-9335, Jblakel3@jhmi.edu.
+Conflict of Interest: None
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Blakeley et al. Page 2
+An efficacy study of TMZ/RT + iniparib followed by TMZ + iniparib in newly diagnosed GBM
+using these doses has completed enrollment. Survival assessment is ongoing.
+Keywords
+malignant glioma; newly diagnosed; dose finding; cytotoxic; combination therapy
+Introduction
+The survival advantage demonstrated with the addition of temozolomide (TMZ) to radiation
+therapy (RT) for patients with newly diagnosed glioblastoma (GBM) changed the
+therapeutic landscape by demonstrating that survival can be enhanced with drug strategies
+and identifying the therapeutic target of the O6-methylguanine-DNA methyltransferase
+(MGMT) repair enzyme [1-3]. As a result, intense effort has gone into developing therapies
+that complement RT/TMZ without introducing additive systemic and central nervous system
+(CNS) toxicity.
+Iniparib (4-iodo-3-nitrobenzamide) is a prodrug initially thought to be a poly (ADP-ribose)
+polymerase (PARP) 1 inhibitor [4, 5]. However, an unexpectedly favorable toxicity profile
+and variable activity in cells with mismatch repair defects raised questions about its
+mechanism of action [6, 7]. Ultimately, iniparib was shown to not directly inhibit PARP-1 at
+clinically relevant concentrations [6, 8]. Rather, it appears that it forms non-specific adducts
+with cysteine residues in many proteins, including PARP-1 [8, 9]. Specifically, iniparib is a
+prodrug with a nitro group that is converted to its active metabolite by components in the
+Nrf2-mediated antioxidant response pathway. The metabolite uncouples electron transport
+from oxidative phosphorylation, leading to the production of reactive oxygen species (ROS)
+at cytotoxic levels and to the binding to cysteine residues on enzymes critical for REDOX,
+including thioredoxin reductase (TrxR) [9, 10].
+In glioma cell lines and human glioma xenografts, iniparib potentiates the cell cycle effects
+of both RT and TMZ resulting in complete tumor regression in 70% of animals [5].
+Importantly, there is evidence that iniparib accesses the CNS based on human cerebrospinal
+fluid samples and brain tissue concentrations [5, 11]. This data paired with the observation
+that iniparib (alone or in combination with various cytotoxic drugs) is well tolerated in
+patients with other solid tumors raised interest in iniparib as a strategy to enhance the
+efficacy of RT/TMZ in patients with GBM.
+The primary objectives of this study were to estimate the maximum tolerated dose (MTD)
+and describe the safety profile of iniparib given in combination with two dosing schedules of
+TMZ (monthly high dose versus continuous low dose) in order to simulate the dosages of
+TMZ that iniparib would be given with if advanced to an efficacy study in patients with
+newly diagnosed GBM [1]. In order to avoid potential confounding toxicity from RT in
+combination with iniparib and TMZ, the dose escalation of iniparib was assessed in the
+adjuvant setting in patients with newly diagnosed MG who had successfully completed RT/
+TMZ.
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Blakeley et al. Page 3
+Patients and methods
+This study was sponsored by the Cancer Therapy Evaluation Program (CTEP) of the
+National Cancer Institute (NCI) and conducted by the Adult Brain Tumor Consortium
+(ABTC). The protocol was approved by the institutional review board of each participating
+institution. All patients provided written informed consent as a condition for participating in
+the study. Patients eligible for enrollment met the following criteria: ≥18 years old,
+histologically proven newly diagnosed MG (AA, AO, GBM), completion of ≥80% of
+prescribed RT/TMZ without grade 3 or 4 toxicity. Additional enrollment requirements
+included: absolute neutrophil count ≥1,500/μL; platelet count ≥100,000/μL; serum
+creatinine≤1.7-mg/dL; total bilirubin ≤1.5-mg/dL; aspartate and alanine aminotransferase ≤4
+times the upper limit of normal; stable dexamethasone dose for ≥5 days prior to enrollment;
+Karnofsky Performance Status (KPS) ≥ 60%; and a Mini Mental State Examination
+(MMSE) score ≥15. Exclusion criteria included: enzyme inducing antiepileptic medications;
+malignancy within 5 years; pregnant or nursing women; serious concurrent medical
+condition or other condition that would compromise safety or compliance. Agreement to
+practice adequate birth control methods was required.
+Treatment Plan
+This was an open-label, multi-center, study to estimate the MTD of iniparib administered in
+combination with two different dosing schedules of TMZ: monthly dose TMZ (mTMZ) and
+continuous TMZ (cTMZ) in patients with newly diagnosed MG. Both dosing schedules were
+started in the adjuvant setting after patients had completed standard concurrent RT/TMZ.
+Patients were assigned to cTMZ or mTMZ by sequential allocation. Patients in the mTMZ
+group were prescribed TMZ 150 mg/m2 in cycle 1 and 200 mg/m2 in cycles 2-6 on days 1-5
+of each of six 4-week cycles. Patients in the cTMZ group were given oral TMZ 75 mg/m2
+daily for 6 weeks of each of three 10-week cycles. Iniparib plus TMZ was started 28-49 days
+after completion of RT/TMZ.
+Iniparib was provided by Sanofi Pharmaceuticals, Inc. (Cambridge, MA) and administered
+intravenously (IV) on two consecutive days weekly (weeks 1-4 with mTMZ or weeks 1-6
+with cTMZ) beginning with day 1 of TMZ. The starting dose was 5.1 mg/kg based upon
+prior solid tumor trials [12-14]. If a patient had to stop one drug for any reason, they stopped
+both. The use of antiemetics and pneumocystis jirovecii prophylaxis was at the discretion of
+the treating physician.
+Evaluations
+Baseline evaluations included brain magnetic resonance imaging (MRI), medical history and
+examination; MMSE; KPS; complete blood count (CBC); serum chemistry profile; and
+pregnancy test when appropriate. After initiating treatment, CBC and adverse event (AE)
+reports were obtained weekly; vital signs and serum chemistries were obtained before each
+cycle. Brain MRI, clinical examination, and KPS were repeated every other cycle.
+For patients without tumor progression or toxicity, treatment with iniparib and TMZ were
+continued for a total of 6 cycles (mTMZ group) or 3 cycles (cTMZ group). Progression was
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Blakeley et al. Page 4
+defined as: (1) greater than 25% increase in tumor on MRI with deteriorating neurologic
+status on a stable or increasing dose of steroids, (2) new lesion on MRI, (3) worsening
+neurologic function not explained by non-tumor causes (e.g. seizure, drugs, laboratory
+abnormalities, or confirmed treatment effect) [15]. Patients stopped treatment in the setting
+of progression, toxicity, noncompliance, or if the patient chose to discontinue treatment for
+any reason. Time to progression data was collected for the duration of treatment (6 months).
+All patients were followed for survival calculated from the date of diagnosis until death from
+any cause.
+Dose Escalation
+A modified continual reassessment method (mCRM) was used to estimate the MTD [16-18].
+Five patients were treated at each dose level. Evaluation of toxicity for dose escalation was
+performed when 3/5 patients completed the observation window. Dose escalation proceeded
+until ≥33% DLT rate. The maximum increase in the dose was limited to 50% of the prior
+dose level. The MTD was defined when two recommended doses based on mCRM were
+within 10% of one another. An additional five patients in each group were entered at the
+putative MTD to confirm DLT rate.
+AEs were recorded using the Common Terminology Criteria for Adverse Events (CTCAE)
+version 4.0. DLTs were defined as grade 3-4 non-hematological toxicities (excluding nausea/
+vomiting without antiemetic prophylaxis; grade ≤ 3 radionecrosis; and ≤ 3 neurologic
+toxicity responding to steroids, anticonvulsants, or electrolyte correction) and hematologic
+toxicities including: (a) ANC ≤ 500/mm3, (b) Platelets ≤ 25,000/mm3; (c) WBC < 1000/
+mm3. Any drug-associated toxicity that prevented administration of ≥ 80% of the planned
+TMZ and iniparib doses for the first cycle was also a DLT. Patients were taken off of
+treatment if they had a DLT that caused a delay in treatment of ≥ 21 days in the mTMZ
+group or ≥ 7 days in the cTMZ.
+The AE observation window was two treatment cycles (56 days) for mTMZ patients and 10
+weeks for the cTMZ group. All patients who had one dose of iniparib were evaluable for
+DLT. After completion of the observation window, all data was modeled with a logistic dose
+response function based on DLT to calculate the dose associated with a toxicity rate ≤33%.
+Dose reductions were permitted for iniparib and mTMZ in the setting of a DLT. A total of
+two dose reductions of iniparib were permitted before off-treatment. For patients in the
+mTMZ group, TMZ dose reductions to a minimum of 100mg/m2 were permitted for > grade
+2 non-hematological toxicity or platelets < 50,000/μL (50.0 × 10 9/L), ANC < 1000/μL (1.0 ×
+109/L) or WBC < 2000/μL (2.0 × 10 9/L) related to TMZ in the prior cycle. No dose
+reductions were allowed in the cTMZ group. DLTs were assigned as possibly, probably or
+definitely related to iniparib and/or TMZ.
+Pharmacokinetic Studies
+Maximum concentration (C ) of iniparib and its two major circulating metabolites, 4-
+max
+iodo-3-aminobenzamide (IABM) and 4-iodo-3-aminobenzoic acid (IABA) were assessed in
+plasma samples obtained before dosing and within 5 min of infusion end for the first two
+and last doses of cycle 1 and the first and last dose of cycle 2. This timing was selected as
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Blakeley et al. Page 5
+prior human pharmacokinetic studies revealed that iniparib is cleared from plasma rapidly
+with a biological half-life of roughly 10-20 min (unpublished observations courtesy of
+Sanofi). Hence, pharmacokinetic sampling was designed to assess the C of iniparib and
+max
+its major markers of circulating metabolites (IABM and IABA) at the end of the infusion to
+indirectly assess prodrug activation.
+At each sample time, peripheral venous blood (7 mL) was collected in potassium EDTA
+tubes and promptly chilled in wet ice until centrifuged (within 30 min). The plasma was
+removed and stored at -70°C until analyzed by high performance liquid chromatography
+with tandem mass spectrometry by Intertek Analytical Services (El Dorado Hills, CA). The
+lower limit of quantitation of the analytical method was 1.0 ng/mL for iniparib and 0.40
+ng/mL for IABM and IABA. Acceptability criteria for study samples were: (1) the i.v.
+infusion of iniparib was completed within 60 ± 5 min; and (2) samples were collected within
+± 5 min of infusion end. Geometric means were calculated from all peak concentrations of
+the three analytes that satisfied the acceptability criteria at each dose level, with the SD
+estimated by the jackknife technique.
+Statistical Considerations
+The primary objective of this study was to define the MTD of iniparib given concurrently
+with two dosing regimens of TMZ (cTMZ and mTMZ) in patients with newly diagnosed
+MG who had completed RT + TMZ. Dose escalation was determined based on the mCRM
+[17]. The mCRM is a model base approach for dose finding with a pre-specified logistic
+dose-toxicity relationship and a pre-defined probability of DLT. The MTD was estimated at
+a target DLT rate of 33%. The study also was designed to assess the overall safety of the
+treatment, to describe the pharmacokinetics of iniparib in combination with TMZ, and to
+estimate overall survival. Descriptive statistics were used to summarize patient
+characteristics, toxicity data, and the pharmacokinetic outcomes. Survival probability was
+estimated using the Kaplan-Meier method [19]. The confidence interval of median survival
+time was constructed by the method of Brookmeyer-Crowley [20]. All analyses were
+conducted using the SAS software (version 9.2, SAS Institute).
+Results
+Patient Characteristics
+Forty-three patients were enrolled between 7/2008 and 11/2010 across 12 centers. All
+patients had undergone surgery and completed RT/TMZ per the EORTC protocol with >80%
+of the prescribed doses completed as per enrollment criteria and full recovery from any
+hematologic toxicity [1]. The median age was 54 years (range 20-74) and the median KPS
+90 (range 70-100). A total of 23 patients were enrolled into the mTMZ group and 20 patients
+into the cTMZ group. The patient characteristics were similar between groups (Table 1).
+Toxicity
+Overall rates of AE were low with the most common AE across all patients being fatigue
+and low blood counts (Table 2). In the mTMZ group (Table 3), there were no grade 4
+toxicities, but 2 of 4 patients (50%) treated at 9.5mg/kg (19mg/kg weekly dose) developed
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Blakeley et al. Page 6
+DLTs including grade 3 rash and grade 3 hypersensitivity. At 8.6mg/kg (17.2mg/kg weekly)
+1/9 patients (11%) had a DLT (grade 3 fatigue) confirming 17.2mg/kg weekly as the MTD
+for iniparib given concurrently with mTMZ. Other toxicities attributed as at least possibly
+related to iniparib across all dose levels in the mTMZ group included grade 3 elevation of
+alanine aminotransferase (1), hyperkalemia (1), neutropenia (1), leukopenia (1) and
+thrombocytopenia (1) (Table 3). Three patients (13%) came off of treatment and 5 (22%)
+required treatment delay due to toxicity in the mTMZ group.
+In the cTMZ group, there was one thromboembolic event that met DLT criteria at
+10.2mg/kg/wk reported as possibly related to iniparib. There were otherwise only 2 grade 3
+events related as ≥ possible to iniparib: lymphopenia at 12.2 mg/kg weekly and nausea at 16
+mg/kg weekly (Table 4). One patient had grade 4 leukopenia at the 16 mg/kg/wk, unlikely
+related to iniparib. Interestingly, like the patients in the mTMZ group, there were two
+patients with rash at the 16 mg/kg weekly dose, but only at grade 2 severity. Although only
+one patient came off drug for toxicity in the cTMZ group across all iniparib dose levels, 10
+patients (50%) required treatment delays due to toxicity. Based on the mCRM results, the
+final recommended efficacy doses were iniparib 17.2mg/kg/week when given in
+combination with mTMZ and 16mg/kg/week when given in combination with cTMZ.
+Five of the 43 patients (12%) underwent surgery within 30 days of protocol treatment for a
+question of psuedoprogression. Of these, 2 patients had active malignant glioma, 2 had
+mixed treatment effect and glioma and 1 had pure treatment effect. No patients resumed
+treatment after surgery.
+Pharmacokinetics
+With very few exceptions, iniparib and the two assayed metabolites were undetectable in
+plasma samples collected shortly before starting the infusions subsequent to the initial dose.
+The extent of data from samples satisfying the acceptability criteria did not permit
+meaningful statistical comparisons of mean C values between different infusions in
+max
+patients receiving the same dose or the cTMZ and mTMZ groups. However, visual data
+inspection revealed no obvious indications of a trend in the C of iniparib or the two
+max
+metabolites for the series of infusions given within each dose level or between groups.
+Overall mean values of the C of iniparib and the two metabolites in plasma at each dose
+max
+level are presented in Table 5. The mean (±SD) C of iniparib achieved in patients was
+max
+1,517 ± 987 ng/mL. The relative concentrations of the two metabolites in plasma were
+independent of the iniparib dose and their combined concentrations were less than 5% of the
+corresponding concentration of the parent compound.
+Clinical Outcome
+Seven patients (30%) in the mTMZ group and 8 patients (40%) in the cTMZ had tumor
+progression on treatment. In these patients, the median time to progression (TTP) for the
+mTMZ group was 3 months (range 2-5 months) from protocol start and 7 months (range
+5-11 months) from diagnosis. The median TTP for the cTMZ group was similarly 3 months
+(range 2-4 months) from protocol start and 6 months (range 5-8 months) from diagnosis.
+Eleven of 23 patients (48%) in the mTMZ group completed all 6 cycles without progression.
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Blakeley et al. Page 7
+Eight of 20 (40%) patients in the cTMZ group completed treatment without progression.
+Five patients withdrew consent after enrollment.
+Seven of the 43 patients enrolled (16%) are alive an average of 60 months from the start of
+protocol treatment and 65 months from diagnosis. The estimated median OS calculated from
+date of diagnosis across all 43 patients enrolled is 18.9 months (95% CI: 16.2-23.4 months,
+Figure 1).
+Discussion
+Iniparib had a favorable tolerability and safety profile when combined with both mTMZ and
+cTMZ dosing schedules given in the adjuvant setting in patients with newly diagnosed MG
+who had completed standard RT/TMZ. These two dosing regimens were assessed as they
+comprise the standard TMZ “backbone” for patients with newly diagnosed GBM, with
+cTMZ being given concurrently with RT and mTMZ given in the adjuvant setting. Notably,
+the mCRM resulted in higher recommended doses (17.2mg/kg and 16mg/kg per week) than
+tested in prior solid tumor trials (8-11.2mg/kg/wk) [12-14]. Further, the pharmacokinetic
+data indicate that at the doses identified in this study, the peak plasma Cmax (5.2 μM/L for
+17.2mg/kg/wk and 12.0 μM/L for 16mg/kg/wk) are within the range of IC for iniparib
+50
+across a variety of cell lines (3.5-114μM), including the glioma U251 line [ 5].
+Unfortunately, we could not assess intratumoral concentrations of iniparib as it is adhesive to
+microdialysis tubing making recovery unreliable and is not well suited for clinical brain
+tissue sampling based on its known pharmacokinetic profile. However, the results of this
+dose finding study indicate that iniparib is well tolerated at doses that have a reasonable
+likelihood of efficacy based on pharmacokinetics and in combination with full dose TMZ.
+A concern at study initiation had been the risk of exaggerated hematologic toxicity or brain
+injury in patients with glioma status-post RT/TMZ when iniparib was given in conjunction
+with adjuvant TMZ given iniparib's mechanism of action. Although 53% of patients had a
+hematologic toxicity of any grade or relationship to iniparib, only four patients (9%) had a
+grade 3 hematologic toxicity. The majority of hematologic toxicities were ≤grade 2 and
+related to TMZ, with the mTMZ group having slightly more hematologic events (67) than
+the cTMZ group (44). These rates are similar to other studies in which either mTMZ or
+cTMZ were given as monotherapy in patients with MG [1, 21-23]. Hence, iniparib did not
+appear to influence the tolerability of either mTMZ or cTMZ with overall similar safety and
+tolerability seen across these dosing regimens. Regarding the concern about brain injury
+hypothesized to occur due to enhanced effects of alkylating therapy with iniparib and TMZ,
+only 5 (12%) patients had surgery within 30 days of study drug and of these only 1 patient
+had pure treatment effect. There was no pathological evidence of radionecrosis and no AE
+reported consistent with brain injury. Hence, there was no evidence of a high frequency of
+treatment related brain injury related to iniparib and TMZ.
+Finally, although this study was not designed to assess efficacy endpoints based on the study
+population consisting of newly diagnosed patients with a variety of histologies, treated at
+two different dosing schedules of TMZ and various doses of iniparib in this dose finding
+study, the survival data is provocative with a median OS of 19 months (95% CI: 16.2-23.4
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Blakeley et al. Page 8
+months) across all patients. In addition, although we did not include response rate as an
+endpoint, the 6 month PFS was 48% for mTMZ and 40% for cTMZ. In addition, as of
+March 2015, the target number of deaths to trigger analysis for the phase 2 efficacy study
+(opened December 2012) has not occurred, suggesting a possible survival benefit. This data
+must be interpreted with caution as several prognostic factors are not known (e.g. MGMT,
+IDH1/2 status and subsequent therapies) for the patients in this study. Moreover, the median
+KPS across all patients was 90 and the study design selected for patients that were clinically
+well enough to meet enrollment criteria after completion of standard RT/TMZ. Both of these
+factors may result in a prognostic advantage. However, the tolerability and hints of efficacy
+are encouraging. The phase 2 study for patients with newly diagnosed GBM using iniparib
+16mg/kg/week added to RT and TMZ and iniparib 17.2mg/kg/week added to adjuvant
+mTMZ for 6 months with a primary endpoint of OS has completed enrollment and the
+results are expected in the near future.
+Acknowledgments
+The authors thank Susan Passwaters for assistance with administrative management of the manuscript; Joy Fisher
+for assistance with data collection oversight on behalf of the Adult Brain Tumor Consortium and the team at Cancer
+Therapy Evaluation Program for their oversight and collaboration through the Adult Brain Tumor Consortium.
+Funding: National Institutes of Health (U01 CA-62475 to S.G., U01 CA-137443 to S.G.); Sanofi Pharmaceuticals,
+Inc.
+References
+1. Stupp R, Mason WP, van den Bent MJ, Weller M, Fisher B, Taphoorn MJ, Belanger K, Brandes AA,
+Marosi C, Bogdahn U, et al. Radiotherapy plus concomitant and adjuvant temozolomide for
+glioblastoma. N Engl J Med. 2005; 352:987–996.10.1056/NEJMoa043330 [PubMed: 15758009]
+2. Hegi ME, Liu L, Herman JG, Stupp R, Wick W, Weller M, Mehta MP, Gilbert MR. Correlation of
+O6-methylguanine methyltransferase (MGMT) promoter methylation with clinical outcomes in
+glioblastoma and clinical strategies to modulate MGMT activity. J Clin Oncol. 2008; 26:4189–
+4199.10.1200/JCO.2007.11.5964 [PubMed: 18757334]
+3. Hegi ME, Diserens AC, Gorlia T, Hamou MF, de Tribolet N, Weller M, Kros JM, Hainfellner JA,
+Mason W, Mariani L, et al. MGMT gene silencing and benefit from temozolomide in glioblastoma.
+N Engl J Med. 2005; 352:997–1003.10.1056/NEJMoa043331 [PubMed: 15758010]
+4. Ossovskaya V, Lim C, Schools G, Kalurupalle S, Roninson I, Broude E. The chemosensitizing
+properties of iniparib in combination with DNA-damaging agents in the MDA-MB -468(–) triple-
+negative breast cancer (TNBC) cell line. AACR Annual Meeting. 2011 Abstract LB-401.
+5. BiPar Sciences personal communication. BSI-201 Investigator's Brochure. 2011
+6. Patel AG, De Lorenzo SB, Flatten KS, Poirier GG, Kaufmann SH. Failure of iniparib to inhibit
+poly(ADP-Ribose) polymerase in vitro. Clin Cancer Res. 2012; 18:1655–
+1662.10.1158/1078-0432.CCR-11-2890 [PubMed: 22291137]
+7. Mahany JJ, Lewis N, Heath EI, LoRusso PM, Mita MM, Rodon J, Tolcher AW, Sherman BM,
+Bradley CR, Papadopoulos KP. A phase IB study evaluating BSI-201 in combination with
+chemotherapy in subjects with advanced solid tumors. J Clin Oncol. 2008; 26
+8. Liu X, Shi Y, Maag DX, Palma JP, Patterson MJ, Ellis PA, Surber BW, Ready DB, Soni NB, Ladror
+US, et al. Iniparib nonselectively modifies cysteine-containing proteins in tumor cells and is not a
+bona fide PARP inhibitor. Clin Cancer Res. 2012; 18:510–523.10.1158/1078-0432.CCR-11-1973
+[PubMed: 22128301]
+9. Mendeleyev J, Kirsten E, Hakam A, Buki KG, Kun E. Potential chemotherapeutic activity of 4-
+iodo-3-nitrobenzamide. Metabolic reduction to the 3-nitroso derivative and induction of cell death in
+tumor cells in culture. Biochem Pharmacol. 1995; 50:705–714. [PubMed: 7669074]
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Blakeley et al. Page 9
+10. Licht, S.; Cao, H.; Li, Z.; Zhang, J.; Liu, F.; Brittain, S.; Shen, J.; Zhang, B.; Hopke, J.;
+Newcombe, R., et al. Mechanism of action of iniparib: Stimulation of reactive oxygen species
+(ROS) production in an iniparib-sensitive breast cancer cell line. American Association for Cancer
+Research; San Francisco, CA: 2011. nrA226
+11. Castro M, Li L, Stallings TE. Pharmacokinetics of BSI-201, a poly (ADP-ribose) polymerase-1
+(PARP1) inhibitor, in cerebrospinal fluid (CSF) of a patient with breast cancer with carcinomatous
+meningitis. 2010. Journal of Clinical Oncology. 2010; 15_suppl(May 20 Supplement):e13559.
+12. O'Shaughnessy J, Osborne C, Pippen JE, Yoffe M, Patt D, Rocha C, Koo IC, Sherman BM,
+Bradley C. Iniparib plus chemotherapy in metastatic triple-negative breast cancer. N Engl J Med.
+2011; 364:205–214.10.1056/NEJMoa1011418 [PubMed: 21208101]
+13. Novello S, Besse B, Felip E, Barlesi F, Mazieres J, Zalcman G, von Pawel J, Reck M, Cappuzzo F,
+Ferry D, et al. A phase II randomized study evaluating the addition of iniparib to gemcitabine plus
+cisplatin as first-line therapy for metastatic non-small-cell lung cancer. Ann Oncol. 2014;
+25:2156–2162. doi:0.1093/annonc/mdu384[doi]. [PubMed: 25139550]
+14. Aghajanian C, Sill MW, Secord AA, Powell MA, Steinhoff M. Iniparib plus paclitaxel and
+carboplatin as initial treatment of advanced or recurrent uterine carcinosarcoma: a Gynecologic
+Oncology Group Study. Gynecol Oncol. 2012; 126:424–427.10.1016/j.ygyno.2012.05.024[doi]
+[PubMed: 22634397]
+15. Wen PY, Macdonald DR, Reardon DA, Cloughesy TF, Sorensen AG, Galanis E, Degroot J, Wick
+W, Gilbert MR, Lassman AB, et al. Updated response assessment criteria for high-grade gliomas:
+response assessment in neuro-oncology working group. J Clin Oncol. 2010; 28:1963–
+1972.10.1200/JCO.2009.26.3541 [PubMed: 20231676]
+16. Grossman SA, Carson KA, Phuphanich S, Batchelor T, Peereboom D, Nabors LB, Lesser G,
+Hausheer F, Supko JG. New Approaches to Brain Tumor Therapy CNS Consortium. Phase I and
+pharmacokinetic study of karenitecin in patients with recurrent malignant gliomas. Neuro Oncol.
+2008; 10:608–616.10.1215/15228517-2008-030;10.1215/15228517-2008-030 [PubMed:
+18577560]
+17. Piantadosi S, Fisher JD, Grossman S. Practical implementation of a modified continual
+reassessment method for dose-finding trials. Cancer Chemother Pharmacol. 1998; 41:429–436.
+[PubMed: 9554585]
+18. Piantadosi, S. Clinical Trials: A Methodologic Perspective. Second. John Wiley & Sons, Inc; New
+York: 2005.
+19. Kaplan EL, Meier P. Nonparametric estimation from incomplete observations. J Amer Statist Assn.
+1958; 53:457–481.
+20. Brookmeyer R, Crowley JA. Confidence Interval for the Median Survival Time. Biometrics. 1982;
+38(1):29–41.
+21. Gilbert MR, Wang M, Aldape KD, Stupp R, Hegi ME, Jaeckle KA, Armstrong TS, Wefel JS, Won
+M, Blumenthal DT, et al. Dose-dense temozolomide for newly diagnosed glioblastoma: a
+randomized phase III clinical trial. J Clin Oncol. 2013; 31:4085–4091.10.1200/JCO.
+2013.49.6968[doi] [PubMed: 24101040]
+22. Brada M, Hoang-Xuan K, Rampling R, Dietrich PY, Dirix LY, Macdonald D, Heimans JJ,
+Zonnenberg BA, Bravo-Marques JM, Henriksson R, et al. Multicenter phase II trial of
+temozolomide in patients with glioblastoma multiforme at first relapse. Ann Oncol. 2001; 12:259–
+266. [PubMed: 11300335]
+23. Yung WK, Albright RE, Olson J, Fredericks R, Fink K, Prados MD, Brada M, Spence A, Hohl RJ,
+Shapiro W, et al. A phase II study of temozolomide vs. procarbazine in patients with glioblastoma
+multiforme at first relapse. Br J Cancer. 2000; 83:588–593.10.1054/bjoc.2000.1316[doi] [PubMed:
+10944597]
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Blakeley et al. Page 10
+Table 1
+Patient characteristics
+mTMZ cTMZ Total
+1-4 weeks 1-6 weeks N=43
+N=23 N=20
+Age – year
+Median 55 50 54
+Range 40--73 19--72 19—73
+Gender – no. (%)
+Male 18 (78) 14 (70) 32 (74)
+Female 5 (22) 6 (30) 11 (26)
+Karnofsky Performance Status
+Median 90 90 90
+Range 70-100 70-100 70-100
+Mini Mental Score
+Median 29 29 29
+Range 16-30 20-30 16-30
+Anticonvulsant - no. (%)
+Yes 18 (79) 14 (70) 32 (74)
+No 5 (21) 6 (30) 11 (26)
+Diagnosis - no. (%)
+GBM (IV) 18 (78) 16 (80) 34 (79)
+AA (III) 5 (22) 3 (15) 8 (19)
+Gliosarcoma (IV) 1 (5) 1 (2)
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+
+--- Page 11 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Blakeley et al. Page 11
+Table 2
+All adverse events with relationship of possible, or probable, or definite to iniparib (No. of
+pts had the type of AE >=5)
+Adverse Event mTMZ cTMZ Total
+N=23 N=20 N=43
+No. (% of pts) No. (% of pts) No. (% of pts)
+ALT 6 (30) 6 (14)
+Anemia 13 (57) 11 (55) 24 (56)
+Constipation 9 (39) 7 (35) 16 (37)
+Dizziness 5 (22) 5 (12)
+Fatigue 15 (65) 13 (65) 28 (65)
+Nausea 9 (39) 9 (45) 18 (42)
+Rash maculo-papular 5 (22) 5 (12)
+Platelet decreased 15 (65) 6 (30) 21 (49)
+White blood cell count decreased 11 (48) 17 (85) 28 (65)
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+
+--- Page 12 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Blakeley et al. Page 12
+3
+elbaT
+birapini
+dna
+gnisod
+)ZMTm(
+edimolozomet
+ylhtnom
+gniviecer
+stneitap
+rof
+stneve
+esrevda
+llA
+latoT
+4
+edarG
+3
+edarG
+2 edarG
+1 edarG
+tnevE
+esrevdA
+.oN
+.oN
+.oN
+.oN
+.oN
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)31(
+3
+)4(
+1
+)9(
+2
+TLA
+)4(
+1
+)4(
+1
+esatahpsohp
+enilaklA
+)4(
+1
+)4(
+1
+noitcaer
+cigrellA
+)75(
+31
+)4(
+1
+)25(
+21
+aimenA
+)9(
+2
+)9(
+2
+aixeronA
+)4(
+1
+)4(
+1
+aiglarhtrA
+)31(
+3
+)31(
+3
+TSA
+)4(
+1
+)4(
+1
+desaercni
+niburilib
+doolB
+)4(
+1
+)4(
+1
+sllihC
+)4(
+1
+)4(
+1
+noisufnoC
+)93(
+9
+)4(
+1
+)53(
+8
+noitapitsnoC
+)4(
+1
+)4(
+1
+eninitaerc
+mures
+detavelE
+)4(
+1
+)4(
+1
+noisserpeD
+)4(
+1
+)4(
+1
+aehrraiD
+)22(
+5
+)22(
+5
+ssenizziD
+)4(
+1
+)4(
+1
+niks
+yrD
+)56(
+51
+)4(
+1
+)71(
+4
+)34(
+01
+eugitaF
+)9(
+2
+)9(
+2
+ehcadaeH
+)71(
+4
+)71(
+4
+aimecylgrepyH
+)4(
+1
+)4(
+1
+aimelakrepyH
+)4(
+1
+)4(
+1
+noisnetrepyH
+)9(
+2
+)9(
+2
+aimenimublaopyH
+)31(
+3
+)31(
+3
+aimeclacopyH
+)4(
+1
+)4(
+1
+aimelakopyH
+)31(
+3
+)9(
+2
+)4(
+1
+noitcaer
+etis
+noitcejnI
+)93(
+9
+)93(
+9
+aesuaN
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+
+--- Page 13 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Blakeley et al. Page 13
+latoT
+4
+edarG
+3
+edarG
+2
+edarG
+1 edarG
+tnevE
+esrevdA
+.oN
+.oN
+.oN
+.oN
+.oN
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)4(
+1
+)4(
+1
+desaerced
+tnuoc
+lihportueN
+)9(
+2
+)8.0(
+1
+)4(
+1
+niaP
+)56(
+51
+)4(
+1
+)31(
+3
+)84(
+11
+desaerced
+teletalP
+)4(
+1
+)4(
+1
+sutirurP
+)4(
+1
+)4(
+1
+arupruP
+)62(
+6
+)4(
+1
+)31(
+3
+)9(
+2
+ralupap-olucam
+hsaR
+)4(
+1
+)4(
+1
+airacitrU
+)4(
+1
+)4(
+1
+yrujni
+suoneV
+)71(
+4
+)71(
+4
+gnitimoV
+)65(
+31
+)8(
+2
+)31(
+3
+)53(
+8
+desaerced
+tnuoc
+llec
+doolb
+etihW
+)TLD
+rof
+airetirc
+tem
+setacidni
+dloB(
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+
+--- Page 14 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Blakeley et al. Page 14
+4
+elbaT
+birapini
+dna
+gnisod
+)ZMTc(
+edimolozomet
+suounitnoc
+gniviecer
+stneitap
+rof
+stneve
+esrevda
+llA
+latoT
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+tnevE
+esrevdA
+.oN
+.oN
+.oN
+.oN
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)03(6
+)03(
+6
+TLA
+)5(
+1
+)5(
+1
+esatahpsohp
+enilaklA
+)55(
+11
+)5(
+1
+)5(
+1
+)54(
+9
+aimenA
+)51(
+3
+)5(
+1
+)01(
+2
+aixeronA
+)01(
+2
+)01(
+2
+TSA
+)5(
+1
+)5(
+1
+noisiv
+derrulB
+)53(
+7
+)01(
+2
+)52(
+5
+noitapitsnoC
+)5(
+1
+)5(
+1
+eninitaerc
+mures
+detavelE
+)5(
+1
+)5(
+1
+diognihsuC
+)5(
+1
+)5(
+1
+noitardyheD
+)5(
+1
+)5(
+1
+aehrraiD
+)5(
+1
+)5(
+1
+niks
+yrD
+)5(
+1
+)5(
+1
+aisuegsyD
+)5(
+1
+)5(
+1
+sbmil
+amedE
+)5(
+1
+)5(
+1
+emrofitlum
+amehtyrE
+)57(
+51
+)54(
+9
+)03(
+6
+eugitaF
+)5(
+1
+)5(
+1
+ecnelutalF
+)01(
+2
+)01(
+2
+gnihsulF
+)5(
+1
+)5(
+1
+stnialpmoc
+IG
+)5(
+1
+)5(
+1
+aimenimublaopyH
+)5(
+1
+)5(
+1
+noitcaer
+etis
+noitcejnI
+)51(
+3
+)51(
+3
+ainmosnI
+)5(
+1
+)5(
+1
+egahrromeah
+lainarcartnI
+)5(
+1
+)5(
+1
+desaerced
+noitom
+)5(
+1
+)5(
+1
+laro
+sitisocuM
+)54(
+9
+)5(
+1
+)5(
+1
+)53(
+7
+aesuaN
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Blakeley et al. Page 15
+latoT
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+tnevE
+esrevdA
+.oN
+.oN
+.oN
+.oN
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)stp
+fo
+%(
+)5(
+1
+)5(
+1
+metsys
+suovreN
+)5(
+1
+)5(
+1
+niaP
+)51(
+3
+)01(
+2
+)5(
+1
+sutirurP
+)01(
+2
+)5(
+1
+)5(
+1
+ralupap-olucam
+hsaR
+)5(
+1
+)5(
+1
+ycneuqerf
+yranirU
+)01(
+2
+)01(
+2
+gnitimoV
+)5(
+1
+)5(
+1
+ssol
+thgieW
+)5(
+1
+)5(
+1
+tneve
+cilobmeobmorhT
+)03(
+6
+)5(
+1
+)52(
+5
+desaerced
+teletalP
+)59(
+91
+)5(
+1
+)02(
+4
+)53(
+7
+)53(
+7
+desaerced
+llec
+doolb
+etihW
+)TLD
+rof
+airetirc
+tem
+setacidni
+dloB(
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Blakeley et al. Page 16
+5
+elbaT
+aamsalp
+ni
+setilobatem
+rojam
+owt
+sti
+dna
+birapini
+fo
+snoitartnecnoc
+kaeP
+birapini/etilobateM
+)Lm/gn(
+C
+selpmas
+fo
+.oN
+stneitaP
+fo
+.oN
+)gk/gm(
+esoD
+xam
+ABAI
+MBAI
+ABAI
+MBAI
+birapinI
+0.2
+±
+0.3
+6.0
+±
+1.1
+2.5
+± 6.61
+1.4
+±
+7.5
+513
+±
+246
+02
+8
+1.5
+5.1
+±
+0.2
+6.0
+±
+9.0
+3.8
+± 9.41
+8.1
+±
+2.7
+793
+±
+829
+11
+5
+1.6
+4.1
+±
+4.2
+9.0
+±
+1.1
+6.6
+± 9.91
+7.3
+±
+4.8
+364
+±
+910,1
+81
+7
+8.6
+7.0
+±
+7.0
+1.0
+±
+3.0
+0.51
+± 5.41
+9.2
+±
+3.01
+464,1
+±
+786,3
+5
+4
+0.8
+4.1
+±
+5.2
+6.0
+±
+8.0
+4.01
+± 5.13
+4.2
+±
+7.9
+789
+±
+715,1
+81
+5
+6.8
+0.2
+±
+0.2
+6.0
+±
+8.0
+0.41
+± 8.91
+3.5
+±
+6.31
+331,2
+±
+931,2
+7
+4
+5.9
+a
+.egatnecrep
+a
+sa
+desserpxe
+sa
+oitar
+noitartnecnoc
+birapini/etilobatem
+eht
+rof
+DS
+±
+egareva
+citemhtira
+eht
+dna
+)xamC(
+snoitartnecnoc
+amsalp
+kaep
+rof
+DS
+±
+naem
+cirtemoeg
+eht
+sa
+detneserp
+era
+ataD
+J Neurooncol. Author manuscript; available in PMC 2016 October 01.

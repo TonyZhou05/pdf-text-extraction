@@ -1,0 +1,732 @@
+Source: 31080557.pdf
+Extracted on: Fri Sep 12 23:57:37 PDT 2025
+==================================================
+
+--- Page 1 ---
+www.oncotarget.com Oncotarget, 2019, Vol. 10, (No. 30), pp: 2855-2868
+Research Paper
+Phase I/Ib study of olaparib and carboplatin in heavily
+pretreated recurrent high-grade serous ovarian cancer at low
+genetic risk
+Erika J. Lampert1, John L. Hays2, Elise C. Kohn1, Christina M. Annunziata1, Lori
+Minasian1, Minshu Yu1, Nicolas Gordon1, Tristan M. Sissung3, Victoria L. Chiou1,
+William D. Figg3, Nicole Houston1 and Jung-Min Lee1
+1
+Women’s Malignancies Branch, Center for Cancer Research, National Cancer Institute, Bethesda, MD, USA
+2
+Ohio State University, Columbus, OH, USA
+3
+Genitourinary Malignancies Branch, Center for Cancer Research, National Cancer Institute, Bethesda, MD, USA
+Correspondence to: Jung-Min Lee, email: leej6@mail.nih.gov
+Keywords: high-grade serous ovarian cancer; BRCA wild type; olaparib; carboplatin
+Received: February 26, 2019 Accepted: April 04, 2019 Published: April 23, 2019
+Copyright: Lampert et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License
+3.0 (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and
+source are credited.
+ABSTRACT
+Purpose: To investigate maximum tolerated dose (MTD), activity and predictive
+biomarkers of olaparib with carboplatin in BRCA wild-type (BRCAwt) high grade
+serous ovarian carcinoma (HGSOC) patients.
+Methods: A 3+3 dose escalation study examined olaparib capsules (400 mg twice
+daily [BID], days 1–7) with carboplatin (AUC3-5 on day 1) every 21 days for 8 cycles,
+followed by olaparib 400 mg BID maintenance. Blood and tumor biopsy samples were
+collected pre- and on-treatment in the expansion cohort for PAR levels and proteomic
+endpoints.
+Results: 30 patients (median 7 prior regimens [2–12], 63% (19/30) platinum-
+resistant) were enrolled. Dose-limiting toxicity was thrombocytopenia/neutropenia,
+and infection with carboplatin AUC5 (2/6 patients). MTD was olaparib 400 mg BID +
+carboplatin AUC4. Grade 3/4 adverse events (>10%) included neutropenia (23%),
+thrombocytopenia (20%), and anemia (13%). Five of 25 (20%) evaluable patients
+had partial response (PR; median 4.5 months [3.3–9.5]). Clinical benefit rate (PR +
+stable disease ≥4 months) was 64% (16/25). A greater decrease in tissue PAR levels
+was seen in the clinical benefit group versus no benefit (median normalized linear
+change −1.84 [−3.39– −0.28] vs 0.51 [−0.27– 1.29], p = 0.001) and a DNA repair
+score by proteomics did not correlate with response.
+Conclusions: The olaparib and carboplatin combination is tolerable and has
+clinical benefit in subsets of heavily pretreated BRCAwt HGSOC, independent of
+platinum sensitivity.
+INTRODUCTION harbors defects in genes involved in homologous
+recombination (HR) repair (HRR) for double-stranded
+High grade serous ovarian cancer (HGSOC) is the DNA breaks, such as BRCA1 and BRCA2 [3, 4]. While
+most lethal gynecologic malignancy in the United States approximately 15% of HGSOC patients have a germline
+(U.S.), with an overall 5-year survival rate under 40% mutation in BRCA1 or BRCA2 (gBRCAm) [4, 5], HRR
+[1]. More than 80% of HGSOC present at an advanced deficiency may be caused by other molecular alterations
+stage, and recurrence is nearly universal leading to such as RAD51C, RAD51D, BRIP1, and CHEK2 [6–8].
+incurable disease [2]. Approximately 40% of HGSOC Deficient HRR leads to activation of alternate DNA repair
+www.oncotarget.com 2855 Oncotarget
+
+--- Page 2 ---
+pathways including base excision repair (BER) and non- mutant ovarian cancer patients to assess for an additive or
+homologous end-joining (NHEJ), which require poly synergistic benefit of the doublet.
+(ADP-ribose) polymerase (PARP) activity [9]. Increased We previously reported the safety data and
+PARP-1 activity is demonstrated in several tumor types recommended phase 2 doses (RP2Ds) of olaparib in
+including HGSOC [10, 11]. In preclinical studies, PARP combination with carboplatin for patients with gBRCAm
+inhibitors (PARPi) showed enhanced cytotoxicity in recurrent HGSOC or breast cancer and BRCAwt recurrent
+both HGSOC with BRCA mutations and HRR-deficient triple negative breast cancer (TNBC), finding different
+HGSOC with wild-type BRCA (BRCAwt), suggesting a maximum tolerated doses (MTDs) for each population
+broad applicability of PARPi in clinic [12–14]. [36, 37]. We expanded these findings to women with
+There are three PARPi - olaparib, rucaparib and HGSOC who do not have gBRCAm and now report safety,
+niraparib - now U.S. Food and Drug Administration RP2D and activity. We also evaluated potential predictive
+(FDA)-approved for ovarian cancer treatment or and pharmacodynamic biomarkers for the PARPi and
+maintenance. Olaparib is the first approved PARPi for carboplatin combination.
+use as monotherapy in gBRCAm patients with recurrent
+HGSOC who had >3 prior treatment regimens [15]. RESULTS
+It is also FDA-approved as a maintenance therapy
+in platinum-sensitive recurrent HGSOC patients Patients
+regardless of their BRCA status, as well as for frontline
+maintenance in BRCAm patients [16–19]. Rucaparib, The study schema is depicted in Figure 1 and
+another PARPi, is approved for third-line treatment in the Consort diagram is in Figure 2 (N = 30). All but 6
+patients with a germline or somatic BRCA mutation as patients had negative deleterious gBRCAm commercial
+well as for maintenance therapy [20, 21]. Like olaparib testing. Six patients enrolled between 2009–2013 had no
+and rucaparib, niraparib is approved as a maintenance BRCA testing prior to enrollment, and were eligible per
+therapy in platinum-sensitive recurrent HGSOC patients protocol based on the negative family history of breast
+who achieved response following chemotherapy [22]. and ovarian cancer and a BRCAPro score of ≤20% [38].
+So far, clinical benefits of PARPi in HGSOC appear Approximately two-thirds had platinum-resistant disease
+strongest in BRCAm women in the platinum-sensitive (63% [19/30]). Most patients (90% [27/30]) were heavily
+recurrent treatment setting (response rates around treated, having received more than three prior regimens.
+40–60%) [20, 23, 24]. Less activity is observed in heavily Other patient characteristics are shown in Table 1.
+pretreated and non-BRCA mutant patients (response rates
+around 10–30% for platinum-sensitive and <10% for Dose optimization
+platinum-resistant) [20, 23], establishing the need to test
+combination strategies for this population. Patients received olaparib 400 mg capsules twice
+Cisplatin, and now preferentially carboplatin, daily on days 1–7 and carboplatin AUC 3–5 on day 1
+are the backbone of ovarian cancer treatment. Platinum of each 21-day cycle (Table 2 and Figure 1). Olaparib
+agents form DNA-platinum adducts that damage DNA 400 mg twice a day maintenance therapy was continued
+leading to cell death [25]. This is counteracted by the DNA after a maximum of 8 carboplatin-containing cycles. No
+repair mechanisms of BER and nucleotide excision repair dose-limiting toxicities (DLT) were observed at dose
+[25–27]. Increased levels of poly(ADP-ribose) (PAR) level 2 (DL2) with carboplatin AUC4 during the 2-cycle
+polymers have been shown after cisplatin treatment evaluation period. Increasing to DL3 with carboplatin
+in O-342 rat ovarian tumor cell lines [28] and PARP AUC5 resulted in 2 of 6 patients having DLT (grade 3
+upregulation after cisplatin exposure was also thrombocytopenia and neutropenia after one cycle
+demonstrated in normal renal tubular and human colon [n = 1] and two concurrent grade 3 infections with an
+carcinoma cells [29, 30]. Concomitant use of PARPi with absolute neutrophil count (ANC) within normal range
+a platinum agent has been tested in several types of cancer, requiring IV antibiotics [n = 1]). One patient in DL3
+demonstrating increased cytotoxicity [31–35]. PARP required carboplatin dose reduction to AUC4 at cycle 4
+inhibition potentiated platinum cytotoxicity in the O-342/ for persistent neutropenia and treatment delays despite
+DDP and CH1cisR platinum-resistant ovarian cancer cell pegfilgrastim supplementation. Another DL3 patient was
+lines [31, 32], as well as in the BRCAwt and BRCA2- put on olaparib maintenance therapy after carboplatin
+restored OV90 and PEO4 ovarian cancer cell lines, discontinuation at cycle 6 due to neutropenic fever.
+respectively [33]. The PARPi CEP-6800 and olaparib No patients required olaparib dose reduction or (peg)
+also enhanced platinum-induced cytotoxicity in HRR- filgrastim supplementation during maintenance therapy.
+proficient non-small cell lung and colorectal carcinomas, The recommended phase 2 dose is olaparib capsules 400
+respectively [34, 35]. These data support clinical testing mg twice daily days 1–7 with carboplatin AUC4 day 1
+of the PARPi and carboplatin combination in non-BRCA in 21-day cycles.
+www.oncotarget.com 2856 Oncotarget
+
+--- Page 3 ---
+Adverse Events occurred in four patients (13%) during cycles 2, 3, 4 and
+5, respectively for each patient. Common (>10%) non-
+Treatment-related adverse events (AEs) are hematologic events included gastrointestinal side effects
+summarized in Table 3. Hematologic toxicity was the (nausea 50%, vomiting 27%, dyspepsia 30%), fatigue
+most common AE (Tables 3, 4). Neutropenia occurred in (33%) and headache (23%), and were predominantly
+20 out of 30 patients (67%), with grade 3 or 4 neutropenia grade 1 or 2, self-limited, and manageable with standard
+observed in 7 of 30 (23%) including one episode of treatments.
+febrile neutropenia. Ten of 30 (33%) patients received
+(peg)filgrastim to prevent treatment delay during the Clinical activity
+combination treatment. Grade 3 or 4 thrombocytopenia
+was observed in 6 of 30 patients (20%), and 1 patient Twenty-five patients had disease evaluable for
+(3%) required platelet transfusion after cycle 4 for grade 4 RECIST response determination (Figure 3A and 3B). Five
+thrombocytopenia without bleeding. Grade 3 or 4 anemia patients attained a PR (median 4.5 months, range 3.3–9.5)
+Figure 1: Study Schema. Abbreviations: DL: dose level; bid: twice daily; PBMCs: peripheral blood mononuclear cells.
+Figure 2: Consort Diagram. Of the 13 expansion cohort patients successfully biopsied at baseline, 10 had evaluable disease, 2 were
+non-evaluable due to intercurrent illness, and 1 withdrew consent. 6 of the 10 evaluable patients with a baseline biopsy declined a second
+biopsy, leaving 4 evaluable paired biopsies. Both of the non-evaluable patients with a baseline biopsy had a post-treatment biopsy, resulting
+in 2 non-evaluable paired biopsies for a total of 6 paired biopsies.
+www.oncotarget.com 2857 Oncotarget
+
+--- Page 4 ---
+Table 1: Patient characteristics (N = 30)
+Age in years, median (range) 65 (49–71)
+ECOG Performance Status, N (%)
+0 5 (17%)
+1 24 (80%)
+2 1 (3%)
+Median number of prior regiments (range) 7 (2–12)
+Median prior chemotherapeutic agents (range) 6 (2–10)
+Median prior biologic agents (range) 1 (0–3)
+Prior bevacizumab treatment, N (%)* 21 (70%)
+Prior vaccine treatment, N (%) 3 (10%)
+Median months since last platinum (range) 16.5 (7–154)
+Platinum sensitivity+, N (%)
+Platinum resistant recurrent disease 19 (63%)
+Platinum sensitive recurrent disease 11 (37%)
+Race/Ethnicity, N (%)
+White 27 (90%)
+Black 2 (7%)
+Asian 1 (3%)
+Hispanic 0 (0%)
+*Of patients with prior bevacizumab treatment, 62% (13/21) had platinum-resistant disease.
++Platinum sensitive: recurs 6 or more months after cessation of platinum-based chemotherapy; platinum resistant:
+progression within 6 months of platinum-based therapy
+Table 2: Dose levels (N = 30)
+Schedule and Dose
+Dose Level Olaparib capsule, Carboplatin IV,
+DLT Best response (duration of response)
+[DL] BID q3weeks
+1 PR (7.5 mo)
+DL 1 (N = 3) 400 mg, days 1–7 AUC3, day 1 or 2 0
+2 SD (3 mo, 3 mo)
+2 PR (3.3 mo, 4.5 mo)
+2 SD (5.0 mo, 7.8 mo)
+DL2 (N = 6)* 400 mg, days 1–7 AUC4, day 1 or 2 0
+1 PD (2.4 mo)
+1 NE (intercurrent illness)
+1 PR (9.5 mo)
+DL 3 (N = 6) 400 mg, days 1–7 AUC5, day 1 or 2 2 4 SD (8.5mo, 9.3mo, 10.8mo, 11.8mo)
+1 NE (withdrew consent)
+1 PR (4 mo)
+7 SD (3.0mo, 3.5mo, 4.0 mo, 4.2 mo, 4.8 mo,
+Expansion
+400 mg, days 1–7 AUC4, day 1 or 2 5.5mo, 10.6 mo)
+cohort (N = 15)
+4 PD (1.5 mo, 1.8 mo, 1.8 mo, 2.4 mo)
+3 NE (1 withdrew consent; 2 intercurrent illness)
+Abbreviations: bid: twice daily; mo: months; PR: partial response; SD: stable disease; PD: progressive disease; NE:
+non-evaluable.
+*Six rather than three patients were enrolled in DL2 despite the absence of DLTs because the third level was added later.
+yielding an overall response rate (ORR) of 20% (Table 5). free survival (PFS) in the 25 evaluable patients was
+15 patients had stable disease (SD; median 5 months, 4.2 months [1.5–11.8 months]. ORR was 7% (1/14) in
+range 3–11.8) for a clinical benefit rate (CBR, defined as platinum-resistant and 36% (4/11) in platinum-sensitive
+PR+SD≥4 months) of 64% (16/25). Median progression- disease (Table 6). One patient with platinum-resistant
+www.oncotarget.com 2858 Oncotarget
+
+--- Page 5 ---
+Table 3: Drug-related adverse events by maximum grade per patient (N = 30)
+Adverse Event Grade 1 Grade 2 Grade 3 Grade 4 Grade 3/4
+Hematology*
+Lymphocytopenia 4 (13%) 6 (20%) 11 (37%) 1 (3%) 40%
+White Blood Count 4 (13%) 16 (53%) 6 (20%) 1 (3%) 23%
+Neutropenia 2 (7%) 11 (37%) 3 (10%) 4 (13%) 23%
+Thrombocytopenia 13 (43%) 4 (13%) 4 (13%) 2 (7%) 20%
+Anemia 6 (20%) 16 (53%) 3 (10%) 1 (3%) 13%
+Gastrointestinal disorders
+Mucositis 3 (10%) 1 (3%) 0 0 0%
+Nausea 13 (43%) 2 (7%) 0 0 0%
+Vomiting 5 (17%) 3 (10%) 1 (3%) 0 3%
+Dyspepsia 8 (27%) 1 (3%) 0 0 0%
+Gastroesophageal reflux
+disease 2 (7%) 0 0 0 0%
+Constipation 6 (20%) 2 (7%) 0 0 0%
+Diarrhea 4 (13%) 0 0 0 0%
+Chemistry
+Hyponatremia 11 (37%) 0 0 0 0%
+Hypokalemia 5 (17%) 0 1 (3%) 0 3%
+Hypomagnesemia 11 (37%) 2 (7%) 1 (3%) 0 3%
+Increased AST 5 (17%) 2 (7%) 0 0 0%
+Increased ALT 8 (27%) 0 0 0 0%
+Other
+Fatigue 7 (23%) 3 (10%) 0 0 0%
+Skin rash 3 (10%) 0 0 0 0%
+Headache 7 (23%) 0 0 0 0%
+Neuropathy** 4 (13%) 0 0 0 0%
+*14 patients (47%) required blood transfusion. 4 patients (13%) received darbepoetin to avoid dose reduction or treatment delay.
+**1 of 4 patients had baseline grade 1 neuropathy unchanged with treatment. 3 patients experienced treatment-related
+recurrence of grade 1 neuropathy.
+disease who achieved PR (9.5 months) had 9 prior pg/mL [0–185.6], p = 0.0005; Figure 4A), demonstrating
+therapies. Nine patients with platinum-resistant disease that olaparib reached pharmacologically effective
+also had SD ≥ 4 months, for a CBR of 71% (10/14). In concentrations. No correlation was seen between fold
+platinum-sensitive disease, 4 patients achieved PR and 2 change from baseline to cycle 1 day 3 PAR incorporation
+SD ≥ 4 months yielding a CBR of 55% (6/11; Table 6). and RECIST response (Figure 4B).
+Of the 4 evaluable patients with paired biopsies,
+Correlative studies two had SD (4.2 and 10.6 months, respectively) and two
+had PD. A greater decrease in the normalized linear PAR
+PAR levels expression levels was seen in the clinical benefit group
+(median change in normalized linear expression -1.84
+We first assessed the target effect induced by PARP
+[−3.39–−0.28]) compared to no benefit (0.51 [−0.27–
+inhibition as measured by PAR incorporation in peripheral
+1.29]) (Figure 4C).
+blood mononuclear cells (PBMCs) and PAR expression
+levels in tissue biopsies. There was a significant decrease
+PARP1/XRCC1 polymorphisms
+in PBMC PAR levels after treatment with olaparib in 12
+evaluable paired samples (pre-treatment median 459.76 No PARP1 or XRCC1 polymorphisms were
+pg/mL [45.3–4, 243.5] vs post-treatment median 10.19 associated with RECIST response or clinical benefit.
+www.oncotarget.com 2859 Oncotarget
+
+--- Page 6 ---
+Table 4: Drug-related hematologic adverse events by dose level (N = 30)
+Grade 1 Grade 2 Grade 3 Grade 4
+Adverse event
+DL1 DL2 DL3 DL1 DL2 DL3 DL1 DL2 DL3 DL1 DL2 DL3
+Lymphopenia 1(33%) 3(14%) 0 2 (67%) 3 (14%) 1 (17%) 0 8(38%) 3 (50%) 0 1 (5%) 0
+Leukopenia 1(33%) 3(14%) 0 2 (67%) 11 (52%) 3 (50%) 0 3(14%) 3 (50%) 0 1 (5%) 0
+Neutropenia 1(33%) 1(5%) 0 1 (33%) 8 (38%) 2 (33%) 0 2(10%) 1 (17%) 0 1 (5%) 3 (50%)
+Thrombocytopenia 3(100%) 8(38%) 2(33%) 0 4 (19%) 0 0 1(5%) 3 (50%) 0 1 (5%) 1 (17%)
+Anemia 2(67%) 3(14%) 1(17%) 0 12 (57%) 4 (67%) 0 2(10%) 1 (17%) 0 1 (5%) 0
+Abbreviations: DL = dose level; Dose level 1: olaparib 400 mg bid days 1–7 with carboplatin AUC3; dose level 2 and expansion cohort: olaparib 400 mg bid days 1–7 with
+carboplatin AUC4; dose level 3: olaparib 400 mg bid days 1–7 with carboplatin AUC5
+Reverse phase protein microarray (RPPA) and a DNA version of the DNA repair score reported by Cardnell et al
+repair score [40], incorporating baseline expression levels of 11 of the
+17 originally used repair proteins that predicted PARPi
+Protein expression or protein post-translational
+sensitivity in small cell lung cancer, did not correlate with
+modifications were assessed by RPPA [39]. Our modified
+PFS (Supplementary Table 1; Supplementary Figure 1) [40].
+Figure 3: Waterfall plot (A) and duration on the study (B). (A) Twenty-five patients with baseline and subsequent imaging reassessment
+are shown. Best RECIST response is graphed for each patient. Five patients did not have reassessment scans for comparison (withdrew
+consent [n = 2], and off-treatment due to intercurrent illness [n = 3]). (B) All 30 patients are shown in a swimmer plot. Color code defines
+dose level of treatment. Dose level 1: olaparib 400 mg bid days 1–7 with carboplatin AUC3; dose level 2 and expansion cohort: olaparib
+400 mg bid days 1–7 with carboplatin AUC4; dose level 3: olaparib 400 mg bid days 1–7 with carboplatin AUC5.
+www.oncotarget.com 2860 Oncotarget
+
+--- Page 7 ---
+Table 5: RECIST response (N = 25 with evaluable disease)
+Best Response #(%) Median Duration, mo (range)
+CR 0 NA
+PR 5 (20%) 4.5 (3.3–9.5)
+SD ≥ 4 mo 11 (44%) 7.8 (4.0–11.8)
+Total SD 15 (60%) 5 (3.0–11.8)
+PD 5 (20%) 1.8 (1.5–2.4)
+Clinical Benefit Rate 20/25 (80%; for all SD)
+(CR+ PR + SD) 16/25 (64%; for SD ≥ 4 mo)
+Overall Response Rate (CR+PR) 5/25 (20%)
+Abbreviations: pts: patients; mo: months; CR: complete response; PR: partial response; SD: stable disease; PD: progressive
+disease; NA: not applicable.
+Table 6: RECIST response by platinum-sensitivity
+Platinum Sensitive Platinum Resistant
+Best Response (N = 11 evaluable disease) (N = 14 evaluable disease)
+#(%) Median Duration, mo (range) #(%) Median Duration, mo (range)
+CR 0 NA 0 NA
+PR 4 (36%) 4.3 (3.3–7.5) 1 (7%) 9.5
+SD ≥ 4 mo 2 (18%) 10.0 (9.3–10.8) 9 (64%) 5.5 (4.0–11.8)
+Total SD 4 (36%) 6.4 (3.0–10.8) 11 (79%) 5.0 (3.0–11.8)
+PD 3 (27%) 1.8 (1.5–1.8) 2 (14%) 2.4
+CBR 8/11 (73%; for all SD) 12/14 (86%; for all SD)
+(CR+ PR + SD) 6/11 (55%; for SD ≥ 4 mo) 10/14 (71%; for SD ≥ 4 mo)
+ORR
+(CR + PR) 4/11 (36%) 1/14 (7%)
+Abbreviations: pts: patients; mo: months; CR: complete response; PR: partial response; SD: stable disease; PD: progressive
+disease; CBR: clinical benefit rate; ORR: overall response rate; NA: not applicable.
+Separately, the relationship between clinical DISCUSSION
+response and pretreatment expression of all 274 proteins or
+post-translationally modified proteins on the RPPA array This phase I/Ib study identified the schedule of
+at the time was examined. Seven of 10 evaluable patients olaparib, 400 mg capsules twice daily for days 1–7,
+in the expansion cohort for whom baseline biopsies administered with carboplatin AUC4 every 3 weeks
+were obtained achieved clinical benefit and 3 patients as tolerable and providing modest activity in heavily
+had progressive disease. A false discovery rate (FDR) pretreated BRCAwt HGSOC patients, including a majority
+of 10% was used to control for multiple comparisons. who had platinum-resistant disease. A 400 mg twice daily
+Pretreatment biopsies were analyzed for linear correlation olaparib capsule dose corresponds to a 250 to 300 mg
+to PFS for each patient, without findings of significance twice daily olaparib tablet dose [41]. Consistent with our
+in this small cohort. previously reported cohort of BRCAwt triple negative
+breast cancer patients, the intermittent olaparib schedule
+Tissue apoptotic index resulted in dose-limiting myelotoxicity, requiring a lower
+carboplatin dose (AUC4) than recommended for gBRCAm
+Terminal deoxynucleotidyl transferase dUTP nick patients (AUC5) [36, 37]. This difference may be partly
+end labeling (TUNEL) assay was done on the available because more heavily pretreated patients were enrolled
+paired biopsies to evaluate DNA damage after treatment. in the current cohort (median 7 prior regimens [2–12])
+There was no significant difference in mean apoptotic compared with the gBRCAm cohort (median 5 prior
+index before (47.9% [24.3–62.2]) and after (50.9% regimens [2–11]) [36].
+[28.09–75.61]) cycle 1 treatment with combination The addition of PARPi to cytotoxic chemotherapy
+therapy (Supplementary Figure 2). has previously been hindered by overlapping marrow
+www.oncotarget.com 2861 Oncotarget
+
+--- Page 8 ---
+toxicity, limiting the dose or treatment duration of or 1–10) with cisplatin every 21 days due to marrow
+PARPi and/or chemotherapy [42–45]. We had to reduce toxicity [42]. Similarly, after a phase I trial of olaparib
+the standard carboplatin dose by over 50% in our phase with carboplatin and paclitaxel reported that continuous
+I study of gBRCAm breast and ovarian cancer patients olaparib intensified hematologic toxicities [45], a phase
+due to early hematologic toxicity with continuous daily II trial used intermittent olaparib dosing (200 mg capsules
+olaparib, which led to successful use of the intermittent days 1–10) with paclitaxel (175 mg/m2 every 3 weeks) and
+olaparib schedule [36]. We found manageable carboplatin (AUC4 every 3 weeks) in recurrent ovarian
+myelotoxicity with carboplatin and intermittently-dosed cancer patients for better tolerability and no clear loss
+olaparib in the current cohort. Common (>10%) grade of activity due to the reduced carboplatin dose [44]. Our
+3 and 4 toxicities were all hematological and managed results support the safety and tolerability of intermittent
+with appropriate supplementation. Importantly, no grade olaparib with carboplatin for combination therapy in
+5 events were observed. Common non-hematologic BRCAwt recurrent HGSOC patients.
+adverse events, including gastrointestinal side effects Platinum resistance is associated with a poor
+were expected given the known and overlapping toxicities prognosis for women with ovarian cancer and almost
+of each drug, and were predominantly grade 1 or 2 and all patients with recurrent disease ultimately develop
+either self-limited or addressed with standard care. These resistance to platinum-based therapy [46]. Historically,
+results align with a phase I trial of olaparib with cisplatin the use of single agent cytotoxic chemotherapy or
+in advanced solid tumors that also required intermittent targeted therapy has resulted in RRs of around 5–15% and
+and lower dose olaparib (50–100 mg capsules days 1–5 a median PFS of 3–4 months in the heavily pretreated,
+Figure 4: PAR translational studies. (A) PAR incorporation in peripheral blood. There was an expected decrease in PAR levels after
+treatment with olaparib in 12 evaluable paired samples. (B) Fold change in PAR concentration in peripheral blood by clinical response.
+No significant differences between fold change of PAR concentrations (C1D3/C1D1) and clinical response, defined as PR+SD>4 months
+versus SD<4 months+PD were observed. Abbreviations: C1D1 = cycle 1, day 1; C1D3 = cycle 1, day 3; PR = partial response; SD = stable
+disease; PD = progressive disease. (C) Change in normalized linear PAR expression levels between pre- and post-cycle 1 biopsy. A greater
+decrease of PAR levels was seen in the clinical benefit group (PR+SD≥4 months) versus no benefit group (SD<4 months+PD), p = 0.001.
+Abbreviations: C1 = cycle 1; CB = clinical benefit.
+www.oncotarget.com 2862 Oncotarget
+
+--- Page 9 ---
+platinum-resistant patient population [47–52]. Our cohort generation sequencing combining BRCA mutation status
+of BRCAwt, heavily pretreated, largely platinum-resistant with a measure of loss of heterozygosity (LOH) [20].
+patients, thus represents a particularly difficult-to-treat Both BRCAm and BRCAwt patients with high LOH had
+population. In our study, 20% of patients achieved PR improved PFS and objective responses to PARPi treatment
+and two thirds had clinical benefit, although patients were compared to BRCAwt/LOH-low patients (hazard ratio
+heavily pretreated with a median of 7 prior therapies. We 0.27, p < 0.0001 and 0.62, p = 0.011 for BRCAm and
+noted comparable clinical benefit in the patients with LOH high subgroups, respectively, compared to LOH
+platinum-resistant (CBR 71%) and platinum-sensitive low) [20]. Similarly, the phase 3 NOVA study of niraparib
+(CBR 55%) disease. It is possible that this clinical benefit maintenance therapy assessed HRD as a biomarker using
+is in part related to the required at least 6-month interval the myChoice test from Myriad Genetics and found HRD-
+from last platinum exposure to initiation of protocol positive BRCAwt patients derived greater benefit from
+therapy. therapy versus placebo compared to the overall non-
+It has been demonstrated preclinically that platinum- gBRCAm cohort (hazard ratio 0.38, p < 0.001 versus 0.45,
+resistant clones present in the original tumor persist after p < 0.001, respectively) [22]. Further studies are warranted
+platinum-sensitive clones are eradicated by chemotherapy to identify predictive biomarkers of PARPi-combination
+[53, 54]. An in vitro study of the cisplatin-resistant A2780- treatment response in the BRCA-proficient population.
+CR human ovarian cancer cell line showed that following Our study has several limitations. First, our primary
+initial cisplatin exposure, cells became significantly more objective was to determine a safe dose and schedule
+sensitive to cisplatin reintroduction after a 4-week drug- in this patient population. Thus, we had insufficient
+free interval, suggesting that platinum-resistant clones can power, even with an expansion cohort for the purpose
+be sensitized in a time-dependent manner [55]. Clinical of pharmacodynamic correlative exploration, to make
+studies also demonstrated that extending the interval conclusions of clinical benefit. We controlled for multiple
+from last platinum exposure in platinum-resistant or comparisons to reduce the incidence of type 1 errors,
+refractory ovarian cancer patients increases the likelihood however, due the exploratory nature of the translational
+of response to platinum retreatment [56, 57]. These data endpoints all findings should be examined and validated
+suggest re-challenging with platinum-based therapy prospectively before definitive conclusions can be made.
+may yield clinical activity in some platinum-resistant We also did not prospectively plan to sequence genes
+patients, thus the PARPi and carboplatin combination involved in HRR and were unable to do so because of
+may be a therapeutic opportunity independent of platinum insufficient clinical samples remaining, and lack of proper
+sensitivity. Future preclinical and clinical studies are consent for germline testing. Instead, HRR function was
+warranted to explore this possibility. explored by assessing DNA repair protein expression,
+Identifying and validating effective predictive activation, and an experimental composite score.
+biomarkers remains a challenge in the BRCAwt There are now a number of PARPi combination
+population. Among four evaluable paired biopsies, a studies in phase I to III clinical trials in ovarian cancer,
+greater decrease in PAR expression levels was observed though primarily focusing on the platinum-sensitive
+in patients who achieved clinical benefit from treatment and BRCAm population. Our findings present an
+compared to those who did not, and this should be opportunity to further investigate a PARPi and carboplatin
+interpreted with caution due to small numbers. A measure combination in heavily-pretreated BRCAwt patients. The
+of DNA repair deficiency has been widely investigated observed modest activity of this combination, regardless
+as a potential biomarker for the response to PARPi, and of platinum sensitivity, supports the potential for platinum
+proteomic analysis has been employed to study functional re-sensitization and highlights the need for continued
+DNA repair deficiencies [58, 59]. We applied a modified biomarker analysis.
+version of the “DNA repair protein score” developed by
+Cardnell et al. [40], consisting of expression levels of MATERIALS AND METHODS
+17 DNA repair proteins shown to predict response to the
+PARPi BMN673 (talazoparib) in an in vitro small cell lung Patients
+cancer model, and found no correlation to PFS. While
+the RPPA analysis used in the Cardnell study included Accrual occurred between 2009 and 2014. Eligible
+193 total and/or phosphorylated proteins, only 11 of patients had recurrent or refractory HGSOC with known
+the original 17 DNA repair proteins overlapped in the negative gBRCAm testing or a negative family history
+274-antibody panel used here. Thus, we had to calculate and a BRCAPro score of ≤20% calculated on the basis
+a modified DNA repair score by taking the average of detailed family history [38], an ECOG score of 0–2
+expression levels of the overlapping 11 DNA repair and normal organ and bone marrow function. There was
+proteins which may partly explain the lack of correlation. no limit on number of prior therapies, although patients
+Also, genomic HR deficiency (HRD) was assessed in the had to be at least six months from last platinum exposure.
+ARIEL2 phase 2 trial of the PARPi rucaparib using next- Patients previously treated with a PARPi were excluded
+www.oncotarget.com 2863 Oncotarget
+
+--- Page 10 ---
+from the study although patients with platinum-resistant previously described [60]. PBMC DNA was isolated for
+ovarian cancer were eligible. All patients provided polymorphism analysis of PARP1 V762A, XRCC1 R194W
+written informed consent. This study was approved by and XRCC1 Q399R using a commercial DNA purification
+the Institutional Review Board of the Center for Cancer kit (Qiagen, Germantown, MD), as reported [36].
+Research, National Cancer Institute. ClinicalTrials.gov Paired tumor biopsies were performed in an
+identifier: NCT01445418. expansion cohort at MTD pre-and post-cycle 1 for
+proteomics and apoptosis endpoints (Figure 1).
+Drug administration and determination of MTD Percutaneous biopsies were obtained by interventional
+radiologists under CT or ultrasound guidance with
+This open label 3+3 dose escalation study examined independent procedure consent. Samples were processed
+the combination of olaparib 400 mg capsules every in real time in optimal cutting temperature compound
+12 hours on days 1–7 with carboplatin AUC3, 4, or 5 on and stored at −80° C, then cut and stained immediately
+day 1 (DLs 1–3), in 21-day cycles (Figure 1). Carboplatin prior to use as previously described [61]. Optimal
+infusion was allowed on day 2 for those with schedule tissue quality was defined as paired sequential biopsies
+conflicts. No more than 8 cycles of combination therapy with solid tissue areas containing at least 50% tumor
+were given, followed by continuous daily maintenance cells and less than 25% necrosis [61]. Tissue area was
+olaparib monotherapy with 400 mg capsules every measured as reported [62] and RPPA was performed in
+12 hours. Safety and adverse events were graded every 2014 by the MD Anderson RPPA Core facility using their
+cycle (CTCAEv3.0). DLTs were defined as grade 4 274-antibody protocol including key proteins for DNA
+hematologic and grade 3 or 4 nonhematologic adverse repair [39]. A modified DNA repair score, consisting
+events related to study medications during the first two of expression levels of 11 of 17 DNA repair proteins
+cycles of therapy. Grade 3 neutropenia for ≥7 days or with previously reported to predict PARPi sensitivity in small
+fever, and grade 3 thrombocytopenia lasting ≥7 days or cell lung cancer in a study by Cardnell et al, was applied
+requiring transfusion were also dose-limiting. Exceptions (Supplementary Table 1) [40]. Apoptotic cells were
+included grade 3 diarrhea, nausea, or vomiting, which counted using the DeadEnd colorimetric TUNEL kit
+had to be unresponsive to optimal medical care, and (Promega, Madison, WI, USA) [36]. The apoptotic index
+asymptomatic grade 3 reductions in electrolytes readily was defined as the percentage of TUNEL-positive single
+reversed with medical management. Complete blood cells in five high-power fields.
+counts and serum chemistries were monitored weekly
+during the DLT period. MTD was defined as the highest Statistical analyses
+dose level at which ≤33% of patients experienced a DLT.
+Granisetron (days 1–7) and dexamethasone (days An expansion group was added at the MTD
+1–4) were given prophylactically for nausea during for exploratory biomarker analyses. For any given
+each combination therapy cycle and discontinued during endpoint comparison, 10 paired biopsies would provide
+olaparib maintenance. (Peg)filgrastim was not permitted 80% power to detect a difference between pre- and
+during the first 2 cycles of the dose escalation phase on-treatment values of one standard deviation of the
+but was indicated for use in subsequent cycles if the difference (α = 0.05). Normalized values for each
+2
+day 1 ANC was 1500–1800/mL or if the day 1 ANC protein in the RPPA were analyzed for linear correlation
+was less than 1500/mL, necessitating treatment delay. to PFS using JMP 9.0 (SAS Institute, Cary, NC, USA).
+Once initiated, (peg)filgrastim was continued during all The Hochberg method was used with an alpha of 0.05
+combination treatment cycles, but was not used during to control the FDR [63]. Baseline PAR levels were
+olaparib maintenance therapy. correlated with response and PFS using the Fisher exact
+Clinical response was assessed by imaging using test. PARP1 and XRCC1 polymorphisms were correlated
+RECISTv1.0 criteria every 2 cycles. Study treatment with response and PFS using the Fisher’s exact test
+was discontinued for progression of disease, intercurrent and log-rank test, respectively. Pre- and post-cycle 1
+illness, adverse events not recovering to grade 1 within treatment TUNEL percent positivity was compared using
+3 weeks, and patient preference. a two-tailed paired t-test (Prism 6, La Jolla, CA, USA),
+and TUNEL results were correlated with response by
+Correlative studies Pearson correlation coefficient (JMP 9.0). A p-value of
+less than 0.05 was considered statically significant, and
+PBMCs were collected at baseline and cycle 1 all tests were two-sided.
+day 3 for PAR incorporation (Figure 1). PBMCs were
+separated within 4 hours of collection, then stored Abbreviations
+in aliquots at –80° C until use. PBMC DNA PAR
+incorporation was measured with a commercial PAR MTD: maximum tolerated dose; BRCAwt: BRCA
+immunoassay (Trevigen, Gaithersburg, MD, USA) as wild-type; HGSOC: high grade serous ovarian cancer;
+www.oncotarget.com 2864 Oncotarget
+
+--- Page 11 ---
+HR: homologous recombination; HRR: homologous 2011; 474:609–15. https://doi.org/10.1038/nature10166.
+recombination repair; gBRCAm: germline BRCA [PubMed]
+mutation; PARPi: poly (ADP-ribose) polymerase 5. Pal T, Permuth-Wey J, Betts JA, Krischer JP, Fiorica J,
+inhibitors; ORR: objective response rate; PFS: progression Arango H, LaPolla J, Hoffman M, Martino MA, Wakeley
+free survival; DL: dose level; DLT: dose-limiting toxicity; K, Wilbanks G, Nicosia S, Cantor A, Sutphen R. BRCA1
+ANC: absolute neutrophil count; PR: partial response; and BRCA2 mutations account for a large proportion of
+SD: stable disease; PD: progressive disease; CBR: clinical ovarian carcinoma cases. Cancer. 2005; 104:2807–16.
+benefit rate; PBMCs: peripheral blood mononuclear cells; https://doi.org/10.1002/cncr.21536. [PubMed]
+TNBC: triple negative breast cancer; HRD: homologous
+6. Konstantinopoulos PA, Ceccaldi R, Shapiro GI, D’Andrea
+recombination deficiency.
+AD. Homologous Recombination Deficiency: Exploiting
+the Fundamental Vulnerability of Ovarian Cancer. Cancer
+Author contributions
+Discov. 2015; 5:1137–54. https://doi.org/10.1158/2159-
+8290.CD-15-0714. [PubMed]
+All authors reviewed the data and had access to all
+7. Patch AM, Christie EL, Etemadmoghadam D, Garsed
+the data upon request. All authors reviewed the manuscript
+DW, George J, Fereday S, Nones K, Cowin P, Alsop K,
+and made the final decision to submit for publication.
+Bailey PJ, Kassahn KS, Newell F, Quinn MC, et al, and
+Australian Ovarian Cancer Study Group. Whole-genome
+ACKNOWLEDGMENTS
+characterization of chemoresistant ovarian cancer. Nature.
+2015; 521:489–94. https://doi.org/10.1038/nature14410.
+Olaparib was supplied to the Center for Cancer
+[PubMed]
+Research, NCI under a Cooperative Research and
+8. Pennington KP, Walsh T, Harrell MI, Lee MK, Pennil CC,
+Development Agreement between the CCR/NCI and
+Rendi MH, Thornton A, Norquist BM, Casadei S, Nord
+AstraZeneca.
+AS, Agnew KJ, Pritchard CC, Scroggins S, et al. Germline
+and somatic mutations in homologous recombination genes
+CONFLICTS OF INTEREST
+predict platinum response and survival in ovarian, fallopian
+tube, and peritoneal carcinomas. Clin Cancer Res. 2014;
+All authors maintain no conflicts of interest to
+20:764–75. https://doi.org/10.1158/1078-0432.CCR-13-
+report.
+2287. [PubMed]
+9. Lord CJ, Ashworth A. PARP inhibitors: synthetic lethality
+FUNDING
+in the clinic. Science. 2017; 355:1152–58. https://doi.
+org/10.1126/science.aam7344. [PubMed]
+This clinical trial and translational studies were
+10. Ossovskaya V, Koo IC, Kaldjian EP, Alvares C, Sherman
+funded by the Intramural Program of the Center for Cancer
+BM. Upregulation of Poly (ADP-Ribose) Polymerase-1
+Research, NCI, NIH (JML, #ZIA BC011525).
+(PARP1) in Triple-Negative Breast Cancer and Other
+Primary Human Tumor Types. Genes Cancer. 2010; 1:812–
+REFERENCES 21. https://doi.org/10.1177/1947601910383418. [PubMed]
+11. Barnett JC, Bean SM, Nakayama JM, Kondoh E, Murphy
+1. Torre LA, Trabert B, DeSantis CE, Miller KD, Samimi G, SK, Berchuck A. High poly(adenosine diphosphate-ribose)
+Runowicz CD, Gaudet MM, Jemal A, Siegel RL. Ovarian polymerase expression and poor survival in advanced-stage
+cancer statistics, 2018. CA Cancer J Clin. 2018; 68:284–96. serous ovarian cancer. Obstet Gynecol. 2010; 115:49–
+https://doi.org/10.3322/caac.21456. [PubMed] 54. https://doi.org/10.1097/AOG.0b013e3181c2d294.
+2. Martin LP, Schilder RJ. Management of recurrent ovarian [PubMed]
+carcinoma: current status and future directions. Semin 12. Farmer H, McCabe N, Lord CJ, Tutt AN, Johnson DA,
+Oncol. 2009; 36:112–25. https://doi.org/10.1053/j. Richardson TB, Santarosa M, Dillon KJ, Hickson I,
+seminoncol.2008.12.003. [PubMed] Knights C, Martin NM, Jackson SP, Smith GC, Ashworth
+3. Ledermann JA, Drew Y, Kristeleit RS. Homologous A. Targeting the DNA repair defect in BRCA mutant cells
+recombination deficiency and ovarian cancer. Eur J Cancer. as a therapeutic strategy. Nature. 2005; 434:917–21. https://
+2016; 60:49–58. https://doi.org/10.1016/j.ejca.2016.03.005. doi.org/10.1038/nature03445. [PubMed]
+[PubMed] 13. Bryant HE, Schultz N, Thomas HD, Parker KM, Flower D,
+4. Bell D, Berchuck A, Birrer M, Chien J, Cramer DW, Dao Lopez E, Kyle S, Meuth M, Curtin NJ, Helleday T. Specific
+F, Dhir R, DiSaia P, Gabra H, Glenn P, Godwin AK, Gross killing of BRCA2-deficient tumours with inhibitors of
+J, Hartmann L, et al. Cancer Genome Atlas Research N. poly(ADP-ribose) polymerase. Nature. 2005; 434:913–17.
+Integrated genomic analyses of ovarian carcinoma. Nature. https://doi.org/10.1038/nature03443. [PubMed]
+www.oncotarget.com 2865 Oncotarget
+
+--- Page 12 ---
+14. McCabe N, Turner NC, Lord CJ, Kluzek K, Bialkowska placebo-controlled, phase 3 trial. Lancet. 2017; 390:1949–
+A, Swift S, Giavara S, O’Connor MJ, Tutt AN, Zdzienicka 61. https://doi.org/10.1016/S0140-6736(17)32440-6.
+MZ, Smith GC, Ashworth A. Deficiency in the repair of [PubMed]
+DNA damage by homologous recombination and sensitivity 22. Mirza MR, Monk BJ, Herrstedt J, Oza AM, Mahner
+to poly(ADP-ribose) polymerase inhibition. Cancer Res. S, Redondo A, Fabbro M, Ledermann JA, Lorusso D,
+2006; 66:8109–15. https://doi.org/10.1158/0008-5472. Vergote I, Ben-Baruch NE, Marth C, Mądry R, et al,
+CAN-06-0140. [PubMed] and ENGOT-OV16/NOVA Investigators. Niraparib
+15. Kaufman B, Shapira-Frommer R, Schmutzler RK, Audeh Maintenance Therapy in Platinum-Sensitive, Recurrent
+MW, Friedlander M, Balmaña J, Mitchell G, Fried G, Ovarian Cancer. N Engl J Med. 2016; 375:2154–64. https://
+Stemmer SM, Hubert A, Rosengarten O, Steiner M, doi.org/10.1056/NEJMoa1611310. [PubMed]
+Loman N, et al. Olaparib monotherapy in patients with 23. Gelmon KA, Tischkowitz M, Mackay H, Swenerton K,
+advanced cancer and a germline BRCA1/2 mutation. J Robidoux A, Tonkin K, Hirte H, Huntsman D, Clemons M,
+Clin Oncol. 2015; 33:244–50. https://doi.org/10.1200/ Gilks B, Yerushalmi R, Macpherson E, Carmichael J, Oza
+JCO.2014.56.2728. [PubMed] A. Olaparib in patients with recurrent high-grade serous or
+16. Mirza MR, Pignata S, Ledermann JA. Latest clinical poorly differentiated ovarian carcinoma or triple-negative
+evidence and further development of PARP inhibitors in breast cancer: a phase 2, multicentre, open-label, non-
+ovarian cancer. Ann Oncol. 2018; 29:1366–76. https://doi. randomised study. Lancet Oncol. 2011; 12:852–61. https://
+org/10.1093/annonc/mdy174. [PubMed] doi.org/10.1016/S1470-2045(11)70214-5. [PubMed]
+17. Pujade-Lauraine E, Ledermann JA, Selle F, Gebski V, 24. Fong PC, Yap TA, Boss DS, Carden CP, Mergui-Roelvink
+Penson RT, Oza AM, Korach J, Huzarski T, Poveda A, M, Gourley C, De Greve J, Lubinski J, Shanley S, Messiou
+Pignata S, Friedlander M, Colombo N, Harter P, et al, and C, A’Hern R, Tutt A, Ashworth A, et al. Poly(ADP)-ribose
+SOLO2/ENGOT-Ov21 investigators. Olaparib tablets as polymerase inhibition: frequent durable responses in
+maintenance therapy in patients with platinum-sensitive, BRCA carrier ovarian cancer correlating with platinum-
+relapsed ovarian cancer and a BRCA1/2 mutation (SOLO2/ free interval. J Clin Oncol. 2010; 28:2512–19. https://doi.
+ENGOT-Ov21): a double-blind, randomised, placebo- org/10.1200/JCO.2009.26.9589. [PubMed]
+controlled, phase 3 trial. Lancet Oncol. 2017; 18:1274–84. 25. Jung Y, Lippard SJ. Direct cellular responses to platinum-
+https://doi.org/10.1016/S1470-2045(17)30469-2. [PubMed] induced DNA damage. Chem Rev. 2007; 107:1387–407.
+https://doi.org/10.1021/cr068207j. [PubMed]
+18. Ledermann J, Harter P, Gourley C, Friedlander M, Vergote
+I, Rustin G, Scott CL, Meier W, Shapira-Frommer R, 26. Slyskova J, Sabatella M, Ribeiro-Silva C, Stok C, Theil AF,
+Safra T, Matei D, Fielding A, Spencer S, et al. Olaparib Vermeulen W, Lans H. Base and nucleotide excision repair
+maintenance therapy in patients with platinum-sensitive facilitate resolution of platinum drugs-induced transcription
+relapsed serous ovarian cancer: a preplanned retrospective blockage. Nucleic Acids Res. 2018; 46:9537–49. https://doi.
+analysis of outcomes by BRCA status in a randomised org/10.1093/nar/gky764. [PubMed]
+phase 2 trial. Lancet Oncol. 2014; 15:852–61. https://doi. 27. Martin SA, Lord CJ, Ashworth A. DNA repair deficiency
+org/10.1016/S1470-2045(14)70228-1. [PubMed] as a therapeutic target in cancer. Curr Opin Genet Dev.
+19. Moore K, Colombo N, Scambia G, Kim BG, Oaknin A, 2008; 18:80–86. https://doi.org/10.1016/j.gde.2008.01.016.
+Friedlander M, Lisyanskaya A, Floquet A, Leary A, Sonke [PubMed]
+GS, Gourley C, Banerjee S, Oza A, et al. Maintenance 28. Bürkle A, Chen G, Küpper JH, Grube K, Zeller WJ.
+Olaparib in Patients with Newly Diagnosed Advanced Increased poly(ADP-ribosyl)ation in intact cells by cisplatin
+Ovarian Cancer. N Engl J Med. 2018; 379:2495–505. treatment. Carcinogenesis. 1993; 14:559–61. https://doi.
+https://doi.org/10.1056/NEJMoa1810858. [PubMed] org/10.1093/carcin/14.4.559. [PubMed]
+20. Swisher EM, Lin KK, Oza AM, Scott CL, Giordano H, Sun 29. Shino Y, Itoh Y, Kubota T, Yano T, Sendo T, Oishi R. Role
+J, Konecny GE, Coleman RL, Tinker AV, O’Malley DM, of poly(ADP-ribose)polymerase in cisplatin-induced injury
+Kristeleit RS, Ma L, Bell-McGuinn KM, et al. Rucaparib in in LLC-PK1 cells. Free Radic Biol Med. 2003; 35:966–77.
+relapsed, platinum-sensitive high-grade ovarian carcinoma https://doi.org/10.1016/S0891-5849(03)00470-2. [PubMed]
+(ARIEL2 Part 1): an international, multicentre, open-label, 30. Gambi N, Tramontano F, Quesada P. Poly(ADPR)
+phase 2 trial. Lancet Oncol. 2017; 18:75–87. https://doi. polymerase inhibition and apoptosis induction in
+org/10.1016/S1470-2045(16)30559-9. [PubMed] cDDP-treated human carcinoma cell lines. Biochem
+21. Coleman RL, Oza AM, Lorusso D, Aghajanian C, Pharmacol. 2008; 75:2356–63. https://doi.org/10.1016/j.
+Oaknin A, Dean A, Colombo N, Weberpals JI, Clamp A, bcp.2008.03.015. [PubMed]
+Scambia G, Leary A, Holloway RW, Gancedo MA, et 31. Chen G, Zeller WJ. Reversal of acquired cisplatin resistance
+al, and ARIEL3 investigators. Rucaparib maintenance by nicotinamide in vitro and in vivo. Cancer Chemother
+treatment for recurrent ovarian carcinoma after response to Pharmacol. 1993; 33:157–62. https://doi.org/10.1007/
+platinum therapy (ARIEL3): a randomised, double-blind, BF00685335. [PubMed]
+www.oncotarget.com 2866 Oncotarget
+
+--- Page 13 ---
+32. Nguewa PA, Fuertes MA, Cepeda V, Alonso C, Quevedo Minasian L, Chiou VL, Murphy RF, et al. Sequence-
+C, Soto M, Pérez JM. Poly(ADP-ribose) polymerase-1 Specific Pharmacokinetic and Pharmacodynamic Phase I/
+inhibitor 3-aminobenzamide enhances apoptosis Ib Study of Olaparib Tablets and Carboplatin in Women’s
+induction by platinum complexes in cisplatin-resistant Cancer. Clin Cancer Res. 2017; 23:1397–406. https://doi.
+tumor cells. Med Chem. 2006; 2:47–53. https://doi. org/10.1158/1078-0432.CCR-16-1546. [PubMed]
+org/10.2174/157340606775197697. [PubMed] 42. Balmaña J, Tung NM, Isakoff SJ, Graña B, Ryan PD, Saura
+33. Shen YT, Evans JC, Zafarana G, Allen C, Piquette-Miller M. C, Lowe ES, Frewer P, Winer E, Baselga J, Garber JE.
+BRCA Status Does Not Predict Synergism of a Carboplatin Phase I trial of olaparib in combination with cisplatin for
+and Olaparib Combination in High-Grade Serous Ovarian the treatment of patients with advanced breast, ovarian and
+Cancer Cell Lines. Mol Pharm. 2018; 15:2742–53. https:// other solid tumors. Ann Oncol. 2014; 25:1656–63. https://
+doi.org/10.1021/acs.molpharmaceut.8b00246. [PubMed] doi.org/10.1093/annonc/mdu187. [PubMed]
+34. Miknyoczki SJ, Jones-Bolin S, Pritchard S, Hunter K, Zhao 43. Dent RA, Lindeman GJ, Clemons M, Wildiers H, Chan
+H, Wan W, Ator M, Bihovsky R, Hudkins R, Chatterjee S, A, McCarthy NJ, Singer CF, Lowe ES, Watkins CL,
+Klein-Szanto A, Dionne C, Ruggeri B. Chemopotentiation Carmichael J. Phase I trial of the oral PARP inhibitor
+of temozolomide, irinotecan, and cisplatin activity by CEP- olaparib in combination with paclitaxel for first- or second-
+6800, a poly(ADP-ribose) polymerase inhibitor. Mol Cancer line treatment of patients with metastatic triple-negative
+Ther. 2003; 2:371–82. https://doi.org/10.1158/1535-7163. breast cancer. Breast Cancer Res. 2013; 15:R88. https://doi.
+mct-07-0062. [PubMed] org/10.1186/bcr3484. [PubMed]
+35. Xu K, Chen Z, Cui Y, Qin C, He Y, Song X. Combined 44. Oza AM, Cibula D, Benzaquen AO, Poole C, Mathijssen
+olaparib and oxaliplatin inhibits tumor proliferation RH, Sonke GS, Colombo N, Špaček J, Vuylsteke P, Hirte
+and induces G2/M arrest and γ-H2AX foci formation in H, Mahner S, Plante M, Schmalfeldt B, et al. Olaparib
+colorectal cancer. OncoTargets Ther. 2015; 8:3047–54. combined with chemotherapy for recurrent platinum-
+https://doi.org/10.2147/OTT.S89154. [PubMed] sensitive ovarian cancer: a randomised phase 2 trial. Lancet
+Oncol. 2015; 16:87–97. https://doi.org/10.1016/S1470-
+36. Lee JM, Hays JL, Annunziata CM, Noonan AM, Minasian
+2045(14)71135-0. [PubMed]
+L, Zujewski JA, Yu M, Gordon N, Ji J, Sissung TM, Figg
+45. van der Noll RN, Ang JE, Jager A, Marchetti S, Mergui-
+WD, Azad N, Wood BJ, et al. Phase I/Ib study of olaparib
+Roelvink M, De Bono JS, Lolkema M, Brunetto A, Arkenau
+and carboplatin in BRCA1 or BRCA2 mutation-associated
+HT, De Jonge MJ, van der Biessen D, Tchakov I, Bowen
+breast or ovarian cancer with biomarker analyses. J Natl
+K, et al. Phase I study of olaparib in combination with
+Cancer Inst. 2014; 106:dju089. https://doi.org/10.1093/jnci/
+carboplatin and/or paclitaxel in patients with advanced solid
+dju089. [PubMed]
+tumors. J Clin Oncol. 2013; 31:2579.
+37. Lee JM, Hays JL, Chiou VL, Annunziata CM, Swisher EM,
+46. Herzog TJ, Pothuri B. Ovarian cancer: a focus on
+Harrell MI, Yu M, Gordon N, Sissung TM, Ji J, Figg WD,
+management of recurrent disease. Nat Clin Pract Oncol.
+Minasian L, Lipkowitz S, et al. Phase I/Ib study of olaparib
+2006; 3:604–11. https://doi.org/10.1038/ncponc0637.
+and carboplatin in women with triple negative breast cancer.
+[PubMed]
+Oncotarget. 2017; 8:79175–87. https://doi.org/10.18632/
+47. Vergote I, Finkler NJ, Hall JB, Melnyk O, Edwards RP,
+oncotarget.16577. [PubMed]
+Jones M, Keck JG, Meng L, Brown GL, Rankin EM, Burke
+38. Berry DA, Iversen ES Jr, Gudbjartsson DF, Hiller EH,
+JJ, Boccia RV, Runowicz CD, Rose PG. Randomized phase
+Garber JE, Peshkin BN, Lerman C, Watson P, Lynch HT,
+III study of canfosfamide in combination with pegylated
+Hilsenbeck SG, Rubinstein WS, Hughes KS, Parmigiani
+liposomal doxorubicin compared with pegylated liposomal
+G. BRCAPRO validation, sensitivity of genetic testing of
+doxorubicin alone in platinum-resistant ovarian cancer. Int J
+BRCA1/BRCA2, and prevalence of other breast cancer
+Gynecol Cancer. 2010; 20:772–80. https://doi.org/10.1111/
+susceptibility genes. J Clin Oncol. 2002; 20:2701–12.
+IGC.0b013e3181daaf59. [PubMed]
+https://doi.org/10.1200/JCO.2002.05.121. [PubMed]
+48. Gordon AN, Fleagle JT, Guthrie D, Parkin DE, Gore
+39. MD Anderson Cancer Center. Texas, USA. Retrieved
+ME, Lacave AJ. Recurrent epithelial ovarian carcinoma:
+November 16, 2018, from https://www.mdanderson.org/
+a randomized phase III study of pegylated liposomal
+research/research-resources/core-facilities/functional-
+doxorubicin versus topotecan. J Clin Oncol. 2001;
+proteomics-rppa-core.html.
+19:3312–22. https://doi.org/10.1200/JCO.2001.19.14.3312.
+40. Cardnell RJ, Feng Y, Diao L, Fan YH, Masrorpour F, [PubMed]
+Wang J, Shen Y, Mills GB, Minna JD, Heymach JV, Byers
+49. Markman M, Blessing J, Rubin SC, Connor J, Hanjani P,
+LA. Proteomic markers of DNA repair and PI3K pathway
+Waggoner S, and Gynecologic Oncology Group. Phase
+activation predict response to the PARP inhibitor BMN 673
+II trial of weekly paclitaxel (80 mg/m2) in platinum
+in small cell lung cancer. Clin Cancer Res. 2013; 19:6322–28.
+and paclitaxel-resistant ovarian and primary peritoneal
+https://doi.org/10.1158/1078-0432.CCR-13-1975. [PubMed]
+cancers: a Gynecologic Oncology Group study. Gynecol
+41. Lee JM, Peer CJ, Yu M, Amable L, Gordon N, Annunziata Oncol. 2006; 101:436–40. https://doi.org/10.1016/j.
+CM, Houston N, Goey AK, Sissung TM, Parker B, ygyno.2005.10.036. [PubMed]
+www.oncotarget.com 2867 Oncotarget
+
+--- Page 14 ---
+50. Cannistra SA, Matulonis UA, Penson RT, Hambleton J, 57. Rose PG, Mossbruger K, Fusco N, Smrekar M, Eaton S,
+Dupont J, Mackey H, Douglas J, Burger RA, Armstrong D, Rodriguez M. Gemcitabine reverses cisplatin resistance:
+Wenham R, McGuire W. Phase II study of bevacizumab in demonstration of activity in platinum- and multidrug-
+patients with platinum-resistant ovarian cancer or peritoneal resistant ovarian and peritoneal carcinoma. Gynecol Oncol.
+serous cancer. J Clin Oncol. 2007; 25:5180–86. https://doi. 2003; 88:17–21. https://doi.org/10.1006/gyno.2002.6850.
+org/10.1200/JCO.2007.12.0782. [PubMed] [PubMed]
+51. Mutch DG, Orlando M, Goss T, Teneriello MG, Gordon 58. Nishizuka SS, Mills GB. New era of integrated cancer
+AN, McMeekin SD, Wang Y, Scribner DR Jr, Marciniack biomarker discovery using reverse-phase protein arrays.
+M, Naumann RW, Secord AA. Randomized phase III Drug Metab Pharmacokinet. 2016; 31:35–45. https://doi.
+trial of gemcitabine compared with pegylated liposomal org/10.1016/j.dmpk.2015.11.009. [PubMed]
+doxorubicin in patients with platinum-resistant ovarian 59. Kamel D, Brady B, Tabchy A, Mills GB, Hennessy
+cancer. J Clin Oncol. 2007; 25:2811–18. https://doi. B. Proteomic classification of breast cancer. Curr
+org/10.1200/JCO.2006.09.6735. [PubMed] Drug Targets. 2012; 13:1495–509. https://doi.
+52. ten Bokkel Huinink W, Gore M, Carmichael J, Gordon A, org/10.2174/138945012803530080. [PubMed]
+Malfetano J, Hudson I, Broom C, Scarabelli C, Davidson N, 60. Kinders RJ, Hollingshead M, Khin S, Rubinstein
+Spanczynski M, Bolis G, Malmström H, Coleman R, et al. L, Tomaszewski JE, Doroshow JH, Parchment RE,
+Topotecan versus paclitaxel for the treatment of recurrent and National Cancer Institute Phase 0 Clinical Trials
+epithelial ovarian cancer. J Clin Oncol. 1997; 15:2183–93. Team. Preclinical modeling of a phase 0 clinical trial:
+https://doi.org/10.1200/JCO.1997.15.6.2183. [PubMed] qualification of a pharmacodynamic assay of poly
+53. Cooke SL, Ng CK, Melnyk N, Garcia MJ, Hardcastle T, (ADP-ribose) polymerase in tumor biopsies of mouse
+Temple J, Langdon S, Huntsman D, Brenton JD. Genomic xenografts. Clin Cancer Res. 2008; 14:6877–85. https://doi.
+analysis of genetic heterogeneity and evolution in high- org/10.1158/1078-0432.CCR-08-0214. [PubMed]
+grade serous ovarian carcinoma. Oncogene. 2010; 29:4905– 61. Lee JM, Hays JL, Noonan AM, Squires J, Minasian L,
+13. https://doi.org/10.1038/onc.2010.245. [PubMed] Annunziata C, Wood BJ, Yu M, Calvo KR, Houston N,
+54. Cooke SL, Brenton JD. Evolution of platinum resistance Azad N, Kohn EC. Feasibility and safety of sequential
+in high-grade serous ovarian cancer. Lancet Oncol. 2011; research-related tumor core biopsies in clinical trials.
+12:1169–74. https://doi.org/10.1016/S1470-2045(11)70123- Cancer. 2013; 119:1357–64. https://doi.org/10.1002/
+1. [PubMed] cncr.27916. [PubMed]
+55. Horowitz NS, Hua J, Gibb RK, Mutch DG, Herzog TJ. 62. Azad N, Yu M, Davidson B, Choyke P, Chen CC, Wood
+The role of topotecan for extending the platinum-free BJ, Venkatesan A, Henning R, Calvo K, Minasian L,
+interval in recurrent ovarian cancer: an in vitro model. Edelman DC, Meltzer P, Steinberg SM, et al. Translational
+Gynecol Oncol. 2004; 94:67–73. https://doi.org/10.1016/j. predictive biomarker analysis of the phase 1b sorafenib
+ygyno.2004.03.047. [PubMed] and bevacizumab study expansion cohort. Mol Cell
+56. Kavanagh J, Tresukosol D, Edwards C, Freedman R, Proteomics. 2013; 12:1621–31. https://doi.org/10.1074/
+Gonzalez de Leon C, Fishman A, Mante R, Hord M, mcp.M112.026427. [PubMed]
+Kudelka A. Carboplatin reinduction after taxane in patients 63. Benjamini Y, Hochberg Y. Controlling the false discovery
+with platinum-refractory epithelial ovarian cancer. J rate - a practical and powerful approach to multiple
+Clin Oncol. 1995; 13:1584–88. https://doi.org/10.1200/ testing. J R Stat Soc B. 1995; 57:289–300. https://doi.
+JCO.1995.13.7.1584. [PubMed] org/10.1111/j.2517-6161.1995.tb02031.x.
+www.oncotarget.com 2868 Oncotarget

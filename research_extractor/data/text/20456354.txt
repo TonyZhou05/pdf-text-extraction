@@ -1,0 +1,688 @@
+Source: 20456354.pdf
+Extracted on: Sat Sep 13 00:01:39 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+Published in final edited form as:
+Br J Haematol. 2010 July ; 150(2): 189–195. doi:10.1111/j.1365-2141.2010.08213.x.
+Phase I trial of low dose decitabine targeting DNA
+hypermethylation in patients with chronic lymphocytic leukemia
+and non-Hodgkin’s lymphoma: Dose-limiting myelosuppression
+without evidence of DNA hypomethylation
+Kristie A. Blum1, Zhongfa Liu3, David M. Lucas1,2, Ping Chen2, Zhiliang Xie2, Robert
+Baiocchi1, Donald M. Benson Jr.1, Steven M. Devine1, Jeffrey Jones1, Leslie Andritsos1,
+Joseph Flynn1, Christoph Plass4, Guido Marcucci1,2, Kenneth K. Chan1,3, Michael R.
+Grever1, and John C. Byrd1,2
+1 Division of Hematology-Oncology, Department of Internal Medicine, The Arthur G. James
+Comprehensive Cancer Center and The Ohio State University, Columbus OH
+2 Division of Medicinal Chemistry and Pharmacology, College of Pharmacy, The Ohio State
+University, Columbus OH
+3 Division of Pharmaceutics, College of Pharmacy, The Ohio State University, Columbus OH
+4 Division of Epigenomics and Cancer Risk, German Cancer Research Center (DKFZ),
+Heidelberg, 69120, Germany
+Abstract
+Purpose—Targeting aberrant DNA hypermethylation in chronic lymphocytic leukemia (CLL)
+and non-Hodgkin’s lymphoma (NHL) with decitabine may reverse epigenetic silencing in B-cell
+malignancies.
+Methods—Twenty patients were enrolled in two phase I trials to determine the minimum
+effective pharmacologic dose (MEPD) of decitabine in patients with relapsed/refractory CLL
+(n=16) and NHL (n=4).
+Results—Patients received 1–3 cycles of decitabine. Dose limiting toxicity (DLT) was observed
+in 2 of 4 CLL and 2 of 2 NHL patients receiving decitabine at 15 mg/m2/d days 1–10, consisting
+of grade 3–4 thrombocytopenia and hyperbilirubinemia. Six patients with CLL received decitabine
+at 10 mg/m2/d days 1–10 without DLT; however, re-expression of methylated genes or changes in
+global DNA methylation were not observed. Therefore, a 5-day decitabine schedule was
+Address Correspondence to: Kristie A. Blum, M.D., Assistant Professor of Medicine, The Ohio State University, Division of
+Hematology-Oncology, Starling Loving Hall, Room B315, Columbus, OH 43210, 614-293-8858, Fax: 614-293-7484,
+kristie.blum@osumc.edu, John C. Byrd, MD, Division of Hematology-Oncology, The Ohio State University, Starling Loving Hall,
+th
+Room B 302, 320 West 10 Avenue, Columbus, OH 43210, 614-293-9869, john.byrd@osumc.edu.
+Presented: American Society of Hematology 2008, abstract number 3169.
+Conflict of Interest Disclosure: There are no relevant financial conflicts of interest to disclose for any of the investigators
+participating in this trial.
+Authorship
+Contribution: K.A. Blum, D. M. Lucas, G. Marcucci, K.K. Chan, M.R. Grever, and J.C. Byrd designed and performed the studies.
+K.A. Blum and J.C. Byrd supervised, enrolled, and treated patients on the trial; analyzed and interpreted the data; and authored the
+manuscript. Z. Liu and D.M. Lucas designed and performed the global DNA hypomethylation analyses, and analyzed and interpreted
+the pharmacodynamic data. C. Plass helped design and interpret the correlative data. P. Chen, Z. Xie, and K.K. Chan developed and
+performed the pharmacokinetic analyses, and analyzed and interpreted the pharmacokinetic data. R. Baiocchi, T.S. Lin, D. Benson,
+S.M. Devine, J. Jones, L. Andritsos, and J. Flynn enrolled and treated patients on the trial. All authors reviewed the draft manuscript
+and approved its publication.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Blum et al. Page 2
+examined. With 15 mg/m2/d decitabine days 1–5, DLT occurred in 2 of 6 CLL and 2 of 2 NHL
+patients, consisting of grade 3–4 neutropenia, thrombocytopenia, and febrile neutropenia. Eight
+patients had stable disease. In 17 patients, there were no significant changes in genome-wide
+methylation or in target gene re-expression.
+Conclusion—Dose-limiting myelosuppression and infectious complications prevents dose
+escalation of decitabine to levels associated with changes in global methylation or gene re-
+expression in CLL and NHL.
+Keywords
+decitabine; methylation; chronic lymphocytic leukemia; non-Hodgkin’s lymphoma
+INTRODUCTION
+Epigenetic modifications including DNA methylation that favor transcriptionally repressed
+chromatin have been identified in B-cell malignancies, including chronic lymphocytic
+leukemia (CLL), mantle cell, and diffuse large B-cell non-Hodgkin’s lymphoma (NHL).
+(Katzenellenbogen, et al 1999, Liu, et al 2006a, Nakatsuka, et al 2003, Raval, et al 2005,
+Raval, et al 2007, Rush, et al 2004, Takahasi, et al 2004) Specifically, aberrant
+hypermethylation has been described in p15, p16, DAPK1, GRM7, ID4, and TWIST2.
+(Katzenellenbogen, et al 1999, Nakatsuka, et al 2003, Raval, et al 2005, Raval, et al 2007,
+Rush, et al 2004, Takahasi, et al 2004, Yu, et al 2005) Furthermore, treatment of CLL and
+NHL cell lines and patient-derived cells with the DNA methyltransferase (DNMT) inhibitor
+decitabine (5-aza-2’deoxycytidine) depletes DNMT and reverses transcriptional repression,
+leading to increased expression of these methylated target genes.(Katzenellenbogen, et al
+1999, Liu, et al 2006a, Raval, et al 2005, Raval, et al 2007, Rush, et al 2004)
+Targeting aberrant DNA hypermethylation with low dose decitabine has provided a new
+treatment strategy in acute myeloid leukemia (AML) and myelodysplastic syndromes
+(MDS),(Blum, et al 2008, Blum, et al 2007, Issa, et al 2004, Issa, et al 2005, Kantarjian, et
+al 2007) and we postulated that a similar approach may be effective in patients with
+lymphoid malignancies. Therefore, we instituted two single institution phase I clinical trials
+to determine the minimum effective pharmacologic dose (MEPD) of decitabine: OSU 0336,
+a phase I trial of decitabine in patients with relapsed or refractory CLL; and OSU 0475, a
+phase I trial of decitabine in patients with relapsed or refractory NHL.
+PATIENTS AND METHODS
+Patient selection
+Patients with relapsed or refractory CLL by 1996 National Cancer Institute (NCI) Working
+Group Criteria(Cheson, et al 1996) or diffuse large B-cell, transformed, or mantle cell NHL
+by 1999 World Health Organization Criteria(Harris, et al 1999) after at least one prior
+therapy were enrolled to OSU 0336 and OSU 0475, respectively. Patients with aggressive
+NHL eligible for autologous stem cell transplantation were not enrolled; however, prior stem
+cell transplantation was permitted. Eligibility requirements included age ≥ 18 years, Eastern
+Cooperative Oncology Group (ECOG) performance status 0–2, creatinine ≤ 2.0 mg/dL, total
+bilirubin ≤ 1.5 mg/dL, and aspartate aminotransferase (AST) and alanine aminotransferase
+(ALT) ≤ 2.0 x the upper limit of normal. For NHL patients, an absolute neutrophil count
+(ANC) ≥ 1500/mm3 and a total platelet count ≥ 75,000/mm3 were also required. There were
+no restrictions on pre-treatment ANC or platelet counts for patients with CLL.
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Blum et al. Page 3
+Patients with active infections including human immunodeficiency virus (HIV), central
+nervous system involvement, uncontrolled medical conditions, or autoimmune hemolytic
+anemia or idiopathic thrombocytopenia were not eligible. The Ohio State University
+Institutional Review Board approved the two trials and all patients provided written
+informed consent per institutional guidelines and in accordance with the Declaration of
+Helsinki.
+Study Design
+OSU 0336 and OSU 0475 were designed to independently determine the MEPD of
+decitabine in patients with relapsed and refractory CLL and NHL, respectively. Dose
+escalation in both trials began at a dose level of 15 mg/m2/day of decitabine administered
+intravenously over 1 hour on days 1–10. Twenty-eight days defined a cycle. Six patients
+were enrolled at each dose level. Dose escalation of decitabine by 5 mg/m2/day was planned
+until the MEPD where 1 or fewer patients experienced dose limiting toxicity (DLT) was
+reached.
+MEPD was defined in both trials as the dose of decitabine that in at least 5 of 6 patients
+produced a 100% reduction in promoter methylation or a 100% increase in mRNA
+expression of selected genes (DAPK1 and ID4 for patients with CLL and DAPK1, p15, and
+p16 for patients with NHL) compared to pre-treatment levels. DLT was defined during the
+first cycle as grade 3–4 non-hematologic toxicity in any patient, grade 4 neutropenia or
+thrombocytopenia lasting longer than 7 days in patients with NHL, grade 3–4 neutropenia or
+thrombocytopenia on day 35 in patients with NHL, or an ANC or platelet count ≤ 75% of
+pre-treatment levels by day 35 in patients with CLL.
+Adverse events were graded according to NCI Common Toxicity Criteria for Adverse
+Events, version 3.0. Response was assessed according to 1996 NCI Working Group
+Criteria(Cheson, et al 1996) for patients with CLL and according to 1999 International
+Lymphoma Response Criteria(Cheson, et al 1999) for patients with NHL after every cycle.
+Decitabine pharmacokinetics
+Plasma concentrations of decitabine were measured on days 1 and 5 of cycle 1 using a
+previously validated liquid chromatography-tandem mass spectroscopy (LC-MS/MS) assay.
+(Liu, et al 2006b) Samples were collected immediately prior to and 5, 10, 30, 60, 65, 75, 90,
+120, 150, 180, 240, and 360 minutes after decitabine for pharmacokinetic evaluations.
+Calculated parameters were obtained using standard compartmental or non-compartmental
+methods with WinNolin version 3.0 (Pharsight, Mountain View, CA).
+Global DNA hypomethylation
+Samples were first assessed for global changes in methylation to detect evidence of DNMT
+inhibition as previously described.(Liu, et al 2007, Liu, et al 2006b) Samples that showed
+evidence of methylation changes were then analyzed for specific promoter hypomethylation.
+(Raval, et al 2005, Raval, et al 2007) Peripheral blood samples were collected immediately
+prior to and post decitabine on days 3, 5, 15, and 22 of cycle 1 in patients with CLL. In
+patients with NHL, core needle biopsy samples for global DNA methylation assessment
+were obtained prior to decitabine treatment and on day 5 of cycle 1. Cells were purified by
+CD19 selection using magnetic activated cell sorting (MACSTM, Miltenyi Biotec,
+Germany), and genomic DNA was extracted from CD19-selected CLL and NHL cells using
+a DNeasy kit according to the manufacturer’s protocol (Qiagen, Valencia CA). Samples
+were processed and analyzed immediately using a validated LC-MS/MS method.(Liu, et al
+2007) The global DNA methylation level was expressed as the molar ratio of 5 mdC/(5mdC
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Blum et al. Page 4
++2dC). Expression of target genes p15, p16, DAPK1(Raval, et al 2007) and ID4(Yu, et al
+2005) were evaluated using real-time RT-PCR.
+Statistical Methods
+Descriptive statistics including means, standard deviations, and frequencies were computed
+for pharmacokinetic and pharmacodynamic variables.
+RESULTS
+Patient Characteristics and dose escalation
+Twenty patients with relapsed or refractory CLL (n=16) or diffuse large cell NHL (n=4)
+after a median of 4.5 prior therapies (range, 2–8) were enrolled to OSU 0336 and OSU 0475,
+respectively. Patient characteristics are described in Table 1. In CLL patients, the median
+age was 61 (range, 32–82) and 11 patients had Rai stage 3–4 disease. Two patients were
+previously transplanted and the majority of patients had adverse cytogenetics, including 3
+patients with del(11q22.3), 4 patients with del(17p13.1), and 2 patients with a complex
+karyotype. In patients with diffuse large cell NHL, the median age was 72 (68–75), 50% of
+patients had stage IV disease, and all patients had a high risk International Prognostic Index
+score.
+Decitabine dose escalation in both OSU 0336 and OSU 0475 began at 15 mg/m2/day
+administered 10 consecutive days in a 28 day cycle. DLT was observed in both trials at 15
+mg/m2/day days 1–10, consisting of persistent thrombocytopenia < 75% of baseline on day
+35 and grade 3 hyperbilirubinemia in 2 patients with CLL (Table 2A) and grade 4
+neutropenia for more than 7 days in 2 patients with NHL (Table 2B). As a result, 6 patients
+with CLL were then enrolled at dose level −1.0, consisting of 10 mg/m2/day of decitabine
+on days 1–10. No DLTs were observed at this dose level; however, global DNA
+hypomethylation was not observed (Figure 2). Therefore, both trials were amended to
+explore a 5 day administration schedule starting at 15 mg/m2/day (dose level 1.1, Tables 2A
+and 2B), postulating that a shorter infusion schedule would permit dose escalation to the
+MEPD without DLT. With decitabine 15 mg/m2/day days 1–5, DLT was observed in 2 of 6
+CLL patients consisting of grade 3 gram positive bacteremia and grade 4 febrile
+neutropenia. In NHL patients treated with decitabine 15 mg/m2/day days 1–5, 2 patients
+developed DLT consisting of grade 4 neutropenia and grade 4 thrombocytopenia for more
+than 7 days. As a result of these toxicities, further dose escalation of decitabine was halted.
+Toxicity
+Patients received a median of 1 cycle of decitabine (15 patients with CLL and NHL
+completed 1 cycle, 4 patients with CLL completed 2 cycles, and 1 patient with CLL
+completed 3 cycles). Patients were removed from the trial due to DLT or progressive
+disease. There was one treatment-related death due to cavitary pneumonia despite broad
+spectrum antibiotics and anti-fungal agents.
+DLTs are described in Tables 2A and 2B and grade 3–5 toxicities are summarized in Table
+3. Grade 3–4 hematologic toxicities were most prevalent, consisting of neutropenia in 45%
+of patients and thrombocytopenia in 55% of patients. Seven patients (6 CLL and 1 NHL)
+developed febrile neutropenia, with infections consisting of Streptococcal pneumonia (n=1),
+Aspergillus pneumonia (n=1), culture negative pneumonia (n=2), Staphylococcus epidermis
+bacteremia (n=1), and culture negative neutropenic fever (n=2). Other grade 3–4 non-
+hematologic toxicities included dyspnea (in 4 patients with pneumonia), fatigue,
+hyperbilirubinemia, and elevated ammonia (in the patient who died from cavitary
+pneumonia).
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Blum et al. Page 5
+Patient response
+In 20 patients, there were no complete or partial responses. Eight patients had stable disease
+(6 CLL and 2 NHL) after 1–2 cycles of decitabine. In these patients with stable disease,
+there were no clinically significant changes in lymph node size or in the absolute
+lymphocyte count, with a median pre-treatment value of 4,025 cells/uL (range, 760 –61,380
+cells/uL) compared to 7,300 cells/μL post-treatment (range 1,500 –76,730 cells/uL). The
+remaining 12 patients progressed, including 3 patients with CLL who received 2–3 cycles of
+decitabine.
+Decitabine Pharmacokinetics
+Pharmacokinetic results on cycle 1 day 1 in 15 patients (11 with CLL and 4 with NHL) for
+patients receiving 15 mg/m2/day and 10mg/m2/day decitabine are shown in Table 4. In 15
+patients, the mean C was 1.4 ± 1.0 μM, AUC was 61.2 ± 28.1 min*μM, total clearance
+max
+was 1.5 + 1.2 ml/min/m2, and beta half-life was 25.5 ± 6.9 min. There was a trend for an
+increase in C and AUC with increased decitabine dose (10 versus 15 mg/m2), but no
+max
+differences were observed between the pharmacokinetic results in patients with CLL and
+NHL, nor with repeat dosing on days 5 and 10 of cycle 1 (data not shown). These results are
+similar to historical data in AMLpatients treated with single agent decitabine at OSU (Table
+4 and (Blum, et al 2007). Representative plasma decitabine concentration versus time curves
+in patients with CLL and NHL treated with 10 mg/m2 and 15 mg/m2 of decitabine are
+shown in Figure 1.
+Correlative studies
+Expression of methylated target genes DAPK1(Raval, et al 2007) and ID4(Yu, et al 2005)
+were evaluated using real-time RT-PCR in 10 patients with CLL. No significant changes
+were noted in expression of either of these genes pre-treatment versus at multiple time
+points following administration of decitabine (data not shown). LC-MS/MS analysis of
+global DNA methylation demonstrated no significant changes in genome-wide methylation
+in CD19-selected CLL cells collected pre-treatment and on days 3, 5, 15, and 22 of each
+cycle (n=16 patients) or CD19-selected NHL cells from lymph node biopsies obtained pre-
+treatment and on day 5 (n=1 patient, Figure 2). Even with increasing doses of decitabine (10
+mg/m2 versus 15 mg/m2), DNA hypomethylation post-decitabine relative to pre-treatment
+methylation levels was not observed. Therefore, analysis of individual promoter methylation
+was not conducted.
+DISCUSSION
+The identification of hypermethylation in key regulatory genes in CLL and NHL that is
+reversible with DNMT inhibition(Katzenellenbogen, et al 1999, Liu, et al 2006a, Raval, et
+al 2005, Raval, et al 2007, Rush, et al 2004) justifies clinical evaluation of low dose
+decitabine in patients with relapsed and refractory CLL and NHL. However, in this trial of
+single agent decitabine in patients with previously treated CLL and NHL, dose-limiting
+myelosuppression and infectious complications precluded escalation to a dose associated
+with DNMT depletion and DNA hypomethylation. Twenty patients with either relapsed
+CLL or diffuse large cell NHL received decitabine at a starting dose of 15 mg/m2/day over
+10 days. At this level, prolonged myelosuppression and transaminitis were dose-limiting.
+Subsequent dose reduction to 10 mg/m2/day was better tolerated in patients with CLL, with
+no DLTs; however, at this dose level no hypomethylation was observed in 5 of 6 patients.
+To permit further dose escalation, decitabine was then administered using a 5-day schedule.
+However, despite this decrease in duration of therapy, myelosuppression and infections
+precluded dose escalation of decitabine above 15 mg/m2. Therefore, we conclude that the
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Blum et al. Page 6
+maximum tolerated dose of decitabine in patients with relapsed or refractory CLL is 10 mg/
+m2/day days 1–10.
+Similarly, in a phase I trial of decitabine in patients with relapsed or refractory solid tumors
+and T-cell lymphomas, after a median of 5 prior therapies, the recommended phase II dose
+of decitabine without growth factor support was 10 mg/m2/day days 1–5, with DLT
+consisting of febrile neutropenia.(Stewart, et al 2009) Although reductions of 2.5–6% in
+global DNA methylation were observed with 2.5–20 mg/m2/day decitabine, these reductions
+were not significant (p=0.40) and did not appear to be dose-dependent, with the greatest
+degree of hypomethylation occurring in the 10 mg/m2 cohort. In addition, in this same trial,
+p16 mRNA expression was not significantly altered by decitabine therapy and did not
+correlate with changes in global DNA methylation. One partial response was observed in a
+patient with thymoma and most patients discontinued therapy due to disease progression.
+(Stewart, et al 2009)
+Therefore, this study and the study by Stewart et al.(Stewart, et al 2009) demonstrate that
+dose escalation of decitabine in patients with CLL, NHL, and solid tumors to an optimal
+clinical and biologic dose is limited by hematologic and infectious complications. These
+results contrast with previous trials in patients with AML and MDS, where decitabine doses
+up to 20 mg/m2/day days 1–5 or 1–10 are well tolerated and associated with meaningful
+clinical responses.(Blum, et al 2008, Blum, et al 2007, Issa, et al 2004, Issa, et al 2005,
+Kantarjian, et al 2007) Although a greater degree of infectious and hematologic
+complications are often tolerated in patients with AML and MDS, in the previous studies,
+the patients have sufficient hematologic recovery for re-treatment with decitabine within 28–
+42 days using 5–10 day schedules.(Blum, et al 2008, Blum, et al 2007, Kantarjian, et al
+2007) In our trial, grade 3–4 neutropenia and thrombocytopenia persisting beyond day 35 as
+well as disease progression prevented patients from receiving additional cycles of decitabine
+therapy. Even 5-day schedules that are associated with less toxicity and higher response
+rates in patients with AML and MDS(Blum, et al 2008, Kantarjian, et al 2007) do not appear
+feasible in patients with B-cell malignancies, as 2 of 2 patients with NHL and 2 of 6 patients
+with CLL in our trials experienced prolonged myelosuppression and serious infections using
+a 5-day schedule.
+Finally, and most importantly, our correlative study results in B-cell malignancies contrast
+strongly with those in AML. Our group previously reported that in relapsed or refractory
+AML patients treated with 15–20 mg/m2/day decitabine on a 10-day schedule, global DNA
+methylation declined to a median of 78% of baseline. This effect was associated with
+significant increases in p15 and ER expression post-treatment.(Blum, et al 2007) No such
+reductions in global DNA methylation or increases in selected gene mRNA expression
+occurred with similar doses of decitabine in CLL and NHL patients. One possible reason for
+the lack of effectiveness of decitabine in the treatment of CLL is low expression of the
+hENT1 transporter responsible for the cellular uptake decitabine,(Fernandez Calotti, et al
+2008, Marce, et al 2006) as compared to more proliferative diseases such as AML or mantle
+cell lymphoma. In other studies, hENT1 expression and/or function have been related to
+decitabine sensitivity.(Hubeek, et al 2005, Qin, et al 2009) Currently our group is exploring
+cellular uptake differences between CLL and AML patients. Additionally, the lower
+proliferation rate of CLL cells may limit decitabine incorporation into DNA and subsequent
+hypomethylation. If this were true, it would suggest that prolonged exposure to decitabine
+would be required to re-express genes. However, this study demonstrates that prolonged
+decitabine therapy is not feasible due to unacceptable myelosuppression in heavily pre-
+treated CLL and NHL patients. Lastly, as the pharmacokinetic data among CLL and NHL
+patients appears similar to those previously reported with decitabine in patients with AML,
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Blum et al. Page 7
+(Blum, et al 2007) inadequate or elevated plasma levels cannot explain the decreased
+biologic activity or increased toxicity of decitabine in patients with lymphoid malignancies.
+In conclusion, in patients with previously treated diffuse large B-cell lymphoma and CLL,
+dose-limiting myelosuppression, hyperbilirubinemia, and febrile neutropenia precludes dose
+escalation of decitabine to a minimum effective pharmacologic dose. However, since
+hypermethylation in the promoters of key regulatory genes involved in transformation and
+progression of CLL and NHL is well described,(Katzenellenbogen, et al 1999, Liu, et al
+2006a, Nakatsuka, et al 2003, Raval, et al 2005, Raval, et al 2007, Rush, et al 2004,
+Takahasi, et al 2004) exploration of mechanisms of why decitabine does not lead to
+methylated target gene re-expression in CLL in vivo and evaluation of other novel agents
+that target epigenetic silencing is warranted.
+Acknowledgments
+This project was supported by NCI K23 CA109004-01A1 (K.A.B.), NCI U01 CA 76576 (M.R.G.), MGI Pharma,
+Specialized Center for Research from the Leukemia and Lymphoma Society P30 CA16058 (D.L, M.L., and J.C.B.),
+and the D. Warren Brown Foundation (J.C.B.).
+The Cancer Therapeutics and Development Program (CTEP) of the National Cancer Institute provided the
+decitabine for this trial. K.A. Blum is supported by K23 CA109004-01A1, and J. C. Byrd is supported by the D.
+Warren Brown Foundation. A Specialized Center for Research from the Leukemia and Lymphoma Society P30
+CA16058 research grant, NCI K23 CA109004-01A1, NCI U01 CA76576, P01 CA101956, and MGI Pharma
+provided assistance with funding the correlative studies on these two trials.
+References
+Blum W, Klisovic R, Liu S, Garzon R, Kefauver C, Liu Z, Mickle J, Devine H, Devine S, Grever MR,
+Chan KK, Villalona-Calero M, Byrd JC, Marcucci G. Preliminary Results of a Phase II Study of
+Low Dose Decitabine as a Single Agent in Older Patients (age>=60) with Previously Untreated
+Acute Myeloid Leukemia (AML). ASH Annual Meeting Abstracts. 2008; 112:2957.
+Blum W, Klisovic RB, Hackanson B, Liu Z, Liu S, Devine H, Vukosavljevic T, Huynh L, Lozanski G,
+Kefauver C, Plass C, Devine SM, Heerema NA, Murgo A, Chan KK, Grever MR, Byrd JC,
+Marcucci G. Phase I study of decitabine alone or in combination with valproic acid in acute myeloid
+leukemia. J Clin Oncol. 2007; 25:3884–3891. [PubMed: 17679729]
+Cheson B, Horning S, Coiffier B, Shipp M, Fisher R, Connors J, Lister T, Vose J, Grillo-Lopez A,
+Hagenbeek A, Cabanillas F, Klippensten D, Hiddemann W, Castellino R, Harris N, Armitage J,
+Carter W, Hoppe R, Canellos G. Report of an international workshop to standardize response
+criteria for non-Hodgkin’s lymphomas. Journal of Clinical Oncology. 1999; 17:1244–1253.
+[PubMed: 10561185]
+Cheson BD, Bennett JM, Grever M, et al. National Cancer Institute-sponsored Working Group
+guidelines for chronic lymphocytic leukemia: revised guidelines for diagnosis and treatment. Blood.
+1996; 87:4990–4997. [PubMed: 8652811]
+Fernandez Calotti P, Galmarini CM, Canones C, Gamberale R, Saenz D, Avalos JS, Chianelli M,
+Rosenstein R, Giordano M. Modulation of the human equilibrative nucleoside transporter1 (hENT1)
+activity by IL-4 and PMA in B cells from chronic lymphocytic leukemia. Biochem Pharmacol.
+2008; 75:857–865. [PubMed: 18078872]
+Harris N, Jaffe E, Diebold J, Flandrin G, Muller-Hermelink H, Vardiman J, Lister T, Bloomfield C.
+World Health Organization classification of neoplastic disease of the hematopoietic and lymphoid
+tissues: Report of the Clinical Advisory Committee Meeting -Airlie House, Virginia, November
+1997. Journal of Clinical Oncology. 1999; 17:3835–3849. [PubMed: 10577857]
+Hubeek I, Stam RW, Peters GJ, Broekhuizen R, Meijerink JP, van Wering ER, Gibson BE, Creutzig
+U, Zwaan CM, Cloos J, Kuik DJ, Pieters R, Kaspers GJ. The human equilibrative nucleoside
+transporter 1 mediates in vitro cytarabine sensitivity in childhood acute myeloid leukaemia. Br J
+Cancer. 2005; 93:1388–1394. [PubMed: 16333246]
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Blum et al. Page 8
+Issa JP, Garcia-Manero G, Giles F, Mannari R, Thomas D, Faderl S, Bayar E, Lyons J, Rosenfeld C,
+Cortes J, Kantarjian H. Phase I study of low-dose prolonged exposure schedules of the
+hypomethylating agent 5-aza-2′deoxycytidine (decitabine) in hematopoietic malignancies. Blood.
+2004; 103:1635–1640. [PubMed: 14604977]
+Issa JP, Gharibyan V, Cortes J, Jelinek J, Morris G, Verstovsek S, Talpaz M, Garcia-Manero G,
+Kantarjian HM. Phase II study of low-dose decitabine in patients with chronic myelogenous
+leukemia resistant to imatinib mesylate. J Clin Oncol. 2005; 23:3948–3956. [PubMed: 15883410]
+Kantarjian H, Oki Y, Garcia-Manero G, Huang X, O’Brien S, Cortes J, Faderl S, Bueso-Ramos C,
+Ravandi F, Estrov Z, Ferrajoli A, Wierda W, Shan J, Davis J, Giles F, Saba HI, Issa JP. Results of
+a randomized study of 3 schedules of low-dose decitabine in higher-risk myelodysplastic
+syndrome and chronic myelomonocytic leukemia. Blood. 2007; 109:52–57. [PubMed: 16882708]
+Katzenellenbogen RA, Baylin SB, Herman JG. Hypermethylation of the DAP-Kinase CpG Island Is a
+Common Alteration in B-Cell Malignancies. Blood. 1999; 93:4347–4353. [PubMed: 10361133]
+Liu TH, Raval A, Chen SS, Matkovic JJ, Byrd JC, Plass C. CpG Island Methylation and Expression of
+the Secreted Frizzled-Related Protein Gene Family in Chronic Lymphocytic Leukemia. Cancer
+Res. 2006a; 66:653–658.10.1158/0008-5472.CAN-05-3712 [PubMed: 16423993]
+Liu Z, Liu S, Xie Z, Blum W, Perrotti D, Paschka P, Klisovic R, Byrd J, Chan KK, Marcucci G.
+Characterization of in vitro and in vivo hypomethylating effects of decitabine in acute myeloid
+leukemia by a rapid, specific and sensitive LC-MS/MS method. Nucleic Acids Res. 2007; 35:e31.
+[PubMed: 17264127]
+Liu Z, Marcucci G, Byrd JC, Grever M, Xiao J, Chan KK. Characterization of decomposition products
+and preclinical and low dose clinical pharmacokinetics of decitabine (5-aza-2′-deoxycytidine) by a
+new liquid chromatography/tandem mass spectrometry quantification method. Rapid Commun
+Mass Spectrom. 2006b; 20:1117–1126. [PubMed: 16523529]
+Marce S, Molina-Arcas M, Villamor N, Casado FJ, Campo E, Pastor-Anglada M, Colomer D.
+Expression of human equilibrative nucleoside transporter 1 (hENT1) and its correlation with
+gemcitabine uptake and cytotoxicity in mantle cell lymphoma. Haematologica. 2006; 91:895–902.
+[PubMed: 16818276]
+Nakatsuka S, Takakuwa T, Tomita Y, Hoshida Y, Nishiu M, Yamaguchi M, Nishii K, Yang WI,
+Aozasa K. Hypermethylation of death-associated protein (DAP) kinase CpG island is frequent not
+only in B-cell but also in T-and natural killer (NK)/T-cell malignancies. Cancer Sci. 2003; 94:87–
+91. [PubMed: 12708480]
+Qin T, Jelinek J, Si J, Shu J, Issa JP. Mechanisms of resistance to 5-aza-2′-deoxycytidine in human
+cancer cell lines. Blood. 2009; 113:659–667. [PubMed: 18931345]
+Raval A, Lucas DM, Matkovic JJ, Bennett KL, Liyanarachchi S, Young DC, Rassenti L, Kipps TJ,
+Grever MR, Byrd JC, Plass C. TWIST2 Demonstrates Differential Methylation in
+Immunoglobulin Variable Heavy Chain Mutated and Unmutated Chronic Lymphocytic Leukemia.
+J Clin Oncol. 2005; 23:3877–3885. [PubMed: 15809452]
+Raval A, Tanner SM, Byrd JC, Angerman EB, Perko JD, Chen SS, Hackanson B, Grever MR, Lucas
+DM, Matkovic JJ, Lin TS, Kipps TJ, Murray F, Weisenburger D, Sanger W, Lynch J, Watson P,
+Jansen M, Yoshinaga Y, Rosenquist R, de Jong PJ, Coggill P, Beck S, Lynch H, de la Chapelle A,
+Plass C. Downregulation of Death-Associated Protein Kinase 1 (DAPK1) in Chronic Lymphocytic
+Leukemia. Cell. 2007; 129:879–890. [PubMed: 17540169]
+Rush LJ, Raval A, Funchain P, Johnson AJ, Smith L, Lucas DM, Bembea M, Liu TH, Heerema NA,
+Rassenti L, Liyanarachchi S, Davuluri R, Byrd JC, Plass C. Epigenetic Profiling in Chronic
+Lymphocytic Leukemia Reveals Novel Methylation Targets. Cancer Res. 2004; 64:2424–2433.
+[PubMed: 15059895]
+Stewart DJ, Issa JP, Kurzrock R, Nunez MI, Jelinek J, Hong D, Oki Y, Guo Z, Gupta S, Wistuba II.
+Decitabine effect on tumor global DNA methylation and other parameters in a phase I trial in
+refractory solid tumors and lymphomas. Clin Cancer Res. 2009; 15:3881–3888. [PubMed:
+19470736]
+Takahasi T, Shivapurkar N, Reddy J, Shigematsu H, Miyajima K, Suzuki M, Toyooka S, Zochbauer-
+Muller S, Drach J, Parikh G, Zheng Y, Feng Z, Kroft S, Timmons C, McKenna R, Gazdar A.
+DNA methylation profiles of lymphoid and hematopoietic malignancies. Clin Can Res. 2004;
+10:2928–2935.
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Blum et al. Page 9
+Yu L, Liu C, Vandeusen J, Becknell B, Dai Z, Wu YZ, Raval A, Liu TH, Ding W, Mao C, Liu S,
+Smith LT, Lee S, Rassenti L, Marcucci G, Byrd J, Caligiuri MA, Plass C. Global assessment of
+promoter methylation in a mouse model of cancer identifies ID4 as a putative tumor-suppressor
+gene in human leukemia. Nat Genet. 2005; 37:265–274. [PubMed: 15723065]
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Blum et al. Page 10
+Figure 1.
+Pharmacokinetics of decitabine. Plasma decitabine concentration versus time in a
+representative patient treated with 15 mg/m2 decitabine (blue line), in a patient with CLL
+treated with 10 mg/m2 decitabine (pink line), and in a patient with diffuse large cell
+lymphoma treated with 15 mg/m2 decitabine.
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Blum et al. Page 11
+Figure 2.
+Global DNA hypomethylation changes (mean ± SD). Changes are assessed by LC-MS
+immediately prior to decitabine (pre-dose, clear) and days 3, 5, 15, and 22 of cycle 1 (post-
+dose, grey) in CD-19 selected CLL/NHL cells in patients treated with 10 mg/m2 decitabine x
+10 days (n=6 CLL patients), 15 mg/m decitabine x 10 days (n=4 CLL patients), and 15 mg/
+2
+m2 x 5 days (n=6 CLL patients and 1 NHL patient).
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Blum et al. Page 12
+Table 1
+Patient characteristics
+Characteristic CLL (N=16) NHL (N=4)
+Age
+Median (range) 61 (32–82) 72 (68–75)
+Gender
+Male : Female 12 : 4 3 : 1
+Prior therapies
+Median (range) 5 (2–8) 3 (2–4)
+Prior transplant 2 (13%) 1 (25%)
+Autologous 1 1
+Allogeneic 1 0
+Refractory Disease
+Stage Rai Stage Ann Arbor
+0–1 2 (13%) 2 (50%)
+2 3 (19%) 0
+3 1 (6%) 0
+4 10 (63%) 2 (50%)
+Bulky lymphadenopathy
+< 5 cm 4 (25%) 0
+≥ 5 cm 12 (75%) 4 (100%)
+Cytogenetics (FISH)
++(12) 1 (6%)
+del(13q) 6 (38%)
+del(11q22.3) 3 (19%)
+del(17p13.1) 4 (25%)
+Complex karyotype 2 (13%)
+International Prognostic Index (IPI) Score
+0–1 0
+2–3 0
+4–5 4 (100%)
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Blum et al. Page 13
+Table 2A
+Dose escalation schema for CLL patients treated with decitabine on OSU 0336
+Dose Level Decitabine dose No. patients Dose limiting toxicities (DLT)
+1.0 15 mg/m2 days 1–10 4 2 DLT: Thrombocytopenia < 75% baseline on day 35 and grade 3 hyperbilirubinemia
+−1.0 10 mg/m2 days 1–10 6 0 DLT, no evidence of DNA hypomethylation
+1.1 15 mg/m2 days 1–5 6 2 DLT: grade 3 and grade 4 febrile neutropenia with sepsis
+Abbreviations: DLT, dose limiting toxicity
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Blum et al. Page 14
+Table 2B
+Dose escalation schema for NHL patients treated with decitabine on OSU 0475
+Dose Level Decitabine dose No. patients Dose limiting toxicities (DLT)
+1.0 15 mg/m2 days 1–10 2 2 DLT: grade 4 neutropenia > 7 days in 2 patients
+1.1 15 mg/m2 days 1–5 2 2 DLT: grade 4 neutropenia and grade 4 thrombocytopenia > 7 days
+Abbreviations: DLT, dose limiting toxicity
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Blum et al. Page 15
+Table 3
+Grade 3–5 Adverse events
+Grade 3–5 Adverse Events Number of patients with at least one occurrence
+Hematologic Number of patients (n = 20) %
+Neutropenia 9 45
+Anemia 4 20
+Thrombocytopenia 11 55
+Infectious
+Febrile neutropenia 7 35
+Gastrointestinal
+Anorexia 1 5
+Diarrhea 1 5
+Metabolic
+Elevated ammonia 1 5
+Hyperbilirubinemia 1 5
+Pulmonary
+Dyspnea 4 20
+Cough 2 10
+Neurologic
+Confusion 1 5
+Somnolence 1 5
+Other
+Fatigue 2 10
+Tumor pain 2 10
+Hypotension 2 10
+Muscle weakness 2 10
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Blum et al. Page 16
+Table 4
+Decitabine pharmacokinetic results in patients with CLL, NHL, and AML
+C max (μM) Tβ1/2 (min) AUC (μM·min) CL (L/min/m2)
+CLL (n=4) 10 mg/m2 d1 0.8 + 0.4 13.0 + 16.2 31.1 + 12.1 1.6 + 0.7
+CLL (n=7) 15 mg/m2 d1 1.6 + 1.3 17.3 + 35.6 60.1 + 35.5 1.7 + 1.5
+NHL (n=4) 15 mg/m2 d1 1.0 + 0.2 26.5 + 129.8 63.0 + 12.1 1.1 + 0.2
+AML (n=8) 15 mg/m2 d1 1.3 + 0.9 35.7 + 30.7 51.1 + 12.1 2.4 + 2.2
+Abbreviations: CLL, chronic lymphocytic leukemia; NHL, non-Hodgkin’s lymphoma; AML, acute myeloid leukemia.
+Br J Haematol. Author manuscript; available in PMC 2011 July 1.

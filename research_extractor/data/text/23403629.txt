@@ -1,0 +1,2626 @@
+Source: 23403629.pdf
+Extracted on: Sat Sep 13 00:02:59 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+Published in final edited form as:
+Clin Cancer Res. 2013 April 1; 19(7): 1838–1851. doi:10.1158/1078-0432.CCR-12-3165.
+Translational Phase I Trial of Vorinostat (Suberoylanilide
+Hydroxamic Acid) Combined with Cytarabine and Etoposide in
+Patients with Relapsed, Refractory, or High-Risk Acute Myeloid
+Leukemia
+Ivana Gojo1,4, Ming Tan2,5, Hong-Bin Fang2,5, Mariola Sadowska3, Rena Lapidus3, Maria R.
+Baer1,4, France Carrier1,6, Jan H. Beumer9,10, Bean N. Anyang9, Rakesh K. Srivastava11,
+Igor Espinoza-Delgado8, and Douglas D. Ross1,4,7
+1University of Maryland Marlene and Stewart Greenebaum Cancer Center (UMGCC), Baltimore
+2Department of Medicine, Division of Biostatistics, University of Maryland School of Medicine,
+Baltimore 3Translational Laboratory Shared Service, UMGCC, Baltimore 4Department of
+Medicine, Division of Hematology and Oncology, Baltimore 5Department of Epidemiology and
+Public Health, Baltimore 6Department of Radiation Oncology, University of Maryland School of
+Medicine, Baltimore 7The Baltimore Veterans Affairs Medical Center, Baltimore 8Cancer Therapy
+Evaluation Program, National Cancer Institute, Bethesda, Maryland 9Molecular Therapeutics/
+Drug Discovery Program, University of Pittsburgh Cancer Institute (UPCI), Pittsburgh,
+Pennsylvania 10Department of Pharmaceutical Sciences, University of Pittsburgh School of
+Pharmacy, Pittsburgh, Pennsylvania 11University of Kansas Medical Center, Kansas City, Kansas
+Abstract
+Purpose—To determine the maximum-tolerated dose (MTD) of the histone deacetylase inhibitor
+vorinostat combined with fixed doses of cytarabine (ara-C or cytosine arabinoside) and etoposide
+©2013 American Association for Cancer Research.
+Corresponding Author: Douglas D. Ross, University of Maryland Marlene and Stewart Greenebaum Cancer Center, Room 9-031
+Bressler Research Building, 655 West Baltimore Street, Baltimore, MD 21201. Phone: 410-328-8095; Fax: 410-328-6559;
+dross@som.umaryland.edu.
+Current address for I. Gojo: The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Baltimore, MD.
+Note: Supplementary data for this article are available at Clinical Cancer Research Online (http://clincancerres.aacrjournals.org/).
+Disclosure of Potential Conflicts of Interest: M. Sadowska, I. Espinoza-Delgado, and D.D. Ross have commercial research grant
+from Merck Inc. No potential conflicts of interest were disclosed by the other authors.
+Authors' Contributions: Conception and design: I. Gojo, M. Tan, H.-B. Fang, M. Sadowska, F. Carrier, I. Espinoza-Delgado, D.D.
+Ross
+Development of methodology: I. Gojo, H.-B. Fang, M. Sadowska, F. Carrier, J.H. Beumer, I. Espinoza-Delgado, D.D. Ross
+Acquisition of data (provided animals,acquired and managed patients, provided facilities, etc.): I. Gojo, M. Sadowska, R.
+Lapidus, M.R. Baer, J.H. Beumer, I. Espinoza-Delgado, D.D. Ross
+Analysis and interpretation of data (e.g., statistical analysis, biostatistics, computational analysis): I. Gojo, M. Tan, H.-B. Fang,
+M. Sadowska, J.H. Beumer, I. Espinoza-Delgado, D.D. Ross
+Writing, review, and/or revision of the manuscript: I. Gojo, M. Tan, H.-B. Fang, M. Sadowska, R. Lapidus, M.R. Baer, F. Carrier,
+J.H. Beumer, R.K. Srivastava, I. Espinoza-Delgado, D.D. Ross
+Administrative, technical, or material support (i.e., reporting or organizing data, constructing databases): I. Gojo, M.
+Sadowska, I. Espinoza-Delgado, D.D. Ross
+Study supervision: I. Gojo, J.H. Beumer, I. Espinoza-Delgado, D.D. Ross
+Ran the samples: B.N. Anyang
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Gojo et al. Page 2
+in patients with poor-risk or advanced acute leukemia, to obtain preliminary efficacy data,
+describe pharmacokinetics, and in vivo pharmacodynamic effects of vorinostat in leukemia blasts.
+Experimental Design—In this open-label phase I study, vorinostat was given orally on days
+one to seven at three escalating dose levels: 200 mg twice a day, 200 mg three times a day, and
+300 mg twice a day. On days 11 to 14, etoposide (100 mg/m2) and cytarabine (1 or 2 g/m2 twice a
+day if ≥65 or <65 years old, respectively) were given. The study used a standard 3+3 dose
+escalation design.
+Results—Eighteen of 21 patients with acute myelogenous leukemia (AML) treated on study
+completed planned therapy. Dose-limiting toxicities [hyperbilirubinemia/septic death (1) and
+anorexia/fatigue (1)] were encountered at the 200 mg three times a day level; thus, the MTD was
+established to be vorinostat 200 mg twice a day. Of 21 patients enrolled, seven attained a complete
+remission (CR) or CR with incomplete platelet recovery, including six of 13 patients treated at the
+MTD. The median remission duration was seven months. No differences in percentage S-phase
+cells or multidrug resistance transporter (MDR1 or BCRP) expression or function were observed
+in vivo in leukemia blasts upon vorinostat treatment.
+Conclusions—Vorinostat 200 mg twice a day can be given safely for seven days before
+treatment with cytarabine and etoposide. The relatively high CR rate seen at the MTD in this poor-
+risk group of patients with AML warrants further studies to confirm these findings.
+Introduction
+The observation of aberrant histone deacetylase (HDAC) activity in a variety of human
+cancers—resulting in epigenetically mediated enhancement of the expression of genes
+favorable to cancer progression and repression of genes regulating differentiation and
+apoptosis—led to the development of HDAC inhibitors as an anticancer therapeutic strategy.
+Vorinostat (suberoylanilide hydroxamic acid, NSC 701852) is a small-molecule HDAC
+inhibitor that targets most human class 1 and 2 HDAC enzymes but does not affect the
+activity of class 3 HDACs. Vorinostat has excellent oral bioavailability; it is currently the
+most potent HDAC inhibitor available clinically (1). Vorinostat is approved by the U.S.
+Food and Drug Administration (FDA) “for the treatment of cutaneous manifestations in
+patients with cutaneous T-cell lymphoma who have progressive, persistent or recurrent
+disease on or following two systemic therapies.”
+In addition to its efficacy in producing growth arrest and inducing differentiation or
+apoptosis in a variety of cancer cells, vorinostat was found to enhance the expression of
+TRAIL death receptors DR4 and DR5 in human leukemia cell lines, thereby synergizing
+with TRAIL in stimulating apoptosis by both the death receptor and mitochondrial pathways
+(2). In few reports, P-glycoprotein (Pgp) or multidrug resistance protein (MRP2) was
+downregulated in response to HDAC inhibitors (3, 4), whereas HDAC inhibitors
+upregulated breast cancer resistance protein (BCRP) and/or Pgp expression in other reports
+(5–9). These findings have all been observed in cultured cancer cell lines; to date, there are
+no published reports of alterations in TRAIL death receptor or multidrug resistance-
+associated transporter expression in tumor cells taken from patients undergoing treatment
+with vorinostat.
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Gojo et al. Page 3
+Vorinostat is being investigated for use in combination with other chemotherapeutics in a
+number of diseases, including the acute leukemias. In in vitro cytotoxicity studies, vorinostat
+interacted additively or synergistically with anthracyclines and etoposide (10). Studies in our
+laboratory confirmed these findings for etoposide; however, for cytarabine (ara-C or
+cytosine arabinoside), a mainstay of acute myelogenous leukemia (AML) therapy, we found
+that vorinostat was antagonistic in this combination because vorinostat diminished cells in
+S-phase, the cell-cycle phase in which cells are most vulnerable to cytarabine toxicity (11).
+In contrast, the sequential administration of vorinostat followed by cytarabine produced
+synergy, particularly when a 72-hour interval was interposed between exposure to vorinostat
+and exposure to cytarabine to allow reentry of cells into S-phase (11).
+The present work was conceived to test the safety of vorinostat given in a sequential
+combination with fixed doses of cytarabine and etoposide to patients with newly diagnosed
+poor-risk or advanced leukemias, and to define its maximum-tolerated dose (MTD) in this
+regimen. Because vorinostat was administered as a single agent before cytarabine and
+etoposide, this provided the opportunity to study the effects of vorinostat on percentage of S-
+phase cells, expression of TRAIL death/decoy receptors, and expression and function of
+BCRP and MDR1/Pgp in patient-derived leukemic blast cells by sampling before vorinostat
+and during its administration.
+Materials and Methods
+Study population
+Patients 18 years or older having relapsed or refractory AML or acute lymphoblastic
+leukemia (ALL), secondary AML [therapy-related or arising from antecedent hematologic
+disorder (AHD)], or chronic myelogenous leukemia (CML) in accelerated or blastic phase
+failing or intolerant of tyrosine kinase inhibitors were eligible for the study. A list of
+eligibility criteria is provided in Supplementary Table S1. A leukemic blast count less than
+30 × 109/L was required at initiation of study treatment. Hydroxyurea or leukapheresis had
+to be discontinued at least 24 hours before initiation of treatment, however, their use was
+allowed on treatment days 1 through 10 (i.e., before the start of cytarabine and etoposide), if
+it became necessary to control a rising blast count (>30 × 10 9/L) or leukostasis.
+Study design
+This was a National Cancer Institute (NCI; Bethesda, MD)–sponsored phase I dose-
+escalation study (NCT00357305) of vorinostat given in combination with fixed doses of
+cytarabine and etoposide to patients with poor-risk or advanced acute leukemias. The
+primary objective was to define the MTD of vorinostat given in combination with ara-C and
+etoposide for 2 strata of participants: those 65 years or older and those younger than 65
+years. Vorinostat was administered orally [per os (p.o.)] on days 1 to 7 at the starting dose
+level (DL1) of 200 mg twice a day. Dose escalation of vorinostat was planned to proceed to
+200 mg 3 times a day (DL2) and 300 mg twice a day (DL3) until the MTD was defined.
+Patients younger than 65 years were given cytarabine 2 g/m2 and patients 65 years or older
+were given cytarabine 1 g/m2 i.v. over 3 hours every 12 hours on days 11 to 14, for a total of
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Gojo et al. Page 4
+8 doses. Etoposide 100 mg/m2 i.v. over 1 hour once a day on days 11 to 14 was given to all
+patients.
+The classic 3+3 design was used for each age stratum with provision for cohort expansion to
+6 evaluable patients if a dose-limiting toxicity (DLT) was observed among the initial 3
+patients. If 2 or more DLTs were observed at a given dose level, dose-escalation was halted
+and dose-finding continued at a lower dose level until the MTD was defined (the highest
+dose level with <33% first-cycle DLTs). For dose escalation, a patient was considered
+“evaluable” if the patient completed cycle 1 treatment or was withdrawn from the protocol
+due to drug toxicity. If a patient was withdrawn from the study without meeting these
+criteria, the patient was replaced in that cohort, if needed, to have 3 evaluable patients (or 6
+if cohort needs to be expanded because of DLT). If the patient was removed from the study
+due to progressive disease before finishing treatment, this patient was replaced by
+enrollment of new patient in the cohort. Patients who achieved a complete remission (CR) or
+CR with incomplete platelet recovery (CRp) could receive a second cycle of treatment as
+consolidation. No intrapatient dose escalation was allowed. Secondary objectives included
+preliminary evaluation of efficacy and evaluation of vorinostat pharmacokinetics and
+pharmacodynamics. Before any trial-specific activity was conducted, all patients signed a
+University of Maryland (Baltimore, MD) Institutional Review Board (IRB)–approved
+informed consent form. The study was monitored by the Greenebaum Cancer Center's
+(Baltimore, MD) Data and Safety Monitoring Committee (DSMC), and was conducted in
+accordance with the Declaration of Helsinki and in compliance with International
+Conference on Harmonization Good Clinical Practice Guidelines.
+Safety assessment
+Clinical and laboratory monitoring of the study participants was conducted according to the
+standards of practice for adults with leukemia undergoing intensive antileukemia therapies.
+Toxicities were graded using the NCI Common Terminology Criteria for Adverse Events
+(CTCAE) version 4.0. A DLT was defined as any grade ≥4 drug-related nonhematologic
+toxicity or any grade 3 drug-related nonhematologic toxicity lasting more than 24 hours,
+with the following exceptions: grade 3 elevation in bilirubin, aspartate aminotransferase
+(AST), alanine aminotransferase (ALT), or alkaline phosphatase of any duration; fatigue and
+anorexia if lasting more than 7 days were considered DLT; grade 3 diarrhea or mucositis
+was considered DLT during vorinostat treatment but if encountered during or following
+cytarabine/etoposide treatment was considered DLT only if resolution to ≤grade 2 required
+more than 2 days; grade ≥3 neurologic toxicity of any duration was considered DLT.
+Hematologic DLT was defined as myelosuppression (grade 4) for 42 or more days following
+the start of cytarabine and etoposide with a bone marrow cellularity of 5% or less and no
+evidence of leukemia.
+Response
+Abone marrow examination was conducted at the time of hematologic recovery [within 1
+week of absolute neutrophil count (ANC) ≥1.5 × 109/L and platelets ≥100 × 109 L] or at any
+time that leukemia regrowth was suspected (12). Response was determined according to the
+International Working Group criteria for AML (12).
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Gojo et al. Page 5
+Pharmacokinetic studies
+Peripheral blood (5 mL/time point) was collected in a red-top vacutainer before and at 0.5,
+1, 2, 2.5, 3, 4, 6, and 8 hours after the first vorinostat dose on day 1. The blood was allowed
+to clot at 4° C for 20 to 30 minutes, then centrifuged at 2,000 × g for 15 minutes at 4°C, and
+serum was aspirated and stored at −70°C until analysis. Vorinostat was quantitated using a
+previously published, FDA-validated liquid chromatography/tandem mass spectrometry
+(LC/MS-MS) assay (13). Serum pharmacokinetic parameters, including area under the
+concentration versus time curve (AUC) were extracted from the data by noncompartmental
+methods with PK Solutions 2.0 (Summit Research Services). Descriptive statistics were
+calculated with Microsoft Excel 2010.
+Translational (pharmacodynamic) studies
+Depending upon the number of cells available for study, the pharmacodynamic studies were
+conducted with the following order of priority (from highest to lowest): cell-cycle studies,
+DR4/DR5 determination, DcR1/DcR2 determination, multidrug resistance transporter
+expression, and function.
+Bone marrow (or peripheral blood if the marrow was inaspirable, provided that the absolute
+blast count was >5 × 109/L), was collected before treatment (“pre” vorinostat sample) and
+once again between days 4 to 7 during vorinostat treatment approximately 2 hours following
+the most recent vorinostat dose (“on” vorinostat sample). Mononuclear cells were purified
+by gradient sedimentation using ACCUSPIN System-Histopaque-1077 (Sigma-Aldrich).
+Leukemia cells isolated by this method were routinely more than 90% pure as determined by
+Wright-Giemsa staining (Sigma-Aldrich) of cytospin preparations. The cells were then
+cryopreserved in 7.5% dimethyl sulfoxide (DMSO)/ 92.5% FBS and stored in liquid
+nitrogen vapor until use. Fresh or thawed cryopreserved cells were used for analysis.
+Preliminary studies revealed similar results for fresh and cryopreserved cells from the same
+individual.
+Buccal mucosal cells were studied to determine the extent to which vorinostat treatment
+altered normal tissue. Buccal mucosal cells were obtained at times of bone marrow/
+peripheral blood collection by swabbing the buccal mucosa 4 times with 4 to 6 sterile
+brushes (Cytobrush Plus GT, Medscand Medical), then collecting cells in RPMI-1640
+medium (GIBCO Life Technologies), treating with collagenase A (Roche Applied
+Sciences), 100 μg/mL for 1.5 hours at 37°C, washing with PBS, sieve-filtering, rewashing
+with ice-cold PBS twice, then counting. Typically, this yielded 0.2 to 1 × 106 nucleated
+cells.
+Cell-cycle phase distribution determination and analysis of S-phase fraction—
+Cells were fixed with cold 70% ethanol, stained with propidium iodide/RNase staining
+buffer (BD Pharmingen) and analyzed by flow cytometry (FACSCcanto, Becton Dickinson)
+as described previously (11). Cell-cycle phase distribution was determined using FlowJo
+Software (Tree Star, Inc.) or ModFit (Verity Software House).
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Gojo et al. Page 6
+Cell lines used for assay development and as positive and negative controls
+—HL-60/W cells were obtained from the American Type Culture Collection (ATCC) in
+2005. HL-6O/ Vinc cells (14), which were selected with vincristine and stably overexpress
+Pgp, were obtained from Dr. Melvin Center (Kansas State University, Manhattan, KS) in
+1992. HL-60/W and HL-60/Vinc cells were maintained in suspension culture in RPMI-1640
+medium (GIBCO), 10% (v/v) heat-inactivated FBS (Lonza) and were passaged weekly.
+K562 and K562/BCRP cells were kindly obtained from Dr. Yoshikazu Sugimoto (Japanese
+Foundation for Cancer Research, Tokyo, Japan; ref. 15) in 2004, were maintained in
+RPMI-1640 medium supplemented with 10% heat-inactivated FBS and were passaged twice
+weekly. K562/MX10 cells are K562/BCRP cells that we selected with mitoxantrone to
+increase BCRP expression (16). After receipt in our laboratory, all cell lines were grown in
+quantity, then stored frozen in liquid nitrogen vapor in 10% DMSO, 90% fetal calf serum
+until time of further use. Cell lines were used within 20 passages of initial cryopreservation.
+Cells were used in logarithmic growth phase, with cell viability routinely more than 95% by
+Trypan blue dye exclusion. Cell cultures were tested twice yearly to assure the absence of
+contamination by Mycoplasma (Lonza). The authenticity of these cell lines in comparison
+with ATCC data for these lines was verified by short tandem repeat profiling (StemElite ID
+System; Promega). HL-60, HL-60/Vinc, K562, and K562/ BCRP all shared 13 of 13 human
+autosomal alleles (100%) with the ATCC reference for HL-60 or K562. Each cell line tested
+negative for the mouse marker included in the StemElite ID Kit.
+Determination of TRAIL death and decoy receptor protein expression—
+Leukemia cells were washed twice with PBS/ 2%FBS, then stained with antibodies. Up to 5
+× 105 mononuclear cells or buccal mucosal cells were suspended in 100 μL of PBS. The
+antibodies used were phycoerythrin (PE)-conjugated and obtained from R&D Systems:
+TRAIL-R1/DR4 antibody, cat. no. FAB347P; TRAIL-R1/DR5 antibody,
+cat.no.FAB6311P;TRAIL-R3/DcR1 antibody,cat.no. FAB6302P; TRAIL-R4/DcR2
+antibody, cat. no. FAB633P, and the corresponding isotype controls for the PE-labeled
+antibodies [immunoglobulin G (IgG)1 cat. no. IC002P or IgG2b cat. no. IC004P]. Human
+FcR-blocking reagent (Miltenyi Biotec), cat. 130-059-901) was used for each reaction to
+eliminate nonspecific antibody binding (20 μL/1 × 10 7 cells). Ten microliter of the antibody
+were added to 100 μL of cell suspension. Following incubation on ice for 1 hour, the cells
+were washed twice with PBS, fixed in 2% paraformaldehyde, and then analyzed by flow
+cytometry. HL-60 cells untreated and treated with vorinostat (1 μmol/L for 24 hours) were
+used as positive controls for DR4, DR5, DcR1, and DcR2.
+Assessment of MDR1/Pgp and BCRP transcripts, protein, and function—Total
+RNA was extracted from at least 106 leukemic blasts cells using NucleoSpin RNA II
+(Macherey-Nagel). The RNA was used for quantitative real-time PCR (qRT-PCR) analysis
+of MDR1, BCRP, and β-actin transcript levels. Up to 500 μg of total RNA were converted
+into cDNA using qScript cDNA SuperMix (Quanta Biosciences). The RT-PCR reactions
+were prepared using PerfeCTa SYBR Green FastMix for iQ (Quanta Biosciences) and
+detected on the BioRad MyiQ instrument (Biorad). Expression of MDR1, BCRP, and β-actin
+mRNA was measured using qRT-PCR methods with primers as described previously (16).
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Gojo et al. Page 7
+Pgp (ABCB1) and BCRP (ABCG2) proteins were detected by flow cytometry using the PE-
+conjugated anti-MDR1 (clone UIC2, cat. 12-2439-41; eBioscience) or anti-BCRP (clone
+5D3, cat. FAB995A; R&D Systems). PE-conjugated mouse IgG2a κ and mouse IgG2b were
+used as isotype control antibodies for Pgp and BCRP determinations, respectively. Cell
+staining with antibody and isotype control was compared by the Kolmogorov–Smirnov
+statistic, which generates D values ranging from 0 (no difference) to 1 (no overlap; ref. 17).
+A D value of less than 0.15 is considered to indicate no overexpression of the transporter
+(18).
+Functional expression of BCRP was determined as outlined previously (19) by measuring
+the effects of a specific inhibitor of BCRP (Ko143, 10 μmol/L; Sigma-Aldrich) on the
+accumulation/retention of a specific BCRP substrate (pheophorbide A at 1 μmol/L; Frontier
+Scientific, Inc.); functional expression of Pgp was measured by the effects of a specific Pgp
+inhibitor (PSC833, 2.5 μg/mL; Novartis) on the accumulation/retention of a specific
+substrate of Pgp (3,3′-diethyloxacarbocyanine iodide, DiOC2; Sigma-Aldrich) at 0.6 ng/mL.
+Intracellular dye accumulation (3 hours) and retention (20 hours) were measured by flow
+cytometry and analyzed using FlowJo software (Tree Star, Inc.).
+HL-60/Vinc cells and their corresponding parental cell line HL-60/W were used as positive
+and negative controls for MDR1/Pgp, respectively (14); K562/MX10 cells and their
+corresponding parental cell line K562/W were used as positive and negative controls for
+BCRP (16).
+Statistical analysis
+Overall survival (OS) was measured from the time of enrollment onto this study to the time
+of death. Progression-free survival (PFS) was measured from the time of enrollment to the
+time of documented disease progression. Survival (OS and PFS) was estimated using the
+Kaplan– Meier method. CR duration was measured from the time when criteria were first
+met for CR until the first date that recurrent disease was objectively documented. Exact
+confidence intervals were computed for proportions such as response rate.
+The two-sample paired t test and the Wilcoxon signed-rank test were used to compare the
+secondary endpoint data in the “pre” vorinostat samples with those of the “on” vorinostat
+sample. For comparison of the “pre” vorinostat sample with the “on” vorinostat sample for a
+given patient, the two-tailed t test was used.
+Results
+Patient characteristics
+Twenty-one patients were treated on this study; their characteristics are summarized in
+Table 1 and in Supplementary Table S2. Their median age was 61 years and 11 (52%)
+patients were 60 years and older. All patients had high-risk AML, including relapsed or
+refractory AML, AML arising from AHD or therapy-related. Among 10 patients with prior
+remission, 9 had CR1 duration of less than 12 months. Overall, 10 patients had AML arising
+from AHD (4 therapy-related, 2 arising from myeloproliferative disease, and 8 from
+myelodysplastic syndrome) and 1 patient had newly diagnosed therapy-related AML. Nine
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Gojo et al. Page 8
+of 10 patients received prior treatment of AHD such as hydroxyurea and erythropoietin (1
+patient), azacitidine or decitabine (7 patients), and allogeneic stem cell transplant (SCT; 1
+patient). An additional patient treated on study received allogeneic SCT for AML in CR2.
+Overall, 4 (19%) patients had favorable karyotype (all with additional karyotypic
+abnormalities and 1 patient with documented c-kit mutation). Eight patients (43%) had
+unfavorable karyotype including complex karyotype (≥3 abnormalities) in 5 (24%) patients,
+del 7/7q in 6 (29%) patients, del 5/5q in 5 (24%) patients (both in 4 patients); 9 patients had
+intermediate-risk karyotype. Among 4 patients with normal karyotype, 3 had a FLT3-ITD
+(FMS-like tyrosine kinase 3 internal tandem duplication) mutation.
+Toxicity and determination of MTD
+Eighteen of 21 patients completed the assigned first cycle of therapy. Two patients
+completed only the vorinostat portion and withdrew consent before starting cytarabine/
+etoposide on day 11; of these, 1 patient developed progressive bone pain and increasing
+white blood cells (WBC) while on vorinostat and requested to proceed with an alternative
+chemotherapy on day 8; another refused any chemotherapy on day 9. An additional patient
+age more than 65 years was inadvertently given a higher dose of cytarabine (2 instead 1
+g/m2), and hence is evaluable only for vorinostat toxicity. The most frequent toxicities
+judged “possibly” related to the full treatment regimen are listed in Table 2A and B and
+include diarrhea, nausea, fever, vomiting, and fatigue. Of the 2 patients treated with
+vorinostat only, none experienced a DLT.
+Of the 7 patients treated at DL1 (200 mg vorinostat p.o. twice a day), 1 patient opted off
+protocol after receiving only vorinostat. This patient was evaluable for toxicity but not dose
+escalation. The remaining 6 of 7 patients initially treated on DL1 completed therapy and
+were evaluable for the dose escalation. No DLTs were observed and other than fever no
+grade ≥3 adverse events were noted (3 patients in each age stratum). Eight patients were
+then treated at DL2 (200 mg vorinostat 3 times a day; 6 patients older than 65 years and 2
+patients 65 years or older) but only 5 were evaluable for dose escalation. Three patients were
+not evaluable for dose escalation for the following reasons: incomplete treatment (<65 years
+old), incorrect cytarabine dose and death due to sepsis unrelated to study treatment on day
+36 (>65 years old), and fungal sepsis and death before count recovery on day 39 (<65 years
+old, not considered DLT). However, 2 DLTs were observed at DL2 (Table 2A and B).
+Among the <65-year-old age stratum, dose-limiting hyperbilirubinemia was observed in 1
+patient. This patient subsequently experienced multiorgan failure and death on day 49 in the
+setting of neutropenia and fever which were considered to be possibly treatment-related. In
+the 65 year or older age stratum, 1 patient experienced dose-limiting grade 3 anorexia,
+fatigue, and muscle weakness attributable to vorinostat. Given 2 DLTs among 5 dose-
+escalation–evaluable patients at DL2 and an additional patient with neutropenic death, the
+DSMC recommended dose-deescalation to DL1, as stipulated in the protocol design. Six
+more patients were treated at DL1 (3 in each age stratum) with no DLT. Hence, the MTD of
+vorinostat in combination with fixed doses of cytarabine and etoposide was established to be
+200 mg p.o. twice a day.
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Gojo et al. Page 9
+Median times to count recovery are shown in Table 2C. Overall, 16 (77%) patients
+experienced grade ≥3 febrile neutropenia, 7 (33%) patients had documented bacteremia, and
+9 (43%) had pneumonia. Two patients received a second course of protocol treatment as
+consolidation. Five patients had high or rising blast counts during or before vorinostat
+therapy, most required hydroxyurea.
+Antitumor properties
+Clinical outcomes are summarized in Table 3A. Analyzed on an “intent-to-treat basis,” of
+the 21 patients enrolled, 5 achieved CR and 2 CRp, giving an overall response rate (ORR) of
+33%. Of these 21 patients, 5 were not evaluable for treatment response because of early
+death (2 patients), protocol violation (1 patient), or not receiving the full course of treatment
+(2 patients; Table 3A). The median remission duration was 7 months (range, 1–19+ months).
+The ORR at the MTD was 46% (Table 3A and B). OS was 193 days [95% confidence
+interval (CI), 96–519 days] and PFS was 45.5 days (95% CI, 42–342 days; Fig. 1). The
+characteristics of patients achieving CR or CRp, including postremission treatments, is given
+in Table 3B. One patient is currently alive who had an allogeneic SCT following
+achievement of CR. The diagnosis, age, initial WBC, need for hydroxyurea, mutational
+status, and karyotypes of the 21 patients enrolled are provided in Supplementary Table S2.
+In the CR group, 3 patients had favorable karyotypes and no patient required hydroxyurea to
+control circulating blasts during vorinostat treatment. The median age of the CR group was
+61 years (range, 46–71 years) compared with 69 years for the progressive disease group
+(range, 20–77 years) and 57 years for the not evaluable group (NE; range, 35–67 years).
+There were no statistically significant differences in age among the groups (two-tailed t test;
+P > 0.05).
+Pharmacokinetics
+All patients provided pharmacokinetic samples. A summary of the pharmacokinetic data is
+given in Table 4. Vorinostat pharmacokinetics were similar at DL1 and 2 and between
+patients younger or older than 65 years. The C values for DL1 averaged 196.8 ± 90.4
+max
+ng/mL with a t of 2.1 ± 1.9 hours. The C values for DL2 averaged 165.2 ± 64.1
+max max
+ng/mL with a t of 3.5 ± 2.0 hours. The C values for the less than 65 years of age
+max max
+cohort averaged 173.8 ± 173.8 ng/mL with a t of 3.3 ± 3.3 hours. The C values for the
+max max
+65 years or older age group averaged 202.6 ± 101.4 ng/mL with a t of 1.6 ± 1.1 hours.
+max
+Vorinostat effects on the cell cycle in patient-derived blasts and buccal mucosal cells
+Cell-cycle phase distribution was determined in leukemic blasts (16 patients) and/or buccal
+mucosal cells (17 patients) sampled “pre” and “on” vorinostat. For buccal mucosal cells,
+there was no statistically significant alteration in any cell-cycle phase upon treatment (Table
+5A). Similarly, leukemia blasts showed no statistically significant change in cell-cycle phase
+in aggregate (Table 5A) or when analyzed by treatment response category using the two-
+sample paired t test (Supplementary Table S3).
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Gojo et al. Page 10
+TRAIL death and decoy receptors
+The percentages of cells expressing the TRAIL death receptors DR4 and DR5 and the
+TRAIL decoy receptors DcR1 and DcR2 were determined by flow cytometry. All death
+receptor data for paired “pre” and “on” vorinostat samples are provided in Supplementary
+Table S4. Although the mean values increased slightly for DR4, DR5, DcR1, and DcR2
+(Table 5B–D), due to the small sample size and relatively large variance no significant
+differences were seen among the leukemic blasts between the “pre” and “on” vorinostat
+samples, using the two-sample paired t test or the Wilcoxon signed-rank test. Furthermore,
+there were no statistically significant differences in death receptor expression in the “pre”
+and “on” vorinostat samples among the CR and progressive disease groups (data not
+shown). The buccal mucosal samples available for death receptor studies were limited;
+however, no statistically significant differences between “pre” and “on” vorinostat samples
+were observed for DR4 or DR5 expression in buccal mucosal cells (Table 5B and C).
+Table 5E shows the validity of our assays using HL-60 cells treated with vorinostat as
+positive controls for DR4, DR5, DcR1, and DcR2. Such controls were run concomitantly
+with each assay of patient samples. These studies reveal that 24-hour exposure of HL-60
+cells to 1 μmol/L vorinostat significantly increases DR4, DR5, DcR1, and DcR2 expression
+(P < 0.02; t test).
+Vorinostat effects on the expression and function of MDR1-Pgp/ABCB1 and BCRP/ABCG2
+Eight paired patient samples were evaluated for MDR1 or BCRP mRNA expression. None
+of these patients achieved a response from protocol treatment. Data are expressed as amount
+of mRNA present relative to β-actin × 10−4. In the pretreatment samples (Table 5F), MDR1
+mRNA expression was comparable with that of K562/W cells with the exception of cells of
+patients 22 and 24, which seemed to express a higher level of MDR1 mRNA; in addition,
+cells of patients 2, 22, and 24 seemed to express levels of BCRP mRNA that were more than
+3 times the expression level of the parental HL-60/W cell line. MDR1 expression increased
+in the “on” treatment samples in 7 patients (88%, 95% CI, 50%–99%) suggesting a trend
+toward increased expression of MDR1 mRNA caused by vorinostat (Table 5F). Within
+patients, using the two-sample t test, MDR1 mRNA expression levels increased in the “on”
+vorinostat samples from 4 patients and decreased in 1 patient (P ≤ 0.05). BCRP mRNA did
+not differ significantly between “pre” and “on” vorinostat samples except for patient 13
+(Table 5F). Among all patients, there was no significant alteration in MDR1 or BCRP
+mRNA expression in the “on” vorinostat sample compared with the “pre” vorinostat
+samples using the paired t test.
+Only 3 paired patient samples were studied for transporter protein expression. Of these,
+patients 17 and 24 met Kolmogorov–Smirnov D value criteria for BCRP protein expression
+in the pretreatment samples, with slight decreases following treatment (Table 5F).
+Six paired patient samples were studied by functional assays; of these, pretreatment samples
+from patients 7, 13, 17, 18, 22, and 24 seemed to show enhanced accumulation or retention
+of DiOC2 in the presence of the Pgp inhibitor PSC833, consistent with functional expression
+of Pgp (Table 5F). None of the pretreatment samples seemed to express functional BCRP.
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Gojo et al. Page 11
+There was no difference in function for either Pgp or BCRP in the “on” vorinostat sample
+compared with the “pre” vorinostat samples using the paired t test.
+Discussion
+This phase I clinical trial achieved its primary objective of determining the MTD of
+vorinostat given on days 1 to 7 before the administration of fixed doses of cytarabine and
+etoposide on days 11 to 14 in patients with relapsed, refractory, or high-risk newly
+diagnosed acute leukemias. Furthermore, it provides preliminary descriptive data about the
+treatment efficacy of this combination. At the MTD of vorinostat—200 mg twice a day—the
+regimen was well tolerated with common adverse events of fatigue, nausea, vomiting, and
+diarrhea occurring at grade 1 or 2 levels. Higher dosing of vorinostat (200 mg 3 times a day)
+was associated with more severe fatigue, anorexia, muscle weakness, neutropenia, and
+severe infections. In patients who responded to treatment, the median time to blood count
+recovery was within the time frame expected in patients with AML treated with intensive
+chemotherapy. Using intent-to-treat analysis, the ORR was 33% in this population of high-
+risk patients and was 46% in patients treated at the MTD level with median remission
+duration of 7 months.
+HDAC inhibitors have shown modest antileukemic activity as single agents. In a phase I
+study of MS-275 (entinostat), a benzamide HDAC inhibitor, in 38 adults with advanced
+acute leukemias, increased acetylation of histone H3/H4 was shown but no clinical
+responses were seen using “classical criteria” (20). A low (5%) response rate was observed
+in frail or elderly patients with AML treated with valproic acid alone or in combination with
+all-trans retinoic acid (21). In a phase I study of depsipeptide in 10 patients with AML, some
+antitumor activity was seen but there were no CRs (22). Severe constitutional symptoms
+limited the extent to which depsipeptide could be administered in that study. A subsequent
+phase II investigation of depsipeptide in 20 patients with AML found antileukemic activity
+(but no CRs) only in patients with rearrangements involving core-binding factor (CBF),
+predominantly the t(8;21) translocation (9). In our present study, of the 7 responders, 3 had
+CBF rearrangements, 2 with inv(16)(p13.1;q22) and 1 with t(3;21)(q26.1; q22). All 3 of
+these patients achieved a CR, with remission durations of 10, 7, and 4 months. In contrast,
+only 1 of 9 patients in the nonresponding group had CBF AML with t(8;21)(q22;q22).
+Vorinostat as a single agent seems to have better antileukemic activity than MS-275,
+valproic acid, or depsipeptide, and is better tolerated than the latter. A phase I trial of
+vorinostat in 41 patients with advanced leukemias and myelodysplastic syndromes
+documented 4 CRs in patients with AML, none of whom had CBF AML. However, there
+was only 1 case of CBF AML among the 31 patients with AML studied (23). In that study,
+vorinostat was administered for 14 days in 21-day treatment cycles. The MTD was found to
+be 250 mg 3 times a day or 200 mg twice a day. As with our study, the common toxicities
+observed were gastrointestinal and fatigue. On the basis of preclinical data suggesting
+synergism between HDAC inhibitors and anthracyclines (10), another phase I investigation
+examined vorinostat given for 3 versus 14 days in combination with fixed doses of
+idarubicin in 41 patients with relapsed or refractory leukemias (24). DLT was encountered
+in 2 patients on the 14-day arm, including prolonged myelosuppression and mucositis. The
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Gojo et al. Page 12
+MTD was found to be 400 mg 3 times a day for 3 days, with idarubicin given at 12 mg/m2
+i.v. days 1 to 3. Clinical responses were seen in 7 of 41 patients (17%), including 2 CRs and
+1 CRp. Recently, very encouraging results were reported for a phase II study by Garcia-
+Manero and colleagues using vorinostat at 500 mg 3 times a day × 3 days followed by
+cytarabine and idarubicin 24 hours later. Patients were given a shortened consolidation cycle
+followed by vorinostat maintenance. Among 75 newly diagnosed patients, the CR/CRp rate
+was 86% with median survival of 15.7 months. Interestingly, among 11 FLT3-mutated
+patients, the ORR was 100% with 1-yr survival of 91% (25).
+The serum exposures of vorinostat observed in the current study seem somewhat lower than
+that reported previously in the literature for a 200 mg dose of vorinostat under fed conditions
+(26); however, given the large variability in vorinostat exposure, our observed values are not
+at odds with previously published data.
+The present study was based on our preclinical evaluation of the combination of vorinostat
+with cytarabine and etoposide in human leukemia cell lines (11), which showed synergy
+between vorinostat and etoposide but antagonism for the concomitant administration of
+cytarabine and vorinostat. This antagonism was attributed to vorinostat-induced diminution
+of the percentage of cells in S-phase and was overcome by sequential administration of
+vorinostat followed by cytarabine, which produced synergism. Vorinostat is thought to
+affect the cell cycle by blocking cell entry into S-phase (27). In our previous study,
+significant reduction in the percentage of S-phase cells was found within 24 hours after in
+vitro exposure to vorinostat at concentrations of 1 μmol/L or greater. In the present study,
+following a 200 mg oral dose of vorinostat, we found the mean C to be 185 ng/mL (0.7
+max
+μmol/L) with a t of 2.6 hours (Table 4). With these plasma concentrations, we did not
+max
+observe a significant alteration in the percentage of buccal mucosal or leukemia blast cells in
+S-phase of the cell cycle in the “on” vorinostat samples, compared with the “pre” vorinostat
+samples. Hence, for the MTD dose level, adverse cytokinetic interactions between vorinostat
+and cytarabine may be of less concern than predicted initially (11).
+HDAC inhibitors are known to promote apoptosis by both the intrinsic and extrinsic
+pathways and to enhance expression of the TRAIL death receptors DR4 and DR5 in cultured
+cell lines. Specifically, HL-60 cells were previously found to exhibit increased DR4 and
+DR5 expression, but not DcR1 or DcR2 expression, following 24-hour exposure to 1 μmol/L
+vorinostat (2). Our present control studies with HL-60 cells confirm the published findings
+for DR4 and DR5, but we found that these conditions also increased the expression of the
+decoy receptors DcR1 and DcR2 (Table 5E), in contrast to the previous report. Peak plasma
+levels of vorinostat approached 1 μmol/L in our clinical trial ( C 0.7 μmol/L) but, in
+max
+aggregate, there was no difference in death or decoy receptor expression in the “pre” versus
+the “on” vorinostat samples.
+In the limited number of patient samples studied, heterogeneity of expression of MDR1 or
+BCRP mRNA and Pgp function was observed. Although good correlation between mRNA,
+protein, and functional assays was seen for the MDR1/Pgp and BCRP transporters in the
+control cell lines, there was poor correlation between these measures in the patient samples,
+as was observed in a previous study of AML samples (28). In aggregate, we did not observe
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+Gojo et al. Page 13
+an increase in MDR1 expression in the “on” vorinostat samples compared with “pre;”
+however, when change within individual patients was considered, we did observe a trend for
+higher MDR mRNA expression in the “on” vorinostat samples, as was reported previously
+for bone marrow blast cells in a clinical trial with another HDAC inhibitor, depsipeptide (9).
+We have found that vorinostat administered on days 1 to 7 at a dose of 200 mg p.o. twice a
+day can be safely and effectively combined with cytarabine (2 g/m2 for patients younger
+than 65 years or 1 g/m2 for patients 65 years or older, i.v. Q12H) and etoposide (100
+mg/m2/day i.v. every day) given on days 11 to 14. On an “intent-to-treat” basis, among 13
+patients with high-risk AML treated at the MTD level, a CR rate (5 CR + 1 CRp) of 46%
+was observed. Encouraging results reported by Garcia-Manero and colleagues also support
+the validity of this approach (25). Given the potential need for hydroxyurea to control blast
+counts during vorinostat treatment and lack of confirmation of in vitro pharmacodynamic
+effects on S-phase cells, it is possible that higher doses of vorinostat given initially but for a
+shorter period of time may be as effective and easier to administer in patients with rapidly
+proliferating disease. Confirmation of the efficacy of this approach in a future phase II trial
+is warranted.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+The authors thank Dr. Jamie Zweibel of CTEP for his suggestions on trial design and selecting a dose-escalation
+scheme; members of the UMGCC clinical research office, Stephanie Fleckinger, Kathleen Tiefenwerth, and
+Shannon Decker, for their assistance with regulatory issues; and Dr. Timothy Meiller and Ms. Diana Weikel for
+assistance with obtaining buccal mucosa samples. The authors also thank Drs. Adalynn Harris and Michael Soiland
+of Merck & Co., Inc. for serving as clinical science liaisons for this trial.
+Grant Support: This study was supported by P30-CA134274 (UMGCC). D.D. Ross's research was supported in
+part by a VA Merit Review grant. The translational studies in this work were supported by the Translational
+Research Initiative grant program of the Cancer Therapy Evaluation Program (CTEP) of the NCI, and by a grant
+from the Merck Corporation. The clinical trial was sponsored by CTEP. This project also used the UPCI Clinical
+Pharmacology Analytical Facility (CPAF), which was supported in part by award P30CA047904 and by U01-
+CA099168 (to J.H. Beumer).
+This article is dedicated to the memory of Drs. Angelika M. Burger, Merrill J. Egorin, and Igor Espinoza-Delgado.
+References
+1. Hagelkruys A, Sawicka A, Rennmayr M, Seiser C. The biology of HDAC in cancer: the nuclear and
+epigenetic components. Handb Exp Pharmacol. 2011; 206:13–37. [PubMed: 21879444]
+2. Shankar S, Singh TR, Fandy TE, Luetrakul T, Ross DD, Srivastava RK. Interactive effects of
+histone deacetylase inhibitors and TRAIL on apoptosis in human leukemia cells: involvement of
+both death receptor and mitochondrial pathways. Int J Mol Med. 2005; 16:1125–38. [PubMed:
+16273296]
+3. Kim H, Kim SN, Park YS, Kim NH, Han JW, Lee HY, et al. HDAC inhibitors downregulate MRP2
+expression in multidrug resistant cancer cells: implication for chemosensitization. Int J Oncol. 2011;
+38:807–12. [PubMed: 21170509]
+4. Castro-Galache MD, Ferragut JA, Barbera VM, Martín-Orozco E, Gonzalez-Ros JM, Garcia-
+Morales P, et al. Susceptibility of multidrug resistance tumor cells to apoptosis induction by histone
+deacetylase inhibitors. Int J Cancer. 2003; 104:579–86. [PubMed: 12594812]
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 14 ---
+Gojo et al. Page 14
+5. To KK, Polgar O, Huff LM, Morisaki K, Bates SE. Histone modifications at the ABCG2 promoter
+following treatment with histone deacetylase inhibitor mirror those in multidrug-resistant cells. Mol
+Cancer Res. 2008; 6:151–64. [PubMed: 18234970]
+6. Hauswald S, Duque-Afonso J, Wagner MM, Schertl FM, Lubbert M, Peschel C, et al. Histone
+deacetylase inhibitors induce a very broad, pleiotropic anticancer drug resistance phenotype in acute
+myeloid leukemia cells by modulation of multiple ABC transporter genes. Clin Cancer Res. 2009;
+15:3705–15. [PubMed: 19458058]
+7. Fuchs D, Daniel V, Sadeghi M, Opelz G, Naujokat C. Salinomycin overcomes ABC transporter-
+mediated multidrug and apoptosis resistance in human leukemia stem cell-like KG-1a cells.
+Biochem Biophys Res Commun. 2010; 394:1098–104. [PubMed: 20350531]
+8. Calcagno AM, Fostel JM, To KK, Salcido CD, Martin SE, Chewning KJ, et al. Single-step
+doxorubicin-selected cancer cells overexpress the ABCG2 drug transporter through epigenetic
+changes. Br J Cancer. 2008; 98:1515–24. [PubMed: 18382425]
+9. Odenike OM, Alkan S, Sher D, Godwin JE, Huo D, Brandt SJ, et al. Histone deacetylase inhibitor
+romidepsin has differential activity in core binding factor acute myeloid leukemia. Clin Cancer Res.
+2008; 14:7095–101. [PubMed: 18981008]
+10. Kim MS, Blake M, Baek JH, Kohlhagen G, Pommier Y, Carrier F. Inhibition of histone
+deacetylase increases cytotoxicity to anticancer drugs targeting DNA. Cancer Res. 2003; 63:7291–
+300. [PubMed: 14612526]
+11. Shiozawa K, Nakanishi T, Tan M, Fang HB, Wang WC, Edelman MJ, et al. Preclinical studies of
+vorinostat (suberoylanilide hydroxamic acid) combined with cytosine arabinoside and etoposide
+for treatment of acute leukemias. Clin Cancer Res. 2009; 15:1698–707. [PubMed: 19223502]
+12. Cheson BD, Bennett JM, Kopecky KJ, Büchner T, Willman CL, Estey EH, et al. Revised
+recommendations of the International Working Group for Diagnosis, Standardization of Response
+Criteria, Treatment Outcomes, and Reporting Standards for Therapeutic Trials in Acute Myeloid
+Leukemia. J Clin Oncol. 2003; 21:4642–9. [PubMed: 14673054]
+13. Parise RA, Holleran JL, Beumer JH, Ramalingam S, Egorin MJ. A liquid chromatography-
+electrospray ionization tandem mass spectrometric assay for quantitation of the histone
+deacetylase inhibitor, vorinostat (suberoylanilide hydroxamicacid, SAHA), and its metabolites in
+human serum. J Chromatogr B Analyt Technol Biomed Life Sci. 2006; 840:108–15.
+14. Marquardt D, McCrone S, Center MS. Mechanisms of multidrug resistance in HL60 cells:
+detection of resistance-associated proteins with antibodies against synthetic peptides that
+correspond to the deduced sequence of P-glycoprotein. Cancer Res. 1990; 50:1426–30. [PubMed:
+1967979]
+15. Imai Y, Tsukahara S, Ishikawa E, Tsuruo T, Sugimoto Y. Estrone and 17beta-estradiol reverse
+breast cancer resistance protein-mediated multidrug resistance. Jpn J Cancer Res. 2002; 93:231–5.
+[PubMed: 11927002]
+16. Nakanishi T, Shiozawa K, Hassel BA, Ross DD. Complex interaction of BCRP/ABCG2 and
+imatinib in BCR-ABL-expressing cells: BCRP-mediated resistance to imatinib is attenuated by
+imatinib-induced reduction of BCRP expression. Blood. 2006; 108:678–84. [PubMed: 16543472]
+17. Qadir M, O'Loughlin KL, Fricke SM, Williamson NA, Greco WR, Minderman H, et al.
+Cyclosporin A is a broad-spectrum multidrug resistance modulator. Clin Cancer Res. 2005;
+11:2320–6. [PubMed: 15788683]
+18. Leith CP, Kopecky KJ, Chen IM, Eijdems L, Slovak ML, McConnell TS, et al. Frequency and
+clinical significance of the expression of the multidrug resistance proteins MDR1/P-glycoprotein,
+MRP1, and LRP in acute myeloid leukemia: a Southwest Oncology Group Study. Blood. 1999;
+94:1086–99. [PubMed: 10419902]
+19. Nakanishi T, Ross DD, Mitsuoka K. Methods to evaluate transporter activity in cancer. Methods
+Mol Biol. 2010; 637:105–20. [PubMed: 20419431]
+20. Gojo I, Jiemjit A, Trepel JB, Sparreboom A, Figg WD, Rollins S, et al. Phase 1 and pharmacologic
+study of MS-275, a histone deacetylase inhibitor, in adults with refractory and relapsed acute
+leukemias. Blood. 2007; 109:2781–90. [PubMed: 17179232]
+21. Kuendgen A, Schmid M, Schlenk R, Knipp S, Hildebrandt B, Steidl C, et al. The histone
+deacetylase (HDAC) inhibitor valproic acid as monotherapy or in combination with all-trans
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 15 ---
+Gojo et al. Page 15
+retinoic acid in patients with acute myeloid leukemia. Cancer. 2006; 106:112–9. [PubMed:
+16323176]
+22. Byrd JC, Marcucci G, Parthun MR, Xiao JJ, Klisovic RB, Moran M, et al. A phase 1 and
+pharmacodynamic study of depsipeptide (FK228) in chronic lymphocytic leukemia and acute
+myeloid leukemia. Blood. 2005; 105:959–67. [PubMed: 15466934]
+23. Garcia-Manero G, Yang H, Bueso-Ramos C, Ferrajoli A, Cortes J, Wierda WG, et al. Phase 1
+study of the histone deacetylase inhibitor vorinostat (suberoylanilide hydroxamic acid [SAHA]) in
+patients with advanced leukemias and myelodysplastic syndromes. Blood. 2008; 111:1060–6.
+[PubMed: 17962510]
+24. Kadia TM, Yang H, Ferrajoli A, Maddipotti S, Schroeder C, Madden TL, et al. A phase I study of
+vorinostat in combination with idarubicin in relapsed or refractory leukaemia. Br J Haematol.
+2010; 150:72–82. [PubMed: 20456355]
+25. Garcia-Manero G, Tambaro FP, Bekele NB, Yang H, Ravandi F, Jabbour E, et al. Phase II trial of
+vorinostat with idarubicin and cytarabine for patients with newly diagnosed acute myelogenous
+leukemia or myelodysplastic syndrome. J Clin Oncol. 2012; 30:2204–10. [PubMed: 22585696]
+26. Kelly WK, O'Connor OA, Krug LM, Chiao JH, Heaney M, Curley T, et al. Phase I study of an oral
+histone deacetylase inhibitor, suberoylanilide hydroxamic acid, in patients with advanced cancer. J
+Clin Oncol. 2005; 23:3923–31. [PubMed: 15897550]
+27. Munster PN, Troso-Sandoval T, Rosen N, Rifkind R, Marks PA, Richon VM. The histone
+deacetylase inhibitor suberoylanilide hydroxamic acid induces differentiation of human breast
+cancer cells. Cancer Res. 2001; 61:8492–7. [PubMed: 11731433]
+28. Suvannasankha A, Minderman H, O'Loughlin KL, Nakanishi T, Greco WR, Ross DD, et al. Breast
+cancer resistance protein (BCRP/MXR/ABCG2) in acute myeloid leukemia: discordance between
+expression and function. Leukemia. 2004; 18:1252–7. [PubMed: 15208643]
+29. Slovak ML, Kopecky KJ, Cassileth PA, Harrington DH, Theil KS, Mohamed A, et al. Karyotypic
+analysis predicts outcome of preremission and postremission therapy in adult acute myeloid
+leukemia: a Southwest Oncology Group/Eastern Cooperative Oncology Group Study. Blood.
+2000; 96:4075–83. [PubMed: 11110676]
+30. Grimwade D, Hills RK, Moorman AV, Walker H, Chatters S, Goldstone AH, et al. Refinement of
+cytogenetic classification in acute myeloid leukemia: determination of prognostic significance of
+rare recurring chromosomal abnormalities among 5876 younger adult patients treated in the United
+Kingdom Medical Research Council trials. Blood. 2010; 116:354–65. [PubMed: 20385793]
+31. Ross DD, Wooten PJ, Sridhara R, Ordóñez JV, Lee EJ, Schiffer CA. Enhancement of daunorubicin
+accumulation, retention, and cytotoxicity by verapamil or cyclosporin A in blast cells from
+patients with previously untreated acute myeloid leukemia. Blood. 1993; 82:1288–99. [PubMed:
+8102561]
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 16 ---
+Gojo et al. Page 16
+Translational Relevance
+This work tests previous in vitro observations that, while concurrent administration of
+vorinostat with cytarabine (ara-C or cytosine arabinoside) is antagonistic because of
+reduction of cells in S-phase by vorinostat, sequential administration of vorinostat
+followed by cytarabine results in synergistic activity against cultured acute leukemia cell
+lines. Other in vitro observations predicted that vorinostat followed by etoposide would
+be synergistic. We report a phase I trial in which escalating doses of vorinostat were
+given orally for seven days followed by fixed doses of cytarabine and etoposide given
+intravenously on days 11 to 14. Overall, percentages of patient-derived blast cells in S-
+phase did not change significantly following vorinostat treatment. Of 13 patients with
+high-risk leukemias treated at the maximum-tolerated dose of vorinostat (200 mg, orally,
+twice a day), six obtained a complete remission (CR) with median duration of seven
+months. The relatively high CR rate in this poor-risk acute myelogenous leukemia patient
+group warrants further study.
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 17 ---
+Gojo et al. Page 17
+Figure 1.
+Kaplan–Meier plots. A, OS. The “patients at risk” at the bottom margin shows OS of
+patients (N = 21). The median survival in days (95% CI) is 193 (96–515). B, PFS. The
+“patients at risk” at the bottom margin denotes PFS of patients (N = 16). The median
+survival in days (95% CI) is 45.5 (42–342).
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 18 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gojo et al. Page 18
+Table 1
+Patient characteristics
+Total, N 21
+Completed full treatment regimen, n 18
+Completed only vorinostat, n 3
+Male/female, n 11/10
+Median age, y 61
+Age range, y 20–77
+Age < 60 years 10
+Age ≥ 60 years 11
+Ethnicity, n (%)
+White 16 (76)
+Black 3 (14.5)
+Hispanic 2 (9.5)
+Age stratum 1 (<65 years), n 13
+Male/female, n 7/6
+Median age, y 54
+Evaluable for response 9
+Evaluable for toxicity 13
+Age stratum 2 (≥65 years), n 8
+Male/female, n 4/4
+Median age, y 71
+Evaluable for response 7
+Evaluable for toxicity 8
+ECOG performance status, n
+0 14
+1 5
+2 2
+Diagnosis, n (%)
+AML-newly diagnosed 6 (28.5)
+2°AML and/or t-AML 6
+AML-relapsed 8 (38)
+2°AML 2
+AML-refractory (primary or at relapse) 7 (33.5)
+2°AML and/or t-AML 3
+Median No of prior Rx for AML, range 1 (0–3)
+Karyotype
+Favorablea 4
+Intermediatea 9
+Normal 4
+Unfavorablea 8
+Complex 5
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+
+--- Page 19 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gojo et al. Page 19
+Abbreviation: ECOG, Eastern Cooperative Oncology Group.
+a
+Karyotype prognostic categories based on classification as described in refs. 29 and 30.
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+
+--- Page 20 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gojo et al. Page 20
+2 elbaT
+yticixot
+:edisopote
++
+C-ara
++
+tatsoniroV
+dlob
+ni
+sTLD
+;)%(
+,n
+,%01
+>
+ycneuqerf
+htiw
+stneve
+esrevda
+detaler-tnemtaerT
+.A
+)8
+=
+N(
+2LD
+)31
+=
+N(
+1LD
+5
+edarG
+4–3
+edarG
+2/1
+edarG
+4–3
+edarG
+2/1
+edarG
+)detaler-gurd(
+tneve
+esrevdA
+–
+)%31(
+1
+)%83(
+3
+–
+)%8(
+1
+aixeronA
+–
+a)%52(
+2
+)%31(
+1
+–
+)%93(
+5
+eugitaF
+–
+a)%52(
+2
+–
+–
+)%32(
+3
+ssenkaew
+elcsuM
+b)%31(
+1
+–
+–
+–
+–
+eruliaf
+nagroitluM
+b)%31(
+1
+)%83(
+3
+–
+)%93(
+5
+–
+noitcefni-reveF
+–
+–
+)%36(
+5
+–
+)%93(
+5
+aesuaN
+–
+–
+)%36(
+5
+–
+)%13(
+4
+aehrraiD
+–
+–
+)%83(
+3
+–
+)%93(
+5
+gnitimoV
+–
+–
+)%31(
+1
+–
+)%32(
+3
+hsaR
+–
+–
+–
+–
+)%8(
+1
+noitapitsnoC
+–
+–
+–
+–
+)%8(
+1
+sitirurP
+–
+–
+)%31(
+1
+–
+–
+sllihC
+–
+–
+)%31(
+1
+–
+–
+amedE
+–
+–
+)%31(
+1
+–
+–
+sitilocoretnE
+–
+–
+)%31(
+1
+–
+–
+ehcadaeH
+–
+–
+)%31(
+1
+–
+–
+niaP
+–
+–
+)%31(
+1
+–
+–
+hguoC
+–
+–
+–
+–
+)%32(
+3
+niap larO
+–
+–
+–
+–
+)%51(
+2
+sixatsipE
+dlob
+ni
+sTLD
+;n
+,devresbo
+seitilamronba
+yrotarobal
+4 ro
+3
+edarg
+detaler-tnemtaerT
+.B
+)12
+= N(
+latoT
+)8
+=
+N(
+2LD
+)31
+=
+N( 1LD
+5
+edarG
+4 edarG
+3
+edarG
+5
+edarG
+4
+edarG
+3
+edarG
+4
+edarG
+3 edarG
+tset
+yrotarobaL
+0
+0
+2
+0
+0
+0
+0
+2
+aimenA
+0
+2
+0
+0
+0
+0
+2
+0
+aineportueN
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+
+--- Page 21 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gojo et al. Page 21
+dlob
+ni
+sTLD
+;n
+,devresbo
+seitilamronba
+yrotarobal
+4 ro
+3
+edarg
+detaler-tnemtaerT
+.B
+)12
+= N(
+latoT
+)8
+= N(
+2LD
+)31
+=
+N(
+1LD
+5
+edarG
+4 edarG
+3
+edarG
+5
+edarG
+4 edarG
+3
+edarG
+4
+edarG
+3 edarG
+tset
+yrotarobaL
+0
+1
+0
+0
+1
+0
+0
+0
+ainepotycobmorhT
+b1
+1
+0
+1
+0
+0
+0
+0
+esaercni
+niburilib
+latoT
+stneitap
+gnidnopser–atad
+yrevocer
+tnuoc
+doolB
+.C
+d
+,ecnednepedni
+noisufsnart
+CBR
+ot
+emiT
+d
+,ecnednepedni
+noisufsnart
+teletalp
+ot
+emiT
+d
+,K001>
+steletalp
+ot
+emiT
+d
+,K05>
+steletalp
+ot
+emiT
+d ,005
+>
+CNA
+ot
+emiT
+#tneitaP
+62
+52
+43
+23
+92
+1
+83
+24
+–
+44
+24
+6
+02
+52
+03
+92
+33
+8
+84
+23
+74
+33
+63
+41
+13
+03
+34
+33
+23
+91
+82
+82
+23
+03
+03
+02
+06
+74
+67
+06
+96
+32
+63
+33
+44
+73
+93
+naeM
+13
+03
+34
+33
+33
+naideM
+06–02
+74–52
+67–03
+06–92
+96–92
+egnaR
+a
+.tneitap
+elgnis
+a
+ni
+nees
+erew
+seiticixot
+gnitimil-esod
+ehT
+.gnitimil-esod
+saw
+eno
+ylno
+,ssenkaew
+elcsum
+3
+edarg
+htiw
+sesac
+2 eht
+fo
+;gnitimil-esod
+saw
+eno
+ylno
+,eugitaf
+3 edarg
+htiw
+sesac
+2
+eht
+fO
+b
+.tneitap
+elgnis
+a ni
+nees
+erew
+seiticixot
+5
+edarg
+llA
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+
+--- Page 22 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gojo et al. Page 22
+3
+elbaT
+esnopser
+:edisopote
++
+C-ara
++ tatsoniroV
+)61
+=
+N( noitacifitarts
+ega dna
+level
+esod
+yb esnopser
+lacinilC
+.A
+)12
+= N(
+stneitaP
+llA
+)8 =
+N(
+b2
+level
+esoD
+)31 = N( a1
+level
+esoD
+y
+56≥
+y 56<
+y 56≥
+y 56<
+y
+56≥
+y 56<
+esnopseR
+)%01(
+2
+)%41(
+3
+0
+0
+)%51(
+2
+)%32(
+3
+RC
+0
+)%01(
+2
+0
+)%31(
+1
+0
+)%8(
+1
+cpRC
+)%42(
+5
+)%91(
+4
+)%31(1
+)%52(
+2
+)%13(
+4
+)%51(
+2 esaesid
+evissergorP
+0
+2
+0
+1
+0
+1
+dylno
+iroV
+0
+2
+0
+2
+0
+0
+eDE
+1
+0
+1
+0
+0
+0
+noitaloiv
+locotorP
+%33
+%31
+%64
+pRC+RC
+)7
+= N(
+RC
+deveihca
+ohw
+stneitap
+rof
+noissimer
+gniwollof stnemtaerT
+.B
+om
+,SO
+om
+,noitarud
+RC
+tnemtaert
+locotorptsoP
+?nevig
+noitadilosnoc
+locotorP
+esnopseR
+sisongaiD
+tneitaP
+3
+1
+enoN
+oN
+pRC
+fer/ler-LMAt
+41
+9
+4
+espaler
+nopu
+lairt
+I esahp
+,noitadilosnoc
+CADiH
+enO
+oN
+RC
+LMAt>-SDMt
+91
+81
+6
+espaler
+nopu
+slairt
+I
+esahp
+neht
+,egavlas
+MAH
+.noitadilosnoc
+rehtruf
+oN
+seY
+RC
+ler-LMA
+02
+21
+7
+espaler
+nopu
+erac
+evitaillap
+,RC
+ni
+elihw
+TMB
+gnilbis
+dehctaM
+seY
+RC
+fer/ler-LMA
+8
+71
+01
+erac
+evitaillap
+neht
+,AMD
+oN
+RC
+ler-LMA
+1
+02
+71
+espaler
+nopu
+egavlas
+CEM
+,RC
+ni
+elihw
+TMB
+cienegollA
+oN
+pRC
+ler-LMA
+6
++12
++91
+RC
+ni
+sniamer
+,RC
+ni
+elihw
+TMB
+cienegollA
+oN
+RC
+LMA>-SDM
+32
+.1LD
+ta
+detaert
+erew srehto
+lla
+;2LD tatsonirov
+ta detaert
+saw 41
+tneitaP
+:ETON
+.emordnys
+citsalpsydoleym
+,SDM
+;C-ara
+,edisopote
+,enortnaxotim
+,CEM
+;C-ara
+esod
+hgih
+,CADiH
+;enortnaxotim+C-ara
+,MAH
+;tnega
+gnitalyhtemed
+,AMD
+;tnalpsnart
+worram
+enob ,TMB
+:snoitaiverbbA
+a
+.syad
+7 × yad a
+eciwt
+tatsonirov
+gm 002
+:1
+level
+esoD
+b
+.syad
+7
+× yad a semit
+3
+tatsonirov
+gm 002
+:2
+level
+esoD
+c
+.yrevocer
+teletalp
+etelpmocni
+htiw
+RC
+:pRC
+d
+.yparehtomehc
+locotorp
+rehto
+on
+dna ,tatsonirov
+ylno
+deviecer tneitap
+,ylno
+iroV
+e
+.ypareht
+ot esnopser
+ssessa
+ot elbanu
+ecneh
+,cinepotycnap
+elihw
+,si taht ,htaed
+ylrae
+,DE
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+
+--- Page 23 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gojo et al. Page 23
+4
+elbaT
+sretemarap
+citenikocamrahp
+tatsonirov
+mureS
+h/L
+,F/dV
+L
+,F/lC
+Lm/h
+gn
+,b
+fni-0
+CUA
+Lm/h
+gn
+, h
+8-0
+CUA
+h , 2/1
+t
+h
+, xam
+t
+Lm/gn
+, xam
+C
+retemaraP
+300,1
+003
+977
+236
+5.2
+6.2
+581
+naeM
+928
+772
+227
+195
+1.2
+0.2
+761
+naem
+cirtemoeG
+986
+562
+757
+326
+7.1
+0.2
+161
+naideM
+08
+24
+04
+63
+37
+77
+44
+%VC
+02
+02
+02
+12
+02
+12
+12
+N
+–
+743
+339
+–
+2.1
+0.2
+972
+a)naem(
+erutaretiL
+a
+.)62(
+6
+=
+N
+,tatsonirov
+fo
+esod
+gm
+002
+a
+gniwollof
+seugaelloc
+dna
+ylleK
+yb detroper
+sa
+seulav
+erutaretiL
+b
+.)%9.16–%4.1
+,egnar(
+%4.61
+egareva
+no
+saw
+tniop
+emit
+tsal
+eht
+dnoyeb
+detalopartxe
+fni–0CUA
+fo
+egatnecrep
+ehT
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+
+--- Page 24 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gojo et al. Page 24
+5
+elbaT
+seiduts
+lanoitalsnarT
+esahp
+elcyc-llec
+no
+stceffe
+tatsoniroV
+.A
+71
+=N
+.sllec
+asocum
+laccuB
+G–G-bus
+%
+M–G
+%
+S%
+G–G
+%
+1
+0
+2
+1
+0
+nO
+erP
+nO
+erP
+nO
+erP
+nO
+erP
+97.7
+47.11
+62.3
+41.2
+03.11
+94.11
+58.97
+99.77
+naeM
+59.6
+82.01
+52.4
+76.2
+75.9
+50.7
+85.11
+61.01
+DS
+2491.0
+6852.0
+8619.0
+5075.0
+aP
+61
+=
+N
+.sllec
+tsalB
+G/G-bus
+%
+M–G
+%
+S%
+G–G
+%
+1
+0
+2
+1
+0
+nO
+erP
+nO
+erP
+nO
+erP
+nO
+erP
+06.2
+92.4
+55.3
+38.3
+71.7
+22.9
+06.78
+79.38
+naeM
+26.1
+56.2
+90.3
+47.3
+18.4
+21.8
+81.6
+83.01
+DS
+3960.0
+6557.0
+1482.0
+9151.0
+aP
+4RD
+gnisserpxe
+sllec
+fo
+egatnecreP
+.B
+sllec
+tsalb
+aimekueL
+sllec
+asocum
+laccuB
+aeulav
+P
+DS
+)N(
+naeM
+aeulav
+P
+DS
+)N(
+naeM
+esnopseR
+8945.0
+54.22
+)41(
+12.21
+3785.0
+03.22
+)4(
+09.72
+erP
+21.12
+)41(
+28.31
+82.03
+)4(
+93.14
+nO
+5RD
+gnisserpxe
+sllec
+fo
+egatnecreP
+.C
+sllec
+tsalb
+aimekueL
+sllec
+asocum
+laccuB
+aeulav
+P
+DS
+)N(
+naeM
+aeulav
+P
+DS
+)N(
+naeM
+esnopseR
+7163.0
+59.71
+)41(
+57.41
+6139.0
+40.93
+)4(
+64.62
+erP
+96.12
+)41(
+86.71
+84.63
+)4(
+89.52
+nO
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+
+--- Page 25 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gojo et al. Page 25
+2RcD
+ro
+1RcD
+gnisserpxe
+sllec
+fo
+egatnecreP
+.D
+2RcD
+1RcD
+sllec
+tsalb
+aimekueL
+sllec
+tsalb aimekueL
+aeulav
+P
+DS
+)N(
+naeM
+aeulav
+P DS
+)N(
+naeM
+esnopseR
+9725.0
+74.51
+)11(
+38.51
+4631.0
+63.21
+)11(
+95.71
+erP
+91.11
+)11(
+65.71
+24.91
+)11(
+79.52
+nO
+noisserpxe
+RcD ro RD
+rof
+seiduts
+lortnoC
+.E
+sllec
+evitisoP
+%
+2RcD
+1RcD
+5RD
+4RD
+enil
+lleC
+3 ±
+2.65
+2 ±
+32
+72
+± 3.74 41±
+8.55
+W/06-LH
+1.1±
+3.69
+7.1±
+3.49
+5.6
+± 2.48 51±
+2.37
+bV
++ W/06-LH
+atad
+retropsnart
+ecnatsiser
+gurditluM
+.F
+eyassA
+lanoitcnuF
+dnietorP
+cANRm
+nteR
+muccA
+nteR
+muccA
+PRCB
+pgP
+PRCB
+1RDM
+NO
+ERP
+NO
+ERP
+NO
+ERP
+NO
+ERP
+NO
+ERP
+NO
+ERP
+NO
+ERP
+NO
+ERP
+enil
+llec
+ro tneitaP
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+fdn
+2.12
+551
+4.6
+1.5
+2
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+dn
+2.1
+9.11
+3.22
+4
+3
+7.5
+7.2−
+2.4−
+3.8
+56
+491
+960,1
+472
+50.0
+50.0
+50.0
+30.0
+1.0
+± 5.0
+1.0 ±
+4.0
+g8.3
+± 1.46
+1.0 ± 7.0
+7
+3.21−
+1.21−
+9.3−
+6.2−
+7.91
+05
+5.42
+4.2
+dn
+dn
+dn
+dn
+h400.0
+± 70.0
+5.0 ±
+8.1
+h62.0
+± 57.2
+3.0 ± 6.1
+31
+2.6
+7.31
+5.11
+3.5−
+992
+99
+112
+25−
+51.0
+42.0
+70.0
+80.0
+7.3
+± 8.21
+4.3 ±
+1.31
+j2.6
+± 71
+1 ± 5.7
+71
+3.92
+2.12−
+2.1−
+3.2
+1.12
+8.11
+1.41
+561
+dn
+dn
+dn
+dn
+9.0
+± 8
+4.0 ±
+1.11
+i92.0
+± 7.1
+10.0 ± 5.0
+81
+7.32−
+8.81−
+1.2−
+1.0
+741
+471
+168
+617
+dn
+dn
+dn
+dn
+627
+± 924
+17 ±
+501
+g8.5
+± 3.93
+6 ± 261
+22
+5.21
+4.2−
+3.4−
+1
+592
+562
+352
+902
+91.0
+43.0
+80.0
+30.0
+822
+± 881
+02 ±
+22
+7 ± 24
+8 ± 03
+42
+–
+dn
+–
+dn
+–
+9.2
+–
+1.1
+–
+dn
+–
+70.0
+–
+7.2 ±
+5.4
+–
+10.<
+W/06-LH
+–
+dn
+–
+dn
+–
+62
+–
+957
+–
+dn
+–
+1
+–
+10.0 ±
+20.0
+–
+065,1 ± 220,7
+cniV/06-LH
+–
+8.4−
+–
+5.6−
+–
+dn
+–
+dn
+–
+10.0
+–
+dn
+–
+90.0 ±
+10.0
+–
+3.1 ± 5.4
+W/265K
+–
+901
+–
+88
+–
+dn
+–
+dn
+–
+89.0
+–
+dn
+–
+435,1
+±
+065,9
+–
+20.0 ± 1.0
+01XM/265K
+a
+.tset
+t deriap
+elpmas-owT
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.
+
+--- Page 26 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gojo et al. Page 26
+b
+.sruoh
+42 × tatsonirov
+L/lomμ
+1
+htiw
+detaert
+erew
+slleC
+seulaV
+.snoitcaer
+RCP-TR
+etacilper
+3
+fo
+DS
+etacidni
+ngis
+±
+eht
+retfa
+nwohs
+seulav
+ehT
+.4−01
+×
+nitca-β
+fo noisserpxe
+ot
+evitaler
+desserpxe
+ANRm
+PRCB
+ro 1RDM
+fo
+tnuoma
+eht
+era
+ANRm
+rof
+seulaV
+c
+.sllec
+W/06-LH
+ni
+ANRm
+PRCB
+ro sllec
+W/265K
+ni ANRm
+1RDM
+fo
+noisserpxe
+eht
+semit
+3 naht
+erom
+era
+dlob
+ni nwohs
+d
+ydobitna
+PRCB-itna
+ro
+)2CIU(
+ydobitna
+1RDM-itna
+dna
+lortnoc
+ydobitna
+epytosi
+rof
+smargotsih
+neewteb
+ecnereffid
+eht
+fo
+seulav
+D vonrimS–vorogomloK
+eht
+era
+noisserpxe
+nietorp
+rof nwohs
+seulaV
+.retropsnart
+eht
+fo
+noisserpxerevo
+on
+etacidni
+ot deredisnoc
+si 51.0
+naht
+ssel
+fo eulav
+D
+A .)2E5(
+e
+lrtcA(
+−
+)domR
+ro
+domA([
+×
+001
+=
+egnahC
+%
+:)13(
+ylsuoiverp
+denifed
+egnahc
+egatnecrep
+sa
+desserpxe
+si
+)noitcnuf
+PRCB
+rof(
+A edibrohpoehp
+ro )noitcnuf
+pgP
+rof(
+2COiD
+fo
+noitneter
+ro noitalumuccA
+eyd
+,lrtcA
+;rotaludom
+retropsnart
+eht
+fo
+ecneserp
+eht
+ni
+noitneter
+eyd
+,domR
+;)341oK
+ro
+338CSP(
+rotaludom
+retropsnart
+eht
+fo ecneserp
+eht
+ni
+noitalumucca
+eyd
+,domA
+erehw
+,)lrtcR
+ro lrtcA(/])lrtcR
+ro
+.rotaludom
+fo ecnesba
+ni
+noitalumucca
+eyd ,lrtcR
+;rotaludom
+fo
+ecnesba
+ni
+noitalumucca
+f
+.denimreted
+ton
+,dn
+g
+.100.0
+<
+P ,tset
+t elpmas-owt
+yb
+yltnacifingis
+reffid
+selpmas
+tatsonirov
+”no“
+dna
+”erp“
+h
+.10.0
+<
+P ,tset
+t elpmas-owt
+yb
+yltnacifingis
+reffid
+selpmas
+tatsonirov
+”no“
+dna
+”erp“
+i
+.50.0
+=
+P ,tset
+t elpmas-owt
+yb
+yltnacifingis
+reffid
+selpmas
+tatsonirov
+”no“
+dna
+”erp“
+j
+.750.0
+= P
+,tset
+t elpmas-owt
+yb
+selpmas
+tatsonirov
+”no“ dna
+”erp“
+neewteb
+secnereffid
+fo
+nosirapmoC
+Clin Cancer Res. Author manuscript; available in PMC 2015 February 18.

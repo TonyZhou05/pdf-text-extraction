@@ -1,0 +1,917 @@
+Source: 20708924.pdf
+Extracted on: Fri Sep 12 23:55:15 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+Published in final edited form as:
+Eur J Cancer. 2010 December ; 46(18): 3287–3293. doi:10.1016/j.ejca.2010.07.005.
+A Phase I and Biology Study of Gefitinib and Radiation in
+Children with Newly Diagnosed Brain Stem Gliomas or
+Supratentorial Malignant Gliomas
+1 2 3 2
+J. Russell Geyer , Clinton F. Stewart , Mehmet Kocak , Alberto Broniscer , Peter
+4 1 5 6 7
+Phillips , James G. Douglas , Susan M. Blaney , Roger J. Packer , Sri Gururangan , Anu
+8 9 2 2 3
+Banerjee , Mark W. Kieran , Larry E. Kun , Richard J. Gilbertson , and James M. Boyett
+1 Seattle Children’s Hospital, Seattle, WA, USA
+2 St. Jude Children’s Research Hospital, Memphis, TN, USA
+3 Operations and Biostatistics Center for the Pediatric Brain Tumor Consortium, Memphis, TN,
+USA
+4 Children’s Hospital of Philadelphia, Philadelphia, PA, USA
+5 Texas Children’s Cancer Center/Baylor College of Medicine, Houston, TX, USA
+6 Children’s National Medical Center, Washington, DC, USA
+7 Duke University Medical Center, Durham, NC, USA
+8 University of San Francisco, San Francisco, CA, USA
+9 Dana-Farber Cancer Institute, Boston MA, USA
+Abstract
+Purpose—To estimate the maximum tolerated dose (MTD); study the pharmacology of
+escalating doses of gefitinib combined with radiation therapy in patients ≤21 years with newly
+diagnosed intrinsic brainstem gliomas (BSG) and incompletely resected supratentorial malignant
+gliomas (STMG); and to investigate epidermal growth factor receptor (EGFR) amplification and
+expression in STMG.
+Patients and methods—Three strata were identified: Stratum 1A - BSG; Stratum IB -
+incompletely resected STMG not receiving enzyme inducing anti-convulsant drugs (EIACD); and
+Stratum II - incompletely resected STMG receiving EIACD. Dose escalation using a modified 3 +
+3 cohort design was performed in strata IA & II. The initial gefitinib dosage was 100mg/m2/day
+Address for Correspondence and reprints: James M. Boyett, Ph.D., Department of Biostatistics, St. Jude Children’s Research Hospital,
+262 Danny Thomas Place, Mail Stop 768, Memphis, TN 38105-3678, Telephone: (901) 595-4986, Fax: (901) 595-8843,
+james.boyett@stjude.org.
+Presented in part at the American Society of Clinical Oncology meeting held May 31 – June 3, 2003 in Chicago, IL; the American
+Society for Therapeutic Radiology and Oncology held 3–7 October 2004 in Atlanta, GA; and the American Society of Neuroradiology
+held April 29 – May 5, 2006 in San Diego, CA.
+Conflict of interest statement
+Dr. Stewart received research funding from Astrazeneca for the conduct of the pharmacokinetic studies. Dr. Gururangan disclosed a
+consultant or advisory role with Boehringer Ingelheim Pharma. No other conflicts of interest have been declared.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Geyer et al. Page 2
+commencing with radiation therapy and the dose-finding period extended until 2 weeks post-
+radiation. Pharmacokinetics (PK) and biology studies were performed in consenting patients.
+Results—Of 23 eligible patients, 20 were evaluable for dose-finding. MTDs for strata IA and II
+were not established as accrual was halted due to four patients experiencing symptomatic
+intratumoral hemorrhage (ITH); 2 during and 2 post dose-finding. ITH was observed in 0 of 11
+patients treated at 100mg/m2/day, 1 of 10 at 250mg/m2/day, and 3 of 12 at 375mg/m2/day.
+Subsequently a second patient at 250mg/m2/day experienced ITH. PK analysis showed the median
+gefitinib systemic exposure increased with dosage (p=0.04). EGFR was overexpressed in 5 of 11
+STMG and amplified in 4 (36%) samples.
+Conclusion—This trial provides clear evidence of EGFR amplification in a significant
+proportion of paediatric STMG and 250mg/m2/day was selected for the Phase II trial.
+Keywords
+epidermal growth factor receptor; gefitinib; radiotherapy; brain stem neoplasms; supratentorial
+neoplasms; glioma
+Introduction
+Diffusely infiltrating brainstem gliomas (BSG) have been amongst the most therapeutically
+resistant paediatric brain tumors; 1- and 5-year progression-free survival (PFS) rates for
+these patients are less than 25% and 10%, respectively.1, 2 A paucity of data exist to
+document the histology and biology of these tumors; in the limited instances where tissue
+has been obtained, histology has shown high-grade or infiltrating
+glioma.3–7
+More recent
+experience confirms the similarity of BSG to more accessible supratentorial malignant
+gliomas, a tumor setting where prognosis for children following incomplete resection is also
+quite poor with 1- and 5-year PFS rates of less than 50% and 20%,
+respectively.8–10
+In view of these discouraging results, new therapeutic approaches are needed. Recent data
+demonstrate that a wide variety of tumors, including malignant gliomas, are driven to
+proliferate by aberrant activation of growth factor receptor-mediated signal transduction
+pathways.11,12
+Constitutive activation of these pathways also contributes to tumor resistance
+to conventional therapeutic agents.
+Cell signaling via the EGFR (also known as ERBB1) has been implicated in the
+development of adult and paediatric high-grade
+gliomas.13,14
+EGFR amplification and over-
+expression affect 30%–50% of adult glioblastoma
+multiformes.13–16
+In paediatric high-
+grade gliomas, available data suggest that while EGFR amplification occurs with low
+frequency,17,18 EGFR receptor over-expression is relatively common. Bredel et al reported
+elevated expression of this receptor in 81% of paediatric STMG, with over half
+demonstrating over-expression in >90% of tumor cells.18 PBTC earlier showed that, EGFR
+protein is expressed to high levels and amplified in samples of childhood BSG.19 These data
+suggest that the EGFR constitutes a promising therapeutic target for paediatric STMG and
+BSG.
+Gefitinib (ZD1839, Iressa™, AstraZeneca), a low molecular weight synthetic molecule, is a
+potent and selective inhibitor of the EGFR tyrosine kinase that works by competing with
+adenosine triphosphate for its binding site, and blocking signal transduction pathways
+implicated in cancer cell proliferation, survival and other host-dependent processes thought
+to promote cancer growth.20 At the time this clinical trial (PBTC-007) was initiated,
+gefitinib had demonstrated preclinical evidence of antitumor activity alone and in
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Geyer et al. Page 3
+combination with irradiation and had shown good antitumor activity in a wide range of
+human tumor xenografts after oral administration.
+In both BSG and incompletely resected STMG, radiation therapy has demonstrated benefit.
+21 Preclinical studies have demonstrated radiosensitization with concurrent exposure to
+EGFR specific inhibitory agents, providing further rationale for trials of upfront
+combinations of EGFR inhibitors and concurrent irradiation.22
+In adult phase I studies, gefitinib was well tolerated after either intermittent or continuous
+dosing.23–26
+In these trials, dose-related toxicity was confined to the skin and
+gastrointestinal system; rarely, hepatic enzyme elevation occurred. Increasing intolerability
+was noted at daily doses of ≥600 mg. The combination of preclinical antitumor activity,
+known over-expression of the target pathway, and acceptable toxicity profile led us to study
+the agent in paediatric malignant gliomas.
+The PBTC conducted a phase I trial of gefitinib in combination with radiation therapy in
+children with newly diagnosed BSG and incompletely resected STMG. The primary
+objectives were to define the safety of gefitinib administered orally once daily in
+combination with radiation therapy and to describe dose-limiting toxicities. Secondary
+objectives included characterizing the pharmacokinetic and pharmacogenetics of gefitinib in
+this patient population and to investigate EGFR expression and amplification in STMG.
+Patients and Methods
+Patient Eligibility
+Patients ≥3 and ≤21 years of age with a newly diagnosed non-disseminated BSG or
+incompletely resected STMG were eligible. Other eligibility criteria included Karnofsky or
+Lansky performance score ≥50%, no prior chemotherapy (except corticosteroids) or
+radiotherapy, adequate bone marrow, renal, and hepatic function. Patients could not be
+pregnant, have an uncontrolled infection, or a history of deep venous or arterial thrombosis.
+The institutional review boards (IRBs) of each participating PBTC institution approved the
+protocol before initial patient enrollment, and continuing approval was maintained
+throughout the study. Patients or their legal guardians gave written informed consent, and
+assent was obtained as appropriate at the time of enrollment.
+Studies Before and During Treatment
+A complete history, physical exam including detailed neurological exam and laboratory
+studies were obtained before treatment and periodically thereafter. Pretreatment evaluation
+included: CBC, electrolytes including magnesium, renal function tests (serum creatinine and
+BUN), liver function tests, fibrinogen, anticonvulsant levels in patients receiving enzyme-
+inducing anticonvulsant drugs (EIACD), and β-HCG in females of childbearing potential.
+MRI was obtained prior to therapy and at 8 week intervals during therapy.
+Dosage, Drug Administration, and Treatment Plan
+Gefitinib was provided in tablets that could be dissolved in water, as necessary. Patients
+received gefitinib once daily; a course was defined as 4 weeks of therapy. In the absence of
+disease progression or dose-limiting toxicity, treatment was continued for 13 courses (1
+year).
+Patients received local irradiation using conventional or conformal techniques; imaging and
+treatment plan were centrally reviewed (Quality Assurance Review Center, QARC). A total
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Geyer et al. Page 4
+dose of 55.8 Gy was given in 180 cGy daily fractions. Treatment was initiated within 4
+weeks of diagnosis (BSG) or surgery (STMG).
+Dose Escalation, Dose-Limiting Toxicity, and Maximum Tolerated Dose
+The initial gefitinib dosage was 100mg/m2/day commencing with radiation therapy. Dose
+escalation for patients in Strata IA and II were performed as shown in Table 1; patients
+registered in Stratum IB were assigned to the current dose level in Stratum IA.
+The dose-finding interval extended from initiation through 2 weeks following completion of
+radiation therapy. A traditional 3+3 dose-finding algorithm was used to empirically estimate
+MTDs for strata IA and II. Cohorts of up to six patients could be enrolled at a dosage; the
+decision to escalate the dosage for the next cohort was made after three patients had
+completed the dose-finding interval. The MTD was defined as the highest dosage at which at
+least five of six patients did not experience DLT and the next higher dosage was
+unacceptably toxic.
+Toxicities were graded according to the NCI Common Toxicity Criteria Version 2.0. DLTs
+were defined as follows: Grade 3 or 4 thrombocytopenia, grade 4 neutropenia, any grade 3
+or 4 non-hematologic toxicity, any grade 2 non-hematologic toxicity persisting for more
+than 7 days and considered sufficiently significant or intolerable by patients to warrant
+treatment interruption and/or dose reduction, and any toxicity requiring interruption of
+radiation therapy for >5 consecutive days or 10 days total.
+Patients who came off therapy during the DLT observation period for reasons other than
+toxicity or missed >7 days of gefitinib for reasons other than toxicity were replaced for
+purposes of estimating the MTD.
+Pharmacokinetic Studies
+Pharmacokinetic studies were performed in consenting patients. Serial blood samples for
+pharmacokinetic studies were collected on days 10, 11, or 12 of course 1 before gefitinib
+administration, and at 1, 2, 4, 6, 8, 12, and 24 hours after administration. Gefitinib
+concentrations were analyzed by isocratic reversed-phase high performance liquid
+chromatography with electrospray ionization mass spectrometric detection.27 A one-
+compartment model was fitted to the gefitinib plasma concentrations using maximum
+likelihood estimation as implemented in ADAPT II.28 The model parameters for each
+patient were used to simulate the plasma concentration-time profile, from which the area
+under the plasma concentration-time curve (AUC ) was calculated using the log-linear
+0-24
+trapezoidal method.
+EGFR amplification and expression
+Diagnostic fixed tumour samples were obtained from consenting patients and analyzed by
+immunohistochemistry (IHC) to determine the expression of total EGFR, phospho-ERK1/2,
+and phospho-S6S235/236. To remove observer bias, IHC staining of tumours was scored blind
+to treatment response using ImageJ software analysis that provides a measure of the mean
+percentage of immunopositivity detected in each ×200 field.33 Dual-probe fluorescence in
+situ hybridization (FISH) was performed on paraffin-embedded sections with locus-specific
+probes for EGFR (RP11-148P17) and the 7q control probe (7q31.2, RP11-460J21 +
+CTB-133K23).
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Geyer et al. Page 5
+Results
+Three of 23 patients enrolled in stratum IA and II were not evaluable for dose-finding: all
+withdrew without toxicity 14, 15, and 46 days after the start of gefitinib. Ten patients were
+enrolled in stratum IB. Patient characteristics are summarized in Table 2.
+Estimation of MTD
+Twenty patients were evaluable for dose-finding, including 17 in stratum IA, and 3 in
+stratum II (Table 1). Of the first six patients treated at 100mg/m2/day in Stratum IA, one
+experienced grade 2 fibrinogen (hypofibrinogenemia) and another grade 3 lymphopenia;
+both DLTs, prompting a protocol amendment to exclude non-clinically significant
+hematologic toxicities as DLTs. Subsequently only one of five evaluable patients in stratum
+IA treated at the highest dosage investigated (375mg/m2/day) experienced a DLT (grade 3
+rash/desquamation). None of the three patients in stratum II treated at the highest dosage
+(100mg/m2/day) evaluated experienced a DLT. While dose escalation was not based on
+Stratum IB, three of five patients at 375mg/m2/day experienced DLTs (one grade 5 ITH, one
+grade 3 ITH & one grade 3 hypofibrinogenemia, dehydration and vomiting) during courses
+1 and 2 (Table 1).
+Although systemic toxicities were generally mild-moderate and reversible (Tables 2 and 3),
+there were four instances of symptomatic ITH noted among the 33 eligible patients
+prompting closure of the trial without having estimated MTDs in strata IA or II. Three
+patients experienced ITH among 12 treated at the 375mg/m2/day dosage, one among 10 at
+the 250mg/m2/day dosage and none among 11 at 100mg/m2/day (Table 3). Subsequent to
+closure another patient treated at 250mg/m2/day was retrospectively noted to have
+experienced an ITH post dose-finding. The difference in cumulative incidence functions of
+ITH among the three dosages investigated was not statistically significant (p=0.20). No
+relationship to concomitant dexamethasone administration or evidence of thrombocytopenia
+or coagulation abnormality was noted. Three instances of ITH occurred in patients with
+STMG and two in patients with BSG. In one patient with a BSG, ITH was associated with
+progressive tumour, and the death of a patient with a GBM was attributed to ITH.
+For the twenty patients with BSG (Stratum IA), the 1-year survival and PFS rates were 48%
+(SE 11%) and 16.1% (SE 7.4%), respectively. For the 13 patients with STMG, the 1-year
+survival and PFS rates were 28.8% (SE 12.2%) and 15.4% (SE 8.2%), respectively.
+Pharmacokinetics
+Serial samples for gefitinib pharmacokinetic studies were collected from 22 patients during
+week 2 of course one – none of whom were receiving EIACD. As summarized in Table 4,
+the median gefitinib AUC value increased with increasing dosage (p=0.04). At the
+recommended phase II dosage (250mg/m2/day), the median peak gefitinib plasma
+concentration was 0.83 μg/ml (range 0.45 to 1.36 μg/ml); observed at a median of 4.2 hr
+(range 2 to 6 hr) after drug administration. The median gefitinib half-life for all patients
+studied was 11.1 hr (range 1.8 to 41.3 hr). The median apparent oral clearance for all
+patients studied was 15.7 L/hr/m2 (range 1.8 to 34.0 L/hr/m2). The effect of dexamethasone
+administration on gefitinib apparent oral clearance was studied in seven patients who had
+pharmacokinetic studies conducted while on a stable dexamethasone dosage and later after
+discontinuing dexamethasone: no statistically significant difference was noted (paired t-test;
+p=0.15). In our limited analyses no evidence of a relationship between gefitinib
+pharmacokinetics and toxicity was observed.
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Geyer et al. Page 6
+Tumour EGFR amplification and expression
+Intense membrane EGFR immunoreactivity was evident in tumour material from 5 of 11
+patients with STMG (IB n=8, II n=3). Three of the eleven cases displayed high-level EGFR
+amplification (Figure 1); one additional case displayed low-level gain in the context of
+polyploidy. Each of these four cases displayed intense membrane-associated EGFR
+immunoreactivity in contrast to only one tumour sample that was diploid for the EGFR
+locus (p=0.01, Fisher’s Exact test).
+Discussion
+This study provides clear evidence that EGFR is amplified and highly-expressed in a
+significant proportion of paediatric STMG. The PBTC reported previously that one-half of
+high-grade intrinsic BSG express elevated levels of EGFR in the context of gene
+amplification.19 EGFR overexpression was also reported in paediatric STMG although only
+a handful of tumours displayed an increase in gene copy
+number.15–17
+Here, we identified
+intense membrane EGFR immunoreactivity in 5 of 11 (45%) STMG; of which three (27%)
+and one (9%) contained high-level and low-level gene amplification, respectively. A very
+recent publication by Zarghoon et al38 based on whole-genome profiling techniques suggest
+that platelet-derived growth factor receptor α and Poly polymerase as potential therapeutic
+targets in BSG. They also noted EGFR immunopositivity in 7 of their 11 (64%) cases and
+low copy number gain in one. Together these data indicate that EGFR is likely to play an
+important role in the biology of paediatric as well as adult STMG and justifies a phase II
+evaluation of gefitinib in newly diagnosed paediatric patients with these tumours.
+The pharmacokinetics of gefitinib are similar to those previously reported for children with
+refractory solid tumours receiving gefitinib as a single agent.34 The median apparent oral
+gefitinib clearance in that study was 14.8 L/hr/m2 compared with 15.7 L/hr/m2 for this trial.
+A wide variation was noted in our gefitinib apparent oral clearance, similar to the wide
+interpatient variability noted in the previous paediatric study (4.8 to 24.8 L/hr/m2).34
+Although the maximum gefitinib plasma concentration and area under the concentration-
+time curve generally increased with gefitinib dosage, marked inter-patient variability within
+each dosage level was noted. Recent reports have suggested that gefitinib undergoes
+preferential distribution from the blood into brain tumour
+tissue.35,36
+Thus, at the dosages
+tolerated and gefitinib exposures achieved in the present study it is likely that tumour
+concentrations approached or exceeded the concentration (2 μmol/l) necessary for inhibition
+of wild-type EGFR.35
+Due to concern that the observed intratumoural hemorrhages could be related to the study
+drug, accrual to the Phase I component of the study was halted before MTDs could be
+estimated. Because of the apparently higher incidence of ITH at 375mg/m2, treating patients
+at this or higher gefitinib dosages in the efficacy phase of the trial would be unacceptable,
+leading us to recommend studying the 250mg/m2 dosage level in the phase II trial for
+patients newly diagnosed with a BSG. This is in contrast to the MTD of 400 mg/m2/day
+established for paediatric solid tumours.34
+A subsequent retrospective review of newly diagnosed BSG treated at a single institution
+with radiation therapy with or without concurrent cytotoxic agents showed symptomatic ITH
+in 9 of 48 patients within 12 months of diagnosis.37 Results which are similar to
+symptomatic ITH occurring in 2 of 20 patients with BSG and 3 of 13 patients with STMG in
+our trial.
+Our current knowledge of the tumour- or radiation-related ITH, as discussed above, suggests
+the apparent dose-related incidence associated with gefitinib may have been spurious.
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Geyer et al. Page 7
+However given data available at the time, it was reasonable to stop the trial early to ensure
+patient safety. The pharmacokinetics of gefitinib indicate that the 250mg/m2/day dosing
+selected for the phase II trial will achieve tumour concentrations necessary for inhibition of
+wild-type EGFR, which our data suggest will be amplified or highly-expressed in a
+significant proportion of high-grade gliomas.
+Acknowledgments
+Role of Funding Source
+This study was sponsored by the US National Cancer Institute (NCI) and coordinated by the Pediatric Brain Tumor
+Consortium. This work was supported by NIH grant U01 CA81457 for the Pediatric Brain Tumor Consortium, NIH
+grant 5M01RR000188 (General Clinical Research Center for Texas Children’s Cancer Center), AstraZeneca, and
+the American Lebanese Syrian Associated Charities (ALSAC). The NCI provided input on the design of the trial
+and reviewed the final manuscript but had no role in the data collection, analysis and interpretation or decision to
+publish. Astrazeneca provided partial financial support for the conduct of the pharmacokinetic studies but no input
+into the study design or conduct. The GCRC and ALSAC had no role in the study design, data collection, data
+analysis, data interpretation, or writing of the report.
+The authors and the PBTC acknowledge administrative and statistical support of Ms. Dana Wallace and the clinical
+research assistant support of Ms. Stacye Richardson.
+References
+1. Pollack IF. Brain tumors in children. N Engl J Med 1994;331:1500–1507. [PubMed: 7969301]
+2. Jennings MT, Freeman ML, Murray MJ. Strategies in the treatment of diffuse pontine gliomas: the
+therapeutic role of hyperfractionated radiotherapy and chemotherapy. J Neurooncol 1996;28:207–
+222. [PubMed: 8832463]
+3. Berger MS, Edwards MS, LaMasters D, Davis RL, Wilson CB. Pediatric brain stem tumors:
+radiographic, pathological, and clinical correlations. Neurosurgery 1983;12:298–302. [PubMed:
+6302553]
+4. Mantravadi RV, Phatak R, Bellur S, Liebner EJ, Haas R. Brain stem gliomas: an autopsy study of 25
+cases. Cancer 1982;49:1294–1296. [PubMed: 6277461]
+5. Epstein F, Wisoff JH. Intrinsic brainstem tumors in childhood: surgical indications. J Neurooncol
+1988;6:309–317. [PubMed: 3221258]
+6. Cartmill M, Punt J. Diffuse brain stem glioma. A review of stereotactic biopsies. Childs Nerv Syst
+1999;15:235–237. [PubMed: 10392494]
+7. Albright AL, Packer RJ, Zimmerman R, Rorke LB, Boyett J, Hammond GD. Magnetic resonance
+scans should replace biopsies for the diagnosis of diffuse brain stem gliomas: a report from the
+Children’s Cancer Group. Neurosurgery 1993;33:1026–1029. [PubMed: 8133987]
+8. Roujeau T, Machado G, Garnett MR, Miquel C, Puget S, Geoerger B, et al. Stereotactic biopsy of
+diffuse pontine lesions in children. J Neurosurg 2007;107:1–4. [PubMed: 17647306]
+9. Pirotte BJ, Lubansu A, Massager N, Wikler D, Goldman S, Levivier M. Results of positron
+emission tomography guidance and reassessment of the utility of and indications for stereotactic
+biopsy in children with infiltrative brainstem tumors. J Neurosurg 2007;107:392–399. [PubMed:
+18459902]
+10. Chastagner P, Kalifa C, Doz F, Bouffet E, Gentet JC, Ruchoux MM, et al. Outcome of children
+treated with preradiation chemotherapy for a high-grade glioma: results of a French Society of
+Pediatric Oncology (SFOP) Pilot Study. Pediatr Blood Cancer 2007;49:803–807. [PubMed:
+17096408]
+11. Pollack IF, Bredel M, Erff M. Application of signal transduction inhibition as a therapeutic
+strategy for central nervous system tumors. Pediatric Neurosurgery 1998;29:228–244. [PubMed:
+9917540]
+12. Aaronson SA. Growth factors and cancer. Science 1991;254:1146–1153. [PubMed: 1659742]
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Geyer et al. Page 8
+13. Libermann TA, Nusbaum HR, Razon N, Kris R, Lax I, Soreq H, et al. Amplification, enhanced
+expression and possible rearrangement of EGF receptor gene in primary human brain tumours of
+glial origin. Nature 1985;313:144–147. [PubMed: 2981413]
+14. Wong AJ, Bigner SH, Bigner DD, Kinzler KW, Hamilton SR, Vogelstein B. Increased expression
+of the epidermal growth factor receptor gene in malignant gliomas is invariably associated with
+gene amplification. Proc Natl Acad Sci U S A 1987;84:6899–6903. [PubMed: 3477813]
+15. von Deimling A, Louis DN, von Ammon K, Petersen I, Hoell T, Chung RY, et al. Association of
+epidermal growth factor receptor gene amplification with loss of chromosome 10 in human
+glioblastoma multiforme. J Neurosurg 1992;77:295–301. [PubMed: 1320666]
+16. Humphrey PA, Gangarosa LM, Wong AJ, Archer GE, Lund-Johansen M, Bjerkvig R, et al.
+Deletion-mutant epidermal growth factor receptor in human gliomas: effects of type II mutation on
+receptor function. Biochem Biophys Res Commun 1991;178:1413–1420. [PubMed: 1678600]
+17. Cheng Y, Ng HK, Zhang SF, Ding M, Pang JC, Zheng J, et al. Genetic alterations in pediatric
+high-grade astrocytomas. Human Pathology 1999;30:1284–1290. [PubMed: 10571506]
+18. Bredel M, Pollack IF, Hamilton RL, James CD. Epidermal growth factor receptor expression and
+gene amplification in high-grade non-brainstem gliomas of childhood. Clin Cancer Res
+1999;5:1786–1792. [PubMed: 10430083]
+19. Gilbertson RJ, Hill DA, Hernan R, Kocak M, Geyer R, Olson J, et al. ERBB1 is amplified and
+overexpressed in high-grade diffusely infiltrative pediatric brain stem glioma. Clin Cancer Res
+2003;9:3620–3624. [PubMed: 14506149]
+20. Woodburn JR. The epidermal growth factor receptor and its inhibition in cancer therapy.
+Pharmacology and Therapeutics 1999;82:241–250. [PubMed: 10454201]
+21. Packer RJ, Boyett JM, Zimmerman RA, Rorke LB, Kaplan AM, Albright AL, et al.
+Hyperfractionated radiation therapy (72 Gy) for children with brain stem gliomas. A Childrens
+Cancer Group Phase I/II Trial. Cancer 1993;72:1414–1421. [PubMed: 8339232]
+22. O’Rourke DM, Kao GD, Singh N, Park BW, Muschel RJ, Wu CJ, et al. Conversion of a
+radioresistant phenotype to a more sensitive one by disabling erbB receptor signaling in human
+cancer cells. Proc Natl Acad Sci USA 1998;95:10842–10847. [PubMed: 9724792]
+23. Ranson M, Hammond LA, Ferry D, Kris M, Tullo A, Murray PI, et al. ZD1839, a selective oral
+epidermal growth factor receptor-tyrosine kinase inhibitor, is well tolerated and active in patients
+with solid, malignant tumors: results of a phase I trial. J Clin Oncol 2002;20:2240–2250.
+[PubMed: 11980995]
+24. Herbst RS, Maddox AM, Rothenberg ML, Small EJ, Rubin EH, Baselga J, et al. Selective oral
+epidermal growth factor receptor tyrosine kinase inhibitor ZD1839 is generally well-tolerated and
+has activity in non-small-cell lung cancer and other solid tumors: results of a phase I trial. J Clin
+Oncol 2002;20:3815–3825. [PubMed: 12228201]
+25. Baselga J, Rischin D, Ranson M, Calvert H, Raymond E, Kieback DG, et al. Phase I safety,
+pharmacokinetic, and pharmacodynamic trial of ZD1839, a selective oral epidermal growth factor
+receptor tyrosine kinase inhibitor, in patients with five selected solid tumor types. J Clin Oncol
+2002;20:4292–4302. [PubMed: 12409327]
+26. Nakagawa K, Tamura T, Negoro S, Kudoh S, Yamamoto N, Takeda K, et al. Phase I
+pharmacokinetic trial of the selective oral epidermal growth factor receptor tyrosine kinase
+inhibitor gefitinib (‘Iressa’, ZD1839) in Japanese patients with solid malignant tumors. Ann Oncol
+2003;14:922–930. [PubMed: 12796031]
+27. Bai F, Iacono LC, Johnston B, Stewart CF. Determination of gefitinib in plasma by liquid
+chromatography with a C 12 column and electrospray tandem mass spectrometry detection. J
+Liquid Chromatography 2004;27:2743–2758.
+28. D’Argenio, DZ.; Schumitzky, A. ADAPT II User’s Guide. USC, Los Angeles: Biomedical
+Simulations Resource; 1990.
+29. Kadlubar FF, Berkowitz GS, Delongchamp RR, Wang C, Green BL, Tang G, et al. The
+CYP3A4*1B variant is related to the onset of puberty, a known risk factor for the development of
+breast cancer. Cancer Epidemiology, Biomarkers and Prevention 2003;12:327–331.
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Geyer et al. Page 9
+30. Lee SJ, Goldstein JA. Functionally defective or altered CYP3A4 and CYP3A5 single nucleotide
+polymorphisms and their detection with genotyping tests. Pharmacogenomics 2005;6:357–371.
+[PubMed: 16004554]
+31. Zheng H, Webber S, Zeevi A, Schuetz E, Zhang J, Lamba J, et al. The MDR1 polymorphisms at
+exons 21 and 26 predict steroid weaning in pediatric heart transplant patients. Human Immunology
+2002;63:765–770. [PubMed: 12175731]
+32. Zamber CP, Lamba JK, Yasuda K, Farnum J, Thummel K, Schuetz JD, et al. Natural allelic
+variants of breast cancer resistance protein (BCRP) and their relationship to BCRP expression in
+human intestine. Pharmacogenetics 2003;13:19–28. [PubMed: 12544509]
+33. Haley JD, Hsuan JJ, Waterfield MD. Analysis of mammalian fibroblast transformation by normal
+and mutated human EGF receptors. Oncogene 1989;4:273–83. [PubMed: 2784850]
+34. Daw NC, Furman WL, Stewart CF, Iacono LC, Krailo M, Bernstein ML, et al. Phase I and
+pharmacokinetic study of gefitinib in children with refractory solid tumors: a Children’s Oncology
+Group Study. J Clin Oncol 2005;23:6172–6180. [PubMed: 16135484]
+35. Prados MD, Yung WK, Wen PY, Junck L, Cloughesy T, Fink K, et al. Phase-1 trial of gefitinib
+and temozolomide in patients with malignant glioma: a North American brain tumor consortium
+study. Cancer Chemother Pharmacol 2008;61:1059–67. [PubMed: 17694310]
+36. Hofer S, Frei K. Gefitinib concentrations in human glioblastoma tissue. J Neurooncol
+2007;82:175–6. [PubMed: 17008949]
+37. Broniscer A, Laningham FH, Kocak M, Krasin MJ, Fouladi M, Merchant TE, et al. Intratumoral
+hemorrhage among children with newly diagnosed, diffuse brainstem glioma. Cancer
+2006;106:1364–71. [PubMed: 16463390]
+38. Zarghooni M, Bartels U, Lee E, Buczkowicz P, Morrison A, Huang A, Bouffet E, Hawkins C.
+Whole-Genome Profiling of Pediatric Diffuse Intrinsic Pontine Gliomas Highlights Platelet-
+Derived Growth Factor Receptor α and Poly (ACP-ribose) Polymerase As Potential Therapeutic
+Targets. Journal of Clinical Oncology 2010;28(8):1337–1344. [PubMed: 20142589]
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Geyer et al. Page 10
+FIGURE 1.
+a. Graph summarizing percent of tumour cells expressing epidermal growth factor receptor
+(EGFR) according to EGFR copy number status. b. Top panel: EGFR
+immunohistochemistry showing intense membrane staining in the sample in which 90% of
+cells express EGFR. Bottom panel: FISH analysis confirming high-level EGFR
+amplification in this same tumour.
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Geyer et al. Page 11
+1
+elbaT
+seirammuS
+egahrromeH
+laromutartnI
+dna
+seiticixoT
+gnitimiL-esoD
+sesruoC
+egahrromeH
+SNC
+devresbO
++3
+2
+dna
+1
+sesruoC
+sTLD
+devresbO
+TLD
+htiw
+stneitaP
+fo
+.oN
+stneitaP
+elbaulavE
+fo
+.oN
+deretnE
+stneitaP
+fo
+.oN
+esoD
+mutartS
+negonirbiF
+2-rG
+^2
+6
+6
+001
+ainepohpmyL
+3-rG
+4-rG
+0
+6
+7
+052
+)GSB(
+*AI
+4-rG
+noitamauqsed/hsaR
+3-rG
+1
+5
+7
+573
+0
+2
+2
+001
+4-rG
+0
+3
+3
+052
+egahrromeh
+SNC
+3-rG
+3
+5
+5
+573
+)GMTS(
+§BI
+egahrromeh
+SNC
+5-rG
+noitardyheD
+3-rG
+negonirbiF
+3-rG
+gnitimoV
+3-rG
+0
+3
+3
+001
+)DCAIE
++
+GMTS(
+II
+*
+.stnasluvnocitna
+gnicudni-emyzne
+deviecer
+trohoc
+siht
+ni
+stneitap
+oN
+^
+.degnahc
+saw
+noitinifed
+TLD
+eht
+dna
+dednema
+saw
+locotorp
+eht
+,sTLD
+owt
+eseht
+gnivresbo
+nopU
+§
+BI
+mutarts
+ni
+devresbo
+sTLD
+no
+desab
+ton
+saw
+noitalacse-esoD
+edarg=rG
+,sgurD
+tnasluvnoc-itnA
+gnicudnI
+emyznE=DCAIE
+,samoilG
+tnangilaM
+lairotnetrepuS=GMTS
+,samoilg
+mets
+niarB=GSB
+,yticixoT
+gnitimil-esoD=TLD
+:snoitaiverbbA
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+
+--- Page 12 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Geyer et al. Page 12
+TABLE 2
+Patient demographics
+Numbers of Patients
+Stratum IA (BSG) Stratum IB (STMG) Stratum II (STMG + EIACDs)
+Male 6 8 1
+Gender
+Female 14 2 2
+Unknown . 1 .
+Ethnicity Hispanic or Latino 5 1 .
+Non-Hispanic 15 8 3
+AA 2* . 1
+BSG 18 . .
+Diagnosis GBM . 9 1
+MG . . 1
+MOA . 1 .
+Age at Study Entry: 7.4 (3.4, 15.1) 13.5 (3.1, 20.9) 12.8 (10.4, 15.2)
+Median (min, max)
+*
+Two BSG patients were biopsied
+Abbreviations: AA=Anaplastic Astrocytoma, BSG=Brain Stem Gliomas, GBM=Glioblastoma Multiforme, MG=Malignant Gliomas,
+MOA=Mixed Oligoastrocytoma, STMG=Supertentorial Malignant Gliomas, EIACD=Enzyme Inducing Anti-Convulsant Drugs
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Geyer et al. Page 13
+3
+elbaT
+stneitap
+elbaulave
+03
+eht
+fo
+)%01
+>(
+erom
+ro
+4
+ni
+devresbo
+dna
+ypareht
+ot
+detubirtta
+)2
+edarG
+≥(
+seiticixot
+gnitimil-esod
+noN
+)sDCAIE
++
+GMTS(
+II
+mutartS
+)GMTS(
+BI
+mutartS
+)GSB(
+AI
+mutartS
++3-srC
+2
+dna
+1-srC
++3-srC
+2 dna
+1-srC
++3-srC
+2
+dna
+1-srC
+2
+2
+4
+3
+2
+3
+2
+4
+3
+2
+3
+2
+edarG
+2
+5
+3
+6
+2
+ainepohpmyL
+1
+1
+3
+3
+ymotsoloc
+tuohtiw
+stneitap
+aehrraiD
+1
+2
+2
+3
+noitamauqsed/hsaR
+1
+6
+)CBW
+latot(
+setycokueL
+2
+1
+1
+3
+gnitimoV
+1
+1
+3
+2
+)ainehtsa
+,esialam
+,ygrahtel(
+eugitaF
+1
+1
+1
+3
+)esanimsnart
+civuryp
+cimatulg
+mures(
+)TLA(
+TPGS
+1
+1
+3
+)CGA/CNA(
+setycolunarg/slihportueN
+1
+1
+2
+ehcadaeH
+1
+2
+1
+negonirbiF
+2
+1
+aesuaN
+1
+2
+gnideelb/egahrromeh
+SNC
+esruoc=srC
+,sgurD
+tnasluvnoc-itnA
+gnicudnI
+emyznE=DCAIE
+,samoilG
+tnangilaM
+lairotnetrepuS=GMTS
+,samoilg
+mets
+niarB=GSB
+:snoitaiverbbA
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Geyer et al. Page 14
+Table 4
+Summary* of gefitinib pharmacokinetic parameters in relation to dosage
+100 mg/m2/d 250 mg/m2/d 375 mg/m2/d
+No. of patients 8 6 8
+Actual dosage (mg/m2/d) 98.1 (86.2–104.2) 252/6 (244.8–261.6) 379.9 (367.6–410.9)
+C † (μg/mL) 0.44 (0.28–0.71) 0.83 (0.45–1.36) 1.89 (0.93–2.42)
+max
+T † (h) 4.9 (1.2–6.2) 4.2 (2.0–6.0) 4.2 (2.3–6.4)
+max
+t (h) 9.9 (1.8–19.9) 17.6 (4.8–41.3) 10.4 (3.8–39.2)
+1/2
+Cl/F (L/h/m2) 12.8 (1.8–21.8) 20.9 (12.6–33.9) 15.0 (5.8–25.8)
+AUC (μg/mL*h) 5.3 (3.7–11.8) 11.8 (4.3–16.7) 25.3 (18.4–35.3)
+0-24
+*
+Values are median and range.
+†
+Observed Cmax and Tmax.
+Abbreviations: Cmax,=maximum concentration; Tmax,=time of maximum gefitinib concentration; Cl/F=apparent oral clearance; AUC0-24=area
+under the concentration-time curve from 0 to 24 hours.
+Eur J Cancer. Author manuscript; available in PMC 2011 December 1.

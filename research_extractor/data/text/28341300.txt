@@ -1,0 +1,1077 @@
+Source: 28341300.pdf
+Extracted on: Fri Sep 12 23:56:48 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Published in final edited form as:
+Gynecol Oncol. 2017 May ; 145(2): 236–242. doi:10.1016/j.ygyno.2017.03.013.
+A phase I pharmacokinetic study of intraperitoneal bortezomib
+and carboplatin in patients with persistent or recurrent ovarian
+cancer: An NRG Oncology/Gynecologic Oncology Group
+study☆,,☆☆
+Danielle A. Jandiala, William E. Bradyb, Stephen B. Howellc, Heather A. Lankesb, Russell J.
+Schilderd, Jan H. Beumere,f,g, Susan M. Christnere, Sandra Strychore, Matthew A. Powellh,
+Andrea R. Hagemannh, Kathleen N. Moorei, Joan L. Walkeri, Paul A. DiSilvestroj, Linda R.
+Duskak, Paula M. Fracassok,1, and Don S. Dizonl,1,*
+aUniversity of California Irvine Medical Center, United States
+bNRG Statistics and Data Management Center – Buffalo Office, United States
+cMoores UCSD Cancer Center, University of California, San Diego, United States
+dGynecologic Oncology, Thomas Jefferson Medical College, Philadelphia, PA, United States
+eUniversity of Pittsburgh Cancer Institute, United States
+fUniversity of Pittsburgh School of Pharmacy. United States
+gUniversity of Pittsburgh School of Medicine, United States
+hWashington University, St. Louis, United States
+iOklahoma University Medical Center, United States
+jWomen & Infants’ Hospital of Rhode Island, United States
+kUVA Cancer Center, University of Virginia, Charlottesville, VA, United States
+lMassachusetts General Hospital Cancer Center, United States
+☆This project used the UPCI Cancer Pharmacokinetics and Pharmacodynamics Facility (CPPF) and was supported in part by award
+P30-CA47904. In addition, the following National Cancer Institute grants also supported this study: NRG Oncology Operations grant
+number U10 CA180868 as well as NRG SDMC grant U10 CA180822, Gynecologic Oncology Group (GOG) Administrative Office
+and the GOG Tissue Bank (CA 27469) and the GOG Statistical and Data Center (CA 37517).
+☆☆This study was presented in abstract form at the ASCO meeting held in Chicago, IL on 5/29 to 6/2015. J Clin Oncol 33(15s):
+ASCO#5515, 2015. NCT01074411.
+*Corresponding author at: Massachusetts General Hospital Cancer Center, 55 Fruit Street, Yawkey 9E, Boston, MA 02114, United
+States.
+1Co-Last Authors.
+Supplementary data to this article can be found online at http://dx.doi.org/10.1016/j.ygyno.2017.03.013.
+Conflicts of interest
+Dr. Bill Brady reports that he received grants from the NCI (1 U10 CA 180822-01, 5 U10 CA037517-29, P30 CA16056) during the
+conduct of the submitted work. Additionally, Dr. Brady reports that he has received a grant from Nektar Therapeutics and Advaxis
+outside the submitted work. Dr. Russell Schilder reports that has received personal fees from Celsion as Chair, IDMC. Jan Beumer
+reports that the pharmacologic work was supported in part by Millenium Pharmaceuticals. Dr. Matthew Powell reports serving as paid
+consultant/speaker for Roche/Genentech and AstraZeneca. Dr. Kathleen Moore repots serving on the Advisory Board of Genentech
+Roche, Astra Zeneca, Amgen, Immunogen, TESARO, Clovis, Advaxis.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Jandial et al. Page 2
+Abstract
+Purpose—Intraperitoneal (IP) therapy improves survival compared to intravenous (IV) treatment
+for women with newly diagnosed, optimally cytoreduced, ovarian cancer. However, the role of IP
+therapy in recurrent disease is unknown. Preclinical data demonstrated IP administration of the
+proteasome inhibitor, bortezomib prior to IP carboplatin increased tumor platinum accumulation
+resulting in synergistic cytotoxicity. We conducted this phase I trial of IP bortezomib and
+carboplatin in women with recurrent disease.
+Methods—Women with recurrent ovarian cancer were treated with escalating doses of IP
+bortezomib - in combination with IP carboplatin (AUC 4 or 5) every 21 days for 6 cycles.
+Pharmacokinetics of both agents were evaluated in cycle 1.
+Results—Thirty-three women participated; 32 were evaluable for safety. Two patients
+experienced dose-limiting toxicity (DLT) at the first dose level (carboplatin AUC 5, bortezomib
+0.5 mg/m2), prompting carboplatin reduction to AUC 4 for subsequent dose levels. With
+carboplatin dose fixed at AUC 4, bortezomib was escalated from 0.5 to 2.5 mg/m2 without DLT.
+Grade 3/4 related toxicities included abdominal pain, nausea, vomiting, and diarrhea which were
+infrequent. The overall response rate in patients with measurable disease (n = 21) was 19% (1
+complete, 3 partial). C and AUC in peritoneal fluid and plasma increased linearly with dose,
+max
+with a favorable exposure ratio of the peritoneal cavity relative to peripheral blood plasma.
+Conclusion—IP administration of this novel combination was feasible and showed promising
+activity in this phase I trial of heavily pre-treated women with ovarian cancer. Further evaluation
+of this IP combination should be conducted.
+Keywords
+Intraperitoneal; Ovarian cancer; Proteasome inhibition; Platinum
+1. Introduction
+Epithelial ovarian cancer affects over 20,000 women annually, and over 14,000 are projected
+to die of the disease each year in the United States alone [1]. For women with newly
+diagnosed, optimally cytoreduced, advanced ovarian cancer, adjuvant treatment that
+incorporates the intraperitoneal (IP) administration of chemotherapy affords a survival
+advantage [2–6]. The magnitude of the pharmacologic advantage of administering a drug IP
+is a function of the rate of clearance of the drug from the peritoneal cavity relative to its
+clearance from the systemic circulation, referred to as the AUC ratio [7]. In the case of
+carboplatin, the advantage, expressed as the AUC ratio, is in the range of eighteen- to
+nineteen-fold [8]. Despite the survival advantages, treatments that includes IP therapy have
+not been widely adopted [9]. This is likely due to concerns for excess toxicities with IP
+treatment, related to both drug and catheter-specific issues [10]. In addition, the role of IP
+therapy for women with relapsed disease is relatively unexplored.
+Bortezomib, a dipeptidyl boronic acid, potently inhibits the 20S subunit of the proteasome
+by which ubiquitinated proteins are degraded. It is currently approved for the treatment of
+multiple myeloma and mantle cell lymphoma [11–12]. However, there have been limited
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Jandial et al. Page 3
+investigations of this agent administered IV in women with ovarian cancer [13,14].
+Pharmacokinetic studies of bortezomib indicate that over 90% of the drug is cleared from
+the plasma within 15 min of systemic administration following a single dose [15]. However,
+after multiple doses, the elimination half-life is prolonged, and plasma clearance is
+decreased [16]. Multiple pharmacodynamic studies of IV bortezomib using an assay for 20S
+proteasome inhibition [17] demonstrate that proteasome inhibition is dose-dependent, is
+highest after one hour (~65–70%), and recovers toward baseline levels after approximately
+72 h. No significant changes are seen in the levels of 20S proteasome inhibition with
+repeated dosing (on Days 1, 4, 8 and 11), which suggests that 72 h is sufficient for recovery
+of proteasome function in normal tissues [18].
+Jandial et al. performed preclinical studies of bortezomib using a human ovarian
+intraperitoneal xenograft model and administering the agent by the IP route rather than IV
+[19]. They reported that IP bortezomib administration resulted in a 252-fold greater
+exposure (AUC) for the peritoneal cavity than the plasma. In addition, bortezomib acted as a
+pharmacologic modulator of platinum uptake in human ovarian cancer cells and tumors in
+vivo. Furthermore, pretreatment with bortezomib prior to a single dose of cisplatin in mice
+resulted in significantly higher cellular platinum accumulation within tumor nodules
+growing on the peritoneal surface of mice by 33% (p = 0.0006). Median effect analysis
+demonstrated the accumulation was associated with synergistic cytotoxicity. In addition, IP
+carboplatin results in similar tumor penetration to IP cisplatin in this model, when each
+agent is given at equitoxic doses [20].
+Taken together, these preclinical findings, which demonstrate both the ability of bortezomib
+to enhance platinum tumor uptake and a potential pharmacologic advantage of
+intraperitoneally administered bortezomib, supported the hypothesis that dual IP treatment
+may be an effective treatment option for women with recurrent ovarian cancer, thus
+providing the rationale for this Phase I trial.
+2. Methods
+2.1. Study drugs
+Bortezomib and carboplatin were administered IP on Day 1 of a 21-day cycle for a planned
+total of 6 cycles, though patients having a clinical benefit were allowed to continue for more
+cycles. Patients were treated with bortezomib starting at a dose of 0.5 mg/m2, escalating by a
+fixed amount each cohort to a maximum dose of 2.5 mg/m2. Initially, carboplatin was fixed
+at AUC 5. However, at the first dose level (referred to as dose level 1a in Table 1), toxicity
+was noted and carboplatin was reduced to AUC 4 for all further dose levels (dose levels 1–
+6).
+Placement of an IP port was required and performed following the guidelines from the
+Gynecologic Oncology Group (GOG) Surgical Procedures Manual. Bortezomib was diluted
+in a volume of 500 mL of 0.9% NaCl and instilled into the peritoneal cavity. Carboplatin
+was mixed in up to 2 L of normal saline and administered IP one hour after bortezomib
+administration. Standard antiemetic regimens were used, following guidelines put forth by
+the National Comprehensive Cancer Network (REF: NCCN Guidelines for Supportive care:
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Jandial et al. Page 4
+Antiemesis V.1.2017. Available at: https://www.nccn.org/professionals/physician_gls/
+recently_updated.asp).
+2.2. Eligibility criteria
+Eligible patients must have had recurrent or persistent epithelial ovarian, fallopian tube, or
+primary peritoneal cancer. Either measurable disease (as defined by RECIST 1.121) or
+detectable disease (e.g., ascites, pleural effusion, non-measurable disease, or a baseline
+values of CA-125 at least twice the upper limit of normal) was required. Tumor debulking
+prior to protocol entry was not required. All patients must have had a GOG Performance
+Status of 0 to 2.
+Patients must have had at least two and were allowed up to four prior regimens (inclusive of
+the primary treatment). Prior treatment with biologic (non-cytotoxic) therapy either alone or
+as part of the cytotoxic regimens for management of recurrent or persistent disease was
+allowed, but prior treatment with bortezomib was not allowed. All prior anti-cancer
+treatment must have been discontinued three weeks prior to registration. Laboratory criteria
+for eligibility included an absolute neutrophil count (ANC) ≥ 1500/mcl, platelets ≥ 100,000/
+mcl, creatinine ≤ 1.5 times the institutional upper limit of normal (ULN), bilirubin <1.2
+times the ULN, alanine transaminase and aspartate transaminase ≤ 3.0 times the ULN, and
+alkaline phosphatase ≤ 2.5 times the ULN. Patients must have had a baseline neuropathy
+(sensory and motor) ≤ Grade 1 (NCI CTCAE Version 4.
+This study was reviewed and approved by the Cancer Therapy Evaluation Program (CTEP)
+of the National Cancer Institute. All patients gave written informed consent before study
+entry in compliance with institutional, state, and federal regulations.
+2.3. Evaluation of toxicity and of dose-limiting toxicity
+Patients underwent weekly laboratory evaluations and toxicity assessments. Dose limiting
+toxicities (DLTs) were defined by study-related adverse events which occurred in association
+with the first cycle of treatment. Criteria for hematologic DLTs included dose delay of >3
+weeks due to persistent low blood counts; febrile neutropenia; grade 4 neutropenia lasting
+>7 days; grade 4 thrombocytopenia, or grade 3 thrombocytopenia with clinically significant
+bleeding. Criteria for non-hematologic DLTs included drug-related death and any grade 3 or
+4 adverse event with the exception of the following grade 3 toxicities: abdominal pain
+deemed related to the port as determined by the treating physician; anorexia; fatigue; nausea
+and/or vomiting, or diarrhea (lasting ≤ 48 h despite maximal medical management);
+dehydration (as a result of nausea and vomiting); constipation; metabolic abnormalities
+(hypokalemia, hypomagnesemia, hypocalcemia, hypophosphatemia that recovered to grade
+2 or less within 48 h with or without medical management).
+2.4. Dose modifications
+Initial treatment modifications consisted of cycle delay or dose reduction with treatment
+decisions for hematologic toxicity based on the ANC. For the start of a cycle, treatment was
+delayed for a maximum of three weeks until the ANC was ≥ 1500 cells/mm3 and the platelet
+count was ≥ 100,000/mm3. Prophylactic use of hematopoietic cytokines and protective
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Jandial et al. Page 5
+reagents was not allowed. Bortezomib dose was reduced by one dose level for patients who
+experienced dose-limiting neutropenia in the first cycle. Both bortezomib and carboplatin
+were reduced by one dose level for dose-limiting thrombocytopenia with or without dose-
+limiting neutropenia. There were no dose modifications on the basis of uncomplicated ANC
+nadirs lasting <7 days. For dose-limiting non-hematologic toxicities, bortezomib was
+reduced by one dose level for up to two occurrences. For all patients treated on dose levels 1
+through 6, no dose reduction of carboplatin was allowed.
+2.5. Pharmacokinetics
+All patients underwent plasma collection for quantitative analysis of bortezomib and
+ultrafilterable platinum. Samples were taken from both the blood (EDTA anticoagulated)
+and peritoneal fluid at the following time points: pre-infusion of bortezomib, immediately
+following infusion, 15 min after infusion, then 30 min (corresponding to time prior to
+carboplatin infusion), 60 min, 90 min, 2 h, 4 h, and 6 h post-bortezomib infusion. An
+additional collection was obtained immediately following the infusion of carboplatin.
+Concentrations of total platinum and ultrafilterable platinum (platinum not bound to
+macromolecules) were quantitated by atomic absorption spectrophotometry (AAS) [22].
+Bortezomib concentrations were quantitated by LC-MS/MS as previously described [22] and
+implemented in the Gynecologic Oncology Group (GOG) Pharmacokinetic Core Facility in
+Pittsburgh. Based on quality control samples at 0.3, 2, 10, 20, and a dilutional QC at 50
+ng/mL, the precision (CV) ranged from 1.3% to 4.0% and the accuracy ranged from 3.7% to
+8.3%. Pharmacokinetic parameters were derived by non-compartmental modeling using PK
+Solutions 2.0 (Summit Research Services, Montrose, CO; www.summitPK.com).
+2.6. Response assessment
+For patients with measurable disease, RECIST 1.1 criteria were used to define response [21].
+2.7. Statistical considerations
+This trial used a standard 3 + 3 design during dose escalation trial. If one patient out of three
+experienced a DLT, an additional three patients were enrolled at that dose level. The MTD
+was determined by the maximum dose level achieved at which ≤ 1 patient (among six)
+experienced a DLT. No intra-patient dose escalation was allowed. No patients were enrolled
+at the next higher level of dose until all patients at the previous dose level had been followed
+through the end of the first cycle. In addition, patients who did not complete one cycle of
+therapy and who did not have a DLT were replaced. Patients who discontinued treatment due
+to port-related complications were also replaced. Progression-free survival was summarized
+using Kaplan-Meier method. Descriptive analysis was used to characterize the
+pharmacokinetic parameters of bortezomib and carboplatin.
+3. Results
+3.1. Demographics
+Thirty-three patients participated in this study, 32 of whom were treated and thus evaluable
+for safety. One subject was unevaluable due to technical issues related to IP port placement
+after enrollment and was removed from the study. The median age of participants was 60
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Jandial et al. Page 6
+years (range, 24 to 79). Measurable disease was present in 21 patients (66%). Demographic
+data is summarized in Table 2.
+3.2. Adverse events
+At dose level (DL) 1a, two patients experienced DLT. One patient had grade 3 abdominal
+pain, and the other patient experienced grade 4 thrombocytopenia and a grade 3 lung
+infection. Due to these toxicities, the dose of carboplatin was reduced to a fixed dose of
+AUC 4 for subsequent patients, and dose escalation of bortezomib proceeded. The dose of
+bortezomib was then escalated from DL1 to DL6 (Table 1) with no DLTs noted. While this
+trial did not establish the maximum tolerated dose (MTD), carboplatin AUC 4 plus
+bortezomib 2.5 mg/m2 was tolerable and may be investigated further.
+Adverse events (AEs) are presented overall and by dose level (Supplemental file). Grade 3/4
+toxicities associated with treatment were infrequent but included the following (incidence ≥
+10%): neutropenia (16%), nausea (16%), thrombocytopenia (13%), anemia (13%),
+abdominal pain (13%), diarrhea (13%) and vomiting (13%).
+Four patients (13%) experienced carboplatin hypersensitivity reactions (grade 3 after cycle 2
+in two patients, grade 2 after cycle 2 in one patient, and grade 1 after cycle 4 in one patient).
+Three of these patients had received 12 prior cycles of platinum chemotherapy, and one had
+received eight. Reactions were similar to those typically encountered with IV carboplatin
+and all patients responded well to conservative management. None of these patients were re-
+challenged with IP carboplatin.
+3.3. Evaluation of activity
+Among 21 patients with measurable disease, 4 responses (19%, 95% CI: 5%, 42%) were
+seen including one complete responder treated at DL5. Partial responses were seen at DL1,
+DL4, and DL6. Of the four responses, three patients had a serous adenocarcinoma, and one
+had a mixed epithelial carcinoma. An additional 14 patients (67%) experienced stable
+disease. In all treated patients, median progression-free survival (PFS) was 4.9 months (95%
+CI: 2.9, 6.7 months).
+3.4. Pharmacokinetic data
+Bortezomib pharmacokinetic data was available from plasma in 29 patients, from peritoneal
+fluid in 28 patients and from both in 26 patients (Table 3 and Figs. 1A, 2). Bortezomib
+peritoneal fluid concentrations peaked at the end of instillation, while bortezomib plasma
+concentrations peaked approximately half an hour later at approximately 2 orders of
+magnitude lower levels. Bortezomib exposure in both the peritoneal fluid and peripheral
+blood plasma increased with dose while the ratio of peritoneal fluid to plasma exposure
+appeared to decrease somewhat yet remained relatively high across the dose range studied.
+Useable platinum pharmacokinetic data was available from 10 patients, all treated at AUC 4
+(Table 4 and Fig. 1B). Ultrafilterable platinum concentrations peaked at the end of
+instillation, while plasma concentrations peaked approximately 40 min later at
+approximately 1 order of magnitude lower levels. The ultrafilterable platinum concentrations
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Jandial et al. Page 7
+represented most of the total platinum concentrations both in the peritoneal compartment
+and the plasma compartment.
+PK analysis shows that the bortezomib maximal concentration (C ) increased linearly
+max
+with dose in both the plasma (PL) (Table 3 and Fig. 2) and peritoneal fluid (PF) with an
+excess of 100-fold greater concentration in the peritoneal cavity than in plasma (Figs. 1 and
+2). In addition, when the therapeutic ratio (PF/PL) between bortezomib and ultrafilterable
+platinum in the plasma and peritoneal fluid are compared (Fig. 2), we identified a large
+difference and high therapeutic ratio, indicating that bortezomib stays predominantly in the
+peritoneal fluid.
+4. Discussion
+This is the first prospective trial of a multidrug IP regimen conducted for women with
+recurrent ovarian cancer. IP bortezomib, in combination with IP carboplatin fixed at an AUC
+4, was successfully escalated up to 2.5 mg/m2 without dose-limiting toxicities. Our
+pharmacokinetic analyses show that bortezomib exposure increased with dose in both the
+plasma and peritoneal fluid with an exposure ratio in excess of 100-fold in favor of the
+peritoneal cavity. Previously reported pharmacokinetic parameters of intravenous
+bortezomib at 1 mg/m2 resulted in plasma C of 85–144 ng/mL and plasma AUC values
+max
+of 6.5–10.3 μg/mL·min [ 23]. Similarly, the ultrafilterable platinum exposures documented in
+this trial suggest a favorable exposure ratio. The high proportion of total plasma platinum
+accounted for by ultrafilterable platinum suggests that the platinum detected in plasma,
+though ultrafilterable, no longer possesses the ability to platinate macromolecules, and is
+consequently inactive. Therefore, the already advantageous peritoneal/plasma AUC ratio of
+approximately 15–42 is likely an underestimate of the true exposure ratio of active platinum
+species.
+An objective response rate of 19% was observed in this trial and 67% of patients were able
+to achieve stable disease in this heavily pretreated population. In the current trial, disease
+burden and location varied widely, but the overall response rate of 19% was attained in the
+face of substantial tumor burden in many patients, which runs counter to the presumed role
+of IP therapy for women with ovarian cancer, where it is normally an option only for women
+with optimally cytoreduced, advanced ovarian cancer [3,24,25].
+In addition, this IP regimen was well tolerated by patients with a manageable toxicity
+profile, evidenced by six patients with stable disease electing to remain on study past the
+required six cycles of treatment. The AEs produced by this combination reflect the known
+myelosuppressive activity of these agents. However, the IP combination of these drugs did
+not have the toxicities seen with the IV combination of bortezomib and carboplatin seen in
+other trials in this population. In particular, grade 3 sensory peripheral neuropathy, a DLT
+with the IV combination, was not observed [13]. It is particularly noteworthy that even at the
+highest dose of bortezomib (2.5 mg/m2) in combination with carboplatin no overt peritonitis
+occurred and the frequency and severity of abdominal pain was similar to that observed in
+first line IP chemotherapy trials of cisplatin or carboplatin in combination with paclitaxel.
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Jandial et al. Page 8
+With respect to platinum hypersensitivity reactions, four patients (13%) experienced
+carboplatin hypersensitivity reactions. These patients had been heavily treated with platinum
+prior to enrollment in this study, with a median number of 11 prior platinum chemotherapy
+cycles. We are not able to find comparative data from other studies of bortezomib and
+carboplatin because it was not specifically reported in the two prior Phase 1 IV trials of this
+combination in a similar population [13,14]. However, the approximate rate of
+hypersensitivity reactions with retreatment using IV carboplatin is 12 to 16% [26,27]. Our
+data suggest that both the frequency and severity of carboplatin hypersensitivity reactions
+after IP therapy are similar to historically reported rates, and manifest similarly in terms of
+time to onset after carboplatin infusion as well as overall symptomatology.
+It is important to note that this trial did not establish whether there is a true synergistic
+interaction between carboplatin and bortezomib. Additional studies of their interaction
+should be considered in the very high concentration ranges attainable in the peritoneal
+cavity. This trial points to the possibility of further escalating the IP dose of bortezomib
+which can be expected to enhance tumor penetration particularly in the case of small volume
+disease.
+While IP treatment is associated with a survival advantage when used in the upfront setting,
+it is limited to patients with optimally cytoreduced disease [6,24]. This trial is unique in that
+it offers important insights into the use of IP in patients with advanced recurrent disease,
+including both measurable disease as well as nonmeasurable miliary disease and
+carcinomatosis. In addition, a Japanese study presented at the 2016 American Society of
+Clinical Oncology Annual Meeting suggests that patients with suboptimal residual ovarian
+cancer may derive benefit from an IP-containing regimen, contrary to our previously
+established standard recommendations against IP treatment in these patients [28].
+Our data suggest that the use of bortezomib may indeed enhance the activity of carboplatin,
+as demonstrated by the response rates seen in our trial, proposing a potential role among
+women with newly diagnosed suboptimally cytoreduced ovarian cancer. The activity of the
+carboplatin and bortezomib combination in this setting also raises the question of whether
+second line debulking prior to IP therapy for recurrent disease might be considered. Whether
+it improves outcomes compared to standard therapies remains to be seen, and such a
+question can only be answered in a carefully conducted randomized trial. However, these
+data are sufficiently encouraging to warrant further investigation.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+This study was supported by National Cancer Institute grants NRG Oncology SDMC grant U10 CA180822 and the
+NRG Oncology Operations grant U10CA 180868.
+The following Gynecologic Oncology Group member institutions participated in the primary treatment studies:
+Washington University School of Medicine, University of Oklahoma Health Sciences Center, Women and Infants
+Hospital, University of Virginia, The Hospital of Central Connecticut, Virginia Commonwealth University,
+University of Iowa Hospitals and Clinics, Hillcrest Hospital Cancer Center, Hartford Hospital.
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Jandial et al. Page 9
+References
+1. Siegel RL, Miller KD, Jemal A. Cancer statistics, 2015. CA Cancer J Clin. 2015; 65:5–29.
+[PubMed: 25559415]
+2. Ma C, Mandrekar SJ, Alberts SR, Croghan GA, Jatoi A, Reid JM, et al. A phase I and
+pharmacologic study of sequences of the proteasome inhibitor, bortezomib (PS-341, Velcade), in
+combination with paclitaxel and carboplatin in patients with advanced malignancies. Cancer
+Chemother Pharmacol. 2007; 59:207–215. [PubMed: 16763792]
+3. Armstrong DK, Bundy B, Wenzel L, Wenzel L, Huang HQ, Baergen R, et al. Intraperitoneal
+cisplatin and paclitaxel in ovarian cancer. N Engl J Med. 2006; 354:34–43. [PubMed: 16394300]
+4. Elit L, Oliver TK, Covens A, Kwon J, Fung MF, Hirte HW, et al. Intraperitoneal chemotherapy in
+the first-line treatment of women with stage III epithelial ovarian cancer: a systematic review with
+metaanalyses. Cancer. 2007; 109:692–702. [PubMed: 17238181]
+5. Markman M, Bundy BN, Alberts DS, Fowler JM, Clark-Pearson DL, Carson LF, et al. Phase III trial
+of standard-dose intravenous cisplatin plus paclitaxel versus moderately high-dose carboplatin
+followed by intravenous paclitaxel and intraperitoneal cisplatin in small-volume stage III ovarian
+carcinoma: an intergroup study of the Gynecologic Oncology Group, Southwestern Oncology
+Group, and Eastern Cooperative Oncology Group. J Clin Oncol. 2001; 19:1001–1007. [PubMed:
+11181662]
+6. Tewari D, Java JJ, Salani R, Armstrong DK, Markman M, Herzog T, et al. Long-term survival
+advantage and prognostic factors associated with intraperitoneal chemotherapy treatment in
+advanced ovarian cancer: a gynecologic oncology group study. J Clin Oncol. 2015; 33:1460–1466.
+[PubMed: 25800756]
+7. Howell, SB., Section, XV. Principles of chemotherapy, 4. Regional chemotherapy. In: Holland,
+JF.Frei, EI.Bast, RC., JrKufe, D.Morton, R., Weischselbaum, RR., editors. Cancer Medicine. 3. Lea
+& Febiger; Philadelphia: 1993. p. 640-652.
+8. Howell SB, Pfeifle CL, Wung WE, Olshen RA, Lucas WE, Yon JL, et al. Intraperitoneal cisplatin
+with systemic thiosulfate protection. Ann Intern Med. 1982; 97:845–851. [PubMed: 6890785]
+9. Wright AA, Cronin A, Milne DE, Bookman MA, Burger Ra, Cohn DE, et al. Use and effectiveness
+of intraperitoneal chemotherapy for treatment of ovarian cancer. J Clin Oncol. 2015; 33:2841–2847.
+[PubMed: 26240233]
+10. Walker JL, Armstrong DK, Huang HQ, Fowler J, Webster K, Burger RA, et al. Intraperitoneal
+catheter outcomes in a phase III trial of intravenous versus intraperitoneal chemotherapy in
+optimal stage III ovarian and primary peritoneal cancer: a Gynecologic Oncology Group Study.
+Gynecol Oncol. 2006; 100:27–32. [PubMed: 16368440]
+11. Jagannath S, Barlogie B, Berenson J, Siegel D, Irwin D, Richardson PG, et al. A phase 2 study of
+two doses of bortezomib in relapsed or refractory myeloma. Br J Haematol. 2004; 127:165–172.
+[PubMed: 15461622]
+12. Richardson PG, Barlogie B, Berenson J, Singhal S, Jagannath S, Irwin D, et al. A phase 2 study of
+bortezomib in relapsed, refractory myeloma. N Engl J Med. 2003; 348:2609–2617. [PubMed:
+12826635]
+13. Aghajanian C, Dizon DS, Sabbatini P, Raizer JJ, Dupont J, Spriggs DR. Phase I trial of bortezomib
+and carboplatin in recurrent ovarian or primary peritoneal cancer. J Clin Oncol. 2005; 23:5943–
+5949. [PubMed: 16135465]
+14. Ramirez PT, Landen CN Jr, Coleman RL, Milam MR, Levenback C, Johnston TA, et al. Phase I
+trial of the proteasome inhibitor bortezomib in combination with carboplatin in patients with
+platinum- and taxane-resistant ovarian cancer. Gynecol Oncol. 2008; 108:68–71. [PubMed:
+17905421]
+15. Adams J, Kauffman M. Development of the proteasome inhibitor Velcade (Bortezomib). Cancer
+Investig. 2014; 22:304–311.
+16. Ogawa Y, Suzuki K, Sakai A, Iida S, Ogura Tobinai K, et al. Phase I/II study of bortezomib-
+melphalan-prednisolone for previously untreated Japanese patients with multiple myeloma. Cancer
+Sci. 2013; 104:912–919. [PubMed: 23574271]
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Jandial et al. Page 10
+17. Lightcap ES, McCormack TA, Pien CS, Chau V, Adams J, Elliott PJ. Proteasome inhibition
+measurements: clinical application. Clin Chem. 2000; 46:673–684. [PubMed: 10794750]
+18. Aghajanian C, Soignet S, Dizon DS, Pien CS, Adams J, Elliott PJ, et al. A phase I trial of the novel
+proteasome inhibitor PS341 in advanced solid tumor malignancies. Clin Cancer Res. 2002;
+8:2505–2511. [PubMed: 12171876]
+19. Jandial DD, Farshchi-Heydari S, Larson CA, Elliott GI, Wrasidlo WJ, Howell SB. Enhanced
+delivery of cisplatin to intraperitoneal ovarian carcinomas mediated by the effects of bortezomib
+on the human copper transporter 1. Clin Cancer Res. 2009; 15:553–560. [PubMed: 19147760]
+20. Jandial DD, Messer K, Farshchi-Heydari S, Pu M, Howell SB. Tumor platinum concentration
+following intraperitoneal administration of cisplatin versus carboplatin in an ovarian cancer model.
+Gynecol Oncol. 2009; 115:362–366. [PubMed: 19775736]
+21. Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent D, Ford R, et al. New response
+evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer. 2009;
+45:228–247. [PubMed: 19097774]
+22. Colville H, Dzadony R, Kemp R, Stewart S, Zeh HJ 3rd, Bartlett DL, et al. In vitro circuit stability
+of 5-fluorouracil and oxaliplatin in support of hyperthermic isolated hepatic perfusion. J Extra
+Corpor Technol. 2010; 42:75–79. [PubMed: 20437796]
+23. Venkatakrishnan K, Rader M, Ramanathan RK, Ramalingam S, Chen E, Riordan W, et al. Effect of
+the CYP3A inhibitor ketoconazole on the pharmacokinetics and pharmacodynamics of bortezomib
+in patients with advanced solid tumors: a prospective, multicenter, open-label, randomized, two-
+way crossover drug-drug interaction study. Clin Ther. 2009; 31(Pt 2):2444–2458. [PubMed:
+20110052]
+24. Howell SB, Zimm S, Markman M, Abramson IS, Cleary S, Lucas WE, et al. Long-term survival of
+advanced refractory ovarian carcinoma patients with small-volume disease treated with
+intraperitoneal chemotherapy. J Clin Oncol. 1987; 5:1607–1612. [PubMed: 2443622]
+25. Jaaback K, Johnson N. Intraperitoneal chemotherapy for the initial management of primary
+epithelial ovarian cancer. Cochrane Database Syst Rev. Jan 25.2006 :CD005340. [PubMed:
+16437527]
+26. Markman M, Kennedy A, Webster K, Elson P, Peterson G, Kulp B, et al. Clinical features of
+hypersensitivity reactions to carboplatin. J Clin Oncol. 1999; 17:1141. [PubMed: 10561172]
+27. Polyzos A, Tsavaris N, Kosmas C, Arnaouti T, Kalahanis N, Tsigris C, et al. Hypersensitivity
+reactions to carboplatin administration are common but not always severe: a 10-year experience.
+Oncology. 2001; 61:129–133. [PubMed: 11528251]
+28. Hasegawa K, Shmiada M, Takeuchi S, Fujiwara H, Imai Y, Iwasa N, et al. Multicenter phase II
+study of intraperitoneal carboplatin plus intravenous dose-dense paclitaxel in patients with
+suboptimally debulked ovarian or primary peritoneal carcinoma. J Clin Oncol. 2016; 33(Suppl)
+abstr 5004.
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Jandial et al. Page 11
+HIGHLIGHTS
+• IP bortezomib + carboplatin can be safely combined in recurrent ovarian
+cancer patients.
+• An overall response rate of 19% was seen in this heavily pretreated
+population.
+• Intraperitoneal bortezomib exhibits a highly favorable plasma: peritoneal
+AUC ratio.
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Jandial et al. Page 12
+Fig. 1.
+Peritoneal fluid (●) and plasma (○) bortezomib (A) and ultrafilterable platinum (B)
+concentrations of a patient treated with 2.1 mg/m2 bortezomib and carboplatin AUC 4.
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Jandial et al. Page 13
+Fig. 2.
+Bortezomib C (A) and AUC (B) as a function of bortezomib dose, and the peritoneal
+max 0 – t
+fluid (PF) to peripheral blood plasma exposure ratios based on C (C) and AUC (D)
+max 0 – t
+plotted on a semi-log y-axis as a function of bortezomib dose.
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Jandial et al. Page 14
+Table 1
+Dose escalation plan.
+Dose level Number treated IP bortezomib (mg/m2) IP carboplatin (AUC)
+1a 6 0.5 5
+1 6 0.5 4
+2 5 0.9 4
+3 3 1.3 4
+4 3 1.7 4
+5 3 2.1 4
+6 6 2.5 4
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Jandial et al. Page 15
+Table 2
+Demographics.
+Characteristic N = 32
+n (%)
+Age (y)
+<60 16 (50)
+>60 16 (50)
+Ethnicity
+Hispanic 2 (6)
+Non-Hispanic 25 (78)
+Unknown 5 (16)
+Race
+White 30 (94)
+Black 1 (3)
+American Indian 1 (3)
+Performance status
+0 21 (66)
+1 10 (31)
+2 1 (3)
+Prior radiotherapy 1 (3)
+Number of prior chemotherapy regimens
+1 1 (3)
+2 12 (38)
+3 17 (53)
+4 2 (6)
+Number of prior platinum-containing regimens
+1 16 (50)
+2 12 (38)
+3 4 (13)
+Histology
+Serous adenocarcinoma 20 (63)
+Adenocarcinoma, unspecified 5 (16)
+Endometrioid adenocarcinoma 3 (9)
+Mixed epithelial carcinoma 2 (6)
+Clear cell carcinoma 1 (3)
+Mucinous adenocarcinoma 1 (3)
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Jandial et al. Page 16
+3
+elbaT
+.sretemarap
+citenikocamrahp
+)FP(
+diulf
+laenotirep
+dna
+)LP(
+amsalp
+doolb
+larehpirep
+)DS(
+naem
+cirtemoeg
+bimozetroB
+oitar-LP/FP
+amsalP
+diulf
+laenotireP
+)2m/gm(
+esoD
+t –
+0 CUA
+xam
+C
+)nim(
+½t
+t
+–
+0 CUA
+)nim(
+xam
+T
+)Lm/gn(
+xam
+C
+)2m/Lm(
+F/ssV
+)2m/h/Lm(
+F/lC
+)nim(
+½t
+a
+fni –
+0 CUA
+t –
+0 CUA
+)nim(
+xam
+T
+)Lm/gμ(
+xam
+C
+/gμ(
+/gμ(
+/gμ(
+)nim·Lm
+)nim·Lm
+)nim·Lm
+)402(
+422
+)525(
+685
+)58(
+012
+)81.0(
+72.0
+)84(
+49
+)41.1(
+95.1
+)354(
+596
+)254(
+425
+)26(
+64
+)43(
+75
+)23(
+55
+)91(
+44
+)33.0(
+68.0
+)9
+=
+N(
+5.0
+)358(
+172
+)0821(
+336
+)961(
+692
+)05.0(
+54.0
+)76(
+18
+)44.4(
+33.2
+)772(
+447
+)721(
+583
+)281(
+351
+)85(
+041
+)03(
+521
+)13(
+34
+)26.0(
+26.1
+)4
+=
+N(
+9.0
+)141(
+58
+)271(
+051
+)522(
+291
+)44.0(
+40.1
+)41(
+37
+)67.3(
+31.7
+)2353(
+889
+)7332(
+488
+)2(
+01
+)401(
+88
+)401(
+88
+)42(
+06
+)13.1(
+70.1
+)3
+=
+N(
+3.1
+)38(
+96
+)361(
+89
+)21(
+221
+)43.0(
+38.1
+)01(
+37
+)7.0(
+4.21
+)4184(
+4531
+)1901(
+408
+)81(
+74
+)511(
+721
+)611(
+621
+)52(
+05
+)98.1(
+12.1
+)3
+=
+N(
+7.1
+)26(
+58
+)78(
+822
+)74(
+531
+)35.0(
+98.2
+)52(
+07
+)5.2(
+7.71
+)459(
+967
+)962(
+884
+)02(
+59
+)631(
+852
+)831(
+642
+)31(
+34
+)99.0(
+30.4
+)3
+=
+N(
+1.2
+)011(
+78
+)741(
+461
+)04(
+311
+)34.2(
+64.2
+)53(
+501
+)8.11(
+9.61
+)6301(
+1401
+)555(
+305
+)151(
+25
+)591(
+892
+)451(
+222
+)72(
+07
+)89.1(
+72.3
+)4
+=
+N(
+5.2
+)663(
+931
+)566(
+403
+)821(
+971
+–
+)34(
+68
+–
+)2291(
+058
+)678(
+745
+)901(
+15
+–
+–
+)32(
+05
+–
+)62
+=
+N(
+llA
+fo
+emulov
+tnerappa
+,F/ssV
+;amsalp
+morf
+gurd
+eht
+fo
+ecnaraelc
+latot
+tnerappa
+,F/lC
+;efil-flah
+noitanimile
+,2/1t
+;noitartnecnoc
+kaep
+ot
+emit
+,xamT
+;noitartnecnoc
+gurd
+kaep
+,xamC
+;noitaived
+dradnats
+,DS
+.etats
+ydaets
+ta
+noitubirtsid
+a
+.)%6.57–400.0
+egnar(
+fni
+– 0CUA
+fo
+%3.6
+detneserper
+noitrop
+detalopartxe
+naem
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Jandial et al. Page 17
+4
+elbaT
+.sretemarap
+citenikocamrahp
+)FP(
+diulf
+laenotirep
+dna
+)LP(
+amsalp
+doolb
+larehpirep
+)DS(
+naem
+cirtemoeg
+munitalp
+elbaretlifartlU
+oitar-LP/FP
+amsalP
+diulf
+laenotireP
+)CUA(
+esoD
+CUA
+C
+)nim·Lm/gm(
+CUA
+)nim(
+T
+)Lm/gn(
+C
+)nim·Lm/gm(
+CUA
+)nim(
+T
+)Lm/gμ(
+C
+t
+– 0
+xam
+t
+–
+0
+xam
+xam
+t
+–
+0
+xam
+xam
+)6.71(
+9.41
+)5.53(
+4.24
+)55.0(
+54.1
+)05(
+77
+)4.1(
+7.3
+)0.71(
+6.12
+)91(
+83
+)39(
+751
+)01
+=
+N(
+4
+.noitaived
+dradnats
+,DS
+.nitalpobrac
+sa
+desserpxe
+si
+hcihw
+,CUA
+tpecxe
+,munitalp
+latnemele
+sa
+desserpxe
+era
+stinu
+thgiew
+llA
+Gynecol Oncol. Author manuscript; available in PMC 2017 November 29.

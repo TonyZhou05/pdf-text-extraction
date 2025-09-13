@@ -1,0 +1,714 @@
+Source: 23170896.pdf
+Extracted on: Fri Sep 12 23:58:36 PDT 2025
+==================================================
+
+--- Page 1 ---
+Anthoneyetal.BMCCancer2012,12:536
+http://www.biomedcentral.com/1471-2407/12/536
+RESEARCH ARTICLE Open Access
+Phase I study of TP300 in patients with advanced
+solid tumors with pharmacokinetic,
+pharmacogenetic and pharmacodynamic analyses
+D Alan Anthoney1, Jay Naik1, Iain RJ MacPherson2, Donna Crawford2, John M Hartley3, Janet A Hartley3,
+Tomohisa Saito4, Masaichi Abe4, Keith Jones5, Masanori Miwa4, Christopher Twelves1* and TRJ Evans2
+Abstract
+Background: APhaseIdose escalation first in man studyassessed maximum tolerated dose (MTD), dose-limiting
+toxicity (DLT) and recommended PhaseIIdose of TP300,a water soluble prodrug of the Topo-1 inhibitor TP3076,
+and active metabolite, TP3011.
+Methods: Eligible patients withrefractory advancedsolid tumors,adequate performance status, haematologic,
+renal, and hepatic function.TP300 was given as a 1-hour i.v. infusion 3-weekly and pharmacokinetic(PK) profiles of
+TP300, TP3076 and TP3011 were analysed.Polymorphisms in CYP2D6, AOX1 and UGT1A1 were studied and DNA
+strand-breaks measured in peripheralblood mononuclear cells(PBMCs).
+Results:32patientsreceived TP300 at 1,2, 4,6, 8,10, 12mg/m2. MTDwas 10mg/m2;DLTs at12 (2/4 patients) and
+10mg/m2(3/12)included thrombocytopenia and febrile neutropenia; diarrhoeawas uncommon. Six patients (five
+had receivedirinotecan), had stable disease for1.5-5 months. TP3076 showed dose proportionality inAUC and C
+max
+from 1–10mg/m2.Geneticpolymorphisms had no apparent influence on exposure.DNA strand-breaks were
+detected after TP300 infusion.
+Conclusions: TP300had predictable hematologictoxicity, and diarrhoea was uncommon. AUC at MTDis
+substantially greater than forSN38.TP3076 and TP3011are equi-potent withSN38,suggestinga PK advantage.
+Trial registration: EU-CTR2006-001345-33
+Keywords:Pharmacodynamics, Pharmacogenomics, Pharmacokinetics,Phase Istudy,Safety profile,Topoisomerase-I
+inhibitor
+Background enzymatically by carboxylesterase 2 (CES2), predom-
+Inhibition of topoisomerase-I (Topo-1) is a clinical- inantly within the liver, to SN-38 (a significantly more
+ly proven treatment strategy for many cancers [1]. Iri- potent Topo-1 inhibitor). This conversion shows con-
+notecan hydrochloride is the most widely used siderable inter-individual variability, resulting in a wide
+topoisomerase-I inhibitor, approved for the treatment of range of systemic SN-38 exposure for a given dose that
+patients with colorectal cancer previously treated with 5- may influence the efficacy and toxicity of irinotecan.
+fluorouracil [2]. It also has activity against a wide range Clinically, the use of irinotecan is limited by diarrhoea
+of other cancers (eg. glioma, gastric, non small cell lung and neutropenia with potential impact on dose intensity
+and pancreatic cancers), either as a single agent or in as well as patient acceptability; low activity of the SN-38
+combination [3-6]. Irinotecan has, however, a number of metabolising enzyme UGT1A1 is associated with a
+properties that limit its usefulness. It is metabolized greater risk of diarrhoea and myelosuppression [6], and
+in 2005 the US FDA recommended irinotecan dosing be
+modified in patients carrying the UGT1A1*28 poly-
+*Correspondence:c.j.twelves@leeds.ac.uk
+1StJamesInstituteofOncology,UniversityofLeeds&LeedsTeaching morphism [2,7]. The development of Topo-1 inhibitors
+HospitalsTrust,LeedsLS97TF,UnitedKingdom not subject to such pharmacogenomic variability might,
+Fulllistofauthorinformationisavailableattheendofthearticle
+©2012Anthoneyetal.;licenseeBioMedCentralLtd.ThisisanOpenAccessarticledistributedunderthetermsoftheCreative
+CommonsAttributionLicense(http://creativecommons.org/licenses/by/2.0),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedtheoriginalworkisproperlycited.
+
+--- Page 2 ---
+Anthoneyetal.BMCCancer2012,12:536 Page2of10
+http://www.biomedcentral.com/1471-2407/12/536
+therefore, enhance the clinical efficacy of this class of whom there was no effective standard therapy, and with
+agents. Eastern Cooperative Oncology Group (ECOG) perform-
+TP300 (glycine,glycyl-N-methyl-,(9S)-9-ethyl-9,10,13,15- ance status ≤ 2. Further criteria for inclusion included
+tetrahydro-10,13-dioxo-1-pentyl-1H,12H-pyrano[3'',4'':6 0 ,7 0 ] adequate bone marrow function (neutrophil count ≥ 1.5
+indolizino[2 0 ,1 0 :5,6]pyrido[4,3,2-de]quinazolin-9-yl ester, x109,plateletcount≥1x109,andhaemoglobin≥10.0g/dL)
+hydro-chloride)hasbeendevelopedasawatersolublepro- and adequate hepatic (serum bilirubin ≤ 1.5 x upper
+drugoftheTopo-1inhibitorTP3076,anditsactivemetabol- limit of normal [ULN], alanine amino transferase (ALT)
+ite,TP3011,bothofwhichareequipotenttoSN38interms and aspartate amino transferase (AST) ≤ 2.0 x ULN) and
+of Topo-1 inhibition (Figure 1) [8]. TP300 has activity at renal(serumcreatinine≤1.5xULN)function.
+nanomolar concentrations across a range of tumour types Standard Phase I trial exclusion criteria included ex-
+in vitro and, unlike SN38, appears active in tumours over- posure to prior cytotoxic chemotherapy, extended field
+expressing the breast cancer resistance protein [BCRP] [8]. radiotherapy or surgery within 4–6 weeks before the
+In man,TP300 is converted non-enzymatically to TP3076, start of the study; presence of severe concomitant med-
+thenmetabolizedtoTP3011byaldehydeoxidase1(AOX1; ical illness; and the presence of symptomatic brain me-
+Figure1)[9].TP3011andTP3076areequipotentasTopo-1 tastases. A history of severe or life-threatening drug
+inhibitors, withIC inthe sub-nanomolar range HCT-116 allergy or hypersensitivity to camptothecin derivatives
+50
+colorectal cancer cells in vitro [10]. Importantly, TP3076 and diarrhoea (excess of 2–3 stools/day above normal
+lacksaphenolic-OHgroupinitsstructuresuchthatitcannot frequency within 2 weeks prior to the start of the study)
+be glucuronidated in the same way as irinotecan and also wereadditionalexclusioncriteria.
+shouldnotbeinfluencedtoanygreatextentbypolymorph-
+ismsinthe UGT1A1gene.Thereshould,therefore,beless Treatmentanddoseescalation
+inter-individual variation in activation and toxicity with TP300 was given as a 1-hour intravenous (i.v.) infusion,
+TP300thanwithirinotecan;specifically,itwouldbeexpected byperipheral venouscatheter,every3weeks.
+thatseverediarrhoeashouldnotbeanissue. TP300 sterile concentrate solution for intravenous in-
+The primary objectives of this Phase I first in man fusion was supplied in vials containing 5 mL solution at
+study of TP300 in patients with advanced solid tumours, aconcentrationof4mg/mLofthefreebaseactiveingre-
+were to establish the maximum tolerated dose (MTD), dient. Other ingredients were glycine, sodium chloride,
+dose-limiting toxicity (DLT), and recommended Phase II hydrochloric acid and water for injection. Before infu-
+dose of TP300 but also incorporated pharmacokinetic, sion, each vial was diluted in 0.9% sodium chloride for
+pharmacogenomicandpharmacodynamicevaluation. infusion. Infusion bags used for the different dosages
+were < 2.0 mg/m2 TP300 50 mL and at other dosages
+Methods 100 mL. pH was less than 2, so care was taken with the
+Patientsandeligibilitycriteria site of administration, looking for any evidence of local
+This was a Phase I, open-label, non-randomized, two irritation.
+center dose-escalation study, conducted in accordance The starting dose of 1 mg/m2 was derived from single
+with the ICH GCP and approved by each participating and repeat dose toxicity studies and represented one
+institution’s Research Ethics Committee. All patients sixth of 0.3 mg/kg (6 mg/m2), a dose tolerated without
+providedwritteninformedconsent. evidence of serious, irreversible or life-threatening tox-
+Eligiblepatientswere≥18yearsold,withhistologically icity in the most sensitive of the two species tested.
+or cytological confirmed advanced solid malignancies Doses were doubled in subsequent cohorts until grade
+who were refractory to standard therapies or for ≥2 toxicity was observed, whereupon a modified
+TP300 TP3076 TP3011
+(Inactive) (Active form) (Active metabolite)
+Chemical Aldehyde
+N N O
+conversion Oxidase
+N O N N (AOX1) HN N
+N O O
+O N N
+pH > 5 N N
+ClH O O O O
+N
+H 2 N O OH O OH O
+O
+Figure1ThefateofTP300,activeform(TP3076)anditsmetabolite(TP3011).
+
+--- Page 3 ---
+Anthoneyetal.BMCCancer2012,12:536 Page3of10
+http://www.biomedcentral.com/1471-2407/12/536
+Fibonacci dose escalation scheme was used. In each co- multiple reaction monitoring were used to quantify the
+hort the first patient was required to complete 1 cycle analytes with transitions m/z 587.2>441.2 for TP300,
+before subsequent patients were entered. Intra-patient 459.1>415.2 for 3076, and 475.1>361.1 for 3011. The
+dose-escalation wasnotallowed. inter- and intra-day precisions were below 12%, and the
+Three patients were planned per cohort, with up to 3 accuracy was between −16% and 16% at the lower limit
+added if dose limiting toxicity (DLT) was observed in of quantitation (LLOQ) and between −11% and 14% at
+the initial group, and an expanded cohort at the max- the other quality controls. The LLOQs of TP300,
+imum tolerated dose (MTD). The MTD was the dose TP3076, and TP3011 were 0.8, 0.04, and 0.04 ng/mL,
+level below thatatwhich ≥2out of3–6patientsexperi- respectively.
+enced a DLT. Radiologic assessment of disease was per- Pharmacokinetic parameters derived from plasma
+formed every 2 cycles. Patients could remain on concentration-time data of TP3076 or TP3011 by non-
+treatment if there was evidence of clinical benefit but compartmental methods using WinNonlin (version 5.1;
+were withdrawn from the study upon clinical or radio- Pharsight Corp), included maximal plasma concentration
+logic progression, unacceptable toxicity or withdrawal (C ) and time of C (T ), apparent plasma elimin-
+max max max
+of consent. ation half-life (t ), and the area under the curve (AUC).
+1/2
+The urinary excretion ratio (f ) of TP3076 and TP3011
+e
+Evaluationoftoxicity was calculated from the urinary concentration and vol-
+Toxicity was assessed weekly and graded using the Na- ume up to 48 hours after administration, and the admin-
+tional Cancer Institute Common Toxicity Criteria istration dose. The linearity of C max and AUC was
+(CTCAE)version3.0.DLTwasdefinedastheoccurrence determined with linear regression, analysis of variance
+of any of the following adverse events: grade 4 and power model analysis. The sum of the AUCs of
+thrombocytopenia; febrile neutropenia or grade 4 neu- TP3076 and TP3011 was plotted against percentage (%)
+tropenia > 5 days duration; grade 4 diarrhoea not fall in nadir neutrophil count to explore the relationship
+reduced to grade 1 within 2 days of appropriate therapy; between exposure and myelosuppression as a measure of
+other gastro-intestinal toxicities (e.g. vomiting, nausea, anti-proliferative effect and a sigmoid E max model fitted
+stomatitis) ≥ grade 3 and not reduced to grade 1 within tothedata:
+2 days of appropriate therapy; any other non-
+haematologictoxicities≥grade3(excludingalopecia). ðAUC þAUC Þγ
+Effect ¼ ðAUC T þ P3 A 07 U 6 C Þ T γ P þ 301 E 1 AUC γ
+TP3076 TP3011 50
+Pharmacokineticassessments
+Venous blood (3 mL) was taken into sodium heparin where γ is the Hill equation constant and EAUC is the
+50
+tubes containing 30 μL of 46% citric acid, centrifuged AUCassociated with50%ofthemaximaleffect.
+1500g at 4°C for 10 min and 1 mol/L hydrochloric acid
+was added (1:10) to plasma from each subject at 10 time Pharmacogenomicanalysis
+points during cycle 1 (pre dose, then 1, 1.25, 1.5, 2, 3, 5, Blood samples for pharmacogenomic analysis were col-
+8, 24, 48 hours after the start of administration) and lected and all samples anonymised for subsequent stor-
+storedat−70°C.Sampleswereprocessedbyextraction of age, assay and analysis. The impact on C and AUC of
+max
+protein using addition of organic solvent containing in- genetic polymorphisms of CYP2D6, which is assumed to
+ternal standards and assayed by LC-MS/MS with a make some contribution to the hydroxylation of
+robust, sensitive and validated method for the simultan- TP3076, but not TP3011, AOX1, which metabolises
+eous determination of a novel topoisomerase 1 inhibitor TP3076 to TP3011, and UGT1A1, which metabolises
+CH0793076 (TP3076), the prodrug CH4556300 (TP300), SN-38 to its glucuronide, but is not believed to influence
+and the active metabolite CH0793011 (TP3011) [9]. All TP300 metabolism were explored. The analysis was per-
+plasma had been acidified during collection to avoid the formed with the invader method or polymerase chain re-
+pH-based degradation of TP300 and to shift the equilib- action (PCR)-invader method for single nucleotide
+riaofTP3076andTP3011betweenthelactoneandcarb- polymorphisms (SNPs) of CYP2D6 and UGT1A1 *28
+oxylate forms towards the lactone forms. After the and with the long-PCR method for deletion of CYP2D6
+plasma proteins were precipitated with methanol:aceto- and UGT1A1 gene. AOX1 SNPs were analysed by a
+nitrile:HCl 1M (50:50:1, v:v:v) containing stable isotopic direct sequencing method. Genomic DNAs were
+internal standards, the analytes were trapped on an extracted from frozen peripheral blood of 31 subjects
+Xterra MS C18 column (10×2.1 mm i.d., 5 μm) and using an automated DNA extractor BioRobotMDx and
+separated on a Gemini C18 column (50×2.0 mm i.d., commercial DNA purification kits (Qiagen). Quality and
+5 μm) using column-switching liquid chromatography. quantity of the DNAs were checked by the measurement
+Electrospray ionization in the positive-ion mode and of absorbencies at 260 nm and 280 nm. Primers were
+
+--- Page 4 ---
+Anthoneyetal.BMCCancer2012,12:536 Page4of10
+http://www.biomedcentral.com/1471-2407/12/536
+designed to amplify all the 35 exons of Aldehyde oxidese Results
+1 gene (NCBI accession No. NM_001159) including Patientcharacteristics
+some intronic flanking regions. The specificity of PCR Thirty two patients were recruited between September
+conditionswasconfirmedbytheagarosegelelectrophor- 2006 and October 2008. TP300 doses were 1, 2, 4, 6, 8,
+esis. Amplicons were prepared twice for every exons. 10, 12 mg/m2. Of the 32 patients, 21 received two cycles
+The amplicons were subsequently treated with ExoSAP- of TP300, five received three to seven cycles. Patient
+IT (GE Healthcare) followed by the reactions with a characteristicsareshowninTable1.
+cycle sequencing kit (BigDye Terminator v3.1, Applied
+Biosystems). The fragments obtained were purified using Toxicity
+X-Terninator purification kit (Applied Biosystems) and Toxicity from TP300 was predominantly haematologic
+analysed on an automated DNA sequencer (3730xl DNA with neutropenia the DLT. Minimal toxicity was
+Analyzer, Applied Biosystems). The resulted sequences observed at doses up to and including 8 mg/m2 Two/
+.
+were compared against the reference sequence using the four patients dosed at 12 mg/m2 experienced DLT: grade
+variantreportersoftware (AppliedBiosystems). 4 febrile neutropenia (5 days duration) and grade 4 neu-
+tropenia (15 days). As 8 mg/m2 had been well tolerated,
+the intermediate dose of 10 mg/m2 was explored in 12
+Pharmacodynamicanalysis patients, and 3 experienced a DLT: grade 3 febrile neu-
+Analysis of the ability of TP300 to induce DNA strand tropenia (9 days); grade 4 neutropenic sepsis (8 days)
+breaks was performed on peripheral blood mononuclear with concomitant grade 4 thrombocytopenia (7 days);
+cells (PBMCs), pre-dose, 1, 3 and 24 hours post cycle 1. and grade 4 uncomplicated neutropenia (7 days). No pa-
+A validated single cell gel electrophoresis (comet) assay tient received growth factor support during neutropenic
+was used to assess DNA single-strand breaks [11]. An episodes. Six patients, who had experienced DLT, on
+average of 50 PBMC cells/time-point were analysed and subsequent recovery, continued TP300 dosed at the pre-
+the tail moment (TM) calculated, as the product of the viousdose.
+percentage of DNA in the comet tail and the distance Non-haematologic toxicity was generally mild and
+betweenheadandtaildistributions;higherTMvaluesre- self-limiting and no patient experienced cholinergic
+flect greater DNA strand breakage. Statistical analyses effects. A summary of grade ≥ 3 toxicities is shown in
+were not performed due to the limited number of sub- Table2.Specifically,only8patientsdevelopeddiarrhoea,
+jects/samplespercohort. grade 2at worst and arising on average 9.5 days (range 1
+Table1Demographicandbaselinecharacteristics
+Demographicdata
+Variable Total
+N=32
+Age(years) 31-72(58.0)
+Numberofregimensofpreviouschemotherapy 1-4(2)
+Sex Male 20(62%)
+Female 12(38%)
+ECOGperformancestatus 0 8(25%)
+1 20(63%)
+2 4(13%)
+Siteofprimarycancer Breast 1(3%)
+Colon 6(19%)
+Lung 1(3%)
+Pancreas 2(6%)
+Pleura 1(3%)
+Rectum 7(22%)
+Softtissue 2(6%)
+Stomach 4(13%)
+Other 8(25%)
+Continuousdata:Minimum-Maximum(Median).
+
+--- Page 5 ---
+Anthoneyetal.BMCCancer2012,12:536 Page5of10
+http://www.biomedcentral.com/1471-2407/12/536
+Table2Summaryofsuspectedtreatmentrelatedadverseevents
+Summaryofadverseeventsoccurredwithincycle1
+Allgrade Grade3
+N=32 N=32
+No.(%) No.(%)
+Diarrhea 8(25) 0(0)
+Nausea 13(41) 0(0)
+Vomitting 9(28) 0(0)
+Anaemia 6(19) 2(6)
+Neutropenia 6(19) 6(19)
+Leukopenia 3(9) 3(9)
+Thrombocytopenia 3(9) 3(9)
+Febrileneutropenia 2(6) 2(6)
+Lethargy 12(38) 4(13)
+Syncope 1(3) 1(3)
+Chills 2(6) 1(3)
+Hepatorenalfailure 1(3) 1(3)
+Neutropenicsepsis 1(3) 1(3)
+Backpain 1(3) 1(3)
+Dyspnoea 1(3) 1(3)
+to 27 days) after TP300 treatment; only one patient had 2.34,7.37and18.4ng/mL,respectively.Meanwhile,T for
+max
+concomitant dose-limiting myelosupression. There were TP3076 was at the end of infusion (1 hour) and that of the
+noother≥grade3gastrointestinal toxicities. metabolite TP3011 was at 3–5 hours. Urinary excretion
+TP300 was discontinued due to toxicity in 4 patients, ratios of TP3076 and TP3011 were low and represented at
+but there were no treatment-related deaths. TP300 dose most6%atthehighestdose.TheC andAUCofTP3076
+max
+wasmodifiedatcycle 2in4patients;from12to8mg/m2 and TP3011 increased proportionately up to 10 mg/m2
+1patient, from10to8mg/m22patients, andfrom6to4 TP300(Figure3)andinter-patientvariabilitywassmall.
+mg/m2 1 patient. Five cycles were delayed in 3 patients Pharmacokinetic analyses revealed a strong relationship
+due to disease-related morbidity (3), gastroenteritis (1), between exposure to the metabolites of TP300 and falls in
+andanaemia(1). the neutrophil count. Figure 4 shows a scatter plot of 1-
+nadir/pre-observationneutrophilsincycle1againstthetotal
+Antitumouractivity AUCofTP3076plusTP3011withasigmoidE curvefit-
+max
+There were no complete or partial responses as deter- ted.EAUC was1.31andγwas0.862.Thefallinneutrophil
+50
+mined by RECIST. However, six patients had stable dis- countwasrelatedtototalAUCofTP3076plusTP3011.All
+ease as their best response (1 each at 4, 8 and 12 mg/m2 5patients with haematologic DLT were amongst the 9 who
+and 3 at 10 mg/m2) lasting between 1.5-5 months of had a total TP3076 and TP3011 AUC of approximately 4.5
+whom five had previously been treated with irinotecan.
+μmol*h/Lormore.
+One patient with metastatic gastric adenocarcinoma (4
+mg/m2) had a clinically significant improvement of ma- Pharmacogeneticanalyses
+lignant ascites and stabilization of established peritoneal The C and AUC of TP3076 or TP3011 were categor-
+max
+metastasesover7cycles. izedwithrespecttoCYP2D6,AOX1andUGT1A1geno-
+types and box plots were prepared (Figure 5). The (TA)
+Pharmacokineticanalyses 6/6 (n=16), (TA)6/7 (n=10) and (TA)7/7 (n=5) genotypes
+The plasma concentration-time profiles of TP3076 and of UGT1A1*28 were identified, but there was no appar-
+TP3011areshowninFigure2andasummaryofpharmaco- ent significant difference in exposure among these geno-
+kinetic parameters in Table 3. TP300 rapidly disappeared types. A/A (n=23) and A/G (n=8) genotypes of AOX1
+andallmeasuredconcentrations1.5hafterdosewerebelow (c3404A > G) were observed; again, there was no appar-
+the limit of the quantification. PlasmaTP300 concentration ent significant difference of exposure among these geno-
+1hafteradministrationwasobtainedonlyatthedosesof2, types. The CYP2D6 phenotype was divided into
+8, 10 and 12 mg/m2 and the mean concentration was 3.48, extensive (neither CYP2D6 *3 or *4 mutation; n=13),
+
+--- Page 6 ---
+treatment study mean tail moment (TM) across all doses
+was0.69;compared to 1.65at1hour, indicating approxi-
+mately 2-fold increase of DNA strand breaks. Although
+there was no clear relationship between TP300 dose and
+the extent of strand breaks, the highest two doses (10
+and 12 mg/m2) were associated with greater DNA dam-
+age (Figure 6). The mean TM was generally lower at 3
+hourscompared with1hour,withlittlefurther changeat
+24hours.
+Discussion
+Time after TP300 administration (h) This Phase I study demonstrates that the novel
+topoisomerase-I inhibitor TP300 has a good tolerability
+profile, and achieved several key aims that were central
+to its design. More specifically, as an inactive pro-drug it
+is rapidly converted to the active form TP3076, then
+metabolizedtoTP3011inaconsistentmanner,notinflu-
+enced by genetic polymorphisms. The likelihood of un-
+predictable, severe diarrhoea is diminished by the
+absence of the variable glucuronidation associated with
+SN-38. As predicted, TP300 does not cause acute diar-
+rhea, which results from acetylcholine esterase inhibition
+[8]. Target interaction with the induction of DNA strand
+breakswasshown.
+The main toxicity of TP300 was haematologic with
+neutropenia and, to a lesser extent thrombocytopenia,
+being dose limiting. In general, neutropenia was short
+lived; no patient received G-CSF support (acutely/
+prophylactically). At the maximum achievable dose, 12
+mg/m2, grade 4 haematologic toxicity was observed (2/4
+patients). As there had been no grade 3/4 haematologic
+toxicity at 8 mg/m2, 10 mg/m2 was explored in 12
+patients. At 10 mg/m2 3 patients experienced grade 4
+haematologic toxicity and although generally well toler-
+ated, there was a risk of short lived but significant neu-
+tropenia and thrombocytopenia. The recommended
+Phase II starting dose is 8 mg/m2, escalating to 10 mg/
+m2 on subsequent cycles, if initial treatment is well
+tolerated.
+In marked contrast to irinotecan, gastrointestinal toxicity
+wasingeneralmild,withnodiarrhoeagreaterthangrade2.
+Likewise, there were no acute cholinergic reactions with its
+associatedearlydiarrhoea[8,14,15].Thisvalidatesthedesign
+of TP300 as acute cholinergic reactions are associated with
+the4-piperidinopiperidinemoietyatthe10-positionofirino-
+intermediate (heterozygous *3 or *4 mutation; n=14) and tecan[16],notfoundinTP300.
+poor (homozygous *3 or *4 mutation; n=4) metabolizers Pharmacokinetic data confirm that TP300 is rapidly con-
+[12,13]. There appeared to be a slight reduction in ex- vertedinplasmatotheactivemetaboliteTP3076,supporting
+posure to TP3076 in the extensive metabolisers, with a a pH dependent chemical change occurring at physiological
+correspondingslightdecreaseinTP3011exposure. conditions. Hepatic aldehyde oxidase converts TP3076 to a
+further metabolite TP3011, which reaches maximum con-
+Pharmacodynamicanalyses centrations3–5hoursaftertheendofinfusion,andalsohas
+Full comet profiles (pre-dose, 1, 3, 24 hours post first potent topoisomerase-I inhibitory activity. Pharmacogenetic
+dose) were available in 29 patients. The overall pre- analysis of aldehyde oxidase genotype, which was reported
+)Lm/gn(
+noitartnecnoc
+003PT
+0 3 8 24 48
+001
+01
+1
+10.0
+A
+Time after TP300 administration (h)
+)Lm/gn(
+noitartnecnoc
+6703PT
+0 3 8 24 48
+001
+01
+1
+10.0
+B
+Time after TP300 administration (h)
+)Lm/gn(
+noitartnecnoc
+1103PT
+0 3 8 24 48
+001
+01
+1
+10.0
+Anthoneyetal.BMCCancer2012,12:536 Page6of10
+http://www.biomedcentral.com/1471-2407/12/536
+C
+Figure2Time-plasmaconcentrationprofileofTP300,TP3076
+andTP3011.A:TheplasmaconcentrationprofileofTP300.B:The
+plasmaconcentrationprofileofTP3076.C:Theplasmaconcentration
+profileofTP3076.Square:1mg/m2,Circle:2mg/m2,Triangle(point
+up):4mg/m2,Cross:6mg/m2,X:8mg/m2,Diamond:10mg/m2,
+Triangle(pointdown):12mg/m2.
+
+--- Page 7 ---
+Anthoneyetal.BMCCancer2012,12:536 Page7of10
+http://www.biomedcentral.com/1471-2407/12/536
+Table3SummaryofpharmacokineticparametersofTP3076andTP3011
+TP3076 Dose(mg/m2) 1 2 4 6 8 10 12
+Parameter N 3 3 3 3 3 12 4
+C (ng/mL) Mean 26.1 76.9 152 185 196 326 688
+max
+S.D. 7.46 3.65 56.4 29.8 56.1 99.4 209
+AUC(ng*h/mL) Mean 52.9 209 335 405 451 1000 2450
+S.D. 8.26 103 130 120 87.8 476 1330
+t (h) Mean 1.26 0.966 1.02 1.01 1.10 1.07 0.983
+max
+S.D. 0.242 0.0289 0.168 0.0587 0.137 0.111 0.0236
+t (h) Mean 2.35 3.73 7.04 5.97 6.22 5.14 4.93
+1/2
+S.D. 0.990 1.33 3.30 0.951 0.979 1.08 0.535
+f (%) Mean 2.45 2.87 1.31 1.78 1.71 3.09 6.33
+e
+S.D. 1.14 0.769 0.830 1.46 1.02 2.52 1.20
+TP3011 Dose(mg/m2) 1 2 4 6 8 10 12
+Parameter N 3 3 3 3 3 12 4
+C (ng/mL) Mean 3.13 9.12 38.3 32.5 34.2 89.5 150
+max
+S.D. 1.97 4.93 23.5 16.4 12.0 82.3 80.5
+AUC(ng*h/mL) Mean 35.1 94.0 284 379 427 1300 2030
+S.D. 24.8 77.2 140 259 114 1640 1590
+t (h) Mean 3.21 2.66 2.58 3.84 3.11 4.59 5.27
+max
+S.D. 1.74 0.601 0.811 1.98 1.83 1.62 2.06
+t (h) Mean 6.92 6.56 7.18 10.0 9.52 8.60 7.41
+1/2
+S.D. 3.15 2.66 2.87 2.87 1.72 1.95 1.13
+f (%) Mean 0.792 0.739 0.796 0.593 0.594 1.10 1.99
+e
+S.D. 0.676 0.279 0.633 0.492 0.385 0.987 1.59
+toaffecttheazathioprine-treatedoutcome[17],didnotshow AUC of the active components of TP300 is approxi-
+anyeffectonexposuretoeitherTP3076orTP3011.Glucur- mately 3-fold greater than that of SN-38, with reduced
+onidatedTP3076wasnotdetected,reflectingUGT1A1vari- inter-individual variability indicating greater predictabil-
+antstatushadnoinfluenceonexposuretoeitherTP3076or ityoftoxicity.
+TP3011.Thesepharmacokineticdatareflectthedesignstrat- The comet assay demonstrated a consistent pattern
+egy. There may be a small effect of CYP2D6 metaboliser with increased PBMC DNA strand breaks 1 hour after
+genotype on exposure to TP3076, and consequently the end of infusion, generally falling by 3 hours. A simi-
+TP3011. The AUC of TP3076 and TP3011 were linearly lar pattern with modest and transient appearance of
+proportional up to 10 mg/m2, but at 12 mg/m2 there was strand breaks was seen with temozolomide [19]. Al-
+greaterinter-patientvariability. though there were more strand breaks at higher TP300
+There was a strong relationship between the combined doses, this was less clear than the relationship between
+total AUC of TP3076 and TP3011 and the nadir neutro- pharmacokinetic exposure and neutrophil fall. However
+phil count, with an AUC of ≥ 4.5 hr.μmol/L generally the comet data give valuable proof-of-principle that
+correlating with a more significant neutrophil fall, specif- TP300 is damaging DNA, but the semi-quantitative na-
+ically 5 of 8 patients (62.5%) with an AUC above this ture does not allow a biologically optimal dose of TP300
+value experienced dose limiting neutropenia. With a 3- to be identified. Without published data on DNA strand
+weekly dosing regimen of irinotecan, at 350 mg/m2, breaks in patients treated with irinotecan, a direct com-
+DLTs occur at AUCs of the active component, SN-38, of parison with TP300 cannot be made. A more relevant
+1.5 μmol.h/L [18], SN-38 AUC is variable, influenced by pharmacodynamic endpoint in future may be to measure
+UGT polymorphism. The active components of TP300 DNA strandbreaksintumourcells.
+(TP3076 and TP3011) are equipotent to SN38 asTopo-1 There were no objective tumour responses. However,
+inhibitors [8] and are not influenced by UGT poly- one patient with metastatic gastric adenocarcinoma, bi-
+morphisms. This means, therefore, that the combined lateral ovarian metastases and malignant ascites
+
+--- Page 8 ---
+Dose (mg m2)
+requiring paracentesis prior to treatment had complete strand breaks, and preliminary evidence of clinical activ-
+resolution of her ascites although there was no radio- ity,thesedatawarrantfurtherevaluationofTP300.
+logical change in the size of the metastatic deposits
+whilst receiving 7 cycles of TP300. A further 5 patients
+with metastatic adenocarcinoma of the colon or rectum Conclusions
+had stable disease as their best response, with 2 having TP300 has biological activity as evidenced by DNA
+disease control for at least 4 cycles. All of these patients strand break, with a clear relationship between exposure
+had received irinotecan as part of their previous chemo- and neutropenia, a toxicity profile superior to that of iri-
+therapy with the patients having the most durable dis- notecan, and preliminary evidence of clinical activity.
+ease control on TP300 having had a prior response to The 10 mg/m2 TP300 dose level was tolerable, but the
+irinotecanchemotherapy. frequency of grade 4 neutropenia during cycle 1 led to
+Topo-1 inhibitors remain clinically important in the the recommended Phase II dose being 8 mg/m2 for cycle
+treatment of patients with cancer. TP300 has advantages 1, increasing to 10 mg/m2 in subsequent cycles if toler-
+over other agentsin thisclass in terms oftolerability and ated. Exploratory studies combining TP300 with other
+the predictability of its principle toxicity, myelosuppres- cytotoxics may be appropriate, especially where such
+sion. Along with the apparent PK advantage of TP300 combinations have not been feasible with irinotecan due
+over irinotecan, biological activity evidenced by DNA tounacceptablegastrointestinaltoxicity.
+)L/lomu(
+xamC
+2 4 6 8 10 12
+0.2
+0.1
+0.0
+A
+Dose (mg m2)
+)L/hlomu(
+CUA
+2 4 6 8 10 12
+01
+8
+6
+4
+2
+0
+B
+Dose (mg m2)
+)L/lomu(
+xamC
+2 4 6 8 10 12
+8.0
+6.0
+4.0
+2.0
+0.0
+C
+Dose (mg m2)
+)L/hlomu(
+CUA
+2 4 6 8 10 12
+21
+8
+4
+0
+D
+Dose (mg m2)
+)L/lomu(
+xamC
+2 4 6 8 10 12
+0.3
+0.2
+0.1
+0.0
+E
+Dose (mg m2)
+)L/hlomu(
+CUA
+2 4 6 8 10 12
+02
+51
+01
+5
+0
+Anthoneyetal.BMCCancer2012,12:536 Page8of10
+http://www.biomedcentral.com/1471-2407/12/536
+F
+Figure3Scatterplotofexposureagainstdose.A:ThescatterplotofTP3076Cmax.B:ThescatterplotofTP3076AUC.C:Thescatterplotof
+TP3011Cmax.D:ThescatterplotofTP3011AUC.E:ThescatterplotofthesumofTP3076andTP3011Cmax.F:Thescatterplotofthesumof
+TP3076andTP3011AUC.
+
+--- Page 9 ---
+A/A A/G
+)L/hlomu(
+CUA
+6703PT
+8.0
+4.0
+0.0
+A
+A/A A/G
+)L/hlomu(
+CUA
+1103PT
+2.1
+8.0
+4.0
+0.0
+B
+(TA)6/6 (TA)6/7 (TA)7/7
+)L/hlomu(
+CUA
+6703PT
+8.0
+4.0
+0.0
+C
+(TA)6/6 (TA)6/7 (TA)7/7
+)L/hlomu(
+CUA
+1103PT
+2.1
+8.0
+4.0
+0.0
+D
+E I P
+)L/hlomu(
+CUA
+6703PT
+8.0
+4.0
+0.0
+E
+E I P
+)L/hlomu(
+CUA
+1103PT
+2.1
+8.0
+4.0
+0.0
+F
+Figure5TheboxplotofAUCbygenotype;AOX1(c3404A>G),UGT1A1*28orCYP2D6.A:TheboxplotofTP3076AUCbyAOX1(c3404A>G).
+B:TheboxplotofTP3011AUCbyAOX1(c3404A>G).C:TheboxplotofTP3076AUCbyUGT1A1*28.D:TheboxplotofTP3011AUCbyUGT1A1*28.
+E:TheboxplotofTP3076AUCbyCYPgenotype.F:TheboxplotofTP3011AUCbyCYPgenotype.E:Extensivemetabolizer.I:Intermediate
+metabolizer.P:Poormetabolizer.
+tnemom
+liat
+naeM
+0 3 24
+5.2
+0.2
+5.1
+0.1
+5.0
+0.0
+AUC AUC (umolh/L)
+TP3076 TP3011 Time after TP300 administration (h)
+Figure6MeantailmomentofCOMETassayresultovertimeby
+cohort.Square:1mg/m2,Circle:2mg/m2,Triangle(pointup):4mg/m2,
+Cross:6mg/m2,X:8mg/m2,Diamond:10mg/m2,Triangle(pointdown):12
+mg/m2Dashedline:Overallmean.
+slihportuen
+fo
+esaerceD
+%
+0 5 10 15 20
+001
+08
+06
+04
+02
+0
+Anthoneyetal.BMCCancer2012,12:536 Page9of10
+http://www.biomedcentral.com/1471-2407/12/536
+Figure4Scatterplotof1-Nadir/Pre-observationagainstAUCof
+TP3076+TP3011.Circle:SubjectwithoutDLTDoublecircle:Subject
+withDLTSolidline:CurvewithsigmoidE model. max
+
+--- Page 10 ---
+Anthoneyetal.BMCCancer2012,12:536 Page10of10
+http://www.biomedcentral.com/1471-2407/12/536
+Abbreviations 7. UnitedStatesFoodandDrugAdministration:InvaderUGT1A1molecularassay
+ALT:Alanineaminotransferase;AOX1:Aldehydeoxidase1;AST:Aspartate 510(k)summary.http://www.accessdata.fda.gov/cdrh_docs/pdf5/K051824.pdf.
+aminotransferase;AUC:Theareaunderthecurve;BCEP:Breastcancer 8. EndoM,MiwaM,UraM,TanimuraH,TaniguchiK,MiyazakiY,OhwadaJ,
+resistanceprotein;CES2:Carboxylesterase2;C :Maximalplasma TsukazakiM,NiizumaS,MurataT,etal:Awatersolubleprodrugofanovel
+max
+concentration;Comet:Cellgelelectrophoresis;CTCAE:CommonToxicity camptothecinanalogisefficaciousagainstbreastcancerresistance
+Criteria;DLT:Dose-limitingtoxicity;EAUC :TheAUCassociatedwith50%of protein-expressingtumorxenografts.CancerChemotherPharmacol2010,
+50
+themaximaleffect;ECOG:EasternCooperativeOncologyGroup; 65:363–371.
+MTD:Maximumtolerateddose;t :Apparentplasmaeliminationhalf-life; 9. KameiT,UchimuraT,NishimiyaK,KawanishiT:Methoddevelopmentand
+1/2
+TM:Tailmoment;T :TimeofC ;Topo-1:Topoisomerase-I;ULN:Upper validationofthesimultaneousdeterminationofanoveltopoisomerase1
+max max
+limitofnormal;f:Theurinaryexcretionratio;PCR:Polymerasechain inhibitor,theprodrug,andtheactivemetaboliteinhumanplasmausing
+e
+reaction;SNPs:Singlenucleotidepolymorphisms. column-switchingLC-MS/MS,anditsapplicationinaclinicaltrial.
+JChromatogrBAnalytTechnolBiomedLifeSci2011,30:3415–3422.
+Competinginterests 10. NiizumaS,TsukazakiM,SudaH,MurataT,OhwadaJ,OzawaS,FukudaH,
+DAA,JN,IRJM,DC,JMH,JAHhavenocompetinginterests.TS,MA,KJand MurasakiC,KohchiM,MorikamiK,etal:Synthesisofnewcamptothecin
+MMwereemployeesofthestudysponsor.CTandTRJEwereboth analogswithimprovedantitumoractivities.BioorgMedChemLett2009,
+Investigatorsforthestudyandmembersoftheprojectadvisoryboard.CTis
+19(7):2018–2021.
+alsoanadvisortosomeothercompaniesinoncologyresearch. 11. HartleyJM,SpanswickVJ,HartleyJA:MeasurementofDNAdamagein
+individualcellsusingthesinglecellgelelectrophoresis(comet)assay.
+Authors’contributions
+MethodsMolBiol2011,731:309–320.
+12. WolfCR,SmithG,SmithRL:Science,medicine,andthefuture:Pharmacogenetics.
+CTandTRJEwereInvestigatorsandparticipatedinthedesignofthestudy,
+BMJ2000,320(7240):987–990.
+draftingandreviewofthemanuscript.DAA,JNandIRJMwereInvestigators
+13. ShimodaK,MoritaS,HirokaneG,YokonoA,SomeyaT,TakahashiS:
+inthestudyanddraftedthemanuscript.DCparticipatedinthestudyasa
+MetabolismofdesipramineinJapanesepsychiatricpatients:theimpact
+ResearchNurse,andcontributedtoreviewofthemanuscript.JMHandJAH
+ofCYP2D6genotypeonthehydroxylationofdesipramine.Pharmacol
+conductedandreportedthepharmacodynamicassays,andcontributedto
+Toxicol2000,86(6):245–249.
+thewritingandreviewofthemanuscript.TSandMAassistedwithdrafting
+14. HechtJR:Gastrointestinaltoxicityoririnotecan.Oncology(WillistonPark)
+themanuscriptandperformedthepharmacokineticandpharmacogenomic
+1998,12(8Suppl6):72–78.
+analysis.KJandMMsupportedthestudyandparticipatedincoordination,
+15. DoddsHM,RivoryLP:Themechanismfortheinhibitionofacetylcholinesterases
+drafting,reviewandsubmissionofthemanuscript.Allauthorsreadand
+byirinotecan(CPT-11).MolPharmacol1999,56(6):1346–1353.
+approvedthefinalmanuscript.
+16. DoddsHM,HanrahanJ,RivoryLR:Theinhibitionofacetylcholinesterase
+byirinotecanandrelatedcamptothecins:keystructuralpropertiesand
+Acknowledgements experimentalvariables.AnticancerDrugDes2001,16:239–246.
+Wethankthepatientswhoparticipatedinthestudy,theirrelativesand 17. SmithMA,MarinakiAM,ArenasM,Shobowale-BakreM,LewisCM,AnsariA,
+carers.Leeds,GlasgowandUCLareCancerResearchUKCentresand DuleyJ,SandersonJD:Novelpharmacogeneticmarkersfortreatment
+ExperimentalCancerMedicineCentres,supportedbyCancerResearchUK outcomeinazathioprine-treatedinflammatoryboweldisease.Aliment
+andtheNIHR/ChiefScientistOffice,Scotland. PharmacolTher2009,30(4):375–384.
+ChugaiPharmaEuropeLtd.co-ordinatedthestudy. 18. PitotHC,GoldbergRM,ReidJM,SloanJA,SkaffPA,ErlichmanC,RubinJ,
+BurchPA,AdjeiAA,AlbertsSA,etal:PhaseIdose-findingand
+Authordetails pharmacokinetictrialofirinotecanhydrochloride(CPT-11)usinga
+1StJamesInstituteofOncology,UniversityofLeeds&LeedsTeaching
+once-every-three-weekdosingscheduleforpatientswithadvancedsolid
+HospitalsTrust,LeedsLS97TF,UnitedKingdom.2UniversityofGlasgow, tumormalignancy.ClinCancerRes2000,6(6):2236–2244.
+BeatsonWestofScotlandCancerCentre,GlasgowG12OYN,United 19. PlummerER,MiddletonMR,JonesC,OlsenA,HicksonI,McHughP,
+Kingdom.3UCLCancerInstitute,PaulO’GormanBuilding,UniversityCollege
+MargisonGP,McGownG,ThorncroftM,WatsonAJ,etal:Temozolomide
+London72HuntleyStreet,LondonWC1E6BT,UnitedKingdom.4Chugai
+pharmacodynamicsinpatientswithmetastaticmelanoma:dnadamage
+PharmaceuticalCo.,Ltd,NihonbashiMuromachi2-1-1,Chuo-ku,Tokyo andactivityofrepairenzymesO6-alkylguaninealkyltransferaseandpoly
+103-8324,Japan.5ChugaiPharmaceuticalsEuropeLtd.TurnhamGreen, (ADP-ribose)polymerase-1.ClinCancerRes2005,11(9):3402–3409.
+LondonW41NN,UnitedKingdom.
+doi:10.1186/1471-2407-12-536
+Received:29February2012Accepted:6November2012
+Citethisarticleas:Anthoneyetal.:PhaseIstudyofTP300inpatients
+Published:21November2012
+withadvancedsolidtumorswithpharmacokinetic,pharmacogenetic
+andpharmacodynamicanalyses.BMCCancer201212:536.
+References
+1. BerettaGL,PeregoP,ZuninoF:TargetingtopoisomeraseI:molecular
+mechanismsandcellulardeterminantsofresponsetotopoisomeraseI
+inhibitors.ExpertOpinTherTargets2008,12(10):1243–1256.
+2. UnitedStatesFoodandDrugAdministration:Camptosarlabel.http://www.
+accessdata.fda.gov/drugsatfda_docs/label/2005/020571s024,027,028lbl.pdf.
+3. WagenerDJ,VerdonkHE,DirixLY,CatimelG,SiegenthalerP,BuitenhuisM,
+Mathieu-BoueA,VerweijJ:PhaseIItrialofCPT-11inpatientswith Submit your next manuscript to BioMed Central
+advancedpancreaticcancer,anEORTCearlyclinicaltrialsgroupstudy. and take full advantage of:
+AnnOncol1995,6(2):129–132.
+4. BoucheO,RaoulJL,BonnetainF,GiovanniniM,EtiennePL,LledoG,ArseneD,
+• Convenient online submission
+PaitelJF,Guerin-MeyerV,MitryE,etal:RandomizedmulticenterphaseIItrial
+ofabiweeklyregimenoffluorouracilandleucovorin(LV5FU2),LV5FU2plus • Thorough peer review
+cisplatin,orLV5FU2plusirinotecaninpatientswithpreviouslyuntreated • No space constraints or color figure charges
+metastaticgastriccancer:aFederationFrancophonedeCancerologie
+DigestiveGroupStudy--FFCD98.JClinOncol2004,22(21):4319–4328. • Immediate publication on acceptance
+5. LangerCJ:Theglobalroleofirinotecaninthetreatmentoflungcancer: • Inclusion in PubMed, CAS, Scopus and Google Scholar
+2003update.Oncology(WillistonPark)2003,17(7Suppl7):30–40.
+• Research which is freely available for redistribution
+6. VredenburghJJ,DesjardinsA,ReardonDA,FriedmanHS:Experiencewith
+irinotecanforthetreatmentofmalignantglioma.NeuroOncol2009,
+11(1):80–91. Submit your manuscript at
+www.biomedcentral.com/submit

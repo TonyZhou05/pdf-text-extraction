@@ -1,0 +1,651 @@
+Source: 27129177.pdf
+Extracted on: Fri Sep 12 23:59:05 PDT 2025
+==================================================
+
+--- Page 1 ---
+www.impactjournals.com/oncotarget/ Oncotarget, Vol. 7, No. 25
+Research Paper
+Phase 1B/2 study of the HSP90 inhibitor AUY922 plus trastuzumab
+in metastatic HER2-positive breast cancer patients who have
+progressed on trastuzumab-based regimen
+Anthony Kong1,2, Daniel Rea2, Samreen Ahmed3, J. Thaddeus Beck4, Rafael López
+López5, Laura Biganzoli6, Anne C. Armstrong7, Massimo Aglietta8, Emilio Alba9,
+Mario Campone10, Shu-Fang Hsu Schmitz11, Caroline Lefebvre12, Mikhail Akimov13,
+Soo-Chin Lee14
+1
+Previous address: Churchill Hospital, Oxford University Hospitals NHS Trust and University of Oxford, Oxford, United Kingdom
+2
+School of Cancer Sciences, University of Birmingham, Birmingham, United Kingdom
+3
+Department of Oncology, University Hospitals of Leicester, Leicester Royal Infirmary, Leicester, United Kingdom
+4
+Department of Oncology, Highlands Oncology Group, Fayetteville, Arkansas, USA
+5
+Department of Oncology, Hospital Clinico Universitario, Santiago de Compostela, Spain
+6
+Department of Medical Oncology, Nuovo Ospedale di Prato, Prato, Italy
+7
+Department of Medical Oncology, The Christie NHS Foundation Trust, Manchester, United Kingdom
+8
+Department of Medical Oncology, University of Torino, FPO-IRCCS, Candiolo, Italy
+9
+Department of Medical Oncology, University Hospital, IBIMA, Malaga, Spain
+10
+Department of Medical Oncology, Institut de Cancérologie de l'ouest René Gauducheau, Nantes, France
+11
+Early Clinical Biostatistics, Oncology, Novartis Pharma AG, Basel, Switzerland
+12
+Translational Clinical Oncology, Novartis Pharma AG, Basel, Switzerland
+13
+Oncology Global Development, Novartis Pharma AG, Basel, Switzerland
+14
+Department of Hematology-Oncology, National University Cancer Institute Singapore, Singapore
+Correspondence to: Anthony Kong, e-mail: a.h.kong@bham.ac.uk
+Keywords: breast cancer, HER2, HSP90 inhibitor, AUY922, trastuzumab
+Received: January 28, 2016 Accepted: March 31, 2016 Published: April 25, 2016
+ABSTRACT
+This open-label, multicenter, phase 1B/2 trial assessed AUY922 plus trastuzumab
+in patients with locally advanced or metastatic HER2-positive breast cancer previously
+treated with chemotherapy and anti-HER2 therapy. This study was composed of a
+dose-escalation part with AUY922 administered weekly at escalating doses with
+trastuzumab 2 mg/kg/week (phase 1B), followed by a phase 2 part using the same
+regimen at recommended phase 2 dose (RP2D). The primary objectives were to
+determine the maximum tolerated dose (MTD) and/or RP2D (phase 1B), and to
+evaluate preliminary antitumor activity (phase 2) of AUY922 plus trastuzumab at
+MTD/RP2D. Forty-five patients were treated with AUY922 plus trastuzumab (4 in
+phase 1B with AUY922 at 55 mg/m2 and 41 in phase 1B/2 with AUY922 at 70 mg/m2
+[7 in phase 1B and 34 in phase 2]). One patient in phase 1B (70 mg/m2) experienced
+a dose-limiting toxicity (grade 3 diarrhea); the RP2D was weekly AUY922 70 mg/m2
+plus trastuzumab. Of the 41 patients in the 70 mg/m2 cohort, the overall response rate
+(complete or partial responses) was 22.0% and 48.8% patients had stable disease.
+Study treatment-related adverse events occurred in 97.8% of patients; of these,
+31.1% were grade 3 or 4. Forty-one patients (91.1%) reported ocular events (82.3%
+had grade 1 or 2 events). Two patients (4.4%) had ocular events leading to the
+permanent discontinuation of study treatment. AUY922 at 70 mg/m2 plus trastuzumab
+www.impactjournals.com/oncotarget 37680 Oncotarget
+
+--- Page 2 ---
+standard therapy is well tolerated and active in patients with HER2-positive metastatic
+breast cancer who progressed on trastuzumab-based therapy.
+INTRODUCTION hepatotoxicity [25–27]. The new, second-generation,
+synthetic HSP90 inhibitors such as AUY922 have
+HER2 is overexpressed or amplified in greater potency and reduced hepatotoxicity. AUY922 is
+approximately 15% to 20% of all cases of breast cancer an isoxazole-based, nongeldanamycin compound, which
+[1]. Trastuzumab, a monoclonal anti-HER2 antibody, was competitively inhibits the ATPase activity of HSP90,
+the first biologically targeted therapy approved for the resulting in degradation of client proteins, including HER2
+treatment of patients with advanced or metastatic HER2- [28]. AUY922 has shown activity in preclinical breast
+positive breast cancer [2]. As a single agent, the overall cancer model, and significant synergy was observed when
+response rates (ORR) of trastuzumab range between 12% it was combined with trastuzumab in the HER-2 positive
+and 26% [3–5]; ORR in patients with HER2 overexpressed BT-474 breast cancer xenograft model [28]. A first-in-
+tumors based at the 3+ level by immunohistochemistry human phase 1 study of AUY922 in advanced solid
+was 35% [5]. Trastuzumab monotherapy improved tumors showed that patients tolerated weekly infusions
+disease-free survival in patients with HER2-positive breast of AUY922, and dose-limiting toxicities (DLTs) occurred
+cancer in the adjuvant setting (eg, HERceptin Adjuvant in 8 patients (7.9%) (22-70 mg/m2), which included
+[HERA] trial) [6]. diarrhea, asthenia/fatigue, anorexia, atrial flutter, and
+Trastuzumab has been used as the first-line treatment visual symptoms. The recommended phase 2 dose (RP2D)
+in combination with chemotherapy such as docetaxel or of AUY922 was declared as 70 mg/m2 once weekly [29].
+paclitaxel in locally advanced or metastatic HER2-positive Clinical data of the HSP90 inhibitor tanespimycin
+breast cancer, with response rates ranging between 50% in combination with trastuzumab have shown promising
+and 80% [2, 7] and as the second-line or later treatment in activity in patients with HER2-positive locally advanced
+combination with different cytotoxic agents [ORR, 20%- or metastatic breast cancer progressing on trastuzumab
+68%] [8–16]. The majority of patients with metastatic [30]. Ganetespib, another second-generation HSP90
+breast cancer who initially responded to trastuzumab inhibitor has shown promising clinical activity (clinical
+developed resistance within 1 year of treatment initiation benefit rate of 60%) in combination with paclitaxel and
+[17]. trastuzumab (clinical benefit rate was 60%) in heavily
+Lapatinib (a dual inhibitor of epidermal growth pretreated patients with HER2-positive metastatic BC
+factor receptor [EGFR] tyrosine kinase 1 and 2 [HER2]) in [31]. This open-label, multicenter, phase 1B/2 trial
+combination with capecitabine has been shown to prolong evaluated the efficacy, safety, tolerability, biologic activity,
+progression-free survival (PFS), and this combination is and pharmacokinetic profile of AUY922 in combination
+indicated for the treatment of patients with advanced or with trastuzumab in patients with locally advanced or
+metastatic HER2-positive breast cancer who have received metastatic HER2-positive breast cancer previously treated
+prior therapy including an anthracycline, a taxane, and with chemotherapy and anti-HER2 therapy.
+trastuzumab [18].
+Pertuzumab (a HER2-targeting antibody) when
+combined with trastuzumab and docetaxel as a first-line RESULTS
+treatment prolonged overall survival (OS) in patients
+with HER2-positive metastatic breast cancer [19]. Baseline characteristics and patient disposition
+Trastuzumab–maytansine conjugate (TDM-1, a HER2
+antibody-drug conjugate) significantly improves PFS in A total of 45 patients with HER2-positive advanced
+previously treated patients with metastatic HER2-positive or metastatic breast cancer (median age, 51.0 years [range,
+breast cancer [20, 21]. Pertuzumab and TDM-1 have been 29.0-71.0]) were treated with AUY922 plus trastuzumab.
+approved as first-line and second-line treatments for use Of these 45 patients, 88.9% of patients had invasive ductal
+in metastatic breast cancer on June 08, 2012 and February carcinoma, 4.4% of patients had lobular carcinoma, and
+22, 2013, respectively. 6.7% of patients had carcinoma of other histology; 55.6%
+HSP, a family of the molecular chaperones, are a of patients were estrogen receptor (ER)-positive and
+group of proteins that play essential role in the folding 42.2% of patients were ER-negative; 40.0% of patients
+of a large number of cellular proteins [22, 23]. HSP90 were progesterone receptor (PR)-positive, and 57.8% of
+interacts with a variety of proteins that play important patients were PR-negative; 1 patient (2.2%) had missing
+roles in breast cancer including receptor tyrosine kinases data for both ER and PR status; 11.1%, 26.7%, and 62.2%
+such as EGFR and HER2 as well as RAF and AKT [24]. of patients had received 1, 2, and ≥ 3 regimens at last
+The first-generation compounds of HSP90 treatment, respectively (Table 1). The trial recruited the
+inhibitors were geldanamycin derivatives, which have first patient in September 2010, and the last patient’s
+a few limitations including difficult formulation and recruitment was completed on May 2012. During this
+www.impactjournals.com/oncotarget 37681 Oncotarget
+
+--- Page 3 ---
+Table 1: Patient demographics and disease characteristics
+55 mg/m2 70 mg/m2 All patients
+Characteristic, n (%)
+n = 4 n = 41 N = 45
+Median age (range), years 53.5 (43.0, 64.0) 51.0 (29.0, 71.0) 51.0 (29.0, 71.0)
+Age category, years
+< 65 4 (100) 36 (87.8) 40 (88.9)
+≥ 65 0 5 (12.2) 5 (11.1)
+Race
+Caucasian 2 (50.0) 34 (82.9) 36 (80.0)
+Black 0 1 (2.4) 1 (2.2)
+Asian 2 (50.0) 6 (14.6) 8 (17.8)
+Histology
+Invasive ductal carcinoma 3 (75.0) 37 (90.2) 40 (88.9)
+Invasive lobular
+0 2 (4.9) 2 (4.4)
+carcinoma
+Other 1 (25.0) 2 (4.9) 3 (6.7)
+Estrogen receptor-negative 4 (100) 15 (36.6) 19 (42.2)
+Estrogen receptor-positive 0 25 (61.0) 25 (55.6)
+Missing 0 1 (2.4) 1 (2.2)
+Progesterone receptor-
+4 (100) 22 (53.7) 26 (57.8)
+negative
+Progesterone receptor-
+0 18 (43.9) 18 (40.0)
+positive
+Missing 0 1 (2.4) 1 (2.2)
+Stage at diagnosis
+I to IIb 4 (100) 20 (48.8) 24 (53.3)
+III to IIIb 0 14 (34.1) 14 (31.1)
+IV 0 5 (12.2) 5 (11.1)
+Missing 0 2 (4.9) 2 (4.4)
+Metastatic sites
+Brain 0 1 (2.4) 1 (2.2)
+Pleura 0 2 (4.9) 2 (4.4)
+Lung 2 (50.0) 22 (53.7) 24 (53.3)
+Liver 0 23 (56.1) 23 (51.1)
+Pancreas 0 1 (2.4) 1 (2.2)
+Peritoneum 0 1 (2.4) 1 (2.2)
+Breast 1 (25.0) 4 (9.8) 5 (11.1)
+Uterus 0 1 (2.4) 1 (2.2)
+Kidney 0 2 (4.9) 2 (4.4)
+Skin 1 (25.0) 2 (4.9) 3 (6.7)
+Bone 0 25 (61.0) 25 (55.6)
+www.impactjournals.com/oncotarget 37682 Oncotarget
+
+--- Page 4 ---
+55 mg/m2 70 mg/m2 All patients
+Characteristic, n (%)
+n = 4 n = 41 N = 45
+Lymph nodes 2 (50.0) 11 (26.8) 13 (28.9)
+Other 0 4 (9.8) 4 (8.9)
+Number of regimens at last
+treatment
+1 0 5 (12.2) 5 (11.1)
+2 2 (50.0) 10 (24.4) 12 (26.7)
+≥ 3 2 (50.0) 26 (63.4) 28 (62.2)
+Therapy type at last
+medication
+Chemotherapy 2 (50.0) 24 (58.5) 26 (57.8)
+Hormonal therapy 0 7 (17.1) 7 (15.6)
+Targeted therapy 4 (100) 29 (70.7) 33 (73.3)
+Prior antineoplastic therapy –
+monoclonal antibodies
+Trastuzumab 4 (100) 41 (100) 45 (100)
+Trastuzumab emtansine
+1 (25.0) 2 (4.9) 3 (6.7)
+(TDM-1)
+Bevacizumab 0 2 (4.9) 2 (4.4)
+Pertuzumab 2 (50.0) 6 (14.6) 8 (17.8)
+Lapatinib 1 (25.0) 11 (26.8) 12 (26.7)
+time, pertuzumab and TDM-1 were not approved as The RP2D was thus weekly AUY922 70 mg/m2 in
+anti-HER2 treatments (see Introduction for the dates of combination with trastuzumab.
+approval). However, patients who received either of these
+agents were eligible for the trial. In total, 3 (6.7%) and 8 Efficacy
+patients (17.8%) received prior TDM-1 and pertuzumab,
+respectively. A total of 12 patients (26.7%) had received Among the 41 patients in the 70 mg/m2 cohort,
+prior lapatinib treatment. the ORR (complete or partial responses) by investigator
+Four patients were treated in phase 1B with review was 22.0% (Table 3). From the Bayesian posterior
+AUY922 at 55 mg/m2 plus weekly trastuzumab and 41 distribution, the mean ORR was 22.0% [95% credible
+patients were treated in phase 1B/2 with AUY922 at 70 interval: 11.1%, 35.5%]. The best tumor shrinkage
+mg/m2 plus trastuzumab (7 patients in phase 1B and 34 (computed tomography [CT] response) in target lesions in
+patients in phase 2). As of January 29, 2013, forty-three evaluable patients is shown in Figure 1. Twenty patients
+patients discontinued the treatment; the majority of (48.8%) had stable disease. The median PFS was 3.94
+patients (68.9%) discontinued the treatment due to disease months (95% confidence interval [CI]: 3.48, 6.47) (Figure
+progression (Table 2). Follow-up was completed in 42 out 2). The Kaplan-Meier estimates of PFS rate at 4 and 6
+of 43 patients who had discontinued treatment. months were 47.9% (95% CI: 31.4, 62.7) and 38.7% (95%
+CI: 23.1, 54.1), respectively. The median OS was 12.65
+Determination of maximum tolerated dose months (95% CI: 11.70, 17.22) (Figure 3). The Kaplan-
+Meier estimate of OS rate at 8 months was 91.6% (95%
+(MTD)/RP2D
+CI: 76.0, 97.2).
+In the first-in-human AUY922 monotherapy study,
+the RP2D was declared as 70 mg/m2 once weekly [29]. In Pharmacokinetics
+this study, only 1 patient in the phase1B (70 mg/m2 cohort)
+experienced a DLT (grade 3 diarrhea) with trastuzumab. Mean plasma concentration-time profiles for
+AUY922 and its metabolite BJP762 in combination with
+www.impactjournals.com/oncotarget 37683 Oncotarget
+
+--- Page 5 ---
+Table 2: Patient disposition
+55 mg/m2 70 mg/m2 All patients
+Patient disposition
+n = 4 n = 41 N = 45
+Patients enrolled, n (%)
+Treated 4 (100) 41 (100) 45 (100)
+Treatment discontinued 4 (100) 39 (95.1) 43 (95.6)
+Treatment ongoing 0 2 (4.9) 2 (4.4)
+Primary reason for end of
+treatment, n (%)
+Adverse event(s) 1 (25.0) 7 (17.1) 8 (17.8)
+Subject withdrew consent 0 4 (9.8) 4 (8.9)
+Disease progression 3 (75.0) 28 (68.3) 31 (68.9)
+Table 3: Best overall response by investigator review
+70 mg/m2
+Best overall response, n (%)
+n = 41
+Complete response (CR) 1 (2.4)
+Partial response (PR) 8 (19.5)
+Stable disease 20 (48.8)
+Progressive disease 11 (26.8)
+Unknown 1 (2.4)
+Objective response (CR or PR), n (%) 9 (22.0)
+[95% credible interval] (11.1, 35.5)
+trastuzumab on cycle 1 day 1 were both biphasic at doses reduction (50.0% [2 of 4] in the 55 mg/m2 cohort and
+of 55 mg/m2 and 70 mg/m2 (Figure 4A and Figure 4B, 36.6% [15 of 41] in the 70 mg/m2 cohort). All of the dose
+respectively). reductions were due to adverse events (AEs), except for
+The exposures to AUY922 and BJP762 in plasma 2 patients in the 70 mg/m2 cohort (1 due to dosing error
+for the 70 mg/m2 dose cohort were generally higher than and 1 due to a laboratory test abnormality). Twenty-six
+those in the 55 mg/m2 cohort, indicating dose-dependent patients had ≥ 1 dose delay (2 in the 55 mg/m2 cohort and
+increase in exposure. AUY922 had a mean clearance 24 in the 70 mg/m2 cohort). Overall, 46.7% patients (21
+(CL) value of 60 L/h (61.50 L/h for 55 mg/m2 cohort of 45) had dose delays due to AEs (50.0% in the 55 mg/
+and 59.27 L/h for 70 mg/m2 cohort) and a mean volume m2 cohort [2 of 4] and 46.3% in the 70 mg/m2 cohort [19
+of distribution (Vz) value of 3850 L (4541.60 L for 55 of 41]).
+mg/m2 cohort and 3160.83 L for 70 mg/m2 cohort) in All patients reported ≥ 1 AE, regardless of study
+plasma. treatment relationship; the most common AEs were
+diarrhea (88.9%), fatigue (37.8%), nausea (37.8%),
+Safety headache (31.1%), night blindness (31.1%), and visual
+impairment (31.1%). Overall, 21 patients (46.7%)
+The median duration of treatment (AUY922 plus experienced a grade 3 or 4 AE regardless of study
+trastuzumab) exposure was 16.0 weeks (range, 1-72) in treatment relationship; the most common grade 3 AEs
+all patients; the median duration of treatment in the 55 mg/ were dyspnea, (3 patients, 6.7%) and accommodation
+m2 and 70 mg/m2 cohorts was 10.5 weeks (range, 7-24) disorder, anemia, arthralgia, diarrhea, decreased ejection
+and 16.0 weeks (range, 1-72), respectively. fraction, fatigue, and nausea (in 2 patients each, 4.4%). Six
+Of the overall 45 patients treated with AUY922 patients in the 70 mg/m2 cohort experienced grade 4 AEs
+plus trastuzumab, 37.8% patients (17 of 45) had ≥ 1 dose regardless of causality (anemia, hyperkalemia, jaundice,
+www.impactjournals.com/oncotarget 37684 Oncotarget
+
+--- Page 6 ---
+optic nerve disorder, pleural effusion, and breast cancer [2 AEs were diarrhea, fatigue, accommodation disorder, and
+events in 1 patient]). decreased ejection fraction (each occurring in 2 patients,
+Study treatment-related AEs occurred in 97.8% 4.4%).
+patients; the most frequent AEs were diarrhea, fatigue, Overall, 11 patients (24.4%) (all in the 70 mg/m2
+nausea, and visual impairment (Table 4). Study treatment- cohort) experienced serious AEs (SAEs), regardless of
+related grade 3 or 4 AEs occurred in 14 patients (31.1%). causality; none of these resulted in discontinuation of
+The most common study-treatment related grade 3 or 4 study treatment or death. Three patients (7.3%) in the 70
+Figure 1: Best tumor shrinkage (computed tomography response) in target lesions among evaluable patients in the 70
+mg/m2 cohort. *Confirmed Response Evaluation Criteria in Solid Tumors response. ‘n’ represents number of patients with a baseline and
+at least 1 post-baseline tumor assessment in target lesions by investigator and ‘N’ represents total number of patients treated with AUY922
+70 mg/m2 plus trastuzumab.
+Figure 2: Kaplan–Meier plot of progression-free survival as per investigator in the 70 mg/m2 cohort. ‘n’ represents
+number of patients with progressive disease or death whereas ‘N’ represents total number of patients treated with AUY922 70 mg/m2 plus
+trastuzumab. Patients who have not had events are censored, but are still included in the figure.
+www.impactjournals.com/oncotarget 37685 Oncotarget
+
+--- Page 7 ---
+Figure 3: Kaplan–Meier plot of overall survival as per investigator in the 70 mg/m2 cohort. ‘n’ represents number of deaths
+whereas ‘N’ represents total number of patients treated with AUY922 70 mg/m2 plus trastuzumab. Patients who have not died are censored,
+but are still included in the figure.
+Figure 4: Semi-logarithmic arithmetic mean concentration-time profiles for plasma AUY922 and BJP762 in
+combination with trastuzumab. A. AUY922 55 mg/m2 plus trastuzumab. B. AUY922 70 mg/m2 plus trastuzumab.
+www.impactjournals.com/oncotarget 37686 Oncotarget
+
+--- Page 8 ---
+Table 4: Study treatment-related adverse events (all grades ≥ 10% and grades 3 or 4)
+55 mg/m2 70 mg/m2 All patients
+Preferred term, n = 4 n = 41 N = 45
+n (%) All grades Grade All grades Grade All grades Grade
+3 or 4 3 or 4 3 or 4
+Diarrhea 2 (50.0) 0 38 (92.7) 2 (4.9) 40 (88.9) 2 (4.4)
+Fatigue 2 (50.0) 0 13 (31.7) 2 (4.9) 15 (33.3) 2 (4.4)
+Nausea 1 (25.0) 0 14 (34.1) 1 (2.4) 15 (33.3) 1 (2.2)
+Visual impairment 2 (50.0) 1 (25.0) 12 (29.3) 0 14 (31.1) 1 (2.2)
+Night blindness 1 (25.0) 0 12 (29.3) 0 13 (28.9) 0
+Photopsia 3 (75.0) 0 10 (24.4) 1 (2.4) 13 (28.9) 1 (2.2)
+Vision blurred 2 (50.0) 0 11 (26.8) 0 13 (28.9) 0
+Vitreous floaters 1 (25.0) 0 10 (24.4) 0 11 (24.4) 0
+Accommodation
+1 (25.0) 0 9 (22.0) 2 (4.9) 10 (22.2) 2 (4.4)
+disorder
+Asthenia 0 0 8 (19.5) 1 (2.4) 8 (17.8) 1 (2.2)
+Decreased appetite 0 0 7 (17.1) 0 7 (15.6) 0
+Headache 1 (25.0) 0 6 (14.6) 0 7 (15.6) 0
+Vomiting 1 (25.0) 0 6 (14.6) 1 (2.4) 7 (15.6) 1 (2.2)
+Abdominal pain 0 0 6 (14.6) 0 6 (13.3) 0
+Muscle spasms 0 0 6 (14.6) 0 6 (13.3) 0
+Pruritus 1 (25.0) 0 5 (12.2) 0 6 (13.3) 0
+Anemia 0 0 5 (12.2) 0 5 (11.1) 0
+Hypokalemia 0 0 5 (12.2) 0 5 (11.1) 0
+Photophobia 2 (50.0) 0 3 (7.3) 0 5 (11.1) 0
+Visual acuity reduced 0 0 5 (12.2) 0 5 (11.1) 0
+mg/m2 cohort experienced study treatment-related SAEs; in the 55 mg/m2 cohort and 37 patients in the 70 mg/
+none of which resulted in permanent discontinuation. m2 cohort); the most frequent ocular events were night
+Eight patients (1 patient in the 55 mg/m2 cohort and blindness (31.1%), visual impairment (31.1%), photopsia
+7 patients in the 70 mg/m2 cohort) (17.8%) discontinued (28.9%), blurred vision (28.9%), and photophobia
+the treatment due to AEs, regardless of study treatment (11.1%). Most ocular events (82.3%) were grade 1 or
+relationship. Study treatment-related discontinuation 2. Four patients (8.9%) (1 in the 55 mg/m2 cohort and 3
+events occurred in 7 patients, which included elevated in the 70 mg/m2 cohort) experienced grade 3 or 4 ocular
+alanine aminotransferase, hyperkalemia, optic nerve events; all were study treatment related. Two patients
+disorder, decreased appetite, accommodation disorder (4.4%) had ocular events (grade 4 optic nerve disorder and
+(each in 1 patient); and decreased ejection fraction (2 grade 3 accommodation disorder) leading to permanent
+patients). discontinuation of study treatment, both considered to be
+A total of 18 deaths occurred > 28 days after the study treatment related.
+last dose and during the survival follow-up period (data One patient in the 70 mg/m2 cohort (2.4% of this
+cutoff, January 29, 2013). The cause of death was reported cohort) experienced 2 cardiac events of interest (left
+as disease progression in 16 patients; 1 patient died during bundle branch block and cardiac failure). Both were SAEs
+brain surgery, and 1 due to acute respiratory insufficiency. of grade 3 severity and were suspected to be related to
+Overall, 41 patients (91.1%) reported ocular events study drug; neither led to permanent discontinuation of
+regardless of study treatment relationship (all 4 patients study treatment.
+www.impactjournals.com/oncotarget 37687 Oncotarget
+
+--- Page 9 ---
+DISCUSSION 1 patients (2.2%), respectively. Overall, only 2 patients
+discontinued the treatment due to ocular events; other
+This phase 1B/2 study evaluated the efficacy and ocular events (mostly ≥ grade 2) were managed by study
+safety of AUY922 plus trastuzumab in patients with treatment dosage adjustment/temporary interruption
+advanced or metastatic HER-2 positive breast cancer and/or use of concomitant medication. However, ocular
+progressing on trastuzumab. The rationale for this study events seen in this study were not unexpected, as it has
+was based on synergistic activity of AUY922 plus been reported in the first-in-human AUY922 monotherapy
+trastuzumab in the HER-2 positive BT-474 breast cancer study where ocular events related to AUY922 occurred in
+xenograft model [28] and clinical experience of other 43% of patients (grade 1 or 2 in 41 of 101 patients [41%]
+HSP90 inhibitors in combination with trastuzumab in and grade 3 in 2 of 101 patients [2%]). Of note, ocular
+patients with advanced HER2-positive metastatic breast events were not reported in HER2-positive breast cancer
+cancer progressing on trastuzumab [30]. patients treated with tanespimycin [30]. The difference
+In phase 1B, only 1 patient (70 mg/m2 cohort) in ocular toxicity in AUY922 and tanespimycin may be
+experienced a DLT (grade 3 diarrhea) in combination with due to high retina/plasma concentration ratio and slow
+trastuzumab. According to the Bayesian logistic regression elimination profile of AUY922 [33].
+model, at a 70 mg/m2 dose of AUY922, the posterior risk The anti-HER2 paradigms for metastatic breast
+of DLT rate being in the excessive toxicity category was cancer have changed since the initiation of this study;
+much lower than 25%; hence, the dose of AUY922 could pertuzumab is approved in combination with trastuzumab
+have been further escalated. However, at that time, the and docetaxel as first-line treatment for patients with
+AUY922 first-in-human monotherapy study [29] had HER2-positive metastatic breast cancer who have not
+already declared 70 mg/m2 as the RP2D; thus, further received prior anti-HER2 therapy or chemotherapy for
+escalation was prohibited. The dose of 70 mg/m2 weekly metastatic disease, whereas TDM-1 is approved for
+was then taken as the RP2D in combination with weekly patients with HER2-positive metastatic breast cancer
+trastuzumab. previously treated with trastuzumab.
+In this study, 22.0% of patients treated at 70 mg/ In conclusion, the combination of AUY922 at 70
+m2 achieved ORR by investigator review. Furthermore, mg/m2 and trastuzumab standard therapy is well tolerated
+stable disease was reported in 48.8% of patients treated and active in patients with HER2-positive metastatic
+at 70 mg/m2. Thus, our results confirm that HSP90 breast cancer who progressed on trastuzumab-based
+inhibition in combination with trastuzumab is a promising therapy; however, this needs to be explored further in a
+strategy in advanced or metastatic HER2-positive breast larger population. Although there are no clinical studies
+cancer patients progressing on trastuzumab. The results ongoing with AUY922 in metastatic breast cancer, this
+are comparable to that seen with tanespimycin plus study has provided further rationale for combining HSP90
+trastuzumab combination, where ORR was 22% and inhibitor with trastuzumab in pretreated HER2-positive
+disease stabilization rate was 37% [30]. In the first-in- breast cancer patients.
+human monotherapy study of AUY922, which included
+metastatic breast cancer [29], none of the patients had
+objective responses; this may be due to the following PATIENTS AND METHODS
+2 reasons: the patients in the first-in-human study were
+not molecularly prioritized before study entry; and the Patients
+responses seen in this study may be due to the combination
+of trastuzumab with AUY922. Despite the promising ORR Female patients, who were aged ≥ 18 years
+and disease stabilization rate, the median PFS and OS with confirmed HER2-positive, nonoperable, locally
+were only 3.94 months and 12.65 months, respectively. advanced or metastatic breast cancer who progressed
+The trough trastuzumab concentrations following on prior anti–HER2-based regimens including at least
+administration of trastuzumab were higher than 30 μg/mL, 1 regimen containing trastuzumab, were eligible. HER2
+which is consistent with the observations reported in the overexpression was based on either immunohistochemistry
+literature [32]. The pharmacokinetic profile of AUY922 at the 3+ level or immunohistochemistry 2+ level
+in combination with trastuzumab seen in this study is confirmed by fluorescence in situ hybridization.
+consistent with that observed in the AUY922 first-in- Patients who developed metastases while receiving
+human monotherapy study [29]. adjuvant trastuzumab were eligible, and their adjuvant
+The safety profile of AUY922 plus trastuzumab therapy was considered as 1 prior regimen.
+was similar to the safety profile of AUY922 monotherapy Patients who received lapatinib as a last line of
+in the first-in-human study with the most common AEs treatment were eligible. Other key inclusion criteria were
+being gastrointestinal and ocular [29]. Of note, a majority ≥ 1 measurable lesion as defined by Response Evaluation
+of patients (82.3%) had grade 1 or 2 ocular AEs; grade Criteria In Solid Tumors version 1.0 (RECIST),
+3 and grade 4 ocular AEs were reported in 3 (6.7%) and documented progressive disease following the last line
+www.impactjournals.com/oncotarget 37688 Oncotarget
+
+--- Page 10 ---
+of therapy, and Eastern Cooperative Oncology Group plus trastuzumab, whereas the primary objective of the
+performance status of ≤ 1. phase 2 component was to evaluate preliminary antitumor
+Patients were excluded if they had the following: activity (ORR) of AUY922 plus trastuzumab at the
+known symptomatic central nervous system metastases MTD/RP2D. Secondary objectives include evaluation
+requiring treatment (for symptom control and/or of pharmacokinetics, safety, tolerability, and preliminary
+growing); impaired cardiac function; received prior efficacy (PFS, OS) for AUY922 in combination with
+treatment with any HSP90 or histone deacetylase trastuzumab standard therapy.
+inhibitor; systemic anticancer treatment prior to AUY922
+dosing (radiotherapy, chemotherapy, hormonotherapy, Patient assessments
+investigational drugs, and monoclonal antibodies other
+than trastuzumab within 4 weeks; palliative radiotherapy Safety assessments consisted of monitoring by
+within 2 weeks; and nitrosoureas and mitomycin within 6 investigators and recording all AEs and SAEs (up to
+weeks); unresolved diarrhea > Common Toxicity Criteria 28 days following the last dose of AUY922), and the
+for Adverse Events version 4.0 (CTCAE) grade 1; not regular monitoring of laboratory evaluations, physical
+recovered from the reversible side effects of previous examination, vital signs, weight, performance status
+systemic anticancer therapy (except for alopecia) < evaluation, electrocardiograms and repeat cardiac
+CTCAE grade 2 prior to the first dose; therapeutic assessments, cardiac enzymes, echocardiogram and or
+doses of sodium warfarin; acute or chronic liver or renal multigated acquisition scan (if clinically indicated).
+disease; other concurrent severe and/or uncontrolled Ophthalmologic examinations were also to be performed
+medical conditions that could cause unacceptable safety at the end of cycle 2 and end of treatment or more often
+risks; known hypersensitivity to any study medication; if any visual symptom was reported. Toxicity was
+and history of another primary malignancy that was assessed using the National Cancer Institute CTCAE,
+currently clinically significant or currently required active version 4.0.
+intervention. All patients were to be followed for AEs and
+The study protocol and all amendments were SAEs for 28 days following the last dose of AUY922.
+reviewed by the Independent Ethics Committee or Pharmacokinetic parameters were determined by
+Institutional Review Board for each center. The study was noncompartmental method(s) using WinNonlin® Pro
+conducted according to Good Clinical Practice guidelines (version 5.2). Tumor response was assessed by the
+and ethical principles of the Declaration of Helsinki. All investigators according to RECIST version 1.0 [36].
+patients provided written informed consent. Tumor assessments using CT or magnetic resonance
+imaging were to be performed every 8 weeks for first 24
+Study design and treatment weeks and every 12 weeks thereafter until progression
+or until a new anticancer therapy was initiated. The best
+This open-label, nonrandomized, multicenter study overall response of SD was defined as having at least
+(NCT01271920) was composed of a dose-escalation one SD assessment (or better) > 6 weeks after start of
+part with AUY922 administered at escalating doses in treatment (and not qualifying for CR or PR).
+combination with trastuzumab at the standard dose (phase
+1B), followed by a phase 2 part using the same regimen Statistical methods
+with AUY922 and trastuzumab at RP2D. AUY922 was
+administered as once weekly 1-hour intravenous infusion The EWOC principle [34, 35] mandated that
+with trastuzumab at the licensed weekly dose of 2 mg/kg any dose of AUY922 in combination with the standard
+over 30 minutes (or 4 mg/kg over 90 minutes if a loading trastuzumab therapy that had more than a 25% chance of
+dose was necessary at cycle 1 day 1) on days 1, 8, 15, being in the excessive toxicity category (true DLT rate in
+and 22 of each 28-day treatment cycle. Patients received the interval [33%, 100%]) was not considered for the next
+treatment until disease progression, unacceptable toxicity, dose cohort. Prior distributions for the Bayesian logistic
+or investigator’s/patient’s decision to discontinue the regression model parameters were based on data from the
+treatment. AUY922 first-in-human study [29].
+A 2-parameter Bayesian logistic regression model For phase 1B, 3 to 6 patients evaluable for the
+employing the escalation with overdose control (EWOC) Bayesian logistic regression model were to be treated per
+principle [34, 35] was used during the dose-escalation cohort, until the MTD/RP2D was reached, and ≥ 6 patients
+phase to guide dose-level selection and determination evaluable for the dose-determining set were to be treated
+of the MTD/RP2D. The starting dose of AUY922 was at the MTD/RP2D. With the use of historical data from
+55 mg/m2 in phase 1B and was determined based on the AUY922 first-in-human study [29] in an informative
+EWOC criteria and data from first-in-human AUY922 prior distribution, it was estimated that approximately 12
+monotherapy study [29]. The primary objective for phase patients would need to be enrolled on study for the model
+1B was to determine the MTD and/or RP2D of AUY922 to have reasonable operating characteristics.
+www.impactjournals.com/oncotarget 37689 Oncotarget
+
+--- Page 11 ---
+The phase 2 part used a Bayesian design to estimate 2. Slamon DJ, Leyland-Jones B, Shak S, Fuchs H, Paton V,
+the ORR observed with this regimen with AUY922 at the Bajamonde A, Fleming T, Eiermann W, Wolter J, Pegram
+identified MTD and/or RP2D. For phase 2 part, given an M, Baselga J, Norton L. Use of chemotherapy plus a
+observed ORR equal to 30%, approximately 40 patients monoclonal antibody against HER2 for metastatic breast
+(including those already treated at the RP2D during the cancer that overexpresses HER2. N Engl J Med. 2001;
+phase 1B part) were planned for the model to have less 344:783-792.
+than 10% posterior risk of the true response rate being less 3. Baselga J, Tripathy D, Mendelsohn J, Baughman S, Benz
+than 20%. CC, Dantis L, Sklarin NT, Seidman AD, Hudis CA, Moore
+PFS and OS were estimated by Kaplan-Meier J, Rosen PP, Twaddell T, Henderson IC, et al. Phase II
+method. study of weekly intravenous recombinant humanized
+antip185HER2 monoclonal antibody in patients with HER2/
+ACKNOWLEDGMENTS neuoverexpressing metastatic breast cancer. J Clin Oncol.
+1996; 14:737-744.
+The authors thank the participating patients, 4. Cobleigh MA, Vogel CL, Tripathy D, Robert NJ, Scholl S,
+their families, all study coinvestigators, and research Fehrenbacher L, Wolter JM, Paton V, Shak S, Lieberman G,
+coordinators; this trial could not have been done without Slamon DJ. Multinational study of the efficacy and safety of
+them. In addition, they thank Shiva Krishna Rachamadugu humanized anti-HER2 monoclonal antibody in women who
+and Pushkar Narvilkar, Novartis Healthcare Pvt. Ltd. have HER2-overexpressing metastatic breast cancer that has
+for providing medical editorial assistance with this progressed after chemotherapy for metastatic disease. J Clin
+manuscript. Oncol. 1999; 17:2639-2648.
+5. Vogel CL, Cobleigh MA, Tripathy D, Gutheil JC, Harris
+CONFLICTS OF INTEREST LN, Fehrenbacher L, Slamon DJ, Murphy M, Novotny
+WF, Burchmore M, Shak S, Stewart SJ, Press M. Efficacy
+AK has served as an Advisory board member for and safety of Trastuzumab as a single agent in first-line
+GlaxoSmithKline. DR received honoraria from Novartis. treatment of HER2-overpressing metastatic breast cancer.
+SA has served as a consultant for Novartis, Pfizer, J Clin Oncol. 2002; 20:719-726.
+Boehringer Ingelheim, Pierre Fabre, and Eisai. EA has
+6. Piccart-Gebhart MJ, Procter M, Leyland-Jones B,
+served as an Advisory board member for Roche, and
+Goldhirsch A, Untch M, Smith I, Gianni L, Baselga J,
+Celgene, and served as speaker for Roche, Novartis, and
+Bell R, Jackisch C, Cameron D, Dowsett M, Barrios
+Celgene. MC has served as a consultant for Novartis,
+CH, et al. Trastuzumab after adjuvant chemotherapy
+Servier, Menarini, Sanofi, Astra-Zeneca, and Roche,
+in HER2-positive breast cancer. N Engl J Med. 2005;
+attended speaker bureaus for Novartis, and received
+353:1659-1672.
+grant from Novartis. MAk, S-FH, CL are employees of
+7. Marty M, Cognetti F, Maraninchi D, Snyder R, Mauriac
+Novartis. S-CL received honoraria from Novartis. All
+L, Tubiana-Hulin M, Chan S, Grimes D, Antón A, Lluch
+remaining authors have declared no conflicts of interest.
+A, Kennedy J, O'Byrne K, Conte P, et al. Randomized
+phase II trial of the efficacy and safety of trastuzumab
+FUNDING
+combined with docetaxel in patients with human epidermal
+growth factor receptor 2-positive metastatic breast cancer
+This study was sponsored by Novartis Pharma AG, administered as first-line treatment: the M77001 study
+Basel, Switzerland. AK was supported by Breakthrough group. J Clin Oncol. 2005; 23:4265-4274.
+Breast Cancer Clinician Scientist fellowship through
+8. Seidman AD, Fornier MN, Esteva FJ, Tan L, Kaptain
+Holbeck charitable trust during this study.
+S, Bach A, Panageas KS, Arroyo C, Valero V, Currie
+V, Gilewski T, Theodoulou M, Moynahan ME, et al.
+Authors’ contributions
+Weekly trastuzumab and paclitaxel therapy for metastatic
+breast cancer with analysis of efficacy by HER2
+Conception and design: All authors. Development
+immunophenotype and gene amplification. J Clin Oncol.
+of methodology: All authors. Acquisition of data: AK, DR,
+2001; 19:2587-2595.
+SA, JTB, RL, LB, ACA, MAg, EA, MC, S-CL. Analysis
+9. Bartsch R, Wenzel C, Altorjai G, Pluschnig U, Rudas
+and interpretation of data: All authors. Writing, review,
+M, Mader RM, Gnant M, Zielinski CC, Steger GG. et
+and/or revision of the manuscript: All authors.
+al. Capecitabine and trastuzumab in heavily pretreated
+metastatic breast cancer. J Clin Oncol. 2007; 25:3853-3858.
+REFERENCES
+10. Schaller G, Fuchs I, Gonsch T, Weber J, Kleine-Tebbe A,
+Klare P, Hindenburg HJ, Lakner V, Hinke A, Bangemann
+1. Witton CJ, Reeves JR, Going JJ, Cooke TG, Bartlett JM.
+N. Phase II study of capecitabine plus trastuzumab in
+Expression of the HER1-4 family of receptor tyrosine
+human epidermal growth factor receptor 2 overexpressing
+kinases in breast cancer. J Pathol. 2003; 200:290-297.
+www.impactjournals.com/oncotarget 37690 Oncotarget
+
+--- Page 12 ---
+metastatic breast cancer pretreated with anthracyclines or for HER2-positive advanced breast cancer. N Engl J Med.
+taxanes. J Clin Oncol. 2007; 25:3246-3250. 2012; 367:1783-1791.
+11. Yamamoto D, Iwase S, Kitamura K, Odagiri H, Yamamoto 21. Krop IE, Kim SB, González-Martín A, LoRusso PM,
+C, Nagumo Y. A phase II study of trastuzumab and Ferrero JM, Smitt M, Yu R, Leung AC, Wildiers H.
+capecitabine for patients with HER2-overexpressing Trastuzumab emtansine versus treatment of physician's
+metastatic breast cancer: Japan Breast Cancer Research choice for pretreated HER2-positive advanced breast cancer
+Network (JBCRN) 00 Trial. Cancer Chemother Pharmacol. (TH3RESA): a randomised, open-label, phase 3 trial.
+2008; 61:509-514. Lancet Oncol. 2014; 15:689-699.
+12. Pegram MD, Lipton A, Hayes DF, Weber BL, Baselga JM, 22. Lindquist S, Craig EA. The heat shock proteins. Ann Rev
+Tripathy D, Baly D, Baughman SA, Twaddell T, Glaspy Genet. 1988; 22:631-637.
+JA, Slamon DJ. Phase II study of receptor-enhanced 23. Bukau B, Weissman J, Horwich A. Molecular chaperones
+chemosensitivity using recombinant humanized anti- and protein quality control. Cell. 2006; 125:443-451.
+p185HER2/neu monoclonal antibody plus cisplatin in
+24. Beliakoff J, Whitesell L. Hsp90: An emerging target for
+patients with HER2/neu-overexpressing metastatic breast
+breast cancer therapy. Anticancer Drug. 2004; 15:651-662.
+cancer refractory to chemotherapy treatment. J Clin Oncol.
+25. Goetz MP, Toft D, Reid J, Ames M, Stensgard B, Safgren
+1998; 16:2659-2671.
+S, Adjei AA, Sloan J, Atherton P, Vasile V, Salazaar S,
+13. O’Shaughnessy JA, Vukelja S, Marsland T, Kimmel
+Adjei A, Croghan G, et al. Phase I trial of 17-allylamino-17-
+G, Ratnam S, Pippen JE. Phase II study of trastuzumab
+demethoxygeldanamycin in patients with advanced cancer.
+plus gemcitabine in chemotherapy pretreated patients
+J Clin Oncol. 2005; 23:1078-1087.
+with metastatic breast cancer. Clin Breast Cancer. 2004;
+26. Grem JL, Morrison G, Guo XD, Agnew E, Takimoto CH,
+5:142-147.
+Thomas R, Szabo E, Grochow L, Grollman F, Hamilton
+14. Pegram MD, Pienkowski T, Northfelt DW, Eiermann W,
+JM, Neckers L, Wilson RH. Phase I and pharmacologic
+Patel R, Fumoleau P, Quan E, Crown J, Toppmeyer D,
+study of 17-(allylamino)-17-demethoxygeldanamycin
+Smylie M, Riva A, Blitz S, Press MF, et al. Results of
+in adult patients with solid tumors. J Clin Oncol. 2005;
+two open-label, multicenter phase II studies of docetaxel,
+23:1885-1893.
+platinum salts, and trastuzumab in HER2-positive advanced
+27. Banerji U, O'Donnell A, Scurr M, Pacey S, Stapleton
+breast cancer. J Natl Cancer Inst. 2004; 96:759-769.
+S, Asad Y, Simmons L, Maloney A, Raynaud F,
+15. Esteva FJ, Valero V, Booser D, Guerra LT, Murray JL,
+Campbell M, Walton M, Lakhani S, Kaye S, et al. Phase
+Pusztai L, Cristofanilli M, Arun B, Esmaeli B, Fritsche
+I pharmacokinetic and pharmacodynamic study of
+HA, Sneige N, Smith TL, Hortobagyi GN. Phase II study of
+17-allylamino, 17-demethoxygeldanamycin in patients with
+weekly docetaxel and trastuzumab for patients with HER-
+advanced malignancies. J Clin Oncol. 2005; 23:4152-4161.
+2-overexpressing metastatic breast cancer. J Clin Oncol.
+28. Jensen MR, Schoepfer J, Radimerski T, Massey A, Guy
+2002; 20:1800-1808.
+CT, Brueggen J, Quadt C, Buckler A, Cozens R, Drysdale
+16. Lee YR, Huh SJ, Lee DH, Yoon HH, Seol YM, Choi
+MJ, Garcia-Echeverria C, Chène P. NVP-AUY922: a small
+YJ, Kwon KA, Lee S, Oh SY, Kim SH, Kim HJ, Kwon
+molecule HSP90 inhibitor with potent antitumor activity in
+HC. Phase II study of vinorelbine plus trastuzumab in
+preclinical breast cancer models. Breast Cancer Res. 2008;
+HER2 overexpressing metastatic breast cancer pretreated
+10:R33.
+with anthracyclines and taxanes. J Breast Cancer. 2011;
+29. Sessa C, Shapiro GI, Bhalla KN, Britten C, Jacks KS,
+14:140-146.
+Mita M, Papadimitrakopoulou V, Pluard T, Samuel TA,
+17. Nahta R, Esteva FJ. HER2 therapy: molecular mechanisms
+Akimov M, Quadt C, Fernandez-Ibarra C, Lu H, et al.
+of trastuzumab resistance. Breast Cancer Res. 2006; 8:215.
+First-in-human phase I dose-escalation study of the HSP90
+18. Geyer CE, Forster J, Lindquist D, Chan S, Romieu CG, inhibitor AUY922 in patients with advanced solid tumors.
+Pienkowski T, Jagiello-Gruszfeld A, Crown J, Chan A, Clin Cancer Res. 2013; 19:3671-3680.
+Kaufman B, Skarlos D, Campone M, Davidson N, et al.
+30. Modi S, Stopeck A, Linden H, Solit D, Chandarlapaty
+Lapatinib plus capecitabine for HER2-positive advanced
+S, Rosen N, D'Andrea G, Dickler M, Moynahan ME,
+breast cancer. N Engl J Med. 2006; 355:2733-2743.
+Sugarman S, Ma W, Patil S, Norton L, et al. HSP90
+19. Swain SM, Baselga J, Kim SB, Ro J, Semiglazov V, inhibition is effective in breast cancer: a phase II trial of
+Campone M, Ciruelos E, Ferrero JM, Schneeweiss tanespimycin (17-AAG) plus trastuzumab in patients with
+A, Heeson S, Clark E, Ross G, Benyunes MC, et al. HER2-positive metastatic breast cancer progressing on
+Pertuzumab, trastuzumab, and docetaxel in HER2-positive trastuzumab. Clin Cancer Res. 2011; 17:5132-5139.
+metastatic breast cancer. N Engl J Med. 2015; 372:724-734.
+31. Jhaveri K, Cadoo K, Chandarlapaty S, Teplinsky E, Speyer
+20. Verma S, Miles D, Gianni L, Krop IE, Welslau M, J, D’ Andrea G, Patil S, Haque S, Friedman K, Heese S,
+Baselga J, Pegram M, Oh D-Y, Diéras V, Guardino E, Neville D, O’Neill T, Karol M, et al. A phase I clinical
+Fang L, Lu MW, Olsen S, et al. Trastuzumab emtansine trial of ganetespib (heat shock protein 90 inhibitor) in
+www.impactjournals.com/oncotarget 37691 Oncotarget
+
+--- Page 13 ---
+combination with paclitaxel and trastuzumab in human 34. Babb J, Rogatko A, Zacks S. Cancer phase I clinical trials:
+epidermal growth factor receptor-2 positive (HER2+) efficient dose escalation with overdose control. Stat Med.
+metastatic breast cancer. Cancer Res. 2015;75:Abstract # 1998; 17:1103-1120.
+P5-19-23. 35. Neuenschwander B, Branson M, Gsponer T. Critical aspects
+32. Bruno R, Washington CB, Lu JF, Lieberman G, Banken of the Bayesian approach to phase I cancer trials. Stat Med.
+L, Klein P. Population pharmacokinetics of trastuzumab 2008; 27:2420-2439.
+in patients with HER2+ metastatic breast cancer. Cancer 36. Therasse P, Arbuck SG, Eisenhauer EA, Wanders J,
+Chemother Pharmacol. 2005; 56:361-369. Kaplan RS, Rubinstein L, Verweij J, Van Glabbeke M,
+33. Zhou D, Liu Y, Ye J, Ying W, Ogawa LS, Inoue T, Tatsuta van Oosterom AT, Christian MC, Gwyther SG. New
+N, Wada Y, Koya K, Huang Q, Bates RC, Sonderfan AJ. guidelines to evaluate the response to treatment in solid
+A rat retinal damage model predicts for potential clinical tumors. European Organization for Research and Treatment
+visual disturbances induced by Hsp90 inhibitors. Toxicol of Cancer, National Cancer Institute of the United States,
+Appl Pharmacol. 2013; 73:401-409. National Cancer Institute of Canada. J Ntl Cancer Inst.
+2000; 92:205-216.
+www.impactjournals.com/oncotarget 37692 Oncotarget

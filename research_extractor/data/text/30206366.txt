@@ -1,0 +1,537 @@
+Source: 30206366.pdf
+Extracted on: Fri Sep 12 23:56:02 PDT 2025
+==================================================
+
+--- Page 1 ---
+www.nature.com/bjc
+ARTICLE
+Clinical Study
+fi
+Anti-tumour activity of a rst-in-class agent NUC-1031 in
+patients with advanced cancer: results of a phase I study
+SarahP. Blagden1,2, IvanaRizzuto1, Puvan Suppiah3,Daniel O’Shea3, Markand Patel3,Laura Spiers1,2,Ajithkumar Sukumaran1,
+NishatBharwani1,4,Andrea Rockall4, Hani Gabra1,5,Mona El-Bahrawy6, HarpreetWasan1,Robert Leonard1, NagyHabib1 and
+EssamGhazaly7
+BACKGROUND:Gemcitabine is used totreat awiderange oftumours, butits efficacyis limitedby cancercell resistance
+mechanisms.NUC-1031,aphosphoramidatemodificationofgemcitabine,isthefirstanti-cancerProTidetoentertheclinicandis
+designedtoovercome thesekeyresistance mechanisms.
+METHODS:Sixty-eight patients withadvancedsolid tumours whohad relapsedafter treatment withstandard therapy were
+recruitedto adose escalation study to determinetherecommended Phase IIdose (RP2D)and assess thesafetyof NUC-1031.
+Pharmacokinetics and anti-tumouractivity wasalso assessed.
+RESULTS:Sixty-eightpatientsreceivedtreatment,50%ofwhomhadpriorexposuretogemcitabine.NUC-1031waswelltolerated
+withthemostcommonGrade3/4adverseeventsofneutropaenia,lymphopaeniaandfatigueoccurringin13patientseach(19%).
+In49response-evaluablepatients,5(10%)achievedapartialresponseand33(67%)hadstabledisease,resultingina78%disease
+controlrate. C levelsoftheactiveintracellularmetabolite,dFdCTP,were217-timesgreaterthanthosereportedforequimolar
+max
+dosesofgemcitabine,withminimaltoxicmetaboliteaccumulation.TheRP2Dwasdeterminedas825mg/m2ondays1,8and15of
+a28-day cycle.
+CONCLUSIONS:NUC-1031 waswell tolerated anddemonstrated clinically significant anti-tumouractivity, evenin patientswith
+priorgemcitabineexposure andin cancers nottraditionally perceived asgemcitabine-responsive.
+British Journalof Cancer(2018) 119:815–822;https://doi.org/10.1038/s41416-018-0244-1
+BACKGROUND Variousstrategiestocounterthesetreatment-limitingpathways
+Nucleosideanalogues,suchasgemcitabine(2′,2′-difluorodeoxycyti- have been investigated, although previous attempts have only
+dine, dFdC), are the backbone of many therapeutic regimens in consideredindividualresistancefactorsratherthanthecombined
+oncology. However, many cancers have innate or acquired effectsofallthree.9–11Toaddressthisclinicalchallenge,NUC-1031
+resistance to nucleoside analogues, markedly limiting their effi- (Acelarin®) was developed as part of a new class of anti-cancer
+cacy.1–5 For gemcitabine, expression of proteins required for drugs,termedProTides,wherebytheinactivenucleosideanalogue
+transport, activation and/or breakdown of the drug has been prodrug, gemcitabine (dFdC), is converted to dFdCMP and
+correlated with treatment resistance and adverse survival out- protectedbytheadditionofspecificcombinationofanaryl,ester
+come.6,7 The transport of gemcitabine into cancer cells is mainly and amino acid grouping. Pre-clinical data show the increased
+mediatedviahumanequilibrativenucleosidetransporter1(hENT1). hydrophobicity of NUC-1031 enables it to circumvent hENT1-
+Once inside the cell, gemcitabine requires phosphorylation to mediatedtransmembranetransportand,onceinsidethecell,the
+difluorodeoxycytidine monophosphate (dFdCMP) by deoxycytidine phosphoramidate protective group is cleaved off by esterases,
+kinase (dCK), which represents the rate-limiting step for further releasingdFdCMPwhichisthenrapidlyconvertedtodFdCDPand
+phosphorylation to the active diphosphate (dFdCDP) and tripho- dFdCTP,bypassingtherate-limitingstepofdCKphosphorylation.
+sphate (dFdCTP) metabolites. Of these, dFdCTP is the more active Furthermore, NUC-1031 avoids CDA-mediated catabolism, thus
+and incorporates into DNA to inhibit its synthesis, whilst dFdCDP preventingdFdU accumulation (Fig. 1).12–14
+inactivates ribonucleotide reductase, depleting the deoxyribonu- The ProTide approach has successfully been applied to the
+cleotidepoolsnecessaryforDNAsynthesis,potentiatingtheeffects development of several approved anti-viral drugs containing
+of dFdCTP.8 Gemcitabine is also rapidly catabolised by cytidine nucleosideanalogues,includingsofosbuvir(Sovaldi®)andtenofo-
+deaminase(CDA)generatingdifluorodeoxyuridine(dFdU)(Fig. 1).2 vir alafenamide fumarate (TAF®), which is a key component of
+1DepartmentofSurgeryandCancer,HammersmithCampus,ImperialCollege,LondonW120HS,UK;2EarlyPhaseClinicalTrialsUnit,DepartmentofOncology,ChurchillHospital,
+Headington,OxfordOX37LE,UK;3NIHR/WellcomeTrustImperialCRF,ImperialCentreforTranslationalandExperimentalMedicine,HammersmithHospital,LondonW120HS,UK;
+4DepartmentofRadiology,ImperialCollegeHealthcareNHSTrust,LondonW120HS,UK;5ClinicalDiscoveryUnit,EarlyClinicalDevelopment,AstraZeneca,Cambridge,UK;
+6ImperialCollegeLondon,LondonW120HS,UKand7CentreforHaemato-Oncology,BartsCancerInstitute,QueenMaryUniversityofLondon,CharterhouseSquare,London
+EC1M6BQ,UK
+Correspondence:SarahP.Blagden(sarah.blagden@oncology.ox.ac.uk)
+Received:14March2018Revised:19July2018Accepted:2August2018
+Publishedonline:12September2018
+©TheAuthor(s)2018 PublishedbySpringerNatureonbehalfofCancerResearchUK
+
+--- Page 2 ---
+Anti-tumouractivityofafirst-in-classagentNUC-1031inpatientswith...
+SPBlagdenetal.
+816
+Gemcitabine
+CDA
+Transporter dCK
+hENT1
+Transporter dependent Breakdown Activation Active anti-cancer metabolites Tumour apoptosis
+NUC-1031
+Deprotection
+Transporter independent Active anti-cancer metabolites Superior tumour apoptosis
+dFdU dFdCMP dFdCDP dFdCTP Phosohoramidate
+Fig.1 NUC-1031andgemcitabinemechanismofaction.Therearethreekeycancerresistancemechanismsassociatedwithapoorsurvival
+prognosiswithgemcitabinetherapy:transport,activationandbreakdown.Thetransportofgemcitabine,aninactiveprodrug,intocancercells
+ismediatedviahENT1.Onceinsidethecell,gemcitabinerequiresphosphorylationtodFdCMPbydCK,whichrepresentstherate-limitingstep
+for further phosphorylation to the active diphosphate (dFdCDP) and triphosphate (dFdCTP) metabolites. Gemcitabine is also rapidly
+catabolisedbyCDAgenerating ametabolite.NUC-1031 wasdesignedtoovercomethekeycancerresistancemechanisms associatedwith
+gemcitabine. NUC-1031 enters the cell independent of the hENT1 transporter and does not require activation by dCK. Similar to the
+phosphorylatedformsofgemcitabine,NUC-1031isnotsubjecttobreakdownbyCDA.NUC-1031isdesignedtogenerateandmaintainhigher
+concentrationsoftheanti-cancermetabolite(dFdCTP)insidethetumourcomparedtogemcitabine
+Genvoya®. However, NUC-1031 (Supplementary Fig. 1) is the first Studydesign
+anti-cancerProTidetoentertheclinic.Thepurposeofthisfirst-in- This was a two-part, open-label, Phase I, dose escalation and
+human study was to assess its safety and anti-tumour activity in expansion study. In Part 1 (dose-escalation), two administration
+patients with advanced solid tumours and define the recom- schedules of NUC-1031 were assessed over a 28-day cycle:
+mended Phase II dose (RP2D). In addition, pharmacokinetic (PK) Schedule A—weekly (days 1, 8 and 15), and Schedule B—twice
+analyseswereconductedtoprovidemechanisticproof-of-concept weekly(days1,5,8,12,15and19).Sixpatientswererecruitedto
+forthis first-in-class compound. ScheduleBCohort3andreceivedNUC-1031at375mg/m2twice
+weekly;however,itbecameapparentthatdrugadministrationon
+ScheduleBwas logistically challenging forboth thepatients and
+PATIENTSAND METHODS the trial site, and further study of Schedule B was discontinued.
+Patienteligibility Thereafter,NUC-1031wasonlyadministeredondays1,8and15
+Patients ≥18 years of age with a diagnosis of cancer refractory every 28 days. Patients received treatment for six cycles unless
+(or not amenable) to standard therapy were eligible for the there was evidence of clinical or radiological progression,
+study. Other inclusion criteria included a life expectancy of at unacceptable toxicity or if they declined further treatment.
+least 12 weeks, Eastern Cooperative Oncology Group (ECOG) PatientscouldreceiveNUC-1031beyondCycle6onacompassio-
+performance status15 of 0–2 and the following haematological natebasis.AssessmentoftoxicitywasusedtoestablishtheRP2D
+and biochemical parameters: adequate bone marrow (leuko- forthePart 2expansion cohort.
+cytes ≥3×109/L, neutrophils ≥1.5×109/L, platelets ≥100× TheprimaryendpointsweresafetyanddeterminationofRP2D.
+109/L, haemoglobin ≥9g/dL), liver function (total bilirubin ≤ Safety was assessed by adverse event profile and changes from
+1.5×upper limit of normal [ULN]), aspartate amino transferase baseline in vital signs, clinical laboratory parameters and electro-
+(AST)/alanineaminotransferase(ALT≤2.5×ULN(or≤5×ULNif cardiogram (ECG). Secondary endpoints included PK and evalua-
+liver metastases) and renal function (serum creatinine ≤1.5× tion of anti-tumour activity. A dose-limiting toxicity (DLT) was
+ULN). defined as one or more events, judged related to NUC-1031,
+All patients provided written informed consent. The study was occurring through to the last scheduled day of Cycle 1. These
+performed in accordance with Good Clinical Practice guidelines included; Grade ≥3 toxicity (except nausea/vomiting/diarrhoea in
+and the principles of the 1964 Declaration of Helsinki and the absence of effective therapy), Grade ≥3 nausea/vomiting/
+subsequentrevisions. diarrhoeathatoccursdespitestandardmedicaltreatment,Grade4
+:,;)(0987654321
+
+--- Page 3 ---
+Anti-tumouractivityofafirst-in-classagentNUC-1031inpatientswith...
+SPBlagdenetal.
+817
+neutropaenia or thrombocytopaenia, febrile neutropaenia, or Dosemodifications anddelays
+inability to begin next dose of treatment within 14 days of Treatmentinterruptionsofupto14dayswerepermittedinorder
+scheduleddosingduetounresolvedtoxicityrelatingtoNUC-1031. for participants to meet the re-treatment criteria before starting
+The study protocol was approved by the Medicines and theirnext cycle.
+Healthcare products Regulatory Agency, the West London
+Research Ethics Committee 12/LO/1100 and local review boards. Pharmacokineticanalysis
+Thestudy was registered onclinicaltrials.gov (NCT01621854). Blood samples were collected for PK analysis during Cycle 1 on
+days1and15pre-doseandatnumeroustimepointsaftertheend
+Patientevaluation ofinfusion(0.217,0.3,0.467,0.633,1,1.5,2,4,6and24h).Blood
+All patients receiving at least one dose of NUC-1031 were (6mL) was collected using heparinised blood collection tubes
+evaluablefor toxicity.Only patientswhohad measurable disease spiked with tetrahydrouridine (25μg/mL) to inhibit CDA activity.
+andhadreceivedatleasttwocyclesoftreatmentwereconsidered Plasma was separated by centrifugation and peripheral blood
+response-evaluable.Patientswhodidnotcompletethefirstcycle mononuclear cells (PBMCs) were separated using Lymphoprep
+of treatment for reasons other than DLTs were not evaluable for density gradient (STEMCELL Technologies UK Ltd). PBMCs were
+the maximum tolerated dose (MTD) and were replaced. Adverse extracted and assayed for dFdCMP, dFdCDP and dFdCTP using a
+event data were collected from the start of study drug previously described liquid chromatography-tandem mass spec-
+administrationuntil 30daysafter thelast dose wasadministered trometry (LC-MS/MS) method.16 Plasma and urine samples were
+and graded using National Cancer Institute (NCI) Common assayed for NUC-1031, dFdC and dFdU. (See Supplementary
+Terminology Criteria for Adverse Events (CTCAE) Version 4.02. Methods fordetailed protocol.)
+Laboratorysafetyassessmentsandvitalsignswereperformedon
+dosingdaysfrom baseline toendof study visit. Statistical analysis
+Tumours were assessed by computed tomography (CT) or Sample size calculations were based on a Fleming design.17 No
+magneticresonanceimaging(MRI)scanafterCycles2,4and6and formal statistical analyses were planned or performed on safety,
+compared with those conducted at study entry using Response PKorefficacydata.
+Evaluation Criteria in Solid Tumours (RECIST) 1.1 criteria. Efficacy
+wasdeterminedinallpatientswithmeasurablediseaseatbaseline
+and who completed at least two cycles of NUC-1031 and had at RESULTS
+leastonefollow-upradiographicassessmenttomeasurechanges Patientcharacteristics
+in tumour size. The best overall response was defined as best A total of 68 patients with advanced solid malignancies were
+response on at least one time point; results were displayed in a enrolledintothestudybetween5October2012and24June2015
+waterfall plot. Progression-free survival (PFS) was measured from (Fig. 2) and were evaluable for safety analysis. Forty-six were
+the first administration of NUC-1031 to disease progression or female and 22 were male, patients had a mean age of 56 years
+death (whichever occurred first). Duration of response was (range20–83years;Table1).Overall,therewere19primarycancer
+calculatedfromdateoffirstresponseuntilRECISTorsymptomatic types,themostfrequentbeingovarian(n=10,15%),pancreas(n
+disease progression. =9,13%),biliary(n=7,10%)andcolorectal(n=7,10%).Patients
+Screened
+n=69
+Enrolled
+n=68
+NUC-1031 NUC-1031 NUC-1031 NUC-1031 NUC-1031 NUC-1031 NUC-1031 NUC-1031 NUC-1031
+1000 mg/m2 500 mg/m2 750 mg/m2 625 mg/m2 675 mg/m2 725 mg/m2 2×375 mg/m2 2×825 mg/m2 900 mg/m2
+n=7 n=4 n=8 n=3 n=3 n=6 n=6 n=16 n=15
+Withdrawals Withdrawals Withdrawals Withdrawals Withdrawals Withdrawals Withdrawals Withdrawals Withdrawals
+2 Investigator/ 1 Progressive disease 2 Progressive disease 1 Progressive disease 1 Progressive disease 3 Investigator/ 3 Progressive disease 7 Progressive disease 8 Progressive disease
+Patient choice 1 Other 1 Other 1 Other 1 Investigator/ Patient choice 1 Investigator/ 5 Investigator/ 3 Investigator/
+2 Other Patient choice 1 Progressive disease Patient choice Patient choice Patient choice
+1 Progressive disease 1 Other 1 Death 1 Death 2 Other 1 Adverse event/
+1 Adverse event/ Intolerance to study
+Intolerance to study drug
+drug 1 Other
+Completed Completed Completed Completed Completed Completed Completed Completed Completed
+n=2 n=2 n=4 n=1 n=0 n=1 n=1 n=1 n=2
+Fig.2 CONSORTflowchart.Sixty-eightpatientswithadvancedsolidmalignancieswereenrolledintothestudyandweresafety-evaluable.In
+ScheduleA,patientsreceiveddosesof500mg/m2,625mg/m2,675mg/m2,725mg/m2,750mg/m2,825mg/m2,900mg/m2and1000mg/m2
+(allgivenonce-weekly).InScheduleB,patientsreceivedadoseof375mg/m2twiceweekly.Themostcommonreasonsforwithdrawalwere
+progressivedisease(25patients)andInvestigator/patientchoice(15patients).Overall,14patientscompletedthestudy(received≥6cycles)
+
+--- Page 4 ---
+Anti-tumouractivityofafirst-in-classagentNUC-1031inpatientswith...
+SPBlagdenetal.
+818
+The MTD for schedule A was defined as 1000mg/m2 following
+Table1. Demographicandclinicalcharacteristicsatbaseline
+DLTs of Grade 4 neutropaenia, thrombocytopaenia and posterior
+reversible encephalopathy syndrome (PRES)in one patient and a
+Characteristic Studypopulation
+(n=68) second patient with two separate DLTs of Grade 3 hepatic
+transaminitis. A DLT of Grade 4 thrombocytopaenia was seen in
+Sex;n onepatientreceiving750mg/m2,andtwoDLTsoftransientGrade
+Female 46 3 hepatic transaminitis were seen in a patient in the 725mg/m2
+Male 22 cohort.ScheduleB(375mg/m2twiceweekly)wasadministeredto
+Age,years;mean[range] 56.3[20–83] six patients, but the visit frequency was considered logistically
+Ethnicity;n(%) challenging for patients and no further doses were explored
+White 49(72.1) within this schedule. The dose of 825mg/m2 (schedule A) was
+selected for the expansion (Part 2) of the study, and 12 patients
+BlackorblackBritish 8(11.8)
+were recruited at this dose, in addition to the four who received
+AsianorAsianBritish 7(10.3)
+thisdose in Part1.
+Other 3(4.4)
+The dose intensity (DI; the proportion of the scheduled NUC-
+Mixed 1(1.5)
+1031dosethatwassuccessfullyadministeredtothepatientwithin
+Bodymassindex,kg/m2;mean(standard 25.4(5.13) thefirst8weeksofstudy)wasmeasuredforeachcohortandthe
+deviation)
+resultsareshowninSupplementaryTable1.Indosecohortsupto
+ECOGperformancescore;n(%) and including 825mg/m2 it was possible, on average, to
+0 26(38.2) administer>70%ofthecalculatedtotaldosebutthepercentage
+1 38(55.9) fell as the dose increased above 825mg/m2. At 825mg/m2, 58%
+2 4(5.9) ofpatientsachieved100%DIand75%ofpatientsachieved≥75%
+Previouschemotherapyregimensa;mean[range]n 3.0[1–10]68 DI.WhentheactualDIwasatorclosetothetargetedDItherewas
+Previoustreatmentwithgemcitabine;n(%) 34(50) a high proportion of disease control as shown in Supplementary
+Primarycancer;n(%) Table2.
+Ovarian/fallopiantube 13(19)
+Safetyand tolerability
+Pancreatic 9(13)
+NUC-1031 was administered as a short (10–15min) intravenous
+Cholangiocarcinoma 7(10)
+infusion via central venous access devices. Forty-four of the 68
+Colorectal 7(10)
+patients experienced 94 treatment-emergent serious adverse
+Non-smallcelllung 6(9) events (SAEs; Table 2), 27 of which were Grade 3/4 and judged
+Breast 4(6) tohaveadefinite,probableorpossiblerelationshiptoNUC-1031.
+Endometrial 3(4) Six (22%) of the Grade 3/4 related SAEs to be reported by more
+Mesothelioma 3(4) thanonepatientwereincreasedalanineaminotransferase(n=4),
+Oesophageal 3(4) pyrexia (n=3), thrombocytopaenia (n=3), hypoxia (n=2), lung
+Unknownprimary 3(4) infection (n=2) and neutropaenia (n=2). Fatigue and transami-
+nitis(56patientseach,82.4%)werethemostfrequentlyreported
+Cervical 2(3)
+adverse events, irrespective of grade or relationship. Neutropae-
+Gastric 1(2)
+nia,lymphopaeniaandfatiguewerethemostfrequentlyreported
+Kidney 1(2)
+Grade 3/4 adverse events (13 patients each, 19.1%) (Supplemen-
+Osteosarcoma 1(2)
+taryTable3).
+Smallcelllung 1(2) Six patients died duringthe study, events that were judged to
+Anal 1(2) be unrelated or unlikely to be related to NUC-1031. Of note, 9
+Thymus 1(2) (13.3%) patients had pulmonary embolism, 5 of which were
+Adrenal 1(2) incidental radiological findings. Of the sixty-eight patients, 17
+Mixedtrophoblastictumour(PSTT/ETT) 1(2) (25%) received a complete six-cycle course of study treatment.
+Stageatinitialdiagnosis;n(%) Fourteen patients opted to continue on NUC-1031 beyond Cycle
+6,and received upto13 additionaltreatment cycles (Fig. 2).
+StageI 2(3)
+StageII 7(10)
+Pharmacokinetics
+StageIII 8(12)
+Sixty-sixpatientshadevaluablePKsamples.AsthiswasaPhaseI
+StageIV 29(43)
+studywithascendingdoseschedulesandvariabilityintheplasma
+Unknown 22(32) concentration-timeprofilestherewassomeimprecisioninAUC
+0-inf
+ECOG Eastern Cooperative Oncology Group, PSTT placental site tropho- and t 1/2 estimates. The most robust comparisons can be made
+blastictumour,ETTepithelioidtrophoblastictumour using AUC 0-t and C max . Nevertheless, after administration, NUC-
+aIncludes cytotoxic treatments only; does not include radiotherapy, 1031wasdetectedintheplasmaupto24hfromEndOfInfusion
+hormonetherapiesortargetedtherapies (EOI)withanestimatedt of8.3h,whichisconsiderablylonger
+1/2
+thanthereportedt of gemcitabine(2.3–80min).18–21
+1/2
+Amongtheanalytesevaluated,medianplasmaAUC andC
+0-t max
+hadanaverageofthreepreviouschemotherapyregimens(range estimatesonday1werehighestforNUC-1031(269µM/hand710
+1–8); 34(50%)had receivedprior gemcitabinechemotherapy. µM, respectively), intermediate for dFdU (76.0µM/h and 5.11µM,
+respectively) and lowest for dFdC (2.92µM/h and 1.82µM,
+Dosedetermination andMTD respectively).
+The dose levels studied, the number of patients treated and AEs Ofnote,therewerenotrendsforincreasedexposuresonCycle
+aresummarisedinTable2.DuringscheduleA,thefollowingdoses 1, day 15 indicating that systematic accumulation of NUC-1031,
+ofNUC-1031wereadministered:500mg/m2,625mg/m2,675mg/ dFdCordFdUconcentrationsdoesnotoccurwitheitheronce-or
+m2,725mg/m2,750mg/m2,825mg/m2,900mg/m2and1000mg/ twice-weeklydosingofNUC-1031.PlasmaPKdataaresummarised
+m2(allgivenonce-weekly,for3weeksoutofevery4-weekcycle). inSupplementaryTable4.Doseproportionalitywasonlyobserved
+
+--- Page 5 ---
+Table2. Summaryofadverseeventgradesandtypes
+NUC-1031dose(mg/m2)
+nindosecohort(N=68) 500(4) 625(3) 675(3) 725(6) 2×375a(6) 750(8) 825(16) 900(15) 1000(7)
+n(%) n(%) n(%) n(%) n(%) n(%) n(%) n(%) n(%)
+SAEs 2(50) 2(66.7) 1(33.3) 6(100) 4(67) 6(75) 8(50) 10(66.6) 5(71.4)
+AEs(allGrades) 4(100) 3(100) 3(100) 6(100) 6(100) 8(100) 16(100) 15(100) 7(100)
+AEs(Grade3/4) 3(75) 2(66.7) 2(66.7) 6(100) 6(100) 8(100) 14(87.5) 12(80.0) 7(100)
+WithdrawnduetoAE 1(25) 1(33.3) 0 1(16.7) 1(16.7) 1(12.5) 6(37.5) 3(20.0) 1(14.3)
+ChemistryAEbGrade3 1(25) 2(66.7) 1(33.3) 3(50) 3(50) 5(62.5) 7(43.8) 8(53.3) 4(57.1)
+ChemistryAEbGrade4 0 1(33.3) 0 0 0 0 0 0 0
+HaematologicalAEcGrade3 1(25) 1(33.3) 0 4(66.7) 4(66.7) 6(75) 5(31.3) 8(53.3) 3(42.9)
+HaematologicalAEcGrade4 0 0 0 0 2(33.3) 2(25) 1(6.3) 0 1(14.3)
+a375mg/m2wasadministratedtwice-weeklyin6patients(ScheduleB)
+bChemistry AEs included: ALT increased, hypoalbuminaemia, blood bilirubin increased, hypokalaemia, hyponatraemia, hypophosphataemia, blood urea
+increased,hypomagnesaemia,bloodcreatinineincreased,hyperglycaemia,bloodalbumindecreased,ASTincreased,bloodalkalinephosphataseincreased,
+bloodglucoseincreased,bloodphosphorousdecreasedhypocalcaemia,hyperkalaemia
+cHaematologicalAEsincluded:neutropaenia,thrombocytopaenia,whitebloodcellcountdecreased,plateletcountdecreased,neutrophilcountdecreased,
+anaemia,lymphocytecountdecreased,leukopaenia
+Day 1 Day 15
+10
+1
+0.1
+0.01
+0.001
+10
+1
+0.1
+forNUC-1031onCycle1,day1.Thelackofdoseproportionalityis Efficacy
+not unexpected given that the study was not designed to show Of the 68 patients participating in the study, 19 (8 males:11
+dose proportionality and most of the dose levels contained less females; average age 56 years; range 35–73) were not evaluable
+than10patients. forefficacyofNUC-1031;twopatientsdiedofcausesunrelatedto
+Intracellular concentrations of the active anti-cancer moiety study drug, four patients developed progressive disease before
+dFdCTPremainedhighthroughoutthe24-hPKsamplingwindow completing two cycles, and the remainder withdrew from the
+(Fig. 3). Mean intracellular dFdCTP AUC and C estimates in studyforavarietyofreasons(seeFig.2).Theaveragenumberof
+0-t max
+patientsPBMCsonday1normalisedtoadoseof500mg/m2were treatment cycles with NUC-1031 in these non-evaluable patients
+151,413µM/h and 26,910µM, respectively (Supplementary was0.8cycles (range0.3–1.6 cycles).
+Table5). The49patientswhoreceived≥2cyclesofNUC-1031andhada
+Analysis of urine samples from 46 patients demonstrated that scan for assessment of efficacy received an average of 4.8 cycles
+21.7 and 27.3% of the NUC-1031 was excreted via the urine as (range 2–19 cycles) with a median PFS of 4.0 months (range
+dFdUoverthe24hafterthedoseondays1and15,respectively. 1–25 months). Eleven patients had progressive disease and the
+Overall,lessthan1%ofthedosewasexcretedaseitherNUC-1031 best overall responses in the evaluable patients were 5 partial
+or dFdC, suggesting that the ProTide is stable during plasma responses(PRs)(10%)and33stablediseases(SDs)(67%;Table3).
+transport tothetumour cells. Of the 33 SDs, 12(24%) were of at least 6 months duration. Five
+)gm/gµ(
+noitartnecnoc
+ralullecartni
+naideM
+825
+mg/^m
+900
+mg/^m
+2
+2
+Anti-tumouractivityofafirst-in-classagentNUC-1031inpatientswith...
+SPBlagdenetal.
+819
+0.01
+0.001
+0 6 12 18 24 0 6 12 18 24
+Time since dose (h) Analyte dFdCDP NUC-1031
+dFdCTP dFdc
+dFdU dFdCMP
+Fig.3 Medianintracellularanalyteconcentrations.Medianintracellularanalyteconcentrationsatscheduledsamplingdayswerestratifiedby
+doseanddayandplottedonasemi-logscale(825and900mg/m2only).Intracellularconcentrationswereallnormalisedtotissueprotein
+concentrations.Intracellularconcentrationsoftheactiveanti-cancermoietydFdCTPremainedhighthroughoutthe24-hPKsamplingwindow
+
+--- Page 6 ---
+Table3. Anti-tumouractivityofNUC-1031
+nindosecohort NUC-1031dosemg/m2
+500 625 675 725 2×375a 750 825 900 1000
+(2) (2) (1) (5) (5) (7) (12) (11) (4)
+Completeresponse-n 0 0 0 0 0 0 0 0 0
+Partialresponse(PR)-n(95%CI) 0 1(9.5,90.5) 0 0 0 3(15.8,75.0) 0 0 1(4.6,69.9)
+ConfirmedPR-n(%) NA 0 NA NA NA 2(28.6) NA NA NA
+Stabledisease-n 2 1 0 5 5 2 9 6 3
+(95%CI) (34.2,100.0) (9.5,90.5) (56.6,100.0) (37.6,96.4) (8.2,64.1) (46.8,91.1) (28.0,78.) (30.1,95.4)
+Progressivedisease-n 0 0 1 0 0 2 3 5 0
+Diseasecontrolrate-n(%) 2(100) 2(100) 0 5(100) 5(100) 5(71.4) 9(75) 6(54.5) 4(100)
+Progression-freesurvival(months)
+Censored,n 2 2 0 2 2 3 5 2 2
+Events,n 0 0 1 3 3 4 7 9 2
+Mean(SD) 9.2(3.09) 5.2(1.12) 1.8 4.0(2.32) 3.2(2.73) 7.7(8.36) 3.6(1.83) 3.6(1.77) 5.5(2.72)
+Median 9.2 5.2 1.8 3.5 3.1 5.3 3.3 3.7 5.2
+Range 7.0–11.3 4.4–6.0 NA 1.6–7.9 0.5–7.5 1.5–25.0 1.6–8.3 1.5–7.1 2.8–8.8
+CI,confidenceinterval;SD,standarddeviation.
+a375mg/m2wasadministratedtwice-weeklyin6patients(ScheduleB)
+60
+50
+40
+30
+20
+10 * *
+*
+0
+*
+–10 *
+–20
+*
+*
+(10%) patients with primary cancers of the cervix, lung, fallopian with advanced solid tumours, NUC-1031 achieved good disease
+tube, pancreas and unknown primary achieved PRs (Table 3; control with an acceptable safety profile. There were no
+Fig. 4). Two of these five patients had subsequent scans unexpected adverse events and the most common adverse
+confirming their partial response. Of 16 patients who had reactions were similar to those observed with gemcitabine22
+previously progressed on or following a gemcitabine-containing and included reversible myelosuppression, gastrointestinal
+regimen,one patient achieved aPR and ninepatients had SD. disturbances, fatigue and elevations in liver function enzymes.
+At or below the RP2D of 825mg/m2, NUC-1031 could be
+administered at high dose intensity, which corresponded with a
+DISCUSSION more favourable clinical outcome. Ten percent of evaluable
+We report results from the first-in-human study of NUC-1031 patients achieved responses of PR, and SD was observed in a
+belongingtoanewclassofanti-canceragentscalledProTidesthat further 67%, resulting in an overall Disease Control Rate of 78%.
+are designed to improve the efficacy and safety profile of Responses were durable, the median PFS was 4 months (cen-
+conventional nucleoside analogues. NUC-1031, a chemical mod- sored). Notably, responses were observed amongst patients
+ification of gemcitabine, is the first anti-cancer ProTide to enter whose tumours had progressed during or following prior
+the clinic. In this Phase I setting of heavily pre-treated patients gemcitabine therapy. This is in line with pre-clinical data that
+tnemerusaem
+ruomut
+ni
+egnahc
+%
+denifed-TSICER
+–30
+–40
+–50
+yrailiB citsalbohporT yramirp
+nwonknU
+lanA yramirp
+nwonknU
+tsaerB tsaerB latceroloC laegahpseO citaercnaP nairavO sugahpseO yrailiB lacivreC latceroloC gnuL amoilehtoseM laegahpseO gnuL gnuL nairavO
+yrailiB nairavO latceroloC gnuL tsaerB latceroloC yrailiB
+lairtemodnE amocrasoetsO
+nairavO laneR yrailiB yrailiB nairavO nairavO lanerdA latceroloC nairavO nairavO
+amoilehtoseM
+nairavO eniretU gnuL citaercnaP nairavO latceroloC lacivreC
+yramirp
+nwonknU
+Anti-tumouractivityofafirst-in-classagentNUC-1031inpatientswith...
+SPBlagdenetal.
+820
+Evaluable patients (n=49)
+–60 *New lesion
+Fig. 4 Waterfall plot of best response to therapy. Forty-nine patients received ≥2 cycles of NUC-1031 and had a scan for assessment of
+efficacy. Clinical activity was achieved across 19 primary cancer types, the most frequent being ovarian, pancreatic, biliary and colorectal.
+ElevenpatientshadprogressivediseaseandthebestoverallresponseswerefivePRs(10%)and33SDs(67%).Ofthe33SDs,12(24%)wereof
+atleast6monthsduration
+
+--- Page 7 ---
+Anti-tumouractivityofafirst-in-classagentNUC-1031inpatientswith...
+SPBlagdenetal.
+821
+demonstrated NUC-1031 has activity in the context of gemcita- enormousscientificcontributiontothisfield,butwhosadlydiedin2016.Theauthors
+bineresistance. alsothankDrSimonJoelforhisadviceinplanningthePKstudyandTimBellwood
+NUC-1031hasamorefavourablePKprofilethangemcitabine. fromIncaGraphicsforhishelppreparingfiguresforthismanuscript.
+PK data confirmed higher intracellular concentrations of the
+active anti-cancer metabolite dFdCTP (Supplementary Table 5),
+with 217- and 139-fold-higher respective C and AUC , AUTHORCONTRIBUTIONS
+max 0-t
+than have been reported with gemcitabine at equimolar Conceptionanddesign:S.P.B.,A.R.,H.G.,H.W.,N.H.,E.G.Acquisitionofdata:S.P.B.,I.R.,
+doses.18–21,23,24Whilsttheseresultscannotbedirectlytranslated P.S.,D’.O.S,M.P.,L.S.,A.S.,N.B.,A.R.,M.E.-B.Analysisandinterpretationofdata:S.P.B.,
+A.S.,E.G.Writing,reviewand/orrevisionofthemanuscript:S.P.B.,I.R.,P.S.,D’.O.S,M.P.,
+from PBMCs to tumour cells they do suggest that, following
+L.S.,A.S.,N.B.,H.G.,M.E.-B.,H.W.,R.L.,N.H.,E.G.
+NUC-1031administration,tumourcellsareexposedtoconsider-
+ably higher levels of the active metabolite dFdCTP than have
+been observed following gemcitabine. Furthermore, it was
+ADDITIONAL INFORMATION
+notedthatNUC-1031administrationresultedinprolongedhigh
+SupplementaryInformationisavailableforthispaperathttps://doi.org/10.1038/
+intracellular concentrations of dFdCTP throughout the subse-
+s41416-018-0244-1.
+quent24-hperiodthanareobservedattheC 2-htimepoint
+max
+after gemcitabine administration. The estimated NUC-1031 Competinginterests:Forthedurationofthisstudy,E.G.wasemployedbyQueen
+plasma t of 8.3h compared favourably with the (shorter) Mary’s University, London, and received research funding from NuCana plc to
+1/2
+reported gemcitabine plasma t of 2.3–80min and confirms conductthepharmacokineticassessmentsdescribedinthismanuscript.Following
+1/2
+the insensitivity of NUC-1031 to CDA-mediated plasma deami- thisstudy,I.R.receivedresearchfundingfromNuCanaplc.Theotherauthorsdeclare
+nation.18–21 The longer half-life of NUC-1031 therefore could nocompetinginterests.
+enable tumour cells to receive a more prolonged exposure to
+dFdCTP which may enhance its activity, paralleling reports that Consentforpublication:Thismanuscriptdoesnotcontainsanyindividualpatient’s
+the anti-tumour activity of gemcitabine is improved using
+dataoridentifiableinformation
+longer infusion times (up to 24h).25 Furthermore, following
+exposure to NUC-1031, there were considerably lower plasma Ethicsapprovalandconsenttoparticipate:Priortoparticipationinthestudy,all
+and intracellular levels of the metabolite dFdU than have been patients signed an informed consent document approved by the West London
+Research Ethics Committee (reference 12/LO/1100). The study was conducted in
+reported with gemcitabine, which may explain the acceptable
+toxicity profile observed with NUC-1031. accordancewithGoodClinicalPracticeandtheDeclarationofHelsinki.
+Maintaining the dose intensity is an important factor in
+achievingoptimumbenefitforanyanti-canceragent.26,27Patients Funding: The study was sponsored by Imperial College London and funded by
+who received NUC-1031 at a dose at or below 825mg/m2 were NuCanaplc.
+generally able to maintain treatment intensity (i.e. receive
+subsequent infusions when planned); doses of 900mg/m2 and Availability of data and materials: The datasets used and analysed during the
+currentstudyareavailablefromthecorrespondingauthoronreasonablerequest.
+above required more substantial dose optimisation and schedul-
+ing due to cumulative fatigue and myelosuppression. Notably,
+four of the five partial responses occurred in patients who REFERENCES
+receivedadosesatorbelow825mg/m2.Alimitationofthestudy
+1. Sebastiani, V. et al. Immunohistochemical and genetic evaluation of deox-
+was the inability to fully assess PFS because the initial study
+ycytidinekinaseinpancreaticcancer:relationshiptomolecularmechanismsof
+design did not include any post-treatment follow-up and was gemcitabineresistanceandsurvival.Clin.CancerRes.12,2492–2497(2006).
+censored at 6 months. Thus, the PFS data reported here might 2. Mini,E.,Nobili,S.,Caciagli,B.,Landini,I.&Mazzei,T.Cellularpharmacologyof
+underestimate survival. gemcitabine.Ann.Oncol.Suppl5,v7–v12(2006).
+In conclusion, NUC-1031 is the first of a group of protected 3. Conroy,T.etal.FOLFIRINOXversusgemcitabineformetastaticpancreaticcancer.
+nucleotide analogues designed to counter the key cancer N.Engl.J.Med.364,1817–1825(2011).
+resistance mechanisms associated with gemcitabine therapy. 4. Kim,M.P.&Gallick,G.E.Gemcitabineresistanceinpancreaticcancer:pickingthe
+keyplayers.Clin.CancerRes.14,1284–1285(2008).
+NUC-1031achievedclinicalactivityacrossmultiple tumourtypes,
+5. deSousaCavalcante,L.&Monteiro,G.Gemcitabine:metabolismandmolecular
+even in cancers that are not traditionally perceived as
+mechanismsofaction,sensitivityandchemoresistanceinpancreaticcancer.Eur.
+gemcitabine-responsive. This, along with observed activity in J.Pharmacol.741,8–16(2014).
+patientswhowerepreviouslyexposedtogemcitabine,indicatesa 6. Spratlin,J.etal.Theabsenceofhumanequilibrativenucleosidetransporter1is
+broad spectrum of activity for NUC-1031 which is likely to be associatedwithreducedsurvivalinpatientswithgemcitabine-treatedpancreas
+attributabletoitsabilitytobypasscellularresistancemechanisms. adenocarcinoma.Clin.CancerRes.10,6956–6961(2004).
+NUC-1031waswelltoleratedwithnounexpectedadverseevents 7. Bergman,A.M.,Pinedo,H.M.&Peters,G.J.Determinantsofresistanceto2’,2’-
+and an acceptable safety profile that allowed prolonged admin- difluorodeoxycytidine(gemcitabine).DrugResist.Updat.5,19–33(2002).
+istration for many months (up to 20 months in one patient). 8. Pereira, S., Fernandes, P. A. & Ramos, M. J. Mechanism for ribonucleotide
+Althoughthedoseof825mg/m2once-weeklyfor3weeksina4- reductaseinactivationbytheanticancerdruggemcitabine.J.Comput.Chem.25,
+1286–1294(2004).
+weeklycyclewasselectedforfurtherevaluationasmonotherapy,
+9. Poplin,E.etal.Randomized,multicenter,phaseIIstudyofCO-101versusgem-
+it was noted that doses of 500mg/m2 and higher also showed
+citabineinpatientswithmetastaticpancreaticductaladenocarcinoma:including
+evidence of clinical activity and warrant further study. Clinical aprospectiveevaluationoftheroleofhENT1ingemcitabineorCO-101sensi-
+studies of NUC-1031, either as monotherapy or in combination tivity.J.Clin.Oncol.31,4453–4461(2013).
+withotheragents,arecurrentlyongoinginpatientswithovarian, 10. Faivre,S.J.etal.PhaseIdoseescalationandpharmacokineticevaluationoftwo
+biliaryand pancreaticcancers. differentschedulesofLY2334737,anoralgemcitabineprodrug,inpatientswith
+advancedsolidtumours.Invest.NewDrugs33,1206–1216(2015).
+11. Venugopal,B.etal.Afirst-in-humanphaseIandpharmacokineticstudyofCP-
+4126(CO-101),anucleosideanalogue,inpatientswithadvancedsolidtumours.
+ACKNOWLEDGEMENTS CancerChemother.Pharmacol.76,785–792(2015).
+ImperialCollegeLondonisanExperimentalCancerResearchCentre,CancerResearch 12. McGuigan, C., Shackleton, J. M., Tollerfield, S. M. & Riley, P. A. Synthesis and
+UK Centre and NIHR Biomedical Research Centre. The authors wish to thank the evaluationofsomenovelphosphateandphosphinatederivativesofaraA.Stu-
+patientsofthisstudyandtheirfamiliesanddedicatethismanuscripttoProfessor diesonthemechanismofactionofphosphatetriesters.NucleicAcidsRes.17,
+Chris McGuigan, who invented the ProTide chemistry approach and made an 10171–10177(1989).
+
+--- Page 8 ---
+Anti-tumouractivityofafirst-in-classagentNUC-1031inpatientswith...
+SPBlagdenetal.
+822
+13. Saif,M.W.,Lee,Y.&Kim,R.Harnessinggemcitabinemetabolism:asteptowards 24. Rizzuto,I.,Ghazaly,E.&Peters,G.J.Phamracologicalfactorsaffectingaccumu-
+personalizedmedicineforpancreaticcancer.Ther.Adv.Med.Oncol.4,341–346 lationofgemcitabine’sactivemetabolite,gemcitabinetriphosphate.Pharmaco-
+(2012). genomics18,911–925(2017).
+14. Slusarczyk,M.H.etal.ApplicationofProTidetechnologytogemcitabine:asuc- 25. Veltkamp, S. A., Beijinen, J. H. & Schellens, J. H. Prolonged versus standard
+cessfulapproachtoovercomethekeycancerresistancemechanismsleadstoanew gemcitabineinfusion:translationofmolecularpharmacologytonewtreatment
+agent(NUC-1031)inclinicaldevelopment.J.Med.Chem.57,1531–1542(2014). strategy.Oncologist13,261–276(2008).
+15. Oken,M.etal.ToxicityandresponsecriteriaoftheEasternCooperativeOncology 26. Hryniuk,W.,Frei,E.&Wright,F.A.Asinglescaleforcomparingdose-intensityof
+Group.Am.J.Clin.Oncol.5,649–655(1982). allchemotherapyregimensinbreastcancer:summationdose-intensity.J.Clin.
+16. Veltkamp,S.A.etal.Quantitativeanalysisofgemcitabinetriphosphateinhuman Oncol.16,3137–3147(1998).
+peripheralbloodmononuclearcellsusingweakanion-exchangeliquidchromato- 27. Lyman,G.H.,Dale,D.C.&Crawford,J.Incidenceandpredictorsoflowdose-
+graphycouplewithtandemmassspectrometry.J.MassSpec.41,1633–1642(2006). intensityinadjuvantbreastcancerchemotherapy:anationwidestudyofcom-
+17. Fleming TR. One sample multipletesting procedurefor phase IIclinical trials. munitypractices.J.Clin.Oncol.21,4524–4531(2003).
+Biometrics.38,143–151(1982)
+18. Abbruzzese,J.L.etal.AphaseIclinical,plasma,andcellularpharmacologystudy
+ofgemcitabine.J.Clin.Oncol.9,491–498(1991). Open Access This article is licensed under a Creative Commons
+19. Grunewald, R. et al. Gemcitabine in leukemia: a phase I clinical, plasma, and Attribution 4.0 International License, which permits use, sharing,
+cellularpharmacologystudy.J.Clin.Oncol.10,406–413(1992). adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+20. Cattel, L. et al. Pharmacokinetic evaluation of gemcitabine and 2’,2’-difluor- appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+odeoxycytidine-5’-triphosphateafterprolongedinfusioninpatientsaffectedby Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+differentsolidtumors.Ann.Oncol.17(Suppl5),v142–v147(2006). materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+21. Peters,G.J.etal.ClinicalphaseIandpharmacologystudyofgemcitabine(2’,2’- indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+difluorodeoxycytidine)administeredinatwo-weeklyschedule.J.Chemother.19, article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+212–221(2007). regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+22. Eli Lilley and Company. Prescribing Information. 2014. http://pi.lilly.com/us/ fromthecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.
+gemzar.pdf.Accessed:09March2018. org/licenses/by/4.0/.
+23. Grunewald, R. et al. Pharmacologically directed design of the dose rate and
+scheduleof2’,2’-difluorodeoxycytidine(Gemcitabine)administrationinleukemia.
+CancerRes.50,6823–6826(1990). ©TheAuthor(s)2018

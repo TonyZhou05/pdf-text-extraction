@@ -7,7 +7,13 @@ pred_file = "results.csv"  # Model predictions
 
 # Set columns (order does not matter, as long as the contents are consistent)
 columns = [
-    "PMID", "DLT", "Grade", "At_Level", "Observed_Frequency", "Total", "combined_dose_info"
+    "PMID",
+    "DLT",
+    "Grade",
+    "At_Level",
+    "Observed_Frequency",
+    "Total",
+    "combined_dose_info",
 ]
 
 # Read data (note the delimiter, assuming tab-delimited here)
@@ -15,23 +21,33 @@ df_gold = pd.read_csv(gold_file, names=columns)[1:]
 df_pred = pd.read_csv(pred_file, names=columns)[1:]
 
 PMID_set = set(df_pred["PMID"])
-df_gold = df_gold[df_gold['PMID'].isin(PMID_set)]
+df_gold = df_gold[df_gold["PMID"].isin(PMID_set)]
 
 # You can decide whether to use all fields or only partial fields for evaluation:
 # match_fields = ["PMID", "DLT", "Grade", "At_Level", "combined_dose_info"]
-match_fields = ["PMID", "DLT", "Grade", "At_Level", "Observed_Frequency", "Total","combined_dose_info"] 
+match_fields = [
+    "PMID",
+    "DLT",
+    "Grade",
+    "At_Level",
+    "Observed_Frequency",
+    "Total",
+    "combined_dose_info",
+]
 
 # Define fields that should be converted to integers
 # int_fields = ["Grade", "At_Level", "Observed_Frequency", "Total"]
 int_fields = []
 
+
 def extract_number(value):
     """Try to extract numbers from a string"""
-    numbers = re.findall(r'\d+', value)
+    numbers = re.findall(r"\d+", value)
     if numbers:
         return int(numbers[0])
     else:
         return ""
+
 
 # Preprocessing function
 def preprocess_row(row):
@@ -49,6 +65,7 @@ def preprocess_row(row):
         processed.append(value)
     return tuple(processed)
 
+
 # Generate sets
 gold_set = set(preprocess_row(row) for _, row in df_gold.iterrows())
 pred_set = set(preprocess_row(row) for _, row in df_pred.iterrows())
@@ -58,16 +75,16 @@ for temp in PMID_set:
     print("     gold_set:")
     for gold in gold_set:
         if temp in gold:
-            print("     ",gold)
+            print("     ", gold)
     print("     pred_set:")
     for pred in pred_set:
         if temp in pred:
-            print("     ",pred)
+            print("     ", pred)
 
 # Compute evaluation metrics
-tp = len(gold_set & pred_set)     # Correct predictions
-fp = len(pred_set - gold_set)     # Over-predicted
-fn = len(gold_set - pred_set)     # Missed predictions
+tp = len(gold_set & pred_set)  # Correct predictions
+fp = len(pred_set - gold_set)  # Over-predicted
+fn = len(gold_set - pred_set)  # Missed predictions
 
 # Precision, Recall, F1
 precision = tp / len(pred_set) if pred_set else 0

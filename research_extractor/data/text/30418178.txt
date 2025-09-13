@@ -1,0 +1,677 @@
+Source: 30418178.pdf
+Extracted on: Sat Sep 13 00:00:36 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Published in final edited form as:
+Am J Clin Oncol. 2019 February ; 42(2): 184–189. doi:10.1097/COC.0000000000000492.
+A phase Ib study of the FGFR/VEGFR inhibitor dovitinib with
+gemcitabine and capecitabine in advanced solid tumor and
+pancreatic cancer patients
+Wen Wee Ma, MBBS1, Hao Xie, MD, PhD1, Gerald Fetterly, PhD2, Laura Pitzonka, PhD2, Amy
+Whitworth3, Charles LeVea, MD, PhD4, John Wilton, PhD5, Krystin Mantione5, Sarah Schihl,
+PhD5, Grace K Dy, MD3, Patrick Boland, MD3, Renuka Iyer, MD3, Wei Tan, MS6, William
+Brady, PhD6, Robert M Straubinger, PhD7, and Alex A Adjei, MD, PhD1
+1Department of Oncology, Mayo Clinic, Rochester, MN
+2Athenex, Inc., Buffalo, NY
+3Department of Medicine, Roswell Park Comprehensive Cancer Center, Buffalo, NY
+4Department of Pathology, Roswell Park Comprehensive Cancer Center, Buffalo, NY
+5Department of Pharmacology and Therapeutics; Bioanalytics, Metabolomics and
+Pharmacokinetics (BMPK) Shared Resource, Roswell Park Comprehensive Cancer Center,
+Buffalo, NY
+6Department of Biostatistics, Roswell Park Comprehensive Cancer Center, Buffalo, NY
+7Department of Pharmaceutical Sciences, School of Pharmacy and Pharmaceutical Sciences,
+State University of New York at Buffalo, Buffalo, NY
+Abstract
+Objectives—Preclinical studies demonstrated antitumor activity of dovitinib in pancreatic cancer
+models. This phase Ib study aimed to determine the maximum tolerated dose of dovitinib in
+combination with gemcitabine and capecitabine and to characterize the safety and
+pharmacokinetic profile in patients with advanced pancreatic and biliary tract cancers (aPB) and
+solid malignancies.
+Methods—Patients received gemcitabine 1000 mg/m2 intravenously on days 1 and 8,
+capecitabine 1300 mg/m2 oral daily from day 1 to 14, and dovitinib oral daily five days on and two
+days off, every 21-day cycle. The standard 3+3 dose escalation design was utilized and the study
+expanded to treat an additional 20 aPB patients at maximum tolerated dose.
+Results—A total of 29 patients were enrolled. One patient experienced dose limiting grade 3
+colitis. Two patients developed clinically significant neuropathy after the first cycle requiring dose
+reduction. The maximum tolerated dose was not reached and dovitinib 300 mg was declared the
+recommended dose for expansion. The most frequent grade 2 or worse adverse events were fatigue
+(45%), neutropenia (41%), thrombocytopenia (34%), anemia (24%), nausea (24%), and palmer-
+Corresponding Author:Wen Wee Ma, MBBS, Department of Oncology, Mayo Clinic, 200 First Street SW, Rochester SW, MN
+55905, Phone No.: 507-293-0462, Fax No.: 507-284-1803, ma.wen@mayo.edu.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Ma et al. Page 2
+plantar erythrodysaesthesia syndrome (21%). Partial responses were observed in 5 patients.
+Pharmacokinetic studies showed no drug-drug interaction between dovitinib, capecitabine and
+gemcitabine. Fibroblast growth factor 23 plasma level increased in 4 of 5 patients during the first
+cycle of treatment.
+Conclusions—Dovitinib 300 mg daily is the recommended dose when combined with
+gemcitabine and capecitabine, achieving clinically relevant plasma concentrations. The study
+combination demonstrated encouraging efficacy signals in advanced pancreatic cancer.
+Keywords
+dovitinib; pancreatic adenocarcinoma; FGFR/VEGFR inhibitor
+INTRODUCTION
+Pancreatic adenocarcinoma is the fourth leading cause of cancer death in the United States.1
+The 5-year overall survival (OS) remains low for patients with advanced pancreatic cancer
+despite significant advances in chemotherapy strategies. Combination chemotherapy
+regimens such as gemcitabine plus nab-paclitaxel2 and FOLFIRINOX3 demonstrated
+moderate OS benefit compared to gemcitabine alone in the setting of locally advanced or
+metastatic pancreatic adenocarcinoma. Targeted therapy has also been explored. Large
+randomized trial of gemcitabine plus erlotinib or placebo showed statistically significant OS
+benefit, but insignificant clinical benefit.4
+Fibroblast growth factor (FGF) signaling had been implicated in the oncogenesis of many
+cancer types including pancreatic cancer in the form of activating mutation, gene fusions,
+and gene amplification, which lead to tumor migration, proliferation, and survival.5
+Activation of FGF signaling has also been implicated in the resistance to VEGF pathway
+inhibition.6 Dovitinib is a highly potent multi-kinase inhibitor of fibroblast growth factor
+receptors (FGFRs) with IC <10 nmol/L, vascular endothelial growth factor receptor 2
+50
+(VEGFR2), and platelet-derived growth factor receptor β (PDGFRβ).7 Preclinical studies
+showed that inhibiting FGFR signaling using anti-FGFR substrate 2 shRNA achieved pro-
+apoptotic effect in pancreatic cancer, which could also be achieved pharmacologically using
+dovitinib in both cell line and primary patient tumor models.8 In addition, dovitinib as a
+single agent or in combination with chemotherapy has demonstrated tolerability and activity
+in patients with various types of cancers such as advanced renal cell carcinoma,9 urothelial
+carcinoma,10 hepatocellular carcinoma,11 and melanoma.12 To our knowledge, the
+feasibility of combining dovitinib with cytotoxic anti-cancer agents has not been evaluated
+prior to this study.
+The primary objectives of this phase Ib trial were to determine the maximum tolerated dose
+(MTD) and recommended phase II dose (RP2D) of dovitinib when administered
+concurrently with gemcitabine and capecitabine in patients with advanced pancreatico-
+biliary cancers and solid malignancies, and also to characterize the safety profile of this
+regimen. The secondary objectives were to characterize the pharmacokinetic profile and
+pharmacodynamics effects of concurrent dovitinib, capecitabine, gemcitabine and their
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Ma et al. Page 3
+metabolites, and to determine the preliminary activity of the study combination in this
+patient population.
+MATERIALS AND METHODS
+Patient eligibility
+The eligibility criteria included patients with histologically or cytologically confirmed
+advanced or metastatic solid malignancies where the gemcitabine combination was
+considered standard therapy or a rational option; patients eligible for the expansion cohort
+would have locally advanced or metastatic pancreas or biliary tract adenocarcinoma; age ≥
+18 years; Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1; adequate
+bone marrow, renal and liver function defined by absolute neutrophil count (ANC) ≥ 1,500
+cells/mm3, platelets ≥ 100,000 cells/mm3, hemoglobin ≥ 9.0 g/dL, alanine aminotransferase
+(ALT) and aspartate aminotransferase (AST) ≤ 1.5 × upper limit of normal (ULN), total
+bilirubin ≤ 1.5 × ULN, serum creatinine ≤ 1.5 × ULN, international normalized ratio (INR)
+≤ 1.5 (anti-coagulation is allowed if target INR ≤ 1.5 on a stable dose of warfarin or on a
+stable dose of low molecular weight heparin for > 2 weeks at the first dose of study agent),
+24-hour urine protein < 2 grams if urinalysis showed proteinuria. Patients should have
+completed any anti-cancer therapy ≥ 4 weeks (≥ 2 weeks for targeted therapy; e.g., sunitinib,
+sorafenib, pazopanib) prior to initiation of study drug and without residual toxicity. Patients
+with active, clinically significant and/or uncontrolled medical conditions were excluded. The
+study protocol was reviewed and approved by the institutional review board, and written
+informed consent was mandatory.
+Treatment plan
+Dovitinib was supplied by Novartis Pharmaceuticals, in 100 mg hard gelatin capsule.
+Dovitinib may be taken with or without food. Gemcitabine was obtained commercially as a
+lyophilized powder and was reconstituted with normal saline per institutional standard.
+Capecitabine was obtained commercially as oral tablets in 150 mg and 500 mg strengths,
+and swallowed with water within 30 minutes after a meal. On days when dovitinib was to be
+administered with capecitabine, dovitinib was taken with water prior to capecitabine and
+capecitabine was taken within 30 minutes after a meal with water. Treatment consisted of
+gemcitabine 1000 mg/m2 administered intravenously as a 30-minute infusion on days 1 and
+8, capecitabine 1300 mg/m2 total daily oral dose divided twice a day from day 1 to 14 and
+dovitinib oral daily day 1 to 5, 8 to 12 and 15 to 19 (5 days on/2 days off). Each cycle was
+21 days. The sequence was dovitinib, capecitabine and gemcitabine on days when >1 drugs
+were administered. The planned dovitinib dose levels to be explored were 300 mg (starting),
+400 mg and 500 mg daily. Prophylactic anti-emetics were administered per institutional
+standard. Treatment was administered until disease progression, intercurrent illness that
+prevented further treatment, unacceptable adverse event(s), withdrawal of consent or study
+closure. Adequate laboratory parameters at every evaluation were required prior to
+retreatment.
+Dose modifications for toxicities related to gemcitabine and capecitabine were per
+guidelines in respective package inserts. Adverse events were categorized and graded
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Ma et al. Page 4
+according to National Cancer Institute, Common Toxicity Criteria Version 4.0 (NCI-CTCAE
+v 4.0). Dovitinib was withheld for ANC < 500/μL or platelets < 50,000/μL, and resumed
+ANC ≥ 500/μL and platelets ≥ 100,000/μL. Dovitinib was discontinued permanently for
+grade 4 creatinine elevation, ≥ grade 3 total bilirubin elevation, total bilirubin > 2 × ULN
+and ALT or AST > 3 × ULN, grade 4 cardiac event, ≥ grade 3 neurotoxicity, symptomatic ≥
+grade 3 amylase or lipase elevation, and ≥ grade 2 pancreatitis. Dovitinib was withheld for
+grade 3 creatinine elevation, ≥ grade 3 AST or ALT, ≥ grade 3 hypertension, grade 3 cardiac
+event, ≥ grade 2 diarrhea, nausea or vomiting, grade 2 neurotoxicity, symptomatic grade 3
+and grade 4 hypertriglyceridemia or hypercholesterolemia, ≥ grade 3 asymptomatic amylase
+or lipase elevation, and other ≥ grade 3 non-hematologic toxicities, until resolution.
+Dose escalation plan, definition of DLT and MTD
+The study used the standard 3+3 dose escalation design. The study drug dose was escalated
+to the next higher level if 0 of the first 3 patients developed dose-limiting toxicity (DLT). If 1
+of the first 3 patients developed DLTs, 3 additional patients were to be enrolled for treatment
+at the same dose level. If no further DLT was encountered, dose-escalation resumed. If > 1
+patient developed DLT, the next cohort of 3 patents was to be treated at the next lower dose
+level. Once the maximum tolerated dose (MTD) was determined or escalation finalized, an
+expanded cohort enriched with patients with pancreatic and biliary tract cancers was
+enrolled and treated at the MTD to further determine the safety and tolerability of the
+treatment regimen to declare the recommended phase II dose (RP2D).
+DLT was defined as any adverse event related to dovitinib occurring during cycle 1 that
+corresponds to any of the following criteria: grade 4 neutropenia lasting > 7 days, not
+reversible to ≤ grade 3 within 7 days without the use of growth factors; febrile neutropenia
+or neutropenia associated with bacteremia or sepsis or ≥ grade 3 neutropenia associated with
+treatment related fever or infection; grade 4 thrombocytopenia or grade 3 thrombocytopenia
+accompanied by clinically significant bleeding; ≥ grade 3 non-hematologic toxicity despite
+maximal supportive care except alopecia or grade 3 ALT or AST elevations that resolve in <
+7 days; ≥ grade 3 nausea, vomiting or diarrhea that persists despite optimal supportive care.
+Patients were not evaluable for DLT and replaced, if any of the following occurred during
+cycle 1 due to reasons unrelated to toxicity: treatment delay for > 7 days after the last
+scheduled dose of any of the study drugs; received < 80% of planned dovitinib; received <
+75% of planned capecitabine and failed to receive all 2 doses of gemcitabine. The MTD was
+defined as the highest dose level at which ≤ 1 of 6 patients experienced DLT during cycle 1.
+Monitoring, assessment of safety and activity
+Upon signing the consent form, patients underwent screening including a history and
+physical examination, ECOG performance status assessment, complete blood count (CBC),
+chemistries, amylase, lipase, coagulations, urinalysis, pregnancy test, stool occult blood,
+electrocardiogram (EKG), cardiac enzymes, tumor markers, echocardiogram and disease
+assessment by computer tomography (CT). CBC and chemistries were conducted weekly on
+day 1, 8 and 15 during cycle 1, and day 1 and 8 from cycle 2 onwards. Amylase, lipases,
+EKG and cardiac enzymes were evaluated weekly during cycle 1 and on day 1 from cycle 2
+onwards. CT was repeated after every 2 cycles, and disease response was assessed by
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Ma et al. Page 5
+RECIST (version 1.0). Patients were considered evaluable for toxicity once therapy started
+and for efficacy if at least one cycle was administered.
+Pharmacokinetic and biomarker studies
+Plasma samples were collected from patients enrolled to the dose escalation part for
+pharmacokinetic and biomarker studies. Venous blood samples were collected into
+heparinized vacutainer tube preloaded with tetrahydrouridine at time-points below. For
+gemcitabine analysis, blood samples were collected at pre-dose, 10 min, 20 min, 30 min, 1
+to 2 hours, and 4 to 5 hours post-infusion on day 1. For capecitabine and dovitinib analysis,
+blood samples were collected on day 1 cycle 1 at pre-dose, 0.5 hour, 1 to 2 hours, 4 to 5
+hours, 6 to 8 hours post-dosing and Day 2 prior to next dose. Collections for dovitinib were
+repeated on day 19 cycle 1 at pre-dose, 0.5 hour, 1 to 2 hours, 4 to 5 hours, 6 to 8 hours, 24
+hours and 48 hours post-dosing, and day 8 cycle 2 prior to next dose. The plasma
+concentration of dovitinib, gemcitabine, capecitabine and metabolites were measured by two
+high-performance liquid chromatography/tandem mass spectrometry (LC/MS/MS) assays.
+13,14 Lower limits of quantitation were 1.63 ng/mL for dovitinib, 1.00 ng/mL for
+gemcitabine, capecitabine and dFdU, and 5.00 ng/mL for 5-FU, DFUR and DFCR.
+To determine the pharmacodynamic effects, blood samples were obtained prior to dovitinib
+dosing on day 1, 12 and 19 of cycle 1 in EDTA tubes to assess the following plasma
+biomarkers: FGF23, basic FGF (bFGF), soluble VEGFR1 (sVEGFR1), and VEGF. Total
+FGF23 was determined in human plasma using a sandwich ELISA kit (Millipore, Billerica,
+MA) with the lower limit of detection of 3.5 pg/mL. The ELISA kit is specific to human
+FGF23 and does not significantly cross-react to human EGF, FGF-2, FGF-19, or FGF-21.
+All other biomarkers were analyzed using specific Quantikine® ELISA kit obtained from
+R&D Systems (Minneapolis, MN). The lower limit of detection of bFGF, sVEGFR1, and
+VEGF is 3 pg/mL, 3.5 pg/mL, and 9 pg/mL, respectively. The bFGF ELISA kit is specific to
+human bFGF and does not significant cross-react to human EGF or other FGF members.
+The sVEGFR1 ELISA kit is specific to human VEGFR1 and does not cross-react to
+VEGFR2 or VEGFR3. The VEGF ELISA kit is specific to human VEGF and does not
+recognize VEGF-C or VEGF-D. All assays were performed according to the manufacturer’s
+manual.
+RESULTS
+Patient characteristics
+A total of 29 patients with advanced solid tumors were consented and received treatment
+from 2012 to 2014, including 9 patients in the dose escalation and 20 in the expansion
+cohort. Twenty-four patients had pancreatic cancer; 4 patients had biliary tract cancer, and 1
+patient has small intestine cancer. Eighteen patients were evaluable for response by RECIST.
+Fifteen of the 24 pancreatic cancer patients were chemo-naïve and received study treatment
+in first-line setting, and 18 were gemcitabine-naïve (including 3 who received
+FOLFIRINOX previously). The median follow-up time for all pancreatic cancer patients was
+14.3 months. The demographic and clinical characteristics of the enrolled patients are listed
+in Table 1.
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Ma et al. Page 6
+Dose-escalation process
+Nine patients were treated during dose escalation including 6 who were evaluable for DLT
+and 3 were replaced as they were not evaluable for DLT. Three patients were enrolled to the
+starting dose level (dovitinib 300 mg) at the beginning of the study and 1 patient experienced
+dose limiting grade 3 colitis. Three more patients were enrolled and treated at the same dose
+level and none experienced DLT. However, 2 patients from the first cohort developed
+clinically significant grade 2 sensory neuropathy after 4 cycles that resolved following
+interruption of dovitinib dosing. Both patients had pancreatic cancer. One patient was
+chemo-naïve and the other one previously received oxaliplatin as part of the FOLFIRINOX
+regimen. The neuropathy did not recur in both patients following the resumption of dovitinib
+at 200 mg, the next lower dose level. The toxicity and tolerability of the study treatment
+were reviewed with the Novartis medical team. The starting dose level was declared as the
+MTD, and the study proceeded to enroll an additional 20 patients to the expansion cohort.
+Safety and activity
+All 29 patients received at least 1 dose of study treatment and were evaluable for toxicities.
+Grade 2 or higher treatment-related adverse events from all cycles are summarized in Table
+2. Per above, there was 1 dose limiting grade 3 colitis. Other grade 3 or worse non-dose
+limiting treatment-related toxicities from all cycles that were reported were neutropenia
+(41%), thrombocytopenia (24%), anemia (14%), leukopenia (14%), hypertension (10%),
+nausea (7%), palmer-plantar erythrodysaesthesia syndrome (7%), increased lipase (7%),
+febrile neutropenia (3% for the rest), diarrhea, gastrointestinal hemorrhage, vomiting, acute
+coronary syndrome, pyrexia, dehydration, skin rash, and increased level of AST, ALP, GGT,
+total bilirubin and amylase. Common (>10%) ≥ grade 2 treatment-related adverse events
+from all cycles included fatigue (45%), neutropenia (41%), thrombocytopenia (34%),
+anemia (24%), nausea (24%), palmer-plantar erythrodysaesthesia syndrome (21%), diarrhea
+(17%), increased GGT (13%) and leukopenia (14%). There was no grade 5 adverse event.
+Among evaluable patients, partial responses by RECIST were observed in a total of 5 (28%)
+patients. Three of them had pancreatic cancer and 2 had biliary tract cancer. Ten (55%)
+patients had stable disease. Three (17%) patients had progressive disease. Fifteen pancreatic
+cancer patients received the study treatment as first-line therapy (9 stage IV, 6 stage III). As
+in Figure 1, the median OS and 6-month survival were 13.3 months and 64%, respectively.
+Eighteen pancreatic cancer patients enrolled were naïve to gemcitabine (11 stage IV, 7 stage
+III) and the median OS and 6-month survival were 9.5 months and 65%, respectively.
+Pharmacokinetic studies
+The pharmacokinetic parameters of dovitinib, capecitabine and gemcitabine on day 1, and
+dovitinib on day 19 are summarized in Table 3. The plasma concentration versus time are
+shown in Figure 2. The median C and Area Under the Curve (AUC) of dovitinib were
+max
+similar following 3 weeks of dosing: Day 1, 181 ng/mL and 3419 hr·ng/mL and Day 19, 221
+ng/mL and 3854 hr·ng/mL, respectively, indicating slight accumulation of dovitinib at 300
+mg dose. The median half-life (T ) of dovitinib was approximately 15 hours on Day 1 and
+1/2
+decreased to approximately 13 hours on Day 19. The metabolites of gemcitabine and
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Ma et al. Page 7
+capecitabine including dFdU, 5’-FU, 5’-DFCR and 5’-DFUR were analyzed and consistent
+with the literature.15,16
+Pharmacodynamic studies
+A total of 40 plasma samples from 9 patients treated with dovitinib 300 mg daily 5 days on
+and 2 days off were evaluable by ELISA for the level of FGF23, bFGF, sVEGFR1 and
+VEGF. Due to small sample size, we could not detect relationship between baseline plasma
+level of these markers and clinical outcome. Paired samples from 5 patients were evaluable
+for changes in the biomarker levels between baseline and after 19 days of dovitinib. Plasma
+FGF23 level increased in 4 out of 5 patients during the first cycle of treatment. There was no
+observable trend in the changes of bFGF, sVEGFR1 and VEGF plasma levels. (Figure 3)
+DISCUSSION
+In this phase Ib study, we determined that dovitinib could be safely co-administered with
+gemcitabine and capecitabine at the RP2D. We further determined that there was no
+significant drug-drug interaction of dovitinib by the other 2 cytotoxic drugs including oral
+capecitabine during co-administration. When this study was planned in 2009, gemcitabine
+plus capecitabine was a standard in the treatment of advanced pancreatic cancer patients and
+was selected as the chemotherapy backbone17 Subsequently, gemcitabine plus nab-paclitaxel
+became a standard in 20132 and the study was amended to include cholangiocarcinoma in
+the expansion cohort. In addition, the FOLFIRINOX regimen, and its modified versions,
+became a standard first-line therapy for advanced or metastatic pancreatic adenocarcinoma
+in patients with good performance status since 2011 and the study regimen was tolerable in
+patients previously treated with FOLFIRINOX.3 Dovitinib was one of the most potent multi-
+kinase inhibitors against FGFR signaling in clinical development when the study was first
+planned. We observed FGFR signaling modulation at the RP2D, albeit a small sample size,
+and together with the encouraging efficacy signal observed, the role of dovitinib in the
+treatment of pancreatico-biliary cancers should be investigated further.
+The MTD of the study regimen was not reached by study definition though we observed
+clinically significant grade 2 neuropathy after multiple dosing requiring dose reduction in 2
+patients. Following discussions with the Novartis medical team, the 300 mg daily dose level
+was declared the RP2D and to be used for the expansion cohort. The dose was lower than
+the 500 mg daily dose on a 5-days-on/2-days-off schedule used in phase II and III dovitinib
+monotherapy trials though we did observe plasma FGF23 changes indicative of FGFR
+modulation at the RP2D.11,18 Interestingly, there was no additional dose limiting sensory
+neuropathy observed in the dose expansion cohort. Sensory neuropathy was not a significant
+adverse event for dovitinib monotherapy in the phase III trial in metastatic renal cell
+carcinoma.18 However, Loriot et al. did report a patient who developed mild peripheral
+sensory neuropathy with numbness and pain following 2 months of dovitinib monotherapy
+on a phase I trial.19 An electromyogram evaluation showed a distal axonal neuropathy.
+FGFR signaling has been implicated in healthy nerve physiology and the anti-FGFR effects
+of dovitinib may have underlined the sensory changes.20–22
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Ma et al. Page 8
+The most common grade 3 and 4 toxicities from dovitinib, gemcitabine, and capecitabine are
+hematologic. Although caution should be taken to compare across studies, the incidence of
+neutropenia and thrombocytopenia were numerically higher than that from single agent
+dovitinib used in advanced renal cell carcinoma18 or gemcitabine plus capecitabine used in
+advanced pancreatic adenocarcinoma.17 The increased toxicities including neutropenia and
+thrombocytopenia have been observed in previous studies on combining multi-kinase
+inhibitors and cytotoxic agents, which often led to dose reduction, delay, or discontinuation.
+The additive myelosuppression of dovitinib to chemotherapy was likely due to its inhibition
+of FLT3 and c-kit.23 Despite the increased hematologic toxicities observed in this study,
+most of the patients were able to tolerate multiple cycles of the treatment. The toxicity
+profile of the combination was largely consistent with the known side effect profiles of
+respective drugs. In contrast, another phase Ib study evaluating dovitinib in combination
+with gemcitabine plus cisplatin or carboplatin in patients with advanced solid tumors had to
+be closed due to severe dose-limiting hematological toxicities observed during the dose
+escalation phase.23
+This phase Ib trial was not designed to evaluate activity/efficacy of dovitinib. However, the
+overall response rate and overall survival appeared to be equivalent or slightly better
+compared to gemcitabine plus capecitabine in the first-line setting for the treatment of
+advanced or metastatic pancreatic adenocarcinoma.17 The activity of dovitinib, gemcitabine,
+and capecitabine combination observed in this study can at least be partially explained by
+the fact that a significant number of the patients received this regimen as first-line therapy or
+were naïve to gemcitabine-based chemotherapy. In contrast, most of the previous early phase
+trials of dovitinib were in heavily treated patients with other types of malignancies.
+Dovitinib is mainly metabolized by CYP 1A1/2 and flavin-containing monooxygenase.12
+Previous pharmacokinetic studies showed that both dovitinib at lower daily dose (<400 mg)
+on a consecutive 28-day cycle12 and dovitinib at higher daily dose on a 5-day on and 2-day
+off schedule9 led to significant autoinduction of CYP1A1/2. At 300 mg daily dose on 5 days
+on and 2 days off schedule as used in our study, we did not observe significant difference in
+dovitinib level between Day1 and 19 to indicate significant autoinduction. This was likely
+due to different dose level and schedule of administration in the absence of drug-drug
+interaction between dovitinib, gemcitabine, and capecitabine. Pharmacodynamic studies
+using plasma samples from a small number of patients showed effect of dovitinib on FGFR
+signaling at the 300 mg dose though effects on the VEGF signaling pathway were unclear.
+In summary, this phase I study successfully determined a tolerable dosing schedule for
+dovitinib in combination with gemcitabine plus capecitabine, and demonstrated encouraging
+efficacy signal in advanced pancreatic cancer patients compared to historical controls.2–4
+Potential predictive biomarker for dovitinib in preclinical studies from our group8 may be
+relevant to the development of other FGFR inhibitors in pancreatic cancer. Future clinical
+trials evaluating FGFR-targeting agents in pancreatic cancer should be biomarker-driven
+using combinatorial approaches, which are more likely to be successful.
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Ma et al. Page 9
+ACKNOWLEDGMENTS
+This work was partially supported by National Cancer Institute (NCI) grant P30CA016056 involving the use of
+Roswell Park’s Bioanalytics, Metabolomics and Pharmacokinetics (BMPK) Shared Resource.
+Financial support:
+Novartis Oncology provided research funding and dovitinib
+REFERENCES
+1. Hidalgo M Pancreatic cancer. N Engl J Med. 2010;362(17):1605–1617. [PubMed: 20427809]
+2. von Hoff DD, Ervin T, Arena FP, et al. Increased survival in pancreatic cancer with nab-paclitaxel
+plus gemcitabine. N Engl J Med. 2013;369(18):1691–1703. [PubMed: 24131140]
+3. Conroy T, Desseigne F, Ychou M, et al. FOLFIRINOX versus gemcitabine for metastatic pancreatic
+cancer. N Engl J Med. 2011;364(19):1817–1825. [PubMed: 21561347]
+4. Moore MJ, Goldstein D, Hamm J, et al. Erlotinib plus gemcitabine compared with gemcitabine
+alone in patients with advanced pancreatic cancer: A phase III trial of the National Cancer Institute
+of Canada Clinical Trials Group. J Clin Oncol. 2007;25(15):1960–1966. [PubMed: 17452677]
+5. Turner N, Grose R. Fibroblast growth factor signalling: From development to cancer. Nat Rev
+Cancer. 2010;10(2):116–129. [PubMed: 20094046]
+6. Casanovas O, Hicklin DJ, Bergers G, et al. Drug resistance by evasion of antiangiogenic targeting of
+VEGF signaling in late-stage pancreatic islet tumors. Cancer Cell. 2005;8(4):299–309. [PubMed:
+16226705]
+7. Lee SH, Lopes de Menezes D, Vora J, et al. In vivo target modulation and biological activity of
+CHIR-258, a multitargeted growth factor receptor kinase inhibitor, in colon cancer models. Clin
+Cancer Res. 2005;11(10):3633–3641. [PubMed: 15897558]
+8. Zhang H, Hylander BL, LeVea C, et al. Enhanced FGFR signalling predisposes pancreatic cancer to
+the effect of a potent FGFR inhibitor in preclinical models. Br J Cancer. 2014;110(2):320–329.
+[PubMed: 24327018]
+9. Angevin E, Lopez-Martin JA, Lin C-C, et al. Phase I study of dovitinib (TKI258), an oral FGFR,
+VEGFR, and PDGFR inhibitor, in advanced or metastatic renal cell carcinoma. Clin Cancer Res.
+2013;19(5):1257–1268. [PubMed: 23339124]
+10. Milowsky MI, Dittrich C, Durán I, et al. Phase 2 trial of dovitinib in patients with progressive
+FGFR3-mutated or FGFR3 wild-type advanced urothelial carcinoma. Eur J Cancer. 2014;50(18):
+3145–3152. [PubMed: 25457633]
+11. Cheng A-L, Thongprasert S, Lim HY, et al. Randomized, open-label phase 2 study comparing
+frontline dovitinib versus sorafenib in patients with advanced hepatocellular carcinoma.
+Hepatology. 2016;64(3):774–784. [PubMed: 27082062]
+12. Kim KB, Chesney J, Robinson D, et al. Phase I/II and pharmacodynamic study of dovitinib
+(TKI258), an inhibitor of fibroblast growth factor receptors and VEGF receptors, in patients with
+advanced melanoma. Clin Cancer Res. 2011;17(23):7451–7461. [PubMed: 21976540]
+13. Vainchtein LD, Rosing H, Thijssen B, et al. Validated assay for the simultaneous determination of
+the anti-cancer agent gemcitabine and its metabolite 2’,2’-difluorodeoxyuridine in human plasma
+by high-performance liquid chromatography with tandem mass spectrometry. Rapid Commun
+Mass Spectrom. 2007;21(14):2312–2322. [PubMed: 17577879]
+14. Salvador A, Millerioux L, Renou A. Simultaneous LC-MS-MS Analysis of Capecitabine and its
+Metabolites (5′-deoxy-5-fluorocytidine, 5′-deoxy-5-fluorouridine, 5-fluorouracil) After Off-Line
+SPE from Human Plasma. Chroma. 2006;63(11–12):609–615.
+15. Plunkett W, Huang P, Xu YZ, et al. Gemcitabine: Metabolism, mechanisms of action, and self-
+potentiation. Semin Oncol. 1995;22(4 Suppl 11):3–10.
+16. Reigner B, Blesch K, Weidekamm E. Clinical pharmacokinetics of capecitabine. Clin
+Pharmacokinet. 2001;40(2):85–104. [PubMed: 11286326]
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Ma et al. Page 10
+17. Herrmann R, Bodoky G, Ruhstaller T, et al. Gemcitabine plus capecitabine compared with
+gemcitabine alone in advanced pancreatic cancer: A randomized, multicenter, phase III trial of the
+Swiss Group for Clinical Cancer Research and the Central European Cooperative Oncology
+Group. J Clin Oncol. 2007;25(16):2212–2217. [PubMed: 17538165]
+18. Motzer RJ, Porta C, Vogelzang NJ, et al. Dovitinib versus sorafenib for third-line targeted
+treatment of patients with metastatic renal cell carcinoma: An open-label, randomised phase 3
+trial. The Lancet Oncology. 2014;15(3):286–296. [PubMed: 24556040]
+19. Loriot Y, Massard C, Angevin E, et al. FGFR inhibitor induced peripheral neuropathy in patients
+with advanced RCC. Ann Oncol. 2010;21(7):1559–1560. [PubMed: 20444848]
+20. Jungnickel J, Gransalke K, Timmer M, et al. Fibroblast growth factor receptor 3 signaling regulates
+injury-related effects in the peripheral nervous system. Mol Cell Neurosci. 2004;25(1):21–29.
+[PubMed: 14962737]
+21. Klimaschewski L, Nindl W, Feurle J, et al. Basic fibroblast growth factor isoforms promote axonal
+elongation and branching of adult sensory neurons in vitro. Neuroscience. 2004;126(2):347–353.
+[PubMed: 15207352]
+22. Furusho M, Dupree JL, Bryant M, et al. Disruption of fibroblast growth factor receptor signaling in
+nonmyelinating Schwann cells causes sensory axonal neuropathy and impairment of thermal pain
+sensitivity. J Neurosci. 2009;29(6):1608–1614. [PubMed: 19211868]
+23. Galsky MD, Posner M, Holcombe RF, et al. Phase Ib study of dovitinib in combination with
+gemcitabine plus cisplatin or gemcitabine plus carboplatin in patients with advanced solid tumors.
+Cancer Chemother Pharmacol. 2014;74(3):465–471. [PubMed: 25023489]
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Ma et al. Page 11
+Figure 1.
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Ma et al. Page 12
+Kaplan-Meier Survival Curve for (a) first-line and (b) gemcitabine-naïve advanced
+pancreatic cancer patients
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Ma et al. Page 13
+Figure 2.
+Plasma concentration-time profiles of gemcitabine and capecitabine on day 1 and dovitinib
+on day 1 and day 19 (mean±SD).
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Ma et al. Page 14
+Figure 3.
+Changes in pre-dovitinib plasma FGF23, bFGF, sVEGFR1 and VEGF levels in 5 patients
+during the first cycle of treatment.
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 15
+Table 1.
+Patient Characteristics (n=29)
+Sex
+Male 16
+Female 13
+Age, years
+Median 65.5
+Range 42 to 81
+ECOG performance status
+0 13
+1 16
+Stage
+III 7
+IV 22
+Primary Tumor Site
+Pancreas 24
+Biliary 4
+Small intestine 1
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 16
+Table 2.
+Grade 2 and above treatment-related adverse events over all cycles (n=29)
+Adverse Events G2 G3/4 Adverse Events G2 G3/4
+Hematologic Cardiovascular
+Anemia 3 4 Acute coronary syndrome 0 1
+Leukopenia 0 4 Deep vein thrombosis 1 0
+Neutropenia 0 12 Embolism 1 0
+Febrile neutropenia 0 1 Hypertension 0 3
+Thrombocytopenia 3 7
+Others
+Gastrointestinal Fatigue 13 0
+Diarrhea 4 1 Pyrexia 0 1
+Enterocolitis 0 1* Weight loss 2 0
+Hemorrhage, GI 0 1 Dehydration 0 1
+Nausea 5 2 Gout 1 0
+Stomatitis 2 0 Pain in extremity 1 0
+Vomiting 2 1 Peripheral neuropathy 2 0
+Anorexia 2 0 Alopecia 1 0
+Hiccups 1 0 Palmar-plantar erythrodysaesthesia syndrome 4 2
+Rash 1 1
+Hepatic Amylase increased 1 1
+ALT increased 1 0 Lipase increased 0 2
+AST increased 1 1
+ALP increased 1 1
+Bilirubin, Total 0 1
+GGT increased 3 1
+ALT: Alanine aminotransferase; AST: Aspartate aminotransferase; ALP: Alkaline phosphatase; GGT: Gamma-glutamyltransferase
+*
+DLT
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Ma et al. Page 17
+Table 3.
+Pharmacokinetic parameters of dovitinib, gemcitabine, and capecitabine administered concurrently.
+Gemcitabine AUC 0–7.5 hours, capecitabine AUC 0–8 hours, dovitinib AUC 0–24 hours.
+Day Drug T (hr) C (ng/mL) AUC (hr·ng/mL)
+1/2 max
+Day 1 Gemcitabine N 7 7 7
+Min 0.7 5640 6370
+Median 4.55 14000 9237
+Max 11.89 25000 12222
+Capecitabine N 5 7 7
+Min 0.68 98.8 488
+Median 1.05 5150 4229
+Max 4.07 30300 14439
+Dovitinib N 1 9 9
+Min 15.34 99.4 1529
+Median 15.34 181 3419
+Max 15.34 279 5394
+Day 19 Dovitinib N 5 5 5
+Min 9.38 80.1 1198
+Median 13.17 221 3854
+Max 19.84 313 4261
+Am J Clin Oncol. Author manuscript; available in PMC 2020 February 01.

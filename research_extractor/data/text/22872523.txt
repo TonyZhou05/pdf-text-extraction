@@ -1,0 +1,784 @@
+Source: 22872523.pdf
+Extracted on: Fri Sep 12 23:58:10 PDT 2025
+==================================================
+
+--- Page 1 ---
+BreastCancerResTreat(2012)135:241–252
+DOI10.1007/s10549-012-2135-0
+CLINICAL TRIAL
+Phase 1b dose-finding study of motesanib with docetaxel
+or paclitaxel in patients with metastatic breast cancer
+Richard H. De Boer • Dusan Kotasek • Shane White • Bogda Koczwara •
+Paul Mainwaring • Arlene Chan • Rebeca Melara • Yining Ye •
+Adeboye H. Adewoye • Robert Sikorski • Peter A. Kaufman
+Received:1March2012/Accepted:8June2012/Publishedonline:29July2012
+(cid:2)TheAuthor(s)2012.ThisarticleispublishedwithopenaccessatSpringerlink.com
+Abstract Thepurposeofthisstudywastoinvestigatethe cycle (Arm A) or docetaxel 100 mg/m2 on day 1 every
+safety, tolerability, and pharmacokinetics of motesanib 21-day cycle (Arm B). Dose escalation to motesanib
+when combined with docetaxel or paclitaxel in patients 125 mg QD occurred if the incidence of dose-limiting
+with metastatic breast cancer. In this open-label, dose- toxicities (DLTs, primary endpoint) was B33 %. If the
+finding, phase 1b study, patients received motesanib 50 or maximum tolerated dose (MTD) of motesanib was estab-
+125-mgorallyoncedaily(QD),beginningday3ofcycle1 lished in Arm B, additional patients could receive
+of chemotherapy, continuously in combination with either motesanibat theMTD plusdocetaxel75 mg/m2.Forty-six
+paclitaxel 90 mg/m2 on days 1, 8, and 15 every 28-day patients were enrolled and 45 received C1 dose of
+motesanib. The incidence of DLTs was \33 % in all
+cohorts;thus,motesanib125 mgQDwasestablishedasthe
+R.H.DeBoer(&) MTD. Seven patients (16 %) had grade 3 motesanib-rela-
+DepartmentofMedicalOncology,RoyalMelbourneHospital, ted adverse events including cholecystitis (2 patients) and
+GrattanSt,2ndFloor,Parkville,Melbourne,VIC3050,Australia
+hypertension (2 patients). Pharmacokinetic parameters of
+e-mail:Richard.DeBoer@wh.org.au
+motesanib were similar to those reported in previous
+R.H.DeBoer studies. The objective response rate was 56 % among
+WesternHospitals,Footscray,Melbourne,VIC3050,Australia patients with measurable disease at baseline who received
+motesanib in combination with taxane-based chemother-
+D.Kotasek
+apy. The addition of motesanib to either paclitaxel or
+AshfordCancerCentre,Ashford,SA,Australia
+docetaxel was generally tolerable up to the 125-mg QD
+S.White dose of motesanib. The objective response rate of 56 %
+AustinHealth,Heidelberg,VIC,Australia
+suggests a potential benefit of motesanib in combination
+with taxane-based chemotherapy.
+B.Koczwara
+FlindersMedicalCentreandFlindersUniversity,Adelaide,SA,
+Australia Keywords Motesanib (cid:2) Breast cancer (cid:2) Angiogenesis (cid:2)
+VEGF (cid:2) Chemotherapy
+P.Mainwaring
+HOCA,MaterPrivateHospital,SouthBrisbane,QLD4101,
+Australia
+Introduction
+A.Chan
+MountHospital,Perth,WA,Australia
+Although there has been a significant decline in breast
+R.Melara(cid:2)Y.Ye(cid:2)A.H.Adewoye(cid:2)R.Sikorski cancer mortality over the last decade, up to 40 % of
+AmgenInc.,ThousandOaks,CA,USA patients will develop metastatic breast cancer (MBC), for
+whichthereremainsnocurativetherapy.Manytherapeutic
+P.A.Kaufman
+agentseffectivelytreatMBC;however,theoverallduration
+Dartmouth-HitchcockMedicalCenterandNorrisCottonCancer
+Center,Lebanon,NH,USA of response remains far from ideal. The median survival
+123
+
+--- Page 2 ---
+242 BreastCancerResTreat(2012)135:241–252
+fromdiagnosisfortriplenegativeMBCisapproximately2 within 14 days of enrollment; central nervous system
+to 3 years and for estrogen receptor-positive/progesterone metastases;arterialorvenousthrombosiswithin12 months
+receptor-positivedisease, approximately 5 years [1].Thus, before enrollment; bleeding diathesis or bleeding within
+the development of new therapies to treat MBC remains 14 days or major surgery within 28 days before enroll-
+critically important. ment; clinically significant cardiac disease; and prior epi-
+Angiogenesisisessentialfor breast cancer development sodes of cholecystitis.
+and metastasis [2], and high tumor levels of the proangi- The study protocol was approved by the Institutional
+ogeniccytokinevascularendothelialgrowthfactor(VEGF) Review Board/Ethics Committee at each participating
+are predictive of poor clinical outcomes in patients with study site, and all patients provided written consent.
+breastcancer[3,4].TheVEGFsignalingpathwayhasthus
+become a promising target, and agents targeting this Study design
+pathwayhavebeenshowntoimproveoutcomesinpatients
+with MBC [5]. Thisopen-label,dose-finding,multicenterstudyconducted
+Motesanib is an orally administered, small-molecule at6centersinAustraliaand1intheUnitedStatesevaluated
+antagonist of VEGF receptors (VEGFR) 1, 2, and 3; the safety of motesanib in combination with paclitaxel or
+platelet-derived growth factor receptor (PDGFR); and Kit docetaxel.Patientswithlocallyrecurrentormetastaticbreast
+[6]. Treatment with motesanib was tolerable and showed cancer were assigned to receive motesanib in combination
+antitumor activity when administered as monotherapy to withpaclitaxel(ArmA),ormotesanibincombinationwith
+patients with advanced solid tumors [7, 8] and in combi- docetaxel(ArmB)(Fig. 1).Themaximumplannedsample
+nation with either chemotherapy or an anti-epidermal size(ifallcohortsenrolledthemaximumnumberofpatients)
+growthfactorreceptorantibodyinpatientswithnon-small- was54.Fourdosecohorts(2inArmAand2inArmB)that
+cell lung cancer (NSCLC) [9]. In tumor xenograft models wereinitiallyplannedtotestlowerdosesofmotesanib(100
+of human breast cancer, treatment with motesanib resulted and75 mg)werenotopenedbecausethe125-mgdosewas
+in reductions in tumor growth and tumor blood vessel found to be tolerable. Hence, only 46 patients were ulti-
+density [10]. Moreover, additive reductions in tumor matelyenrolledinthestudy.Theprimaryendpointwasthe
+growthwereachievedwhenmotesanibwascombinedwith incidence of dose-limiting toxicities (DLTs). Secondary
+docetaxel [10], possibly as a result of VEGF pathway endpoints included the incidence of adverse events (AEs);
+blockadeenhancing(and/orconserving)theantiangiogenic pharmacokinetics of motesanib, paclitaxel, and docetaxel;
+activity of the taxane [11]. Potentially, the combination of objective tumor response (per RECIST v1.0) [12]; and
+motesanib with taxane chemotherapy may have activity in durationofresponse.Evaluationofpharmacodynamicbio-
+patients with MBC. The objective of this phase 1b study markerswasanexploratoryendpoint.
+was to investigate the safety, tolerability, and pharmaco-
+kinetics of motesanib when combined with taxanes Maximum tolerated dose (MTD) and DLT
+(docetaxel or paclitaxel) in patients with MBC.
+The MTD was defined as the highest dose of motesanib
+with an observed incidence of DLT in B33 % of patients
+Materials and methods per cohort.
+A DLT was defined as any grade 3 or 4 hematologic or
+Patients nonhematologictoxicity(exceptalopecia)occurringduring
+cycle1thatwasrelatedtomotesaniborthecombinationof
+Female patients C18 years old were eligible if they had motesanib plus chemotherapy. Fatigue, nausea, diarrhea,
+confirmed measurable or nonmeasurable [per Response vomiting, neutropenia, febrile neutropenia, neuropathy,
+Evaluation Criteria in Solid Tumors (RECIST) v1.0 [12]] thrombocytopenia, anemia, hypertension, and aspartate
+adenocarcinoma of the breast with locally recurrent or aminotransferase(AST)oralanineaminotransferase(ALT)
+metastatic disease, Eastern Cooperative Oncology Group elevations were only considered DLTs if the following
+performance status of 0/1, and adequate organ function. conditions were met: grade 3 fatigue[7 days or grade 4
+Exclusioncriteriaincluded[1priorchemotherapyregimen fatigue; grade 3 or 4 nausea, diarrhea, or vomiting despite
+for MBC; taxane-containing treatment within 6 months, maximum supportive care; grade 3 or 4 neutropenia with
+bevacizumabwithin3 months,orVEGFR-targetedtherapy fever C38.5 (cid:3)C; grade 4 neutropenia (absolute neutrophil
+within 1 month before enrollment; uncontrolled hyperten- count\0.5 9 109/L) for[7 days; grade 4 thrombocyto-
+sion; prior malignancy (except in situ cervical cancer or penia (platelet count\25 9 109/L) for[7 days; grade 4
+nonmelanoma skin cancer); radiation therapy to[25 % of anemia; grade 4 hypertension; or AST or ALT[10 times
+bone marrow; radiation therapy for peripheral lesions the upper limit of normal.
+123
+
+--- Page 3 ---
+BreastCancerResTreat(2012)135:241–252 243
+T Cohort A1 / B1
+R Motesanib50 mg QD +
+E Paclitaxel90 mg/m2(Arm A) E
+A OR N
+T Docetaxel100 mg/m2 (Arm B) S D E
+A
+M N
+S F
+E O D
+C Cohort A2 / B2 E
+N F
+R Motesanib125 mg QD + T
+T O
+E Paclitaxel90 mg/m2(Arm A) Y
+T F
+E OR
+A R
+N Docetaxel100 mg/m2 (Arm B) R
+S E S
+I E
+S A T
+N V
+I T U
+G I
+G Cohort B3 M D
+E
+N MotesanibMTD + E Y
+Wa
+M Docetaxel75 mg/m2(Arm B) N
+E Tb
+N
+T
+28 days 3 working 28 days (Arm A) or 21 days (Arm B) Repeat cycles 30 days
+days
+Fig.1 Studyschema.aThesponsorandtheprincipalinvestigatorsreviewedthesafetydatafromeachcohorttoevaluatepossibledrugeffects
+andDLTs.bDiseaseprogressionormotesanibintolerability
+Administration of study drugs and dose escalation motesanib was established in Arm B, an additional cohort
+of patients could be enrolled to receive motesanib at the
+Patients were assigned to receive motesanib (Amgen Inc., MTD plus docetaxel 75 mg/m2, a commonly used dose of
+Thousand Oaks, CA) plus either paclitaxel or docetaxel. docetaxel for patients with MBC in many countries; this
+Motesanib 125 mg administered orally once daily (QD) cohort received no myeloid growth factor support. Intra-
+was the MTD inthefirst-in-human single-agentmotesanib patientdoseescalationwasnotallowed.Patientscontinued
+study [7] and was the maximum dose for this study. to receive study drugs until disease progression, with-
+Patientsreceived1of2dosesofmotesanib(50or125 mg) drawal of consent, or occurrence of unacceptable toxicity.
+self administered orally QD beginning day 3 of cycle 1,
+and then from day 1 of subsequent cycles (Fig. 1). Dose modifications
+Motesanib was administered with paclitaxel 90 mg/m2
+[intravenously (IV) over 1 h ± 15 min] on days 1, 8, and If a patient experienced a DLT, motesanib was withheld
+15every28-daycycle(ArmA)ordocetaxel100 mg/m2or untilthetoxicityresolvedtoeithergrade 1orbaseline and
+75 mg/m2 (IV over 1 h ± 15 min) on day 1 every 21-day then restarted with a 25-mg dose reduction. One dose
+cycle(ArmB).Patientsreceivingmotesanibplusdocetaxel reduction per patient was allowed with the exception of
+100 mg/m2 received myeloid growth factor support as hypertension management, for which 2 dose reductions
+primary prophylaxis for febrile neutropenia. wereallowed.Ifthepatientdidnotrecoverwithin3 weeks,
+Upto6patientswereenrolledineacharmatthestarting study treatment was discontinued. A DLT in patients
+dose of motesanib 50 mg QD. Dose escalation to motesa- receiving motesanib 50 mg QD would result in the dis-
+nib 125 mg QD was allowed if C4 patients completed continuation of study treatment.
+cycle1withnoDLTs.Atleast4patientscouldbeenrolled Chemotherapy could be delayed B3 weeks for severe
+into subsequent dosing cohorts, all of which could be toxicities.Onedosereductionwasallowedforpaclitaxel;2
+expanded to acquire additional safety data. If [2 of 4 were allowed for docetaxel. More than a 3-week delay
+patients receiving motesanib 125 mg QD experienced a in treatment resulted in permanent discontinuation of
+DLT, lower doses could be explored. If the MTD of chemotherapy.
+123
+
+--- Page 4 ---
+244 BreastCancerResTreat(2012)135:241–252
+Blood pressure was monitored weekly for the first squaremean(GLSM)values(90 %CI)ofC andAUC
+max 0-
+6 weeks and then at each clinic visit. Investigators were for motesanib plus paclitaxel versus paclitaxel alone
+inf
+permitted to use standard antihypertensive treatments. (day8vs.1)andmotesanibplusdocetaxelversusdocetaxel
+Motesanib was to be discontinued for reoccurrence of alone (cycle 2 vs. 1) using SAS PROC Mixed procedure
+symptomatic hypertension or hypertension despite maxi- (SASforWindows,version9.1,WIN_PROplatform;SAS
+maldosesofa4-drugantihypertensiveregimen.Motesanib Institute, Inc.). Specifically, GLSM ratios were calculated
+was also permanently discontinued for patients with grade by estimating the difference in the least squares means for
+4 hemorrhage, [1 grade 3 hemorrhage, grade 4 venous log-transformed C and AUC ; the ratios were then
+max 0-inf
+thrombosis, or grade 3 or 4 arterial thrombosis. converted back to their original scale.
+Motesanib was withheld for patients who developed a
+clinicaldiagnosisofcholecystitisorsymptomsattributedto Tumor-response assessment
+gallbladder enlargement in the absence of cholecystitis.
+Patients who developed hypothyroidism [elevated thyroid- Tumor response was assessed with either computed
+stimulating hormone (TSH) levels above upper limits of tomographyormagneticresonanceimagingwithin28 days
+normaland/oralowT4level]and/orsignsorsymptomsof of enrollment and every 2 cycles: every 8 ± 1 weeks in
+hypothyroidism could receive thyroid hormone replace- ArmAandevery6 ± 1 weeksinArmB.Bonescanswere
+ment therapy (i.e., levothyroxine) according to standard performed every 12 ± 1 weeks if bone metastases were
+clinical care. present at baseline and at any time of clinical suspicion in
+other patients. Tumor response was assessed by investi-
+AE assessments gators per modified RECIST v1.0 [12].
+AEswererecordedandclassifiedaccordingtotheMedical Statistical analyses
+Dictionary for Regulatory Activities and graded according
+to the Common Terminology Criteria for Adverse Events Safety was evaluated among all patients who received
+version 3.0 [13]. C1 doseofmotesanib.Tumorresponseswererecordedfor
+all patients with measurable disease at baseline. Duration
+Pharmacokinetic and pharmacodynamic analyses of response was calculated as the time from the first
+objectiveresponsetodiseaseprogressionordeath.Patients
+Plasmasamplesforpharmacokineticanalysisofmotesanib who responded and did not progress or die while on study
+and analysis of serum placental growth factor (PLGF) and were censored on the date of their last assessment. Pro-
+VEGFwerecollectedpredoseandat1,3,6,24(beforethe gression-free survival (PFS) was calculated as the time
+next motesanib dose), and 48 h (trough) after motesanib from the first day of study treatment and the date when
+administrationondays3and8ofcycle1inArmAandon disease progressionwasdeterminedordeath.Patientswho
+day 3 of cycle 1 and day 1 of cycle 2 in Arm B. Plasma had not died and did not have an assessment of disease
+samples for pharmacokinetic analysis of paclitaxel and progression were censored.
+docetaxel were collected preinfusion and at 0.5, 1, 2, 4, 6,
+24,48,and96 hafterinfusionondays1and8ofcycle1in
+Arm A andon day 1of cycles 1 and 2in Arm B. Samples Results
+were analyzed at Amgen, Inc. (Thousand Oaks, CA) for
+motesanib and at Bioanalytical Systems, Inc. (McMinn- Patients
+ville, OR) for paclitaxel and docetaxel using validated
+analyticalmethods.SerumPLGFandVEGFwereassessed Forty-six patients were enrolled between May 2006 and
+using multiplexed electrochemiluminescent immunoassays August 2008. One patient was screened but withdrew
+(Meso-Scale Discovery, Gaithersburg, MD) as previously consent before receiving study treatment. Forty-five
+described [14]. patients received C1 dose of motesanib. Patient demo-
+Pharmacokinetic parameters including the area under graphics and baseline characteristics are summarized in
+theconcentration–timecurve(AUC)andthemaximumand Table 1.
+minimumobservedplasmaconcentrations(C andC ) Forty-two patients discontinued motesanib because of
+max min
+were estimated using standard noncompartmental methods disease progression (n = 23, 50 %), AE (n = 15, 33 %),
+with WinNonlin software (version 5.1.1, Pharsight Cor- administrative decision (n = 2, 4 %), and withdrawal of
+poration,MountainView,CA).Theeffectofmotesanibon consent (n = 2, 4 %). Three patients were receiving
+exposure to paclitaxel and docetaxel was investigated by motesanibatthetimeofdataanalysis.Tenof19patientsin
+calculatingtheratiopointestimatesforthegeometricleast cohort B2 and 8/12 patients in cohort B3 had dose
+123
+
+--- Page 5 ---
+BreastCancerResTreat(2012)135:241–252 245
+Table1 Patientdemographicsandbaselinecharacteristics patientshadaDLT;therefore,5patientswereenrolledinto
+Cohort A2 and received motesanib 125 mg QD plus pac-
+Allpatients(N=45)
+litaxel90 mg/m2and19were enrolled intoCohortB2and
+Race,n(%) receivedmotesanib125 mgQDplusdocetaxel100 mg/m2.
+White 41(91) There were no DLTs in Cohort A2; DLTs occurred in 3
+Black/AfricanAmerican 2(4) patients (16 %) in Cohort B2, 2 with grade 3 fatigue
+Asian 1(2) [7 days and 1 with grade 3 migraine. Motesanib 125 mg
+Other 1(2) QD was, therefore, established as the MTD, and 12 addi-
+Age,median(range) 51.0(28–81) tional patients were enrolled into Cohort B3 and received
+Estrogenreceptorstatus,n(%) motesanib125 mgQDplusdocetaxel75 mg/m2;noDLTs
+Positive 14(31) occurred in this cohort.
+Negative 2(4)
+Unknown 29(64) Adverse events
+Progesteronereceptorstatus,n(%)
+Positive 12(27) All 45 patients experienced C1 treatment-emergent AE
+Negative 4(9) during the study, of whom 29 (64 %), 6 (13 %), and 2
+(4 %) had grade 3, 4, or 5 events, respectively. Grade 4
+Unknown 29(64)
+AEs included neutropenia (Cohort A2, 1 patient; Cohort
+HER2status,n(%)
+B2, 2 patients; and Cohort B3, 1 patient), pneumonia and
+Positive 3(7)
+acuterespiratoryfailure(CohortB2,1patient),andpyrexia
+Negative 15(33)
+(Cohort B3, 1 patient). Grade 5 AEs occurred in 1 patient
+Unknown 27(60)
+(Cohort B1) who experienced grade 4 thrombocytopenia,
+ECOGperformancestatus,n(%)
+influenza, and neutropenic sepsis and later died of bron-
+0 28(62)
+chopneumonia;and1inCohortB2whoexperiencedgrade
+1 17(38)
+3 migraine, hypertension, fatigue, diplopia, asthenia,
+Numberofsitesofdiseasea,n(%)
+hyperbilirubinemia, and decreased level of consciousness
+1 19(42)
+(after a fall) and died of multiorgan failure. None of the
+2 19(42)
+grade4or5AEswereconsideredrelatedtotreatmentwith
+C3 7(15)
+motesanib.
+Patientswithpriorchemotherapyb,n(%)
+Forty patients (89 %) experienced C1 motesanib-related
+Adjuvant 32(71)
+treatment-emergent AE, 19 of whom (42 %) had grade 3
+Formetastaticdiseasec 5(11)
+motesanib-relatedAEs,themostcommonbeingfatigueand
+Patientswithpriorhormonaltherapy,n(%)
+diarrhea (Table 2). The incidence of grade 3 motesanib-
+Adjuvant 19(42)
+relatedAEswasapproximately2-foldhigheramongpatients
+Formetastaticdisease 14(31)
+whoreceivedmotesanib125 mgQDversus50 mgQD.
+Patientswithpriorradiotherapy,n(%) 31(69)
+Twenty-seven patients (60 %) had treatment-emergent
+Safety analysis set: all patients who received at least 1 dose of AEs of interest deemed related to motesanib, 7 of whom
+motesanib (16 %)hadgrade3AEs(Table 2).Thepatientswithgrade
+ECOG Eastern Cooperative Oncology Group, HER2 human epider- 3 cholecystitis, grade 3 decreased ejection fraction, or
+malgrowthfactorreceptor2
+grade 3 increased blood amylase were removed from the
+a Perinvestigatorassessment(dataunavailablefor1patientinArmA)
+study. The 2 patients with hypertension had recurrent
+b Nopatientreceivedpriorneoadjuvanttreatment
+hypertension (despite medication) and had their dose of
+c Patientsreceived1courseofpriorchemotherapy
+motesanib altered. Each of these AEs occurred after the
+DLT assessment window.
+reductions during the study; dose reductions were not Grade 2 hypertension deemed related to motesanib was
+required in other cohorts. The median follow-up time was observedin9patients; 2hadrecurrenthypertension,and1
+29.5 weeks (range 1–94 weeks). was removed from the study.
+DLTs and MTD Pharmacokinetics of motesanib, paclitaxel,
+and docetaxel
+Fivepatientsreceivedmotesanib50 mgQDpluspaclitaxel
+90 mg/m2 (Cohort A1), and 5 received motesanib 50 mg MotesanibAUC,C ,andC valueswerecomparableto
+max min
+QD plus docetaxel 100 mg/m2 (Cohort B1). None of these thoseobservedinpreviousstudies(Fig. 2).Pharmacokinetic
+123
+
+--- Page 6 ---
+246 BreastCancerResTreat(2012)135:241–252
+Table2 Motesanib-relatedAEsandeventsofinterest
+ArmAMotesanib?paclitaxel ArmBMotesanib?docetaxel ArmB All
+90mg/m2 100mg/m2 Motesanib?docetaxel patients
+75mg/m2 N=45
+CohortA1 CohortA2 CohortB1 CohortB2 CohortB3125mgQD
+50mgQD 125mgQD 50mgQD 125mgQD (n=12)
+(n=5) (n=5) (n=4) (n=19)
+Patientswithanymotesanib-related 4(80) 4(80) 4(100) 17(89) 11(92) 40(89)
+AE,n(%)a
+Patientswithanymotesanib-related 1(20) 2(40) 1(25) 9(47) 6(50) 19(42)
+AEofworstgrade3,n(%)b
+Diarrhea 0 0 0 3(16) 3(25) 6(13)
+Fatigue 0 1(20) 0 3(16) 1(8) 5(11)
+PPES 0 0 0 2(11) 0 2(4)
+Anticoagulationdruglevel 0 1(20) 0 0 0 1(2)
+elevated
+Arthralgia 0 1(20) 0 0 0 1(2)
+Eczema 0 0 0 1(5) 0 1(2)
+Hypokalemia 0 0 0 1(5) 0 1(2)
+Lethargy 0 0 0 1(5) 0 1(2)
+Migraine 0 0 0 1(5) 0 1(2)
+Patientswithanymotesanib-related 1(20) 1(20) 1(25) 2(11) 2(17) 7(16)
+AEofinterestofworstgrade3,
+n(%)b
+Cholecystitis 0 1(20) 1(25) 0 0 2(4)
+Hypertension 1(20) 0 0 1(5) 0 2(4)
+ALTincreased 0 0 0 1(5) 1(8) 2(4)
+Deepveinthrombosis 0 1(20) 0 0 0 1(2)
+Ejectionfractiondecreased 0 0 0 0 1(8) 1(2)
+Bloodamylaseincreased 1(20) 0 0 0 0 1(2)
+AEadverseevent,ALTalanineaminotransferase,CTCAECommonTerminologyCriteriaforAdverseEvents,MedDRAMedicalDictionaryof
+RegulatoryActivities,PPESpalmar-plantarerythrodysesthesiasyndrome
+a MedDRApreferredterms,gradebasedonCTCAEversion3.0
+b SomeAEsoccurredinthesamepatient
+parameters are shown in Table 3. Coadministration of approximately 3-fold increases from baseline in PLGF
+motesanib with paclitaxel increased paclitaxel C by were maintained during treatment (Fig. 3a). VEGF con-
+max
+23–45 % and increased paclitaxel AUC by 18–28 %. centrations in the serum also increased after initiation of
+0-inf
+Coadministrationofmotesanibwithdocetaxeldidnotaffect motesanib; however, the magnitude of this increase was
+docetaxel C or docetaxel AUC in Cohort B2; how- smaller than the change in PLGF, and it was transient
+max 0-inf
+ever,thedatainCohortsB1andB3showedhighvariability (Fig. 3b).
+(GLSMvaluesrangingfrom0.98to2.47)dueto1patientin
+eachcohortwithunusuallyhighexposuresduringCycle2. Tumor response
+Excludingthesepatientsfromtheanalysis,coadministration
+of motesanib did not appear to markedly affect docetaxel Thirty-two patients (71 %) had measurable disease at
+exposure inCohort B1, although C increased 53 %and baseline,andamongthe31assessedfortumorresponse,30
+max
+AUC decreased19 %inCohortB3. experienced a decrease from baseline (Fig. 4). Overall, 18
+0-inf
+of 32 patients (56 %) achieved a confirmed partial
+Pharmacodynamic biomarkers response, 12 (38 %) had stable disease (4 for C24 weeks),
+and 1 had progressive disease (Table 4). A higher inci-
+PLGF concentrations in the serum increased 24 h dence of partial responses was observed among patients
+after initiation of motesanib. In all analyzed cohorts, who received the highest dose of motesanib: 3 of 4 in
+123
+
+--- Page 7 ---
+50mgQDC 125mgQDC
+max max
+BoxPlot
+IndividualValue
+----- MedianValue
+-----
+Study1 Study2 CurrentStudy CurrentStudy Study1 Study2 CurrentStudy CurrentStudy CurrentStudy
+CohortA1 CohortB1 CohortA2 CohortB2 CohortB3
+MotesanibStudy MotesanibStudy
+50mgQDAUC 125mgQDAUC
+0-inf 0-inf
+BoxPlot
+IndividualValue
+----- MedianValue
+Study1 Study2 CurrentStudy CurrentStudy Study1 Study2 CurrentStudy CurrentStudy CurrentStudy
+CohortA1 CohortB1 CohortA2 CohortB2 CohortB3
+MotesanibStudy MotesanibStudy
+CohortA2,8of13inCohortB2,and5of9inCohortB3. 5.9 (3.4–not estimable), 6.3 (4.5–7.6), and 11.3 (5.2–12.5)
+The clinical benefit rate (complete response ? partial months for Cohorts A1, B1, B2, and B3, respectively.
+response ? stable disease C 24 weeks) was 69 %. The Because only 1 PFS event occurred in Cohort A2 before
+Kaplan–Meierestimateofthemediandurationofresponse thedatacutoff,medianPFScouldnotbeevaluatedforthis
+was between 5 and 6.3 months (Table 4). Of the 13 cohort. Among the other 4 patients, 1 had a PFS event at
+patients with nonmeasurable disease at baseline, 10 had 5.7 months,andtheother3wereonstudyfor5.6,15.0,and
+stabledisease,5withstablediseaseC24 weeks,and2had 15.2 months without progression.
+progressive disease (Table 4).
+Progression-free survival Discussion
+Atthetimeofthisanalysis,29patientshadhadPFSevents A number of anti-VEGF pathway agents have been shown
+(CohortA1,n = 3;A2,n = 1;B1,n = 3,B2,n = 14,B3, to improve outcomes for patients with MBC when used in
+n = 17). The median PFS (95 % CI) was 9.3 (3.1–21.0), combination with conventional chemotherapy [5]. In this
+)Lm/gn(
+C
+xam
+10000
+1000
+-----
+-----
+-----
+100
+-----
+N 3 6 4 4 37 11 5 19 12
+10 Median246 174 96.6 131 416 508 384 290 328
+)Lm/h·gµ(
+CUA
+fni-0
+A
+B 100
+10
+1
+N 3 5 3 4 36 9 3 17 9
+0.1 Median 1.05 1.04 0.702 0.959 2.28 2.71 3.05 2.15 1.80
+- - - - - - - - - -
+- - - - -
+- - - - -
+- - - - -
+- - - - -
+BreastCancerResTreat(2012)135:241–252 247
+Fig.2 Comparison of motesanib C (a) and AUC (b) values patientswithadvancedsolidtumors[7];study2isthephase1bstudy
+max 0-inf
+duringcycle1withC andAUC valuesobtainedfromprevious ofmotesanibincombinationwithchemotherapyorpanitumumabin
+max 0-inf
+motesanibstudies.Study1isthefirst-in-humanstudyofmotesanibin patientswithNSCLC[9]
+123
+
+--- Page 8 ---
+Table3 GLSM point estimates for the ratios of paclitaxel or doce-
+taxel C max and AUC 0-inf in patients treated with motesanib plus 7
+paclitaxelordocetaxel,versuspaclitaxelordocetaxelalone
+6 Descriptivestatistic C (ng/mL) AUC (lg(cid:2)h/mL)
+max 0-inf
+CohortA1:50mgmotesanib?90mg/m2paclitaxel 5
+N 5 5
+4
+GLSM 1.23 1.18
+90%CI 0.91–1.65 1.00–1.39
+CohortA2:125mgmotesanib?90mg/m2paclitaxel
+N 5 4–5
+GLSM 1.45 1.28
+90%CI 1.12–1.87 1.16–1.40
+CohortB1:50mgmotesanib?100mg/m2docetaxel
+N 3–4 3–4
+GLSM 2.47a 1.52a
+90%CI 0.88–6.89 0.67–3.43
+CohortB2:125mgmotesanib?100mg/m2docetaxel
+N 14–19 14–19
+GLSM 0.97 0.97
+90%CI 0.72–1.29 0.77–1.22
+CohortB3:125mgmotesanib?75mg/m2docetaxel
+N 12 10–11
+GLSM 1.90b 0.98b
+90%CI 1.17–3.08 0.61–1.56
+AUC area under the concentration–time curve, C maximum
+max
+observedplasmaconcentration,GLSMgeometricleastsquaremean
+a HighCycle2meandocetaxelC andAUC valuesandGLSM max 0-inf
+ratios were obtained from 1 patient. When this patient is excluded
+from the analysis, the resulting point estimates (90% CIs) for the
+C andAUC ratiosare1.03(0.86–1.24)and0.82(0.59–1.13),
+max 0-inf
+respectively
+b HighCycle2meandocetaxelC andAUC valuesandGLSM
+max 0-inf
+ratios were obtained from 1 patient. When this patient is excluded
+fromtheGLSManalysis,theresultingpointestimates(90%CIs)for
+C andAUC ratiosare1.53(1.16–2.01)and0.81(0.62–1.05),
+max 0-inf
+respectively
+phase 1bstudy,45patients with MBC received2different
+dosesofmotesanibincombinationwitheitherpaclitaxelor
+docetaxel. No new safety signals were observed beyond (4 %) experienced grade 3 hypertension that resulted in
+those already demonstrated in prior phase 1 studies with dose modifications. The incidence of grade 3 hypertension
+single-agent motesanib. The MTD of motesanib in com- was less than that observed in the motesanib phase 1b
+bination with either paclitaxel or docetaxel was 125 mg NSCLC trial [9] and in a phase 3 trial of bevacizumab
+QD, consistent with that reported for single-agent combinedwithpaclitaxelinMBC[16]andthesameasthat
+motesanib in patients with advanced solid tumors [7] and observedinaphase 2trial ofbevacizumabincombination
+in combination with platinum-containing chemotherapy with docetaxel in MBC [17]. The overall incidence of
+and/or panitumumab in patients with NSCLC [9]. grade C3 thromboembolic events (2 %) was less than
+Inthisstudy,AEswerenotedthathavebeenobservedin observed in the motesanib phase 1b NSCLC trial and
+previous motesanib clinical trials: hypertension, deep vein similar to that observed in the aforementioned bev-
+thrombosis, and cholecystitis. Of note, hypertension, acizumabstudies.TherewerenogradeC3bleedingevents
+thromboembolic events, and bleeding events are known in the current trial; grade 1 epistaxis was observed,
+effectsofVEGF(R)inhibitors[15].Inthisstudy,2patients occurring in 22 % of patients overall.
+FGLP
+ni
+enilesaB
+morF
+egnahC
+dloF
+)ES(
+naeM
+A
+Motesanib 50 mg QD + 100 mg/m2 docetaxel
+Motesanib 125 mg QD + 100 mg/m2 docetaxel Motesanib 125 mg QD + 75 mg/m2 docetaxel
+3
+2
+1
+–2
+73 75 78 96 120 504 505 507 510 528 552
+Treatment Hour
+N= 3 3 3 3 3
+N= 8 8 9 8 8 3 2 2 1 2 1
+N= 7 7 7 7 7 6 6 7 7 7 4
+B
+7
+6
+5
+4
+FGEV
+ni
+enilesaB
+morF
+egnahC
+dloF
+)ES(
+naeM
+248 BreastCancerResTreat(2012)135:241–252
+Motesanib 50 mg QD + 100 mg/m2 docetaxel
+Motesanib 125 mg QD + 100 mg/m2 docetaxel
+Motesanib 125 mg QD + 75 mg/m2 docetaxel
+3
+2
+1
+–2
+73 75 78 96 120 504 505 507 510 528 552
+Treatment Hour
+N= 1 1 1 1 1 N= 5 5 4 6 6 2 1 1 1 1 1
+N= 6 6 6 6 6 5 5 6 6 6 4
+Fig.3 Mean (±SE) fold change from baseline in PLGF (a) and
+VEGF (b) among patients receiving motesanib in combination with
+paclitaxel or docetaxel. No error bars are shown where only 1 or 2
+sampleswereevaluableforaparticulartimepoint
+123
+
+--- Page 9 ---
+OverallBestResponse
+egnahCegatnecrePmumixaM
+enilesaBmorFDLSni
+BreastCancerResTreat(2012)135:241–252 249
+25% Patientswithresponseassessment(N=31)
+A1
+B1B2B3B1B3A1B3B3B2B1B2B3B2B2B3A2A2B3B2B2B3B2A2B2B2 B2B3B2A1B2
+0%
+–25%
+–50%
+–75%
+Partialresponse(n=19)
+Progressivedisease(n=1)
+Stabledisease(n=11)
+–100%
+Fig.4 Changefrombaselineintumormeasurementsamongpatients motesanib 125mg QD?docetaxel 100mg/m2; B3 motesanib
+with measurable disease at baseline. Cohorts: A1 motesanib 50mg 125mg QD?docetaxel 75mg/m2. One patient in Cohort A2 had
+QD?paclitaxel 90mg/m2; A2 motesanib 125mg QD?paclitaxel noresponseassessment.SLDsumoflongestdiameters
+90mg/m2; B1 motesanib 50 mg QD?docetaxel 100mg/m2; B2
+Table4 Objectivetumorresponse
+ArmAMotesanib?paclitaxel ArmBMotesanib?docetaxel ArmB Allpatients
+90mg/m2 100mg/m2 Motesanib?docetaxel (N=45)
+75mg/m2
+CohortA1 CohortA2 CohortB1 CohortB2 CohortB3125mgQD
+50mgQD 125mgQD 50mgQD 125mgQD (n=12)
+(n=5) (n=5) (n=4) (n=19)
+Patientswithmeasurable 3(60) 4(80) 3(75) 13(68) 9(75) 32(71)
+diseaseatbaseline,n(%)
+Tumorresponsea,n(%)
+ConfirmedPR 1(33) 3(75) 1(33) 8(62) 5(56) 18(56)
+SD 2(67) 0 2(67) 4(31) 4(44) 12(38)
+Durable 0 0 0 2(15) 2(22) 4(13)
+SDC24weeks
+PD 0 0 0 1(8) 0 1(3)
+Clinicalbenefitrateb, 1(33) 3(75) 1(33) 10(77) 7(78) 22(69)
+n(%)
+Durationofresponse, 5.6 NE(4.0–11.5?) 5.9 5.0(2.3–12.7) 6.3(2.4?to10.4) 5.7
+medianmonthsc,(range) (2.3–12.7)
+Patientswith 2(40) 1(20) 1(25) 6(32) 3(25) 13(29)
+nonmeasurablediseaseat
+baseline
+Tumorresponsed,n(%)
+SD 2(100) 1(100) 1(100) 5(83) 1(33) 10(77)
+Durable 1(50) 1(100) 1(100) 2(33) 0(0) 5(38)
+SDC24weeks
+PD 0(0) 0(0) 0(0) 1(17) 1(33) 2(15)
+Clinicalbenefitrateb, 1(50) 1(100) 1(100) 2(33) 0(0) 5(38)
+n(%)
+NEnotestimable,PDprogressivedisease,PRpartialresponse,QDoncedaily,SDstabledisease
+a Noresponseassessmentdatawereavailableorresponsewasreportedas‘‘unknown’’for1patientinCohortA2
+b Clinicalbenefitrate:PR?durableSDC24weeks
+c Kaplan–Meierestimates.‘‘?’’indicatesthevalueisacensoringtime
+d OnepatientinCohortB3wasnotevaluablefortumorresponse
+123
+
+--- Page 10 ---
+250 BreastCancerResTreat(2012)135:241–252
+Grade 3 cholecystitis resulted in the discontinuation of placebo plus anthracycline- or taxane-based chemotherapy
+treatment for 2 (4 %) patients in the study. Cholecystitis or capecitabine (RIBBON-1) [26], and motesanib or bev-
+was previouslyreportedin aphase 1b study thatevaluated acizumab or placebo plus paclitaxel (TRIO 010) [27]. The
+motesanib in NSCLC [9] and in a study with the VEGFR resultsofAVADOandRIBBON-1showedthattheaddition
+inhibitor sunitinib in renal cell carcinoma [18]. The etiol- ofbevacizumabresultedinastatisticallysignificant,although
+ogy of this toxicity is not known, and patients should be modest(1.0–2.9 months),prolongationofPFS.InTRIO010,
+evaluated to exclude preexisting gallbladder abnormalities the addition of motesanib did not statistically significantly
+before receiving motesanib and monitored for unexpected improve objective responserateincomparison to paclitaxel
+abdominal symptoms. alone,althoughtherewasatrendtowardsuperiority,favoring
+Paclitaxel and docetaxel had minimal effects on the motesanib plus paclitaxel (49 %) and bevacizumab plus
+pharmacokinetics of motesanib. Similarly, paclitaxel had paclitaxel (52 %) compared with single-agent paclitaxel
+minimaleffectonmotesanibpharmacokineticparametersin (41 %).
+patientswithNSCLC[9].Inthisstudy,paclitaxelC and DespitethesomewhatdisappointingresultsofAVADO,
+max
+AUC values were generally higher (20–45 %) after RIBBON-1, and TRIO 010, VEGF(R) inhibitors have
+0-inf
+exposuretomotesanib.Similarresultswereobservedatthe provenbenefitinotherhumancancers.Further,abenefitof
+125-mg QD motesanib dose in patients with NSCLC [9]. antiangiogenesis therapies clearly exists in breast cancer
+This effect may be due to the mild inhibitory effects of and remains an area of active investigation. Motesanib
+motesaniboncytochromeP4503A4[19],whichisinvolved inhibits VEGFR1, VEGFR-2, and VEGFR-3 as well as
+inthemetabolismofpaclitaxel[20,21].Despitethiseffect, PDGFR and Kit, potentially offering additional benefit not
+thereappearedtobenoimpactonpaclitaxel-relatedtoxici- only by blocking angiogenesis but also by reducing lym-
+ties.DocetaxelAUC valuesweregenerallysimilar,with phangiogenesis, and potentially tumor growth [28–31].
+0-inf
+or without coadministration of motesanib. In contrast, Insummary,inthepresentphase1bstudy,motesanibin
+docetaxel C values were higher after exposure to combinationwithtaxaneswastolerableandshowedahigh
+max
+motesanibinsomepatientslikelydueinparttodifferencesin response rate in this population of patients with MBC.
+the infusion duration: the median infusion duration was These data warrant further exploration of motesanib in the
+slightly shorter during cycle 2 versus 1 for some patients, treatment of patients with breast cancer.
+particularlyinthoseinCohortB3.Duetohighinterpatient
+variability,theseresultsshouldbeinterpretedwithcaution. Acknowledgments The authors would like to thank Bernd Bruen-
+ner(AmgenInc.)andCindyKitahara(AmgenInc.)forbioanalytical
+The biomarker analysis showed a sustained increase in
+sample analysis; Michael B. Bass (Amgen Inc.) for biomarker anal-
+PLGF in response to motesanib treatment. These data are
+ysis; and Kathryn Boorer (Amgen Inc.) for writing assistance. This
+consistent with previous biomarker analyses of motesanib studywasfundedbyAmgenInc.
+studiesinvarioustumortypes,includingbreastcancer[14,
+Disclosure This study was funded by Amgen Inc. REMUNERA-
+22, 23]. One of those studies initially showed evidence
+TION:AdeboyeH.Adewoye(Amgen),RebecaMelara(Amgen),and
+suggesting that change in PLGF may be a predictor of
+Yining Ye (Amgen), and Robert Sikorski (formerly Amgen). CON-
+responsetomotesanibtreatmentinpatientswithMBC[22]. SULTANT/ADVISORY ROLE: Richard De Boer (Amgen, Sanofi-
+However,inthelargephase3MONET1studyofmotesanib Aventis), Arlene Chan (Amgen, Sanofi-Aventis), Peter A. Kaufman
+(Amgen). STOCK OWNERSHIP: Adeboye H. Adewoye (Amgen),
+plus carboplatin/paclitaxel in patients with nonsquamous
+Peter A. Kaufman (Amgen), Rebeca Melara (Amgen), Yining Ye
+NSCLC,whichprospectivelyassessedassociationsbetween
+(Amgen). FUNDING: Arlene Chan (Amgen, Sanofi-Aventis), Rich-
+change in PLGF and overall survival, no association ardDeBoer(Amgen),PeterA.Kaufman(Amgen),andShaneWhite
+betweenPLGFchangeandoutcomeswasidentified[24]. (Amgen).
+Although the patient numbers in our study were small,
+Ethicalstandards Theexperimentsasdescribedinthismanuscript
+the objective response rate of 56 % among patients with
+comply with the current laws of the countries in which they were
+measurable disease is promising. To put this result into performed.
+perspective,aphase3studyofbevacizumabpluspaclitaxel
+in previously untreated patients with MBC reported a Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which per-
+response rate of 49.2 % among patients with measurable
+mits any noncommercial use, distribution, and reproduction in any
+disease [16]. In addition, bevacizumab plus paclitaxel
+medium,providedtheoriginalauthor(s)andthesourcearecredited.
+prolonged median PFS compared with paclitaxel alone
+(11.8 vs. 5.9 months) [16].
+More recently, the results of 3 large phase 3 placebo-
+References
+controlled trials in patients with human epidermal growth
+factorreceptor2-negativeMBCwerereported:bevacizumab
+1. GuarneriV,ConteP(2009)Metastaticbreastcancer:therapeutic
+or placebo plus docetaxel (AVADO) [25], bevacizumab or options according to molecular subtypes and prior adjuvant
+123
+
+--- Page 11 ---
+BreastCancerResTreat(2012)135:241–252 251
+therapy. Oncologist 14(7):645–656. doi:10.1634/theoncologist. 13. Cancer Therapy Evaluation Program (2006) Common Termi-
+2009-0078 nology Criteria for Adverse Events v3.0 (CTCAE). http://ctep.
+2. GordonMS,MendelsonDS,KatoG(2009)Tumorangiogenesis cancer.gov/protocoldevelopment/electronic_applications/docs/
+and novel antiangiogenic strategies. Int J Cancer 126(8):1777– ctcaev3.pdf.Accessed10April2012
+1787.doi:10.1002/ijc.25026 14. BassMB,ShermanSI,SchlumbergerMJ,DavisMT,KivmanL,
+3. Foekens JA, Peters HA, Grebenchtchikov N, Look MP, Meijer- Khoo HM, Notari KH, Peach M, Hei YJ, Patterson SD (2010)
+van Gelder ME, Geurts-Moespot A, van der Kwast TH, Sweep Biomarkersaspredictorsofresponsetotreatmentwithmotesanib
+CG, Klijn JG (2001) High tumor levels of vascular endothelial in patients with progressive advanced thyroid cancer. J Clin
+growth factor predict poor response to systemic therapy in EndocrinolMetab95(11):5018–5027.doi:10.1210/jc.2010-0947
+advancedbreastcancer.CancerRes61(14):5407–5414 15. Eskens FA, Verweij J (2006) The clinical toxicity profile of
+4. LinderholmB,GrankvistK,WilkingN,JohanssonM,TavelinB, vascular endothelial growth factor (VEGF) and vascular endo-
+Henriksson R(2000)Correlation ofvascular endothelial growth thelial growth factor receptor (VEGFR) targeting angiogenesis
+factorcontentwithrecurrences,survival,andfirstrelapsesitein inhibitors; a review. Eur J Cancer 42(18):3127–3139. doi:
+primarynode-positivebreastcarcinomaafteradjuvanttreatment. 10.1016/j.ejca.2006.09.015
+JClinOncol18(7):1423–1431 16. MillerK,WangM,GralowJ,DicklerM,CobleighM,PerezEA,
+5. Giovannini M, Aldrighetti D, Zucchinelli P, Belli C, Villa E Shenkier T, Cella D, Davidson NE (2007) Paclitaxel plus bev-
+(2010) Antiangiogenic strategies in breast cancer management. acizumab versus paclitaxel alone for metastatic breast cancer.
+Crit Rev Oncol Hematol 76(1):13–35. doi:10.1016/j.critrevonc. NEnglJMed357(26):2666–2676.doi:10.1056/NEJMoa072113
+2009.12.004 17. Ramaswamy B, Elias AD, Kelbick NT, Dodley A, Morrow M,
+6. PolverinoA,CoxonA,StarnesC,DiazZ,DeMelfiT,WangL, Hauger M, Allen J, Rhoades C, Kendra K, Chen HX, Eckhardt
+Bready J, Estrada J, Cattley R, Kaufman S, Chen D, Gan Y, SG,ShapiroCL(2006)PhaseIItrialofbevacizumabincombi-
+Kumar G, Meyer J, Neervannan S, Alva G, Talvenheimo J, nationwithweeklydocetaxelinmetastaticbreastcancerpatients.
+Montestruque S, Tasker A, Patel V, Radinsky R, Kendall R Clin Cancer Res 12(10):3124–3129. doi:10.1158/1078-0432.
+(2006) AMG 706, an oral, multikinase inhibitor that selectively CCR-05-2603
+targets vascular endothelial growth factor, platelet-derived 18. MotzerRJ,RiniBI,BukowskiRM,CurtiBD,GeorgeDJ,Hudes
+growth factor, and kit receptors, potently inhibits angiogenesis GR,RedmanBG,MargolinKA,MerchanJR,WildingG,Gins-
+and induces regression in tumor xenografts. Cancer Res berg MS, Bacik J, Kim ST, Baum CM, Michaelson MD (2006)
+66(17):8715–8721.doi:10.1158/0008-5472.can-05-4665 Sunitinibinpatientswithmetastaticrenalcellcarcinoma.JAMA
+7. RosenLS,KurzrockR,MulayM,VanVugtA,PurdomM,NgC, 295(21):2516–2524.doi:10.1001/jama.295.21.2516
+Silverman J,KoutsoukosA,SunYN,BassMB, XuRY,Polve- 19. YanL,WongS,WathenL,ChangD,NiL,IngramM,ParsonM,
+rinoA,WiezorekJS,ChangDD,BenjaminR,HerbstRS(2007) RosenL(2005)Thepharmacokinetic(PK)effectofAMG706on
+Safety, pharmacokinetics, and efficacy of AMG 706, an oral CYP3Aactivityevaluatedbyuseoforalmidazolamasprobein
+multikinase inhibitor, in patients with advanced solid tumors. patients with advanced solid tumors [abstract]. J Clin Oncol
+JClinOncol25(17):2369–2376.doi:10.1200/JCO.2006.07.8170 23(Suppl16):3178
+8. ShermanSI,WirthLJ,DrozJP,HofmannM,BastholtL,Martins 20. RochatB(2005)RoleofcytochromeP450activityinthefateof
+RG, Licitra L, Eschenberg MJ, Sun YN, Juan T, Stepan DE, anticancer agents and in drug resistance: focus on tamoxifen,
+Schlumberger MJ (2008) Motesanib diphosphate in progressive paclitaxel and imatinib metabolism. Clin Pharmacokinet
+differentiated thyroid cancer. N Engl J Med 359(1):31–42. doi: 44(4):349–366
+10.1056/NEJMoa075853 21. Scripture CD, Sparreboom A, Figg WD (2005) Modulation of
+9. BlumenscheinGRJr,ReckampK,StephensonGJ,O’RourkeT, cytochromeP450activity:implicationsforcancertherapy.Lan-
+Gladish G, McGreivy J, Sun YN, Ye Y, Parson M, Sandler A cetOncol6(10):780–789.doi:10.1016/S1470-2045(05)70388-0
+(2010) Phase 1b study of motesanib, an oral angiogenesis 22. PattersonSD,DavisMT,MackeyJ,MartinM,HeiY-J,BassMB
+inhibitor, in combination with carboplatin/paclitaxel and/or pa- (2010) Biomarkers as potential predictors of response to treat-
+nitumumab for the treatment of advanced non-small cell lung ment with motesanib or bevacizumab in combination with pac-
+cancer.ClinCancerRes16(1):279–290.doi:10.1158/1078-0432. litaxel (P) in patients (Pts) with locally recurrent or advanced
+ccr-09-1675 metastaticbreastcancer[abstract/poster].JClinOncol28(Suppl
+10. CoxonA,BushT,SaffranD,KaufmanS,BelmontesB,RexK, 7):1048
+HughesP,CaenepeelS,RottmanJB,TaskerA,PatelV,Kendall 23. Bass MB, Davis MT, Kivman L, Khoo H-M, Notari K, Blu-
+R, Radinsky R, Polverino A (2009) Broad antitumor activity in menscheinGRJr,MackeyJ,ShermanSI,HeiY-J,PattersonSD
+breast cancer xenografts by motesanib, a highly selective, oral (2010) Placental growth factor as a marker of therapeutic
+inhibitor of vascular endothelial growth factor, platelet-derived responsetotreatmentwithmotesanibinpatientswithprogressive
+growthfactor,andKitreceptors.ClinCancerRes15(1):110–118. advancedthyroidcancer,advanced nonsquamousnon-small-cell
+doi:10.1158/1078-0432.CCR-08-1155 lung cancer, andlocally recurrent oradvanced metastatic breast
+11. Sweeney CJ, Miller KD, Sissons SE, Nozaki S, Heilman DK, cancer[abstract].JClinOncol28(Suppl7):3037
+Shen J, Sledge GW Jr (2001) The antiangiogenic property of 24. Scagliotti G, Vynnychenko I, Park K, Ichinose Y, Kubota K,
+docetaxel is synergistic with a recombinant humanized mono- Blackhall F, Pirker R, Galiulin R, Ciuleanu T, Sydorenko O,
+clonal antibody against vascular endothelial growth factor or Dediu M, Papai-Szekely Z, Martinez Banaclocha N, McCoy S,
+2-methoxyestradiol but antagonized by endothelial growth fac- Yao B, Hei YJ, Galimi F, Spigel DR (2012) International, ran-
+tors.CancerRes61(8):3369–3372 domized, placebo-controlled, double-blind phase III study of
+12. TherasseP,ArbuckSG,EisenhauerEA,WandersJ,KaplanRS, motesanib plus carboplatin/paclitaxel in patients with advanced
+Rubinstein L, Verweij J, Van Glabbeke M, van Oosterom AT, nonsquamous non-small-cell lung cancer: MONET1. J Clin
+ChristianMC,GwytherSG(2000)Newguidelinestoevaluatethe Oncol.doi:10.1200/JCO.2011.41.4987
+responsetotreatmentinsolidtumors.EuropeanOrganizationfor 25. Miles DW, Chan A, Dirix LY, Cortes J, Pivot X, Tomczak P,
+ResearchandTreatment ofCancer,NationalCancerInstituteof DelozierT,SohnJH,ProvencherL,PuglisiF,HarbeckN,Steger
+the United States, National Cancer Institute of Canada. J Natl GG, Schneeweiss A, Wardley AM, Chlistalla A, Romieu G
+CancerInst92(3):205–216 (2010)PhaseIIIstudyofbevacizumabplusdocetaxelcompared
+123
+
+--- Page 12 ---
+252 BreastCancerResTreat(2012)135:241–252
+withplaceboplusdocetaxelforthefirst-linetreatmentofhuman breast cancer: a phase 2, randomised, double-blind, placebo-
+epidermal growth factor receptor 2-negative metastatic breast controlled study. Lancet Oncol 12(4):369–376. doi:10.1016/
+cancer. J Clin Oncol 28(20):3239–3247. doi:10.1200/JCO.2008. S1470-2045(11)70037-7
+21.6457 28. Song S, Ewald AJ, Stallcup W, Werb Z, Bergers G (2005)
+26. RobertNJ,DierasV,GlaspyJ,BrufskyA,BondarenkoI,Lipatov PDGFRbeta? perivascular progenitor cells in tumours regulate
+O,PerezE,YardleyD,ChanY,ZhouX,PhanS,O’Shaughnessy pericyte differentiation and vascular survival. Nat Cell Biol
+J (2011) RIBBON-1: randomized, double-blind, placebo-con- 7(9):870–879.doi:10.1038/ncb1288
+trolled, phase III trial of chemotherapy with or without bev- 29. Dvorak HF (2002) Vascular permeability factor/vascular endo-
+acizumab for first-line treatment of human epidermal growth thelial growth factor: a critical cytokine in tumor angiogenesis
+factor receptor 2-negative, locally recurrent or metastatic beast and a potential target for diagnosis and therapy. J Clin Oncol
+cancer. J Clin Oncol 29(10):1252–1260. doi:10.1200/JCO.2010. 20(21):4368–4380
+28.0982 30. Heinrich MC, Blanke CD, Druker BJ, Corless CL (2002) Inhi-
+27. MartinM,RocheH,PinterT,CrownJ,KennedyMJ,Provencher bition of KIT tyrosine kinase activity: a novel molecular
+L,PriouF,EiermannW,AdroverE,LangI,RamosM,Latreille approach to the treatment of KIT-positive malignancies. J Clin
+J,Jagiello-GruszfeldA,PienkowskiT,AlbaE,SnyderR,Almel Oncol20(6):1692–1703
+S,RolskiJ,MunozM,MorooseR,HurvitzS,BanosA,Adewoye 31. SuJL,YangPC,ShihJY,YangCY,WeiLH,HsiehCY,Chou
+H,HeiYJ,LindsayMA,RupinM,CabaribereD,LemmerickY, CH,JengYM,WangMY,ChangKJ,HungMC,KuoML(2006)
+MackeyJR,TRIO010investigators(2011)Motesanib,oropen- The VEGF-C/Flt-4 axis promotes invasion and metastasis of
+label bevacizumab, in combination with paclitaxel, as first-line cancer cells. Cancer Cell 9(3):209–223. doi:10.1016/j.ccr.2006.
+treatment for HER2-negative locally recurrent or metastatic 02.018
+123

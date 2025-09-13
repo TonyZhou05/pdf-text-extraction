@@ -1,0 +1,821 @@
+Source: 28718812.pdf
+Extracted on: Fri Sep 12 23:57:19 PDT 2025
+==================================================
+
+--- Page 1 ---
+International Journal o f
+Molecular Sciences
+Communication
+Therapeutic Efficacy of the Novel Stimuli-Sensitive
+Nano-Ferritins Containing Doxorubicin in a Head
+and Neck Cancer Model
+VerenaDamiani1,ElisabettaFalvo2,GiulioFracasso3,LucaFederici1,MartinaPitea2,4,
+VincenzoDeLaurenzi1,GianlucaSala1,* ID andPierpaoloCeci2,* ID
+1 DepartmentofMedical,OralandBiotechnologicalSciencesandCeSI-MetCentroScienze
+dell’InvecchiamentoeMedicinaTraslazionale,Universita“G.d’Annunzio”diChieti-Pescara,
+Chieti66100,Italy;verena.damiani@unich.it(V.D.);lfederici@unich.it(L.F.);delaurenzi@unich.it(V.D.L.)
+2 InstituteofMolecularBiologyandPathology,NationalResearchCouncilofItaly(CNR),Rome00185,Italy;
+elisabetta.falvo@uniroma1.it(E.F.);pitea.1723539@studenti.uniroma1.it(M.P.)
+3 DepartmentofMedicine,UniversityofVerona,Verona37134,Italy;giulio.fracasso@univr.it
+4 DepartmentofBiochemicalSciences“A.RossiFanelli”,SapienzaUniversityofRome,Rome00185,Italy
+* Correspondence:g.sala@unich.it(G.S.);pierpaolo.ceci@cnr.it(P.C.);Tel.:+39-064-991-0862(P.C.);
+Fax:+39-064-440-062(P.C.)
+Received:23June2017;Accepted:15July2017;Published:18July2017
+Abstract:Doxorubicinisemployedaloneorincombinationforthetreatmentofseveralhematological
+and solid malignancies; despite its efficacy, there are associated cardiotoxicity limits both in its
+applicationinpatientswithheartdiseaseriskfactorsandalsoinitslong-termuse. HFt-MP-PAS40is
+ageneticallyengineeredhumanferritinheavychain(HFt)-basedconstructabletoefficientlyentrap
+anddeliverdoxorubicintocancercells. HF-MP-PAScontainsashortmotifsequence(definedas
+MP)responsivetoproteolyticcleavagebytumormatrixmetalloproteases(MMPs),locatedbetween
+eachHFtsubunitandamaskingpolypeptidesequencerichinproline(P),alanine(A),andserine
+(S) residues (PAS). This carrier displayed excellent therapeutic efficacy in a xenogenic pancreatic
+cancer model invivo, leading to a significant increase in overall animal survival in treated mice.
+Herein,wedescribetheHFt-MP-PAS40-Doxefficacyagainstsquamouscellcarcinomasofthehead
+andneck(HNSCC)withthegoalofvalidatingtheapplicationofournano-drugforthetreatment
+of different solid tumors. In addition, a tolerability study in healthy mice was also performed.
+TheresultsindicatethatHFt-MP-PAS40-Doxproducedincreasedanti-tumoreffectsbothinvitroand
+invivo in comparison to the free drug in several HNSCC cell lines. In the acute toxicity studies,
+the maximum tolerated dose (MTD) of HFt-MP-PAS40-Dox was about 3.5 higher than the free
+drug: 25mg/kgversus7mg/kgdoxorubicinequivalents. Importantly,evaluationofhearttissues
+providedevidencethatdoxorubicinislesscardio-toxicwhenencapsulatedinsidetheferritincarrier.
+Inconclusion,HFt-MP-PAS40-Doxmaybeadministeredsafelyathigherdosescomparedwiththe
+freedrug,resultinginsuperiorefficacytocontrolHNSCCmalignancies.
+Keywords: pasylated ferritin; stimuli-sensitive peptides; doxorubicin; drug-delivery; head and
+neckcancer
+1. Introduction
+Human ferritin heavy chain (HFt)-based carriers have been shown to efficiently deliver
+chemotherapeuticstocancercells[1–8]. HFtisacage-shapedproteinformedby24identicalsubunits
+withexternalandinternaldiametersof12and8nm,respectively[9–15]. Animportantadvantageof
+theHFtsystemistheabilitytobeinternalizedbymanytypesoftumorcellsviathetransferrinreceptor
+1(TfR1). Itwasreportedthatawidenumberoftumorsexpressupto100timeshigherlevelsofTfR1
+Int.J.Mol.Sci.2017,18,1555;doi:10.3390/ijms18071555 www.mdpi.com/journal/ijms
+
+--- Page 2 ---
+Int.J.Mol.Sci.2017,18,1555 2of9
+thanhealthycellsandactivelyinternalizetheHFt:TfR1ligand-receptorcomplextoaccumulatelarge
+amountsofironrequiredforthegrowthofcancercells[16,17].
+Recently,wehavedevelopedanovelHFt-basedconstruct,namedHFt-MP-PAS40,suitablefor
+drugdelivery. Thiswasdictatedbythenecessityofincreasingboththeinvivohalf-lifeofnativeHFt
+andthestabilityofHFt-drugcomplexesproduced. ThisconstructischaracterizedbyanN-terminusof
+eachHFtsubunitgeneticallyfusedto: (i)aPASpolypeptidesequenceof40residuesrichinproline(P),
+alanine(A),andserine(S)residues[4,18];and(ii)ashortmotifsequence(definedasMP)responsiveto
+proteolyticcleavagebytumormatrixmetalloproteases(MMPs),insertedbetweeneachHFtsubunit
+andtheouterPASpolypeptide. ThePASshieldwasusedasanalternativetothelesshomogenousand
+moreexpensivepolyethyleneglycol(PEG)-basedpolymers. ThepresenceoftheMPsequenceallows
+thePASshieldtobeselectivelyremovedbyaspecificstimuluspresentinthetumormicroenvironment
+sothattheresultingunmaskedHFtcanfreelybeinternalizedbyTfR1overexpressedintumorcells.
+The HFt-MP-PAS40 construct was able to encapsulate, in the internal cavity, three times
+more doxorubicin (Dox) than wild-type HFt, forming more stable complexes with higher invivo
+circulationtime. Significantly,Dox-loadedHFt-MP-PAS40(HFt-MP-PAS40-Dox)displayedexcellent
+antineoplasticpropertiesinvitrotowardshumansarcomaandpancreaticadenocarcinomacells,and
+alsohumanpancreaticxenotransplantsinvivo[18].
+ThegoalofthepresentstudywastoexpandourpreclinicalstudiesontheHFt-MP-PAS40-Dox,
+evaluating it on head and neck cancers. This type of cancer is often referred to as squamous cell
+carcinomas of the head and neck (HNSCC), because it begins in the squamous cells that line the
+mucosalsurfacesinsidetheheadandneck. Headandneckcancersaccountforapproximately4%
+of all cancers in the United States [19]. The median overall survival for patients with recurrent
+and/or metastatic (R/M) HNSCC remains < 1 year despite modern systemic chemotherapy and
+targetedagents. Cisplatin-basedchemotherapyisanimportantpartofthemultimodalitytreatment
+for HNSCC [20,21]. However, the effectiveness of cisplatin-based monotherapy is far from being
+satisfactory. Inthepresentstudy,wereporttheuseofHFt-MP-PAS40-Doxasananticancertherapyin
+axenograftmousemodelwiththegoalofimprovingthetreatmentofhumanHNSCC.
+2. ResultsandDiscussion
+2.1. DoxEncapsulationinHFt-MP-PAS40
+DoxencapsulationinsideHFt-MP-PAS40wasachievedfollowingthedisassembly/reassembly
+procedurereportedpreviously[4]. Theencapsulationefficiencyusingthisprocedureallowedabout
+90moleculesofDoxtobeentrappedinsidetheproteincage,thatisavalueapproximatelythreetimes
+higherthanthenativeHFt. ThishigheryieldwasmainlyascribedtothestabilizingeffectofthePAS
+polymer toward the extreme conditions required by the pH-jump used to dissociate (pH 2.0) and
+re-associate(pH8.0)the24-merassembly. However,toinvestigateifthePASpolymermaydirectly
+interact with the Dox molecules, we decided to remove the PAS polymer after Dox encapsulation
+andcheckitforDoxcontent. PASpolymerwasremovedusingthespecificmatrixmetalloproteases
+2and9. Afterthecleavageanddialysissteps,HFt-Doxcontainedabout86Doxmolecules,indicating
+thatanegligiblefractionofDoxmoleculescouldbeboundbythePASpolymer. Thesamplesproduced
+werekeptinsterilePBSatpH7.4andusedforthefollowingstudies.
+2.2. InVitroAntiproliferativeEffectsofHFt-MP-PAS40-DoxNanocarriers
+EfficacyofHFt-MP-PAS40-Doxhasbeendemonstratedpreviouslyinpancreaticcancerxenograft
+model[18]. Herein,wedecidedtoextendthesefindingstoothercancersrepresentingclearunmet
+medical needs such as HNSCC. HNSCC is now the seventh most common cancer worldwide,
+withamedian overall survival for patients with recurrent and/or metastatic tumor remains less
+thanoneyeardespitemodernsystemicchemotherapyandtargetedagents. TheHFtsystemhasthe
+abilitytobeinternalizedbymanytypesoftumorcellsviathetransferrinreceptor1(TfR1). Awide
+
+--- Page 3 ---
+Int.J.Mol.Sci.2017,18,1555 3of9
+Int. J. Mol. Sci. 2017, 18, 1555 3 of 8
+Int. J. Mol. Sci. 2017, 18, 1555 3 of 8
+numberoftumortypes(e.g., liver, lung, pancreatic, colon, cervical, ovarian, prostateandbladder,
+glioblastoma, breast, sarcoma, leukemia, etc.) express high levels of TfR1. First of all, we performed
+gglliioobbllaassttoommaa,, bbrreeaasstt,, ssaarrccoommaa,, lleeuukkeemmiiaa,, eettcc..)) eexxpprreessss hhiigghh lleevveellss ooff TTffRR11.. FFiirrsstt ooff aallll,, wwee ppeerrffoorrmmeedd
+western-blot experiments to also verify the presence of this receptor on HNSCC cells of different
+wweesstteerrnn--bblloott eexxppeerriimmeennttss ttoo aallssoo vveerriiffyy tthhee pprreesseennccee ooff tthhiiss rreecceeppttoorr oonn HHNNSSCCCC cceellllss ooff ddiiffffeerreenntt
+origin: hypopharynx (FaDu), pharynx (Detroit 562), and submaxillary salivary gland (A-253) (Figure
+oorriiggiinn:: hhyyppoopphhaarryynnxx ((FFaaDDuu)),,p phhaarryynnxx( D(Deetrtoroitit5 6526)2,)a, nadnds usbumbmaxaixlliallrayrysa sliavliavrayrgyl agnladn(dA (-A25-32)53(F) i(gFuigreu1re).
+1). All the HNSCC cells tested express TfR1 (Figure 1). We then assessed the killing ability of Dox-
+A1)l.l Athlel tHheN HSCNCSCceCll scteellsst etdesetxepdr eexsspTrefsRs1 T(fFRig1u (rFeig1u).rWe 1e)t.h Wene atshseens saesdsethsseekdi ltlhineg kailbliilnitgy aobfiDlitoyx o-lfo aDdoexd-
+loaded HFt-MP-PAS40 on these cell lines.
+HloFadt-eMdP H-PFAt-SM40P-oPnAtSh4e0se ocne tllhleisnee sc.ell lines.
+Figure 1. Transferrin receptor (TfR1) expression in the human HNSCC cell lines tested. β-actin was
+F F i i g g u u r r e e 1 1 . . TTrraannssffeerrrriinn rreecceeppttoorr ((TTffRR11)) eexxpprreessssiioonn iinn tthhee hhuummaann HHNNSSCCCC cceellll lliinneess tteesstteedd.. β β--aaccttiinn wwaass
+used as a loading control.
+usedasaloadingcontrol.
+used as a loading control.
+As shown in Figure 2, HFt-MP-PAS40-Dox was able to kill all the HNSCC cells tested in a dose-
+AAss sshhoowwnn inin FiFgiugruer e2, 2H,FHt-FMt-PM-PPA-PSA40S-4D0o-Dx owxasw aabslea tbol ekitlol aklli ltlhae lHl tNhSeCHCN ceSlClsC tecsetellds itne sat eddosien-
+dependent manner even better than the naked Dox. This is remarkable, since in cell culture systems
+adedpoesned-ednetp menadnennetr mevaennn beertteevr etnhabne tthteer ntahkaend tDhoex.n Tahkeisd isD reomx.arkTahbisle,i ssinrecme ianr kcaeblll ecu, lstuinrcee syinstecmelsl
+naked drugs freely diffuse into cells, whereas HFt-nanocarriers deliver the drug Dox by rate-limiting
+cnualkteudre dsryusgtse mfresenlya kdeifdfudseru ingtsof creelellsy, wdhifefuresaesi HntFot-cneallnso,cwarhreierresa sdeHliFvte-rn tahneo dcarurrgi eDrsoxd belyiv reartet-hliemditriungg
+receptor-mediated uptake. This result can be ascribed to the considerable nuclear accumulation of
+Dreocxepbtoyr-rmateed-liiamteidti nugptraekcee.p Ttohri-sm reedsuialtt ecdanu pbeta aksec.ribTehdis tore tshuel tccoannsidbeeraabscler ibneudcletoar tahcecucomnusliadteioranb olef
+the delivered drug, as revealed previously by confocal microscopy experiments [7,18,22]. The
+nthuec ldeaerlivaecrceudm durluatgi,o nas orfevtheealedde lipvreerveidoudslryu gb,y acsonrefovceaall emdicprroesvcioopuys lyexbpyericmonenfotsc a[l7,m18i,c2r2o]s. coTphye
+mechanism proposed by different groups included ourselves suggest that following TfR1 binding at
+emxepcehraimniesnmts p[r7o,1p8o,2se2d]. bTyh edimffeecrehnatn gisrmoupprso ipnocsleuddebdy oduifrfseerlevnetsg sruogugpesstin tchlautd feodlloowurinsegl vTefsRs1u bgignedsitntgh aatt
+cell surface, HFt-Dox carrier is internalized in an endosomal compartment where a mildly acidic (pH
+fcoellllo swurinfagceT,f HR1Ftb-iDnodxin cgarartiecre lils siunrtfearcnea,lHizeFdt- Dino axnc eanrrdieorsoisminatl ecronmalpizaerdtminenatn wehnedroes ao mmailldcloym apciadritcm (penHt
+5.5) favors some Dox release/translocation in the cytoplasm, diffusion to the nucleus, and initial DNA
+w5.5h)e rfaevaomrsi lsdolmyea cDidoixc r(pelHea5s.e5/)trfaanvoslroscsaotmioen Dino txhree cleyatsoep/latrsamns, ldoicfafutisoinonin toth tehec yntuocplleausms, ,adnidff iunsiitoianl tDoNthAe
+damage. In this way, Dox would then trigger a self-sustained, progressive nuclear translocation loop
+nduamcleaugse,. aInn dthiinsi wtiaalyD, DNoAx dwaomualdg eth. eInn tthriigsgwera ya, sDeolfx-swusotuailndetdh,e pnrotrgigregsesrivaes nelufc-sleuasrt atirnaendsl,opcraotgiornes lsoiovpe
+leading to extensive cell damage. Once in the cell nucleus, HFt is degraded releasing most of the Dox
+nleuacdleinagr ttroa enxstloencastiivoen cleolol pdalmeaadgine.g Otonceex tienn tshive ececlell lnduacmleuags,e H. OFtn icse dinegtrhaedceedll rneulecalesiunsg, HmFotsits odf etghrea Ddeodx
+loaded. Likewise, our HFt-based canocarriers are likely to act like “Trojan horses” delivering high
+rloelaedaesdin. gLimkeowstiosef,t houerD HoxFtl-obaadseedd. cLainkoecwairsreie,rosu arrHe Flitk-belays etdo caacnt olickaer r“iTerrsojaarne lhikoerslyest”o daecltivliekrein“gT rhoijganh
+amounts of the drug right to the site of action of the drug itself.
+hamoroseusn”tsd oelfi vtheer idnrguhgi grihghamt toou tnhtes soitfet hoef adcrtuiognr iogfh tthteo dtrhuegs iitteseolff. actionofthedrugitself.
+Figure 2. In vitro effects of HFt-MP-PAS40-Dox. Killing efficacy of Dox and HFt-MP-PAS40-Dox
+FFiigguurree 22.. IInn vviittrroo eeffffeeccttss ooff HHFFtt--MMPP--PPAASS4400--DDooxx.. KKiilllliinngg eeffffiiccaaccyy ooff DDooxx aanndd HHFFtt--MMPP--PPAASS4400--DDooxx
+against human HNSCC cell lines. Cells were incubated for 72 h with different concentration of drugs.
+aaggaaiinnsstt hhuummaann HHNNSSCCCC cceellll lliinneess.. CCeellllss wweerree iinnccuubbaatteedd ffoorr 7722 hh wwiitthh ddiiffffeerreenntt ccoonncceennttrraattiioonn ooff ddrruuggss..
+Cell viability was analyzed by CellTiter-Blue® Cell Viability Assay. Mean ± SD (n = 3), experiments
+CCeellll vviiaabbiilliittyy wwaass aannaallyyzzeedd bbyy CCeellllTTiitteerr--BBlluuee ® ® CCeellll VViiaabbiilliittyy AAssssaayy.. MMeeaann ± ± SSDD ((nn == 33)),, eexxppeerriimmeennttss
+were performed in triplicates.
+wweerree ppeerrffoorrmmeedd iinn ttrriipplliiccaatteess..
+2.3. Therapeutic Evaluation of HFt-MP-PAS40-Dox Efficacy In Vivo
+22..33.. TThheerraappeeuuttiicc EEvvaalluuaattiioonn ooff HHFFtt--MMPP--PPAASS4400--DDooxx EEfffificcaaccyy IInn VViivvoo
+The therapeutic efficacy of HFt-MP-PAS40-Dox was then evaluated in vivo in a model FaDu-
+TThhee tthheerraappeeuutticic efeffificaccayc yofo HfFHt-FMt-PM-PPA-PSA40S-4D0o-Dx owxasw tahsent heevnalueavtaeldu ainte dvivino viniv ao minodael mFaoDdue-l
+derived xenografts. Three million cells were inoculated subcutaneously in nude mice and when
+FdaeDrivue-dde xrievneodgrxaefntso. gTrahfrtese. mThilrleioenm cielllilos nwceerlels inwoecruelainteodc usluabtecdutsaunbeocuutsalyn eionu nsluydien mnuicdee amndic ewahnedn
+tumors reached an average volume of 100 mm3 animals where divided in three arms (n = 7) and
+wtuhmenortsu mreoarcshereda cahne davaenraagvee rvaogleuvmoelu omf e1o0f0 1m00mm3 man3imanaimls awlshwerhee rdeivdiidveidde dini nthtrheree eaarmrms s((nn == 77)) aanndd
+treated with a total of five injections (twice weekly). Mock treated mice were i.v. injected with 200 μL
+ttrreeaatteedd wwiitthh aa ttoottaall ooff ffiivvee iinnjjeeccttiioonnss ((ttwwiiccee wweeeekkllyy)).. MMoocckk ttrreeaatteedd mmiiccee wweerree ii..vv.. iinnjjeecctteedd wwiitthh 220000 μµLL
+of PBS; for treated mice, the injected doses were normalized to the drug (i.e., 5 mg/kg for both Dox
+ooff PPBBSS;; ffoorr ttrreeaatteeddm micicee,,t htheei ninjejcetcetdedd dosoessesw wereeren onromrmaliazleizdedto ttoh ethder udgru(gi. e(.i,.e5.,m 5g m/kgg/kfgo rfobro tbhotDho Dxooxr
+or HFt-MP-PAS40-Dox). The dose used in this in vivo setting is slightly below the reported maximum
+or HFt-MP-PAS40-Dox). The dose used in this in vivo setting is slightly below the reported maximum
+tolerated dose for Dox (MTD: about 6–7 mg/kg) [23]. As shown in Figure 3A, while free Dox treatment
+tolerated dose for Dox (MTD: about 6–7 mg/kg) [23]. As shown in Figure 3A, while free Dox treatment
+slightly reduced tumor growth, HFt-MP-PAS40-Dox treatment resulted in significant and lasting
+slightly reduced tumor growth, HFt-MP-PAS40-Dox treatment resulted in significant and lasting
+
+--- Page 4 ---
+Int.J.Mol.Sci.2017,18,1555 4of9
+HFt-MP-PAS40-Dox). Thedoseusedinthisinvivosettingisslightlybelowthereportedmaximum
+Itnot.l eJ.r Matoel.d Scdi.o 2s0e17f,o 1r8D, 1o55x5 (MTD:about6–7mg/kg)[23]. AsshowninFigure3A,whilefreeDoxtreatm4 oefn 8t
+slightlyreducedtumorgrowth,HFt-MP-PAS40-Doxtreatmentresultedinsignificantandlastingtumor
+tgurmowort hgrionwhitbhi tiinohni.bOitifonno. tOe,f antodtea,y at1 7dafryo 1m7 tfhroemst athrte osftadrrtu ogf addrumgi naidsmtraintiiostnr,attwioon,o tuwtoo ofuset voefn semviecne
+mice showed nearly a complete remission (Figure 3B), resulting in a prolonged survival of 65+ days
+showednearlyacompleteremission(Figure3B),resultinginaprolongedsurvivalof65+daysafterthe
+after the start of the treatment (Figure 3C). Overall, the median survival time for HFt-MP-PAS40-
+startofthetreatment(Figure3C).Overall,themediansurvivaltimeforHFt-MP-PAS40-Dox-treated
+Dox-treated mice was 55 days versus 35 days for Dox and 30 days for saline control animals.
+micewas55daysversus35daysforDoxand30daysforsalinecontrolanimals.
+No differences in terms of body weight loss was observed in any of the treated groups (Figure
+Nodifferencesintermsofbodyweightlosswasobservedinanyofthetreatedgroups(Figure3D).
+3D). This result resembles that reported by our group using a nude mice bearing xenogeneic
+Thisresultresemblesthatreportedbyourgroupusinganudemicebearingxenogeneicpancreatic
+pancreatic (PaCa-44) tumor model [18].
+(PaCa-44)tumormodel[18].
+Figure 3. Anti-tumor activity of HFt-MP-PAS40-Dox in mice bearing FaDu tumors. (A) Tumor-
+Figure3.Anti-tumoractivityofHFt-MP-PAS40-DoxinmicebearingFaDutumors.(A)Tumor-growth
+growth curves for mouse groups are indicated. Student’s t-test is used to determine the statistical
+curvesformousegroupsareindicated.Student’st-testisusedtodeterminethestatisticalsignificance.
+significance. * p < 0.05 and ** p < 0.001; (B) Single animal tumor sizes at day 17; (C) Survival curves of
+*p<0.05and**p<0.001;(B)Singleanimaltumorsizesatday17;(C)Survivalcurvesofdifferent
+different animal groups bearing FaDu tumors. Animals were sacrificed when the tumor had reached
+animalgroupsbearingFaDutumors.Animalsweresacrificedwhenthetumorhadreachedavolume
+a
+o f
+v≥ol
+1
+u
+5
+m
+00
+e
+m
+of
+m
+≥31
+.
+5
+S
+0
+t
+0
+a t
+m
+ist
+m
+ic
+3
+a
+.
+l
+S
+a
+t
+n
+a
+a
+ti
+l
+s
+y
+t
+s
+i
+i
+c
+s
+al
+w
+a
+a
+n
+s
+a
+p
+ly
+er
+s
+f
+i
+o
+s
+r
+w
+m
+a
+e
+s
+d
+p
+b
+e
+y
+rf
+L
+o
+o
+r
+g
+m
+-r
+e
+a
+d
+n k
+by
+te
+L
+st
+o
+.
+g
+C
+-r
+o
+a
+n
+n
+tr
+k
+o l
+te
+v
+s
+s
+t
+.
+.
+D
+C
+o
+o
+x
+nt
+*
+ro
+p
+l
+<
+v
+0
+s
+.
+.
+0
+D
+5.
+o
+C
+x
+o
+*
+n
+p
+tr o
+<
+l
+0
+v
+.
+s
+0
+.
+5.
+H
+C
+F
+o
+t
+n
+-M
+tro
+P
+l
+- P
+v
+A
+s.
+S
+H
+40
+F
+-
+t
+D
+-M
+ox
+P-
+*
+P
+*
+ApS4
+<
+0-
+0
+D
+.0
+o
+0
+x
+1 .
+**
+D
+p
+o
+<
+x
+0
+v
+.
+s
+0
+.
+01
+H
+. D
+Ft
+o
+-M
+x v
+P
+s
+-
+.
+P
+H
+A
+F
+S4
+t-
+0
+M
+-D
+P
+o
+-P
+x
+A
+*
+S
+*
+4p0-
+<
+D
+0
+o
+.
+x
+0 0
+*
+1
+*
+.
+p
+A
+<
+r
+0
+r
+.
+o
+0
+w
+01
+s
+.
+i
+A
+n
+r
+d
+r
+i
+o
+c
+w
+at
+s
+e
+i
+t
+n
+h
+d
+e
+ic
+fi
+a
+v
+te
+e
+t
+t
+h
+re
+e
+a
+f
+t
+i
+m
+ve
+e n
+tr
+t
+e
+s
+a
+(
+t
+5
+m
+m
+en
+g
+t
+/
+s
+k
+(5
+g
+m
+D
+g
+o
+/
+x
+kg
+e q
+D
+u
+o
+iv
+x
+a
+e
+le
+q
+n
+u
+t
+i
+s
+v
+)
+a
+;
+l
+(
+eDnt
+)
+s)
+B
+;
+o
+(
+d
+D
+y
+) B
+w
+o
+e
+d
+ig
+y
+h
+w
+t c
+e
+h
+ig
+a
+h
+n
+t
+g
+c
+e
+h
+s
+a
+o
+n
+f
+ge
+tu
+s
+m
+of
+o r
+tu
+-b
+m
+ea
+o
+r
+r
+i
+-
+n
+b
+g
+ea
+m
+rin
+ic
+g
+e
+mafitceer atrfeteart mtreenattms.ents.
+2.4. Tolerability of HFt-MP-PAS40-Dox
+2.4. TolerabilityofHFt-MP-PAS40-Dox
+To assess the Dox-associated toxicity of HFt-MP-PAS40-Dox, we performed histopathological
+ToassesstheDox-associatedtoxicityofHFt-MP-PAS40-Dox,weperformedhistopathological
+examination of liver and heart tissues derived from the efficacy studies. It has been reported that the
+examinationofliverandhearttissuesderivedfromtheefficacystudies. Ithasbeenreportedthatthe
+liver is the main organ for ferritin accumulation, while heart is a key tissue due to the well reported
+liveristhemainorganforferritinaccumulation,whileheartisakeytissueduetothewellreported
+cardiotoxicity associated to the Dox chemotherapy in clinical trials [3]. The animals of all treated
+cardiotoxicity associated to the Dox chemotherapy in clinical trials [3]. The animals of all treated
+groups show no evidence of liver injuries, as evaluated by IHC (data not shown).
+groupsshownoevidenceofliverinjuries,asevaluatedbyIHC(datanotshown).
+In the examined heart tissues, diffuse blood congestion, cytoplasmic myocyte vacuolization, and
+In the examined heart tissues, diffuse blood congestion, cytoplasmic myocyte vacuolization,
+size variation in myocyte nuclei were observed in the Dox-treated group (Figure 4B) as compared to
+andsizevariationinmyocytenucleiwereobservedintheDox-treatedgroup(Figure4B)ascompared
+the control group (Figure 4A). In contrast, only a light blood congestion phenomena were observed
+for the HFt-MP-PAS40-Dox-treated group (Figure 4C).
+Therefore, treatment with HFt-MP-PAS40-Dox nanocarrier can represent a promising option for
+anthracycline therapeutic regimens in cardiosensitive subjects as it did not display apparent
+anthracycline-related cardiotoxicity. These results well agree with those reported by other groups
+using HFt-Dox as nanocarrier [3,24].
+
+--- Page 5 ---
+Int.J.Mol.Sci.2017,18,1555 5of9
+tothecontrolgroup(Figure4A).Incontrast,onlyalightbloodcongestionphenomenawereobserved
+fortheHFt-MP-PAS40-Dox-treatedgroup(Figure4C).
+Therefore, treatment with HFt-MP-PAS40-Dox nanocarrier can represent a promising option
+for anthracycline therapeutic regimens in cardiosensitive subjects as it did not display apparent
+anthracycline-relatedcardiotoxicity. Theseresultswell agreewiththosereportedbyothergroups
+usingHFt-Doxasnanocarrier[3,24].
+Int. J. Mol. Sci. 2017, 18, 1555 5 of 8
+Figure 4. Representative images of the histologic evaluation of heart sections of animals from the
+Figure4. Representativeimagesofthehistologicevaluationofheartsectionsofanimalsfromthe
+control (A), Dox (B), and HFt-MP-PAS40-Dox (C) groups. A normal heart morphology is observed in
+control(A),Dox(B),andHFt-MP-PAS40-Dox(C)groups. Anormalheartmorphologyisobserved
+(A). Diffuse blood congestion (Co), cytoplasmic myocyte vacuolization (V), and size variation in
+in(A).Diffusebloodcongestion(Co),cytoplasmicmyocytevacuolization(V),andsizevariationin
+myocyte nuclei (N) are present in (B), whereas (C) shows only a light blood congestion (Co).
+myocytenuclei(N)arepresentin(B),whereas(C)showsonlyalightbloodcongestion(Co).
+In addition to the histopathological experiments, a single-dose tolerability study was performed.
+Inadditiontothehistopathologicalexperiments,asingle-dosetolerabilitystudywasperformed.
+Healthy BALB/c mice were i.v. administered with HFt-MP-PAS40-Dox or free Dox at different mg/kg
+HealthyBALB/cmicewerei.v. administeredwithHFt-MP-PAS40-DoxorfreeDoxatdifferentmg/kg
+Dox equivalents doses and monitored for body weight and signs of distress as well. The maximum
+Doxequivalentsdosesandmonitoredforbodyweightandsignsofdistressaswell. Themaximum
+tolerated doses (MTDs) for these single injections were determined to be 7 mg/kg for Dox and 25
+tolerated doses (MTDs) for these single injections were determined to be 7 mg/kg for Dox and
+mg/kg for HFt-MP-PAS40-Dox. At these doses, no abnormal clinical observations or appreciable
+25mg/kgforHFt-MP-PAS40-Dox. Atthesedoses,noabnormalclinicalobservationsorappreciable
+body weight loss (less than 5%) were observed. All these results demonstrate that the encapsulation
+bodyweightloss(lessthan5%)wereobserved. Alltheseresultsdemonstratethattheencapsulationof
+of Dox into HFt-based nanocarriers greatly improves the drug tolerability and suggest that higher
+DoxintoHFt-basednanocarriersgreatlyimprovesthedrugtolerabilityandsuggestthathigherdoses
+doses than the 5 mg/kg regimen used here could be exploited for future experiments.
+thanthe5mg/kgregimenusedherecouldbeexploitedforfutureexperiments.
+3. Materials and Methods
+3. MaterialsandMethods
+33..11.. CClloonniinngg,, OOvveerreexxpprreessssiioonn,, aanndd PPuurriifificcaattiioonn ooff HHFFtt--MMPP--PPAASS4400--DDooxx CCoonnssttrruucctt
+TThhee rerecocommbbininanantpt rpotreoitneiHn FtH-MFtP-M-PAP-SP4A0Sw4a0s ewxapsr esesxepdreinssEesdc hienri chEisachcoelrii,cphuiar ificoeldi,, apnudriqfiueadn, tiafinedd
+aqsupanretivfiioedu salys pdreesvciroibuesdly[ 1d8e]s.cribed [18].
+33..22.. DDooxx EEnnccaappssuullaattiioonn iinn HHFFtt--BBaasseedd NNaannooccaarrrriieerrss
+TThhee cchheemmootthheerraappeeuutitcica aggenenttd odxooxrourbuibciincin(D (ODXO)X(M) (eMdKedoKooBoio Bscioiesnccieens,cMeso, rMriosvrrililsev,iNlleC, ,NUCSA, U)wSAas)
+ewnacsa pensucalaptseudlautseidn gustihnegp trheev pioruevsliyoureslpyo rretepdorHteFdt HdiFsta sdsiesmasbselym/brelya/srseeamssbelmybplryo cperdocuerdeu(Srec h(Semcheem1)e[ 41]).
+B[4r]i.e flByri,esfolylu, tsioolnustioofnHs Fotf- MHPF-tP-MASP4-P0AinS400.1 iMn 0N.1a CMl wNearCeli nwcuerbea tiendcufobrat1e0dm foinr a1t0p mHin2. 5at( ppHHa 2d.j5u s(tpeHd
+waditjuhsHtedC lw).itThh HenC,lD). oTxhwena, sDaodxd wedast oadthdeedso tlou ttihoen saotlu30ti0o:n1 amt o3l0a0r:1ra mtioolwari trhatrieos pweictht troestpheecpt rtoot ethine.
+TphroetepiHn. wThase ipnHiti awllays minaitiinatlalyin medaiantt2a.i5nefodr a5t m2.i5n foanr d5 tmhienn ainncdr ethaseend intocr7e.a5suedsi ntog 7N.5a OusHin.gT hNearOesHu.l tTinhge
+sreosluutltioinng wsoaslustitoirnre dwaast rsotiormredt eamt preoroamtu rteemfopre3r0atumrien ,fofirl te3r0e dmainn,d fidltiearlyedze danod. nd.ivasly.zpehdo sop.nh.a pvtse.
+bpuhfofseprhsaaplitne ebu(PffBeSr )saaltinpeH (PB7.S4) atot prHem 7o.4v etou rnemboouvned unDbooxu.ndA Dftoexr. tAheftedr itahlye sdisi,alcyesnist,r icfeungtaritfiuognatainodn
+caonndc ecnotnrcaetinotnrasttieopns ,spterposte, ipnraontedinD oaxndco Dntoexn tcwonetreentth ewnedree ttehrmeni ndeedteursminingetdh euDsiOnXg mthoel aDrOexXt inmctoiloanr
+ceoxetifnficctiieonnt cεo=ef1f2ic,2ie5n0t Mε =− 112·c,2m5−0 1Ma−t14·c8m5−n1 mat. 4D8o5x ncmo.n Dteonxt wcoansteanlsto weavsa laulsaote edvaafltueartPeAd Safpteorly PmAeSr preomlyomvearl.
+Erenmzyomvaalt. icEcnlezayvmaagteicw acslepaevrafgoer mwedasa spdeersfocrrimbeedd paresv idoeussclryibuesdin gprceovlliaoguesnlya seuIsVin(gC oclolallgaegneansaeseT ypIVe
+4(CcoolnlatagienniansgeM TyMpPe2 4a cnodnt9a,iCnilnogst rMidMiuPm2 ahnisdto 9l,y Ctilcousmtr,idAiubnmo vhais,tGoleyrtmicaunmy,) A[1b8n].ova, Germany) [18].
+
+--- Page 6 ---
+Int.J.Mol.Sci.2017,18,1555 6of9
+Int. J. Mol. Sci. 2017, 18, 1555 6 of 8
+SScchheemmee 11.. SScchheemmaatitcicr erpeprerseesnetnattaitoinono fotfh ethsey nsythnetshiessoisf HofF tH-MFtP-M-PAP-SP4A0-SD4o0x-D.Fooxr. cFloarr itcylapriutyrp posuersp,oosnelsy,
+4onoluyt 4o fouthte o2f 4thme o2d4i mfieoddHifiFetdN H-tFetr Nm-itneiramreinsih aorwe nsh.own.
+33..33.. AAnnttiipprroolliiffeerraattiivvee EEffffeeccttss ooff HHFFtt--MMPP--PPAASS4400--DDooxx IInn VViittrroo
+FFaaDDuu,, DDeettrrooiitt 556622,, aanndd AA--225533 ((AATTCCCC,, RRoocckkvviillllee,, MMDD,, UUSSAA)) hheeaadd aanndd nneecckk ccaanncceerr cceellll lliinneess wweerree
+sseeeeddeedd oonnee ddaayyb beefoforeret rteraetamtmenetnitn in90 9µ0L μoLf coof mcopmleptelemtee dmiuedmiuinm9 i6n-w 9e6l-lwceulllt ucrueltmuricer ompilcartoeps.laTthese. nTehxet
+dnaexy,t cdealyls, wceellrse winecrueb iantceudbiantetdri pinl itcraitpeliwcaitteh w10ithµ L10o fμsLe roifa lsedriilault dioinluotifoDn ooxf Danodx HanFdt -HMFPt--PMAPS-4P0A-DS4o0x-.
+ADfotexr. wAaftredrsw,7a2rdhs,c 7el2l hv icaeblill vitiyabwilaistyi nwvaess tiingvaetesdtigbayteCde bllyT iCteerl-lBTliuteer®-BCluelel®V Ciaeblli lVitiyabAislistayy A(Pssraoym (ePgraomItaelgiaa,
+MItailliaan, ,MItiallayn), aIctacloyr)d ainccgotrodtihneg mtoa tnhuef macatonruyfainctsotrruyc itniostnrsu.ctions.
+33..44.. WWeesstteerrnn BBlloott AAnnaallyyssiiss
+WWhhoollee cceelllll ylsyasteastews ewreeprere pparreepdauresdin guiscien-gc oilcdel-ycosilsdb ulyffseisr sbuupfpfelerm seunptepdlewmiethntperdo tewaistehi nphriobtietoarsse.
+Pinrhotibeiintocrosn. Pternottewina scodnetteernmt winaesd dbeyteBrrmadinfoerdd bmy eBtrhaoddf.oTrdw menettyhmodic. rTowgreanmtys mofitcorotaglrparmotse oinf stowtaelr eprlooatediends
+ownerae1 l0o%adSeDdS o-nPA aG 1E0%an SdDtSr-aPnAsfGerEr eadndto traannistfreorcreeldlu tloo sae nmitermocberllaunleo.seT hmeemmebmrabnrea.n Tehwe amsebmlobcrkaendew witahs
+5b%locnkoetd-f watitdhr y5%m nilokt-ifnatP dBrSy wmiitlhk 0in.0 P1%BST wwiethe n0.2001%fo Trw1ehenat 2r0o foomr 1t ehm apt erroaotmur eteamnpderthateunrein acnudb athteedn
+oinvceurnbiagthedtw oivtherpnriigmhat rwyaitnht ipboridmieasr:ya natni-ttibraosdfeiersri: na(nTtfiR-t1ra)srefecrerpinto r(TufsRe1d) 1r:1e0ce0p0t(oArb ucasmed, C1:a1m00b0r id(Ageb,cUamK),
+aCnadmabnritdi-gβe-,a cUtiKn) uasnedd a1n:4t0i-,β00-a0c(tiSnig umsead-A 1l:d4r0i,c0h0,0M (Siliagnm,aI-tAallyd)r.iTchh,e Mntilhaenm, Ietamlyb)r. aTnheewn atshew masehmedbraannde
+iwnacus bwataesdhefodr a1nhda tinrcouobmatteedm fpoerr a1t uhre awt irthootmhe tceomrrpeespraotnudrein gwihtohr stehrea dciosrhrepseproonxdidinagse -hcoornsjeurgaadtiesdh
+speecroonxdidaarysea-ncotinbjoudgya,tdedil usetecdon1d:2a0r,y00 a0n(tBibiooRdyad, d,Miluiltaend, 1I:t2a0ly,0)0.0B o(BuinodRaadn,t iMboildaines, Iwtaelyre).d Beotuecntded anutsiibnogdtihees
+ewnehraen dceetdecctheedm uisliunmg itnhees ecnenhta(nEcCedL )chmeemthiloudm(iPneerskciennEtl (mEeCrLI)t amlieat,hModil a(Pn,erItkailnyE).lmer Italia, Milan, Italy).
+3.5. TherapeuticEvaluationofHFt-MP-PAS40-DoxInVivo
+3.5. Therapeutic Evaluation of HFt-MP-PAS40-Dox In Vivo
+Six-week-oldfemaleCD1nudemice(CharlesRiverLaboratories;Calco,LC,Italy)wereinjected
+Six-week-old female CD1 nude mice (Charles River Laboratories; Calco, LC, Italy) were injected
+subcutaneouslyintherightflankwith3×106FaDucellsresuspendedin200µLofPBS.Whentumors
+subcutaneously in the right flank with 3 × 106 FaDu cells resuspended in 200 μL of PBS. When tumors
+reachedavolumeofabout100mm3,micewererandomizedingroupsofsevenanimalsandinjected
+reached a volume of about 100 mm3, mice were randomized in groups of seven animals and injected
+i.v. with 200 µL of PBS, Dox or HFt-MP-PAS40-Dox. The treatment dose normalized to the Dox
+i.v. with 200 μL of PBS, Dox or HFt-MP-PAS40-Dox. The treatment dose normalized to the Dox
+concentrationwas5mg/kg. Miceweretreatedfivetimestwiceaweek;tumorvolumewasmeasured
+concentration was 5 mg/kg. Mice were treated five times twice a week; tumor volume was measured
+with a caliper and mouse weight was monitored. A tumor volume of 1500 mm3 was chosen as
+with a caliper and mouse weight was monitored. A tumor volume of 1500 mm3 was chosen as
+endpointafterwhichmiceweresacrificed. SurvivalcurveswerederivedfromKaplan–Meierestimates
+endpoint after which mice were sacrificed. Survival curves were derived from Kaplan–Meier
+andcomparedbylog-ranktest(GraphPadPrism5). Animalstudieswereperformedaccordingto
+estimates and compared by log-rank test (GraphPad Prism 5). Animal studies were performed
+aprotocolapprovedbytheInstitutionalAnimalCareandUseCommitteeofUniversityofVeronaand
+according to a protocol approved by the Institutional Animal Care and Use Committee of University
+authorizedbytheItalianMinistryofHealth(ProtocolNo. 128/2014-B,28/03/2014),andinaccordance
+of Verona and authorized by the Italian Ministry of Health (Protocol No. 128/2014-B, 28/03/2014), and
+withtheprincipleslaiddownintheEuropeanCommunityCouncilDirectives.
+in accordance with the principles laid down in the European Community Council Directives.
+
+--- Page 7 ---
+Int.J.Mol.Sci.2017,18,1555 7of9
+3.6. Histology
+When the tumor volumes exceeded 1500 mm3, animals were sacrificed. Mice heart and liver
+tissueswereisolatedandplacedinto4%formaldehydesolution(Bio-Optica,Milan,Italy)forfixation,
+thendehydratedandfinallyembeddedinparaffin. Sectionswerecutforhematoxylinandeosin(HE)
+stainingandorgantoxicityanalysis.
+4. Conclusions
+To our knowledge, this report is the first to evaluate the antitumor effects of the novel
+stimuli-sensitivenano-ferritincontainingdoxorubicin(HFt-MP-PAS40-Dox)inanyheadandneck
+cancer malignancy. The pharmacological activity of the drug against a panel of different HNSCC
+cellswasdemonstratedbyperformingviabilityassaysinvitro. Theinvitroresultsshowedthatthe
+anti–HNSCCeffectsofHFt-MP-PAS40-DoxwerecomparableorevensuperiortothenakedDox.
+Strikingly, HFt-MP-PAS40-Dox displayed excellent therapeutic efficacy in the head and neck
+cancermodelFaDuinvivo,reducingtumorgrowthandincreasinganimaloverallsurvivalsignificantly.
+Thehigherinvivoefficacyofournanosystemcouldbeascribabletothecombinedcontributionof
+activetumortargetingthatexploitstheselectiveTfR1expressiononHNSCCcells,andtheincreased
+deliveryintothecellnucleusasobservedpreviously.
+Fromadrugtolerabilitypointofview,acutetoxicityandhistopathologicalstudiesindicatethat
+Doxisbettertoleratedwhenencapsulatedinsidetheproteincavity. Themaximumtolerateddose
+ofHFt-MP-PAS40-Doxwasabout3.5higherthanthefreedrugandtheevaluationofhearttissues
+providedevidenceforasaferprofileofournanosystemintermsofcardiotoxicity.
+All the above findings provide support to carrying out additional preclinical studies on
+HFt-MP-PAS40-Dox either as single agent, possibly at higher doses, or in combination with other
+drugsincancertherapy.
+Acknowledgments:WewouldliketothankRossanaLaSordaandRossanoLattanzioforassistancewithhistology
+experiments. ThisresearchwassupportedbyMIURofItaly(flagshipProject“Nanomax”toPierpaoloCeci)
+andAssociazioneItalianaperlaRicercasulCancro-AIRC(I.G.Grant16776toPierpaoloCeci;IG201618467
+to Gianluca Sala; IG 15196 to Vincenzo De Laurenzi; I.G. Grant 15197 to Luca Federici). Giulio Fracasso
+gratefullyacknowledgesFondazioneCariverona,VeronaNanomedicineInitiativeandItalianMinisterofHealth
+RF-2010-2305526forsupportingthiswork.
+AuthorContributions: VerenaDamianiandElisabettaFalvocontributedequallytothiswork;PierpaoloCeci,
+GianlucaSala,LucaFederici,andVincenzoDeLaurenziconceivedanddesignedtheexperiment;VerenaDamiani,
+ElisabettaFalvo,GiulioFracasso,andMartinaPiteacarriedouttheexperiments;PierpaoloCeci,GianlucaSala,
+ElisabettaFalvo,VerenaDamiani,andGiulioFracassoanalyzedthedataanddraftedthepaper;PierpaoloCeci,
+GianlucaSala,LucaFederici,GiulioFracasso,andVincenzoDeLaurenzirevisedthemanuscript.Allauthorshave
+readandapprovedthemanuscript.
+ConflictsofInterest:Theauthorsdeclarenoconflictofinterest.
+References
+1. Falvo,E.;Tremante,E.;Fraioli,R.;Leonetti,C.;Zamparelli,C.;Boffi,A.;Morea,V.;Ceci,P.;Giacomini,P.
+Antibody-drugconjugates:Targetingmelanomawithcisplatinencapsulatedinprotein-cagenanoparticles
+basedonhumanferritin.Nanoscale2013,5,12278–12285.[CrossRef][PubMed]
+2. Liu,X.Y.;Wei,W.;Huang,S.J.;Lin,S.S.;Zhang,X.;Zhang,C.M.;Du,Y.G.;Ma,G.H.;Li,M.;Mann,S.;etal.
+Bio-inspired protein-gold nanoconstruct with core-void-shell structure: Beyond a chemo drug carrier.
+J.Mater.Chem.B2013,1,3136–3143.[CrossRef]
+3. Liang,M.;Fan,K.;Zhou,M.;Duan,D.;Zheng,J.;Yang,D.;Feng,J.;Yan,X.H-ferritin-nanocageddoxorubicin
+nanoparticlesspecificallytargetandkilltumorswithasingle-doseinjection.Proc.Natl.Acad.Sci.USA2014,
+111,14900–14905.[CrossRef][PubMed]
+4. Falvo, E.; Tremante, E.; Arcovito, A.; Papi, M.; Elad, N.; Boffi, A.; Morea, V.; Conti, G.; Toffoli, G.;
+Fracasso,G.;etal.ImprovedDoxorubicinEncapsulationandPharmacokineticsofFerritin-FusionProtein
+
+--- Page 8 ---
+Int.J.Mol.Sci.2017,18,1555 8of9
+NanocarriersBearingProline,Serine,andAlanineElements. Biomacromolecules2015,17,514. [CrossRef]
+[PubMed]
+5. Kilic, M.A.; Ozlu, E.; Calis, S. A Novel Protein-Based Anticancer Drug Encapsulating Nanosphere:
+Apoferritin-DoxorubicinComplex.J.Biomed.Nanotechnol.2012,8,508–514.[CrossRef][PubMed]
+6. Zhen, Z.; Tang, W.; Chen, H.; Lin, X.; Todd, T.; Wang, G.; Cowger, T.; Chen, X.; Xie, J. RGD-Modified
+ApoferritinNanoparticlesforEfficientDrugDeliverytoTumors.ACSNano2013,7,4830–4837.[CrossRef]
+[PubMed]
+7. Zhang,L.B.;Li,L.;diPenta,A.;Carmona,U.;Yang,F.;Schops,R.;Brandsch,M.;Zugaza,J.L.;Knez,M.
+H-ChainFerritin:ANaturalNucleiTargetingandBioactiveDeliveryNanovector.Adv.Healthc.Mater.2015,
+4,1305–1310.[CrossRef][PubMed]
+8. Blazkova,I.;Nguyen,H.V.;Dostalova,S.;Kopel,P.;Stanisavljevic,M.;Vaculovicova,M.;Stiborova,M.;
+Eckschlager,T.;Kizek,R.;Adam,V.ApoferritinmodifiedmagneticparticlesasDoxorubicincarriersfor
+anticancerdrugdelivery.Int.J.Mol.Sci.2013,14,13391–13402.[CrossRef][PubMed]
+9. Vannucci,L.;Falvo,E.;Fornara,M.;diMicco,P.;Benada,O.;Krizan,J.;Svoboda,J.;Hulikova-Capkova,K.;
+Morea,V.;Boffi,A.;etal.SelectivetargetingofmelanomabyPEG-maskedprotein-basedmultifunctional
+nanoparticles.Int.J.Nanomed.2012,7,1489–1509.
+10. Heger, Z.; Skalickova, S.; Zitka, O.; Adam, V.; Kizek, R. Apoferritin applications in nanomedicine.
+Nanomedicine2014,9,2233–2245.[CrossRef][PubMed]
+11. Truffi,M.;Fiandra,L.;Sorrentino,L.;Monieri,M.;Corsi,F.;Mazzucchelli,S.Ferritinnanocages:Abiological
+platformfordrugdelivery,imagingandtheranosticsincancer.Pharmacol.Res.2016,107,57–65.[CrossRef]
+[PubMed]
+12. Bode,S.A.;Minten,I.J.;Nolte,R.J.;Cornelissen,J.J.Reactionsinsidenanoscaleproteincages.Nanoscale2011,
+3,2376–2389.[CrossRef][PubMed]
+13. Bellapadrona,G.;Sinkar,S.;Sabanay,H.;Liljeström,V.;Kostiainen,M.;Elbaum,M.Supramolecularassembly
+andcoalescenceofferritincagesdrivenbydesignedprotein-proteininteractions.Biomacromolecules2015,16,
+2006–2011.[CrossRef][PubMed]
+14. Lee,E.J.;Lee,N.K.;Kim,I.S.Bioengineeredprotein-basednanocagefordrugdelivery.Adv.DrugDeliv.Rev.
+2016,106,157–171.[CrossRef][PubMed]
+15. Schoonen,L.;vanHest,J.C.M.Functionalizationofprotein-basednanocagesfordrugdeliveryapplications.
+Nanoscale2014,6,7124–7141.[CrossRef][PubMed]
+16. Fan,K.;Cao,C.;Pan,Y.;Lu,D.;Yang,D.;Feng,J.;Song,L.;Liang,M.;Yan,X.Magnetoferritinnanoparticles
+fortargetingandvisualizingtumortissues.Nat.Nanotechnol.2012,7,459–464.[CrossRef][PubMed]
+17. Li, L.; Fang, C.J.; Ryan, J.C.; Niemi, E.C.; Lebron, J.A.; Bjorkman, P.J.; Arase, H.; Torti, F.M.; Torti, S.V.;
+Nakamura, M.C.; Seaman, W.E. Binding and uptake of H-ferritin are mediated by human transferrin
+receptor-1.Proc.Natl.Acad.Sci.USA2010,107,3505–3510.[CrossRef][PubMed]
+18. Fracasso,G.;Falvo,E.;Colotti,G.;Fazi,F.;Ingegnere,T.;Amalfitano,A.;Doglietto,G.B.;Alfieri,S.;Boffi,A.;
+Morea,V.;etal.Selectivedeliveryofdoxorubicinbynovelstimuli-sensitivenano-ferritinsovercomestumor
+refractoriness.J.Control.Release2016,239,10–18.[CrossRef][PubMed]
+19. Siegel,R.L.; Miller,K.D.; Jemal,A.Cancerstatistics,2017. CACancerJ.Clin. 2017,67,7–30. [CrossRef]
+[PubMed]
+20. Adelstein,D.J.;Saxton,J.P.;Rybicki,L.A.;Esclamado,R.M.;Wood,B.G.;Strome,M.;Lavertu,P.;Lorenz,R.R.;
+Carroll,M.A.Multiagentconcurrentchemoradiotherapyforlocoregionallyadvancedsquamouscellhead
+andneckcancer: Matureresultsfromasingleinstitution. J.Clin. Oncol. 2006,24,1064–1071. [CrossRef]
+[PubMed]
+21. Kogashiwa,Y.;Yamauchi,K.;Nagafuji,H.;Matsuda,T.;Tsubosaka,T.;Tsutsumi,T.;Karaho,T.;Kohno,N.
+Concurrentchemoradiotherapyfororganfunctionpreservationinadvancedpatientswithhypopharyngeal
+andlaryngealcancer.Oncol.Rep.2009,22,1163–1167.[PubMed]
+22. Bellini,M.;Mazzucchelli,S.;Galbiati,E.;Sommaruga,S.;Fiandra,L.;Truffi,M.;Rizzuto,M.A.;Colombo,M.;
+Tortora, P.; Corsi, F.; et al. Protein nanocages for self-triggered nuclear delivery of DNA-targeted
+chemotherapeuticsinCancerCells.J.Control.Release2014,196,184–196.[CrossRef][PubMed]
+
+--- Page 9 ---
+Int.J.Mol.Sci.2017,18,1555 9of9
+23. Lee,C.C.; Gillies,E.R.; Fox,M.E.; Guillaudeu,S.J.; Frechet,J.M.J.; Dy,E.E.; Szoka,F.C.Asingledoseof
+doxorubicin-functionalizedbow-tiedendrimercuresmicebearingC-26coloncarcinomas.Proc.Natl.Acad.
+Sci.USA2006,103,16649–16654.[CrossRef][PubMed]
+24. Mazzucchelli,S.; Bellini,M.; Fiandra,L.; Truffi,M.; Maria,A.; Sorrentino,L.; Longhi,E.; Nebuloni,M.;
+Prosperi,D.;Corsi,F.Nanometronomictreatmentof4T1breastcancerwithnanocageddoxorubicinprevents
+drugresistanceandcircumventscardiotoxicity.Oncotarget2017,8,8383–8396.[CrossRef][PubMed]
+©2017bytheauthors.LicenseeMDPI,Basel,Switzerland.Thisarticleisanopenaccess
+articledistributedunderthetermsandconditionsoftheCreativeCommonsAttribution
+(CCBY)license(http://creativecommons.org/licenses/by/4.0/).

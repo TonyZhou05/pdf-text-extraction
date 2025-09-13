@@ -1,0 +1,642 @@
+Source: 34787778.pdf
+Extracted on: Fri Sep 12 23:57:00 PDT 2025
+==================================================
+
+--- Page 1 ---
+Journal of Neuro-Oncology (2021) 155:307–317
+https://doi.org/10.1007/s11060-021-03877-6
+CLINICAL STUDY
+Afatinib and radiotherapy, with or without temozolomide, in patients
+with newly diagnosed glioblastoma: results of a phase I trial
+Frank Saran1,2 · Liam Welsh1 · Allan James3 · Catherine McBain4 · Rao Gattamaneni4 · Sarah Jefferies5 ·
+Fiona Harris5 · Karine Pemberton6 · Jennifer Schaible7 · Shaun Bender8 · Agnieszka Cseh9 · Michael Brada10
+Received: 3 August 2021 / Accepted: 13 October 2021 / Published online: 17 November 2021
+© The Author(s) 2021
+Abstract
+Background Glioblastoma multiforme (GBM) is the most common primary malignant brain tumor in adults. Amplification
+or overexpression of the epidermal growth factor receptor gene, part of the ErbB family, occur in approximately 40% and 60%
+of patients with GBM, respectively. We present data from a dose-finding study of the ErbB inhibitor afatinib in combination
+with radiotherapy (RT), with or without temozolomide (TMZ), in patients with GBM.
+Methods This was a phase I, open-label, 3 + 3 dose-escalation trial in patients with newly-diagnosed, histologically-con-
+firmed grade 4 malignant glioma and proven O6-methylguanine-DNA methyltransferase gene promoter methylation status.
+The primary endpoint was the maximum tolerated dose (MTD) of continuous daily afatinib when given in combination with
+RT, with (regimen M) or without (regimen U) concomitant TMZ treatment.
+Results Fifty-five patients were enrolled; 36 received ≥ 1 dose of trial medication (regimen M, n = 20, regimen U, n = 16).
+Afatinib was discontinued by all patients during the study. Reasons for afatinib discontinuation (regimen M/U) included
+disease progression (45%/50%), dose-limiting toxicity (10%/0%), and other adverse events (AEs; 35%/38%). The most
+frequently reported AEs with either regimen were diarrhea and rash, with no new safety signals identified. The MTD was
+determined as afatinib 30 mg in combination with daily TMZ and RT, and afatinib 40 mg in combination with RT alone.
+Conclusions This study identified the MTD for afatinib in combination with RT, with and without TMZ, in patients with
+GBM. Further studies of afatinib in patients with GBM are warranted and should be based on appropriate biomarker-based
+preselection.
+Trial registration NCT00977431 (first posted September 15, 2009).
+Keywords Glioblastoma · Afatinib · Dose-escalation · Temozolomide · Radiotherapy
+Agnieszka Cseh passed away in May 2021.
+Frank Saran and Michael Brada have contributed equally to this
+work.
+* Frank Saran 6 Boehringer Ingelheim Ltd, Bracknell, UK
+FSaran@adhb.govt.nz 7 Boehringer Ingelheim Pharma GmbH & Co. KG, Biberach,
+1 The Royal Marsden NHS Foundation Trust, London, UK Germany
+2 Present Address: Cancer and Blood Service, Auckland City 8 Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT,
+USA
+Hospital, Building 8, 99 Park Road, Grafton, Private Bag
+92024, Auckland 1142, New Zealand 9 Boehringer Ingelheim International GmbH, Ingelheim,
+3 The Beatson West of Scotland Cancer Centre, Glasgow, UK Germany
+4 The Christie NHS Foundation Trust, Manchester, UK 10 Clatterbridge Cancer Centre NHS Foundation Trust,
+Bebington, UK
+5 Cambridge University Hospitals NHS Foundation Trust,
+Cambridge, UK
+Vol.:(0112 33456789)
+
+--- Page 2 ---
+3 08 Journal of Neuro-Oncology (2021) 155:307–317
+Introduction showed a manageable safety profile and modest efficacy
+in this hard-to-treat population [31]. There was no dif-
+Glioblastoma multiforme (GBM) is the most common ference in OS between the treatment arms in the overall
+malignant primary brain tumor in adults [1] and is associ- trial population; however, in the small number of patients
+ated with a poor prognosis, with a median progression- assessed by biomarker subgroup analysis, there was a
+free survival (PFS) of 7.4‒10.7 months [2–4] and median non-statistically significant trend towards increased PFS
+overall survival (OS) of 14.6 months [5]. Limited progress in afatinib-treated patients expressing the EGFR-variant
+has been made in improving outcomes for patients with III (EGFR-vIII) mutation, an EGFR variant frequently
+GBM in recent decades [1]. First-line therapy for newly found in GBM [14]. Given that EGFR overexpression or
+diagnosed patients is maximal safe surgical resection, fol- mutation may contribute to poor outcomes and progression
+lowed by radiotherapy (RT) and temozolomide (TMZ) [6]. of GBM, and that preclinical and clinical data have high-
+However, response to TMZ treatment can vary depending lighted potential for afatinib to elicit antitumor activity in
+upon the methylation status of the methyl-guanine methyl GBM, we hypothesized that addition of afatinib to RT and
+transferase (MGMT) enzyme promoter [7, 8]. Additionally, TMZ may improve tumor responses and/or delay resist-
+most glioblastomas become resistant to first-line therapies, ance to GBM treatment. The purpose of this trial was to
+which can occur via several mechanisms, including acti- define the toxicity and maximum tolerated dose (MTD) of
+vation of DNA repair mechanisms, evasion of apoptosis, afatinib in combination with RT, with and without TMZ,
+and adaptation of the cell cycle [9, 10]. As survival rates for the treatment of patients with newly diagnosed GBM.
+remain low, there is a large unmet need in GBM, particu-
+larly for patients with unmethylated MGMT promoters,
+Materials and methods
+for whom standard treatments are less effective [1, 11].
+Consequently, several biomarker-driven therapeutic targets
+Study design and patient population
+have been investigated to date, including the ErbB family
+of receptors.
+Dysregulation of the ErbB pathway has been reported The study (NCT00977431) was a phase I, open-label, 3 + 3
+to contribute to GBM progression [12], with mutation, dose-escalation trial in patients with newly-diagnosed
+rearrangement, altered splicing and/or focal amplifica- malignant glioma. The trial was conducted at five sites in
+tion of the epidermal growth factor receptor (EGFR) gene the United Kingdom.
+observed in over half of GBM cases [13–15]. Some studies Eligible patients were aged ≥ 18 and < 70 years, with
+have indicated that overexpression of EGFR may be asso- newly-diagnosed, histologically-confirmed World Health
+ciated with worse outcomes following RT in patients with Organization grade 4 malignant glioma and proven MGMT
+GBM [16, 17]. EGFR tyrosine kinase inhibitors (TKI) gene promoter methylation status (or tumor material avail-
+have therefore been investigated in patients with malig- able for testing). Exclusion criteria included: surgery within
+nant glioma or GBM, but have so far shown little activity 2 weeks prior to the start of treatment or planned during
+in this setting [18]. Afatinib is an ErbB-family blocker the trial; placement of a Giladel® wafer at surgery, prior
+that is approved for use in patients with NSCLC [19, 20]; radiotherapy of the cranium (including brachytherapy and/
+it irreversibly binds to and blocks EGFR (ErbB1), HER2 or radiosurgery for GBM); and treatment with other investi-
+(ErbB2), and ErbB4. Afatinib is therefore considered to gational drugs concomitantly with the study.
+have a wider inhibitory profile than first-generation EGFR The trial was carried out in compliance with the clinical
+TKIs [21, 22]. Furthermore, brain penetrance is recog- trial protocol, in accordance with the principles of the Decla-
+nized as a potential hurdle in the utilization of EGFR TKIs ration of Helsinki and International Conference on Harmoni-
+in GBM [23, 24]. Preclinical data indicate that afatinib has sation-Good Clinical Practice (ICH-GCP) guidelines, and in
+a moderate capacity to penetrate the BBB, supporting its line with applicable regulatory requirements and Boehringer
+use against central nervous system (CNS) malignancies Ingelheim standard operating procedures. Prior to the initia-
+[25, 26]. Indeed, 35–82% of patients with NSCLC and tion of any trial-related procedure, all patients were informed
+CNS metastases who were treated with afatinib monother- about the trial verbally and in writing by the investigator and
+apy experienced a CNS response [27–30]. Thus, given the provided written informed consent according to ICH-GCP
+wider inhibitory profile of afatinib than first-generation and local legal requirements.
+TKIs, and its potential for CNS penetration, afatinib rep-
+Treatment
+resents a possible treatment for GBM.
+In a phase I/II study of afatinib with or without TMZ
+versus TMZ alone in patients with recurrent GBM, afatinib This study included two treatment regimens: regimen M,
+afatinib + TMZ in combination with RT; and regimen U,
+1 3
+
+--- Page 3 ---
+Journal of Neuro-Oncology (2021) 155:307–317 309
+afatinib in combination with RT without TMZ. During the removed from the MTD assessment and replaced by addi-
+dose-finding phase, patients with methylated MGMT status tional patients.
+were treated with regimen M, and patients with unmethyl- Safety was assessed by physical examination, hemato-
+ated MGMT gene promoters were treated with regimen U. logic and chemistry laboratory values, vital signs, and elec-
+The protocol was amended following the emergence of evi- trocardiography scans. AEs were graded by CTCAE ver-
+dence demonstrating the efficacy of TMZ in patients with sion 3.0. Serious AEs (SAEs) were defined as any AE that
+GBM regardless of MGMT methylation status [32]. Once the resulted in death, was immediately life threatening, resulted
+MTD in regimen U had been determined, all new patients in persistent or significant disability, required or prolonged
+were assigned to regimen M regardless of methylation status. patient hospitalization, was a congenital anomaly/birth
+In both regimens, RT was administered to patients at a defect, or was deemed serious for any other reason.
+dose of 2 Grays (Gy) per fraction on 5 days per week for Objective tumor response rate was assessed by the inves-
+6 weeks (total dose of 60 Gy) in an initial RT phase. Afatinib tigator according to the Macdonald criteria [33], as meas-
+was administered in dose escalation cohorts of 20, 30, and ured by cerebral gadolinium-enhanced MRI. Assessment of
+40 mg/day (single oral dose) during the RT phase (i.e., days objective response was conducted during the maintenance
+1–42), and then at 40 mg/day following RT (maintenance phase, (i.e., following completion of radiotherapy). MRIs
+phase) until investigator-assessed disease progression or were performed between days 21–28 of cycles 1, 3, 5, 8, 10,
+undue adverse reaction, whichever occurred first. For regi- and 12 for regimen M, and of cycles 2, 4, 6, 8, 10, and 12 for
+men M, patients received TMZ 75 mg/m2 daily (single oral regimen U. In the second year, MRIs were performed every
+dose) during the RT phase. A 4-week TMZ-free phase fol- 3 months (cycles 15, 18, 21 and 24), and every 6 months
+lowed the RT phase, after which TMZ was administered for thereafter. Objective response was defined as the best over-
+up to six 28-day cycles (maintenance phase: TMZ single all response [complete response (CR) or partial response]
+oral dose once daily on days 1–5; 150 mg/m2 in cycle 1 and recorded since the first administration of treatment until
+200 mg/m2 in cycles 2–6). disease progression, death, or treatment discontinuation.
+Afatinib treatment was paused whenever a patient expe- Unplanned post hoc analysis was performed to determine
+rienced an adverse event (AE) that met the criteria for dose- time to disease progression (TTP). TTP was calculated as
+limiting toxicity (DLT), regardless of the cycle. DLT was the time between the first treatment date to the day follow-
+defined as an AE or laboratory abnormality considered to ing the first date with recorded progressive disease. Patients
+be related to afatinib and meeting pre-specified criteria (see without progressive disease were censored at their most
+Supplementary Methods). Upon recovery of the AE to base- recent imaging date. The median and 95% confidence inter-
+line or National Cancer Institute Common Terminology Cri- val (CI) were calculated using Kaplan–Meier methodology.
+teria for Adverse Events (CTCAE) grade 1 (whichever was
+Statistical analyses
+higher) within 14 days, treatment could be continued at a
+reduced dose. Otherwise, the patient was discontinued from
+trial medication, except for patients with obvious clinical Safety, pharmacokinetic, and efficacy parameters were sum-
+benefit according to the investigator’s judgment. marized descriptively; no formal statistical hypothesis test-
+ing was conducted. All patients who were administered at
+Endpoints and assessments
+least one dose of any study treatment were included in the
+efficacy and safety analyses.
+The primary endpoint was the MTD of continuous daily
+afatinib when given in combination with RT in patients with
+Results
+newly diagnosed GBM, with or without concomitant TMZ
+treatment. Secondary endpoints were the incidence and
+Patient disposition and characteristics
+intensity of AEs, objective tumor response rate, and phar-
+macokinetics of afatinib (afatinib concentration at steady
+state, pre-dose: Days 8, 15, and 29; please see Supplemental Between November 2009 and October 2012, 55 patients
+Methods). were enrolled onto the trial. Of these, 36 patients received
+MTD was defined as the highest afatinib dose level at at least one dose of trial medication; 20 and 16 patients
+which no more than one of six patients experienced DLT, were treated with regimens M and U, respectively. Key
+i.e., the highest afatinib dose with a DLT incidence ≤ 17%, baseline characteristics were similar between the two
+during the 6-week RT phase. Patients who, for any reasons treatment arms, except for median tumor size, which was
+other than DLT, did not receive trial medication during the greater in patients receiving regimen U (Table 1). Patients
+RT phase, for more than 5 consecutive days or more than who received regimen M were predominantly male (70%)
+8 non-consecutive days, could stay in the trial, but were and white (95%), with a median time from first histological
+1 3
+
+--- Page 4 ---
+3 10 Journal of Neuro-Oncology (2021) 155:307–317
+Table 1 Patient baseline
+Regimen M Regimen U
+demographics and clinical
+Afatinib + TMZ + RT Afatinib + RT
+characteristics
+N = 20 N = 16
+Male, n (%) 14 (70) 11 (69)
+Race, n (%)
+White 19 (95) 16 (100)
+Asian 1 (5) 0
+Age in years, median (range) 52.5 (25–66) 53.5 (34–68)
+BMI in kg/m2, median (range) 27.3 (20.6–33.8) 28.7 (21.7–38.8)
+Smoking history, n (%)
+Never smoked 15 (75) 13 (81)
+Ex-smoker 4 (20) 2 (13)
+Currently smokes 1 (5) 1 (6)
+Time from first histological diagnosis in days, median (range) 38.0 (28–67) 36.0 (28–51)
+Karnofsky performance score, median (range) − 10.0 (− 50–0) − 20.0 (− 50–0)
+Sum of largest cross-section post-surgery in m m2, median (range) 89.0 (0–2088) 978.3 (0–2331)
+Unilocular, n (%) 18 (90) 15 (94)
+BMI body mass index, RT radiotherapy, TMZ temozolomide
+diagnosis of 38 days (range 28–67) and a median tumor evaluable) had DLTs: one patient had grade 4 thrombocy-
+size (sum of largest cross-section post-surgery) of 89 mm2 topenia and one patient had grade 3 vomiting. The afatinib
+(range 0–2088). Patients who received regimen U were dose was reduced and an intermediate dose level of 30 mg/
+also predominantly male (69%) and white (100%), with a day was explored; none of the six treated patients had DLTs.
+median time from first histological diagnosis of 36 days Accordingly, afatinib 30 mg was determined as the MTD in
+(range 28–51) and median tumor size of 978 mm2 (range combination with daily TMZ and RT.
+0–2331). With regimen U, nine of 16 patients treated were evalua-
+With regimen M, 20 patients were treated and 15 ble for MTD determination. In the first dose cohort (afatinib
+patients continued afatinib beyond the RT phase. With 20 mg/day), three patients were treated without any DLT
+regimen U, 16 patients were treated and 13 continued during the RT phase. The afatinib dose was subsequently
+afatinib beyond the RT phase (Fig. 1). The median (range) escalated to 40 mg/day; one of six patients had a DLT (grade
+durations of afatinib treatment for regimens M and U were 3 diarrhea). Thus, afatinib 40 mg was determined as the
+150 (6–2340) days and 167 (1–397) days, respectively. MTD in combination with RT.
+Afatinib was discontinued by all patients during the For pharmacokinetic data, please see Supplemental
+study. Reasons for afatinib discontinuation with regimen M Results.
+included disease progression (45%), DLT (10%), and other
+Safety profile of each regimen
+AEs (35%) (Fig. 1). One patient who received regimen M
+had not experienced disease progression at data cut-off and
+was switched to commercially supplied afatinib; he remained The most frequently reported AEs with regimen M were
+on treatment for more than 6 years. With regimen U, reasons diarrhea (85%), nausea (75%), and rash (65%). Of patients
+for afatinib discontinuation included disease progression receiving regimen M, 95% had at least one drug-related AE
+(50%), and AEs other than DLTs (38%); no patients receiv- (Table 2); the most common drug-related AEs were diarrhea
+ing regimen U discontinued afatinib treatment due to DLTs. (80%), rash (65%), nausea (45%), and fatigue (45%; Supple-
+mentary Table 1). Nine (45%) patients had AEs that led to
+MTD of afatinib with concomitant RT
+discontinuation of afatinib; AEs (preferred terms) reported
+in more than one patient were diarrhea, fatigue, rash, and
+Overall, 17 of 20 patients who received regimen M were thrombocytopenia (two patients each). All other AEs leading
+evaluable for MTD determination (Fig. 2). In the first dose to afatinib discontinuation were reported in single patients
+cohort (afatinib 20 mg/day), one of six evaluable patients only; these were skin toxicity, skin ulcer, alanine ami-
+had a DLT during the RT phase (grade 4 thrombocytopenia). notransferase increased, and postoperative wound infection.
+The afatinib dose was therefore escalated to 40 mg/day; two With regimen U, the most frequently reported AEs were
+of five patients (seven patients were treated; two were not diarrhea (94%), rash (75%), and headache (63%). Of patients
+1 3
+
+--- Page 5 ---
+Journal of Neuro-Oncology (2021) 155:307–317 311
+A B
+n (%) n (%)
+Treated Treated
+N= 20 (100%) Discontinued afatinib N= 16 (100%) Discontinued afatinib
+during RT phase 5 (25) during RT phase 3 (19)
+AE or DLT 4 (20) AE 2 (13)
+Non-compliance 1 (5) Other reason 1 (6)
+Continued afatinib Continued afatinib
+beyond RT phase Discontinued afatinib beyond RT phase Discontinued afatinib
+n= 15 (75%) at any time 20 (100) n= 13 (81%) at any time 16 (100)
+PD 9 (45) PD 8 (50)
+DLT 2 (10) DLT 0
+Other AE 7 (35) Other AE 6 (38)
+Still receiving Still receiving
+Non-compliance 1 (5) Non-compliance 0
+afatinib afatinib
+Other 1 (5) Other 2 (13)
+n= 1 (5%)* n = 0
+Fig. 1 Patient disposition. a Regimen M: afatinib + TMZ + RT; b reg- to trial completion, all patients are reported as having discontinued
+imen U: afatinib + RT. AE adverse event, DLT dose-limiting toxicity, afatinib; however, one patient continued to receive afatinib outside of
+PD progressive disease, RT radiotherapy, TMZ temozolomide. *Due the clinical trial
+receiving regimen U, 94% of patients had at least one drug- 101–NA, n = 14), respectively. Insufficient data were avail-
+related AE (Table 2); the most frequently reported drug- able to calculate upper 95% CIs.
+related AEs were diarrhea (81%), rash (75%), and fatigue
+(45%; Supplementary Table 1). Ten patients (63%) had AEs
+Discussion
+that led to discontinuation of afatinib; these were diarrhea,
+dermatitis acneiform, rash, pneumonia, pulmonary embo-
+lism, generalized tonic–clonic seizure, increased intracranial In this open-label, phase I dose-escalation trial in newly
+pressure, lethargy, malignant neoplasm progression, and dis- diagnosed patients with GBM, the MTD of afatinib was
+ease progression (one patient each). 30 mg/day in combination with RT and TMZ (regimen M;
+Frequencies of grade ≥ 3 drug-related AEs and SAEs by methylated MGMT promoter), and 40 mg/day in combina-
+treatment regimen and dose are shown in Table 2. SAEs tion with RT (regimen U; unmethylated MGMT promoter).
+were reported in 12 (60%) patients who received regimen The most frequently reported drug-related AEs in this
+M and 12 (75%) patients who received regimen U. There trial with regimens M/U were diarrhea (80/81%), rash
+were no fatal AEs reported for patients who received regi- (65/75%), and fatigue (45/38%), with nausea also reported
+men M. Fatal AEs were reported in three patients (19%) who in a high proportion of the patients who received regimen M
+received regimen U. The causes of death in these patients (45%). These findings are similar to the known toxicity pro-
+were bacterial meningitis, pneumonia, and disease pro- file of afatinib when used as a single agent in patients with
+gression. For all three deaths, none were considered to be NSCLC [28, 34], and also to those observed in the phase I/II
+drug-related. study of afatinib with or without TMZ in recurrent GBM, in
+which the most frequent AEs observed in afatinib-containing
+Response to therapy
+arms (afatinib alone/afatinib + TMZ) were rash/acne and
+diarrhea [31]. The AE profiles of regimens M and U were
+Of 20 evaluable patients who received regimen M, five also consistent with those of the afatinib combination part-
+(25%) patients achieved an objective response, including one ners, and, aside from grade 4 thrombocytopenia reported in
+CR, and 11 (55%) patients had stable disease. With regi- three patients (15%) receiving the TMZ-containing regimen
+men U, one (6%) of 16 evaluable patients had an objective M, there was no evidence that afatinib increased the inci-
+response and eight (50%) had stable disease according to the dence of TMZ-associated toxicities, compared with previous
+Macdonald response assessment criteria [33]. The best over- reports of TMZ with or without afatinib [5, 31].
+all responses by afatinib dose with regimens M and U are The pharmacokinetics of afatinib in combination with RT,
+shown in Table 3. The median time to disease progression with or without TMZ, appeared to be consistent with those
+for evaluable patients who received regimens M and U were previously reported for single-agent afatinib [35]. There
+434 days (95% CI 205–NA, n = 18) and 211 days (95% CI were no meaningful differences in afatinib trough plasma
+concentrations over time (Days 8, 15, and 29 from start of
+1 3
+
+--- Page 6 ---
+3 12 Journal of Neuro-Oncology (2021) 155:307–317
+Regimen M PFS rate was significantly lower with afatinib monotherapy
+than with afatinib plus TMZ or TMZ alone (afatinib alone:
+3%; afatinib + TMZ: 10%; TMZ alone: 23%) [31]. However,
+Afatinib 40 mg median PFS was longer in afatinib-treated patients with
++ TMZ + RT EGFR-overexpressing tumors (3.35 months) than those
+(n = 7*)
+with EGFR levels within a normal range (0.99 months).
+Afatinib 30 mg Similar results have been observed with other EGFR TKIs.
++ TMZ + RT Gefitinib (with or without chemotherapy) was associated
+Afatinib 20 mg (n = 6) with response rates of up to 14% and 6-month PFS rates of
+MTD
++ TMZ + RT 5–24% in patients with recurrent glioma [36–39]. Similarly,
+(n = 7*) response rates of up to 8% have been achieved with erlotinib,
+Dose limiting toxicities
+with little impact on overall response or PFS in patients with
+Afatinib 20 mg + TMZ + RT:
+• thrombocytopenia, grade 4 (n = 1) recurrent malignant glioma compared with TMZ (with or
+Afatinib 40 mg + TMZ + RT: without chemotherapy) [40–43]. While previous studies
+• thrombocytopenia, grade 4 (n = 1) have indicated minimal activity of ErbB family inhibitors
+• vomiting, grade 3 (n = 1)
+in GBM, a case of prolonged response to afatinib has been
+reported previously in a patient with recurrent GBM in this
+study. This patient, who had several EGFR mutations, EGFR
+Regimen U
+gene amplification, and EGFR-vIII seropositivity, survived
+for around 5 years from recurrence, nearly sixfold longer
+than expected in patients with recurrent GBM [44, 45].
+Afatinib 40
+The patient was switched to commercial supply and was
+mg + RT
+(n = 6) still on treatment at the time of the database lock. A fur-
+MTD ther two patients with GBM who had long-term responses
+(> 12 months) to afatinib harbored mutations in specific
+combinations of alleles that are causal of EGFR addiction
+Afatinib 20
+[44, 46]. For example, one patient had a PTPN11 mutation
+mg + RT
+thought to drive EGFR addiction and, hence, response to
+(n = 3)
+Dose limiting toxicities afatinib, and another patient had a tumor that was EGFR
+Afatinib 40 mg + RT: amplified and carried an additional allele on the amplicon,
+• diarrhea, grade 3 (n = 1)
+potentially underlying the sustained response observed [46].
+These findings suggest that afatinib may be of most benefit
+Fig. 2 Determination of the maximum tolerated dose based on the in patients with GBM harboring EGFR aberrations.
+occurrence of dose limiting toxicities during the 6-week radiotherapy Given that alterations affecting EGFR, e.g. EGFR over-
+phase. MTD maximum tolerated dose, RT radiotherapy, TMZ temozo-
+expression, have been identified previously in tumors of
+lomide. *In Regimen M, one patient was replaced in the 20 mg afatinib
+group and one patient was replaced in the 40 mg afatinib group patients with GBM, including in long-term responders to
+afatinib [16, 17, 44, 46], a potential limitation of the pre-
+sent study is that patients were not selected based on bio-
+marker analysis. Patients were not selected in this manner
+treatment) nor between treatment regimens, suggesting that as EGFR genetic testing was not routinely performed when
+concentrations were unaffected by RT or TMZ. the trial was initiated. In future trials, selection of patients
+The key aim of this study was not to investigate efficacy; based upon specific biomarkers, such as EGFR mutations
+however, disease control observed at RT completion was or amplification, may assist in identifying patients who
+indicative of modest efficacy for both treatment regimens in are more likely to benefit from EGFR-targeted therapies.
+patients with newly diagnosed GBM. It is unclear whether Another limitation of this study is that, similar to other tri-
+treatment with afatinib was a contributing factor, as it was als to date, it has not been possible to distinguish the effi-
+administered in combination with treatments with known cacy of afatinib from the known effectiveness of RT and
+efficacy in GBM [5, 32]. Moreover, previous studies of ErbB TMZ [31]. Additionally, response to therapy was evaluated
+pathways inhibitors in GBM have shown little efficacy when using Macdonald criteria, which were in widespread use
+given alone [31, 36]. In a phase Ib/II trial of afatinib with or at the time of the design of this study. These criteria have
+without TMZ in patients with recurrent GBM, the 6-month
+1 3
+
+--- Page 7 ---
+Journal of Neuro-Oncology (2021) 155:307–317 313
+Table 2 Summary of AEs
+Regimen M Afatinib Regimen M Afatinib Regimen M Afatinib Regimen M Afatinib
+(20 mg) + TMZ + RT (30 mg) + TMZ + RT (40 mg) + TMZ + RT (total) + TMZ + RT
+N = 7 N = 6 N = 7 N = 20
+Any AE, n (%) 7 (100) 6 (100) 7 (100) 20 (100)
+DLTsa, n (%) 4 (57) 1 (17) 3 (43) 8 (40)
+Treatment-related AEs, n (%) 7 (100) 6 (100) 6 (86) 19 (95)
+AEs leading to discontinuation of 4 (57) 0 5 (71) 9 (45)
+afatinib, n (%)
+AEs leading to discontinuation of TMZ, 1 (14) 0 2 (29) 3 (15)
+n (%)
+SAEsb, n (%) 4 (57) 5 (83) 3 (43) 12 (60)
+Maximum CTCAE grade, n (%)
+Grade 1 0 0 1 (14) 1 (5)
+Grade 2 0 2 (33) 1 (14) 3 (15)
+Grade 3 4 (57) 4 (67) 4 (57) 12 (60)
+Grade 4 3 (43) 0 1 (14) 4 (20)
+Grade 5 0 0 0 0
+Regimen U afatinib (20 mg) + RT Regimen U afatinib (40 mg) + RT Regimen U afatinib
+N = 3 N = 13 (total) + RT N = 16
+Any AE, n (%) 3 (100) 13 (100) 16 (100)
+DLTsa, n (%) 2 (67) 4 (31) 6 (38)
+Treatment-related AEs, n (%) 3 (100) 12 (92) 15 (94)
+AEs, regardless of causality, leading to discontinu- 1 (33) 9 (69) 10 (63)
+ation of afatinib, n (%)
+SAEsb, n (%) 2 (67) 10 (77) 12 (75)
+Maximum CTCAE grade, n (%)
+Grade 1 0 1 (8) 1 (6)
+Grade 2 1 (33) 2 (15) 3 (19)
+Grade 3 2 (67) 5 (38) 7 (44)
+Grade 4 0 2 (15) 2 (13)
+Grade 5 0 3 (23) 3 (19)
+AE adverse event, CTCAE Common Terminology Criteria for Adverse Events, DLT dose-limiting toxicity, RT radiotherapy, SAE serious adverse
+event, TMZ temozolomide
+a DLTs occurring in the overall treatment period, as determined by the investigator
+b A patient may have experienced more than one SAE
+largely been superseded by response assessment in neuro- line with previous afatinib monotherapy studies at all dose
+oncology (RANO) criteria [47, 48]. levels. While this study only included a small number of
+This dose-finding study identified the MTD for afatinib patients, and efficacy was not the primary endpoint, anti-
+in combination with RT and TMZ for patients with meth- tumor activity was observed in a subset of each treatment
+ylation of the MGMT promoter (30 mg/day during RT; group. Given the relationship between EGFR aberrations
+40 mg/day maintenance phase; regimen M), and in com- and poor response to treatment in GBM, the ErbB pathway
+bination with RT for patients without methylation of the remains a plausible therapeutic target in GBM. Research
+MGMT promoter (40 mg/day in RT and maintenance into the safety and pharmacokinetics of afatinib in patients
+phases; regimen U). Treatment with both regimens was with previously treated brain cancer is ongoing in a phase I
+associated with a manageable AE profile that was con- study (NCT02423525). In future studies, biomarker analy-
+sistent with the known safety profiles of the individual sis should be utilized to guide preselection of patients most
+agents; the pharmacokinetic profile of afatinib was also in likely to benefit from afatinib treatment.
+1 3
+
+--- Page 8 ---
+3 14 Journal of Neuro-Oncology (2021) 155:307–317
+Table 3 Summary of treatment response
+Regimen M Afatinib Regimen M Afatinib Regimen M Afatinib Regimen M Afatinib
+(20 mg) + TMZ + RT N = 7 (30 mg) + TMZ + RT N = 6 (40 mg) + TMZ + RT N = 7 (total) + TMZ + RT
+N = 20
+Best overall response, n (%)
+CR 0 1 (17) 0 1 (5)
+PR 2 (29) 2 (33) 0 4 (20)
+SD 5 (71) 2 (33) 4 (57) 11 (55)
+PD 0 1 (17) 1 (14) 2 (10)
+Missing 0 0 2 (29) 2 (10)
+Objective response, n (%) 2 (29) 3 (50) 0 5 (25)
+Disease control rate, n (%) 7 (100) 5 (83) 4 (57) 16 (80)
+Regimen U afatinib (20 mg) + RT Regimen U afatinib (40 mg) + RT Regimen U afatinib
+N = 3 N = 13 (total) + RT N = 16
+Best overall response, n (%)
+CR 0 0 0
+PR 0 1 (8) 1 (6)
+SD 1 (33) 7 (54) 8 (50)
+PR 2 (67) 3 (23) 5 (31)
+Missing 0 2 (15) 2 (13)
+Objective response, n (%) 0 1 (8) 1 (6)
+Disease control rate, n (%) 1 (33) 8 (62) 9 (56)
+CR complete response, PD progressive disease, PR partial response, RT radiotherapy, SD stable disease, TMZ temozolomide
+Supplementary Information The online version contains supplemen- are available to be shared on request after publication of the primary
+tary material available at https://d oi.o rg/1 0.1 007/s 11060-0 21-0 3877-6. manuscript in a peer-reviewed journal, and if regulatory activities are
+complete and other criteria met as per the BI Policy on Transparency
+Acknowledgements Medical writing support for the development and Publication of Clinical Study Data (see https://w ww.m ystud ywin
+of this manuscript, under the direction of the authors, was provided dow. com/ msw/ datas haring). Bona fide, qualified scientific and medi-
+by Nadia Fowler and Jim Sinclair, PhD, of Ashfield MedComms, an cal researchers are eligible to request access to the clinical study data
+Ashfield Health company, and funded by Boehringer Ingelheim. The with corresponding documentation describing the structure and content
+authors are fully responsible for all content and editorial decisions, of the datasets. Upon approval, and governed by a Legal Agreement,
+were involved at all stages of manuscript development, and have data are shared in a secured data-access system for a limited period
+approved the final version. The authors received no direct compensa- of 1 year, which may be extended upon request. Prior to providing
+tion related to the development of the manuscript. Boehringer Ingel- access, clinical study documents and data will be examined, and, if
+heim was given the opportunity to review the manuscript for medical necessary, redacted and de-identified, to protect the personal data of
+and scientific accuracy as well as intellectual property considerations. study participants and personnel, and to respect the boundaries of the
+informed consent of the study participants. Researchers should use the
+https://v ivli.o rg/ link to request access to study data and visit https://
+Author contributions FS, LW, AJ, CM, SJ and FH substantially con-
+www.m ystud ywind ow.c om/m sw/d atash aring for further information.
+tributed to the acquisition, analysis, or interpretation of data for the
+work. RG and MB substantially contributed to the conception or design
+of the work. KP, JS, SB and AC substantially contributed to the con- Code availability (software application or custom code): not applicable.
+ception or design of the work and to the acquisition, analysis, or inter-
+pretation of data for the work. All authors drafted the work/revised it Declarations
+critically for important intellectual content, provided final approval of
+the version to be published, and agree to be accountable for all aspects
+Conflict of interest SJ reports having a private medical practice for
+of the work in ensuring that questions related to the accuracy or integ-
+CNS and Thyroid tumors, having an investment in Genesis Cancer
+rity of any part of the work are appropriately investigated and resolved.
+Care at Newmarket within a Limited Company – Saunders and Jef-
+feries Consultancy, and undertaking medicolegal work (one-two cases
+Funding Boehringer Ingelheim International GmbH. per year). KP declares being a Global project Manager working for
+Boehringer Ingelheim. JS declares employment with Boehringer In-
+Data availability To ensure independent interpretation of clinical study gelheim Pharma GmbH & Co KG. SB declares employment with
+results, Boehringer Ingelheim grants all external authors access to rel- Boehringer Ingelheim Pharmaceuticals, Inc. AC declares employ-
+evant material, including participant-level clinical study data, as needed ment with Boehringer Ingelheim International GmbH. All remaining
+by them to fulfill their role and obligations as authors under the ICMJE authors declare no potential conflict of interest. The authors did not
+criteria. Clinical study documents and participant clinical study data receive payment related to the development of the manuscript.
+1 3
+
+--- Page 9 ---
+Journal of Neuro-Oncology (2021) 155:307–317 315
+Ethical approval The study was approved by the Ethics Committee of 8. Wick W, Platten M, Weller M (2009) New (alternative) temo-
+the NHS Health Research Authority London (West London and Gene zolomide regimens for the treatment of glioma. Neuro Oncol
+Therapy Advisory Committee). All patients provided written informed 11:69–79. https://d oi.o rg/1 0.1 215/1 52285 17-2 008-0 78
+consent according to International Conference on Harmonization Good 9. Ventero MP, Fuentes-Baile M, Quereda C, Perez-Valeciano E,
+Clinical Practice and local legal regulations. Patients included in the Alenda C, Garcia-Morales P, Esposito D, Dorado P, Manuel
+current study provided written consent for the usage of their data for Barbera V, Saceda M (2019) Radiotherapy resistance acquisi-
+research purposes. tion in glioblastoma. Role of SOCS1 and SOCS3. PLoS ONE
+14:e0212581–e0212581. https://d oi.o rg/1 0.1 371/j ourna l.p one.
+021258 1
+Open Access This article is licensed under a Creative Commons Attri- 10. Mrugala MM, Chamberlain MC (2008) Mechanisms of disease:
+bution 4.0 International License, which permits use, sharing, adapta- temozolomide and glioblastoma—look to the future. Nat Clin
+tion, distribution and reproduction in any medium or format, as long Pract Oncol 5:476–486. https://d oi.o rg/1 0.1 038/n cponc 1155
+as you give appropriate credit to the original author(s) and the source, 11. Hegi ME, Liu L, Herman JG, Stupp R, Wick W, Weller M,
+provide a link to the Creative Commons licence, and indicate if changes Mehta MP, Gilbert MR (2008) Correlation of O6-methylgua-
+were made. The images or other third party material in this article are nine methyltransferase (MGMT) promoter methylation with
+included in the article's Creative Commons licence, unless indicated clinical outcomes in glioblastoma and clinical strategies to
+otherwise in a credit line to the material. If material is not included in modulate MGMT activity. J Clin Oncol 26:4189–4199. https://
+the article's Creative Commons licence and your intended use is not doi.o rg/1 0.1 200/J CO.2 007.1 1.5 964
+permitted by statutory regulation or exceeds the permitted use, you will 12. Andersson U, Schwartzbaum J, Wiklund F, Sjostrom S, Liu Y,
+need to obtain permission directly from the copyright holder. To view a Tsavachidis S, Ahlbom A, Auvinen A, Collatz-Laier H, Feycht-
+copy of this licence, visit http://c reati vecom mons.o rg/l icens es/b y/4.0 /. ing M, Johansen C, Kiuru A, Lonn S, Schoemaker MJ, Swerd-
+low AJ, Henriksson R, Bondy M, Melin B (2010) A compre-
+hensive study of the association between the EGFR and ERBB2
+References genes and glioma risk. Acta Oncol 49:767–775. https://d oi.o rg/
+10.3 109/0 28418 6x.2 010.4 80980
+13. Brennan CW, Verhaak RG, McKenna A, Campos B, Noushmehr
+1. Omuro A, DeAngelis LM (2013) Glioblastoma and other malig- H, Salama SR, Zheng S, Chakravarty D, Sanborn JZ, Berman
+nant gliomas: a clinical review. JAMA 310:1842–1850. https:// SH, Beroukhim R, Bernard B, Wu CJ, Genovese G, Shmulevich
+doi.o rg/1 0.1 001/j ama.2 013.2 80319 I, Barnholtz-Sloan J, Zou L, Vegesna R, Shukla SA, Ciriello
+2. Gilbert MR, Dignam JJ, Armstrong TS, Wefel JS, Blumenthal G, Yung WK, Zhang W, Sougnez C, Mikkelsen T, Aldape K,
+DT, Vogelbaum MA, Colman H, Chakravarti A, Pugh S, Won Bigner DD, Van Meir EG, Prados M, Sloan A, Black KL, Esch-
+M, Jeraj R, Brown PD, Jaeckle KA, Schiff D, Stieber VW, bacher J, Finocchiaro G, Friedman W, Andrews DW, Guha A,
+Brachman DG, Werner-Wasik M, Tremont-Lukats IW, Sulman Iacocca M, O’Neill BP, Foltz G, Myers J, Weisenberger DJ,
+EP, Aldape KD, Curran WJ, Mehta MP (2014) A randomized Penny R, Kucherlapati R, Perou CM, Hayes DN, Gibbs R, Marra
+trial of bevacizumab for newly diagnosed glioblastoma. N Engl M, Mills GB, Lander E, Spellman P, Wilson R, Sander C, Wein-
+J Med 370:699–708. https://d oi.o rg/1 0.1 056/N EJMoa 13085 73 stein J, Meyerson M, Gabriel S, Laird PW, Haussler D, Getz G,
+3. Chinot OL, Wick W, Mason W, Henriksson R, Saran F, Nishi- Chin L (2013) The somatic genomic landscape of glioblastoma.
+kawa R, Carpentier AF, Hoang-Xuan K, Kavan P, Cernea D, Cell 155:462–477. https://d oi.o rg/1 0.1 016/j.c ell.2 013.0 9.0 34
+Brandes AA, Hilton M, Abrey L, Cloughesy T (2014) Bevaci- 14. Frederick L, Wang XY, Eley G, James CD (2000) Diversity
+zumab plus radiotherapy–temozolomide for newly diagnosed and frequency of epidermal growth factor receptor mutations
+glioblastoma. N Engl J Med 370:709–722. https://d oi.o rg/1 0. in human glioblastomas. Cancer Res 60:1383–1387
+1056/N EJMoa 13083 45 15. Gonzalez-Tablas M, Arandia D, Jara-Acevedo M, Otero A,
+4. Kelly C, Majewska P, Ioannidis S, Raza MH, Williams M (2017) Vital AL, Prieto C, Gonzalez-Garcia N, Nieto-Librero AB, Tao
+Estimating progression-free survival in patients with glioblas- H, Pascual D, Ruiz L, Sousa P, Galindo-Villardon P, Orfao A,
+toma using routinely collected data. J Neurooncol 135:621–627. Tabernero MD (2020) Heterogeneous EGFR, CDK4, MDM4,
+https://d oi.o rg/1 0.1 007/s 11060-0 17-2 619-1 and PDGFRA gene expression profiles in primary GBM: no
+5. Stupp R, Mason WP, van den Bent MJ, Weller M, Fisher B, association with patient survival. Cancers 12:231. https://d oi.
+Taphoorn MJB, Belanger K, Brandes AA, Marosi C, Bogdahn org/1 0.3 390/c ancer s1201 0231
+U, Curschmann J, Janzer RC, Ludwin SK, Gorlia T, Allgeier 16. Barker FG, Simmons ML, Chang SM, Prados MD, Larson DA,
+A, Lacombe D, Cairncross JG, Eisenhauer E, Mirimanoff RO Sneed PK, Wara WM, Berger MS, Chen P, Israel MA, Aldape
+(2005) Radiotherapy plus concomitant and adjuvant temozolo- KD (2001) EGFR overexpression and radiation response in glio-
+mide for glioblastoma. N Engl J Med 352:987–996. https://d oi. blastoma multiforme. Int J Rad Oncol Biol Phys 51:410–418.
+org/1 0.1 056/N EJMoa 04333 0 https://d oi.o rg/1 0.1 016/S 0360-3 016(01)0 1609-1
+6. Stupp R, Brada M, van den Bent MJ, Tonn JC, Pentherouda- 17. Tripathy K, Das B, Singh AK, Misra A, Misra S, Misra SS (2017)
+kis G, Group EGW (2014) High-grade glioma: ESMO Clinical Prognostic significance of epidermal growth factor receptor in
+Practice Guidelines for diagnosis, treatment and follow-up. Ann patients of glioblastoma multiforme. J Clin Diag Res 11:EC05–
+Oncol 25(Suppl 3):93–101. https://d oi.o rg/1 0.1 093/a nnonc/ EC08. https://d oi.o rg/1 0.7 860/J CDR/2 017/3 0138.1 0327
+mdu050 18. Raizer JJ, Abrey LE, Lassman AB, Chang SM, Lamborn KR,
+7. Hegi ME, Diserens A-C, Gorlia T, Hamou M-F, de Tribolet Kuhn JG, Yung WKA, Gilbert MR, Aldape KA, Wen PY, Fine
+N, Weller M, Kros JM, Hainfellner JA, Mason W, Mariani L, HA, Mehta M, Deangelis LM, Lieberman F, Cloughesy TF,
+Bromberg JEC, Hau P, Mirimanoff RO, Cairncross JG, Janzer Robins HI, Dancey J, Prados MD, North American Brain Tumor
+RC, Stupp R (2005) MGMT gene silencing and benefit from C (2010) A phase II trial of erlotinib in patients with recurrent
+temozolomide in glioblastoma. N Engl J Med 352:997–1003. malignant gliomas and nonprogressive glioblastoma multiforme
+https://d oi.o rg/1 0.1 056/N EJMoa 04333 1
+1 3
+
+--- Page 10 ---
+3 16 Journal of Neuro-Oncology (2021) 155:307–317
+postradiation therapy. Neuro Oncol 12:95–103. https://d oi.o rg/1 0. adenocarcinoma with brain metastases. Expert Rev Anticancer
+1093/n euonc/n op015 Ther 18:81–89. https://d oi.o rg/1 0.1 080/1 47371 40.2 018.1 40962 3
+19. Sequist LV, Yang JC, Yamamoto N, O’Byrne K, Hirsh V, Mok T, 30. Schuler M, Wu YL, Hirsh V, O’Byrne K, Yamamoto N, Mok
+Geater SL, Orlov S, Tsai CM, Boyer M, Su WC, Bennouna J, Kato T, Popat S, Sequist LV, Massey D, Zazulina V, Yang JC (2016)
+T, Gorbunova V, Lee KH, Shah R, Massey D, Zazulina V, Shahidi First-line afatinib versus chemotherapy in patients with non-small
+M, Schuler M (2013) Phase III study of afatinib or cisplatin plus cell lung cancer and common epidermal growth factor receptor
+pemetrexed in patients with metastatic lung adenocarcinoma with gene mutations and brain metastases. J Thorac Oncol 11:380–390.
+EGFR mutations. J Clin Oncol 31:3327–3334. https://d oi.o rg/1 0. https://d oi.o rg/1 0.1 016/j.j tho.2 015.1 1.0 14
+1200/j co.2 012.4 4.2 806 31. Reardon DA, Nabors LB, Mason WP, Perry JR, Shapiro W,
+20. Wu YL, Zhou C, Hu CP, Feng J, Lu S, Huang Y, Li W, Hou M, Kavan P, Mathieu D, Phuphanich S, Cseh A, Fu Y, Cong J, Wind
+Shi JH, Lee KY, Xu CR, Massey D, Kim M, Shi Y, Geater SL S, Eisenstat DD (2015) Phase I/randomized phase II study of
+(2014) Afatinib versus cisplatin plus gemcitabine for first-line afatinib, an irreversible ErbB family blocker, with or without
+treatment of Asian patients with advanced non-small-cell lung protracted temozolomide in adults with recurrent glioblastoma.
+cancer harbouring EGFR mutations (LUX-Lung 6): an open-label, Neuro Oncol 17:430–439. https://d oi.o rg/1 0.1 093/n euonc/n ou160
+randomised phase 3 trial. Lancet Oncol 15:213–222. https://d oi. 32. Stupp R, Hegi ME, Mason WP, van den Bent MJ, Taphoorn MJ,
+org/1 0.1 016/s 1470-2 045(13)7 0604-1 Janzer RC, Ludwin SK, Allgeier A, Fisher B, Belanger K, Hau
+21. Li D, Ambrogio L, Shimamura T, Kubo S, Takahashi M, Chirieac P, Brandes AA, Gijtenbeek J, Marosi C, Vecht CJ, Mokhtari K,
+LR, Padera RF, Shapiro GI, Baum A, Himmelsbach F, Rettig WJ, Wesseling P, Villa S, Eisenhauer E, Gorlia T, Weller M, Lacombe
+Meyerson M, Solca F, Greulich H, Wong KK (2008) BIBW2992, D, Cairncross JG, Mirimanoff RO (2009) Effects of radiotherapy
+an irreversible EGFR/HER2 inhibitor highly effective in preclini- with concomitant and adjuvant temozolomide versus radiother-
+cal lung cancer models. Oncogene 27:4702–4711. https://d oi.o rg/ apy alone on survival in glioblastoma in a randomised phase III
+10.1 038/o nc.2 008.1 09 study: 5-year analysis of the EORTC-NCIC trial. Lancet Oncol
+22. Solca F, Dahl G, Zoephel A, Bader G, Sanderson M, Klein C, 10:459–466. https://d oi.o rg/1 0.1 016/s 1470-2 045(09)7 0025-7
+Kraemer O, Himmelsbach F, Haaksma E, Adolf GR (2012) Tar- 33. Macdonald DR, Cascino TL, Schold SC Jr, Cairncross JG (1990)
+get binding properties and cellular activity of afatinib (BIBW Response criteria for phase II studies of supratentorial malignant
+2992), an irreversible ErbB family blocker. J Pharmacol Exp Ther glioma. J Clin Oncol 8:1277–1280. https://d oi.o rg/1 0.1 200/j co.
+343:342–350. https://d oi.o rg/1 0.1 124/j pet.1 12.1 97756 1990.8.7 .1 277
+23. Westphal M, Maire CL, Lamszus K (2017) EGFR as a target 34. Park K, Tan EH, O’Byrne K, Zhang L, Boyer M, Mok T, Hirsh
+for glioblastoma treatment: an unfulfilled promise. CNS Drugs V, Yang JC, Lee KH, Lu S, Shi Y, Kim SW, Laskin J, Kim DW,
+31:723–735. https://d oi.o rg/1 0.1 007/s 40263-0 17-0 456-6 Arvis CD, Kolbeck K, Laurie SA, Tsai CM, Shahidi M, Kim M,
+24. Sarkaria JN, Hu LS, Parney IF, Pafundi DH, Brinkmann DH, Massey D, Zazulina V, Paz-Ares L (2016) Afatinib versus gefitinib
+Laack NN, Giannini C, Burns TC, Kizilbash SH, Laramy JK, as first-line treatment of patients with EGFR mutation-positive
+Swanson KR, Kaufmann TJ, Brown PD, Agar NYR, Galanis E, non-small-cell lung cancer (LUX-Lung 7): a phase 2B, open-label,
+Buckner JC, Elmquist WF (2018) Is the blood-brain barrier really randomised controlled trial. Lancet Oncol 17:577–589. https://d oi.
+disrupted in all glioblastomas? A critical assessment of existing org/1 0.1 016/s 1470-2 045(16)3 0033-x
+clinical data. Neuro Oncol 20:184–191. https://d oi.o rg/1 0.1 093/ 35. Wind S, Schnell D, Ebner T, Freiwald M, Stopfer P (2017) Clinical
+neuonc/n ox175 pharmacokinetics and pharmacodynamics of afatinib. Clin Phar-
+25. Tamiya A, Tamiya M, Nishihara T, Shiroyama T, Nakao K, Tsuji macokin 56:235–250. https://d oi.o rg/1 0.1 007/s 40262-0 16-0 440-1
+T, Takeuchi N, Isa SI, Omachi N, Okamoto N, Suzuki H, Okishio 36. Rich JN, Reardon DA, Peery T, Dowell JM, Quinn JA, Penne KL,
+K, Iwazaki A, Imai K, Hirashima T, Atagi S (2017) Cerebro- Wikstrand CJ, Van Duyn LB, Dancey JE, McLendon RE, Kao
+spinal fluid penetration rate and efficacy of afatinib in patients JC, Stenzel TT, Ahmed Rasheed BK, Tourt-Uhlig SE, Herndon
+with EGFR mutation-positive non-small cell lung cancer with JE 2nd, Vredenburgh JJ, Sampson JH, Friedman AH, Bigner DD,
+leptomeningeal carcinomatosis: a multicenter prospective study. Friedman HS (2004) Phase II trial of gefitinib in recurrent glio-
+Anticancer Res 37:4177–4182. https://d oi.o rg/1 0.2 1873/a ntic blastoma. J Clin Oncol 22:133–142. https://d oi.o rg/1 0.1 200/j co.
+anres.1 1806 2004.0 8.1 10
+26. Zhang S-R, Zhu L-C, Jiang Y-P, Zhang J, Xu R-J, Xu Y-S, Xia B, 37. Franceschi E, Cavallo G, Lonardi S, Magrini E, Tosoni A, Grosso
+Ma S-L (2017) Efficacy of afatinib, an irreversible ErbB family D, Scopece L, Blatt V, Urbini B, Pession A, Tallini G, Crino L,
+blocker, in the treatment of intracerebral metastases of non-small Brandes AA (2007) Gefitinib in patients with progressive high-
+cell lung cancer in mice. Acta Pharm Sin 38:233–240. https://d oi. grade gliomas: a multicentre phase II study by Gruppo Italiano
+org/1 0.1 038/a ps.2 016.1 07 Cooperativo di Neuro-Oncologia (GICNO). Br J Cancer 96:1047–
+27. Hoffknecht P, Tufman A, Wehler T, Pelzer T, Wiewrodt R, Schutz 1051. https://d oi.o rg/1 0.1 038/s j.b jc.6 60366 9
+M, Serke M, Stohlmacher-Williams J, Marten A, Maria Huber 38. Reardon DA, Quinn JA, Vredenburgh JJ, Gururangan S, Fried-
+R, Dickgreber NJ (2015) Efficacy of the irreversible ErbB fam- man AH, Desjardins A, Sathornsumetee S, Herndon JE 2nd,
+ily blocker afatinib in epidermal growth factor receptor (EGFR) Dowell JM, McLendon RE, Provenzale JM, Sampson JH, Smith
+tyrosine kinase inhibitor (TKI)-pretreated non-small-cell lung RP, Swaisland AJ, Ochs JS, Lyons P, Tourt-Uhlig S, Bigner DD,
+cancer patients with brain metastases or leptomeningeal disease. Friedman HS, Rich JN (2006) Phase 1 trial of gefitinib plus siroli-
+J Thorac Oncol 10:156–163. https://d oi.o rg/1 0.1 097/j to.0 0000 mus in adults with recurrent malignant glioma. Clin Cancer Res
+000000 00380 12:860–868. https://d oi.o rg/1 0.1 158/1 078-0 432.C cr-0 5-2 215
+28. Park K, Wan-Teck Lim D, Okamoto I, Yang JC-H (2019) First-line 39. Kreisl TN, Lassman AB, Mischel PS, Rosen N, Scher HI, Teruya-
+afatinib for the treatment of EGFR mutation-positive non-small- Feldstein J, Shaffer D, Lis E, Abrey LE (2009) A pilot study of
+cell lung cancer in the “real-world” clinical setting. Ther Adv everolimus and gefitinib in the treatment of recurrent glioblas-
+Med Oncol 11:1758835919836374. https://d oi.o rg/1 0.1 177/1 7588 toma (GBM). J Neurooncol 92:99–105. https://d oi.o rg/1 0.1 007/
+359198 36374 s11060-0 08-9 741-z
+29. Li SH, Liu CY, Hsu PC, Fang YF, Wang CC, Kao KC, Tseng LC, 40. Reardon DA, Desjardins A, Vredenburgh JJ, Gururangan S, Fried-
+Yang CT (2018) Response to afatinib in treatment-naive patients man AH, Herndon JE 2nd, Marcello J, Norfleet JA, McLendon
+with advanced mutant epidermal growth factor receptor lung RE, Sampson JH, Friedman HS (2010) Phase 2 trial of erlotinib
+1 3
+
+--- Page 11 ---
+Journal of Neuro-Oncology (2021) 155:307–317 317
+plus sirolimus in adults with recurrent glioblastoma. J Neurooncol multifocal glioblastoma: a case of extended survival and follow-
+96:219–230. https://d oi.o rg/1 0.1 007/s 11060-0 09-9 950-0 up (EPO2307). Presented at the 5th Congress of the European
+41. de Groot JF, Gilbert MR, Aldape K, Hess KR, Hanna TA, Ictech S, Academy of Neurology (EAN), Oslo, Norway, June 29–July 2.
+Groves MD, Conrad C, Colman H, Puduvalli VK, Levin V, Yung Available at: https:// www. inonc ology. com/ sites/ defau lt/ files/
+WK (2008) Phase II study of carboplatin and erlotinib (Tarceva, downlo ads/1 200.3 6_-_e an_2 019_p oster.p df
+OSI-774) in patients with recurrent glioblastoma. J Neurooncol 46. Alken S, Alshami J, Muanza T, Gibson N, Pemberton K, Solca F,
+90:89–97. https://d oi.o rg/1 0.1 007/s 11060-0 08-9 637-y Cseh A, Saran F (2015) Next generation sequencing (NGS) analy-
+42. van den Bent MJ, Brandes AA, Rampling R, Kouwenhoven MC, sis of tumours from patients (pts) with glioblastoma (GB) and
+Kros JM, Carpentier AF, Clement PM, Frenay M, Campone M, long-term response to afatinib. Presented at the 4th in the biennial
+Baurain JF, Armand JP, Taphoorn MJ, Tosoni A, Kletzl H, Klug- series of the EORTC-EANO-ESMO Conference, Istanbul, Turkey,
+hammer B, Lacombe D, Gorlia T (2009) Randomized phase II March 27–28
+trial of erlotinib versus temozolomide or carmustine in recurrent 47. Wen PY, Macdonald DR, Reardon DA, Cloughesy TF, Sorensen
+glioblastoma: EORTC brain tumor group study 26034. J Clin AG, Galanis E, Degroot J, Wick W, Gilbert MR, Lassman AB,
+Oncol 27:1268–1274. https://d oi.o rg/1 0.1 200/j co.2 008.1 7.5 984 Tsien C, Mikkelsen T, Wong ET, Chamberlain MC, Stupp R,
+43. Yung WK, Vredenburgh JJ, Cloughesy TF, Nghiemphu P, Klencke Lamborn KR, Vogelbaum MA, van den Bent MJ, Chang SM
+B, Gilbert MR, Reardon DA, Prados MD (2010) Safety and effi- (2010) Updated response assessment criteria for high-grade glio-
+cacy of erlotinib in first-relapse glioblastoma: a phase II open- mas: response assessment in neuro-oncology working group. J
+label study. Neuro Oncol 12:1061–1070. https://d oi.o rg/1 0.1 093/ Clin Oncol 28:1963–1972. https://d oi.o rg/1 0.1 200/J CO.2 009.2 6.
+neuonc/n oq072 3541
+44. Alshami J, Guiot MC, Owen S, Kavan P, Gibson N, Solca F, Cseh 48. Wen PY, Chang SM, Van den Bent MJ, Vogelbaum MA, Macdon-
+A, Reardon DA, Muanza T (2015) Afatinib, an irreversible ErbB ald DR, Lee EQ (2017) Response assessment in neuro-oncology
+family blocker, with protracted temozolomide in recurrent glio- clinical trials. J Clin Oncol 35:2439–2449. https://d oi.o rg/1 0.
+blastoma: a case report. Oncotarget 6:34030–34037. https://d oi. 1200/J CO.2 017.7 2.7 511
+org/1 0.1 8632/o ncota rget.5 297
+45. Owen S, Alshami J, Guiot M-C, Kavan P, Gibson N, Solca Publisher's Note Springer Nature remains neutral with regard to
+F, Cseh A, Reardon DA, Muanza T (2019) Afatinib in jurisdictional claims in published maps and institutional affiliations.
+1 3

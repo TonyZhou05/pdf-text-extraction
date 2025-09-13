@@ -1,0 +1,1400 @@
+Source: 31207904.pdf
+Extracted on: Fri Sep 12 23:57:51 PDT 2025
+==================================================
+
+--- Page 1 ---
+cancers
+Article
+Phase I Dose Escalation Study with Expansion Cohort
+of the Addition of Nab-Paclitaxel to Capecitabine and
+Oxaliplatin (CapOx) as First-Line Treatment of
+Metastatic Esophagogastric Adenocarcinoma
+(ACTION Study)
+SandorSchokker1,2 ,StephanieO.vanderWoude2,JessyJoyvanKleef2 ,DaanJ.vanZoen2,
+MartijnG.H.vanOijen2,BanafscheMearadji3,LudoF.M.Beenen3 ,CharlotteI.Stroes1,2,
+CynthiaWaasdorp1,R.AartiJibodh1,AafkeCreemers1,SybrenL.Meijer4,GerritK.J.Hooijer4,
+CornelisJ.A.Punt2,MaartenF.Bijlsma1 andHannekeW.M.vanLaarhoven1,2,*
+1 LaboratoryforExperimentalOncologyandRadiobiology,CenterforExperimentalandMolecularMedicine,
+CancerCenterAmsterdam,AmsterdamUMC,UniversityofAmsterdam,Meibergdreef9,
+1105AZAmsterdam,TheNetherlands;s.schokker@amc.uva.nl(S.S.);c.i.stroes@amsterdamumc.nl(C.I.S.);
+c.waasdorp@amc.uva.nl(C.W.);r.a.jibodh@amc.uva.nl(R.A.J.);a.creemers@amsterdamumc.nl(A.C.);
+m.f.bijlsma@amc.uva.nl(M.F.B.)
+2 DepartmentofMedicalOncology,CancerCenterAmsterdam,AmsterdamUMC,UniversityofAmsterdam,
+Meibergdreef9,1105AZAmsterdam,TheNetherlands;s.o.vanderwoude@amsterdamumc.nl(S.O.v.d.W.);
+j.j.vankleef@amsterdamumc.nl(J.J.v.K.);d.j.vanzoen@amc.uva.nl(D.J.v.Z.);
+m.g.vanoijen@amsterdamumc.nl(M.G.H.v.O.);c.punt@amsterdamumc.nl(C.J.A.P.)
+3 DepartmentofRadiology,AmsterdamUMC,UniversityofAmsterdam,Meibergdreef9,
+1105AZAmsterdam,TheNetherlands;b.mearadji@amc.uva.nl(B.M.);l.f.beenen@amc.uva.nl(L.F.M.B.)
+4 DepartmentofPathology,AmsterdamUMC,UniversityofAmsterdam,Meibergdreef9,1105AZ
+Amsterdam,TheNetherlands;s.l.meijer@amc.uva.nl(S.L.M.);g.k.hooijer@amc.uva.nl(G.K.J.H.)
+* Correspondence: h.vanlaarhoven@amsterdamumc.nl
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+Received: 26April2019;Accepted: 11June2019;Published: 14June2019
+Abstract: First-line triplet chemotherapy including a taxane may prolong survival in patients
+withmetastaticesophagogastriccancer. Theaddedtoxicityofthetaxanemightbeminimizedby
+usingnab-paclitaxel. TheaimofthisphaseIstudywastodeterminethefeasibilityofcombining
+nab-paclitaxelwiththestandardofcareintheNetherlands,capecitabineandoxaliplatin(CapOx).
+Patientswithmetastaticesophagogastricadenocarcinomareceivedoxaliplatin65mg/m2 ondays
+1and8, andcapecitabine1000mg/m2 bidondays1–14ina21-daycycle, withnab-paclitaxelon
+days1and8atfourdoselevels(60,80,100,and120mg/m2,respectively),usingastandard3+3
+doseescalationphase,followedbyasafetyexpansioncohort. Baselinetissueandserummarkersfor
+activatedtumorstromawereassessedasbiomarkersforresponseandsurvival. Twenty-sixpatients
+were included. The first two dose-limiting toxicities (i.e., diarrhea and dehydration) occurred at
+doselevel3. Theresultingmaximumtolerabledose(MTD)of80mg/m2wasusedintheexpansion
+cohort,butwasreducedto60mg/m2afterthreeoutofeightpatientsexperienceddiarrheagrade3.
+Theobjectiveresponseratewas54%. Themedianprogression-free(PFS)andoverallsurvivalwere
+8.0and12.8months,respectively. HighbaselineserumADAM12wasassociatedwithasignificantly
+shorterPFS(p=0.011). Inconclusion,albeitthattheadditionofnab-paclitaxel60mg/m2toCapOx
+maybebettertoleratedthanothertaxanetriplets,relevanttoxicitywasobserved. Thereisarationale
+forpreservingtaxanesforlater-linetreatment. ADAM12isapotentialbiomarkertopredictsurvival,
+andwarrantsfurtherinvestigation.
+Cancers2019,11,827;doi:10.3390/cancers11060827 www.mdpi.com/journal/cancers
+
+--- Page 2 ---
+Cancers2019,11,827 2of17
+Keywords: esophagogastriccancer;phaseIclinicaltrial;nab-paclitaxel;CapOx;stromalcells
+1. Introduction
+Themortalityofgastricandesophagealcarcinomaremainshigh,particularlyduetothehighrate
+oflocallyadvancedormetastaticdiseaseatdiagnosis,thesubstantialrecurrencerateaftertreatment
+withcurativeintent,andthedevelopmentoftreatmentresistance[1]. Therefore,thereisanurgent
+needforeffectivefirst-linepalliativetreatment.
+First-line treatment usually consists of a doublet with a fluoropyrimidine and a platinum
+compound,sometimesextendedtoatriplet,andinthecaseofaHER-2positivetumor,trastuzumab
+canbeadded[2,3]. Theadditionofananthracyclineonlymarginallyimprovessurvival,whilethe
+addition of a taxane more effectively improves survival, albeit at the cost of increased toxicity [4].
+Nab-paclitaxel has a favorable toxicity profile compared to conventional taxanes, and has shown
+non-inferioritytosolvent-basedpaclitaxelwithlesstoxicityinthesecond-linetreatmentofgastric
+carcinoma[5]. TheprimaryaimofthisstudywastodeterminetherecommendeddoseforphaseII
+testing(RP2D)ofnab-paclitaxelcombinedwithcapecitabineandoxaliplatin(CapOx),andtoassessits
+feasibilityintermsoftoxicity.
+Traditionally,cancerresearchhasfocusedonthetreatmentoftumorcells[3,6]. However,there
+isemergingevidencethatthecollectiveofnon-tumorcellsandmaterial(i.e.,tumorstroma)playsa
+pivotalroleintumorgrowth,aswellasmetastasisformationandthedevelopmentofresistance[7,8].
+Thus,thestromashouldbetakenintoconsiderationwhendesigningnoveltreatmentstrategies[9–15].
+Amongstromalcells,cancer-associatedfibroblasts(CAFs)areofutmostimportance,notonlybecause
+oftheirrelativeabundance,butparticularlybecauseoftheircross-talkwithtumorcells[16]. Previous
+researchhasshownthatCAFsareassociatedwithaworseprognosisinesophagealcancerandprecede
+thedepositionofcollagen—anothermaincomponentofthestroma[7,14]. Duetoitsrelativeabundance
+andmechanicalproperties,thestromamayfunctionasabarriertocytotoxictreatment[8,9]. Itcan
+increaseinterstitialpressure,withthecompressionofexistingcapillariesandtherestrictionofnew
+vesselformationasaresult. Inturn,thisleadstotumorhypoxia,whichisassociatedwithmetastatic
+propensityoftumorcellsaswellaswithtreatmentresistance,andalsolimitstheeffectivedeliveryof
+drugstocancercells[17,18].
+Moreover, CAFs secrete cytokines such as IL-6, which may further contribute to treatment
+resistance [16,19,20]. Our secondary aim was therefore to explore the prognostic importance of
+activatedstromaduringthefirst-linetreatmentofadvancedesophagogastriccancer.
+2. Results
+2.1. Patients
+BetweenDecember2014andNovember2016,36patientswereassessed,and26eligiblepatients
+wereenrolled(Figure1). Allpatientshadmetastaticdisease,andmedianageattimeofenrolmentwas
+63years(range45–75)(Table1). Ofthetenpatientsthatwerepreviouslytreatedwithcurativeintent,
+themajorityhadreceivedneoadjuvantchemoradiationwithcarboplatin,paclitaxel,andfractionated
+radiation[21],andsixhadundergonepotentiallycurativesurgery(seeTableS1foradetaileddescription
+ofallincludedpatientswithregardstopriortreatment).
+2.2. SafetyandTolerability
+2.2.1. DoseEscalation,DLTs,andMTD
+Atdatacut-offon2May2018,26patientsreceivedatleastonecycleofstudymedicationand
+wereallavailableforsafetyanalysis. Twelvepatientswereenrolledinthedose-limitingtoxicity(DLT)
+
+--- Page 3 ---
+Cancers2019,11,827 3of17
+analysiscohort(Figure2). NoDLTwasobservedatdoselevels1and2,butonepatientatdoselevel
+2diedoutsideoftheDLTperiodduetonon-neutropenicsepsisanddehydration, suspectedtobe
+treatmentrelated. Therefore,doselevel2wasexpandedwithafurtherthreepatients,whodidnot
+Cancers 2019, 11, x 3 of 17
+experienceDLT.Atdoselevel3,twopatientsexperiencedDLT;bothgrade3diarrhea,resultingin
+gradee3xpdeerhieyndcer aDtiLoTn. iAnt odnoesep laetvieenl 3t., Ttwhou sp,atthieenMts TexDpewriaesnceesdta DbLliTsh; ebdothat g8r0adme g3/ mdi2arorhfenaa, br-epsuacltliintagx ienl and
+grade 3 dehydration in one patient. Thus, the MTD was established at 80 mg/m2 of nab-paclitaxel and
+apreplanned14patientsweretobeincludedinasafetyexpansioncohortatthisdoselevel. However,
+a preplanned 14 patients were to be included in a safety expansion cohort at this dose level. However,
+aftertheenrolmentofsixpatients,afurtherthreepatientsexperiencedgrade3diarrheanecessitating
+after the enrolment of six patients, a further three patients experienced grade 3 diarrhea necessitating
+hospitalizationanddosereductionsforbothnab-paclitaxelandoxaliplatin. Inconsultationwiththe
+hospitalization and dose reductions for both nab-paclitaxel and oxaliplatin. In consultation with the
+institutionalreviewboard,theremainingeightpatientsoftheexpansioncohortweretreatedatdose
+institutional review board, the remaining eight patients of the expansion cohort were treated at dose
+level1. Atthisdoselevel,grade3diarrheaoccurredinonepatient(9%)andtheRP2Dwastherefor
+level 1. At this dose level, grade 3 diarrhea occurred in one patient (9%) and the RP2D was there for
+eestabeleissthaebdlisahted60 atm 6g0 / mmg 2 /.m2.
+36 patients assessed for eligibility
+10 excluded before treatment
+Not meeting inclusion criteria (n = 7)
+No measurable lesion (n = 2)
+Temporary inclusion stop (n = 1)
+26 enrolled and treated with ≥ 1 dose of study medication
+11 at dose level 1
+12 at dose level 2
+3 at dose level 3
+0 at dose level 4
+26 analyzed for safety and clinical activity outcomes in dose-
+escalation and expansion cohort
+12 analyzed in dose limiting toxicity evaluation set
+3 at dose level 1
+6 at dose level 2
+3 at dose level 3
+14 analyzed in safety expansion cohort
+6 at dose level 2
+8 at dose level 1
+Biomarker analyses
+14 with biopsy of metastatic site
+26 with baseline serum sample
+26 with baseline CT-scan
+Figure1. CONSORTflowdiagram.
+Figure 1. CONSORT flow diagram.
+
+--- Page 4 ---
+Cancers2019,11,827 4of17
+Cancers 2019, 11, x 5 of 17
+Dose level 1 (60 mg/m2)
+No DLT
+n = 3
+Dose level 2 (80 mg/m2)
+No DLT, 1 patient died outside of DLT period
+n = 6
+Dose level 3 (100 mg/m2)
+DLT: 2 × grade 3 diarrhea, 1 × grade 3 dehydration
+n = 3
+MTD: dose level 2 (80 mg/m2)
+Safety expansion cohort
+After 12 patients treated at dose level 2, four had
+experienced grade 3 diarrhea
+Dose de-escalation to dose level 1
+Total of 11 patients treated at this dose level
+RP2D: dose level 1 (60 mg/m2)
+Figure2. Doseescalationanddoselimitingtoxicity. Flowdiagramofthenumberofpatientsperdose
+lFeivgeul,rea n2d. Dthoseec ehsociacleatfioorns aunbds edqouseen ltimdiotsinegl etvoxeliscibtya.s Feldowon dtihaegroacmcu orfr ethnec enoufmDbLeTr sofa npdatiteonxtisc iptye.r DdoLsTe:
+dleovseel-,l iamndit itnhge tcohxoiciictey ;foMr TsDub:smeqauxiemntu dmostoel elervaetelsd bdaosseed; RonP 2tDhe: roecccoumrrmenecned oedf DpLhaTsse aInIdd otosex.icity. DLT:
+dose-limiting toxicity; MTD: maximum tolerated dose; RP2D: recommended phase II dose.
+Table1. Baselinecharacteristics.
+2.2.2. Treatment-Related Ad B v as e e r l s i e n e E C ve h n ar ts a cteristics n(%)/Median(Range)
+Because of the substManedtiiaaln AdigfefearteSntcaert Sintu dtoyxicity between dose levels (p6a3rt(i4c5u–l7a5r)ly grade 3
+diarrhea and dehydration), treatment-related adverse events are presented for dose levels 1,2, and 3
+Sex
+separately (Table 2). Male 23(89%)
+A total of 18 serious adverse eFveemnatlse occurred in 12 (46%) patients, 10 of whi3ch(1 1w%e)re suspected
+to be treatment related: 4E iCnO tGhep e6r0fo mrmga/nmce2 cstoahtuosrt and 14 in the 80 and 100 mg/m2 cohorts. Eight
+patients experienced diarrhea and/or v0omiting, in five cases complicated by dehyd2r0a(t7io7%n.) One patient
+was admitted for an evaluation of che1st pain after taking capecitabine, and one p6at(i2e3n%t )died of non-
+neutropenic sepsis. TreatmPreimnta-rryeltautmedor laodcavteiornse events resulting in discontinuation of study
+medication were bone marrow Etsooxpichiatgyu sand non-neutropenic sepsis (n = 1). O9n(3e5 %p)atient had a
+Gastro-esophagealjunction 13(50%)
+treatment-unrelated chylothorax for which study medication was discontinued.
+Stomach 4(15%)
+2.3. Drug Exposure and Clinical Activity
+
+--- Page 5 ---
+Cancers2019,11,827 5of17
+Table1. Cont.
+BaselineCharacteristics n(%)/Median(Range)
+Diseasestatus
+Synchronousmetastases 16(62%)
+Metachronousmetastases 10(39%)
+Numberoforgansinvolved
+1 10(39%)
+2 10(39%)
+3 3(11%)
+4 3(11%)
+Organsinvolved
+Lymphnodes 18(69%)
+Liver 12(46%)
+Lung 6(23%)
+Bone 3(12%)
+Peritoneum 3(12%)
+Locoregionalrecurrence 2(7%)
+Other* 5(19%)
+Prior(neo)adjuvanttreatment
+Previousradiotherapy 9(35%)
+Previouschemotherapy** 10(39%)
+Previousgastrectomy 1(4%)
+Previousesophagectomy 5(19%)
+Mediantimesincelast(neo-)adjuvantchemotherapyinmonths(range) 9.8(1.5–31.7)
+*othermetastaticsitesbeingadrenals(n=2),testis(n=1),spleen(n=1),rectusabdominus(n=1).**neoadjuvant
+chemoradiotherapywithcarboplatinandpaclitaxelforesophagealcarcinomapatients,andperioperativeepirubicin,
+cisplatin,andcapecitabineforagastriccancerpatient.ECOG:EasternCooperativeOncologyGroup.
+2.2.2. Treatment-RelatedAdverseEvents
+Becauseofthesubstantialdifferenceintoxicitybetweendoselevels(particularlygrade3diarrhea
+anddehydration),treatment-relatedadverseeventsarepresentedfordoselevels1,2,and3separately
+(Table2).
+Table2. Treatment-relatedadverseevents.
+60mg/m2(n=11) 80–100mg/m2(n=15)
+AdverseEvent
+Grade1/2 Grade3/4/5 Grade1/2 Grade3/4/5
+Hematological n(%) n(%) n(%) n(%)
+Thrombocytopenia 0 1(9%) 1(6%) 1(6%)
+Leukocytopenia 0 0 0 1(6%)
+Non-febrileneutropenia 0 2(18%) 1(6%) 3(20%)
+Non-Hematological n(%) n(%) n(%) n(%)
+Peripheralsensoryneuropathy 9(82%) 0 15(100%) 0
+Fatigue 8(73%) 0 12(80%) 0
+Nausea 7(64%) 1(9) 10(66%) 1(6%)
+Diarrhea 8(73%) 1(9) 9(60%) 5(33%)
+Dysgeusia 6(55%) 0 9(60%) 0
+Alopecia 3(27%) 0 8(53%) 0
+Vomiting 4(36%) 1(9) 8(53%) 2(13%)
+Anorexia 6(55%) 1(9) 7(47%) 0
+Oralmucositis 1(9%) 0 4(26%) 1(6%)
+Pain 3(27%) 0 4(26%) 0
+Dehydration 0 0 0 4(26%)
+Fever 0 0 3(20%) 0
+Constipation 3(27%) 0 2(13%) 0
+Cough 0 0 2(13%) 0
+Dysphagia 0 0 2(13%) 0
+Flu-likesymptoms 0 0 2(13%) 0
+Malaise 2(18%) 0 2(13%) 0
+
+--- Page 6 ---
+Cancers2019,11,827 6of17
+Table2. Cont.
+60mg/m2(n=11) 80–100mg/m2(n=15)
+AdverseEvent
+Grade1/2 Grade3/4/5 Grade1/2 Grade3/4/5
+Non-cardiacchestpain 0 0 2(13%) 0
+Palmar-plantar
+1(9%) 0 2(13%) 0
+erythrodysesthesiasyndrome
+Maculopapularrash 0 0 2(13%) 0
+Hypertension 0 0 0 1(6%)
+Sepsis 0 0 0 1(6%)
+Abdominalpain 1(9%) 0 1(6%) 0
+Dizziness 1(9%) 0 1(6%) 0
+Thromboembolicevent 1(9%) 0 1(6%) 0
+Treatment-relatedadverseeventsoccurringatanygradein>1patientoratgrade≥3inanypatient. Onlythe
+highestgradeofanadverseeventperpatientisreported.
+Atotalof18seriousadverseeventsoccurredin12(46%)patients,10ofwhichweresuspected
+to be treatment related: 4 in the 60 mg/m2 cohort and 14 in the 80 and 100 mg/m2 cohorts. Eight
+patientsexperienceddiarrheaand/orvomiting,infivecasescomplicatedbydehydration. Onepatient
+was admitted for an evaluation of chest pain after taking capecitabine, and one patient died of
+non-neutropenic sepsis. Treatment-related adverse events resulting in discontinuation of study
+medication were bone marrow toxicity and non-neutropenic sepsis (n = 1). One patient had a
+treatment-unrelatedchylothoraxforwhichstudymedicationwasdiscontinued.
+2.3. DrugExposureandClinicalActivity
+Twenty patients (77%) completed six cycles of combination therapy, and five patients (19%)
+wereeligibleforreintroductionoftripletreatmentafterprogressiononcapecitabinemonotherapy
+(Table3,Figure3). Mediandoseintensityduringtheinitialsixcycleswas7424mg/m2/week(89.2%)for
+capecitabine,40.2mg/m2/week(84.6%)foroxaliplatin,and43.5mg/m2/week(83.9%)fornab-paclitaxel.
+Table3. Drugexposure.
+DrugExposure n(%)/Median(Range)
+MediannumberofcyclesACTION(range) 6(2–6)
+Patientscompleting6cycles 20(77%)
+Reasonsforprematurestudytermination*
+Toxicity 4(15%)
+Progressivedisease 2(8%)
+Patientscontinuingcapecitabinemonotherapy 18(69%)
+Mediannumberofcyclescapecitabinemonotherapy(range) 7(2–43)
+Patientseligibleforreintroduction 5(19%)
+Mediandoseintensityoxaliplatin(range)** 40.2(22.7–67.4)
+Doseintensityoxaliplatinin% 84.6%
+Mediandoseintensitycapecitabine(range)** 7424(4530–9672)
+Doseintensitycapecitabinein% 89.2%
+Mediandoseintensitynab-paclitaxel(range)** 43.5(25.7–82.9)
+Doseintensitynab-paclitaxelin%,totalcohort 83.9%
+60mg/m2cohort 37.5(25.7–46.0)
+Doseintensityin% 87.8%
+80mg/m2cohort 47.6(27.7–82.9)
+Doseintensityin% 88.3%
+100mg/m2cohort 47.3(41.1–64.6)
+Doseintensityin% 78.9%
+*Fourpatientsstoppedtreatmentinthecourseofthesixcyclesduetotoxicities, ofwhomtwodiedshortly
+thereafter;twopatientswereprogressiveafterthreeandfivecycles,respectively.**Doseintensityinmg/m2/week
+wascalculatedfortheinitialcyclesofACTIONtherapyandconsistsofthecumulativedosedividedbythenumber
+ofweeksthepatientwastreatedwithstudymedication,uptoamaximumofsixcycles.Doseintensityin%was
+calculatedaspercentageofthetheoreticalmaximumdoseintensity.Nab-paclitaxeldoseintensitywascalculatedfor
+thetotalcohortandtherespectivedoselevelcohortsseparately.
+
+--- Page 7 ---
+Cancers 2019, 11, x 7 of 17
+* Four patients stopped treatment in the course of the six cycles due to toxicities, of whom two died shortly thereafter;
+two patients were progressive after three and five cycles, respectively. ** Dose intensity in mg/m2/week was calculated for
+the initial cycles of ACTION therapy and consists of the cumulative dose divided by the number of weeks the patient was
+treated with study medication, up to a maximum of six cycles. Dose intensity in % was calculated as percentage of the
+Cancers2t0h1e9o,r1et1i,ca8l2 m7aximum dose intensity. Nab-paclitaxel dose intensity was calculated for the total cohort and the respective 7of17
+dose level cohorts separately.
+FigFuigreur3e. 3S.w Swimimmmererp lpoltoto offr araddioiolologgiiccaall rreessppoonnssee aanndd dduurraattiioonn oof frreessppoonnses.e C. RC:R c:ocmopmleptlee treesrpeospnsoen; se;
+PRP:Rp:a prtairatliarle rsepsopnosnes;eS; DSD:s: tsatbableled disiseeaassee;; PPDD:: pprrooggrreessssiivvee ddiisseeaassee. .PPaatiteinetnst seleigliigbilbe lfeofro rreirnetirnotdroudctuiocnti:o n:
+†c†o mcopmlepteledtesdix smixo rmeocyrec lecyscolfesc aopfe cciatpabeciniteabainnde oaxnadli polxaatilnip(lCatainp O(Cx)a–pnOaxb)-–pnaacbli-tpaaxcelli,tapxreolg, rpesrosigvreesdsiisveea se
+aft
+d
+er
+is
+t
+e
+h
+a
+r
+s
+e
+e
+e
+a
+c
+ft
+y
+e
+c
+r
+l e
+th
+s
+r
+o
+e
+f
+e
+c
+c
+a
+y
+p
+cl
+e
+e
+c
+s
+i t
+o
+a
+f
+b
+c
+i
+a
+n
+p
+e
+e
+m
+cit
+o
+a
+n
+b
+o
+in
+th
+e
+e
+m
+ra
+o
+p
+n
+y
+o
+;
+th‡e
+p
+ra
+ro
+p
+g
+y
+r
+;
+e
+‡
+s
+p
+si
+r
+v
+o
+e
+gr
+d
+e
+i
+s
+s
+s
+e
+i
+a
+v
+s
+e
+e
+d
+a
+is
+ft
+e
+e
+a
+r
+se
+th
+a
+r
+f
+e
+te
+e
+r
+c
+t
+y
+h
+c
+r
+l
+e
+e
+e
+s ;
+cy
+§
+c
+p
+le
+r
+s
+o
+;
+g ressive
+dis § e a p s r e og a r f e te ss r i t v w e o di c s y ea cl s e e s a ; f ¥ te a r d t m wo it t c e y d cl w es i ; t ¥ h a p d a m in it a te n d d w m it a h l a p i a se in o a n n e d d m ay al a ai f s te e r o r n e e i n d t a r y o d a u ft c e t r i o re n i , n r t e ro m d a u i c n t i i n o g n, o ff
+the
+r
+r
+e
+a
+m
+p
+a
+y
+in
+u
+i
+n
+n
+t
+g
+i l
+o
+o
+ffffi th
+ci
+e
+a
+r
+l
+ap
+d
+y
+ia
+u
+g
+n
+n
+t
+o
+il
+s i
+o
+s
+ff
+o
+ic
+f
+i
+p
+al
+r o
+d
+g
+ia
+r
+g
+es
+n
+s
+o
+i
+s
+v
+i
+e
+s o
+d
+f
+i s
+p
+e
+r
+a
+o
+s
+g
+e
+re
+sh
+ss
+o
+iv
+rt
+e
+l y
+di
+t
+s
+h
+e
+e
+a
+r
+s
+e
+e
+a
+s
+ft
+h
+e
+o
+r
+r
+.
+tly thereafter.
+The objective response rate was 54%, with best responses being a complete response in one,
+The objective response rate was 54%, with best responses being a complete response in one,
+partial response in 13 (50%), stable disease in nine (34%), and progressive disease in two patients (8%)
+partial response in 13 (50%), stable disease in nine (34%), and progressive disease in two patients
+(Figure 3). Radiological responses in dose level 1 appeared similar to those in dose levels 2 and 3
+(8%) (Figure 3). Radiological responses in dose level 1 appeared similar to those in dose levels 2
+(Figure 3). One patient was non-evaluable because of clinical deterioration before a response
+and3(Figure3). Onepatientwasnon-evaluablebecauseofclinicaldeteriorationbeforearesponse
+evaluation CT was performed. Median duration of response was 7.8 months. Half of the patients with
+evaluationCTwasperformed. Mediandurationofresponsewas7.8months. Halfofthepatientswith
+progressive disease (12/24) received a subsequent line of palliative treatment (Table S2). Survival data
+progressivedisease(12/24)receivedasubsequentlineofpalliativetreatment(TableS2). Survivaldata
+were calculated for exploratory purposes only. Median progression-free survival (PFS) and overall
+werecalculatedforexploratorypurposesonly. Medianprogression-freesurvival(PFS)andoverall
+survival (OS) were 8.0 months and 12.8 months, respectively, with a median follow-up of 13.3 months
+survival(OS)were8.0monthsand12.8months,respectively,withamedianfollow-upof13.3months
+(range 1.2 to 38.7).
+(range1.2to38.7).
+2.4. Patient-Reported Health-Related Quality of Life and Neurotoxicity
+2.4. Patient-ReportedHealth-RelatedQualityofLifeandNeurotoxicity
+Twenty-four patients completed the baseline questionnaires before start of treatment (Tables S3
+Twenty-fourpatientscompletedthebaselinequestionnairesbeforestartoftreatment(TableS3
+and Table 4). Compliance of follow-up questionnaires was high, and all patients but one was on active
+anCdaTpaObxle–n4a)b.-pCaocmlitpaxliealn ctreeaotfmfoenllto wup-u punqtiul escyticolne n7a ir(eTsabwlea sSh3)i.g hT,haenredafatellr,p aaltli epnatstiebnutts owneerwe aosno n
+actciavpeeCciatapbOinxe– nmabo-npoatchleitraaxpeyl. trFeoautmr epnattuiepntus nttihlacty cwlee7re( TealbigleibSle3 ).foTrh erreeianfttreord,uaclltipoant iecnotmspwleetreed on
+capqeuceistatiboinnneamireosn obtehfoerrea preyi.nFtoroudrupcattioienn tasntdh aatftwere rtheee lfiigrsibt lceyfcolre roefi nretriondtruocdtuiocntiocno.m Mpeleatne dglqoubeasl thioenanltahi,r es
+beffournecrtieoinnitnrogd succotrieosn, aanndd asfytmerptthoemfi rssctocreysc loefo tfhree iQnLtrQod-Cu3c0ti oqnu.eMstieoannnagilroeb raelmheaainltehd, fruenlacttiivoenlyin sgtasbcoler es,
+anddusryinmgp ttroematmsceonrte saso fwthelel QasL Qaf-tCer3 0ceqsusaetsitoino nonfa tirrieprlee mthaeirnaepdyr e(Flaigtiuvreel y4s).t aTbhlee dotuhreinr gfutrnecatitomneinngt aasnwd ell
+assayftmerpctoesmsa tsicoonreosf tarilpsole rthemeraaipnyed(F irgeularteiv4e)l.yT hsetaobtlhe er(Ffuignucrteio nSi1n).g aHnodwseyvmerp, tosmelfs-rceoproesrtaelds osreenmsoariny ed
+rel ativelystable(FigureS1). However,self-reportedsensoryneuropathyshowedanincreasefroma
+meanscoreof1.39atbaselineto28.8after9cycles,subsequentlydecreasingto17.0after15cycles.
+Themotorandautonomicneuropathyscoresdemonstratedasimilarpattern,albeitwithasmaller
+amplitude. Mediantimetodeteriorationofhealth-relatedqualityoflife(HRQoL)was8.0months,
+withonlythreepatientshavingadefinitive10-pointdropinglobalhealthscore. Theremainderhad
+progressionordeathastheirfirstevent.
+
+--- Page 8 ---
+Cancers2019,11,827 8of17
+Table4. Baselinehealth-relatedqualityoflife(HRQoL)andneurotoxicity.
+BaselineHRQoL(n=24) Mean(SD) Median(IQR)
+GlobalQoL/GlobalHealthScore†‡ 70.5(22.2) 75(66.6–83.3)
+Functioningscales†‡
+Physicalfunctioning 91.1(11.6) 93.3(86.7–100)
+Rolefunctioning 81.9(23) 91.7(66.7–100)
+Emotionalfunctioning 68.8(23) 66.7(52.1–89.6)
+Cognitivefunctioning 93.1(12.9) 100(83.3–100)
+Socialfunctioning 79.9(24.6) 91.7(66.7–100)
+Symptomscales†
+Fatigue 23.6(21.3) 22.2(2.8–33.3)
+Nauseaandvomiting 8.3(13.9) 0(0–16.7)
+Pain 18.8(25.2) 8.3(0–33.3)
+Dyspnea 13.9(19.5) 0(0–33.3)
+Insomnia 25(31.5) 0(0–58.3)
+Appetiteloss 22.2(27.2) 0(0–33.3)
+Constipation 16.7(22) 0(0–33.3)
+Diarrhea 22.2(28.9) 0(0–33.3)
+Financialdifficulties 6.9(17) 0(0–0)
+Neuropathyscales§
+SensoryNeuropathy 1.4(2.9) 0(0–2.8)
+MotorNeuropathy 1(2.4) 0(0–0)
+AutonomicNeuropathy 4.2(8.9) 0(0–0)
+EORTC:EuropeanOrganisationforResearchandTreatmentofCancer.†EORTCQLQ-C30.‡Globalqualityoflife
+orfunctionalscales(scalerange0–100):highscore=highleveloffunctioning.§EORTCQLQ-CIPN20.Symptom
+scalesorsingleitems(scalerange0–100):highscore=highlevelofsymptomsorproblems.
+2.5. Biomarkers
+Histologicalbiopsieswereavailablefor14patients,ofwhombaselinecharacteristicsweresimilar
+totheentirecohort(TablesS1andS4). Activatedstroma(measuredbyalphasmoothmuscleactin
+(αSMA)staining)anditsproductcollagen(measuredbypicrosiriusredstaining)werenotassociated
+with PFS or OS (p = 0.63 and 0.98 for αSMA, and p = 0.51 and 0.75 for picrosirius red staining,
+respectively; see Figure S2 for representative immunohistochemistry pictures). Baseline serum to
+assess serum activated stroma markers IL-6 and ADAM12 was available in all patients. Median
+baselineIL-6was0µL/mL(range0–61.94),with17patientshavingundetectableIL-6levels. These
+patients tended to have a longer median OS time (p = 0.10), and patients who had undetectable
+IL-6levelsthroughouttreatmenthadalongermedianPFStime(p=0.06, HR0.44(CI(confidence
+interval) 0.18–1.06), FigureS3). Median baseline ADAM12 concentration was 242.5 pg/mL and a
+highbaselineADAM12level(dichotomizedusingCutoffFinderat190pg/mL)wasassociatedwith
+a significantly shorter median PFS time (p = 0.008, HR 3.06 (CI 1.29–7.26) Figure 5) but not with
+medianOStime(p=0.096). BaselineADAM12levelswerealsosignificantlyhigherinpatientswith
+progressiveornon-evaluablediseaseastheirbestresponsescomparedtopartialresponders(p=0.002,
+FigureS4). ThemedianADAM12valuesbetweenthepre-treatedandpreviouslyuntreatedgroups
+werestatisticallysimilar(pre-treated171pg/mLandpreviouslyuntreated348pg/mL,Mann–Whitney
+p=0.90). MedianADAM12valuesbetweenpatientswhoreceivedpriorsurgerywerealsostatistically
+similartothoseofpatientswhohadnotreceivedpriorsurgery(187pg/mLvs. 243pg/mL,respectively,
+Mann–Whitneyp=0.88).
+
+--- Page 9 ---
+Cancers2019,11,827 9of17
+Cancers 2019, 11, x 9 of 17
+S B cr e e f e o n re B in e C g f y o c r l e B e e C 2 f y o c r l e B e e C 3 f y o c B r l e e e f C 4 o y r c e B l e e C f
+B
+y 7 o c
+e
+r B l e
+f
+B e
+o
+e e C
+r
+f 1
+e
+f o y 0 o r c C r e l e y e R c C 1 e l y e 3 in c 2 l t e r R o 1 e d 6 i u n c tr ti o o d n uction
+erocS
+1 0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+Q o L
+S B cr e e f e o n re B in e C g f y o c r l e B e e C 2 f y o c r l e B e e C 3 f y o c B r l e e e f C 4 o y r c e B l e e C f
+B
+y 7 o c
+e
+r B l e
+f
+B e
+o
+e e C
+r
+f 1
+e
+f o y 0 o r c C r e l e y e R c C 1 e l y e 3 in c 2 l t e r R o 1 e d 6 i u n c tr ti o o d n uction
+erocS
+1 0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+P h y s ic a l F u n c tio n in g
+S B cr e e f e o n re B in e C g f y o c r l e B e e C 2 f y o c r l e B e e C 3 f y o c B r l e e e f C 4 o y r c e B l e e C f
+B
+y 7 o c
+e
+r B l e
+f
+B e
+o
+e e C
+r
+f 1
+e
+f o y 0 o r c C r e l e y e R c C 1 e l y e 3 in c 2 l t e r R o 1 e d 6 i u n c tr ti o o d n uction
+erocS
+1 0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+E m o tio n a l F u n c tio n in g
+S B cr e e f e o n re B in e C g f y o c r l e B e e C 2 f y o c r l e B e e C 3 f y o c B r l e e e f C 4 o y r c e B l e e C f
+B
+y 7 o c
+e
+r B l e
+f
+B e
+o
+e e C
+r
+f 1
+e
+f o y 0 o r c C r e l e y e R c C 1 e l y e 3 in c 2 l t e r R o 1 e d 6 i u n c tr ti o o d n uction
+erocS
+1 0
+8
+6
+4
+2
+0
+0
+0
+0
+0
+0
+S o c ia l F u n c tio n in g
+S B cr e e f e o n re B in e C g f y o c r l e B e e C 2 f y o c r l e B e e C 3 f y o c B r l e e e f C 4 o y r c e B l e e C f
+B
+y 7 o c
+e
+r B l e
+f
+B e
+o
+e e C
+r
+f 1
+e
+f o y 0 o r c C r e l e y e R c C 1 e l y e 3 in c 2 l t e r R o 1 e d 6 i u n c tr ti o o d n uction
+erocS
+6
+4
+2
+0
+0
+0
+0
+F a tig u e
+S B cr e e f e o n re B in e C g f y o c r l e B e e C 2 f y o c r l e B e e C 3 f y o c B r l e e e f C 4 o y r c e B l e e C f
+B
+y 7 o c
+e
+r B l e
+f
+B e
+o
+e e C
+r
+f 1
+e
+f o y 0 o r c C r e l e y e R c C 1 e l y e 3 in c 2 l t e r R o 1 e d 6 i u n c tr ti o o d n uction
+erocS
+6
+4
+2
+0
+0
+0
+0
+N a u s e a a n d V o m itin g
+A C
+B
+D E F
+G CIPN - Sensory
+60
+40
+e
+ro
+c
+S
+20
+0
+S B cr e e f e o n re B in e C g f y o c r l e B e e C 2 f y o c r l e B e e C 3 f y o c B r l e e e f C 4 o y r c e B l e e C f
+B
+y 7 o c
+e
+r B l e
+f
+B e
+o
+e e C
+r
+f 1
+e
+f o y 0 o r c C r e l e y e R c C 1 e l y e 3 in c 2 l t e r R o 1 e d 6 i u n c tr ti o o d n uction
+FFiigguurree 44.. HHeeaalltthh rreellaatteedd qquuaalliittyy ooffl ilfifeea annddn neueurortootxoixciictiyt.yD. Domomaianisnasn adnsdi nsginlegiltee imtesmrasn rgaengfreo mfro0mto 01 t0o0
+1w0i0t hwhitihgh hfiughnc ftuionnctsicoonr esscodreenso dtienngohtiinggh hleigvhel loefvfeul nocft fiounnicntigoannindgh aignhd shyimghp tsoymmpsctoomres sdcoerneost idnegnaothiinggh
+ale hvieglho lfesvyeml opft osymms.pCtoImPNs.: CCIhPeNm: oCthheemraoptyheInradpuyc eIdndPuecreipdh PeerarilpNheeurarlo Npaetuhryo.pathy.
+2.5. BBioamsearlikneers tumor burden (median 111.16 mL; range 2.34–3475.45 mL) was not correlated with
+baselineADAM12andIL-6concentrations(p=0.29andp=0.28,respectively),indicatingthatthe
+Histological biopsies were available for 14 patients, of whom baseline characteristics were
+poorsurvivalofpatientswithhighbaselineADAM12levelswasnotmerelyduetoahighertumor
+similar to the entire cohort (Tables S1 and S4). Activated stroma (measured by alpha smooth muscle
+burden(seeFigureS5forrepresentativeimagesforprimarytumorandmetastasessegmentation).
+actin (αSMA) staining) and its product collagen (measured by picrosirius red staining) were not
+associated with PFS or OS (p = 0.63 and 0.98 for αSMA, and p = 0.51 and 0.75 for picrosirius red
+staining, respectively; see Figure S2 for representative immunohistochemistry pictures). Baseline
+serum to assess serum activated stroma markers IL-6 and ADAM12 was available in all patients.
+Median baseline IL-6 was 0 µL/mL (range 0–61.94), with 17 patients having undetectable IL-6 levels.
+These patients tended to have a longer median OS time (p = 0.10), and patients who had undetectable
+IL-6 levels throughout treatment had a longer median PFS time (p = 0.06, HR 0.44 (CI (confidence
+interval) 0.18–1.06), Figure S3). Median baseline ADAM12 concentration was 242.5 pg/mL and a high
+baseline ADAM12 level (dichotomized using Cutoff Finder at 190 pg/mL) was associated with a
+
+--- Page 10 ---
+Cancers 2019, 11, x 10 of 17
+significantly shorter median PFS time (p = 0.008, HR 3.06 (CI 1.29–7.26) Figure 5) but not with median
+OS time (p = 0.096). Baseline ADAM12 levels were also significantly higher in patients with
+progressive or non-evaluable disease as their best responses compared to partial responders (p =
+0.002, Figure S4). The median ADAM12 values between the pre-treated and previously untreated
+groups were statistically similar (pre-treated 171 pg/mL and previously untreated 348 pg/mL, Mann–
+Whitney p = 0.90). Median ADAM12 values between patients who received prior surgery were also
+statistically similar to those of patients who had not received prior surgery (187 pg/mL vs. 243 pg/mL,
+Cancers2019,11,827 10of17
+respectively, Mann–Whitney p = 0.88).
+100
+Low baseline ADAM12
+)% High baseline ADAM12
+(
+S p=0.008, HR 3.06 (1.29-7.26)
+F P 50
+0
+0 3 6 9 12 15 18 21 24 27 30 33 36 39
+Time (months)
+No. at risk
+Low 12 12 11 9 6 4 1 1 1 1 1 1 1 1
+High 14 12 9 3 2 1 0 0 0 0 0 0 0 0
+Figure 5. Progression-free survival (PFS) of patients with high versus low baseline ADAM12.
+Figure 5. Progression-free survival (PFS) of patients with high versus low baseline ADAM12. Kaplan–
+Kaplan–MeiercurveofpatientswithhighbaselineADAM12concentrationvs. lowbaselineADAM12
+Meier curve of patients with high baseline ADAM12 concentration vs. low baseline ADAM12
+concentrations, dichotomized at 190 pg/mL (Cutoff Finder). p = 0.008 (log-rank test), HR 3.06
+concentrations, dichotomized at 190 pg/mL (Cutoff Finder). p = 0.008 (log-rank test), HR 3.06 (CI 1.29–
+(CI1.29–7.26)(Cox-regression).
+7.26) (Cox-regression).
+3. Discussion
+Baseline tumor burden (median 111.16 mL; range 2.34–3475.45 mL) was not correlated with
+Inordertofindataxane-containingtripletwithacceptabletoxicityforthepalliativetreatment
+baseline ADAM12 and IL-6 concentrations (p = 0.29 and p = 0.28, respectively), indicating that the
+of metastatic esophagogastric cancer patients, we combined capecitabine and oxaliplatin with
+poor survival of patients with high baseline ADAM12 levels was not merely due to a higher tumor
+nab-paclitaxel. Weestablishedthemaximumtolerateddose(MTD)ofnab-paclitaxelat80mg/m2.
+burden (see Figure S5 for representative images for primary tumor and metastases segmentation).
+However,withcontinuingtreatmentbeyondtheDLTperiod,weobservedexcessivetoxicity. Toxicity
+3w. aDsimscoursesimonan ageableat60mg/m2,andthisdosewasestablishedasRP2D.MedianPFSandOStimes
+werepromisingwith8.0and12.3months,respectively. Comparedwithothertaxanetripletsinsimilar
+West
+I
+e
+n
+r n
+o
+p
+rd
+o
+e
+p
+r
+u
+t
+l
+o
+at
+f
+io
+in
+n
+d
+s ,
+a
+t h
+t
+e
+a
+r
+x
+e
+a
+w
+ne
+a
+-
+s
+co
+le
+n
+s
+t
+s
+a
+h
+in
+e
+i
+m
+ng
+a t
+t
+o
+r
+l
+i
+o
+p
+g
+le
+ic
+t
+t
+w
+ox
+it
+i
+h
+ci t
+a
+y
+cc
+a
+e
+t
+p
+th
+ta
+e
+b
+R
+le
+P 2
+to
+D
+x
+,
+ic
+e
+i
+s
+t
+p
+y
+e
+f
+c
+o
+ia
+r
+l l
+t
+y
+he
+g r
+p
+a
+a
+d
+l
+e
+lia
+3
+t/i
+4
+v
+n
+e
+e
+t
+u
+re
+tr
+a
+o
+t
+p
+m
+e
+e
+n
+n
+ia
+t
+,
+of metastatic esophagogastric cancer patients, we combined capecitabine and oxaliplatin with nab-
+whilegastro-intestinaltoxicityappearedsimilar[22–30]. Additionally,higher-gradepolyneuropathy
+paclitaxel. We established the maximum tolerated dose (MTD) of nab-paclitaxel at 80 mg/m2.
+wasnotobserved(0%). However,comparedwithCapOxalone,substantiallymorediarrhea,fatigue,
+However, with continuing treatment beyond the DLT period, we observed excessive toxicity.
+anorexia,andperipheralneuropathywereobserved[31].
+Toxicity was more manageable at 60 mg/m2, and this dose was established as RP2D. Median PFS and
+Baseline global health score was high with a mean score of 70.5, compared to other first-line
+OS times were promising with 8.0 and 12.3 months, respectively. Compared with other taxane triplets
+studies,possiblyreflectingthegoodclinicalconditionofourpatientsatthestartoftreatment[23,25,28].
+in similar Western populations, there was less hematologic toxicity at the RP2D, especially grade 3/4
+The time to deterioration of global health score of 8.0 months is remarkably longer compared to
+neutropenia, while gastro-intestinal toxicity appeared similar [22–30]. Additionally, higher-grade
+previouslyreportedtaxanetripletsandfluoropyrimidinedoublets[32–34]. Itmaybehypothesized
+polyneuropathy was not observed (0%). However, compared with CapOx alone, substantially more
+thatthegoodbaselineclinicalconditionofourpatientscontributedtotherelativelygoodPFSandOS
+diarrhea, fatigue, anorexia, and peripheral neuropathy were observed [31].
+thatwasobservedinthisstudy. Indeed,ourPFSandOSresultswerefavorablecomparedtothoseof
+Baseline global health score was high with a mean score of 70.5, compared to other first-line
+fluoropyrimidinedoublets,althoughtheabsoluteimprovementinsurvivalwasmodest[31,35–39].
+studies, possibly reflecting the good clinical condition of our patients at the start of treatment
+Thequestionremainsastowhetherphysiciansandpatientsconsiderthetoxicityofataxanetripletin
+[23,25,28]. The time to deterioration of global health score of 8.0 months is remarkably longer
+thefirstlineoftreatmentacceptable,eveninamodifiedscheduleoralbumin-bound,whenOSisnot
+compared to previously reported taxane triplets and fluoropyrimidine doublets [32–34]. It may be
+substantiallyimprovedcomparedtodoublettherapy. Thisisespeciallyimportantinanerawhere
+hypothesized that the good baseline clinical condition of our patients contributed to the relatively
+second-linetaxane-containingtreatmentisbecomingstandardofcare[40]. Althoughrandomizeddata
+good PFS and OS that was observed in this study. Indeed, our PFS and OS results were favorable
+arelacking,itmaybehypothesizedthatthesequentialtherapyofafluoropyrimidinedoubletfollowed
+bytaxane-containingsecond-linetreatmentisaseffectiveasafirst-linecontainingtriplet,whileoverall
+toxicityisless[41]. Infact,inarecentJapanesephaseIIItrialanumericallylongerOSwasobserved
+inthefluoropyrimidinedoubletarm, comparedtothetaxanecontainingtripletarm(15.3vs. 14.2
+months),possiblypertainingtothepossibilityofgivingataxaneinlaterlines[42]. Unfortunately,
+theimportantquestionoftheoptimalsequenceofchemotherapywillremainunansweredinthenear
+future[43,44].
+
+--- Page 11 ---
+Cancers2019,11,827 11of17
+In contrast to previous work, in our study activated stroma as measured by αSMA staining
+wasnotassociatedwithPFSorOS[7]. Thiscouldbeduetothelimitedavailabilityoftumortissue.
+Serum was available for all patients, and especially ADAM12 demonstrated potential prognostic
+valueasnon-inflammation-relatedserum-bornemarkerforactivatedstroma. Asimilarprognostic
+impactofADAM12hasbeenobservedinpatientswithresectableormetastaticpancreaticcancer[45].
+WedemonstratedADAM12andIL-6levelstobeunrelatedtotumorburden,solidifyingthevalue
+ofthesemarkersinassessingtheactivationstatusofstroma, asopposedtomerelyreflectingtotal
+tumorburden. Thisprognostic,andperhapsevenpredictive,valueofADAM12needstobefurther
+studied in larger cohorts with the possibility of multivariate testing—the lack of which is a clear
+limitationofourpresentstudyandunderscorestheexploratorynatureofourfindings. Furthermore,
+the heterogeneity of the patients studied in our trial is a limitation. This pertains not only to the
+primarysite(esophagus,gastro-esophagealjunction,andstomach),butalsotopreviousanti-cancer
+treatmentincludingpriorsurgery. Relativelymorepatientshadaprioresophagectomycomparedtoa
+gastrectomy,whichmayinterferewithsurvivalandsusceptibilitytotoxicity,buttothebestofour
+knowledgetherearenodefinitivedataonthisdifference. ThesmallnumberofpatientsinaphaseI
+trialhampersfurtheranalysesofspecificsubgroups. However,inclinicalpractice,bothpretreatedand
+untreatedpatientsandbothesophagealandgastriccancerpatientstendtoreceivethesamefirst-line
+palliativetreatmentintheNetherlandsbasedontheresultsoftheREAL-2study,wherethesegroups
+werestudiedcollectively[3]. Onecanarguethebiomarkerlevelsofpretreatedpatientscouldbelower
+thanpreviouslyuntreatedpatientsbecauseoflackoftheprimarytumoranditsstroma;thishastobe
+studiedinlargercohorts.
+4. MaterialsandMethods
+4.1. StudyPopulation
+Patientsaged≥18yearswithpathologicallyconfirmedmetastaticorirresectablecarcinomaof
+the stomach or esophagus, Eastern Cooperative Oncology Group (ECOG, Philadelphia, PA, USA)
+performancestatus0or1,measurableorevaluablediseaseaccordingtoRECIST1.1,andadequatebone
+marrowandorganfunctionwereeligibleforinclusion(definedbythefollowinglaboratoryvalues:
+absoluteneutrophilcount(ANC)>1.5×109/L,hemoglobin(Hgb)>9.0g/dL(5.6mmol/L),platelets>
+100×109/L,serumtotalbilirubinwithin≤1.5×ULN(upperlimitofnormal);ortotalbilirubin<3.0×
+ULNwithdirectbilirubinwithinnormalrangeinpatientswithwell-documentedGilbert’ssyndrome,
+international normalized ratio (INR) < 1.5 (unless the patient used vitamin K antagonists), serum
+creatinine<1.5×ULNorcreatinineclearance>50mL/min/1.73m2,alanineaminotransferase(AST)
+andaspartateaminotransferase(ALT)withinnormalrange(or<3.0×ULNiflivermetastaseswere
+present). HER2+patientswereeligiblewhentreatmentwithtrastuzumabwascontraindicated.
+The study was done in accordance with the ethics principles of the Declaration of Helsinki
+andtheInternationalCouncilonHarmonizationGuidelinesonGoodClinicalPractice. Thestudy
+protocolwasapprovedbytheAmsterdamUMCInstitutionalReviewBoard(projectidentification
+code2014_272). Writteninformedconsentwasobtainedfromallpatients. Thetrialwasregistered
+withClinicalTrials.gov(NCT02273713)andEudraCT(2014-001333-88).
+4.2. StudyDesign
+Thiswasanopen-label,single-center,investigator-initiatedphaseIdoseescalationstudywith
+expansioncohort. AllpatientswereenrolledandtreatedattheAmsterdamUMC,locationAmsterdam
+MedicalCenter,startinginNovember2014,andfollow-upremainsongoing. Patientswereenrolled
+inastandard3+3doseescalationphasefollowedbyasafetyexpansioncohorttoassessfourdose
+levels of nab-paclitaxel (dose level 1: 60 mg/m2; dose level 2: 80 mg/m2, dose level 3: 100 mg/m2,
+doselevel4: 120mg/m2ondays1and8)combinedwithcapecitabine(1000mg/m2twicedailyondays
+1–14)andoxaliplatin(65mg/m2ondays1and8)ina21-daycycle. Sincenab-paclitaxelmayachieve
+
+--- Page 12 ---
+Cancers2019,11,827 12of17
+higherefficacyandabettertoxicityprofileusingaweeklyadministration[5,46], weadministered
+nab-paclitaxel on days 1 and 8 of the 21-day cycle (see Table S5 for the dose escalation scheme).
+Toallowforoptimalinteraction,oxaliplatinwasadministeredonthesamedaysasnab-paclitaxel[47].
+The resulting regimen had the same dose intensities of capecitabine and oxaliplatin as previously
+describedintheREAL-2study[3]. Theminimumtreatmentandsafetyevaluationrequirementsfordose
+escalationweremetifthepatienthadbeentreatedwithatleast75%oftheassignedtreatmentof21days
+following the first dose and completed the safety evaluations (see Table S6 for escalation decision
+rules). Patientsweretreatedwithamaximumofsixcyclesofcombinationtherapy,afterwhichpatients
+withoutprogressioncontinuedwithcapecitabinemonotherapy,analogoustoconventionalfirst-line
+CapOx treatment. Patients with progression of disease after more than 3 months of capecitabine
+monotherapywereeligibleforreintroductionofoxaliplatinandnab-paclitaxel.
+4.3. StudyAssessments
+ThephaseIprimaryendpointwasdose-limitingtoxicityandMTD,withthelatterbeingfurther
+studied in a safety expansion cohort to have 20 patients treated at MTD. Secondary endpoints
+weretreatment-relatedadverseevents, responserateaccordingtotheresponseevaluationcriteria
+insolidtumors(RECIST)version1.1withevaluationCTscanseverythreecycles,progression-free
+survival(PFS),overallsurvival(OS),andself-reportedneurotoxicityandhealth-relatedqualityoflife.
+Exploratoryendpointsweretherelationbetweenresponsetotreatmentandrelativeabundanceof
+stromainmetastatictumortissue,aswellasserumactivatedstromamarkers(ADAM12andIL-6).
+Wefollowedthereportingrecommendationsfortumormarkerprognosticstudies(REMARK)where
+possible[48].
+4.3.1. Toxicity
+ToxicitywasmeasuredandgradedusingtheNationalCancerInstituteCommonTerminology
+Criteria for Adverse Events version 4.03 (CTCAE). Any DLT was considered to be related to
+nab-paclitaxelaloneorincombinationwithoxaliplatinandcapecitabine,andunrelatedtodisease
+progression, inter-current illness, or concomitant medications. DLT was evaluated after the first
+cycle and was defined as: grade 3 or 4 non-hematological toxicity; febrile neutropenia > 5 days;
+grade4neutropeniamorethan7days(absoluteneutrophilcount<0.5×109/L);thrombocytopenia
+(plateletcount<25×109/L);grade≥2infectionordelayoftreatmentformorethantwoweeksdueto
+sideeffects.
+4.3.2. Self-ReportedHealth-RelatedQualityofLifeandNeurotoxicity
+Health-related quality of life was assessed with the European Organisation for Research and
+TreatmentofCancer(EORTC)QualityofLifeQuestionnaire(QLQ)-C30,andneurotoxicitywiththe
+self-reportedEORTCQLQ-ChemotherapyInducedPeripheralNeuropathy(CIPN)20questionnaire.
+ItemswerescaledandscoredaccordingtotherecommendedEORTCprocedures[49,50]. Domains
+andsingleitemsrangedfrom0to100withhighfunctionscoresdenotingahighleveloffunctioning
+and high symptom scores denoting a high level of symptoms. Questionnaires were sent by mail,
+andreturned before commencement of chemotherapy, before start of the second and fourth cycle,
+andsubsequentlywithathree-cycleinterval.
+4.3.3. Biomarkers
+Four-micron slides of biopsies from metastatic sites were stained with Hematoxylin & Eosin
+(H&E),alphasmoothmuscleactin(αSMA,DAKOM0851,1:800dilution)forthestainingofactivated
+fibroblasts, and picrosirius red for collagen staining. Tumor and stroma were identified by an
+experiencedpathologistblindedforoutcome(SLM).PicrosiriusredandαSMAstainingwerequantified
+aspercentageoftotaltumorandstromausingImageJsoftware(picrosiriusred: RGB,redchannel,
+threshold230;αSMA:HDAB,brownchannel,threshold190). Serumsampleswereobtainedpriorto
+
+--- Page 13 ---
+Cancers2019,11,827 13of17
+initialdosingbycentrifugationofbloodfor10minat1300RPM,andstoredat−80 ◦ Cuntilanalysis.
+ADAM12andIL-6levelsweredeterminedinmonousingthehumanADAM12andIL-6ELISAkits
+(DuoSet,R&DSystems,Minneapolis,MN,USA),accordingtomanufacturer’srecommendations.
+4.3.4. TumorVolumeAssessment
+In order to investigate the independent prognostic value of ADAM12 and IL-6, a post-hoc
+correlationwithtotaltumorburdenmeasuredonbaselineCTscanswasdetermined. BaselineCT
+scanswereusedtoestablishbaselinetumorvolume. AssessmentoflesionswasdonebySSandCIS,
+underthesupervisionofanexperiencedradiologistblindedforoutcome(BM,12yearsofexperience).
+Semi-automatedsoftware(MMoncology,SyngoVia,SiemensHealthineers,Forchheim,Germany)was
+usedforvolumecalculations(inmilliliters)underthesupervisionofanotherexperiencedradiologist
+blindedforoutcome(LFMB,14yearsofexperiencewithmanualcorrectionifnecessary. Primarylesions
+wereincludedwhenmeasurableorevaluable,aswellaspathologicallyenlargedlymphnodesand
+distantmetastases,allaccordingtoRECIST1.1.
+4.4. StatisticalAnalysis
+Adverseeventswerereportedinfrequencytablesandanalyzedforallpatientswhoreceivedat
+leastonedoseofnab-paclitaxel,capecitabine,andoxaliplatin. Alltime-to-eventdefinitionsstartedwith
+thefirstdoseofstudymedication. ProgressionwasdefinedasradiologicalprogressionperRECIST1.1
+orall-causemortality. TheKaplan–MeiermethodwasusedtodeterminemedianPFSandOSaswell
+astimetodeteriorationofHRQoL,definedasadefinitedropof10pointsontheglobalhealthscoreof
+theEORTCQLQ-C30questionnaire,progression,ordeath[51]. ForCoxproportionalhazardanalyses,
+variablesweredichotomizedbythemeanwhenavariablewasnormallydistributed,bymedianin
+thecaseofanon-normaldistribution, orwithacut-offvaluederivedfromthebiomarker-focused
+webapplicationCutoffFinderwhenmorethan20caseswereavailable,aspreviouslypublished[52].
+StatisticalanalyseswereperformedwithSPSSversion24(IBM,Armonk,NY,USA).
+5. Conclusions
+WeestablishedtheRP2Dofnab-paclitaxelcombinedwithCapOxat60mg/m2 ondays1and8of
+a21-daycycle. Althoughthiscombinationmaybebettertoleratedthanothertaxanetriplets,relevant
+toxicitywasobserved. Taxanesmaybetterbepreservedforlater-linetreatment. Theserumstromal
+markerADAM12isapotentialbiomarkertopredictsurvival,andwarrantsfurtherinvestigation.
+SupplementaryMaterials: Thefollowingareavailableonlineathttp://www.mdpi.com/2072-6694/11/6/827/s1.
+TableS1: Previoustreatmentandbiopsiesofmetastaticsites,TableS2: Subsequentlinesofpalliativetreatment,
+TableS3: Responsestohealth-relatedqualityoflifequestionnaires,TableS4: Baselinecharacteristicsandsurvival
+biopsycohort,TableS5: Doseescalationscheme,TableS6: Escalationdecisionrules,FigureS1: Health-related
+qualityoflifeandpatientreportedneurotoxicity,FigureS2: Representativeimmunohistochemistryimagesof
+αSMAandpicrosiriusredstaininginbiopsiesofmetastases,FigureS3: PFSdetectablevsundetectableserumIL-6
+throughouttreatment,FigureS4: BestResponseandbaselineADAM12,FigureS5: Representativeimagesfor
+primarytumorandmetastasessegmentation.
+AuthorContributions: Conceptionofthestudy: H.W.M.v.L.;Enrolmentandtreatmentofparticipatingpatients:
+S.O.v.d.W., H.W.M.v.L.; Writing of the manuscript: S.S., H.W.M.v.L.; Immunohistochemistry staining and
+interpretation:G.K.J.H.,S.L.M.,M.F.B.;Serumsamplecollection,analysis,andinterpretation:S.S.,S.O.v.d.W.,A.C.,
+C.W.,R.A.J.,M.F.B.;Tumorvolumeassessment: S.S.,C.I.S.,B.M.,L.F.M.B.;HRQoLanalysisandinterpretation:
+S.S.,J.J.v.K.,H.W.M.v.L.;Statisticalsupport: M.G.H.v.O.;Criticalappraisalofthemanuscript: S.S.,S.O.v.d.W.,
+D.J.v.Z.,M.G.H.v.O.,B.M.,L.F.M.B.,J.J.v.K.,C.I.S.,A.C.,C.W.,R.A.J.,S.L.M.,G.K.J.H.,C.J.A.P.,M.F.B.,H.W.M.v.L.;
+Overviewofthestudy: H.W.M.v.L.
+Funding: Thiswasaninvestigator-initiatedclinicaltrialwherefundingwasderivedfromtheAcademicMedical
+CenterthroughanunrestrictedresearchgrantprovidedbyCelgene. Celgenealsoprovidedthenab-paclitaxel.
+Acknowledgments: Wegratefullythankthenursingstaff(inparticularMoniqueT.Wijsman)andtrialcenterof
+theAcademicMedicalCenter. Furthermore,theauthorsdeeplyappreciateallpatientswhoparticipatedinthe
+trial. SpecialthankstoMadelaineG.VanMackelenberghforprovidingsupportwiththeCTsegmentationimages.
+
+--- Page 14 ---
+Cancers2019,11,827 14of17
+ConflictsofInterest:S.S.,S.O.v.d.W.,J.J.v.K.,D.J.v.Z.,B.M.,L.F.M.B.,C.I.S.,C.W.,R.A.J.,A.C.,S.L.M.,G.K.J.H.,and
+C.J.A.P.reportnoconflictofinterest. M.G.H.v.O.hasreceivedunrestrictedresearchgrantsfromBayer,Lilly,Merck
+Serono,andRoche. M.F.B.hasreceivedresearchfundingfromCelgene. H.W.M.v.Lhasservedasaconsultantfor
+Celgene,Lilly,Nordic,andPhilips,andhasreceivedunrestrictedresearchfundingfromBayer,Celgene,Lilly,
+MerckSerono,MSD,Nordic,PhilipsandRoche. Allauthorshadfullaccesstothedatausedtowritethereport,
+andthecorrespondingauthorhadfinalresponsibilityforthedecisiontosubmitforpublication.
+References
+1. Fitzmaurice,C.;Allen,C.;Barber,R.M.;Barregard,L.;Bhutta,Z.A.;Brenner,H.;Dicker,D.J.;Chimed-Orchir,O.;
+Dandona,R.;Dandona,L.;etal. Global,regional,andnationalcancerincidence,mortality,yearsoflifelost,
+yearslivedwithdisability,anddisability-adjustedlife-yearsfor32cancergroups,1990to2015: Asystematic
+analysisfortheglobalburdenofdiseasestudy. JAMAOncol. 2017,3,524–548. [CrossRef][PubMed]
+2. Bang, Y.J.; Van Cutsem, E.; Feyereislova, A.; Chung, H.C.; Shen, L.; Sawaki, A.; Lordick, F.; Ohtsu, A.;
+Omuro,Y.;Satoh,T.;etal. Trastuzumabincombinationwithchemotherapyversuschemotherapyalone
+fortreatmentofHER2-positiveadvancedgastricorgastro-oesophagealjunctioncancer(ToGA):Aphase3,
+open-label,randomisedcontrolledtrial. Lancet2010,376,687–697. [CrossRef]
+3. Cunningham,D.;Starling,N.;Rao,S.;Iveson,T.;Nicolson,M.;Coxon,F.;Middleton,G.;Daniel,F.;Oates,J.;
+Norman,A.R.;etal. Capecitabineandoxaliplatinforadvancedesophagogastriccancer. N.Engl. J.Med.
+2008,358,36–46. [CrossRef][PubMed]
+4. Ter Veer, E.; Haj Mohammad, N.; van Valkenhoef, G.; Ngai, L.L.; Mali, R.M.A.; Anderegg, M.C.;
+vanOijen,M.G.H.;vanLaarhoven,H.W.M.Theefficacyandsafetyoffirst-linechemotherapyinadvanced
+esophagogastriccancer: Anetworkmeta-analysis. J.Natl. CancerInst. 2016,108. [CrossRef][PubMed]
+5. Shitara,K.;Takashima,A.;Fujitani,K.;Koeda,K.;Hara,H.;Nakayama,N.;Hironaka,S.;Nishikawa,K.;
+Makari,Y.;Amagai,K.;etal. Nab-paclitaxelversussolvent-basedpaclitaxelinpatientswithpreviously
+treatedadvancedgastriccancer(ABSOLUTE):Anopen-label,randomised,non-inferiority,phase3trial.
+LancetGastroenterol. Hepatol. 2017,2,277–287. [CrossRef]
+6. Hawkes,E.;Okines,A.F.;Papamichael,D.;Rao,S.;Ashley,S.;Charalambous,H.;Koukouma,A.;Chau,I.;
+Cunningham,D.Docetaxelandirinotecanassecond-linetherapyforadvancedoesophagogastriccancer.
+Eur. J.Cancer2011,47,1146–1151. [CrossRef][PubMed]
+7. Underwood,T.J.;Hayden,A.L.;Derouet,M.;Garcia,E.;Noble,F.;White,M.J.;Thirdborough,S.;Mead,A.;
+Clemons, N.; Mellone, M.; et al. Cancer-associated fibroblasts predict poor outcome and promote
+periostin-dependentinvasioninoesophagealadenocarcinoma. J.Pathol. 2015,235,466–477. [CrossRef]
+[PubMed]
+8. McCarthy, J.B.; El-Ashry, D.; Turley, E.A. Hyaluronan, cancer-associated fibroblasts and the tumor
+microenvironmentinmalignantprogression. Front. CellDev. Biol. 2018,6,48. [CrossRef][PubMed]
+9. Bijlsma,M.F.;vanLaarhoven,H.W.Theconflictingrolesoftumorstromainpancreaticcancerandtheir
+contributiontothefailureofclinicaltrials: Asystematicreviewandcriticalappraisal. CancerMetastasisRev.
+2015,34,97–114. [CrossRef][PubMed]
+10. Hynes, R.O. The extracellular matrix: Not just pretty fibrils. Science 2009, 326, 1216–1219. [CrossRef]
+[PubMed]
+11. Ng, M.R.; Brugge, J.S. A stiff blow from the stroma: Collagen crosslinking drives tumor progression.
+CancerCell2009,16,455–457. [CrossRef][PubMed]
+12. CourrechStaal,E.F.; Wouters,M.W.; vanSandick,J.W.; Takkenberg,M.M.; Smit,V.T.; Junggeburt,J.M.;
+Spitzer-Naaykens,J.M.;Karsten,T.;Hartgrink,H.H.;Mesker,W.E.;etal.Thestromalpartofadenocarcinomas
+oftheoesophagus: Doesitconcealtargetsfortherapy? Eur. J.Cancer2010,46,720–728. [CrossRef][PubMed]
+13. Wu,Y.;Grabsch,H.;Ivanova,T.;Tan,I.B.;Murray,J.;Ooi,C.H.;Wright,A.I.;West,N.P.;Hutchins,G.G.;
+Wu, J.; et al. Comprehensive genomic meta-analysis identifies intra-tumoural stroma as a predictor of
+survivalinpatientswithgastriccancer. Gut2013,62,1100–1111. [CrossRef][PubMed]
+14. Sethi,T.;Rintoul,R.C.;Moore,S.M.;MacKinnon,A.C.;Salter,D.;Choo,C.;Chilvers,E.R.;Dransfield,I.;
+Donnelly,S.C.;Strieter,R.;etal. Extracellularmatrixproteinsprotectsmallcelllungcancercellsagainst
+apoptosis: Amechanismforsmallcelllungcancergrowthanddrugresistanceinvivo. Nat. Med. 1999,5,
+662–668. [CrossRef][PubMed]
+
+--- Page 15 ---
+Cancers2019,11,827 15of17
+15. Vaupel,P.Tumormicroenvironmentalphysiologyanditsimplicationsforradiationoncology. Semin. Radiat.
+Oncol. 2004,14,198–206. [CrossRef][PubMed]
+16. Ebbing,E.A.;vanderZalm,A.P.;Steins,A.;Creemers,A.;Hermsen,S.;Rentenaar,R.;Klein,M.;Waasdorp,C.;
+Hooijer,G.K.J.;Meijer,S.L.;etal. Stromal-derivedinterleukin6drivesepithelial-to-mesenchymaltransition
+andtherapyresistanceinesophagealadenocarcinoma. Proc. Natl. Acad. Sci. USA2019,116,2237–2242.
+[CrossRef][PubMed]
+17. Redfern,A.;Agarwal,V.;Thompson,E.W.Hypoxiaasasignalforprisonbreakoutincancer. Curr. Opin.
+Clin. Nutr. Metab. Care2019,22,250–263. [CrossRef]
+18. Hockel,M.;Vaupel,P.Tumorhypoxia: Definitionsandcurrentclinical,biologic,andmolecularaspects.
+J.Natl. CancerInst. 2001,93,266–276. [CrossRef]
+19. Sun, Y.; Wang, R.; Qiao, M.; Xu, Y.; Guan, W.; Wang, L. Cancer associated fibroblasts tailored tumor
+microenvironmentoftherapyresistanceingastrointestinalcancers. J.CellPhysiol. 2018,233,6359–6369.
+[CrossRef]
+20. Vainer,N.;Dehlendorff,C.;Johansen,J.S.SystematicliteraturereviewofIL-6asabiomarkerortreatment
+targetinpatientswithgastric,bileduct,pancreaticandcolorectalcancer. Oncotarget2018,9,29820–29841.
+[CrossRef]
+21. Shapiro,J.;vanLanschot,J.J.B.;Hulshof,M.;vanHagen,P.;vanBergeHenegouwen,M.I.;Wijnhoven,B.P.L.;
+vanLaarhoven,H.W.M.;Nieuwenhuijzen,G.A.P.;Hospers,G.A.P.;Bonenkamp,J.J.;etal. Neoadjuvant
+chemoradiotherapy plus surgery versus surgery alone for oesophageal or junctional cancer (CROSS):
+Long-termresultsofarandomisedcontrolledtrial. LancetOncol. 2015,16,1090–1098. [CrossRef]
+22. Ajani, J.A.; Fodor, M.B.; Tjulandin, S.A.; Moiseyenko, V.M.; Chao, Y.; Cabral Filho, S.; Majlis, A.;
+Assadourian,S.;VanCutsem,E.PhaseIImulti-institutionalrandomizedtrialofdocetaxelpluscisplatinwith
+orwithoutfluorouracilinpatientswithuntreated,advancedgastric,orgastroesophagealadenocarcinoma.
+J.Clin. Oncol.2005,23,5660–5667. [CrossRef][PubMed]
+23. Al-Batran, S.E.; Pauligk, C.; Homann, N.; Hartmann, J.T.; Moehler, M.; Probst, S.; Rethwisch, V.;
+Stoehlmacher-Williams,J.;Prasnikar,N.;Hollerbach,S.;etal. Thefeasibilityoftriple-drugchemotherapy
+combination in older adult patients with oesophagogastric cancer: A randomised trial of the
+Arbeitsgemeinschaft Internistische Onkologie (FLOT65+). Eur. J. Cancer 2013, 49, 835–842. [CrossRef]
+[PubMed]
+24. BlumMurphy,M.A.;Qiao,W.;Mewada,N.;Wadhwa,R.;Elimova,E.;Takashi,T.;Ho,L.;Phan,A.;Baker,J.;
+Ajani,J.AphaseI/IIstudyofdocetaxel,oxaliplatin,andfluorouracil(D-FOX)chemotherapyinpatientswith
+untreatedlocallyunresectableormetastaticadenocarcinomaofthestomachandgastroesophagealjunction.
+Am. J.Clin. Oncol. 2018,41,321–325. [CrossRef][PubMed]
+25. Roth,A.D.;Fazio,N.;Stupp,R.;Falk,S.;Bernhard,J.;Saletti,P.;Koberle,D.;Borner,M.M.;Rufibach,K.;
+Maibach,R.;etal. Docetaxel,cisplatin,andfluorouracil;docetaxelandcisplatin;andepirubicin,cisplatin,
+andfluorouracilassystemictreatmentforadvancedgastriccarcinoma: ArandomizedphaseIItrialofthe
+SwissGroupforClinicalCancerResearch. J.Clin. Oncol. 2007,25,3217–3223. [CrossRef][PubMed]
+26. Shah, M.A.; Janjigian, Y.Y.; Stoller, R.; Shibata, S.; Kemeny, M.; Krishnamurthi, S.; Su, Y.B.; Ocean, A.;
+Capanu,M.;Mehrotra,B.;etal. RandomizedmulticenterphaseIIstudyofmodifiedDocetaxel,Cisplatin,
+and Fluorouracil (DCF) versus DCF plus growth factor support in patients with metastatic gastric
+adenocarcinoma: A study of the US gastric cancer consortium. J. Clin. Oncol. 2015, 33, 3874–3879.
+[CrossRef][PubMed]
+27. VanCutsem,E.;Boni,C.;Tabernero,J.;Massuti,B.;Middleton,G.;Dane,F.;Reichardt,P.;Pimentel,F.L.;
+Cohn, A.; Follana, P.; et al. Docetaxel plus oxaliplatin with or without fluorouracil or capecitabine in
+metastaticorlocallyrecurrentgastriccancer: ArandomizedphaseIIstudy. Ann. Oncol. 2015,26,149–156.
+[CrossRef]
+28. VanCutsem,E.;Moiseyenko,V.M.;Tjulandin,S.;Majlis,A.;Constenla,M.;Boni,C.;Rodrigues,A.;Fodor,M.;
+Chao, Y.; Voznyi, E.; et al. Phase III study of docetaxel and cisplatin plus fluorouracil compared with
+cisplatinandfluorouracilasfirst-linetherapyforadvancedgastriccancer: AreportoftheV325StudyGroup.
+J.Clin. Oncol.2006,24,4991–4997. [CrossRef]
+
+--- Page 16 ---
+Cancers2019,11,827 16of17
+29. Wang,J.;Xu,R.;Li,J.;Bai,Y.;Liu,T.;Jiao,S.;Dai,G.;Xu,J.;Liu,Y.;Fan,N.;etal. Randomizedmulticenter
+phaseIIIstudyofamodifieddocetaxelandcisplatinplusfluorouracilregimencomparedwithcisplatin
+andfluorouracilasfirst-linetherapyforadvancedorlocallyrecurrentgastriccancer. GastricCancer2016,19,
+234–244. [CrossRef]
+30. Li,C.P.;Chen,J.S.;Chen,L.T.;Yen,C.J.;Lee,K.D.;Su,W.P.;Lin,P.C.;Lu,C.H.;Tsai,H.J.;Chao,Y.AphaseII
+studyofweeklydocetaxelandcisplatinplusoraltegafur/uracilandleucovorinasfirst-linechemotherapyin
+patientswithlocallyadvancedormetastaticgastriccancer. Br. J.Cancer2010,103,1343–1348. [CrossRef]
+31. Hecht,J.R.; Bang,Y.J.; Qin,S.K.; Chung,H.C.; Xu,J.M.; Park,J.O.; Jeziorski,K.; Shparyk,Y.; Hoff,P.M.;
+Sobrero,A.;etal. Lapatinibincombinationwithcapecitabineplusoxaliplatininhumanepidermalgrowth
+factorreceptor2-positiveadvancedormetastaticgastric,esophageal,orgastroesophagealadenocarcinoma:
+TRIO-013/LOGiC—ArandomizedphaseIIItrial. J.Clin. Oncol. 2016,34,443–451. [CrossRef][PubMed]
+32. Kim,G.M.;Jeung,H.C.;Rha,S.Y.;Kim,H.S.;Jung,I.;Nam,B.H.;Lee,K.H.;Chung,H.C.Arandomized
+phaseIItrialofS-1-oxaliplatinversuscapecitabine-oxaliplatininadvancedgastriccancer. Eur. J.Cancer2012,
+48,518–526. [CrossRef][PubMed]
+33. Kripp,M.;Al-Batran,S.E.;Rosowski,J.;Pauligk,C.;Homann,N.;Hartmann,J.T.;Moehler,M.;Hofheinz,R.D.
+Qualityoflifeofolderadultpatientsreceivingdocetaxel-basedchemotherapytripletsforesophagogastric
+adenocarcinoma: A randomized study of the Arbeitsgemeinschaft Internistische Onkologie (AIO).
+GastricCancer2014,17,181–187. [CrossRef][PubMed]
+34. Satoh,T.;Bang,Y.J.;Gotovkin,E.A.;Hamamoto,Y.;Kang,Y.K.;Moiseyenko,V.M.;Ohtsu,A.;VanCutsem,E.;
+Al-Sakaff,N.;Urspruch,A.;etal. Qualityoflifeinthetrastuzumabforgastriccancertrial. Oncologist2014,
+19,712–719. [CrossRef][PubMed]
+35. Ajani,J.A.;Abramov,M.;Bondarenko,I.;Shparyk,Y.;Gorbunova,V.;Hontsa,A.;Otchenash,N.;Alsina,M.;
+Lazarev,S.;Feliu,J.;etal.AphaseIIItrialcomparingoralS-1/cisplatinandintravenous5-fluorouracil/cisplatin
+inpatientswithuntreateddiffusegastriccancer. Ann. Oncol. 2017,28,2142–2148. [CrossRef]
+36. Al-Batran,S.E.;Hartmann,J.T.;Probst,S.;Schmalenberg,H.;Hollerbach,S.;Hofheinz,R.;Rethwisch,V.;
+Seipelt,G.;Homann,N.;Wilhelm,G.;etal.PhaseIIItrialinmetastaticgastroesophagealadenocarcinomawith
+fluorouracil,leucovorinpluseitheroxaliplatinorcisplatin: AstudyoftheArbeitsgemeinschaftInternistische
+Onkologie. J.Clin. Oncol. 2008,26,1435–1442. [CrossRef][PubMed]
+37. Dank,M.;Zaluski,J.;Barone,C.;Valvere,V.;Yalcin,S.;Peschel,C.;Wenczl,M.;Goker,E.;Cisar,L.;Wang,K.;
+etal. RandomizedphaseIIIstudycomparingirinotecancombinedwith5-fluorouracilandfolinicacidto
+cisplatincombinedwith5-fluorouracilinchemotherapynaivepatientswithadvancedadenocarcinomaof
+thestomachoresophagogastricjunction. Ann. Oncol. 2008,19,1450–1457. [CrossRef]
+38. Moehler,M.;Kanzler,S.;Geissler,M.;Raedle,J.;Ebert,M.P.;Daum,S.;Flieger,D.;Seufferlein,T.;Galle,P.R.;
+Hoehler,T.; etal. ArandomizedmulticenterphaseIIstudycomparingcapecitabinewithirinotecanor
+cisplatininmetastaticadenocarcinomaofthestomachoresophagogastricjunction. Ann. Oncol. 2010,21,
+71–77. [CrossRef]
+39. Shah,M.A.;Bang,Y.J.;Lordick,F.;Alsina,M.;Chen,M.;Hack,S.P.;Bruey,J.M.;Smith,D.;McCaffery,I.;
+Shames,D.S.; etal. Effectoffluorouracil, leucovorin, andoxaliplatinwithorwithoutonartuzumabin
+HER2-negative,MET-positivegastroesophagealadenocarcinoma: TheMETGastricrandomizedclinicaltrial.
+JAMAOncol. 2017,3,620–627. [CrossRef]
+40. Ter Veer, E.; Haj Mohammad, N.; van Valkenhoef, G.; Ngai, L.L.; Mali, R.M.; van Oijen, M.G.;
+vanLaarhoven,H.W.Second-andthird-linesystemictherapyinpatientswithadvancedesophagogastric
+cancer: Asystematicreviewoftheliterature. CancerMetastasisRev. 2016,35,439–456. [CrossRef]
+41. Wagner,A.D.;Syn,N.L.;Moehler,M.;Grothe,W.;Yong,W.P.;Tai,B.C.;Ho,J.;Unverzagt,S.Chemotherapy
+foradvancedgastriccancer. CochraneDatabaseSyst. Rev. 2017,8,CD004064. [CrossRef][PubMed]
+42. Yamada,Y.; Boku,N.; Mizusawa,J.; Iwasa,S.; Kadowaki,S.; Nakayama,N.; Azuma,M.; Sakamoto,T.;
+Shitara,K.;Okuno,T.;etal. PhaseIIIstudycomparingtripletchemotherapywithS-1andcisplatinplus
+docetaxelversusdoubletchemotherapywithS-1andcisplatinforadvancedgastriccancer(JCOG1013).
+InProceedingsoftheASCO2018,Chicago,IL,USA,1–5June2018.
+43. Kawamoto,Y.;Komatsu,Y.;Yuki,S.;Sawada,K.;Muranaka,T.;Harada,K.;Nakatsumi,H.;Fukushima,H.;
+Ishiguro,A.;Dazai,M.;etal. StudyprotocolofHGCSG1404SNOWstudy: AphaseI/IItrialofcombined
+chemotherapyofS-1,nab-paclitaxelandoxaliplatinadministeredbiweeklytopatientswithadvancedgastric
+cancer. BMCCancer2017,17,837. [CrossRef][PubMed]
+
+--- Page 17 ---
+Cancers2019,11,827 17of17
+44. Zaanan,A.;Samalin,E.;Aparicio,T.;Bouche,O.;Laurent-Puig,P.;Manfredi,S.;Michel,P.;Monterymard,C.;
+Moreau,M.;Rougier,P.;etal. PhaseIIIrandomizedtrialcomparing5-fluorouracilandoxaliplatinwithor
+withoutdocetaxelinfirst-lineadvancedgastriccancerchemotherapy(GASTFOXstudy). Dig. LiverDis.
+2018,50,408–410. [CrossRef][PubMed]
+45. Veenstra, V.L.; Damhofer, H.; Waasdorp, C.; van Rijssen, L.B.; Dijk, F.; Wilmink, J.W.; Besselink, M.G.;
+Busch,O.R.;Medema,J.P.;ShiansongLi,J.;etal. ADAM12isacirculatingmarkerforstromalactivationin
+pancreaticcancerandpredictsresponsetochemotherapy. Oncogenesis2019. [CrossRef][PubMed]
+46. Roy,V.;LaPlant,B.R.;Gross,G.G.;Bane,C.L.;Palmieri,F.M.;NorthCentralCancerTreatment,G.PhaseII
+trialofweeklynab(nanoparticlealbumin-bound)-paclitaxel(nab-paclitaxel)(Abraxane)incombinationwith
+gemcitabineinpatientswithmetastaticbreastcancer(N0531). Ann. Oncol. 2009,20,449–453. [CrossRef]
+47. Frustaci,S.;Buonadonna,A.;Turchet,E.;Corona,G.;Tabaro,G.;Miolo,G.;Torrisi,E.;LoRe,G.;Tumolo,S.;
+Toffoli,G.PhaseItrialofdocetaxel,oxaliplatin,andcapecitabine(DOC)inuntreatedgastriccancerpatients.
+Int. J.Clin. Oncol. 2013,18,510–516. [CrossRef]
+48. McShane,L.M.;Altman,D.G.;Sauerbrei,W.;Taube,S.E.;Gion,M.;Clark,G.M.;StatisticsSubcommitteeof
+theNCI-EORTCWorkingGrouponCancerDiagnostics. REportingrecommendationsfortumourMARKer
+prognosticstudies(REMARK).Eur. J.Cancer2005,41,1690–1696. [CrossRef]
+49. Aaronson,N.K.;Ahmedzai,S.;Bergman,B.;Bullinger,M.;Cull,A.;Duez,N.J.;Filiberti,A.;Flechtner,H.;
+Fleishman,S.B.;deHaes,J.C.;etal. TheEuropeanOrganizationForResearchAndTreatmentOfCancer
+QLQ-C30: Aquality-of-lifeinstrumentforuseininternationalclinicaltrialsinoncology. J.Natl. CancerInst.
+1993,85,365–376. [CrossRef]
+50. Postma,T.J.;Aaronson,N.K.;Heimans,J.J.;Muller,M.J.;Hildebrand,J.G.;Delattre,J.Y.;Hoang-Xuan,K.;
+Lanteri-Minet,M.;Grant,R.;Huddart,R.;etal. ThedevelopmentofanEORTCqualityoflifequestionnaireto
+assesschemotherapy-inducedperipheralneuropathy: TheQLQ-CIPN20. Eur. J.Cancer2005,41,1135–1139.
+[CrossRef]
+51. Pavlakis, N.; Sjoquist, K.M.; Martin, A.J.; Tsobanis, E.; Yip, S.; Kang, Y.K.; Bang, Y.J.; Alcindor, T.;
+O’Callaghan,C.J.;Burnell,M.J.;etal.Regorafenibforthetreatmentofadvancedgastriccancer(INTEGRATE):
+Amultinationalplacebo-controlledphaseIItrial. J.Clin. Oncol. 2016,34,2728–2735. [CrossRef]
+52. Budczies, J.; Klauschen, F.; Sinn, B.V.; Gyorffy, B.; Schmitt, W.D.; Darb-Esfahani, S.; Denkert, C. Cutoff
+Finder:AcomprehensiveandstraightforwardWebapplicationenablingrapidbiomarkercutoffoptimization.
+PLoSONE2012,7,e51862. [CrossRef][PubMed]
+©2019bytheauthors. LicenseeMDPI,Basel,Switzerland. Thisarticleisanopenaccess
+articledistributedunderthetermsandconditionsoftheCreativeCommonsAttribution
+(CCBY)license(http://creativecommons.org/licenses/by/4.0/).

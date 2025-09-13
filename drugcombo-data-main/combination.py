@@ -2,6 +2,7 @@ import pandas as pd
 import chardet
 import os
 
+
 def clean_and_read_csv(path, tmp_path="__cleaned_tmp.csv"):
     """
     自动检测编码 → 忽略非法字符 → 转为 UTF-8 → 读取为 Pandas DataFrame
@@ -9,15 +10,17 @@ def clean_and_read_csv(path, tmp_path="__cleaned_tmp.csv"):
     print(f"[INFO] Reading: {path}")
 
     # 检测原始文件编码
-    with open(path, 'rb') as f:
+    with open(path, "rb") as f:
         raw_data = f.read(100000)  # 前10万字节足够判断
         detected = chardet.detect(raw_data)
-        encoding = detected['encoding'] or 'ISO-8859-1'
+        encoding = detected["encoding"] or "ISO-8859-1"
         print(f"[INFO] Detected encoding for {path}: {encoding}")
 
     # 清洗并保存为 utf-8 中间文件
-    with open(path, 'r', encoding=encoding, errors='ignore') as f_in, \
-         open(tmp_path, 'w', encoding='utf-8') as f_out:
+    with (
+        open(path, "r", encoding=encoding, errors="ignore") as f_in,
+        open(tmp_path, "w", encoding="utf-8") as f_out,
+    ):
         for line in f_in:
             f_out.write(line)
 
@@ -25,6 +28,7 @@ def clean_and_read_csv(path, tmp_path="__cleaned_tmp.csv"):
     df = pd.read_csv(tmp_path)
     os.remove(tmp_path)  # 清理临时文件
     return df
+
 
 # === Step 1: 加载所有数据 ===
 trial = clean_and_read_csv("trial.csv")
@@ -49,7 +53,9 @@ df = df.merge(drug, on=["PMID", "NCTID"], how="left")
 df = df.merge(dlt_def, on=["PMID", "NCTID", "CombnID"], how="left")
 
 # Step: obs_dlt + dose_level
-obs_dlt_full = obs_dlt.merge(dose_level, on=["PMID", "NCTID", "CombnID", "Dose_Level"], how="left")
+obs_dlt_full = obs_dlt.merge(
+    dose_level, on=["PMID", "NCTID", "CombnID", "Dose_Level"], how="left"
+)
 
 # Step: 合并 obs_dlt_full 到主表（不要再用 Dose_Level）
 df = df.merge(obs_dlt_full, on=["PMID", "NCTID", "CombnID"], how="left")

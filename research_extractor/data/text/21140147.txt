@@ -1,0 +1,1588 @@
+Source: 21140147.pdf
+Extracted on: Fri Sep 12 23:55:11 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+Published in final edited form as:
+Cancer Chemother Pharmacol. 2011 September ; 68(3): 703–712. doi:10.1007/s00280-010-1536-1.
+Sunitinib in combination with paclitaxel plus carboplatin in
+patients with advanced solid tumors: phase I study results
+Elisabeth I. Heath,
+Karmanos Cancer Institute, 4100 John R, Detroit, MI 48201, USA Tel: +1 313 576 8715; Fax: +1
+313 576 8767
+George R. Blumenschein Jr,
+The University of Texas M.D. Anderson Cancer Center, Houston, TX, USA
+Roger B. Cohen,
+Fox Chase Cancer Center, Philadelphia, PA, USA
+Patricia M. LoRusso,
+Karmanos Cancer Institute, 4100 John R, Detroit, MI 48201, USA Tel: +1 313 576 8715; Fax: +1
+313 576 8767
+Noelle K. LoConte,
+University of Wisconsin Carbone Cancer Center, Madison, WI, USA
+Sindy T. Kim,
+Pfizer Oncology, Clinical Development, La Jolla, CA, USA
+Ana Ruiz-Garcia,
+Pfizer Oncology, Clinical Development, La Jolla, CA, USA
+Richard C. Chao, and
+Pfizer Oncology, Clinical Development, La Jolla, CA, USA
+George Wilding
+University of Wisconsin Carbone Cancer Center, Madison, WI, USA
+Abstract
+Purpose—To evaluate the maximum tolerated dose (MTD), safety, and antitumor activity of
+sunitinib combined with paclitaxel and carboplatin.
+Methods—Successive cohorts of patients with advanced solid tumors received oral sunitinib (25,
+37.5, or 50 mg) for 2 consecutive weeks of a 3-week cycle (Schedule 2/1) or as a continuous daily
+dose for 3-week cycles (CDD schedule) in combination with paclitaxel (175–200 mg/m2) plus
+carboplatin (AUC 6 mg•min/mL) on day 1 of each of 4 cycles. Dose-limiting toxicities (DLTs)
+and adverse events (AEs) were evaluated to determine the MTD. Efficacy parameters were
+analyzed in patients with measurable disease.
+Results—Forty-three patients were enrolled (n = 25 Schedule 2/1; n = 18 CDD schedule). Across
+all doses, 6 DLTs were observed (grade 4 papilledema, grade 5 GI hemorrhage, grade 3
+Correspondence to: Elisabeth I. Heath.
+heathe@karmanos.org.
+Conflict of interest statement S. T. Kim, R. C. Chao, and A. Ruiz-Garcia are employees of Pfizer Inc. and hold stock in Pfizer Inc.,
+the makers of SUTENT®. P. LoRusso and R. Cohen have provided consultancy/advisory support for Pfizer and received funding
+support from Pfizer. E. Heath has received funding support from Pfizer. G. Wilding, G. Blumenschein Jr, and N. LoConte have no
+potential conflicts of interest to disclose.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Heath et al. Page 2
+neutropenic infection, grade 4 thrombocytopenia [n = 3]). The MTD for Schedule 2/1 was
+sunitinib 25 mg plus paclitaxel 175 mg/m2 and carboplatin AUC 6 mg•min/mL. The MTD was not
+determined for the CDD schedule. Treatment-related AEs included neutropenia (77%),
+thrombocytopenia (56%), and fatigue (47%). Of 38 evaluable patients, 4 (11%) had partial
+responses and 12 (32%) had stable disease. PK data indicated an increase in maximum and total
+plasma exposures to sunitinib and its active metabolite when given with paclitaxel and carboplatin
+compared with sunitinib monotherapy.
+Conclusions—Myelosuppression resulting in prolonged dose delays and frequent interruptions
+was observed, suggesting that this treatment combination is not feasible in the general cancer
+population.
+Keywords
+Sunitinib; Phase I; Solid tumor; NSCLC; Antiangiogenesis; Chemotherapy
+Introduction
+Carboplatin and paclitaxel are frequently combined to treat a broad range of solid tumor
+types, including ovarian cancer and non-small cell lung cancer (NSCLC). Efficacy of
+chemotherapy is limited, however, especially in advanced cancer [1, 2]. Consequently, there
+is considerable interest in developing innovative treatment strategies, with one common
+approach being the combination of agents with different mechanisms of action such as
+chemotherapy with molecularly targeted drugs.
+Vascular endothelial growth factor (VEGF) and platelet-derived growth factor (PDGF)
+signaling pathways play a critical role in angiogenesis and have been identified as
+therapeutic targets for multiple solid tumors [3, 4]. The targeted antiangiogenic agent
+bevacizumab, an anti-VEGF monoclonal antibody, has shown encouraging antitumor
+activity when combined with chemotherapy in patients with solid tumors [5–7]. In a
+randomized phase III study in NSCLC, overall survival was improved in patients treated
+with paclitaxel, carboplatin, and bevacizumab compared with patients treated with
+paclitaxel/carboplatin alone [8].
+In addition to inhibition of VEGF, evidence suggests that inhibiting multiple signaling
+pathways in parallel, such as VEGF and PDGF pathways, may be more effective than
+inhibiting single pathways in isolation [9, 10]. Sunitinib malate (SUTENT®) is an oral
+multitargeted tyrosine kinase inhibitor (TKI) of VEGF and PDGF receptor (VEGFR and
+PDGFR) subtypes, stem cell factor receptor (KIT), FMS-like tyrosine kinase (FLT3), glial
+cell line-derived neurotrophic factor (REarranged during Transfection [RET]), and colony-
+stimulating factor 1 receptor (CSF-1R) [11, 12]. Sunitinib is currently approved for
+treatment of advanced renal cell carcinoma (RCC) and imatinib-resistant/-intolerant
+gastrointestinal stromal tumor (GIST) [13–15].
+The primary objective of this phase I study was to assess the maximum tolerated dose
+(MTD) and overall safety of sunitinib administered on two different schedules in
+combination with paclitaxel and carboplatin, for the treatment of patients with advanced
+solid tumors. Secondary objectives included evaluation of the pharmacokinetics (PK) of the
+combination and antitumor activity in patients with measurable disease.
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Heath et al. Page 3
+Materials and methods
+Patient eligibility
+Patients ≥ 18 years with advanced solid tumors refractory to standard therapy or for which
+no curative therapy exists were eligible if they were considered suitable for treatment with
+standard doses of carboplatin and paclitaxel and had a life expectancy of ≥ 12 weeks. A
+maximum of two prior chemotherapy regimens was permitted. Additional inclusion criteria
+included an Eastern Cooperative Oncology Group performance status (ECOG PS) of 0 or 1
+and adequate organ function. Exclusion criteria included prior treatment with high-dose
+chemotherapy requiring stem cell rescue or prior irradiation to ≥ 25% of bone marrow; and
+surgery, systemic therapy or any investigational agent within 4 weeks prior to starting study
+treatment (except palliative radiotherapy). Other exclusion criteria included history of
+untreated brain metastases and severe acute or chronic cardiovascular abnormalities.
+Study design and treatment
+In this phase I, open-label, multicenter, dose-finding study (3 + 3 design) patients were
+scheduled to receive sunitinib in combination with paclitaxel and carboplatin for 4 cycles. A
+treatment cycle consisted of 3 weeks of once-daily dosing of oral sunitinib given on either
+Schedule 2/1 (2 weeks on treatment followed by 1 week off treatment) or on a continuous
+daily dosing (CDD) schedule, in combination with intravenous (iv) paclitaxel and
+carboplatin administered once every 21 days. The starting doses of each drug were sunitinib
+25 mg/day, paclitaxel 175 mg/m2, and carboplatin area under the curve (AUC) 6 mg•min/
+mL.
+The MTD was defined as the highest dose at which 0/6 or 1/6 patients experienced a dose-
+limiting toxicity (DLT) during the first cycle, with at least 2/3 or 2/6 patients experiencing a
+DLT at the next higher dose level. In general, treatment-related grade 3 or 4 toxicities were
+considered DLTs including: grade 4 neutropenia lasting ≥ 7 days, febrile neutropenia lasting
+> 24 h, neutropenic infection, grade ≥ 3 thrombocytopenia with bleeding or grade 4
+thrombocytopenia lasting ≥ 7 days, lymphopenia accompanied by an infection, and grade 3
+or 4 non-hematologic toxicities lasting ≥ 7 days. Persistent nausea, vomiting, or diarrhea
+(despite maximal medical therapy) were also considered DLTs.
+Escalating doses of sunitinib and paclitaxel and carboplatin were first studied on sunitinib
+Schedule 2/1 starting at dose level 1 (Table 1). According to the protocol, once the DLT
+assessment period was completed on dose level 1 of Schedule 2/1, the sunitinib CDD
+schedule was evaluated, starting at dose A (Table 1). Dose escalation occurred as
+summarized in Table 1. Once the MTD was determined for both sunitinib treatment
+schedules, additional patients were to be enrolled at the MTD(s) to better characterize safety
+and antitumor activity. In addition, there was the option to enrol further subjects at specific
+dose levels to further explore the observed toxicity and PK profile. Further details relating to
+the dose-escalation decisions made during the trial are described in the Results section.
+Patients could be treated with 4 cycles of combination therapy until disease progression,
+unacceptable toxicity, or withdrawal of consent. Dose reductions were permitted at the
+discretion of the investigators. Patients deriving clinical benefit upon completion of 4 cycles
+could continue to receive sunitinib alone under a separate continuation protocol.
+All patients provided written informed consent. The study was performed with institutional
+ethics committee approval, and in accordance with International Conference on
+Harmonization Good Clinical Practice guidelines, the Declaration of Helsinki (1996
+Version), and applicable local and Federal regulatory requirements and laws.
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Heath et al. Page 4
+Study endpoints and assessments
+The primary endpoints were the MTD and overall safety of the combination. Secondary
+endpoints included PK parameters and assessment of antitumor activity. Safety was assessed
+by recording adverse events (AEs), graded using National Cancer Institute Common
+Terminology Criteria for Adverse Events (NCI CTCAE), version 3.0. Hematology and
+blood chemistry parameters were also monitored at baseline and throughout the study. Other
+safety assessments included physical examinations and vital signs, and 12-lead
+electrocardiograms (ECG) performed at screening, during cycle 1, and at end of treatment.
+Tumor assessments were performed at screening and at the end of cycles 2 and 4, and
+whenever disease progression was suspected according to Response Evaluation Criteria In
+Solid Tumors (RECIST) [16]. Objective tumor response was assessed in patients with
+measurable disease.
+Full PK profiles were obtained on Schedule 2/1 from 5 patients receiving dose level 1, 4
+patients receiving dose level 2, and 2 patients receiving dose level 3. On the CDD schedule,
+full PK profiles were obtained from 1 patient receiving dose level A and 5 patients receiving
+dose level B (dose levels described in Table 1). Plasma samples for PK analyses were
+analyzed using validated analytical methods. Sunitinib and SU12662 were assayed using
+LC-MS/MS (assay dynamic range was 0.100– 60.0 ng/mL for sunitinib and 0.100–20.0 ng/
+mL for SU 012662). Paclitaxel was assayed using LC-MS/MS with solid phase extraction;
+the assay had a dynamic range of 10.0–2000 ng/mL. Carboplatin was assayed using ICP/MS
+(assay dynamic range was 2.00–1000 ng/mL).
+PK parameters for sunitinib, its primary metabolite (SU12662), total drug (sunitinib plus
+SU12662), paclitaxel, and carboplatin are reported for paired observations. On Schedule 2/1,
+patients received a single dose of sunitinib 7 days prior to the start of cycle 1 (day –7).
+Following this dose, 24-h plasma samples were taken to assess sunitinib and SU12662 PK.
+During cycle 1, paclitaxel and carboplatin were given on day 1 and sunitinib was started on
+day 3 and given through cycle 1, day 16. This dosing schedule allowed PK data to be
+collected for sunitinib alone (day –7), paclitaxel and carboplatin alone (cycle 1, day 1), and
+sunitinib plus paclitaxel and carboplatin (cycle 2, day 1). From cycle 2 onwards, sunitinib
+plus paclitaxel and carboplatin were administered starting on day 1 of each cycle. On the
+CDD schedule, sunitinib was started on day 3 in cycle 1. This allowed PK analysis of
+paclitaxel and carboplatin alone (cycle 1, day 1), sunitinib alone at steady state (cycle 1, day
+15), and paclitaxel and carboplatin plus steady-state sunitinib (cycle 2, day 1). From cycle 2
+onwards, sunitinib plus paclitaxel and carboplatin were administered starting on day 1 of
+each cycle.
+Statistical methods
+The observed safety profile on each schedule determined the number of patients per dose
+level and number of dose escalations. Due to the exploratory nature of this study, no
+inferential analyses were planned.
+Results
+Patient characteristics
+Forty-three patients were enrolled into the trial: 25 patients on Schedule 2/1 and 18 patients
+on the CDD schedule. The median age of patients was 58 years (range: 32–76). Baseline
+characteristics are summarized in Table 2.
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Heath et al. Page 5
+Subject evaluation groups
+The doses of study treatment evaluated are shown in Table 1. The sponsor and investigators
+agreed to further expand dose level 2 for Schedule 2/1 and dose level B for the CDD
+schedule to better characterize the safety profile of the combination regimens. Initially, 6
+patients were enrolled in the first cohort at dose level 1 on Schedule 2/1 (including 2 patients
+who were not evaluable for DLT: n = 1 developed a hypersensitivity reaction to paclitaxel; n
+= 1 experienced disease progression prior to cycle 1 day 1). One DLT (grade 4 papilledema)
+was observed and this cohort was expanded to 9 patients, resulting in 7 patients evaluable
+for DLTs. Because no additional DLTs were observed, patients were next enrolled at dose
+level 2 and, among 3 patients initially enrolled who were evaluable for DLTs (1 further
+patient discontinued early due to disease progression prior to cycle 1, day 1), one DLT was
+observed; this cohort was then expanded to 13 patients. While the dose level 2 cohort was
+being expanded, the protocol was amended to allow concurrent enrollment into Schedule 2/1
+and the CDD schedule. Three patients were enrolled onto dose level 3 and no DLTs were
+observed. Following enrollment into dose level 3, further DLTs were observed in the
+expanded dose level 2 cohort. On the CDD schedule starting at dose level A, 3 patients were
+enrolled and no DLTs were observed. Enrollment of the CDD schedule cohorts continued as
+described in Table 1.
+A total of 13 patients (30%) completed the study (receiving the 4 planned cycles of study
+treatment) and 30 patients discontinued before completion. Of the 13 patients who
+completed, 12 (n = 4 from Schedule 2/1 cohorts, n = 8 from CDD cohorts) enrolled in a
+continuation protocol and received sunitinib as a single agent. One additional patient who
+was discontinued from the study due to AEs after cycle 1 was also enrolled in the
+continuation protocol. Twenty of the 25 patients (80%) on Schedule 2/1 discontinued
+treatment early: 11 patients due to insufficient clinical response and 9 due to AEs, including
+6 who had AEs that were considered treatment-related (papilledema, gastrointestinal [GI]
+hemorrhage, syncope, pyrexia, pneumonia, leukopenia, and hemoptysis [all n = 1 each],
+anemia [n = 3], thrombocytopenia [n = 3], and neutropenia [n = 2]). Ten of the 18 patients
+(56%) on the CDD schedule discontinued treatment early: 6 patients due to insufficient
+clinical response; 2 due to AEs (1 patient had AEs considered to be treatment-related:
+neutropenia, anemia, and thrombocytopenia); 1 patient on the CDD schedule died due to
+disease progression; and 1 patient withdrew consent.
+The number of sunitinib treatment cycles started ranged between 0–4 and 1–5 on Schedule
+2/1 and the CDD schedule, respectively. One patient on the CDD schedule received 5 cycles
+of sunitinib on the study, receiving an additional cycle of treatment while awaiting
+enrollment in the continuation protocol. In total 11 patients received all three drugs through
+to the start of cycle 2 without dose reductions, dose delays or dose interruptions (Schedule
+2/1 dose level 1, n = 2; dose level 2 n = 2; CDD schedule dose B, n = 5; dose B1, n = 2).
+Of the 25 patients on Schedule 2/1, 10 (40%) required sunitinib dose delays and 2 (8%)
+required dose reductions. Of the 18 patients on the CDD schedule, 8 (44%) required
+sunitinib dose delays and 3 (17%) required dose reductions. In all but 2 patients, sunitinib
+dose delays were attributed to neutropenia, thrombocytopenia or leukopenia (all grades).
+The duration of sunitinib dose delays was most commonly ≥ 3 weeks (n = 18 patients
+overall).
+In the Schedule 2/1 cohorts, 10 patients experienced dose delays for paclitaxel and 10
+patients experienced dose delays for carboplatin. Five patients experienced at least one dose
+reduction of paclitaxel and 1 patient experienced ≥ 2 dose reductions of carboplatin. In the
+CDD cohorts, 9 and 8 patients experienced dose delays for paclitaxel and carboplatin,
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Heath et al. Page 6
+respectively, and 3 and 1 patients experienced at least one dose reduction of paclitaxel and
+carboplatin, respectively.
+Determination of MTD
+Across all schedules, DLTs occurring in the first treatment cycle were reported in 6 patients
+(14%; Table 1). All DLTs were reported as serious AEs (SAEs) and considered to be related
+to sunitinib and/or paclitaxel and carboplatin treatment. On Schedule 2/1, the MTD was
+determined as sunitinib 25 mg/day plus paclitaxel 175 mg/m2 and carboplatin AUC 6
+mg•min/mL. The MTD was not determined for the CDD schedule.
+Other safety findings
+Treatment-emergent (all-causality) non-hematologic AEs occurring in ≥ 10% of patients
+across all treatment combinations are shown in Table 3. Most nonhematologic AEs were
+grade 1 or 2 in severity. The most common were fatigue (58%), nausea (44%), alopecia
+(30%), and dyspnea (28%).
+Overall, 35/43 patients (81%) experienced at least one AE (grade ≥ 3) considered related to
+study treatment. The most common treatment-related AEs were neutropenia (77%; grade 3
+[23%] or 4 [42%]), thrombocytopenia (56%; grade 3 [19%] or 4 [14%]), and fatigue (47%;
+grade 3 [7%]). The frequency of treatment-related AEs was similar for Schedule 2/1 and the
+CDD schedule, although the incidence of treatment-related thrombocytopenia was higher for
+patients on the CDD schedule (11/18 subjects, 61%) compared with Schedule 2/1 (13/25
+subjects, 52%).
+All causality hematologic AEs reported in all cycles and cycle 1 are shown in Table 4.
+Neutropenia (79%) and thrombocytopenia (74%) were the most frequent events.
+Hematologic laboratory abnormality shifts from grade ≤ 2 to grade ≥ 3 (all patients, both
+schedules) included neutropenia (70%), leukopenia (49%), thrombocytopenia (40%),
+lymphopenia (35%), and anemia (23%). No patient experienced grade 4 lymphopenia. One
+patient experienced a shift to grade 4 anemia.
+Cardiovascular disorders occurred infrequently. Grade 3 thrombosis, grade 1 sinus
+tachycardia, and grade 1 tachycardia were reported in 1 patient each. None of these AEs was
+considered related to study treatment. One patient receiving dose level 2 on Schedule 2/1
+experienced grade 3 syncope deemed treatment-related by the investigator. There were no
+clinically significant changes at any timepoints for the mean heart rate, blood pressure, and
+ECG parameters.
+Three patients died on study. Two deaths were attributed to disease progression (bladder
+cancer [n = 1] and esophageal adenocarcinoma [n = 1]). The third patient, a 59-year-old
+male patient with pancreatic carcinoma who was receiving treatment on Schedule 2/1 dose
+level 2, died due to GI hemorrhage and hypotension, which were considered possibly related
+to study treatment.
+Antitumor activity
+Of the 38 patients with measurable disease at baseline and evaluable for response, 4 patients
+achieved a partial response (PR) for an objective response rate of 10.5% (95% confidence
+interval [CI]: 2.9%, 24.8%) across all cohorts. Two PRs occurred on Schedule 2/1 (one at
+dose level 1 and the other at dose level 2). Two PRs occurred on the CDD schedule (one at
+dose level B and the other at dose level B1). Patients with PRs had the following primary
+diagnoses: SCLC (n = 1), NSCLC (n = 2), and peritoneal carcinomatosis (n = 1), and 2
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Heath et al. Page 7
+patients had received prior chemotherapeutic regimens (carboplatin plus etoposide and
+topotecan; carboplatin plus paclitaxel; and carboplatin plus gemcitabine).
+Across both dosing schedules, stable disease (SD) with duration ≥ 42 days after the first
+dose of study drug was observed in 12 patients (n = 6 on Schedule 2/1 and n = 6 on the CDD
+schedule). Twelve patients (32%) experienced progressive disease (PD) as their best
+response (6 on Schedule 2/1 and 6 on the CDD schedule). Response status could not be
+determined for 10/38 evaluable patients because post-baseline scans were not available
+(patients either discontinued early or lesions identified at baseline were not assessed).
+Pharmacokinetics
+AEs prevented many patients from taking sunitinib daily on both schedules. On the CDD
+schedule, plasma concentration profiles at steady state were collected for only 5 patients
+(paired observations) at sunitinib 37.5 mg/day plus paclitaxel 175 mg/m2 and carboplatin
+AUC 6 mg•min/mL (dose level B), and 1 patient at sunitinib 25 mg/day plus paclitaxel 175
+mg/m2 and carboplatin AUC 6 mg•min/mL (dose level A). Therefore, PK parameters are
+presented only for the dose levels on both treatment schedules with a sufficient number of
+evaluable patients: sunitinib 37.5 mg/day plus paclitaxel 175 mg/m2 and carboplatin AUC 6
+mg•min/mL (dose levels 2 and B; Table 1). The data indicated an increase in maximum and
+total plasma exposures to sunitinib and its active metabolite SU12662 when sunitinib was
+given with paclitaxel and carboplatin compared with sunitinib monotherapy (Table 5). No
+notable difference in PK was observed between Schedule 2/1 and the CDD schedule.
+Discussion
+The objective of this phase I, dose-finding, PK study was to determine the MTD and overall
+safety of sunitinib plus paclitaxel and carboplatin in patients with solid tumors for whom
+curative therapy was not available. Sunitinib was investigated on intermittent (Schedule 2/1,
+2 weeks on treatment, 1 week off treatment) and CDD schedules. The MTD on Schedule 2/1
+(investigated in 25 patients) was determined to be sunitinib 25 mg/day plus paclitaxel 175
+mg/m2 and carboplatin AUC 6 mg•min/mL. The MTD for the CDD schedule was not
+determined (investigated in 18 patients) because the study was stopped before formal
+determination of the MTD, based upon the toxicity patterns observed in the sunitinib
+Schedule 2/1 cohort. Frequent and sometimes prolonged dose delays and dose interruptions
+also made assessment of the MTD challenging. In total 11 patients (Schedule 2:1 n = 4;
+CDD schedule n = 7) received all three drugs through to the start of cycle 2 without dose
+reductions, dose delays or dose interruptions.
+Most non-hematologic AEs reported with sunitinib plus paclitaxel and carboplatin were
+grade 1 or 2 in severity. No unexpected AEs were reported and no significant cardiac
+abnormalities were noted during this study. Even though AEs greater than grade 1 or 2 in
+severity were infrequent, the cumulative effect of multiple grade 1/2 side effects in
+individual patients and the prolonged duration of these toxicities resulted in the need for
+dose interruptions and treatment delays in a significant proportion of patients, and suggested
+that the regimens studied were ultimately unfeasible. Similar observations have been
+reported in clinical trials of other targeted therapies when combined with each other or
+cytotoxic chemotherapy [17].
+The most common non-hematologic AEs were fatigue, nausea, alopecia, and dyspnea. The
+AE profile in this study was generally similar to that of other studies of a taxane plus
+carboplatin [18–20], single-agent sunitinib [21–23], or sunitinib in combination with
+chemotherapy [24–26] . However, grade 3/4 neutropenia and thrombocytopenia (laboratory
+abnormalities) occurred in 70% and 40% of patients, respectively, which is a higher
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Heath et al. Page 8
+incidence than has been reported in trials of other targeted agents in combination with
+carboplatin and paclitaxel in patients with solid tumors [8, 27–29]. Temporary sunitinib dose
+interruptions/delays were needed by almost half of the patients enrolled in this study and
+were attributed to neutropenia, thrombocytopenia or leukopenia (all grades) at one or more
+times in all but 2 of these patients. Based on the investigators’ observations, chemotherapy-
+naïve patients appeared to tolerate the treatment better than chemotherapy-refractory
+patients. Delays or interruptions in the dosing of paclitaxel and carboplatin were also
+frequent during this trial, further limiting the feasibility of this treatment regimen.
+Additionally, the majority of patients (70%) discontinued study treatment before receiving
+the 4 planned cycles: 80% of patients on Schedule 2/1 and 56% on the CDD schedule. Inline
+with the investigators’ observations on tolerability, the imbalance in discontinuation rates
+between the two schedules might have been related to the fact that the majority of patients
+on Schedule 2/1 (80%) had received prior chemotherapy whereas over half of patients on the
+CDD schedule were chemotherapy-naïve (56%).
+Complete PK data based on small sample sizes (4 and 5 patients in Schedule 2/1 and CDD
+cohorts, respectively) suggest that administration of sunitinib with paclitaxel and carboplatin
+led to an increase in maximum and total plasma exposures to sunitinib and its active
+metabolite SU12662 compared with sunitinib administered alone. This may have been the
+result of inhibition of the CYP3A4 metabolic pathway and/or P-glycoprotein (P-gp) efflux
+system (during absorption or elimination) by paclitaxel. Both sunitinib and SU12662 are
+substrates for CYP3A4 [30]; SU12662 is also a substrate for P-gp. Paclitaxel at higher
+concentrations has the potential to inhibit both CYP3A4 and the P-gp transport system [31–
+35]. Carboplatin, on the other hand, is very unlikely to inhibit either of these pathways. The
+administration of sunitinib with paclitaxel and carboplatin did not appear to affect the PK of
+either paclitaxel or carboplatin. The observed drug–drug interaction between sunitinib and
+paclitaxel may have contributed to some of the toxicities observed in this study, including
+neutropenia and thrombocytopenia resulting in dose interruptions/delays. However, other
+variables such as patient selection or overlapping mechanisms of action may have
+contributed
+Of the 38 evaluable patients with measurable disease at baseline, 4 patients (with tumor
+types typically treated with paclitaxel and carboplatin) had confirmed PRs, 2 of whom
+where chemotherapy-naïve. Given the short duration of treatment (4 cycles) and limited
+patient numbers in this phase I trial, no time-to-event analysis was performed and no
+definitive conclusions can be drawn regarding the antitumor activity of the triple
+combination regimen.
+In summary, a potential drug–drug interaction may have led to an increase in levels of
+sunitinib and SU12662, resulting in increased myelosuppression and consequent dose
+interruptions/delays, which limit the dose intensity and potential utility of this combination.
+Acknowledgments
+The authors thank all of the participating patients and their families, as well as the global network of investigators,
+research nurses, study coordinators, and operations staff. This study was sponsored by Pfizer Inc. Statistical support
+was provided by Patricia Stephenson at Rho, Inc. (Chapel Hill, NC). Medical writing support was provided by Siân
+Marshall at ACUMED (Tytherington, UK) and was funded by Pfizer Inc.
+References
+1. Keedy VL, Sandler AB. Inhibition of angiogenesis in the treatment of non-small cell lung cancer.
+Cancer Sci. 2007; 98:1825–1830. [PubMed: 17892508]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Heath et al. Page 9
+2. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology:
+NSCLC v.2.2009. 2009. Available via
+http://www.nccn.org/professionals/physician_gls/PDF/nscl.pdf
+3. Khosravi SP, Fernandez P,I. Tumoral angiogenesis: review of the literature. Cancer Invest. 2008;
+26:104–108. [PubMed: 18181052]
+4. Tallquist M, Kazlauskas A. PDGF signaling in cells and mice. Cytokine Growth Factor Rev. 2004;
+15:205–213. [PubMed: 15207812]
+5. Saltz LB, Clarke S, az-Rubio E, et al. Bevacizumab in combination with oxaliplatin-based
+chemotherapy as first-line therapy in metastatic colorectal cancer: a randomized phase III study. J
+Clin Oncol. 2008; 20:2013–2019. [PubMed: 18421054]
+6. Robert NJ, Dieras V, Glaspy J, et al. RIBBON-1: Randomized, double-blind, placebo-controlled,
+phase III trial of chemotherapy with or without bevacizumab (B) for first-line treatment of HER2-
+negative locally recurrent or metastatic breast cancer (MBC). Journal of Clinical Oncology. 2009;
+27:15s. Abstract 1005.
+7. Nghiemphu PL, Liu W, Lee Y, et al. Bevacizumab and chemotherapy for recurrent glioblastoma: a
+single-institution experience. Neurology. 2009; 72:1217–1222. [PubMed: 19349600]
+8. Sandler A, Gray R, Perry MC, et al. Paclitaxel-carboplatin alone or with bevacizumab for non-
+small-cell lung cancer. N Engl J Med. 2006; 355:2542–2550. [PubMed: 17167137]
+9. Homsi J, Daud AI. Spectrum of activity and mechanism of action of VEGF/PDGF inhibitors.
+Cancer Control. 2007; 14:285–294. [PubMed: 17615535]
+10. Bergers G, Song S, Meyer-Morse N, Bergsland E, Hanahan D. Benefits of targeting both pericytes
+and endothelial cells in the tumor vasculature with kinase inhibitors. J Clin Invest. 2003;
+111:1287–1295. [PubMed: 12727920]
+11. Abrams TJ, Lee LB, Murray LJ, Pryer NK, Cherrington JM. SU11248 inhibits KIT and platelet-
+derived growth factor receptor beta in preclinical models of human small cell lung cancer. Mol
+Cancer Ther. 2003; 2:471–478. [PubMed: 12748309]
+12. Mendel DB, Laird AD, Xin X, et al. In vivo antitumor activity of SU11248, a novel tyrosine kinase
+inhibitor targeting vascular endothelial growth factor and platelet-derived growth factor receptors:
+determination of a pharmacokinetic/pharmacodynamic relationship. Clin Cancer Res. 2003;
+9:327–337. [PubMed: 12538485]
+13. Motzer RJ, Hutson TE, Tomczak P, et al. Phase III randomized trial of sunitinib malate (SU11248)
+versus interferon-alfa (IFN-α) as first-line systemic therapy for patients with metastatic renal cell
+carcinoma (mRCC). Proc Am Soc Clin Oncol. 2006; 24:2s.
+14. Motzer RJ, Figlin R, Hutson TE, et al. Sunitinib versus interferon-alfa (IFN–α) as first-line
+treatment of metastatic renal cell carcinoma (mRCC): updated results and analysis of prognostic
+factors. J Clin Oncol ASCO Annual Meeting Proceedings Part I. 2007; 25(18S) (June 20
+Supplement):(Abstract 5024).
+15. Demetri GD, van Oosterom AT, Garrett CR, et al. Efficacy and safety of sunitinib in patients with
+advanced gastrointestinal stromal tumour after failure of imatinib: a randomised controlled trial.
+Lancet. 2006; 368:1329–1338. [PubMed: 17046465]
+16. Therasse P, Arbuck SG, Eisenhauer EA, et al. New guidelines to evaluate the response to treatment
+in solid tumors. J Natl Cancer Inst. 2000; 92:205–216. [PubMed: 10655437]
+17. Edgerly M, Fojo T. Is there room for improvement in adverse event reporting in the era of targeted
+therapies? 1. J Natl Cancer Inst. 2008; 100:240–242. [PubMed: 18270340]
+18. Rigas JR. Taxane-platinum combinations in advanced non-small cell lung cancer: a review.
+Oncologist 9 Suppl. 2004; 2:16–23.
+19. Custodio Carretero AB, Garcia Saenz JA, Gonzalez Larriba JL, et al. Adjuvant chemotherapy for
+early-stage non-small-cell lung cancer. Single-centre experience and literature review. Clin Transl
+Oncol. 2008; 10:560–571. [PubMed: 18796373]
+20. Perez EA. Carboplatin in combination therapy for metastatic breast cancer. Oncologist. 2004;
+9:518–527. [PubMed: 15477636]
+21. Burstein HJ, Elias AD, Rugo HS, et al. Phase II study of sunitinib malate, an oral multitargeted
+tyrosine kinase inhibitor, in patients with metastatic breast cancer previously treated with an
+anthracycline and a taxane. J Clin Oncol. 2008; 26:1810–1816. [PubMed: 18347007]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Heath et al. Page 10
+22. Socinski MA, Novello S, Brahmer JR, et al. Multicenter, phase II trial of sunitinib in previously
+treated, advanced non-small-cell lung cancer. J Clin Oncol. 2008; 26:650–656. [PubMed:
+18235126]
+23. Kulke M, Lenz HJ, Meropol N, et al. Activity of sunitinib in patients with advanced
+neuroendocrine tumors. J Clin Oncol. 2008; 26:3403–3410. [PubMed: 18612155]
+24. Kozloff M, Chuang E, Roy J, et al. A phase I study of sunitinib plus paclitaxel for first-line
+treatment of advanced breast cancer: preliminary results. Br Cancer Res Treat. 2007; 106(Suppl. 1)
+(supplement; abstract).
+25. Robert F, Sandler A, Schiller JH, et al. Sunitinib in combination with docetaxel in patients with
+advanced solid tumors: a phase I dose-escalation study. Cancer Chemother Pharmacol. 2010;
+66:669–680. [PubMed: 20043166]
+26. Chiorean EG, Sweeney CJ, Verschraegen CF, et al. Tolerability/safety of sunitinib (SU) on
+schedule 2/1 in combination with capecitabine (C) in patients (pts) with advanced solid tumors
+(STs): A phase I dose-finding study. J Clin Oncol. 2008; 26 2008 (May 20 suppl; abstr 3562).
+27. Fountzilas G, Kalofonos HP, Dafni U, et al. Paclitaxel and epirubicin versus paclitaxel and
+carboplatin as first-line chemotherapy in patients with advanced breast cancer: a phase III study
+conducted by the Hellenic Cooperative Oncology Group 1. Ann Oncol. 2004; 15:1517–1526.
+[PubMed: 15367413]
+28. Karp DD, Novello S, Cardenal F, et al. Continued high activity of figitumumab (CP-751,871)
+combination therapy in squamous lung cancer. Journal of Clinical Oncology. 2009; 278072(15s):
+15s. (supplement; abstract).
+29. Leong S, Cohen RB, Gustafson DL, et al. Mapatumumab, an antibody targeting TRAIL-R1, in
+combination with paclitaxel and carboplatin in patients with advanced solid malignancies: results
+of a phase I and pharmacokinetic study 1. J Clin Oncol. 2009; 27:4413–4421. [PubMed:
+19652058]
+30. Pfizer Inc.. Data on file. 2008.
+31. Beulz-Riche D, Robert J, Riche C, Ratanasavanh D. Effects of paclitaxel, cyclophosphamide,
+ifosfamide, tamoxifen and cyclosporine on the metabolism of methoxymorpholinodoxorubicin in
+human liver microsomes. Cancer Chemother Pharmacol. 2002; 49:274–280. [PubMed: 11914905]
+32. Nielsen TL, Rasmussen BB, Flinois JP, Beaune P, Brosen K. In vitro metabolism of quinidine: the
+(3S)-3-hydroxylation of quinidine is a specific marker reaction for cytochrome P-4503A4 activity
+in human liver microsomes. J Pharmacol Exp Ther. 1999; 289:31–37. [PubMed: 10086984]
+33. Walsky RL, Gaman EA, Obach RS. Examination of 209 drugs for inhibition of cytochrome P450
+2C8. J Clin Pharmacol. 2005; 45:68–78. [PubMed: 15601807]
+34. Rochat B, Morsman JM, Murray GI, Figg WD, McLeod HL. Human CYP1B1 and anticancer
+agent metabolism: mechanism for tumor-specific drug inactivation? J Pharmacol Exp Ther. 2001;
+296:537–541. [PubMed: 11160641]
+35. Baumhakel M, Kasel D, Rao-Schymanski RA, et al. Screening for inhibitory effects of
+antineoplastic agents on CYP3A4 in human liver microsomes. Int J Clin Pharmacol Ther. 2001;
+39:517–528. [PubMed: 11770832]
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Heath et al. Page 11
+1
+elbaT
+seiticixot
+gnitimil-esod
+devresbo
+dna
+slevel
+esod
+dennalP
+sTLD
+)TLD
+rof
+elbaulave
+n(
+N
+)gm(
+binitinuS
+)Lm/nim•gm(
+nitalpobraC
+)2m/gm(
+lexatilcaP
+a level
+esoD
+b 1/2
+eludehcS
+)1
+=n
+(
+amedellipap
+4
+edarG
+)7(
+9
+52
+6
+571
+1
+)1
+=n
+(
+egahrromeh
+lanitsetniortsag
+5
+edarG
+)01(
+31
+5.73
+6
+571
+2
+)2
+=n
+(
+ainepotycobmorht
+4
+edarG
+)1
+=n
+(
+noitcefni
+cineportuen
+3
+edarG
+enoN
+)3(
+3
+5.73
+6
+002
+3
+c eludehcs
+DDC
+enoN
+)3(
+3
+52
+6
+571
+A
+enoN
+)9(
+9
+5.73
+6
+571
+B
+)1
+=n
+(
+ainepotycobmorht
+4
+edarG
+)2(
+2
+05
+6
+571
+d C
+enoN
+)4(
+4
+52
+6
+002
+d 1B
+yticixot
+gnitimil-esodT
+LD ;gnisod
+yliad
+suounitnocD
+DC
+level
+esod
+txen
+eht
+otno
+dellorne
+erew
+stcejbus
+,1 elcyc
+gnirud
+TLD a
+decneirepxe
+stneitap
+3/0
+fI
+eht
+ni
+dellorne
+erew
+stcejbus
+dna
+deunitnoc
+noitalacse
+esod
+neht
+,TLD
+a
+decneirepxe
+stcejbus
+6/1
+fI
+.stneitap
+6 =n
+fo latot
+a
+ot
+dednapxe
+saw
+trohoc
+eht
+,1 elcyc
+gnirud
+TLD a
+decneirepxe
+stcejbus
+3/1
+fI
+level
+esod
+txen
+saw
+DTM
+eht
+litnu
+stneitap
+6
+=n
+fo
+latot
+a
+ot
+dednapxe
+eb
+dluoc
+slevel
+esod
+gnidecerp
+ni
+strohoc
+dna
+dedeecxe
+neeb
+dah
+DTM
+eht
+neht
+,1
+elcyc
+gnirud
+TLD
+a decneirepxe
+trohoc
+yna
+ni stcejbus
+2
+≥
+fI
+deifitnedi
+on
+fI
+.dellorne
+eb
+dluoc
+stneitap
+3
+lanoitidda
+na
+,dellorne
+stneitap
+6
+laitini
+eht
+ni
+devresbo
+erew
+sTLD
+2
+dna
+level
+esod
+cificeps
+a ta
+devresbo
+eliforp
+yticixot
+eht
+gnirolpxe
+rehtruf
+ni tseretni
+saw
+ereht
+fI
+srotagitsevni
+dna
+srosnops
+eht
+neewteb
+noissucsid
+retfa
+eunitnoc
+dluoc
+noitalacse
+esod
+,devresbo
+erew
+sTLD
+lanoitidda
+a
+1 yad
+no
+binitinus
+dna
+yparehtomehc
+htob
+detrats
+stneitap
+,selcyc
+tneuqesbus
+gniruD
+.1
+elcyc
+fo
+1
+yad no
+yparehtomehc
+dna
+3 yad no
+binitinus
+detrats
+stneitaP
+Lm/nim•gm
+6
+CUA
+nitalpobrac
+dna
+2m/gm
+571
+lexatilcap
+sulp
+yad/gm
+52 binitinus
+sa
+denimreted
+saw DTM
+eht
+,1/2 eludehcS
+nO
+b c
+eludehcs
+DDC
+eht no
+denimreted
+ton
+saw
+DTM
+d
+1B
+dna
+C sesod
+otno
+yltnerrucnoc
+dellorne
+erew
+stneitaP
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+
+--- Page 12 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Heath et al. Page 12
+Table 2
+Patient demographics
+Schedule 2/1 n = 25 CDD schedule n = 18 Total N = 43
+Sex, n (%)
+Male / Female 17 (68) / 8 (32) 12 (67) / 6 (33) 29 (67) / 14 (33)
+ECOG performance status, n (%)
+0/1 6 (24) / 19 (76) 5 (28) / 13 (72) 11 (26) / 32 (74)
+Primary disease sites
+NSCLC 4 (16) 6 (33) 10 (23)
+Esophageal adenocarcinoma 1 (4) 3 (17) 4 (9)
+Pancreatic carcinoma 4 (16) 0 (0) 4 (9)
+SCLC 3 (12) 1 (6) 4 (9)
+Malignant melanoma 3 (12) 0 (0) 3 (7)
+Mesothelioma 2 (8) 1 (6) 3 (7)
+a 8 (32) 7 (39) 22 (51)
+Other
+Prior treatments
+b 20 (80) 8 (44) 28 (65)
+Chemotherapy
+Cancer-related surgery 23 (92) 16 (89) 39 (91)
+Radiotherapy 12 (48) 5 (28) 17 (40)
+Immunotherapy 3 (12) 0 (0) 3 (7)
+Hormonal therapy 1 (4) 0 (0) 1 (2)
+Unspecified 1 (4) 0 (0) 1 (2)
+CDD continuous daily dosing; ECOG Eastern Cooperative Oncology Group; NSCLC non-small cell lung cancer; SCLC small-cell lung cancer
+a
+Carcinoid, pleural mesothelioma, neuroendocrine carcinoma, metastatic neoplasm unknown primary, thyroid cancer (all n = 2 [4.7%]),
+adrenocortical carcinoma, transitional cell carcinoma bladder, breast cancer, mesothelioma, ovarian cancer, malignant hepatic neoplasm,
+seminoma, and metastases to peritoneum (all n = 1 [2.3%])
+b
+Includes prior targeted therapies: erlotinib (n = 2), bevacizumab, BSI-201, figitumumab, sorafenib, and vorinostat (each n = 1)
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Heath et al. Page 13
+3
+elbaT
+strohoc
+lla
+ni
+)ffo-tuc
+ecnedicni
+%01
+≥(
+stneve
+esrevda
+cigolotameh-non
+ytilasuac-lla
+nommoc
+tsoM
+)34
+=
+n(
+stneitap
+llA
+)%(
+n
+latoT
+)%(
+n 4
+edarG
+)%(
+n
+3
+edarG
+)%(
+n
+2
+edarG
+)%(
+n
+1
+edarG
+tneve
+esrevdA
+)85(
+52
+)0(
+0
+)9(
+4
+)12(
+9
+)03(
+21
+eugitaF
+)44(
+91
+)0(
+0
+)0(
+0
+)41(
+6
+)03(
+31
+aesuaN
+)03(
+31
+)0(
+0
+)0(
+0
+)41(
+6
+)61(
+7
+aicepolA
+)82(
+21
+)0(
+0
+)5(
+2
+)41(
+6
+)9(
+4
+aenpsyD
+)62(
+11
+)0(
+0
+)0(
+0
+)21(
+5
+)41(
+6
+aehrraiD
+)32(
+01
+)0(
+0
+)0(
+0
+)5(
+2
+)91(
+8
+noitapitsnoC
+)32(
+01
+)0(
+0
+)0(
+0
+)5(
+2
+)91(
+8
+gnitimoV
+)12(
+9
+)0(
+0
+)2(
+1
+)7(
+3
+)21(
+5
+aixeronA
+)12(
+9
+)0(
+0
+)0(
+0
+)0(
+0
+)12(
+9
+aiglarhtrA
+)12(
+9
+)0(
+0
+)0(
+0
+)5(
+2
+)61(
+7
+aixeryP
+)91(
+8
+)0(
+0
+)0(
+0
+)5(
+2
+)41(
+6
+hguoC
+)91(
+8
+)0(
+0
+)0(
+0
+)0(
+0
+)91(
+8
+sixatsipE
+)91(
+8
+)0(
+0
+)0(
+0
+)0(
+0
+)91(
+8
+ehcadaeH
+)91(
+8
+)0(
+0
+)0(
+0
+)2(
+1
+)61(
+7
+larehpirep
+yhtaporueN
+)61(
+7
+)0(
+0
+)5(
+2
+)7(
+3
+)5(
+2
+noitardyheD
+)61(
+7
+)0(
+0
+)0(
+0
+)2(
+1
+)41(
+6
+aisuegsyD
+)41(
+6
+)0(
+0
+)0(
+0
+)0(
+0
+)41(
+6
+ssenizziD
+)41(
+6
+)0(
+0
+)0(
+0
+)0(
+0
+)41(
+6
+aispepsyD
+)41(
+6
+)2(
+1
+)0(
+0
+)5(
+2
+)7(
+3
+aimesengamopyH
+)41(
+6
+)0(
+0
+)0(
+0
+)0(
+0
+)41(
+6
+aiglayM
+)41(
+6
+)0(
+0
+)0(
+0
+)0(
+0
+)41(
+6
+hsaR
+)41(
+6
+)0(
+0
+)0(
+0
+)2(
+1
+)21(
+5
+desaerced
+thgieW
+)21(
+5
+)0(
+0
+)2(
+1
+)7(
+3
+)2(
+1
+desaercni
+esarefsnartonima
+etatrapsA
+)21(
+5
+)0(
+0
+)0(
+0
+)0(
+0
+)21(
+5
+sllihC
+)21(
+5
+)0(
+0
+)2(
+1
+)0(
+0
+)9(
+4
+sisytpomeH
+)egahrromeh
+lanitsetniortsag(
+tneve
+5
+edarg
+eno
+saw erehT
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Heath et al. Page 14
+4
+elbaT
+)selcyc
+lla
+ni
+dna
+1
+elcyc
+ni
+gnirrucco(
+strohoc
+lla
+ni
+stneve
+esrevda
+cigolotameh
+ytilasuac-llA
+)34
+=
+n(
+stneitap
+llA
+)%(
+n
+latoT
+)%(
+n
+4
+edarG
+)%(
+n
+3
+edarG
+)%(
+n 2
+edarG
+)%(
+n
+1
+edarG
+tneve
+esrevdA
+1
+elcyC
+)33(
+41
+)7(
+3
+)21(
+5
+)9(
+4
+)5(
+2
+aimenA
+)44(
+91
+)9(
+4
+)61(
+7
+)91(
+8
+)0(
+0
+ainepokueL
+)36(
+72
+)33(
+41
+)91(
+8
+)21(
+5
+)0(
+0
+aineportueN
+)94(
+12
+)91(
+8
+)21(
+5
+)21(
+5
+)7(
+3
+ainepotycobmorhT
+selcyc
+llA
+)45(
+32
+)7(
+3
+)12(
+9
+)32(
+01
+)2(
+1
+aimenA
+)94(
+12
+)21(
+5
+)32(
+01
+)41(
+6
+)0(
+0
+ainepokueL
+)97(
+43
+)24(
+81
+)62(
+11
+)9(
+4
+)2(
+1
+aineportueN
+)47(
+23
+)32(
+01
+)32(
+01
+)61(
+7
+)21(
+5
+ainepotycobmorhT
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Heath et al. Page 15
+Table 5
+Pharmacokinetic parameters (subjects with paired observations only) at sunitinib 37.5 mg/day plus paclitaxel
+175 mg/m2 and carboplatin 6 AUC mg•min/mL
+Alone Mean (%CV) [median] Combination Mean (%CV) [median] Geometric mean ratio (combination/
+alone)
+Schedule 2/1 (n = 4)
+Sunitinib
+a 6.0 (4.0–8.0) 16.0 (6.0–24.0) N/A
+T (h)
+max
+C (ng/mL) 19.1 (23) [20.0] 28.4 (51) [26.1] 1.37
+max
+AUC (ng·h/mL) 332 (27) [342] 501 (42) [503] 1.44
+0–24
+SU12662
+a 4.0 (2.0–6.0) 24.0 (4.0–24.0) N/A
+T (h)
+max
+C (ng/mL) 3.11 (45) [2.99] 6.61 (68) [5.51] 1.93
+max
+AUC (ng·h/mL) 54.1 (48) [52.9] 96.5 (61) [86.0] 1.68
+0–24
+Total drug
+T (h) 6.0 (4.0–8.0) 15.0 (4.0–24.0) N/A
+max
+C (ng/mL) 22.1 (23) [23.9] 33.2 (52) [30.6] 1.38
+max
+AUC (ng·h/mL) 386 (29) [408] 597 (44) [607] 1.48
+0–24
+Paclitaxel
+a 3.0 (3.0–3.0) 3.0 (3.0–3.0) N/A
+T (h)
+max
+C
+max
+(μg/mL) 4.45 (23) [4.58] 5.00 (27) [5.49] 1.11
+AUC
+∞
+(μg·h/mL) 15.5 (17) [16.3] 16.8 (22) [18.02] 1.08
+Clearance (L/h) 21.1 (33) [18.4] 19.8 (41) [16.2] 0.92
+t (h) 8.80 (15) [8.36] 8.23 (17) [8.54] N/A
+1/2
+Total platinum
+a 3.5 (3.5–4.0) 3.5 (3.5–3.5) N/A
+T (h)
+max
+C
+max
+(μg/mL) 20.6 (29) [19.2] 22.6 (20) [21.2] 1.11
+AUC
+0–24
+(μg·h/mL) 65.1 (23) [60.4] 60.3 (10) [60.3] 0.94
+Free platinum
+a 3.5 (3.5–4.0) 3.5 (3.5–3.5) N/A
+T (h)
+max
+C max (μg/mL) 25.2 (37) [24.9] 21.3 (9) [20.7] 0.89
+AUC
+∞
+(μg·h/mL) 50.7 (25) [49.5] 43.0 (6) [42.8] 0.87
+Clearance (L/h) 13.3 (39) [11.2] 13.2 (22) [12.4] 1.02
+t (h) 4.72 (24) [4.89] 5.27 (4) [5.27] N/A
+1/2
+CDD schedule (n = 5)
+Sunitinib
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Heath et al. Page 16
+Alone Mean (%CV) [median] Combination Mean (%CV) [median] Geometric mean ratio (combination/
+alone)
+a 8.0 (6.0–10.0) 6.0 (4.0–10.0) N/A
+T (h)
+max
+C (ng/mL) 42.1 (12) [43.7] 47.0 (15) [44.4] 1.11
+max
+AUC (ng·h/mL) 874 (13) [918] 983 (18) [897] 1.12
+0–24
+SU12662
+a 8.0 (4.0–10.0) 6.0 (4.0–10.0) N/A
+T (h)
+max
+C (ng/mL) 13.4 (39) [15.7] 19.2 (39) [19.8] 1.44 max
+AUC (ng·h/mL) 279 (39) [326] 395 (37) [430] 1.43
+0–24
+Total drug
+a 8.0 (6.0–10.0) 6.0 (4.0–10.0) N/A
+T (h)
+max
+C (ng/mL) 55.3 (14) [50.9] 65.2 (17) [68.3] 1.17
+max
+AUC (ng·h/mL) 1,153 (14) [1,115] 1,379 (15) [1,351] 1.19
+0–24
+Paclitaxel
+a 3.0 (2.0–3.0) 3.0 (3.0–3.0) N/A
+T (h)
+max
+C
+max
+(μg/mL) 3.96 (40) [3.62] 5.24 (50) [4.92] 1.28
+AUC
+∞
+(μg·h/mL) 14.3 (31) [13.2] 15.9 (33) [13.6] 1.11
+Clearance (L/h) 26.5 (34) [29.8] 23.6 (32) [27.4] 0.89
+t (h) 8.89 (14) [8.69] 7.84 (29) [6.90] N/A
+1/2
+Total platinum
+a 3.5 (3.5–4.0) 3.5 (3.5–4.0) N/A
+T (h)
+max
+C
+max
+(μg/mL) 23.1 (20) [24.5] 22.8 (13) [24.7] 1.00
+AUC
+0–24
+(μg·h/mL) 67.6 (7) [65.5] 60.6 (11) [64.0] 0.89
+Free platinum
+a 4.0 (3.5–4.0) 3.5 (3.5–4.0) N/A
+T (h)
+max
+C
+max
+(μg/mL) 20.7 (15) [19.3] 22.0 (16) [22.5] 1.06
+AUC
+∞
+(μg·h/mL) 48.3 (9) [49.2] 43.1 (9) [42.4] 0.89
+Clearance (L/h) 17.1 (26) [16.5] 18.9 (22) [21.1] 1.11
+t (h) 5.18 (6) [5.09] 4.16 (26) [4.80] N/A
+1/2
+Total drug sunitinib + SU12662; Cmax maximum plasma concentration; t1/2 terminal phase half-life; AUC area under the plasma concentration–
+time profile for time zero to infinity (AUC∞) or 24 h (AUC0–24); CV coefficient of variation; N/A not applicable; CDD continuous daily dosing
+a
+Tmax = time for Cmax; median (min, max)
+Cancer Chemother Pharmacol. Author manuscript; available in PMC 2012 July 19.

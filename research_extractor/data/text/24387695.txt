@@ -1,0 +1,734 @@
+Source: 24387695.pdf
+Extracted on: Fri Sep 12 23:57:01 PDT 2025
+==================================================
+
+--- Page 1 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1
+http://www.jhoonline.org/content/7/1/1
+JOURNAL OF HEMATOLOGY
+& ONCOLOGY
+RESEARCH Open Access
+Phase 1 trial of the oral AKT inhibitor MK-2206
+plus carboplatin/paclitaxel, docetaxel, or erlotinib
+in patients with advanced solid tumors
+L Rhoda Molife1*, Li Yan2, Joanna Vitfell-Rasmussen1, Adriane M Zernhelt2, Daniel M Sullivan3, Philippe A Cassier1,7,
+Eric Chen4, Andrea Biondo1, Ernestina Tetteh2, Lillian L Siu4, Amita Patnaik5, Kyriakos P Papadopoulos5,
+Johann S de Bono1,6, Anthony W Tolcher5 and Susan Minton3
+Abstract
+Background: Inhibition ofAKT withMK-2206 has demonstratedsynergism withanticancer agents. This phase 1
+study assessed theMTD, DLTs,PK, and efficacy ofMK-2206 incombination withcytotoxicand targeted therapies.
+Methods: Advancedsolid tumor patients received oral MK-2206 45 or 60 mg (QOD) witheither carboplatin
+(AUC 6.0) and paclitaxel 200mg/m2(arm 1), docetaxel 75 mg/m2(arm 2), or erlotinib 100 or 150 mg daily (arm 3);
+alternative schedules ofMK-2206 135-200 mg QW or 90-250 mg Q3Wwere also tested.
+Results: MTD ofMK-2206 (N=72) was 45 mg QOD or 200mg Q3W (arm 1); MAD was 200 mg Q3W (arm2) and
+135mg QW (arm3). DLTs included skin rash (arms 1, 3), febrile neutropenia (QOD, arms1, 2), tinnitus (Q3W, arm 2),
+and stomatitis (QOD, arm 3). Common drug-related toxicities included fatigue (68%), nausea (49%), and rash (47%).
+Twopatients with squamous cell carcinoma of the head and neck (arm 1; Q3W) demonstrated a complete and
+partialresponse(PR);additionalPRswereobservedinpatients(1each)withmelanoma,endometrial,neuroendocrine
+prostate,NSCLC,andcervicalcancers.Sixpatientshadstabledisease≥6months.
+Conclusion:MK-2206pluscarboplatinandpaclitaxel,docetaxel,orerlotinibwaswell-tolerated,withearlyevidenceof
+antitumoractivity.
+Trialregistration:ClinicalTrials.gov:NCT00848718.
+Keywords:MK-2206,AKTinhibitor,Proteinserine-threoninekinase,Phase1,Chemotherapy,Combinationtherapy,
+Solidtumors
+Introduction AKT/mTOR pathway in cancer, multiple strategies have
+The phosphatidylinositide 3-kinase (PI3K)/AKT/mam- been developed in recent years to target critical compo-
+malian target of rapamycin (mTOR) signaling pathway is nents of this signaling cascade [5-7]. AKT (protein kinase
+a critical driver of tumor progression [1]. Hyperactivation B[PKB]),aserine/threoninekinase,isdirectlyactivatedin
+of this pathway is an important driver of malignant pro- response to PI3K and is a major effector of PI3K in can-
+gression via increased cancer cell growth, survival, and cers[8-10].Thereare 3 different protein isoforms, AKT1,
+metabolism,aswellaschemoresistance[2,3].Hyperactiva- AKT2, and AKT3, with overlapping and distinct roles in
+tion may occur through different mechanisms, including cancer; for example,AKT1promotescellularsurvival and
+upstream stimulation by receptor tyrosine kinases, growth [11]. In addition, AKTactivation and overexpres-
+PIK3CAandAKTmutationsoramplifications,andlossof sion are commonly associated with chemo- and radio-
+PTEN function [4]. In view of the key role of the PI3K/ resistance [2,12], and dominant-negative mutants of AKT
+have been shown to enhance the activity of chemothera-
+*Correspondence:rhoda.molife@icr.ac.uk peutics[13,14].
+1DrugDevelopmentUnit,TheInstituteofCancerResearch/TheRoyal
+Adenosine triphosphate (ATP) competitive and allo-
+MarsdenNHSFoundationTrust,DownsRoad,Sutton,SurreySM25PT,UK
+steric classes of small-molecule AKT inhibitors with
+Fulllistofauthorinformationisavailableattheendofthearticle
+©2014Molifeetal.;licenseeBioMedCentralLtd.ThisisanOpenAccessarticledistributedunderthetermsoftheCreative
+CommonsAttributionLicense(http://creativecommons.org/licenses/by/2.0),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedtheoriginalworkisproperlycited.TheCreativeCommonsPublicDomainDedication
+waiver(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,unlessotherwise
+stated.
+
+--- Page 2 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1 Page2of12
+http://www.jhoonline.org/content/7/1/1
+varying potencies and specificities for the different AKT induced A2780 cell death in a dose-dependent man-
+isoforms have been developed [5,7]. One member of the ner, whereas pretreatment with MK-2206 did not. In
+allostericclassisMK-2206(Merck&Co.,Inc.,Whitehouse vivo, MK-2206 synergised with docetaxel, carboplatin,
+Station, NJ, USA), an oral, highly selective inhibitor of and gemcitabine in inhibiting the growth of PC-3
+AKT that binds at a site in the pleckstrin-homology (PH) prostate and NCI-H462 tumor xenografts with a
+domain, distinct from the ATP-binding pocket, resulting similar-sequence dependent pattern as for carboplatin
+in a conformational change that prevents the localization in vitro.
+ofAKTtotheplasmamembraneanditssubsequentacti- Onthisbackground,amulti-armphase1dose-escalation
+vation[15,16].Itdisplaysnanomolar(nM)potencyagainst study of MK-2206 in combination with carboplatin and
+all 3 AKT isoforms (AKT1, half maximal inhibitory con- paclitaxel, docetaxel, or erlotinib in patients with
+centration [IC50]=5 nM; AKT2, IC50=12 nM; AKT3, advanced solid tumors was initiated. The primary objec-
+IC50=65 nM) [16]. A first-in-human phase 1 combi- tives were to evaluate safety and tolerability, DLTs, and
+nationstudydefinedthemaximumtolerateddose(MTD), the MTD/recommended phase 2 dose (RP2D) of MK-
+pharmacokinetics (PK), and pharmacodynamics (PD) of 2206 when administered orally (PO) in the above combi-
+an alternate day (QOD) and weekly (QW) schedule of nations. Additional objectives were to explore the PK
+MK-2206 in patients with advanced solid tumors [17,18]. profile, antitumor activity of MK-2206 in combination
+The dose-limiting toxicities (DLT) were rash and stoma- and correlation of anti-tumor activity with tumor P13K
+titis. The PK profile was dose proportional, and PD ana- pathway activation events.
+lysis of both schedules demonstrated the downstream
+effects of AKT inhibition with a significant decline in
+phosphorylated AKT (pAKT; ser473) in post-treatment Materials and methods
+tumor biopsies, and in pPRAS40 (rhr246)in hair follicles. This phase 1,multi-arm,open-label, dose-escalationstudy
+Reversible hyperglycemia and an increase in insulin (ClinicalTrials.gov: NCT00848718; http://clinicaltrials.gov/
+c-peptide further confirmed target modulation. Minor re- ct2/show/NCT00848718) was conducted at 4 centers
+sponsesweredemonstratedin2patientswithneuroendo- (Royal Marsden NHS Foundation Trust, Sutton, Surrey,
+crine pancreatic cancers and 1 patient with pancreatic UK; South Texas Accelerated Research Therapeutics
+adenocarcinoma and PTEN loss (in addition to KRAS [START],Texas,USA;PrincessMargaretHospital,Toronto,
+G12Dmutation). Ontario, Canada; H. Lee Moffitt Cancer Center and Re-
+Inpreclinicalmodels,MK-2206enhancedtheactivityof search Institute, Tampa, Florida, USA). The study was
+conventional cytotoxics and other molecularly targeted conducted inaccordancewiththe DeclarationofHelsinki
+therapies [19]. In vitro, MK-2206 demonstrated synergy andGoodClinicalPracticeGuidelinesoftheInternational
+withbotherlotinibandlapatinibininhibitingproliferation Conference on Harmonization and was approved by
+and inducing apoptosis of non-small cell lung (NSCLC) the Ethics Committees and Institutional Review
+cell lines, including those that were RAS mutant, and Boards at all study sites. All patients provided written
+breastcancercelllines.Althoughtreatmentwitherlotinib informed consent before any study procedures were
+inhibited EGFR and pERK phosphorylation of the RAF- performed.
+RAS-MEKpathwayintheA431celllineandmouseNCI-
+H292tumorxenografts,therewasnoeffectonpAKTand
+pRAS40, downstream markers of AKT inhibition. How- Eligibilitycriteria
+ever,thecombinationwithMK-2206resultedindecreased Patients 18 years or older with confirmed advanced solid
+levels of pAKTand pRAS40.Theinhibition of bothpath- tumors were eligible if they had progressed after stan-
+waysledtomoreprofoundinhibitionofpGSK3bandpS6, dard therapy, or if no standard therapy was available for
+which are downstream signaling proteins that correlate them; had Eastern Cooperative Oncology Group per-
+with cell growth and survival. The combination also formance status ≤1; surgery or chemotherapy within the
+demonstrated significantly greater in vivo tumor growth previous 4 weeks; ≤3 prior lines of cytotoxic therapies
+suppression and tumor regressions over each single agent (arms 1 and 2 only); residual toxicity from prior treat-
+using both a 3 times per week and QW schedule of ment grade ≤1; adequate bone marrow, renal, and hepa-
+MK-2206inthemousetumorxenografts. tic function; and fasting serum glucose ≤1.1× the upper
+In vitro, MK-2206 demonstrated synergy with several limit of normal and hemoglobin A1c (HbA1c) ≤8%.
+conventional cytotoxics, including carboplatin and doce- Patients were excluded if they were diabetic and on anti-
+taxel, in inhibiting the growth of NCI-H292 and A2780 diabetic therapy, pregnant or breastfeeding, receiving
+tumor cells [19]. Carboplatin-induced apoptosis was also oral corticosteroids, had any condition(s) that would
+enhanced by MK-2206 in a sequence-dependent manner: impede drug ingestion or absorption, or had other sig-
+concurrent treatment or pretreatment with carboplatin nificant coexistingmedicalconditions.
+
+--- Page 3 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1 Page3of12
+http://www.jhoonline.org/content/7/1/1
+Studydesign combinations [18]. Second, 3 DLTs of febrile neutropenia
+MK-2206 was initially administered PO every other day were reported at the first dose level of 45 mg MK-2206
+(QOD) on days 1, 3, 5, and 7 (days 1-7) of a 21-day QOD with IV docetaxel at 75 mg/m2. Consequently, 2
+cycle, in combination with intravenous (IV) carboplatin schedules (QW and Q3W) for MK-2206 were added to
+(area under the curve 6.0 mg/mL [AUC 6]) over 1 hour the current study (Table 1). Fasted patients received
+and IV paclitaxel 200 mg/m2 over 3 hours (arm 1; MK-2206 as 5-mg, 25-mg, or 200-mg tablets with che-
+Table 1); or IV docetaxel 75 mg/m2 over 1 hour (arm 2; motherapy or erlotinib. The dose-escalation phase in all
+Table 1). MK-2206 was also administered QOD conti- schedulesfollowedatoxicityprobabilityintervalapproach,
+nuous with daily PO erlotinib 100 mg or 150 mg every where the aim was to target a dose with a DLT rate of
+21 days; both MK-2206 and erlotinib were given on a 30% [20]. Patients could continue receiving single-agent
+21-day cycle (arm 3; Table 1). Based on the MTD of MK-2206 after completing chemotherapy or erlotinib
+single-agent MK-2206 of 60 mg QOD, determined using doses.
+a modified 3+3 design [20], cohorts of 3 to 6 patients
+were to be treated at preplanned MK-2206 dose levels of Safety
+45 mg and 60 mg, in combination with carboplatin and For all treatment schedules, safety assessments were con-
+paclitaxel (arm 1) or docetaxel (arm 2), or with erlotinib ducted at baseline and on days 1, 2, 3, 7, 15, and 21 of
+(arm 3). cycle1,andweeklyincycles2to6.Fromcycle7onwards,
+During dose escalation of the days 1–7 QOD dosing safetyassessmentswereperformedonday1ofeachcycle.
+schedule of MK-2206, emerging data led to the intro- All patients had a history, physical examination including
+duction of 2 protocol amendments. First, data from fullophthalmologicassessment,electrocardiogram,hema-
+the same schedule in the first-in-human phase 1 study tology and chemistry profiling, and urine analysis per-
+demonstrated that MK-2206 had a long half-life (t ) of formed at baseline. In addition to glucose monitoring,
+1/2
+60 to 80 hours. The tolerability of a QW schedule was serum c-peptide and whole blood HbA1c were measured
+investigated and found to be acceptable with evidence of atbaselineandmonthly.Adverseevents(AEs)andlabora-
+PD activity [17]. Preclinical efficacy studies had also tory variables were assessed using the National Cancer
+demonstrated the antitumor effect of MK-2206 adminis- Institute Common Terminology Criteria for Adverse
+tered either QW or 3 times per week with daily erlotinib Events(NCI-CTCAE)version3.01.
+[19]. This suggested that continuous exposure with A DLT was defined as any of the following occurring
+MK-2206 may not be necessary with erlotinib and that during the first cycle of treatment: grade 4 neutropenia
+overall, more flexible dosing schedules can be used in lasting≥7days;grade3or4neutropeniawithfever≥38.5°C
+and/or infection requiring therapy; grade 4 throm-
+bocytopenia;anydrug-relatedAEthatledtodosemodifi-
+Table1MK-2206treatmentregimenbytreatmentarm
+cation of MK-2206 or erlotinib; unresolved drug-related
+Treatment MK-2206 Schedulea Combinationwith:
+toxicity regardless of grade that resulted in a 3-week or
+arm dose,mg
+longer delay of the start of cycle 2; persistent increase in
+1 45 QOD Carboplatin(IV,AUC6,1-hour
+infusion)andpaclitaxel QTc interval (>60 ms from baseline and/or >500 ms); cli-
+60 (IV,200mg/m2,3-hourinfusion) nically significant bradycardia; and any grade 3–5 nonhe-
+90 Q3W
+matologictoxicitywiththeexceptionof,intheopinionof
+135 the investigator, grade 3 nausea, vomiting, diarrhea, dehy-
+200 dration or hyperglycemia in the setting of inadequate
+2 45 QOD Docetaxel(IV,75mg/m2, compliance with supportive care treatment, alopecia, in-
+1-hourinfusion) adequately treated hypersensitivity reaction, and grade 3
+90 Q3W Docetaxel(IV,60mg/m2, elevatedtransaminaseslasting1weekorless.
+1-hourinfusion)
+135
+Pharmacokineticanalyses
+200
+Inarms1and2,fordays1–7QODdosing,bloodsampling
+3 45 QOD* Erlotinib(oral,100mg,QD)
+for MK-2206 PK was performed in cycle 1 on day 1 (pre-
+45 Erlotinib(oral,150mg,QD) dose, 2, 4, 6, 10, and 24 hours postdose), day 3 (48 hours
+135 QW Erlotinib(oral,100mg,QD) postdose), day 7 (predose and 4 hourspostdose),and days
+135 Erlotinib(oral,150mg,QD) 15 and 21 (same time as day 1 predose sampling). For the
+Q3Wschedule,samplesweretakenincycle1ondays1to
+Abbreviations:IVintravenous,AUC6areaunderthecurve6.0mg/mL,
+QDoncedaily. 3 as per the QOD schedule, then on days 5, 7, 15, and in
+aQOD=onceeveryotherdayondays1,3,5,and7of21-daycycle,except
+cycle 2 on day 1. Blood samples were collected predose
+*:alternatedaydosingondays1–21;Q3W=onceevery3weeksonday1of
+21-daycycle;QW=onceweeklyondays1,8,and15of21-daycycle. and just before the end of the infusion for carboplatin,
+
+--- Page 4 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1 Page4of12
+http://www.jhoonline.org/content/7/1/1
+paclitaxel, and docetaxel for archival and possible PK ana- assess the effects of MK-2206 combination therapy on
+lysis. Another sample was taken 30 minutes into the infu- varioustumortypes.
+sionofpaclitaxel.Thesesampleswerearchivedforpossible
+future analysis to investigate if any unexpected toxicities Results
+may have been as a result of a PK interaction. Docetaxel Seventy-twopatientsweretreatedbetweenApril2009and
+PK samples were analyzed in view of the DLT of febrile May2012(Table2)—however,fullaccrualtotheprotocol
+neutropenia observed in arm 2; however, PK parameters, was suspended due to a change in the developmental
+such as half-life (t ) or systemic exposure of paclitaxel, plansofMK-2206.Inarm1,31patientsreceivedamedian
+1/2
+docetaxel, carboplatin, and erlotinib, could not be evalu- of 3 cycles (range 1–10) of combination therapy; 10 of
+ated due to the sparse blood sampling design used in this these patients went on to receive single-agent MK-2206
+study. and completed a median of 4 cycles of treatment (range
+In arm 3, for MK-2206 PK analysis in the QOD sche- 1–15).Inarm2,16patientsreceivedamedianof3cycles
+dule, sampling was performed in cycle 1 on days 1 and 3 (range 1–7) with 1 of these patients receiving 1 further
+as in arms 1 and 2, then on days 7 and 15 (predose), day cycle of MK-2206 only. Another 25 patients received a
+21 (predose, 2, 4, 6, and 10 hours postdose), and in cycle medianof5cycles(range1–12)inarm3ofthestudy.
+2 on days 1 and 2 (predose). For QW dosing, samples
+were taken in cycle 1 on day 1 (predose, 2, 4, 6, 10, and Dose-limitingtoxicitiesandmaximumtolerateddose
+24hours postdose),day3(48hours postdose), andday5 The MTD for all of the combinations could not be de-
+(96 hours postdose), then on days 8 and 15 (predose). termined according to the predefined protocol criteria
+This sampling schedule was repeated in cycle 2, except based on the number of patients enrolled at the time of
+for the day 15 predose sample, which was omitted. For study discontinuation—in cases where higher dose levels
+the QOD schedule, PK sampling for erlotinib was per-
+formed incycle 1on day 1 (predose,2 and 4 hours post- Table2Patientcharacteristics
+dose) and day 21 (2 and 4 hours postdose); for the QW Characteristic Patients
+schedule, sampling was performed in cycle 1 on day 1 (N=72)
+(predose, 2 and 4 hours postdose) and in cycle 2 on day Age,years
+1 (2 and 4 hours postdose). Blood samples for MK-2206
+Median(SD) 58.0(12.4)
+PK were obtained, processed, and analyzed as described
+Range 23–78
+[18]. Blood samples were not analyzed for erlotinib con-
+Gender,n(%)
+centrations as the potential for a marked drug-drug
+interaction with erlotinib as a victim was considered to Male 36(50.0)
+be low as erlotinib is metabolized by both CYP3A and Female 36(50.0)
+CYP1A. In addition, the CYP3A induction or inhibition ECOGPS,n(%)
+potential of MK-2206 is low at the clinical concen-
+0 22(31)
+trations achieved in this study, although the effect of
+1 49(68)
+MK-2206onCYP1Aisunknown.
+Notrecorded 1(1)
+Tumortype,n(%)
+Biomarkerstudies
+NSCLC 13(18.0)
+Circulating nucleic acids were analyzed for PIK3CA
+(exons9and20),KRAS(exons2and3),andBRAF(exons Breast 10(13.8)
+11 and 15) mutations. DNA extracted from whole blood Melanoma 6(8.3)
+samples was subjected to real-time quantitative polyme- Pancreas 5(6.9)
+rase chain reaction and spectrophotometric analysis as Prostate 4(5.6)
+partofthequalitycontrolprocess,aspreviouslydescribed
+Colon 4(5.6)
+[21]. Mutation screening was performed using Surveyor
+Esophagus 3(4.2)
+Nuclease(Transgenomic,Inc.,Nebraska,USA).
+Parotid 3(4.2)
+SCLC 3(4.2)
+Tumorresponse
+Othera 21(29.2)
+Radiologic assessment (computed tomography [CT]
+Abbreviations:SDstandarddeviation,ECOGEasternCooperativeOncology
+and/or magnetic resonance imaging [MRI] scans) of di-
+Group,PSperformancestatus,SCLCsmallcelllungcancer,SCCsquamous
+sease status was performed at baseline and every 6 cellcancer.
+aCervical,cholangiocarcinoma,gastric,mesothelioma,endothelialcell,bladder,
+weeks according to Response Evaluation Criteria in
+renal,sarcoma,SCCorbit,SCCvagina,SCCvulva,anal,tonsil,hardpalate,
+SolidTumors(v1.0)[22].Relevantmarkerswereusedto andvulva.
+
+--- Page 5 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1 Page5of12
+http://www.jhoonline.org/content/7/1/1
+were not explored a maximum administered dose In arm 1, DLTs were rash in 1 of 5 and 2 of 5 patients at
+(MAD)wasdetermined.Dose-escalationlevelsandDLTs 90 mg and 200 mg, respectively, and thrombocytopenia
+aresummarizedinTable3. in 1 of 5 patients at 135 mg. Therefore, the MTD of
+Q3W MK-2206 dosing in combination with carboplatin
+QODdosingschedule and paclitaxel was 135 mg. In arm 2, the only DLT was
+In arm 1, preplanned dose escalation from 45 to 60 mg tinnitus in 1 of 4 patients at MK-2206 200 mg with a re-
+wasachieved;DLTswererash(1of5at45mgand 1of4 duced dose of docetaxel at 60 mg/m2. The combination
+at60mg;Figure1Aand1B)andfebrileneutropenia(2of was not to be investigated further, so this dose level was
+4 at 60 mg). All episodes of rash were fully reversible defined as the MAD; the MTD was not reached. In arm
+within 7 to 14 days after dose interruption and appro- 3, 135 mg MK-2206 administered QW was tested with
+priate treatment. The MTD of MK-2206 was established erlotinib 100 mg and 150 mg, with 1 DLT of rash ob-
+as 45 mg PO, when administered on the QOD dose served in 5 patients at the higher dose level of erlotinib.
+schedule on days 1, 3, 5, and 7, with carboplatin AUC 6 As DLTs were low (17%), the MTD of MK-2206 in this
+and paclitaxel 200 mg/m2. In arm 2, when MK-2206 was combination was not reached. The MAD was defined as
+administered at 45 mg days 1–7 QOD with docetaxel MK-2206135mgQWwitherlotinib150mg.
+75 mg/m2, 3 of 5 patients experienced a DLT of febrile
+neutropenia. In arm 3, DLTs were rash and stomatitis Safetyandtolerability
+(2of8atMK-220645mgwitherlotinib100mg;1of3at Overall, the treatment combinations were well-tolerated,
+MK-2206 45 mg with erlotinib 150 mg). The rash seen in withalow incidenceofgrade 3or4AEs.Themostcom-
+patients treated with MK-2206 and erlotinib was a com- mon AEs were similar across the arms and schedules—
+bination of the acneiform pattern seen with erlotinib and fatigue (68%), nausea (49%), rash (47%), diarrhea (44%),
+the maculopapular pattern associated with MK-2206 anorexia(44%),alopecia (40%),vomiting (36%), stomatitis
+(Figure 1C). Based on MK-2206 single-agent PK data and (32%), and hyperglycemia (25%; 8% considered drug-
+the high incidence of febrile neutropenia in arm 2 with related). Hyperglycemia was transient, grade 1/2, and
+docetaxel 75 mg/m2, a decision was made to reduce the largely associated with steroid premedication in arms 1
+dose of docetaxel to 60 mg/m2 and investigate QW and and 2. In arm 1, rash was observed more frequently with
+Q3Wschedules. the days 1–7 QOD dose schedule (40%) compared with
+the Q3W schedule (25%). In arm 2, the frequency of fe-
+Q3WandQWdosingschedules brile neutropenia decreased with dose reduction of doce-
+In arms 1 and 2, dose escalation through 3 dose levels taxel and change to Q3W dosing for MK-2206. There
+administered Q3W (90, 135, and 200 mg) was achieved. were no appreciable differences in the frequency of AEs
+Table3Doseschedulesanddose-limitingtoxicitiesofMK-2206incombinationtherapy
+Treatmentarm MK-2206dosingschedule Evaluablepatients Dose-limitingtoxicities
+1 CarboplatinAUC6 45mgQODb 5 1;rash
+60mgQODb 4 3a;rash,febrileneutropenia(2)
+90mgQ3W 5 1;rash
+Paclitaxel200mg/m2
+135mgQ3W 5 1;TCP
+200mgQ3W 5 2;rash
+2 Docetaxel75mg/m2 45mgQODb 5 3;febrileneutropenia
+Docetaxel60mg/m2 90mgQ3W 3 0
+135mgQ3W 3 0
+200mgQ3W 4 1;tinnitus
+3 Erlotinib100mg 45mgQODc 8 2;rash,stomatitis
+135mgQW 4 0
+Erlotinib150mg 45mgQODc 3 1;rash
+135mgQW 5 1;rash
+Abbreviation:TCPthrombocytopenia.
+a3eventsin2patients.
+bdays1–7.
+ccontinuous.
+
+--- Page 6 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1 Page6of12
+http://www.jhoonline.org/content/7/1/1
+treatment-related AEs observed by treatment arm and
+NCI-CTCAEgrade.
+Pharmacokinetics
+PharmacokineticdataforMK-2206wereavailablefrom70
+patients: 30fromarm1,15fromarm2,and25fromarm
+3. Across all treatment arms, AUC, maximum plasma
+concentration (C ), and time to maximum concentra-
+max
+tion (T ) values following the first MK-2206 dose were
+max
+withinrangesobservedatthecorrespondingdoselevelsin
+thesingle-agentphase1study[18].However,duetoinsuf-
+ficientPKsampling,steady-stateexposureincombination
+with either carboplatin and paclitaxel, docetaxel or erlo-
+tinibcouldnotbeassessed.Theapparentt ofMK-2206
+1/2
+incombination withcarboplatinand erlotinibwasconsis-
+tent withthat observed withmonotherapy. Table 5 shows
+the key PK parameters for MK-2206 at 45-mg, 60-mg,
+90-mg, and 135-mg dose levels in this combination the-
+rapy study after the first dose. The mean 48-hr plasma
+concentrations of MK-2206 at the 45-mg QOD (arm 3),
+60-mgQOD(arm1),and135-mgQW(arm3)doselevels
+were above 56.8 nM, at the last PK sampling time corre-
+spondingto70%AKTinhibitioninthesingle-agentphase
+1study[18].
+An analysis of docetaxel PK samples did not indicate a
+PKcauseforthehigher-than-expectedfrequencyoffebrile
+neutropenia DLTs in arm 2: the mean end-of-infusion
+concentration value was 3.01 μg/mL. This is within the
+range of mean values of 1.68 to 4.06 μg/mL reported in
+the literature [23-25]. Paclitaxel, erlotinib, and carbo-
+platin plasma samples were not assayed. Paclitaxel is
+metabolized by CYP3A and CYP2C, while erlotinib is
+metabolized primarily by CYP3A and CYP1A. The major
+drug-metabolizing enzyme for docetaxel is CYP3A; thus,
+docetaxelisvulnerabletoCYP3A-mediateddrug-drugin-
+teractions, while carboplatin undergoes renal excretion
+and hepatic metabolism equally, reducing its potential to
+be a victim of CYP-mediated DDIs. MK-2206 is not a
+significant inhibitor or inducer of major CYP enzymes
+(IC50 >35 μM for CYP3A4, 2C9, and 2D6 inhibition, and
+has insignificant effect on CYP3A mRNA and activity at
+0.1to10μM);therefore,MK-2206isnotexpectedtoper-
+petuate significant drug-drug interactions at the clinical
+doses. MK-2206 is susceptible as a victim to CYP3A-
+Figure1Patternsofdruginducedrash.Thetypicalrash mediated drug-drug interaction as metabolism of MK-
+associatedwithMK-2206wasawidespread,reversible,generalized, 2206 to oxidative metabolites in human microsomes is
+erythematous,maculopapular,non-acneiformrash(AandB).Inarm3, mediatedprimarilybyCYP3A.ExposureofMK-2206after
+somepatientsalsodemonstratedanacneiformrashaffectingthehead,
+co-administration with erlotinib did not suggest a sub-
+face,neck,andtrunk,inadditiontothemaculopapularMK-2206related
+stantial PK interaction of MK-2206 as a victim, although
+rash(C).
+attainment of a steady state of MK-2206 could not be
+confirmed at the last PK sampling. Steady-state exposure
+between the QOD and QW schedules in arm 3. In arm 3 of MK-2206 in combination with either carboplatin and
+however, chronic anorexia, fatigue, rash and diarrhea, paclitaxelordocetaxelarenotavailablebasedonthestudy
+albeit at grade 1/2, were prominent. Table 4 summarizes designused.
+
+--- Page 7 ---
+Table4Treatment-relatedadverseeventsoccurringin≥20%ofpatientsinanytreatmentarmwithQODandQ3WdosingschedulesofMK-2206
+Adverseevent, Arm1:carboplatinAUC6; Arm2:docetaxel Arm3:erlotinib
+n(%) Paclitaxel200mg/m2 75mg/m2 60mg/m2 100mgand150mg
+MK-2206 MK-2206 MK-2206 MK-2206 MK-2206 MK-2206
+QOD Q3W QODa Q3Wb QOD QW
+45mg 60mg 90mg 135mg 200mg 45mg 90mg 135mg 200mg 45mgc 45mgd 135mgc(n=6) 135mgd
+(n=6) (n=9) (n=5) (n=5) (n=6) (n=5) (n=3) (n=4) (n=4) (n=9) (n=4) (n=6)
+Fatigue
+Grade1/2 5(83) 6(66) 4(80) 4(80) 1(17) 4(80) 3(100) 2(50) 4(100) 4(44) 3(75) 4(66) 3(50)
+Grade3 0 0 0 1(20) 0 0 0 0 0 1(11) 0 0 1(17)
+Grade4 0 0 0 0 0 0 0 0 0 0 0 0 0
+Nausea
+Grade1/2 3(50) 5(55) 3(60) 2(40) 4(66) 2(40) 1(33) 1(25) 2(50) 2(22) 4(100) 1(17) 2(33)
+Grade3 0 1(11) 1(20) 0 0 0 0 0 0 1(11) 0 0 0
+Grade4 0 0 0 0 0 0 0 0 0 0 0 0 0
+Rash
+Grade1/2 3(50) 1(11) 0 1(20) 1(17) 4(80) 2(66) 0 1(25) 3(33) 1(25) 4(66) 5(83)
+Grade3 1(17) 1(11) 1(20) 0 1(17) 0 0 0 0 2(22) 2(50) 0 0
+Grade4 0 0 0 0 0 0 0 0 0 0 0 0 0
+Decreasedappetite
+Grade1/2 2(33) 5(55) 2(40) 2(40) 2(33) 2(40) 0 2(50) 1(25) 1(11) 4(100) 3(50) 5(83)
+Grade3 0 0 0 1(20) 0 0 0 0 0 1(11) 0 0 0
+Grade4 0 0 0 0 0 0 0 0 0 0 0 0 0
+Diarrhea
+Grade1/2 1(17) 4(44) 2(40) 1(20) 2(33) 1(20) 2(66) 0 2(50) 4(44) 3(75) 4(66) 5(83)
+Grade3 0 0 0 0 0 0 0 0 0 1(11) 0 0 0
+Grade4 0 0 0 0 0 0 0 0 0 0 0 0 0
+Alopecia
+Grade1/2 4(66) 6(66) 5(100) 4(80) 2(33) 3(60) 1(33) 1(25) 2(50) 0 0 1(17) 0
+Grade3 0 0 0 0 0 0 0 0 0 0 0 1(17) 0
+Grade4 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vomiting
+Grade1/2 1(17) 3(33) 0 3(60) 4(66) 3(60) 1(33) 1(25) 1(25) 4(44) 1(25) 1(17) 0
+Grade3 0 1(11) 1(20) 0 0 0 0 0 0 0 0 1(17) 0
+Grade4 0 0 0 0 0 0 0 0 0 0 0 0 0
+http://www.jhoonline.org/content/7/1/1 Molifeetal.JournalofHematology&Oncology2014,7:1
+Page7of12
+
+--- Page 8 ---
+Table4Treatment-relatedadverseeventsoccurringin≥20%ofpatientsinanytreatmentarmwithQODandQ3WdosingschedulesofMK-2206(Continued)
+Anemia
+Grade1/2 1(17) 1(11) 2(40) 1(20) 1(17) 2(40) 0 1(25) 1(25) 2(22) 0 0 2(33)
+Grade3 0 3(33) 1(20) 1(20) 0 0 0 0 0 0 0 1(17) 0
+Grade4 1(17) 1(11) 0 1(20) 0 0 0 0 0 0 0 0 1(17)
+Stomatitis
+Grade1/2 1(17) 2(22) 2(40) 1(20) 1(17) 2(40) 0 1(25) 0 3(33) 1(25) 4(66) 4(66)
+Grade3 0 0 0 0 0 0 0 0 0 1(11) 0 0 0
+Grade4 0 0 0 0 0 0 0 0 0 0 0 0 0
+Neutropenia
+Grade1/2 0 0 0 0 0 0 0 0 0 0 0 0 0
+Grade3 0 2(22) 2(40) 1(20) 1(17) 1(20) 1(33) 0 0 0 0 0 0
+Grade4 1(17) 3(33) 2(40) 2(40) 0 2(40) 1(33) 0 1(25) 0 0 0 0
+Leukopenia
+Grade1/2 1(17) 3(33) 0 1(20) 0 0 1(33) 0 1(25) 0 0 0 0
+Grade3 0 1(11) 4(80) 2(40) 1(17) 0 0 0 0 0 0 0 0
+Grade4 0 2(22) 0 1(20) 0 1(20) 0 0 0 0 0 0 0
+Thrombocytopen-ia
+Grade1/2 0 4(44) 1(20) 1(20) 1(17) 2(40) 1(33) 0 0 0 0 0 1(17)
+Grade3 1(17) 1(11) 1(20) 0 0 0 0 0 0 0 0 0 0
+Grade4 0 0 0 2(40) 0 0 0 0 0 0 0 0 0
+Pruritus
+Grade1/2 4(66) 0 0 1(20) 1(17) 2(40) 0 0 0 3(33) 0 2(33) 2(33)
+Grade3 0 0 0 0 0 0 0 0 0 0 0 1(17) 0
+Grade4 0 0 0 0 0 0 0 0 0 0 0 0 0
+aMK-2206QODexploredwithdocetaxel75mg/m2only.
+bMK-2206Q3Wexploredwithdocetaxel60mg/m2only.
+c100mgerlotinib.
+d150mgerlotinib.
+http://www.jhoonline.org/content/7/1/1 Molifeetal.JournalofHematology&Oncology2014,7:1
+Page8of12
+
+--- Page 9 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1 Page9of12
+http://www.jhoonline.org/content/7/1/1
+Table5PharmacokineticparametersofMK-2206afterthefirstdosewhenadministeredincombinationtherapy
+Treatmentarm MK-2206dosingschedule Numberofpatients AUC ,nM(cid:129)ha C ,nMa T ,hb t ,hc
+0-48h max max 1/2
+1 CarboplatinAUC6 45mgQOD 6 1630±496(30.4) 57.7±13.8(23.9) 4.0(4.0–6.0) NA
+Paclitaxel200mg/m2
+60mgQOD 8 2700±619(23.0) 88.3±24.2(27.4) 8.0(6.0–10.0) NA
+90mgQ3W 5 4130±1520(36.6) 144±57.0(39.6) 6.0(4.0–10.0) 79.5±17.3
+135mgQ3W 6 7600±1280(15.3) 255±50.9(6.8) 8.0(6.0–10.0) 73.0±20.0
+200mgQ3W 5 9800±2550(25.9) 458±268(58.5) 4.0(4.0–10.0) 74.7±13.4
+2 Docetaxel75mg/m2 45mgQOD 5 1320±395(30.0) 42.9±13.3(30.9) 6.0(4.0–10.0) NA
+Docetaxel60mg/m2 90mgQ3W 3 3000±1250(41.7) 106±42.5(40.2) 4.0(4.0–10.0) 105.4±15.0
+135mgQ3W 3 8090±542(6.7) 278±35.5(12.8) 6.0(4.0–10.0) 106.1±32.7
+200mgQ3W 4 7690±1550(20.1) 287±67.6(23.5) 6.0(4.0–6.0) 86.9±11.5
+3 Erlotinib100mg 45mgQOD 9 1460±417(28.6) 48.8±11.2(23.0) 6.0(4.0–10.0) NA
+135mgQW 6 6420±2760(42.9) 212±75.9(35.8) 6.0(2.0–6.0) 60.6±6.6
+Erlotinib150mgQD 45mgQOD 4 2110±637(30.2) 65.6±29.3(44.6) 7.0(4.0–24.0) NA
+135mgQW 6 6560±2650(40.2) 244±84.2(34.5) 4.0(4.0–10.0) 50.2±10.3
+Abbreviations:AUC areaunderthecurvefrom0to48hours,C maximumconcentration,T timetomaximumconcentration,Q21every21days,NAnot
+0-48h max max
+available,SDstandarddeviation.
+aMean±SD(coefficientofvariation%).
+bMedian(range).
+cHarmonicmean±pseudoSD.
+Antitumoractivityandbiomarkeranalysis Discussion
+Sixty patients were evaluable for response (arm 1, n=24; Our study demonstrates that MK-2206 in combination
+arm 2, n=13; arm 3, n=23). In arm 1, a complete with standard cytotoxic chemotherapies can be safely
+response was observed in 1 patient with squamous cell administered to patients with advanced solid tumors, at
+carcinoma(SCC)oftheorbitwhohadprogressedthrough dosesdemonstratingantitumoractivity.Thecombinations
+previous cisplatin, cetuximab, and 5-fluorouracil therapy weretolerable, withthe mainDLTs beingrash and febrile
+(Figure 2A). Four patients treated on both the days 1–7 neutropenia.ThemostcommonAEswerefatigue,nausea,
+QODandQ3Wschedulesinarm1hadconfirmedpartial rash, diarrhea, and anorexia, with no apparent exacerba-
+responses(PR;melanoma,neuroendocrineprostate,endo- tionoftoxicitiesassociatedwithstandardagents.Ofnote,
+metrial, and cervical), and 2 patients had unconfirmed drug-related hyperglycemia—an expected effect of AKT
+PRs (SCC of the head and neck, and gastric; Figure 2B). inhibition—wasevidentin<10%ofpatients,aratesimilar
+Thepatientwithneuroendocrineprostatecancerhadpre- tothesingle-agentphase1study[18].
+viouslyhadabestresponseofstabledisease(SD)withcar- At the 45-mg dose level in all schedules, mean C
+trough
+boplatinandetoposide,whilethepatientwithendometrial for MK-2206 was >56.8 nM, corresponding with 70%
+cancer had demonstrated SD with carboplatin and pacli- AKT inhibition in the single-agent study [18]. The MTD
+taxel. The median duration of PR was 11 months (range and recommended schedule of MK-2206 in combination
+2–21 months). Six patients demonstrated SD lasting at with carboplatin AUC 6 and paclitaxel 200 mg/m2 were
+least 6 months (median duration of SD was 7 months defined as 135 mg Q3W. With docetaxel, the MTD of
+[range 1–13]). One patient with non-small cell lung can- MK-2206wasnotreached,buttheMADofMK-2206was
+cer (NSCLC) treated Q3W with MK-2206 and docetaxel defined as 200 mg Q3W with docetaxel 60 mg/m2. The
+demonstrated a confirmed PR; this patient had received 2 doseescalationofthiscombinationwasnotfurtherinves-
+priorlinesofplatinum-basedchemotherapyanderlotinib. tigatedduetoahighneutropeniaratewhendocetaxelwas
+Figures 2C and 2D illustrate the overall best responses in administeredat75mg/m2andthelackofclinicalactivity;
+evaluablepatientsinarms2and3,respectively.Biomarker this 60%rateof febrile neutropenia maybe areflection of
+analysis was conducted on 68 patients, of whom 7 tested the small patient numbers.However, it was felt that these
+positive for mutations. Four patients carried a PIK3CA 2 factors would likely limit the future use of this combi-
+mutation(exon20)and3carriedaKRAS(exon12)muta- nation. The MK-2206 plus erlotinib combination reached
+tion. Patients harboring PIK3CA mutations demonstrated the MAD of 135 mg QW and 150 mg daily, respectively.
+SDrangingfrom1.7to5.8months,whereaspatientswith Based on emerging data from the monotherapy phase 1
+KRASmutationshadSDrangingfrom1.4to3.0months. studywhereMK-2206MTD is limitedto200mgQW,as
+
+--- Page 10 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1 Page10of12
+http://www.jhoonline.org/content/7/1/1
+Figure2Bestradiologicalresponse(RECIST)associatedwith
+MK-2206combinations.CTscanslicesdemonstratingaCRina
+malepatientwithSCCoftheorbit(A).Waterfallplotsofthebest
+responsesseeninallevaluablepatientsinarm1,carboplatinand
+paclitaxel(B),arm2,docetaxel(C),andarm3,erlotinib(D).Inarm1,6
+patientstreatedinbothschedulesofMK-2206withcarboplatinand
+paclitaxelchemotherapyhadPRs:with4ofthesebeingconfirmed:
+melanoma(n=1,21-monthduration—8monthswhileonstudyand
+13monthsafterstudydiscontinuation),neuroendocrineprostate(n=1,
+6-monthduration),cervical(n=1,6-monthduration),andendometrial
+(n=1,4-monthduration);and2wereunconfirmed:gastric(n=1,
+2-monthduration)andSCCoftheheadandneck(n=1,2-month
+duration).Inarm2,afemalepatientwithNSCLCwhohadprogressed
+throughpemetrexed-platinumanderlotinibachievedaPRwith
+MK-2206200mglasting6months.Thepatientwithdrewfromthe
+studyduetodocetaxel-relatedtoxicities,beforedocumentationof
+progressivedisease.Noobjectiveresponseswereobservedinarm3:
+thebestresponsewasSDlasting7and6monthsinamalepatient
+withNSCLCandapatientwithcervicalcancer,respectively.Dashed
+linesindicatethethresholdforPD(≥20%increase)andPR(≥30%
+decrease)basedonthechangeinthesumoftargetlesionsfrom
+baselinebyResponseEvaluationCriteriainSolidTumorsguidelines.
+CT=computedtomography;CR=completeresponse;SCC=squamous
+cellcarcinoma;PR=particleresponse;NSCLC=non-smallcelllung
+cancer;SD=stabledisease;PD=progressivedisease;QOD=alternate
+days;Q3W=every3weeks;QW=week.
+well as the overlapping skin toxicity profiles of these two
+agents, it was decided that the risk of further dose esca-
+lation outweighed the potential benefit and therefore the
+MADistherecommendedphase2dose(RP2D).
+Theanticanceractivityofthe combinations,particularly
+MK-2206/carboplatin and paclitaxel, was notable, with
+durable responses seen in some patients previously ex-
+posed to platinum and taxane compounds. There was no
+correlation between responses or prolonged SD with mu-
+tationsactivatingthePI3Kpathway,although1metastatic
+breastcancerpatientharboringaPIK3CAmutation(exon
+20),previouslytreatedwith3linesofchemotherapyand1
+lineofhormonaltherapywithprogressivedisease,demon-
+stratedSDfor4months.Phase1studiesofMK-2206with
+paclitaxel in breast cancer and with paclitaxel and tra-
+stuzumab in patients overexpressing human epidermal
+growthfactorreceptor-2areunderway.
+Preclinical data in NSCLC cell lines suggest a strong
+rationale for the combination of MK-2206 and erlotinib
+[19,26]. In our study, most patients with NSCLC (n=5)
+were treated on the less well-tolerated and possibly sub-
+optimal QOD schedule. Using the QW schedule, only 1
+patient with NSCLC, who achieved a best response of
+SD lasting 7 months, was included. The antitumor acti-
+vity of this combination is likely to be best determined
+in selected patients with molecularly characterized tu-
+mors. The combination is currently being investigated in
+an open-label, phase 2 trial of patients with advanced
+NSCLC. A phase 1 study is also investigating the com-
+bination of MK-2206 with gefitinib in patients who
+
+--- Page 11 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1 Page11of12
+http://www.jhoonline.org/content/7/1/1
+progressed on prior treatment with an epidermal growth Authors’contributions
+factor receptor (erlotinib or gefitinib) inhibitor. Previous LRMcollectedandassembleddataandinterpretedandanalyzedthedata,
+results suggest that tumors with KRAS mutations are andparticipatedinwritingthemanuscript.JV-Pparticipatedinwritingofthe
+manuscript.AMZassistedwithconceptionanddesignofthestudy,collected
+more effectively inhibited with acombination ofan AKT andassembleddata,andconducteddataanalysisandinterpretation;participated
+and a MEK inhibitor [27,28]. These combinations are inwritingthemanuscript;andprovidedadministrativesupportandprovided
+patientsorstudymaterials.DMSconducteddataanalysisandinterpretationand
+being further explored in the Biomarker Integrated
+participatedinwritingthemanuscript.PACandECcollectedorassembleddata
+Targeted Therapy Program (BATTLE-2), where recruit- andparticipatedinwritingthemanuscript.ABcollectedandassembleddataand
+ment into different arms is based on the molecular sta- participatedinwritingthemanuscript.ETinterpretedandanalyzedthedataand
+tusofthepatient’stumor [29]. participatedinwritingthemanuscript.LLScollectedandassembledthedata,
+providedpatientsorstudymaterialsandparticipatedinwritingthemanuscript.
+Based on the early evidence of clinical activity, larger APcollectedandassembledthedataandparticipatedinwritingthemanuscript.
+phase 2 randomized studies are underway in various KPPcollectedandassembledthedata,providedpatientsorstudymaterialsand
+participatedinwritingthemanuscript.JdBassistedwithconceptionanddesign
+tumor types to test whether the addition of MK-2206 to
+ofthestudyandcollectionandassemblyofdataandprovidedstudymaterialor
+standard treatment enhances antitumor effects. One such patients.AWTassistedwithconceptionanddesignofthestudy,collectionand
+studyisassessingthecombinationwiththeanti-androgen assemblyofdata,anddiddataanalysisandinterpretation;participatedinwriting
+ofthemanuscript;andprovidedstudymaterialorpatients.SMassistedwith
+bicalutamide, where patients with prostate cancer are
+conceptionanddesignofthestudy,diddataanalysisandinterpretation,and
+randomized to receive bicalutamide with or without participatedinwritingthemanuscript.Allauthorsapprovedthefinalversionof
+MK-2206. Dysregulation of the PI3K pathway is one of themanuscript.Allauthorsreadandapprovedthefinalmanuscript.
+the most frequent mechanisms of resistance to conven-
+Acknowledgments
+tional anti-androgen therapy [30], highlighting a need for TheauthorswouldliketoacknowledgeJanuszMezynski(subinvestigator),
+effective agents that could inhibit cell signalling via this JenLewis(trialcoordinator)andBhaveshAnghan(clinicaldatamanager),
+pathway.Another study isinvestigatingtheefficacyofthe allemployeesattheRoyalMarsdenNHSFoundationTrustandTheInstitute
+ofCancerResearch,fortheirsupportofandcontributiontotheclinicalstudy
+addition of MK-2206 to anastrazole or fulvestrant, and andthedevelopmentofthemanuscript.Editorialassistancewasprovided
+comparing these combinations to either agent alone in byIntegrusScientific,adivisionofMedicusInternationalNewYork(New
+womenwithmetastaticbreastcancer. York,NY).ThisassistancewasfundedbyMerck&Co.,Inc.MarthaCarroll
+Vollmer,MA,ofMerck,providededitorialassistance.Theauthorsarefully
+In conclusion, our study shows that MK-2206, using a responsibleforallcontentandeditorialdecisionsandreceivednofinancial
+QOD, QW, or Q3W dosing schedule in combination supportorothercompensationrelatedtothedevelopmentofthe
+with carboplatin and paclitaxel, docetaxel, or erlotinib, manuscript.
+was well-tolerated at doses that inhibit AKT signaling.
+Grantsupport
+Phase 2 programs are underway to further investigate TheDrugDevelopmentUnitoftheRoyalMarsdenNHSFoundationTrust
+the combination of MK-2206 with carboplatin and pacli- andTheInstituteofCancerResearch(ICR)aresupportedinpartbya
+programgrantfromCancerResearchUK(C309/A11566).Supportwasalso
+taxel or erlotinib, which along with other randomized
+providedbytheExperimentalCancerMedicineCentre(ECMCAward
+phase 2 studies should provide a broad clinical profile of C12540/A15573,toTheInstituteofCancerResearch)andtheNational
+MK-2206 in combination with other standard cytotoxic InstituteforHealthResearchBiomedicalResearchCentre(NIHRBRC;jointto
+theRoyalMarsdenandICR).
+ortargeted treatmentoptions.
+Financialsupport
+ThisstudywassupportedbyMerck&Co.,Inc.(WhitehouseStation,NJ).The
+Abbreviations
+DrugDevelopmentUnitoftheRoyalMarsdenNHSFoundationTrustand
+AEs:Adverseevents;ATP:Adenosinetriphosphate;BATTLE-2:Biomarker
+TheInstituteofCancerResearcharesupportedinpartbyaprogramgrant
+integratedtargetedtherapyprogram;CT:Computedtomography;
+fromCancerResearchUK.SupportwasalsoprovidedbytheExperimental
+DLT:Dose-limitingtoxicities;MAD:Maximumadministereddose;
+CancerMedicineCentre(toTheInstituteofCancerResearch).
+MTD:Maximumtolerateddose;mTOR:mammaliantargetofrapamycin;
+NCI-CTCAE:Nationalcancerinstitutecommonterminologycriteriafor
+Authordetails
+adverseevents;NSCLC:Non-smallcelllungcancer;PD:Pharmacodynamics;
+1DrugDevelopmentUnit,TheInstituteofCancerResearch/TheRoyal
+PI3K:Phosphatidylinositide3-kinase;PK:Pharmacokinetics;PO:Orally;
+MarsdenNHSFoundationTrust,DownsRoad,Sutton,SurreySM25PT,UK.
+QOD:Alternateday;QW:Weekly;Q3W:Onceevery3weeks;
+2Merck&Co.,Inc.,OneMerckDrive,WhitehouseStation,NJ08889,USA.3H.
+RP2D:Recommendedphase2dose;SD:Stabledisease.
+LeeMoffittCancerCenter&ResearchInstitute,12902MagnoliaDrive,Tampa,
+FL33612,USA.4DrugDevelopmentProgramme,PrincessMargaretHospital,
+Competinginterests 610UniversityAvenue,5-700,Toronto,ONM5G2M9,Canada.5SouthTexas
+Thefollowingauthorsdeclarefinancialinterestintheworkpresentedinthe AcceleratedResearchTherapeutics(START),4383MedicalDrive,SanAntonio,
+submittedmanuscript:LRM,DMS,LLS,AP,andKPPhavereceivedresearch TX78229,USA.6DivisionofClinicalSciences,TheInstituteofCancer
+fundingfromMerck&Co.,Inc.LYandETareemployeesofandownstockin Research,15CotswoldRoad,Belmont,Sutton,SurreySM25NG,UK.
+Merck.AMZisanemployeeofMerck&Co.,Inc.AWThasactedasa 7DepartmentofMedicine,CentreLéonBérard,28rueLaennec,69008Lyon,
+consultantoradvisorforAbbVie,Aragon,Arqule,Astellas,Astex(formerly France.
+Supergen),BayerHealthCare,BindBiosciences,BioMedValley,Bristol-Myer
+Squibb,Celator,Curis,Cytomx,Dicerna,EMDSerono,Inc.,Endo,FivePrime Received:26September2013Accepted:24December2013
+TherapeuticsInc.,Genentech,Lilly,Merck&Co.,Inc.,Mercus,Nanobiotx, Published:3January2014
+Nektar,Neumedicines,Novartis,OncoMed,Pfizer,PierreFabre,PrismPharma
+Co.,Ltd,ProNai,Sanofi,SpecializedMedicalServices-OncologyBV,Sympogen, References
+Theraclone,Vaccinex,andZyngenia.JV-P,PAC,EC,AB,JSdB,andSMhaveno 1. CarneroA:ThePKB/AKTpathwayincancer.CurrPharmDes2010,
+conflictsofinteresttodisclose. 16:34–44.
+
+--- Page 12 ---
+Molifeetal.JournalofHematology&Oncology2014,7:1 Page12of12
+http://www.jhoonline.org/content/7/1/1
+2. LiuLZ,ZhouXD,QianG,ShiX,FangJ,JiangBH:AKT1amplification 25. VanZuylenL,SparreboomA,VanderGA,vanderBurgME,VanBV,BolCJ,
+regulatescisplatinresistanceinhumanlungcancercellsthroughthe WoestenborghsR,PalmerPA,VerweijJ:TheorallyadministeredP-glycoprotein
+mammaliantargetofrapamycin/p70S6K1pathway.CancerRes2007, inhibitorR101933doesnotaltertheplasmapharmacokineticsofdocetaxel.
+67:6325–6332. ClinCancerRes2000,6:1365–1371.
+3. WestKA,CastilloSS,DennisPA:ActivationofthePI3K/Aktpathwayand 26. MackC,FarnethN,MahaffeyC,LaraP,GandaraDR:ImpactofAKT
+chemotherapeuticresistance.DrugResistUpdat2002,5:234–248. inhibitorMK-2206onerlotinibresistanceinnon-smallcelllungcancer
+4. EngelmanJA:TargetingPI3Ksignallingincancer:opportunities, (NSCLC).JClinOncol2011,29:7573.
+challengesandlimitations.NatRevCancer2009,9:550–562. 27. EngelmanJA,ChenL,TanX,CrosbyK,GuimaraesAR,UpadhyayR,MairaM,
+5. CourtneyKD,CorcoranRB,EngelmanJA:ThePI3Kpathwayasdrugtarget McNamaraK,PereraSA,SongY,etal:EffectiveuseofPI3KandMEK
+inhumancancer.JClinOncol2010,28:1075–1083. inhibitorstotreatmutantKrasG12DandPIK3CAH1047Rmurinelung
+6. YanL,RosenN,ArteagaC:Targetedcancertherapies.ChinJCancer2011, cancers.NatMed2008,14:1351–1356.
+30:1–4. 28. TolcherAW,BairdRD,PatnaikA,MorenoGarciaV,PapadopoulosKP,GarrettCR,
+7. YapTA,GarrettMD,WaltonMI,RaynaudF,DeBonoJS,WorkmanP: OlmosD,ShannonKA,ZazulinaV,EubinEH,SmithIC,RyanJ,SmithPD,TaylorA,
+TargetingthePI3K-AKT-mTORpathway:progress,pitfalls,andpromises. LearoydM,LupinacciL,YanL,DeBonoJS:AphaseIdose-escalationstudyof
+CurrOpinPharmacol2008,8:393–412. oralMK-2206(allostericAKTinhibitor)withoralselumetinib(AZD6244;
+8. FrankeTF,YangSI,ChanTO,DattaK,KazlauskasA,MorrisonDK,KaplanDR, MEKinhibitor)inpatientswithadvancedormetastaticsolidtumors.
+TsichlisPN:TheproteinkinaseencodedbytheAktproto-oncogeneisa JClinOncol2011,29:3004.
+targetofthePDGF-activatedphosphatidylinositol3-kinase.Cell1995, 29. KimES,HerbstRS,WistubaII,LeeJJ,BlumenscheinGRJr,TsaoA,StewartDJ,
+81:727–736. HicksME,ErasmusJJr,GuptaS,etal:TheBATTLEtrial:personalizingtherapy
+9. ScheidMP,WoodgettJR:PKB/AKT:functionalinsightsfromgenetic
+forlungcancer.CancerDiscov2011,1:44–53.
+models.NatRevMolCellBiol2001,2:760–768. 30. SarkerD,ReidAH,YapTA,DeBonoJS:TargetingthePI3K/AKTpathway
+10. TestaJR,TsichlisPN:AKTsignalinginnormalandmalignantcells.
+forthetreatmentofprostatecancer.ClinCancerRes2009,15:4799–4805.
+Oncogene2005,24:7391–7393.
+11. IrieHY,PearlineRV,GruenebergD,HsiaM,RavichandranP,KothariN, doi:10.1186/1756-8722-7-1
+NatesanS,BruggeJS:DistinctrolesofAkt1andAkt2inregulatingcell Citethisarticleas:Molifeetal.:Phase1trialoftheoralAKTinhibitor
+migrationandepithelial-mesenchymaltransition.JCellBiol2005, MK-2206pluscarboplatin/paclitaxel,docetaxel,orerlotinibinpatients
+171:1023–1034. withadvancedsolidtumors.JournalofHematology&Oncology20147:1.
+12. Winograd-KatzSE,LevitzkiA:CisplatininducesPKB/Aktactivationand
+p38(MAPK)phosphorylationoftheEGFreceptor.Oncogene2006,
+25:7381–7390.
+13. BrognardJ,ClarkAS,NiY,DennisPA:Akt/proteinkinaseBisconstitutively
+activeinnon-smallcelllungcancercellsandpromotescellularsurvival
+andresistancetochemotherapyandradiation.CancerRes2001,
+61:3986–3997.
+14. ClarkAS,WestK,StreicherS,DennisPA:ConstitutiveandinducibleAkt
+activitypromotesresistancetochemotherapy,trastuzumab,or
+tamoxifeninbreastcancercells.MolCancerTher2002,1:707–717.
+15. OkuzumiT,FiedlerD,ZhangC,GrayDC,AizensteinB,HoffmanR,ShokatKM:
+InhibitorhijackingofAktactivation.NatChemBiol2009,5:484–493.
+16. YanL:ApotentallostericAKTinhibitor.AACR2009.abstractDDT01-1.
+17. BiondoA,YapTA,YanL,PatnaikA,FearenI,BairdRD,PapadopoulosKP,
+DelgadoLM,TaylorA,LupinacciL,etal:Phase1clincialtrialofan
+allostericAKTinhibitor,MK-2206,usingaonceweekly(OW)dose
+regimeninpatientswithadvancedsolidtumors.JClinOncol2011,
+29:3037.
+18. YapTA,YanL,PatnaikA,FearenI,OlmosD,PapadopoulosK,BairdRD,
+DelgadoL,TaylorA,LupinacciL,etal:First-in-manclinicaltrialoftheoral
+pan-AKTinhibitorMK-2206inpatientswithadvancedsolidtumors.
+JClinOncol2011,29:4688–4695.
+19. HiraiH,SootomeH,NakatsuruY,MiyamaK,TaguchiS,TsujiokaK,UenoY,
+HatchH,MajumderPK,PanBS,etal:MK-2206,anallostericAktinhibitor,
+enhancesantitumorefficacybystandardchemotherapeuticagentsor
+moleculartargeteddrugsinvitroandinvivo.MolCancerTher2010,
+9:1956–1967.
+20. JiY,LiY,NebiyouBB:Dose-findinginphaseIclinicaltrialsbasedon
+toxicityprobabilityintervals.ClinTrials2007,4:235–244.
+21. PerkinsG,YapTA,PopeL,etal:Multi-purposeutilityofcirculatingplasma
+DNAtestinginpatientswithadvancedcancers.PLoSOne2012,7(11):e47020. Submit your next manuscript to BioMed Central
+22. TherasseP,ArbuckSG,EisenhauerEA,WandersJ,KaplanRS,RubinsteinL, and take full advantage of:
+VerweijJ,VanGlabbekeM,VanOosteromAT,ChristianMC,etal:
+Newguidelinestoevaluatetheresponsetotreatmentinsolidtumors.
+• Convenient online submission
+EuropeanOrganizationforResearchandTreatmentofCancer,National
+CancerInstituteoftheUnitedStates,NationalCancerInstituteof • Thorough peer review
+Canada.JNatlCancerInst2000,92:205–216.
+• No space constraints or color figure charges
+23. BakerSD,ZhaoM,LeeCK,VerweijJ,ZabelinaY,BrahmerJR,WolffAC,
+SparreboomA,CarducciMA:Comparativepharmacokineticsofweekly • Immediate publication on acceptance
+andevery-three-weeksdocetaxel.ClinCancerRes2004,10:1976–1983. • Inclusion in PubMed, CAS, Scopus and Google Scholar
+24. TenTijeAJ,VerweijJ,CarducciMA,GravelandW,RogersT,PronkT,
+• Research which is freely available for redistribution
+VerbruggenMP,DawkinsF,BakerSD:Prospectiveevaluationofthe
+pharmacokineticsandtoxicityprofileofdocetaxelintheelderly.
+JClinOncol2005,23:1070–1077. Submit your manuscript at
+www.biomedcentral.com/submit

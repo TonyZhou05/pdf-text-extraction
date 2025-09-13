@@ -1,0 +1,507 @@
+Source: 31675952.pdf
+Extracted on: Sat Sep 13 00:00:32 PDT 2025
+==================================================
+
+--- Page 1 ---
+Strickleretal.BMCCancer (2019) 19:1032
+https://doi.org/10.1186/s12885-019-6234-8
+RESEARCH ARTICLE Open Access
+A phase Ib study of capecitabine and ziv-
+aflibercept followed by a phase II single-
+arm expansion cohort in chemotherapy
+refractory metastatic colorectal cancer
+John H. Strickler1* , Christel N. Rushing4, Donna Niedzwiecki4, Abigail McLeod1, Ivy Altomare1, Hope E. Uronis1,
+S. David Hsu1, S. Yousuf Zafar1, Michael A. Morse1, David Z. Chang2, James L. Wells3, Kimberly L. Blackwell1,
+P. Kelly Marcom1, Christy Arrowood1, Emily Bolch1, Sherri Haley1, Fatima A. Rangwala5, Ace J. Hatch1,
+Andrew B. Nixon1 and Herbert I. Hurwitz6
+Abstract
+Background: Patients with chemotherapy refractory metastatic colorectal cancer (CRC) have a poor prognosis and
+limited therapeutic options. Inthis phase Ib/II clinical trial,we established themaximum tolerated dose (MTD) and
+recommended phase II dose (RPTD) for thecombination ofcapecitabine and ziv-aflibercept, and then we evaluated
+theefficacy of the combination in patients with chemotherapy refractory metastatic CRC.
+Methods: All patients were required to have a Karnofsky Performance Status >70% and adequateorgan function.
+The phase Ib dose escalation cohort included patientswith advancedsolid tumors who had progressed on all
+standard therapies. Using a standard 3+3design, we identified theMTD and RPTD for the combination. Fifty
+patients withmetastatic CRC who had progressed onor were intolerantof a fluoropyrimidine,oxaliplatin,
+irinotecan, and bevacizumab were then enrolled ina single-arm phase II expansion cohort, and were treated at the
+RPTD. PriorEGFR antibody therapy was required for subjects with RASwildtype tumors. The primary endpoint for
+theexpansioncohort was progression-free survival (PFS)at two months. Secondary endpointsincluded objective
+response rate (ORR) and overall survival (OS).
+Results: Atotalof63patientswereenrolledandevaluablefortoxicity(13doseescalation;50expansion).TheMTDand
+RPTDwere:capecitabine850mg/m2,P.O.bid,days1–14,andziv-aflibercept6mg/kgI.V.,day1,ofeach21-daycycle.Inthe
+expansioncohort,72%ofpatientswereprogression-freeattwomonths(95%confidenceinterval[CI],60–84%).MedianPFS
+andOSwere3.9months(95%CI,2.3–4.5)and7.1months(95%CI:5.8–10.0),respectively.Amongallpatientsevaluablefor
+toxicity,themostcommontreatmentrelatedadverseevents(allgrade[%];grade≥3[%])includedpalmar-plantar
+erythrodysesthesia(41%;6%),hypertension(33%;22%),andmucositis(19%;5%).RNAwasisolatedfromarchivedtumor
+specimensandgeneexpressionanalysesrevealednoassociationbetweenangiogenicbiomarkersandclinicaloutcomes.
+(Continuedonnextpage)
+*Correspondence:john.strickler@duke.edu
+FatimaA.RangwalaandHerbertI.HurwitzPerformedwhileatDuke
+UniversityMedicalCenter
+GastrointestinalCancerSymposium,SanFrancisco,CA,21stJanuary2016
+(posterpresentation)
+1DukeUniversityMedicalCenter,Box3216,30DukeMedicineCircle,Room
+#0050,Durham,NC27705,USA
+Fulllistofauthorinformationisavailableattheendofthearticle
+©TheAuthor(s).2019OpenAccessThisarticleisdistributedunderthetermsoftheCreativeCommonsAttribution4.0
+InternationalLicense(http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedyougiveappropriatecredittotheoriginalauthor(s)andthesource,providealinkto
+theCreativeCommonslicense,andindicateifchangesweremade.TheCreativeCommonsPublicDomainDedicationwaiver
+(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,unlessotherwisestated.
+
+--- Page 2 ---
+Strickleretal.BMCCancer (2019) 19:1032 Page2of9
+(Continuedfrompreviouspage)
+Conclusion:Thecombinationofcapecitabineandziv-afliberceptattheRPTDdemonstratedacceptablesafetyand
+tolerability.PFSat2monthsinpatientswithchemotherapyrefractorymetastaticCRCwassignificantlygreaterthanthatin
+historicalcontrols,indicatingthatthiscombinationwarrantsfurtherstudy.
+Trialregistration:Thisclinicaltrialwasregisteredinthewww.clinicaltrials.govsystemasNCT01661972onJuly31,2012.
+Keywords:Capecitabine,Ziv-aflibercept,Metastaticcolorectalcancer,Advancedsolidtumors,
+Introduction InthisphaseIb/IIclinicaltrial,weassessedthesafety,tol-
+Colorectal cancer (CRC) is the fourth leading cause of erability, and efficacy of capecitabine in combination with
+cancer death in men and the third leading cause of can- ziv-aflibercept. The primary objective was to establish a
+cer death in women worldwide [1]. Once a patient with maximum tolerated dose (MTD) and a recommended
+metastatic CRC has experienced progression on first and phasetwodose(RPTD)inpatientswithadvancedsolidtu-
+second-line chemotherapy and biological therapies, the mors.Wethenenrolled50patientswithchemotherapyre-
+survival benefit of remaining therapies is limited [2, 3]. fractorymetastaticCRCinasingle-armphaseIIexpansion
+In addition, therapeutic options may be constrained by cohorttoestablishthesafetyandefficacyoftheRPTD.
+patient comorbidities, age, or performance status. Novel
+therapeutic regimens are needed that are both tolerable Patients and methods
+andprovidemeaningfulclinical benefit. Studydesign
+Ziv-aflibercept is a recombinant fusion protein con- Thismulti-centerphaseIb/IIclinicaltrialwasconductedat
+taining portions of the extracellular domains of VEGFR1 DukeUniversityMedicalCenter(Durham,NorthCarolina),
+(also known as Flt-1) and VEGFR2 (also known as KDR Duke Cancer Network clinical sites, Virginia Oncology
+or Flk-1). Ziv-aflibercept binds vascular endothelial Associates (Hampton, Virginia), and Lexington Medical
+growth factor (VEGF)-A, VEGF-B, and placental growth Center (West Columbia, South Carolina). This study was
+factor (PlGF), thereby inhibiting VEGF-mediated angio- performedafterapprovalbytheInstitutionalReviewBoards
+genesis [4]. Ziv-aflibercept is approved by the United of participating centers. All patients provided written in-
+Stated Food and Drug Administration (FDA) and the formed consent prior to any study-related procedure. This
+European Medicines Agency (EMA) for use in combin- study was conducted in accordance with guidelines of the
+ation with Fluorouracil (5-FU), leucovorin, and irinote- Helsinki Declaration, and is registered with ClinicalTrials.
+can (FOLFIRI) for the second line treatment of gov(NCT01661972).
+metastatic CRC [5]. In the phase III VELOUR trial, the ThisstudyconsistedofaPhaseIb(doseescalation)co-
+addition of ziv-aflibercept to FOLFIRI in patients with hort followed by a Phase II expansion cohort. In the
+metastatic CRC resulted in a survival of 13.5months, Phase Ib dose escalation cohort, we utilized a standard
+compared to 12.1months for FOLFIRI alone (hazard ra- “3+3” design to identify the MTD and RPTD of the
+tio [HR], 0.82; 95% confidence interval [CI], 0.71–0.94; combination of capecitabine (Genentech, South San
+P<0.01)[6]. Francisco, CA, USA) and ziv-aflibercept (Sanofi-Aventis,
+Capecitabine is an oral fluoropyrimidine carbamate Bridgewater, NJ, USA) in patients with advanced solid
+indicated for the treatment of metastatic CRC [7]. Cap- tumors. The MTD was defined around toxicity occuring
+ecitabine is considered interchangeable with intraven- inthe firstcycle.TheRPTDwasselectedbased onsafety
+ous 5-FU based on its similar efficacy and safety [8–12]. andtolerabilityinallcycles.
+Inthechemotherapyrefractorysetting(3rd lineandbe- InthePhaseIIexpansioncohort,wetreated50subjects
+yond), capecitabine monotherapy has a median time to with chemotherapy refractory metastatic CRC to deter-
+progression of 2months [13]. Prior studies combining minethesafety,tolerability,andclinicalactivityofcapecit-
+capecitabine with the anti-VEGF monoclonal antibody abine in combination with ziv-aflibercept. The dose and
+bevacizumab have shown that the combination is clin- schedule of each therapy was based on the RPTD from
+ically activeandtolerable, evenamongpatientswithad- the Phase Ib dose escalation cohort, and are listed in
+vanced age or comorbidities [14, 15]. Since anti-VEGF Table 1. Treatment was continued for all patients until
+therapies are active for patients with metastatic CRC in diseaseprogression,unacceptabletoxicity,ordeath.
+the first-line [16], second-line [17, 18], and beyond [2],
+we hypothesized that the combination of capecitabine Patients
+and ziv-aflibercept would be tolerable, and would Eligibility for the dose escalation cohort included patients
+exceed the PFS of historical controls. with a histologically or cytologically confirmed malignant
+
+--- Page 3 ---
+Strickleretal.BMCCancer (2019) 19:1032 Page3of9
+Table1DoseandscheduleofCapecitabineandZiv-aflibercept
+Cohort #EvaluableSubjects Capecitabine Ziv-Aflibercept
+P.O.(mg/m2) I.V.(mg/kg)
+BID,Days1–14 Q3weeks,Day1
+PhaseIb(doseescalation)
+Cohort1 7 850 6
+Cohort2 6 1000 6
+PhaseII(expansion) 50 850 6
+solid tumor that was refractory to all standard therapies. despite supportive measures; grade≥3 bilirubin, ALT
+Eligibility for the expansion cohort included patients with or AST elevation >7days; other non-hematologic
+metastatic CRC who had progressed on, were intolerant toxicity grade≥3 excluding alopecia, anorexia, fatigue,
+of, or were inappropriate for all standard therapies. Sub- hypertension, isolated lab abnormalities (not clinically
+jectsmusthavebeentreatedwithafluoropyrimidine(e.g., significant) and rare, idiosyncratic reactions to any of
+5-fluorouracil or capecitabine), oxaliplatin, irinotecan and the study drugs; inability to receive at least 80% of
+bevacizumab or have contraindication to such treatment. scheduled doses of each study drug due to treatment-
+Prior epidermal growth factor receptor (EGFR)-targeting related toxicity; any treatment-related death or
+agent (cetuximab or panitumumab) was required for sub- treatment-related hospitalization. Anorexia, fatigue, and
+jectswithRASwildtypetumors.Patientsinthedoseescal- hypertension wereconsidered dose-limitingiftheywere
+ationcohortwerenotrequiredtohavemeasurabledisease unmanageable or were grade 4 in severity.
+by RECIST version 1.1. Patients in the expansion cohort
+wererequiredtohavemeasurablediseasebyRECISTver- Clinicalandradiographicassessment
+sion 1.1. Inclusion criteria for all subjects in the dose All patients received a clinical assessment at baseline and
+escalation and the expansion cohorts included Karnofsky then every 3weeks before treatment with ziv-aflibercept.
+performance status (KPS) equal to or greater than 70%, These assessments included vital signs, performance sta-
+life expectancy of at least 3months, and adequate organ tus, and routine laboratory studies. Urinalysis or urine
+andmarrowfunction. protein to creatinine ratio (UPC) was obtained every 3
+Exclusion criteria for all subjects in the dose escalation weeks (each cycle). In the doseescalationcohort, physical
+and expansion cohorts included systolic blood pressure examination and clinical assessment occurred weekly
+greater than 150mmHg and/or diastolic blood pressure duringcycleone.
+greater than 90mmHg, history of arterial thrombo- Radiographic disease assessments were performed
+embolic events or symptomatic pulmonary embolism using either contrast-enhanced computed tomography
+within 6months of study enrollment, anti-coagulation (CT) or magnetic resonance imaging (MRI) of the chest,
+with warfarin, history of fistula, history of gastrointes- abdomen, and pelvis. These radiographic assessments
+tinal perforation, and history of any major bleeding were completed within 4weeks prior to the start of
+within 6months of enrollment. Prior treatment with ziv- therapy and repeated every 3cycles (9weeks). Tumors
+afliberceptwaspermitted. were evaluatedusingRECIST version 1.1.
+SafetyandDLTassessment Statisticalanalysis
+The National Cancer Institute Common Toxicity Cri- The primary study objective of the phase Ib dose escal-
+teria version 4.0 (NCI-CTC; version 4.0) was used to ation cohort was to determine the MTD and RPTD of
+assess adverseevents (AEs). Enrolled patients were con- capecitabine in combination with ziv-aflibercept and to
+sidered evaluable for toxicity if they received any treat- describe any non-dose limiting and dose limiting toxic-
+ment. Patients in the dose escalation cohort were ities. The primary objective of the phase II expansion
+evaluable for DLT if they completed cycle one or expe- cohort was to estimate clinical activity. The primary
+rienced a DLT in cycle one. Patients not evaluable for endpoint was 2-month PFS. Secondary endpoints in-
+DLT were replaced. The following treatment related cluded tumor response, PFS, and OS. Based on historical
+adverse events (TRAEs) were considered DLT in cycle results the null hypothesis was a 2-month PFS of 48%
+1: any grade 4 neutropenia, thrombocytopenia, or for capecitabine alone [13] tested against the alternative
+anemia or grade 3 neutropenia or thrombocytopenia of a 2-month PFS of 65%. Two-month PFS and its 95%
+lasting more than 7days; anygrade 3 thrombocytopenia CI were estimated as a binomial proportion. The criter-
+associated with bleeding; neutropenic fever; nausea, ion for success was an observed proportion of at least 30
+vomiting or diarrhea grade≥3 and lasting ≥4days of50 patientsprogression free at 2months(α=0.06; β=
+
+--- Page 4 ---
+Strickleretal.BMCCancer (2019) 19:1032 Page4of9
+0.19). Median PFS and OS were estimated by the cancer (5 patients), breast cancer (4 patients), gastric and
+Kaplan-Meier method. For tumor response, the fre- esophagealcancers(3patients),andotherGImalignancies
+quency of best response (complete response + partial re- (1 patient). Fifty patients with metastatic colon and rectal
+sponse) over the treatment period was tabulated and its cancerwereenrolledandtreatedintheexpansioncohort.
+95%CIwascomputed. Twelveofthesepatients(24%)receivedtwoorfewerprior
+treatments for metastatic disease. Seventeen patients
+Tumorsamples (34%) received 3 prior treatments, and twelve (24%) re-
+Baseline, formalin-fixed, paraffin-embedded (FFPE) ceived four prior treatments for metastatic disease. Nine
+tumor specimens were used for gene expression ana- patients (18%) received five or more prior treatments.
+lyses. Tissue samples of sufficient size for RNA extrac- Within the expansion cohort, 46 patients (92%) had re-
+tion were chosen based on review of pathology reports. ceived prior 5-FU, twenty-six patients (52%) had received
+Tumor-containing regions were manually macrodis- prior capecitabine, and twenty-two patients (44%) had re-
+sected using a hematoxylin and eosin (H&E) stained ceived both capecitabine and 5-FU. Among the patients
+slideasaguide. who received capecitabine prior to enrollment, 81% had
+experienced disease progression.Amongthepatientswho
+RNAextractionandreverse-transcription received 5-FU prior to enrollment, 83% had experienced
+Total RNA was extracted from 5×5μm slides using the diseaseprogression.Forty-eightpatients(96%)hadexperi-
+Maxwell RSC FFPE RNA Kit (Promega, Madison, WI) encedprogressiononeither 5-FUorcapecitabinepriorto
+according to the manufacturer’s instructions. Reverse- enrollment. All enrolled patients in the expansion cohort
+transcription of 200ng of RNA was performed using the had received prior anti-VEGF therapy (bevacizumab).
+High Capacity cDNA Reverse Transcription kit (Applied Withintheexpansioncohort,forty-fivepatients(90%)had
+Biosystems, Foster City, CA) according to the manufac- experienced disease progression on bevacizumab prior to
+turer’sinstructions. enrollment. One patient had received ziv-aflibercept prior
+to enrollment (in combination with FOLFIRI), and this
+Real-timePCR patientexperienceddiseaseprogression.
+Of the 63 patients that accrued to the study, a total
+of 31 tumor samples yielded sufficient RNA for DoseescalationandRP2Ddetermination
+reverse-transcription. Expression levels of VEGF-A, Thirteen patients were enrolled and treated in the Dose
+VEGF-C, VEGF-D, PlGF, NRP1, and NRP2 were Escalation Cohort. In Dose Level 1 (capecitabine 850
+quantified using preformulated TaqMan real-time mg/m2 p.o. bid, days 1–14; ziv-aflibercept 6mg/kg I.V.
+PCR assays and TaqMan Gene Expression Master day 1 of each 21-daycycle), one subject experienced a
+Mix (Applied Biosystems, Foster City, CA) in 10μl re- DLT event (Grade 3 colonic perforation). One patient in
+actions according to the manufacturer’s instructions. this cohort wasnot evaluable for DLTassessment due to
+All assays were run in duplicate. If the standard devi- disease-related intercurrent illness. Capecitabine was
+ation (SD) in cycle thresholds (CT) between replicate then increased to 1000mg/m2, and two of six patients
+wells was >0.5 then the reaction was rerun. If the experienced DLT events. These DLT events included
+rerun data improved replicate consistency (SD<0.5), grade 2 intolerable fatigue (n=1) and grade 3 oral
+then the rerun data was used. Gene expressions levels mucositis (n=1). Based on one DLT among six evaluable
+were normalized to β-actin using the ΔCT method. patients, Dose Level 1 was established as the MTD and
+Gene-specific assays are listed in Additional file 1: RPTD.
+Table S1.
+Efficacy
+Results Of the 10 subjects evaluable for tumor response in the
+Patientcharacteristics dose escalation cohort, seven patients had stable disease
+Subject accrual occurred between September 2012 and (SD) and 3patientshad progressive disease(PD).Within
+October 2015. Sixty-three patients received at least one the expansion cohort, one subject experienced a partial
+dose of capecitabine and ziv-aflibercept and were consid- response (PR), with an overall response rate (ORR) of
+eredevaluablefortoxicity.Patientdemographicsaresum- 2% (Fig. 1). In the expansion cohort, 72% of patients
+marized in Table 2. The median age in this study was were progression-free at two months (95% CI, 60–84%),
+57.2years (range 35.8–80.7years); 59% of patients were significantly greater than the historical control (48%).
+male.Among13patientsenrolledand treated in thedose Median PFS was 3.9months (95% CI, 2.3–4.5) (Fig. 2a).
+escalation cohort, seven patients had received 3 or more Ten patients in the expansion cohort had PFS greater
+prior lines of treatment. Various tumor types were than six months. Overall survival was 7.1months (95%
+included in the dose escalation cohort, including colon CI,5.8–10.0)(Fig. 2b).
+
+--- Page 5 ---
+Strickleretal.BMCCancer (2019) 19:1032 Page5of9
+Table2Baselinedemographicsandpatientcharacteristicsoverallandbycohort
+Characteristic Doseescalationcohort Expansioncohort Overall
+(n=13) (n=50) (n=63)
+Age,year
+Mean 58.1 57.7 57.8
+Median 55.1 57.2 57.2
+Range 40.7–80.7 35.8–75.5 35.8–80.7
+Gender,n(%)
+Male 7(54) 30(60) 37(59)
+Female 6(46) 20(40) 26(41)
+Race
+White 11(85) 29(58) 40(63)
+Black 2(15) 14(28) 16(25)
+Other/unknown 0 7(14) 7(11)
+Performancestatus,KPS(%)
+100 1(8) 5(10) 6(9)
+90 7(54) 18(36) 25(40)
+80 3(23) 24(48) 27(43)
+70 2(15) 3(6) 5(8)
+#ofpriortreatments(%)
+1 1(8) 2(4) 3(5)
+2 5(38) 10(20) 15(24)
+3 6(46) 17(34) 23(31)
+4 0 12(24) 12(19)
+≥5 1(8) 9(18) 10(16)
+TumorType,n(%)
+Breast 4(31) 0 4(6)
+Colon 5(38) 41(82) 46(73)
+Esophagus 1(8) 0 1(2)
+Gastric 2(15) 0 2(3)
+GI 1(8) 0 1(2)
+Rectum 0 9(18) 9(14)
+Safety to progressive disease, although a contribution from ziv-
+Table 3 summarizes treatment related adverse events afliberceptcannotbeexcluded.
+(TRAEs). Grade 1 AEs were not recorded. Of all the
+patients treated, 52 patients (83%) experienced at least one Correlativestudies
+TRAE. The most common TRAEs of any grade were To determine whether the expression of angiogenic
+palmar-plantar erythrodysesthesia syndrome (PPE) (41%), ligands correlated with clinical benefit, real-time PCR
+hypertension (33%), oral mucositis (19%), fatigue (16%), was performed to evaluate baseline levels of VEGF-A,
+and proteinuria (14%). Most AEs were moderate (grade 2) VEGF-C, VEGF-D, PlGF, NRP1, and NRP2 expres-
+and resolved with supportive clinical care and protocol- sion. VEGF-D was excluded from this analysis as it
+specified treatment suspension and dose reductions. 32 could not be reliably detected in these samples. No
+patients(51%)experiencedagrade3orgreaterTRAE.The associations were observed between gene expression
+most common grade 3 or 4 TRAEs were hypertension levels (ΔCt) and survival outcomes (PFS and OS).
+(22%), PPE (6%), and mucositis (5%). One patient experi- Furthermore, when patients with PR/SD were com-
+enced a Grade 4 intracranial hemorrhage probably related pared to patients with PD, gene expression did not
+to study treatment (ziv-aflibercept). There was one death significantly differ between the responder and non-
+fromrespiratoryfailure(DeathNOS),thoughttoberelated responder groups (Additional file 1: Table S2).
+
+--- Page 6 ---
+Strickleretal.BMCCancer (2019) 19:1032 Page6of9
+Fig.1Bestresponseforevaluablesubjects(n=45).PR=PartialResponse;SD=StableDisease;PD=ProgressiveDisease
+Discussion In the expansion cohort, the combination of capecita-
+Angiogenesis plays a vital role in mediating embryonic bine and ziv-aflibercept had acceptable tolerability at the
+development, wound healing, and vascular permeability, RPTD. Treatment related grade 4/5 AEs were rare (3%).
+but can also be co-opted by tumors to promote growth The most common TRAEs—PPE, hypertension, and oral
+and metastasis [19, 20]. Ziv-aflibercept—which binds mucositis—were anticipated, and were in most cases
+ligands for VEGFR1 and VEGFR2 and prevents receptor successfully managed with treatment suspension and
+activation—is a potent angiogenesis inhibitor. Although dose modifications. Only 9% of patients (5/57) treated at
+the survival benefit of ziv-aflibercept is well established the RPTD discontinued treatment due to toxicity. Given
+for the second line treatment of metastatic CRC, its the favorable tolerability of capecitabine and ziv-
+activity is not well established in patients treated in the aflibercept compared to available alternatives, this may
+third linesettingandbeyond. be a regimen well suited to patients with advanced age
+In this phase Ib/II study, we established the MTD/ orcomorbidities.
+RPTD of capecitabine and ziv-aflibercept in patients In this study, the combination of capecitabine and ziv-
+with refractory advanced solid tumors. The MTD/ afliberceptmetitsprimarygoaltodemonstratea2-month
+RPTD of capecitabine in this study (850mg/m2, p.o. PFS statistically greater than 48%. The median PFS ob-
+bid, days 1–14 of each 21daycycle) is lower than the servedinthisstudy—3.9months(95%CI,2.3–4.6)—com-
+dosage listed in the capecitabine prescribing informa- pares favorably to historical controls from standard of
+tion (1250mg/m2, p.o. bid, days 1–14 of each 21day care therapies, including TAS-102 (median PFS=1.9
+cycle) [21]. It is possible that this lower RPTD of cape- months),regorafenib(medianPFS=1.9months),andcap-
+citabine reflects the heavily pretreated patient popula- ecitabine monotherapy (median time to progression=2
+tion. Additionally, regional variation in capecitabine months) [2, 3, 13]. Additionally, the median OS of 7.1
+tolerability may have impacted the RPTD [22]. months (95% CI, 5.8–10.0) observed in this study is
+Alternatively, ziv-aflibercept may have potentiated the similar to historical controls from TAS-102, regorafenib,
+effects of chemotherapy, thereby reducing the toler- and capecitabine monotherapy [2, 3, 13]. Although only
+ability of capecitabine. The phase III VELOUR study one patient achieved a confirmed RECIST partial re-
+noted greater rates of chemotherapy-related toxicity in sponse,theORRofTAS-102andregorafenibarealsoless
+patients receiving ziv-aflibercept, including diarrhea, than2%[2,3].Theprimaryclinicalbenefitofcapecitabine
+stomatitis, PPE, and neutropenia [6]. However, even and ziv-aflibercept observed in this study was disease
+with the lower RPTD of capecitabine, this study stabilization, which occurred in the majority (60%) of 45
+suggests that efficacy was not compromised. As shown evaluable patients with metastatic CRC. Disease
+in a prior study, capecitabine dosage and schedule stabilizationoccurreddespitepriorprogressionon5FUor
+may impact toxicity, but response rate—a surrogate Xeloda in 96% of enrolled patients, and prior progression
+for clinical benefit— remains similar [23]. on bevacizumab in 90% of enrolled patients. Given the
+
+--- Page 7 ---
+Strickleretal.BMCCancer (2019) 19:1032 Page7of9
+Fig.2Kaplan-Meiercurvesfor(a)progressionfreesurvivaland(b)overallsurvival
+absenceofacontrolpopulationandlimitednumberofpar- treatment with anti-VEGF targeting therapies. In the
+ticipating sites,theseresultswill need confirmation inalar- dose escalation cohort, a patient with metastatic breast
+gerrandomizedstudy.Recentevidencefurthersupportsthe cancer who had received 12 lines of prior therapy—in-
+clinical benefit of oral cytotoxic chemotherapy combined cluding capecitabine/ bevacizumab—experienced signifi-
+with an anti-VEGF monoclonal antibody. A randomized cant reductionin symptomatic ascites,and stable disease
+study in patients with chemotherapy refractory metastatic for over 6months. A second subject with treatment re-
+CRC demonstrated improved PFS for TAS-102 and bevaci- fractorybreast cancer experiencedstablediseasefor over
+zumab compared with TAS-102 alone (Median PFS, 5.9 8months. Within the expansion cohort, two subjects ex-
+monthsversus2.9months;P<0.05)[24].Theseresultssup- perienced stable disease lasting longer than 6months.
+portthetherapeuticapproach,andofferapotentialcytotoxic Correlative analyses did not identify an association
+chemotherapypartner(TAS-102)forfutureinvestigation. between the expression of angiogenesis-associated genes
+In this study, some patients experienced exceptional and patient outcomes. Assays of additional genes may
+clinical benefit. This benefit occurred despite prior yet identify actionable predictive biomarkers. This
+
+--- Page 8 ---
+Strickleretal.BMCCancer (2019) 19:1032 Page8of9
+Table3Summaryoftreatment-relatedadverseeventsoverallandbydoselevel
+AEtypereported 850mg/m2 1000mg/m2 Total
+N=57,n(%) N=6,n(%) N=63,n(%)
+Allevents Grade≥3 Allevents Grade≥3 Allevents Grade≥3
+PatientswithAEs 46(81) 30(53) 6(100) 2(33) 52(83) 32(51)
+AEbyterm
+Palmar-plantarerythrody 23(40) 3(5) 3(50) 1(17) 26(41) 4(6)
+sesthesiasyndrome
+Hypertension 20(35) 14(25) 1(17) 0(0) 21(33) 14(22)
+OralMucositis 8(14) 2(4) 4(67) 1(17) 12(19) 3(5)
+Fatigue 9(16) 0(0) 1(17) 0(0) 10(16) 0(0)
+Proteinuria 9(16) 2(4) NA NA 9(14) 2(3)
+Anorexia 3(5) 1(2) 2(33) 1(17) 5(8) 2(3)
+Nausea 3(5) 2(4) NA NA 3(5) 2(3)
+Plateletcountdecreased 4(7) 2(4) NA NA 4(6) 2(3)
+Dehydration 2(4) 2(4) NA NA 2(3) 2(3)
+IntracranialHemorrhage 1(2) 1(2) NA NA 1(2) 1(2)
+DeathNOS 1(2) 1(2) NA NA 1(2) 1(2)
+analysis—with its limited number of samples and genes criteriainsolidtumors;RNA:Ribonucleicacid;RPTD:RecommendedphaseII
+assayed—highlights the challenges of identifying predic- dose(RPTD);SD:Stabledisease;SD:Standarddeviation;TRAE:Treatment
+relatedadverseevents;UPC:Urineproteintocreatinineratio;VEGF-
+tors ofbenefitfrom anti-VEGFtherapies.
+A:Vascularendothelialgrowthfactor-A;VEGF-C:Vascularendothelialgrowth
+factor-C;VEGFR1:Vascularendothelialgrowthfactorreceptor1;
+Conclusion
+VEGFR2:Vascularendothelialgrowthfactorreceptor2;β-HCG:Beta-human
+chorionicgonadotropin
+The combination of capecitabine and ziv-aflibercept was
+tolerable and met its pre-specified target for clinical effi-
+Acknowledgments
+cacy. Additional study in a prospective randomized Wegratefullyacknowledgetheinvaluablecontributionsofthepatientsand
+clinical trial is warranted. Further study is needed to theirfamiliesaswellastheDukeUniversityPhaseIandGIOncologyClinical
+TrialsTeams.WethankDr.FranciscoJavierCorderoforhismedicalwriting
+betterdefinetheroleofbiomarkersinpredictingsensitivity
+contributiontothismanuscript.
+andresistancetoanti-VEGFtherapy.
+Financialsupport
+Additional file ThisresearchwassupportedbySanofiGenzymewhoprovidedstudydrug
+andtrialfunding.
+Additionalfile1:TableS1.TaqmanGeneExpressionPrimersand
+Authors’contributions
+TableS2.Associationofangiogenicligandexpressionwithclinical
+Allauthorscontributedsignificantlytothemanuscript.Firstdraftwriting:
+outcomes.
+JHS,AJH,ABN,HIH,AM,CNR.Revisionofmanuscript:JHS,AJH,ABN.Clinical
+datacollection:JHS,HEU,SDH,SYZ,MAM,DZC,JLW,KLB,PKM,FAR,AJH,
+Abbreviations HIH,SH.DataanalysisandStatistics:JHS,CNR,DN,SH,IA.StudyConception
+5-FU:5-Fluorouracil;AE:Adverseevent;ALT:Alanineaminotransferase; andDesign:JHS,FAR,AJH,ABN,CA,EB,HIH.Allauthorsreadandapproved
+AST:Aspartateaminotransferase;CBC:Completebloodcount;CI:Confidence thefinalmanuscript.
+interval;CNS:Centralnervoussystem;CRC:Colorectalcancer;CT:Computed
+tomography;CT:Cyclethresholds;DLT:Doselimitingtoxicity; Funding
+DNA:Deoxyribonucleicacid;EGFR:Epidermalgrowthfactorreceptor; ThisstudywasfundedbySanofiGenzyme.Sponsorsdidnotplayanyrolein
+EMA:EuropeanMedicinesAgency;FDA:FoodandDrugAdministration; thedesign,datacollection,analysis,interpretation,writinganddecisionto
+FFPE:Formalin-fixed,paraffin-embedded;FLK1:FetalLiverKinase1;FLT1:fms publishthemanuscript.
+relatedtyrosinekinase1;FOLFIRI:5-Fluorouracil,leucovorin,andirinotecan;
+GI:Gastrointestinal;H&E:Hematoxylinandeosin;HR:Hazardratio;
+Availabilityofdataandmaterials
+I.V.:Intravenous;KDR:Kinaseinsertdomainreceptor;KPS:Karnofsky
+Thedatathatsupportthefindingsofthisstudyareavailablefromthe
+PerformanceStatus;mmHg:Millimetersofmercury;MRI:Magneticresonance
+correspondingauthoruponreasonablerequest.
+imaging;MTD:Maximumtolerateddose;NCI-CTC:NationalCancerInstitute
+CommonToxicityCriteria;NRP1:Neuropilin1;NRP2:Neuropilin2;
+ORR:Objectiveresponserate;OS:Overallsurvival;P.O.:Peros(bymouth); Ethicsapprovalandconsenttoparticipate
+PCR:Polymerasechainreaction;PD:Progressivedisease;PFS:Progression-free ThisstudywasapprovedbytheDukeInstitutionalReviewBoardand
+survival;PlGF:Placentalgrowthfactor;PPE-palmar:Plantar followingtheguidelinesoftheHelsinkiDeclaration.Allpatientsprovided
+erythrodysesthesia;PR:Partialresponse;RASwild-type:Negativefor informedwrittenconsentpriortoanystudy-relatedprocedureandwere
+mutationsinKRASorNRASexons2,3,or4;RECIST:Responseevaluation treatedatDukeCancerInstitute.
+
+--- Page 9 ---
+Strickleretal.BMCCancer (2019) 19:1032 Page9of9
+Consentforpublication oxaliplatinasfirst-linetherapyformetastaticcolorectalcancer.JClinOncol.
+Notapplicable. 2008;26(12):2006–12.
+10. TwelvesC,ScheithauerW,McKendrickJ,SeitzJF,VanHazelG,WongA,Diaz-Rubio
+E,GilbergF,CassidyJ.Capecitabineversus5-fluorouracil/folinicacidasadjuvant
+Competinginterests
+Dr.BlackwelldisclosesemploymentatEliLillyCorp.Dr.Hurwitzdiscloses therapyforstageIIIcoloncancer:finalresultsfromtheX-ACTtrialwithanalysisby
+ageandpreliminaryevidenceofapharmacodynamicmarkerofefficacy.Ann
+employment,stockholdings,andconsultingworkwithGenentech/Roche,as
+Oncol.2012;23(5):1190–7.
+wellreceivingtrialsupportfromRegeneraon.Dr.Nixondisclosesreceiving
+11. HoffPM,AnsariR,BatistG,CoxJ,KochaW,KupermincM,MarounJ,Walde
+consultingfeesfromEliLilly,KanghongPharma,GlaxoSmithKline,and
+Promega,aswellasreceivingresearchfundingfromAcceleronPharma, D,WeaverC,HarrisonE,etal.Comparisonoforalcapecitabineversus
+intravenousfluorouracilplusleucovorinasfirst-linetreatmentin605
+Amgen,AstraZeneca/MedImmune,EurekaTherapeutics,Genentech,HTG
+patientswithmetastaticcolorectalcancer:resultsofarandomizedphaseIII
+MolecularDiagnostics,LeadiantBiosciences,MedPactoInc.,Novartis,Seattle
+study.JClinOncol.2001;19(8):2282–92.
+Genetics,andTraconPharma.Dr.Stricklerdisclosesreceivingresearch
+fundingfromSeattleGenetics,Exelixis,Amgen,AbbVie,Genentech/Roche, 12. VanCutsemE,HoffPM,HarperP,BukowskiRM,CunninghamD,DufourP,
+GraevenU,LokichJ,MadajewiczS,MarounJA,etal.Oralcapecitabinevs
+andSanofiGenzyme.Additionally,Dr.Stricklerperformsconsultingand
+intravenous5-fluorouracilandleucovorin:integratedefficacydataandnovel
+honorariaworkforAmgen,Bayer,Chengdu,KanghongBiotechnology,
+analysesfromtwolarge,randomised,phaseIIItrials.BrJCancer.2004;90(6):1190–7.
+Genentech/Roche,andSeattleGenetics.Dr.Zafardisclosesmembershipon
+theadvisoryboardsforAIMSpecialtyHealth,Vivor,LLC,andSamFund. 13. BendellJC,NemunaitisJ,VukeljaSJ,HagenstadC,CamposLT,HermannRC,
+SportelliP,GardnerL,RichardsDA.Randomizedplacebo-controlledphaseII
+Additionally,Dr.ZafarisontheBoardofDirectorsfortheFamilyReach
+trialofperifosinepluscapecitabineassecond-orthird-linetherapyinpatients
+Foundation,receivesresearchfundingfromtheNIH,andAstraZeneca,isa
+withmetastaticcolorectalcancer.JClinOncol.2011;29(33):4394–400.
+boardmemberforCopernicus-WCGIRB,andisaconsultantforRTI,
+McKesson,Discern,LLC,andQuintilesCorporation. 14. TebbuttNC,WilsonK,GebskiVJ,CumminsMM,ZanninoD,vanHazelGA,
+RobinsonB,BroadA,GanjuV,AcklandSP,etal.Capecitabine,bevacizumab,
+andmitomycininfirst-linetreatmentofmetastaticcolorectalcancer:results
+Authordetails
+1DukeUniversityMedicalCenter,Box3216,30DukeMedicineCircle,Room oftheAustralasiangastrointestinaltrialsgrouprandomizedphaseIIIMAX
+#0050,Durham,NC27705,USA.2VirginiaOncologyAssociates,Hampton,VA
+study.JClinOncol.2010;28(19):3191–8.
+23666,USA.3LexingtonOncologyAssociates,WestColumbia,SC29169,USA. 15. CunninghamD,LangI,MarcuelloE,LorussoV,OcvirkJ,ShinDB,JonkerD,
+4DukeCancerInstituteBiostatisticsandBioinformatics,DukeUniversity OsborneS,AndreN,WaterkampD,etal.Bevacizumabpluscapecitabine
+MedicalCenter,Durham,NC27705,USA.5ShattuckLabs,ResearchTriangle versuscapecitabinealoneinelderlypatientswithpreviouslyuntreated
+Park,Durham,NC27709,USA.6Genentech,Inc.,SouthSanFrancisco,CA metastaticcolorectalcancer(AVEX):anopen-label,randomisedphase3trial.
+LancetOncol.2013;14(11):1077–85.
+94080,USA.
+16. HurwitzH,FehrenbacherL,NovotnyW,CartwrightT,HainsworthJ,HeimW,
+BerlinJ,BaronA,GriffingS,HolmgrenE,etal.Bevacizumabplusirinotecan,
+Received:28February2019Accepted:2October2019
+fluorouracil,andleucovorinformetastaticcolorectalcancer.NEnglJMed.
+2004;350(23):2335–42.
+17. ArnoldD,AndreT,BennounaJ,SastreJ,OsterlundPJ,GreilR,CutsemEV,
+References MoosRV,Reyes-RiveraI,BendahmaneBetal:Bevacizumab(BEV)plus
+1. GlobalBurdenofDiseaseCancerC,FitzmauriceC,AllenC,BarberRM,
+chemotherapy(CT)continuedbeyondfirstprogressioninpatientswith
+BarregardL,BhuttaZA,BrennerH,DickerDJ,Chimed-OrchirO,DandonaR,
+metastaticcolorectalcancer(mCRC)previouslytreatedwithBEVplusCT:
+etal.Global,Regional,andNationalCancerIncidence,Mortality,Yearsof
+ResultsofarandomizedphaseIIIintergroupstudy(TMLstudy).JClinOncol
+LifeLost,YearsLivedWithDisability,andDisability-AdjustedLife-yearsfor32
+2012,30(suppl;abstrCRA3503).
+CancerGroups,1990To2015:asystematicanalysisfortheglobalburdenof
+18. GiantonioBJ,CatalanoPJ,MeropolNJ,O'DwyerPJ,MitchellEP,AlbertsSR,
+diseasestudy.JAMAOncol.2017;3(4):524–48.
+SchwartzMA,BensonAB3rd.EasterncooperativeoncologygroupstudyE:
+2. GrotheyA,VanCutsemE,SobreroA,SienaS,FalconeA,YchouM,Humblet
+Bevacizumabincombinationwithoxaliplatin,fluorouracil,andleucovorin
+Y,BoucheO,MineurL,BaroneC,etal.Regorafenibmonotherapyfor
+(FOLFOX4)forpreviouslytreatedmetastaticcolorectalcancer:resultsfrom
+previouslytreatedmetastaticcolorectalcancer(CORRECT):aninternational,
+theeasterncooperativeoncologygroupstudyE3200.JClinOncol.2007;
+multicentre,randomised,placebo-controlled,phase3trial.Lancet.2013; 25(12):1539–44.
+381(9863):303–12.
+19. FerraraN,KerbelRS.Angiogenesisasatherapeutictarget.Nature.2005;
+3. MayerRJ,VanCutsemE,FalconeA,YoshinoT,Garcia-CarboneroR, 438(7070):967–74.
+MizunumaN,YamazakiK,ShimadaY,TaberneroJ,KomatsuY,etal.
+20. BielenbergDR,ZetterBR.Thecontributionofangiogenesistotheprocess
+RandomizedtrialofTAS-102forrefractorymetastaticcolorectalcancer.N ofmetastasis.CancerJ.2015;21(4):267–73.
+EnglJMed.2015;372(20):1909–19.
+21. CapecitabinePrescribingInformation.In.EditedbyGenentechI.
+4. HolashJ,DavisS,PapadopoulosN,CrollSD,HoL,RussellM,BolandP,
+22. HallerDG,CassidyJ,ClarkeSJ,CunninghamD,VanCutsemE,HoffPM,
+LeidichR,HyltonD,BurovaE,etal.VEGF-trap:aVEGFblockerwithpotent
+RothenbergML,SaltzLB,SchmollHJ,AllegraC,etal.Potentialregional
+antitumoreffects.ProcNatlAcadSciUSA.2002;99(17):11393–8.
+differencesforthetolerabilityprofilesoffluoropyrimidines.JClinOncol.
+5. ZaltrapPrescribingInformation.In.:©2016sanofi-aventisU.S.LLC. 2008;26(13):2118–23.
+6. VanCutsemE,TaberneroJ,LakomyR,PrenenH,PrausovaJ,MacarullaT,RuffP,
+23. VanCutsemE,FindlayM,OsterwalderB,KochaW,DalleyD,PazdurR,
+vanHazelGA,MoiseyenkoV,FerryD,etal.Additionofafliberceptto
+CassidyJ,DirixL,TwelvesC,AllmanD,etal.Capecitabine,anoral
+fluorouracil,leucovorin,andirinotecanimprovessurvivalinaphaseIII
+fluoropyrimidinecarbamatewithsubstantialactivityinadvancedcolorectal
+randomizedtrialinpatientswithmetastaticcolorectalcancerpreviously
+cancer:resultsofarandomizedphaseIIstudy.JClinOncol.2000;18(6):
+treatedwithanoxaliplatin-basedregimen.JClinOncol.2012;30(28):3499–506.
+1337–45.
+7. MiwaM,UraM,NishidaM,SawadaN,IshikawaT,MoriK,ShimmaN,
+24. PfeifferP,YilmazMK,MollerS,MalthaL,KroghM,ZitnjakD,SzameitatCL,
+UmedaI,IshitsukaH.Designofanoveloralfluoropyrimidinecarbamate,
+HejlesenF,ThomsenGT,QvortrupC:Randomizedstudyevaluating
+capecitabine,whichgenerates5-fluorouracilselectivelyintumoursby
+trifluridine/tipiracil(TAS-102)versus+trifluridine/tipiracil+bevacizumabas
+enzymesconcentratedinhumanliverandcancertissue.EurJCancer.1998;
+last-linetherapyinpatientswithchemorefractoryunresectablemetastatic
+34(8):1274–81.
+colorectalcancer(mCRC).JClinOncol2019,37(no.4_suppl):637.
+8. SaltzLB,ClarkeS,Diaz-RubioE,ScheithauerW,FigerA,WongR,KoskiS,
+LichinitserM,YangTS,RiveraF,etal.Bevacizumabincombinationwith
+oxaliplatin-basedchemotherapyasfirst-linetherapyinmetastaticcolorectal Publisher’s Note
+cancer:arandomizedphaseIIIstudy.JClinOncol.2008;26(12):2013–9. SpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+9. CassidyJ,ClarkeS,Diaz-RubioE,ScheithauerW,FigerA,WongR,KoskiS, publishedmapsandinstitutionalaffiliations.
+LichinitserM,YangTS,RiveraF,etal.RandomizedphaseIIIstudyof
+capecitabineplusoxaliplatincomparedwithfluorouracil/folinicacidplus

@@ -1,0 +1,449 @@
+Source: 33075165.pdf
+Extracted on: Fri Sep 12 23:58:05 PDT 2025
+==================================================
+
+--- Page 1 ---
+Received: 27 July 2020 | Revised: 12 October 2020 | Accepted: 14 October 2020
+DOI: 10.1111/cas.14704
+ORIGINAL ARTICLE
+Phase I, multicenter, dose-escalation study of avadomide in
+adult Japanese patients with advanced malignancies
+Kiyohiko Hatake1 | Takaaki Chou2 | Toshihiko Doi3 | Yasuhito Terui4 |
+Harumi Kato5 | Takayuki Hirose2 | Sachiko Seo6 | Michael Pourdehnad7 |
+Yumi Ogaki8 | Hiroshi Fujimoto8 | Patrick R. Hagner 7 | Kazuhito Yamamoto5
+1Lymphoma/Hematology Center,
+Abstract
+International University of Health and
+Welfare, Mita Hospital, Tokyo, Japan Non-Hodgkin lymphoma (NHL) treated with chemoimmunotherapy has limited ef-
+2Department of Hematology Oncology, ficacy in some patients, resulting in relapsed or refractory disease. Avadomide
+Niigata Cancer Center Hospital, Niigata,
+Japan (CC-122) is a novel cereblon-binding agent that exhibits antilymphoma and immune-
+3Department of Experimental Therapeutics, modulation activities with a biological profile distinct from similar agents, such as
+National Cancer Center Hospital East, Chiba,
+lenalidomide. This phase I multicenter study evaluated avadomide in Japanese pa-
+Japan
+4Department of Hematology Oncology, tients with advanced solid tumors or NHL. Fourteen patients with NHL and one with
+Cancer Institute Hospital of Japanese a solid tumor (esophageal carcinoma), were enrolled in four dose-escalation cohorts
+Foundation for Cancer Research, Tokyo,
+Japan using a 3 + 3 design. Primary endpoints included safety, dose-limiting toxicities (DLT),
+5Department of Hematology and Cell maximum-tolerated dose and/or recommended phase II dose (RP2D), and pharma-
+Therapy, Aichi Cancer Center Hospital,
+cokinetics. Secondary endpoints included overall response rate (ORR) and duration of
+Nagoya, Japan
+6Department of Hematology and Oncology, response. One patient with NHL experienced DLT, which included face edema, phar-
+Dokkyo Medical University, Tochigi, Japan yngeal edema, and tumor flare (all grade 1) that led to a dose reduction. Eleven pa-
+7Bristol Myers Squibb, Princeton, NJ, USA tients had grade ≥3 treatment-emergent adverse events, most frequently decreased
+8Celgene K.K., A Bristol Myers Squibb
+neutrophil count (33%) and decreased lymphocyte count (20%). The ORR in patients
+Company, Tokyo, Japan
+with NHL (n = 13) was 54%, including four complete and three partial responses. The
+Correspondence
+best response for the solid tumor patient was progressive disease. Avadomide dose
+Kiyohiko Hatake, International University of
+Health and Welfare, Mita Hospital, Tokyo, intensity was consistent across cohorts, and the 3-mg dose given five consecutive
+Japan.
+days/week was established as the RP2D. This phase I study identified a tolerable dose
+Email: khatake@iuhw.ac.jp
+Abbreviations: ABC, activated B cell; AE, adverse event; AIC, active ingredient in capsule; AITL, angioimmunoblastic T-cell lymphoma; ALT, alanine aminotransferase; AST, aspartate
+aminotransferase; AUC, area under the plasma concentration time curve; CL/F, apparent clearance; C , peak plasma concentration; CNS, central nervous system; CR, complete
+max
+response; CT, computed tomography; DLBCL, diffuse large B-cell lymphoma; DLT, dose-limiting toxicity; DOR, duration of response; F6, formulated capsule; FL, follicular lymphoma;
+GCB, germinal center B cell; HCl, hydrochloride; IL-2, interleukin; LDH, lactate dehydrogenase; MedDRA, Medical Dictionary for Regulatory Activities; MTD, maximum tolerated dose;
+NCI CTCAE, National Cancer Institute Common Terminology Criteria for Adverse Events; NE, not estimable; NHL, non-Hodgkin lymphoma; NK, natural killer; NTD, non-tolerated dose;
+ORR, overall response rate; PD, progressive disease; PFS, progression-free survival; PK, pharmacokinetics; PR, partial response; PTCL NOS, peripheral T-cell lymphoma not otherwise
+specified; R/R, relapsed/refractory; R-CHOP, rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; RP2D, recommended phase 2 dose; SAE, serious adverse events;
+SD, stable disease; SRC, safety review committee; t , terminal half-life; TEAE, treatment-emergent adverse events; T , time to maximum plasma concentration; ULN, upper limit of
+1/2 max
+normal; Vz/F, volume of distribution.
+Previous affiliation of the author Kiyohiko Hatake is the Department of Hematology Oncology, The Cancer Institute Hospital of Japanese Foundation for Cancer Research, Tokyo, Japan
+Previous affiliation of the author Sachiko Seo is the Department of Hematology, National Cancer Center Hospital East, Chiba, Japan
+Clinicaltrials.gov identifier: NCT02509039
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction
+in any medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2020 The Authors. Cancer Science published by John Wiley & Sons Australia, Ltd on behalf of Japanese Cancer Association.
+|
+Cancer Science. 2021;112:331–338. wileyonlinelibrary.com/journal/cas 331
+
+--- Page 2 ---
+332 | HATAKE ET Al.
+Funding information
+of avadomide, with an acceptable toxicity profile and clinically meaningful efficacy in
+Bristol Myers Squibb Company, Princeton,
+NJ, USA Japanese patients with previously treated NHL.
+KEYWORDS
+avadomide, CC-122, cereblon, dose-escalation, non-Hodgkin lymphoma, phase I
+1 | INTRODUCTION results from the study showed that the 3-mg dose resulted in an
+ORR of 23% in patients with R/R NHL but was associated with neu-
+Non-Hodgkin lymphoma includes multiple clinical-pathological sub- tropenia-related dose reductions.15 Further exploration of dosing
+types, primarily of B-cell origin, including DLBCL and FL.1 Treatment schedules determined that 3 mg given on an intermittent dosing
+for NHL often includes chemoimmunotherapy, using the anti-CD20 schedule of 5 continuous days per week mitigated neutropenia-
+monoclonal antibody rituximab in combination with cytotoxic related dose reductions while maintaining the clinical activity of
+agents, such as R-CHOP. Efficacy is often limited, and some patients avadomide.15 We report here the safety and efficacy results from
+will relapse or develop refractory disease.2 In patients with DLBCL a phase I study of avadomide in Japanese patients with advanced
+treated with R-CHOP, primary refractory disease (no response or re- solid tumors or NHL.
+lapse within 3 months) occurs in 10%–15% of patients. Of those who
+do respond initially, 20%–25% relapse, with most relapses occurring
+within 3 years.3 2 | MATERIALS AND METHODS
+Avadomide (CC-122) is a novel agent that binds to cereblon, a
+substrate receptor of the Cullin-RING E3 ubiquitin ligase complex.4-7 2.1 | Study objectives
+This binding results in selective ubiquitination and proteasomal deg-
+radation of the hematopoietic transcription factors Ikaros (IKZF1) CC-122-ST-002 is an ongoing multicenter, open-label, phase I study to
+and Aiolos (IKZF3) in vitro.6 In a single-arm, phase I clinical trial of assess the safety, tolerability, and PK of avadomide in adult Japanese
+avadomide (CC-122-ST-001; NCT01421524), lymph node biopsies patients with advanced solid tumors or NHL (NCT02509039). The
+from patients with R/R DLBCL who were treated with avadomide findings presented here are as of the 30 March 2017 data cutoff
+showed reduced expression of Ikaros and Aiolos compared with date. Primary objectives were to evaluate safety and tolerability of
+baseline levels.6 avadomide, determine the MTD or RP2D, and measure PK parame-
+Degradation of Aiolos and Ikaros by avadomide and other cere- ters. Secondary endpoint was antitumor efficacy, based on response
+blon-binding agents, such as lenalidomide, has been identified as a rates and DOR. Exploratory endpoints included defining the rela-
+key mechanism in their antitumor and immunomodulation activi- tionship between biomarkers and clinical endpoints, and elucidating
+ties.8,9 In preclinical studies, avadomide decreased tumor growth in differences in PK and DLT profiles among different doses and formu-
+xenograft models and also inhibited proliferation and induced apop- lations: avadomide AIC and the avadomide F6.
+tosis in ABC and GCB DLBCL cell lines.6 Activity in both ABC- and
+GCB-cell lines indicates that avadomide has broad cytotoxic activity
+across cell-of-origin-based DLBCL subtypes. In contrast, lenalido- 2.2 | Patients
+mide has been reported to have preferential activity in ABC-subtype
+cell lines and in patients with ABC-subtype DLBCL.6,10 In conjunc- The study was designed and conducted in adherence to
+tion with antilymphoma activity, avadomide has immunomodula- Good Clinical Practice per the International Conference
+tory effects. Ex vivo studies showed that avadomide significantly for Harmonisation Guideline E6 and in accordance with the
+activated T cells, as measured by a dramatic increase in IL-2 secre- Declaration of Helsinki. The study was approved by the
+tion upon stimulation.6,11 Avadomide also decreased CD19+ B cells Institutional Review Boards of the participating sites (Aichi
+and expanded cytotoxic memory T cells in patients with NHL.12,13 Cancer Center Hospital, National Cancer Center Hospital East,
+Furthermore, paired biopsies from DLBCL patients showed in- Niigata Cancer Center Hospital, The Cancer Institute Hospital of
+creased infiltration of T cells and macrophages upon treatment with Japanese Foundation for Cancer Research). All patients provided
+avadomide.11 Avadomide has also been shown to activate NK cells written informed consent before any study-related procedures
+that mediate antibody-dependent, cell-mediated cytotoxicity.14 were carried out. Patients were ≥ 20 years old and had histologi-
+Additionally, avadomide has demonstrated antiangiogenic activity cal or cytological confirmation of advanced solid tumors or NHL.
+that may make it effective against solid tumors.14 Patients who had progressed on, or were unable to tolerate,
+An ongoing phase I study of avadomide (CC-122-ST-001; standard anticancer therapy were included, as well as those for
+NCT01421524) has determined the NTD and MTD, respectively, to whom no other conventional therapy existed. ECOG PS was ≤ 2
+be 3.5 and 3 mg once daily with continuous treatment.13 Preliminary for all patients. Required initial laboratory values included
+
+--- Page 3 ---
+HATAKE ET Al. | 333
+absolute neutrophil count ≥ 1.5 × 109/L, hemoglobin ≥ 9 g/dL, had not experienced grade ≥ 3 toxicities at their assigned dose
+platelets ≥ 100 × 109/L, AST and ALT ≤ 3 × ULN or ≤ 5.0 × ULN level, were allowed a dose level increase following approval by the
+if liver tumors were present, serum bilirubin ≤ 1.5 × ULN, and SRC, provided the alternative dose level had been shown to be
+serum creatinine ≤ ULN or 24-hour clearance ≥ 50 mL/min. Key well tolerated in at least one cohort of other patients. Treatment
+exclusion criteria included primary CNS malignancies or symp- was given until disease progression, unacceptable toxicity, or vol-
+tomatic CNS metastases (patients with previously treated brain untary withdrawal.
+metastases and were stable for 6 weeks were allowed); acute or
+chronic pancreatitis; peripheral neuropathy grade ≥ 2 according
+to NCI CTCAE version 4.03; persistent diarrhea or malabsorp- 2.4 | Safety, PK, and response assessments
+tion NCI CTCAE grade ≥ 2; impaired cardiac function or clini-
+cally significant cardiac diseases; prior systemic cancer–directed Adverse events were assessed according to the NCI CTCAE, version
+treatments or investigational modalities ≤ 5 half-lives or 4 weeks 4.03. AE were classified using the MedDRA classification system.
+(whichever was shorter), prior to starting avadomide, or contin- NTD was defined as the dose level at which ≥ 2 of six evaluable pa-
+ued side effects of such therapy; and major surgery ≤ 2 weeks tients in a cohort experienced a drug-related DLT during the DLT
+prior to starting avadomide or continued postoperative side evaluation period. MTD was defined as the last dose level below the
+effects. NTD at which ≤ 1 of six evaluable patients had a DLT during the DLT
+evaluation period. DLT were defined as TEAE related to avadomide
+that were first observed during the DLT evaluation period and that
+2.3 | Treatment necessitated a dose reduction during the DLT evaluation irrespec-
+tive of grade level, based on the following criteria: (i) a clinically rel-
+Four treatment cohorts were used in a standard 3 + 3 study design evant nonhematologic TEAE grade ≥ 3 (except for grade 3 acneiform
+with sequential enrollment to establish the MTD/RP2D and evalu- or maculopapular rash lasting ≤ 4 days or grade 3 diarrhea or vomit-
+ate toxicity.16 Patients in cohorts 1, 2, and 3 received avadomide ing lasting < 72 hours); (ii) a clinically relevant grade ≥ 3 laboratory
+AIC at 2 mg/d, 3 mg/d, and 4 mg/d, respectively. Patients in cohort abnormality; (iii) any febrile neutropenia; (iv) grade 4 neutropenia
+4 received avadomide F6 at 3 mg/d. Avadomide F6 has a differ- lasting > 7 days; (v) grade 4 thrombocytopenia lasting > 24 hours
+ent base-free amount and higher total and peak plasma exposures or of any grade requiring platelet transfusions; (vi) any grade 3/4
+compared with AIC. Avadomide AIC 0.5-, 1-, and 3-mg strengths thrombocytopenia with clinically significant bleeding; (vii) grade 4
+were based on avadomide HCl and are equivalent to 0.44, 0.88, liver function tests or grade 3 ALT with grade ≥ 2 bilirubin; or (viii)
+and 2.64 mg avadomide free base, respectively. Avadomide F6 1-, any TEAE necessitating a dose reduction.
+3-, 3.5-, and 4-mg strengths are based on avadomide free base and One predose and seven postdose (range, 0.5-8 hours postdose)
+are equivalent to 1.13-, 3.38-, 3.95, and 4.51-mg avadomide HCl, PK samples were collected during Cycle 1 on Day 1 and on Day 10,
+respectively. 11, or 12. Samples were also collected 24 hours postdose during
+Patients with solid tumors or NHL were enrolled in cohort 1, Cycle 1 on Day 2 and on Day 11, 12, or 13. PK measurements in-
+but only those with NHL were enrolled in cohorts 2-4. All avado- cluded AUC, C , t , T , CL/F, and apparent Vz/F.
+max 1/2 max
+mide doses were given orally once daily on an intermittent dosing Patients were evaluated for tumor response on Day 15 of Cycles
+schedule of five continuous days out of 7 days per week. Doses 2, 4, and 6 and every three cycles thereafter. Tumors were assessed
+were given in an escalating method, beginning with cohort 1. All by imaging studies, including CT and/or MRI of the chest, abdo-
+patients were treated and observed for at least 28 days (Cycle 1) men, and pelvis (including other sites as appropriate). Tumor re-
+after the first dose of avadomide (DLT evaluation period) before sponse was based on investigator assessment using the Response
+the dose level was escalated in another cohort. A SRC evaluated Evaluation Criteria in Solid Tumors, version 1.1, for solid tumors,
+the safety and available PK data at the end of the DLT evalua- and the International Working Group Revised Response Criteria for
+tion period for each cohort to determine whether dose escalation NHL.17,18
+could occur, to confirm the dose level to be used in the subsequent
+cohort, and to determine the MTD/RP2D. No dose reduction was
+allowed during the DLT evaluation period, except in patients who 2.5 | Statistical analysis
+experienced DLT. Patients who experienced DLT during the DLT
+evaluation period could resume avadomide at a reduced dose once The enrolled population included all patients who were assigned
+their toxicity recovered to grade 1 or baseline, provided recovery an enrollment number, the treated population was composed of
+occurred within 28 days of treatment interruption. Dose reduc- all enrolled patients who received ≥ 1 dose of avadomide, and the
+tions for non-DLT were allowed after the DLT evaluation period efficacy-evaluable population consisted of all patients who com-
+and in consultation with the sponsor. Intrapatient dose escalation pleted ≥ 1 cycle of their assigned treatment regimen and had a base-
+was not permitted during the DLT evaluation period. Patients who line and ≥ 1 postbaseline efficacy assessment. Descriptive statistics
+continued treatment with avadomide beyond Cycle 1, and who were provided for all PK data.
+
+--- Page 4 ---
+334 | HATAKE ET Al.
+3 | RESULTS TABLE 2 Treatment-emergent adverse events
+N = 15
+3.1 | Patients
+Adverse event, n (%)a Any grade Grade 3 Grade 4
+As of the 30 March 2017 data cutoff date, 15 patients had par- Rash maculopapular 8 (53) 2 (13) 0
+ticipated in the study, including 14 with NHL (5 DLBCL, 5 FL, 3 Lymphocyte count decreased 7 (47) 2 (13) 1 (7)
+PTCL NOS, and 1 AITL) and one with a solid tumor (esophageal Constipation 6 (40) 0 0
+carcinoma). Key baseline characteristics for all study participants Neutrophil count decreased 6 (40) 3 (20) 2 (13)
+are listed in Table 1. Median age was 64 years (range, 48-78), 53%
+Upper respiratory tract 6 (40) 0 0
+were ≤ 65 years of age, and 60% were male. Most patients (93%) infection
+had an ECOG PS 0-1, and the median number of prior systemic anti- Platelet count decreased 5 (33) 0 0
+cancer therapies was three (range, 1-10). Eight patients were still on
+White blood cell count 5 (33) 0 0
+treatment at the cutoff date. decreased
+Diarrhea 4 (27) 0 0
+Hepatic function abnormal 4 (27) 1 (7) 0
+Malaise 4 (27) 1 (7) 0
+TABLE 1 Baseline patient demographics and clinical
+Proteinuria 3 (20) 0 0
+characteristics
+Pyrexia 3 (20) 0 0
+Characteristic N = 15 Stomatitis 3 (20) 0 0
+Median (range) age, y 64 (48-78) Viral upper respiratory tract 3 (20) 0 0
+Age distribution, n (%) infection
+≤65 y 8 (53) Abdominal pain 2 (13) 0 0
+>65 y 7 (47) Back pain 2 (13) 1 (7) 0
+Gender, n (%) Neutropenia 2 (13) 2 (13) 0
+Male 9 (60) Cataract 2 (13) 0 0
+Female 6 (40) Erythema 2 (13) 0 0
+Tumor type, n (%) Muscle spasms 2 (13) 0 0
+NHL 14 (93) Musculoskeletal pain 2 (13) 0 0
+FL 5 (33) Nausea 2 (13) 1 (7) 0
+DLBCL 5 (33) Vomiting 2 (13) 1 (7) 0
+PTCL-NOS 2 (13) Decreased appetite 2 (13) 0 0
+PTCL 1 (7) Pruritus 2 (13) 0 0
+AITL 1 (7) Sinus bradycardia 2 (13) 0 0
+Solid tumor 1 (7) Insomnia 2 (13) 0 0
+ECOG PS, n (%)a General physical health 2 (13) 0 0
+deterioration
+0 10 (67)
+Lipase increased 1 (7) 1 (7) 0
+1 4 (27)
+2 1 (7) aAdverse events occurring in ≥10% of patients and all grade 3/4 adverse
+events are reported.
+Prior systemic anticancer therapies, n (%)
+1 4 (27)
+3.2 | Safety and treatment exposure
+2 2 (13)
+3 4 (27)
+Median duration of avadomide treatment was 29 weeks (range,
+4 3 (20)
+4-82), and median relative dose intensity was 84% (range, 31-100).
+7 1 (7)
+DLT were reported in one patient (cohort 4) in Cycle 1 and included
+10 1 (7)
+face edema, pharyngeal edema, and tumor flare (all grade 1) that led
+Abbreviations: AITL, angioimmunoblastic T-cell lymphoma; DLBCL,
+to dose reductions. This patient discontinued from treatment after
+diffuse large B-cell lymphoma; ECOG PS, Eastern Cooperative
+32 days and was not included in the efficacy-evaluable population.
+Oncology Group performance status; FL, follicular lymphoma; NHL,
+non-Hodgkin lymphoma; PTCL-NOS, peripheral T-cell lymphoma not Seven patients discontinued the study, all due to PD. After the DLT
+otherwise specified. evaluation period, one patient (cohort 1) had their dose escalated
+aSum exceeds 100% due to rounding. from 2 to 3 mg based on the intrasubject dose-escalation allowance.
+
+--- Page 5 ---
+HATAKE ET Al. | 335
+All 15 patients evaluable for toxicity experienced AE. Grade ≥ 3 cohort 2 with heavily treated FL who received 10 prior therapies
+TEAE occurred in 11 patients (73%), most frequently decreased achieved a PR. The single patient with a solid tumor did not achieve
+neutrophil count (33%) and decreased lymphocyte count (20%). The an objective response and had PD. Changes in absolute lymphocyte
+most common TEAE (≥30%) of any grade were maculopapular rash counts, percentage of lymphocytes, weight, and LDH levels were
+(53%), decreased lymphocyte count (47%), decreased neutrophil similar in patients who responded (CR or PR) and those who did not
+count (40%), constipation (40%), upper respiratory tract infection respond (SD, PD, or NE) through Cycle 8, with a slight increasing
+(40%), decreased platelet count (33%), and decreased white blood trend in lymphocyte counts and weight over time (data not shown).
+cell count (33%; Table 2). No TEAE leading to dose discontinuation Among all responders, median time to response was 6.3 weeks
+were reported. TEAE leading to dose reduction and interruption (range, 5.9-22.0), which corresponds roughly with the first efficacy
+were reported in eight patients (53%) and 10 patients (67%), re- assessment, on Cycle 2, Day 15. Individual PFS data for all 15 pa-
+spectively; all were resolved (Table S1). Among patients with TEAE tients including outcome, response, and tumor histology are shown
+(observed in > 1 patient) that led to dose reductions, neutrophil in Figure 1A. In patients with NHL, median DOR had not been
+count decreased/neutropenia was the most frequently reported reached (Table 3, Figure S1), and median PFS was 46.1 weeks (95%
+AE, occurring in five patients. Of those with TEAE leading to dose CI, 13.86–NE) (Table 3, Figure 1B).
+interruptions, neutrophil count decreased/neutropenia occurred in
+seven patients, upper respiratory tract infection in three patients,
+and rash maculopapular in two patients. SAE occurred in three pa- 3.4 | Pharmacokinetics
+tients (20%); one SAE of pulmonary eosinophilia was suspected to
+be related to avadomide. Two patients died within 30 days of the last Avadomide plasma concentrations were measured after a single
+dose of avadomide; both deaths were due to progressive disease. dose (Figure 2A) and multiple doses (Figure 2B). The plasma con-
+Based on these data, the 3-mg dose of avadomide F6 given daily centration versus time profiles of avadomide were characterized by
+for five consecutive days per week was considered safe and tolera- a rapid absorption phase at all dose levels tested, and median T
+max
+ble and was determined to be the RP2D. was generally similar at each dose level. Following the attainment
+of C , avadomide plasma concentration appeared to decline in a
+max
+monophasic manner at all dose levels tested. In all four dose lev-
+3.3 | Efficacy els tested, mild-to-moderate accumulation of avadomide plasma
+exposure was observed on Day 10, 11, or 12 versus Day 1. It was
+Table 3 summarizes response rates and survival data for the efficacy- noted that the time profile curves after multiple doses of 4 mg AIC
+evaluable population, which consisted of 13 patients with NHL and and 3 mg F6 were very similar. After a single dose on Cycle 1, Day
+one patient with a solid tumor. ORR in the efficacy-evaluable popu- 1, geometric mean C levels of avadomide were 52.78 ng/mL for
+max
+lation of patients with NHL was 54% (95% CI, 25.1-80.8) with four 2 mg AIC, 55.26 ng/mL for 3 mg AIC, 73.80 ng/mL for 4 mg AIC, and
+patients (31%) achieving a CR (Table 3). Subgroup analyses showed 107.72 ng/mL for 3 mg F6 (Table S3).
+that response rates were similar regardless of the number of prior
+therapies (Table S2). One patient in cohort one with transformed FL
+who received five prior therapies achieved a CR, and one patient in 4 | DISCUSSION
+TABLE 3 Response rates and progression-free survival
+We report here the results of a phase I, multicenter, open-label, dose-
+Solid escalation study of avadomide in 15 Japanese patients with NHL or
+NHL tumor solid tumors. A safe and tolerable dose of avadomide was identified
+Outcome (N = 13) (N = 1) that generated a clinically meaningful response in previously treated
+ORR, n (%) 7 (54) 0 patients with NHL. The most common TEAE were maculopapular
+CR, n (%) 4 (31) 0 rash and reduced lymphocyte count. The most frequently reported
+PR, n (%) 3 (23) 0 grade 3 or 4 TEAE were reduced neutrophil and lymphocyte counts.
+SD, n (%) 4 (31) 0 Most of the TEAE were manageable with dose interruptions or re-
+ductions, or with the use of appropriate supportive care, and the
+PD, n (%) 2 (15) 1 (100)
+safety profile of avadomide was considered acceptable. Overall, the
+mPFS, wk (95% CI) 46.1 (13.86–NE) NE
+safety results of this study were consistent with the known safety
+mDOR, wk (95% CI) NE (24.29–NE) NE
+profile of avadomide from global studies.12,13,15,19,20
+mTTR, wk (range) 6.29 (5.9-22.0) NE
+One of the primary objectives of this study was to determine
+Abbreviations: CR, complete response; mDOR, median duration of the MTD/RP2D of avadomide in Japanese patients. Only one patient
+response; mPFS, median progression-free survival; mTTR, median time
+experienced DLT. The dose could not be further escalated because,
+to response; NE, not estimable; NHL, non-Hodgkin lymphoma; ORR,
+overall response rate; PD, progressive disease; PR, partial response; SD, per study design, doses could not exceed the MTD obtained in global
+stable disease. studies; therefore, the MTD could not be determined. However, the
+
+--- Page 6 ---
+336 | HATAKE ET Al.
+FIGURE 1 Progression-free
+survival by patient (A) and among all
+evaluable patients (B). Abbreviations:
+AIC, active ingredient in capsule; AITL,
+angioimmunoblastic T-cell lymphoma;
+CR, complete response; DLBCL, diffuse
+large B-cell lymphoma; F6, formulated
+capsule; FL, follicular lymphoma; PD,
+progressive disease; PFS, progression-free
+survival; PR, partial response; PTCL-NOS,
+peripheral T-cell lymphoma not otherwise
+specified; SD, stable disease
+3-mg F6 dose, which is the RP2D in other global studies, was con- other malignancies and in combination with anti-CD20 antibodies is
+sidered safe and tolerable. Dose intensity was relatively consistent also being explored based on encouraging results seen with other
+across cohorts and, after a single dose, avadomide 3 mg F6 had agents in this class, such as lenalidomide.21-24 Preclinical studies
+similar exposure to 4 mg AIC. At steady state, avadomide at 4 mg have shown that combining avadomide and obinutuzumab, an an-
+AIC had the highest exposure followed by 3 mg F6, 2 mg AIC, and ti-CD20 antibody, resulted in synergistic enhancement of apoptosis
+3 mg AIC (Figure 2A). However, as a result of the high interpatient in FL cell lines, and additive apoptosis effects in DLBCL cell lines
+variability, the observed difference may not be clinically meaningful. as well as in mouse models.25 Notably, in vitro studies combining
+The PK parameters in Japanese patients appeared similar to those avadomide with rituximab or obinutuzumab resulted in greater lev-
+previously reported in other populations.13,15 els of apoptosis compared with combinations of lenalidomide and
+Although the number of patients in this study was small, re- either antibody.26 These combinations are being investigated in
+sponses (≥PR) were observed in seven of 13 NHL patients (54%; CR, ongoing studies of patients with R/R DLBCL (NCT02031419) and
+4 patients [31%]; PR, 3 patients [23%]). Responses were observed indolent NHL (NCT02406742, NCT02031419, and NCT02417285),
+even in patients with heavily treated or transformed lymphoma. with promising response rates observed in these populations that
+Median PFS was 46.1 weeks, and median DOR had not been reached. will be reported separately.19,20 Based on the tolerability of avado-
+At the cutoff date, response was still ongoing in six of 15 patients. mide and its mechanism of action, more effective uses of avadomide
+The focus of the present study was to evaluate avadomide mono- will likely involve combination with other agents, such as immuno-
+therapy in patients with NHL and solid tumors; however, its use in therapeutic drugs, that can further augment anticancer response.
+
+--- Page 7 ---
+HATAKE ET Al. | 337
+FIGURE 2 Mean (±SD) Avadomide
+plasma concentration by dose level after
+a single dose (Cycle 1, Day 1) (A) and after
+multiple doses (Cycle 1, Day 10, 11, or 12)
+(B). Abbreviations: AIC, active ingredient
+in complex; F6, formulated capsule; SD,
+standard deviation
+Avadomide is also currently undergoing a phase II trial for melanoma Squibb, Ono Pharmaceutical, AbbVie, Astellas Pharma, Oncolys
+(NCT03834623). Biopharma, Taiho Pharmaceutical, served as a consultant/advisor
+In conclusion, the safety and reasonable PK results observed in for MSD, Daiichi Sankyo, Amgen, Sumitomo Dainippon Pharma,
+this study are consistent with global studies and the known profile Taiho Pharmaceutical, Takeda, AbbVie, Novartis, Bayer, Boehringer
+of avadomide, with the 3-mg F6 dose considered safe and tolerable. Ingelheim, Rakuten Medical and received research funding from
+Additionally, the preliminary efficacy with avadomide in Japanese Taiho Pharmaceutical, Novartis, Merck Serono, MSD, Boehringer
+patients with previously treated NHL provides the rationale for fur- Ingelheim, Pfizer, Eli Lilly, Sumitomo Dainippon, Kyowa Hakko Kirin,
+ther investigation of avadomide monotherapy. Daiichi Sankyo, Bristol-Myers Squibb, AbbVie, Quintiles, and Eisai.
+Dr Terui received research funding from Bristol-Myers Squibb
+ACKNOWLEDGMENTS and served on the speaker’s bureau for Chugai, Novartis, Janssen,
+The authors would like to thank the coinvestigators on the CC- Bristol-Myers Squibb, Ono, Takeda and MSD. Dr Kato received hon-
+122-ST-002 study and all patients, families, and caregivers who oraria from Springer Healthcare, and received research funding from
+participated. This study was supported by Bristol Myers Squibb Zenyakukogyo, Chugai, SymBio Pharmaceuticals, Incyte Co. and
+Company, Princeton, NJ, USA. Medical writing assistance was pro- Mundipharma. Dr Hirose declares no potential competing interests.
+vided by Bio Connections, LLC, and funded by Bristol Myers Squibb. Dr Seo served as a consultant/advisor for Janssen Pharmaceutical
+KK. Dr Pourdehnad is employed by and has equity ownership and
+DISCLOSURE patents with Bristol-Myers Squibb. Dr Ogaki is employed by and has
+Dr Hatake received honoraria from Takeda, Bristol-Myers Squibb, equity ownership in Bristol-Myers Squibb. Dr Fujimoto has equity
+Tohwa, Meiji-Seika, served as a consultant/advisor for Daiichi- ownership in Bristol-Myers Squibb. Dr Hagner is employed by and
+Sankyo, Yakult, Eisai and received research funding from Kyowakivin has equity ownership and patents with Bristol-Myers Squibb. Dr
+and Eisai. Dr Chou received honoraria from Bristol-Myers Squibb, Yamamoto received research funding from AbbVie, Bristol-Myers
+Takeda, Janssen, and received research funding from Bristol Myers Squibb, Chugai Pharmaceutical, Eisai, HUYA/IQVIA Services Japan,
+Squibb, and Takeda. Dr Doi received honoraria from Bristol-Myers Janssen, Kyowa Hakko Kirin, Meiji Seika, MSD, Mundipharma, Nippon
+
+--- Page 8 ---
+338 | HATAKE ET Al.
+Shinyaku, Novartis, ONO Pharmaceutical, Otsuka, Pharmaceutical, 14. Gandhi AK, Mendy D, Parton A, et al. CC-122 is a novel pleiotropic
+pathway modifier with potent in vitro immunomodulatory and an-
+Pfizer, Sanofi, Sumitomo Dainippon Pharma, Takeda, and Zenyaku,
+ti-angiogenic properties and in vivo anti-tumor activity in hemato-
+served as a consultant/advisor for AbbVie, Astra-Zeneca, Bristol-
+logical cancers. Blood. 2012;120:2963.
+Myers Squibb, Chugai Pharmaceutical, Eisai, HUYA/IQVIA Services 15. Carpio C, Ysebaert L, Cordoba R, et al. CC-122 dosing on a novel
+Japan, Meiji Seika, MSD, Mundipharma, ONO Pharmaceutical, and intermittent schedule mitigates neutropenia and maintains clinical
+activity in subjects with relapsed or refractory diffuse large B cell
+Takeda, and received research funding from AbbVie, ARIAD, Astra-
+lymphoma. Blood. 2015;126:1494.
+Zeneca, Bayer, Bristol-Myers Squibb, Chugai Pharmaceutical, Eisai,
+16. Storer BE. Design and analysis of phase I clinical trials. Biometrics.
+Gilead Sciences, Incyte, MSD, Mundipharma, Nippon Shinyaku, 1989;45:925-937.
+Novartis, ONO Pharmaceutical, Solasia Pharma, SymBio, Takeda, 17. Cheson BD, Pfistner B, Juweid ME, et al. Revised response criteria
+for malignant lymphoma. J Clin Oncol. 2007;25:579-586.
+and Zenyaku.
+18. Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evalua-
+tion criteria in solid tumours: revised RECIST guideline (version 1.1).
+ORCID Eur J Cancer. 2009;45:228-247.
+Kiyohiko Hatake https://orcid.org/0000-0002-4153-4987 19. Michot J-M, Bouabdallah R, Doorduijn JK, et al. CC-122, a novel
+cereblon-modulating agent, in combination with obinutuzumab
+(GA101) in patients with relapsed and refractory (R/R) B-cell
+REFERENCES
+non-Hodgkin lymphoma (NHL). Ann Oncol. 2018;29:iii9.
+1. Shankland KR, Armitage JO, Hancock BW. Non-Hodgkin lym- 20. Ribrag V, Chavez JC, Vitolo U, et al. CC-122 DLBCL-001: phase
+phoma. Lancet. 2012;380:848-857. Ib study of CC-122 plus rituximab in patients with chemo-refrac-
+2. Arora M, Gowda S, Tuscano J. A comprehensive review of lena- tory diffuse large B-cell lymphoma (DLBCL). Blood. 2017;130:abstr
+lidomide in B-cell non-Hodgkin lymphoma. Ther Adv Hematol. 1551.
+2016;7:209-221. 21. Gini G, Bocci C, Sampaolo M, et al. A combination of lenalidomide
+3. Sehn LH. Paramount prognostic factors that guide therapeutic and rituximab (ReRi) as salvage therapy in elderly patients affected
+strategies in diffuse large B-cell lymphoma. Hematology Am Soc by diffuse large B cells (DLBCL) lymphoma relapsed and refractory.
+Hematol Educ Program. 2012;2012:402-409. Blood. 2015;126:5109.
+4. Chamberlain PP, Lopez-Girona A, Miller K, et al. Structure of 22. Zinzani PL, Pellegrini C, Argnani L, Broccoli A. Prolonged dis-
+the human Cereblon-DDB1-lenalidomide complex reveals basis ease-free survival in elderly relapsed diffuse large B-cell lymphoma
+for responsiveness to thalidomide analogs. Nat Struct Mol Biol. patients treated with lenalidomide plus rituximab. Haematologica.
+2014;21:803-809. 2016;101:e385-e386.
+5. Kronke J, Fink EC, Hollenbach PW, et al. Lenalidomide induces 23. Wang Y, Wagner-Bartak N, Zhou S, et al. Lenalidomide plus ritux-
+ubiquitination and degradation of CK1alpha in del(5q) MDS. Nature. imab for relapsed or refractory diffuse large B-cell, follicular and
+2015;523:183-188. transformed lymphoma: final data analysis of a phase 2 trial. Blood.
+6. Hagner PR, Man HW, Fontanillo C, et al. CC-122, a pleiotropic path- 2015;126:3969.
+way modifier, mimics an interferon response and has antitumor ac- 24. Leonard JP, Trneny M, Izutsu K, et al. AUGMENT: a phase III
+tivity in DLBCL. Blood. 2015;126:779-789. study of lenalidomide plus rituximab versus placebo plus ritux-
+7. Ito T, Ando H, Suzuki T, et al. Identification of a primary target of imab in relapsed or refractory indolent lymphoma. J Clin Oncol.
+thalidomide teratogenicity. Science. 2010;327:1345-1350. 2019;37:1188-1199.
+8. Gandhi AK, Kang J, Havens CG, et al. Immunomodulatory agents 25. Chiu H, Hagner P, Pourdehnad M, et al. CC-122 exhibits potent an-
+lenalidomide and pomalidomide co-stimulate T cells by inducing ti-lymphoma activity in combination with obinutuzumab through
+degradation of T cell repressors Ikaros and Aiolos via modulation cell autonomous and antibody dependent cell mediated cytotoxic-
+of the E3 ubiquitin ligase complex CRL4(CRBN.). Br J Haematol. ity. Blood. 2015;126:4007.
+2014;164:811-821. 26. Hagner PR, Chiu H, Waldman MF, et al. CC-122 exhibits greater pre-
+9. Lu G, Middleton RE, Sun H, et al. The myeloma drug lenalidomide clinical activity in mantle cell lymphoma than lenalidomide through
+promotes the cereblon-dependent destruction of Ikaros proteins. a combination of direct cell-autonomous and increased antibody
+Science. 2014;343:305-309. dependent cell-mediated cytotoxicity. Blood. 2016;128:4188.
+10. Czuczman MS, Trneny M, Davies A, et al. A phase 2/3 multicenter,
+randomized, open-label study to compare the efficacy and safety
+SUPPORTING INFORMATION
+of lenalidomide versus investigator’s choice in patients with re-
+lapsed or refractory diffuse large B-cell lymphoma. Clin Cancer Res. Additional supporting information may be found online in the
+2017;23:4127-4137. Supporting Information section.
+11. Gandhi AK, Vincent R, Carpio C, et al. CC-122 expands activated
+and memory CD4 and CD8 T cells in vivo and induces T cell activa-
+tion ex vivo in subjects with relapsed or refractory diffuse large B
+How to cite this article: Hatake K, Chou T, Doi T, et al. Phase
+cell lymphoma and multiple myeloma. Blood. 2015;126:2704.
+12. Ribrag V, Damien S, Gharibo M, et al. CC-122 degrades the lym- I, multicenter, dose-escalation study of avadomide in adult
+phoid transcription factor aiolos (IKZF3) by modulating cereblon Japanese patients with advanced malignancies. Cancer Sci.
+and shows clinical activity in a phase Ib study of subjects with 2021;112:331–338. https://doi.org/10.1111/cas.14704
+relapsed or refractory non-Hodgkin’s lymphoma and multiple my-
+eloma. Blood. 2014;124:3500.
+13. Rasco DW, Papadopoulos KP, Pourdehnad M, et al. A first-in-hu-
+man study of novel cereblon modulator avadomide (CC-122) in ad-
+vanced malignancies. Clin Cancer Res. 2019;25:90-98.

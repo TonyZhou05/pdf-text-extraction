@@ -1,0 +1,707 @@
+Source: 20043166.pdf
+Extracted on: Fri Sep 12 23:56:28 PDT 2025
+==================================================
+
+--- Page 1 ---
+CancerChemotherPharmacol(2010)66:669–680
+DOI10.1007/s00280-009-1209-0
+ORIGINAL ARTICLE
+Sunitinib in combination with docetaxel in patients with advanced
+solid tumors: a phase I dose-escalation study
+Francisco Robert • Alan Sandler • Joan H. Schiller •
+Glenn Liu • Karen Harper • Lev Verkh • Xin Huang •
+Jennifer Ilagan • Lesley Tye • Richard Chao • Anne M. Traynor
+Received:9June2009/Accepted:7December2009/Publishedonline:31December2009
+(cid:2)TheAuthor(s)2009.ThisarticleispublishedwithopenaccessatSpringerlink.com
+Abstract limiting toxicity was neutropenia (±fever; grade [G]3/4,
+Purpose Sunitinib in combination with docetaxel enhan- n = 5) and the most common G3/4 non-hematologic
+cesantitumoractivityinxenograftmodelsofhumanbreast adverse event (AE) was fatigue (G3, n = 8). Hematologic
+andnon-smallcelllungcancer.Weassessedthemaximum AEs were managed with growth factor supportin11 of23
+tolerated doses (MTDs), safety, pharmacokinetic profiles, (48%)patientstreatedatSchedule2/1MTD.Threepatients
+and preliminary efficacy of sunitinib plus docetaxel in achieved a partial response at the Schedule 2/1 MTD.
+patients with advanced solid tumors. There were no pharmacokinetic drug–drug interactions
+Methods In this phase I study, successive patient cohorts with either schedule.
+received sunitinib 25, 37.5, or 50 mg/day for 4 weeks of a Conclusions Oral sunitinib 37.5 mg/day on Schedule 2/1
+6-week cycle (Schedule 4/2, 4 weeks on, 2 weeks off) or with docetaxel 75 mg/m2 IV q21d is a clinically feasible
+for 2 weeks of a 3-week cycle (Schedule 2/1, 2 weeks on, regimen with a manageable safety profile, no pharmaco-
+1 week off) with docetaxel 60 or 75 mg/m2 IV q21d to kinetic drug–drug interactions, and shows antitumor
+determine the MTDs of this treatment combination. activity in patients with advanced solid tumors.
+Results Fiftypatientsenrolled:10onSchedule4/2and40
+on Schedule 2/1. MTDs were established as sunitinib Keywords Sunitinib (cid:2) Docetaxel (cid:2) Solid tumors (cid:2)
+25 mgonSchedule4/2withdocetaxel60 mg/m2q21d,and Phase I (cid:2) NSCLC (cid:2) Antiangiogenesis
+as sunitinib 37.5 mg on Schedule 2/1 with docetaxel
+75 mg/m2 q21d. On Schedule 2/1, the most frequent dose-
+Introduction
+F.Robert(&)(cid:2)K.Harper
+Advances in the molecular biology of solid malignancies
+UniversityofAlabamaatBirmingham,
+haveestablishedthecriticalroleoftumorangiogenesisand
+ComprehensiveCancerCenter,Birmingham,AL,USA
+e-mail:pacorobertuab@cs.com the multiple signaling pathways involved in tumor devel-
+opment. Specifically, inhibition of the vascular endothelial
+A.Sandler
+growthfactor(VEGF)pathwayhasbeenshowntoimprove
+OregonHealth&ScienceUniversity,Portland,OR,USA
+clinical efficacy outcomes in patients with a variety of
+J.H.Schiller cancers[1–5].Thereisinterestinassessingtheefficacyand
+UniversityofTexasSouthwestern, safety of targeted agents given in combination with che-
+DivisionofHematologyandOncology,Dallas,TX,USA
+motherapy, including in patients with treatment-refractory
+cancers.
+G.Liu(cid:2)A.M.Traynor
+UniversityofWisconsinCarboneCancerCenter, Docetaxel (Taxotere(cid:3), Sanofi Aventis, US) is an effec-
+Madison,WI,USA tive anticancer therapy which stabilizes microtubules,
+leading to the formation of abnormal microtubule bundles
+L.Verkh(cid:2)X.Huang(cid:2)J.Ilagan(cid:2)L.Tye(cid:2)R.Chao
+that prevent mitotic processes [6, 7]. Its major dose-limit-
+PfizerInc,GlobalResearchandDevelopment,
+LaJolla,CA,USA ing toxicity (DLT) is reversible myelosuppression. In the
+123
+
+--- Page 2 ---
+670 CancerChemotherPharmacol(2010)66:669–680
+US, docetaxel is indicated both as a single agent and in Terminology Criteria for Adverse Events (NCI CTCAE)
+combination with other agents for various solid tumors grade B 1; (c) adequate hematologic parameters (absolute
+including non-small cell lung cancer (NSCLC) and breast neutrophil count [ANC] C1,500/lL; platelets C100,000/
+cancer [7]. lL; hemoglobin C9 g/dL) and hepatic, renal, and cardiac
+Sunitinib malate (SUTENT(cid:3), Pfizer Inc. US) is an oral function, including left ventricular ejection fraction
+multitargeted tyrosine kinase inhibitor (TKI), approved (LVEF) C50% without the support of cardiotropic agents.
+internationally for use in advanced renal cell carcinoma Exclusioncriteriaincluded(a)priortreatmentwithhigh-
+(RCC) and imatinib-resistant or -intolerant gastrointestinal dose chemotherapy requiring stem cell rescue or prior
+stromal tumor (GIST), based on its demonstrated clinical irradiation to C25% of the bone marrow; (b) surgery,
+activity and tolerability profile [8–10]. Sunitinib inhibits systemic therapy or any investigational agent within
+VEGF and platelet-derived growth factor (PDGF) receptor 4 weeks prior to starting study treatment; (c) extensive
+subtypes, stem cell factor receptor (KIT), FMS-like tyro- prior anthracycline or anthracenedione exposure (i.e.
+sine kinase (FLT3), glial cell line-derived neurotrophic cumulative doxorubicin exposure[300 mg/m2, epirubicin
+factor (REarranged during Transfection [RET]), and col- exposure[900 mg/m2, mitoxanthrone exposure[120 mg/
+ony-stimulating factor 1 receptor (CSF-1R) [11–16]. Sun- m2, doxorubicin liposome injection exposure [550 mg/
+itinib has also shown clinically relevant antitumor activity m2); (d) centrally located lung lesions (unless irradiated
+in patients with other types of advanced solid tumors in with C30 Gy[2 weeks prior to starting study treatment);
+phase I and phase II trials, including breast cancer, (e) NCI CTCAE grade 3 hemorrhage within 4 weeks of
+NSCLC, and neuroendocrine tumor [16–20]. Common study entry, significant hemoptysis, or grade C 2 neurop-
+drug-related toxicities associated with sunitinib are typi- athyoredema;(f)diagnosisofasecondmalignancywithin
+cally grade 1 or 2 in severity and are generally constitu- the last 5 years, except for adequately treated basal or
+tional (fatigue, anorexia, headache), gastrointestinal squamous cell skin cancer, localized prostate cancer, or in
+(diarrhea,nausea,stomatitis,dyspepsia,vomiting,mucosal situbladderorcervicalcancer;(g)knownbrainmetastases,
+inflammation, constipation), or cutaneous (skin discolor- spinal cord compression or carcinomatous meningitis, or
+ation, rash, hand–foot syndrome, hair color changes) [16]. new evidence of brain or leptomeningeal disease; (h)
+When given in combination, sunitinib enhances the severe/unstable angina, symptomatic congestive heart
+antitumor activity of docetaxel in nonclinical studies. In failure, cerebrovascular accident or transient ischemic
+H460 mouse xenograft models of NSCLC and MX-1 attack within 12 months of study entry or ongoing cardiac
+mouse xenograft models of breast cancer, the addition of dysrhythmias(grade C 2),atrialfibrillationorQTcinterval
+sunitinib to docetaxel leads to significant delay of tumor prolongation;(i)historyofseverehypersensitivityreaction
+regrowth compared with docetaxel alone [21, 22]. These todocetaxelorotherdrugsformulatedwithpolysorbate80.
+data suggest that the combination of sunitinib with doce- Patients who were pregnant or breastfeeding were also
+taxel may result in greater efficacy than docetaxel alone. excluded.
+This phase I dose-finding study investigated the safety,
+pharmacokinetics (PK), and efficacy of sunitinib in com- Study design and treatment
+bination with docetaxel in patients with advanced solid
+tumors. In this phase I, open-label, multicenter, non-randomized,
+dose-finding study, successive cohorts of patients received
+IV docetaxel q21d in combination with escalating daily
+Materials and methods doses of oral sunitinib.
+Sunitinib was administered using one of two dosing
+Patient eligibility schedules over approximately 18 weeks: 4 consecutive
+weeks of once-daily treatment followed by 2 weeks off
+Male and female patients who were 18 years of age or treatment(Schedule4/2)inthreerepeated6-weekcycles,or
+older, had histologically proven advanced solid tumors for 2consecutiveweeksofonce-dailytreatmentfollowedby1-
+which curative therapy was not available, and were con- week off treatment (Schedule 2/1) in six repeated 3-
+sideredeligiblefortreatmentwithstandarddosesofsingle- week cycles. To enable sampling for PK profiles, on
+agent docetaxel were recruited. All patients provided Schedule 4/2, patients were administered sunitinib once
+written and informed consent. Other key inclusion criteria daily on days 4–31 in cycle 1. Patients were administered
+included(a)EasternCooperativeOncologyGroup(ECOG) sunitinib daily on days 1–28 in subsequent cycles. On
+performance status of 0 or 1; (b) resolution of all Schedule2/1,patientswereadministeredsunitinibdailyon
+acute toxic effects of prior chemotherapy, radiotherapy, or days 1–14 with the exception of patients undergoing full-
+surgical procedure to National Cancer Institute Common profile PK assessments; these patients were administered
+123
+
+--- Page 3 ---
+CancerChemotherPharmacol(2010)66:669–680 671
+sunitinibondays3–16.Insubsequentcycles,sunitinibwas Patients were treated for the entire study period unless
+administered daily on days 1–14. To ensure patient safety, there was disease progression, lack of tolerance, or with-
+the startingdose levelwas sunitinib at 25 mg/day(50% of drawal of consent. Dose reductions by one or two dose
+its previously determined maximum tolerated dose [MTD] levels of either or both study drugs were permitted after
+asmonotherapyonSchedule4/2)withdocetaxelat60 mg/ completion of the DLT observation period. After com-
+m2q21d(thelowestdoserecommendedintheUnitedStates pleting the study period, patients who were receiving
+package insert). MTD was defined as the highest dose at clinical benefit were offered participation in an extended-
+which 0/3 or 1/6 patients experienced a DLT (protocol- use protocol of single-agent sunitinib.
+defined as grade 3 or 4 non-hematologic toxicity lasting The study was performed with institutional ethics
+C7 days, or grade 4 neutropenia C7 days, febrile neutro- committee approval, and in accordance with International
+penia [fever [38.5(cid:4)C for C24 h], neutropenic infection, Conference on Harmonization Good Clinical Practice
+and/or grade C 3 thrombocytopenia with bleeding or last- guidelines,theDeclarationofHelsinki(1996Version),and
+ing C7 days) during the first 31 or 21 days of cycle 1 applicable local regulatory requirements and laws.
+(Schedules4/2and2/1,respectively),withthenexthighest
+dose having C2/3 or C2/6 patients experiencing a DLT. Study endpoints and assessments
+Additional patients were enrolled at the MTD to further
+characterize safetyandtolerability at this dose level. The primary objective of this trial was to assess the MTD
+Escalating doses of sunitinib and docetaxel were first and overall safety of sunitinib in combination with doce-
+studied on Schedule 4/2, starting at dose level0(Table 1). taxel when sunitinib was administered on Schedule 4/2 or
+FollowingdeterminationofSchedule4/2MTD,subsequent 2/1 in patients with solid tumors. Secondary objectives
+patients were enrolled onto Schedule 2/1, starting at the were to evaluate PK profiles and the efficacy of this
+Schedule 4/2 MTD. Dose escalation and de-escalation treatment combination.
+occurred as detailed in Table 1 in order to determine the Safety was assessed by recording adverse events (AEs)
+MTD on Schedule 2/1. Initial cohorts of 3 patients were documented from the first day of study medication (doce-
+enrolled onto Schedule 4/2, and any cohort was expanded taxel or sunitinib) and graded using NCI CTCAE, version
+to 6 patients if a DLT was observed. An additional 3 3.0. Other safety assessments included urinalysis at
+patientscouldbeincludedatspecificdoselevelstofurther screening,hematologyandbloodchemistryparameters,and
+explore the observed toxicity profile. physical examinations. Twelve-lead electrocardiograms
+Table1 Sunitinibanddocetaxeldosingschedules,anddose-limitingtoxicities
+Docetaxel(every21days) Sunitinib(once-dailydose) Patients(N) DLTs(n/N)
+(mg/m2) (mg)
+Schedule4/2
+Doselevel0a 60 25 4 None
+Doselevel1 60 37.5 6 Grade3muscularweakness(n=1)
+Grade3febrileneutropenia(n=1)
+Schedule2/1b
+Doselevel0a 60 25 9 Grade4febrileneutropenia(n=1)
+Grade4neutropenia(n=1)
+Doselevel1 60 37.5 3 None
+Doselevel2 60 50 3 None
+Doselevel3a 75 50 2 Grade3febrileneutropenia(n=1)
+Grade4neutropenia(n=1)
+Doselevel3bc 75 37.5 23 Grade3gastrointestinalhemorrhage(n=1)
+Grade4febrileneutropenia(n=1)
+MTDswereSchedule4/2:sunitinib25mg/day?docetaxel60mg/m2q21d;Schedule2/1:37.5mg/day?docetaxel75mg/m2q21d
+a Initialdoseused
+b FollowingcompletionofSchedule4/2dosedetermination(18weeksonstudy),subsequentpatientswereenrolledontoSchedule2/1,starting
+atSchedule4/2MTD
+c SixpatientswereoriginallyenrolledatthisdoselevelwithoneDLT(grade3gastrointestinalhemorrhage)observed.Thecohortwasexpanded
+toinclude17additionalpatientstofurthercharacterizethesafetyandtolerabilityofthisdoselevel
+123
+
+--- Page 4 ---
+672 CancerChemotherPharmacol(2010)66:669–680
+(ECG) and multigated acquisition (MUGA) scans were includedaszero.Ifpre-doseconcentrationsofastudydrugor
+performed at screening and during treatment (cycles 1 and metaboliteforanindividualwere[5%ofC ,adosecor-
+max
+3, respectively for Schedule 4/2, and cycles 2 and 6, rectionwasmade.Onlypatientswithpairedobservationsat
+respectively for Schedule 2/1). eachdoselevelwereincludedindescriptivestatisticsforPK
+Objective tumor response was assessed in patients with profilesofsunitinib,SU12662,totaldrug,anddocetaxel,and
+measurable disease according to Response Evaluation for comparison of PK parameters when sunitinib or doce-
+CriteriainSolidTumors(RECIST)[23].Radiologictumor taxelwasadministeredaloneorincombination.Troughdata
+assessmentswereperformedatscreening,duringtreatment arereportedforallpatientswithtroughobservations.
+(duringcycles1and2forSchedule4/2,andcycles2and4
+for Schedule 2/1), at the end of the dosing period (if not
+performedwithintheprevious6 weeks),wheneverdisease Results
+progressionwassuspectedandtoconfirmresponse(atleast
+4 weeks after initial evidence of response). Patient characteristics
+FullPKprofilesfordocetaxelandsunitinibwereobtained
+forallpatientsonSchedule4/2andthosepatientsenrolledon Intotal,50patientswereenrolledintothetrial;10patientsand
+theMTDexpansioncohortonSchedule2/1.PKparameters 40patientsreceivedsunitinibonSchedule4/2andSchedule2/
+for sunitinib, its primary metabolite (SU12662), total drug 1, respectively. Patient characteristics at baseline are sum-
+(sunitinib ? SU12662),anddocetaxelarereportedaswellas marized in Table 2. NSCLC (Schedule 4/2: n = 1, 10%;
+troughlevels.FullPKprofilesfordocetaxelwereobtainedon Schedule2/1:n = 17,43%)andRCC(Schedule4/2:n = 7,
+days1and22ofcycle1onSchedule4/2andonday1ofcycles 70%;Schedule2/1:n = 3,8%)werethemostcommontumor
+1and2onSchedule2/1,usingbloodsamplescollectedpre- types. All patients had undergone previous cancer-related
+doseand0.5,1,1.5,2,3,4,6,8,12,and24 hpost-docetaxel surgery, and most had received previous systemic therapy
+dose. Docetaxel PK parameters were analyzed at Covance (Schedule 4/2: n = 10, 100%; Schedule 2/1 n = 32, 80%).
+Laboratories (Madison, WI) using a validated liquid chro- Five (50%) and 11 (28%) patients had undergone previous
+matographic–tandem mass spectrometric method in accor- radiotherapyonSchedules4/2and2/1,respectively.
+dancewithCovance’sSOPs.FullPKprofilesforsunitiniband OnSchedule4/2,themediannumberoftreatmentcycles
+SU12662wereobtainedondays18and22onSchedule4/2 started was two (range 1–3). Thirty percent (n = 3) of
+andonday3ofcycle1,andday1ofcycle2onSchedule2/1. sunitinib treatment interruptions were due to AEs
+Bloodsampleswerecollectedpre-dose,and1,2,4,6,8,12, (Table 3). Of the 10 patients on Schedule 4/2, 5, 2, and 3
+and24 hpost-sunitinibdose.Additionaltroughbloodsamples patients received 1, 2, and 3 cycles of sunitinib treatment,
+werecollectedforpatientsonSchedule4/2oncycles2/3 days respectively. On Schedule 2/1, the median number of
+1 and 28 (day 31 of cycle 1 only) and on Schedule 2/1 on treatment cycles started was four (range 1–6). The 28%
+cycles 1–6 day 1 and day 14 of cycle 1. Sunitinib PK (n = 11) of sunitinib treatment interruptions were all due
+parameters were analyzed at Bioanalytical Systems Inc toAEs(Table 3).Ofthe40patientsonSchedule2/1,8,7,
+(BASi, West Lafayette, IN) using a validated liquid chro- and 2 patients started 1, 2, and 3 cycles of sunitinib treat-
+matographic–tandem mass spectrometric method in accor- ment, respectively, and 8, 3, and 12 patients started 4, 5,
+dancewithBASi’sstandardoperatingprocedures(SOPs). and 6 cycles of sunitinib treatment, respectively.
+Six patients (60%) discontinued treatment on Schedule
+Statistical methods 4/2duetoAEs,includingdyspnea;muscularweaknessand
+hypoesthesia; infection; atrial fibrillation and thrombosis;
+Maximumenrollmentintothetrialwasdependentuponthe obstructive airways disorder; and pain, nausea, and vom-
+observed safety profile, which determined the number of iting in 1 patient each. Five patients (13%) discontinued
+patientsperdoselevelandnumberofdoseescalations.The treatment on Schedule 2/1 due to AEs, which included
+populations for safety analyses included all patients who disease progression (3 patients); pyrexia and infection (1
+had taken at least one dose of study medication. Efficacy patient); and fatigue, anorexia, leukopenia, neutropenia,
+analyses were performed on patients with measurable dis- dehydration, and diarrhea (1 patient).
+easeatbaselinewhoreceivedatleastonedoseofsunitinib
+and had a response assessment made by the investigator. Safety and tolerability
+Descriptivestatisticswereusedtosummarizeallpatient
+characteristics, safety parameters, efficacy endpoints, and Schedule 4/2
+PK parameters. PK parameters were calculated for each
+subject by noncompartmental analysis using WinNonlin DeterminationofMTD MTDwasdeterminedassunitinib
+Version4.1a.Samplesbelowthelimitofquantitationwere 25 mg/dayonSchedule4/2plusdocetaxel60 mg/m2q21d
+123
+
+--- Page 5 ---
+CancerChemotherPharmacol(2010)66:669–680 673
+Table2 Patientcharacteristicsatbaseline
+Schedule4/2(N=10) Schedule2/1
+Allpatients(N=40) MTDaonly(n=23)
+Ageinyears
+Median(range) 57(46–72) 56(26–74) 55(37–73)
+\65,n(%) 7(70) 33(83) 18(78)
+C65,n(%) 3(30) 7(18) 5(22)
+Sex,n(%)
+Male 8(80) 20(50) 7(30)
+Female 2(20) 20(50) 16(70)
+ECOGperformancestatus,n(%)
+0 2(20) 8(20) 4(17)
+1 8(80) 32(80) 19(83)
+Primarytumortypes,n(%)
+RCC 7(70) 3(8) 0
+NSCLC 1(10) 17(43) 11(48)
+Adenocarcinoma 0 7(18) 3(13)
+Squamouscellcarcinoma 0 3(8) 2(9)
+Bronchioloalveolarcarcinoma 0 1(3) 1(4)
+Other/NOS 1(10) 6(15) 5(22)
+Othertumortypeb 2(20) 20(50) 12(52)
+Previouscancer-relatedsurgery 10(100) 40(100) 23(100)
+Outcome
+Partial/completeresection 1(10)/6(60) 2(5)/19(48) 1(4)/9(39)
+Notapplicable 3(30) 19(48) 13(57)
+Previousradiotherapy 5(50) 11(28) 6(26)
+Previoussystemictherapy 10(100) 32(80) 17(74)
+Numberpriorsystemictherapies
+1 2(20) 6(15) 3(13)
+C2 8(80) 26(65) 14(61)
+ECOGEasterncooperativeoncologygroup,NOSnototherwisespecified,NSCLCnon-smallcelllungcarcinoma,RCCrenalcellcarcinoma
+a 2/1MTD=sunitinib37.5mg/day?docetaxel75mg/m2q21d
+b Otherprimarytumortypeincludes:esophagealcarcinoma,metastaticmelanoma,adenocystic-salivarygland(metastatic),carcinoidtumorof
+colon and appendix, ductal carcinoma in situ (breast), gastric adenocarcinoma, malignant mesothelioma, metastatic osteosarcoma, metastatic
+adenocysticcarcinoma(vulva),metastaticpulmonarycarcinoidtumor,metastaticsofttissuesarcoma,neuroendocrine,pancreas,prostate,rectal
+carcinoma,retroperitonealleiomyosarcoma,smallcelllungcancer,andwell-differentiatedneuroendocrinecarcinoma
+(dose level 0, n = 4); no DLTs were observed at this dose Grade 3/4 treatment-emergent AEs included neutropenia
+level. DLTs at dose level 1 (sunitinib 37.5 mg/day, doce- (6patients),hypophosphatemia(4patients),febrileneutrope-
+taxel 60 mg/m2 q21d, n = 6) were grade 3 muscular nia (3 patients), fatigue (2 patients), and nausea, infection,
+weakness,which led todiscontinuationofstudy treatment, hemoglobin decrease and hyperglycemia, in 1 patient each
+and grade 3 febrile neutropenia. (Table 4). At the MTD, 1 patient developed grade 4 febrile
+neutropenia and began receiving pegfilgrastim on day 41 of
+Other safety findings The most frequently reported cycle1(thiseventwasnotconsideredaDLTasitbeganafter
+treatment-emergent(all-causality)non-hematologicAEsin day31ofcycle1).SerialECGandMUGAscanswereavail-
+patients treated on Schedule 4/2 were typically grade 1 or ablefor8and4of10patients,respectively.Nopatienttreated
+2. Common toxicities were generally constitutional (fati- on Schedule 4/2 experienced LVEF declines by C20% to
+gue, pyrexia, mucosal inflammation, anorexia), gastroin- belowthelowerlimitofnormalorgrade[1increaseinQTc
+testinal (diarrhea, nausea, vomiting, stomatitis), or interval. One patient on Schedule 4/2 died during the study
+cutaneous (rash and alopecia). (diseaseprogressionconsiderednotrelatedtostudydrug).
+123
+
+--- Page 6 ---
+674 CancerChemotherPharmacol(2010)66:669–680
+Table3 Patientdisposition
+Schedule4/2dose Schedule2/1doselevelsa0–3b
+levelsa0–1(N=10)
+Allpatients MTDonlydose
+(N=40) level3b(n=23)
+Mediancyclesstarted(range) 2(1–3) 4(1–6) 4(1–6)
+Treatmentinterruptionforsunitinib,n(%)
+Adverseevent 3(30) 11(28) 9(39)
+Other 0 0 0
+Dosereductionforsunitinib,n(%) 1(10) 5(13) 4(17)
+Reasonfortreatmentdiscontinuation,n(%)
+Adverseevent 6(60) 5(13) 4(17)
+Consentwithdrawn 1(10) 2(5) 1(4)
+Lackofantitumoractivity 2(20) 16(40) 8(35)
+Sponsordecision 0 3b(8) 1(4)
+Patientcompletedstudyperprotocol 1(10) 14(35) 9(39)
+a Doselevel0=sunitinib25mg?docetaxel60mg/m2q21d(initialdoselevelused);doselevel1=sunitinib37.5mg?docetaxel60mg/
+m2q21d;doselevel2=sunitinib50mg?docetaxel60mg/m2q21d;doselevel3a=sunitinib50mg?docetaxel75mg/m2q21d;doselevel
+3b=sunitinib37.5mg?docetaxel75mg/m2q21d
+b These patients were discontinued from this study and enrolled in a different study of single-agent sunitinib. Two patients discontinued
+docetaxelduetoadverseevents.Onepatientwasdiscontinuedduetoaconcomitantillness
+Table4 All-causalitygrade3/4
+Adverseevent Schedule4/2(N=10) Schedule2/1(N=40)
+adverseevents(n,%),allcycles
+andoccurringinC2patients Grade3 Grade4 Grade3 Grade4
+acrossbothtreatmentschedules n(%) n(%) n(%) n(%)
+Neutropenia 1(10.0) 5(50.0) 4(10.0) 20(50.0)
+Fatigue 2(20.0) 0 8(20.0) 0
+Febrileneutropenia 2(20.0) 1(10.0) 1(2.5) 3(7.5)
+Hyperglycemia 1(10.0) 0 4(10.0) 0
+Hypophosphatemia 4(40) 0 0 0
+Leukopenia 0 0 3(7.5) 1(2.5)
+Hypokalaemia 0 0 3(7.5) 0
+Dyspnea 0 0 1(2.5) 1(2.5)
+Diarrhea 0 0 3(7.5) 0
+Hemaglobindecrease 1(10.0) 0 1(2.5) 0
+Hypersensitivity 0 0 2(5.0) 0
+Infection(NOS) 1(10.0) 0 1(2.5) 0
+Nausea 1(10.0) 0 1(2.5) 0
+GIGastrointestinal;NOSnot
+Pyrexia 0 0 2(5.0) 0
+otherwisespecified
+BecausetheestablishedMTDonSchedule4/2(sunitinib m2 q21d (dose level 0), the first dose level tested on
+25 mg/dayplusdocetaxel60 mg/m2q21d)wasconsidered Schedule 2/1. However, since this regimen was tolerable
+sub-optimal for both agents and inconvenient for admin- onSchedule4/2(wheresunitinibwasreceivedfor28 days
+istration, this schedule was not pursued any further. compared with 14 days on Schedule 2/1), the study was
+amendedtoenrollanadditional3patientsatthisdoselevel
+Schedule 2/1 to further explore the toxicity profile. No further DLTs
+occurred and dose escalation proceeded. Three patients
+Determination of MTD On Schedule 2/1, 2 of 6 patients were treated at each of the next two dose levels (sunitinib
+experienced a DLT (grade 4 neutropenia, grade 4 febrile 37.5 mg/dayplusdocetaxel60 mg/m2q21d[doselevel1],
+neutropenia)onsunitinib25 mg/dayplusdocetaxel60 mg/ sunitinib 50 mg/day plus docetaxel 60 mg/m2 q21d [dose
+123
+
+--- Page 7 ---
+CancerChemotherPharmacol(2010)66:669–680 675
+level 2]), and no DLTs were observed. Both patients neutropeniaofanygradewasattributabletosunitinibandto
+treatedwithsunitinib50 mgplusdocetaxel75 mg/m2q21d docetaxel in 5/40 (13%) and 4/40 (10%) patients, respec-
+(dose level 3) experienced DLTs (grade 3 febrile neutro- tively. Overall, 14 patients received granulocytic growth
+penia and grade 4 neutropenia); therefore a lower dose factor support on Schedule 2/1, including 11 (48%) in the
+levelwastested(doselevel3b:sunitinib37.5 mg/day plus MTD cohort; growth factors used most commonly were
+docetaxel 75 mg/m2 q21d). At this dose level, 1 of 6 pegfilgrastim,andfilgrastimweregivenduringcycles2,3,or
+patients experienced a DLT (grade 3 gastrointestinal 4 of the study treatment. Despite the use of growth factor
+hemorrhage), and sunitinib 37.5 mg/day on Schedule 2/1 support, the incidence of grade 3/4febrile neutropenia was
+plus docetaxel 75 mg/m2 q21d was determined to be the 13% in the MTD cohort. Erythropoeitic growth factors
+MTD. Seventeen additional patients were enrolled at administeredincludederythropoietin(n = 3[8%]andn = 1
+Schedule 2/1 MTD to further characterize the safety, tol- [4%]),darbepoetinalfa(n = 4[10%]andn = 4[17%]),and
+erability, and antitumor effects of the treatment combina- epoetinalfa(n = 2[5%]andn = 1[4%])onSchedule2/1
+tion, and toobtainfullPK profileson sufficientpatients(a overall and the MTD cohort, respectively. In addition, 1
+total of 23 patients were enrolled at Schedule 2/1 MTD). patientontheMTDcohortreceivedpackedredbloodcells.
+Of these 17 additional patients, 1 experienced a DLT Of the subjects receiving prophylactic growth factors, 3
+(grade 4 febrile neutropenia). (6%) on Schedule 2/1 were receiving growth factors
+(erythropoietin, n = 3) for pre-existing anemia before
+Othersafetyfindings Fatigue(70%),diarrhea(57%),and beginningtreatmentwithsunitinib/docetaxel.Twopatients
+pyrexia (57%) were the most frequently reported treat- onSchedule2/1(6%)beganreceivinggrowthfactorsduring
+ment-emergent (all-causality) non-hematologic AEs in cycle1:Onepatient(sunitinib25 mgplusdocetaxel60 mg/
+patientstreatedattheMTDonSchedule2/1.Mostofthese m2)beganreceivingpegfilgrastimonday12ofcycle1,after
+AEs were mild ormoderate inseverity (grade 1 or2).The experiencing grade 4 febrile neutropenia; this event was
+most common grade 3 treatment-emergent non-hemato- considered a DLT. The second patient (sunitinib 37.5 mg
+logic AEs in patients treated at the MTD were fatigue plusdocetaxel75 mg/m2)beganpegfilgrastimonday10of
+(22%), hyperglycemia (13%), hypokalemia (13%), diar- cycle 1, after experiencing grade 4 neutropenia; this event
+rhea, and pyrexia (both 9%) (Table 5). Grade 4 non- wasnotconsideredaDLTasitresolvedin4 days.
+hematologic AEs occurring at the MTD on Schedule 2/1 The subject who experienced the grade 3 DLT of gas-
+were hyperuricemia and atrophic vulvovaginitis (both trointestinal hemorrhage on the Schedule 2/1 MTD was a
+n = 1 [4%]). There were no notable differences in types 38-year-old white female with neuroendocrine tumor
+and severity of AEs in the MTD group compared with all diagnosed 6 years earlier and previously treated with
+subjects on Schedule 2/1. pancreatectomy, splenectomy, external beam radiation to
+Grade 4 hematologic laboratory abnormalities in the 23 the pancreas, 5-fluorouracil, octreotide, gefitinib, cisplatin/
+patients treated at the MTD on Schedule 2/1 were neutro- etoposide, and two experimental study medications. The
+penia, n = 15 (65%), febrile neutropenia n = 2 (9%), and subject entered the study with liver and lung metastases,
+leukopenia,n = 1(4%).AcrossallSchedule2/1doselevels, pleuraleffusion,andascites.Onday13ofcycle1,shewas
+neutropenia(anygrade)wasattributabletosunitinibandto admitted to the hospital and treated for an ileus and dis-
+docetaxelin19/40(48%)and24/40(60%)patients,respec- charged the following day. The subject returned to clinic
+tively, (in 3 subjects, neutropenia was attributed to both on day 20 of cycle 1 and reported black, tarry stools;
+drugs). Across all Schedule 2/1 dose levels, febrile endoscopy revealed severe esophagitis, which was treated
+Table5 All-causalityadverse
+Adverseevent Schedule2/1MTD(N=23)
+eventsincludingallgrades(n,
+%)inallcyclesandoccurringin Grade1 Grade2 Grade3 Grade4
+C2patients(grade3/4)for n(%) n(%) n(%) n(%)
+Schedule2/1attheMTD
+(sunitinib37.5mg?docetaxel Neutropenia 0 2(8.7) 0 15(65.2)
+75mg/m2q21d)
+Fatigue 4(17.4) 7(30.4) 5(21.7) 0
+Febrileneutropenia 0 0 1(4.3) 2(8.7)
+Hyperglycemia 1(4.3) 4(17.4) 3(13.0) 0
+Leukopenia 0 1(4.3) 1(4.3) 1(4.3)
+Hypokalaemia 0 0 3(13.0) 0
+Diarrhea 5(21.7) 6(26.1) 2(8.7) 0
+Pyrexia 7(30.4) 4(17.4) 2(8.7) 0
+123
+
+--- Page 8 ---
+676 CancerChemotherPharmacol(2010)66:669–680
+with esomeprazole and blood transfusion. This DLT geometric mean ratios (i.e. sunitinib ? docetaxel to suni-
+resolved with dose delay/reduction of the study drug and tinib alone) of C and AUC were 1.09 and 1.05 for
+max 24
+gastrointestinalhemorrhagerecurred4 weekslateratgrade sunitinib,1.16and0.99forSU12662,and1.10and1.06for
+1, resolving without action. total drug. The mean trough plasma concentration for day
+Serial ECGs were available for 25 of 40 patients and 14ofcycle1was43.8 ng/mLforsunitinib,16.4 ng/mLfor
+MUGA scans were available for 22 of 40 patients, SU12662, and 60.1 ng/mL for total drug. The PK param-
+respectively. No patients experienced LVEF declines by eters for sunitinib (37.5 mg) and docetaxel (60 mg/m2) on
+C20% to below the lower limit of normal or grade[1 Schedules 4/2 dose level 1 and 2/1 dose level 3b in this
+increase in QTc interval. Hand–foot syndrome occurred in study are consistent with other studies at this dose levelof
+10% of patients on Schedule 2/1, with one patient experi- sunitinib. PK samples for sunitinib were collected at a
+encingagrade3event.FourpatientsonSchedule2/1died steadystateafter18or22 daysoftreatmentonSchedule4/
+during the study; three deaths were reported during the 2 compared with at the beginning of each cycle (after
+study,andonewasreportedafterthefollow-upperiod.All 7 days of wash out time when sunitinib level is very low)
+deaths were considered to be due to disease progression on Schedule 2/1, and therefore PK parameters differed.
+and were not attributed to the study medication.
+Efficacy assessments Nine patients on Schedule 4/2 were
+Pharmacokinetics Mean sunitinib and docetaxel concen- evaluable for efficacy: 4 patients (44%) achieved stable
+tration data showed overlapping profiles during cycles 1 disease(SD)and2patients(22%)experiencedprogressive
+(docetaxel alone) and 2 (docetaxel plus sunitinib) (Fig. 1). disease (PD). Response data for 3 patients were not
+These patients were administered sunitinib starting on day evaluable (no post-baseline measurements available).
+3. Plasma PK parameter values and geometric mean ratios Thirty-eightpatientsonSchedule2/1wereevaluablefor
+for patients with paired observations for sunitinib, efficacy. Three patients (13%) treated at MTD achieved a
+SU12662, total drug, and docetaxel, following multiple partialresponse(PR)andhadthefollowingprimarytumor
+dosing with sunitinib alone and with docetaxel, are sum- types and characteristics (all had multiple metastases):
+marized in Table 6a and b, respectively. For subjects invasive adenocarcinoma of the breast (67-year-old white
+treated on Schedule 2/1 at the MTD, the respective female who had prior surgery but no prior radiotherapy or
+Fig.1 Meanasunitinibandb
+docetaxelplasmadosecorrected
+linearandlog–linear
+concentrationversustime
+profilesforpatientswho
+receivedMTD(37.5mg
+sunitinibplus75mg/m2
+docetaxel)onSchedule2/1a
+123
+
+--- Page 9 ---
+CancerChemotherPharmacol(2010)66:669–680 677
+Table6 PKparametersforstudydrugs(patientswithpairedobservationsonly)
+Mean(SD) Mean(SD) Geometricmeanratio
+sunitinibalone docetaxel?sunitinib (combination/drugalone)
+(a)Sunitinib,SU12662,candtotaldrugd
+Schedule4/2
+Doselevel0,n=3
+Sunitinib
+AUC 721.2(289.0) 548.0(164.7) 0.78
+0–24(ng*h/mL)
+C 36.4(15.7) 27.8(7.4) 0.79
+max(ng/mL)
+Ta 6.0(4.0,6.0) 4.0(4.0,4.0) NA
+max(h)
+SU12662
+AUC 294.0(195.0) 299.9(132.7) 1.10
+0–24(ng*h/mL)
+C 13.3(8.3) 14.4(7.2) 1.14
+max(ng/mL)
+Ta 4.0(4.0,12.0) 4.0(2.0,4.0) NA
+max(h)
+Totaldrug
+AUC 1,015.5(478.7) 848.3(288.7) 0.86
+0–24(ng*h/mL)
+C 49.1(23.8) 42.1(14.2) 0.89
+max(ng/mL)
+Ta 4.0(4.0,6.0) 4.0(4.0,4.0) NA
+max(h)
+Schedule4/2
+Doselevel1,n=5
+Sunitinib
+AUC 1,166.8(303.6) 1,020.4(263.9) 0.88
+0–24(ng*h/mL)
+C 60.1(15.1) 51.9(12.9) 0.87
+max(ng/mL)
+Ta 8.0(2.0,8.0) 4.0(4.0,4.0) NA
+max(h)
+SU12662
+AUC 341.9(110.9) 366.8(137.5) 1.06
+0–24(ng*h/mL)
+C 16.3(4.6) 17.7(7.2) 1.05
+max(ng/mL)
+Ta 6.0(2.0,12.0) 4.0(1.0,12.0) NA
+max(h)
+Totaldrug
+AUC 1,508.9(381.7) 1,387.4(346.7) 0.92
+0–24(ng*h/mL)
+C 75.6(17.1) 69.5(18.3) 0.91
+max(ng/mL)
+Ta 8.0(2.0,8.0) 4.0(4.0,4.0) NA
+max(h)
+Schedule2/1
+Doselevel3bb,
+n=10
+Sunitinib
+AUC 297.2(89.0) 312.9(88.4) 1.05
+0–24(ng*h/mL)
+C 17.8(5.9) 19.7(7.4) 1.09
+max(ng/mL)
+Ta 5.0(4.0,12.0) 7.0(2.0,12.0) NA
+max(h)
+SU12662
+AUC 58.0(22.3) 62.7(32.4) 0.99
+0–24(ng*h/mL)
+C 3.4(1.3) 4.1(1.9) 1.16
+max(ng/mL)
+Ta 5.0(4.0,24.0) 7.0(2.0,24.0) NA
+max(h)
+Totaldrug
+AUC 355.3(105.5) 374.2(103.7) 1.06
+0–24(ng*h/mL)
+C 21.0(7.0) 23.4(8.9) 1.10
+max(ng/mL)
+Ta 5.0(4.0,12.0) 8.0(2.0,24.0) NA
+max(h)
+123
+
+--- Page 10 ---
+678 CancerChemotherPharmacol(2010)66:669–680
+Table6 continued
+Mean(SD) Mean(SD) Geometricmeanratio
+sunitinibalone docetaxel?sunitinib (combination/drugalone)
+(b)DocetaxelPKparametersd
+Schedule4/2
+Doselevel1,n=5
+Docetaxel
+AUC 2,290.4(596.1) 3,415.4(1,102.8) 1.47
+last(ng*h/mL)
+AUC 2,552.7(649.4) 3,692.8(1,099.8) 1.43
+inf(ng*h/mL)
+C 2,100.0(571.9) 3,098.0(984.2) 1.46
+max(ng/mL)
+t 19.6(10.6) 21.3(7.4) NA
+1/2(h)
+Ta 0.5(0.5,1.0) 0.5(0.4,1.0) NA
+max(h)
+Schedule2/1
+Doselevel3b,n=8
+Docetaxel
+AUC 2,712.5(731.9) 3,056.5(303.7) 1.16
+last(ng*h/mL)
+AUC 2,961.5(766.6) 3,235.9(298.5) 1.12
+inf(ng*h/mL)
+C 2,581.3(535.6) 3,180.0(495.5) 1.24
+max(ng/mL)
+t 15.7(9.9) 17.7(7.9) NA
+1/2(h)
+Ta 0.6(0.5,1.0) 0.8(0.5,1.0) NA
+max(h)
+DoselevelsofsunitinibanddocetaxelaredetailedinTable1
+a ForT ,medianandrangearereported
+max
+b 2/1MTD=sunitinib37.5mg?docetaxel75mg/m2q21d
+c SU12662istheprimarymetaboliteofsunitinib
+d FullPKprofilesforsunitinibandSU12662wereobtainedondays18and22onSchedule4/2andonday3ofcycle1,andday1ofcycle2on
+Schedule2/1.PKprofilesfordocetaxelwereobtainedondays1and22ofcycle1onSchedule4/2andonday1ofcycles1and2onSchedule2/1
+NANotapplicable
+systemic therapy), small cell lung cancer (63-year-old administered on Schedules 4/2 or 2/1 in combination with
+white female who had prior surgery and received carbo- docetaxelforthetreatmentofsubjectswithadvancedsolid
+platin/etoposide and oxaliplatin/irinotecan as previous tumors, including some who were heavily pre-treated and/
+systemictherapies),andNSCLC(62-year-oldwhitefemale or had multiple metastases. This phase I study determined
+whoreceivedcarboplatin/gemcitabineasprevioussystemic the MTD as sunitinib 25 mg/day on Schedule 4/2 plus
+therapy). SD ([6 weeks) was observed in 12 (32%) docetaxel 60 mg/m2 q21d (n = 4). The MTD was deter-
+patientstreatedonSchedule2/1,including6(43%)treated mined as sunitinib 37.5 mg/day plus docetaxel 75 mg/m2
+at the MTD. PD was observed in 11 (29%) patients on q21d (n = 23) on Schedule 2/1.
+Schedule 2/1, including 7 (32%) of the patients treated at The safety profile at MTD on Schedule 2/1 (sunitinib
+MTD.Post-baselinemeasurementswerenotavailablefor5 37.5 mg/day plus docetaxel 75 mg/m2 q21d) in this pop-
+patients, and response data were not evaluable for 7 ulation of heavily pre-treated patients was acceptable with
+patients. aggressive management of hematologic toxicities. Most
+toxicities were mild or moderate in severity (grade 1 or 2)
+and similar in type to those previously reported with sun-
+Discussion itinib and with docetaxel in patients with advanced solid
+tumors [7, 19, 26]. The most common non-hematologic
+For many patients with solid tumors refractory to chemo- toxicitieswerefatigue,diarrhea,andpyrexia.Theobserved
+therapy, therapeutic options are limited. Newer targeted safety profile was similar to that reported with this treat-
+therapies, which may be given in combination with che- ment regimen (Schedule 2/1 sunitinib 37.5 mg/day, doce-
+motherapy, may offer a potential treatment approach [4, taxel75 mg/m2q21d)inanexploratoryanalysisofpatients
+19, 24, 25]. with breast cancer [27], as well as that reported following
+TheprimaryobjectiveofthisphaseIdose-findingstudy administration of docetaxel [7]. In this breast cancer study
+was to assess the MTD and overall safety of sunitinib byGiannietal.[27]themostcommonlyobservedAEwas
+123
+
+--- Page 11 ---
+CancerChemotherPharmacol(2010)66:669–680 679
+severe neutropenia, which occurred at least once in all grade 3 or 4 febrile neutropenia, the heavily pre-treated
+patients. Neutropenia is commonly associated with doce- patients with advanced solid malignancies tolerated suniti-
+taxel monotherapy; grade 3/4 neutropenia has been repor- nib on Schedule 2/1 in combination with docetaxel at rel-
+tedin54–84%ofpatientsinphaseIIItrialsofbreastcancer evant doses of both agents. Therefore, the use of growth
+and NSCLC [28, 29]. The incidence of grade 3/4 febrile factorsupportandtheincidenceoffebrileneutropeniawill
+neutropenia observed in this trial, although higher than be evaluated closely in ongoing clinical trials of this treat-
+reported with single-agent docetaxel [28, 29], was man- ment combination to characterize more fully the hemato-
+ageable with growth factor support. The sunitinib–doce- logic tolerability of this regimen. Ongoing clinical trials
+taxeltreatmentcombinationappearedtobeassociatedwith include a phase III breast cancer trial comparing 37.5 mg
+more common and more severe hematologic toxicity than sunitinib on Schedule 2/1 plus docetaxel 75 mg/m2 q21d
+is typically observed with docetaxel or sunitinib alone [7, withdocetaxel100 mg/m2q21dalone,andaphaseI/IItrial
+30].InthisphaseItrial,13%ofpatientstreatedatSchedule of sunitinib (12.5, 37.5, and 50 mg on Schedule 2/1) in
+2/1MTDexperiencedfebrileneutropeniadespitetheuseof combination with docetaxel (60 and 75 mg/m2) and pred-
+granulocyticgrowthfactorsupportin48%ofpatients.Itis nisone 5 mg twice daily for the first-line treatment of
+noteworthy that use of granulocytic growth factor support metastatic castrate-resistant prostate cancer. In the phase I
+was substantially lower with single-agent docetaxel trialreportedhere,therewerenoclinicallysignificantdrug–
+(17.9%) compared with this study of sunitinib combined drug interactions noted with either schedule, and although
+withdocetaxel[29].Giventhelimitednumberofpatientsin efficacy wasnotaprimaryendpointofthistrial,antitumor
+this study, it is difficult to identify the effects of the pos- data were suggestive ofpotential clinical benefit.
+siblefactorsexacerbatingneutropenia.Whileitisprobable
+that the neutropenia observed in this study may be related Acknowledgments WethankTanyaBoutrosforhercontributionto
+theanalyticalpartofthisstudy,andDr.ShemPatynaforreviewing
+to the heavily pre-treated nature of our patients and/or to
+and contributing to the intellectual content of this manuscript. Edi-
+sunitinib treatment itself, determining a direct causality is torialassistancewasprovidedbyACUMED(cid:3)(Tytherington,UK)and
+not possible. The manageability of the hematologic toxic- wasfundedbyPfizerInc.ThestudywassponsoredbyPfizerInc.
+ities with granulocytic growth factor support in this trial
+Open Access This article is distributed under the terms of the
+contrastssomepreviousstudies.Forexample,thephaseIII
+Creative Commons Attribution Noncommercial License which per-
+trial evaluating sorafenib, carboplatin, and paclitaxel effi-
+mits any noncommercial use, distribution, and reproduction in any
+cacy in NSCLC (ESCAPE) was terminated early due to medium,providedtheoriginalauthor(s)andsourcearecredited.
+increased risk of mortality and toxicities, including higher
+ratesofgrade3/4thrombocytopenia(14vs.6%)andfebrile
+neutropenia (5% vs.\3%) in patients treated with sorafe-
+nibcomparedwithchemotherapyalone[31].Similarly,the References
+phase II/III trial of cediranib (30 mg/day or 45 mg/day),
+carboplatin, and paclitaxel in patients with NSCLC was 1. Hasumi Y, Klosowska-Wardega A, Furuhashi M, Ostman A,
+Heldin CH, Hellberg C (2007) Identification of a subset of
+terminated due to increased toxicities in the investigative
+pericytes that respond to combination therapy targeting PDGF
+arm [32]. While c-Kit and FLT are important in hemato-
+andVEGFsignaling.IntJCancer121:2606–2614
+poiesis and may be key players in myelosuppression, their 2. PotapovaO,LairdAD,NanniniMAetal(2006)Contributionof
+potential off-target inhibition by sunitinib was not evalu- individual targets to the antitumor efficacy of the multitargeted
+receptor tyrosine kinase inhibitor SU11248. Mol Cancer Ther
+ated in this study.
+5:1280–1289
+No patient experienced cardiac abnormalities, including
+3. Shikada Y, Yonemitsu Y, Koga T et al (2005) Platelet-derived
+LVEF declines by C20% or to below the lower limit of growthfactor-AAisanessentialandautocrineregulatorofvas-
+normal,suggestingthatthecombinationdoesnotleadtoan cularendothelialgrowthfactorexpressioninnon-smallcelllung
+carcinomas.CancerRes65:7241–7248
+excessive risk for cardiac toxicity. Mean sunitinib and
+4. SandlerA,GrayR,PerryMCetal(2006)Paclitaxel-carboplatin
+docetaxelconcentrationdatashowoverlappingPKprofiles
+alone or with bevacizumab for non-small-cell lung cancer. N
+during cycle 1 (docetaxel alone) and cycle 2 (docetaxel EnglJMed355:2542–2550
+plus sunitinib). Changes in PK parameters for docetaxel, 5. Manegold C, Von Pawel J, Zatloukal P et al. (2008) BO17704
+(AVAIL):aphaseIIIrandomisedstudyoffirst-linebevacizumab
+sunitinib,SU12662,andtotaldrugatMTDonSchedule2/
+combined withcisplatin/gemcitabine (CG)in patients(pts) with
+1(37.5 mg/daysunitinibwith75 mg/m2docetaxel)arenot
+advancedorrecurrentnon-squamous,non-smallcelllungcancer
+considered clinically relevant and indicate no PK drug– (NSCLC).AnnOncol19:viii1(AbstractLBA1)
+drug interactions between sunitinib and docetaxel. 6. MonteroA,FossellaF,HortobagyiG,ValeroV(2005)Docetaxel
+for treatment of solid tumours: a systematic review of clinical
+In summary, experience from our phase I trial demon-
+data.LancetOncol6:229–239
+strated that although 17% of patients treated at MTD
+7. Sanofi-aventis (2007) Taxotere (docetaxel) Prescribing Informa-
+required sunitinib dose reductions and 13% developed tion.Sanofi-aventis,NewYork
+123
+
+--- Page 12 ---
+680 CancerChemotherPharmacol(2010)66:669–680
+8. DemetriGD,vanOosteromAT,GarrettCRetal(2006)Efficacy andincombinationwith‘‘standardofcare’’therapeuticagentsfor
+andsafetyofsunitinibinpatientswithadvancedgastrointestinal thetreatmentofbreastcancer.MolCancerTher2:1011–1021
+stromaltumourafterfailureofimatinib:arandomisedcontrolled 22. ChristensenJG,HallC,HollisterBA(2008)Antitumorefficacy
+trial.Lancet368:1329–1338 of sunitinib malate in concurrent and sequential combinations
+9. MotzerRJ,MichaelsonMD,RedmanBGetal(2006)Activityof with standard chemotherapeutic agents in non-small cell lung
+SU11248, a multitargeted inhibitor of vascular endothelial cancer (NSCLC) nonclinical models. Proceedings of the 99th
+growth factor receptor andplatelet-derived growth factor recep- annualmeetingoftheAmericanassociationforcancerresearch
+tor,inpatientswithmetastaticrenalcellcarcinoma.JClinOncol 23. Therasse P, Arbuck SG, Eisenhauer EA et al (2000) New
+24:16–24 guidelinestoevaluatetheresponsetotreatmentinsolidtumors.J
+10. MotzerRJ,HutsonTE,TomczakPetal(2007)Sunitinibversus NatlCancerInst92:205–216
+interferonalfainmetastaticrenal-cellcarcinoma.NEnglJMed 24. YangJC,HaworthL,SherryRMetal(2003)Arandomizedtrial
+356:115–124 ofbevacizumab,ananti-vascularendothelialgrowthfactoranti-
+11. Abrams TJ, Lee LB, Murray LJ, Pryer NK, Cherrington JM body,formetastaticrenalcancer.NEnglJMed349:427–434
+(2003)SU11248inhibitsKITandplatelet-derivedgrowthfactor 25. SchoffskiP,DumezH,ClementPetal(2006)Emergingroleof
+receptor beta in preclinical models of human small cell lung tyrosinekinaseinhibitorsinthetreatmentofadvancedrenalcell
+cancer.MolCancerTher2:471–478 cancer:areview.AnnOncol17:1185–1196
+12. Kim DW, Jo YS, Jung HS et al (2006) An orally administered 26. SUTENT(2008)(Sunitinibmalate)prescribinginformation.New
+multitargettyrosinekinaseinhibitor,SU11248,isanovelpotent York,NY
+inhibitor of thyroid oncogenic RET/papillary thyroid cancer 27. Gianni L, Cardoso F, Mariani G, Isaksson-Friman E, Besse-
+kinases.JClinEndocrinolMetab91:4070–4076 Hammer T, Vigano L, Verkh L, Rossi, C, Giorgetti C, Bergh J
+13. Mendel DB, Laird AD, Xin X et al (2003) In vivo antitumor (2007) Exploratory evaluation of a sequential administration of
+activity of SU11248, a novel tyrosine kinase inhibitor targeting docetaxel and sunitinib in women with advanced breast cancer.
+vascular endothelial growth factor and platelet-derived growth BrCancerResTreat106(Suppl.1):S273(Abstract6079)
+factor receptors: determination of a pharmacokinetic/pharmaco- 28. FossellaFV,DeVoreR,KerrRNetal(2000)Randomizedphase
+dynamicrelationship.ClinCancerRes9:327–337 IIItrialofdocetaxelversusvinorelbineorifosfamideinpatients
+14. MurrayLJ,AbramsTJ,LongKRetal(2003)SU11248inhibits withadvancednon-small-celllungcancerpreviouslytreatedwith
+tumor growth and CSF-1R-dependent osteolysis in an experi- platinum-containingchemotherapyregimens.TheTAX320Non-
+mentalbreastcancerbonemetastasismodel.ClinExpMetastasis Small Cell Lung Cancer Study Group. J Clin Oncol 18:2354–
+20:757–766 2362
+15. O’FarrellAM,AbramsTJ,YuenHAetal(2003)SU11248isa 29. HarveyV,MouridsenH,SemiglazovVetal(2006)PhaseIIItrial
+novelFLT3tyrosinekinaseinhibitorwithpotentactivityinvitro comparingthreedosesofdocetaxel forsecond-linetreatmentof
+andinvivo.Blood101:3597–3605 advancedbreastcancer.JClinOncol24:4963–4970
+16. PfizerInc(2008)Dataonfile 30. Hanna N, Shepherd FA, Fossella FV et al (2004) Randomized
+17. KulkeM,LenzHJ,MeropolNetal(2008)ActivityofSunitinib phase III trial of pemetrexed versus docetaxel in patients with
+in patients with advanced neuroendocrine tumors. J Clin Oncol non-small-celllungcancerpreviouslytreatedwithchemotherapy.
+26:3403–3410 JClinOncol22:1589–1597
+18. Burstein HJ, Elias AD, Rugo HS et al (2008) Phase II study of 31. ScagliottiG,VonPawelJ,ReckM,CupitL,CihonF,DiMatteo
+sunitinib malate, an oral multitargeted tyrosine kinase inhibitor, S, O’Leary, J, Hanna N (2008) Sorafenib plus carboplatin/pac-
+in patients with metastatic breast cancer previously treated with litaxelinchemonaivepatientswithstageIIIb-IVNSCLC:interim
+ananthracyclineandataxane.JClinOncol26:1810–1816 analysis results form the phase III, randomized, double-blind,
+19. Socinski MA, Novello S, Brahmer JR et al (2008) Multicenter, placebo-controlled, ESCAPE (Evaluation of Sorafenib, CArbo-
+phase II trial of sunitinib in previously treated, advanced non- platinandPaclitaxelEfficacyinNSCLC)trial
+small-celllungcancer.JClinOncol26:650–656 32. Laurie SA, Arnold A, Shepherd FA, Dediu M, Ciuleanu T,
+20. Faivre S, Delbaldo C, Vera K et al (2006) Safety, pharmacoki- FentonD,ZukinM,GossG,DingK,SeymourL(2008)National
+netic,andantitumoractivityofSU11248,anoveloralmultitarget Cancer Institute of Canada clinical trials group study BR.24, a
+tyrosine kinase inhibitor, in patients with cancer. J Clin Oncol randomizedplacebocontrolledphaseIItrialofcediranib(CED)
+24:25–35 plus carboplatin _ paclitaxel (C_P) in advanced non-small cell
+21. Abrams TJ, Murray LJ, Pesenti E et al (2003) Preclinical eval- lung cancer of any histology: further analyses. J Thorac Oncol
+uationofthetyrosinekinaseinhibitorSU11248asasingleagent 3(11(Supplement4)):S262
+123

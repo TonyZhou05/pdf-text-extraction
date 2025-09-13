@@ -1,0 +1,597 @@
+Source: 33451345.pdf
+Extracted on: Fri Sep 12 23:57:49 PDT 2025
+==================================================
+
+--- Page 1 ---
+Schmidetal.BreastCancerResearch (2021) 23:8
+https://doi.org/10.1186/s13058-020-01382-8
+RESEARCH ARTICLE Open Access
+A phase Ib/II study of xentuzumab, an
+IGF-neutralising antibody, combined with
+exemestane and everolimus in hormone
+receptor-positive, HER2-negative locally
+advanced/metastatic breast cancer
+Peter Schmid1*, Marie-Paule Sablin2, Jonas Bergh3, Seock-Ah Im4, Yen-Shen Lu5, Noelia Martínez6, Patrick Neven7,
+Keun Seok Lee8, Serafín Morales9, J. Alejandro Pérez-Fidalgo10, Douglas Adamson11, Anthony Gonçalves12,
+Aleix Prat13, Guy Jerusalem14, Laura Schlieker15, Rosa-Maria Espadero16, Thomas Bogenrieder17,18,
+Dennis Chin-Lun Huang19,20, John Crown21† and Javier Cortés22,23†
+Abstract
+Background: Xentuzumab—a humanised IgG1 monoclonalantibody—bindsIGF-1 and IGF-2, inhibiting their
+growth-promoting signalling and suppressing AKT activation byeverolimus. Thisphase Ib/II exploratory trial
+evaluated xentuzumab plus everolimus and exemestane in hormone receptor-positive,locally advanced and/or
+metastatic breast cancer (LA/MBC).
+Methods: Patientswithhormonereceptor-positive/HER2-negativeLA/MBCresistanttonon-steroidalaromatase
+inhibitorswereenrolled.Maximumtolerateddose(MTD)andrecommendedphaseIIdose(RP2D)ofxentuzumab/
+everolimus/exemestaneweredeterminedinphaseI(single-arm,dose-escalation).InphaseII(open-label),patientswere
+randomised1:1totheRP2Dofxentuzumab/everolimus/exemestaneoreverolimus/exemestanealone.Randomisation
+wasstratifiedbythepresenceofvisceralmetastases.Primaryendpointwasprogression-freesurvival(PFS).
+(Continuedonnextpage)
+*Correspondence:p.schmid@qmul.ac.uk
+†JohnCrownandJavierCortéscontributedequallytothiswork.
+1CentreforExperimentalCancerMedicine,BartsCancerInstitute,Queen
+MaryUniversityofLondon,London,UK
+Fulllistofauthorinformationisavailableattheendofthearticle
+©TheAuthor(s).2021OpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,
+whichpermitsuse,sharing,adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreativeCommonslicence,andindicateif
+changesweremade.Theimagesorotherthirdpartymaterialinthisarticleareincludedinthearticle'sCreativeCommons
+licence,unlessindicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthearticle'sCreativeCommons
+licenceandyourintendeduseisnotpermittedbystatutoryregulationorexceedsthepermitteduse,youwillneedtoobtain
+permissiondirectlyfromthecopyrightholder.Toviewacopyofthislicence,visithttp://creativecommons.org/licenses/by/4.0/.
+TheCreativeCommonsPublicDomainDedicationwaiver(http://creativecommons.org/publicdomain/zero/1.0/)appliestothe
+datamadeavailableinthisarticle,unlessotherwisestatedinacreditlinetothedata.
+
+--- Page 2 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page2of11
+(Continuedfrompreviouspage)
+Results:MTDwasdeterminedasxentuzumab1000mgweeklypluseverolimus10mg/dayandexemestane25mg/day.
+Atotalof140patientswereenrolledinphaseII(70toeacharm).Furtherrecruitmentwasstoppedfollowingan
+unfavourablebenefit-riskassessmentbytheinternalDataMonitoringCommitteeappointedbythesponsor.
+Xentuzumabwasdiscontinued;patientscouldreceiveeverolimus/exemestaneifclinicallyindicated.MedianPFSwas
+7.3months(95%CI3.3–notcalculable)inthexentuzumab/everolimus/exemestanegroupand5.6months(3.7–9.1)in
+theeverolimus/exemestanegroup(hazardratio0.97,95%CI0.57–1.65;P=0.9057).Inapre-specifiedsubgroupof
+patientswithoutvisceralmetastasesatscreening,xentuzumab/everolimus/exemestaneshowedevidenceofPFSbenefit
+versuseverolimus/exemestane(hazardratio0.21[0.05–0.98];P=0.0293).Mostcommonany-causeadverseeventsin
+phaseIIwerediarrhoea(29[41.4%]inthexentuzumab/everolimus/exemestanegroupversus20[29.0%]inthe
+everolimus/exemestanegroup),mucosalinflammation(27[38.6%]versus21[30.4%]),stomatitis(24[34.3%]versus24
+[34.8%]),andasthenia(21[30.0%]versus24[34.8%]).
+Conclusions:Additionofxentuzumabtoeverolimus/exemestanedidnotimprovePFSintheoverallpopulation,
+leadingtoearlydiscontinuationofthetrial.EvidenceofPFSbenefitwasobservedinpatientswithoutvisceral
+metastaseswhentreatedwithxentuzumab/everolimus/exemestane,leadingtoinitiationofthephaseIIXENERA™-1trial
+(NCT03659136).
+Trialregistration:ClinicalTrials.gov,NCT02123823.Prospectivelyregistered,8March2013.
+Keywords:Breastcancer,HER2-negative,Hormonereceptor-positive,Insulin-likegrowthfactor,Xentuzumab
+Introduction trial [6, 7]; however, in contrast to some CDK4/6 inhibi-
+Standard treatment for postmenopausal women with tors [3, 4], OS benefit was not observed. Additionally,
+hormone receptor-positive, human epidermal growth everolimus was associated with a higher incidence of
+factor receptor (HER2)-negative advanced breast cancer adverse events (AEs), such as stomatitis, fatigue, and
+is endocrine therapy, using an aromatase inhibitor (AI; hyperglycaemia. Notably, everolimus plus exemestane
+e.g. letrozole, anastrozole [non-steroidal], or exemestane has shown similar efficacy irrespective of prior CDK4/6
+[steroidal]), tamoxifen, or fulvestrant [1]. Despite initial inhibitortherapy[8].
+benefit, disease progression typically ensues due to ac- Insulin-like growth factor (IGF) signalling can influ-
+quired endocrine resistance. Additionally, patients may ence cancer progression and prognosis, and drives
+have primary resistance, rendering them unresponsive to resistance to various anti-cancer treatments [9]. In
+endocrinetherapy[2]. breast cancer, regulatory feedback loops between the
+Strategies to prevent acquired endocrine resistance in- IGF axis and the mTOR/PI3K/AKT pathway may
+cludeinhibitionofcell-cycleprogressioninbreastcancer limit the efficacy of mTOR inhibitor/endocrine ther-
+cells using cyclin-dependent kinase (CDK) inhibitors [2]. apy combinations due to compensatory IGF ligand-
+The addition of a CDK 4/6 inhibitor (e.g. palbociclib, driven signalling [2, 10]. Preclinical data also suggest
+ribociclib, and abemaciclib) to an AI in endocrine that IGF signalling may have a key role in non-
+therapy-naïve or endocrine-pre-treated patients, or to visceral disease, particularly bone and lymph node
+fulvestrant in endocrine-pre-treated patients, improved metastases development [11, 12].
+progression-free survival (PFS) and overall survival (OS) Xentuzumab (BI 836845),ahumanised IgG1 monoclo-
+[3, 4] and is recommended in current treatment guide- nal antibody, binds IGF-1 and IGF-2 ligands with high
+lines[1]. affinity and potently neutralises their proliferative signal-
+Alternatively, treatmentor reversal ofendocrine resist- ling [10]. Xentuzumab has shown preclinical activity
+ance may be achieved by targeting molecular pathways across a range of cancer types [10]. Xentuzumab mono-
+that become activated during acquired resistance [2]. therapywas associated with mild-to-moderate AEs, most
+While activating ESR1 mutations have emerged as a key commonly gastrointestinal disorders, and preliminary
+mechanism in resistance to AIs (but not to fulvestrant) anti-tumour activity in two phase I studies [13]. We
+[5], adaptive signalling via the mammalian target of hypothesised that combining xentuzumab with everoli-
+rapamycin (mTOR)/phosphoinositide 3-kinase (PI3K)/ mus and exemestane would block the negative feedback
+protein kinase B (AKT) pathway also plays an important between IGF and PI3K/AKT/mTOR signalling, thus en-
+role [2]. Everolimus, an mTOR inhibitor, is approved in hancing sensitivity and/or overcoming endocrine resist-
+combination with exemestane for advanced breast can- ance. This phase I/II study (NCT02123823) evaluated
+cer with endocrine resistance, having demonstrated im- the efficacy and safety of xentuzumab plus everolimus
+proved PFS versus exemestane alone in the BOLERO-2 and exemestane, versus exemestane and everolimus
+
+--- Page 3 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page3of11
+alone, in women with locally advanced or metastatic to curative therapy, and had recurred or progressed on/
+breast cancer(MBC). after the last line of systemic therapy for breast cancer.
+Patients were required to have hormone receptor-
+Materials and methods positive, HER2-negative tumours per local testing, and
+Studydesign adequate archival tumour tissue. Patients had tumours
+This study comprised a single-arm, dose-escalation that were resistant to non-steroidal AIs (defined as
+phase I part to determine the maximum tolerated dose recurrence during/within 12months after adjuvant treat-
+(MTD) and recommended phase II dose (RP2D) of ment or progression during/within 1month after treat-
+xentuzumab in combination with everolimus and ment for locally advanced or MBC). Additional inclusion
+exemestane, and a two-arm, open-label, randomised, criteria included the following: life expectancy of ≥6
+parallel-design phase II part to evaluate the anti-tumour months, adequate organ function, a measurable lesion
+activity of this triple combination versus everolimus and per Response Evaluation Criteria in Solid Tumors
+exemestane. (RECIST) v.1.1 or bone lesions (lytic or mixed) in the
+The phase I part included a 7-day run-in with everoli- absence of a measurable lesion, and Eastern Cooperative
+mus and exemestane to achieve steady state prior to Oncology Group performance status ≤2. Exclusion cri-
+xentuzumab treatment. Dose escalation proceeded using teria included the following: previous treatment with
+a 3+3 design. The starting dose was everolimus 10mg agents targeting the IGF, PI3K, AKT, or mTOR path-
+orally once daily (QD) and xentuzumab 750mg intra- ways; prior exemestane treatment; brain or central ner-
+venously once weekly. All cohorts received oral exemes- vous system metastases; and >2 previous lines of
+tane 25mg QD. In the open-label phase II part, patients chemotherapy for locally advanced/MBC (>1 previous
+were randomised (1:1), stratified by visceral involvement line in phase II). There was no limit on lines of prior
+(yes/no; where visceral refers to lung, liver, brain, endocrine therapies, and prior CDK4/6 inhibitor treat-
+pleural, and peritoneal metastasis), to everolimus 10mg mentwaspermitted.
+QD plus exemestane 25mg QD, or xentuzumab plus
+everolimus(attheRP2DdeterminedinphaseI)andexe- Endpointsandassessments
+mestane 25mg QD. Proactive management of stomatitis The primary phase I endpoint was MTD, defined as the
+was mandated, including use of mouthwash. Treatment highest dose at which no more than one of six MTD-
+continued in 28-daycycles until progression, intolerable evaluable patients experienced a dose-limiting toxicity
+AEs, orotherreasons. (DLT; Supplementary Table 1, Additional File 1) during
+The study was approved by the Institutional Review the first treatment cycle (MTD evaluation period). The
+Board or Independent Ethics Committee, respectively, primary phase II endpoint was PFS per investigator re-
+with jurisdiction for the participating sites and was per- view (time from the date of randomisation until the date
+formed in accordance with the Declaration of Helsinki of the first progression according to RECIST v.1.1, or
+and International Conference on Harmonisation Good death). Secondary endpoints (phase II) were time to pro-
+Clinical Practice. All patients received oral and written gression (TTP), objective response (OR; complete re-
+study information and provided written, informed con- sponse [CR] or partial response [PR] per RECIST v.1.1),
+sent. In the phase II part, an internal data monitoring time to OR, duration of OR, disease control (CR or PR,
+committee (DMC)—comprised of an independent group orstablediseaseornon-CR/non-progressivediseaselast-
+of experts from the sponsor—was appointed to assess ing ≥24weeks), and duration of disease control. Further
+the benefit-risk balance of xentuzumab in combination phase II endpoints included OS (duration from date of
+with everolimus and exemestane (two planned time- randomisation to the date of death). AEs were graded
+points: after approximately 30 and 45 PFS events). per the National Cancer Institute Common Terminology
+Following the first analysis, the DMC advised termin- Criteriafor AdverseEvents(NCICTCAE)v.4.03.
+ation of the study based on a claimed negative benefit-
+risk balance. Patient recruitment was stopped on 28 Oc- Statisticalanalysis
+tober 2016, and xentuzumab was discontinued; however, InphaseII,samplesizewascalculatedbasedonahazard
+patients could continue to receive everolimus and exe- ratio (HR) of 0.72, equating to a median PFS increase
+mestaneifclinically indicated. from 7.8months for everolimus/exemestane to 10.8
+months for the triple combination. It was calculated that
+Patients 90 PFS events were required, with an estimated study
+Full criteria areprovided inSupplementary methods(see duration of around 30months. Based on these consider-
+Additionalfile1).Briefly,eligible patientswere postmen- ations, 150 patients were planned to be randomised.
+opausal women aged ≥18years, with histologically con- Following the DMC recommendation to terminate the
+firmed, locally advanced or MBC that was not amenable study, recruitment was stopped and xentuzumab
+
+--- Page 4 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page4of11
+Table1Baselinecharacteristics:phaseIIpart
+Xe1000+Ev10+Ex25(n=70) Ev10+Ex25(n=70) Total(n=140)
+Medianage,years(range) 58.5(41–86) 62.0(42–84) 60.0(41–86)
+ECOGPS,n(%)
+0 45(64.3) 38(54.3) 83(59.5)
+1 25(35.7) 31(44.3) 56(40.0)
+2 0 1(1.4) 1(0.7)
+Mediantimesincediagnosis,months(range) 63.4(12.4–343.5) 63.3(8.3–256.6) 63.3(8.3–343.5)
+Metastaticsitesatscreening,n(%)
+1 18(25.7) 16(22.9) 34(24.3)
+2 25(35.7) 27(38.6) 52(37.1)
+≥3 27(38.6) 27(38.6) 54(38.6)
+Visceralinvolvement,n(%)
+Yes 53(75.7) 54(77.1) 107(76.4)
+No 17(24.3) 16(22.9) 33(23.6)
+Bonemetastases,n(%) 47(67.1) 52(74.3) 99(70.7)
+Lymphnodemetastases,n(%) 33(47.1) 25(35.7) 58(41.4)
+Priorhormonetherapy,n(%) 68(97.1) 69(98.6) 137(97.9)
+Priorchemotherapyinmetastaticsetting,n(%) 17(24.3) 18(25.7) 35(25.0)
+PriorCDK4/6inhibitortreatment,n(%) 0 2(2.9) 2(1.4)
+CDKcyclin-dependentkinase,ECOGPSEasternCooperativeOncologyGroupperformancestatus
+treatment discontinued. To allow a meaningful treat- everolimus 10mg + exemestane 25mg [Xe1000+Ev10+
+ment group comparison, analysis of all RECIST end- Ex25], n=21; Supplementary Fig. 1 and Supplementary
+points was based on a data cut-off of 25 November Table 2,AdditionalFile 1).
+2016. Mandatory collection of OS data was also stopped
+afteraprotocolamendment.
+MTDandDLTs
+No formal statistical testing was planned; all analyses
+During the MTD evaluation period, 0/3 patients in the
+were exploratory. Efficacy analysis (phase II) included
+Xe750+Ev10+Ex25 group and 1/6 patients in the
+all randomised patients; safety analyses included all
+Xe1000+Ev10+Ex25 group had a DLT (grade 3 stoma-
+treated patients. A Cox proportional hazards model
+titis).MTD wasthusdeterminedasXe1000+Ev10+Ex25.
+stratified by visceral involvement (yes/no) was used to
+estimate the HR for PFS between treatment arms. Me-
+dian PFS was calculated from Kaplan–Meier curves
+Safety
+with 95% confidence intervals (CIs) using the Greenwood
+The overall safety profile in phase I is shown in Supple-
+varianceestimate.ExploratoryP values were calculated by
+mentary Table 3 (Additional File 1). The most common
+two-sidedlog-ranktest.ORrates(ORRs)anddiseasecon-
+any-grade AEs were anaemia (66.7%), decreased appetite
+trol rates (DCRs) were compared based on the odds ratio
+(58.3%), hyperglycaemia (58.3%), and mucosal inflamma-
+resulting from logistic regression, adjusted for visceral in-
+tion (54.2%).
+volvement.ExploratoryP values were calculated using the
+likelihood ratio test. Pre-specified subgroup analyses for
+PFS included visceral involvement, bone-only metastasis, PhaseII
+age, and measurable disease at baseline. Median duration Patientsandtreatment
+of follow-up was calculated via the reverse Kaplan–Meier In the phase II part, 140 patients were randomised (70
+method. to each treatment), and 139 were treated (one patient in
+the Ev10+Ex25 arm died and was not treated; Supple-
+Results mentary Fig. 1, Additional File 1). Baseline characteris-
+PhaseI tics were generally well balanced between the two
+Patientsandtreatment treatment arms (Table 1). Median (range) duration of
+Twenty-four patients were treated in phase I (xentuzu- any study treatment was 3.7 (0.3–30.0) months in the
+mab 750mg + everolimus 10mg + exemestane 25mg Xe1000+Ev10+Ex25 arm and 5.5 (0.6–32.3) months in
+[Xe750+Ev10+Ex25], n=3; xentuzumab 1000mg + theEv10+Ex25arm.
+
+--- Page 5 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page5of11
+Fig.1PFSinaallpatients,bpatientswithoutvisceralinvolvement,andcpatientswithvisceralinvolvement.DataarefromphaseIIpart.CI,
+confidenceinterval;HR,hazardratio;n.c.,notcalculable;PFS,progression-freesurvival
+
+--- Page 6 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page6of11
+Fig.2SubgroupanalysisforPFS.DataareforphaseIIpart;[1]overallresultscalculatedasintheprimarymodelanalysis.ECOG,Eastern
+CooperativeOncologyGroup;PFS,progression-freesurvival
+Efficacy evidence of PFS benefit versus Ev10+Ex25 (two PFS
+At the time of data cut-off for the RECIST endpoints, events in 17 patients versus nine events in 16 patients;
+median duration of follow-up was 5.2months (95% CI HR 0.21 [95% CI 0.05–0.98], P=0.0293). Median PFS in
+3.5–5.5). those without visceral metastases was not calculable
+(95% CI 2.8–not calculable) for Xe1000+Ev10+Ex25
+PFS versus 2.2months (95% CI 1.7–9.1) for Ev10+Ex25
+PFS was not significantly different between the Xe1000+ (Fig. 1b). There was no evidence of PFS benefit in
+Ev10+Ex25andEv10+Ex25treatmentarms(median[95% patients with visceral involvement (23 PFS events in 53
+CI] PFS, 7.3months [3.3–not calculable] versus 5.6 [3.7– patients [Xe1000+Ev10+Ex25] versus 21 events in 54
+9.1];HR0.97[95%CI0.57–1.65];P=0.9057;Fig.1a). patients [Ev10+Ex25]; HR 1.34 [95% CI 0.74–2.43], P=
+0.3361). Median PFS in those with visceral metastases at
+Pre-specifiedsubgroupanalysis:visceralandnon-visceral screening was 5.4months (95% CI 1.8–10.9) with
+disease Xe1000+Ev10+Ex25 versus 5.6months (95% CI 5.3–9.3)
+Inthepre-specifiedsubgroupofpatientswithoutvisceral with Ev10+Ex25 (Fig. 1c). The treatment by subgroup
+metastases at screening, Xe1000+Ev10+Ex25 showed interaction P value [P ] was 0.0141. Evidence of PFS
+int
+
+--- Page 7 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page7of11
+Table2Bestoverallresponse:phaseIIpart
+Xe1000+Ev10+Ex25(n=70) Ev10+Ex25(n=70)
+Bestoverallresponse
+CR 1(1.4) 0
+PR 4(5.7) 7(10.0)
+Non-CR/non-PD,n(%) 10(14.3) 8(11.4)
+Non-CR/non-PD≥24weeks 4(5.7) 3(4.3)
+SD,n(%) 28(40.0) 32(45.7)
+SD≥24weeks 4(5.7) 7(10.0)
+PD,n(%) 16(22.9) 14(20.0)
+Notevaluable,n(%) 11(15.7) 9(12.9)
+OR,n(%) 5(7.1) 7(10.0)
+Oddsratio(95%CI)[Pvalue]† 0.70(0.20–2.32)[P=0.5598]
+MediantimetoOR,months(range) 3.7(1.8–5.3) 1.8(1.6–7.2)
+MediandurationofOR,‡months(95%CI) 5.6(NC–NC) NC(1.8–NC)
+Diseasecontrol,n(%) 13(18.6) 17(24.3)
+Oddsratio(95%CI)[Pvalue]† 0.70(0.31–1.59)[P=0.4008]
+Mediandurationofdiseasecontrol,‡months(95%CI) NC(9.2–NC) 9.3(9.0–NC)
+CIconfidenceinterval,CRcompleteresponse,NCnotcalculable,ORobjectiveresponse,PDprogressivedisease,PRpartialresponse,SDstabledisease
+†OddsratioandPvalueareobtainedfromlogisticregressionmodeladjustedforvisceralinvolvementatscreening.Anoddsratio>1favoursXe1000+Ev10+Ex25
+‡Kaplan–Meierestimates
+improvement was also observed in the nested “bone- (11.4% versus 1.4%), nausea (34.3% versus 23.2%), neu-
+only” metastasis subgroup(HR <0.01 [<0.01–not calcul- tropenia (28.6% versus 15.9%), and platelet count de-
+able]; P=0.0942;P =0.0159;Fig.2). creased (18.6% versus 4.3%). Infusion-related reactions
+int
+with xentuzumabwererarelyreported (2[2.9%] patients;
+Secondaryandfurtherendpoints one grade 1 and one grade 2). Selected AEs associated
+TTP was similar between treatment arms (HR 1.03 [95% with everolimus were examined using grouped terms
+CI 0.59–1.80]; P=0.9146). ORRs and DCRs were also (indicated by +). The incidence of stomatitis+ and non-
+similar between the two treatment arms (Table 2). At infectious pneumonitis+ was similar between the two
+the time of analysis, OS data were immature and incon- arms (74.3% versus 72.5% and 12.9% versus 18.8%, re-
+sistently collected. Most patients (85.7%) had OS status spectively). Neutropenia+ and thrombocytopenia+ were
+censored at analysis. Overall, 20 patients had died reported more frequently in the triple combination arm
+(Xe1000+Ev10+Ex25, n=9; Ev10+Ex25, n=11; HR 0.79 than the control arm (40.0% versus 27.5% [grade≥3,
+[95% CI0.33–1.93]). 17.1% versus 7.2%] and 40.0% versus 17.7% [grade≥3,
+7.1% versus 1.4%],respectively).
+Safety Two patients in the Xe1000+Ev10+Ex25 arm died due
+Following the DMC recommendation, xentuzumab to pneumonitis and liver injury, and two patients in the
+treatment was discontinued; however, patients could Ev10+Ex25 arm died due to progression of Burkitt’s
+continue to receive exemestane/everolimus. Safety ana- lymphoma and acute kidney injury. Except for Burkitt’s
+lysis was therefore split according to AEs that occurred lymphoma, these were considered related to treatment.
+up to 9 December 2016 (i.e. the date of xentuzumab The AE profile in patients without visceral involvement
+discontinuation [28 October 2016] plus the 42-day re- at screening was consistent with that in the overall trial
+sidual effect period; Table 3), and those occurring when population(datanot shown).
+patients were receiving only exemestane/everolimus on Xentuzumab dose reduction was required in three pa-
+both treatment arms (10 December 2016 until 4 July tients in the Xe1000+Ev10+Ex25 arm. Everolimus dose
+2018;SupplementaryTable 4,AdditionalFile1). reduction was required more frequently in the Xe1000+
+Any-cause AEs reported more frequently with Ev10+Ex25 arm than the Ev10+Ex25 arm (32 [45.7%]
+Xe1000+Ev10+Ex25 versus Ev10+Ex25 were abdominal versus 18 [26.1%] patients). The most frequent AE lead-
+pain (14.3% versus 4.3%), diarrhoea (41.4% versus ing to dose reduction of everolimus in the Xe1000+
+29.0%), headache (24.3% versus 13.0%), muscle spasms Ev10+Ex25 arm was stomatitis (14 [20.0%] patients).
+
+--- Page 8 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page8of11
+Table3SafetyprofileandmostcommonAEsoccurringupto9December2016:phaseIIpart
+Patients,n(%) Xe1000+Ev10+Ex25(n=70) Ev10+Ex25(n=69)
+AnyAE 70(100.0) 68(98.6)
+Anygrade≥3AE 39(55.7) 31(44.9)
+AnyTRAE 66(94.3) 66(95.7)
+Anygrade≥3TRAE 31(44.3) 21(30.4)
+AnyseriousAE 15(21.4) 20(29.0)
+Mostcommonany-causeAEs Anygrade Grade≥3 Anygrade Grade≥3
+Diarrhoea 29(41.4) 1(1.4) 20(29.0) 1(1.4)
+Mucosalinflammation 27(38.6) 2(2.9) 21(30.4) 0
+Stomatitis 24(34.3) 4(5.7) 24(34.8) 3(4.3)
+Nausea 24(34.3) 0 16(23.2) 0
+Rash 23(32.9) 0 21(30.4) 0
+Cough 23(32.9) 1(1.4) 16(23.2) 2(2.9)
+Asthenia 21(30.0) 1(1.4) 24(34.8) 2(2.9)
+Fatigue 20(28.6) 0 17(24.6) 1(1.4)
+Neutropenia 20(28.6) 8(11.4) 11(15.9) 2(2.9)
+Decreasedappetite 18(25.7) 1(1.4) 21(30.4) 0
+Hyperglycaemia 18(25.7) 4(5.7) 15(21.7) 3(4.3)
+Headache 17(24.3) 0 9(13.0) 0
+Thrombocytopenia 17(24.3) 4(5.7) 10(14.5) 1(1.4)
+ALTincreased 16(22.9) 3(4.3) 10(14.5) 1(1.4)
+Anaemia 15(21.4) 2(2.9) 11(15.9) 2(2.9)
+Vomiting 14(20.0) 2(2.9) 13(18.8) 0
+ASTincreased 13(18.6) 3(4.3) 13(18.8) 0
+Epistaxis 13(18.6) 0 9(13.0) 1(1.4)
+Plateletcountdecreased 13(18.6) 1(1.4) 3(4.3) 0
+Constipation 13(18.6) 1(1.4) 6(8.7) 0
+Pruritus 13(18.6) 0 12(17.4) 0
+Nasopharyngitis 12(17.1) 0 6(8.7) 0
+Hypophosphataemia 11(15.7) 6(8.6) 8(11.6) 2(2.9)
+Dysgeusia 11(15.7) 0 10(14.5) 0
+Dyspnoea 9(12.9) 1(1.4) 17(24.6) 4(5.8)
+Peripheraloedema 5(7.1) 0 14(20.3) 0
+Arthralgia 4(5.7) 0 11(15.9) 0
+Mouthulceration 3(4.3) 0 12(17.4) 0
+AEadverseevent,ALTalanineaminotransferase,ASTaspartateaminotransferase,TRAEtreatment-relatedadverseevent.MostcommonAEsarethoseofany
+causality(≥15%ofpatientsineitherarm)
+However, discontinuations of everolimus due to AEs the RP2D. In the randomised phase II part, we hypothe-
+were numerically lower with Xe1000+Ev10+Ex25 than sised that addition of xentuzumab to everolimus/exe-
+Ev10+Ex25(9[12.9%]versus 12[17.4%] patients). mestane would overcome resistance to endocrine
+therapy; however, at a pre-specified interim analysis on
+18 October 2016, the internal DMC recommended ter-
+Discussion minating the trial due to a lack of superior efficacy in
+In phase I, the MTD of xentuzumab was 1000mg the Xe1000+Ev10+Ex25 arm. Consequently, patient re-
+weekly in combination with everolimus 10mg QD and cruitment was stopped early and xentuzumab was dis-
+exemestane 25mg QD, which was also determined as continued. Patients continued to receive everolimus/
+
+--- Page 9 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page9of11
+exemestane provided they had not met discontinuation Moreover, preclinical evidence suggests that inhibition of
+criteria. IGF-axis signalling can attenuate the development and
+Overall, the triple combination had a manageable and progressionofbonemetastasesinbreastandprostatecan-
+tolerable safety profile, which was remarkably similar to cers [11]. Associations of elevated expression of IGF axis
+the safety profile of everolimus and exemestane alone. componentswithlymphnodemetastaseshavebeeniden-
+Frequency of key side effects associated with everolimus, tified in several cancer types, including breast cancer [12,
+such as pneumonitis, stomatitis/mucositis, and hypergly- 16, 17]. Interestingly, high IGF-1R expression appears to
+caemia, was generally not increased by the addition of be associated with lower metastatic potential in breast
+xentuzumab. In the phase II part, neutropenia and plate- cancer[18].Thismaysuggestthatnon-visceraldiseasere-
+let count decreased were more common in the xentuzu- tains IGF-1R signalling, while visceral metastases lose
+mab arm; however, this was not associated with IGF-1R expression. These results are hypothesis-
+increasedinfections. generating and warrant further examination of xentuzu-
+While comparison of treatment arms was explora- mabinpatientswithonlynon-visceralmetastases.
+tory, there was no evidence of any difference in PFS
+between Xe1000+Ev10+Ex25 and Ev10+Ex25, and no Conclusions
+relevant differences between treatment arms were ob- Overall, xentuzumab can be safely co-administered with
+served regarding secondary or further efficacy end- everolimus and exemestane, but the addition of xentuzu-
+points. In line with the hypothesis that IGF may be mab was not associated with improved PFS in the overall
+important in bone and lymph node metastases, pa- population of patients with hormone receptor-positive,
+tients with non-visceral involvement were identified HER2-negative locally advanced/MBC. Nonetheless, pa-
+as a subgroup with potential benefit from treatment tientswithnovisceral involvementorbone-only metasta-
+with Xe1000+Ev10+Ex25 versus Ev10+Ex25 (HR 0.21 ses were identified as subgroups with potential benefit
+[95% CI 0.05–0.98]). There was no evidence of a from treatment with Xe1000+Ev10+Ex25, which warrants
+treatment effect for patients with visceral disease. Evi- further investigation. Xentuzumab is currently being in-
+dence of PFS improvement with Xe1000+Ev10+Ex25 vestigated in combination with everolimus and exemes-
+versus control was also observed in the “bone-only” tane in a double-blind, placebo-controlled, randomised
+metastasis subgroup. Some caution should be taken phase II trial (XENERA™-1) in women with hormone
+with drawing any firm conclusions from the subgroup receptor-positive/HER2-negative locally advanced/MBC
+analyses given the number of subgroup analyses per- and non-visceral disease (NCT03659136). The inclusion
+formed and the relatively low number of patients/ criteriaofXENERA™-1alsoreflectthechanginglandscape
+events in some subgroups. Any comparisons of point in hormone receptor-positive MBC. Given the time the
+estimates, such as medians, should also take into con- currenttrialwasconducted(enrolmentbetween2014and
+sideration corresponding 95% CIs. 2016), there were very limited data on prior treatment
+The finding of benefit in the non-visceral subgroup is with a CDK 4/6 inhibitor. Indeed, only two patients had
+interesting, particularly as in BOLERO-2, the treatment received prior CDK4/6 inhibitors (Table 1). One patient
+effect of Ev10+Ex25 versus Ex25 was consistent in receivedpriorabemaciclib(January2015toJuly2015)and
+patients with and without visceral metastases [6]. How- one received prior palbociclib (April 2015 to June 2015).
+ever, fulvestrant has shown improved treatment effects In the current trial, both were randomised to Ev10+Ex25
+in patients with non-visceral disease in the FIRST and and had PFS of 5.4 and 1.5months, respectively. Patients
+FALCON trials (fulvestrant versus anastrozole). In these enrolledintheXENERA™-1trialarepermittedtohavere-
+trials, which included endocrine treatment-naïve post- ceived one prior treatment line with a CDK 4/6 inhibitor,
+menopausal women with advanced breast cancer, the andrandomisationwillalsobestratifiedbasedonthis.
+HRs for PFS were smaller for the non-visceral subgroup
+than the visceral subgroup (FALCON, 0.59 [95% CI Supplementary Information
+0.42–0.84] versus 0.99 [0.74–1.33]; FIRST, 0.58 [0.34– Theonlineversioncontainssupplementarymaterialavailableathttps://doi.
+0.99] versus 0.82 [0.54–1.26]) [14]. Conversely, the PFS org/10.1186/s13058-020-01382-8.
+andOSHRsweresimilarinthenon-visceralandvisceral
+Additionalfile1.:Supplementarymaterial.Supplementarymethods,
+subgroups in CONFIRM (fulvestrant 500 versus 250mg
+tablesandfigure
+in patients with prior endocrine therapy; PFS, 0.72
+[0.57–0.92] versus 0.86 [0.69–1.06]; OS, 0.78 [0.61–1.01]
+Abbreviations
+versus 0.83[0.67–1.04])[14]. LA/MBC:Locallyadvancedand/ormetastaticbreastcancer;MTD:Maximum
+TheIGFaxisisknowntocontributetobonemetastases, tolerateddose;RP2D:RecommendedphaseIIdose;PFS:Progression-free
+survival;HER2:Humanepidermalgrowthfactorreceptor;AI:Aromatase
+and bone-derived IGF has been shown to mediate cross-
+inhibitor;CDK:Cyclin-dependentkinase;OS:Overallsurvival;
+talk between bone and metastasized cancer cells [15]. mTOR:Mammaliantargetofrapamycin;PI3K:Phosphoinositide3-kinase;
+
+--- Page 10 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page10of11
+AKT:ProteinkinaseB;AEs:Adverseevents;IGF:Insulin-likegrowthfactor; andPuma;hasreceivedhonorariaandconsultingfeesfromPfizer,AstraZeneca,
+MBC:Metastaticbreastcancer;QD:Oncedaily;DMC:Datamonitoring Novartis,Roche/Genentech,Merck,BoehringerIngelheim,Bayer,Eisai,Celgene,
+committee;RECIST:ResponseEvaluationCriteriainSolidTumors;DLT:Dose- andPuma;andhasreceivedgrantsorresearchfundsforhisinstitutionfrom
+limitingtoxicity;TTP:Timetoprogression;OR:Objectiveresponse; AstraZeneca,Roche,Genentech,Oncogenex,Novartis,andAstellas.
+CR:Completeresponse;PR:Partialresponse;NCICTCAE:NationalCancer JBdeclaresthathisinstitutereceivedpaymentsfromBoehringerIngelheim
+InstituteCommonTerminologyCriteriaforAdverseEvents;HR:Hazardratio; forconductingthistrial,andhisinstitutes(KarolinskaUniversityHospitaland/
+CIs:Confidenceintervals;ORRs:Objectiveresponserates;DCRs:Disease orKarolinskaInstitutet)havereceivedunrestrictedresearchgrantstoperform
+controlrates academicclinicalstudies/spin-offstudiesfromAmgen,AstraZeneca,Bayer
+HealthCare,Merck,Roche,Pfizer,andSanofiAventis.
+Acknowledgements S-AIdeclaresanadvisorycouncilorcommitteeroleforAstraZeneca,Hanmi,
+MedicalwritingassistancewasprovidedbyFionaScott,PhD,ofGeoMed,an Novartis,MediPacto,Roche,andPfizer;hasreceivedconsultingfeesfrom
+Ashfieldcompany,partofUDGHealthcareplc,andwassupportedfinancially AstraZeneca,Amgen,Hanmi,Novartis,MediPacto,Eisai,Roche,andPfizer;and
+byBoehringerIngelheimduringthepreparationofthismanuscript. hasreceivedgrantsorresearchfundsfromAstraZeneca,Roche,andPfizer.
+Y-SLdeclaresanadvisorycouncilorcommitteeroleforBoehringer
+Authors’contributions IngelheimandNovartis;hasreceivedhonorariafromNovartis,Pfizer,Roche,
+S-AI,LS,TB,andJCowereinvolvedintheconceptionanddesignofthe MerckSharp&Dohme,andEisai;hasreceivedconsultingfeesfromNovartis,
+study;M-PS,NM,KSL,SM,JAP-F,DA,AG,AP,TB,andJCcollectedand/or Pfizer,Roche,andMerckSharp;hasreceivedgrantsorresearchfundsfrom
+assembledthedata;PS,M-PS,JB,S-AI,Y-SL,PN,AG,AP,GJ,LS,R-ME,TB, NovartisandRoche,andgrantsfromMerckSharp&Dohme;andhas
+DC-LH,JC,andJCowereinvolvedinthedataanalysisandinterpretation.PS, receivedtravelgrantsorlecturefeesfromNovartis,Pfizer,Roche,Merck
+DC-LH,TB,andJCwereinvolvedindraftingthemanuscript,andallother Sharp&Dohme,andEisai.
+authorscriticallyrevisedthemanuscript.Allauthorsprovidedfinalapproval NMdeclaresanadvisorycouncilorcommitteeroleforEisai,AstraZeneca,
+ofthemanuscriptforsubmissionandagreetobeaccountableforallaspects Roche,Pfizer,andNovartis.
+ofthework. PNdeclaresanadvisorycouncilorcommitteeroleandhasreceivedconsulting
+fees(withpaymenttohisinstitution)forNovartis,Pfizer,andEliLilly;hehas
+Funding receivedgrantsorresearchfundsfromKomopTegenKankerFund.
+ThisworkwassupportedbyBoehringerIngelheimInternationalGmbH. KSLhasreceivedconsultingfeesfromRoche,Lilly,andNovartisandhas
+receivedgrantsorresearchfundsfromDong-AST.
+JAP-FisamemberofaSteeringCommitteefortwotrialsforAstraZeneca
+Availabilityofdataandmaterials
+andKaryopharm;hasreceivedhonorariafromAstraZeneca,Tesaro,
+Toensureindependentinterpretationofclinicalstudyresults,Boehringer
+Pharmamar,Roche,andGilead;andhasreceivedconsultingfeesfrom
+Ingelheimgrantsallexternalauthorsaccesstoallrelevantmaterial,including
+AstraZeneca,Clovis,Roche,andTesaro.
+participant-levelclinicalstudydata,andrelevantmaterialasneededbythem
+DAdeclaresresearchfundingfromBoehringerIngelheimandRoche.
+tofulfiltheirroleandobligationsasauthorsundertheICMJEcriteria.
+AGdeclaresreceiptoftravelgrantsfromRoche,Novartis,Pfizer,and
+Furthermore,clinicalstudydocuments(e.g.studyreport,studyprotocol,
+AstraZeneca.
+statisticalanalysisplan)andparticipantclinicalstudydataareavailabletobe
+APdeclaresadvisorycouncilorcommitteerolesforNanostring
+sharedafterpublicationoftheprimarymanuscriptinapeer-reviewedjournal
+Technologies,Roche,Novartis,Pfizer,OncoloyticsBiotech,Amgen,Lilly,MSD,
+andifregulatoryactivitiesarecompleteandothercriteriametpertheBIPol-
+PUMA,andDaiichiSankyo,Inc,andgrantsorresearchfundsfromNanostring
+icyonTransparencyandPublicationofClinicalStudyData:https://trials.
+Technologies,Roche,andNovartis.
+boehringer-ingelheim.com/transparency_policy.html
+GJdeclareshonorariafromNovartis,Roche,Lilly,Pfizer,Amgen,andBristol-
+Priortoprovidingaccess,documentswillbeexaminedand,ifnecessary,
+MyersSquibb;anadvisoryroleforNovartis,Roche,Amgen,Pfizer,Bristol-
+redactedandthedatawillbede-identified,toprotectthepersonaldataof
+MyersSquibb,Lilly,AstraZeneca,DaiichiSankyo,andAbbvie;researchfund-
+studyparticipantsandpersonnel,andtorespecttheboundariesofthein-
+ingfromRocheandPfizer;andtravel,accommodation,orexpensesfrom
+formedconsentofthestudyparticipants.
+Novartis,Roche,Pfizer,andLilly.
+ClinicalStudyReportsandRelatedClinicalDocumentscanberequestedvia
+LSisemployedonbehalfofBoehringerIngelheim.
+thislink:https://trials.boehringer-ingelheim.com/trial_results/clinical_
+R-MEandDC-LHareemployeesofBoehringerIngelheim.
+submission_documents.html
+TBisaformeremployeeofBoehringerIngelheimandholdsapatentfor
+AllsuchrequestswillbegovernedbyaDocumentSharingAgreement.
+xentuzumab.
+Bonafide,qualifiedscientificandmedicalresearchersmayrequestaccessto
+JCdeclaresemploymentandownershipofstock/shareswithOncomark
+de-identified,analysableparticipantclinicalstudydatawithcorresponding
+Limited;isontheBoardofDirectorsforCancerClinicalResearchTrustand
+documentationdescribingthestructureandcontentofthedatasets.Upon
+CancerTrialsIreland;hasreceivedhonorariafromEisai,Amgen,Puma
+approval,andgovernedbyaDataSharingAgreement,dataaresharedina
+Biotechnology,SeattleGenetics,BoehringerIngelheim,Pfizer,Vertex
+secureddata-accesssystemforalimitedperiodof1year,whichmaybeex-
+Pharmaceuticals,GenomicHealth,G1therapeutics,AstraZeneca,Roche,MSD
+tendeduponrequest.
+Oncology,andPierreFabre;hasaconsultingoradvisoryrolewithEisai,
+Researchersshouldusehttps://trials.boehringer-ingelheim.comtorequest
+PumaBiotechnology,BoehringerIngelheim,Pfizer,VertexPharmaceuticals,
+accesstostudydata.
+Roche,SeattleGenetics,andNovartis;ispartoftheSpeaker’sbureaufor
+Pfizer,Eisai,andGenomicHealth;hasreceivedresearchfundingfromRoche,
+Ethicsapprovalandconsenttoparticipate
+Eisai,BoehringerIngelheim,andPumaBiotechnology;andhasreceived
+ThestudywasperformedinaccordancewiththeDeclarationofHelsinkiand
+travel,accommodation,andexpensesfromMSD,Pfizer,Roche,AstraZeneca,
+theInternationalConferenceonHarmonisationGuideline(ICH)forGood
+Abbvie,Novartis,andPierreFabre.
+ClinicalPractice(GCP).TheIndependentEthicsCommittee(NRESCommittee
+JCoisaconsultant/advisorforRoche,Celgene,Cellestia,AstraZeneca,
+NorthEast,Sunderland,UK)ofthecoordinatinginvestigatorofthetrial(Dr
+BiotheraPharmaceutical,Merus,SeattleGenetics,DaiichiSankyo,Erytech,
+PeterSchmid,London,UK)gaveafavourableopinionforthestudy.TheIECs
+Athenex,Polyphor,Lilly,Servier,MerckSharp&Dohme,GSK,andLeuko;has
+and/orIRBsmettherequirementsoftheICHGCPandlocallegislation.The
+receivedhonorariafromRoche,Novartis,Celgene,Eisai,Pfizer,Samsung
+MedicinesandHealthcareproductsRegulatoryAgency(MHRA)approvedthe
+Bioepis,Lilly,MerckSharp&Dohme,andDaiichiSankyo;hasreceived
+trialon17March2014.
+researchfundingtohisinstitutionfromRoche,AriaPharmaceuticals,
+AstraZeneca,Baxalta,GMBH/ServierAffaires,BayerHealthCare,Eisai,F
+Consentforpublication
+Hoffman-LaRoche,GuardantHealth,MerckSharp&Dohme,Pfizer,Piqur
+Notapplicable
+Therapeutics,PumaC,QueenMaryUniversityofLondon,andSeagen;and
+holdsstock,patents,orintellectualpropertywithMedSIR.
+Competinginterests M-PSandSMhavenoconflictsofinteresttodeclare.
+PSdeclaresanadvisorycouncilorcommitteeroleforPfizer,AstraZeneca,
+Novartis,Roche/Genentech,MSD,BoehringerIngelheim,Bayer,Eisai,Celgene,
+
+--- Page 11 ---
+Schmidetal.BreastCancerResearch (2021) 23:8 Page11of11
+Authordetails humanIGFligand-neutralizingantibody,andmechanisticrationalefor
+1CentreforExperimentalCancerMedicine,BartsCancerInstitute,Queen combinationwithrapamycin.MolCancerTher.2014;13(2):399–409.
+MaryUniversityofLondon,London,UK.2DepartmentofDrugDevelopment 11. RieunierG,WuX,MacaulayVM,LeeAV,Weyer-CzernilofskyU,Bogenrieder
+andInnovation,InstitutCurie,Paris,France.3Departmentof T.Badtothebone:theroleoftheinsulin-likegrowthfactoraxisinosseous
+Oncology-Pathology,KarolinskaInstitutetandBreastCancerCentre,Cancer metastasis.ClinCancerRes.2019;25(12):3479–85.
+Theme,KarolinskaUniversityHospital,Stockholm,Sweden.4Departmentof 12. LeBedisC,ChenK,FallavollitaL,BoutrosT,BrodtP.Peripherallymphnode
+InternalMedicine,SeoulNationalUniversityHospital,CancerResearch stromalcellscanpromotegrowthandtumorigenicityofbreastcarcinoma
+Institute,SeoulNationalUniversityCollegeofMedicine,Seoul,SouthKorea. cellsthroughthereleaseofIGF-IandEGF.IntJCancer.2002;100(1):2–8.
+5DepartmentofOncology,NationalTaiwanUniversityHospital,Taipei, 13. deBonoJ,LinC-C,ChenL-T,CorralJ,MichalareaV,RihawiK,etal.Two
+Taiwan.6DepartmentofOncology,RamonyCajalUniversityHospital,Madrid, first-in-humanstudiesofxentuzumab,ahumanisedinsulin-likegrowth
+Spain.7DepartmentofOncology,UZLeuven,CampusGasthuisberg,Leuven, factor(IGF)-neutralisingantibody,inpatientswithadvancedsolidtumours.
+Belgium.8DepartmentofInternalMedicine,NationalCancerCenter,Goyang, BrJCancer.2020;122(9):1324–32.
+SouthKorea.9DepartmentofMedicalOncology,HospitalUniversitarioArnau 14. RoberstonJ,DiLeoA,FazalM,LichfieldJ,EllisM.AbstractPD5-09:
+deVilanovadeLleida,Lleida,Spain.10MedicalOncologyUnit,Hospital Fulvestrantforhormonereceptor-positiveadvancedbreastcancerin
+ClinicoUniversitarioValencia,BiomedicalResearchInstituteINCLIVA, patientswithvisceralvsnon-visceralmetastases:findingsfromFALCON,
+CIBERONC,Valencia,Spain.11DepartmentofMedicalOncology,Ninewells FIRST,andCONFIRM.CancerRes.2018;78(4_suppl):PD5–09.
+Hospital,TaysideCancerCentre,Dundee,UK.12DepartmentofMedical 15. HiragaT,MyouiA,HashimotoN,SasakiA,HataK,MoritaY,etal.Bone-
+Oncology,InstitutPaoliCalmettes,Aix-MarseilleUniversity,CRCM,CNRS,INSE derivedIGFmediatescrosstalkbetweenboneandbreastcancercellsin
+RM,Marseille,France.13TranslationalGenomicsandTargetedTherapeuticsin bonymetastases.CancerRes.2012;72(16):4238–49.
+SolidTumors,IDIBAPS,HospitalClínicofBarcelona,Barcelona,Spain. 16. LiZJ,YingXJ,ChenHL,YePJ,ChenZL,LiG,etal.Insulin-likegrowthfactor-
+14DepartmentofMedicalOncology,CentreHospitalierUniversitairedeLiège, 1induceslymphangiogenesisandfacilitateslymphaticmetastasisin
+andLiègeUniversity,Liège,Belgium.15Externalstatisticianonbehalfof colorectalcancer.WorldJGastroenterol.2013;19(43):7788–94.
+BoehringerIngelheimPharmaGmbH&Co.KG.,StaburoGmbH&Co.KG., 17. MorgilloF,DeVitaF,AntoniolG,OrdituraM,AuriemmaPP,DiademaMR,etal.
+Munich,Germany.16MedicalDepartment(ClinicalOperations),Boehringer Seruminsulin-likegrowthfactor1correlateswiththeriskofnodalmetastasis
+IngelheimEspañaS.A,Barcelona,Spain.17MedicalDepartment,Boehringer inendocrine-positivebreastcancer.CurrOncol.2013;20(4):e283–8.
+Ingelheim,RCV,Vienna,Austria.18PresentAddress:AmalTherapeuticsSA, 18. SpiliotakiM,MavroudisD,KokotsakiM,VetsikaEK,StoupisI,MatikasA,etal.
+Geneva,Switzerland.19MedicalDepartment,BoehringerIngelheimTaiwan Expressionofinsulin-likegrowthfactor-1receptorincirculatingtumorcells
+Limited,Taipei,Taiwan.20PresentAddress:MSDTaiwan,Taipei,Taiwan. ofpatientswithbreastcancerisassociatedwithpatientoutcomes.Mol
+21DepartmentofMedicalOncology,StVincent’sUniversityHospital,Dublin, Oncol.2018;12(1):21–32.
+Ireland.22BreastCancerGroup,Valld’HebronInstituteofOncology(VHIO),
+Barcelona,Spain.23DepartmentofOncology,IOBInstituteofOncology,
+Publisher’s Note
+QuironsaludGroup,MadridandBarcelona,Spain.
+SpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+publishedmapsandinstitutionalaffiliations.
+Received:3July2020Accepted:9December2020
+References
+1. CardosoF,SenkusE,CostaA,PapadopoulosE,AaproM,AndréF,etal.4th
+ESO–ESMOinternationalconsensusguidelinesforadvancedbreastcancer
+(ABC4)†.AnnOncol.2018;29(8):1634–57.
+2. JohnstonSR.Enhancingendocrinetherapyforhormonereceptor-positive
+advancedbreastcancer:cotargetingsignalingpathways.JNatlCancerInst.
+2015;107(10):djv212.
+3. SlamonDJ,NevenP,ChiaS,FaschingPA,DeLaurentiisM,ImS-A,etal.
+Overallsurvivalwithribociclibplusfulvestrantinadvancedbreastcancer.N
+EnglJMed.2020;382(6):514–24.
+4. SledgeGWJr,ToiM,NevenP,SohnJ,InoueK,PivotX,etal.Theeffectof
+abemaciclibplusfulvestrantonoverallsurvivalinhormonereceptor-
+positive,ERBB2-negativebreastcancerthatprogressedonendocrine
+therapy-MONARCH2:arandomizedclinicaltrial.JAMAOncol.2019;6(1):
+116–24.
+5. RobinsonDR,WuYM,VatsP,SuF,LonigroRJ,CaoX,etal.ActivatingESR1
+mutationsinhormone-resistantmetastaticbreastcancer.NatGenet.2013;
+45(12):1446–51.
+6. BaselgaJ,CamponeM,PiccartM,BurrisHA3rd,RugoHS,SahmoudT,etal.
+Everolimusinpostmenopausalhormone-receptor-positiveadvancedbreast
+cancer.NEnglJMed.2012;366(6):520–9.
+7. PiccartM,HortobagyiGN,CamponeM,PritchardKI,LebrunF,ItoY,etal.
+Everolimusplusexemestaneforhormone-receptor-positive,humanepidermal
+growthfactorreceptor-2-negativeadvancedbreastcancer:overallsurvival
+resultsfromBOLERO-2dagger.AnnOncol.2014;25(12):2357–62.
+8. CookM,RabadiLA,MitriZI.Everolimusandexemestaneforthetreatment
+ofmetastatichormonereceptor-positivebreastcancerpatientspreviously
+treatedwithCDK4/6inhibitorbasedtherapies.JClinOncol.2019;37(15_
+suppl):1058.
+9. SimpsonA,PetngaW,MacaulayVM,Weyer-CzernilofskyU,BogenriederT.
+Insulin-likegrowthfactor(IGF)pathwaytargetingincancer:roleoftheIGF
+axisandppportunitiesforfuturecombinationstudies.TargetOncol.2017;
+12(5):571–97.
+10. FriedbichlerK,HofmannMH,KroezM,OstermannE,LamcheHR,KoesslC,
+etal.PharmacodynamicandantineoplasticactivityofBI836845,afully

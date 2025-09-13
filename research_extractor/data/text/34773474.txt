@@ -1,0 +1,689 @@
+Source: 34773474.pdf
+Extracted on: Fri Sep 12 23:57:53 PDT 2025
+==================================================
+
+--- Page 1 ---
+Cancer Chemotherapy and Pharmacology (2022) 89:105–115
+https://doi.org/10.1007/s00280-021-04369-0
+ORIGINAL ARTICLE
+A phase 1b study of erlotinib and momelotinib for the treatment
+of EGFR‑mutated, tyrosine kinase inhibitor‑naive metastatic non‑small
+cell lung cancer
+Sukhmani K. Padda1,2 · Karen L. Reckamp2,3 · Marianna Koczywas3 · Joel W. Neal1 · Jun Kawashima4,6 ·
+Shengchun Kong4,7 · Daniel B. Huang5 · Mark Kowalski4,6 · Heather A. Wakelee1
+Received: 18 June 2021 / Accepted: 16 October 2021 / Published online: 13 November 2021
+© The Author(s) 2021
+Abstract
+Introduction Preclinical evidence suggests the feedforward cytokine loop of interleukin-6/Janus kinases (JAK)/STAT3 plays
+a role in epidermal growth factor receptor tyrosine kinase inhibitor (EGFR TKI) resistance in EGFR-mutated non-small cell
+lung cancer (NSCLC).
+Methods In this phase 1b study, the JAK1/2 and TANK-binding kinase 1 (TBK1) inhibitor momelotinib was evaluated in
+combination with erlotinib in patients with EGFR TKI-naive, EGFR-mutated NSCLC. After erlotinib lead-in (50, 75, 100,
+or 150 mg oral daily [QD]), momelotinib was combined and dose escalated in a 3 + 3 study design. The primary endpoint of
+maximum tolerated dose (MTD) of momelotinib was determined based on the incidence of dose-limiting toxicities (DLTs)
+during the first 28-day cycle. Secondary endpoints included efficacy and pharmacokinetics (PK).
+Results Eleven patients were enrolled across 3 dose levels of momelotinib (100 mg QD, 200 mg QD, and 100 mg twice daily
+[BID]). The MTD was momelotinib 200 mg QD in combination with erlotinib. Two DLTs of grade 4 neutropenia without
+fever and grade 3 diarrhea occurred at momelotinib 100 mg BID. Most common treatment-emergent adverse events included
+diarrhea, dry skin, fatigue, and decreased appetite; the vast majority being grades 1–2. The overall response rate was 54.5%
+(90% CI 27.1–80.0; all partial) and median progression-free survival was 9.2 months (90% CI 6.2–12.4). Momelotinib did
+not affect the PK of erlotinib.
+Conclusions The JAK1/2 and TBK1 inhibitor momelotinib in combination with erlotinib did not appear to enhance benefit
+over the historical data of erlotinib monotherapy in patients with EGFR-mutated NSCLC.
+ClinicalTrials.gov identifier NCT02206763.
+Keywords JAK1/2 · TBK1 · EGFR · Lung cancer · Erlotinib
+Introduction
+*
+Sukhmani K. Padda
+sukhmani.padda@cshs.org
+The upfront treatment of advanced epidermal growth fac-
+1 Stanford University School of Medicine/Stanford Cancer tor receptor (EGFR)-mutated non-small cell lung cancer
+Institute, Stanford, CA, USA (NSCLC) is rapidly changing. First- (e.g., erlotinib, gefi-
+2 Present Address: Cedars-Sinai Medical Center, 8700 Beverly tinib) and second-generation (e.g., afatinib, dacomitinib)
+Blvd, SCCT 1S31, Los Angeles, CA 90048, USA EGFR tyrosine kinase inhibitors (TKIs) were routinely used
+3 City of Hope Comprehensive Cancer Center, Duarte, CA, in the frontline setting until the development of third-gener-
+USA ation TKI osimertinib [1–5]. Despite osimertinib’s ability to
+4 Gilead Sciences, Inc., Foster City, CA, USA inhibit the most common EGFR-sensitizing mutations and
+5 The Oncology Institute of Hope and Innovation, Santa Ana, the acquired resistance mutation T790M, resistance remains
+CA, USA a problem [6]. There are two main types of resistance to
+6 Present Address: Sierra Oncology, Inc., Vancouver, BC, EGFR TKI therapy, including on-target resistance and
+Canada bypass mechanisms. With the first- and second-generation
+7 Present Address: Genentech, Inc., South San Francisco, CA, TKIs, the on-target resistance gatekeeper mutation T790M
+USA developed in approximately 60% of tumors at the time of
+Vol.:(0112 33456789)
+
+--- Page 2 ---
+1 06 Cancer Chemotherapy and Pharmacology (2022) 89:105–115
+progression [7, 8]. However, with third-generation TKI osi- tumors and EGFR-mutant transgenic mice, where treat-
+mertinib, the complexity and heterogeneity of resistance ment resulted in a decreased number of lung tumors and
+mechanisms has increased when this therapy is used in the improved overall survival [20]. Looyenga et al. also dem-
+first- or second-line setting (i.e., in the context of T790M). onstrated that the JAK1/2 inhibitor (ruxolitinib) decreased
+On-target resistance occurs less frequently with osimerti- colony formation in soft agar assays and slowed tumor
+nib, with the EGFR C797S mutation developing in ~ 15%, growth in HCC-827 xenograft models [21]. The combination
+whereas bypass tracts are more common, including ampli- of erlotinib plus JAK1/2 inhibition (ruxolitinib) was noted
+fication of MET, HER2, and PIK3CA, acquired mutations to have synergistic activity compared to EGFR inhibition
+in the mitogen-activated protein kinase (MAPK)/phosphoi- alone in an HCC4006 xenograft model [19]. The combi-
+nositide 3-kinase (PI3K) pathway and rare oncogenic fusions nation of osimertinib and JAK1 inhibitor (AZD4205) had
+[9, 10]. Therefore, strategies to prevent and overcome resist- synergistic activity compared to each agent alone in PC-9
+ance continue to remain important. and HCC827 models, with an observed increased degree of
+The interleukin-6 (IL-6)/Janus kinase (JAK)/signal tumor regression, delayed tumor regrowth, and evidence of
+transducer and activator of transcription 3 (STAT3) signal- knockdown of pSTAT3 [23, 24]. In addition to JAK1 inhi-
+ing pathway is overactive in multiple cancer types, includ- bition (itacitinib) having independent activity in HCC827
+ing lung cancer, and is important in cancer pathogenesis xenograft model, synergistic tumor growth inhibition was
+[11]. IL-6 is the primary driver of this pathway, engaging also observed in combination with erlotinib or osimertinib
+with the transmembrane IL-6 receptor subunit-β (gp130). [25]. JAK/STAT inhibition may also have a role in EGFR
+This leads to activation of gp130-associated JAK tyrosine TKI-resistant models in combination with first-, second-,
+kinases (JAK1, JAK2, and TYK2) and subsequent phos- and third-generation TKIs [18, 22, 25–27].
+phorylation of tyrosine residues of gp130, which serve as Given the hyperactivation of the IL-6/JAK/STAT3 path-
+docking sites for proteins that activate PI3K/AKT, MAPK, way in EGFR-mutated NSCLC, feedforward activation of
+and JAK/STAT3 pathways. In addition, IL-6’s downstream the IL-6/JAK/STAT3 pathway in the presence of EGFR
+activation of STAT3 induces IL-6 expression, resulting in a TKIs, and synergistic activity of JAK inhibition with EGFR
+feedforward autocrine loop [12]. This coordinated interac- TKIs in EGFR-mutant models, we conducted a phase 1b
+tion of pathways results in a hostile tumor microenvironment study of the combination of first-generation EGFR TKI erlo-
+(e.g., promotion of dysfunctional angiogenesis, infiltration tinib plus the JAK1/2 and TANK-binding kinase 1 (TBK1)
+of fibroblasts, and recruitment of myeloid suppressor cells) inhibitor momelotinib in patients with EGFR TKI-naive,
+and promotes cancer cell proliferation, survival, invasion, EGFR-mutated advanced NSCLC.
+and metastatic potential [12, 13].
+The IL-6/JAK/STAT3 pathway has been observed to
+be hyperactivated in EGFR-mutated NSCLC [14–17] and Patients and methods
+may play a role in resistance to EGFR TKI therapy [18,
+Patients
+19]. The potential therapeutic role of JAK inhibition for
+EGFR-mutated NSCLC has been known for some time. For
+example, in multiple EGFR-mutated NSCLC lines, Gao Eligible patients had a pathologically confirmed diagnosis of
+et al. observed excessive levels of IL-6 in cell culture and metastatic NSCLC with a documented EGFR exon 19 dele-
+high levels of phosphorylated-STAT3 (pSTAT3). Pan-JAK tion or exon 21 L858R substitution mutation. Patients were
+inhibition (with P6) uniformly abrogated pSTAT3, whereas EGFR TKI-treatment–naive, except to erlotinib, in which
+EGFR inhibition did not, resulting in cell-cycle arrest at stable doses for ≥ 11 days and ≤ 45 days were required; had
+the G /M phase and suppressed colony formation [14]. The an Eastern Cooperative Oncology Group performance status
+2
+importance of abrogating STAT3 via inhibition of JAK of 0, 1, or 2; and had measurable disease by Response Evalu-
+kinases (e.g., observed with JAK2 inhibitor AZD1480 and ation Criteria in Solid Tumors (RECIST) version 1.1 criteria
+JAK1 inhibitor CJ14939) has been demonstrated in other [28]. Patients with treated or asymptomatic untreated brain
+studies [15, 18, 20, 21]. Surprisingly, it has been observed metastases were eligible, whereas patients with active infec-
+that EGFR TKIs (e.g., erlotinib) induce feedback activation tion or carriers of hepatitis B or C were ineligible.
+of STAT3 signaling in EGFR-mutant cell lines via auto-
+Study design
+crine- and paracrine-secreted factors such as IL-6, leading
+to increased numbers of resistant cells [19, 22].
+Inhibition of the JAK/STAT pathway has demonstrated The study was conducted at three sites in the United States
+activity in EGFR TKI-sensitive EGFR-mutant mod- from October 2014 through January 2017. The study was
+els. Murakami et al. demonstrated that JAK2 inhibition conducted in accordance with the Declaration of Helsinki
+(AZD1480) had independent activity in PC-9 xenograft and Good Clinical Practice guidelines. The study protocol
+1 3
+
+--- Page 3 ---
+Cancer Chemotherapy and Pharmacology (2022) 89:105–115 107
+was approved by an institutional review board at each site Safety
+before enrollment of a patient. All patients provided written
+informed consent. The primary endpoint was the incidence of dose-limiting
+This was an open-label, dose-escalation phase 1b study, toxicities (DLTs). Physical exams and safety labs were per-
+which comprised a dose-escalation phase, followed by a formed on day 1 of cycle 1, day 15 of cycle 1, and on the
+planned, randomized, expansion phase of the combination of first day of each cycle thereafter. Adverse events (AEs) were
+erlotinib plus momelotinib vs. erlotinib alone (ClinicalTri- coded using the Medical Dictionary for Regulatory Activi-
+als.gov Identifier: NCT02206763). An erlotinib lead-in was ties (MedDRA), graded according to the Common Termi-
+utilized during the dose-escalation phase since erlotinib’s nology Criteria for Adverse Events (CTCAE) version 4.03,
+toxicities of rash and diarrhea onset in the first 2–3 weeks and collected until 30 days after the last dose of the study
+of treatment [29] allowing for (i) dose adjustment for erlo- treatment.
+tinib-related toxicities as per clinical standard of care prior DLTs were assessed during the first 28 days of combined
+to combination with momelotinib; (ii) examination of the erlotinib and momelotinib treatment and defined as clini-
+impact of momelotinib on erlotinib steady-state pharma- cally significant AEs related to study treatment. Prespecified
+cokinetics; and (iii) accurate assessment of toxicity attribu- hematologic DLTs only included grade 4 neutropenia (abso-
+tion during the combination treatment period. However, the lute neutrophil count [ANC] < 500/μL) and grade 4 thrombo-
+study was discontinued prior to the expansion phase due to cytopenia (platelet count < 25,000/μL). Important exceptions
+the preliminary efficacy data from the dose-escalation phase for related grade 3 nonhematologic toxicities included grade
+and the changing treatment landscape of EGFR-mutated 3 nausea or vomiting ≤ 48 h duration, diarrhea or rash that
+NSCLC. improved to grade 0 to 1 within 21 days of interruption of
+Patients were screened within 28 days of the start of study erlotinib, and alanine aminotransferase (ALT) or aspartate
+treatment and cycles were defined as 28 days. Erlotinib was aminotransferase (AST) ≥ 5 times the upper limit of normal
+self-administered orally once daily (QD) at least 1 h before (ULN) that improved to ≤ 3 times the ULN within 21 days.
+or 2 h after a meal, with doses permitted at 50, 75, 100, Treatment delays of ≥ 28 days due to a treatment-emergent
+or 150 mg. Dose reductions were permitted for manage- AEs (TEAEs) were also considered DLTs. In addition, the
+ment of erlotinib-related toxicity such as rash and diarrhea. treating investigators could deem a TEAE a DLT if in their
+Momelotinib was dose escalated following a standard 3 + 3 opinion the TEAE was of potential clinical significance such
+design starting at 100 mg QD (Table 1). Momelotinib was that further dose escalation would have exposed patients to
+self-administered orally QD or twice daily (BID) (Table 1), an unacceptable risk.
+with the latter planned dosing frequency differing from that
+used in myelofibrosis trials [30]. Study treatment continued Efficacy
+until disease progression, unacceptable toxicity, or consent
+withdrawal. Imaging by computed tomography (CT) with contrast was
+performed at baseline, every 8 weeks during year 1 and
+every 12 weeks thereafter. If a patient had brain metastases,
+brain magnetic resonance imaging (MRI) was repeated on
+Table 1 Planned momelotinib dose-escalation cohorts the same schedule. Secondary endpoints included overall
+survival (OS), progression-free survival (PFS), and overall
+Dose levels Momelotinib Erlotinib
+(oral) (oral) response rate (ORR) (i.e., proportion of complete and partial
+response) as assessed per RECIST version 1.1 [28].
+1 100 mg QD 150 mg QDb
+2Aa 200 mg QD Pharmacokinetics
+2Ba 100 mg BID
+3 150 mg BID
+Prior to momelotinib dosing, blood samples were col-
+4 200 mg BID
+lected before a dose of erlotinib and at 0.5, 1, 2, 4, 6,
+AEs adverse events, BID twice daily, DLT dose-limiting toxicity, QD 8, and 24 h after erlotinib dosing. On day 15 of cycle
+once daily 1, blood samples were collected at the same time points
+a Patients alternated in enrolling in level 2A and 2B, starting first with after dosing with momelotinib and erlotinib (the 24-h
+level 2A. If a DLT occurred in only 1 patient, only that dose level (2A time point was only applicable for momelotinib QD dos-
+or 2B) was expanded to 6 patients. Two DLTs occurred at dose level
+ing). The concentrations of momelotinib and its major
+2B. Cohorts 3 and 4 were not enrolled
+metabolite GS-644603 were evaluated using a liquid
+b Doses permitted at 50, 75, 100, or 150 mg. Dose interruption and/or
+chromatography-tandem mass spectrometry (LC–MS/
+reduction were permitted for erlotinib-specific AEs, including during
+the DLT period MS) assay with solid phase extraction validated over the
+1 3
+
+--- Page 4 ---
+1 08 Cancer Chemotherapy and Pharmacology (2022) 89:105–115
+range of 0.5–1000 ng/mL for each analyte. The concen- Results
+tration of erlotinib was determined using an LC–MS/MS
+assay with protein precipitation validated over the range Patient characteristics
+of 5–5000 ng/mL. Both assays demonstrated requisite
+accuracy (± 15%) and precision (coefficient of variation A total of 11 patients with treatment-naive, EGFR-mutated
+[CV] < 15%). Pharmacokinetic (PK) parameters were esti- NSCLC were enrolled (Table 2), including 6 with L858R
+mated using standard noncompartmental methods with and 5 with exon 19 deletion. The median age was 55 years,
+Phoenix W inNonlin® software (Certara, Princeton, NJ). the majority were female (n = 7) and of Asian and White
+race (n = 4 and n = 6, respectively). The median time since
+diagnosis of NSCLC was 1.8 months (range 1.3–2.9), as
+Statistical analysis
+patients were permitted to be on erlotinib for up to 45 days
+prior to enrolling on the study. Two patients had undergone
+Any patient who received ≥ 1 dose of study drug was prior palliative radiotherapy to bone metastases.
+included in the safety and efficacy analyses. Descriptive
+statistics were used to summarize study characteristics, Exposure and disposition
+DLTs, and AEs, including by dose level. ORR was sum-
+marized with corresponding two-sided 90% exact con- The median duration of treatment exposure to momelotinib
+fidence intervals (CIs) using the binomial distribution. was 40.1 weeks (range 2.4–63.1) with a median number of
+Both OS and PFS were summarized using Kaplan–Meier 10 cycles received (range 0.6–15.8). The median duration
+estimates and corresponding 90% CIs. Patient concentra- of exposure to erlotinib was similar at 40.3 weeks (range
+tion data and PK parameters for erlotinib, momelotinib, 2.6–66.3) with a median of 10.1 cycles received (range
+and its major metabolite GS-644603 were summarized by 0.6–16.6). As a result of dose reductions (n = 2) and inter-
+dose level using descriptive statistics. ruptions (n = 5), the average daily dose of momelotinib
+among patients enrolled at dose level 2A (200 mg QD)
+and 2B (100 mg BID) was lower than the assigned dose:
+Table 2 Baseline characteristics
+Dose level 1 Dose level 2A Dose level 2B Total
+Momelotinib Momelotinib Momelotinib
+100 mg QD 200 mg QD 100 mg BID
+Number 3 3 5 11
+Age (years)
+Median 57 65 52 55
+Range 50–61 52–81 48–68 48–81
+Female, n (%) 2 (66.7) 2 (66.7) 3 (60.0) 7 (63.6)
+Race, n (%)
+Asian 2 (66.7) 1 (33.3) 1 (20.0) 4 (36.4)
+White 1 (33.3) 2 (66.7) 3 (60.0) 6 (54.5)
+Other 0 0 1 (20.0) 1 (9.1)
+Ethnicity, n (%)
+Hispanic/Latino 0 1 (33.3) 0 1 (9.1)
+Not Hispanic/Latino 3 (100.0) 2 (66.7) 5 (100.0) 10 (90.9)
+ECOG PS, n (%)
+0 3 (100.0) 1 (33.3) 3 (60.0) 7 (63.6)
+1 0 2 (66.7) 2 (40.0) 4 (36.4)
+Current smoker, n (%) 0 0 0 0
+Time since diagnosis, months
+Median 2.2 1.8 1.4 1.8
+Range 1.7–2.9 1.8–2.7 1.3–1.8 1.3–2.9
+Prior palliative radiation, n (%) 0 0 2 (40.0) 2 (18.2)
+BID twice daily, ECOG PS European Cooperative Oncology Group performance status, QD once daily
+1 3
+
+--- Page 5 ---
+Cancer Chemotherapy and Pharmacology (2022) 89:105–115 109
+178.2 ± 27.1 mg and 186.7 ± 26.5 mg, respectively. The 2 3 severity or greater or SAE observed in dose level 1. There
+dose reductions of momelotinib were due to AEs (1 each in were no treatment-related deaths observed in the study.
+dose level 2A and 2B). All-cause AEs leading to dose inter- The most common TEAEs of the combination included
+ruption or modification of momelotinib were diarrhea (n = 2 diarrhea, dry skin, fatigue, and decreased appetite (Table 3).
+patients), pericardial effusion (n = 1), dyspnea (n = 1), acute The most common AEs that were considered related to
+myocardial infarction (n = 1), pneumonitis (n = 1), and myal- momelotinib included diarrhea (54.5%), nausea (36.4%),
+gia, abdominal discomfort, and fatigue (n = 1). All patients fatigue (36.4%), dysgeusia (27.3%), and neutropenia
+were taking erlotinib 150 mg QD at the start of cycle 1, (27.3%). The most common AEs that were considered
+except 1 patient on erlotinib 100 mg QD in dose level 1. related to erlotinib included diarrhea (63.6%) and skin-
+There were also dose reductions of erlotinib performed in related toxicities (i.e., 54.5% each of dry skin, paronychia,
+4 patients (n = 4), across all dose levels and all for AEs, and rash).
+including 1 to 50 mg. Of note, a low neutrophil count was observed in 5 (45%)
+Momelotinib was discontinued for progressive disease patients, including a grade 3 event occurring in a patient
+(PD) in 7 (63.6%) patients, AEs in 3 (27.3%) patients (1 at dose level 2A on day 15 and a grade 4 event occurring
+each of grade 3 follicular rash, grade 1 hepatitis B, and grade in a patient at dose level 2B (previously described DLT);
+4 neutropenia), and per patient discretion in 1 (9.1%) patient. the remaining were grade 1 to 2 in severity and all in dose
+Erlotinib was discontinued due to PD in 7 (63.6%) patients, level 2B. The 3 that were coded as AEs per protocol-spec-
+AEs in 2 (18.2%) patients (1 each of grade 4 neutropenia and ified definition (i.e., requiring intervention or dose modifi-
+grade 1 hepatitis B), and per investigator or patient decision cation) were considered related to erlotinib and momelo-
+in 1 patient each. tinib, respectively. There were no other recurrent grade 3 or
+greater hematologic laboratory abnormalities observed. The
+Safety
+majority of chemistry laboratory abnormalities were grades
+1 to 2, with the most common being AST (72.7%) and ALT
+DLTs were observed in 2 of 5 patients at dose level 2B increase (54.5%).
+(momelotinib 100 mg BID). The DLTs were related to both There were no prespecified AEs of special interest defined
+erlotinib and momelotinib. One patient had a DLT of grade in the protocol. However, the following were highlighted:
+4 neutropenia without fever at day 16 that resolved without grade 1 peripheral sensory neuropathy in 1 patient at day
+treatment on day 19 but resulted in permanent discontinua- 142 in dose level 2B; a grade 1 reactivation of hepatitis B in
+tion of both drugs. The second patient had a DLT of grade 1 patient that occurred 1 year after start of study treatment,
+3 diarrhea on day 15 that resolved on day 22, resulting in a the latter resulting in discontinuation of momelotinib and
+momelotinib dose reduction to 150 mg QD with no change erlotinib; and no event of cataracts was reported. There was
+in erlotinib dose (150 mg QD). Although there was a DLT also 1 case of grade 3 pneumonitis considered related to
+exception for grade 3 diarrhea, in light of this toxicity lead- momelotinib at dose level 2B.
+ing to a dose reduction of momelotinib and the other tox-
+Efficacy
+icity observed in this cohort, this TEAE was labeled as a
+DLT due to its clinical significance based on the opinion
+of the investigators that further dose escalation would have Confirmed objective responses (all partial) were observed in
+exposed patients to unacceptable risk. There was no DLT 6 of 11 patients for an ORR of 54.5% (90% CI 27.1–80.0).
+observed at dose level 1A (momelotinib 100 mg QD) or An additional 4 patients (36.4%) had stable disease and 1
+dose level 2A (momelotinib 200 mg QD). Based on these had PD (9.1%; dose level 2B). Responses were observed in
+findings, the maximum tolerated dose (MTD) was momelo- all dose levels. Across dose levels, the mean best percent-
+tinib 200 mg QD in combination with a standard dosing of age change in the sum of diameters of target lesions was
+erlotinib (i.e., dose level 2A; n = 3). All patients were taking −42.5 ± 17.1%, with reductions from baseline ranging from
+erlotinib 150 mg QD in dose level 2A at the start of cycle 1, 23.1 to 71.7% (Fig. 1). The median duration of response
+with 1 patient requiring a dose reduction to 100 mg QD on (DoR) was 7.2 months (90% CI 4.4–9.6). The longest DoR
+day 14 due to an erlotinib-related toxicity. was 11.2 months in a patient at dose level 2B.
+All 11 patients had at least 1 AE. A total of 7 patients At the date of data finalization on April 24, 2017, 10 of
+(63.6%) had an AE of grade 3 severity or greater, including 11 patients had PD, and no death was reported. One patient
+3 patients (100%) at dose level 2A and 4 patients (80%) at enrolled at dose level 2A had discontinued the study with-
+dose level 2B. There were serious AEs (SAEs) observed in out a documented event of PD or death. The median PFS
+3 patients (27.3%), including 2 patients in dose level 2A and was 9.2 months (90% CI 6.2–12.4). The median OS was
+1 patient in dose level 2B. Of note, there was no AE of grade not reached.
+1 3
+
+--- Page 6 ---
+1 10 Cancer Chemotherapy and Pharmacology (2022) 89:105–115
+Table 3 TEAEs reported in > 20% of patients of any grade
+TEAEsa Dose level 1 Dose level 2A Dose level 2B Total Total
+Momelotinib Momelotinib Momelotinib Any grade Grades 3–4b
+100 mg QD 200 mg QD 100 mg BID n = 11 n = 11
+n = 3 n = 3 n = 5 n (%) n (%)
+n (%) n (%) n (%)
+Diarrhea 1 (33.3) 3 (100.0) 3 (60.0) 7 (63.6) 1 (9.1)c
+Dry skin 2 (66.7) 2 (66.7) 3 (60.0) 7 (63.6)
+Fatigue 2 (66.7) 2 (66.7) 3 (60.0) 7 (63.6)
+Decreased appetite 2 (66.7) 3 (100.0) 2 (40.0) 7 (63.6)
+Cough 2 (66.7) 1 (33.3) 3 (60.0) 6 (54.5)
+Paronychia 1 (33.3) 2 (66.7) 3 (60.0) 6 (54.5)
+Urinary tract infection 0 2 (66.7) 4 (80.0) 6 (54.5)
+Nausea 2 (66.7) 1 (33.3) 2 (40.0) 5 (45.5)
+Alopecia 1 (33.3) 2 (66.7) 2 (40.0) 5 (45.5)
+Rash 1 (33.3) 2 (66.7) 2 (40.0) 5 (45.5) 1 (9.1)d
+Headache 2 (66.7) 1 (33.3) 2 (40.0) 5 (45.5)
+Abdominal pain 0 2 (66.7) 2 (40.0) 4 (36.4) 1 (9.1)
+Gastroesophageal reflux disease 1 (33.3) 0 3 (60.0) 4 (36.4)
+Dyspnea 2 (66.7) 1 (33.3) 1 (20.0) 4 (36.4) 1 (9.1)
+Epistaxis 2 (66.7) 1 (33.3) 1 (20.0) 4 (36.4)
+Nasal dryness 1 (33.3) 2 (66.7) 1 (20.0) 4 (36.4)
+Chest discomfort 1 (33.3) 2 (66.7) 1 (20.0) 4 (36.4)
+Upper respiratory tract infection 1 (33.3) 1 (33.3) 2 (40.0) 4 (36.4) 1 (9.1)e
+Muscle spasms 0 2 (66.7) 2 (40.0) 4 (36.4)
+Dry eye 2 (66.7) 0 2 (40.0) 4 (36.4)
+Vision blurred 2 (66.7) 1 (33.3) 1 (20.0) 4 (36.4)
+Dysgeusia 0 2 (66.7) 2 (40.0) 4 (36.4)
+Constipation 0 1 (33.3) 2 (40.0) 3 (27.3) 1 (9.1)
+Dry mouth 0 2 (66.7) 1 (20.0) 3 (27.3)
+Vomiting 1 (33.3) 1 (33.3) 1 (20.0) 3 (27.3)
+Erythema 1 (33.3) 1 (33.3) 1 (20.0) 3 (27.3)
+Hypertrichosis 1 (33.3) 1 (33.3) 1 (20.0) 3 (27.3)
+Skin fissures 1 (33.3) 0 2 (40.0) 3 (27.3)
+Hematuria 1 (33.3) 1 (33.3) 1 (20.0) 3 (27.3)
+Neutropenia 0 1 (33.3) 2 (40.0) 3 (27.3) 2 (18.1)c
+BID twice daily, DLT dose-limiting toxicity, QD once daily
+a Severity graded according to Common Terminology Criteria for Adverse Events version 4.03
+b Only 2 grade 4 events (neutropenia and sepsis). There was 1 grade 3 pneumonitis in dose level 2B not listed in the table
+c DLTs (1 grade 3 diarrhea, 1 grade 4 neutropenia)
+d There was grade 3 follicular rash and grade 3 papular rash in 1 patient at dose level 2A
+e There was a grade 3 upper respiratory infection co-occurring with grade 3 kidney infection and grade 4 sepsis in 1 patient at dose level 2A.
+Grade 3 pneumonia was also reported
+Pharmacokinetics was reached approximately 1 to 2 h after dosing. Comparing
+momelotinib 200 mg QD to 100 mg QD, there was a slightly
+The steady-state PK of momelotinib and its major metabo- less than dose-proportional increase in maximum concen-
+lite GS-644603 was evaluated following administration of tration ( C ) and a slightly more than dose-proportional
+max
+momelotinib in combination with erlotinib at day 15 of cycle increase in exposure (AUC ) (Table 4). Applying the same
+tau
+1. One patient in dose level 1 was receiving erlotinib 100 mg comparison to the metabolite GS-644603, there was also a
+QD; all other patients in the PK analysis set were receiving slightly less than dose-proportional increase in C while
+max,
+erlotinib 150 mg dosing. Momelotinib peak concentration there was an approximately dose-proportional increase in
+1 3
+
+--- Page 7 ---
+Cancer Chemotherapy and Pharmacology (2022) 89:105–115 111
+Fig. 1 Best percentage change
+from baseline in tumor size by
+dose level (N = 11). aPatient
+with best overall response of
+progressive disease
+0
+-10
+-20
+-30
+-40
+-50
+-60
+-70
+-80
+-90
+-100
+AUC . The mean metabolite to parent ratios across dose Erlotinib exposure as reflected in C and AUC was
+tau max tau
+levels ranged from 0.12 to 0.17 and 0.11 to 0.13 for AUC comparable between monotherapy (i.e., day 1 of cycle 1)
+tau
+and C , respectively (Table 4). and combination therapy with momelotinib (day 15 of cycle
+max
+1 3
+sretemaiD
+fo
+muS
+ni
+egnahC
+%
+tseB
+Dose Level 1
+Dose Level 2A
+Dose Level 2B
+a
+Table 4 Pharmacokinetic
+Dose level 1 Dose level 2A Dose level 2B
+parameters for momelotinib and
+Momelotinib 100 mg QD Momelotinib 200 mg QD Momelotinib
+its metabolite GS-644603 n = 2 n = 2 100 mg BID
+n = 4a
+Momelotinib
+C , ng/mL 528.5 (54.7) 852.5 (22.1) 884.5 (14.8)
+max
+AUC , ng • mL/h 4000.4 (35.0) 9842.3 (31.0) 5219.0 (29.7)
+tau
+T , h 1.0 (1.0, 1.0) 1.5 (1.0, 2.0) 1.0 (1.0, 1.5)
+max
+t , h 11.8 (9.1, 14.5) 10.2 (6.1, 14.3) 8.6 (5.4, 9.9)
+1/2
+GS-644603
+C , ng/mL 65.7 (19.6) 92.7 (11.1) 95.1 (28.9)
+max
+AUC , ng • mL/h 685.0 (28.2) 1371.9 (25.0) 797.1 (27.6)
+tau
+T , h 1.5 (1.0, 2.0) 2.0 (2.0, 2.0) 2.0 (1.5, 2.0)
+max
+t , h 27.7 (14.1, 41.3) 15.5 (8.3, 22.7) 8.4 (6.4, 10.8)
+1/2
+GS-644603:momelotinib ratio
+C 0.13 (37.1) 0.11 (11.2) 0.11 (30.6)
+max
+AUC 0.17 (7.2) 0.14 (6.3) 0.12 (49.0)
+tau
+Data for C and AUC are presented as the mean (percent coefficient of variation); data for T and t
+max tau max 1/2
+are presented as median (Q1, Q3), and GS-644603/momelotinib ratios are presented as the mean (percent
+coefficient of variation)
+AUC tau area under the concentration versus time curve over the dosing interval, BID twice daily, C max max-
+imum concentration, Q1/Q3 quartile 1/quartile 3, QD once daily, t 1/2 half-life, T max time to maximum con-
+centration
+N = 3 for AUC for momelotinib, and N = 3 for AUC and t for its metabolite
+tau tau 1/2
+
+--- Page 8 ---
+1 12 Cancer Chemotherapy and Pharmacology (2022) 89:105–115
+1) across all the momelotinib dose level groups. These data [35]. In addition, C and AUC of the major metabolite
+max tau
+suggest there is no impact of momelotinib on the PK of GS-644603 were several-fold lower than previously reported
+erlotinib. (Supplementary Table 1). [35–38]. Erlotinib is a potent inhibitor of aldehyde oxidase
+[39], which is necessary for the formation of GS-644603
+[40], perhaps accounting for the low levels of GS-644603
+Discussion
+observed in this study. The augmented momelotinib expo-
+sure noted in this study may partly account for the higher
+We conducted a multisite, phase 1b, open-label study of the rates of neutropenia observed compared with the combina-
+first-generation EGFR TKI erlotinib in combination with tion study of momelotinib and trametinib in KRAS-mutated
+JAK1/2 and TBK1 inhibitor momelotinib in 11 patients NSCLC [35]. In an exploratory analysis, after 2 weeks on
+with EGFR TKI-treatment–naive EGFR-mutated advanced treatment with momelotinib, pSTAT3 was measured in
+NSCLC. The MTD was momelotinib 200 mg QD in com- IL-6–stimulated lymphocytes using validated phospho-flow
+bination with standard dosing of erlotinib, with QD dos- cytometry assay on the whole blood of 8 patients (data not
+ing of 50, 75, 100, and 150 mg permitted. Two DLTs were shown). Momelotinib temporarily inhibited pSTAT3 shortly
+observed when momelotinib was dosed at 100 mg BID after dosing, but there was no correlation between the total
+in combination with erlotinib, including grade 3 diarrhea plasma momelotinib concentration and pSTAT3 inhibition.
+and grade 4 neutropenia. The treatment-related toxicities Of note, in vitro studies suggest that the momelotinib metab-
+observed were commonly noted for each agent alone, includ- olite GS-644603 is approximately three-fold less potent as
+ing diarrhea, nausea, and fatigue for momelotinib [30–32] an inhibitor of JAK1/2-mediated STAT3 phosphorylation
+and diarrhea and skin toxicities for erlotinib [2, 33, 34]. in IL-6–stimulated human peripheral blood mononuclear
+A high rate of decreased neutrophil count was observed, cells with a mean half maximal effective concentration of
+occurring in 5 of 11 patients, grades 1 to 2 in 3 patients, 689 nM vs. 259 nM for momelotinib [40]. Unfortunately, no
+and grades 3 and 4 in 1 patient each. Three of these low on-treatment biopsy samples were available to examine the
+neutrophil count events were considered AEs (i.e., requiring suppression of the JAK-STAT pathway in the tumor micro-
+intervention or dose modification), including 1 also being a environment. Considering the preliminary efficacy seen in
+DLT per prespecified protocol definitions. None were associ- the phase 1 dose escalation and the changing treatment land-
+ated with fever or infection, and all were considered related scape of EGFR-mutated NSCLC, the decision was made
+to both erlotinib and momelotinib. Only the grade 4 neu- to not proceed to the randomized dose expansion of this
+tropenia DLT resulted in discontinuation of treatment with combination.
+erlotinib and momelotinib. Neutropenia rates with erlotinib Although this study was initiated based on the hypoth-
+monotherapy in randomized phase 3 studies were reported esis of JAK inhibition preventing resistance to EGFR TKI
+in 0% [2], 4.5% (plus 1.8% decreased neutrophils) [33], and therapy, there have also been preclinical studies demonstrat-
+6% [34]. However, ANCs less than < 1000/mm3 (i.e., grade 3 ing the potential utility of combining EGFR TKI therapy and
+or greater) were rarely observed with erlotinib monotherapy JAK1/2 inhibitors in resistant models [26]. These combina-
+[33, 34]. There was no neutropenia event with momelotinib tions either restored EGFR TKI sensitivity or resulted in
+dosed up to 150 mg BID as reported in combination with synergy, as demonstrated in both EGFR T790M models [18,
+MEK1/2 inhibitor trametinib in patients with KRAS-mutated 26, 41] and models without T790M or MET amplification
+NSCLC [35]. [22]. This was observed across first- [18, 22, 41], second-
+Although there remains extensive preclinical promise [26], and third-generation TKIs [25], and from in vitro cell
+of targeting the JAK/STAT pathway for EGFR-mutated line studies to in vivo xenograft studies [18, 22, 25, 26, 41].
+NSCLC [19–21, 23–25], we observed that the preliminary Unfortunately, these promising findings did not translate
+efficacy of the combination of JAK1/2 inhibitor, momelo- into transformative clinical benefit for patients in the cur-
+tinib, and erlotinib was similar to erlotinib monotherapy, rent studies conducted [42, 43]. In a combination study of
+including an ORR of 54.5% (90% CI 27.1–80.0) and a erlotinib and ruxolitinib in patients with documented pro-
+median PFS of 9.2 months (90% CI 6.2–12.4) [2, 33, 34]. gression on erlotinib, 1 of 22 patients (5%) had an objective
+In prior studies with erlotinib, the ORR ranged from 62.7 to response and the median PFS was only 2.2 months (95%
+83%, and the median PFS ranged from 9.7 to 11 months [2, CI 1.5–4.1) [43]. The efficacy was only modestly better in
+33, 34]. In addition, the toxicity observed in dose level 2B a combination study of afatinib and ruxolitinib in patients
+(100 mg BID) did not allow further dose escalation to the who had progressed on at least 1 first-generation EGFR
+target dose of 200 mg BID. Erlotinib PK were not affected TKI [42]. Five of 20 patients (25%) with EGFR T790M
+by momelotinib, whereas the momelotinib maximum had an objective response with a median PFS of 4.9 months
+concentration and exposure were higher than previously (95% CI 2.5–7.3), while 2 of 10 patients (20%) without
+reported with a prolonged terminal elimination half-life EGFR T790M had an objective response and median PFS
+1 3
+
+--- Page 9 ---
+Cancer Chemotherapy and Pharmacology (2022) 89:105–115 113
+of 3.1 months (95% CI 0.0–8.8). There are ongoing stud- Funding This study was sponsored by Gilead Sciences, Inc.
+ies of third-generation EGFR TKI osimertinib in combi-
+nation with JAK1 inhibitor itacitinib (NCT03450330 and Data availability The datasets generated during and/or analyzed dur-
+ing the current study are available from Sierra Oncology, Inc. upon
+NCT02917993) in EGFR TKI-resistant NSCLC.
+reasonable request. Interested parties should contact Mark Kowalski
+Momelotinib also inhibits TBK1 [35, 44], which is criti- MD PhD, Chief of Research and Early Development at mkowalski@
+cal for type I interferon (IFN) production (e.g., IFN-beta) in sierraoncology.com.
+an autocrine loop and as part of broader antiviral signaling.
+Declarations
+The TBK1/IRF3/IFN pathway has been recently described
+as an important mechanism of acquired resistance to EGFR
+inhibition [45]. In EGFR-mutant preclinical models, EGFR Conflict of interest Jun Kawashima reports previous employment and
+stock with Gilead Sciences, Inc. Shengchun Kong reports previous
+inhibition led to feedforward activation of TBK1 and its
+employment and stock with Gilead Sciences, Inc. Mark Kowalski re-
+transcription factor IRF3, which is responsible for type 1 ports previous employment with Gilead Sciences, Inc. Joel W. Neal
+IFN transcription. Targeting the TBK1/IRF3/IFN pathway reports honoraria from CME Matters, Clinical Care Options CME,
+enhanced sensitivity to erlotinib and afatinib in EGFR- Research to Practice CME, Medscape CME, Biomedical Learning
+Institute CME, MLI PeerView CME, Prime Oncology CME, Pro-
+mutant sensitive and T790M xenograft models, respectively.
+jects in Knowledge CME, Rockpointe CME, and MJH Life Sciences
+Targeting this pathway also restored sensitivity to erlotinib CME; he reports consulting fees for AstraZeneca, Genentech/Roche,
+in non-T790M, non-MET–amplified, EGFR TKI-resistant Exelixis, Jounce Therapeutics, Takeda Pharmaceuticals, Eli Lilly,
+cell lines. Due to momelotinib’s ability to target TBK1, it Calithera Biosciences, Amgen, Iovance Biotherapeutics, Blueprint
+Pharmaceuticals, Regeneron Pharmaceuticals, and Natera; he reports
+was studied in KRAS-mutated NSCLC in combination with
+receiving research funding through his institution from Genentech/
+the MEK 1/2 inhibitor trametinib [35] and in pancreatic ade- Roche, Merck, Novartis, Boehringer Ingelheim, Exelixis, Nektar Ther-
+nocarcinoma in combination with nab-paclitaxel and gemcit- apeutics, Takeda Pharmaceuticals, Adaptimmune, GlaxoSmithKline,
+abine chemotherapy [38]. However, adding momelotinib did Janssen, and AbbVie; and he receives royalties from Up To Date.
+Sukhmani K. Padda received research funding through her institution
+not improve efficacy over the historical control trametinib
+from EpicentRx, Forty Seven Inc., Bayer, and Boehringer Ingelheim;
+monotherapy [35] and chemotherapy, respectively [38]. she has participated in advisory boards and received fees from As-
+traZeneca, AbbVie, Blueprint Medicines, G1 Therapeutics, Janssen
+Pharmaceuticals, and Pfizer. Karen L. Reckamp reports grant funding
+through her institution from AbbVie, Acea, Adaptimmune, Boehringer
+Conclusion
+Ingelheim, Bristol Meyers Squibb, Calithera, Daiichi Sankyo, Eleva-
+tion Oncology, Genentech, GlaxoSmithKline, Guardant, Janssen, Loxo
+Oncology, Molecular Partners, Seattle Genetics, Spectrum, Takeda
+The combination of the JAK1/2 and TBK1 inhibitor
+Pharmaceuticals, Xcovery, and Zeno; she reports receiving consult-
+momelotinib with erlotinib did not enhance benefit over
+ing fees from Calithera, Euclises, Amgen, AstraZeneca, Blueprint,
+historical controls of erlotinib monotherapy in patients with Boehringer Ingelheim, Daiichi Sankyo, EMD Serono, Genentech,
+EGFR-mutated NSCLC and did not support enrollment to Guardant, Janssen, Eli Lilly, Merck KGaA, Precision Health, Seattle
+Genetics, Takeda Pharmaceuticals, and Tesaro. Heather A. Wakelee
+the randomized dose expansion [2, 33, 34]. However, there
+reports receiving grant funding through her institution from ACEA
+is growing evidence that feedforward activation loops,
+Biosciences, Arrys Therapeutics, AstraZeneca/MedImmune, Bristol
+including IL-6/JAK/STAT3, may be important in the devel- Myers Squibb, Celgene, Clovis Oncology, Exelixis, Genentech/Roche,
+opment of EGFR TKI resistance in patients with EGFR- Gilead Sciences, Inc., Merck, Novartis, Pharmacyclics, Seattle Genet-
+ics, Xcovery, Eli Lilly, and Pfizer; she reports honoraria from Novartis
+mutated NSCLC [19, 45, 46]. Feedback activation of STAT3
+and AstraZeneca; she participated in and received advisory board fees
+in oncogene-addicted cancers has also been demonstrated
+from AstraZeneca, Xcovery, Janssen, Daiichi Sankyo, Blueprint, Mi-
+with other targeted therapies, implicating a potential role rati, Helsinn, and participated in advisory boards for which she did
+of targeting these pathways more broadly in the genomic not receive fees from Merck, Takeda Pharmaceuticals, and Genentech/
+Roche. Marianna Koczywas and Daniel B. Huang have stated that they
+subtypes of lung cancer [19].
+have no conflict of interest.
+Supplementary Information The online version contains supplemen- Ethical approval The study was conducted in accordance with the Dec-
+tary material available at https://d oi.o rg/1 0.1 007/s 00280-0 21-0 4369-0.
+laration of Helsinki and Good Clinical Practice guidelines. The study
+protocol was approved by an institutional review board at each site
+Acknowledgements Writing and editorial assistance for this article before enrollment of a patient.
+was provided by Impact Communication Partners, Inc., and funded by
+Gilead Sciences, Inc. Consent to participate All patients provided written informed consent.
+Author contributions All authors made substantial contributions to
+Open Access This article is licensed under a Creative Commons Attri-
+conception and design, acquisition of data, or analysis and interpreta-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion of data; took part in drafting the article or revising it critically for
+tion, distribution and reproduction in any medium or format, as long
+important intellectual content; agreed to submit to the current journal;
+as you give appropriate credit to the original author(s) and the source,
+gave final approval of the version to be published; agree to be account-
+provide a link to the Creative Commons licence, and indicate if changes
+able for all aspects of the work.
+1 3
+
+--- Page 10 ---
+1 14 Cancer Chemotherapy and Pharmacology (2022) 89:105–115
+were made. The images or other third party material in this article are 13. Chang Q, Bournazou E, Sansone P et al (2013) The IL-6/JAK/
+included in the article's Creative Commons licence, unless indicated Stat3 feed-forward loop drives tumorigenesis and metastasis. Neo-
+otherwise in a credit line to the material. If material is not included in plasia 15:848–862. https://d oi.o rg/1 0.1 593/n eo.1 3706
+the article's Creative Commons licence and your intended use is not 14. Gao SP, Mark KG, Leslie K et al (2007) Mutations in the EGFR
+permitted by statutory regulation or exceeds the permitted use, you will kinase domain mediate STAT3 activation via IL-6 production
+need to obtain permission directly from the copyright holder. To view a in human lung adenocarcinomas. J Clin Invest 117:3846–3856.
+copy of this licence, visit http://c reati vecom mons.o rg/l icens es/b y/4.0 /. https://d oi.o rg/1 0.1 172/J CI318 71
+15. Hedvat M, Huszar D, Herrmann A et al (2009) The JAK2 inhibi-
+tor, AZD1480, potently blocks Stat3 signaling and oncogenesis in
+solid tumors. Cancer Cell 16:487–497. https://d oi.o rg/1 0.1 016/j.
+References
+ccr.2 009.1 0.0 15
+16. Haura EB, Zheng Z, Song L, Cantor A, Bepler G (2005) Acti-
+1. Maemondo M, Inoue A, Kobayashi K, The North-East Japan vated epidermal growth factor receptor-Stat-3 signaling pro-
+Study Group et al (2010) Gefitinib or chemotherapy for non− motes tumor survival in vivo in non-small cell lung cancer. Clin
+small-cell lung cancer with mutated EGFR. N Engl J Med Cancer Res 11:8288–8294. https://d oi.o rg/1 0.1 158/1 078-0 432.
+362:2380–2388. https://d oi.o rg/1 0.1 016/S 1470-2 045(11)7 0393-X CCR-0 5-0 827
+2. Rosell R, Carcereny E, Gervais R, Spanish Lung Cancer Group in 17. Greulich H, Chen TH, Feng W et al (2005) Oncogenic transfor-
+collaboration with Groupe Français de Pneumo-Cancérologie and mation by inhibitor-sensitive and -resistant EGFR mutants. PLoS
+Associazione Italiana Oncologia Toracica et al (2012) Erlotinib Med 2:e313. https://d oi.o rg/1 0.1 371/j ourna l.p med.0 02031 3
+versus standard chemotherapy as first-line treatment for European 18. Kim DM, Kim MJ, Moon J-H et al (2020) Inhibition of JAK1/2
+patients with advanced EGFR mutation-positive non-small-cell can overcome EGFR-TKI resistance in human NSCLC. Biochem
+lung cancer (EURTAC): a multicentre, open-label, randomised Biophys Res Commun 527:305–310. https://d oi.o rg/1 0.1 016/j.
+phase 3 trial. Lancet Oncol 13:239–246. https://d oi.o rg/1 0.1 016/ bbrc.2 020.0 4.0 95
+S1470-2 045(11)7 0393-X 19. Lee HJ, Zhuang G, Cao Y, Du P, Kim H-J, Settleman J (2014)
+3. Sequist LV, Yang JC, Yamamoto N et al (2013) Phase III study Drug resistance via feedback activation of Stat3 in oncogene-
+of afatinib or cisplatin plus pemetrexed in patients with meta- addicted cancer cells. Cancer Cell 26:207–221. https://d oi.o rg/
+static lung adenocarcinoma with EGFR mutations. J Clin Oncol 10.1 016/j.c cr.2 014.0 5.0 19
+31:3327–3334. https://d oi.o rg/1 0.1 200/J CO.2 012.4 4.2 806 20. Murakami T, Takigawa N, Ninomiya T et al (2014) Effect of
+4. Wu YL, Cheng Y, Zhou X et al (2017) Dacomitinib versus gefi- AZD1480 in an epidermal growth factor receptor-driven lung
+tinib as first-line treatment for patients with EGFR-mutation-pos- cancer model. Lung Cancer 83:30–36. https://d oi.o rg/1 0.1 016/j.
+itive non-small-cell lung cancer (ARCHER 1050): a randomised, lungca n.2 013.1 0.0 11
+open-label, phase 3 trial. Lancet Oncol 18:1454–1466. https://d oi. 21. Looyenga BD, Hutchings D, Cherni I, Kingsley C, Weiss GJ,
+org/1 0.1 016/S 1470-2 045(17)3 0608-3 MacKeigan JP (2012) STAT3 is activated by JAK2 independent of
+5. Ramalingam SS, Vansteenkiste J, Planchard D et al (2020) Overall key oncogenic driver mutations in non-small cell lung carcinoma.
+survival with osimertinib in untreated, EGFR-mutated advanced PLoS ONE 7:e30820. https://d oi.o rg/1 0.1 371/j ourna l.p one.0 0308
+NSCLC. N Engl J Med 382:41–50. https://d oi.o rg/ 10.1 056/ 20
+NEJMoa 19136 62 22. Harada D, Takigawa N, Ochi N et al (2012) JAK2-related path-
+6. Mok TS, Wu Y-L, Ahn MJ et al (2017) Osimertinib or platinum- way induces acquired erlotinib resistance in lung cancer cells har-
+pemetrexed in EGFR T790M-positive lung cancer. N Engl J Med boring an epidermal growth factor receptor-activating mutation.
+376:629–640. https://d oi.o rg/1 0.1 056/N EJMoa 16126 74 Cancer Sci 103:1795–1802. https://d oi.o rg/1 0.1 111/j.1 349-7 006.
+7. Yu HA, Arcila ME, Rekhtman N et al (2013) Analysis of tumor 2012.0 20363.x
+specimens at the time of acquired resistance to EGFR-TKI therapy 23. Su Q, Banks E, Bebernitz G et al (2020) Discovery of (2R)-N-
+in 155 patients with EGFR-mutant lung cancers. Clin Cancer Res [3-[2-[(3-Methoxy-1-methyl-pyrazol-4-yl)amino]pyrimidin-
+19:2240–2247. https://d oi.o rg/1 0.1 158/1 078-0 432.C CR-1 2-2 246 4-yl]-1H-indol-7-yl]-2-(4-methylpiperazin-1-yl)propenamide
+8. Sequist LV, Waltman BA, Dias-Santagata D et al (2011) Geno- (AZD4205) as a potent and selective Janus kinase 1 inhibitor. J
+typic and histological evolution of lung cancers acquiring resist- Med Chem 63:4517–4527. https://d oi.o rg/1 0.1 021/a cs.j medch em.
+ance to EGFR inhibitors. Sci Transl Med 3:75RA26. https://d oi. 9b0139 2
+org/1 0.1 126/s citra nslme d.3 00200 3 24. Chen H, Bebernitz G, Bell K et al (2017) Abstract 4046: Target-
+9. Papadimitrakopoulou VA, Wu Y, Han J, et al. Analysis of resist- ing JAK/STAT adaptive mechanism with JAK1 inhibitor azd4205
+ance mechanisms to osimertinib in patients with EGFR T790M reduces residual disease and prolongs benefit of osimertinib. Can-
+advanced NSCLC from the AURA3 study. Presented at: ESMO cer Res 77:4046. https://d oi.o rg/1 0.1 158/7 445.A M2017-4 046
+2018 Congress; October 19-23, 2018; Munich, Germany. Abstract 25. Stubbs MC, Wen X, Xue C-B et al (2019) Abstract 2938: In vivo
+5121 assessment of the combination of the JAK1 selective inhibitor
+10. Ramalingam SS, Cheng Y, Zhou C, et al. Mechanisms of acquired itacitinib with first- and second-generation EGFR inhibitors in
+resistance to first-line osimertinib: preliminary data from the models of non-small cell lung cancer. Cancer Res 78:2938. https://
+phase III FLAURA study. Presented at: ESMO 2018 Congress; doi.o rg/1 0.1 158/1 538-7 445.A M2018-2 938
+October 19-23, 2018; Munich, Germany. Abstract 865 26. Kim SM, Kwon OJ, Hong YK et al (2012) Activation of IL-6R/
+11. Johnson DE, O’Keefe RA, Grandis JR (2018) Targeting the JAK1/STAT3 signaling induces de novo resistance to irreversible
+IL-6/JAK/STAT3 signalling axis in cancer. Nat Rev Clin Oncol EGFR inhibitors in non-small cell lung cancer with T790M resist-
+15:234–248. https://d oi.o rg/1 0.1 038/n rclin onc.2 018.8 ance mutation. Mol Cancer Ther 11:2254–2264. https:// doi.o rg/
+12. Wang Y, van Boxel-Dezaire AHH, Cheon HJ, Yang J, Stark GR 10.1 158/1 535-7 163.M CT-1 2-0 311
+(2013) STAT3 activation in response to IL-6 is prolonged by the 27. Song L, Rawal B, Nemeth JA, Haura EB (2011) JAK1 activates
+binding of IL-6 receptor to EGF receptor. Proc Natl Acad Sci USA STAT3 activity in non-small-cell lung cancer cells and IL-6 neu-
+110:16975–16980. https://d oi.o rg/1 0.1 073/p nas.1 31582 110 tralizing antibodies can suppress JAK1-STAT3 signaling. Mol
+1 3
+
+--- Page 11 ---
+Cancer Chemotherapy and Pharmacology (2022) 89:105–115 115
+Cancer Ther 10:481–494. https://d oi.o rg/1 0.1 158/1 535-7 163. 38. Ng K, Hendifar A, Starodub A et al (2019) Phase 1 dose-
+mct-1 0-0 502 escalation study of momelotinib, a Janus kinase 1/2 inhibitor,
+28. Eisenhauer EA, Therasse P, Bogaerts J et al (2009) New response combined with gemcitabine and nab-paclitaxel in patients with
+evaluation criteria in solid tumours: revised RECIST guideline previously untreated metastatic pancreatic ductal adenocarci-
+(version 1.1). Eur J Cancer 45:228–247. https://d oi.o rg/1 0.1 016/j. noma. Invest New Drugs 37:159–165. https://d oi.o rg/1 0.1 007/
+ejca.2 008.1 0.0 26 s10637-0 18-0 650-5
+29. Tarceva (erlotinib) tablets for oral use. Prescribing Information; 39. Tan WK, Tan ARY, Sivanandam P et al (2020) In vitro inhibi-
+Genentech, South San Francisco, CA (2016). Available at: https:// tion of human aldehyde oxidase activity by clinically relevant
+www.g ene.c om/d ownlo ad/p df/t arcev a_p rescr ibing.p df concentrations of gefitinib and erlotinib: comparison with select
+30. Harrison CN, Vannucchi AM, Platzbecker U et al (2018) Momelo- metabolites, molecular docking analysis, and impact on hepatic
+tinib versus best available therapy in patients with myelofibrosis metabolism of zaleplon and methotrexate. J Pharmacol Exp Ther
+previously treated with ruxolitinib (SIMPLIFY 2): a randomised, 374:295–307. https://d oi.o rg/1 0.1 124/j pet.1 20.2 65249
+open-label, phase 3 trial. Lancet Haematol 5:e73–e81. https://d oi. 40. Zheng J, Xin Y, Zhang J et al (2018) Pharmacokinetics and
+org/1 0.1 016/s 2352-3 026(17)3 0237-5 disposition of momelotinib revealed a disproportionate human
+31. Mesa RA, Kiladjian J-J, Catalano JV et al (2017) SIMPLIFY-1: metabolite-resolution for clinical development. Drug Metab Dis-
+a phase III randomized trial of momelotinib versus ruxolitinib in pos 46:237–247. https://d oi.o rg/1 0.1 124/d md.1 17.0 78899
+Janus kinase inhibitor-naïve patients with myelofibrosis. J Clin 41. Gao SP, Chang Q, Mao N et al (2016) JAK2 inhibition sensitizes
+Oncol 35:3844–3850. https://d oi.o rg/1 0.1 200/j co.2 017.7 3.4 418 resistant EGFR-mutant lung adenocarcinoma to tyrosine kinase
+32. Verstovsek S, Courby S, Griesshammer M et al (2017) A phase inhibitors. Sci Signal 9:33. https://d oi.o rg/1 0.1 126/s cisig nal.a ac84
+2 study of momelotinib, a potent JAK1 and JAK2 inhibitor, in 60
+patients with polycythemia vera or essential thrombocythemia. 42. Park JS, Hong MH, Chun YJ, Kim HR, Cho CB (2019) A phase
+Leuk Res 60:11–17. https://d oi.o rg/1 0.1 016/j.l eukre s.2 017.0 5.0 02 Ib study of the combination of afatinib and ruxolitinib in EGFR
+33. Wu Y-L, Zhou C, Liam C-K et al (2015) First-line erlotinib versus mutant NSCLC with progression on EGFR-TKIs. Lung Cancer
+gemcitabine/cisplatin in patients with advanced EGFR mutation- 134:46–51. https://d oi.o rg/1 0.1 016/j.l ungca n.2 019.0 5.0 30
+positive non-small-cell lung cancer: analyses from the phase III, 43. Yu HA, Perez L, Chang Q et al (2017) A phase 1/2 trial of rux-
+randomized, open-label, ENSURE study. Ann Oncol 26:1883– olitinib and erlotinib in patients with EGFR-mutant lung adeno-
+1889. https://d oi.o rg/1 0.1 093/a nnonc/m dv270 carcinomas with acquired resistance to erlotinib. J Thorac Oncol
+34. Zhou C, Wu Y-L, Chen G et al (2011) Erlotinib versus chemo- 12:102–109. https://d oi.o rg/1 0.1 016/j.j tho.2 016.0 8.1 40
+therapy as first-line treatment for patients with advanced EGFR 44. Zhu Z, Aref AR, Cohoon TJ et al (2014) Inhibition of KRAS-
+mutation-positive non-small-cell lung cancer (OPTIMAL, driven tumorigenicity by interruption of an autocrine cytokine
+CTONG-0802): a multicentre, open-label, randomised, phase 3 circuit. Cancer Discov 4:452–465. https://d oi.o rg/1 0.1 158/2 159-
+study. Lancet Oncol 12:735–742. https://d oi.o rg/1 0.1 016/s 1470- 8290.c d-1 3-0 646
+2045(11)7 0184-x 45. Gong K, Guo G, Gerber DE et al (2018) TNF-driven adaptive
+35. Barbie DA, Spira A, Kelly K et al (2018) Phase 1B study of response mediates resistance to EGFR inhibition in lung cancer.
+momelotinib combined with trametinib in metastatic, Kirsten rat J Clin Invest 128:2500–2518. https://d oi.o rg/1 0.1 172/j ci961 48
+sarcoma viral oncogene homolog-mutated non-small-cell lung 46. Blakely CM, Pazarentzos E, Olivas V et al (2015) NF-κB-
+cancer after platinum-based chemotherapy treatment failure. Clin activating complex engaged in response to EGFR oncogene
+Lung Cancer 19:e853–e859. https://d oi.o rg/1 0.1 016/j.c llc.2 018. inhibition drives tumor cell survival and residual disease in lung
+07.0 04 cancer. Cell Rep 11:98–110. https://d oi.o rg/1 0.1 016/j.c elrep.2 015.
+36. Xin Y, Kawashima J, Weng W, Kwan E, Tarnowski T, Silverman 03.0 12
+JA (2018) Pharmacokinetics and safety of momelotinib in subjects
+with hepatic or renal impairment. J Clin Pharmacol 58:522–532. Publisher's Note Springer Nature remains neutral with regard to
+https://d oi.o rg/1 0.1 002/j cph.1 050 jurisdictional claims in published maps and institutional affiliations.
+37. Gupta V, Mesa RA, Deininger MWN et al (2017) A phase
+1/2, open-label study evaluating twice-daily administration of
+momelotinib in myelofibrosis. Haematologica 102:94–102.
+https://d oi.o rg/1 0.3 324/h aemat ol.2 016.1 48924
+1 3

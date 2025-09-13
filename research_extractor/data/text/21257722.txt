@@ -1,0 +1,1207 @@
+Source: 21257722.pdf
+Extracted on: Fri Sep 12 23:55:20 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+Published in final edited form as:
+Clin Cancer Res. 2011 April 15; 17(8): 2484–2492. doi:10.1158/1078-0432.CCR-10-2323.
+A Phase I Clinical Trial of Safingol in Combination with Cisplatin
+in Advanced Solid Tumors
+1 1 2 3
+Mark A. Dickson , Richard D. Carvajal , Alfred H. Merrill Jr , Mithat Gonen , Lauren M.
+1 1
+Cane , and Gary K. Schwartz
+1Melanoma and Sarcoma Service, Department of Medicine, Memorial Sloan-Kettering Cancer
+Center, New York, New York
+2Department of Molecular Cell Biology, Georgia Institute of Technology, Atlanta, Georgia
+3Biostatistics Service, Department of Epidemiology and Biostatistics; Memorial Sloan-Kettering
+Cancer Center, New York, New York
+Abstract
+Purpose—Sphingosine 1-phosphate (S1P) is an important mediator of cancer cell growth and
+proliferation. Production of S1P is catalyzed by sphingosine kinase 1 (SphK). Safingol, (L-threo-
+dihydrosphingosine) is a putative inhibitor of SphK. We conducted a phase I trial of safingol (S)
+alone and in combination with cisplatin (C).
+Experimental Design—A 3+3 dose escalation was used. For safety, S was given alone 1 week
+before the combination. S + C were then administered every 3 weeks. S was given over 60–120
+minutes (min), depending on dose. 60 min later, C was given over 60 min. The C dose of 75 mg/
+m2 was reduced in cohort 4 to 60 mg/m2 due to excessive fatigue.
+Results—43 patients were treated. 41 were evaluable for toxicity and 37 for response. The
+maximum tolerated dose (MTD) was S 840 mg/m2 over 120 min C 60 mg/m2, every 3 weeks.
+DLTs attributed to cisplatin included fatigue and hyponatremia. DLT from S was hepatic enzyme
+elevation. S pharmacokinetic parameters were linear throughout the dose range with no significant
+interaction with C. Patients treated at or near the MTD achieved S levels of > 20 µM and
+maintained levels ≥ 5 µM for 4 hours. The best response was stable disease in 6 patients for on
+average 3.3 months (range 1.8 – 7.2 m). One patient with adrenal cortical cancer had significant
+regression of liver and lung metastases and another had prolonged stable disease. S was associated
+with a dose-dependent reduction in S1P in plasma.
+Conclusions—Safingol, the first putative SphK inhibitor to enter clinical trials, can be safely
+administered in combination with cisplatin. Reversible dose-dependent hepatic toxicity was seen,
+as expected from preclinical data. Target inhibition was achieved with downregulation of S1P.
+The recommended phase 2 dose is S 840 mg/m2 and C 60 mg/m2, every 3 weeks.
+Keywords
+Drug-mediated stimulation of cell death pathways; Pharmacokinetics and pharmacodynamics;
+Kinase and phosphatase inhibitors; Novel antitumor agents; Sphingosine Kinase; Sphingolipids
+Corresponding author: Gary K. Schwartz, MD, Melanoma and Sarcoma Service, Memorial Sloan-Kettering Cancer Center, 1275
+York Avenue, New York, New York 10065, Tel: 212-639-8624, FAX: 212-717-3340, schwartg@mskcc.org.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Dickson et al. Page 2
+Introduction
+The role of sphingolipid compounds is increasingly recognized in cancer. The metabolites
+ceramide, sphingosine and sphingosine 1-phosphate (S1P) have crucial roles in intracellular
+and extracellular signaling.(1) Sphingosine kinase 1 (SphK) catalyzes the phosphorylation of
+sphingosine to form sphingosine 1-phosphate (S1P).(2) S1P acts downstream as a second
+messenger and via G protein-coupled receptors regulates multiple cellular processes
+including apoptosis inhibition, cell proliferation and angiogenesis.(2) SphK therefore
+regulates a rheostat, balancing the effects of pro-apoptotic ceramide and pro-proliferative
+S1P. Inhibiting SphK and downregulating S1P is thus a rational therapeutic target in cancer.
+(3)
+Safingol (L-threo-dihydrosphingosine) is a potent competitive inhibitor of SphK with a K
+i
+of about 5 µM.(4) Safingol is the first SphK inhibitor to enter clinical trials as an anti-cancer
+agent. Safingol has significant in vitro anti-cancer activity. It increases the in vitro antitumor
+effect of various chemotherapeutic agents such as doxorubicin, cisplatin and mitomycin C
+by enhancing chemotherapy-induced apoptosis.(5) We have also shown that safingol alone
+induces cell death by autophagy.(6) Although safingol has limited single-agent activity in
+vivo, xenograft experiments have shown that it can increase the antitumor activity of
+cisplatin without increasing toxicity.(5,7) The exact mechanism of its action is, however,
+uncertain. Safingol has previously been studied extensively as an inhibitor of Protein Kinase
+C, although the K is somewhat higher at 33 µM for PKC than for SphK.(8) Inhibition of
+i
+SphK is a plausible mechanism of action based on safingol’s ability to increase ceramide
+levels, alter the S1P/ceramide rheostat, and decrease tumor cell survival.(9)
+We have previously reported a phase I study of safingol in combination with doxorubicin.
+(10) Doses of safingol up to 120 mg/m2 were administered every three weeks with no dose-
+limiting toxicity observed. However, the clinical trial was terminated before the maximum
+tolerated dose could be determined because of insufficient drug supply. The only safingol-
+associated toxicity was a single episode of grade 1 hemolysis. No significant
+pharmacokinetic interaction with doxorubicin was detected. Further clinical development of
+safingol was delayed by drug supply issues and commercial circumstances. Recently,
+however, safingol has gained renewed attention as an putative inhibitor of SphK.(11) We
+now report the results of a complete phase I study of safingol in combination with cisplatin.
+The primary objective of this trial was to determine the maximum tolerated dose (MTD) of
+safingol when administered in combination with cisplatin in patients with advanced solid
+tumors. Safingol was administered over 60 to 120 minutes, prior to cisplatin dosing.
+Secondary objectives were to investigate the clinical pharmacokinetics of safingol and
+cisplatin, to study the pharmacodynamics of SphK inhibition, and to obtain preliminary data
+on the therapeutic activity of this regimen.
+Patients and Methods
+Eligibility
+Eligible patients were ≥ 18 years of age with a diagnosis of pathologically confirmed
+measurable or evaluable advanced solid tumor, with disease that was refractory to standard
+therapy or for which there was no standard therapy. Eligible patients had Karnofsky
+performance status of ≥ 70%, total white blood cell count ≥ 3,500/mm3, absolute neutrophil
+count ≥ 1,500/mm3, platelet count of ≥ 100,000/mm3, hemoglobin of ≥ 9.5 g/dL,
+haptoglobin ≥ 30 mg/dL, and adequate hepatic and renal function. Patients may have
+received prior chemotherapy (including cisplatin) but 4 weeks from last dose had to elapse
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Dickson et al. Page 3
+before study entry (6 weeks for nitrosoureas and mitomycin C). Patients with central
+nervous system metastases or a primary central nervous system neoplasm were not eligible.
+The protocol was approved by the Institutional Review Board of MSKCC and all patients
+provided written informed consent.
+Treatment plan
+This was an open-label, non-randomized, dose escalation study to determine the maximum
+tolerated dose (MTD) of intravenous safingol when administered 1 hour prior to a standard
+dose of cisplatin, once every 21 days.
+Groups of three to six patients were treated sequentially according to the dose escalation in
+Table 1. Safingol was administered as a 60- to 120-minute IV infusion, depending on the
+volume of the dose. 60 minutes after the completion of the safingol infusion, cisplatin was
+given as a 60-minute infusion. Each treatment cycle lasted 3 weeks, except for Cycle 1,
+which lasted 4 weeks. In Cycle 1, in order to assess safety and pharmacokinetics, safingol
+was given alone on Day 1. Following this, on Day 8 of Cycle 1, both safingol and cisplatin
+were administered.
+Because of concerns for hemolysis, urinalysis, haptoglobin, RBC morphology and CBC
+were assessed before and after the first infusion of safingol.
+All treatments were administered in the outpatient setting and, once assigned to a dose level,
+intra-patient dose escalation was not permitted.
+Toxicity was graded in accordance with the Common Toxicity Criteria version 3.0.(12)
+Dose Limiting Toxicity (DLT) was defined as the occurrence of Grade 4 hematologic
+toxicity, Grade 3 or 4 non-hematologic toxicity attributable to the study drug in combination
+with cisplatin, or any delay in treatment of more than one week. The MTD was defined as
+one level below the dose at which two or more of the patients experience DLT during the
+first cycle. Patients who experienced a DLT or toxicity attributed to study treatment could
+continue to receive treatment after recovery, with appropriate dose modifications as defined
+per protocol.
+To be evaluable for response and to be assessable for determination of MTD, patients had to
+have received at least one full cycle of therapy. Responses were evaluated after every two
+cycles with computed tomography scans or other diagnostic tests, as appropriate. Response
+Evaluation Criteria in Solid Tumors (RECIST) were used by an independent protocol
+radiologist.(13)
+Drug supply
+Safingol (NSC 714503) was supplied through the Rapid Access to Interventions
+Development (RAID) program of the National Cancer Institute, Cancer Therapy Evaluation
+Program. Safingol is the non-proprietary name for the L-threo enantiomer of
+dihydrosphingosine. The chemical name is (2S,3S)-2-amino-1,3-octadecanediol. Safingol
+was supplied as a sterile, pyrogen free emulsion containing, per mL, 2 mg of Safingol, 20
+mg of Lipoid 80 (Egg Phospholipids), 45.4 mg of dextrose, and 1.2 mg lactic acid in water.
+The final safingol concentration was made to 1 mg/ml with normal saline. Cisplatin was
+obtained commercially.
+Statistical design
+The main objective of this study was to determine the MTD of safingol when administered
+in combination with cisplatin. Standard 3+3 design was used for dose escalation. The
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Dickson et al. Page 4
+incidence of toxicities was summarized separately by safingol cohort. Secondary analyses
+included pharmacokinetic analyses of safingol by non-compartmental methods, and
+pharmacodynamic analyses of S1P levels.
+Pharmacokinetics
+For each patient, blood samples for safingol pharmacokinetics were collected during cycle 1,
+day 1 (treatment with safingol alone), and during cycle 1, day 8 (treatment with safingol and
+cisplatin). Plasma samples were obtained prior to administration of safingol, and 0, 15, 30
+and 60 min, and 2, 4, 6 and 24 h following. For patients treated in cohorts 8–10, PK
+sampling was limited to cycle 1, day 1, prior to administration of safingol, and 0, 15, 30 and
+60 min, and 4 h following. Assessment of safingol(14) and sphingolipid profile(15) was
+measured by high-performance liquid chromatography (HPLC) with mass spectroscopy
+(HPLS/MS) for quantitation. Pharmacokinetic parameters were estimated using a non-
+compartmental model.
+Results
+Patient characteristics
+From April 2004 to October 2008, 43 patients with advanced solid tumors were registered
+and treated. Two of these were not evaluable for determining DLT because they did not
+complete one cycle (4 weeks) of treatment. The reasons were clinical deterioration (1
+patient) and adverse effects of cisplatin (1 patient). A further four patients were not
+evaluable for response because they did not continue treatment until the first restaging scan.
+The reasons were withdrawal of consent due to adverse events (3 patients) and clinical
+deterioration (1 patient). In total, 41 patients were evaluable for toxicity and 37 for response.
+The median age was 54 years (range, 33–82 years) and the median Karnofsky performance
+status was 80% (range, 70–100%). There were 17 men and 26 women. The cancers treated
+and patient numbers were colorectal (11), adrenal cortical (7), sarcoma (6), pancreas (4),
+melanoma (3), hepatocellular (3), gastric (3), and others (6). 26 patients (60%) had received
+prior chemotherapy. 6 patients (14%) had received prior cisplatin.
+Cycle 1 toxicities
+Table 3 lists the significant grade 2 to 4 toxicities for the first cycle of therapy. The starting
+dose was safingol 60 mg/m2 with cisplatin 75 mg/m2. Dose escalation of safingol continued
+until cohort 3 (safingol 240 mg/m2 with cisplatin 75 mg/m2) where 2 of 3 patients
+experienced DLT in the form of grade 3 fatigue. Since this was considered to be caused by
+cisplatin, the protocol was amended and the cisplatin dose for subsequent cohorts was
+reduced to 60 mg/m2. Safingol escalation continued without evidence of further fatigue. In
+cohort 4 (safingol 240 mg/m2 with cisplatin 60 mg/m2), one of three patients had a DLT
+with thrombocytopenia (grade 3 for > 7 days). The cohort was expanded to include six
+evaluable patients with no further DLT observed. In cohort 8 (safingol 750 mg/m2 with
+cisplatin 60 mg/m2), one DLT occurred (grade 3 AST/ALT). Again, the cohort was
+expanded to include six evaluable patients with no further DLT observed. In cohort 9
+(safingol 930 mg/m2 with cisplatin 60 mg/m2), two DLTs occurred (grade 3 and 4 AST/
+ALT) among the six patients. This was the maximum administered dose and by definition
+exceeded the MTD. To further define the MTD, a dose intermediate between cohorts 8 and 9
+was tested. In this cohort 10 (safingol 840 mg/m2 with cisplatin 60 mg/m2), one DLT
+occurred (grade 3 AST/ALT) among six patients. Thus, the MTD had been reached. The
+DLT rate for the MTD cohort was 17% (1/6). This was considered acceptable using pre-
+specified guidelines since the upper limit of the 95% posterior interval was 40%.(16)
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Dickson et al. Page 5
+Pharmacokinetics
+Blood samples for pharmacokinetic analyses were obtained for 39 patients. Table 4
+summarizes safingol pharmacokinetic parameters for patients by cohort. Overall, safingol
+C and AUC increased in a linear and dose-proportional manner, although there was
+max
+significant inter-patient variability (Figure 1). Mean day 1 safingol C ranged from 1.7
+max
+µM (at safingol 60 mg/m2) up to 23.9 – 26.8 µM (at safingol 600 – 930 mg/m2). Mean day 1
+safingol AUC ranged from 11.2 µM*hr (at safingol 60 mg/m2) up to 101.9 – 109.9 µM*hr
+(at safingol 600 – 930 mg/m2). On average, each 100 mg/m2 increase in safingol dose
+resulted in 3 µM increase in C and 10 µM*hr increase in AUC.
+max
+Results for day 8, when safingol was given with cisplatin, were available for 23 patients.
+These were similar to day 1 PK assessments. Mean day 8 safingol C ranged from 1.6 µM
+max
+(at safingol 60 mg/m2) up to 23.3 µM (at safingol 600 mg/m2). Mean day 8 safingol AUC
+ranged from 16.5 µM*hr (at safingol 60 mg/m2) up to 128.3 µM*hr (at safingol 600 mg/
+m2). There was no statistically significant change in PK parameters from day 1 to day 8 and
+thus no evidence for any significant drug-drug interaction with cisplatin.
+Pharmacodynamics
+Blood samples were also assayed for levels of sphingosine-1-phophate (S1P). As an
+inhibitor of SphK, safingol would be expected to decrease S1P levels, which thus serve as a
+pharmacodynamic readout. The results are shown in figure 2A. The average S1P levels 1
+hour and 4 hours after safingol treatment are shown, with patients grouped by safingol dose
+cohort. S1P levels are normalized to the pre-treatment levels for each patient cohort and
+standard error bars are shown. The results show a dose-dependent decrease in S1P levels.
+Specifically, at safingol doses of over 750 mg/m2, S1P levels are decreased by about half (p
+< 0.001 by Student’s t-test). At 930 mg/m2, there may also be a time-dependent effect, since
+S1P levels were lower 4 hours post-treatment than at 1 hour post-treatment (p = 0.001). The
+decreases in S1P levels were associated with safingol levels of ≥ 5 µM out to 4 hours
+following drug administration (figure 2B).
+Antitumor activity
+37 patients were evaluable for response assessment. The best response was stable disease in
+6 patients for on average 3.3 m (range 1.8 – 7.2 m). One patient with adrenal cortical cancer
+had significant regression of liver and lung metastases (Figure 3). This patient, treated in
+cohort 3, developed grade 3 fatigue and hyponatremia. This was considered related to the
+cisplatin treatment, not to the safingol, and led to the modification of the cisplatin dose for
+subsequent cohorts. Because of these side effects, the patient withdrew consent and did not
+receive a second cycle of therapy. She was therefore not evaluable for the response endpoint
+as defined in the protocol. Nonetheless, her follow-up CT scans over several months with no
+further therapy demonstrated a major decrease in the size and number of metastases. This
+would have qualified as a confirmed partial response by RECIST and the response lasted 5.8
+months. We also note that the other patient with significant clinical benefit, a long period of
+stable disease (7.2 m), also had adrenal cortical cancer.
+Discussion
+This clinical trial describes the safety and pharmacokinetics of safingol in combination with
+cisplatin in patients with solid tumors. The MTD of safingol was determined to be 840 mg/
+m2 over 120 minutes with cisplatin 60 mg/m2 once every 3 weeks.
+Overall, the drug combination was well tolerated with no major increase in toxicities over
+those of cisplatin alone. Remarkably, with 60 mg/m2 of cisplatin there was no significant
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Dickson et al. Page 6
+renal insufficiency, a common complication of cisplatin treatment. The principal DLT was
+hepatic enzyme elevation. Although mild LFT changes were seen following the initial dose
+of safingol alone, significant DLT (Grade 3/4 LFT) occurred only after the combination
+treatment. In view of this, it is not possible to determine whether the observed toxicity is a
+consequence of the combination of safingol and cisplatin, or a result of repeat dosing of
+safingol. However, hepatic toxicity was predicted from preclinical studies that showed that
+administration of safingol alone to mice causes increases in ALT and histological changes
+consistent with hepatocyte autophagy.(14) The doses of safingol administered here were
+significantly higher than those in the other clinical trial of safingol with doxorubicin in
+which no hepatic toxicity was observed. In that study, safingol doses did not exceed 120 mg/
+m2 due to drug supply constraints. Here we identify for the first time a true MTD associated
+with safingol treatment. In the previous study, one case of hemolysis was considered a
+possible toxicity of safingol. In the current study, despite careful monitoring, no hemolysis
+was observed in any patient.
+Extensive pharmacokinetic sampling was performed. There was no significant interaction of
+safingol with cisplatin. For patients treated in cohorts 1–7, safingol C and AUC were not
+max
+significantly changed from Day 1, when safingol was administered alone, to Day 8, when
+safingol was administered with cisplatin (Table 4). Based on this observation,
+pharmacokinetic sampling was therefore limited to only Day 1 for those patients treated in
+cohorts 8–10.
+Overall, safingol PK parameters increased linearly with dose (Figure 1). Results were
+similar to those in the prior phase I trial of safingol and doxorubicin. For example, the mean
+C at the 60 mg/m2 and 120 mg/m2 doses were 1.3 (± 0.1) µM and 3.5 (± 0.7) µM in the
+max
+study of safingol and doxorubicin, and 1.7 (± 0.7) µM and 3.4 (± 1.8) µM in the current
+study. Dose escalation continued beyond 120 mg/m2 to a maximum administered dose of
+930 mg/m2. In patients treated at or near the MTD of this trial (cohorts 8–10; safingol dose
+750–930 mg/m2), C of over 20 µM of safingol was achieved. Although the duration of
+max
+safingol concentration over 20 µM was relatively short (< 1 hour), safingol levels of at least
+5 µM (the K for SphK) persist for at least 4 hours after treatment.(11)
+i
+Clinical activity was seen in two patients with adrenal cortical cancer. One had prolonged
+stable disease after progression on prior therapy and another patient, although not strictly
+evaluable per protocol, had a partial response. Although a promising result, we cannot
+conclude this is different from what would have been achieved with cisplatin alone. The
+overall low response rate may be explained by the relatively refractory cancers treated. The
+patient population was heavily pre-treated (median of 4 prior regimens) and included a
+substantial majority of patients with diseases that are resistant to cisplatin (such as colorectal
+cancer and sarcoma).
+Treatment with safingol and cisplatin was associated with significant decreases in plasma
+levels of S1P. One possible explanation is that safingol effectively inhibited SphK leading to
+decreased S1P levels. However, S1P biology is complex and other mechanisms must be
+considered. SphK, when activated, translocates to the cell membrane where its substrate,
+sphingosine, is located.(17) S1P is generated and transported extracellularly for autocrine
+and paracrine signaling and can also act intracellularly through histone deacetylases to
+regulate gene expression (18)(19) S1P levels are closely regulated with tissue S1P generally
+low, and plasma S1P generally high.(20,21) The high levels of S1P normally measured in
+plasma are derived from multiple sources, including platelets, erythrocytes and the vascular
+endothelium.(22–25)
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Dickson et al. Page 7
+Thus, alternative mechanisms may explain the association between safingol administration
+and S1P levels. The observed changes in plasma S1P could be the result of decreased S1P
+production or decreased S1P release from either tumor or normal tissues such as
+hematopoietic or endothelial cells. An increase in S1P utilization or degradation by tumor or
+normal tissue could also explain the result. Our pharmacokinetic data only allow us to
+comment on plasma levels of S1P. Whether these reflect intra-tumoral levels of S1P is
+unknown. Other potential causes of S1P reduction include an effect of safingol on a target
+other than SphK, or even a nonspecific effect of the drug formulation.
+Nevertheless, the results show that high plasma levels of safingol can be achieved and
+sustained for up to 4 hours after dosing. These levels are in the range predicted to effectively
+inhibit SphK. Sustained levels of safingol in plasma were associated with decreased S1P,
+consistent with the putative mechanism of action. Whether S1P suppression correlates with
+intracellular or intratumoral SphK activity is unknown and would require tumor biopsies to
+elucidate.
+Statement of Translational Relevance
+Sphingolipid metabolites play important roles in cancer. A balance exists between the
+pro-apoptotic sphingolipid ceramide and its pro-proliferation counterpart sphingosine 1-
+phosphate (S1P). Sphingosine kinase (SphK) catalyzes the production of S1P and thus
+regulates this balance. Inhibition of SphK is therefore a rational therapeutic strategy. We
+report the first complete phase I study of a safingol, a putative inhibitor of SphK.
+Safingol was administered alone and, based on preclinical data, in combination with
+cisplatin. Safingol can be safely administered at doses that achieve plasma levels
+consistent with target inhibition. Manageable hepatotoxicity, as predicted from animal
+models, occurred. Administration of safingol and cisplatin was associated with dose-
+dependent decreases in plasma levels of S1P, consistent with SphK inhibition.
+Considering the importance of sphingolipids in inflammation, immunity and cancer, the
+results could have broad implication for human disease and treatment.
+Acknowledgments
+This work was supported by the National Cancer Institute at the U.S. National Institutes of Health [R21CA112910
+to GKS] and, in part, by LIPID Metabolites And Pathways Strategy (LIPID MAPS) [GM069338 to AHM].
+For expert technical assistance in lipid biochemistry, we thank Jeremy Allegood, Sibali Bandyopadhyay, Kristin
+Jones, Samuel Kelly, Rebecca Shaner, and Elaine Wang.
+References
+1. Pitman MR, Pitson SM. Inhibitors of the sphingosine kinase pathway as potential therapeutics. Curr
+Cancer Drug Targets. 2010; 10:354–367. [PubMed: 20370685]
+2. Cuvillier O, Ader I, Bouquerel P, Brizuela L, Malavaud B, Mazerolles C, et al. Activation of
+sphingosine kinase-1 in cancer: implications for therapeutic targeting. Curr Mol Pharmacol. 2010;
+3:53–65. [PubMed: 20302564]
+3. Reynolds CP, Maurer BJ, Kolesnick RN. Ceramide synthesis and metabolism as a target for cancer
+therapy. Cancer Lett. 2004; 206:169–180. [PubMed: 15013522]
+4. Olivera A, Kohama T, Tu Z, Milstien S, Spiegel S. Purification and characterization of rat kidney
+sphingosine kinase. J Biol Chem. 1998; 273:12576–12583. [PubMed: 9575218]
+5. Kedderis LB, Bozigian HP, Kleeman JM, Hall RL, Palmer TE, Harrison SD Jr, et al. Toxicity of the
+protein kinase C inhibitor safingol administered alone and in combination with chemotherapeutic
+agents. Fundam Appl Toxicol. 1995; 25:201–217. [PubMed: 7665004]
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Dickson et al. Page 8
+6. Coward J, Ambrosini G, Musi E, Truman JP, Haimovitz-Friedman A, Allegood JC, et al. Safingol
+(L-threo-sphinganine) induces autophagy in solid tumor cells through inhibition of PKC and the
+PI3-kinase pathway. Autophagy. 2009; 5:184–193. [PubMed: 19098447]
+7. Hoffmann TK, Leenen K, Hafner D, Balz V, Gerharz CD, Grund A, et al. Antitumor activity of
+protein kinase C inhibitors and cisplatin in human head and neck squamous cell carcinoma lines.
+Anticancer Drugs. 2002; 13:93–100. [PubMed: 11914646]
+8. Schwartz GK, Jiang J, Kelsen D, Albino AP. Protein kinase C: a novel target for inhibiting gastric
+cancer cell invasion. J Natl Cancer Inst. 1993; 85:402–407. [PubMed: 8433394]
+9. Maurer BJ, Melton L, Billups C, Cabot MC, Reynolds CP. Synergistic cytotoxicity in solid tumor
+cell lines between N-(4-hydroxyphenyl)retinamide and modulators of ceramide metabolism. J Natl
+Cancer Inst. 2000; 92:1897–1909. [PubMed: 11106681]
+10. Schwartz GK, Ward D, Saltz L, Casper ES, Spiess T, Mullen E, et al. A pilot clinical/
+pharmacological study of the protein kinase C-specific inhibitor safingol alone and in combination
+with doxorubicin. Clin Cancer Res. 1997; 3:537–543. [PubMed: 9815717]
+11. Vessey DA, Kelley M, Zhang J, Li L, Tao R, Karliner JS. Dimethylsphingosine and FTY720
+inhibit the SK1 form but activate the SK2 form of sphingosine kinase from rat heart. J Biochem
+Mol Toxicol. 2007; 21:273–279. [PubMed: 17912702]
+12. Trotti A, Colevas AD, Setser A, Rusch V, Jaques D, Budach V, et al. CTCAE v3.0: development
+of a comprehensive grading system for the adverse effects of cancer treatment. Semin Radiat
+Oncol. 2003; 13:176–181. [PubMed: 12903007]
+13. Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubinstein L, et al. New
+guidelines to evaluate the response to treatment in solid tumors. European Organization for
+Research and Treatment of Cancer, National Cancer Institute of the United States, National Cancer
+Institute of Canada. J Natl Cancer Inst. 2000; 92:205–216. [PubMed: 10655437]
+14. Morales PR, Dillehay DL, Moody SJ, Pallas DC, Pruett S, Allgood JC, et al. Safingol toxicology
+after oral administration to TRAMP mice: demonstration of safingol uptake and metabolism by N-
+acylation and N-methylation. Drug Chem Toxicol. 2007; 30:197–216. [PubMed: 17613006]
+15. Sullards MC, Allegood JC, Kelly S, Wang E, Haynes CA, Park H, et al. Structure-specific,
+quantitative methods for analysis of sphingolipids by liquid chromatography-tandem mass
+spectrometry: "inside-out" sphingolipidomics. Methods Enzymol. 2007; 432:83–115. [PubMed:
+17954214]
+16. Gonen M. A Bayesian evaluation of enrolling additional patients at the maximum tolerated dose in
+Phase I trials. Contemp Clin Trials. 2005; 26:131–140. [PubMed: 15837436]
+17. Pitson SM, Xia P, Leclercq TM, Moretti PA, Zebol JR, Lynn HE, et al. Phosphorylation-dependent
+translocation of sphingosine kinase to the plasma membrane drives its oncogenic signalling. J Exp
+Med. 2005; 201:49–54. [PubMed: 15623571]
+18. Alvarez SE, Milstien S, Spiegel S. Autocrine and paracrine roles of sphingosine-1-phosphate.
+Trends Endocrinol Metab. 2007; 18:300–307. [PubMed: 17904858]
+19. Hait NC, Allegood J, Maceyka M, Strub GM, Harikumar KB, Singh SK, et al. Regulation of
+histone acetylation in the nucleus by sphingosine-1-phosphate. Science. 2009; 325:1254–1257.
+[PubMed: 19729656]
+20. Edsall LC, Spiegel S. Enzymatic measurement of sphingosine 1-phosphate. Anal Biochem. 1999;
+272:80–86. [PubMed: 10405296]
+21. Caligan TB, Peters K, Ou J, Wang E, Saba J, Merrill AH Jr. A high-performance liquid
+chromatographic method to measure sphingosine 1-phosphate and related compounds from
+sphingosine kinase assays and other biological samples. Anal Biochem. 2000; 281:36–44.
+[PubMed: 10847608]
+22. Yatomi Y, Igarashi Y, Yang L, Hisano N, Qi R, Asazuma N, et al. Sphingosine 1-phosphate, a
+bioactive sphingolipid abundantly stored in platelets, is a normal constituent of human plasma and
+serum. J Biochem. 1997; 121:969–973. [PubMed: 9192741]
+23. Hanel P, Andreani P, Graler MH. Erythrocytes store and release sphingosine 1-phosphate in blood.
+FASEB J. 2007; 21:1202–1209. [PubMed: 17215483]
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Dickson et al. Page 9
+24. Pappu R, Schwab SR, Cornelissen I, Pereira JP, Regard JB, Xu Y, et al. Promotion of lymphocyte
+egress into blood and lymph by distinct sources of sphingosine-1-phosphate. Science. 2007;
+316:295–298. [PubMed: 17363629]
+25. Venkataraman K, Lee YM, Michaud J, Thangada S, Ai Y, Bonkovsky HL, et al. Vascular
+endothelium as a contributor of plasma sphingosine 1-phosphate. Circ Res. 2008; 102:669–676.
+[PubMed: 18258856]
+26. Cohen JA, Barkhof F, Comi G, Hartung HP, Khatri BO, Montalban X, et al. Oral fingolimod or
+intramuscular interferon for relapsing multiple sclerosis. N Engl J Med. 2010; 362:402–415.
+[PubMed: 20089954]
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Dickson et al. Page 10
+Figure 1.
+Pharmacokinetic dose-ranging for C (top) and AUC (bottom) of safingol. C and AUC
+max max
+for each patient studied are plotted against safingol dose. Diamonds represent doses of
+safingol given alone. Circles represent doses of safingol given with cisplatin.
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Dickson et al. Page 11
+Figure 2.
+(A) Pharmacodynamics of sphingosine-1-phophate (S1P) in peripheral blood. The mean S1P
+levels 1 hour and 4 hours after safingol treatment are shown, with patients grouped by
+safingol dose cohort. S1P levels are normalized to the pre-treatment S1P levels for each
+cohort with standard error bars shown. (B) Safingol plasma concentration over time for the
+patients treated at or near the MTD. Safingol doses of 750–930 mg/m2 were administered.
+Plasma levels were measured beginning at the end of safingol infusion (time = 0).
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Dickson et al. Page 12
+Figure 3.
+Regression of pulmonary and hepatic metastases from a patient with adrenal cortical
+carcinoma, 16 weeks after a treatment with safingol and cisplatin.
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Dickson et al. Page 13
+Table 1
+Dose escalation
+Cohort Safingol Cisplatin N
+(mg/m2) (mg/m2)
+1 60 75 4
+2 120 75 3
+3 240 75 3
+4 240 60 6
+5 360 60 3
+6 480 60 3
+7 600 60 3
+8 750 60 6
+9 930 60 6
+10 840 60 6
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Dickson et al. Page 14
+Table 2
+Patient Characteristics
+Characteristic N
+Total 43
+Evaluable 41
+Male 17 (40%)
+Female 26 (60%)
+Age, y
+Median 54
+Range 33–82
+KPS, %
+Median 80
+Range 70–100
+Prior chemotherapy 26 (60%)
+Median number of prior regimens 4
+Primary Sites of Disease
+Colorectal 11
+Adrenal Cortical Carcinoma 7
+Sarcoma 6
+Pancreas 4
+Melanoma 3
+Hepatocellular Carcinoma 3
+Gastric 3
+Head & Neck 2
+Cholangiocarcinoma 2
+Ovarian 1
+Bladder 1
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Dickson et al. Page 15
+3
+elbaT
+yticixot
+1 elcyC
+yhtaporueN
+eninitaerC
+gnitimov/aesuaN
+steletalP
+aimenA
+ainepohpmyL
+aimertanopyH
+eugitaF
+TLA/TSA
+4G
+3G
+2G
+4G
+3G
+2G
+4G
+3G
+2G
+4G
+3G
+2G
+4G
+3G
+2G
+4G
+3G
+2G
+4G
+3G
+2G
+4G
+3G
+2G
+4G
+3G
+2G
+N
+trohoC
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+4
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+*1
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+6
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+3
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+†2
+1
+6
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+1
+0
+0
+0
+1
+1
+1
+1
+6
+9
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+1
+0
+6
+01
+.dlob
+ni
+deton
+era
+sTLD
+*
+.TLD
+a
+deredisnoc
+ton dna
+sesatsatem
+revil
+ot
+detubirtta
+TLA/TSA
+3G
+dah
+tneitap
+enO
+†
+.TLD
+a
+deredisnoc
+dna
+gurd
+ot detubirtta
+saw
+siht
+dnoces
+eht
+ni ;sesatsatem
+revil
+evissergorp
+ot
+detubirtta
+saw
+siht
+tneitap
+eno
+nI
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Dickson et al. Page 16
+4
+elbaT
+trohoc
+yb
+sretemarap
+citenikocamrahp
+lognifaS
+8 yaD
+8 yaD
+1 yaD
+1 yaD
+DS
+naem
+DS
+N
+DS
+naem
+DS
+N
+trohoC
+CUA
+xam
+C naem
+CUA
+xam
+C
+naem
+nitalpsiC
+lognifaS
+)rh*Mµ(
+)Mµ(
+)rh*Mµ(
+)Mµ(
+)2m/gm(
+)2m/gm(
+9.21
+5.61
+6.0
+6.1
+4
+3.4
+2.11
+7.0
+7.1
+4
+57
+06
+1
+5.71
+1.53
+6.2
+6.5
+3
+4.8
+2.12
+8.1
+4.3
+3
+57
+021
+2
+7.31
+5.45
+6.3
+8.8
+3
+6.91
+9.04
+2.6
+5.7
+3
+57
+042
+3
+8.51
+8.24
+3.1
+8.5
+5
+3.71
+8.65
+1.3
+4.7
+5
+06
+042
+4
+0.81
+7.08
+2.5
+1.81
+3
+4.01
+0.67
+8.4
+1.61
+3
+06
+063
+5
+6.81
+2.49
+7.3
+4.51
+3
+4.42
+7.28
+6.1
+2.51
+3
+06
+084
+6
+8.93
+3.821
+9.11
+3.32
+2
+5.94
+8.501
+6.9
+9.32
+3
+06
+006
+7
+DN
+DN
+DN
+DN
+0
+7.7
+9.101
+9.2
+8.62
+6
+06
+057
+8
+DN
+DN
+DN
+DN
+0
+3.81
+9.401
+2.2
+6.52
+6
+06
+039
+9
+DN
+DN
+DN
+DN
+0
+1.61
+9.901
+5.6
+5.32
+3
+06
+048
+01
+.enola
+nevig
+saw
+lognifas
+nehw
+,1
+yaD
+no
+deniatbo
+ylno
+erew
+selpmas
+,01–8
+strohoC
+ni
+stneitap
+roF
+Clin Cancer Res. Author manuscript; available in PMC 2012 April 15.

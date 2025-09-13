@@ -1,0 +1,1247 @@
+Source: 28194539.pdf
+Extracted on: Sat Sep 13 00:01:04 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Published in final edited form as:
+Invest New Drugs. 2017 October ; 35(5): 616–626. doi:10.1007/s10637-017-0442-3.
+Phase I trial of MEK 1/2 inhibitor pimasertib combined with
+mTOR inhibitor temsirolimus in patients with advanced solid
+tumors
+Monica Mita1, Siqing Fu2, Sarina Anne Piha-Paul2, Filip Janku2, Alain Mita1, Ronald
+Natale1, Wei Guo3, Charles Zhao4, Razelle Kurzrock5, and Aung Naing2
+1Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, Los Angeles, CA
+90048, USA
+2Department of Investigational Cancer Therapeutics, The University of Texas MD Anderson
+Cancer Center, Houston, TX 77030, USA
+3Global Biostatistics, EMD Serono Inc., Billerica, MA 01821, USA
+4Clinical Oncology Early Development, EMD Serono Inc., Billerica, MA 01821, USA
+5Division of Hematology and Oncology, University of California San Diego (UCSD) School of
+Medicine and UCSD Moores Cancer Center, La Jolla, CA 92093, USA
+Abstract
+Background—Dual inhibition of activated MAPK and mTOR signaling pathways may enhance
+the antitumor efficacy of the MEK 1/2 inhibitor pimasertib and the mTOR inhibitor temsirolimus
+given in combination.
+Methods—In this phase I study, patients with refractory advanced solid tumors (NCT01378377)
+received once-weekly temsirolimus plus once-daily oral pimasertib in 21-day cycles in a modified
+3+3 dose-escalation design. The maximum tolerated dose (MTD) and recommended phase 2 dose
+(RP2D) of pimasertib in combination with temsirolimus, safety and pharmacokinetics (PK) were
+investigated.
+Corresponding author: Aung Naing, MD, FACP, The University of Texas MD Anderson Cancer Center, Department of Investigational
+Cancer Therapeutics, 1515 Holcombe Blvd, Houston, TX 77030, USA, anaing@mdanderson.org, Tel: +1 713-563-0181, Fax: +1
+713-792-0034.
+Conflict of Interest: M Mita has no conflicts of interest to declare.
+S Fu has no conflicts of interest to declare.
+SA Piha-Paul has no conflicts of interest to declare.
+F Janku has no conflicts of interest to declare.
+A Mita has no conflicts of interest to declare.
+R Natale has no conflicts of interest to declare
+W Guo was an employee of EMD Serono Inc, Billerica, USA who sponsored this trial.
+C Zhao is an employee of EMD Serono Inc., Billerica, USA who sponsored this trial.
+R Kurzrock has research funding from Genentech, Merck Serono, Pfizer, Sequenom, Foundation Medicine, and Guardant, as well as
+consultant/advisory board fees from Sequenom, Actuate Therapeutics, and Xbiotech, and an ownership interest in Novena, Inc. and
+Curematch, Inc.
+A Naing has no conflicts of interest to declare.
+Compliance with Ethical Standards: Ethical Approval: Written informed consent was obtained from all patients prior to study
+initiation. All procedures performed in studies involving human participants were in accordance with the ethical standards of the
+institution of the participating centers and with the 1964 Helsinki declaration and its later amendments.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Mita et al. Page 2
+Results—Of 33 patients evaluated, all experienced ≥1 treatment-emergent adverse event (TEAE)
+and 31 had treatment-related TEAEs, most frequently stomatitis and thrombocytopenia. TEAEs
+were reversible. No deaths were attributed to treatment. Nine patients had dose-limiting toxicities
+(stomatitis, thrombocytopenia, serum creatinine phosphokinase increase, visual impairment) and
+the MTD was determined as 45 mg/day pimasertib plus 25 mg/week temsirolimus. However, due
+to overlapping toxicities no further investigations were performed and the RP2D was not defined.
+PK profiles of both agents were not adversely affected. Seventeen patients (17/26 patients) had a
+best response of stable disease; five had stable disease lasting >12 weeks.
+Conclusions—The RP2D was not defined and the pimasertib plus temsirolimus combination
+investigated did not warrant further study.
+Keywords
+MAPK; MEK; pimasertib; safety; solid tumors; temsirolimus
+Introduction
+The PTEN/PI3K/AKT/mTOR (mTOR) and RAS/RAF/MEK/ERK (MAPK) signaling
+pathways are among the most frequently deregulated in cancer, and play a key role in
+carcinogenesis [1]. Mutations in any of the elements of these pathways can lead to pathway
+activation, aberrant signaling and loss of regulation, ultimately resulting in abnormal cell
+growth and tumor formation [2]. Aberrant activation of the mTOR and MAPK pathways is
+seen in a broad spectrum of human cancers [3,4].
+The mTOR and MAPK pathways have extensive cross-talk [2,1,5] and co-activation of these
+pathways has been shown in a number of tumor types, including prostate, colorectal and
+thyroid cancer and melanoma [6-10]. As a consequence of the marked cross-talk between
+these pathways, one pathway may provide compensatory signaling when the other is
+inhibited [11,1] and the activation of one pathway can influence resistance to targeted
+inhibition of the other pathway [4,5]. However, simultaneous inhibition of the MAPK and
+mTOR signaling cascades may lead to greater antitumor activity than targeting either
+pathway alone [2,1,12].
+In preclinical studies, the simultaneous inhibition of MEK and mTOR substantially
+enhanced antitumor activity in a variety of xenograft cancer models including breast,
+prostate, colorectal, thyroid, pancreatic, liver and non-small cell lung cancer (NSCLC) and
+melanoma [13-17,6,18,19]. Similarly, targeting PI3K/AKT and the MAPK pathway had
+favorable effects on antitumor efficacy (with tumor regression ranging from 2 to 64%) in
+patients with advanced cancer [12]. In addition to enhanced antitumor efficacy, dual
+inhibition of the MAPK and mTOR signaling pathways is a strategy that can also be used to
+overcome resistance to mTOR inhibition, and has been proposed as a means of enhancing
+mTOR targeted anticancer therapies [20].
+Pimasertib (MSC1936369B) is an orally bioavailable and selective small-molecule inhibitor
+of MEK1 and MEK2 that prevents the activation of MEK1/2-dependent effector proteins
+and transcription factors [21,22]. It has demonstrated robust antitumor activity in preclinical
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Mita et al. Page 3
+studies, including tumor growth reduction in murine myeloma xenografts [21] and tumor
+regression in a mouse model of D-MUT colorectal cancer [22], and it has also been shown
+to circumvent resistance to BRAF inhibition in human melanoma cells [23].
+Pimasertib given as a single agent showed acceptable toxicity with a maximum tolerated
+dose (MTD) that depended on the treatment schedule in patients with advanced solid tumors
+[24]; with continuous twice daily administration, the MTD was 75 mg. When pimasertib
+was given in combination with FOLFIRI (5-fluorouracil/folinic acid/irinotecan), the MTD
+was reached at 45 mg/day in a 5 days on/2 days off schedule in patients with KRAS-mutated
+metastatic colorectal cancer [25].
+Pimasertib has been evaluated in combination with a variety of mTOR pathway inhibitors
+(MSC2208382 [a selective PI3K inhibitor], everolimus, sorafenib or regorafenib) in
+preclinical studies [26]. These have shown synergistic effects on the inhibition of cell growth
+and induction of apoptosis, with sustained blockade of MAPK- and AKT-dependent
+signaling pathways in pimasertib-resistant human colon carcinoma and lung
+adenocarcinoma cell lines and delayed tumor growth and increased survival in mice with
+colon carcinoma and lung adenocarcinoma xenografts [26].
+The mTOR inhibitor temsirolimus (CCI-779) is approved for the treatment of advanced
+renal cell carcinoma (RCC) [27] and has shown efficacy in phase II trials including patients
+with neuroendocrine tumors, breast cancer and endometrial cancer [28-30]. Following on
+from the promising preclinical outcomes of pimasertib in combination with mTOR
+inhibitors, the primary aim of the present phase I study (NCT01378377) was to determine
+the MTD of pimasertib and a dosage suitable for phase II study in combination with
+temsirolimus in patients with advanced solid tumors.
+Materials and Methods
+Patients
+Patients were eligible for enrolment if they were ≥ 18 years old with histologically or
+cytologically confirmed solid tumors, which were refractory to standard therapy or for which
+no effective standard therapy was available. Tumor samples were required at baseline for
+histological or cytological confirmation and characterization of molecular aberrations
+activating the PI3K/mTOR or MEK pathways.
+All patients provided written, informed consent prior to study initiation. The study adhered
+to Good Clinical Practice and the Declaration of Helsinki, and had institutional ethics review
+board approval from the participating centers.
+Study design
+In this phase I study (www.ClinicalTrials.gov, NCT01378377), the primary objective was to
+determine the MTD and the recommended phase II dose (RP2D) of the combination of
+pimasertib and temsirolimus, and to evaluate tolerability and dose-limiting toxicities (DLTs).
+Secondary objectives included safety, pharmacokinetics (PK) of pimasertib and
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Mita et al. Page 4
+temsirolimus alone and in combination, and the antitumor activity of the two drugs in
+combination.
+Patients received intravenous (i.v.) temsirolimus once a week plus oral pimasertib once a day
+(15 days on then 6 days off) in a 21-day cycle at three dose levels (Fig 1). These were (1)
+pimasertib 45 mg/day, temsirolimus 12.5 mg/week; (2) pimasertib 45 mg/day, temsirolimus
+25 mg/week; and (3) pimasertib 75 mg/day, temsirolimus 25 mg/week. A modified 3 + 3
+dose-escalation design for pimasertib was used, with three to six patients at each level.
+Patients were assigned to sequential cohorts, starting with the first cohort at the first dose
+level (pimasertib 45 mg/day, temsirolimus 12.5 mg/week). Temsirolimus was escalated to
+the maximum dose of 25 mg/week from the second cohort onwards. Dose escalation of
+pimasertib began in the third cohort, and proceeded until the MTD of pimasertib as
+monotherapy (75 mg twice daily continuously, determined previously from the first in
+human pimasertib single-agent trial [24]) was reached or the RP2D was determined. The
+dose escalation scheme is summarized in Fig 1
+Treatment continued until disease progression or intolerable toxicity, or at the discretion of
+the investigator or patient. Safety follow-up assessment was 30 days after final study drug
+administration.
+Safety evaluation, DLTs and MTD
+Treatment-emergent adverse events (TEAEs) and DLTs were graded according to the
+National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE)
+version 4.0.
+DLTs were defined as any of the following toxicities observed in the first treatment cycle
+and judged not to be related to underlying disease or concomitant medications: any grade ≥
+3 non-hematologic toxicity (with certain exceptions); grade 4 neutropenia lasting > 5 days or
+febrile neutropenia lasting > 1 day; grade 3 thrombocytopenia with bleeding or grade 4
+thrombocytopenia; any treatment interruption of > 2 weeks that was due to adverse events
+(AEs) not related to the underlying disease or concomitant medication; and any severe or
+life-threatening condition not defined by NCI-CTCAE that was attributable to study
+treatment.
+The MTD of the combined treatment was defined as the dose level below the one at which >
+1 out of 3 or 6 patients experienced drug-related DLTs during the 21-day DLT observation
+period.
+AEs of special interest (AESIs) in this study were serous retinal detachment (SRD), retinal
+vein occlusion (RVO) and serum creatine phosphokinase (CPK) elevation. Skin disorders
+and cardiac events received particular attention, but were not classed as AESIs.
+PK parameters
+Concentration-time profiles for pimasertib were obtained in plasma, and in whole blood for
+temsirolimus. PK parameters were calculated using standard non-compartmental analyses
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Mita et al. Page 5
+and key plasma PK parameters were assessed: peak plasma concentration (C ) and time to
+max
+C (t ); area under the curve of plasma concentration versus time extrapolated to
+max max
+infinity (AUC ) and for the dosing interval (AUC ); plasma elimination half-life (t );
+0-∞ τ ½
+apparent clearance (CL/F); and apparent volume of distribution (V /F). PK parameters for
+Z
+temsirolimus were C , t , AUC , t , CL (clearance) and V (volume of distribution).
+max max 0-1/2 ½ Z
+A drug-drug interaction (DDI) study investigated the potential effects of coadministration of
+pimasertib and temsirolimus on exposure to either compound. Patients included in the DDI
+study were those enrolled in the first cohort and (if deemed necessary by the safety
+monitoring committee) up to 12 patients in the expansion part of the MTD cohort. All
+assessments and procedures related to DDIs were carried out during cycle 1.
+Temsirolimus administration was delayed by 1 day for DDI study patients to allow
+evaluation of the effect of temsirolimus on the PK of pimasertib.
+Efficacy
+Tumor response was assessed using computed tomography or magnetic resonance imaging
+every two cycles for the first six cycles, then at least once every four cycles (12 weeks).
+Tumors were also assessed at the end of treatment, at safety follow-up or at disease
+progression. Tumor responses were assessed according to Response Evaluation Criteria in
+Solid Tumors (RECIST version 1.0). Objective response and disease control rates were
+calculated.
+Statistical considerations
+The study followed a classical 3 + 3 design. Descriptive statistics were used to summarize
+the trial data for each dose level cohort. Geometric least-squares mean ratios (pimasertib +
+temsirolimus/temsirolimus alone) for C on Day 9/Day 1, and for AUC , on Day 9/
+max τ
+AUC on Day 1, and for C and AUC for Day 9/Day 16 were calculated with 90%
+0-∞ max 0-∞
+confidence intervals (CIs), and compared with a predefined equivalence interval for the CI of
+0.80-1.25.
+Results
+Patient baseline characteristics
+In total, 46 patients were screened, of whom 33 received treatment with pimasertib and
+temsirolimus: pimasertib 45 mg + temsirolimus 12.5 mg (45 PIM/12.5 TEM; n = 4),
+pimasertib 45 mg + temsirolimus 25 mg (45 PIM/25 TEM; n = 23) and pimasertib 75 mg +
+temsirolimus 25 mg (75 PIM/25 TEM; n = 6). Table 1 shows the baseline characteristics and
+demographics. All patients had been heavily pretreated with a median of five prior lines of
+anticancer therapies (range: 1, 13).
+All patients were off-treatment at the time of analysis. The most common reason for
+withdrawal was disease progression (63.6%), followed by withdrawal of consent (18.2%)
+and AEs (12.1%).
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Mita et al. Page 6
+Safety
+In total, nine patients had a DLT (Table 2). No DLTs were reported at the lowest dose. One
+DLT occurred in the six patients originally treated with 45 mg PIM/25 mg TEM group
+(grade ≥3 visual impairment) and the dose was escalated (Table 2). However, two DLTs
+occurred in the 75 mg PIM/25 mg TEM group (stomatitis and thrombocytopenia). The MTD
+was therefore established as 45 mg PIM/25 mg TEM as predefined in the protocol, and an
+expansion cohort of 11 patients was treated with this dose regimen. Six of these 11 patients
+had DLTs (stomatitis, serum CPK increase and thrombocytopenia) (Table 2). As the toxicity
+profile and PK data did not justify further reduction in the dosing of agents, the RP2D was
+not defined.
+All patients experienced at least one TEAE and > 75% had a grade ≥ 3 TEAE (Table 3). The
+most common TEAEs reported (> 20% of patients overall) were stomatitis (69.7%),
+thrombocytopenia (57.6%), fatigue (51.5%), anemia (42.4%), diarrhea (36.4%), pyrexia
+(33.3%), rash (33.3%), decreased appetite (30.3%), dyspnea (30.3%), edema peripheral
+(27.3%), aspartate aminotransferase (AST) increased (27.3%), dehydration (27.3%),
+hypokalemia (27.3%), oral candidiasis (21.2%), pneumonia (21.2%) and urinary tract
+infection (21.2%). Most of the grade ≥ 3 TEAEs reported were gastrointestinal disorders
+(17/33, 51.5%), notably stomatitis (8/33, 24.2%; Supplementary Table 1).
+Treatment-related TEAEs (any study drug) were observed in 75.0% (3/4 patients), 95.7%
+(22/23 patients) and 100% (6/6 patients) of patients in the 45 mg PIM/12.5 mg TEM, 45 mg
+PIM/25 mg TEM and 75 mg PIM/25 mg TEM groups, respectively (Table 3). The most
+frequent events related specifically to pimasertib (any grade, ≥ 30% of patients) were
+stomatitis (22/33; 66.7%), thrombocytopenia (15/33; 45.5%), fatigue (11/33; 33.3%), and
+rash (10/33; 30.3%) (Table 3). Grade ≥ 3 TEAE related to any trial drug were most
+commonly thrombocytopenia and stomatitis; only one grade 4 TEAE (thrombocytopenia)
+was reported (Table 4). No deaths due to toxicity were reported, but four patients
+discontinued treatment because of a TEAE (abdominal wall abscess, visual impairment,
+pneumonia and vaginal fistula).
+In terms of AEs known to be associated with MEK inhibition, three patients had SRD
+events, none of which was severe or necessitated discontinuation of study medication. There
+were no RVO events. One case of grade 4 CPK elevation was classed as pimasertib-related
+and as a DLT. Of the skin disorders, rash was reported most frequently (11/33; 33.3%), but
+only one event was grade 3 (45 mg PIM/25 mg TEM group).
+Pharmacokinetics
+The median t of pimasertib was 1.0 to 2.3 hours post-dose on day 1 and day 9 for the two
+max
+treatment groups in the DDI cohorts (45 mg PIM/12.5 mg TEM and 45 mg PIM/25 mg
+TEM). Median t ½ values were ∼ 6 hours on both days for pimasertib (Supplementary Table
+2). There was no apparent accumulation of pimasertib and temsirolimus had no relevant
+effect on pimasertib PK. The 90% CIs for the geometric least-squares mean ratios
+(pimasertib + temsirolimus vs pimasertib alone) for C (ratio 1.012; 95% CI 0.841–1.219)
+max
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Mita et al. Page 7
+and AUC on day 9 vs AUC on day 1 of pimasertib (0.970; 0.810– 1.175) were
+τ 0–∞
+contained within the equivalence interval of 0.80–1.25.
+In contrast, pimasertib had a small effect on temsirolimus C . Although median C and
+max max
+AUC values for temsirolimus were generally similar on day 9 (temsirolimus +
+0–∞
+pimasertib) and day 16 (temsirolimus alone) for the two DDI treatment groups
+(Supplementary Table 3), one patient in the 45 mg PIM/12.5 mg TEM group had a low C
+max
+(13.2 ng/mL) on day 16 relative to the median value of 281.1 ng/mL. The 90% CI for the
+AUC of temsirolimus (1.043; 0.920–1.182), but not that for C (1.008; 0.564–1.801),
+0–∞ max
+was entirely contained within the equivalence interval,.
+Plasma and blood concentration vs time profiles for pimasertib and temsirolimus are shown
+in Fig 2.
+Efficacy
+No patients experienced partial remission, but 17 of 26 had a best response of stable disease,
+including five patients who had stable disease lasting > 12 weeks. These were three patients
+with colorectal cancer, one with NSCLC, and one with breast cancer. Because of the
+premature termination of the study, no formal statistical analyses were carried out. Fig 3
+shows tumor response to treatment over time.
+Discussion
+Targeting either of the MAPK or mTOR pathways individually can attenuate aberrant
+signaling [31]. However, cancer cell proliferation and survival are driven by multiple
+effector pathways in solid tumors (i.e., those with concurrent activation of RAS and PI3KCA
+genes) [32-34]. Therefore, targeting of both the MAPK and mTOR pathways simultaneously
+could be significantly more effective than targeting either pathway alone.
+The primary objective of this phase I study was to determine the MTD and RP2D of
+pimasertib, a selective inhibitor of MEK 1/2 [21], combined with the mTOR inhibitor
+temsirolimus. Because of the potential for overlapping toxicities with this drug combination,
+lower starting doses were selected for both drugs relative to previously tested highest
+tolerated doses of pimasertib in a monotherapy trial [24] and the labelled dose of
+temsirolimus [27]. This was done to facilitate the early detection, evaluation and active
+management of any synergistic or additive toxicity. Of the 33 patients who received
+pimasertib plus temsirolimus within a 21-day cycle, nine had a DLT, predominantly in the
+45 mg PIM/25 mg TEM group (seven of a total of 17 patients, with one event occurring in
+the first six patients enrolled), with two DLTs reported in the 75 mg PIM/25 mg TEM group.
+Based on these observations the MTD was reached at dose level 1 (45 mg PIM/25 mg
+TEM).
+During the study, all patients had a TEAE, the most common of which were
+thrombocytopenia, anemia, stomatitis and fatigue; approximately 75% of patients had a
+TEAE of grade ≥ 3 (thrombocytopenia and stomatitis) or a serious AE (SAE). The TEAEs
+observed in this study were similar to those reported elsewhere with these therapies. The
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Mita et al. Page 8
+increased risk of diarrhea and stomatitis with mTOR inhibitors is well documented [35,36].
+In one review of 11 randomized controlled trials in 4752 patients who received everolimus
+or temsirolimus, the incidence of stomatitis (all grades) was 33.5%, with a 4.1% incidence
+of high-grade lesions [36]. A recent meta-analysis of 18 trials in over 8000 patients who
+received everolimus, temsirolimus or ridaforolimus showed relative risks of all-grade
+diarrhea and stomatitis of 1.94 and 3.54, respectively; the relative risks of high-grade
+diarrhea and stomatitis were 3.49 and 6.98 [35]. Thrombocytopenia and rash are also
+established as common AEs with temsirolimus [27]. Thrombocytopenia is listed among
+events seen in at least 30% of patients, and grade 3/4 maculopapular rash has been
+documented as a DLT in two out of three patients receiving temsirolimus 15 mg weekly in
+combination with sunitinib 25 mg/day.
+Previous clinical experience also points to increased risk of stomatitis/mucositis with
+temsirolimus-based combination therapies vs single-agent temsirolimus treatment [37].
+Three phase I studies in 87 patients who were treated with temsirolimus combined with
+metformin, cixutumumab or pimasertib showed a significantly greater risk of mucositis
+(41.3%; P = 0.0003) when temsirolimus was used in combination with another agent rather
+than alone [37].
+The most frequent TEAEs associated with pimasertib treatment include diarrhea, nausea,
+vomiting, rash and asthenia, as shown by phase I data obtained in patients with metastatic
+colorectal cancer who received pimasertib 45 mg or 60 mg daily with FOLFIRI
+chemotherapy [25]. Other pimasertib-related TEAEs were mucositis, stomatitis and
+neutropenia, which are consistent with the findings of the present study.
+Marked ocular toxicity (a class effect of MEK inhibitors [38]) was not noted in this study.
+Eleven patients had one or more ocular events, only one of which was grade 3 (visual
+impairment reported as a DLT). No cases of SRD were classed as severe, and there were no
+instances of RVO. Similarly, in a trial of pimasertib in combination with FOLFIRI, ocular
+events (43.8%) were all grade 1 except for a single case of grade 2 SRD; no RVO was
+reported [25]. The assessment of other AESIs showed that there were no treatment-related
+cardiac events of special note, rash was the most common skin disorder (one grade 3 case),
+and there was a single grade 4 CPK elevation event that was classed as a DLT.
+Analysis of the PK profiles of the two study drugs alone and in combination showed that
+neither drug adversely affected the absorption, distribution or elimination of the other,
+suggesting a low potential for direct DDIs. The evidence from this study and from other
+studies reported in the literature suggest that the safety signals raised for pimasertib plus
+temsirolimus at relatively low doses were likely due to overlapping toxicities, possibly due
+to an interaction at the level of the pharmacological target and not due to a pharmacokinetic
+interaction.
+At the conclusion of our study RP2D for concomitant administration of an mTOR and a
+MEK inhibitor was not defined despite efforts to consider alternative dosing options to
+further investigate this combination, including a reduction in the temsirolimus dose. Doses
+lower than 45 mg PIM/25 mg TEM were not explored due to strong signals towards
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Mita et al. Page 9
+overlapping toxicities, even at the low doses of pimasertib investigated, and because the
+potential dose of temsirolimus needed would have been lower than the approved dose. This
+potential for overlapping toxicities between mTOR and MEK inhibitors has been previously
+reported in a phase IB trial of similar design to the present study [39]. Tolcher et al. explored
+combinations of trametinib and everolimus in 67 patients with advanced solid tumors and
+reported high frequencies of mucosal inflammation (40%), stomatitis (25%), fatigue (54%)
+and diarrhea (42%). As with the combinations of pimasertib and temsirolimus studied here,
+these authors were unable to recommend an RP2D for trametinib plus everolimus as a result
+of difficulty in combining them such that the combination would provide acceptable
+tolerability with adequate drug exposure. In addition, and similarly to the present study, PK
+characterization of the two drugs investigated showed no evidence of clinically relevant
+DDIs. Based on the toxicity profile and PK data, the combination of pimasertib and
+temsirolimus did not justify further investigation, and the study was therefore terminated.
+Consequently, the frequency of DLTs and limited scope for the dose escalation of pimasertib
+and temsirolimus meant that a meaningful RP2D could not be defined in this trial.
+In summary, the rationale for combining MEK inhibitors with drugs targeting the mTOR
+pathway remains sound as 19% of evaluable patients derived clinical benefit and 65% of
+evaluable patients had stable disease as their best overall response. However, the interaction
+at the target level of this combination of pimasertib and temsirolimus resulted in a level of
+toxicity that prevented the identification of a RP2D. Future studies targeting the MEK and
+mTOR pathways simultaneously should consider investigating different agents or different
+schedules of agents, depending on the target in these pathways, which may reduce the
+potential for overlapping toxicities.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+The authors would like to thank patients and their families, investigators, co-investigators and the study teams at the
+participating centers and at Merck KGaA, Darmstadt, Germany and EMD Serono, Billerica, USA (an affiliate of
+Merck KGaA, Darmstadt, Germany). Our thanks also to Ekaterine Asatiani for her contribution to the study and
+guidance on this manuscript. Wei Guo's current affiliation is TESARO Inc. Waltham, USA. This study was
+sponsored by Merck KGaA, Darmstadt, Germany and EMD Serono Inc., Billerica, USA. Medical writing
+assistance was provided by Helen Swainston, Bioscript Science, Macclesfield, UK and funded by Merck KGaA,
+Darmstadt, Germany.
+Funding: This study was sponsored by Merck KGaA, Darmstadt, Germany and EMD Serono Inc., Billerica, USA.
+References
+1. Grant S. Cotargeting survival signaling pathways in cancer. J Clin Invest. 2008; 118(9):3003–3006.
+DOI: 10.1172/jci36898 [PubMed: 18725993]
+2. Chappell WH, Steelman LS, Long JM, Kempf RC, Abrams SL, Franklin RA, Basecke J, Stivala F,
+Donia M, Fagone P, Malaponte G, Mazzarino MC, Nicoletti F, Libra M, Maksimovic-Ivanic D,
+Mijatovic S, Montalto G, Cervello M, Laidler P, Milella M, Tafuri A, Bonati A, Evangelisti C,
+Cocco L, Martelli AM, McCubrey JA. Ras/Raf/MEK/ERK and PI3K/PTEN/Akt/mTOR inhibitors:
+rationale and importance to inhibiting these pathways in human health. Oncotarget. 2011; 2(3):135–
+164. DOI: 10.18632/oncotarget.240 [PubMed: 21411864]
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Mita et al. Page 10
+3. Hoshino R, Chatani Y, Yamori T, Tsuruo T, Oka H, Yoshida O, Shimada Y, Ari-i S, Wada H,
+Fujimoto J, Kohno M. Constitutive activation of the 41-/43-kDa mitogen-activated protein kinase
+signaling pathway in human tumors. Oncogene. 1999; 18(3):813–822. DOI: 10.1038/sj.onc.
+1202367 [PubMed: 9989833]
+4. Ligresti G, Militello L, Steelman LS, Cavallaro A, Basile F, Nicoletti F, Stivala F, McCubrey JA,
+Libra M. PIK3CA mutations in human solid tumors: role in sensitivity to various therapeutic
+approaches. Cell Cycle. 2009; 8(9):1352–1358. [PubMed: 19305151]
+5. Wee S, Jagani Z, Xiang KX, Loo A, Dorsch M, Yao YM, Sellers WR, Lengauer C, Stegmeier F.
+PI3K pathway activation mediates resistance to MEK inhibitors in KRAS mutant cancers. Cancer
+Res. 2009; 69(10):4286–4293. DOI: 10.1158/0008-5472.can-08-4765 [PubMed: 19401449]
+6. Kinkade CW, Castillo-Martin M, Puzio-Kuter A, Yan J, Foster TH, Gao H, Sun Y, Ouyang X,
+Gerald WL, Cordon-Cardo C, Abate-Shen C. Targeting AKT/mTOR and ERK MAPK signaling
+inhibits hormone-refractory prostate cancer in a preclinical mouse model. J Clin Invest. 2008;
+118(9):3051–3064. DOI: 10.1172/jci34764 [PubMed: 18725989]
+7. Liu Z, Hou P, Ji M, Guan H, Studeman K, Jensen K, Vasko V, El-Naggar AK, Xing M. Highly
+prevalent genetic alterations in receptor tyrosine kinases and phosphatidylinositol 3-kinase/akt and
+mitogen-activated protein kinase pathways in anaplastic and follicular thyroid cancers. J Clin
+Endocrinol Metab. 2008; 93(8):3106–3116. DOI: 10.1210/jc.2008-0273 [PubMed: 18492751]
+8. Russo AE, Torrisi E, Bevelacqua Y, Perrotta R, Libra M, McCubrey JA, Spandidos DA, Stivala F,
+Malaponte G. Melanoma: molecular pathogenesis and emerging target therapies (Review). Int J
+Oncol. 2009; 34(6):1481–1489. [PubMed: 19424565]
+9. Simi L, Pratesi N, Vignoli M, Sestini R, Cianchi F, Valanzano R, Nobili S, Mini E, Pazzagli M,
+Orlando C. High-resolution melting analysis for rapid detection of KRAS, BRAF, and PIK3CA
+gene mutations in colorectal cancer. Am J Clin Pathol. 2008; 130(2):247–253. DOI: 10.1309/
+lwdy1axhxuulnvhq [PubMed: 18628094]
+10. Tsao H, Goel V, Wu H, Yang G, Haluska FG. Genetic interaction between NRAS and BRAF
+mutations and PTEN/MMAC1 inactivation in melanoma. J Invest Dermatol. 2004; 122(2):337–
+341. DOI: 10.1046/j.0022-202X.2004.22243.x [PubMed: 15009714]
+11. Carracedo A, Ma L, Teruya-Feldstein J, Rojo F, Salmena L, Alimonti A, Egia A, Sasaki AT,
+Thomas G, Kozma SC, Papa A, Nardella C, Cantley LC, Baselga J, Pandolfi PP. Inhibition of
+mTORC1 leads to MAPK pathway activation through a PI3K-dependent feedback loop in human
+cancer. J Clin Invest. 2008; 118(9):3065–3074. DOI: 10.1172/jci34739 [PubMed: 18725988]
+12. Shimizu T, Tolcher AW, Papadopoulos KP, Beeram M, Rasco DW, Smith LS, Gunn S, Smetzer L,
+Mays TA, Kaiser B, Wick MJ, Alvarez C, Cavazos A, Mangold GL, Patnaik A. The clinical effect
+of the dual-targeting strategy involving PI3K/AKT/mTOR and RAS/MEK/ERK pathways in
+patients with advanced cancer. Clin Cancer Res. 2012; 18(8):2316–2325. DOI:
+10.1158/1078-0432.ccr-11-2381 [PubMed: 22261800]
+13. Chang Q, Chen E, Hedley DW. Effects of combined inhibition of MEK and mTOR on downstream
+signaling and tumor growth in pancreatic cancer xenograft models. Cancer Biol Ther. 2009; 8(20):
+1893–1901. [PubMed: 20009539]
+14. Dankort D, Curley DP, Cartlidge RA, Nelson B, Karnezis AN, Damsky WE Jr, You MJ, DePinho
+RA, McMahon M, Bosenberg M. Braf (V600E) cooperates with Pten loss to induce metastatic
+melanoma. Nat Genet. 2009; 41(5):544–552. DOI: 10.1038/ng.356 [PubMed: 19282848]
+15. Hoeflich KP, O'Brien C, Boyd Z, Cavet G, Guerrero S, Jung K, Januario T, Savage H, Punnoose E,
+Truong T, Zhou W, Berry L, Murray L, Amler L, Belvin M, Friedman LS, Lackner MR. In vivo
+antitumor activity of MEK and phosphatidylinositol 3-kinase inhibitors in basal-like breast cancer
+models. Clin Cancer Res. 2009; 15(14):4649–4664. DOI: 10.1158/1078-0432.ccr-09-0317
+[PubMed: 19567590]
+16. Huynh H. AZD6244 (ARRY-142886) enhances the antitumor activity of rapamycin in mouse
+models of human hepatocellular carcinoma. Cancer. 2010; 116(5):1315–1325. DOI: 10.1002/cncr.
+24863 [PubMed: 20101735]
+17. Jin N, Jiang T, Rosen DM, Nelkin BD, Ball DW. Dual inhibition of mitogen-activated protein
+kinase kinase and mammalian target of rapamycin in differentiated and anaplastic thyroid cancer. J
+Clin Endocrinol Metab. 2009; 94(10):4107–4112. DOI: 10.1210/jc.2009-0662 [PubMed:
+19723757]
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Mita et al. Page 11
+18. Legrier ME, Yang CP, Yan HG, Lopez-Barcons L, Keller SM, Perez-Soler R, Horwitz SB, McDaid
+HM. Targeting protein translation in human non small cell lung cancer via combined MEK and
+mammalian target of rapamycin suppression. Cancer Res. 2007; 67(23):11300–11308. DOI:
+10.1158/0008-5472.can-07-0702 [PubMed: 18056456]
+19. Zhang YJ, Tian XQ, Sun DF, Zhao SL, Xiong H, Fang JY. Combined inhibition of MEK and
+mTOR signaling inhibits initiation and progression of colorectal cancer. Cancer Invest. 2009;
+27(3):273–285. DOI: 10.1080/07357900802314893 [PubMed: 19194827]
+20. Naing A. Overcoming resistance to mTOR inhibition for enhanced strategies in clinical trials.
+Expert opinion on investigational drugs. 2013; 22(6):679–685. DOI:
+10.1517/13543784.2013.795947 [PubMed: 23631743]
+21. Kim K, Kong SY, Fulciniti M, Li X, Song W, Nahar S, Burger P, Rumizen MJ, Podar K, Chauhan
+D, Hideshima T, Munshi NC, Richardson P, Clark A, Ogden J, Goutopoulos A, Rastelli L,
+Anderson KC, Tai YT. Blockade of the MEK/ERK signalling cascade by AS703026, a novel
+selective MEK1/2 inhibitor, induces pleiotropic anti-myeloma activity in vitro and in vivo. Br J
+Haematol. 2010; 149(4):537–549. DOI: 10.1111/j.1365-2141.2010.08127.x [PubMed: 20331454]
+22. Yoon J, Koo KH, Choi KY. MEK1/2 inhibitors AS703026 and AZD6244 may be potential
+therapies for KRAS mutated colorectal cancer that is resistant to EGFR monoclonal antibody
+therapy. Cancer Res. 2011; 71(2):445–453. DOI: 10.1158/0008-5472.CAN-10-3058 [PubMed:
+21118963]
+23. Park SJ, Hong SW, Moon JH, Jin DH, Kim JS, Lee CK, Kim KP, Hong YS, Choi EK, Lee JS, Lee
+JL, Kim TW. The MEK1/2 inhibitor AS703026 circumvents resistance to the BRAF inhibitor
+PLX4032 in human malignant melanoma cells. Am J Med Sci. 2013; 346(6):494–498. DOI:
+10.1097/MAJ.0b013e318298a185 [PubMed: 24051957]
+24. Awada A, Delord JP, Houédé N, Lebbe C, Lesimple T, Schellens JHM, Rottey S, Kefford R, Rejeb
+N, Raymond E. Safety and recommended phase II dose (RP2D) of the selective oral MEK1/2
+inhibitor pimasertib (MSC1936369B/AS703026): Results of a phase I trial [Abstract]. Eur J
+Cancer. 2012; 48:185–186. Abstr 604.
+25. Macarulla T, Cervantes A, Tabernero J, Rosello S, Van Cutsem E, Tejpar S, Prenen H, Martinelli E,
+Troiani T, Laffranchi B, Jego V, von Richter O, Ciardiello F. Phase I study of FOLFIRI plus
+pimasertib as second-line treatment for KRAS-mutated metastatic colorectal cancer. Br J Cancer.
+2015; 112(12):1874–1881. DOI: 10.1038/bjc.2015.144 [PubMed: 25989270]
+26. Martinelli E, Troiani T, D'Aiuto E, Morgillo F, Vitagliano D, Capasso A, Costantino S, Ciuffreda
+LP, Merolla F, Vecchione L, De Vriendt V, Tejpar S, Nappi A, Sforza V, Martini G, Berrino L, De
+Palma R, Ciardiello F. Antitumor activity of pimasertib, a selective MEK 1/2 inhibitor, in
+combination with PI3K/mTOR inhibitors or with multi-targeted kinase inhibitors in pimasertib-
+resistant human lung and colorectal cancer cells. Int J Cancer. 2013; 133(9):2089–2101. DOI:
+10.1002/ijc.28236 [PubMed: 23629727]
+27. TORISEL SMPC. Wyeth Pharmaceuticals Inc. (a subsidiary of Pfizer Inc.); 2015. TORISEL -
+temsirolimus prescribing information. http://labeling.pfizer.com/showlabeling.aspx?id=490
+[Accessed March 2016]
+28. Chan S, Scheulen ME, Johnston S, Mross K, Cardoso F, Dittrich C, Eiermann W, Hess D, Morant
+R, Semiglazov V, Borner M, Salzberg M, Ostapenko V, Illiger HJ, Behringer D, Bardy-Bouxin N,
+Boni J, Kong S, Cincotta M, Moore L. Phase II study of temsirolimus (CCI-779), a novel inhibitor
+of mTOR, in heavily pretreated patients with locally advanced or metastatic breast cancer. J Clin
+Oncol. 2005; 23(23):5314–5322. DOI: 10.1200/jco.2005.66.130 [PubMed: 15955899]
+29. O'Donnell PH, Ratain MJ. Evaluating the activity of temsirolimus in neuroendocrine cancer. Br J
+Cancer. 2007; 96(1):177. author reply 178-179. doi: 10.1038/sj.bjc.6603513 [PubMed: 17164757]
+30. Oza AM, Elit L, Provencher D, Biagi JJ, Panasci L, Sederias J, Dancey JE, Tsao MS, Eisenhauer
+EA. A phase II study of temsirolimus (CCI-779) in patients with metastatic and/or locally
+advanced recurrent endometrial cancer previously treated with chemotherapy: NCIC CTG IND
+160b. ASCO Meeting Abstracts. 2008; 26(15_suppl):5516.
+31. Folkes AJ, Ahmadi K, Alderton WK, Alix S, Baker SJ, Box G, Chuckowree IS, Clarke PA,
+Depledge P, Eccles SA, Friedman LS, Hayes A, Hancox TC, Kugendradas A, Lensun L, Moore P,
+Olivero AG, Pang J, Patel S, Pergl-Wilson GH, Raynaud FI, Robson A, Saghir N, Salphati L,
+Sohal S, Ultsch MH, Valenti M, Wallweber HJ, Wan NC, Wiesmann C, Workman P, Zhyvoloup A,
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Mita et al. Page 12
+Zvelebil MJ, Shuttleworth SJ. The identification of 2-(1H-indazol-4-yl)-6-(4-methanesulfonyl-
+piperazin-1-ylmethyl)-4-morpholin-4-yl-t hieno[3,2-d]pyrimidine (GDC-0941) as a potent,
+selective, orally bioavailable inhibitor of class I PI3 kinase for the treatment of cancer. J Med
+Chem. 2008; 51(18):5522–5532. DOI: 10.1021/jm800295d [PubMed: 18754654]
+32. Hoeflich KP, Merchant M, Orr C, Chan J, Den Otter D, Berry L, Kasman I, Koeppen H, Rice K,
+Yang NY, Engst S, Johnston S, Friedman LS, Belvin M. Intermittent administration of MEK
+inhibitor GDC-0973 plus PI3K inhibitor GDC-0941 triggers robust apoptosis and tumor growth
+inhibition. Cancer Res. 2012; 72(1):210–219. DOI: 10.1158/0008-5472.can-11-1515 [PubMed:
+22084396]
+33. Smalley KS, Haass NK, Brafford PA, Lioni M, Flaherty KT, Herlyn M. Multiple signaling
+pathways must be targeted to overcome drug resistance in cell lines derived from melanoma
+metastases. Mol Cancer Ther. 2006; 5(5):1136–1144. DOI: 10.1158/1535-7163.mct-06-0084
+[PubMed: 16731745]
+34. Sos ML, Fischer S, Ullrich R, Peifer M, Heuckmann JM, Koker M, Heynck S, Stuckrath I, Weiss J,
+Fischer F, Michel K, Goel A, Regales L, Politi KA, Perera S, Getlik M, Heukamp LC, Ansen S,
+Zander T, Beroukhim R, Kashkar H, Shokat KM, Sellers WR, Rauh D, Orr C, Hoeflich KP,
+Friedman L, Wong KK, Pao W, Thomas RK. Identifying genotype-dependent efficacy of single
+and combined PI3K- and MAPK-pathway inhibition in cancer. Proc Natl Acad Sci U S A. 2009;
+106(43):18351–18356. DOI: 10.1073/pnas.0907325106 [PubMed: 19805051]
+35. Abdel-Rahman O, Fouad M. Risk of oral and gastrointestinal mucosal injury in patients with solid
+tumors treated with everolimus, temsirolimus or ridaforolimus: a comparative systematic review
+and meta-analysis. Expert Rev Anticancer Ther. 2015; 15(7):847–858. DOI:
+10.1586/14737140.2015.1047350 [PubMed: 25994247]
+36. Shameem R, Lacouture M, Wu S. Incidence and risk of high-grade stomatitis with mTOR
+inhibitors in cancer patients. Cancer Invest. 2015; 33(3):70–77. DOI:
+10.3109/07357907.2014.1001893 [PubMed: 25635371]
+37. Liu X, Lorusso P, Mita M, Piha-Paul S, Hong DS, Fu S, McQuinn L, Asatiani E, Doyle LA, Chen
+HX, Hess KR, Kurzrock R, Naing A. Incidence of mucositis in patients treated with temsirolimus-
+based regimens and correlation to treatment response. The oncologist. 2014; 19(4):426–428. DOI:
+10.1634/theoncologist.2013-0231 [PubMed: 24668327]
+38. Duncan KE, Chang LY, Patronas M. MEK inhibitors: a new class of chemotherapeutic agents with
+ocular toxicity. Eye (London, England). 2015; 29(8):1003–1012. DOI: 10.1038/eye.2015.82
+39. Tolcher AW, Bendell JC, Papadopoulos KP, Burris HA 3rd, Patnaik A, Jones SF, Rasco D, Cox DS,
+Durante M, Bellew KM, Park J, Le NT, Infante JR. A phase IB trial of the oral MEK inhibitor
+trametinib (GSK1120212) in combination with everolimus in patients with advanced solid tumors.
+Ann Oncol. 2015; 26(1):58–64. DOI: 10.1093/annonc/mdu482 [PubMed: 25344362]
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Mita et al. Page 13
+Fig 1. Trial design
+*End of treatment visit: For subject not eligible for treatment. Visit scheduled for within 7
+days of last treatment
+†Follow up visit performed within 30±7 days of last treatment
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Mita et al. Page 14
+Fig 2. Plasma or blood concentration vs time plots for pimasertib
+(A) alone (Day 1) and (B) in the presence of temsirolimus (Day 9), and for temsirolimus (C)
+in the presence of pimasertib (Day 9) and (D) alone (Day 16), in the DDI (Drug-Drug
+Interaction) cohorts who received pimasertib (45 mg) and either temsirolimus 12.5 mg
+(Group 1) or 25 mg (Group 2)
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Mita et al. Page 15
+Fig 3. Tumor response over time and best response in patients receiving PIM plus TEM from
+treatment initiation
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Mita et al. Page 16
+Table 1
+Patient demographics and baseline characteristics in the safety analysis set.
+Characteristic Cohort
+45 mg PIM/ 12.5 mg TEM 45 mg PIM/ 25 mg TEM N 75 mg PIM/ 25 mg TEM N All N = 33
+N = 4 = 23 = 6
+Gender, n (%)
+Male 2 (50.0) 7 (30.4) 2 (33.3) 11 (33.3)
+Female 2 (50.0) 16 (69.6) 4 (66.7) 22 (66.7)
+Age (years)
+Median (range) 63.0 (50–77) 57.0 (22–84) 54.5 (50–66) 57.0 (22–84)
+Race, n (%)
+White 3 (75.0) 18 (78.3) 16 (100.0) 27 (81.8)
+Black/African American 1 (25.0) 1 (4.3) 0 2 (6.1)
+Asian 0 3 (13.0) 0 3 (9.1)
+Other 0 1 (4.3) 0 1 (3.0)
+ECOG PS, n (%)
+0 0 5 (21.7) 3 (50.0) 8 (24.2)
+≥ 1 4 (100.0) 18 (78.3) 3 (50.0) 25 (75.8)
+Type of tumor at diagnosis
+Breast 0 3 (13.0) 1 (16.7) 4 (12.1)
+Colorectal 1 (25.0) 8 (34.8) 1 (16.7) 10 (30.3)
+Renal cell 0 1 (4.3) 0 1 (3.0)
+Gastric 0 1 (4.3) 0 1 (3.0)
+Melanoma 0 1 (4.3) 0 1 (3.0)
+Thyroid 0 0 1 (16.7) 1 (3.0)
+Non-small cell lung 1 (25.0) 3 (25.0) 1 (13.0) 5 (15.2)
+Ovarian 2 (50.0) 5 (21.7) 0 7 (21.2)
+Endometrial 0 0 1 (16.7) 1 (3.0)
+Other 0 1 (4.3) 1 (16.7) 2 (6.1)
+Abbreviations: ECOG PS, Eastern Cooperative Oncology Group performance status; PIM, pimasertib; TEM, temsirolimus.
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Mita et al. Page 17
+2
+elbaT
+.tes
+noitalacse
+esod
+eht
+ni
+stneitap
+ni
+gnirrucco
+seiticixot
+gnitimil
+esod
+fo
+noitpircsed
+dna
+yrammus
+llarevO
+)62
+= N(
+llarevO
+MET
++
+DQ
+gm
+54
+MIP
++
+DQ
+gm
+57
+MIP
++
+DQ
+gm
+54
+MIP
++
+DQ
+gm
+54
+MIP
+no
+noisnapxe(
+gm
+52
+)6
+=
+N(
+gm
+52
+MET
+)6
+=
+N(
+gm
+52
+MET
+=
+N(
+gm
+5.21
+MET
+)11
+=
+N(
+)DTM
+)3
+)6.43(
+9
+)5.45(
+6
+)3.33(
+2
+)7.61(
+1
+)0.0(
+0
+)%(n
+a ,TLD
+1≥ htiw
+stneitaP
+)8.03(
+8
+)5.54(
+5
+)3.33(
+2
+)7.61(
+1
+)0.0(
+0
+1
+)8.3(
+1
+)1.9(
+1
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+2
+≥
+)%(
+n a, sTLD
+htiw
+stneitaP
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+lacinilc
+laitnetop
+fo
+si CMS
+eht
+fo
+noinipo
+eht
+ni taht
+EAET
+A
+ot
+stneitap
+esopxe
+dluow
+noitalacse
+esod
+rehtruf
+taht
+hcus ecnacifingis ksir elbatpeccanu
+)8.03(
+8
+)5.45(
+6
+)7.61(
+1
+)7.61(
+1
+)0.0(
+0
+esaelp
+srotcaf
+noisulcxe
+rof(
+yticixot
+lacigolotameh-non
+3 ≥ edarg
+ynA
+)locotorP
+ot
+refer
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+1
+> fo aineportuen
+elirbef
+ro
+noitarud
+syad
+5
+> fo aineportuen
+4 edarG
+noitarud
+yad
+)7.7(
+2
+)1.9(
+1
+)7.61(
+1
+)0.0(
+0
+)0.0(
+0
+ainepotycobmorht
+4 edarg
+ro
+gnideelb
+htiw
+ainepotycobmorht
+3 edarG
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+eht ot
+detaler
+ton sEA
+ot
+eud
+skeew
+2 >
+noitpurretni
+tnemtaert
+ynA
+level
+esod
+yna ta
+noitacidem
+tnatimocnoc
+ro esaesid
+gniylrednu
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+ro
+noitacilpmoc
+,gninetaerht-efil
+ro
+snoitcnuf
+yliad
+gniriapmi
+,ereves
+ynA
+eht ot elbatubirtta
+si taht
+EACTC-ICN
+eht
+ni
+denifed
+ton ytilamronba
+ypareht
+)6.43(
+9
+)5.45(
+6
+)3.33(
+2
+)7.61(
+1
+)0.0(
+0
+)%(n
+,egap
+FRC
+EA
+eht
+no
+detnemucod
+TLD
+1 ≥ htiw
+stneitaP
+)%(
+n
+b,
+sTLD
+fo
+TP
+cificeps
+htiw
+stneitaP
+)8.3(
+1
+)1.9(
+1
+)0.0(
+0
+)0.0(
+0
+)0.0(
+0
+desaercni
+KPC
+doolB
+)1.32(
+6
+)5.54(
+5
+)7.61(
+1
+)0.0(
+0
+)0.0(
+0
+sititamotS
+)7.7(
+2
+)1.9(
+1
+)7.61(
+1
+)0.0(
+0
+)0.0(
+0
+ainepotycobmorhT
+)8.3(
+1
+)0.0(
+0
+)0.0(
+0
+)7.61(
+1
+)0.0(
+0
+tnemriapmi
+lausiV
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Mita et al. Page 18
+a
+.FRCe
+TLD
+ni
+detropeR
+b
+.FRCe
+EAET
+ni
+detropeR
+nommoC
+etutitsnI
+recnaC
+lanoitaN
+,EACTC-ICN
+;esod
+detarelot
+mumixam
+,DTM
+;yticixot
+gnitimil-esod
+,TLD
+;mrof
+troper
+esac
+,FRC
+;esanikohpsohp
+enitaerc
+,KPC
+;stneve
+esrevda
+,sEA
+:snoitaiverbbA
+.tneve
+esrevda
+tnegreme
+tnemtaert
+,EAET
+;eettimmoC
+gnirotinoM
+ytefaS
+,CMS
+;yliad
+,DQ
+;mret
+derreferp
+,TP
+;bitresamip
+,MIP
+;stnevE
+esrevdA
+rof
+airetirC
+ygolonimreT
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Mita et al. Page 19
+Table 3
+Overall safety profile for pimasertib plus temsirolimus in the safety analysis set.
+Event Cohort
+45 mg PIM/ 12.5 45 mg PIM/ 25 mg 75 mg PIM/ 25 mg All N = 33
+mg TEM N = 4 TEM N = 23 TEM N = 6
+Any DLT, n (%) 0 7 (30.4) 2 (33.3) 9 (27.3)
+TEAEs, n (%)
+≥ 1 TEAE 4 (100.0) 23 (100.0) 6 (100.0) 33 (100.0)
+≥ 1 TEAE grade ≥ 3 3 (75.0) 20 (87.0) 6 (100.0) 29 (87.9)
+≥ 1 ocular TEAE 1 (25.0) 10 (43.5) 0 (0.0) 11 (33.3)
+≥ 1 SRD TEAE 1 (25.0) 2 (8.7) 0 (0.0) 3 (9.1)
+≥ 1 RVO TEAE 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Treatment-related TEAEs, n (%)
+≥ 1 TEAE related to pimasertib 3 (75.0) 22 (75.0) 6 (100.0) 31 (93.9)
+≥ 1 TEAE related to any trial drug 3 (75.0) 22 (95.7) 6 (100.0)D 31 (93.9)
+≥ 1 TEAE related to pimasertib grade ≥ 3 1 (25.0) 14 (60.9) 3 (50.0) 18 (54.5)
+≥ 1 TEAE related to any trial drug grade ≥ 3 1 (25.0) 15 (65.2) 4 (66.7) 20 (60.6)
+≥ 1 SAE related to pimasertib 0 (0.0) 3 (13.0) 1 (16.7) 4 (12.1)
+≥ 1 SAE related to any trial drug 0 (0.0) 4 (17.4) 2 (33.3) 6 (18.2)
+SAEs, n (%)
+≥ 1 SAE 3 (75.0) 17 (73.9) 5 (83.3) 25 (75.8)
+≥ 1 SAE with fatal outcome 0 (0.0) 1 (4.3) 0 (0.0) 1 (3.0)
+Treatment discontinuation, n (%)
+≥ 1 TEAE leading to permanent discontinuation of 1 (25.0) 2 (8.7) 1 (16.7) 4 (12.1)
+pimasertib
+≥ 1 TEAE leading to permanent discontinuation of 1 (25.0) 2 (8.7) 1 (16.7) 4 (12.1)
+any trial drug
+Treatment modificationa, n (%)
+≥ 1 TEAE leading to treatment modification of 2 (50.0) 17 (73.9) 6 (100.0) 25 (75.8)
+pimasertib
+≥ 1 related TEAE leading to treatment modification 2 (50.0) 19 (82.6) 6 (100.0) 27 (81.8)
+of any trial drug
+a
+Includes temporary interruptions, treatment delays and dose interruptions.
+Abbreviations: DLT, dose-limiting toxicity; PIM, pimasertib; TEAE, treatment-emergent adverse event; TEM, temsirolimus; RVO, retinal vein
+occlusion; SAE, serious adverse event; SRD, serious retinal detachment.
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.
+
+--- Page 20 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Mita et al. Page 20
+Table 4
+Overall incidence of grade ≥ 3 TEAEs related to any trial drug (≥ 5% of patients overall) in all treatment
+cycles in the safety analysis set.
+Event Cohort
+45 mg PIM/ 12.5 mg 45 mg PIM/ 25 mg TEM 75 mg PIM/ 25 mg All N = 33
+TEM N = 4 N = 23 TEM N = 6
+SOCa and PT
+Patients with ≥ 1 event, n (%) 0 15 (65.2) 4 (66.7) 20 (60.6)
+Blood and lymphatic system disorders 0 9 (39.1) 2 (33.3) 11 (33.3)
+Anemia, n (%)
+Grade 3 0 2 (8.7) 0 2 (6.1)
+Neutropenia, n (%)
+Grade 3 0 1 (4.3) 1 (16.7) 2 (6.1)
+Thrombocytopenia, n(%)
+Grade 3 0 6 (26.1) 0 6 (18.2)
+Grade 4 0 2 (8.7) 1 (16.7) 3 (9.1)
+Gastrointestinal disorders 0 7 (30.4) 2 (33.3) 9 (27.3)
+Diarrhea, n (%)
+Grade 3 0 2 (8.7) 0 2 (6.1)
+Stomatitis, n (%)
+Grade 3 0 6 (26.1) 2 (33.3) 8 (24.2)
+Metabolism and nutrition disorders 1 (25.0) 3 (13.0) 0 4 (12.1)
+Dehydration, n (%)
+Grade 3 0 2 (8.7) 0 2 (6.1)
+a
+Total for SOC includes all events from listing (including infrequent events with overall incidence < 5% not shown here).
+Abbreviations: PIM, pimasertib; PT, preferred term; SOC, system organ class; TEAE, treatment-emergent adverse event; TEM, temsirolimus.
+Invest New Drugs. Author manuscript; available in PMC 2018 October 01.

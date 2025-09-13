@@ -1,0 +1,517 @@
+Source: 30945121.pdf
+Extracted on: Sat Sep 13 00:01:15 PDT 2025
+==================================================
+
+--- Page 1 ---
+Gastric Cancer (2019) 22:1206–1214
+https://doi.org/10.1007/s10120-019-00958-4
+ORIGINAL ARTICLE
+A phase I/II study of poziotinib combined with paclitaxel
+and trastuzumab in patients with HER2‑positive advanced gastric
+cancer
+Tae‑Yong Kim1 · Hye Sook Han2 · Keun‑Wook Lee3 · Dae Young Zang4 · Sun Young Rha5 · Young Iee Park6 ·
+Jin‑Soo Kim7 · Kyung‑Hun Lee1 · Se Hoon Park8 · Eun‑Kee Song9 · Soo‑A Jung10 · NaMi Lee10 · Yeul Hong Kim11 ·
+Jae Yong Cho12 · Yung‑Jue Bang1
+Received: 18 December 2018 / Accepted: 27 March 2019 / Published online: 3 April 2019
+© The International Gastric Cancer Association and The Japanese Gastric Cancer Association 2019
+Abstract
+Background Poziotinib (HM781-36B) is an irreversible pan-HER tyrosine kinase inhibitor which targets EGFR, HER2,
+and HER4. This prospective, multicenter, open-label, phase I/II study determined the maximum tolerated dose (MTD) and
+evaluated the safety and efficacy of poziotinib combined with paclitaxel and trastuzumab in patients with HER2-positive
+advanced gastric cancer (GC).
+Methods Patients with HER2-positive GC previously treated with one line of chemotherapy received oral poziotinib (8 mg
+or 12 mg) once daily for 14 days, followed by 7 days off. Paclitaxel (175 mg/m2 infusion) and trastuzumab (8 mg/kg loading
+dose, then 6 mg/kg infusion) were administered concomitantly with poziotinib on day 1 every 3 weeks.
+Results In the phase I part, 12 patients were enrolled (7 at dose level 1, 5 at dose level 2). One patient receiving poziotinib
+8 mg and 2 receiving poziotinib 12 mg had dose-limiting toxicities (DLTs); all DLTs were grade 4 neutropenia, one with fever.
+The most common poziotinib-related adverse events were diarrhea, rash, stomatitis, pruritus and loss of appetite. The MTD
+of poziotinib was determined to be 8 mg/day and this was used in the phase II part which enrolled 32 patients. Two patients
+(6.3%) had complete responses and 5 (15.6%) had partial responses (objective response rate 21.9%). Median progression-
+free survival and overall survival were 13.0 weeks (95% CI 9.8–21.9) and 29.5 weeks (95% CI 17.9–59.2), respectively.
+Conclusions The MTD of poziotinib combined with paclitaxel and trastuzumab was 8 mg/day. This combination yielded
+promising anti-tumor efficacy with manageable toxicity in previously treated patients with HER2-positive GC.
+Keywords Chemotherapy · Gastric cancer · HER2 · Poziotinib · Trastuzumab
+Electronic supplementary material The online version of this
+article (https ://doi.org/10.1007/s1012 0-019-00958 -4) contains
+supplementary material, which is available to authorized users.
+* Yung-Jue Bang 6 National Cancer Center, Seoul, South Korea
+bangyj@snu.ac.kr 7 Seoul National University Boramae Medical Center, Seoul,
+1 Department of Internal Medicine, Seoul National University South Korea
+Hospital, Seoul National University College of Medicine, 8 Sungkyunkwan University Samsung Medical Center, Seoul,
+101 Daehak-ro, Jongno-gu, Seoul 03080, South Korea South Korea
+2 Chungbuk National University College of Medicine, 9 Chonbuk National University Medical School, Jeonju,
+Cheongju, South Korea South Korea
+3 Seoul National University Bundang Hospital, Seoul National 10 Hanmi Pharmaceutical Co., Ltd., Seoul, South Korea
+University College of Medicine, Seongnam, South Korea 11 Korea University Anam Hospital, Seoul, South Korea
+4 Hallym University Sacred Heart Hospital, Anyang-si, 12 Gangnam Severance Hospital, Seoul, South Korea
+South Korea
+5 Yonsei Cancer Center, Yonsei University College
+of Medicine, Seoul, South Korea
+V1ol :.3(1234567890)
+
+--- Page 2 ---
+A phase I/II study of poziotinib combined with paclitaxel and trastuzumab in patients with… 1207
+Introduction events (TEAEs) were diarrhea, rash, stomatitis, pruritus,
+and anorexia. In the aforementioned phase I study, pozi-
+Gastric cancer (GC) is the fifth most common cancer and otinib monotherapy produced response rates of 16% and
+the third leading cause of cancer-related death worldwide 21% with intermittent and continuous dosing, respectively,
+[1]. Chemotherapy is the backbone of treatment for most in patients with advanced solid tumors including HER2-
+patients with metastatic or recurrent GC. While there is amplified GC and breast cancer.
+no universally accepted chemotherapy regimen for these The combination of trastuzumab plus lapatinib enhanced
+patients, fluoropyrimidine and platinum doublet is used the response to a taxane, and the triplet regimen with tras-
+most commonly worldwide. Some physicians add doc- tuzumab, lapatinib and a taxane showed marked inhibitory
+etaxel or epirubicin on top of doublet; however, triplets potency in HER2-positive breast cancer cells [16]; this
+are not as popular, due to toxicity concerns [2]. approach was also effective in patients with HER2-positive
+Human epidermal growth factor receptor 2 (HER2) is breast cancer [17]. Based on the aforementioned preclinical
+part of a family of receptors associated with tumor cell data, the present trial was designed to explore the clinical
+proliferation, apoptosis, adhesion, migration, and differ- efficacy of the pan-HER inhibitor, poziotinib, combined with
+entiation [3]. HER2 is reported to be amplified in 13–22% trastuzumab and paclitaxel in patients with HER2-positive
+of GC [4, 5]. It has been shown that patients with HER2- GC as second-line treatment.
+positive GC benefited substantially from trastuzumab The objectives of the current phase I/II study were to
+add-on chemotherapy, and trastuzumab combined with determine the MTD and the recommended phase II dose
+doublet of fluoropyrimidine and platinum has become the (RP2D) of poziotinib, when combined with paclitaxel and
+standard of care in patients with metastatic or unresectable trastuzumab (phase I part), and to assess the anti-tumor effi-
+HER2-positive GC [6]. However, most patients eventually cacy of this combination in previously treated patients with
+develop resistance to trastuzumab, and new therapeutic HER2-positive advanced GC (phase II part).
+approaches are necessary.
+HER2 activation resulted in increased epidermal growth
+factor receptor (EGFR) signaling in a preclinical study, Patients and methods
+suggesting that dual inhibition of HER2 and EGFR could
+overcome resistance to trastuzumab [7]. Lapatinib is a
+This was a prospective phase I/II study, conducted in 11
+tyrosine kinase inhibitor (TKI) that targets the tyrosine
+centers in Korea.
+kinases of both HER2 and EGFR, and the combination of
+lapatinib and capecitabine was effective in HER2-positive
+Patients
+breast cancer [8]. Lapatinib in combination with capecit-
+abine and oxaliplatin as first line, or with paclitaxel as
+second line, was evaluated in patients with HER2-positive Key eligibility criteria included: patients aged ≥ 19 years;
+GC [9, 10]. However, these two trials failed to meet the histopathologically confirmed locally advanced unresect-
+primary endpoint. HER subfamily members should syner- able, relapsed or metastatic gastric adenocarcinoma (includ-
+gistically interact with the same or another HER subfam- ing adenocarcinoma of the esophagogastric junction); HER2
+ily member, suggesting that pan-HER inhibitors could be immunohistochemistry (IHC) 3 + or HER2 IHC 2 + and
+more potent than those which inhibit only one or two HER HER2 fluorescence in situ hybridization (FISH) + ; the
+subfamily receptors [11–13]. presence of one or more measurable lesions by Response
+Poziotinib (HM781-36B) is an irreversible pan-HER Evaluation Criteria in Solid Tumors (RECIST, version 1.1)
+TKI, which targets EGFR, HER2, and HER4. Poziotinib [18]; one previous line of chemotherapy, including fluoro-
+showed strong in vitro and in vivo anti-tumor activity in pyrimidine or platinum, regardless of trastuzumab expo-
+HER2-amplified GC cells and also demonstrated a syn- sure; and adequate bone marrow and hepatic functions. Key
+ergistic inhibitory effect when combined with chemo- exclusion criteria included: a history of hypersensitivity to
+therapeutic agents, including paclitaxel [14]. In a phase I drugs containing Cremophor® EL and trastuzumab; previ-
+study of poziotinib monotherapy, the maximum tolerated ous exposure to taxanes, and symptomatic central nervous
+dose (MTD) was 18 mg/day, with continuous dosing, and system metastasis.
+24 mg/day with intermittent dosing (14 days on, 7 days This study was conducted in accordance with the Dec-
+off) [15]. The main dose-limiting toxicities (DLTs) were laration of Helsinki and the International Conference on
+grade 3 diarrhea with intermittent and continuous dos- Harmonization Good Clinical Practice Guidelines and was
+ing, and one patient had grade 3 anorexia with continuous approved by the Institutional Review Board of each partici-
+dosing. Commonly observed treatment-emergent adverse pating center. All patients provided written informed consent
+before enrollment.
+1 3
+
+--- Page 3 ---
+1 208 T.-Y. Kim et al.
+Treatment procedures a significance level of 5%. Of the total 27 target subjects, 13
+were required in the 1st stage. If the tumor response was 0
+Each 21-day cycle consisted of orally administered pozi- out of 13 patients, the study was planned to be terminated
+otinib once daily for 14 days, in combination with paclitaxel early. However, if at least 1 response was observed, an addi-
+(175 mg/m2 infusion) and trastuzumab (8 mg/kg loading tional 14 patients would be enrolled in the study.
+dose, followed by 6 mg/kg infusion) on day 1. In the phase
+I part of the study, increasing doses of poziotinib (8 mg,
+12 mg or 16 mg) were tested to determine the RP2D of Results
+poziotinib, in combination with paclitaxel and trastuzumab.
+DLTs were evaluated in 6 patients at each poziotinib dose Patients’ characteristics
+level. If DLT was observed in ≤ 1 patient, dose escalation
+was continued to the next dose level. If DLT was observed
+From January 2013 to August 2014, a total of 44 patients (12
+in ≥ 2 patients, dose escalation was stopped and the MTD
+in phase I and 32 in phase II) were enrolled from 11 sites in
+was determined as the highest level at which DLT occurred
+Korea. The baseline characteristics of the study population
+in ≤ 1 patient. In the phase II part of the study, 32 patients
+are summarized in Table 1. Median age was 61.5 (range
+were treated with the RP2D of poziotinib, in combination
+35.0–76.0), and 38 (86.4%) were males. Main metastatic
+with paclitaxel and trastuzumab.
+sites were lymph node (70.5%) and liver (63.6%). Out of 44
+patients, 33 (75.0%) were previously treated with a trastu-
+Safety analyses and efficacy
+zumab-containing regimen.
+Adverse events (AEs) and TEAEs were evaluated using
+National Cancer Institute-Common Terminology Criteria
+Phase I part
+for Adverse Events (version 4.03). DLTs were defined as
+grade ≥ 3 non-hematologic toxicities (except for alopecia);
+Determination of the MTD
+grade ≥ 3 diarrhea, nausea and vomiting, despite maximal
+dosage of anti-diarrhea and/or anti-emetic medication (as
+Seven patients were enrolled at dose level 1 (poziotinib
+applicable); and grade 4 neutropenia sustained for ≥ 7 days,
+8 mg); however, one patient was not evaluable for DLT,
+grade 3–4 neutropenia with fever or infection, grade 4
+due to loss of follow-up before completion of the first cycle.
+thrombocytopenia and grade 3 thrombocytopenia sustained
+Among 6 patients, DLT was observed in 1 (grade 4 neutro-
+for ≥ 7 days, or with accompanying bleeding, or requiring
+penia). At dose level 2 (poziotinib 12 mg), 5 patients were
+transfusion. Left ventricular ejection fraction (LVEF) assess-
+enrolled, and DLT was observed in 2 (one with grade 4 neu-
+ment was performed at baseline, on day 1 of the first 3 cycles
+tropenia and the other with febrile neutropenia with grade
+and every 3 cycles thereafter. All patients who received at
+4 neutropenia) (Table 2). Therefore, poziotinib 8 mg was
+least one dose of poziotinib were included in the safety anal-
+determined to be the MTD.
+ysis. Tumor response was evaluated by CT or MRI of the
+thorax, abdomen and pelvis every 6 weeks using RECIST
+Toxicity and dose adjustments
+version 1.1, according to investigator assessment.
+Statistical analysis The safety analysis set consisted of 12 patients in phase I.
+Grade 3 or higher neutropenia and febrile neutropenia were
+The primary objective of phase I was to assess the safety observed in 9 (75.0%) and 2 (16.7%) patients, respectively
+and tolerability of poziotinib and to determine the MTD of (Online Resource 1). The most common poziotinib-related
+poziotinib when combined with paclitaxel and trastuzumab. AEs were diarrhea, rash, stomatitis, pruritus, and loss of
+The primary objective of the phase II part was to assess the appetite (Table 3). Four (33.3%) experienced Grade 3 or
+objective response rate (ORR) of poziotinib combined with higher diarrhea. One had a ≥ 15% decline in LVEF from
+paclitaxel and trastuzumab. The secondary objectives were baseline with an absolute value < 50% at dose level 2. Pozi-
+to evaluate the safety and tolerability, progression-free sur- otinib dose reduction from 8 to 6 mg was performed in 1
+vival (PFS), time to tumor progression (TTP) and duration (14.3%) of 7 patients at dose level 1 and reduction from 12
+of overall response (DOR). to 8 mg was observed in 4 (80.0%) of 5 patients at dose level
+For phase II, we hypothesized that an ORR < 5% would 2. Dose reduction and discontinuation of paclitaxel were
+be ineffective and an ORR > 20% would be considered to observed in 2 (28.6%) and 1 (14.3%) patients at dose level
+be clinically significant. Sample size was calculated using 1 and 1 (20.0%) and 4 (80.0%) at dose level 2, respectively
+Simon’s 2-stage minimax design [19], with 80% power and (Online Resource 2).
+1 3
+
+--- Page 4 ---
+A phase I/II study of poziotinib combined with paclitaxel and trastuzumab in patients with… 1209
+Table 1 Summary of baseline characteristics of the study population
+Phase I Phase II Total population
+8 mg (n = 7) 12 mg (n = 5) Total (n = 12) RD: 8 mg (n = 32) Total (n = 44)
+Age (years)
+Median (range) 61.0 (41.0, 74.0) 57.0 (45.0, 73.0) 59.0 (41.0, 74.0) 62.5 (35.0, 76.0) 61.5 (35.0, 76.0)
+Sex, n (%)
+Male 6 (85.7) 5 (100.0) 11 (91.7) 27 (84.4) 38 (86.4)
+Female 1 (14.3) 0 1 (8.3) 5 (15.6) 6 (13.6)
+ECOG PS, n (%)
+0 6 (85.7) 1 (20.0) 7 (58.3) 12 (37.5) 19 (43.2)
+1 1 (14.3) 4 (80.0) 5 (41.7) 19 (59.4) 24 (54.5)
+2 0 0 0 1 (3.1) 1 (2.3)
+Metastasis at initial diagnosis, n (%)
+Yes 6 (85.7) 3 (60.0) 9 (75.0) 22 (68.7) 31 (70.5)
+No 1 (14.3) 2 (40.0) 3 (25.0) 10 (31.3) 13 (29.5)
+Primary tumor location at diagnosis, n (%)
+Stomach 7 (100.0) 5 (100.0) 12 (100.0) 30 (93.7) 42 (95.4)
+Gastroesophageal junction 0 0 0 2 (6.3) 2 (4.6)
+Location of the metastatic lesion at the screening of study
+Lung 2 (28.6) 1 (20.0) 3 (25.0) 9 (28.1) 12 (27.3)
+Lymph node 6 (85.7) 4 (80.0) 10 (83.3) 21 (65.6) 31 (70.5)
+Liver 5 (71.4) 3 (60.0) 8 (66.7) 20 (62.5) 28 (63.6)
+Peritoneum 1 (14.3) 1 (20.0) 2 (16.7) 13 (40.6) 15 (34.1)
+Bone 1 (14.3) 1 (20.0) 2 (16.7) 2 (6.3) 4 (9.1)
+Brain 0 0 0 1 (3.1) 1 (2.3)
+Histologic type at diagnosis
+Adenocarcinoma 6 (85.7) 3 (60.0) 9 (75.0) 27 (84.4) 36 (81.8)
+SRCC 1 (14.3) 0 1 (8.3) 3 (9.4) 4 (9.1)
+Mixed type 0 2 (40.0) 2 (16.7) 1 (3.1) 3 (6.8)
+Unknown 0 0 0 1 (3.1) 1 (2.3)
+HER2 status
+IHC 3+ 6 (85.7) 3 (60.0) 9 (75.0) 21 (65.6) 30 (68.2)
+IHC 2+ and FISH+ 1 (14.3) 2 (40.0) 3 (25.0) 11 (34.4) 14 (31.8)
+Previous gastrectomy
+Yes 3 (42.9) 1 (20.0) 4 (33.3) 9 (28.1) 13 (29.5)
+No 4 (57.1) 4 (80.0) 8 (66.7) 23 (71.9) 31 (70.5)
+Adjuvant chemotherapy
+Yes 1 (14.3) 1 (20.0) 2 (16.7) 7 (21.9) 9 (20.5)
+No 6 (85.7) 4 (80.0) 10 (83.3) 25 (78.1) 35 (79.5)
+Previous exposure of trastuzumab
+Yes 4 (57.1) 5 (100.0) 9 (75.0) 24 (75.0) 33 (75.0)
+No 3 (42.9) 0 3 (25.0) 8 (25.0) 11 (25.0)
+ECOG Eastern Cooperative Oncology Group, PS performance status, IHC immunohistochemistry, FISH fluorescence in situ hybridization,
+SRCC signet ring cell carcinoma
+Efficacy response + stable disease) was 66.7% (95% CI 34.9–90.1).
+Median PFS and OS were 17.7 weeks (95% CI 5.4–30.2)
+Four patients (33.3%; 95% CI 9.9–65.1) had partial and 30.6 weeks (95% CI 12.2–195.0), respectively (Online
+responses (Table 4). The disease control rate (DCR; partial Resource 3 and 4).
+1 3
+
+--- Page 5 ---
+1 210 T.-Y. Kim et al.
+Table 2 Summary of dose-
+Safety set Phase I
+limiting toxicities
+8 mg (n = 7)a 12 mg (n = 5) Total (n = 12)
+Dose-limiting toxicities (DLTs), n (%)
+DLTs 1 (14.3) 2 (40.0) 3 (25.0)
+Grade 4 neutropenia Grade 4 neutropenia for ≥ 7 days
+for ≥ 7 days
+Grade 4 neutropenia with fever
+a Out of 7 subjects, 6 were available for assessment DLTs because 1 had loss of follow-up before comple-
+tion of the first cycle
+Table 3 Safety profiles: adverse
+System organ class preferred term Phase I Phase II
+events related to poziotinib
+(≥ 10% of patients) 8 mg (n = 7) 12 mg (n = 5) Total (n = 12) RD: 8 mg (n = 32)
+Gastrointestinal disorder
+Diarrhea 7 (100.0) 5 (100.0) 12 (100.0) 29 (90.6)
+Stomatitis 4 (57.1) 2 (40.0) 6 (50.0) 13 (40.6)
+Nausea 1 (14.3) 1 (20.0) 2 (16.7) 3 (9.4)
+Vomiting 0 0 0 4 (12.5)
+Skin and subcutaneous tissue disorders
+Rash 4 (57.1) 3 (60.0) 7 (58.3) 22 (68.8)
+Pruritus 1 (14.3) 1 (20.0) 2 (16.7) 7 (21.9)
+Dermatitis acneiform 2 (28.6) 0 2 (16.7) 0
+Metabolism and nutrition disorders
+Decreased appetite 0 1 (20.0) 1 (8.3) 14 (43.8)
+Hypophagia 0 2 (40.0) 2 (16.7) 1 (3.1)
+Hypokalemia 1 (14.3) 1 (20.0) 2 (16.7) 1 (3.1)
+Dehydration 1 (14.3) 1 (20.0) 2 (16.7) 0
+General disorders and administration site conditions
+Mucosal inflammation 1 (14.3) 2 (40.0) 3 (25.0) 3 (9.4)
+Fatigue 0 0 0 7 (21.9)
+Musculoskeletal and connective tissue disorders
+Myalgia 0 0 0 4 (12.5)
+Psychiatric disorders
+Insomnia 2 (28.6) 0 2 (16.7) 0
+RD recommended dose
+Phase II part or 4 left ventricular systolic dysfunction (LVSD). Twenty
+(62.5%) patients received a reduced dose of poziotinib. A
+Safety analysis reduced dose of paclitaxel was administered to 12 patients
+(37.5%) and paclitaxel was discontinued in 3 patients
+Grade 3 or higher TEAEs neutropenia and febrile neu- (9.4%) (Online Resource 2).
+tropenia developed in 4 (12.5%) and 3 (9.4%) of patients,
+Efficacy
+respectively (Online Resource 1). The most common poz-
+iotinib-related TEAEs were diarrhea, rash, stomatitis and
+decreased appetite, similar to results obtained in phase Twenty patients (62.5%) had tumor shrinkage (Fig. 1).
+I (Table 3). Grade 3 or higher diarrhea was observed in Confirmed response was observed in 7 patients (21.9%;
+13 patients (40.6%) (Online Resource 1). Four patients 95% CI 9.3–40.0). Two patients (6.3%) had complete
+(12.5%) discontinued the study before the first assessment responses and 5 (15.6%) had partial responses. DCR was
+due to treatment-related toxicity. There was no grade 3 71.9% (95% CI 53.3–86.3) (Table 4). The median PFS
+was 13.0 weeks (95% CI 9.8–21.9) (Online Resources
+1 3
+
+--- Page 6 ---
+A phase I/II study of poziotinib combined with paclitaxel and trastuzumab in patients with… 1211
+Table 4 Summary of tumor
+Phase I Phase II Total population
+responses
+8 mg 12 mg Total RD: 8 mg Total
+All patients, n 7 5 12 32 44
+Objective response rate, n (%) 2 (28.6) 2 (40.0) 4 (33.3) 7 (21.9) 11 (25.0)
+Exact 95% CI 3.7–71.0 5.3–85.3 9.9–65.1 9.3–40.0 13.2–40.3
+Disease control rate, n (%) 5 (71.4) 3 (60.0) 8 (66.7) 23 (71.9) 31 (70.5)
+Exact 95% CI 29.0–96.3 14.7–94.7 34.9–90.1 53.3–86.3 54.8–83.2
+Best overall response, n (%)
+CR 0 0 0 2 (6.3) 2 (4.5)
+PR 2 (28.6) 2 (40.0) 4 (33.3) 5 (15.6) 9 (20.5)
+SD 3 (42.9) 1 (20.0) 4 (33.3) 16 (50.0) 20 (45.5)
+PD 1 (14.3) 2 (40.0) 3 (25.0) 5 (15.6) 8 (18.2)
+Unknown 1 (14.3) 0 1 (8.3) 4 (12.5) 5 (11.4)
+Trastuzumab-pretreated patients, n 4 5 9 24 33
+Objective response rate, n (%) 1 (25.0) 2 (40.0) 3 (33.3) 3 (12.5) 6 (18.2)
+Exact 95% CI 0.6–80.6 5.3–85.3 7.5–70.1 2.7–32.4 7.06–35.5
+Disease control rate, n (%) 3 (75.0) 3 (60.0) 6 (66.7) 18 (75.0) 24 (72.7)
+Exact 95% CI 19.4–99.4 14.7–94.7 29.9–92.5 53.3–90.2 54.5–86.7
+Trastuzumab-naïve patients, n 3 0 3 8 11
+Objective response rate, n (%) 1 (33.3) 0 1 (33.3) 4 (50.0) 5 (45.5)
+Exact 95% CI 0.8–90.6 0.8–90.6 15.7–84.3 16.8–76.6
+Disease control rate, n (%) 2 (66.7) 0 2 (66.7) 5 (62.5) 7 (63.6)
+Exact 95% CI 9.4–99.2 9.4–99.2 24.5–91.5 30.8–89.1
+RD recommended dose, CI confidence interval, CR complete response, PR partial response, SD stable dis-
+ease, PD progressive disease
+Fig. 1 Waterfall plot of best
+percent change in tumor
+diameter of target lesions in the
+phase II part of the study. Best
+percent change in target lesions
+(%) = (the smallest post-treat-
+ment tumor diameter − base-
+line tumor diameter)/baseline
+tumor diameter *100. *One
+subject who is clinical PD is not
+included in this result because
+of no evaluation value for tumor
+diameter after baseline
+3–5). The median OS was 29.5 weeks (95% CI 17.9–59.2) exposure, the ORRs of trastuzumab-pretreated and trastu-
+(Online Resource 3 and 4). The median TTP and DOR zumab-naïve patients were 12.5% and 50.0%, respectively
+were 15.0 weeks (95% CI 10.0–23.1) and 26.8 weeks (95% (Table 4). The median OS and PFS were 29.5 weeks (95%
+CI 17.2–71.8), respectively (Online Resource 3). When CI 17.9–40.9) and 13.0 weeks (9.8–18.7) in trastuzumab-
+looking into clinical efficacy in terms of trastuzumab pretreated patients, and 42.6 weeks (95% CI 3.0–111.5)
+1 3
+
+--- Page 7 ---
+1 212 T.-Y. Kim et al.
+and 18.7 weeks (95% CI 3.0-) in trastuzumab-naïve this dual blockade strategy, including pan-HER inhibitors,
+patients (Online Resource 3). might be a promising treatment option in HER2-positive
+GC as salvage treatment.
+The continuation of anti-HER2 targeted therapy beyond
+progression is a generally accepted treatment strategy in
+Discussion
+HER2-positive breast cancer [27]. A retrospective study
+reported that trastuzumab beyond progression increased
+In this prospective, multicenter, open-label phase I/II study, PFS and OS in HER2-positive GC [28]. However, in a
+poziotinib 8 mg combined with paclitaxel plus trastuzumab prospective phase II study, trastuzumab beyond progres-
+showed manageable toxicity and promising efficacy in previ- sion as second line failed to improve PFS and the ORR in
+ously treated patients with advanced HER2-positive GC. To patients with HER2-positive GC, indicating that the role
+our knowledge, this study is the first to evaluate a pan-HER of trastuzumab beyond progression remains controversial
+inhibitor combined with a chemotherapeutic agent and tras- in HER2-positive GC [29].
+tuzumab in HER2-positive tumors. Antibody–drug conjugate (ADC) is one of the emerging
+In a previous phase I study, poziotinib MTDs were deter- treatment strategies in HER2-positive tumors. A phase III
+mined to be 24 mg/day with intermittent dosing (14 days on trial of trastuzumab emtansine was performed in patients
+and 7 days off) and 18 mg/day with continuous dosing [15]. with HER2-positive GC, who failed prior fluoropyrimi-
+In the phase I part of the current study, the MTD of pozi- dine and platinum [30]. However, trastuzumab emtansine
+otinib was determined to be 8 mg/day, which is much lower was not superior to paclitaxel. The ORR was only 20.6%
+than the poziotinib MTD of 24 mg/day as monotherapy (95% CI 15.26–26.45). DS8201a, a new HER2-targeting
+[15]. Commonly observed TEAEs in our study were diar- ADC, has shown potent anti-tumor activity against HER2-
+rhea, rash, stomatitis and pruritus. All patients experienced positive GC cells [31]. In a phase I study, DS8201a pre-
+at least one TEAE in our study, with a frequency similar to sented an ORR of 44% and DCR of 78% in patients with
+that reported in the phase I trial of poziotinib monotherapy HER2-positive GC resistant to trastuzumab, and also in
+[15]. In contrast to the phase I monotherapy trial, all DLTs in patients with low HER2-expressing GC, suggesting that
+our study were reported to be grade 4 neutropenia or febrile HER2-targeting ADC could be a promising salvage treat-
+neutropenia accompanying grade 4 neutropenia, rather than ment in HER2-positive GC [32, 33]).
+diarrhea. In the current study, pretreatment biopsy was not man-
+In the aforementioned phase I trial, the ORR and median datory; therefore, patients were enrolled based on HER2
+PFS of poziotinib monotherapy were reported to be 16% expression at initial diagnosis. However, differences
+and 12.0 weeks (intermittent dosing schedule) and 21% in HER2 expression before and after trastuzumab were
+and 9.0 weeks (continuous dosing schedule) [15]. Another reported in HER2-positive GC and a loss of HER2 posi-
+pan-HER inhibitor, dacomitinib, as monotherapy produced tivity was even observed in 32% of patients who received
+an ORR of 7.4% (95% CI 0–17.5) and a median PFS of trastuzumab [34, 35]. These observations indicate that re-
+2.1 months (95% CI 2.3–3.4) in HER2-positive GC [20]. assessment of exact HER2 status is essential just before
+Given the ORR and median PFS of our study, these results re-challenge with anti-HER2 targeted therapy and, as such,
+suggest that pan-HER inhibitors, in combination with this represents a limitation of our study.
+chemotherapy, could be more potent than pan-HER inhibi- In conclusion, poziotinib (8 mg) in combination with
+tors alone. paclitaxel and trastuzumab showed good clinical efficacy
+Dual blockade of HER2 receptors has become the and manageable toxicity in patients with HER2-positive
+standard of care in HER2-positive breast cancer [21–24]. GC who had received one line of chemotherapy. Dual
+Pertuzumab in combination with docetaxel plus trastu- blockade inhibition using trastuzumab with a pan-HER
+zumab significantly increased OS in HER2-positive breast inhibitor could be a promising strategy to overcome resist-
+cancer [24]. However, in contrast to HER2-positive breast ance to trastuzumab. Further clinical trials are warranted
+cancer, pertuzumab in combination with chemotherapy did to examine the efficacy of poziotinib in combination with
+not extend OS in HER2-positive GC [25]. This finding an HER2-targeted agent.
+indicates that the efficacy of dual blockade in HER2-pos-
+itive GC might be different from that in HER2-positive Acknowledgements Editorial assistance, under the guidance of the
+authors, was provided by David P. Figgitt PhD, ISMPP CMPP™, Con-
+breast cancer. However, even in vitro, dual blockade with
+tent Ed Net, with funding from Hanmi Pharmaceutical Co., Ltd., Seoul,
+lapatinib and trastuzumab showed highly synergistic anti-
+South Korea.
+tumor activity against HER2-amplified GC cells [26]. In
+the current study, poziotinib in combination with trastu- Funding The study was sponsored by Hanmi.
+zumab showed a good tumor response, suggesting that
+1 3
+
+--- Page 8 ---
+A phase I/II study of poziotinib combined with paclitaxel and trastuzumab in patients with… 1213
+Compliance with ethical standards 11. Holbro T, Hynes NE. ErbB receptors: directing key signal-
+ing networks throughout life. Annu Rev Pharmacol Toxicol.
+Conflict of interest Yung-Jue Bang has served in consultant/advisory 2004;44:195–217.
+12. Wang X, Batty KM, Crowe PJ, Goldstein D, Yang JL. The poten-
+board roles for AstraZeneca, Novartis, Genentech/Roche, MSD, Bay-
+tial of panHER inhibition in cancer. Front Oncol. 2015;5:2.
+er, BMS, Eli Lilly, Merck Serono, Taiho, Daiichi-Sankyo, Astellas,
+13. Zhang K, Sun J, Liu N, Wen D, Chang D, Thomason A, et al.
+BeiGene, Green Cross, Samyang Biopharmaceuticals and Hanmi, and
+Transformation of NIH 3T3 cells by HER3 or HER4 recep-
+has received research grants from AstraZeneca, Novartis, Genentech/
+tors requires the presence of HER1 or HER2. J Biol Chem.
+Roche, MSD, Merck Serono, Bayer, GSK, BMS, Pfizer, Eli Lilly,
+1996;271(7):3884–90.
+Boeringer-Ingelheim, MacroGenics, Boston Biomedical, FivePrime,
+14. Nam HJ, Kim HP, Yoon YK, Hur HS, Song SH, Kim MS, et al.
+CKD Pharma, Ono, Taiho, Takeda, BeiGene, Green Cross, Curis, Dai-
+Antitumor activity of HM781-36B, an irreversible Pan-HER
+ichi Sankyo and Astellas. Soo-A Jung and NaMi Lee are employees
+inhibitor, alone or in combination with cytotoxic chemothera-
+of Hanmi Pharmaceutical Co., Ltd., Seoul, South Korea. The other
+peutic agents in gastric cancer. Cancer Lett. 2011;302(2):155–65.
+authors declare no conflicts of interest.
+15. Kim TM, Lee KW, Oh DY, Lee JS, Im SA, Kim DW, et al. Phase
+Ethical standards All procedures followed were in accordance with the 1 studies of poziotinib, an irreversible pan-HER tyrosine kinase
+inhibitor in patients with advanced solid tumors. Cancer Res
+Declaration of Helsinki and the International Conference on Harmoni-
+Treat. 2018;50(3):835–42.
+zation Good Clinical Practice Guidelines and the study was approved
+16. O’Donovan N, Byrne AT, O’Connor AE, McGee S, Gallagher
+by the Institutional Review Board of each participating center. All
+WM, Crown J. Synergistic interaction between trastuzumab and
+patients provided written informed consent before enrollment.
+EGFR/HER-2 tyrosine kinase inhibitors in HER-2 positive breast
+cancer cells. Invest New Drugs. 2011;29(5):752–9.
+17. Carey LA, Berry DA, Cirrincione CT, Barry WT, Pitcher BN,
+Harris LN, et al. Molecular heterogeneity and response to
+neoadjuvant human epidermal growth factor receptor 2 target-
+References
+ing in CALGB 40601, a randomized phase III trial of pacli-
+taxel Plus trastuzumab with or without lapatinib. J Clin Oncol.
+1. Ferlay J, Soerjomataram I, Dikshit R, Eser S, Mathers C, Rebelo 2016;34(6):542–9.
+M, et al. Cancer incidence and mortality worldwide: sources, 18. Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sar-
+methods and major patterns in GLOBOCAN 2012. Int J Cancer. gent D, Ford R, et al. New response evaluation criteria in solid
+2015;136(5):E359–86. tumours: revised RECIST guideline (version 1.1). Eur J Cancer.
+2. Wagner AD, Syn NL, Moehler M, Grothe W, Yong WP, Tai BC, 2009;45(2):228–47.
+et al. Chemotherapy for advanced gastric cancer. Cochrane Data- 19. Simon R. Optimal two-stage designs for phase II clinical trials.
+base Syst Rev. 2017;8:CD004064. Control Clin Trials. 1989;10(1):1–10.
+3. Hudis CA. Trastuzumab—mechanism of action and use in clinical 20. Oh DY, Lee KW, Cho JY, Kang WK, Im SA, Kim JW, et al. Phase
+practice. N Engl J Med. 2007;357(1):39–51. II trial of dacomitinib in patients with HER2-positive gastric can-
+4. Gravalos C, Jimeno A. HER2 in gastric cancer: a new prog- cer. Gastric Cancer. 2016;19(4):1095–103.
+nostic factor and a novel therapeutic target. Ann Oncol. 21. Gianni L, Pienkowski T, Im YH, Roman L, Tseng LM, Liu MC,
+2008;19(9):1523–9. et al. Efficacy and safety of neoadjuvant pertuzumab and trastu-
+5. Van Cutsem E, Bang YJ, Feng-Yi F, Xu JM, Lee KW, Jiao SC, zumab in women with locally advanced, inflammatory, or early
+et al. HER2 screening data from ToGA: targeting HER2 in HER2-positive breast cancer (NeoSphere): a randomised multi-
+gastric and gastroesophageal junction cancer. Gastric Cancer. centre, open-label, phase 2 trial. Lancet Oncol. 2012;13(1):25–32.
+2015;18(3):476–84. 22. Baselga J, Bradbury I, Eidtmann H, Di Cosimo S, de Azambuja
+6. Bang YJ, Van Cutsem E, Feyereislova A, Chung HC, Shen L, E, Aura C, et al. Lapatinib with trastuzumab for HER2-positive
+Sawaki A, et al. Trastuzumab in combination with chemother- early breast cancer (NeoALTTO): a randomised, open-label, mul-
+apy versus chemotherapy alone for treatment of HER2-positive ticentre, phase 3 trial. Lancet. 2012;379(9816):633–40.
+advanced gastric or gastro-oesophageal junction cancer (ToGA): 23. Schneeweiss A, Chia S, Hickish T, Harvey V, Eniu A, Hegg R,
+a phase 3, open-label, randomised controlled trial. Lancet. et al. Pertuzumab plus trastuzumab in combination with stand-
+2010;376(9742):687–97. ard neoadjuvant anthracycline-containing and anthracycline-free
+7. Henjes F, Bender C, von der Heyde S, Braun L, Mannsperger chemotherapy regimens in patients with HER2-positive early
+HA, Schmidt C, et al. Strong EGFR signaling in cell line models breast cancer: a randomized phase II cardiac safety study (TRY-
+of ERBB2-amplified breast cancer attenuates response towards PHAENA). Ann Oncol. 2013;24(9):2278–84.
+ERBB2-targeting drugs. Oncogenesis. 2012;1:e16. 24. Swain SM, Baselga J, Kim SB, Ro J, Semiglazov V, Campone M,
+8. Geyer CE, Forster J, Lindquist D, Chan S, Romieu CG, Pien- et al. Pertuzumab, trastuzumab, and docetaxel in HER2-positive
+kowski T, et al. Lapatinib plus capecitabine for HER2-positive metastatic breast cancer. New Engl J Med. 2015;372(8):724–34.
+advanced breast cancer. New Engl J Med. 2006;355(26):2733–43. 25. Tabernero J, Hoff PM, Shen L, Ohtsu A, Shah MA, Cheng K,
+9. Hecht JR, Bang YJ, Qin SK, Chung HC, Xu JM, Park JO, et al. et al. Pertuzumab plus trastuzumab and chemotherapy for HER2-
+Lapatinib in combination with capecitabine plus oxaliplatin in positive metastatic gastric or gastro-oesophageal junction cancer
+human epidermal growth factor receptor 2-positive advanced or (JACOB): final analysis of a double-blind, randomised, placebo-
+metastatic gastric, esophageal, or gastroesophageal adenocarci- controlled phase 3 study. Lancet Oncol. 2018;19(10):1372–84.
+noma: TRIO-013/LOGiC–a randomized phase III trial. J Clin 26. Wainberg ZA, Anghel A, Desai AJ, Ayala R, Luo T, Safran B,
+Oncol. 2016;34(5):443–51. et al. Lapatinib, a dual EGFR and HER2 kinase inhibitor, selec-
+10. Satoh T, Xu RH, Chung HC, Sun GP, Doi T, Xu JM, et al. Lapa- tively inhibits HER2-amplified human gastric cancer cells and is
+tinib plus paclitaxel versus paclitaxel alone in the second-line synergistic with trastuzumab in vitro and in vivo. Clin Cancer Res.
+treatment of HER2-amplified advanced gastric cancer in Asian 2010;16(5):1509–19.
+populations: TyTAN–a randomized, phase III study. J Clin Oncol. 27. Jackisch C, Welslau M, Schoenegg W, Selbach J, Harich HD,
+2014;32(19):2039–49. Schröder J, et al. Impact of trastuzumab treatment beyond disease
+1 3
+
+--- Page 9 ---
+1 214 T.-Y. Kim et al.
+progression for advanced/metastatic breast cancer on survival— trastuzumab deruxtecan (DS-8201), a HER2-targeting antibody-
+results from a prospective, observational study in Germany. drug conjugate, in patients with advanced breast and gastric or
+Breast. 2014;23(5):603–8. gastro-oesophageal tumours: a phase 1 dose-escalation study.
+28. Palle J, Tougeron D, Pozet A, Soularue E, Artru P, Leroy F, et al. Lancet Oncol. 2017;18(11):1512–22.
+Trastuzumab beyond progression in patients with HER2-positive 33. Iwasa S, Shitara K, Takahashi S, Park H, Kadowaki S, Modi
+advanced gastric adenocarcinoma: a multicenter AGEO study. S, et al. Updated results of phase 1 study of DS-8201a in sub-
+Oncotarget. 2017;8(60):101383–93. jects with HER2-expressing gastric cancer. J Clin Oncol.
+29. Makiyama A, Sagara K, Kawada J, Kashiwada T, Hosokawa 2018;36(4_suppl):118.
+A, Horie Y, et al. A randomized phase II study of weekly pacli- 34. Watson S, Validire P, Cervera P, Zorkani N, Scriva A, Lemay F,
+taxel ± trastuzumab in patients with HER2-positive advanced gas- et al. Combined HER2 analysis of biopsies and surgical speci-
+tric or gastro-esophageal junction cancer refractory to trastuzumab mens to optimize detection of trastuzumab-eligible patients in
+combined with fluoropyrimidine and platinum: WJOG7112G eso-gastric adenocarcinoma: a GERCOR study. Ann Oncol.
+(T-ACT). J Clin Oncol. 2018;36(15_Suppl):4011. 2013;24(12):3035–9.
+30. Thuss-Patience PC, Shah MA, Ohtsu A, Van Cutsem E, Ajani 35. Pietrantonio F, Caporale M, Morano F, Scartozzi M, Gloghini
+JA, Castro H, et al. Trastuzumab emtansine versus taxane use A, De Vita F, et al. HER2 loss in HER2-positive gastric or gas-
+for previously treated HER2-positive locally advanced or meta- troesophageal cancer after trastuzumab therapy: Implication for
+static gastric or gastro-oesophageal junction adenocarcinoma further clinical research. Int J Cancer. 2016;139(12):2859–64.
+(GATSBY): an international randomised, open-label, adaptive,
+phase 2/3 study. Lancet Oncol. 2017;18(5):640–53. Publisher’s Note Springer Nature remains neutral with regard to
+31. Takegawa N, Nonagase Y, Yonesaka K, Sakai K, Maenishi O, jurisdictional claims in published maps and institutional affiliations.
+Ogitani Y, et al. DS-8201a, a new HER2-targeting antibody-drug
+conjugate incorporating a novel DNA topoisomerase I inhibitor,
+overcomes HER2-positive gastric cancer T-DM1 resistance. Int J
+Cancer. 2017;141(8):1682–9.
+32. Doi T, Shitara K, Naito Y, Shimomura A, Fujiwara Y, Yonemori
+K, et al. Safety, pharmacokinetics, and antitumour activity of
+1 3

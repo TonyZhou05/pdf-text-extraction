@@ -1,0 +1,1137 @@
+Source: 19074845.pdf
+Extracted on: Sat Sep 13 00:00:27 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+Published in final edited form as:
+Mol Cancer Ther. 2008 December ; 7(12): 3685. doi:10.1158/1535-7163.MCT-08-0436.
+A phase I study of gefitinib, capecitabine, and celecoxib in patients
+with advanced solid tumors
+1 1,2,5 1,5 2,5
+Elaine T. Lam , Cindy L. O'Bryant , Michele Basche , Daniel L. Gustafson , Natalie
+1,3,5 5 1,5 6 1,5
+Serkova , Anna Baron , Scott N. Holden , Janet Dancey , S. Gail Eckhardt , and Lia
+1,4,5
+Gore
+1Developmental Therapeutics Program, University of Colorado-Denver 2School of Pharmacy,
+University of Colorado-Denver 3Department of Anesthesiology, University of Colorado-Denver
+4Department of Pediatrics, University of Colorado-Denver 5University of Colorado Cancer Center,
+Aurora, Colorado 6Investigational Drug Branch, Cancer Therapy Evaluation Program, Division of
+Cancer Treatment and Diagnosis, National Cancer Institute, Rockville, Maryland
+Abstract
+This phase I study was designed to determine the maximum tolerated dose (MTD) and toxicity profile
+of the combination of gefitinib, capecitabine, and celecoxib in patients with advanced solid tumors.
+Patients were treated with escalating doses of gefitinib once daily, capecitabine twice daily (14 of
+28 days), and celecoxib twice daily. Plasma samples for biomarkers were obtained at baseline and
+weekly for the first 2 cycles. Pharmacokinetic variables were correlated with toxicity and presence
+of biological effect. Tumor biopsies from 5 patients were analyzed for changes in tumor metabolic
+activity by nuclear magnetic resonance spectroscopy. [18F]fluororodeoxyglucose positron emission
+tomography was done as a correlate in 6 patients at the MTD. Thirty-nine patients received 168 cycles
+of therapy. The dose-limiting toxicities observed included nausea, dehydration and nausea, diarrhea,
+and stomatitis. The MTD was 250 mg/d gefitinib (days 1–14) and 2,000 mg/m2/d capecitabine
+divided twice daily (days 8–21) every 28 days. Celecoxib was eliminated due to concerns of increased
+risk for cardiovascular toxicity, although no patients in this study had cardiac events. One patient
+with cholangiocarcinoma had a confirmed partial response. Fourteen of 39 (36%) patients maintained
+prolonged stable disease for a median of 4 months (range, 3–24 months). [18F]fluorodeoxyglulucose
+positron emission tomography scan and metabolomic analyses revealed differences in metabolic
+response to gefitinib versus capecitabine. The combination of gefitinib and capecitabine is well
+tolerated and appears to have activity against certain advanced solid tumors, providing a rationale
+for further evaluation in advanced solid malignancies.
+Introduction
+In recent years, there has been a rapid increase in the treatment options available to patients
+with advanced malignancies. Better understanding of the signal transduction pathways
+involved in oncogenesis has allowed therapeutic targeting of cellular processes. Many tumor
+types overexpress the epidermal growth factor receptor (EGFR) and its ligands (1). Up-
+Copyright © 2008 American Association for Cancer Research
+Requests for reprints: Lia Gore, University of Colorado-Denver, Mail Stop 8302, P.O. Box 6511 Aurora, CO 80045. Phone:
+303-724-4011; Fax: 303-724-4015. lia.gore@ucdenver.edu.
+Note: Current address for D.L. Gustafson: Animal Cancer Center, Colorado State University Veterinary Teaching Hospital, Fort Collins,
+Colorado.
+Disclosure of Potential Conflicts of Interest No potential conflicts of interest were disclosed.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Lam et al. Page 2
+regulation of these factors presumably facilitates the sustained uncontrolled growth,
+metastases, and angiogenic properties of cancer cells, as persistent activation of the EGFR
+tyrosine kinase activity turns on pro-cell division pathways. For example, colon cancer cells
+that have metastasized to the liver have more intense EGFR staining compared with colon
+cancer cells at the primary tumor site (2). EGFR activation in NIH 3T3 cells has been shown
+to activate ras and raf, stimulating the expression of vascular endothelial growth factor (3).
+Gefitinib (Iressa, formerly ZD1839) is a potent EGFR tyrosine kinase inhibitor with a
+manageable toxicity profile and shows antitumor activity in heavily pretreated cancer patients
+(4,5). In initial phase II studies, patients with non-small cell lung cancer (NSCLC) treated with
+gefitinib at doses of 250 or 500 mg/d showed significant responses and symptomatic
+improvement. However, several phase III trials failed to confirm overall survival advantage
+(6). In the ISEL study of 1,692 patients with previously treated NSCLC, there were significant
+improvements in response rates and time to progression but no significant survival benefit
+overall. However, preplanned subgroup analysis revealed significant survival advantage for
+gefitinib in females, patients of Asian ethnicity, and never-smokers (7). As a result, in 2005,
+the Food and Drug Administration called for new labeling of gefitinib, limiting its indication
+to cancer patients who are currently benefiting or have benefited previously from gefitinib
+treatment. New patients are currently only allowed access to gefitinib in the setting of a clinical
+trial (8). Patients with responses to gefitinib tend to have somatic mutations in the kinase
+domain of the EGFR, accounting for their apparent disproportionate benefit with this agent
+(9,10).
+We conducted a phase I clinical trial to define the toxicities and recommended phase II dose
+(RP2D) of a triplet regimen of gefitinib, capecitabine, and celecoxib. Capecitabine is an orally
+administered fluoropyrimidine carbamate approved for the treatment of metastatic breast
+cancer refractory to paclitaxel or anthracyclines (11). It has shown equal efficacy to single
+agent i.v. 5-fluorouracil (5-FU) in untreated metastatic colorectal cancer patients (12). It also
+has activity as second-line therapy in patients who have failed bolus 5-FU (13). Celecoxib was
+included in this regimen because cycloxygenase-2 up-regulation appears to be an important
+early event in colon carcinogenesis. Because of this, cycloxygenase-2 inhibitors may have a
+role in chemo-prevention. Celecoxib has been shown in a randomized trial to cause statistically
+significant regression of colonic polyps in patients with familial adenomatosis polyposis
+(14). Cycloxygenase-2 may play an equally important role in the development of metastatic
+disease (15) and appears to be an activator of angiogenesis necessary for tumor growth beyond
+2 mm (16,17). In vitro and in vivo data show that prostaglandins such as PGE up-regulate
+2
+vascular endothelial growth factor, a potent proangiogenic growth factor (18,19). Moreover,
+data suggesting that nonspecific, nonsteroidal anti-inflammatory drugs and cycloxygenase-2
+inhibitors can inhibit angiogenesis through down-regulation of vascular endothelial growth
+factor (20,21). We hypothesized that the use of gefitinib, capecitabine, and celecoxib was more
+likely to be effective than single-agent treatment and would not only confer complementary
+antitumor activity by targeting angiogenesis but would be attractive as an all-oral regimen with
+an acceptable toxicity profile. In addition, these drugs theoretically have no known
+pharmacokinetic interactions and should not interfere with the metabolism of one another.
+Gefitinib and celecoxib are metabolized by different P450 isoenzymes, and P450 enzymes do
+not play a significant role in capecitabine metabolism.
+There is increasing evidence that early metabolic changes may complement or in some cases
+be superior to conventional imaging techniques in the ability to evaluate the effectiveness of
+targeted treatment regimens early during therapy (22,23). Alterations in uptake of [18F]
+fluouorodeoxyglucose (FDG) by positron emission tomography (PET) may help predict
+therapy response early in treatment. On the other hand, the most recent application of nuclear
+magnetic resonance (NMR)-based metabolomics, which provides a global biochemical profile
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Lam et al. Page 3
+of tissue biopsies or body fluids, allows for longitudinal, temporal analyses of additional
+metabolic changes, such as those seen in glycolysis and fatty acid and phospholipid metabolism
+(24,25). To explore these concepts in this study, we evaluated metabolic response by 18FDG-
+PET and magnetic resonance spectroscopy in selected patients during the first cycle of
+treatment.
+Materials and Methods
+Patient Selection
+Eligible patients had a confirmed pathologic diagnosis of a nonhematologic malignancy
+refractory to standard treatment or for which there was no standard therapy. Additional
+inclusion criteria included age ≥18 years; life expectancy ≥12 weeks; Eastern Cooperative
+Oncology Group performance status of 0 to 2; discontinuation of previous chemotherapy for
+at least 4 weeks (6 weeks for nitrosureas or mitomycin C), recovery from any toxic effects of
+prior treatment; and adequate bone marrow, liver, and renal function. Women of childbearing
+potential must have had a negative urine pregnancy test before study entry, and men and women
+agreed to use adequate contraception. The study was approved by the local institutional review
+board and conducted in accordance with the guidelines of the Declaration of Helsinki. Each
+patient was informed of the investigational nature of this study and signed a written institutional
+review board-approved consent before registration and enrollment into the study.
+Patients were excluded from this study for active infection, any serious concomitant systemic
+disorder (including other malignancy), uncontrolled brain metastases, history of
+hypersensitivity to 5-FU, or documented dihydropyrimidine dehydrogenase deficiency.
+Patients who were taking cytochrome P450 3A4 inducers, including rifampin, phenytoin,
+carbamazapine, and barbiturates, were required to discontinue these agents before entering the
+trial.
+Drug Administration
+Under the initial protocol, gefitinib was given continuously at a starting dose of 250 mg/d, with
+subsequent cohorts receiving either 250 or 500 mg/d, in combination with increasing doses of
+capecitabine (range, 1,000–2,000 mg/m2/d, given days 1–14) and a constant dose of celecoxib
+400 mg b.i.d.
+Dose Escalation Plan
+Three patients were enrolled per dose level in a standard 3 + 3 design. If ≥2 of 3 to 6 patients
+experienced dose-limiting toxicity (DLT) not related to palmar plantar erythrodysesthesia
+(PPE), dose escalation ceased. The National Cancer Institute Common Toxicity Criteria
+version 2.0 was used to grade adverse events. DLT was defined as grade ≥3 nonhematologic
+toxicity excluding alopecia, skin toxicity, diarrhea, nausea, or vomiting; grade 4
+thrombocytopenia; grade 4 neutropenia lasting >5 days or complicated by fever; grade ≥3 skin
+rash occurring after the second exposure to gefitinib; and treatment delay due to toxicity lasting
+>2 weeks. PPE was counted independently in assessing DLT because it is an established
+toxicity of capecitabine. For example, if 1 of 3 patients experienced grade 3 PPE, and up to 6
+patients would be enrolled at that dose level. Dose escalation would cease if ≥2 patients
+developed grade ≥3 PPE or if ≥2 patients developed non-PPE DLTs. The maximum tolerated
+dose (MTD) for this study was defined as the dose level below which resulted in DLTs in ≥2
+of 6 patients. When the MTD was defined, an additional 6 patients were enrolled to further
+assess the RP2D and to perform further correlative studies.
+Courses were repeated every 28 days if counts were adequate, and any grade 2 to 4 treatment-
+related side effects had resolved. If a treatment-related side effect persisted, treatment was
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Lam et al. Page 4
+delayed for up to 2 weeks until recovery. Delays of therapy for significant toxicity lasting >2
+weeks mandated discontinuation from the study.
+Dose Reduction
+For grade ≥3 nonhematologic toxicity, except skin toxicity or diarrhea, the gefitinib dose was
+decreased by one dose level and held at the reduced dose or eliminated if patients were already
+at the lowest dose level. For patients with grade 3 or 4 pustular rash, secondarily infected rash,
+or a rash intolerable due to pruritis or aesthetics, gefitinib was held until the rash resolved or
+improved to grade 1 and then restarted at either the same or a reduced dose. Patients who were
+already on 250 mg/d gefitinib were not allowed a dose reduction, and gefitinib was
+discontinued. In the event of grade 3 or 4 diarrhea, gefitinib was held until the diarrhea resolved
+or improved to ≤grade 2, then restarted without dose reduction if the investigator felt there was
+another explanation for the diarrhea, or dose-reduced or discontinued if the diarrhea was related
+to gefitinib. Dose reductions of 25% to 50% capecitabine were made for grade ≥2 PPE and
+diarrhea based on the grade and the number of recurrences of these events. In all dose cohorts,
+celecoxib was held indefinitely for an increase in creatinine of ≥20% from baseline,
+dehydration, or gastrointestinal bleeding. For other grade ≥3 toxicity, celecoxib was held until
+the toxicity became grade ≤1, then restarted at a dose of 200 mg b.i.d., and/or discontinued for
+persistent grade 3 toxicity.
+On-Study Evaluations
+Complete medical histories, physical examinations, assessment of performance status, and
+routine laboratory studies were done before study initiation and weekly during treatment for
+the first 2 cycles and then monthly for subsequent cycles. Routine laboratory studies included
+electrolytes, blood urea nitrogen, serum creatinine, glucose, alkaline phosphatase, total
+bilirubin, and serum transaminases. In patients taking warfarin, a protime was also obtained at
+these time points, as both gefitinib and warfarin can interfere with warfarin metabolism.
+Additional pre-treatment studies also included a urinalysis, serum pregnancy test (as
+appropriate), electrocardiogram, relevant radiographic studies to evaluate sites of disease, and
+measurement of any relevant tumor markers. Patient adherence was monitored by pill counts
+and dosing diaries. Radiographic evaluations for disease status assessment were repeated every
+2 cycles. Tumor responses were classified by the Response Evaluation Criteria in Solid Tumors
+(26). All complete or partial responses were confirmed by repeat assessments done ≥4 and ≥6
+weeks after the criteria for response were met.
+Biological and Correlative Studies
+Pharmacokinetics—To study the pharmacokinetics of gefitinib and capecitabine, whole-
+blood samples were obtained. Under the initial study protocol, these samples were obtained
+during a run-in period before treatment (after a predose of gefitinib given 7 days before cycle
+1 day 1 and after a predose of capecitabine given 5 days before cycle 1 day 1) and on days 1,
+8, and 15 of cycles 1 and 2. For patients enrolled under the modified schedule, pharmacokinetic
+sampling was obtained on days 8, 14, and 21 of cycle 1 only. Plasma concentrations of gefitinib
+and capecitabine and its metabolites were measured by liquid chromatography-tandem mass
+spectrometry. Celecoxib plasma levels were determined by reverse-phase high-performance
+liquid chromatography with fluorometric detection.
+Pharmacodynamics—In consenting patients, changes in metabolic activity were measured
+in punch biopsy specimens by magnetic resonance spectroscopy pretreatment and within 24 h
+of cycle 1 day 14. Tumor tissue (~30 mg) was removed by 4 mm punch biopsy under local
+anesthesia and immediately frozen in liquid nitrogen. The samples were processed using an
+acid extraction method (27). Tissue endogenous metabolites, including glucose, lactate,
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Lam et al. Page 5
+choline intermediates, phospholipids, lipids, and amino acids, were quantitatively assessed
+by 1H NMR at 500 MHz. The quantitative metabolomic data were imported into the R 2.00
+Package software and analyzed using principal component analysis (PCA) and partial least-
+squares discriminant analysis. Both statistical approaches allow for pattern recognition and
+group classification among complex metabolic data sets (28).
+Four patients who were treated at the RP2D underwent whole-body 18FDG-PET scans from
+the base of skull through the proximal femurs with or without computed tomography
+coregistration. The standardized uptake values (SUV) were calculated for hyperactive areas at
+baseline and within 7 days of cycle 1 day 28. PET scans were done in 3 patients who also
+underwent tumor biopsy to assess the aggregate relative and comparative utility of these
+noninvasive measurements of response.
+Results
+Patient Characteristics
+Between April 2002 and November 2006, a total of 39 patients were enrolled. Thirty-seven
+(95%) had prior cytotoxic therapy, 33 (85%) had previous surgery, and 25 (64%) had prior
+radiation therapy. Table 1 summarizes the patient characteristics. Four patients were not
+evaluable for full DLT assessment: 2 patients at dose level −1 due to early death from disease
+progression, 1 patient at dose level 4 due to incorrect dosing of gefitinib in cycle 1, and 1 patient
+in the expanded MTD cohort due to hospitalization for small bowel obstruction and inability
+to complete full dosing. Three patients withdrew from the study: 1 patient after >7 months of
+stable disease, 1 patient to get radiation therapy, and 1 patient for personal preference.
+Dose Escalation and Toxicity
+In all, 168 cycles were administered (median, 2; range, 0–24). Table 2 summarizes the dosing
+regimens for all evaluated cohorts along with the number of patients and cycles completed. Of
+11 patients who were enrolled on the initial treatment schema, 2 of 3 patients treated at dose
+level 1 experienced DLT. Eight additional patients were enrolled at dose level −1, with 2
+patients who did not complete a full treatment cycle and were not evaluable. The remaining 6
+patients at dose level −1 did not experience DLT. On the modified dosing schedule, there were
+no DLTs at dose level 2. At dose level 3, 1 of 6 patients experienced DLT (grade 3 dehydration
+and nausea). At dose level 4, 1 of 7 patients experienced grade 3 PPE and 1 of 7 patients
+experienced a non-PPE-related DLT (grade 3 diarrhea). At dose level 5, 2 of 6 evaluable
+patients developed DLT: 1 patient with grade 3 nausea and vomiting and 1 patient with grade
+3 stomatitis. Based on these data, the MTD was determined to be 250 mg/d gefitinib (days 1–
+14) and 2,000 mg/m2/d capecitabine divided twice daily (days 8–21) in a 28-day cycle. Once
+the MTD was declared, 5 additional patients were enrolled at the RP2D, and no further DLTs
+were noted.
+Overall, only 1 of 168 courses of capecitabine was held for 1 week due to toxicity, but 9 patients
+required dose reduction of one dose level for capecitabine-related toxicity, and 1 patient
+required two dose reductions for PPE. Five patients required holding of celecoxib in 39 cycles
+for increased serum creatinine above retreatment variables. Only 1 patient required dose
+reduction of gefitinib in cycle 2, from 500 to 250 mg, for skin toxicity. This patient remained
+on study for only 2 cycles due to disease progression but tolerated dose reduction without
+further difficulty.
+Table 3 summarizes the relevant and frequent nonhematologic toxicities observed. In addition
+to those listed, other toxicities occurring in ≥10% of patients included dry skin (14.9%), grade
+1 to 2 elevation of creatinine (12.5%), fatigue (21.4%), anorexia (11.9%), and abdominal pain
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Lam et al. Page 6
+(11.3%). Overall, the incidence of specific toxicities was consistent with, and in most cases
+lower than, the previously reported toxicities associated with the individual agents used (29,
+30). The majority of the adverse effects were grade 1 to 2 and did not worsen with subsequent
+cycles. Most patients with PPE had either resolution or reduced toxicity in later cycles.
+Sequential dosing of gefitinib and capecitabine, when compared with concomitant dosing, did
+not result in a higher incidence of adverse events. Overall, <10% of 168 cycles had any
+hematologic toxicity, and only 2 episodes of grade 2 absolute neutrophil count were noted (at
+dose level −1 and at the RP2D). No other grade ≥3 hematologic toxicity was observed.
+Study Modifications
+The protocol was amended to address concerns of DLT in treatment cohort 1. At dose level 1
+(250 mg/d gefitinib, 1,500 mg/m2/d capecitabine, and 400 mg b.i.d. celecoxib), 2 of 3 patients
+developed grade 3 gastrointestinal toxicity (grade 3 diarrhea in 1 patient with history of
+metastatic colon cancer with concomitant type 2 diabetes mellitus and ulcerative colitis and
+grade 3 fatigue and nausea in 1 patient with metastatic pancreatic cancer). No DLT was
+observed among 6 patients who were evaluable for toxicity at dose level −1 (250 mg/d gefitinib,
+1,000 mg/m2/d capecitabine, and 400 mg b.i.d. celecoxib).
+We questioned whether the observed MTD represented the true MTD of this combination,
+because significant comorbid disease could have played a significant role in the adverse events
+observed in both patients with DLT. The first DLT, grade 3 diarrhea, occurred in a patient who
+may have been at increased risk for developing diarrhea due to a history of ulcerative colitis
+(although not clinically active at the time of enrollment). The second DLT, grade 3 nausea and
+fatigue, occurred in a patient with advanced pancreatic cancer and rapid disease progression.
+In addition, at this level, we felt the capecitabine dose (1,000 mg/m2/d) was too low to merit
+further evaluation in phase II clinical trials. We therefore amended the protocol to reevaluate
+the dose and schedule of this combination. Since the initial protocol development, there were
+additional preclinical data suggesting that the efficacy of gefitinib in combination with
+fluoropyrimidines may be improved when gefitinib was administered before a
+fluoropyrimidine (31). In addition, less overlap of gefitinib and capecitabine dosing facilitated
+discrimination between single-agent and combination-induced toxicities. Under the amended
+protocol, gefitinib was given once daily on days 1 to 14 (250 mg/d in cohorts 1–3 and 500 mg/
+d in cohort 4), capecitabine was given twice daily in equally divided doses on days 8 to 21
+(1,000 mg/m2/d in cohort 1, 1,500 mg/m2/d in cohort 2, and 2,000 mg/m2/d in cohorts 3 and
+4), and celecoxib was given as 400 mg b.i.d. on days 1 to 28. Once the MTD was established,
+additional patients were enrolled to further assess toxicities, the recommended dose, and to
+perform additional biologic correlative studies.
+An additional modification to the study occurred in December 2004, when findings of the
+Cardiovascular Safety Committee evaluating the Adenoma Prevention with Celecoxib Trial
+showed that patients randomized to celecoxib had a statistically significant 2.5-fold increase
+in their risk of major fatal and nonfatal cardiovascular events compared with those taking
+placebo. Specifically, 6 of 679 (0.9%) subjects randomized to the placebo arm experienced
+cardiovascular events compared with 35 of 1,356 (2.6%) of subjects who received celecoxib
+(32). Although the cardiovascular risks associated with celecoxib were low, they were serious
+and sometimes life-threatening. As such, we felt that the potential cardiovascular risks of
+celecoxib limited the therapeutic ratio of the combination proposed and opted to remove
+celecoxib from the protocol for subsequent patients.
+Antitumor Activity
+Thirty-three patients were evaluable for disease response. One patient had a confirmed partial
+response and 14 maintained stable disease for >2 cycles (median, 4 months; range, 3–24
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Lam et al. Page 7
+months). The patient with confirmed partial response was a 60-year-old male with recurrent
+cholangiocarcinoma who had prior surgical resection and irradiation (5,400 cGy in 25
+fractions) with adjuvant capecitabine on days of radiation. He remained stable for ~7 months
+before progression in the liver and lymph nodes. His radiologic evaluation at study entry was
+notable for substantial uptake on PET scan as well as para-aortic lymph node enlargement on
+computed tomography scan. On early follow-up scans, the area of soft tissue noted in the
+gallbladder fossa remained stable. By the 8th cycle and beyond, there was no detectable
+evidence of disease recurrence or metastasis by either computed tomography or PET scan.
+After completing 12 cycles, the patient opted to discontinue therapy, because he no longer had
+any evidence of discernable disease. He tolerated protocol therapy well, with only mild and
+reversible adverse effects. He was followed closely off therapy and maintained stable disease
+for another 15 months before recurrence was again noted. Another patient, a 72-year-old female
+with metastatic NSCLC who had progressed previously on single-agent gefitinib, maintained
+stable disease for 23 cycles. Her EGFR mutation status was not known.
+Pharmacokinetic and Pharmacodynamic Evaluations
+Pharmacokinetics—As shown in Table 4B, there was a dose-dependent increase in the area
+under the curve (AUC) of capecitabine and of 5-fluoro-deoxyuridine, the active metabolite of
+capecitabine. Although there was no significant difference in C of capecitabine between
+max
+1,000 and 2,000 mg/m2, there was a dose-dependent, linear increase in 5-fluoro-deoxyuridine
+C . Overall, there were no significant effects of gefitinib on the AUC, C , t , and max max 1/2
+clearance of capecitabine when administered alone (run-in day) or in combination with
+gefitinib (cycle 1 day 1 as shown in Table 4A). Capecitabine and 5-fluoro-deoxyuridine AUC
+and C levels were consistent between doses (days 8, 15, and 21) at the 1,500 mg/m2 dose
+max
+level, showing no difference between these variables throughout the cycle (data not shown).
+Similarly, capecitabine did not affect the trough levels of gefitinib across dose levels. Gefitinib
+accumulated in a dose- and time-dependent manner irrespective of capecitabine dosing (Fig.
+1). Neither capecitabine nor gefitinib affected steady-state plasma trough levels of celecoxib
+across any of the doses tested (data not shown).
+Magnetic Resonance Spectroscopy Analysis
+An exploratory study was done to evaluate NMR-based metabolomics on 10 samples from 5
+patients with easily accessible tissue amenable to punch biopsy: 4 women with breast cancer
+and 1 man with melanoma. By PCA, the changes in metabolic profile allowed for group
+clustering visualization among patients (Fig. 2A).
+The metabolic profile in patients with breast cancer (1–3 and 5) were different from the
+melanoma patient (4) at baseline (black triangles) as assessed by PCA. The profile from the
+patient with melanoma differed, with an increased lipid profile compared with the patients with
+breast cancer. There was also some group separation after cycle 1 (gray circles) in the breast
+cancer patients despite a small number of samples analyzed. Patients 1 to 3 are clustered in the
+middle of the PCA score and showed a metabolic response that mimics gefitinib-induced
+changes seen in EGFR-positive cell lines in vitro. These 3 patients remained on the study for
+3, 2, and 4 treatment cycles, respectively. Patient 5 showed less metabolic response and is
+clearly separated in the PCA score (Fig. 2A); this patient had clear computed tomography-
+proven disease progression immediately after cycle 2. From 37 metabolites analyzed, partial
+least-squares discriminant analysis discriminated six metabolites in patients 1 to 3 compared
+with patient 5 over time. The strongest predictors for metabolic response were lactate,
+glutamine, phosphatidylcholine, and triglycerides followed by glucose and cholesterol (Fig.
+2B). In general, decreased levels of lactate, phosphatidylcholine, and triglycerides and
+increased levels of glucose and glutamine after 2 weeks of treatment may suggest predictors
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Lam et al. Page 8
+for metabolic response and more prolonged stable disease, although the small sample size limits
+significant conclusions or validation in this population.
+18FDG-PET Scanning
+Six patients underwent 18FDG-PET scanning pretreatment and post-treatment in an attempt to
+explore the potential relationship between imaging and 1H NMR metabolomics by
+spectroscopy. Figure 2C shows that, in 5 patients, SUV of the axillary lymph nodes on PET
+scan is matched with NMR data on biopsies from the same anatomic region. For patient 6, who
+was able to undergo serial PET scanning, the mean SUV from the lower neck (cycle 1), the
+left axillary lymph nodes (cycle 2), and mediastinal nodules (cycle 4) are reported. In this
+patient, the mean SUV of involved regions decreased pretreatment and post-treatment in cycles
+1 and 2, but increased following cycle 4, corresponding to progression of disease. This patient
+did not have disease amenable to simple biopsy, so only FDG-PET results are reported. In 4
+of 5 PET-imaged patients, the mean SUV decreased from baseline to the end of cycle 1.
+Intratumoral glucose concentrations increased in 2 of these patients and decreased in the other
+2 patients, whereas lactate concentrations decreased in 3 patients and increased in 2 patients.
+Discussion
+First-line chemotherapy for metastatic colorectal cancer commonly involves 5-FU in
+combination with either oxaliplatin or irinotecan. Currently, the efficacy of second-line therapy
+with either oxaliplatin or irinotecan is limited. For example, the response rate for second-line
+single-agent oxaliplatin is only 10% (33). Clearly, there is a need for more effective
+chemotherapy for patients who relapse after or have poor response to first-line treatment. There
+are a variety published and ongoing clinical trials studying gefitinib as monotherapy (34) or in
+combination with anthracyclines, taxanes, or platinum-based therapies (35,36). There are also
+a significant number of recent studies evaluating capecitabine in combination with
+cyclophosphamide and methotrexate (37), oxaliplatin (38,39), oxaliplatin and erlotinib (40),
+paclitaxel (41), gemcitabine (42,43), gemcitabine and vinorelbine (44), and vinorelbine (45).
+The utility of this regimen was explored in an initial attempt to develop new treatment
+approaches for patients with colorectal cancer who have progressed after combination therapy
+with 5-FU and either oxaliplatin or irinotecan.
+The rational basis of the combination of gefitinib and capecitabine has been confirmed in
+preclinical studies (46). In a phase I study of gefitinib and capecitabine in conjunction with
+radiation therapy for patients with pancreatic and rectal cancer, increased toxicity was
+observed. The magnitude of effect from radiation therapy in this study was unclear, although
+our findings suggest that radiation played a prominent role in the toxicity noted (47).
+This phase I study showed that the combination of gefitinib and capecitabine is well tolerated
+and can be administered easily in the outpatient setting as an all-oral regimen. DLTs were
+readily reversible and consistent with each component of therapy, primarily gastrointestinal
+effects (nausea, diarrhea, stomatitis, and dehydration) and skin toxicity, all of which are well-
+described effects of both gefitinib and capecitabine. The recommended doses for further studies
+for this 28-day regimen are 250 mg/d gefitinib on days 1 to 14 and 2,000 mg/m2/d capecitabine
+divided twice daily on days 8 to 21.
+As predicted, there were no significant pharmacokinetic interactions identified between the
+agents used in this trial. Dose-dependent, predictable linear increases in capecitabine and 5-
+fluoro-deoxyuridine, the active metabolite of capecitabine, were observed, and dose-
+proportional increases in gefitinib were consistent across dose levels. Although celecoxib was
+eliminated from the regimen due to safety concerns, we observed no interaction between
+gefitinib and celecoxib at steady state as evidenced by the lack of change in celecoxib levels
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Lam et al. Page 9
+when the gefitinib dose was doubled from 1,000 to 2,000 mg/m2. As newer-generation
+cycloxygenase-2 inhibitors are developed, additional studies will be important in evaluating
+their utility in combination regimens such as this.
+A unique application of metabolomics technology was conducted in 5 patients in this study
+and showed potential to use metabolic response to monitor responsiveness to targeted treatment
+and to measure the relative contribution of each component of a combination treatment regimen
+for future studies. Several potential metabolic markers of response identified were decreased
+lactate (a marker of tumor glycolysis), decreased phosphatidylcholine (a marker of membrane
+synthesis), and decreased triglycerides and cholesterol (measuring tumor lipogenesis), with
+increased glucose and glutamine concentrations in biopsies of breast cancer patients. These
+findings were consistent with 18FDG-PET findings done on the same patients and suggest that
+a combination of metabolic analyses may be useful in assessing therapeutic response; however,
+there did not appear to be a relationship between the metabolic markers and 18FDG-PET
+findings in the patient with melanoma who progressed after 2 cycles. These metabolites may
+provide mechanistic insights of gefitinib effects on cellular metabolic activity and may serve
+to guide future therapeutic trials to better assess the relative contributions of each component
+of therapy. As recently shown by 18FDG-PET studies on glucose uptake, targeted drug
+regimens may provide metabolic restriction and up-regulation and do not act as cytotoxics
+(24,48). It will be valuable to further validate this metabolomics approach in tissues and body
+fluids in a larger patient population to better understand and establish the clinical utility of
+these applications.
+Although further studies are needed to assess clinical activity, this therapy showed some
+suggestion of activity against a variety of advanced solid tumors, including colorectal, breast,
+NSCLC, pancreatic, and cholangiocarcinoma. In this study, 4 of 12 (33.3%) patients with
+colorectal cancer had stable disease (duration of 4 months). Both (100%) patients with
+cholangiocarcinoma had either stable disease (duration of 12 months) or a confirmed partial
+response lasting over 12 months. Another patient with NSCLC who had progression on single-
+agent gefitinib experienced prolonged stable disease for 23 cycles (21 months), suggesting that
+lack of response to single-agent gefitinib may not preclude response when this agent is used
+in combination. Although this regimen was initially conceived as a novel approach for
+treatment of refractory colorectal cancers, our results suggest that these other tumor types may
+be excellent targets for disease-directed trials as well.
+Acknowledgments
+Grant support: National Cancer Institute, NIH grants U01 CA099176, R21 CA108624, and P30 CA046934 and
+contract N01-C0-12400 (22XS047A-P3358). Gefitinib was provided by the Division of Cancer Treatment and
+Diagnosis at the National Cancer Institute under a Cooperative Research and Development Agreement between
+AstraZeneca and the Division of Cancer Treatment and Diagnosis.
+References
+1. Van der Geer P, Hunter T, Lindberg RA. Receptor protein-tyrosine kinases and their signal transduction
+pathways. Annu Rev Cell Biol 1994;10:251–337. [PubMed: 7888178]
+2. Radinsky R, Risin S, Fan D, et al. Level and function of epidermal growth factor receptor predict the
+metastatic potential of human colon carcinoma cells. Clin Cancer Res 1995;1:19–31. [PubMed:
+9815883]
+3. Grugel S, Finkenzellar G, Weindel K, et al. Both v-Ha-Ras and v-Raf stimulate expression of vascular
+endothelial growth factor in NIH 3T3 cells. J Biol Chem 1995;270:25915–9. [PubMed: 7592779]
+4. Baselga J, Herbst R, LoRusso P, et al. Continuous administration of ZD1839 (Iressa), a novel oral
+epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI), in patients with five selected
+tumor types: evidence of activity and good tolerability [abstract 686]. Proc Am Soc Clin Oncol 2000;19
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Lam et al. Page 10
+5. Negoro S, Nakagawa K, Fukuoka M, et al. Final results of a phase 1 intermittent dose-escalation trial
+of ZD1839 (`Iressa') in Japanese patients with various solid tumors [abstract 1292]. Proc Am Soc Clin
+Oncol 2001;20
+6. Cappuzzo F, Giovanna F, Giulio M, et al. Clinical experience with gefitinib: an update. Crit Rev Oncol
+Hematol 2006;58:31–45. [PubMed: 16531062]
+7. Thatcher N, Chang A, Parikh P, et al. ISEL: a phase III survival study comparing gefitinib (IRESSA)
+plus best supportive care (BSC) with placebo plus BSC, in patients with advanced non-small-cell lung
+cancer (NSCLC) who had received one or two prior chemotherapy regimens. Lung Cancer 2005;49:s4.
+8. Jun.. 2005 FDA Alert for Healthcare Professionals: gefitinib (marketed as Iressa)
+9. Lynch TJ, Bell DW, Sordella R, et al. Activating mutations in the epidermal growth factor receptor
+underlying responsiveness of non-small-cell lung cancer to gefitinib. N Engl J Med 2004;350:2129–
+39. [PubMed: 15118073]
+10. Paez JG, Janne PA, Lee JC, et al. EGFR mutations in lung cancer: correlation with clinical response
+to gefitinib therapy. Science 2004;304:1497–500. [PubMed: 15118125]
+11. Roche Laboratories. Xeloda (capecitabine) prescribing information. 1998. updated 2000, 2004
+12. Hoff PM, Ansari R, Batist G, et al. Comparison of oral capecitabine versus intravenous fluorouracil
+plus leucovorin as first-line treatment in 605 patients with metastatic colorectal cancer: results of a
+randomized phase III study. J Clin Oncol 2001;19:2282–92. [PubMed: 11304782]
+13. Hoff P, Abbruzzese JL, Medgyesy D, Thomas M, Carter S. Phase II study of Xeloda (capecitabine)
+in patients with metastatic colorectal cancer demonstrating progression on 5-FU therapy [abstract
+993]. Proc Am Soc Clin Oncol 2000;19
+14. Steinbach G, Lynch PM, Phillips RKS, et al. The effect of celexocib, a cycloxygenase-2 inhibitor, in
+familial adenomatous polyposis. N Engl J Med 2000;342:1946–52. [PubMed: 10874062]
+15. Liu XH, Rose DP. Differential expression and regulation of cyclooxygenase-1 and -2 in two human
+breast cancer cell lines. Cancer Res 1996;56:5125–7. [PubMed: 8912844]
+16. Form DM, Auerbach R. PGE2 and angiogenesis. Proc Soc Exp Biol Med 1983;172:214–8. [PubMed:
+6572402]
+17. Hanahan D, Folkman J. Patterns and emerging mechanisms of the angiogenic switch during
+tumorigenesis. Cell 1996;86:353–64. [PubMed: 8756718]
+18. Cheng T, Cao W, Wen R, Steinberg RH, LaVail MM. Prostaglandin E2 induces vascular endothelial
+growth factor mRNA expression in cultured rat Muller cells. Invest Ophthalmol Vis Sci 1998;39:581–
+91. [PubMed: 9501870]
+19. Hoper MM, Voelkel NF, Bates TO, et al. Prostaglandins induce vascular endothelial growth factor
+in a human monocytic cell line and rat lungs via cAMP. Am J Respir Cell Mol Biol 1997;17:748–
+56. [PubMed: 9409562]
+20. Jones MK, Wang H, Peskar BM, et al. Inhibition of angiogenesis by nonsteroidal anti-inflammatory
+drugs: insight into mechanisms and implications for cancer growth and ulcer healing. Nat Med
+1999;5:1418–23. [PubMed: 10581086]
+21. Uefuji K, Ichikura T, Sninomiya N, Mochizuki H. Inhibition of gastric cancer cell growth by JTE-522,
+a specific cyclooxygenase-2 inhibitor: effects on apoptosis-related oncoproteins and vascular
+endothelial growth factor [abstract 959]. Proc Am Soc Clin Oncol 2000;19
+22. Kostakoglu L, Agress H Jr. Goldsmith SJ. Clinical role of FDG PET in evaluation of cancer patients.
+Radiographics 2003;23:315–40. [PubMed: 12640150]
+23. Avril NE, Weber WA. Monitoring response to treatment in patients utilizing PET. Radiol Clin North
+Am 2005;43:189–204. [PubMed: 15693656]
+24. Glunde K, Serkova NJ. Therapeutic targets and biomarkers identified in cancer choline phospholipid
+metabolism. Pharmacogenomics 2006;7:1109–23. [PubMed: 17054420]
+25. Morvan D, Demidem A. Metabolomics by proton nuclear magnetic resonance spectroscopy of the
+response to chloroethylnitrosourea reveals drug efficacy and tumor adaptive metabolic pathways.
+Cancer Res 2007;67:150–9.
+26. Affe CC. Measures of response: RECIST, WHO, and new alternatives. J Clin Oncol 2006;24:3245–
+51. [PubMed: 16829648]
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Lam et al. Page 11
+27. Serkova N, Fuller TF, Klawitter J, Freise CE, Niemann CU. H-NMR-based metabolic signatures of
+mild and severe ischemia/reperfusion injury in rat kidney transplants. Kidney Int 2005;67:1142–51.
+[PubMed: 15698456]
+28. Eriksson, L.; Johansson, E.; Kettaneh-Wold, N.; Wold, S. multi- and megavariate data analysis.
+Umetrics Academy Press; Umea: 2001. PCA and PLS.
+29. Product Information: Iressa®, gefitinib tablets. AstraZeneca Pharmaceuticals; Wilmington (DE):
+2005.
+30. Product Information: Xeloda®, capecitabine tablets. Roche Laboratories; Nutley (NJ): 2005.
+31. Dubreil A, Magne N, Fischel JL, et al. Cell cycle arrest induced by the selective epidermal growth
+factor receptor tyrosine kinase ZD1839 modifies the activity of the key enzyme linked to
+fluoropyrimidine activity. Proc Am Assoc Cancer Res 2002;43
+32. Solomon S, McMurray J, Pfeffer M, et al. Cardiovascular risk associated with celecoxib in a clinical
+trial for colorectal adenoma prevention. N Engl J Med 2005;352:1071–80. [PubMed: 15713944]
+33. Machover D, Diaz-Rubio E, deGramont A, et al. Two consecutive phase II studies of oxaliplatin (L-
+OHP) for treatment of patients with advanced colorectal carcinoma who were resistant to previous
+treatment with fluoropyrimidines. Ann Oncol 1996;7:95–8. [PubMed: 9081400]
+34. Cufer T, Vrdoljak E, Gaafar R, et al. Phase II, open-label, randomized study (SIGN) of single gefitinib
+(IRESSA) or docetaxel as second-line therapy in patients with advanced (stage IIIb or IV) non-small-
+cell-lung cancer. Anticancer Drugs 2006;17:401–9. [PubMed: 16549997]
+35. Iressa® (gefitinib) Clinical Trial Report Summaries. AstraZeneca Pharmaceuticals; Wilmington
+(DE): 2006.
+36. Wilding G, Soulie P, Trump D, et al. Results from a pilot phase I trial of gefitinib combined with
+docetaxel and estramustine in patients with hormone-refractory prostate cancer. Cancer
+2006;106:1917–24. [PubMed: 16568471]
+37. Mariani G, Petrelli F, Zambetti M, et al. Capecitabine/cyclophosphamide/methotrexate for patients
+with metastatic breast cancer: a dose-finding, feasibility, and efficacy study. Clin Breast Cancer
+2006;7:321–5. [PubMed: 17092399]
+38. Martoni A, Pinto C, Fabio F, et al. Capecitabine plus oxaliplatin (Xelox) versus protracted 5-
+fluorouracil venous infusion plus oxaliplatin (Pvifox) as first-line treatment in advanced colorectal
+cancer: a GOAM phase II randomized study (FOCA trial). Eur J Cancer 10 Epub 2006.
+39. Souglakos J, Kalykaki A, Vamvakas L, et al. Phase II trial of capecitabine and oxaliplatin (CAPOX)
+plus cetuximab in patients with metastatic colorectal cancer who progressed after oxaliplatin-based
+chemotherapy. Ann Oncol 1 Epub 2006.
+40. Meyerhardt J, Zhu A, Enzinger P, et al. Phase II study of capecitabine, oxaliplatin, erlotinib in
+previously treated patients with metastatic colorectal cancer. J Clin Oncol 2006;24:1892–7.
+[PubMed: 16622264]
+41. Bentzen J, Hansen H. Phase II analysis of paclitaxel and capecitabine in the treatment of recurrent or
+disseminated squamous cell carcinoma of the head and neck region. Head Neck. Epub 2006.
+42. Schoppmeyer K, Miethe S, Wiedmann M, et al. Radiochemotherapy followed by gemcitabine and
+capecitabine in extrahepatic bile duct cancer: a phase I/II trial. Am J Clin Oncol 2006;29:576–82.
+[PubMed: 17148994]
+43. Rodney A, Dieringer P, Mathew P, et al. Phase II study of capecitabine combined with gemcitabine
+in the treatment of androgen-independent prostate cancer previously treated with taxanes. Cancer.
+Epub 2006.
+44. Lee D, Han J, Yoon S, et al. A pilot trial of gemcitabine and vinorelbine plus capecitabine in locally
+advanced or metastatic non-small-cell lung cancer. Am J Clin Oncol 2006;29:143–7. [PubMed:
+16601432]
+45. Nole F, Catania C, Munzone E, et al. Capecitabine/vinorelbine: an effective and well-tolerated
+regimen for women with pretreated advanced-stage breast cancer. Clin Breast Cancer 2006;6:518–
+24. [PubMed: 16595035]
+46. Magne N, Fischel J, Dubreuil A, et al. ZD1839 (Iressa®) modifies the activity of key enzymes linked
+to fluoropyrimidine activity: rational basis for a new combination therapy with capecitabine. Clin
+Cancer Res 2003;9:4735–42. [PubMed: 14581344]
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Lam et al. Page 12
+47. Czito B, Willett C, Bendell J, et al. Increased toxicity with gefitinib, capecitabine, and radiation
+therapy in pancreatic and rectal cancer: phase I trial results. J Clin Oncol 2006;24:656–62. [PubMed:
+16446337]
+48. Su H, Bodenstein C, Dumont RA, et al. Monitoring tumor glucose utilization by positron emission
+tomography for the prediction of treatment response to epidermal growth factor receptor kinase
+inhibitors. Clin Cancer Res 2006;12:5659–67. [PubMed: 17020967]
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+Lam et al. Page 13
+Figure 1.
+A, plasma pharmacokinetic interactions between capecitabine and gefitinib. Top, no significant
+effect of capecitabine dose on gefitinib plasma trough levels when gefitinib is administered at
+250 mg/d; bottom, dose-proportional increase of the plasma trough levels of gefitinib given at
+250 and 500 mg/d when administered in combination with the recommended dose of
+capecitabine at 2,000 mg/m2/d. B, plasma gefitinib trough levels in the absence (run-in day 1)
+and presence [cycle 1, day 1 (C1D1), day 8 (C1D8), and day 15 (C1D15)] of capecitabine
+therapy (1,000 mg/m2). Gefitinib dose was 250 mg/d and plasma trough levels on cycle 1 days
+8 and 15 are significantly elevated when compared with the run-in period and cycle 1 day 1
+levels (P < 0.05).
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 14 ---
+Lam et al. Page 14
+Figure 2.
+A, PCA scores on metabolomic data sets from 5 patients before (black triangles; baseline) and
+14 d after starting treatment (gray circles; cycle 1, day 14). Each point was derived from a
+metabolic data set of 37 endogenous metabolites. B, time-sensitive changes in metabolites from
+treated patients with breast cancer. Six metabolites were distinguished by the partial least-
+squares discriminant analysis to differ among patients 1 to 3 (prolonged stable disease) and
+patient 5 (progressive disease immediately after cycle 2). All values are represented as
+normalized metabolite concentrations and expressed as micromole per gram biopsy. Patient 4
+(melanoma) was excluded from the partial least-squares discriminant analysis due to the
+entirely different metabolic profile observed. C, metabolic data on 18FDG uptake from PET
+scans (patients 1 and 3–6) in conjunction with intratumoral concentrations of glucose and
+lactate (patients 1–5) from 1H NMR metabolomics studies. For patients 1 to 5, the SUV was
+reported for left axillary nodes to compare with NMR data on biopsies from same anatomic
+regions. For patient 6, the mean SUV on left lower neck (cycle 1), left axillary lymph nodes
+(cycle 2), and mediastinal lesions (cycle 4) are reported.
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Lam et al. Page 15
+Table 1
+Patient characteristics
+n (%)
+Eligible patients 39
+Males 21
+Females 18
+Median (range) age (y) 60 (25–80)
+Eastern Cooperative Oncology Group performance status
+0 15 (38)
+1 25 (64)
+Primary tumor site
+Colorectal 12
+Breast 6
+Pancreatic 4
+Head and neck 2
+Cholangiocarcinoma 2
+Bladder 2
+Ovarian 2
+Adenocarcinoma, unknown primary 2
+NSCLC 2
+Other* 4
+Prior cytotoxic therapy 37 (95)
+1 regimen 3
+2 regimens 13
+3 regimens 8
+≥4 regimens 13
+Prior surgery 33 (85)
+Prior radiation therapy 25 (64)
+*
+Other tumor types included 1 patient each with hepatocellular, renal cell carcinoma, endometrial, and melanoma.
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Lam et al. Page 16
+2
+elbaT
+emehcs
+noitalacse
+esoD
+selcyc
+.oN
+TLD
+htiw
+stneitap
+.oN
+dellorne
+stneitap
+.oN
+).d.i.b
+gm(
+esod
+bixoceleC
+)d/2m/gm(
+esod
+enibaticepaC
+)d/gm(
+esod
+binitifeG
+level
+esoD
+12
+0
+8
+)12–1
+syad(
+004
+)41–1
+syad(
+000,1
+)12–1
+syad(
+052
+*1−
+5
+2
+3
+)12–1
+syad(
+004
+)41–1
+syad(
+005,1
+)12–1
+syad(
+052
+*1
+22
+0
+3
+)82–1
+syad(
+004
+)12–8
+syad(
+000,1
+)41–1
+syad(
+052
+†2
+32
+1
+6
+)82–1
+syad(
+004
+)12–8
+syad(
+005,1
+)41–1
+syad(
+052
+†3
+54
+1
+7
+)82–1
+syad(
+004
+)12–8
+syad(
+000,2
+)41–1
+syad(
+052
+†4
+83
+2
+7
+)82–1
+syad(
+004
+)12–8
+syad(
+000,2
+)41–1
+syad(
+005
+†5
+41
+0
+5
+—
+)12–8
+syad(
+000,2
+)41–1
+syad(
+052
+D2PR
+*
+.eludehcs
+noitalacse
+esod
+laitinI
+†
+.locotorp
+gnisod
+deifidoM
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+
+--- Page 17 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Lam et al. Page 17
+3
+elbaT
+level
+esod
+yb
+,stneitap
+fo
+%01≥
+ni
+gnirrucco
+seiticixot
+cigolotamehnon
+,detaler-tnemtaerT
+G/G/G/G
+selcyC
+n
+level
+esoD
+4
+3
+2
+1
+SFH
+hsaR
+gnitimoV
+aesuaN
+sititamotS
+aehrraiD
+0/0/0/3
+0/0/1/9
+0/2/1/1
+0/1/0/6
+0/0/0/4
+0/0/3/2
+12
+8
+1−
+0/0/1/0
+0/0/0/3
+0/0/1/0
+0/0/0/0
+0/0/0/0
+0/1/1/2
+5
+3
+1
+0/0/1/1
+0/0/2/4
+0/0/0/2
+0/1/1/1
+0/0/3/3
+0/0/3/3
+22
+3
+2
+0/2/0/2
+0/0/2/8
+0/0/2/0
+0/1/1/4
+0/0/0/0
+0/0/2/4
+32
+6
+3
+0/0/4/01
+0/1/0/3
+0/1/0/2
+0/3/1/4
+0/0/6/31
+0/2/3/9
+54
+7
+4
+0/0/2/2
+0/0/1/4
+0/2/1/1
+0/2/1/7
+0/0/4/8
+0/0/4/21
+83
+7
+5
+0/0/1/2
+0/0/0/2
+0/0/1/3
+0/0/3/4
+0/0/2/1
+0/0/1/4
+41
+5
+D2PR
+0/2/9/02
+0/1/6/33
+0/5/6/9
+0/8/7/62
+0/0/51/92
+0/3/71/63
+861
+93
+latoT
+861/92
+861/93
+861/51
+861/33
+861/44
+861/35
+G/G 2
+1
+861/2
+861/1
+861/5
+861/8
+0
+861/3
+G/G 4
+3
+)5.81(
+861/13
+)8.32(
+861/04
+)9.11(
+861/02
+)4.42(
+861/14
+)2.62(
+861/04
+)3.33(
+861/65
+)%(
+G/G 4
+1
+.0.2
+noisrev
+airetirC
+yticixoT
+nommoC
+etutitsnI
+recnaC
+lanoitaN
+eht
+ot
+gnidrocca
+derusaem
+erew
+seiticixot
+llA
+:ETON
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.
+
+--- Page 18 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Lam et al. Page 18
+Table 4
+(A) Effect of gefitinib on the pharmacokinetics of capecitabine and its active metabolite 5-fluorouridine*
+Pharmacokinetic variable Capecitabine 5-Fluorouridine
+Alone Combination Alone Combination
+AUC (μmol/L h) 12.3 ± 4.9 13.2 ± 8.1 35.7 ± 12.6 25.5 ± 14.5
+0→∞
+C (μmol/L) 12.1 ± 10.2 10.9 ± 9.9 19.4 ± 9.6 13.0 ± 9.2
+max
+t λ (h) 0.93 ± 0.92 1.09 ± 0.80 0.80 ± 0.19 0.71 ± 0.19
+1/2
+V/F (L) 363 ± 364 411 ± 295 — —
+z
+CL/F (L/h) 272 ± 120 300 ± 204 — —
+(B) Capecitabine and 5-fluorouridine AUC and C values on cycle 1 day 8 at capecitabine 1,000, 1,500,
+max
+and 2,000 mg/m2 dose levels
+Dose level
+1,000 mg/m2 1,500 mg/m2 2,000 mg/m2
+Capecitabine
+AUC
+0→4 h
+(μmol/L h) 6.7 ± 8.5 8.7 ± 5.1 14.8 ± 9.8
+C
+max
+(μmol/L) 6.4 ± 8.6 6.0 ± 2.8 11.2 ± 10.9
+5-Fluorouridine
+AUC
+0→4 h
+(μmol/L h) 19.8 ± 15.6 33.2 ± 10.5 44.9 ± 22.5
+C
+max
+(μmol/L) 11.2 ± 9.6 20.3 ± 9.9 24.3 ± 13.9
+* Mean ± SD in 8 patients treated at 1,000 mg/m2 capecitabine for the run-in pharmacokinetic study (Pre) and in combination on C1D1 when also
+dosed with 250 mg gefitinib.
+Mol Cancer Ther. Author manuscript; available in PMC 2010 January 29.

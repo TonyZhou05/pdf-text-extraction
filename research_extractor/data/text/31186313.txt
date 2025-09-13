@@ -1,0 +1,1397 @@
+Source: 31186313.pdf
+Extracted on: Fri Sep 12 23:59:28 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Published in final edited form as:
+Clin Cancer Res. 2019 September 15; 25(18): 5475–5484. doi:10.1158/1078-0432.CCR-18-1881.
+A Phase I Trial of the VEGF Receptor Tyrosine Kinase Inhibitor
+Pazopanib in Combination with the MEK Inhibitor Trametinib in
+Advanced Solid Tumors and Differentiated Thyroid Cancers
+Razelle Kurzrock#1, Douglas W. Ball#2,3, Marianna L. Zahurak2, Barry D. Nelkin2, Vivek
+Subbiah1, Shabina Ahmed3, Ashley O’Connor2, Enusha Karunsena2, Rose M. Parkinson2,
+Justin A. Bishop4, Yoonji Ha2, Rajni Sharma4, Christopher D. Gocke2, Ralph Zinner1,
+Michelle A. Rudek2, Steven I. Sherman#1, Nilofer S. Azad#2
+1The University of Texas MD Anderson Cancer Center, Houston, Texas 2The Sidney Kimmel
+Comprehensive Cancer Center, Johns Hopkins University, Baltimore, Maryland 3Division of
+Diabetes Endocrinology and Metabolism, Johns Hopkins University, Baltimore Maryland
+4Department of Pathology, Johns Hopkins University, School of Medicine, Baltimore, Maryland
+# These authors contributed equally to this work.
+Abstract
+Purpose—Differentiated thyroid cancer (DTC) responds to VEGF receptor inhibitors. VEGF
+signals through RAS/RAF/ MEK signaling. We evaluated the safety and efficacy of the VEGF
+receptor inhibitor pazopanib and MEK inhibitor trametinib in advanced solid tumors and DTC.
+Patients and Methods—Patients with advanced solid tumors were enrolled in a phase I,
+multicenter trial with a DTC expansion cohort. Patients received pazopanib 400–800 mg and
+trametinib 1–2 mg daily. Efficacy in the expansion cohort was assessed with objective response
+(OR) at 6 months of treatment.
+Results—Twenty-six patients were enrolled in five dose levels. MTD was not reached; the
+recommended phase II dose was pazopanib 800 mg orally and trametinib 2 mg orally every day.
+Corresponding Author: Nilofer S. Azad, Johns Hopkins University, 1650 Orleans Street, CRB1 Room 4M10, Baltimore, MD 21287.
+Phone: 410-955-8893; Fax: 410-614-9006; nazad2@jhmi.edu.
+Authors’ Contributions
+Conception and design: D.W. Ball, M.L. Zahurak, B.D. Nelkin, V. Subbiah, S. Ahmed, R. Sharma, M.A. Rudek, N.S. Azad
+Development of methodology: D.W. Ball, S. Ahmed, M.A. Rudek, N.S. Azad
+Acquisition of data (provided animals, acquired and managed patients, provided facilities, etc.): D.W. Ball, B.D. Nelkin, V.
+Subbiah, S. Ahmed, E. Karunsena, Y. Ha, C.D. Gocke, R. Zinner, M.A. Rudek, N.S. Azad, S. Sherman
+Analysis and interpretation of data (e.g., statistical analysis, biostatistics, computational analysis): R. Kurzrock, D.W. Ball, M.L.
+Zahurak, V. Subbiah, J.A. Bishop, Y. Ha, C.D. Gocke, R. Zinner, M.A. Rudek, N.S. Azad, S. Sherman
+Writing, review, and/or revision of the manuscript: R. Kurzrock, M.L. Zahurak, B.D. Nelkin, V. Subbiah, J.A. Bishop, C.D. Gocke,
+M.A. Rudek, N.S. Azad, S. Sherman
+Administrative, technical, or material support (i.e., reporting or organizing data, constructing databases): V. Subbiah, A.
+O’Connor, R.M. Parkinson, Y. Ha, N.S. Azad
+Study supervision: D.W. Ball, V. Subbiah, R. Zinner, N.S. Azad
+Disclaimer
+The contents of this article are solely the responsibility of the authors and do not necessarily represent the official view of the Johns
+Hopkins ICTR, NCATS or NIH.
+Note: Supplementary data for this article are available at Clinical Cancer Research Online (http://clincancerres.aacrjournals.org/).
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Kurzrock et al. Page 2
+There was one dose-limiting toxicity on dose level 1 with grade 3 fatigue and muscle weakness.
+Common grade 3 adverse events were elevated transaminases (19%), diarrhea (15%), hypertension
+(12%), and fatigue (8%). Thirteen patients were enrolled in the DTC cohort; OR was 33% (95%
+confidence interval, 9.9, 65.1%) and median progression-free survival was 10.7 months. The
+cohort was terminated after planned interim analysis suggested insufficiently increased activity
+against the historical control of pazopanib alone. Reduction in tumor diameter negatively
+correlated with p-ERK change in tumor (Spearman ρ = −0.71; P = 0.05). NRAS mutation was
+associated with response (Fisher exact P = 0.008).
+Conclusions—Pazopanib + trametinib was tolerable at full single-agent doses with clinical
+activity in DTC but did not achieve the prespecified response rate target.
+Introduction
+The VEGF pathway is an important signaling cascade responsible for angiogenesis, with
+secondary effects that include increasing proliferation and metastasis of many cancers
+including differentiated thyroid cancer (DTC; refs. 1–3). VEGF binds to its ligand receptor,
+VEGF receptors (R) 1–3, which then activates a downstream signaling cascade leading to
+prosurvival signaling and transcription of genes involved in angiogenesis. Like many
+receptor tyrosine kinases, VEGFR1–3 can activate major prosurvival circuits including
+AKT/PI3 K signaling as well as well as RAS signaling. The RAF/MEK/ERK signaling
+pathway is involved in the regulation of normal cell proliferation, survival, and
+differentiation, and this pathway is frequently aberrantly upregulated in a wide number of
+cancers including DTC (4, 5).
+DTC is a highly prevalent cancer with >600,000 patients living with the disease in the
+United States presently (6). The mainstay of therapy for the 90% of patients found with
+early or locally advanced disease is surgery and radioiodine therapy (7, 8). Mutations in
+BRAF and RAS genes, along with rearrangements in RET, TRK, and ALK genes and others
+have been found in the majority (70%) of patients (9). Two approved therapies for advanced,
+radioiodine-refractory DTC, lenvatinib and sorafenib, are multikinase inhibitors targeting
+VEGFR2 in addition to other kinases (10, 11). Pazopanib is an orally available multikinase
+inhibitor of VEGFR, platelet-derived growth factor (PDGF) receptor, KIT, fibroblast growth
+factor (FGF) receptor, and RAF which is approved for advanced renal cell carcinoma and
+advanced refractory soft-tissue sarcoma (12, 13). Phase II clinical trials of pazopanib in
+DTC have also shown activity, with 49% of patients having RECIST partial responses (PR;
+refs. 14, 15).
+MEK inhibitors have been tested less extensively in DTC. Selumetinib, a selective MEK 1/2
+inhibitor, has been tested as a potential redifferentiating agent prior to radioiodine therapy in
+a small study of 20 patients, with PRs in five patients and stable disease in three others (16).
+Our group has previously reported that the combination of trametinib, an orally available
+highly specific inhibitor of MEK1 and MEK2, and pazopanib in thyroid cancer cell lines and
+xenograft models results in synergistic inhibition of tumor growth (17). We hypothesized
+that inhibition of receptor tyrosine kinases VEGFR and PDGFR with the addition of MEK
+inhibitor trametinib could improve clinical benefit for patients with DTC compared with
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Kurzrock et al. Page 3
+pazopanib alone. We enrolled a phase I study of the combination of pazopanib and
+trametinib in all solid tumors with an expansion cohort in DTC at the MTD.
+Patients and Methods
+Study design
+This was an open-label, multicenter [Sidney Kimmel Comprehensive Cancer Center
+(SKCCC) at John Hopkins University (JHU, Baltimore, MD) and The University of Texas
+MD Anderson Comprehensive Cancer Center (MDACC, Houston, TX)] trial funded by the
+National Comprehensive Cancer Network. Patients older than 18 years with advanced solid
+tumors that were refractory to standard-of-care treatment options were eligible for the dose-
+finding cohort of the study, and expansion cohorts for DTC, cholangiocarcinoma, and soft-
+tissue sarcoma were subsequently enrolled at the MTD; here, we report the dose-finding and
+DTC expansion cohorts. Subjects enrolling in the DTC expansion cohort must have had
+progressive disease within 6 months of enrolling in the study as assessed by successive
+imaging and disease that was also amenable to biopsy. Patients with DTC must have had
+radioiodine nonavid lesions or radioiodine avid lesions that have not responded to treatment
+with radioactive iodine [defined as ≥600 millicuries (mCi), last dose at least 6 months prior
+to enrollment]. Other eligibility criteria included the presence of RECIST criteria 1.1
+measurable disease, an Eastern Cooperative Oncology Group performance status ≤1 (or
+Karnofsky performance status ≥60%) and adequate organ function as defined by absolute
+neutrophil count ≥1,500 cells/μL, platelet count ≥100,000 cells/μL, international normalized
+ratio ≤1.2 × upper limit of normal (unless stabilized with anticoagulation therapy and within
+the recommended range for the desired level of anticoagulation), total bilirubin ≤1.5 × upper
+limit of normal (or, in patients with Gilbert syndrome, total bilirubin >1.5 × as long as direct
+bilirubin is normal), and serum creatinine ≤1.5 × upper limit of normal or creatinine
+clearance ≥45 mL/minute and urine protein to creatinine ratio <1, or, if >1,24-hour urine
+protein <1 g (17).
+Evaluation and treatment
+The protocol was approved by the Institutional Review Board at both study sites, and
+complied with the International Ethical Guidelines for Biomedical Research Involving
+Human Subjects and the Declaration of Helsinki. Eligible patients were enrolled centrally at
+the SKCCC at JHU (Baltimore, MD). The trial was registered under ClinicalTrials.gov as .
+All patients provided written informed consent prior to enrollment. The study drugs
+(trametinib and pazopanib) were provided by GlaxoSmithKline (eventually Novartis).
+For the dose-finding cohort, patients received escalating doses of pazopanib [dose levels
+(DL) 1:400 mg; DL 2: 600 mg; DL 3–5: 800 mg] and trametinib (DL 1–3: 1 mg; DL 4: 1.5
+mg; DL5: 2 mg) orally daily every day of a 28-day cycle. Three patients would be treated
+per cohort in a standard 3+3 dose escalation design. If none of the first three patients
+experienced a dose-limiting toxicity (DLT), then the next three would be treated using the
+next higher dose. If one of the first three had a DLT, an additional three patients would be
+enrolled at that level. If only one of six developed a DLT, then the dose would be escalated
+for the next three patients. If two or more of the six had a DLT, then the dose would be
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Kurzrock et al. Page 4
+deescalated to the previous dose (or dose level-1) where an additional three patients would
+be treated. The MTD was defined as the highest dose at which zero or one DLTs are
+observed in six patients. A total of six patients would be treated at the MTD. The expansion
+cohort patients were treated at the MTD established in our initial dose-finding cohort.
+The treatment protocol allowed dose delays or reduction if patients experienced
+unacceptable side effects and adverse reactions related to study drug(s). Patients were
+evaluated every cycle for trial therapy compliance and monitoring of adverse events. The
+NCI Common Terminology Criteria for Adverse Events (CTCAE) version 4.0 was
+implemented for adverse event monitoring. Disease assessments (CT or MRI) were
+performed at baseline and then every other cycle. Response was evaluated according to the
+RECIST, version 1.1 (18). Upon progression of disease, patients were monitored for long-
+term adverse events and survival.
+Study design
+For the dose-finding cohort, the 3+3 dose escalation design had a target toxicity of less than
+30%. For a dose level to be deemed tolerable, at least three patients must have been treated
+for 4 weeks without the development of a DLT prior to treating a new cohort at a higher dose
+level. In addition, all patients defining a dose level as tolerable (i.e., no DLT in cycle 1) must
+have received a minimum of 75% of the intended dose for each study drug during cycle 1.
+For the expansion cohort in DTC, the primary endpoint was objective response (OR) rate by
+6 months of treatment. At study entry, each patient was categorized into one of two subtype
+groups: papillary or follicular/Hurthle cell. On the basis of the phase II clinical trial with
+pazopanib, we expected that the papillary subtype would have a response rate of 33% and
+the follicular/Hurthle cell subtype would have a response rate of 75% (14, 15). An interim
+futility analysis would be conducted after response information was available on the first 12
+patients in the expansion cohort. If the futility boundary was crossed, we would consider
+stopping the study and declaring that the combination was not showing sufficient activity to
+warrant further investigation (Supplementary Methods). The stopping boundary for futility
+was a guideline, however, because the sample size was small. Specifically, the stopping rule
+called for a review if there was a 75% probability that either the response rate in the
+papillary subtype was less than 25% or the response rate in the follicular/Hurthle call
+subtype was less than 67% (Supplementary Table S1).
+Pharmacokinetic analysis
+Pazopanib and trametinib pharmacokinetic (PK) analyses were performed in patients in the
+DTC expansion cohort. A full pazopanib PK profile was obtained after the first dose on
+cycle 1 day 1 through 24 hours. In addition, pazopanib and trametinib trough concentration
+were obtained on cycle 1 day 15 and at the time of second tumor biopsy (i.e., C2D1 ± 48
+hours). Plasma levels of total trametinib and pazopanib were measured using a validated
+LC/MS-MS method. Briefly, trametinib was extracted from plasma using acetonitrile.
+Chromatographic separation was achieved with a Waters X-Terra C18 column (3.5 μm, 2.1 ×
+50 mm) and isocratic elution with an acetonitrile-water-formic acid (70:30:0.1, v/v/v)
+mobile phase over a 3-minute total analytical run time. An AB Sciex 5500 triple quadrupole
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Kurzrock et al. Page 5
+mass spectrometer operated in positive electrospray ionization mode was used for the
+detection of trametinib. The assay range was 1–200 ng/mL. Briefly, pazopanib was extracted
+from plasma using acetonitrile. Chromatographic separation was achieved with a Waters X-
+Terra C18 column (3.5 μm, 2.1 × 50 mm) and isocratic elution with an ammonium acetate-
+acetonitrile containing 0.1% formic acid (40:60, v/v) mobile phase over a 3-minute total
+analytical run time. An AB Sciex 5500 triple quadrupole mass spectrometer operated in
+positive electrospray ionization mode was used for the detection of pazopanib. The assay
+range was 0.010–1 μg/mL, with a 1:100 dilution allowing for quantitation up to 100 μg/mL.
+Quality assurance samples were assayed with each analytic run and were within 15% of the
+nominal concentration for both assays. Individual pazopanib plasma concentrations were
+analyzed by standard noncompartmental PK methods using Phoenix WinNonlin v7.0
+(Certara LP). Maximum plasma concentration (C ) was the observed maximum value.
+max
+Area under the plasma concentration time curve (AUC) was calculated using the linear
+trapezoidal rule. Steady-state trough concentrations (C ) were calculated as an average
+ss,min
+of samples obtained on cycle 1 day 15 and at the time of pharmacodynamic (PD) studies.
+PD analysis
+Fresh tumor biopsies were obtained just prior to therapy and after one cycle of combination
+therapy in the DTC expansion cohort. Biopsies were processed using standard formalin
+fixation, paraffin embedding at the appropriate histology core facility for each institution and
+then stored at room temperature prior to analysis. IHC with pERK was performed using anti-
+phospho-p44/42 MAPK (ERK1/2; Thr202/Tyr204; 20G11; 4376S, Cell Signaling
+Technology) rabbit mAb. Staining was performed on an automated staining system (Leica-
+Bond, Leica Microsystem Inc.). Tissue sections (4–5 μm thick) from paraffin-embedded
+formalin-fixed tissue were deparaffinized and prepared for staining. Sections were incubated
+with primary antibody (1:400 dilution) for 15 minutes followed by incubation with a biotin-
+free HRP-conjugated secondary antibody. A brown signal was developed with DAB-
+detection according to the manufacturer’s instructions (Leica Microsystems Inc.). Staining
+was scored by pathologist (J.A. Bishop) who applied a HistoScore (H-score) calculated by
+the percentage of tumor cells staining multiplied by the intensity of staining (on a scale of 0–
+3; ref. 19). Only nuclear staining was regarded as positive.
+Mutational analysis
+DTC cohort patients had hotspot mutational sequencing on tumor DNA from fresh biopsy
+specimens or archival tissue (if fresh biopsy tissue was not available) performed by
+nextgeneration sequencing using AmpliSeq Cancer Hotspot Panel (v2) for targeted
+multigene amplification, as described previously (20, 21). Briefly, we used the Ion
+AmpliSeq Library Kit 2.0 for library preparation, Ion Personal Genome Machine Hi-Q OT2
+Kit and Ion OneTouch 2 Instrument for emulsion PCR and template preparation, and the Ion
+Personal Genome Machine Hi-Q Sequencing Kit with the Ion 318 Chip and Personal
+Genome Machine as the sequencing platform (Life Technologies). The DNA input ranged
+from 1 ng to 30 ng, as measured by Qubit 20 Fluorometer (Life Technologies). Up to eight
+specimens were barcoded using Ion Xpress Barcode Adapters (Life Technologies) for each
+Ion 318 chip. One to three controls (a nontemplate control, a normal peripheral blood
+control from a male, and/or positive control specimens) were included in each chip. Positive
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Kurzrock et al. Page 6
+controls were mixed DNA specimens from several cell lines with known mutations as
+reported previously.
+Statistical methods
+Proportions are reported with exact 95% binomial confidence intervals (CIs). Spearman
+correlation coefficient was used to assess the association between percent reduction in tumor
+diameter by RECIST and change in p-ERK expression. Binomial probabilities were
+compared with χ2 or Fisher exact tests as appropriate. Event time distributions for overall
+survival (OS) and progression-free survival (PFS) were estimated with the method of Kaplan
+and Meier and CIs calculated using the method of Brookmeyer and Crowley. PK parameters
+were summarized descriptively. Mann–Whitney U tests were used to assess correlations
+between drug exposure and toxicity. All P values reported are twosided, and the significance
+level was set at 0.05 for all analyses. Statistical analyses were performed using SAS version
+9.4 (SAS Institute Inc) and R version 3.4.
+Results
+Patients
+From November 2011 until April 2013, 26 patients with advanced solid tumors were
+enrolled [MD Anderson Cancer Center (Houston, TX; n = 14 pts) and Johns Hopkins
+University (Baltimore, MD; n = 12)]. From August 2013 until December 2014, 13 patients
+with DTC were enrolled at MD Anderson
+Cancer Center (Houston, TX; n = 11 pts) and Johns Hopkins University (Baltimore, MD; n
+= 2) in this expansion cohort of pazopanib plus trametinib. The demographic and disease
+characteristics of the patients entered onto this study are shown in Table 1. All patients were
+treated according to the study protocol, and no patients remain on study at the time of this
+analysis. In the phase I cohort of the study, 69% of patients discontinued study therapy for
+disease progression, 12% for physician- or patient-initiated withdrawal, and 19% for
+toxicity. In the DTC cohort, those numbers were 62%, 31%, and 8%, respectively.
+Toxicity
+Dose escalation cohort—Treatment-related adverse events are detailed in Table 2. One
+DLT of grade 3 fatigue possibly related to study treatment was noted and this dose level was
+expanded; seven patients were enrolled because of one patient being unevaluable for toxicity
+due to missing doses in the first cycle of study drug administration. There were no further
+DLTs in the remainder of the study and the trial enrolled 19 more patients on dose levels 2–
+5. Any patient who came off study in the first cycle of therapy not due to treatment-related
+toxicity was replaced as per protocol.
+There were no treatment-related deaths and no grade 4 toxicities; the most common grade 3
+toxicities were transaminitis (19%), diarrhea (15%), and hypertension (12%). Common low-
+grade treatment-related toxicities were diarrhea, rash, hypertension, nausea/vomiting,
+fatigue, and anorexia. Rash was managed well with topical steroids and dosage holds as
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Kurzrock et al. Page 7
+necessary; no patient was dose-reduced because of rash. Hypertension was also well
+managed with antihypertensive therapy.
+Nine patients were dose-reduced; five had pazopanib reduced alone, one had trametinib
+reduced alone, and three patients had both agents reduced. Diarrhea was the reason for dose
+reduction of pazopanib 50% of the time, followed by fatigue and hypertension. One patient
+was diagnosed with glaucoma and trametinib was reduced alone for that subject. Median
+dose intensity for both agents was 100% (pazopanib range, 18%–100%; trametinib range,
+18%–100%).
+DTC expansion cohort—Further characterizing toxicity was a secondary endpoint of the
+expansion cohort in DTC. Generally, treatment-related adverse events were similar in the
+DTC expansion cohort compared with the dose escalation cohort. Nausea/ vomiting,
+hypertension, rash, and diarrhea were still the most common toxicities and usually low
+grade. Four patients discontinued study therapy due to nonprotocol-mandated adverse events
+and subsequent impact on quality of life at one to six cycles (median 5); low-grade diarrhea
+and fatigue were the common causes in these cases.
+Efficacy
+Dose escalation cohort—Twenty-five patients were evaluable for response. Three
+patients had PRs (12%) and 18 (72%) had stable disease for a disease control rate of 84%
+(Fig. 1). The three patients with PRs were DTC (confirmed), ovarian cancer (unconfirmed),
+and cholangiocarcinoma (unconfirmed). The only other patient with cholangiocarcinoma on
+the study had a best response of stable disease. Nine patients (35%) were on study >6 cycles
+(DTC: three patients; colorectal: two patients; cholangiocarcinoma, melanoma, synovial cell
+sarcoma, ovarian cancer: one patient each).
+DTC expansion cohort—The primary endpoint being monitored for this expansion
+cohort was the 6-month objective response (OR) rate. Of the 13 patients enrolled on study,
+12 (93%) were evaluable for disease response. Four patients had a RECIST criteria response
+(33%), while 50% had stable disease (Fig. 2). PFS and OS were secondary endpoints of the
+study. The median follow-up, calculated by the reverse Kaplan–Meier method, was 37
+months. PFS and OS are shown in Fig. 3. The median PFS was 10.7 months (95% CI: 7.3,
+NA). The 2-year PFS was 25% (95% CI: 9%, 67%). Median survival was 29.3 months (95%
+CI: 18.9, NA).
+The interim analysis for this trial was performed after 12 patients were enrolled. At that
+time, the 6-month response information was available on the first 12 patients in the
+expansion cohort. The sample sizes in the papillary and follicular subtypes were six and six,
+respectively, and there had been two and two ORs in the papillary and follicular subtypes.
+The posterior probabilities of OR less than 25% in the papillary and less than 67% in the
+follicular groups were 0.287 and 0.86, respectively. Because there was an 86% probability
+that the response rate in the follicular group was less than 67%, the study was paused for a
+futility review, and ultimately halted.
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Kurzrock et al. Page 8
+Pharmacokinetics
+PK data was obtained from the 13 patients on the expansion cohort of 800 mg of pazopanib
+and 2 mg of trametinib. For pazopanib, the C , AUC – , and C were 44.5 ± 31.8
+max 0 24hr ss,min
+μg/ mL 952.2 ± 680.0 μg*hour/mL, and 33.8 ± 17.3 μg/mL, respectively. The C for
+ss,min
+trametinib was 18.7 ± 6.6 ng/mL. There were also no statistically significant correlations
+between the worst grade of toxicity for the most common toxicities during cycle 1 and
+during treatment and pazopanib or trametinib exposure (P > 0.05). There were also no
+statistically significant correlations between the responses and pazopanib or trametinib
+exposure (P > 0.05).
+Pharmacodynamics
+The correlation of change in p-ERK expression with best RECIST response was assessed.
+Of the 13 patients in the DTC cohort, four did not have tumor cells present in the
+posttreatment biopsy, and one patient did not have best response assessed, leaving eight
+patients available for this analysis. The percent reduction in tumor diameter by RECIST was
+negatively correlated with change in p-ERK expression posttreatment, Spearman correlation
+coefficient: −0.71, P = 0.05. Overall, the median change in p-ERK expression score was
+−50, with an interquartile range of −65 to −20 with seven of nine patients having reductions
+in p-ERK in posttreatment specimens (Fig. 4). There were also no statistically significant
+correlations between the change in p-ERK expression score and pazopanib or trametinib
+exposure.
+Mutational testing
+Eleven patients had tumor tissue available for sequencing, and 10 of these patients were
+evaluable for response. NRAS was present in three of three (100%) responders, and none of
+the seven patients with stable disease or progressive disease (Fisher exact P = 0.008). One
+responder did not have available tissue for sequencing. Other mutations included BRAF
+V600E or TP53 (two patients) and PIK3CA, SMO, CDKN2A, ALB1, and RB1 (one patient
+each).
+Discussion
+Targeting progrowth signal transduction circuits with combination molecularly targeted
+inhibition is a rational therapeutic strategy with notable successes in solid tumors, such as
+BRAF V600E–mutated metastatic melanoma and colorectal cancer (22–25). Inhibition at the
+signaling receptor level as well as downstream signaling proteins theoretically allows more
+potent inhibition of a given pathway and the potential to stymie compensatory feedback
+loops that result in resistance to molecularly targeted agents. We employed this strategy to
+target VEGF receptor signaling at the receptor level with pazopanib and downstream with
+the MEK inhibitor trametinib, both in tumor cells and endothelial cells. In preclinical studies
+in DTC, pazopanib treatment was associated with paradoxical upregulation of p-ERK, an
+effect that could be abrogated by concurrent trametinib (17).
+We did see activity with this regimen in the expected tumor type of DTC, where we focused
+our primary expansion cohort, as well as cholangiocarcinoma, somewhat less expectedly.
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Kurzrock et al. Page 9
+Bible and colleagues reported significant activity of single-agent pazopanib in progressive
+radioiodine refractory DTC, with an overall confirmed PR rate of 49% (14, 15). The median
+PFS in this phase II study was 360 days. Patients with follicular thyroid cancer had a 73%
+PR rate (8/11), whereas patients with papillary thyroid cancer had PR 33% of the time (5/11
+patients). Mutational analysis and comparable PD studies are not available. This study
+applied a futility monitoring plan that would pause the study if there was a greater than 75%
+probability that the 6-month OR rate with the pazopanib/trametinib combination was not
+superior to pazopanib alone in the Bible study (less than 25% in the papillary subtype or less
+than 67% in the follicular/Hurthle cell subtype). Both the PR rate and the median PFS were
+not superior for the combination. Small sample size and patient selection differences in the
+two studies including prior treatment history could potentially skew this comparison.
+MEK inhibitors have had modest activity in cholangiocarcinoma with response rates less
+than 10%, and have been mostly abandoned in that histology (26, 27). In addition, a single
+phase II study of bevacizumab and erlotinib in treatment-naÏve cholangiocarcinoma showed
+a response rate of 12%, suggesting the possible benefit of VEGF targeting in this rare tumor,
+although the relative contribution of VEGF inhibition versus EGFR inhibition is unknown
+for this nonrandomized trial (28). Our study showed benefit for both of the patients with
+cholangiocarcinoma who were enrolled (one progressive disease and one durable stable
+disease greater than 6 months), with the major caveat of a sample size of only two patients.
+Indeed, we added an expansion cohort of cholangiocarcinoma to this trial and previously
+reported a 4-month PFS of 40% (95% CI: 24.7%–64.6%) that showed a trend toward
+increased 4-month PFS as compared with the prespecified null hypothesized 4-month PFS of
+25%, but this difference did not reach statistical significance (P = 0.063; ref. 29). A final
+expansion cohort in soft-tissue sarcoma did not show signs of compelling activity (30).
+Our correlative studies yielded some interesting results in our exploratory analyses. Our
+initial hypothesis was that combination pazopanib and trametinib would result in significant
+inhibition of the MAPK signaling pathway, and that this would correlate with clinical
+response. Indeed, seven of nine patients with paired tumor biopsies had inhibition of p-ERK
+after treatment, although without single-agent comparators, we cannot determine whether it
+is more or less p-ERK inhibition compared with either agent alone. However, inhibition of
+p-ERK correlated with lack of tumor response to therapy, opposite of our initial hypothesis.
+Limitation of tissue and the small patient numbers did not allow us to understand the
+mechanism behind this exploratory finding. A possible explanation is that inhibition of the
+MAPK pathway may result in compensatory increases in other prosurvival pathways,
+resulting in resistance to this therapeutic strategy; this phenomenon was observed in a recent
+model of melanoma and low-grade glioma where MEK inhibition resulted in decreased p-
+ERK but resistance emerged with upregulation of PI3K/AKT (31, 32). A second possible
+explanation is that the higher levels of p-ERK are a direct effect of pazopanib treatment,
+comparable with effects observed in the cell culture and mouse models.
+Arguably, our most interesting correlative study explored the effect of common hotspot
+mutations on the potential efficacy of the pazopanib/trametinib combination in our patients
+with DTC. Three of 11 patients with available tissue had NRAS mutations, slightly higher
+than expected possibly due to the patients enrolled being more advanced cases, as RAS
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Kurzrock et al. Page 10
+mutations have been suggested to represent a more aggressive phenotype (8, 33). All three
+patients with NRAS mutations had PRs (with the final PR patient not having available tissue
+for sequencing). With the necessary caveats regarding the low number of patients in this
+analysis, the data pose an important question regarding whether NRAS-mutated tumors have
+a necessary addition to the MAPK signaling pathway making them uniquely sensitive to this
+approach. In the phase II study of the MEK inhibitor selumetinib in DTC, patients with
+NRAS-mutated disease had increased effectiveness of therapy in comparison with BRAF-
+mutated disease, although again with small numbers (16). Lenvatinib, another VEGFR/
+FGFR tyrosine kinase inhibitor, is approved in DTC, and a phase II study suggested that
+RAS-mutated patients had more benefit from lenvatinib than wild-type tumors, although this
+finding was not substantiated in the subsequent phase III study (34).
+In conclusion, our data suggest that pazopanib and trametinib are tolerable and active in
+patients with advanced solid tumors, particularly in patients with DTC. The lack of single-
+agent comparator arms do not allow for assessment of the activity of the combination over
+either drug alone. However, the trial did not meet prespecified threshold for activity for the
+patients with follicular thyroid cancer, resulting in closing the trial for enrollment. Future
+study of the combination in NRAS-mutated DTC in a larger, randomized trial to truly
+validate the findings would be meaningful to assess whether this strategy has any role in the
+care of patients with DTC.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+We thank the patients and their families for participating in this study. This study was approved and funded by the
+National Comprehensive Cancer Network (NCCN) Oncology Research Program (ORP) from general research
+support provided by Novartis Pharmaceuticals Corporation (formerly GlaxoSmithKline, LLC). The project
+described was supported, in part, by the Analytical Pharmacology Core of the Sidney Kimmel Comprehensive
+Cancer Center at Johns Hopkins [NIH grants P30 CA006973 and UL1 TR 001079, and the Shared Instrument Grant
+(S10RR026824)]. Grant Number UL1 TR 001079 is from the National Center for Advancing Translational
+Sciences (NCATS) a component of the NIH, and NIH Roadmap for Medical Research.
+The costs of publication of this article were defrayed in part by the payment of page charges. This article must
+therefore be hereby marked advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+Disclosure of Potential Conflicts of Interest
+R. Kurzrock is an employee of CureMatch, Inc.; reports receiving commercial research grants from Incyte,
+Genentech, Merck Serono, Pfizer, Sequenom, Foundation Medicine, Guardant Health, Grifols, Konica Minolta, and
+Omin-Seq; reports receiving speakers bureau honoraria from Roche; holds ownership interest (including patents) in
+IDbyDNA, CureMatch Inc., and Soluventis; and is a consultant/advisory board member for Gaido, LOXO, X-
+Biotech, Actuate Therapeutics, Roche and NeoMed, and Soluventis. V. Subbiah reports receiving other commercial
+research support from Novartis, Bayer, GlaxoSmithKline, Nanocarrier, Vegenics, Celgene,
+Northwestbiotherapeutics, Berghealth, Incyte, Fugifilm, Pharmamar, Inhibrx, D3, Pfizer, Multivir, Amgen,
+ABBVIE, Agensys, Boston Biomedical, Exelixis, Blueprint Medicines, LOXO Oncology, Takeda, and Roche. R.
+Sharma has immediate family members employed by NDB BIO LLC. No potential conflicts of interest were
+disclosed by the other authors.
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Kurzrock et al. Page 11
+References
+1. Arjaans M, Schröder CP, Oosting SF, Dafni U, Kleibeuker JE, de Vries EG. VEGF pathway
+targeting agents, vessel normalization and tumor drug uptake: from bench to bedside. Oncotarget
+2016;7:21247–58. [PubMed: 26789111]
+2. Lee SH, Jeong D, Han YS, Baek MJ. Pivotal role of vascular endothelial growth factor pathway in
+tumor angiogenesis. Ann Surg Treat Res 2015;89: 1–8. [PubMed: 26131438]
+3. Abdel-Rahman O Targeting vascular endothelial growth factor (VEGF) pathway in iodine-refractory
+differentiated thyroid carcinoma (DTC): from bench to bedside. Crit Rev Oncol Hematol
+2015;94:45–54. [PubMed: 25560732]
+4. Shah S, Brock EJ, Ji K, Mattingly RR. Ras and Rap1: a tale of two GTPases. Semin Cancer Biol
+2019;54:29–39. [PubMed: 29621614]
+5. Nikiforov YE. Thyroid carcinoma: molecular pathways and therapeutic targets. Mod Pathol
+2008;21:S37–43. [PubMed: 18437172]
+6. Siegel RL, Miller KD, Jemal A. Cancer statistics, 2018. CA Cancer J Clin 2018;68:7–30. [PubMed:
+29313949]
+7. Rusinek D, Chmielik E, Krajewska J, Jarzab M, Oczko-Wojciechowska M, Czarniecka A, et al.
+Current advances in thyroid cancer management. Are we ready for the epidemic rise of diagnoses?
+Int J Mol Sci 2017;18:pii: E1817.
+8. Raue F, Frank-Raue K. Thyroid cancer: risk-stratified management and individualized therapy. Clin
+Cancer Res 2016;22:5012–21. [PubMed: 27742787]
+9. Nikiforov YE. Thyroid cancer in 2015: molecular landscape of thyroid cancer continues to be
+deciphered. Nat Rev Endocrinol 2016;12:67–8. [PubMed: 26668120]
+10. Naoum GE, Morkos M, Kim B, Arafat W. Novel targeted therapies and immunotherapy for
+advanced thyroid cancers. Mol Cancer 2018; 17:51. [PubMed: 29455653]
+11. Schlumberger M, Tahara M, Wirth LJ, Robinson B, Brose MS, Elisei R, et al. Lenvatinib versus
+placebo in radioiodine-refractory thyroid cancer. N Engl J Med 2015;372:621–30. [PubMed:
+25671254]
+12. van der Graaf WT, Blay JY, Chawla SP, Kim DW, Bui-Nguyen B, Casali PG, et al. EORTC Soft
+Tissue and Bone Sarcoma Group; PALETTE study group. Pazopanib for metastatic soft-tissue
+sarcoma (PALETTE): a randomised, double-blind, placebo-controlled phase 3 trial. Lancet
+2012;379:1879–86. [PubMed: 22595799]
+13. Motzer RJ, Hutson TE, Cella D, Reeves J, Hawkins R, Guo J, et al. Pazopanib versus sunitinib in
+metastatic renal-cell carcinoma. N Engl J Med 2013;369: 722–31. [PubMed: 23964934]
+14. Bible KC, Suman VJ, Molina JR, Smallridge RC, Maples WJ, Menefee ME, et al. Endocrine
+Malignancies Disease Oriented Group, Mayo Clinic Cancer Center, and the Mayo Phase 2
+Consortium. A multicenter phase 2 trial of pazopanib in metastatic and progressive medullary
+thyroid carcinoma: MC057H. J Clin Endocrinol Metab 2014;99:1687–93. [PubMed: 24606083]
+15. Bible KC, Suman VJ, Molina JR, Smallridge RC, Maples WJ, Menefee ME, et al. Efficacy of
+pazopanib in progressive, radioiodine-refractory, metastatic differentiated thyroid cancers: results
+of a phase 2 consortium study. Lancet Oncol 2010;11:962–72. [PubMed: 20851682]
+16. Ho AL, Grewal RK, Leboeuf R, Sherman EJ, Pfister DG, Deandreis D, et al. Selumetinib-
+enhanced radioiodine uptake in advanced thyroid cancer. N Engl J Med 2013;368:623–32.
+[PubMed: 23406027]
+17. Ball DW, Jin N, Xue P, Bhan S, Ahmed SR, Rosen DM, et al. Trametinib with and without
+pazopanib has potent preclinical activity in thyroid cancer. Oncol Rep 2015;34:2319–24.
+[PubMed: 26324075]
+18. Schwartz LH, Litière S, de Vries E, Ford R, Gwyther S, Mandrekar S, et al. RECIST 1.1-update
+and clarification: from the RECIST committee. Eur J Cancer 2016;62:132–7. [PubMed:
+27189322]
+19. Maitra A, Ashfaq R, Gunn CR, Rahman A, Yeo CJ, Sohn TA, et al. Cyclooxygenase 2 expression
+in pancreatic adenocarcinoma and pancreatic intraepithelial neoplasia: an immunohistochemical
+analysis with automated cellular imaging. Am J Clin Pathol 2002;118:194–201. [PubMed:
+12162677]
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Kurzrock et al. Page 12
+20. Zheng G, Tseng LH, Chen G, Haley L, Illei P, Gocke CD, et al. Clinical detection and
+categorization of uncommon and concomitant mutations involving BRAF. BMC Cancer
+2015;15:779. [PubMed: 26498038]
+21. Illei PB, Belchis D, Tseng LH, Nguyen D, De Marchi F, Haley L, et al. Clinical mutational
+profiling of 1006 lung cancers by next generation sequencing. Oncotarget 2017;8:96684–96.
+[PubMed: 29228562]
+22. Hong DS, Morris VK, El Osta B, Sorokin AV, Janku F, Fu S, et al. Phase IB study of vemurafenib
+in combination with irinotecan and cetuximab in patients with metastatic colorectal cancer with
+BRAFV600E mutation. Cancer Discov 2016;6:1352–65. [PubMed: 27729313]
+23. Corcoran RB, Atreya CE, Falchook GS, Kwak EL, Ryan DP, Bendell JC, et al. Combined BRAF
+and MEK inhibition with dabrafenib and trametinib in BRAF V600-mutant colorectal cancer. J
+Clin Oncol 2015;33: 4023–31. [PubMed: 26392102]
+24. Long GV, Eroglu Z, Infante J, Patel S, Daud A, Johnson DB, et al. Long-term outcomes in patients
+with BRAF V600-mutant metastatic melanoma who received dabrafenib combined with
+trametinib. J Clin Oncol 2018;36: 667–73. [PubMed: 28991513]
+25. Robert C, Karaszewska B, Schachter J, Rutkowski P, Mackiewicz A, Stroiakovski D, et al.
+Improved overall survival in melanoma with combined dabrafenib and trametinib. N Engl J Med
+2015;372:30–9. [PubMed: 25399551]
+26. Finn RS, Javle MM, Tan BR, Weekes CD, Bendell JC, Patnaik A, et al. A phase I study of MEK
+inhibitor MEK162 (ARRY-438162) in patients with biliary tract cancer. J Clin Oncol
+30:4s,2012(suppl; abstr TPS220).
+27. Bekaii-Saab T, Phelps MA, Li X, Saji M, Goff L, Kauh JS, et al. Multiinstitutional phase II study
+of selumetinib in patients with metastatic biliary cancers. J Clin Oncol 2011;29:2357–63.
+[PubMed: 21519026]
+28. Lubner SJ, Mahoney MR, Kolesar JL, Loconte NK, Kim GP, Pitot HC, et al. Report of a
+multicenter phase II trial testing a combination of biweekly bevacizumab and daily erlotinib in
+patients with unresectable biliary cancer: a phase II Consortium study. J Clin Oncol
+2010;28:3491–7. [PubMed: 20530271]
+29. Shroff RT, Yarchoan M, O’Connor A, Gallagher D, Zahurak ML, Rosner G, et al. The oral VEGF
+receptor tyrosine kinase inhibitor pazopanib in combination with the MEK inhibitor trametinib in
+advanced cholangiocarcinoma. Br J Cancer 2017;116:1402–7. [PubMed: 28441383]
+30. Subbiah V, Meyer C, Zinner R, Meric-Bernstam F,Zahurak ML, O’Connor A, et al. Phase Ib/II
+study of the safety and efficacy of combination therapy with multikinase VEGF inhibitor
+pazopanib and MEK inhibitor trametinib in advanced soft tissue sarcoma. Clin Cancer Res
+2017;23:4027–34. [PubMed: 28377484]
+31. Brighton HE, Angus SP, Bo T, Roques J, Tagliatela AC, Darr DB, et al. New mechanisms of
+resistance to MEK inhibitors in melanoma revealed by intravital imaging. Cancer Res
+2018;78:542–57. [PubMed: 29180473]
+32. Jain P, Silva A, Han HJ, Lang SS, Zhu Y, Boucher K, et al. Overcoming resistance to single-agent
+therapy for oncogenic BRAF gene fusions via combinatorial targeting of MAPK and PI3K/mTOR
+signaling pathways. Oncotarget 2017;8:84697–713. [PubMed: 29156677]
+33. Howell GM, Hodak SP, Yip L. RAS mutations in thyroid cancer. Oncologist 2013;18:926–32.
+[PubMed: 23873720]
+34. Ball DW, Sherman SI, Jarzab B, Cabanillas ME, Martins R, Shah MH, et al. Lenvatinib treatment
+of advanced RAI-refractory differentiated thyroid cancer (DTC): cytokine and angiogenic factor
+(CAF) profiling in combination with tumor genetic analysis to identify markers associated with
+response. J Clin Oncol 30, 2012(suppl; abstr 5518).
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Kurzrock et al. Page 13
+Translational Relevance
+Molecularly targeted agents have had meaningful efficacy as single agents in multiple
+tumor types, but have not resulted in durable benefit due to resistance coming often from
+increased feedback signaling. We previously demonstrated that combination targeted
+therapy of VEGF signaling by signal transduction inhibitors inhibiting at the receptor
+level and downstream using MAPK kinase (MEK) inhibition was more effective than
+either drug alone in preclinical models of differentiated thyroid cancer (DTC). We report
+a phase I clinical trial of VEGF receptor inhibitor pazopanib with MEK inhibitor
+trametinib with an expansion in DTC showing activity of the combination, with potential
+increased benefit in NRAS-mutated DTC. Our results support the hypothesis that
+combination-targeted therapy with pazopanib and trametinib should be further explored
+in this molecular subset of DTC.
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Kurzrock et al. Page 14
+Figure 1.:
+Best RECIST 1.1 criteria responses in dose escalation cohort. Twenty-five patients were
+available for response (24 patients represented in figure and patient 25 not represented
+because of clinical progression without imaging). Abbreviations: BCC, basal cell; CCA,
+cholangiocarcinoma, CRC, colorectal; EC, endometrial, FTC, follicular thyroid, MM,
+melanoma; MSC, maxillary sinus; OV, ovarian; PANC, pancreatic islet cell; PSC, papillary
+thyroid; SSC, squamous cell tongue; SS, synovial cell carcinoma; THY, thyroid; ULS,
+uterine leiomyosarcoma.
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Kurzrock et al. Page 15
+Figure 2.:
+Best RECIST 1.1 criteria responses in differentiated thyroid cohort. Eleven patients are
+represented in the figure, with the 12th evaluable patient not represented because of clinical
+progression without imaging.
+* Represents new lesions resulting in RECIST criteria progression.
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 16 ---
+Kurzrock et al. Page 16
+Figure 3.:
+Kaplan–Meier estimate of PFS (A) and OS (B) in differentiated thyroid cohort. The dotted
+lines represent 95% CIs.
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 17 ---
+Kurzrock et al. Page 17
+Figure 4.:
+Change in pERK in relation to change in tumor size. Pre- versus posttreatment biopsies were
+assessed for pERK. Changes in tumor size were assessed by RECIST 1.1 criteria.
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kurzrock et al. Page 18
+Table 1.
+Baseline patient characteristics
+Phase I Thyroid expansion
+Characteristic (N = 26) (N = 13)
+Age
+Median 59 60
+Range 33–82 32–74
+Sex (%)
+Male 14 (54) 7 (54)
+Female 12 (46) 6 (46)
+Race (%)
+White 20 (77) 11 (85)
+Black 2 (8) 0
+Asian 2 (8) 1 (8)
+Unknown or other 2 (8) 1 (8)
+Previous regimens
+Median 4 1
+Range 0–13 0–5
+Radiation-based therapy 11 13
+Treatment site (%)
+MD Anderson Cancer Center (Houston, TX) 14 (54) 11 (85)
+Johns Hopkins University (Baltimore, MD) 12 (46) 2 (15)
+ECOG performance status (%)
+0 10 (38) 2 (15)
+1 16 (62) 11 (85)
+Tumor histology (%)
+Thyroid subtype
+Papillary 2 (8) 6 (46)
+Follicular 1 (4) 5 (38)
+Hurthle cell 0 1 (8)
+Poorly differentiated 1 (4) 1 (8)
+Carcinoma 1 (4)
+Basal cell carcinoma 1 (4)
+Cholangiocarcinoma 2 (8)
+Colorectal cancer 2 (8)
+Endometrial cancer 1 (4)
+Maxillary sinus cancer 1 (4)
+Melanoma 4 (15)
+Merkel cell carcinoma 1 (4)
+Ovarian cancer 3 (12)
+Pancreatic ductal adenocarcinoma 1 (4)
+Pancreatic islet cell tumor 1 (4)
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kurzrock et al. Page 19
+Phase I Thyroid expansion
+Characteristic (N = 26) (N = 13)
+Sarcoma 2 (8)
+Serous papillary cystadenocarcinoma 1 (4)
+Squamous cell base of tongue cancer 1 (4)
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+
+--- Page 20 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kurzrock et al. Page 20
+.2
+elbaT
+)selcyc
+lla(
+stneve
+esrevda
+detaler-tnemtaert
+4/3
+edarg
+lla
+dna
+stnapicitrap
+erom
+ro
+owt
+gnirrucco
+stneve
+esrevda
+detaler-tnemtaerT
+edarg
+ynA
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+dioryhT
+dioryhT
+esoD
+dioryhT
+esoD
+dioryhT
+esoD
+dioryhT
+esoD
+noisnapxe
+noitalacse
+esoD
+noisnapxe
+noitalacse
+noisnapxe
+noitalacse
+noisnapxe
+noitalacse
+noisnapxe
+noitalacse
+yticixoT
+)%8(
+1
+)%72(
+7
+0
+0
+1
+2
+0
+2
+0
+3
+niap
+lanimodbA
+)%32(
+3
+)%4(
+1
+0
+0
+0
+0
+0
+0
+3
+1
+aicepolA
+)%64(
+6
+)%24(
+11
+0
+0
+0
+0
+3
+3
+3
+8
+aixeronA
+0
+)%8(
+2
+0
+0
+0
+0
+0
+1
+0
+1
+aiglarhtrA
+0
+0
+0
+0
+0
+0
+0
+2
+0
+noisiv/noisiv
+yrrulB
+)%51(
+2
+segnahc
+)%51(
+2
+)%51(
+4
+0
+0
+0
+0
+1
+1
+1
+3
+noitapitsnoC
+0
+)%21(
+3
+0
+0
+0
+0
+0
+0
+0
+3
+niks
+gnikcarC
+)%58(
+11
+)%58(
+22
+0
+0
+3
+4
+6
+8
+2
+01
+aehrraiD
+)%32(
+3
+)%91(
+5
+0
+0
+0
+0
+0
+0
+3
+5
+ssenizziD
+0
+)%51(
+4
+0
+0
+0
+0
+0
+0
+0
+4
+htuom/seye
+yrD
+)%51(
+2
+)%51(
+4
+0
+0
+0
+0
+0
+0
+2
+4
+niks
+yrD
+)%32(
+3
+)%32(
+6
+0
+0
+0
+0
+0
+1
+3
+5
+amedE
+)%51(
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+FE
+desaerceD
+0
+)%21(
+3
+0
+0
+0
+0
+0
+0
+0
+3
+sixatsipE
+)%8(
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+reclu
+laegahposE
+)%96(
+9
+)%26(
+61
+0
+0
+1
+2
+2
+6
+6
+8
+eugitaF
+0
+)%21(
+3
+0
+0
+0
+0
+0
+0
+0
+3
+ecnelutalF
+0
+)%32(
+6
+0
+0
+0
+1
+0
+1
+0
+4
+ehcadaeH
+0
+)%21(
+3
+0
+0
+0
+0
+0
+1
+0
+2
+nrubtraeH
+)%58(
+11
+)%45(
+41
+0
+0
+6
+3
+3
+7
+2
+4
+noisnetrepyH
+0
+)%8(
+2
+0
+0
+0
+0
+0
+0
+0
+2
+aimelakopyH
+)%8(
+1
+)%21(
+3
+0
+0
+0
+0
+0
+0
+1
+3
+aimesengamopyH
+)%32(
+3
+)%8(
+2
+0
+0
+0
+0
+0
+0
+3
+2
+noitatnemgipopyH
+)%13(
+4
+)%51(
+4
+0
+0
+0
+0
+0
+0
+4
+4
+sitisocuM
+0
+)%21(
+3
+0
+0
+0
+0
+0
+1
+0
+2
+gnipmarc
+elcsuM
+0
+)%21(
+3
+0
+0
+0
+1
+0
+0
+0
+2
+ssenkaew
+elcsuM
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.
+
+--- Page 21 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kurzrock et al. Page 21
+edarg
+ynA
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+dioryhT
+dioryhT
+esoD
+dioryhT
+esoD
+dioryhT
+esoD
+dioryhT
+esoD
+noisnapxe
+noitalacse
+esoD
+noisnapxe
+noitalacse
+noisnapxe
+noitalacse
+noisnapxe
+noitalacse
+noisnapxe
+noitalacse
+yticixoT
+)%29(
+21
+)%26(
+61
+0
+0
+0
+0
+5
+4
+7
+21
+gnitimov/aesuaN
+)%8(
+1
+)%4(
+1
+0
+0
+0
+0
+1
+0
+0
+1
+aineportueN
+0
+0
+0
+0
+1
+0
+1
+1
+ratnalp-ramlaP
+)%51(
+2
+)%4(
+1
+aisehtsesydorhtyre
+)%8(
+1
+)%8(
+2
+0
+0
+0
+1
+1
+1
+0
+0
+airunietorP
+)%51(
+2
+)%8(
+2
+0
+0
+1
+0
+0
+0
+1
+2
+sutirurP
+)%001(
+31
+)%96(
+81
+0
+0
+3
+1
+5
+4
+5
+31
+hsaR
+)%83(
+5
+)%72(
+7
+0
+0
+0
+0
+1
+2
+4
+5
+segnahc
+etsaT
+)%51(
+2
+)%21(
+3
+0
+0
+0
+0
+1
+1
+1
+2
+ainepotycobmorhT
+)%13(
+4
+)%13(
+8
+0
+0
+1
+5
+2
+0
+1
+3
+sitinimasnarT
+)%8(
+1
+)%51(
+4
+0
+0
+1
+0
+0
+1
+2
+3
+ssol
+thgieW
+Clin Cancer Res. Author manuscript; available in PMC 2020 February 24.

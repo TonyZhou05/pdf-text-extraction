@@ -1,0 +1,576 @@
+Source: 30679780.pdf
+Extracted on: Fri Sep 12 23:57:05 PDT 2025
+==================================================
+
+--- Page 1 ---
+www.nature.com/bjc
+ARTICLE
+Clinical Study
+fi
+Phase 1 dose- nding and pharmacokinetic study of eribulin-
+liposomal formulation in patients with solid tumours
+T. R.Jeffry Evans1,2, EmmaDean3, L.RhodaMolife4,Juanita Lopez4, MalcolmRanson5, FatimaEl-Khouly6, IshtiaqZubairi1,
+ClaudioSavulsky7, LarisaReyderman8,Yan Jia8,LornaSweeting1, AlastairGreystoke9,Jorge Barriuso3and Rebecca Kristeleit10
+BACKGROUND:Thisphase 1study examinedthe safety,tolerability, pharmacokinetics and preliminaryefficacyof eribulin-
+liposomalformulation (eribulin-LF) inpatients withadvancedsolid tumours.
+METHODS:EligiblepatientswithECOGPS0–1weretreatedwitheribulin-LFeitheronday1every21days(Schedule1),orondays
+1and 15every 28days(Schedule 2).Dosesrangedfrom 1.0to3.5mg/m2,withdose escalation in a3+3 design.The dose-
+expansion phaseevaluated eribulin-LF inselect tumourtypes. Primary objectives: maximumtolerated dose (MTD)and the
+recommended dose/schedule of eribulin-LF.
+RESULTS:Totally,58patientswereenroled(medianage=62years).TheMTDwas1.4mg/m2(Schedule1)or1.5mg/m2(Schedule
+2),thelatter dose selectedfor thedose-expansion phase. Dose-limiting toxicity (DLTs) inSchedule1: hypophosphatemia and
+increasedtransaminase levels. DLTs inSchedule2: stomatitis, increasedalanine aminotransferase, neutropenia andfebrile
+neutropenia.Thepharmacokineticprofileoferibulin-LFshowedasimilarhalf-lifetothatoferibulin(~30h),butwitha5-foldgreater
+maximumserum concentrationand a 40-foldgreater area-under-the-curve. Eribulin-LF demonstrated clinicalactivity with
+approximately10% ofpatients inboth schedules achievingpartial responses.
+CONCLUSIONS:Eribulin-LFwaswelltoleratedwithafavourablepharmacokineticprofile.Preliminaryevidenceofclinicalactivityin
+solidtumours wasobserved.
+British Journalof Cancer(2019) 120:379–386;https://doi.org/10.1038/s41416-019-0377-x
+BACKGROUND a phase 3 clinical trial of patients with advanced liposarcoma or
+Eribulin-liposomal formulation (eribulin-LF) is a new formulation leiomyosarcoma, eribulin significantly prolonged overall survival
+designed to improve the therapeutic index of the drug by compared with dacarbazine, and consequently, eribulin is also
+encapsulatingeribulinmesylateintheinteriorofthewaterphase approved for unresectable or metastatic liposarcoma in patients
+of liposomes. Eribulin mesylate is a nontaxane antineoplastic whohavealreadyreceivedananthracycline-containingregimen.7–9
+agent that inhibits microtubule dynamics and prevents tumour A pooled analysis of 2 randomised phase 3 studies showed that
+cellproliferation.1–3Eribulinisasyntheticanalogueofthenatural eribulincouldsignificantlyimproveoverallsurvivalinpatientswith
+product, halichondrin B, isolated from the marine sponge humanepidermalgrowthfactorreceptor2(HER2)-negativebreast
+Halichondria okadai.3 Eribulin has a novel mode of action that cancerandinpatientswithtriple-negativedisease.10
+distinguishesitfromothertubulin-targeteddrugs,includingvinca Thepotentialefficacyoferibulincanbecompromisedbydose
+alkaloids:it leadsto irreversible mitotic blockade by bindingtoa reductions and omissions due to toxicities, the most common
+small number of high-affinity sites on growing (plus) ends of beingneutropeniaandperipheralneuropathy.7However,theuse
+microtubulestoinhibittheirgrowth,withouthavingameasurable of PEGylated liposomes to encapsulate drugs can help reduce
+effect on microtubule shortening.1,2,4 Nonmitotic effects of systemic toxicity11 and optimise exposure to drug. The liposome
+eribulin include suppressing cancer cell migration and invasion, platformfacilitatestheselectivedeliveryofpharmacologicagents
+reversing the epithelial-to-mesenchymal transition that has been to tumour cells, increasing selective uptake by these cells and,
+associated with a malignant phenotype and tumour vascular therefore, control of drug delivery.12 PEGylated liposomal drugs
+remodellingresulting in increasedperfusion.4,5 offer several additional advantages, including enhanced perme-
+Eribulin is approved as a monotherapy for patients with ability and longer retention in tumour tissues and improved
+metastatic breast cancer (MBC) who have previously been treated efficacy.11,13
+with at least 2 (in the United States) or 1 (in Europe) prior Preclinical experiments of eribulin-LF in mice suggested
+chemotherapeutic regimens, including an anthracycline and a improved pharmacokinetics characterised by slower clearance, a
+taxane,ineitheradjuvantormetastaticsettings.6–8Furthermore,in lower volume of distribution, and a 1.5-fold higher exposure to
+1BeatsonWestofScotlandCancerCentre,Glasgow,UK;2UniversityofGlasgow,Glasgow,UK;3TheChristieNHSFoundationTrust,Manchester,UK;4TheRoyalMarsdenHospital
+NHSFoundationTrustandTheInstituteofCancerResearch,London,UK;5TheChristieNHSFoundationTrust,Manchester,UK;6UCLCancerInstitute,London,UK;7EisaiLtd.,
+Hatfield,UK;8EisaiInc.,WoodcliffLake,NJ,USA;9NorthernInstituteforCancerResearch,NewcastleUniversity,NewcastleuponTyne,UKand10UCLCancerInstitute,London,UK
+Correspondence:T.R.JeffryEvans(J.Evans@beatson.gla.ac.uk)
+Received:31May2018Revised:6December2018Accepted:3January2019
+Publishedonline:25January2019
+©TheAuthor(s)2019 PublishedbySpringerNatureonbehalfofCancerResearchUK
+
+--- Page 2 ---
+Phase1dose-findingandpharmacokineticstudyoferibulin-liposomal...
+TRJEvansetal.
+380
+freeeribulincomparedwitheribulinmesylate.14,15Eribulin-LFhas Dose escalation and reduction. Dose escalation of eribulin-LF
+also demonstrated improved antitumour activity in a human was based on safety and tolerability during the first treatment
+pharynx squamous cell carcinoma xenograft model compared cycle. Severe toxicities (defined and graded as CTCAE version
+witheribulin mesylate.14 4.03, grade≥3) during later treatment cycles were also
+considered. DLTs were defined as any of the following:
+neutropenia grade 4 lasting>5 days; neutropenia grade 3 or 4
+OBJECTIVES complicatedbyfeverand/orinfection(absoluteneutrophilcount
+This phase 1 first-in-human trial aimed to identify the maximum [ANC]<1.0×109/L,fever≥38.5°C);grade4thrombocytopeniaof
+tolerateddose(MTD),recommendedphase2doseandschedule, any duration; grade 3 thrombocytopenia complicated by
+and to assess the safety, tolerability, pharmacokinetic and bleeding and/or requiring platelet or blood transfusion; grade
+preliminary efficacy of eribulin-LF in patients with advanced or 3 or 4 hypersensitivity reactions, symptomatic bronchospasm
+metastaticsolidtumours,includingbreast,ovarianorendometrial requiring parenteral medication(s) with or without urticaria or
+cancers. allergy-related oedema/angioedema and other grade 3/4 clini-
+cally significant nonhematologic toxicities (except for inade-
+quately treated nausea and/or vomiting) considered related to
+METHODS the study drug, including peripheral neuropathy. During the
+Studydesign dose-expansionphase,pre-specifieddoseinterruptionsanddose
+This phase 1, open-label, multicenter study comprised a dose- reductions based on prior data from eribulin studies were
+escalationphaseandadose-expansionphase.Thedose-escalation permitted if eribulin-LF-related toxicity occurred (see Supple-
+phaseconsistedofa3+3designwith2schedules:InSchedule1, mentary Table 1).
+eribulin-LFwasadministeredasa60-minintravenous(IV)infusion
+on day 1 of a 21-day cycle and in Schedule 2, eribulin-LF was Safety analyses. Safety assessments included monitoring and
+administered as a 60-min IV infusion on day 1 and day 15 of a recordingalladverseevents(AEs)andseriousAEs(SAEs).Patients
+28-day cycle. These schedules were chosen in anticipation of a underwent monitoring of haematology, blood chemistry, urine
+longer elimination half-life with eribulin-LF compared with values,vitalsigns,electrocardiograms(atscreening,baseline,day
+eribulin, which is administered on day 1and 8 of a 28-day cycle. 1andday15ofeachcycleandwithin30daysafterthelastdose
+TheMTD wasdefinedasthehighest dose levelatwhich ≤1of 6 of study treatment) and physical examinations (at screening,
+patientsexperienced a dose-limiting toxicity (DLT). baseline, day 1 and day 15 of cycle 1, day 1 of each subsequent
+The dose-expansion phase confirmed safety and tolerability of treatment cycle and within 30 days after the last dose of study
+the MTD defined in the dose-escalation part of the study and treatment). Hypersensitivity reactions were considered events of
+preliminarily assessed clinical activity of eribulin-LF in patients specialinterest.
+with endometrial, ovarian or HER2-negative breast cancer. Study
+treatment continued until disease progression, unacceptable Pharmacokinetic analyses. Blood samples for pharmacokinetic
+toxicity orwithdrawal of patient consent. analyses were collected during cycle 1 and cycle 3 in the dose-
+Aclinicaldoseoferibulinmesylate1.4mg/m2isequivalentto escalation phase and cycle 1 in the dose-expansion phase. For
+1.23mg/m2 of eribulin expressed as free base. Therefore, patientsreceivingeribulin-LFinSchedule1,bloodsampleswere
+eribulin administered on day 1 and day 8 of a 21-day cycle is collected onday 1atpredose,15minafter thestart ofinfusion,
+equivalentto2.46mg/m2totaldosepercycle.Thestartingdose 5minaftertheendofinfusion,0.5,1,2,4,6,8and24hpostdose,
+selected for this study was 1.0mg/m2, which represents a 60% and on days 4, 7, 9 and 11. For patients receiving eribulin-LF in
+reductioninthe approved eribulindose administered per cycle Schedule2,bloodsampleswerecollectedonday1andday15at
+(2.46mg/m2). Dose increments of 0.5mg/m2 were planned to predose,15minafterthestartofinfusion,5minaftertheendof
+reach 3.5mg/m2. infusion, 0.5, 1, 2, 4, 6, 8 and 24h postdose, and on days 4, 7, 9
+and 11.
+Inclusion and exclusion criteria. Patients aged≥18 years with Urine samples for pharmacokinetic analyses were collected in
+histologically or cytologically proven advanced solid tumours thedose-escalationcohortduringcycle1andcycle3.Forpatients
+refractory to standard therapies were enroled. In the dose- receivingeribulin-LFaccordingtoSchedule1,urinesampleswere
+expansion phase, the following tumours were permitted: endo- collectedpredose,andat0−24h(day1),24−48h(day2),48−72h
+metrial cancer after failure of prior chemotherapy for recurrent, (day 3) and 72−96h (day 4). For patients receiving eribulin-LF
+metastaticorhigh-riskdisease;ovariancancerafterfailureofprior according to Schedule 2, urine samples were collected predose,
+chemotherapy or intolerance of platinum agents (including and at 0−24h (day 1/day 15), 24−48h (day 2/day 16), 48−72h
+patientswithplatinum-sensitiveandplatinum-refractorydisease); (day3/day17)and72−96h(day4/day18).
+and breast cancer (HER2-negative subtype) after failure of Eribulin plasma concentrations were quantified by liquid
+previous standard (anthracycline and taxane) chemotherapy chromatography with tandem mass spectrometry methodology
+treatments. Patients were required to have had ≥1 measurable using a previously validated assay.16 Eribulin concentrations refer
+lesion based on Response Evaluation Criteria In Solid Tumours tototaleribulin.
+(RECIST) version (v) 1.1 (dose-expansion phase), an Eastern
+Cooperative Oncology Group performance status≤1, and ade- Efficacy analyses. Tumours were imaged using computed tomo-
+quateliver,renaland bone marrowfunction. graphy or magnetic resonance imaging, and assessed according
+Key exclusion criteria included patients having had any antic- to RECIST v1.117 by study site investigators. In accordance with
+ancer therapy within 21 days prior to study entry for cytotoxic RECIST v1.1 recommendations, a confirmatory scan was not
+agents and targeted agents, or within 30 days for an investiga- required,asthiswasaphase1studywheresafetyistheprimary
+tional agent, patients with pre-existing peripheral neuropathy of endpoint. Imaging was performed at screening (pretreatment)
+National Cancer Institute Common Terminology Criteria for andaftereveryothercycle(i.e.,every6weeksaftercycle1,day1
+Adverse Events (CTCAE) grade>1, patients who had previously forSchedule1andevery8weeksaftercycle1,day1forSchedule
+been treated with eribulin, and patients who had not recovered 2). Patients who discontinued study treatment during the dose-
+(tograde<2)fromacutetoxicitiesassociatedwithprioranticancer escalation phase without disease progression continued to
+therapyorhadreceivedradiationtherapyencompassing>30%of undergo tumour assessments every 9 weeks (for Schedule 1) or
+thebonemarrow. every8weeks(Schedule2).Patientsinthedose-expansionphase
+:,;)(0987654321
+
+--- Page 3 ---
+Phase1dose-findingandpharmacokineticstudyoferibulin-liposomal...
+TRJEvansetal.
+381
+Table1. Patientdemographicsanddiseasecharacteristics Table2. Dose-limitingtoxicitiesamongpatientsainthedose-
+escalationphase
+Parameter Schedule1 Schedule2 Allpatients
+(n=20) (n=38) (n=58) Schedule, Eribulin-LF Patient,n DLT
+Patient,n dose
+Age,years
+Median(range) 61.0(33−75) 62.5(40−70) 62.0(33−75) 1(18) 1.5mg/m2 1 Grade4
+hypophosphatemia
+Sex,n(%)
+1 Grade4increasedALT/AST
+Male 11(55.0) 9(23.7) 20(34.5)
+2(12) 1.5mg/m2 1 Grade4febrile
+Female 9(45.0) 29(76.3) 38(65.5)
+neutropenia
+Race,n(%)
+Grade3stomatitis
+White 19(95.0) 36(94.7) 55(94.8) 2.0mg/m2 1 Grade3increasedALT
+BlackorAfrican 1(5.0) 1(2.6) 2(3.4)
+1 Grade4neutropenia
+American
+Other 0 1(2.6) 1(1.7) aDetermination of the MTD was based on the dose-finding analysis set,
+which included all patients in the dose-escalation part who completed
+ECOGPS,n(%)
+cycle 1 treatment and were evaluated for DLTs, and those who
+0 4(20.0) 16(42.1) 20(34.5) discontinued cycle 1 during the DLT. Of the 35 patients treated in the
+1 16(80.0) 22(57.9) 38(65.5) dose-escalationphase,30 wereevaluableforDLTs(n=18 inSchedule 1
+andn=12inSchedule2)
+Priorsystemictherapies,n(%)
+ALT alanine aminotransferase, DLT dose-limiting toxicity, LF liposomal
+1 6(30.0) 4(10.5) 10(17.2) formulation,MTDmaximumtolerateddose
+2 9(45.0) 7(18.4) 16(27.6)
+3 3(15.0) 12(31.6) 15(25.9)
+4 1(5.0) 4(10.5) 5(8.6) definedas:totaldosereceivedoveralltreatmentcycles(mg/m2)/
+5−14 1(5.0) 11(28.9) 12(20.7) (durationof treatmentsin days/7).
+Descriptive summary statistics (mean, standard deviation (SD),
+Tumourtype,n(%)
+median, minimum and maximum) were determined for all
+Breast 1(5.0) 9(23.7) 10(17.2)
+continuous data (e.g., clinical laboratory test results, vital signs
+Cholangiocarcinoma 2(10.0) 0 2(3.4) measurementsandchanges frombaseline),andthenumberand
+Colorectala 2(10.0) 9(23.7) 11(19.0) percentage of patients were determined for all categorical data
+Endometrial 1(5.0) 6(15.8) 7(12.1) (e.g., baseline patient demographics and clinical characteristics).
+The number and percentage of patients reporting treatment
+Gallbladder 2(10.0) 0 2(3.4)
+emergent adverse events (TEAEs) were summarised by both
+NSCLC 1(5.0) 2(5.3) 3(5.2) CTCAE grade and relationship to study drug. Efficacy parameters
+Ovarian 0 10(26.3) 10(17.2) weresummarisedseparatelyforpatientsintheexpandedcohorts
+Pancreatic 2(10.0) 1(2.6) 3(5.2) for each tumour type. Eribulin pharmacokinetic parameters were
+Pleural 3(15.0) 0 3(5.2) derived from plasma concentrations by noncompartmental
+mesothelioma analysis using actual times. Statistical analyses were performed
+usingSAS, v9.3 (Cary, NC).
+Uterinecervix 3(15.0) 0 3(5.2)
+Otherb 3(15.0) 1(2.6) 4(6.9)
+aIncludescolon,rectumandlargeintestine(excludesappendix) RESULTS
+bIncludesadrenalglands,duodenal,oesophagealandlaryngealcancers. Patientdisposition and demographics
+ECOGPSEasternCooperativeOncologyGroupperformancescore,NSCLC Thestudywasconductedbetween11December2012and16May
+non–small-celllungcancer
+2016 at four sites in the United Kingdom. A total of 71 patients
+were screened, 58 of whom received treatment (Supplementary
+Figure1):20patientsinSchedule1and38patientsinSchedule2.
+who discontinued study treatment without disease progression Baselinedemographics areshowninTable1.Among20patients
+had tumour assessments every 8 weeks. Disease-control rate is who received eribulin-LF according to Schedule 1, the majority
+definedastheproportionofpatientswhoachievedabestoverall were male (11 patients; 55.0%) and the median age was 61.0
+response of complete response or partial response or stable years.Themostcommoncancertypeswerepleuralmesothelioma
+disease (SD). In order for SD to be deemed the best overall and uterine cervix cancer (15.0% each). Among the 38 patients
+response, it must occur≥5 weeks (or ≥7 weeks for Schedule 2) who received eribulin-LF according to Schedule 2, most were
+followingthe firstdose of study drug. female (29 patients; 76.3%), the median age was 62.5 years, and
+themostcommoncancertypesweresitesofprimarylesionwere
+ovarian (26.3%), breast (23.7%), and colorectal cancers (23.7%).
+STATISTICAL ANALYSIS Schedule 1 included patients with more diverse tumour types,
+Safetyandefficacyanalyseswerebasedonthesafetyanalysisset, whereasSchedule2includedpatientswithspecifictumourtypes
+which included all patients who received ≥1 dose of study drug (endometrial,ovarianandbreastcancers)fortheexpansionpartof
+andhad≥1postdosesafetyassessment.Pharmacokineticanalyses the study. Overall, the majority of patients (>65%) had either
+were based on the pharmacokinetic analysis set, which included colorectal(n=11),breast(n=10),ovarian(n=10)orendometrial
+all patients with sufficient pharmacokinetic data to derive ≥1 (n=7)cancers.
+parameter. The dose-finding analysis set included all patients in
+the dose-escalation phase of the study who completed cycle 1 Maximum tolerated dose. DLTs in the dose-escalation phase are
+treatment and were evaluable for DLTs, as well as those who summarised in Table 2. For Schedule 1, the MTD for eribulin-LF
+discontinued during cycle 1 due to DLTs. Actual dose intensity is was determined to be 1.4mg/m2 on day 1 every 21 days. At the
+
+--- Page 4 ---
+Phase1dose-findingandpharmacokineticstudyoferibulin-liposomal...
+TRJEvansetal.
+382
+1.5mg/m2 dose in Schedule 1, 2 patients had DLTs (grade 4 Nodeathswerereportedduringthestudyorwithin30daysof
+hypophosphatemia [n=1], grade 4 increased alanine amino- the last dose of study drug. The most frequently reported SAEs
+transferase/aspartateaminotransferaselevels[ALT/AST;n=1]).An were pyrexia (7 patients; 12.1%) and neutropenia (4 patients;
+additional3patientswereevaluatedatadoseof1.0mg/m2,none 6.9%). Six patients each treated in Schedule 1 (30%) and in
+of whom experienced a DLT. Therefore, an intermediate dose of Schedule 2 (15.8%) had a treatment-related SAE. The most
+1.4mg/m2 eribulin-LF in Schedule 1 was evaluated in 6 patients, commontreatment-related SAEs were neutropenia (6.9%),febrile
+with none experiencing a DLT. For Schedule 2, the MTD was neutropenia/neutropenic sepsis (5 individual patients; 8.6%) and
+determined to be 1.5mg/m2 on day 1 and day 15 of a 28-day pyrexia(3.4%) (SupplementaryTable3).
+cycle, with 2 DLTs reported at that dose in 1 patient (grade 4 Overall, AEs of special interest were reported in 84.5% of
+febrileneutropeniaandgrade3stomatitis).Atthe2mg/m2dose, patients, the most common being asthenia/fatigue (33 patients;
+3 patients were treated and 2 had DLTs (grade 3 increased ALT 56.9%), alopecia (23 patients; 39.7%), neutropenia (21 patients;
+[n=1]and grade 4neutropenia [n=1]). 36.2%) and peripheral neuropathy (narrow and broad terms: 11
+patients;19.0%;peripheralsensoryneuropathy:6patients;10.3%).
+Exposure. Themedian(range)numberofcycleswas3(1–26)for The frequency of treatment-emergent hypersensitivity reactions
+Schedule 1 and 2 (1–12) for Schedule 2. Of the 58 patients who was 10.0% (2 patients, both grade 2) in Schedule 1 vs. 7.9% (3
+received treatment, 43 (74.1%) discontinued due to objective patients: 1 with grade 1 and 2 with grade 2) in Schedule 2. No
+diseaseprogression,9(15.5%)duetoclinicaldiseaseprogression, grade≥3 hypersensitivity reactions occurred.
+3 (5.2%) due to patient choice, 1 (1.7%) due to toxicity, 1 (1.7%)
+duetoAEs,and1(1.7%)duetodeath>30daysafterthelastdose Pharmacokinetic analyses. Eribulin plasma-concentration profiles
+of study treatment. The duration of treatment is summarised in followedsingle-phaseelimination(Fig.1a).Exposuretoeribulin-LF
+SupplementaryFigure2;themediandurationsoftreatmentwere was dose dependent and independent of schedule (Figure 1a;
+similar for Schedule 1 and Schedule 2 (9 and 8 weeks, Table 4). Eribulin-LF was eliminated with a mean half-life (t ) of
+1/2
+respectively). approximately 30h,with eribulin plasma concentrations quantifi-
+Due to dosing frequency, the dose intensity differed between ableforupto18dayspostdose.Eribulindidnotaccumulatewith
+Schedules 1 and 2 at their respective MTDs. The planned dose multiple dosing. Eribulin exposure on cycle 3, day 1 was
+intensity in Schedule 2 was 60% higher than in Schedule 1 (0.75 comparable with that following a single dose on cycle 1, day 1.
+vs.0.47mg/m2/week).AttheMTDdoseof1.4mg/m2forSchedule Exposuretoeribulin-LFwasvariableandoverlappedacrossdoses
+1, the mean actual dose intensity (defined as total dose [mg/m2] and schedules. There was no observed correlation between
+received/[duration of treatment in days/7]) was 0.5mg/m2/week eribulin exposure (AUC) and the occurrence of DLTs (Fig. 1b).
+perpatient,withameanrelativedoseintensity(definedasactual Forexample,grade4febrileneutropeniaandgrade4increasein
+dose intensity/planned dose intensity) of 1.0 (SD=0.05). For the transaminase levels in patients dosed with 1.5mg/m2 eribulin-LF
+Schedule2MTDof1.5mg/m2(includingbothdose-escalationand wereassociated with thelower eribulinexposure observed.
+dose-expansion patients, n=32), the actual dose intensity was
+0.6mg/m2/week per patient, with a mean relative dose intensity Efficacy. Investigator-assessedtumourresponseswitheribulin-LF
+of0.7(SD=0.19). for schedules 1 and 2 are shown in Supplementary Table 4 and
+More patients in Schedule 2 had TEAEs leading to dose Supplementary Figure 3. Partial response was observed in 6
+interruption than patients in Schedule 1 (60.5% vs. 25.0%). There (10.3%) patients: 2 (10%) patients treated in Schedule 1 (1 at
+wasasimilarrateofdose reductionduetoTEAEsinSchedules1 1.4mg/m2 and 1 at 1mg/m2) and 4 (10.5%) patients treated in
+and2(5.0%vs.7.9%).Overall,5patients(8.6%)experiencedTEAEs Schedule 2 (3 at 1.5mg/m2 and 1 at 2.0mg/m2). Of the 6 partial
+that led to study-drug withdrawal (Supplementary Table 2). The responses, 5 were in patients with breast cancer: 1 patient
+incidence of treatment-related TEAEs leading to study-drug dose receivedSchedule1(1mg/m2)and4patientsreceivedSchedule2
+reductionwassimilarbetweenSchedules1and2(5.0%vs.5.3%); (2mg/m2, n=1; 1.5mg/m2, n=3). For the 6 patients who
+themostcommonreasonswerenonhematologicaltoxicities(ALT achieved partial response, the duration of response ranged from
+levelincrease/hypophosphatemia).Treatment-relatedTEAEslead- 49 to 297 days (49, 57, 98, 125, 191 and 297 days). Four out of
+ing to study-drug dose interruption were more frequent with these six patients had ongoing response at the subsequent
+Schedule2thanwithSchedule1(50%vs.20%),withneutropenia imagingassessment.Ofnote,thesepatientshadreceived1,2or3
+beingthemostfrequentcauseofdruginterruptioninSchedule2 prior lines of anticancer therapy (2 patients each). Antitumour
+(14patients; 36.8%). activitywasobservedateachdoselevel,andtheoverallobjective
+response rate among all 58 patients for the dose-escalation and
+Safety. Overall, 89.7% of TEAEs were considered treatment dose-expansion phases was 10.3%. Investigator-assessed tumour
+related;thiswasreportedin18(90%)patientsreceivingSchedule responses during the dose-expansion phase are shown in Fig. 2.
+1 and 34 (89.5%) patients receiving Schedule 2 (Supplementary The disease-control rate was 80% in patients with breast cancer,
+Table 2). Overall, SAEs were reported in 41.4% of patients and and 40.0% and 42.9% in patients with ovarian and endometrial
+TEAEs of grade≥3 were reported in 48.2% of patients (60% and cancers, respectively (Supplementary Table 4). The median
+42.1%forSchedules 1 and2, respectively). duration of treatment was 8 weeks (range: 3–79 weeks) and was
+The most frequent TEAEs with Schedule 1 were alopecia similar between Schedule 1 (9 weeks; range: 3–79 weeks) and
+(50.0%), decreased appetite (50.0%), constipation (40.0%), and Schedule2(8weeks;range: 4–48weeks).
+diarrhoea (40.0%); and the most frequent TEAEs with Schedule 2
+were neutropenia (42.1%), nausea (42.1%), fatigue (34.2%) and
+alopecia(34.2%).Overall,themostcommongrade3/4TEAEswere DISCUSSION
+neutropenia (17.2%), hypophosphatemia (6.9%) and musculoske- In this study, the MTD for eribulin-LF was established for each
+letalchestpain(5.2%)(Table3).Moregrade3/4eventsoccurredin schedule (Schedule 1: 1.4mg/m2; Schedule 2: 1.5mg/m2). Given
+Schedule 1 compared with Schedule 2 (60.0% vs. 42.1%, that Schedule 2 had both a higher MTD and a higher dose
+respectively). However, the overall incidence of grade 3/4 intensity, which facilitates greater drug exposure and potentially
+neutropenia was higher in Schedule 2 compared with Schedule increasedefficacy,itwasselectedforthedose-expansionphaseof
+1 (21.1% vs. 10.0%, respectively). A total of 3 (5.2%) patients thestudy.
+experiencedgrade3hypophosphatemia,and1(1.7%)patienthad Inthisstudy,5patients(8.6%)experiencedany-gradehypopho-
+grade4 hypophosphatemia. sphatemia(4patientshadgrade3and1patienthadgrade4).The
+
+--- Page 5 ---
+Phase1dose-findingandpharmacokineticstudyoferibulin-liposomal...
+TRJEvansetal.
+383
+Table3. TEAEsaofgrade3or4occurringin≥2%ofpatientsinanytreatmentgroup(allcycles)
+TEAE,n(%) Schedule1(n=20) Schedule2(n=38) Allpatients(n=58)
+Grade3 Grade4 Grade3 Grade4 Grade3 Grade4
+Any 9(45.0) 3(15.0) 9(23.7) 7(18.4) 18(31.0) 10(17.2)
+Bloodandlymphaticsystemdisorders
+Febrileneutropenia 0 1(5.0) 1(2.6) 1(2.6) 1(1.7) 2(3.4)
+Neutropenia 2(10.0) 0 3(7.9) 5(13.2) 5(8.6) 5(8.6)
+Gastrointestinaldisorders
+Ascites 1(5.0) 0 0 0 1(1.7) 0
+Nausea 0(0) 0(0) 1(2.6) 0 1(1.7) 0
+Stomatitis 0(0) 0(0) 2(5.3) 0 2(3.4) 0
+Generaldisordersandadministration-siteconditions
+Deviceocclusion 1(5.0) 0 0 0 1(1.7) 0
+Pyrexia 2(10) 0(0) 0 0 2(3.4) 0
+Infectionsandinfestations
+Neutropenicsepsis 1(5.0) 0 1(2.6) 0 2(3.4) 0
+Sepsis 0 0 0 1(2.6) 0 1(1.7)
+Upperrespiratorytractinfection 0 0 2(5.3) 0 2(3.4) 0
+Urinarytractinfection 0 0 2(5.3) 0 2(3.4) 0
+Woundinfection 0 0 1(2.6) 0 1(1.7) 0
+Metabolismandnutritiondisorders
+Hypernatremia 0 0 1(2.6) 0 1(1.7) 0
+Hypomagnesemia 0 0 1(2.6) 0 1(1.7) 0
+Hypophosphatemia 0 1(5.0) 3(7.9) 0 3(5.2) 1(1.7)
+Musculoskeletalandconnectivetissuedisorders
+Musculoskeletalchestpain 2(10.0) 0(0) 1(2.6) 0 3(5.2) 0
+Investigations
+Alanineaminotransferaselevelincreased 0 0 1(2.6) 0 1(1.7) 0
+Respiratory,thoracic,andmediastinaldisorders
+Pleuriticpain 1(5.0) 0 0 0 1(1.7) 0
+Pulmonaryembolism 1(5.0) 0 0 0 1(1.7) 0
+aIfapatienthadtwoormoreadverseeventswiththesamepreferredtermwithdifferentCTCAEgrades,theeventwiththehighestgradewasused.
+CTCAECommonTerminologyCriteriaforAdverseEvents,TEAEtreatment-emergentadverseevent
+1patientwhoexperiencedaDLTofgrade4hypophosphatemiaat focuson11patientswhoexperiencedadoseinterruptiondueto
+cycle 1, day 8, had borderline grade 1/2 hypophosphatemia at neutropeniainSchedule2attheeribulin-LFMTDof1.5mg/m2.Of
+studyentry.Grade3/4hypophosphatemiabylaboratorymeasure- these patients, 8 did not receive the cycle 1, day 15 dose: 7 of
+mentswasobservedin3.2%ofpatientsinthephase3trialofthe these omissions were due to neutropenia, and 1 was due to
+aqueousformulationoferibulininadvancedsoft-tissuesarcoma.7 concurrentupperrespiratorytractinfectionandascites.However,
+The causative mechanism of this remains unknown. Hypopho- the criteria for repeat dosing on day 15 included an ANC≥1.5×
+sphatemia has also been observed in other recent early-phase 109/L.All7patientsdidhaveanANC<1.5×109/Loncycle1,day
+clinicaltrials.18,19Theincidenceofperipheralneuropathy(narrow 15butonly2ofthesepatientshadANC<1.0×109/L.Inaddition,
+andbroadterms)inthisstudyoferibulin-LFwas19%;thisislower allthesepatientsproceededwitheribulin-LFdosingincycle2.The
+than that reported in the two phase 3 clinical trials of eribulin in highnumberofdoseinterruptionsinSchedule2forneutropenia
+breast cancer (35% and 27.4%).6,20 The incidence of peripheral suggests the protocol criteria for dosing on day 15 of the
+sensoryneuropathyinthisstudy(10.3%)wasalsolowerthanthat treatment cycle (i.e., ANC of ≥1.5×109/L) may have been too
+reported in the phase 3 clinical trial of eribulin in soft-tissue stringent.Ofthe5patientswithanANCof<1.5×109/LandANC
+sarcoma (grade1–2, 19%;grade 3, 2%).9 >1.0×109/L, recovery from the neutropenia was rapid and
+The actual dose intensity at the MTD was slightly higher for allowed continued dosing, usually without the need for
+Schedule 2 than for Schedule 1 (0.6 vs. 0.5mg/m2/week per granulocyte-colony stimulating factor treatment, demonstrating
+patient); however, the relative dose intensity at the MTD for that this dose and schedule was, in fact, tolerable. For further
+Schedule2waslowerthanforSchedule1(0.7vs.1.0,respectively). development, therefore, a different dose adjustment criterion for
+Thismaybeexplainedbythehighernumberofdoseinterruptions Schedule 2 could be considered. In addition, our results also
+and omissions observed in Schedule 2 patients at the MTD and suggest that if a patient cannot tolerate the 28-day schedule of
+dose reductions due to neutropenic events. The difference eribulin-LF,a21-day schedule maybe considered.
+between the incidence of neutropenia events in Schedule 1 and A hypersensitivity reaction (grade 2) following constant-rate
+Schedule 2 (20% vs. 42.1%) was investigated, with a particular infusion occurred in the first patient enroled in the study and
+
+--- Page 6 ---
+2000
+1500
+1000
+500
+0
+Table4. Eribulinplasmapharmacokineticparameters(dose-escalationphase;cycle1,day1)
+Parameter,mean Schedule1 Schedule2
+(standard
+deviation)
+Eribulin-LFdose Eribulin-LFdose
+1.0mg/m2(n=6) 1.4mg/m2(n=6) 1.5mg/m2(n=7) 1.0mg/m2(n=3) 1.5mg/m2(n=9) 2.0mg/m2(n=3)
+AUC ,ngh/mL 27,283.3(5087.80) 30,366.7(6062.23) 33,614.3(13874.13) 12,820.0(7870.43) 32,364.4(11900.94) 49,400.0(8179.85)
+0-inf
+C ,ng/mL 1986.2(3084.77) 1119.8(205.71) 1211.3(293.35) 665.3(125.13) 1213.3(259.42) 1473.3(47.26)
+max
+t ,ha 1.95(0.92,4.77) 2.835(1.50,5.00) 2.00(0.98,5.08) 0.82(0.23,0.95) 1.13(0.95,2.92) 2.10(1.18,2.17)
+max
+t ,h 22.20(2.212) 23.62(4.614) 34.87(19.374) 36.83(32.679) 28.07(9.386) 21.13(3.837)
+1/2
+CL,mL/h 60.15(17.500) 75.93(22.818) 80.90(29.390) 148.63(61.905) 95.82(58.289) 65.37(8.465)
+V ,mL 1953.3(547.53) 2091.7(505.03) 2310.0(514.39) 3793.3(1866.61) 2873.3(1530.20) 1993.3(96.09)
+d
+aMedian(min,max)
+AUC areaundertheconcentration–timecurvefromzerotimeextrapolatedtoinfinitetime,AUC areaundertheconcentration–timecurvefromzerotime
+0-inf 0-t
+totimeoflastquantifiableconcentration,C maximumobservedconcentration,CLtotalclearance,LFliposomalformulation,t timeatwhichthehighest
+max max
+drugconcentrationoccurs,t terminaleliminationphasehalf-life,V volumeofdistribution
+1/2 d
+)Lm/gn(
+noitartnecnoc
+nilubire
+amsalP
+)Lm/gn(
+noitartnecnoc
+nilubire
+amsalP
+Linear Log- linear
+Dose of eribulin-LF 1000 Dose of eribulin-LF
+1 mg/m2 1 mg/m2
+1.4 mg/m2 1.4 mg/m2
+1.5 mg/m2 100 1.5 mg/m2
+2 mg/m2 2 mg/m2
+10
+1
+0
+0 48 96 144 192 240 288 336 384 432 0 48 96 144 192 240 288 336 384 432
+Time (h) Time (h)
+Schedule 1 Schedule 2
+60,000
+40,000
+20,000
+0
+)Lm/h(cid:129)gn(
+)I(CUA
+Phase1dose-findingandpharmacokineticstudyoferibulin-liposomal...
+TRJEvansetal.
+384
+a
+b
+DLT
+G4 neutropenia
+G4 hypophosphatemia Mean AUC
+G3 increased
+ALT
+G4 increased
+tranasaminases
+G4 febrile neutropenia,
+G3 stomatis
+1.0 1.5 2.0 1.0 1.5 2.0
+Dose of eribulin-LF, mg/m2
+Fig.1 Pharmacokineticprofileoferibulin-LF.Meanplasmaconcentration–timecurvesoferibulinbydoseoferibulin-LFonalinearscaleand
+log-linearscale(a)andindividualAUCversuseribulin-LFdoseinSchedule1andSchedule2(b)—patientswithDLTsarehighlightedinred.
+AUC(I)areaunder thecurve(infinity),DLTdose-limitingtoxicity,LFliposomalformulation
+
+--- Page 7 ---
+CONCLUSIONS
+40
+30
+Thisfirst-in-humanstudymetitsprimaryobjectiveofestablishing
+20 the MTD of eribulin-LF at 1.4mg/m2 for Schedule 1 (day 1 every
+10 21 days) and 1.5mg/m2 for Schedule 2 (day 1 and day 15 every
+0 28 days). In this study, eribulin-LF was well tolerated with an AE
+–10 profile similar to that of aqueous eribulin. Safety results were
+–20 similar across the tumour types evaluated. The pharmacokinetic
+–30
+–40 profile of eribulin-LF showed the anticipated characteristics of a
+–50 liposomal formulation. Eribulin-LF showed preliminary activity in –60 several tumour types, including breast, endometrial and ovarian
+–70 cancers.
+ACKNOWLEDGEMENTS
+Theauthorsaregratefultothestaffattheinvestigatorsitesfortheirsupportofthis
+study and to the patients who participated in this study and their caregivers.
+Funding: This study was supported by Eisai, the NIHR UCLH Biomedical Research
+CentreandClinicalResearchFacility,andbyExperimentalCancerMedicineCentre
+(ECMC)grantstotheparticipatingsites(CR-UKA25174).TheECMCnetworkisfunded
+occurredagaininthesecondcycleinthesamepatient.Thisevent
+by Cancer Research UK, National Institute for Health Research (England) and The
+was considered a complement-activation-related pseudo allergy
+Chief Scientist Office (Scotland). Editorial assistance was provided by Oxford
+associated with the liposomal lipid component of the formula-
+PharmaGenesis Inc., Newtown, PA, USA, and was funded by Eisai Inc., Woodcliff
+tion.21 As a result, the protocol for this study was amended to Lake,NJ,USA.
+introduce a stepped-escalation infusion rate for eribulin-LF,
+starting at an infusion rate of 0.005mg/min for the first 10min,
+which could be escalated (if tolerated without reaction) to a rate AUTHORCONTRIBUTIONS
+notexceeding0.2mg/min.Followingthischangeinprotocol,7% T.R.J.E., E.D., L.R.M., J.L., M.R., F.E.K., I.Z., C.S., L.R., Y.J., L.S., A.G. J.B., and R.K. were
+ofpatients experienced grade 1/2 hypersensitivity reactions on a involved in the study design, data analysis and interpretation, writing and
+single occasion, and no grade≥3 hypersensitivity reactions developmentofthemanuscriptandapprovedthefinaldraft.
+occurred. No prophylaxis premedication was administered to
+managethese events.
+Eribulin-LF has a single-phase pharmacokinetic profile, which AVAILABILITYOF DATAANDMATERIAL
+differs from the pharmacokinetic profile of the aqueous formula- Thedatasetsgeneratedduringand/oranalysedduringthecurrentstudyareonfile
+tionoferibulin,whichhasbeendescribedaseitherbiphasic22 or withEisaiandnotpubliclyavailable.
+triphasic.23 The elimination t (~30h, range: 21.1–36.8) of
+1/2
+eribulin-LF is comparable to that of eribulin (~40−48h), but the
+ADDITIONAL INFORMATION
+maximum observed concentration (C ) is approximately 5-fold
+max Supplementaryinformationisavailableforthispaperathttps://doi.org/10.1038/
+greater and the AUC is approximately 40-fold greater with
+eribulin-LF.22,23 The liposomal formulation enabled longer expo- s41416-019-0377-x.
+suretoeribulin,withtheplasmaconcentrationquantifiableupto
+Competing interests: T.R.J.E.: honoraria from Bristol-Myers Squibb and Eisai;
+18 days postdose, compared with 8 days postdose for eribulin participated in speaker’s bureau for Bristol-Myers Squibb, Eisai and Celgene; paid
+aqueous formulation.24 Eribulin-LF clearance (CL) and volume of consultancy from Bristol-Myers Squibb, Eisai, Celgene and Karus Therapeutics;
+distributionweremuchlowerthanthoseforeribulin(CL=~3.4L/ receivedresearchfundingfromAstraZeneca,Celgene,Eisai,GlaxoSmithKline,Roche,
+hforeribulinand0.08L/hforeribulin-LF;volumeofdistributionof Ono, Bristol-Myers Squibb, Eli Lily, Basilea, Vertex, Merck, Daiichi Sankyo, Nutide,
+approximately 134L for eribulin and ~2L for eribulin-LF).14,15 Sierra,ImmunocoreVerastem;expensespaidbyBristol-MyersSquibb;SubjectEditor
+These observations are in line with doxorubicin liposomal oftheBritishJournalofCancer.E.D.:researchfeesfromTheChristieNHSFoundation;
+employee of AstraZeneca with stock options; Independent Safety Physician for
+formulation and are the disposition characteristics of a liposomal
+formulation.25 The longer duration of exposure of eribulin-LF Theradex CRO; participated in advisory board for Aptus ClinicalLimited.J.L.: paid
+consultancyforMerckandEisai.M.R.:financialsupportfromEisai.C.S.:employeeof
+(18daysvs.8days)isalsoduetoa~40-foldgreaterAUCfollowing
+Eisai.L.R.:employeeofEisai.Y.J.:employeeofEisai.Theremainingauthorsdeclareno
+thesame magnitudeof eribulindose. competinginterests.
+Several liposomal formulations of anticancer drugs have been
+approved in various tumour types, including a PEGylated
+Ethics approval and consent to participate: The study was conducted in
+liposomalformulationofdoxorubicin.26Theliposomalformulation
+accordance with the Declaration of Helsinki and guidelines of the International
+of doxorubicin demonstrated a lower volume of distribution (4.1 ConferenceforHarmonisation/GoodClinicalPracticeandwasapprovedbyacentral
+vs.254L)andclearance(0.1vs.45.3L/h),andadrugconcentration researchethicscommitteeintheUK.Allpatientsprovidedwritteninformedconsent
+inthetumourthatwas4–16timeshigherthanfreedoxorubicin.25 priortoundergoinganystudy-relatedprocedure.
+Moreover, cardiotoxicity was reduced with the PEGylated liposo-
+malformulation.26,27Giventhepotentialforreducedtoxicitywith Publisher’snote:SpringerNatureremainsneutralwithregardtojurisdictionalclaims
+liposomal formulations, eribulin-LF may facilitate combinations inpublishedmapsandinstitutionalaffiliations.
+withother anticancer agents.
+Overall, no new or unexpected safety signals were identified
+REFERENCES
+with eribulin-LF compared to the eribulin aqueous formulation.
+The objective response rate in patients with breast cancer in this 1. Jordan,M.A.etal.Theprimaryantimitoticmechanismofactionofthesynthetic
+studycomparedfavourablywithdatafrompooledanalysesfrom2 halichondrinE7389issuppressionofmicrotubulegrowth.Mol.CancerTher.4,
+phase 3 studies of eribulin.10 Although these results are encoura-
+1086–1095(2005).
+2. Okouneva,T.,Azarenko,O.,Wilson,L.,Littlefield,B.A.&Jordan,M.A.Inhibitionof
+ging, the sample size of the breast cancer group was small and,
+centromeredynamicsbyeribulin(E7389)duringmitoticmetaphase.Mol.Cancer
+therefore, robust conclusions could not be drawn. Further Ther.7,2003–2011(2008).
+investigation of eribulin-LF inbreastcancer asa single-agentand 3. Smith,J.A.etal.Eribulinbindsatmicrotubuleendstoasinglesiteontubulinto
+incombinationwithothertherapeuticsisunderconsideration. suppressdynamicinstability.Biochemistry49,1331–1337(2010).
+)%(
+enilesab
+morf
+egnahC
+Phase1dose-findingandpharmacokineticstudyoferibulin-liposomal...
+TRJEvansetal.
+385
+*
+B reast * *
+E ndometrial *
+O varian
+*
+Fig.2 Waterfallplotdisplayingmaximumpercentagechangefrom
+baselineinsumsoflesiondiametersinpatientswithbreast,ovarian
+orendometrialcancersfromthedose-expansionphase(Schedule2).
+*Patientswhoachievedapartialresponse(PR)
+
+--- Page 8 ---
+Phase1dose-findingandpharmacokineticstudyoferibulin-liposomal...
+TRJEvansetal.
+386
+4. Dybdal-Hargreaves, N. F., Risinger, A. L. & Mooberry, S. L. Eribulin mesylate: 20. Kaufman,P.A.etal.PhaseIIIopen-labelrandomizedstudyoferibulinmesylate
+mechanismofactionofauniquemicrotubule-targetingagent.Clin.CancerRes. versuscapecitabineinpatientswithlocallyadvancedormetastaticbreastcancer
+21,2445–2452(2015). previouslytreatedwithananthracyclineandataxane.J.Clin.Oncol.33,594–601
+5. Kawano,S.,Asano,M.,Adachi,Y.&Matsui,J.Antimitoticandnon-mitoticeffects (2015).
+oferibulinmesilateinsofttissuesarcoma.AnticancerRes.36,1553–1561(2016). 21. Sercombe,L.etal.Advancesandchallengesofliposomeassisteddrugdelivery.
+6. Cortes,J.etal.Eribulinmonotherapyversustreatmentofphysician’schoicein Front.Pharmacol.6,286(2015).
+patientswithmetastaticbreastcancer(EMBRACE):aphase3open-labelrando- 22. Tan, A. R. et al. Phase I study of eribulin mesylate administered once every
+misedstudy.Lancet377,914–923(2011). 21daysinpatientswithadvancedsolidtumors.Clin.CancerRes.15,4213–4219
+7. Halaven(eribulinmesylate) injection[prescribinginformation]. Woodcliff Lake, (2009).
+NJ:EisaiInc.,2016. 23. Morgan,R.J.etal.Pharmacodynamics(PD)andpharmacokinetics(PK)ofE7389
+8. Halaven0.44mg/mlsolutionforinjection[summaryofproductcharacteristics]. (eribulin,halichondrinBanalog)duringaphaseItrialinpatientswithadvanced
+Hertfordshire,UK:EisaiEuropeLimited. solidtumors:aCaliforniaCancerConsortiumtrial.CancerChemother.Pharmacol.
+9. Schöffski,P.etal.Eribulinversusdacarbazineinpreviouslytreatedpatientswith 76,897–907(2015).
+advanced liposarcoma or leiomyosarcoma: a randomised, open-label, multi- 24. Tan,A.R.etal.Pharmacokineticsoferibulinmesylateincancerpatientswith
+centre,phase3trial.Lancet387,1629–1637(2016). normal and impaired renal function. Cancer Chemother. Pharmacol. 76,
+10. Twelves,C.etal.Efficacyoferibulininwomenwithmetastaticbreastcancer:a 1051–1061(2015).
+pooledanalysisoftwophase3studies.BreastCancerRes.Treat.148,553–561 25. Gabizon, A. et al. Prolonged circulation time and enhanced accumulation in
+(2014). malignantexudatesofdoxorubicinencapsulatedinpolyethylene-glycolcoated
+11. Khan,D.R.,Webb,M.N.,Cadotte,T.H.&Gavette,M.N.Useoftargetedliposome- liposomes.CancerRes.54,987–992(1994).
+basedchemotherapeuticstotreatbreastcancer.BreastCancer9,1–5(2015). 26. Bulbake,U.,Doppalapudi,S.,Kommineni,N.&Khan,W.Liposomalformulationsin
+12. Duncan,R.Polymerconjugatesasanticancernanomedicines.Nat.Rev.Cancer6, clinical use: an updated review. Pharmaceutics 9, E12, https://doi.org/10.3390/
+688–701(2006). pharmaceutics9020012(2017).
+13. Cukierman,E.&Khan,D.R.Thebenefitsandchallengesassociatedwiththeuse 27. Batist,G.Cardiacsafetyofliposomalanthracyclines.Cardiovasc.Toxicol.7,72–74
+of drug delivery systems in cancer therapy. Biochem. Pharmacol. 80, 762–770 (2007).
+(2010).
+14. AsanoM,etal.Characterizationoftheliposomalformulationoferibulinmesylate
+(E7389)inmice[abstract].CancerRes.2015;75(Suppl15):Abstract4543. Open Access This article is licensed under a Creative Commons
+15. Yu,Y.etal.Characterizationofthepharmacokineticsofaliposomalformulation Attribution 4.0 International License, which permits use, sharing,
+oferibulinmesylate(E7389)inmice.Int.J.Pharm.443,9–16(2013). adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+16. Desjardins, C. et al. A high-performance liquid chromatography-tandem mass appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+spectrometrymethodfortheclinicalcombinationstudyofcarboplatinandanti- Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+tumoragenteribulinmesylate(E7389)inhumanplasma.J.Chromatogr.B.Anal. materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+Technol.Biomed.Life.Sci.875,373–382(2008). indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+17. Eisenhauer,E.A.etal.Newresponseevaluationcriteriainsolidtumours:revised article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+RECISTguideline(version1.1).Eur.J.Cancer45,228–247(2009). regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+18. Bardia,A.etal.Efficacyandsafetyofanti-trop-2antibodydrugconjugatesaci- fromthecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.
+tuzumab govitecan (IMMU-132) in heavily pretreated patients with metastatic org/licenses/by/4.0/.
+triple-negativebreastcancer.J.Clin.Oncol.35,2141–2148(2017).
+19. Kyriakopoulos, C. E. et al. A phase I study of tivantinib in combination with
+temsirolimus in patients with advanced solid tumors. Invest. New Drugs 35, ©TheAuthor(s)2019
+290–297(2017).

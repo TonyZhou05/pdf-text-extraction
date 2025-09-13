@@ -1,0 +1,641 @@
+Source: 22864469.pdf
+Extracted on: Fri Sep 12 23:56:41 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+Published in final edited form as:
+Invest New Drugs. 2013 June ; 31(3): 707–713. doi:10.1007/s10637-012-9866-y.
+A Phase I Study of IMP321 and Gemcitabine as the Front-line
+Therapy in Patients with Advanced Pancreatic Adenocarcinoma
+Andrea Wang-Gillam1,4,*, Stacey Plambeck-Suess2,*, Peter Goedegebuure2,4, Peter O
+Simon3, Jonathan B Mitchem2, John R Hornick2, Steven Sorscher1,4, Joel Picus1,4, Rama
+Suresh1,4, Albert C Lockhart1,4, Benjamin Tan1,4, and Williams Hawkins2,4
+1Division of Oncology, Department of Medicine, Washington University School of Medicine, St.
+Louis, MO
+2Department of Surgery, Washington University School of Medicine, St. Louis, MO
+3Vascular and Interventional Radiology, University of Virginia Health System, Charlottesville,
+Virginia
+4Siteman Cancer Center, St. Louis, MO
+Abstract
+Purpose—This phase I study was conducted to determine the safety profile and maximum
+tolerated dose (MTD) of IMP321, a soluble lymphocyte activation gene-3 (LAG-3) Ig fusion
+protein and MHC Class II agonist, combined with gemcitabine in patients with advanced
+pancreatic adenocarcinoma.
+Patients and methods—Patients with advanced pancreatic adenocarcinoma were treated with
+gemcitabine (1,000 mg/m2)(level 1), gemcitabine (1,000 mg/m2) plus IMP 321 at 0.5 mg (level 2)
+and 2.0 mg (level 3), respectively. Safety, toxicity, and immunological markers at baseline and
+post treatment were assessed.
+Results—A total of 18 patients were enrolled to the study, and 17 were evaluable for toxicity.
+None of the 6 patients who received 0.5 mg IMP321 experienced IMP321-related adverse events.
+Of the 5 patients who received IMP321 at the 2 mg dose level, 1 experienced rash, 1 reported hot
+flashes and 2 had mild pain at the injection sites. No severe adverse events previously attributed to
+IMP321 were observed. No significant differences were observed when comparing pre- and post-
+treatment levels of monocytes (CD11b+CD14+), conventional dendritic cells (CD11c+) or T cell
+subsets (CD4, CD8).
+Conclusions—IMP321 in combination with gemcitabine is a well-tolerated regimen. IMP321
+did not result in any severe adverse events. No incremental activity observed for the additional
+IMP 321 to gemcitabine at the dose levels evaluated, likely due to sub-optimal dosing.
+Immunological markers suggested that higher dose levels of IMP321 are needed for future clinical
+studies.
+Keywords
+IMP321; LAG-3; front-line therapy; chemo-immunotherapy; pancreatic adenocarcinoma
+Corresponding author: William G. Hawkins MD, FACS, Associate Professor of Surgery, Department of Surgery, Washington
+University School of Medicine, St. Louis, MO 63110, hawkinsw@wustl.edu.
+*Denotes equal contribution
+Disclosure of Potential Conflicts of Interest:
+The authors declare that they have no conflict of interest.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Wang-Gillam et al. Page 2
+Introduction
+Pancreatic cancer is the fourth leading cause of cancer-related mortality in the United States,
+resulting in approximately 37,000 deaths in 2011 [1]. Surgery is the only curative therapy;
+however, about 80% of patients are not surgical candidates at the time of diagnosis, and their
+treatment options are largely limited to palliative chemotherapy and radiation. Over the last
+decade, the 5-year overall survival for patients with advanced pancreatic cancer has
+remained less than 5% [1].
+Gemcitabine has been a cornerstone regimen for patients with pancreatic cancer since 1997
+after a phase III study demonstrated a modest survival advantage and better disease-related
+symptom control in patients treated with gemcitabine when compared to patients treated
+with 5-FU [2]. Since then, various regimens using gemcitabine in combination have been
+tested in the clinical setting; so far, only gemcitabine plus erlotinib has resulted in a
+moderate survival benefit when compared to gemcitabine alone, gaining approval from the
+Food Drug Administration (FDA). However, the clinical value of erlotinib has been
+questioned given its minimal improvement in median overall survival (OS) (6.24 months vs.
+5.91 months) [3].
+Cancer immunotherapy has been an active area of basic cancer research for decades.
+Recently, the immunological approach has become extremely promising for solid tumors
+based on survival benefits observed in the clinical setting [4, 5]. Additionally, the so-called
+“hallmarks of cancer” posited by Drs. Hanahan and Weinberg, recently were revised to
+include immune suppression [6]. Current clinical studies for pancreatic cancer emphasize
+immune activation and/or attempt to modulate mechanisms of immune suppression [7]. In
+pancreatic cancer in particular, immune suppression is prominent through an increased
+prevalence of myeloid-derived suppressor cells (MDSC) including suppressor macrophages
+[8, 9] and regulatory T-cells (Treg) that correlate with poor prognosis [10-12]. While MDSC
+can suppress antitumor immunity through a variety of mechanisms [8], Tregs induce
+immune tolerance by suppressing immune responses against self and non-self antigens [10].
+Thus MDSC and Treg play a critical role in the immune response to malignancies.
+The lymphocyte activation gene-3 (LAG-3 or CD223) is an important T cell regulator [13].
+As a transmembrane protein that forms dimers at the surface of activated T cells, LAG-3 has
+a high affinity for major histocompatibility complex (MHC) class II molecules expressed on
+antigen presenting cells (APC) [13]. The LAG-3 - MHC class II interaction promotes the
+activation and maturation of human dendritic cells (DC), resulting in DC chemokine and
+cytokine secretion [13]. Additionally, LAG-3 has been shown to elicit a tumor-specific
+cytotoxic lymphocyte (CTL) response and a CD4+ TH response when administered as an
+1
+adjuvant with tumor cells [14, 15]. When activated, LAG-3 is a T-cell receptor (TCR)-
+associated molecule that negatively regulates TCR-mediated signaling in effector T cells in
+a fashion analogous to the cytotoxic T lymphocyte associated protein 4 (CTLA-4)) [16-19].
+This LAG-3 and TCR signaling pathway is necessary for Treg suppressor activity [20, 21];
+therefore, exogenous (or soluble) LAG-3 may potentially interfere with the LAG-3
+activation of Treg and block Treg-mediated tolerance when used at high dose levels.
+Soluble LAG-3 protein can be detected in human serum. In patients with breast cancer,
+higher soluble LAG-3 (sLAG-3) levels were associated with better survival [22]. The
+potential therapeutic benefit of sLAG-3 has led to the development of IMP321, a
+recombinant form of sLAG-3 (Immutep S.A., Orsay, France). IMP321 consists of an
+extracellular portion of human LAG-3 fused to the F fraction of human IgG1, thus creating
+c
+a stable dimeric structure. IMP321 binds to MHC II on the surface of APCs and promotes
+activation and maturation of human DCs, resulting in chemokine and cytokine secretion
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Wang-Gillam et al. Page 3
+which has been shown to have strong immunostimulatory effects in mice immunized with
+particulate or soluble protein antigens [23].
+The safety of IMP321 was previously tested in 2005 in 108 healthy volunteers either alone
+or with immunization with two antigens which have been used widely in human vaccination
+trials [24, 25]; excellent local and systemic tolerability was observed [26]. We hypothesize
+that the combination of IMP321 and gemcitabine may induce or amplify pre-existing cell-
+mediated immune responses by stimulating APCs in the presence of cytotoxic therapy.
+Methods
+Study design
+This was a phase I, open-label, dose escalation study of IMP321 combined with gemcitabine
+as the front-line therapy in patients with newly diagnosed advanced pancreatic cancer. The
+first dose level was defined as 1,000 mg/m2 gemcitabine administered as a single agent
+intravenously (IV) every week for 7 out of 8 weeks. This group 1 cohort was added to the
+protocol based on the recommendation of the FDA. The Level 2 cohort received 0.5 mg
+IMP321 subcutaneously (s.c.) on days 2 and 16 while receiving 1,000 mg/m2 gemcitabine
+every week for 3 of 4 weeks. The Level 3 cohort was similar to Group 2 except these
+participants received a 2.0 mg dose of IMP32. Every 4 weeks was considered one cycle.
+Imaging studies were performed on patients prior to enrollment in the trial and were then
+repeated every two treatment cycles. Treatment efficacy was assessed by the Response
+Evaluation Criteria in Solid Tumor (RECIST) 1.1. The maximal treatment duration was 6
+cycles. IMP321 at 6 mg and 12 mg was planned but not performed because the manufacturer
+was unable to produce further product. The dose-limiting toxicity (DLT) was defined as
+follows: any Grade 3 or Grade 4 non-hematological toxicity with the exceptions of Grade 3
+nausea or vomiting, and Grade 3 hepatic toxicity which returned to Grade 1 prior to the next
+treatment course. The hematological DLT was defined as Grade 4 neutropenia greater than 7
+days duration, Grade 4 anemia or thrombocytopenia that required transfusion therapy on
+greater than 2 occasions in 7 days or a delay greater or equal to 14 days between treatment
+cycles. Any toxicity requiring an additional 2 weeks delay between cycles was considered to
+be a DLT. DLT was not limited to the first treatment cycle, and any subject experiencing
+Grade 4 cumulative toxicities after the first cycle was considered to experience DLT.
+Toxicity was graded by the National Cancer Institute Common Terminology Criteria for
+Adverse Events (CTCAE), version 3.0. Subjects were not enrolled to the next dose level
+until all subjects on the previous dose level had completed one full cycle. The MTD was
+defined as the dose level immediately below the dose level at which 2 patients of a cohort (6
+patients) experienced DLTs.
+Patient population
+Patients with newly diagnosed histologically or cytologically confirmed unresectable
+pancreatic adenocarcinoma were eligible for this study. The eligibility criteria were defined
+as follows: measurable or evaluable disease defined by RECIST criteria; > 18 years old;
+Karnofsky Performance Status (KPS) ≥70; life expectancy >12 weeks; adequate bone
+marrow functions defined as an absolute neutrophil count > 1,500/mm3, platelet count
+>100,000/mm3 and hemoglobin>10 g/dL; adequate renal function defined as serum
+creatinine ≤ 2.0 mg/dL or creatinine clearance ≥60 mg/min/1.73 m2; adequate hepatic
+function defined as total bilirubin ≤ 1.5 X the institutional upper limit normal value (ULN)
+and aspartate aminotransferase (AST) ≤ 2X the ULN. Patients must have signed the
+informed consent form. Patients with prior history of chemotherapy for pancreatic cancer, or
+active autoimmune disease requiring management with immunosuppressive drugs were
+excluded from this study.
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Wang-Gillam et al. Page 4
+Drug Administration
+Patients in the first dose level (gemcitabine only) received 1,000mg/m2 IV gemcitabine over
+a 30 minute period every week for 7 of 8 weeks. Patients participating in the combination
+drug regimen cohorts (levels 2 and 3) received 1,000 mg/m2 IV gemcitabine over a 30
+minute period every week for 3 of 4 weeks. Level 2 and 3 patients also received IMP321
+administered s.c. with the first dose on the anterior surface of either the left or right thigh on
+day 2, and the subsequent dose on day 16 delivered on the contralateral thigh. IMP321 at 0.5
+mg and 2 mg were given for dose levels 2 and level 3, respectively. Subjects who received
+IMP321 were monitored for 1 hour following drug administration. Dose modifications for
+gemcitabine were made according to the manufacturer’s recommendations.
+Immunological Assays
+Flow cytometric analysis using peripheral blood mononuclear cells (PBMC) from patients
+with pancreatic adenocarcinoma was performed as follows. Peripheral blood samples were
+collected from study subjects in vacuum tubes containing heparin (BD Biosciences; San
+Jose, CA) and processed immediately. Cells were isolated by Ficoll-density centrifugation
+and frozen in dimethyl sulfoxide (DMSO) with 10% fetal bovine serum (FBS). When both
+pre – and post treatment blood samples were collected, PBMC were thawed using CTL wash
+(Cellular Technology Ltd, Shaker Heights, OH), washed, and stained with antibodies
+including CD45, CD11b, CD11c, CD4, CD8, CD14, CD15, CD80, CD86, CD123, and
+MHC class II, according to the manufacturer’s instructions (BD Biosciences). Analysis was
+immediately performed on a LSR II flow cytometer. Corresponding isotope controls yielded
+no significant staining. All results were analyzed using FlowJo software (Tree Star Inc,
+Ashland, OR) and are expressed as a percentage of CD45+ cells.
+Results
+General
+From February to August 2009, a total of 18 patients were consented to the study. One
+patient withdrew consent before receiving any treatment. Seventeen were considered to be
+evaluable for toxicity, as defined by those receiving at least one dose of chemotherapy.
+Demographic information is shown in Table 1. The median age of all patients was 63.5
+years. Out of 17 patients, 9 (53%) were male, and 12 (71%) were Caucasian. The majority
+(71%) of patients had a KPS of 70-80. Thirteen (76.4%) had metastatic pancreatic cancer
+while 4 had locally advanced disease (2 in dose level 1 group, 2 in level 2, and 1 in level 3).
+Eight patients had tumors in the head of the pancreas. Six patients received gemcitabine only
+(level 1); 6 received gemcitabine and IMP321 at the 0.5 mg dose level (level 2), and 5
+received gemcitabine plus IMP321 at the 2 mg dose level (level 3).
+Safety and Toxicity
+The adverse events related to IMP321 are summarized in Table 2. None of the 6 patients
+who received 0.5 mg IMP321 experienced IMP321-related adverse events. Of the 5 patients
+who received IMP321 at the 2 mg dose level, 1 experienced rash, 1 reported hot flashes, and
+2 had mild pain at the injection sites. Two patients in this cohort experienced DLTs, and
+both DLTs (grade 3 pneumonitis and grade 3 abdominal pain) were considered to be
+gemcitabine-related. No severe adverse events attributable to IMP321 were observed.
+The reasons for treatment discontinuation of subjects are shown in Table 3. Of the 17
+evaluable patients, 5 (29.4%) were taken off study due to disease progression, 4 were taken
+off study due to gemcitabine-related adverse events, and 8 (47.1%) completed a total of 6
+treatment cycles.
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Wang-Gillam et al. Page 5
+Antitumor activity
+For the gemcitabine only group (Level 1), 5 of 6 patients had stable disease (SD). The
+median time-to-progression (TTP) and overall survival (OS) were 44.5 and 72.7 weeks,
+respectively. For patients receiving the level 2 dose, 2 of 6 experienced SD. The median
+TTP and OS were 8.8 and 24.5 weeks, respectively. One patient with metastatic pancreatic
+cancer in this cohort had SD for 33 weeks and OS for 101 weeks. Five patients received the
+level 3 dose, and 2 with DLTs were not evaluable for treatment efficacy as no imaging
+studies were performed on them. All 3 evaluable patients had SD. Two in this cohort
+completed 6 cycles of treatment. The median TTP and OS were 23.0 and 28.0 weeks,
+respectively.
+Immunological analysis
+As LAG-3 reportedly promotes antigen presentation and T cell activation, PBMC from
+patients were subjected to immunophenotypic analysis before and after completion of
+treatment. In addition to subset analysis, expression levels of cell surface markers indicative
+of activation/maturation were assessed. Overall, no significant differences were observed
+when comparing pre-treatment with post-treatment levels of monocytes (CD11b+CD14+),
+conventional dendritic cells (CD11c+) or T cell subsets (CD4+, CD8+). This was observed
+when comparing all patients as one group; when broken down by cohort, or when comparing
+patients with the same clinical response, i.e. SD or progressive disease (PD). Pre-treatment
+and post-treatment prevalence did not significantly differ between various subgroups of
+patients such as patient in level 2 versus 3 or between SD and PD patients (Figure 1).
+Likewise, when comparing expression levels of MHC class II (HLA-DR), CD80, and CD86,
+no significant differences were noted within subgroups of patients or within patients
+comparing pre – versus post-treatment.
+Discussion
+IMP321 in combination with gemcitabine was a tolerable regimen. There were two DLTs
+when IMP321 was given at the 2 mg dose level in combination with gemcitabine, and both
+were attributed to gemcitabine. The FDA mandated reevaluation of our trial after the first
+two dose levels were completed. Toxicity data was shared with the FDA and the safety
+profile was considered acceptable. Approval was given for additional study of IMP321 at
+higher and potentially more effective doses of in combination with gemcitabine. Further
+studies are under consideration and will be determined based on corporate goals and
+resource availability. Escalation beyond the 2mg level was not performed in this study due
+to the lack of available experimental drug. When interpreting the data from this study, it is
+important to note that the FDA mandated a gemcitabine cohort (Level 1) which
+demonstrated an unusually long survival and was not comparable with the historical data for
+gemcitabine alone [2].
+IMP321 has previously been shown to increase T cell responses and vaccine
+immunogenicity in a proof-of-concept phase I study [24, 25]. Additionally, a preclinical
+study demonstrated that the presence of soluble LAG-3 resulted in renal cell cancer (RCC)
+rejection in mice [15], leading to a phase I study of IMP321 in patients with advanced renal
+cell carcinoma [26]. IMP321 at 0.05, 0.25, 1.25, 6.25 and 30 mg s.c biweekly doses was
+assessed, and no clinically significant treatment-related adverse events were reported at any
+dose levels. Based on the pharmacokinetic analysis, plasma concentrations of IMP321 were
+minimally detectable in the 1.25 mg dose group [26]. According to the pharmacodynamic
+analysis, IMP321 increased the percentage of activated CD8+ T cells in higher dose groups
+(6.25 mg and 30 mg). Furthermore, although there was no objective response in the 21
+subjects that participated in this phase I trial, progression-free-survival was significantly
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Wang-Gillam et al. Page 6
+better in the high dose group (> 6 mg) [26]. Unfortunately, the data of this phase I study was
+published after our phase I study launched in the United States, and the IMP321 dose levels
+that we used (0.5 mg and 2mg) were considered to be suboptimal based on the
+pharmacodynamic analysis of the prior RCC trial.
+In addition to the above trial in RCC patients, IMP321 in combination with paclitaxel was
+tested in patients with breast cancer [27] in the first chemo-immunotherapy trial with this
+drug. Chemotherapy can increase antigen release by inducing tumor cell apoptosis, and
+IMP321 leads to APC activation and activation and expansion of CD8+ T cells [27]. Three
+doses of IMP321 (0.25 mg, 1.25 mg and 6.25 mg) in combination with paclitaxel were
+administrated in this study. There were no significant IMP321-related adverse events [27].
+The 6.25 mg IMP321 dose was found to activate monocytes when given repeatedly over 6
+months [27]. Monocyte activation in the blood at 6 months was positively correlated with
+tumor regression [27]. The gain of function in this major APC subset, i.e. the monocytes,
+was already observed at 3 months and then strongly reinforced at 6 months [27]. Thus
+IMP321 in the 6 mg dose range should be given repeatedly as an APC activator to induce its
+primary pharmcodynamic effect. In the present study only patients who are first stabilized
+with gemcitabine and therefore have received IMP321 for more than 3 months could
+theoretically benefit from the immunotherapy.
+Our study along with other studies demonstrates a good safety profile of IMP321 either as a
+single agent therapy or in combination with chemotherapy, warranting the exploration of
+higher doses of IMP321 in future clinical trials.
+In our study, two cohorts of IMP321 plus gemcitabine did not show treatment efficacy. This
+is likely due to the low IMP321 doses. Treatment response was seen in patients received the
+lowest dose (0.25mg) of IMP321 in the phase I trial of IMP321 and paclitaxel in breast
+cancer; however, the treatment benefit is probably due to the paclitaxel effect [27].
+In terms of pharmacodynamic analysis of this study, levels of monocytes (CD11b+CD14+),
+conventional dendritic cells (CD11c+) and T cell subsets (CD4+, CD8+) were not changed
+between pre- and post-treatment. This observation may also be related to the low doses of
+IMP321 used in this study, as previous studies did not reveal any significant impact on
+CD8+ activation by monocytes when IMP321 was given at the low dose levels [26, 27].
+IMP321 at 6.25 mg, however, was found to activate monocytes when given repeatedly over
+6 months [27], and this dose appears to be tolerable; therefore it should be considered for
+future chemo-immunotherapy trials.
+Chemotherapy regimens for patients with pancreatic cancer have recently gone through
+revolutionary changes. A phase III randomized trial has demonstrated a superior overall
+survival in patients with metastatic pancreatic cancer when they were treated with
+FOLFIRINOX (5-FU, leucovorin, oxaliplatin and irinotecan) compared with gemcitabine
+(median OS 11.6 months vs. 6.8 months; HR: 0.57; p<0.0001) [28]. The significant
+improvement of OS with FOLFIRINOX has led to the further evaluation of its benefit in
+locally advanced and resectable pancreatic cancer. The toxicity associated with
+FOLFIRINOX has made combination with other cytotoxic therapies challenging. In light of
+the lack of clinically adverse events observed with IMP321, it is a reasonable to explore the
+combination of IMP321 and FOLFIRINOX in patients with pancreatic cancer. Additionally,
+combination with other immune modulating therapies could be explored. Various strategies
+are being tested in clinical trials including specific T cells [7]. To increase efficacy, these
+strategies can be combined with strategies that modulate immune suppressor cells or T cell
+regulatory networks such as CTLA-4 and Programmed Death-1 [7,8]. We anticipate that
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Wang-Gillam et al. Page 7
+studies of IMP321 combined with either chemotherapy or immunotherapy will flourish
+soon.
+Conclusions
+This is the first investigation of IMP321 in the United States. We have demonstrated that
+low dose IMP321 is safe in combination with gemcitabine chemotherapy. We did not
+observe a beneficial clinical effect or positive basic science correlation at the doses tested in
+this phase I trial. We do believe that further evaluation of IMP321 is warranted in patients
+with pancreatic cancer given that the doses utilized in this study were lower than what has
+previously been shown to have an effect in other malignancies. We recommend doses
+greater than 6 mg be considered in future U.S. trials based on the safety profile and efficacy
+observed in recent European trials.
+Acknowledgments
+The authors would like to acknowledge The Gateway for Cancer Research foundation (P-07-019), Doug Phillips
+Family, and the Department of Surgery for their financial support of the clinical trial. We acknowledge Immutep
+S.A. for donating IMP321. We would also like to acknowledge the Siteman Cancer Center Clinical Trials Core
+(2P30CA901842) and the T32 training grant (5T32CA009621) which supported PS, JH and JM.
+References
+1. Jemal A, Bray F, Center MM, Ferlay J, Ward E, Forman D. Global cancer statistics. CA Cancer J
+Clin. 2011; 61:69–90. [PubMed: 21296855]
+2. Burris HA 3rd, Moore MJ, Andersen J, Green MR, Rothenberg ML, Modiano MR, Cripps MC,
+Portenoy RK, Storniolo AM, Tarassoff P, et al. Improvements in survival and clinical benefit with
+gemcitabine as first-line therapy for patients with advanced pancreas cancer: a randomized trial. J
+Clin Oncol. 1997; 15:2403–2413. [PubMed: 9196156]
+3. Moore MJ, Goldstein D, Hamm J, Figer A, Hecht JR, Gallinger S, Au HJ, Murawa P, Walde D,
+Wolff RA, et al. Erlotinib plus gemcitabine compared with gemcitabine alone in patients with
+advanced pancreatic cancer: a phase III trial of the National Cancer Institute of Canada Clinical
+Trials Group. J Clin Oncol. 2007; 25:1960–1966. [PubMed: 17452677]
+4. Hodi FS, O'Day SJ, McDermott DF, Weber RW, Sosman JA, Haanen JB, Gonzalez R, Robert C,
+Schadendorf D, Hassel JC, et al. Improved survival with ipilimumab in patients with metastatic
+melanoma. N Engl J Med. 2010; 363:711–723. [PubMed: 20525992]
+5. Kantoff PW, Higano CS, Shore ND, Berger ER, Small EJ, Penson DF, Redfern CH, Ferrari AC,
+Dreicer R, Sims RB, et al. Sipuleucel-T immunotherapy for castration-resistant prostate cancer. N
+Engl J Med. 2010; 363:411–422. [PubMed: 20818862]
+6. Hanahan D, Weinberg RA. Hallmarks of cancer: the next generation. Cell. 144:646–674. [PubMed:
+21376230]
+7. Dodson LF, Hawkins WG, Goedegebuure P. Potential targets for pancreatic cancer
+immunotherapeutics. Immunotherapy. 2011; 3:517–537. [PubMed: 21463193]
+8. Goedegebuure P, Mitchem JB, Porembka MR, Tan MC, Belt BA, Wang-Gillam A, Gillanders WE,
+Hawkins WG, Linehan DC. Myeloid-derived suppressor cells: general characteristics and relevance
+to clinical management of pancreatic cancer. Curr Cancer Drug Targets. 2011; 11:734–751.
+[PubMed: 21599634]
+9. Porembka MR, Mitchem JB, Belt BA, Hsieh CS, Lee HM, Herndon J, Gillanders WE, Linehan DC,
+Goedegebuure P. Pancreatic adenocarcinoma induces bone marrow mobilization of myeloid-derived
+suppressor cells which promote primary tumor growth. Cancer Immunol Immunother. 2012 Jan 4.
+Epub.
+10. Linehan DC, Goedegebuure PS. CD25+ CD4+ regulatory T-cells in cancer. Immunol Res. 2005;
+32:155–168. [PubMed: 16106066]
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Wang-Gillam et al. Page 8
+11. Liyanage UK, Goedegebuure PS, Moore TT, Viehl CT, Moo-Young TA, Larson JW, Frey DM,
+Ehlers JP, Eberlein TJ, Linehan DC. Increased prevalence of regulatory T cells (Treg) is induced
+by pancreas adenocarcinoma. J Immunother. 2006; 29:416–424. [PubMed: 16799337]
+12. Liyanage UK, Moore TT, Joo HG, Tanaka Y, Herrmann V, Doherty G, Drebin JA, Strasberg SM,
+Eberlein TJ, Goedegebuure PS, Linehan DC. Prevalence of regulatory T cells is increased in
+peripheral blood and tumor microenvironment of patients with pancreas or breast adenocarcinoma.
+J Immunol. 2002; 169:2756–2761. [PubMed: 12193750]
+13. Triebel F. LAG-3: a regulator of T-cell and DC responses and its use in therapeutic vaccination.
+Trends Immunol. 2003; 24:619–622. [PubMed: 14644131]
+14. El Mir S, Triebel F. A soluble lymphocyte activation gene-3 molecule used as a vaccine adjuvant
+elicits greater humoral and cellular immune responses to both particulate and soluble antigens. J
+Immunol. 2000; 164:5583–5589. [PubMed: 10820232]
+15. Prigent P, El Mir S, Dreano M, Triebel F. Lymphocyte activation gene-3 induces tumor regression
+and antitumor immune responses. Eur J Immunol. 1999; 29:3867–3876. [PubMed: 10601994]
+16. Hannier S, Tournier M, Bismuth G, Triebel F. CD3/TCR complex-associated lymphocyte
+activation gene-3 molecules inhibit CD3/TCR signaling. J Immunol. 1998; 161:4058–4065.
+[PubMed: 9780176]
+17. Huard B, Tournier M, Hercend T, Triebel F, Faure F. Lymphocyte-activation gene 3/major
+histocompatibility complex class II interaction modulates the antigenic response of CD4+ T
+lymphocytes. Eur J Immunol. 1994; 24:3216–3221. [PubMed: 7805750]
+18. Macon-Lemaitre L, Triebel F. The negative regulatory function of the lymphocyte-activat ion
+gene-3 co-receptor (CD223) on human T cells. Immunology. 2005; 115:170–178. [PubMed:
+15885122]
+19. Workman CJ, Vignali DA. The CD4-related molecule, LAG-3 (CD223), regulates the expansion of
+activated T cells. Eur J Immunol. 2003; 33:970–979. [PubMed: 12672063]
+20. Huang CT, Workman CJ, Flies D, Pan X, Marson AL, Zhou G, Hipkiss EL, Ravi S, Kowalski J,
+Levitsky HI, et al. Role of LAG-3 in regulatory T cells. Immunity. 2004; 21:503–513. [PubMed:
+15485628]
+21. Workman CJ, Vignali DA. Negative regulation of T cell homeostasis by lymphocyte activation
+gene-3 (CD223). J Immunol. 2005; 174:688–695. [PubMed: 15634887]
+22. Triebel F, Hacene K, Pichon MF. A soluble lymphocyte activation gene-3 (sLAG-3) protein as a
+prognostic factor in human breast cancer expressing estrogen or progesterone receptors. Cancer
+Lett. 2006; 235:147–153. [PubMed: 15946792]
+23. Fougeray S, Brignone C, Triebel F. A soluble LAG-3 protein as an immunopotentiator for
+therapeutic vaccines: Preclinical evaluation of IMP321. Vaccine. 2006; 24:5426–5433. [PubMed:
+16621192]
+24. Brignone C, Grygar C, Marcu M, Perrin G, Triebel F. IMP321 (sLAG-3), an immunopotentiator
+for T cell responses against a HBsAg antigen in healthy adults: a single blind randomised
+controlled phase I study. J Immune Based Ther Vaccines. 2007; 5:5. [PubMed: 17394654]
+25. Brignone C, Grygar C, Marcu M, Perrin G, Triebel F. IMP321 (sLAG-3) safety and T cell
+response potentiation using an influenza vaccine as a model antigen: a single-blind phase I study.
+Vaccine. 2007; 25:4641–4650. [PubMed: 17493710]
+26. Brignone C, Escudier B, Grygar C, Marcu M, Triebel F. A phase I pharmacokinetic and biological
+correlative study of IMP321, a novel MHC class II agonist, in patients with advanced renal cell
+carcinoma. Clin Cancer Res. 2009; 15:6225–6231. [PubMed: 19755389]
+27. Brignone C, Gutierrez M, Mefti F, Brain E, Jarcau R, Cvitkovic F, Bousetta N, Medioni J,
+Gligorov J, Grygar C, et al. First-line chemoimmunotherapy in metastatic breast carcinoma:
+combination of paclitaxel and IMP321 (LAG-3Ig) enhances immune responses and antitumor
+activity. J Transl Med. 2010; 8:71. [PubMed: 20653948]
+28. Conroy T, Desseigne F, Ychou M, Bouche O, Guimbaud R, Becouarn Y, Adenis A, Raoul JL,
+Gourgou-Bourgade S, de la Fouchardiere C, et al. FOLFIRINOX versus gemcitabine for
+metastatic pancreatic cancer. N Engl J Med. 2011; 364:1817–1825. [PubMed: 21561347]
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Wang-Gillam et al. Page 9
+Figure 1. Comparison of immunological markers between dose level groups 2 and 3
+Cumulative flow cytometry results using PBMC from patients before (BT) and after
+treatment (OT). In addition to total number of MHC class II positive (panels a and d), the
+prevalence of myeloid DC was determined by assessing the percentage of CD14-CD123-
+CD11c+ (panels b and e), and expression of CD80 and CD86 on CD11c+ cells (panels c and
+f). Panels a-c represent data from level 2 patients, and panels d-f represent level 3 patients.
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Wang-Gillam et al. Page 10
+Table 1
+Baseline clinical and demographic characteristics
+Patients (N = 17)
+Characteristic
+No. %
+Gender
+Male 9 53
+Female 8 47
+Age, years
+Median 63.5
+Range 36 - 90
+Ethnicity
+White 12 71
+Non-White 5 29
+Karnofsky performance status (KPS)
+70-80 12 71
+90-100 5 20
+Tumor Stage
+Locally advanced 4 24
+Metastatic 13 76
+Tumor Site
+Head 8 47
+Non-Head 9 53
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+
+--- Page 11 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Wang-Gillam et al. Page 11
+2
+elbaT
+.123PMI
+ot
+detaler
+stneve
+esrevda
+lla
+fo
+yrammuS
+A
+leveL
+esoD
+yticixoT
+)11
+=
+n(
+latoT
+)5
+= n(
+3
+leveL
+)6
+=
+n(
+2
+leveL
+3 edarG
+≥
+llA
+3
+edarG
+≥
+llA
+3
+edarG
+≥
+llA
+nikS/ygolotamreD
+0
+1
+0
+1
+0
+0
+noitamauqsed/hsaR
+enircodnE
+0
+1
+0
+1
+0
+0
+sehsalF
+toH
+0
+2
+0
+2
+0
+0
+etiS
+noitcejnI
+-
+niaP
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.
+
+--- Page 12 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Wang-Gillam et al. Page 12
+Table 3
+Discontinuation of subjects on treatment.
+Reasons for treatment cessation Dose Level
+Level 1 Level 2 Level 3 Level 4
+(n = 6) (n = 6) (n = 5) (n = 17)
+Disease progression 1 4 0 5
+Adverse event 0 1 3 4
+Completion of protocol treatment 5 1 2 8
+Invest New Drugs. Author manuscript; available in PMC 2014 June 01.

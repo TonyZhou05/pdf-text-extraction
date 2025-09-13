@@ -1,0 +1,758 @@
+Source: 23256542.pdf
+Extracted on: Fri Sep 12 23:58:00 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+Published in final edited form as:
+Leuk Lymphoma. 2013 September ; 54(9): . doi:10.3109/10428194.2012.760733.
+Pharmacokinetics and Dose Escalation of the Heat Shock
+Protein Inhibitor 17-AAG in Combination with Bortezomib in
+Relapsed or Refractory Acute Myeloid Leukemia
+Alison R. Walker1, Rebecca Klisovic1, Jeffrey S. Johnston2, Yao Jiang2, Susan Geyer1,
+Cheryl Kefauver3, Philip Binkley4, John C. Byrd1, Michael R. Grever1, Ramiro Garzon1,
+Mitch A. Phelps2, Guido Marcucci1,5, Kristie A. Blum1, and William Blum1
+1 Division of Hematology, Department of Internal Medicine, The Ohio State University and The
+Ohio State University Comprehensive Cancer Center
+2 College of Pharmacy, The Ohio State University
+3 Clinical Trials Office, The Ohio State University Comprehensive Cancer Center
+4 Division of Cardiovascular Medicine and the Dorothy M. Davis Heart and Lung Research
+Institute, Department of Internal Medicine, The Ohio State University
+5 Department of Molecular, Cellular, and Developmental Biology, The Ohio State University and
+The Ohio State University Comprehensive Cancer Center
+Abstract
+This phase I study was conducted to determine the maximum tolerated dose (MTD) and dose
+limiting toxicities (DLT) of the heat shock protein 90 (HSP90) inhibitor 17-allyamino-17-
+demethoxygeldanamycin (17-AAG) in combination with bortezomib, and to provide
+pharmacokinetic data in relapsed or refractory acute myeloid leukemia (AML). Eleven patients
+were enrolled. The MTD was 17-AAG 150mg/m2 and bortezomib 0.7mg/m2. Hepatic toxicity and
+cardiac toxicity were dose limiting. Co-administration on day 4 led to a decrease in clearance
+(p=0.005) and increase in AUC (p=.032) of 17-amino-17-demethoxygeldanamycin (17-AG) not
+observed when 17-AAG was administered alone. Pharmacokinetic parameters of patients who
+developed toxicities and those who did not were not different. The combination of 17-AAG and
+bortezomib led to toxicity without measurable response in patients with relapsed or refractory
+AML. Pharmacokinetic data provide insight for studies of related agents in AML; next generation
+HSP90 inhibitors are appealing for further development in this area.
+Keywords
+Relapsed AML; bortezomib; 17-AAG; heat shock protein inhibition
+INTRODUCTION
+The biologic heterogeneity of acute myeloid leukemia (AML), a disease characterized by
+clonal accumulation and expansion of immature myeloid cells within the bone marrow,
+Correspondence: Alison Walker, MD, Division of Hematology and the Comprehensive Cancer Center, The Ohio State University,
+th
+B324 Starling-Loving Hall, 320 West 10 Avenue, Columbus, OH 43210, USA. Phone: 614-366-3802. Fax: 614-293-7526.
+alison.walker@osumc.edu.
+Declaration of Interest The authors do no report a conflict of interest.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Walker et al. Page 2
+represents a major challenge in the advancement of treatment for patients with the disease.
+[1] The development of agents that target aberrant signaling pathways believed to promote
+leukemogenesis is an attempt to diverge from anthracycline and cytarabine based regimens
+which result in a long term remission in only 40% of younger patients (age <60 years) and
+<10% of older patients (age ≥ 60 years).[2]
+Heat shock protein 90 (HSP90) is an abundant 90-kDa protein that functions as a molecular
+chaperone to regulate the conformation, stability, and activation of “client” proteins, many
+of which are important for intracellular signaling and the adaptive response to stress.[3]
+Among the many proteins regulated by HSP90 are several oncoproteins with known
+aberrant activity in AML including FLT3, c-KIT, AKT, and others.[4] In AML, mutations
+and/or over-expression of genes encoding the tyrosine kinase receptors FLT3 and c-KIT are
+relatively frequent and ultimately lead to activation of downstream signaling that promotes
+proliferation and survival of myeloid blasts.[5,6] These and related pathways are excellent
+targets for novel therapies in AML.
+Inhibition of HSP90 function prevents activation and stabilization of client proteins.[7,8] As
+a result, the inactive protein is ubiquitinated and targeted for proteasomal degradation,
+preventing its involvement in intended signaling pathways within the cell. Interestingly,
+mutated proteins may be more sensitive to a loss of chaperone function than their wild type
+counterparts, rendering tumor cells more susceptible than normal cells to chaperone
+inhibition.[7] 17-Allylamino-17-demethoxygeldanamycin (17-AAG), a member of the
+benzoquinone ansamycin family, became the first HSP90 inhibitor to enter clinical trials and
+has been studied in a number of advanced solid tumors and in multiple myeloma.[9-13] In
+vitro, 17-AAG has demonstrated cytotoxic effects in AML cell lines harboring mutated
+FLT3 or BCR-ABL and induced apoptosis in primary AML cells.[14-16]
+There is an important relationship between the molecular chaperone function of HSP90 and
+the ubiquitin-proteasome pathway. IkB kinase, a client protein of HSP90, phosphorylates a
+key regulator of the transcription factor NF-κB, Iκβ.[17] Following phosphorylation, Iκβ is
+ubiquitinated and targeted to the proteasome allowing NF-κB to translocate to the nucleus
+and induce gene transcription. In AML, constitutive expression of NF-κB contributes to
+growth and resistance to apoptosis.[18-20] Bortezomib, a dipeptidyl boronic acid
+proteasome inhibitor, blocks proteasome mediated degradation of Iκβ and prevents
+activation of NF-κB.[21] Although this agent has demonstrated activity in lymphoid
+malignancies, it has shown only transient effects when used as a single agent in patients with
+relapsed or refractory AML, though combination studies have suggested efficacy.[22-26]
+When added to cytarabine and anthracycline based induction chemotherapy, bortezomib
+administration has been tolerable, inducing clinical responses in patients with previously
+untreated or relapsed AML.[24,25] In multiple myeloma (MM), proteasome inhibition is a
+key therapeutic target and bortezomib based therapies are utilized during induction,
+consolidation and maintenance.[27] In patients with relapsed or refractory MM, bortezomib
+in combination with 17-AAG was found to be well tolerated with anti-tumor activity.
+[12,28]
+Given the importance of HSP90 and its client proteins in key oncogenic processes in AML,
+sequential administration of the HSP90 inhibitor 17-AAG followed by the proteasome
+inhibitor bortezomib may result in a pronounced accumulation of ubiquitinated proteins
+within the cell, thus triggering apoptosis. We report a phase I dose escalation study to
+determine the maximum tolerated dose (MTD) of 17-AAG and bortezomib in patients with
+relapsed or refractory AML.
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Walker et al. Page 3
+PATIENTS AND METHODS
+Eligibility criteria and study design
+Patients (age ≥ 18 years) with relapsed or refractory non-M3 AML, not candidates for
+curative therapy with stem cell transplantation, were eligible. Patients were required to have
+a stable white blood cell (WBC) count ≤ 40 x 109/L for five days prior to initiation of
+therapy, total bilirubin ≤ 1.5 mg/dL, AST/ALT ≤ 2.5 X upper limit of normal (ULN),
+creatinine ≤ 2.0 mg/dL, Eastern Cooperative Oncology Group performance status of ≤ 2,
+and life expectancy of at least 12 weeks. Initially, a resting ejection fraction (EF) ≥ 50% on a
+pre-treatment echocardiogram (ECHO) or multigated acquisition (MUGA) and a QTc of ≤
+500 msec on an electrocardiogram (EKG) were the only eligibility criteria used to define
+adequate cardiac function. Three months after the trial opened these criteria were modified
+because of observed cardiac toxicities that were possibly associated with 17-AAG
+administration in this and other trials sponsored by the National Cancer Institute's (NCI)
+Cancer Therapy Evaluation Program (CTEP). As a result, patients with significant heart
+disease, including heart failure that met New York Heart Association (NYHA) class III and
+IV definitions, myocardial infarction within one year of entry, uncontrolled dysrhythmias, a
+history of serious ventricular arrhythmias, or poorly controlled angina, were now excluded.
+The QTc requirement was also changed. Men were required to have a baseline QTc ≤ 450
+msec and women ≤ 470 msec. At trial opening, the use of concomitant medications that
+could prolong the QTc was not prohibited, however with the change in eligibility
+requirements, all ancillary medications known to prolong the QTc were excluded.
+Adequate pulmonary function with a pre-treatment diffusion lung carbon monoxide (DLCO)
+≥ 60% and an exercise oxygen saturation by pulse oximetry of ≥ 90% were required.
+Patients with symptomatic pulmonary disease were not eligible.
+Patients with a pre-existing ≥ grade 2 sensory or motor peripheral neuropathy, history of
+allergic reaction to eggs (17-AAG is formulated using egg phospholipids), or active or
+untreated CNS leukemia were not eligible. Concurrent treatment with hydroxyurea
+(maximum dose 1gm TID) was allowed during cycle 1 only. No other chemotherapy,
+radiation therapy, or other investigational agents were allowed within 14 days of initiation of
+therapy.
+17-AAG was administered intravenously (IV) over 60 minutes on days 1, 4, 8 and 11 of
+each 21 day cycle and bortezomib was administered IV push over 3 to 5 minutes
+immediately following 17-AAG on days 1, 4, 8 and 11. 17-AAG only was administered on
+day 1 of cycle 1 to permit pharmacokinetic (PK) evaluations of single agent 17-AAG and to
+test for potential PK interactions between the two agents (via comparison of PK parameters
+on day 1 and day 4). Dose escalation was as follows: dose level 1, 17-AAG 150 mg/m2 and
+bortezomib 0.7 mg/m2; dose level 2, 17-AAG 200mg/m2 and bortezomib 0.7 mg/m2. EKGs
+were checked pre-treatment and following completion of the 17-AAG infusion on day 1 of
+cycle 1 in triplicate, and therapy was held if the QTc was ≥ 500 msec.
+Dose limiting toxicities (DLT) were evaluated and defined for dose escalation decisions
+during cycle 1 of treatment. The National Cancer Institute Common Terminology Criteria of
+Adverse Events (CTCAE) version 3.0 was used to characterize toxicity. Nonhematologic
+toxicity of grade 3 or 4, with the exception of alopecia, nausea and vomiting controllable
+with anti-emetic therapy, felt to be drug-related, was considered a DLT. Hematologic
+toxicity was defined as a failure to recover neutrophil and/or platelet counts by day 42 in
+patients with < 5% blasts in the bone marrow, absence of myelodysplastic changes, and/or
+absence of evidence of disease by flow cytometry in the bone marrow. Febrile neutropenia
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Walker et al. Page 4
+and infection were not necessarily assessed as DLT given the frequency of these events in
+this population irrespective of therapy administered.
+The planned determination of the MTD was to utilize a standard cohorts-of-three phase I
+design of dose escalation using 3 patients per cohort with 3 to 6 patients at each dose level.
+Patients received full supportive care including blood and platelet transfusions, antibiotics,
+hydration, etc. when appropriate.
+Clinical response was defined according to International Working Group Criteria.[29]
+Patients with progressive disease discontinued treatment.
+Pharmacokinetic and pharmacodynamic analysis
+Plasma concentrations of 17-AAG and its active metabolite, 17-amino-17-
+demethoxygeldanamycin (17-AG), were determined by a validated liquid chromatography-
+tandem mass spectrometry method described previously.[30] Plasma samples were obtained
+on days 1 and 4 of cycle 1 at the following time points: pre-infusion, immediately prior to
+the end of 17-AAG infusion, and 0.5, 1, 2, 3, 4, 6, 8, 10, 12, 24 and 48 hours after the end of
+the 17-AAG infusion. Pharmacokinetic parameter estimates for 17-AAG and 17-AG were
+generated using non-compartmental analysis in WinNonlin Professional version 5.2
+(Pharsight Corporation, Mountain View, CA, USA). The area under the concentration vs.
+time curve (AUC) was determined with the linear up/log down method.
+Given that bortezomib rapidly exits the intravascular compartment and is widely distributed,
+conventional pharmacokinetic parameters are difficult to follow; we used pharmacodynamic
+evaluation of 20S proteasome inhibition to characterize the activity of bortezomib at its
+target site as a PK surrogate. To assess the effect of bortezomib on proteasome activity and
+to confirm a lack of effect of 17-AAG on proteasome activity, 10 mL whole blood were
+collected pre-treatment, 1, 4, 8, 24, and 48 hours after the end of 17-AAG administration on
+days 1 and 4 of cycle 1 (bortezomib was administered immediately following 17-AAG end-
+of-infusion on Day 4 only). 20S proteasome activities were measured using an assay similar
+to that which has been previously described. [31]
+Statistical analysis
+A standard cohorts-of-three phase I study design was used to direct dose escalation
+decisions. The number of DLTs and the frequency of adverse events and toxicities were
+summarized across and within dose levels. Secondary endpoints of patient characteristic
+factors and clinical outcomes were also summarized to characterize the cohorts and obtain
+preliminary data on efficacy of this regimen in this patient population; however, formal
+evaluation and hypothesis testing were largely avoided given the inherent limitations of
+phase I studies and the limited number of patients in this trial. Pharmacokinetic endpoints
+were explored in relation to dose level, weight, and other PK parameters of interest in order
+to identify potential relationships and differences. Nonparametric Wilcoxon signed rank
+(paired sample) tests were used to evaluate in an exploratory manner any differences in PK
+parameters from day 1 to day 4 as well as between 17-AAG vs. 17-AG based PK markers.
+RESULTS
+Patient characteristics and treatment groups
+Eleven patients with relapsed or refractory AML were enrolled in this single-center phase I
+study over 34 months (Table I). The median age was 63 years (range 42-77 years). Four
+patients had AML arising from an antecedent hematologic disorder (AHD), either
+myelodysplastic syndrome (MDS) or chronic myelomonocytic leukemia (CMML). One had
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Walker et al. Page 5
+relapsed after prior allogeneic transplantation. According to the European LeukemiaNet
+(ELN) genetic groups [32], seven patients were classified as ELN intermediate-II risk, and
+four had adverse genetic risk. Four patients enrolled with primary refractory disease; of the
+seven patients with relapsed AML, six had a CR duration of less than one year following
+initial induction chemotherapy.
+Dose escalation, toxicities, and clinical outcomes
+At dose level 1, eight patients were treated. Two patients were replaced due to disease-
+related complications: the first, who required hydroxyurea treatment prior to starting
+therapy, was removed from study due to early disease progression, the second had a
+hemorrhagic stroke in the setting of disease-related thrombocytopenia. Though this was not
+felt to be drug related, the patient was not evaluable for assessment of drug-related
+toxicities. In order to provide a better safety signal, dose level 1 was expanded to include a
+total of six evaluable patients. One patient developed grade 3 QTc prolongation on day 3 of
+cycle 1 that was felt to possibly be related to the investigational agents and met criteria for
+DLT. The patient had also been receiving other medications with the potential to prolong the
+QTc interval. Central review of the ECGs for this patient, performed by three cardiologists
+outside of our institution, provided expert opinion that there was no prolongation of the QTc
+interval and that the tracing findings were artifactual. All medications with the potential to
+prolong the QTc interval were discontinued, the QTc normalized, and the patient was able to
+complete the therapy without further complications. As no other patient experienced DLT at
+this dose level, and given the discordant opinions regarding whether QTc prolongation was
+actual or artifactual, dose escalation proceeded to dose level 2.
+At dose level 2, the dose of 17-AAG was increased to 200mg/m2 while the dose of
+bortezomib remained the same; three patients were enrolled. All three experienced DLTs.
+The first patient in the cohort developed grade 4 transaminitis on day 7 of cycle 1 that
+resolved following cessation of study drug administration. The second patient, who did not
+have a history of glucose intolerance, developed grade 3 hyperglycemia that was
+asymptomatic and resolved without sequelae on day 5 of cycle 1. The third patient (who
+began therapy 4 days after the second patient) developed QTc prolongation and torsades de
+pointes on day 9 of cycle 1. This patient did have a remote history of paroxysmal
+supraventricular tachycardia (SVT), but was not considered to be at an increased risk for the
+development of additional arrhythmias with chemotherapy, and indeed had received an
+allogeneic transplant with reduced intensity conditioning without any serious cardiac
+toxicity. Pretreatment QTc was 453. At the time of the study-related adverse event, the
+telemetry reading was consistent with torsades de pointes and subsequent 12 lead ECGs
+showed a prolonged QTc of 635 msec (Figures 1 and 2). She was asymptomatic and
+responded to treatment with electrolyte supplementation. The QTc ultimately returned to
+normal several days later, and echocardiographic evaluation was unchanged from screening.
+Her course was further complicated by the development of methicillin-resistant
+Staphylococcus epidermidis (MRSE) bacteremia and hypoxic respiratory failure in the
+setting of rapidly progressive AML and the patient expired on day 21 of the cycle. A review
+of all available electrocardiographic data for this patient including ECGs performed 1 year
+prior to the event confirmed that she did not have an underlying long QT syndrome that
+placed her at risk for QTc prolongation, and it is likely that this was related to the
+investigational agents. This patient was the only participant who had a brief decrease in
+peripheral blood blast percentage from 79.7% on day 1 to 9.2% on day 9. All other patients
+had either stable disease or disease progression. Other grade 3 or higher nonhematologic
+toxicities are summarized in Table II.
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Walker et al. Page 6
+Given that three patients at dose level 2 had DLTs, dose escalation was stopped and dose
+level 1 was declared the MTD.
+Pharmacokinetic and pharmacodynamic analysis
+Pharmacokinetic results from days 1 and 4 for 17-AAG and 17-AG are shown in tables III
+and IV, respectively. When comparing 17-AAG pharmacokinetics between dose levels we
+observed a significantly higher C for the 200 mg/m2 dose on day 1 only (p=0.03, 2-tailed
+max
+t-test, Table III). No other parameters were found to be significantly different for 17-AAG.
+When comparing 17-AG PK between the two dose levels, significant differences were
+observed in the mean T (terminal half-life), C (the maximum concentration), T
+1/2 max max
+(time to reach C ), AUC and AUC (combined AUC of 17-AAG and 17-AG) on
+max combined
+day 4 only (Table IV). No differences in 17-AG PK were observed between dose levels on
+day 1. However, these findings are limited by the small number of patients who were treated
+at the higher dose level (n=3).
+In order to compare PK parameters for 17-AAG and 17-AG on day 1 (17-AAG alone) vs
+day 4 (17-AAG+bortezomib), we combined the PK parameters of all 11 patients. For 17-
+AAG, only T was found to be different between the two days (p=0.033, Wilcoxon signed
+1/2
+rank test, last column in Table III). For the metabolite 17-AG, both AUC and apparent
+clearance (CL) were different between days (p=0.032 and 0.005, respectively, last column in
+Table IV). Given that bortezomib was administered on day 4 and not on day 1, it is possible
+that the observed differences in 17-AAG and 17-AG PK for days 1 and 4 are related to
+bortezomib co-administration.
+The pharmacodynamic evaluation of the 20S proteasome activity is shown graphically in
+figure 3. A notable decrease in proteasome activity is observed within the first hour
+following bortezomib administration, and activity appears to recover to pre-treatment levels
+within 24 to 48 hours. Proteasome activity on day 4 at 1 hour after bortezomib
+administration ranged from 51% to 90% (n=11). No apparent relationships were observed
+between proteasome inhibition and 17-AAG pharmacokinetics or clinical outcome. In those
+patients who experienced grade 3 or higher toxicities, no significant differences in the
+measured PK parameters were observed.
+DISCUSSION
+In this phase I dose escalation of 17-AAG and bortezomib in patients with relapsed or
+refractory AML, the MTD of combination therapy was 17-AAG 150mg/m2 and bortezomib
+0.7mg/m2, dose limited by the development of serious cardiac and hepatic adverse events.
+In previous studies of patients receiving single agent 17-AAG, diarrhea, nausea and
+vomiting, and reversible hepatotoxicity were the most frequent non-hematologic toxicities
+reported.[9-13,33] We observed similar toxicities in our study participants. The most
+frequent grade 3 or higher nonhematologic toxicity was febrile neutropenia occurring in four
+of the 11 patients, though the combination of 17-AAG and bortezomib did not appear to
+increase the expected frequency or severity of this adverse event.
+Reports of possible QTc prolongation in studies of 17-AAG by NCI CTEP led to the
+extensive ECG monitoring and requirements for adequate cardiac function that became part
+of the eligibility requirements for this trial. Cardiac toxicity has been reported with another
+HSP90 inhibitor, alvespimycin, where myocardial infarction and an elevation in troponin
+were seen in two AML patients treated with that agent, although both had an extensive
+history of cardiac disease which made attribution to alvespimycin difficult.[35] Nonetheless,
+the dose at which these events occurred was determined to be the primary DLT of that study.
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Walker et al. Page 7
+In our study, two patients developed QTc prolongation. In the first patient it was not clear
+whether the ECG findings were actual or artifact, and it is possible that concurrent
+medications also contributed to this variance. Clearly, the second patient described
+developed QTc prolongation and torsades de pointes on day 9 of therapy that was likely
+related to the study medications. Notably, ten of the eleven patients had received prior
+anthracycline therapy. Though cardiac function based on pre-treatment ejection fraction and
+ECG evaluation was normal, prior exposure to cardiotoxic therapy may have placed patients
+at an increased risk for toxicity. Interestingly, the patient who developed torsades de pointes
+had not had prior anthracycline exposure.
+Richardson and colleagues reported a phase II trial of bortezomib (1.3mg/m2 on days
+1,4,8,11) and three different doses of 17-AAG (50, 175, 340 mg/m2 on days 1,4,8,11) in
+patients with relapsed/refractory MM that was well tolerated, even at the 340mg/m2 dose of
+17-AAG.[12] Cardiac arrhythmias or QTc prolongation were not reported despite the higher
+doses of both agents utilized as compared to our study.[12] In a separate phase 1/2 dose
+escalation study of 17-AAG (100-340 mg/m2 on days 1, 4, 8, 11) and bortezomib (0.7-1.3
+mg/m2 on days 1, 4, 8, 11) in patients with relapsed/refractory MM, Richardson et al again
+found the combination to be well tolerated and cardiac toxicities were not observed.[28] It
+may be important to note, however, that the formulation of 17-AAG was quite different
+between these trials and the current trial we report on here. The 17-AAG used in the
+Richardson trials was provided by Bristol Myers Squibb; the excipients used in the
+formulation of 17-AAG were Cremophor, propylene glycol, and ethanol. In our CTEP-
+sponsored trial, the excipients were egg phospholipids and DMSO. It is unknown whether
+the formulation type might impact the development of specific toxicities of 17-AAG.
+An important observation from our study was the significant increase in 17-AG AUC
+following combined administration of 17-AAG and bortezomib (p=.032), as compared to
+when 17-AAG was administered alone. This is in contrast to PK results reported by
+Richardson et al where a decrease in AUC of both 17-AAG and 17-AG following co-
+administration was observed, though the interpretation of these findings are limited by
+sample size.[28] While we did not observe differences in 17-AG PK on day 1 between the
+17-AAG 150 mg/m2 and 200 mg/m2 dose levels, we did observe significant increases in 17-
+AG Cmax, AUC, and Tmax, and a decrease in 17-AG T½ between the two dose levels on
+day 4. Our data may suggest that bortezomib affects the pharmacokinetics of 17-AAG and/
+or 17-AG. Both bortezomib and 17-AAG are metabolized by cytochrome P450 3A4, which
+provides one mechanism for a potential drug-drug interaction.[36-38] However, given the
+limited number of patients in this study, further evaluation in larger cohorts would be needed
+to explore this possible interaction further. No other notable pharmacokinetic interactions or
+associations with outcomes were observed, including a lack of difference in 17-AAG or 17-
+AG pharmacokinetics between patients with low vs. high (grade 3 or higher) levels of
+toxicity.
+No patient received treatment beyond cycle 1 because of disease progression (or toxicity).
+Though the serious nature of the DLTs that occurred and the uniform disease progression at
+the MTD prevented further development of this regimen, heat shock protein inhibition as a
+way to target multiple oncogenic signaling pathways has been pursued in AML with
+promising results. Indeed, in the previously mentioned phase I trial of the more potent
+HSP90 inhibitor alvespimycin, a water-soluble analog of 17-AAG, three patients achieved a
+complete remission with incomplete count recovery after one cycle of therapy.[35]
+Furthermore, an additional patient was able to proceed to allogeneic transplantation
+following a greater than 50% reduction in bone marrow blasts. Next-generations agents such
+as alvespimycin, with improved tolerability and clinical activity, support continued
+evaluation of HSP90 inhibitors in this disease.
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Walker et al. Page 8
+Acknowledgments
+This work was supported by: NIH/NCI K23CA120708 (WB), K12CA133250 (JCB and AW) NIH/NCI
+U01CA76576 (MRG), K23CA109004 (KB) and CALGB Young Investigator Award (KB). AW is a Paul Calabresi
+Clinical Scholar and a scholar of the American Society of Hematology-Amos Medical Faculty Development
+Program.
+REFERENCES
+1. Lowenberg B DJ, Burnett A. Acute myeloid leukemia. N Engl J Med. 1999; 341:1051–1062.
+[PubMed: 10502596]
+2. Applebaum F GH, Head D, et al. Age and acute myeloid leukemia. Blood. 2006; 107:3481–3485.
+[PubMed: 16455952]
+3. Zhao R, Houry WA. Hsp90: a chaperone for protein folding and gene regulation. Biochem Cell
+Biol. 2005; 83:703–10. [PubMed: 16333321]
+4. Zhang H, Burrows F. Targeting multiple signal transduction pathways through inhibition of Hsp90.
+J Mol Med (Berl). 2004; 82:488–99. [PubMed: 15168026]
+5. Kottaridis PD, Gale RE, Linch DC. Flt3 mutations and leukaemia. Br J Haematol. 2003; 122:523–
+38. [PubMed: 12899708]
+6. Sritana N, Auewarakul CU. KIT and FLT3 receptor tyrosine kinase mutations in acute myeloid
+leukemia with favorable cytogenetics: two novel mutations and selective occurrence in leukemia
+subtypes and age groups. Exp Mol Pathol. 2008; 85:227–31. [PubMed: 18977345]
+7. Workman P, Burrows F, Neckers L, Rosen N. Drugging the cancer chaperone HSP90:
+combinatorial therapeutic exploitation of oncogene addiction and tumor stress. Ann N Y Acad Sci.
+2007; 1113:202–16. [PubMed: 17513464]
+8. Trepel J, Mollapour M, Giaccone G, Neckers L. Targeting the dynamic HSP90 complex in cancer.
+Nat Rev Cancer. 2010; 10:537–49. [PubMed: 20651736]
+9. Banerji U, O'Donnell A, Scurr M, Pacey S, Stapleton S, Asad Y, Simmons L, Maloney A, Raynaud
+F, Campbell M. Phase I pharmacokinetic and pharmacodynamic study of 17-allylamino, 17-
+demethoxygeldanamycin in patients with advanced malignancies. J Clin Oncol. 2005; 23:4152–61.
+others. [PubMed: 15961763]
+10. Goetz MP, Toft D, Reid J, Ames M, Stensgard B, Safgren S, Adjei AA, Sloan J, Atherton P, Vasile
+V. Phase I trial of 17-allylamino-17-demethoxygeldanamycin in patients with advanced cancer. J
+Clin Oncol. 2005; 23:1078–87. others. [PubMed: 15718306]
+11. Grem JL, Morrison G, Guo XD, Agnew E, Takimoto CH, Thomas R, Szabo E, Grochow L,
+Grollman F, Hamilton JM. Phase I and pharmacologic study of 17-(allylamino)-17-
+demethoxygeldanamycin in adult patients with solid tumors. J Clin Oncol. 2005; 23:1885–93.
+others. [PubMed: 15774780]
+12. Richardson PG, Badros AZ, Jagannath S, Tarantolo S, Wolf JL, Albitar M, Berman D, Messina M,
+Anderson KC. Tanespimycin with bortezomib: activity in relapsed/refractory patients with
+multiple myeloma. Br J Haematol. 2010; 150:428–37. [PubMed: 20618338]
+13. Solit DB, Ivy SP, Kopil C, Sikorski R, Morris MJ, Slovin SF, Kelly WK, DeLaCruz A, Curley T,
+Heller G. Phase I trial of 17-allylamino-17-demethoxygeldanamycin in patients with advanced
+cancer. Clin Cancer Res. 2007; 13:1775–82. others. [PubMed: 17363532]
+14. Flandrin P, Guyotat D, Duval A, Cornillon J, Tavernier E, Nadal N, Campos L. Significance of
+heat-shock protein (HSP) 90 expression in acute myeloid leukemia cells. Cell Stress Chaperones.
+2008; 13:357–64. [PubMed: 18386162]
+15. Minami Y, Kiyoi H, Yamamoto Y, Yamamoto K, Ueda R, Saito H, Naoe T. Selective apoptosis of
+tandemly duplicated FLT3-transformed leukemia cells by Hsp90 inhibitors. Leukemia. 2002;
+16:1535–40. [PubMed: 12145695]
+16. Yao Q, Nishiuchi R, Li Q, Kumar AR, Hudson WA, Kersey JH. FLT3 expressing leukemias are
+selectively sensitive to inhibitors of the molecular chaperone heat shock protein 90 through
+destabilization of signal transduction-associated kinases. Clin Cancer Res. 2003; 9:4483–93.
+[PubMed: 14555522]
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Walker et al. Page 9
+17. Karin M. How NF-kappaB is activated: the role of the IkappaB kinase (IKK) complex. Oncogene.
+1999; 18:6867–74. [PubMed: 10602462]
+18. Bortul R, Tazzari PL, Cappellini A, Tabellini G, Billi AM, Bareggi R, Manzoli L, Cocco L,
+Martelli AM. Constitutively active Akt1 protects HL60 leukemia cells from TRAIL-induced
+apoptosis through a mechanism involving NF-kappaB activation and cFLIP(L) up-regulation.
+Leukemia. 2003; 17:379–89. [PubMed: 12592338]
+19. Bueso-Ramos CE, Rocha FC, Shishodia S, Medeiros LJ, Kantarjian HM, Vadhan-Raj S, Estrov Z,
+Smith TL, Nguyen MH, Aggarwal BB. Expression of constitutively active nuclear-kappa B RelA
+transcription factor in blasts of acute myeloid leukemia. Hum Pathol. 2004; 35:246–53. [PubMed:
+14991544]
+20. Guzman ML, Neering SJ, Upchurch D, Grimes B, Howard DS, Rizzieri DA, Luger SM, Jordan
+CT. Nuclear factor-kappaB is constitutively activated in primitive human acute myelogenous
+leukemia cells. Blood. 2001; 98:2301–7. [PubMed: 11588023]
+21. Voorhees PM, Orlowski RZ. The proteasome and proteasome inhibitors in cancer therapy. Annu
+Rev Pharmacol Toxicol. 2006; 46:189–213. [PubMed: 16402903]
+22. Goy A, Younes A, McLaughlin P, Pro B, Romaguera JE, Hagemeister F, Fayad L, Dang NH,
+Samaniego F, Wang M. Phase II study of proteasome inhibitor bortezomib in relapsed or
+refractory B-cell non-Hodgkin's lymphoma. J Clin Oncol. 2005; 23:667–75. others. [PubMed:
+15613697]
+23. O'Connor OA, Wright J, Moskowitz C, Muzzy J, MacGregor-Cortelli B, Stubblefield M, Straus D,
+Portlock C, Hamlin P, Choi E. Phase II clinical experience with the novel proteasome inhibitor
+bortezomib in patients with indolent non-Hodgkin's lymphoma and mantle cell lymphoma. J Clin
+Oncol. 2005; 23:676–84. others. [PubMed: 15613699]
+24. Attar EC, De Angelo DJ, Supko JG, D'Amato F, Zahrieh D, Sirulnik A, Wadleigh M, Ballen KK,
+McAfee S. Miller KB and others. Phase I and pharmacokinetic study of bortezomib in
+combination with idarubicin and cytarabine in patients with acute myelogenous leukemia. Clin
+Cancer Res. 2008; 14:1446–54. [PubMed: 18316568]
+25. Attar EC, Johnson JL, Amrein PC, Lozanski G, Wadleigh M, Deangelo DJ, Kolitz JE, Powell BL,
+Voorhees P, Wang ES. Bortezomib Added to Daunorubicin and Cytarabine During Induction
+Therapy and to Intermediate-Dose Cytarabine for Consolidation in Patients With Previously
+Untreated Acute Myeloid Leukemia Age 60 to 75 Years: CALGB (Alliance) Study 10502. J Clin
+Oncol. 2012 others.
+26. Cortes J, Thomas D, Koller C, Giles F, Estey E, Faderl S, Garcia-Manero G, McConkey D, Ruiz
+SL. Guerciolini R and others. Phase I study of bortezomib in refractory or relapsed acute
+leukemias. Clin Cancer Res. 2004; 10:3371–6. [PubMed: 15161691]
+27. Moreau P, Richardson PG, Cavo M, Orlowski RZ, San Miguel JF, Palumbo A, Harousseau JL.
+Proteasome inhibitors in multiple myeloma: 10 years later. Blood. 2012; 120:947–59. [PubMed:
+22645181]
+28. Richardson PG, Chanan-Khan AA, Lonial S, Krishnan AY, Carroll MP, Alsina M, Albitar M,
+Berman D, Messina M, Anderson KC. Tanespimycin and bortezomib combination treatment in
+patients with relapsed or relapsed and refractory multiple myeloma: results of a phase 1/2 study.
+Br J Haematol. 2011; 153:729–40. [PubMed: 21534941]
+29. Cheson BD, Bennett JM, Kopecky KJ, Buchner T, Willman CL, Estey EH, Schiffer CA, Doehner
+H, Tallman MS, Lister TA. Revised recommendations of the International Working Group for
+Diagnosis, Standardization of Response Criteria, Treatment Outcomes, and Reporting Standards
+for Therapeutic Trials in Acute Myeloid Leukemia. J Clin Oncol. 2003; 21:4642–9. others.
+[PubMed: 14673054]
+30. Johnston JS, Phelps MA, Blum KA, Blum W, Grever MR, Farley KL, Dalton JT. Development
+and validation of a rapid and sensitive high-performance liquid chromatography-mass
+spectroscopy assay for determination of 17-(allylamino)-17-demethoxygeldanamycin and 17-
+(amino)-17-demethoxygeldanamycin in human plasma. J Chromatogr B Analyt Technol Biomed
+Life Sci. 2008; 871:15–21.
+31. Lightcap ES, McCormack TA, Pien CS, Chau V, Adams J, Elliott PJ. Proteasome inhibition
+measurements: clinical application. Clin Chem. 2000; 46:673–83. [PubMed: 10794750]
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Walker et al. Page 10
+32. Dohner H, Estey EH, Amadori S, Appelbaum FR, Buchner T, Burnett AK, Dombret H, Fenaux P,
+Grimwade D, Larson RA. Diagnosis and management of acute myeloid leukemia in adults:
+recommendations from an international expert panel, on behalf of the European LeukemiaNet.
+Blood. 2010; 115:453–74. others. [PubMed: 19880497]
+33. Nowakowski GS, McCollum AK, Ames MM, Mandrekar SJ, Reid JM, Adjei AA, Toft DO,
+Safgren SL, Erlichman C. A phase I trial of twice-weekly 17-allylamino-demethoxy-geldanamycin
+in patients with advanced cancer. Clin Cancer Res. 2006; 12:6087–93. [PubMed: 17062684]
+34. Crawford J, Dale DC, Lyman GH. Chemotherapy-induced neutropenia: risks, consequences, and
+new directions for its management. Cancer. 2004; 100:228–37. [PubMed: 14716755]
+35. Lancet JE, Gojo I, Burton M, Quinn M, Tighe SM, Kersey K, Zhong Z, Albitar MX, Bhalla K,
+Hannah AL. Phase I study of the heat shock protein 90 inhibitor alvespimycin (KOS-1022, 17-
+DMAG) administered intravenously twice weekly to patients with acute myeloid leukemia.
+Leukemia. 2010; 24:699–705. others. [PubMed: 20111068]
+36. Egorin MJ, Rosen DM, Wolff JH, Callery PS, Musser SM, Eiseman JL. Metabolism of 17-
+(allylamino)-17-demethoxygeldanamycin (NSC 330507) by murine and human hepatic
+preparations. Cancer Res. 1998; 58:2385–96. [PubMed: 9622079]
+37. Lorusso PM, Venkatakrishnan K, Ramanathan RK, Sarantopoulos J, Mulkerin D, Shibata SI,
+Hamilton A, Dowlati A, Mani S, Rudek MA. Pharmacokinetics and Safety of Bortezomib in
+Patients with Advanced Malignancies and Varying Degrees of Liver Dysfunction: Phase 1 NCI
+Organ Dysfunction Working Group Study NCI-6432. Clin Cancer Res. 2012 others.
+38. Venkatakrishnan K, Rader M, Ramanathan RK, Ramalingam S, Chen E, Riordan W, Trepicchio
+W, Cooper M, Karol M, von Moltke L. Effect of the CYP3A inhibitor ketoconazole on the
+pharmacokinetics and pharmacodynamics of bortezomib in patients with advanced solid tumors: a
+prospective, multicenter, open-label, randomized, two-way crossover drug-drug interaction study.
+Clin Ther. 2009; 31(Pt 2):2444–58. others. [PubMed: 20110052]
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+Walker et al. Page 11
+Figure 1.
+Torsades de pointes in third patient on dose level 2 on day 9 of cycle 1.
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 12 ---
+Walker et al. Page 12
+Figure 2.
+Prolonged QTc interval of 635 msec in third patient on dose level 2 on day 9 of cycle 1.
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 13 ---
+Walker et al. Page 13
+Figure 3.
+Proteasome activity as compared to pre-treatment control
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Walker et al. Page 14
+Table I
+Patient characteristics
+Patient characteristic Result
+Median Age (years) 63 years (range, 43-77)
+Male/Female (n) 6/5
+AML rising from AHD (n) 4
+t-AML (n) 1
+Refractory AML (n) 4
+Relapsed AML (n) 7
+*
+ELN genetic group
+Intermediate II 7
+Adverse 4
+Prior anthracycline exposure (n) 10
+Median number prior regimens (n) 2 (range, 1-4)
+AHD, antecedent hematologic disorder, t-AML, therapy-related AML,
+*
+See ref.32
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Walker et al. Page 15
+Table II
+*
+Grade 3 or Higher Non Hematologic Toxicities
+No. of Patients
+Febrile Neutropenia 4
+Hyperglycemia 2
+AST 2
+ALT 2
+Lung infection 2
+Prolonged QTc 2
+Hypertension 1
+Cardiac Troponin 1
+Hypoglycemia 1
+Hyponatremia 1
+Intracranial Hemorrhage (Grade 5) 1
+Hypoxia 1
+Dyspnea 1
+Maculopapular rash 1
+Vomiting 1
+Fatigue 1
+Confusion 1
+Skin Infection 1
+Infections and Infestations-Urine 1
+Infections and Infestations-Blood 1
+*
+Regardless of attribution
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Walker et al. Page 16
+Table III
+Pharmacokinetics of 17AAG
+Day 1 (17-AAG alone) Day 4 (17-AAG+PS-341)
+Dose Level (mg/m2) No. of patients 150 n=8 200 n=3 P1 150 n=8 200 n=3 P4 P
+Cmax (ng/mL) 2480 ± 836 3814 ± 578 0.030 2588 ± 562 2785 ± 656 0.677 0.700
+AUCtot (ng/mL*h) 5871± 2508 9002 ± 1970 0.096 6717 ± 2631 9142 ± 1358 0.086 0.170
+Terminal T (h) 4.77 ± 1.15 4.59 ± 0.21 0.684 4.04 ± 0.86 3.78 ± 1.29 0.773 0.033
+1/2
+Clearance (L/h) 29.36 ± 11.11 22.92 ± 4.89 0.220 24.94 ± 8.10 21.92 ± 3.91 0.435 0.068
+Vss (L) 98.10 ± 37.46 73.30 ± 16.81 0.169 82.36 ± 19.91 86.83 ± 24.37 0.795 0.460
+P1 : p-value of parameters between dose levels (150 vs 200 mg/m2) on cycle 1, day 1.
+P4 : p-value of parameters between dose levels (150 vs 200 mg/m2) on cycle 1, day 4.
+P : p-value of parameters between day 1 and day 4.
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.
+
+--- Page 17 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Walker et al. Page 17
+Table IV
+Pharmacokinetics of 17-AG
+Day 1 (17-AAG alone) Day 4 (17-AAG+PS-341
+Dose Level (mg/m2) No. of patients 150 n=8 200 n=3 P1 150 n=8 200 n=3 P4 P
+Cmax (ng/mL) 821 ± 450 1300 ± 421 0.198 1025 ± 445 1412 ± 26 0.044 0.054
+AUCtot (ng/mL*h) 6334 ± 6244 9957 ± 4258 0.323 7751 ± 5028 13261 ± 1216 0.02 0.032
+Terminal T (h) 11.16 ± 1.40 7.92 ± 1.76 0.064 10.53 ± 2.20 7.47 ± 0.73 0.009 0.41
+1/2
+Clearance (L/h) 41.35 ± 26.48 23.07 ± 12.01 0.155 29.87 ± 23.29 14.86 ± 1.55 0.113 0.005
+Tmax (h) 1.53 ± 0.42 1.53 ± 0.46 0.992 1.85 ± 1.10 3.72 ± 0.64 0.013 0.068
+AUC exposed (ng/mL*h) 12205 ± 8530 18959 ± 3169 0.092 14468 ± 7179 22403 ± 1036 0.019 0.083
+P1 : p-value of parameters between dose levels (150 vs 200 mg/m2) on cycle 1, day 1.
+P4 : p-value of parameters between dose levels (150 vs 200 mg/m2) on cycle 1, day 4.
+P : p-value of parameters between day 1 and day 4.
+Leuk Lymphoma. Author manuscript; available in PMC 2013 December 12.

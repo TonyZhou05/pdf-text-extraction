@@ -1,0 +1,652 @@
+Source: 28039367.pdf
+Extracted on: Fri Sep 12 23:55:32 PDT 2025
+==================================================
+
+--- Page 1 ---
+Neuro-Oncology 965
+19(7), 965–975, 2016 | doi:10.1093/neuonc/now257 | Advance Access date 30 December 2016
+Efficacy and safety results of ABT-414 in combination
+with radiation and temozolomide in newly diagnosed
+glioblastoma
+David A. Reardon, Andrew B. Lassman, Martin van den Bent, Priya Kumthekar,
+Ryan Merrell, Andrew M. Scott, Lisa Fichtel, Erik P. Sulman, Erica Gomez, JuDee Fischer,
+Ho-Jin Lee, Wijith Munasinghe, Hao Xiong, Helen Mandich, Lisa Roberts-Rapp, Peter Ansell,
+Kyle D. Holen, and Hui K. Gan
+Center for Neuro-Oncology, Dana-Farber Cancer Institute, Boston, Massachusetts (D.A.R.); Department of Neurology
+& Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, New York (A.B.L.);
+Neuro-Oncology Unit, Erasmus MC Cancer Center, Rotterdam, the Netherlands (M.v.d.B.); Department of Neurology,
+Northwestern University, Chicago, Illinois (P.K.); Department of Neurology, NorthShore University HealthSystem,
+Evanston, Illinois (R.M.); Department of Medical Oncology, Austin Health and Olivia Newton-John Cancer Research
+Institute, Melbourne, Victoria, Australia (A.M.S., H.K.G.); School of Cancer Medicine, La Trobe University School of
+Cancer Medicine, Melbourne, Victoria, Australia (A.M.S., H.K.G.); South Texas Accelerated Research Therapeutics
+(START), San Antonio, Texas (L.F.); Department of Radiation Oncology, The University of Texas M.D.Anderson Cancer
+Center, Houston, Texas (E.P.S.); AbbVie Inc., North Chicago, Illinois (E.G., J.F., H.J.L., W.M., H.X., H.M., L.R.R., P.A.,
+K.D.H.); Department of Medicine, University of Melbourne, Melbourne, Victoria, Australia (H.K.G.)
+Corresponding Author: David A. Reardon, Dana-Farber Cancer Institute, 450 Brookline , Ave, Dana 2134, Boston, MA 02215-5450
+(David_Reardon@dfci.harvard.edu).
+Abstract
+Background. The purpose of this study was to determine the maximum tolerated dose (MTD), recommended
+phase II dose (RPTD), safety, and pharmacokinetics of ABT-414 plus radiation and temozolomide in newly diag-
+nosed glioblastoma. ABT-414 is a first-in-class, tumor-specific antibody-drug conjugate that preferentially targets
+tumors expressing overactive epidermal growth factor receptor (EGFR).
+Methods. In this multicenter phase I study, patients received 0.5–3.2 mg/kg ABT-414 every 2 weeks by intravenous
+infusion. EGFR alterations, O6-methylguanine-DNA methyltransferase (MGMT) promoter hypermethylation, and
+isocitrate dehydrogenase (IDH1) gene mutations were assessed in patient tumors. Distinct prognostic classes were
+assigned to patients based on a Molecular Classification Predictor model.
+Results. As of January 7, 2016, forty-five patients were enrolled to receive ABT-414 plus radiation and temozolo-
+mide. The most common treatment emergent adverse events were ocular: blurred vision, dry eye, keratitis, photo-
+phobia, and eye pain. Ocular toxicity at any grade occurred in 40 patients and at grades 3/4 in 12 patients. RPTD and
+MTD were set at 2 mg/kg and 2.4 mg/kg, respectively. Among 38 patients with pretreatment tumor tested centrally,
+39% harbored EGFR amplification, of which 73% had EGFRvIII mutation. Among patients with available tumor tis-
+sue (n = 30), 30% showed MGMT promoter methylation and none had IDH1 mutations. ABT-414 demonstrated an
+approximately dose proportional pharmacokinetic profile. The median duration of progression-free survival was
+6.1 months; median overall survival has not been reached.
+Conclusion. ABT-414 plus chemoradiation demonstrated an acceptable safety and pharmacokinetic profile
+in newly diagnosed glioblastoma. Randomized studies are ongoing to determine efficacy in newly diagnosed
+(NCT02573324) and recurrent glioblastoma (NCT02343406).
+© The Author(s) 2016. Published by Oxford University Press on behalf of the Society for Neuro-Oncology. All rights reserved.
+For permissions, please e-mail: journals.permissions@oup.com
+
+--- Page 2 ---
+966 Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma
+Key words
+ABT-414 | antibody-drug conjugate | EGFR | glioblastoma | phase
+Importance of the study
+Glioblastoma remains an incurable disease with an binding to EGFR, ABT-414 delivers the cytotoxin directly
+urgent need for better treatment options. Standard into these cells. Conventional EGFR inhibitor toxicity
+treatment consists of surgical resection followed by is absent because ABT-414 does not bind to wild-type
+radiation plus concomitant and maintenance temo- EGFR present on normal cells, and the parent antibody
+zolomide therapy. EGFR is a known driver of glioblas- (ABT-806) has been shown to cross the blood–brain bar-
+toma growth; however, several trials of EGFR inhibitors rier and bind to EGFR-expressing intracranial tumors. In
+have failed to produce meaningful or durable efficacy. the present study, we report the safety, pharmacokinet-
+ABT-414, an antibody-drug conjugate, utilizes a novel ics, and promising antitumor activity of ABT-414 in com-
+approach to target the aberrant EGFR (amplified, over- bination with radiation and temozolomide in patients
+expressed, or mutated) expressed on tumor cells. Upon with newly diagnosed glioblastoma.
+Glioblastoma is the most common primary malignant tumor). Preferential binding of ABT-414 to activated EGFR
+brain tumor in adults, with a 5-year survival rate of about allows for minimal binding to normal tissue, thereby avoid-
+5%.1 Current standard-of-care therapy for newly diagnosed ing toxicities typically associated with EGFR inhibitors.19,20
+glioblastoma is surgical debulking followed by radiation After binding to EGFR, the complex is internalized and
+therapy (RT) plus daily temozolomide (TMZ), and at least intracellular proteolytic enzymes release the toxin, leading
+6 months of adjuvant TMZ monotherapy. Despite this mul- to inhibition of microtubule function, disruption of critical
+timodal approach, median survival is 1–2 years.2 Recently, cellular processes, and ultimately cell death.21 Thus, ABT-
+tumor-treating fields that deliver low intensity, intermedi- 414 acts distinctly from other EGFR inhibitors that utilize
+ate frequency alternating electric fields to the shaved scalp the failed approach of reducing EGFR signaling. Instead,
+of glioblastoma patients have shown to prolong survival ABT-414 bypasses multiple EGFR signaling resistance
+when combined with TMZ after initial treatment with chem- mechanisms by utilizing EGFR solely as a vehicle for deliv-
+oradiation.3 However, glioblastoma patients all but invaria- ering a potent microtubule toxin into the tumor cell.
+bly relapse, and the median survival at recurrence is about Additionally, ABT-414 has been shown to cross the
+9 months.4 Thus, there is an urgent need to develop novel blood–brain barrier. Single-photon emission computed
+therapeutics that can improve outcome in glioblastoma tomography imaging with a 111indium-labeled conjugate
+patients. of ABT-806 (ABT-806i) has demonstrated that the anti-
+Frequent abnormalities have been observed in the body can effectively bind to EGFR-expressing intracra-
+expression of the epidermal growth factor receptor (EGFR) nial tumors, both in preclinical orthotopic models and in
+in glioblastoma.5,6 Approximately 50% of glioblastomas patients with brain tumors.22 A chimeric form of ABT-806
+harbor EGFR gene amplification and the majority overex- (ch806) has also shown uptake in patients with glioma.19
+press EGFR protein. About half of EGFR-amplified tumors Preclinical data have shown that ABT-414 has potent anti-
+also exhibit the constitutively activated EGFR variant III tumor activity in glioblastoma cell lines and in standard as
+(EGFRvIII) mutation (EGFRde2-7).5–7 The prognostic sig- well as patient-derived xenograft models.18,23,24
+nificance of this mutation in glioblastoma remains contro- Other common genetic alterations in glioblas-
+versial. Some studies report this variant to be unrelated to toma include methylation-induced silencing of the O6-
+patient outcomes,8,9 while others report it to be associated methylguanine-methyltransferase enzyme (MGMT) gene
+with shorter10 or longer survival.11 Agents targeting EGFR promoter25 and mutations in the isocitrate dehydroge-
+signaling pathways have displayed limited or no therapeu- nase gene (IDH1).26 Both alterations have been associ-
+tic efficacy in glioblastoma clinical trials.12–17 Therefore, in ated with a positive prognosis in glioblastoma.27 To predict
+order to exploit the aberrant EGFR expression and signal- patient outcomes in glioblastoma, the Radiation Therapy
+ing in glioblastoma, alternative strategies are required. Oncology Group (RTOG) established a recursive partition-
+ABT-414 is an antibody-drug conjugate (ADC) with a ing analysis model to provide distinct prognostic classes
+humanized recombinant immunoglobulin G (IgG)1κ anti- of patients.28,29 Recently, this model has been combined
+body (ABT-806) linked to a noncleavable maleimidocaproyl with the Molecular Classification Predictor (MCP) model to
+linker and a potent microtubule cytotoxin, monomethyl take into account the clinical, genetic, and molecular vari-
+auristatin F (MMAF).18 The antibody binds to a unique con- ations in glioblastoma. The resulting model offers better
+formational epitope of the receptor that is accessible only separation of prognostic classes, translating into improved
+when EGFR is in an extended or activated conformation prediction of survival in newly diagnosed glioblastoma
+(ie, when EGFR is amplified, mutated, or overexpressed in patients.30,31
+
+--- Page 3 ---
+Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma 967
+Oncology Neuro-
+In this study, we describe the safety, tolerability, and The exposure-adjusted continual reassessment methodol-
+pharmacokinetics (PK) of ABT-414 in combination with TMZ ogy (EACRM) was used during dose escalation to identify
+and RT in patients with newly diagnosed glioblastoma. The the MTD and RPTD.32,33 The EACRM allowed for continuous
+primary objectives were to determine the recommended enrollment with individualized dosing selected in single-
+phase II dose (RPTD) and maximum tolerated dose (MTD) patient cohorts. Dosing was based on the preceding tox-
+of ABT-414 in combination with RT and TMZ. Secondary icities observed. The first patient was assigned an ABT-414
+objectives included exploring antitumor activity of ABT- dose of 0.5 mg/kg and was followed for the entire dose lim-
+414 and assessing biomarkers to predict patient outcomes. iting toxicity (DLT) observation period (~10 wk, from day
+Patient tumor samples were studied for EGFR alterations, 1 of ABT-414 until 4 wk after the last dose of RT). No dose
+MGMT promoter methylation, and IDH1 mutations, and escalations were allowed until the first patient completed
+the MCP model was used to assign patients to distinct the entire DLT observation period. Subsequently, as each
+prognostic classes. new patient entered screening, a patient-specific dose was
+determined at the new estimated MTD based on the toxici-
+ties observed and time to such events. As a safety meas-
+ure, no more than 100% (doubling) of the previous dose
+Methods
+was allowed and the AbbVie medical monitor reviewed
+and approved all dose assignments. There was no intrapa-
+This multicenter, phase I, open-label study was designed
+tient dose escalation.
+to identify the safety, PK, RPTD, and MTD of ABT-414 in
+Enrollment continued until one of the following was
+a variety of treatment scenarios for diagnoses of glio-
+reached: change in the estimated MTD was less than
+blastoma. The trial consisted of 3 treatment arms, Arm
+0.20 mg/kg, or the final MTD was estimated, or futility was
+A (ABT-414 plus RT and TMZ in newly diagnosed glio-
+seen. Futility was to be declared when the estimated DLT
+blastoma), Arm B (ABT-414 plus TMZ after RT in either
+rate, at the lowest dose of 0.5 mg/kg, was greater than
+newly diagnosed or recurrent glioblastoma), and Arm C
+33.3% and at least 2 patients were already assigned to
+(ABT-414 monotherapy in recurrent glioblastoma mul-
+that dose in combination with chemoradiation. The MTD
+tiforme [GBM]). Herein we report the results of Arm A of
+was defined as the dose associated with an approximately
+the study. Prior to study initiation, the trial was registered
+33.3% chance of a DLT, and the RPTD was defined as a
+with Clinical Trials Registry (NCT01800695) and approved
+dose equal to or less than the MTD and was determined
+by the independent ethics committee/institutional review
+based on the safety and PK data. The following events were
+board of all participating institutions. Written informed
+considered DLTs when related to the study treatment and
+consent was obtained from all patients or their legal repre-
+occurring in the DLT observation period: grade 4 neutro-
+sentative before enrollment, and the study was performed
+penia or anemia (>7 days), grade 3 or 4 febrile neutrope-
+in accordance with the 1964 Declaration of Helsinki and its
+nia, grade 3 or 4 thrombocytopenia (>7 days), grade 3 or
+later amendments.
+4 nonhematologic adverse events (AEs) (except grade
+3 nausea, vomiting, or diarrhea if adequately managed
+Patients within 48 h), and >14 days delay of treatment due to the
+failure to recover from attributable toxicity. Other toxicities
+Eligible patients (≥18 y of age) had newly diagnosed either within or after the defined period were evaluated on
+supratentorial glioblastoma or subvariants, Karnofsky per- a case-by-case basis.
+formance status score of 70 or above, and no significant Subsequent to the identification of RPTD, patients were
+postoperative hemorrhage. They also had adequate bone enrolled in the safety expansion cohort to further evaluate
+marrow, renal, and hepatic function, as follows: neutrophil the side effect profile and safety of ABT-414 at the RPTD
+count ≥1500/mm3; platelets ≥100 000/mm3; hemoglobin and explore preliminary efficacy.
+≥9.0 g/dL; serum creatinine ≤1.5 times the upper limit of
+the normal range (ULN); bilirubin, aspartate aminotrans-
+Treatment Regimen
+ferase (AST), and alanine aminotransferase (ALT) ≤2.5
+times ULN; prothrombin time/international normalized
+All enrolled patients received standard RT (planned 60
+ratio ≤1.5. Women of childbearing potential and men who
+Gy in 30 fractions) with concurrent TMZ (75 mg/m2/day).
+had agreed to use adequate contraception prior to, during,
+ABT-414 was administered intravenously over 30–40 min-
+and 6 months after completion of therapy were allowed.
+utes on day 1 of weeks 1, 3, and 5 during the RT and TMZ
+Patients were considered ineligible if they had received any
+treatment phase (Fig. 1). The ABT-414 dose was escalated
+anticancer therapy within 28 days before the treatment, or
+or de-escalated to the MTD based on projections from the
+had any medical history of major immunologic reaction to
+EACRM. Four weeks following completion of concurrent
+any IgG-containing agent or any component of TMZ or to
+RT and TMZ, patients received adjuvant TMZ (150–200 mg/
+dacarbazine (DTIC). Lactating or pregnant females were
+m2, days 1–5 of 28-day cycle) plus ABT-414 (days 1 and 15
+not allowed in the study.
+of 28-day cycle). The dose of ABT-414 used during adjuvant
+TMZ was assigned as the highest dose that did not surpass
+Study Design the MTD in the concurrent Arm B of the study.23,34
+Radiographic assessments for disease progression
+Arm A of this study was conducted in 2 cohorts, including were performed 4 weeks after the end of RT and there-
+a dose-escalation cohort and a safety expansion cohort. after approximately every other month or as clinically
+
+--- Page 4 ---
+968 Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma
+Fig. 1 Study design: Arm A and expanded cohort A. C, cycle; D, day; DLT, dose-limiting toxicity; F/U, follow-up; RT, radiation therapy; TMZ, temo-
+zolomide; W, week; ▲, tumor assessment screening; C1D1, every other cycle post C1D1 and final visit (if not within 3 weeks).
+indicated. Progression was determined by the local investi- of ABT-414, total ABT-806, and cys-mcMMAF including the
+gator using the Response Assessment in Neuro-Oncology peak concentration (C ), terminal elimination half-life (t ),
+max 1/2
+(RANO) criteria.35 ABT-414 continued until disease progres- and area under the serum concentration–time curve (AUC)
+sion or unacceptable toxicity. Adjuvant TMZ continued for were determined using noncompartmental methods.
+at least 6 months unless disease progression or toxicity
+was observed in the interim, and continued at the discre-
+Tumor Protein and Molecular Characterization
+tion of the local investigator.
+Toxicity was assessed among all patients who received
+EGFR status (amplification, mutation, and total expression),
+at least one dose of ABT-414, and was graded according
+MGMT methylation, and IDH mutations were determined
+to the National Cancer Institute Common Terminology
+centrally on formalin-fixed, paraffin-embedded (FFPE) archi-
+Criteria for Adverse Events version 4.1. A baseline oph-
+val tumor tissues collected before treatment. Locus-specific
+thalmology exam was performed for all patients during
+amplification of EGFR was detected by fluorescence in situ
+screening. After observing frequent ophthalmologic tox-
+hybridization (FISH) utilizing 2 FISH probes (Vysis Locus
+icities in patients treated at doses of 1.0 mg/kg and above,
+Specific Identifier EGFR SpectrumOrange Probe, Vysis
+prophylactic 0.1% dexamethasone eye drops were subse-
+Chromosome Enumeration Probe 7 SpectrumGreen Probe;
+quently administered to all patients at these dose levels.
+Abbott Molecular). Total EGFR expression and EGFRvIII
+Examinations were administered to patients by an oph-
+mutation were determined by a custom triplex real-time
+thalmologist at baseline and onset of ocular symptoms,
+reverse-transcription polymerase chain reaction (qRT-
+and repeated thereafter, as clinically appropriate.
+PCR) on RNA extracted from FFPE tissue using the Qiagen
+FFPE RNA kit (modified manufactured protocol) (Abbott
+Pharmacokinetic Assessments Molecular). Beta-actin mRNA served as an endogenous
+control and was used to assess RNA integrity. The cut-
+Serum samples were collected immediately before and at off values to define positives for these assays are listed in
+multiple time points after ABT-414 dose administration on Supplementary Table S1.
+day 1 of weeks 1 and 5 during the chemoradiation phase, MGMT methylation was determined by bisulfite conver-
+and the levels of ABT-414 and total ABT-806 (both ABT-414 sion using 1 µg of DNA (Zymo EZ96 DNA methylation kit,
+and unconjugated antibody) were determined as previously Zymo Research). Amplification was performed as previ-
+described36 using a validated electrochemiluminescence ously described,37 generating a 136 bp amplicon derived
+immunoassay. Plasma samples were also collected at the from positions 131155505-131155619 (RefSeq NM_002412)
+same time to determine the concentrations of cysteine- on chromosome 10. PCR primer sequences were as pub-
+maleimidocaproyl MMAF (cys-mcMMAF, a metabolite of lished38 and real-time PCR was performed using SYBR
+ABT-414) using a validated liquid chromatography method green (Life Technologies). Reactions were carried out in
+with tandem mass spectrometric detection. PK parameters 15-µL volumes and cycled as follows: 50°C for 2 minutes,
+
+--- Page 5 ---
+Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma 969
+Oncology Neuro-
+95°C for 10 minutes, and 45 cycles of 95°C for 15 seconds target dose associated with 33.3% chance of DLT or the
+and 62°C for 1 minute. A delta cycle threshold (∆C ) was estimated MTD. Baseline characteristics were summarized
+T
+defined as the difference in the cycle in which the detected using descriptive statistics. The number and percentage
+amplification curve (on a log-linear plot) crosses an empiri- of patients having treatment emergent adverse events
+cally determined threshold (set for each batch based within (TEAEs) were listed by MedDRA system organ class and
+the geometric region of amplification) between the MGMT preferred term.
+amplicon and the reference ACTB amplicon. A ∆C of less Progression-free survival (PFS) was defined as the inter-
+T
+than 8 cycles (>256-fold difference) indicated the presence val from the first day of ABT-414 treatment (also the first
+of promoter methylation. day of RT) to RANO-defined disease progression or death
+Mutations of IDH1 were detected by Competitive Allele- from any cause. Overall survival (OS) was defined as the
+Specific TaqMan PCR (castPCR) according to the manu- interval from the first dose of ABT-414 to death from any
+facturer’s instructions (Life Technologies). Assays were cause. Patients without documented progression or death
+performed to detect IDH1C394G (R132G), IDH1G395A (R132H), were censored for survival analyses. PFS and OS were
+IDH1C394T (R132C), IDH1G394A (R132S), and IDH1G395T (R132L). analyzed using the Kaplan–Meier method and were esti-
+mated with 95% CI limits.
+Statistical Analysis
+The number of patients in the dose escalation portion was Results
+based on the occurrence of DLT events as determined in
+EACRM. MTD was estimated based on observations to Patient Characteristics
+construct a model that considers the time-to-DLT events
+and hazard of DLTs using a parametric survival regression Between April 2013 and January 2016, forty-five patients
+model. The fitted model was then inverted to estimate the (32 men, 13 women; median age 60 y, range 34–79) were
+Table 1 Baseline characteristics
+Characteristics Escalation Cohort Expansion Cohort All Patients
+(N = 45)
+(n = 29) (n = 16)
+Median age, y (range) 58 (34–79) 60 (44–74) 60 (34–79)
+Male gender, n (%) 19 (66) 13 (81) 32 (71)
+KPS score, n (%)
+100 8 (28) 5 (31) 13 (29)
+90 12 (41) 6 (38) 18 (40)
+80 7 (24) 3 (19) 10 (22)
+70 2 (7) 2 (13) 4 (9)
+Surgery type, n (%)
+Partial or total resection 22 (76) 13 (81) 35 (78)
+Biopsy 7 (24) 3 (19) 10 (22)
+EGFR status, n/Na (%)
+Amplification (amplified/patients tested) 8/26 (31) 7/12 (58) 15/38 (39)
+EGFRvIII mutation (mutated/patients tested) 5/27 (19) 7/14 (50) 12/41 (29)
+(EGFRvIII mutated and EGFR amplified)/ 5/8 (63) 6/7 (86) 11/15 (73)
+amplified
+EGFR overexpression/patients tested 7/27 (26) 7/14 (50) 14/41 (34)
+MGMT methylation status, n/Na (%)
+Methylated 5/21 (24) 4/9 (44) 9/30 (30)
+Unmethylated 16/21 (76) 5/9 (56) 21/30 (70)
+MCP class, n/Na (%)
+2 2/17 (12) 2/8 (25) 4/25 (16)
+3 13/17 (76) 6/8 (75) 19/25 (76)
+4 1/17 (6) 0/8 (0) 1/25 (4)
+an = number of patients with that characteristic, N= total number of patients in that group.
+EGFR, epidermal growth factor receptor; KPS, Karnofsky performance status; MCP, molecular classification predictor; MGMT, O-6-methylguanine-
+DNA methyltransferase.
+
+--- Page 6 ---
+970 Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma
+enrolled in Arm A of the study: 29 in the dose escalation
+phase and subsequently 16 in the safety expansion cohort. Table 2 ABT-414 treatment emergent adverse events
+The baseline characteristics and demographics are shown
+Events, n (%) All Patients (N = 45)
+in Table 1.
+All Grades (≥25% patients) 45 (100)
+Ocular 40 (89)
+Safety
+Blurred vision 29 (64)
+The escalation phase included 9 dose groups (29 Dry eye 16 (36)
+patients) (0.5 mg/kg, n = 1; 0.7 mg/kg, n = 2; 1.0 mg/kg, Keratitis 15 (33)
+n = 1; 2 mg/kg, n = 5; 2.3 mg/kg, n = 3; 2.4 mg/kg, n = 8;
+Photophobia 15 (33)
+2.6 mg/kg, n = 4; 3 mg/kg, n = 2; 3.2 mg/kg, n = 3). Overall
+Eye pain 12 (27)
+TEAEs (≥25% patients), grade 3/4 TEAEs (≥10% patients),
+and DLTs are summarized in Table 2. Overall, the most Non-ocular
+common TEAEs observed were fatigue (73%), blurred Fatigue 33 (73)
+vision (64%), nausea (47%), thrombocytopenia (47%), Nausea 21 (47)
+constipation (44%), dry eye (36%), keratitis (33%), photo-
+Thrombocytopenia 21 (47)
+phobia (33%), increased AST (33%), increased ALT (31%),
+Constipation 20 (44)
+eye pain (27%), and seizure (27%). In aggregate, ocular
+TEAEs were reported in 40/45 (89%) patients, with multi- Increased AST 15 (33)
+ple symptoms occurring in these patients. The underlying Increased ALT 14 (31)
+pathology of these ocular events was related to micro-
+Seizure 12 (27)
+cystic keratopathy.
+Grades 3/4 (≥10% patients) 35 (78)
+Grade 3/4 TEAEs were observed in 78% of the patients
+and the most common were keratitis (grade 3, 13%), Ocular 12 (27)
+blurred vision (grade 3, 11%), lymphopenia (grade 3, 11%; Keratitis 6 (13)
+grade 4, 2%), thrombocytopenia (grade 3, 2%; grade 4, Grade 3 6 (13)
+9%), and increased ALT (grade 3, 11%). Importantly, the
+Grade 4 0
+ocular toxicities were generally reversible once ABT-414
+Blurred vision 5 (11)
+was stopped. The MTD was set at 2.4 mg/kg and the RPTD
+was declared at 2.0 mg/kg. Only 1/21 patients (5%), includ- Grade 3 5 (11)
+ing 16 patients in the expansion cohort, experienced DLT Grade 4 0
+at RPTD, whereas 6/20 (30%) patients treated at a dose of
+Non-ocular
+≥2.3 mg/kg experienced at least one DLT over the entire
+Lymphopenia 6 (13)
+course of ABT-414 therapy. The safety expansion cohort
+Grade 3 5 (11)
+consisted of 16 patients, all treated at the RPTD of 2 mg/
+kg. None of these patients experienced a DLT during the Grade 4 1 (2)
+observation period. Thrombocytopenia 6 (13)
+A total of 42/45 patients (93%) discontinued ABT-414
+Grade 3 2 (4)
+during the study (Supplementary Table S2). In the expan-
+Grade 4 4 (9)
+sion cohort, 14/16 patients (88%) discontinued and 28/29
+patients (97%), excluding the expansion cohort, discontin- Increased ALT 5 (11)
+ued. The majority of patients discontinued ABT-414 due to Grade 3 5 (11)
+disease progression (40%) or an AE unrelated to progres- Grade 4 0
+sion (31%).
+DLT (≥1 patient) 7 (16)
+Ocular 4 (9)
+Pharmacokinetics Keratitis 3 (7)
+Blurred vision 1 (2)
+Systemic PK exposures (C and AUC) of ABT-414 and cys-
+max
+mcMMAF after the administration of ABT-414 via intrave- Eye pain 1 (2)
+nous infusion were approximately dose proportional over Non-ocular 3 (7)
+the dose range studied (0.5–3.2 mg/kg; Fig. 2 and Table 3). Increased AST 2 (4)
+After a single dose of ABT-414, the dose-normalized C
+max Increased ALT 1 (2)
+and AUC (AUC from time 0 to infinity) of cys-mcMMAF
+inf Increased gamma-glutamyltransferase 1 (2)
+were about 1000-fold lower than those of ABT-414 on a
+molar concentration basis. The observed mean terminal AST, aspartate aminotransferase; ALT, alanine aminotransferase; DLT,
+half-lives of ABT-414, total ABT-806, and cys-mcMMAF dose-limiting toxicity; GGT, gamma-glutamyltransferase.
+across all doses studied were 9.0, 11.3, and 4.3 days,
+respectively. ABT-414 serum exposure was only moder-
+ately lower than that of total ABT-806 (Fig. 3), indicating
+that the level of free (or unconjugated) circulating ABT-806
+
+--- Page 7 ---
+Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma 971
+Oncology Neuro-
+Fig. 2 ABT-414 PK exposure vs dose following ABT-414 dosing in week 1. (A) ABT-414 peak concentration (C ) versus ABT-414 dose. (B) ABT-
+max
+414 area under the concentration–time curve from time zero to 14 days (AUC ) vs ABT-414 dose. Values are presented as mean±SD. AUC, area
+14 days
+under the curve; C , maximum concentration.
+max
+in serum was low. Thus the drug linker appears to be stable
+in blood circulation. Discussion
+ADCs are a rapidly growing class of anticancer agents
+Exploratory Antitumor Activity
+that combine the targeting properties of monoclonal
+antibodies with the antitumor effects of potent cytotoxic
+The median duration of PFS for all patients (n = 45) was
+drugs. Significant advancements in linker stability and
+6.1 months (95% CI = 4.5, 9.5); the same PFS of 6.1 months
+toxin potency are primarily responsible for the improved
+was observed for the expansion cohort patients (n = 16;
+outcomes and resurgence in ADC development. Distinct
+95% CI = 2.5, 9.5). The median PFS was 5.9 months (95%
+advantages of ADCs include their ability to deliver toxic
+CI = 2.5, 11.4) for all EGFR amplified patients (n = 15) and
+payloads directly to tumor cells allowing enhanced speci-
+5.1 months for the subset of EGFR amplified patients
+ficity with decreased toxicity as well as their potential to
+in the expansion cohort (n = 7). The median OS has not
+not be affected by downstream resistance mechanisms
+been reached yet after a median duration of follow-up of
+related to intracellular signaling. These resistance mecha-
+5.8 months (range, 1–21.2).
+nisms have been shown to limit the efficacy of targeted
+therapies designed to directly inhibit receptor activation,
+Biomarker Analysis either extracellularly by inhibiting ligand binding or intra-
+cellularly through inhibition of tyrosine kinases. Recent
+Of the 38 patients tested for EGFR status in their tumors, examples of clinically relevant, FDA-approved ADCs are
+15 patients (39%) displayed EGFR amplification, and 11 brentuximab vedotin (Adcetris) and ado-trastuzumab
+of these 15 patients (73%) also displayed EGFRvIII muta- emtansine (Kadcyla, also called TDM-1). The former is an
+tion. Breakdown by cohort and further details are shown anti-CD30 ADC, which received FDA approval in 2011 for
+in Table 1. Among the 16 expansion cohort patients, 12 Hodgkin’s lymphoma and anaplastic large cell lymphoma,39
+were tested for EGFR amplification in their tumors and and the latter is an anti–human epidermal growth factor
+7/12 (58%) were found to be EGFR amplified; 14 were receptor 2 (HER2) antibody (trastuzumab) conjugated with
+tested for EGFRvIII mutation and 7/14 (50%) harbored a toxic drug (DM1), which received FDA approval in 2013
+EGFRvIII mutation (6 of them also showed EGFR amplifica- for the treatment of HER2-positive metastatic breast can-
+tion and represented 86% of the EGFR amplified patients cer patients who previously received trastuzumab and a
+in the expansion cohort). MGMT methylation status was taxane.40 ABT-414 is a newer-generation ADC consisting of
+determined in tumors from 30 patients, of which 9 (30%) a humanized recombinant antibody against EGFR tethered
+were found to have methylation of the MGMT promoter. to a cytotoxin (MMAF). Given the high frequency of EGFR
+No mutations of the IDH1 gene were detected. In addition, alterations in this cancer, glioblastoma was considered an
+25/45 patients (56%) were segregated into distinct prog- attractive indication for ABT-414 development.
+nostic classes (classes 1–4) by the MCP model; the higher Similar to other ADCs, in particular those with mcM-
+the class, the worse the prognosis. In our study, the major- MAF drug-linker payload, patients enrolled in the ongoing
+ity of patients were clustered into class 3 (76%), followed ABT-414 studies have reported frequent ophthalmologic
+by class 2 (16%) and class 4 (4%) (Table 1). toxicities, most commonly at the 1.0 mg/kg dose level
+
+--- Page 8 ---
+972 Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma
+Table 3 PK parameters of ABT-414 and cys-mcMMAF after week 1 dosing
+Dose n C AUC AUC t
+max 14 day inf 1/2
+(mg/kg) (μg/mL) (mg•h/mL) (mg•h/mL) (day)
+ABT-414
+0.5 1 10.6 1.44 2.23 9.5
+0.7 2 21.1 (19.4, 22.7) 2.61 (2.56, 2.65) 3.49 (3.18, 3.8) 7.2 (6.1, 8.8)
+1.0 1 34.7 3.75 5.33 8.8
+2.0 5 60.5 ± 7.55 7.72 ± 1.21 12.5 ± 3.31 10.3 ± 1.7
+2.3 3 93.1 ± 32.7 13.0 ± 4.46 18.4 ± 4.07 8.1 ± 2.7
+2.4 5 121 ± 61.6 11.1 ± 2.83 16.3 ± 4.16 8.1 ± 2.3
+2.6 4 62.9 ± 4.54 8.51 ± 1.12 13.9 ± 4.00 9.6 ± 3.5
+3.0 2 85.2 (79.9, 90.4) 12.5 (11.1, 13.9) 20.9 (18.4, 23.5) 11.0 (10.9, 11.2)
+3.2 3 84.4 ± 5.01 12.4 ± 1.55 19.1 ± 4.47 9.0 ± 3.6
+Cys-mcMMAF
+n C AUC AUC t
+max 14 day inf 1/2
+(ng/mL) (ng•h/mL) (ng•h/mL) (day)
+0.7 2 0.243 (0.237, 0.249) 29.7 (22.7, 36.8) 52.3a 6.3a
+1.0 1 0.215 18.7 – –
+2.0 5 0.492 ± 0.278 40.0 ± 28.1 76.1 (71.7, 80.5)b 3.7 (3.6, 3.8)b
+2.3 3 0.652 ± 0.169 94.6 ± 30.1 124 (93.2, 154)b 3.7 (3, 4.7)b
+2.4 5 0.589 ± 0.235 68.7 ± 13.8c 103 (76.2, 130)b 4.3 (2.9, 8.5)b
+2.6 4 0.436 ± 0.066 56.5 ± 24.9 83.7 ± 35.5c 5.0 ± 1.3c
+3.0 2 0.796 (0.596, 0.996) 72.8 (64.4, 81.3) 105a 5.7a
+3.2 3 0.793 ± 0.104 95.2 ± 16.8 105 ± 19.5 3.8 ± 0.1
+a n = 1; b n = 2; c n = 3; t presented as harmonic mean ± pseudo standard deviation; when n = 2, values are presented as harmonic mean (mini-
+1/2
+mum, maximum) for t , and as mean (minimum, maximum) for other PK parameters.
+1/2
+AUC , area under the curve from time 0 to day 14; C , maximum concentration; AUC , area under the curve from time 0 to infinity; PK, pharma-
+14 day max inf
+cokinetics; t , half life.
+1/2
+and above. These AEs can include dry eyes, blurry vision, forget to administer the steroid eye drops, and some did
+eye pain, photophobia, watery eyes, and others, and are not receive them, which would lead to a worsening of
+accompanied by the finding of microcyst development ocular symptoms. Once they started using the eye drops
+within the cornea. This constellation of ocular symptoms again, the frequency/severity of reported ocular AEs would
+is similar to that reported by other MMAF compounds decrease. These inconsistencies may have led to difficulty
+in development, including SGN-75,41 AGS-16C3F, and in assessing the most accurate number and degree of ocu-
+AGS-16M8F,42 but are not unique to ADCs. Ocular mani- lar AEs observed. Another important observation is that
+festations of chemotherapy administration have been once ABT-414 dosing was held or discontinued, ocular
+extensively described. One such chemotherapy, high dose symptoms gradually resolved spontaneously in the major-
+cytarabine, appears to have a common inciting factor as ity of patients for whom we were able to obtain 3 months
+mcMMAF, namely the development of numerous epithe- of follow-up data. This is likely attributable to the fact that
+lial refractile microcysts within the cornea.43,44 A steroid the cornea regenerates itself over a period of 21–28 days,
+ophthalmic solution has been used prophylactically prior allowing for the microcysts caused by ABT-414 treatment
+to and during high dose cytarabine administration to help to “slough off”.
+reduce the incidence and severity of these effects.45,46 Apart from ocular toxicities, other toxicities observed
+Therefore, a comparable strategy was employed in this either were common in the population under study (such
+study given the similarities in the ocular signs and symp- as seizures) or have been commonly observed with the
+toms and the high prevalence of adverse events observed. administration of RT and TMZ (such as thrombocytopenia,
+It is important to note that the impact of steroid eye drops fatigue, and liver function test abnormalities). Although
+on patients was not meant to be included in a final analy- a contribution of ABT-414 to these toxicities cannot be
+sis. Anecdotally, patients have reported some alleviation excluded, these toxicities have been rare or not at all
+of symptoms with steroid use and thus dexamethasone, observed in studies of ABT-414 administered as mono-
+or an equivalent steroid ophthalmologic solution, is rec- therapy.47 At the assigned RPTD of ABT-414 (2 mg/kg) in
+ommended to prevent or reduce the ocular side effects for the expansion cohort patients, no DLTs were observed.
+all ABT-414 trials. However, patients would occasionally The 2.0 mg/kg RPTD dose of ABT-414 is similar to doses
+
+--- Page 9 ---
+Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma 973
+Oncology Neuro-
+Supplementary Material
+Supplementary material is available at Neuro-Oncology
+online (http://neuro-oncology.oxfordjournals.org/).
+Funding
+AbbVie provided financial support for this study (NCT01800695)
+and participated in the design, study conduct, analysis, and
+interpretation of data as well as the writing, review, and
+approval of the manuscript. All authors were involved in the data
+gathering, analysis, review, and interpretation.
+Fig. 3 Concentration–time profiles for ABT-414, total ABT-806,
+and cys-mcMMAF. The results represent observations following
+2 mg/kg ABT-414 dose administration on day 1 of weeks 1 and 5. Acknowledgments
+Values are presented as mean±SD.
+Authors would like to thank the patients and their families, inves-
+tigators, and their research teams. Medical writing support was
+used with other ADCs.40,48 Responses to ABT-414 in recur- provided by Namrata Bhatnagar, PhD, and Mrinal Shah, PhD,
+rent GBM patients have been observed at doses as low as employees of AbbVie.
+1.0 mg/kg,34 suggesting that 2.0 mg/kg is sufficient to elicit
+a response in this population.
+Caution should be used in evaluating the efficacy param-
+eters in this phase I study, given the variable doses admin- Conflict of interest statement. D.A.R. received honoraria
+istered, number of discontinuations of study drug due to from and has a consulting or advisory role with AbbVie, Bristol
+toxicities, small sample size, and numerous confounding Myers Squibb, Cavion, Celldex, Inovio, Juno Pharmaceuticals,
+prognostic factors that can contribute to PFS and OS meas- Merck, Novartis, Roche/Genentech, Amgen, Novocure,
+urements in this disease. With this in mind, the median Oxigene, Regeneron, and Stemline Therapeutics; is involved in
+duration of PFS (between 5.1 and 6.1 mo) in this study does speakers’ bureaus with Roche and Merck; received research
+not compare favorably with the standard-of-care therapy funding from Incyte, Midatech, and Celldex.
+and could reflect the fact that only 56% of patients under- A.B.L. received personal compensation within the last
+went MCP screening, and of those, the majority were in 12 months from Genentech, Bioclinica, VBI Vaccines, Sapience
+MCP prognostic class 3. The median duration of survival of Therapeutics, Cortice Biosciences, Oxigene, and prIME
+glioblastoma patients in MCP class 3 has been reported to Oncology; research support from Genentech, Amgen, AbbVie,
+be 15 months.31 In our study, the median OS has not been Novartis, Karyopharm, Celldex, NW Biotherapeutics, Plexxicon,
+reached yet due to immature follow-up. Pfizer, Agenus, Medimmune, Boehringer Ingelheim, Angiochem,
+Preclinical data suggest that the combination of ABT- Novocure, Stemline, E-Therapeutics, and Millennium.
+414 with TMZ and RT has at least additive properties.18,23 M.v.d.B. received honoraria from Roche, AbbVie, Celldex,
+Furthermore, combination with radiation has also been Novocure, Merck Ag, Cavion, Actelion, BMS, and Blue Earth
+shown to induce EGFR expression,49 which may fur- Diagnostics; received research funding from AbbVie and Roche.
+ther enhance the effects of ABT-414. Radiation may also P.K. received honoraria for advisory role with AbbVie within
+allow for increased drug delivery of ABT-414 to areas of the last 12 months.
+the brain that may be difficult for such a large molecule R.M. is on advisory board for AbbVie.
+to penetrate.50 Due to the above hypotheses, as well as A.M.S. owns stock in and has a consulting or advisory role
+the feasibility of safely delivering doses at which tumor with Life Science Pharmaceuticals; received research fund-
+responses have been seen, further development of ABT- ing from AbbVie, Daiichi Sankyo, and Avipep; has patents,
+414 in newly diagnosed glioblastoma is warranted. To this royalties, or other intellectual property with Life Science
+end, a phase II/III study of ABT-414 versus placebo in com- Pharmaceuticals, AbbVie, Kalobios, and Ludwig Institute for
+bination with RT and TMZ in newly diagnosed glioblas- Cancer Research.
+toma with EGFR amplification (NCT02573324, RTOG 3508, L.F. has no conflict of interest to disclose.
+Intellance 1) is under way, in collaboration with the RTOG E.P.S. has research funding from AbbVie.
+Foundation. Another phase II study of ABT-414 is ongo- H.K.G. has an investigator-initiated study with AbbVie;
+ing for patients with recurrent glioblastoma. This study is received travel support and research funding from AbbVie and
+testing ABT-414 either alone or with TMZ or versus TMZ or MSD; received honoraria from AbbVie, Pfizer, Merck Serono,
+lomustine, and is being conducted in collaboration with Novartis, Bristol-Myers Squibb, and Bayer; affiliated with the
+the European Organisation for Research and Treatment Ludwig Institute for Cancer Research.
+of Cancer (EORTC) (NCT02343406, EORTC 1410-BTG, E.G., J.F., H.J.L., W.M., H.X., H.M., L.R.R., P.A., and K.D.H
+Intellance 2). employed by AbbVie and may own AbbVie stock.
+
+--- Page 10 ---
+974 Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma
+20. Jungbluth AA, Stockert E, Huang HJ, et al. A monoclonal antibody
+References recognizing human cancers with amplification/overexpression of the
+human epidermal growth factor receptor. Proc Natl Acad Sci U S A.
+2003;100(2):639–644.
+1. Ostrom QT, Gittleman H, Fulop J, et al. CBTRUS statistical report: pri- 21. Gan HK, Burgess AW, Clayton AH, et al. Targeting of a conformation-
+mary brain and central nervous system tumors diagnosed in the United ally exposed, tumor-specific epitope of EGFR as a strategy for cancer
+States in 2008–2012. Neuro Oncol. 2015;17 Suppl 4:iv1–iv62. therapy. Cancer Res. 2012;72(12):2924–2930.
+2. Stupp R, Mason WP, van den Bent MJ, et al. Radiotherapy plus con- 22. Gan HK, Burge ME, Solomon BJ, et al. A phase I and biodistribution
+comitant and adjuvant temozolomide for glioblastoma. N Engl J Med. study of ABT-806i, an 111indium-labeled conjugate of the tumor-spe-
+2005;352(10):987–996. cific anti-EGFR antibody ABT-806. J Clin Oncol. 2013;31(suppl; abstr
+3. Stupp R, Taillibert S, Kanner AA, et al. Maintenance therapy with tumor- 2520).
+treating fields plus temozolomide vs temozolomide alone for glioblas- 23. Gan HK, Fichtel L, Lassman A, et al. A Phase I study evaluating ABT-
+toma: a randomized clinical trial. JAMA. 2015;314(23):2535–2543. 414 with concurrent radiotherapy (RT) and temozolomide (TMZ) in glio-
+4. Wick W, Brandes AA, Gorlia T, et al. Phase III trial exploring the combina- blastoma (GBM). Presented at Society for Neuro-Oncology, November
+tion of bevacizumab and lomustine in patients with first recurrence of a 13–16, 2014;Miami, Florida. 2014.
+glioblastoma: the EORTC 26101 trial. Neuro Oncol. 2015;17 (suppl 5): v1. 24. Gan HK, Fichtel L, Lassman AB, et al. A phase I study evaluating ABT-414 in
+5. Brennan CW, Verhaak RG, McKenna A, et al. The somatic genomic land- combination with temozolomide (TMZ) for subjects with recurrent or unre-
+scape of glioblastoma. Cell. 2013;155(2):462–477. sectable glioblastoma (GBM). J Clin Oncol. 2014;32:5s (suppl; abstr 2021).
+6. Yoshimoto K, Dang J, Zhu S, et al. Development of a real-time RT-PCR 25. Hegi ME, Diserens AC, Gorlia T, et al. MGMT gene silencing
+assay for detecting EGFRvIII in glioblastoma samples. Clin Cancer Res. and benefit from temozolomide in glioblastoma. N Engl J Med.
+2008;14(2):488–493. 2005;352(10):997–1003.
+7. Gan HK, Cvrljevic AN, Johns TG. The epidermal growth factor recep- 26. Nobusawa S, Watanabe T, Kleihues P, et al. IDH1 mutations as molecu-
+tor variant III (EGFRvIII): where wild things are altered. FEBS J. lar signature and predictive factor of secondary glioblastomas. Clin
+2013;280(21):5350–5370. Cancer Res. 2009;15(19):6002–6007.
+8. Chen JR, Xu HZ, Yao Y, et al. Prognostic value of epidermal growth factor 27. Crespo I, Vital AL, Gonzalez-Tablas M, et al. Molecular and genomic alter-
+receptor amplification and EGFRvIII in glioblastoma: meta-analysis. Acta ations in glioblastoma multiforme. Am J Pathol. 2015;185(7):1820–1833.
+Neurol Scand. 2015;132(5):310–322. 28. Li J, Wang M, Won M, et al. Validation and simplification of the Radiation
+9. Weller M, Kaulich K, Hentschel B, et al. Assessment and prognostic sig- Therapy Oncology Group recursive partitioning analysis classification for
+nificance of the epidermal growth factor receptor vIII mutation in glio- glioblastoma. Int J Radiat Oncol Biol Phys. 2011;81(3):623–630.
+blastoma patients treated with concurrent and adjuvant temozolomide 29. Curran WJ Jr, Scott CB, Horton J, et al. Recursive partitioning analysis
+radiochemotherapy. Int J Cancer. 2014;134(10):2437–2447. of prognostic factors in three Radiation Therapy Oncology Group malig-
+10. Zhao LL, Xu KL, Wang SW, et al. Pathological significance of epidermal nant glioma trials. J Natl Cancer Inst. 1993;85(9):704–710.
+growth factor receptor expression and amplification in human gliomas. 30. Chakravarti A, Wang M, Aldape KD, et al. A revised RTOG recursive par-
+Histopathology. 2012;61(4):726–736. titioning analysis (RPA) model for glioblastoma based upon multiplat-
+11. Montano N, Cenci T, Martini M, et al. Expression of EGFRvIII form biomarker profiles. J Clin Oncol. 2012;30(suppl; abstr 2001).
+in glioblastoma: prognostic significance revisited. Neoplasia. 31. Aldape KD, Wang M, Sulman EP, et al. RTOG 0525: Molecular correlates
+2011;13(12):1113–IN1116. from a randomized phase III trial of newly diagnosed glioblastoma. J
+12. Chakravarti A, Wang M, Robins HI, et al. RTOG 0211: a phase ½ study of Clin Oncol 2011;29 (suppl; abstr LBA2000).
+radiation therapy with concurrent gefitinib for newly diagnosed glioblas- 32. Qi X, Munasinghe W, Hosmane B, et al. Exposure Adjusted Continuous
+toma patients. Int J Radiat Oncol Biol Phys. 2013;85(5):1206–1211. Reassessment Method (EACRM)—an adaptive design incorporating
+13. Uhm JH, Ballman KV, Wu W, et al. Phase II evaluation of gefitinib in time to toxicity event for phase I dose finding studies. Drug Designing.
+patients with newly diagnosed grade 4 astrocytoma: Mayo/North 2015;4(2):122.
+Central Cancer Treatment Group Study N0074. Int J Radiat Oncol Biol 33. Michael M, Mulcahy MF, Deming DA, et al. Safety and tolerability of
+Phys. 2011;80(2):347–353. veliparib combined with capecitabine plus radiotherapy in patients with
+14. Peereboom DM, Shepard DR, Ahluwalia MS, et al. Phase II trial of erlo- locally advanced rectal cancer (LARC): final results of a phase Ib study. J
+tinib with temozolomide and radiation in patients with newly diagnosed Clin Oncol. 2015;33(suppl; abstr 3571).
+glioblastoma multiforme. J Neurooncol. 2010;98(1):93–99. 34. Gan HK, Papadopoulos KP, Fichtel L, et al. Phase I study of ABT-414
+15. van den Bent MJ, Brandes AA, Rampling R, et al. Randomized phase mono- or combination therapy with temozolomide (TMZ) in recurrent
+II trial of erlotinib versus temozolomide or carmustine in recurrent glioblastoma (GBM). J Clin Oncol. 2015;33 (suppl; abstr 2016). 2015.
+glioblastoma: EORTC brain tumor group study 26034. J Clin Oncol. 35. Wen PY, Macdonald DR, Reardon DA, et al. Updated response assess-
+2009;27(8):1268–1274. ment criteria for high-grade gliomas: response assessment in neuro-
+16. Neyns B, Sadones J, Joosens E, et al. Stratified phase II trial of oncology working group. J Clin Oncol. 2010;28(11):1963–1972.
+cetuximab in patients with recurrent high-grade glioma. Ann Oncol. 36. Han TH, Gopal AK, Ramchandren R, et al. CYP3A-mediated drug-drug
+2009;20(9):1596–1603. interaction potential and excretion of brentuximab vedotin, an antibody-
+17. Raizer JJ. HER1/EGFR tyrosine kinase inhibitors for the treatment of drug conjugate, in patients with CD30-positive hematologic malignan-
+glioblastoma multiforme. J Neurooncol. 2005;74(1):77–86. cies. J Clin Pharmacol. 2013;53(8):866–877.
+18. Phillips AC, Boghaert ER, Vaidya KS, et al. ABT-414, an antibody-drug 37. Esteller M, Toyota M, Sanchez-Cespedes M, et al. Inactivation of the
+conjugate targeting a tumor-selective EGFR epitope. Mol Cancer Ther. DNA repair gene O6-methylguanine-DNA methyltransferase by pro-
+2016;15(4):661–669. moter hypermethylation is associated with G to A mutations in K-ras in
+19. Scott AM, Lee FT, Tebbutt N, et al. A phase I clinical trial with monoclonal colorectal tumorigenesis. Cancer Res. 2000;60(9):2368–2371.
+antibody ch806 targeting transitional state and mutant epidermal growth 38. Vlassenbroeck I, Califice S, Diserens AC, et al. Validation of real-
+factor receptors. Proc Natl Acad Sci U S A. 2007;104(10):4071–4076. time methylation-specific PCR to determine O6-methylguanine-DNA
+
+--- Page 11 ---
+Reardon et al. ABT-414 plus RT and TMZ in newly diagnosed glioblastoma 975
+Oncology Neuro-
+methyltransferase gene promoter methylation in glioma. J Mol Diagn. 44. Hopen G, Mondino BJ, Johnson BL, Chervenick PA. Corneal toxicity with
+2008;10(4):332–337. systemic cytarabine. Am J Ophthalmol. 1981;91(4):500–504.
+39. Younes A, Yasothan U, Kirkpatrick P. Brentuximab vedotin. Nat Rev Drug 45. Matteucci P, Carlo-Stella C, Di Nicola M, et al. Topical prophylaxis of con-
+Discov. 2012;11(1):19–20. junctivitis induced by high-dose cytosine arabinoside. Haematologica.
+40. Peddi PF, Hurvitz SA. Ado-trastuzumab emtansine (T-DM1) in human 2006;91(2):255–257.
+epidermal growth factor receptor 2 (HER2)-positive metastatic breast 46. Cytarabine package insert, APP pharmaceuticals
+cancer: latest evidence and clinical potential. Ther Adv Med Oncol. 47. Goss GD, Vokes EE, Gordon MS, et al. ABT-414 in patients with advanced
+2014;6(5):202–209. solid tumors likely to overexpress the epidermal growth factor receptor
+41. Tannir NM, Forero-Torres A, Ramchandren R, et al. Phase I dose-escala- (EGFR). J Clin Oncol 33, 2015 (suppl; abstr 2510). 2015.
+tion study of SGN-75 in patients with CD70-positive relapsed/refractory 48. Brentuximab vedotin, Adcetris® package insert, Seattle Genetics.
+non-Hodgkin lymphoma or metastatic renal cell carcinoma. Invest New 49. Schmidt-Ullrich RK, Mikkelsen RB, Dent P, et al. Radiation-
+Drugs. 2014;32(6):1246–1257. induced proliferation of the human A431 squamous carcinoma
+42. Thompson JA, Motzer R, Molina AM, et al. Phase I studies of anti- cells is dependent on EGFR tyrosine phosphorylation. Oncogene.
+ENPP3 antibody drug conjugates (ADCs) in advanced refractory renal cell 1997;15(10):1191–1197.
+carcinomas (RRCC). J Clin Oncol 2015;33 (suppl; abstr 2503). 50. Cao Y, Tsien CI, Shen Z, et al. Use of magnetic resonance imaging to
+43. Lochhead J, Salmon JF, Bron AJ. Cytarabine-induced corneal toxicity. assess blood-brain/blood-glioma barrier opening during conformal radi-
+Eye (Lond). 2003;17(5):677–678. otherapy. J Clin Oncol. 2005;23(18):4127–4136.

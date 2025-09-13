@@ -1,0 +1,932 @@
+Source: 22961690.pdf
+Extracted on: Sat Sep 13 00:02:33 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Published in final edited form as:
+Pediatr Blood Cancer. 2013 March ; 60(3): 396–401. doi:10.1002/pbc.24281.
+Phase I Trial and Pharmacokinetic Study of Sorafenib in Children
+With Neurofibromatosis Type I and Plexiform Neurofibromas
+AeRang Kim, MD, PhD1,2,*, Eva Dombi, MD1, Kathleen Tepas, RN1, Elizabeth Fox, MD3,
+Staci Martin, PhD1, Pamela Wolters, PhD1, Frank M. Balis, MD3, Nalini Jayaprakash, MS1,
+Baris Turkbey, PhD4, Naira Muradyan, PhD5, Peter L. Choyke, MD4, Alyssa Reddy, MD6,
+Bruce Korf, MD, PhD7, and Brigitte C. Widemann, MD1
+1Pediatric Oncology Branch, NCI, CCR, Bethesda, Maryland 2Children’s National Medical Center,
+Washington, District of Columbia 3Division of Oncology, Children’s Hospital of Philadelphia,
+Philadelphia, Pennsylvania 4Molecular Imaging Program, NCI, Bethesda, Maryland 5iCAD, Inc.,
+Nashua, New Hampshire 6University of Alabama at Birmingham, The Children’s Hospital,
+Birmingham, Alabama 7University of Alabama at Birmingham, Birmingham, Alabama
+Abstract
+Background.—Sorafenib targets multiple pathways thought to be crucial in growth of plexiform
+neurofibroma (PN) in children with neurofibromatosis type 1 (NF1). Sorafenib has been tolerated
+with manageable toxicities in adults and children with refractory cancer. We conducted a separate
+study in this population. Monitoring longterm toxicities such as effects on growth and obtaining
+additional pharmacokinetic data were of importance due to the young age and long duration of
+therapy seen in previous phase I trials in children with NF1.
+Procedure.—Children ≥3 and ≤18-year-old with NF1 and inoperable PN were eligible.
+Sorafenib was administered orally twice daily for consecutive 28-day cycles. Maximum tolerated
+dose (MTD) was determined from toxicities observed during the first three cycles.
+Results.—Nine children enrolled, median age 8 (6–12) years. At the starting 115 mg/m2/dose (n
+= 5), two experienced dose-limiting grade 3 pain in their PN. At the de-escalated 80 mg/m2/dose
+(n = 4), approximately 40% of the pediatric solid tumor MTD, two had dose-limiting toxicity
+(grade 3 rash and grade 4 mood alteration), exceeding the MTD. At 80 mg/m2/dose, the median
+AUC at steady-state was 39.5 μg hours/ml. Toxicities appeared to correspond with
+0–12 hours
+decreases in quality of life (QOL). No tumor shrinkage was observed.
+Conclusions.—Children with NF1 and PN did not tolerate sorafenib at doses substantially lower
+than the MTD in children and adults with malignant solid tumors. Future trials with targeted
+*Correspondence to: AeRang Kim, MD, PhD, Center for Cancer and Blood Disorders, Children’s National Medical Center, 111
+Michigan Avenue, N.W. Washington, DC 20010. aekim@childrensnational.org.
+Conflict of interest: AeRang Kim served as a consultant on the Nexavar pediatric advisory board. Pamela Wolters owns common stock
+in Bristol-Myers Squibb Co., General Electric Co., and Zimmer Holdings Inc. Bruce Korf serves as the site PI for Novartis trial and is
+on the Novartis NF advisory board.
+Presented in part at the International Society of Pediatric NeuroOncology Meeting, 2010, Vienna, Austria.
+Disclaimer: The views expressed do not necessarily represent views of the National Institutes of Health or the US government.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Kim et al. Page 2
+agents for children with NF1 may require a more conservative starting dose and separate
+definitions of dose limiting toxicities (DLT) than children with cancer.
+Keywords
+neurofibromatosis type I; phase I; plexiform neurofibromas; sorafenib
+INTRODUCTION
+One of the most debilitating complications of neurofibromatosis type 1 (NF1) is the
+development of complex, benign nerve sheath tumors called plexiform neurofibromas (PN).
+Surgery, the only treatment for PN, often is not feasible, and recurrence is high [1].
+Increasing knowledge of the molecular pathways involved in the growth of NF1 related
+tumors and the advent of molecularly targeted anti-cancer drugs have resulted in the
+development of potential medical treatments for NF1-associated PN.
+PN are composed of neoplastic Schwann cells that lack NF1 gene expression [2,3] and
+exhibit activation of Ras [4], which initiates several signaling cascades that lead to cell
+proliferation. Tumor microenvironment [5] and angiogenesis [6,7] may also play a role in
+PN development and proliferation. Sorafenib is an oral agent that potently inhibits CRAF,
+BRAF, and receptor tyrosine kinases including VEGFR-2,3, PDGFR-β, c-kit, and Flt3. Pre-
+clinical testing of sorafenib in a genetically susceptible mouse model for NF1-associated
+neurofibroma demonstrated significant decreases in tumor volume [8].
+Sorafenib is FDA approved for adults with advanced renal cell [9] or unresectable
+hepatocellular carcinoma [10]. Most common sorafenib related toxicities include reversible
+skin rash, hand-foot skin reaction, diarrhea, anorexia, alopecia, abdominal pain, fatigue, and
+hypertension [11–14]. Prolonged administration of sorafenib has been associated with
+cumulative toxicities of rash or hypertension [15–17]. Sorafenib has been evaluated in a
+Children’s Oncology Group (COG) phase I trial for children with refractory solid tumors
+[18]. Toxicity and the pharmacokinetic profile were similar to adult studies, and the
+maximum tolerated dose (MTD) in solid tumors was 200 mg/m2/dose BID [18], comparable
+to the adult recommended fixed dose of 400 mg BID.
+When retrospectively compared to children with refractory cancers who enroll on phase I
+trials, children with NF1 were younger (median 8 vs. 14 years), had better performance
+status, received less prior medical therapy, remained on experimental therapy longer (median
+10 vs. one cycle), and survived their disease [19]. Therefore children with NF1 may require
+longer duration of therapy to define tolerability, differing definitions of dose limiting
+toxicities (DLT), and more conservative starting dose and escalation schemas than children
+or adults with refractory cancers.
+We conducted a phase I trial of sorafenib in children with NF1 and inoperable PN. The
+objectives of our study were to determine the acute and chronic toxicities, DLT, MTD
+defined over the first three cycles, pharmacokinetics and pharmacodynamics of sorafenib in
+children with NF1 and PN. Sorafenib resulted in growth plate thickening and impairment of
+trabecular bone formation in pre-clinical models of juvenile, but not mature animals [20–
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Kim et al. Page 3
+23]. Thus monitoring skeletal toxicity was of particular importance due to the young age and
+long duration of therapy seen in previous phase I trials in children with NF1. Tumor
+response was evaluated using a semi-automated method of volumetric MRI analysis.
+Standard methods used to measure tumor size and assess response in cancer trials (RECIST
+[24] and WHO [25] criteria) were inadequate to quantify clinically meaningful changes in
+PN [26] and recently volumetric methods [27–29] were developed for response evaluation
+and have been incorporated in most PN trials [19,30,31]. Pharmacodynamic endpoints such
+as plasma VEGF, VEGFR2, and dynamic contrast enhanced (DCE) MRI to evaluate tumor
+blood flow were evaluated in a pilot fashion. Quality of life (QOL) was assessed because of
+the potential impact of sorafenib-related toxicities or benefits on patient functioning.
+Medication adherence was monitored as sorafenib is an oral agent, and assurance of
+adherence was essential in determining if a patient was assessable for toxicity and efficacy.
+METHODS
+Patient Eligibility
+Patients age ≥3 and ≤18 years with a clinical diagnosis of NF1 based on NIH consensus
+criteria [32] and presence of an inoperable measurable PN defined as a lesion of ≥3 cm
+measured in one-dimension that has the potential to cause significant morbidity [30] were
+eligible. Adequate organ function and prior therapy similar to previously published criteria
+were required [26]. Diastolic blood pressure within 95th percentile for age and gender, no
+anti-hypertensive medication, and ability to swallow whole tablets were required. The study
+was approved by Institutional Review Boards from each participating center. Informed
+consent and assent, as appropriate, were obtained according to local institutional guidelines.
+Drug Administration and Study Design
+Sorafenib was supplied by the Cancer Therapy Evaluation Program (National Cancer
+Institute, Bethesda, MD) as 50 and 200 mg tablets. The starting dose was 115 mg/m2/dose
+BID with planned dose escalations to 150 and 200 mg/m2/dose, and de-escalation to 80
+mg/m2/dose if the starting dose was not tolerated. No escalation beyond the pediatric solid
+tumor MTD (200 mg/m2/dose) was planned. Doses were prescribed using a dosing
+nomogram capped for a body surface area of >1.8 m2. In the absence of disease progression
+or unacceptable toxicity, each 28-day course was repeated without interruption.
+A 3 + 3 phase I dose escalation scheme was used. A patient was considered evaluable for
+MTD if DLT was observed at any time during cycles 1–3, or in absence of DLT, if at least
+70% of the prescribed dose had been administered during cycles 1–3 based on adherence
+diary review and pill count of returned drug. Toxicity was graded according to the NCI
+Common Terminology Criteria for Adverse Events (CTCAE) v3.0. DLT was defined as any
+grade ≥3 toxicity during cycles 1–3 excluding grade 3 nausea and vomiting of <5 days, ALT
+or AST elevations that recovered to grade ≤1 within 7 days of stopping drug. Persistent (≥7
+days) grade 2 toxicities could be considered dose limiting if they are intolerable with
+standard supportive measures. A previously described algorithm for the management and
+grading of sorafenib-related hypertension was used [33]. The following skeletal changes
+were considered dose limiting: (1) femoral growth plate volume expansion on MRI greater
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Kim et al. Page 4
+than 2 times from baseline, performed centrally at the NCI [34]. (2) Patients with a >6%
+bone mineral density (BMD) decrease on lumbar spine dual-energy X-ray absorptionmetry
+(DEXA) scan relative from baseline and a BMD Z-score of <2.5. For patients with open
+growth plates, sorafenib was discontinued if <1 cm growth was noted prior to cycle 8, <2.5
+cm growth in first 12 months, or <2 cm/year annualized growth velocity following the first
+year.
+Patients were monitored with history, physical, and laboratory evaluations (complete blood
+count and differential count, comprehensive chemistries including lipase and amylase) every
+other week during cycle 1, and then prior to cycles 2, 3, 4, 8, 12, and then every three cycles.
+Specific evaluations for skeletal toxicity included growth measurements, lower extremity
+scanogram, unilateral knee MRI for volumetric growth plate analysis [34], laboratory
+measurements of bone metabolism (serum calcium, phosphorus, bone specific alkaline
+phosphatase, osteocalcin, parathyroid hormone, vitamin D levels), and DEXA scan. Blood
+pressures were performed weekly during cycle 1, every other week during cycles 2–3, and
+then prior to each cycle. In between visits, the research nurse performed review of patient
+diary along with adherence questionnaire by phone weekly during the first cycle, every other
+week during cycles 2 and 3, and prior to each cycle. MRI for disease evaluation was
+performed at baseline, prior to cycles 4, 8, 12, and then every six cycles using volumetric
+analysis. A ≥20% increase in volume from baseline of at least one monitored PN was
+considered disease progression [27].
+Pharmacokinetic and Pharmacodynamic Studies
+Participation in pharmacokinetic and pharmacodynamic evaluations was voluntary.
+Pharmacokinetic analysis was the same as performed for the COG study. Initially,
+pharmacokinetic evaluation was designed to be performed after the first dose. However,
+based on observations from the COG trial that day 1 pharmacokinetics could not adequately
+estimate half-life, after the first patient, pharmacokinetic samples were collected at steady-
+state. One milliliter of heparinized blood was collected pre-treatment. The first steady-state
+sample was collected exactly 12 hours after the last dose of sorafenib on any 1 day after day
+10 of cycle 1. The dose of sorafenib was given, and then samples were collected at 0.5, 1, 2,
+3, 5, and 8 hours after the dose. Sorafenib plasma concentrations were measured using a
+validated HPLC/MS/MS method [35]. Sorafenib pharmacokinetic parameters were
+calculated using non-compartmental methods. The pre-trough concentration was also used
+as the 12 hours post-value based on the assumption that at steady-state the trough
+concentration should be constant. Pharmacokinetic parameters were analyzed using
+descriptive statistics. Plasma VEGF and soluble VEGFR2 (sVEGFR2) were quantified at
+baseline and at steady-state on day 28 ± 1 of cycle 1 using commercial available human
+VEGF and sVEGFR2 immunoassay kits (Quantikine™, R&D Systems, Minneapolis, MN).
+Target lesions for DCE MRI were identified and imaging was performed on a 1.5T MR
+system (Philips Achieva, Best, The Netherlands). After three baseline unenhanced scans,
+gadopentetate dimeglumine (Magnevist; Bayer Healthcare Pharmaceuticals, Wayne, NJ) was
+injected. A total of 23 phases were acquired at 30-second intervals. Post-processing was
+performed using CADvue software (iCAD, Inc. Nashua, NH) employing the Tofts
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Kim et al. Page 5
+pharmacokinetic model [36,37] to quantify vascular permeability as Ktrans (the transfer
+constant) and k (efflux rate) and initial area under gadolinium concentration curve
+ep
+(iAUGC) at 90 seconds.
+QOL was assessed with the PedsQL 4.0 Generic Core Scales [38] at baseline and prior to
+cycles 4, 8, 12, 18, and 24. This 23-item questionnaire yields subscale scores representing
+physical, emotional, social, and school functioning and a total scale score. Raw scores are
+linearly transformed to a 0–100 scale, with higher scores indicating better QOL.
+At each study visit prior to cycles 2, 4, 8 12, and subsequently every six cycles, a research
+nurse collected sorafenib pill bottles to calculate adherence based on pill counts. Also
+collected at each study visit were patient diaries, where parents of patients recorded the dates
+and times of all doses taken, and reasons for any missed doses.
+RESULTS
+Patient Characteristics
+Patient characteristics are described in Table I. Of the nine eligible patients enrolled, two
+patients withdrew during cycle 1 for non dose-limiting toxicities and thus were not fully
+assessable for toxicity. One patient developed grade 2 hypertension on cycle 1 day 8. Rather
+than beginning anti-hypertensive treatment as recommended per protocol, the patient held
+drug with normalization of blood pressure and withdrew from treatment. The other patient
+developed grade 2 facial PN pain on cycle 1 day 11. The patient had no previous baseline
+pain, declined supportive care, held sorafenib with resolution of pain, and withdrew from
+treatment.
+Toxicity
+Table II summarizes the DLTs observed. Patient 1 reported baseline tumor pain and received
+narcotic medication on an as needed basis. He developed grade 3 pain in his pre-existing
+large abdominal, pelvic, and thigh PN on day 7 cycle 1. His pain persisted despite scheduled
+narcotics, and required hospitalization for intravenous analgesia. Sorafenib was held with
+full recovery. He elected not to receive further sorafenib at a reduced dose and withdrew
+from treatment. Patient 5 had a large facial PN and reported no baseline pain. He developed
+grade 3 tumor pain with grade 2 facial edema day 4 of cycle 1. Treatment with non-steroidal
+anti-inflammatory medication provided minimal benefit. Sorafenib was held with resolution
+of pain, and he resumed treatment at a reduced dose. Six weeks into therapy, he again
+developed grade 3 tumor pain, and was taken permanently off sorafenib.
+Since two out of three patients developed DLT, sorafenib was de-escalated to the 80 mg/m2
+dose level, which is approximately 40% of MTD in the pediatric solid tumors [18]. Patient 6
+developed dose-limiting grade 3 rash day 10 of cycle 1, which resolved 5 days after holding
+drug. The patient tolerated sorafenib at reduced dose. Patient 7 had a history of bipolar
+disease, and in cycle 3, she developed dose-limiting grade 4 mood alteration, suicidal
+ideation, which required immediate psychiatric care. She was taken off therapy and returned
+to baseline within 2 weeks. The MTD was again exceeded and no MTD was determined.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Kim et al. Page 6
+Most frequent non-DLTs were tumor pain, anorexia, rash, and hand-foot syndrome. Patient 6
+developed grade 1 behavior changes with emotional lability. Hypertension was not
+frequently observed. Among patients that were on drug for more than three cycles (n = 4),
+two patients had greater than 10 mmHg increases in either systolic or diastolic blood
+pressures that occurred within 7 days of starting therapy and appeared to stabilize during the
+remainder of their course.
+Bone toxicity.—Four patients (ages 5–7 years) had received at least seven cycles of
+therapy. Their median baseline femoral growth plate volume was 4279 mm3 (range, 3236–
+4910). The median volume change from baseline to off therapy was −205 mm3 (−810 to
+389) with an average percent change of negative 6.6%. Patients’ growth ranged from 0.4 to
+2.1 cm during seven cycles of therapy. Patient 2 experienced grade 1 anorexia with 9% of
+weight loss prior to cycle 8. She did not meet growth requirements of at least 1 cm at the
+time of evaluation prior to cycle 8, and sorafenib was discontinued. Upon re-evaluation 3
+months off therapy, she had grown 2 cm with recovered weight loss. No meaningful
+differences in measurements were observed in patients’ DEXA scans or laboratory
+measurements of bone mineralization.
+Responses
+No tumor shrinkage was observed. The median number of cycles was seven (range, <1 to
+12). Three patients discontinued protocol therapy during cycle 1, 2, and 3 respectively due to
+toxicity and were not assessable for response. One came off therapy due to toxicity with
+stable disease after seven cycles (16% volume increase); two due to progressive disease after
+seven and 12 cycles (volume increases of 25% and 27% respectively); and one due to
+clinical progression not assessable for response due to surgical intervention.
+Pharmacokinetics
+Patient 1 day 1 drug exposure (AUC was 80.9 μg hours/ml) was higher than
+0–24 hours
+expected derived from the results of the COG trial [18]. The patient had normal bilirubin,
+but Gilbert’s disease, which affected his drug metabolism [39], and the protocol was
+amended subsequently to exclude patients with Gilbert’s disease. Four patients had steady-
+state pharmacokinetics (Table III). All were treated at 80 mg/m2/dose twice daily except for
+patient 6, who had a sorafenib dose reduction to once daily dosing. There was little inter-
+patient variability (coefficient of variation for apparent clearance 13%). The median
+AUC and apparent clearance was 39.5 μg hours/ml and 31.3 ml/minutes/m 2.
+0–12 hours
+Pharmacodynamics
+Among paired samples for plasma VEGF and sVEGFR2 (n = 5), there were no statistically
+significant changes from baseline to steady-state (Wilcoxon signed-rank test P = 0.7 and
+0.2). Baseline DCE MRI was performed in six patients with target lesions volumes ranging
+from 67 to 560 cm3. All tumors appeared relatively hypovascular. The mean (SD) baseline
+Ktrans and iAUGC(90 seconds) was 0.043 (0.017) minutes−1 and 5.50 (1.25) mMseconds.
+The low Ktrans and iAUGC(90 seconds) numbers reflect poor enhancement, but there was
+considerable variation. Patients with both baseline and follow up scan (n = 3) demonstrated a
+slight increase in both Ktrans and iAUGC.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Kim et al. Page 7
+Quality of Life Evaluation
+Parents of nine patients completed the baseline QOL evaluation, and four completed the pre-
+cycle 4 evaluation. Parent ratings indicated that three of these four patients had declines of 9,
+17, and 27 points in the PedsQL Total scale score indicating worse QOL. One patient
+decreased on all four subscales and the other two decreased on three of the four subscales.
+These decreases appeared to correspond to toxicities experienced by these patients between
+the baseline and pre-cycle 4 evaluations, including rash, itching, pain, and irritability. The
+patient whose QOL scores remained relatively stable over time reported similar types of
+symptoms that were well-controlled in a timely manner; thus she remained on study longer
+than any other patient (until her pre-cycle 12 evaluation).
+Medication Adherence
+Adherence was calculated based on tablet counts for patients who returned all pill bottles as
+instructed (n = 5), and patient diaries (n = 7). The mean (range) overall adherence rate was
+96% (87–100%) per tablet count and 99% (97–100%) per medication diary.
+DISCUSSION
+Sorafenib targets multiple pathways thought to be crucial in the growth of PN with
+promising results in a genetically susceptible mouse model for NF1-associated neurofibroma
+[8] making this agent attractive to study in this population. It has been tolerated in adults and
+children with refractory cancer with mild to moderate manageable toxicities.
+The MTD of sorafenib in children with NF1 and PN could not be determined. The DLTs in
+this population were tumor pain, rash, and mood alteration. Dose-limiting tumor pain was
+not observed in the pediatric refractory cancer trial [18], nor was tumor pain a DLT in adults
+[40]. All but one DLT occurred early in the first cycle of treatment. Decreases in parent-
+reported QOL appeared to correspond to reported toxicities and suggested that the side
+effects had a substantial impact on patients’ physical, emotional, social, and school
+functioning. Also, adherence data obtained from both tablet counts and parent-completed
+diaries suggest that, even with considerable side effects, adherence to sorafenib was high.
+One may hypothesize that tumor pain could be a pharmacodynamic marker for response,
+much like rash [41,42], and hypertension [43,44]. However, tumor pain in this study was
+dose-limiting and a relationship with response could not be correlated. No associations with
+pain to drug exposure, VEGF or sVEGFR2, or DCE MRI findings could be explored due to
+sample size. Although this disease has high morbidity, only one patient reported baseline
+pain, and most patients took minimal concomitant medications. The use of daily narcotics
+use to ameliorate toxicity related to a drug with unknown benefit was difficult to substantiate
+especially in the setting of phase I trial where determination of tolerability is the primary
+objective. For the one patient with history of baseline pain, increasing his oral narcotic
+medication did not help reduce his pain. Patients with NF1 may be less willing to tolerate
+toxicity from treatment for their nonmalignant tumors compared to those with refractory
+cancers as two patients with non-DLT withdrew from the study. They also may be less
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Kim et al. Page 8
+willing to accept standard supportive care measures such as anti-hypertensives and pain
+medications often given to refractory cancer patients without hesitation.
+The children in this trial were younger than those with refractory cancer (median 8 vs. 14
+years). No clear relationship of clearance and age was observed in this study, but only four
+patients had steady-state pharmacokinetics. The median AUC at 80 mg/m2, which
+0–12 hours
+is approximately 40% of the adult and pediatric solid tumor MTD, was 39.5 μg hours/ml.
+Although, drug exposure may be greater than what would be expected with this substantial
+dose decrease, it is below the AUC range of 47.8–76.5 μg hours/ml reported in the
+0–12 hours
+literature in adults treated at the recommended fixed dose of 400 mg BID [11–14].
+Insufficient drug exposure may be associated with absent tumor response substantiated by
+lack of pharmacodynamic marker modulation in our trial.
+Differences in organ sensitivity due to underlying genetic mutations in this population may
+explain differences in tolerability to this medication. There is growing evidence suggesting
+downstream effectors of Ras are involved in the enhanced sensitivity of sensory neurons
+[45]. Responses to inflammatory mediators are altered by mutation of the Nf1 gene in pre-
+clinical models [45], which may explain abnormal painful sensations such as hyperalgesia,
+dyesthesias, and allodynia often experienced by patients with NF1 particularly in response to
+injury or trauma [46,47]. It may be hypothesized that injury to the vessels may be caused by
+the anti-angiogenesis mechanism of sorafenib resulting in increased pain sensation, and
+warrants further investigation.
+Pre-clinical testing of sorafenib in a genetically susceptible mouse model for NF1-associated
+neurofibroma demonstrated significant decreases in tumor volume [8]. The mice were
+treated with 45 mg/kg of sorafenib daily by oral gavage. This dose was chosen based on pre-
+clinical studies, but is approximately half the adult recommended dose equivalent using
+surface area dosage conversion factors [48]. The median C was 23.7 μg/ml in mice with
+max
+PNs treated with sorafenib in the pre-clinical model [8]. Interestingly, this was about fivefold
+fold greater than the C observed in this trial.
+max
+Only four patients received greater than seven cycles and the objectives to determine chronic
+toxicities were unmet. Although a thorough and comprehensive evaluation for bone toxicity
+was incorporated into the study design, we were unable to truly evaluate bone toxicity due to
+small sample size, the emergence of other DLTs, and early discontinuation of protocol
+therapy. Based on the tablet sizes available, further dose de-escalation was not feasible.
+Future studies with sorafenib for this specific population are not planned at this time.
+Children with NF1 and PN did not tolerate sorafenib at doses substantially lower than the
+MTD in children with refractory cancer. Children with NF1 on phase I trials may be less
+willing to accept potential mild to moderate toxicities in comparison to children refractory
+cancer that have life-threatening diseases with poor survival outcome. Standard supportive
+care guidelines may need to be adjusted for children with NF1. The MTD of targeted agents
+in patients with cancer may not apply to children with NF1 and PN. Future NF1 trials in
+children with targeted agents may require a more conservative starting dose and separate
+definitions of DLT.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Kim et al. Page 9
+Acknowledgments
+Grant sponsor: Intramural Research Program of the NIH; Grant sponsor: National Cancer Institute; Grant sponsor:
+Center for Cancer Research; Grant sponsor: Children’s Tumor Foundation Clinical Trial Award.
+REFERENCES
+1. Packer RJ, Gutmann DH, Rubenstein A, et al. Plexiform neurofibromas in NF1: Toward biologic-
+based therapy. Neurology 2002;58: 1461–1470. [PubMed: 12041525]
+2. Kluwe L, Friedrich R, Mautner VF. Loss of NF1 allele in Schwann cells but not in fibroblasts
+derived from an NF1-associated neurofibroma. Genes Chromosomes Cancer 1999;24: 283–285.
+[PubMed: 10451710]
+3. Serra E, Rosenbaum T, Winner U, et al. Schwann cells harbor the somatic NF1 mutation in
+neurofibromas: Evidence of two different Schwann cell subpopulations. Hum Mol Genet 2000;9:
+3055–3064. [PubMed: 11115850]
+4. Sherman LS, Atit R, Rosenbaum T, et al. Single cell Ras-GTP analysis reveals altered Ras activity
+in a subpopulation of neurofibroma Schwann cells but not fibroblasts. J Biol Chem 2000;
+275:30740–30745. [PubMed: 10900196]
+5. Yang FC, Ingram DA, Chen S, et al. Nf1-dependent tumors require a microenvironment containing
+Nf1+/−- and c-kit-dependent bone marrow. Cell 2008;135: 437–448. [PubMed: 18984156]
+6. Kawachi Y, Xu X, Ichikawa E, et al. Expression of angiogenic factors in neurofibromas. Exp
+Dermatol 2003;12: 412–417. [PubMed: 12930297]
+7. Munchhof AM, Li F, White HA, et al. Neurofibroma-associated growth factors activate a distinct
+signaling network to alter the function of neurofibromin-deficient endothelial cells. Hum Mol Genet
+2006;15: 1858–1869. [PubMed: 16648142]
+8. Wu J, Dombi E, Jousma E, et al. Preclincial testing of sorafenib and RAD001 in the Nf(flox/flox);
+DhhCre mouse model of plexiform neurofibroma using magnetic resonance imaging. Pediatr Blood
+Cancer 2012;58: 173–180. [PubMed: 21319287]
+9. Escudier B, Eisen T, Stadler WM, et al. Sorafenib in advanced clear-cell renal-cell carcinoma. N
+Engl J Med 2007; 356: 125–134. [PubMed: 17215530]
+10. Llovet JM, Ricci S, Mazzaferro V, et al. Sorafenib in advanced hepatocellular carcinoma. N Engl J
+Med 2008;3 59: 378–390.
+11. Strumberg D, Richly H, Hilger RA, et al. Phase I clinical and pharmacokinetic study of the novel
+Raf kinase and vascular endothelial growth factor receptor inhibitor BAY 43–9006 in patients with
+advanced refractory solid tumors. J Clin Oncol 2005;23: 965–972. [PubMed: 15613696]
+12. Awada A, Hendlisz A, Gil T, et al. Phase I safety and pharmacokinetics of BAY 43–9006
+administered for 21 days on/7 days off in patients with advanced, refractory solid tumours. Br J
+Cancer 2005; 92:1855–1861. [PubMed: 15870716]
+13. Moore M, Hirte HW, Siu L, et al. Phase I study to determine the safety and pharmacokinetics of
+the novel Raf kinase and VEGFR inhibitor BAY 43–9006, administered for 28 days on/7 days off
+in patients with advanced, refractory solid tumors. Ann Oncol 2005;16: 1688–1694. [PubMed:
+16006586]
+14. Clark JW, Eder JP, Ryan D, et al. Safety and pharmacokinetics of the dual action Raf kinase and
+vascular endothelial growth factor receptor inhibitor, BAY 43–9006, in patients with advanced,
+refractory solid tumors. Clin Cancer Res 2005;11: 5472–5480. [PubMed: 16061863]
+15. Azad NS, Aragon-Ching JB, Dahut WL, et al. Hand-foot skin reaction increases with cumulative
+sorafenib dose and with combination anti-vascular endothelial growth factor therapy. Clin Cancer
+Res 2009;15: 1411–1416. [PubMed: 19228742]
+16. Izzedine H, Ederhy S, Goldwasser F, et al. Management of hypertension in angiogenesis inhibitor-
+treated patients. Ann Oncol 2009;20: 807–815. [PubMed: 19150949]
+17. Veronese ML, Mosenkis A, Flaherty KT, et al. Mechanisms of hypertension associated with BAY
+43–9006. J Clin Oncol 2006;24: 1363–1369. [PubMed: 16446323]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Kim et al. Page 10
+18. Widemann B, Fox E, Adamson PC, et al. Phase I study of sorafenib in children with refractory
+solid tumors: A Children’s Oncology Group phase I consortium trial. J Clin Oncol 2009;27: abstr
+10012.
+19. Kim A, Gillespie A, Dombi E, et al. Characteristics of children enrolled on treatment trials for
+NF1-related plexiform neurofibromas. Neurology 2009;73: 1273–1279. [PubMed: 19841379]
+20. Hall AP, Westwood FR, Wadsworth PF. Review of the effects of anti-angiogenic compounds on the
+epiphyseal growth plate. Toxicol Pathol 2006;34: 131–147. [PubMed: 16537292]
+21. Wedge SR, Kendrew J, Hennequin LF, et al. AZD2171: A highly potent, orally bioavailable,
+vascular endothelial growth factor receptor-2 tyrosine kinase inhibitor for the treatment of cancer.
+Cancer Res 2005;65:4389–4400. [PubMed: 15899831]
+22. Gerber HP, Vu TH, Ryan AM, et al. VEGF couples hypertrophic cartilage remodeling, ossification
+and angiogenesis during endochondral bone formation. Nat Med 1999;5: 623–628. [PubMed:
+10371499]
+23. Healthcare B, Nexavar [package insert]. West Haven, CT: Bayer Healthcare; 2011.
+24. Therasse P, Arbuck S, Eisenhauer E, et al. New guidelines to evaluate the response to treatment in
+solid tumors. J Natl Cancer Inst 2000;92: 205–216. [PubMed: 10655437]
+25. Miller AB, Hoogstraten B, Staquet M, et al. Reporting results of cancer treatment. Cancer 1981;
+47:207–214. [PubMed: 7459811]
+26. Widemann BC, Salzer WL, Arceci RJ, et al. Phase I trial and pharmacokinetic study of the
+farnesyl-transferase inhibitor tipifarnib in children with refractory solid tumors or
+neurofibromatosis type I and plexiform neurofibromas. J Clin Oncol 2006;24: 507–516. [PubMed:
+16421428]
+27. Solomon J, Warren K, Dombi E, et al. Automated detection and volume measurement of plexiform
+neurofibromas in neurofibromatosis 1 using magnetic resonance imaging. Comput Med Imaging
+Graph 2004;28: 257–265. [PubMed: 15249071]
+28. Poussaint TY, Jaramillo D, Chang Y, et al. Interobserver reproducibility of volumetric MR imaging
+measurements of plexiform neurofibromas. AJR Am J Roentgenol 2003;180: 419–423. [PubMed:
+12540445]
+29. Cai W, Kassarjian A, Bredella MA, et al. Tumor burden in patients with neurofibromatosis types 1
+and 2 and schwannomatosis: determination on whole-body MR images. Radiology 2009;250: 665–
+673. [PubMed: 19244040]
+30. Dombi E, Solomon J, Gillespie AJ, et al. NF1 plexiform neurofibroma growth rate by volumetric
+MRI: relationship to age and body weight. Neurology 2007;68: 643–647. [PubMed: 17215493]
+31. Babovic-Vuksanovic D, Widemann BC, Dombi E, et al. Phase I trial of pirfenidone in children
+with neurofibromatosis 1 and plexiform neurofibromas. Pediatr Neurol 2007;36: 293–300.
+[PubMed: 17509460]
+32. National Institutes of Health Consensus Development Conference Statement: neurofibromatosis;
+Bethesda, Md., USA. July 13–15; 1987. Neurofibromatosis 1987;1: 172–178.
+33. Fox E, Aplenc R, Bagatell R, et al. A phase 1 trial and pharmacokinetic study of cediranib, an
+orally bioavailable pan-vascular endothelial growth factor receptor inhibitor, in children and
+adolescents with refractory solid tumors. J Clin Oncol 2010;28: 5174–5181. [PubMed: 21060028]
+34. Kim A, Dombi E, Solomon J, et al. Automated volumetric growth plate measurement using
+magnetic resonance imaging for monitoring skeletal toxicity in children treated on investigational
+drug trials. Clin Cancer Res 2011;17: 5982–5990. [PubMed: 21807634]
+35. Jain L, Gardner ER, Venitz J, et al. Development of a rapid and sensitive LC-MS/MS assay for the
+determination of sorafenib in human plasma. J Pharm Biomed Anal 2008;46:362–367. [PubMed:
+18309574]
+36. Tofts PS. Modeling tracer kinetics in dynamic Gd-DTPA MR imaging. J Magn Reson Imaging
+1997;7:91–101. [PubMed: 9039598]
+37. Tofts PS, Brix G, Buckley DL, et al. Estimating kinetic parameters from dynamic contrast-
+enhanced T(1)-weighted MRI of a diffusable tracer: Standardized quantities and symbols. J Magn
+Reson Imaging 1999;10: 223–232. [PubMed: 10508281]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Kim et al. Page 11
+38. Varni JW, Seid M, Kurtin PS. PedsQL 4.0: Reliability and validity of the pediatric quality of life
+inventory version 4.0 generic core scales in healthy and patient populations. Med Care 2001;39:
+800–812. [PubMed: 11468499]
+39. Peer CJ, Sissung TM, Kim A, et al. Sorafenib is an inhibitor of UGT1A1 but is metabolized by
+UGT1A9: Implications of genetic variants on pharmacokinetics and hyperbilirubinemia. Clin
+Cancer Res 2012;18:2099–2107. [PubMed: 22307138]
+40. Strumberg D, Clark JW, Awada A, et al. Safety, pharmacokinetics, and preliminary antitumor
+activity of sorafenib: A review of four phase I trials in patients with advanced refractory solid
+tumors. Oncologist 2007;12:426–437. [PubMed: 17470685]
+41. Strumberg D, Awada A, Hirte H, et al. Pooled safety analysis of BAY 43–9006 (sorafenib)
+monotherapy in patients with advanced solid tumours: Is rash associated with treatment outcome?
+Eur J Cancer 2006;42:548–556. [PubMed: 16426838]
+42. Vincenzi B, Santini D, Russo A, et al. Early skin toxicity as a predictive factor for tumor control in
+hepatocellular carcinoma patients treated with sorafenib. Oncologist 2010;15:85–92. [PubMed:
+20051477]
+43. Maitland ML, Kasza KE, Karrison T, et al. Ambulatory monitoring detects sorafenib-induced
+blood pressure elevations on the first day of treatment. Clin Cancer Res 2009;15:6250–6257.
+[PubMed: 19773379]
+44. Jain L, Sissung TM, Danesi R, et al. Hypertension and hand-foot skin reactions related to VEGFR2
+genotype and improved clinical outcome following bevacizumab and sorafenib. J Exp Clin Cancer
+Res 2010;29:95. [PubMed: 20630084]
+45. Hingtgen CM, Roy SL, Clapp DW. Stimulus-evoked release of neuropeptides is enhanced in
+sensory neurons from mice with a heterozygous mutation of the Nf1 gene. Neuroscience
+2006;137:637–645. [PubMed: 16298082]
+46. Creange A, Zeller J, Rostaing-Rigattieri S, et al. Neurological complications of neurofibromatosis
+type 1 in adulthood. Brain 1999;122:473–481. [PubMed: 10094256]
+47. Wolkenstein P, Zeller J, Revuz J, et al. Quality-of-life impairment in neurofibromatosis type 1: A
+cross-sectional study of 128 cases. Arch Dermatol 2001;137:1421–1425. [PubMed: 11708944]
+48. Freireich EJ, Gehan EA, Rall DP, et al. Quantitative comparison of toxicity of anticancer agents in
+mouse, rat, hamster, dog, monkey, and man. Cancer Chemother Rep 1966;50:219–244. [PubMed:
+4957125]
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kim et al. Page 12
+TABLE I.
+Baseline Characteristics for Eligible Patients
+Patient characteristic n = 9
+Age, years
+Median 8
+Range 6–12
+Sex
+Male 6
+Female 3
+Performance status, mean 90
+Prior medical regimens directed at PN
+Median 1
+Range 0–3
+Prior radiation therapy 0
+Concomitant medication
+Median 3
+Range 0–12
+Baseline pain
+Yes 2
+None 7
+Plexiform neurofibroma characteristic a
+n = 11
+Tumor volume (ml)
+Median 443
+Range 5–10, 162
+Tumor location
+Head/neck 2
+Neck 1
+Neck/chest 2
+Trunk 2
+Back 1
+Chest/abdomen/pelvis 1
+Pelvis 2
+a
+Patients 3 and 5 had two plexiform neurofibromas measured.
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+
+--- Page 13 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kim et al. Page 13
+.II
+ELBAT
+selcyC
+eerhT
+tsriF
+revO
+seiticixoT
+gnitimiL-esoD
+fo
+yrammuS
+)edarg(
+mret
+yticixot
+CTC
+yticixot
+gnitimil
+esoD
+rebmun
+tneitaP
+elbaulave
+stneitaP
+deretne
+stneitaP
+esod/2m/gm
+level
+esoD
+)3(
+romut
+,niaP
+1
+b
+5
+a
+3
+511
+c
+5
+)3(
+romut
+,niaP
+)3(
+hsaR
+6
+4
+4
+08
+)4(
+noitaretla
+dooM
+7
+2m
+8.1
+fo
+aera
+ecafrus
+ydob
+tluda
+egareva
+no
+desab
+gm
+702
+fo
+esod
+dexif
+tluda
+na
+ot
+tnelaviuqE
+a b
+))1
+=
+n(
+niap
+dna
+)1
+=
+n(
+noisnetrepyh(
+seiticixot
+2
+edarg
+ot
+eud
+lawardhtiw
+ylrae
+detcele
+tneitap
+ot
+eud
+elbaulave
+ton
+erew
+stneitap
+owT
+.niaga
+niap
+romut
+3
+edarg
+depoleved
+dna
+esod/2m/gm
+08
+ot
+decuder
+esod
+saw
+tneitaP
+c
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.
+
+--- Page 14 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kim et al. Page 14
+.III
+ELBAT
+etatS-ydaetS
+ta
+scitenikocamrahP
+binefaroS
+)2m/etunim/lm(
+F/lC
+)lm/ruoh
+gμ(
+sruoh
+21–0
+CUA
+)lm/gxμ(
+xam
+C
+)gm(
+esoD
+)2m(
+ASB
+)sraey(
+egA
+.on
+tneitaP
+)2m/gm(
+level
+esoD
+3.13
+4.44
+3.6
+001
+2.1
+21
+5
+a 08
+1.33
+6.92
+8.3
+05
+9.0
+7
+6
+b 08
+7.43
+2.83
+5.3
+001
+3.1
+11
+7
+08
+4.62
+5.93
+4.4
+05
+8.0
+6
+8
+08
+8.03
+7.04
+8.4
+0.1
+9
+c naeM
+1.4
+3.3
+4.1
+42.0
+9.2
+DS
+3.13
+5.93
+4.4
+0.1
+9
+naideM
+noitaived
+dradnats
+,DS
+;ecnaraelc
+tnerappa
+,F/LC
+;evruc
+eht
+rednu
+aera
+,CUA
+;noitartnecnoc
+binefaros
+kaep
+,xamC
+;aera
+ecafrus
+ydob
+,ASB
+:snoitaiverbbA
+demroferp
+erew
+scitenikocamrahp
+nehw
+sruoh
+21
+yreve
+esod/2m/gm
+08
+ot
+decuder
+esod
+saw
+dna
+sruoh
+21
+yreve
+esod/2m/gm
+511
+no
+yllaitini
+saw
+tneitaP
+a
+demrofrep
+erew
+scitenikocamrahp
+nehw
+yliad
+ecno
+esod/2m/gm
+08
+ot
+decuder
+esod
+saw
+dna
+sruoh
+21
+yreve
+esod/2m/gm
+08
+no
+yllaitini
+saw
+tneitaP
+b c
+.6
+tneitap
+edulcni
+ton
+od
+seulav
+naidem
+dna
+,DS
+,naem
+ehT
+Pediatr Blood Cancer. Author manuscript; available in PMC 2018 December 28.

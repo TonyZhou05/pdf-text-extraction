@@ -1,0 +1,520 @@
+Source: 24880570.pdf
+Extracted on: Fri Sep 12 23:57:28 PDT 2025
+==================================================
+
+--- Page 1 ---
+Cancer Chemother Pharmacol (2014) 74:257–265
+DOI 10.1007/s00280-014-2486-9
+OrIgInal artICle
+Phase 1 dose‑escalation study of the PARP inhibitor CEP‑9722
+as monotherapy or in combination with temozolomide in patients
+with solid tumors
+Ruth Plummer · Peter Stephens · Louiza Aissat‑Daudigny ·
+Anne Cambois · Gilbert Moachon · Peter D. Brown · Mario Campone
+received: 23 april 2014 / accepted: 10 May 2014 / Published online: 1 June 2014
+© the author(s) 2014. this article is published with open access at Springerlink.com
+Abstract CeP-9722 plus temozolomide 150 mg/m2 on days 1–5. the
+Purpose Poly(aDP-ribose) polymerase-1 (ParP-1) is a initial CeP-9722 dose (cohort 1) was 150 mg/day; dose
+nuclear enzyme important in Dna repair. P arP-1 activa- escalation followed a modified Fibonnaci sequence.
+tion at points of Dna strand break results in poly(aDP- Results twenty-six patients received CeP-9722 150–
+ribose) polymer formation, opening the Dna structure, 1,000 mg/day combined with temozolomide. Dose-limiting
+and allowing access of other repair enzymes. CeP-9722 toxicities of asthenia and persistent weight loss at 1,000 mg/
+inhibits ParP-1 and P arP-2 and is designed to potentiate day resulted in 750 mg/day being denfi ed as the MtD and
+Dna-damaging chemotherapies. recommended dose for further study. Overall, 24 (92 %)
+Methods this dose-escalating phase 1 study assessed the patients had treatment-related adverse events (traes),
+safety, maximum tolerated dose (MtD), and pharmacoki- mostly grade 1 or 2, with nausea, vomiting, and diarrhea
+netics/pharmacodynamics of CeP-9722 plus temozolo- having the strongest relation to CeP-9722. Four patients had
+mide in adults with solid tumors. tumor response was also grade 3 traes (asthenia, myositis, diarrhea, and fatigue).
+assessed. Participants received a 14-day cycle of CeP-9722 Systemic exposure generally increased with dosage, with
+(days 1 and 3–5 or days 1–5), followed by 28-day cycles of high inter- and intra-patient variability at all doses. Pharma-
+codynamic assessment conrfi med P arP inhibition although
+no dose response was apparent. One patient with melanoma
+Electronic supplementary material the online version of this
+achieved a partial response (1,000 mg/day).
+article (doi:10.1007/s00280-014-2486-9) contains supplementary
+Conclusions CeP-9722 was adequately tolerated with
+material, which is available to authorized users.
+temozolomide; the MtD was 750 mg/day. Only limited
+r. Plummer · P. Stephens clinical activity was observed.
+northern Centre for Cancer Care,
+newcastle upon tyne ne7 7Dn, UK
+Keywords ParP inhibitor · Solid tumors · Phase 1 ·
+l. aissat-Daudigny Dose escalation · temozolomide · Maximum tolerated dose
+teva laboratories France, 110 esplanade du général de gaulle,
+92931 la Défense Cedex, France
+Introduction
+a. Cambois · g. Moachon
+Formerly of Cephalon France, 20 rue Charles Martigny,
+94700 Maisons-alfort, France Poly(aDP-ribose) polymerases (ParPs) are a family of
+highly conserved enzymes involved in the regulation of
+P. D. Brown
+numerous cellular functions [1, 2]. ParP-1 and P arP-2
+teva Branded Pharmaceutical Products r&D, Inc., 41 Moores
+rd, Frazer, Pa 19355, USa are nuclear enzymes that are activated in response to Dna
+damage [3, 4]. Once ParP-1 is activated, it forms long
+M. Campone (*)
+branched chains of poly(aDP-ribose) (Par) on Dna-asso-
+Institut de Cancérologie de l’Ouest-rené gauducheau, Boulevard
+ciated proteins [5]. this creates a negatively charged envi-
+Jacques Monod, 44805 Saint Herblain-nantes Cedex, France
+e-mail: Mario.Campone@ico.unicancer.fr ronment and allows access for the enzymes responsible for
+1 3
+
+--- Page 2 ---
+2 58 Cancer Chemother Pharmacol (2014) 74:257–265
+base excision repair. the auto-aDP ribosylation of P arP-1 escalation approximated to a modified Fibonacci sequence
+results in its release from Dna. P arP-1 is also involved in and followed a standard 3 3 design.
++
+other Dna repair processes such as pathways of double- the study consisted of a screening period to determine
+strand break repair [6]. patient eligibility, a 14-day cycle in which CeP-9722 was
+given that many anticancer therapies act by damag- administered once daily as monotherapy, and subsequent
+ing the Dna in tumor cells, investigating the therapeutic 28-day cycles in which CeP-9722 and temozolomide were
+potential of agents that block ParP-1, and therefore Dna administered as combination therapy. In cycle 1, the first
+repair, has generated much interest [7, 8]. ParP inhibitors patient in each dosing cohort received CeP-9722 on days
+have been combined in clinical trials with chemothera- 1, 3, 4, and 5, while other patients in each cohort received
+pies such as temozolomide [9] and topotecan [10–12]. CeP-9722 on days 1–5. In cycle 2, patients received CeP-
+the therapeutic potential of ParP inhibitors has also been 9722 and temozolomide on days 1–5 (Supplemental Fig.).
+studied in patients with tumors that have defects in the CeP-9722 was escalated from a starting dose of 150 mg/
+Dna repair process such as BrCa loss of function muta- day up to 1,000 mg/day, and temozolomide was given at
+tions. In these patients, the tumor cells have an impaired the dose of 150 mg/m2/day at all dose levels of CeP-9722.
+homologous recombination Dna repair process and are Both CeP-9722 and temozolomide were administered in
+particularly vulnerable to further reductions in Dna repair the fasted state.
+capacity by monotherapy treatment with ParP inhibitors Patients were enrolled in cohorts of 3. enrollment in
+[13, 14]. the next cohort commenced when the third patient in the
+CeP-9722 is a pro-drug of CeP-8983, a potent inhibitor current cohort had completed day 28 of cycle 2 without a
+of ParP-1 and P arP-2 with enzyme IC values of 20 and dose-limiting toxicity (Dlt). Patients were considered
+50
+6 nm, respectively. the CeP-9722 pro-drug was developed evaluable for determination of the MtD provided that they
+in order to try to overcome the low oral bioavailability of had received all doses of study treatment in cycles 1 and 2.
+the poorly soluble CeP-8983. In nonclinical studies, CeP- If a Dlt was observed in cycle 1 or 2 in 1 patient, 3 addi-
+8983 increased the sensitivity of chemoresistant tumor cells tional patients were treated at this dose level. If only 1 Dlt
+to temozolomide, both in vitro and in xenograft models. was observed in the cohort of 6 patients, the subsequent
+CeP-8983 was also shown to cause only modest increases cohort was opened for enrollment; however, if a Dlt was
+in the myelotoxicity of temozolomide in studies using the observed in 2 patients in a cohort of 3 or 6 patients, dose
+≥
+CFU-gM colony-forming assay with human bone marrow escalation was stopped and that dose was defined as being
+cells [15]. this last finding was considered important since above the dose to be recommended for further study.
+the potentiation of myelosuppression by other ParP inhib- Dlt was defined as any grade 3 nonhematologic tox-
+≥
+itors has been shown to limit the ability to co-administer icity, with the exception of alopecia, vomiting, or nausea
+these agents with full-dose chemotherapy [12, 16]. in the absence of effective antiemetic treatment, or diarrhea
+the purpose of this first-in-human study was to evaluate in the absence of effective antidiarrheal treatment; grade 4
+the maximum tolerated dose (MtD), safety, pharmacoki- neutropenia persisting for more than 7 days or grade 3 neu-
+netics, pharmacodynamics, and efficacy of the oral P arP- tropenia with fever of 38.5 °C (101.3 °F) or higher; grade 4
+1/-2 inhibitor CeP-9722 in combination with oral temozo- thrombocytopenia or grade 3 thrombocytopenia with clini-
+lomide in patients with advanced solid tumors. cally significant bleeding; Qtc interval >500 ms or Qtc
+variation from baseline >60 ms on 2 electrocardiograms
+≥
+(eCgs) performed at the same visit; persistence of grade
+≥
+Methods 2 nonhematologic toxicity at the initiation of cycles 2 or 3;
+or any prolonged grade 2 myelotoxicity that delays initia-
+≥
+Study design tion of cycle 3 by more than 1 week.
+Patients withdrawing from the study for any reason
+this was an open-label, nonrandomized, multicenter, dose- other than a Dlt before completing cycle 2 were replaced.
+escalating phase 1 clinical trial. Patients were enrolled at Patients demonstrating clinical benefit or evidence of tumor
+1 center in France and 1 center in the United Kingdom response and/or no significant toxicity were eligible to
+between May 19, 2009, and June 20, 2011. the primary receive additional cycles of CeP-9722 in combination with
+objective was to identify the MtD of CeP-9722 in com- temozolomide per investigator discretion.
+bination with temozolomide. Secondary objectives were
+to determine the dose range of CeP-9722 that resulted Patient population
+in ParP inhibition in peripheral blood mononuclear
+cells (PBMCs), to characterize the pharmacokinetics of Men and women aged 18 years with a histologically or
+≥
+CeP-8983, and to document any antitumor activity. Dose cytologically confirmed advanced solid tumor considered
+1 3
+
+--- Page 3 ---
+Cancer Chemother Pharmacol (2014) 74:257–265 259
+unresponsive or poorly responsive to accepted therapies Pharmacokinetic parameters (area under the plasma drug
+were eligible for study enrollment. Other key inclusion cri- concentration–time curve from time 0 to infinity [a UC ],
+0–
+teria were adequate renal and hepatic function, and bone aUC from time 0 to the time of the last measurable dr∞ug
+marrow reserve; an eastern Cooperative Oncology group concentration [aUC ], aUC for 1 dosing interval [aUC ]
+0–t τ
+(eCOg) performance status of 0–2; a life expectancy of following multiple doses, maximum observed plasma con-
+12 weeks; evaluable disease by response evaluation Cri- centration [C ], and time to maximum observed plasma
+≥ max
+teria in Solid tumors (reCISt) 1.0 criteria; no prior chem- concentration [T ]) were summarized at each visit (day
+max
+otherapy within past 3 weeks, nitrosourea treatment within 1 of cycle 1 and day 5 of cycles 1 and 2) using descriptive
+past 6 weeks, or radiotherapy within past 4 weeks; written statistics.
+informed consent; and agreement to use appropriate contra- Pharmacodynamics were assessed by the measurement
+ceptive measures. of Par concentrations in PBMCs. PBMCs were isolated at
+the main exclusion criteria were a primary brain tumor site, and the frozen cell pellet was sent to a central labora-
+requiring a systemic premedication with anticonvul- tory (trevigen Inc., gaithersburg, MD, USa) for process-
+sive agents; brain metastases with symptoms in the prior ing and analysis by Par enzyme-linked immunosorbent
+4 weeks; marked baseline prolongation of Qt/Qtc inter - assay (elISa) [17]. Pharmacodynamic samples were col-
+val, risk factors for torsade de pointes, family history of lected on 2 consecutive days at screening visits and on days
+long Qt syndrome, heart failure, or use of concomitant 1, 5 (pre-dose and 2 h [cycle 1 only], 6 h, and 24 h post-
+treatment known to prolong Qt/Qtc interval; previous dose), and 8 (at the time of hematology laboratory testing).
+hypersensitivity reactions to any of the components of the Par concentrations in the 2 screening samples and the
+CeP-9722, temozolomide, or dacarbazine; an active gas- day 1 pre-dose sample were averaged to provide a baseline
+troduodenal ulcer, uncontrolled high blood pressure (sys- value, and the percentage inhibition from baseline was cal-
+tolic >150 mmHg and diastolic >90 mmHg with medica- culated in the post-dose samples.
+tion), uncontrolled diabetes mellitus, uncontrolled angina
+pectoris, recent myocardial infarction, cerebrovascular
+event within 6 months of study entry, or preexisting coagu- Results
+lopathy; concomitant uncontrolled infection; or severe sys-
+temic disease. Patient disposition and demographics
+the study was conducted in full accordance with the
+good Clinical Practice: Consolidated guidance approved In total, 33 patients with solid tumors were screened for
+by the International Conference on Harmonisation and study eligibility; of these, 26 patients met the entry criteria
+applicable national and local laws and regulations. and were enrolled. the mean age of the patients was 52.8
+(range 18–71) years. all of the patients had had previous
+Safety and efficacy assessments chemotherapy; 23 patients (88 %), surgery; 13 patients
+(50 %), radiotherapy; and 10 patients (38 %), target therapy
+Safety was assessed using adverse event data, clinical labo- (table 1).
+ratory test results, vital signs measurement, eCg findings,
+physical examination findings, eCOg performance status, Maximum tolerated dose
+and concomitant medication usage.
+tumor assessment was performed within 4 weeks before three patients were enrolled at the starting dose of 150 mg/
+the first dose of study drug and within the fourth week of day and completed the treatment in the first 2 cycles with-
+cycle 2 using computed tomography or magnetic resonance out Dlt . One patient in the second cohort (300 mg/day)
+imaging with contrast. In patients who continued treatment, had a Dlt of grade 3 fatigue, and the cohort was expanded
+tumor assessment was performed every 2 cycles and at the to six patients. no other Dlts were observed in the sec-
+end of treatment visit, at the discretion of the investigator. ond or third cohort (500 mg/day, 3 patients). One patient
+in the fourth cohort (750 mg/day) had a grade 3 myositis
+Pharmacokinetic/pharmacodynamic assessments on day 15 of cycle 1, and the cohort was expanded to six
+patients. no other Dlts were observed, and three patients
+Pharmacokinetic serum samples were collected on day 1 were enrolled in the fifth cohort (1,000 mg/day). two of
+of cycle 1 pre-dose and 0.5, 1, 2, 3, 4, 6, 8, 10, and 24 h these patients developed Dlts (grade 3 asthenia on day 5
+post-dose; and on day 5 of cycle 1 and cycle 2 pre-dose, of cycle 1; persistent grade 2 weight loss in cycle 2). It was
+and 0.5, 1, 2, 3, 4, 6, 8, 10, 24, and 48 h post-dose. Urine therefore concluded that, at a dose of 1,000 mg/day, the tol-
+samples were obtained on day 1 of cycle 1 during 4 inter- erable dose had been exceeded, and 3 additional patients
+vals in the 24 h following study drug administration. were enrolled at a dose of 750 mg/day without Dlt .
+1 3
+
+--- Page 4 ---
+2 60 Cancer Chemother Pharmacol (2014) 74:257–265
+Table 1 Patient demographics and disease characteristics
+N patients treated (%) CeP-9722 dose level (mg/day) total
+150 300 500 750 1,000 26
+3 6 3 11 3
+age in years, mean SD 55.3 11.72 53.7 12.91 52.3 7.23 50.6 15.10 57.0 7.94 52.8 12.24
+± ± ± ± ± ± ±
+gender
+Female 3 (100) 4 (67) 2 (67) 7 (64) 2 (67) 18 (69)
+Male 0 2 (33) 1 (33) 4 (36) 1 (33) 8 (31)
+Smoking status/medications affecting gastric pH
+Smoker 0 4 (67) 0 2 (18) 1 (33) 7 (27)
+nonsmoker 3 (100) 2 (33) 3 (100) 9 (82) 2 (67) 19 (73)
+Primary cancer
+Breast 2 (67) 1 (17) 0 4 (36) 0 7 (27)
+Ovarian 0 1 (17) 0 2 (18) 1 (33) 4 (15)
+Colorectal 0 0 1 (33) 1 (9) 0 2 (8)
+Othera 1 (33) 4 (67) 2 (67) 4 (36) 2 (67) 13 (50)
+eCOg status
+0 2 (67) 2 (33) 2 (67) 4 (36) 1 (33) 11 (42)
+1 1 (33) 4 (67) 1 (33) 7 (64) 1 (33) 14 (54)
+2 0 0 0 0 1 (33) 1 (4)
+Prior anticancer radiotherapy 3 (100) 2 (33) 1 (33) 7 (64) 0 13 (50)
+Prior systemic anticancer chemotherapy 3 (100) 6 (100) 3 (100) 11 (100) 3 (100) 26 (100)
+ECOG eastern Cooperative Oncology group, SD standard deviation
+a Other includes 1 each: abdominal/pelvic sarcoma, adenocarcinoma of the jejunum, atypical carcinoid cancer, cervix uteri cancer, cholangio-
+carcinoma, external ear cancer, gallbladder cancer, esophageal cancer, lung cancer, melanoma, prostate cancer, stomach cancer, and urothelial
+carcinoma
+In total, 8 patients (31 %) withdrew from the study Four patients withdrew due to adverse events: 2 due to
+before completion of day 28 of cycle 2. the recommended asthenia (750 and 1,000 mg/day; both possibly/probably
+phase 2 dose for CeP-9722 was established at a dose of related to treatment), 1 due to weight loss (1,000 mg/
+750 mg/day, days 1–5, in combination with temozolomide day, possibly related), and 1 due to respiratory distress
+at a dose of 150 mg/m2/day, days 1–5, in a 28-day cycle. (150 mg/day, not considered related). the patient with res-
+piratory distress died. there were four additional deaths,
+Safety all due to disease progression, which were not considered
+treatment related.
+all patients enrolled in the study had 1 or more adverse treatment-related adverse events during cycle 1 (mono-
+events during the treatment period. the most commonly therapy) and subsequent cycles (combination therapy) are
+occurring adverse events ( 20 % of patients) were nau- presented in table 2. events of headache, diarrhea, nau-
+≥
+sea (77 %), vomiting (65 %), constipation (50 %), head- sea, and vomiting showed the clearest relationship to dose
+ache (50 %), diarrhea (42 %), asthenia (42 %), abdominal during monotherapy. Similar trends were observed dur-
+pain (35 %), anorexia (35 %), fatigue (31 %), and anemia ing combination therapy (cycles 2 and beyond). grade 3
+(23 %). traes occurred in two patients during monotherapy with
+the most common severe adverse events were abdom- CeP-9722 (asthenia and myositis), and in two patients dur-
+inal pain (1 patient at 300 mg/day, 2 patients at 750 mg/ ing combination therapy (diarrhea and fatigue).
+day), asthenia (1 patient each at 300 and 1,000 mg/day), Central review of eCgs showed no clinically significant
+and noncardiac chest pain (2 patients at 750 mg/day). Six abnormalities.
+patients had grade 3–4 laboratory hematologic toxicities
+(5 lymphopenia [3 at 750 mg/day and 1 each at 300 and efficacy
+1,000 mg/day] and 1 anemia at 750 mg/day).
+Dose delays due to hematological toxicity occurred in In total, 22 of the 26 patients enrolled in the study
+three patients (all at a CeP-9722 dose of 750 mg/day). were evaluated for efficacy (t able 3). One patient
+1 3
+
+--- Page 5 ---
+Cancer Chemother Pharmacol (2014) 74:257–265 261
+Table 2 all grades of
+N patients treated (%) CeP-9722 dose level (mg/day) total
+treatment-related adverse events
+in at least two patients who 150 300 500 750 1,000 26
+received CeP-9722 alone or 3 6 3 11 3
+combined with temolozomide
+Cycle 1: single-agent CeP-9722
+nausea 0 1 (17) 1 (33) 8 (73) 2 (67) 12 (46)
+Diarrhea 0 0 0 5 (45) 2 (67) 7 (27)
+Vomiting 0 1 (17) 0 4 (36) 2 (67) 7 (27)
+abdominal pain 0 0 0 2 (18) 0 2 (8)
+Constipation 0 0 0 2 (18) 0 2 (8)
+asthenia 0 1 (17) 0 3 (27) 1 (33) 5 (19)
+Fatigue 1 (33) 1 (17) 0 2 (18) 0 4 (15)
+Blood creatinine phosphokinase increased 0 0 0 1 (9) 1 (33) 2 (8)
+anorexia 0 0 0 1 (9) 2 (67) 3 (12)
+Headache 0 1 (17) 2 (67) 5 (45) 2 (67) 10 (38)
+Cycles 2: CeP-9722 combined with temozolomide
+≥
+leukopenia 1 (33) 0 0 2 (18) 0 3 (12)
+anemia 0 0 1 (33) 1 (9) 0 2 (8)
+neutropenia 1 (33) 0 0 1 (9) 0 2 (8)
+thrombocytopenia 1 (33) 0 0 1 (9) 0 2 (8)
+nausea 1 (33) 3 (50) 1 (33) 8 (73) 2 (67) 15 (58)
+Vomiting 1 (33) 1 (17) 1 (33) 8 (73) 2 (67) 13 (50)
+Diarrhea 0 0 0 3 (27) 2 (67) 5 (19)
+Constipation 0 0 0 2 (18) 1 (33) 3 (12)
+Dyspepsia 0 0 0 2 (18) 0 2 (8)
+asthenia 0 0 2 (67) 4 (36) 0 6 (23)
+Fatigue 0 1 (17) 0 4 (36) 1 6 (23)
+gamma-glutamyltransferase increased 0 0 1 (33) 2 (18) 0 3 (12)
+Hemoglobin decreased 0 1 (17) 0 2 (18) 0 3 (12)
+Weight decreased 0 1 (17) 0 1 (9) 1 (33) 3 (12)
+aspartate aminotransferase increased 0 0 1 (33) 1 (9) 0 2 (8)
+anorexia 0 1 (17) 0 1 (9) 2 (67) 4 (15)
+Headache 0 2 (33) 2 (67) 5 (45) 2 (67) 11 (42)
+Table 3 Best tumor response according to reCISt 1.0 criteria demonstrating a partial response (a 58 % reduction
+in target lesions, as defined by reCISt criteria) was
+Cohort CeP-9722 Patients Partial Stable Progressive
+dosage evaluated response disease disease a 66-year-old man with melanoma previously treated
+(mg/day) with paclitaxel and pazopanib who received CeP-9722
+1,000 mg/day. the partial response was first observed
+1 150 2 0 0 2
+after 6 cycles of treatment and lasted 5.8 months. the
+2 300 6 0 1 5
+patient did not experience disease progression during
+3 500 3 0 2 1
+the study; however, CeP-9722 and temozolomide were
+4 750 9 0 1 8
+stopped after cycle 12 due to concerns over temozolo-
+5 1,000 2 1 0 1
+mide cumulative toxicity.
+total 22 1 4 17
+RECIST response evaluation criteria in solid tumors Pharmacokinetics
+Conversion of CeP-9722 into its active form is rapid;
+demonstrated a confirmed partial response according thus, systemic exposure was assessed by measuring the
+to reCISt criteria, four patients had stable disease, plasma concentration of CeP-8983. In general, systemic
+and 17 patients had progressive disease. the patient exposure increased with dose, but there was a high degree
+1 3
+
+--- Page 6 ---
+2 62 Cancer Chemother Pharmacol (2014) 74:257–265
+Fig. 1 Mean (SD) area under
+the plasma drug concentration–
+time curve from time 0 to the
+time of the last measurable drug
+concentration (aUC ) of CeP-
+0–t
+8983 after CeP-9722 adminis-
+tration on days 1 and 5 of cycle
+1 (C1D1, C1D5) and on day 5
+of cycle 2 (C2D5)
+Table 4 Pharmacokinetic parameters for CeP-8983 by smoking status/receiving medications that affect gastric pH (day 5 of cycle 1)
+Pharmacokinetic parameters, nonsmoker without medication Smoker and/or with medication
+mean SD affecting gastric pH n 13 affecting gastric pH n 11
+± = =
+C (ng/ml) 607.5 319.87 352.5 380.57
+max ± ±
+aUC (ng h/ml) 4,111.0 4,126.79 2,838.9 5,740.57
+0– ∞ ± ±
+aUC (ng h/ml) 3,138.0 2,160.74 1,339.3 2,127.07
+0–t ± ±
+aUC (ng h/ml) 3,851.1 3,578.78 2,304.7 4,161.29
+τ ± ±
+t (h) 0.6 0.66 0.6 0.66
+max ± ±
+t (h) 1.0 0.59 0.7 0.77
+1/2 ± ±
+Cl/F (l/h) 20.4 25.80 67.1 62.14
+± ±
+V/F(l) 58.1 60.23 102.3 100.76
+± ±
+Percentage extrapolation (%) 3.7 3.82 5.5 8.29
+± ±
+λ (1/h) 0.1 0.13 0.2 0.21
+z ± ±
+AUC area under the plasma drug concentration–time curve from time 0 to infinity, AUC area under the plasma drug concentration–time
+0– 0–t
+curve f∞rom time 0 to the time of the last measurable drug concentration, AUC area under the plasma drug concentration–time curve for 1
+τ
+dosing interval, CL/F total body clearance from plasma after oral administration, C maximum observed plasma concentration, λ terminal
+max z
+plasma elimination rate-constant,t half-life, t time to maximum observed plasma concentration, V/F apparent volume of distribution after
+1/2 max
+oral administration
+of inter- and intra-patient variability (Fig. 1). Smoking Pharmacodynamics
+and the concomitant use of agents that raise gastric pH
+were associated with low plasma exposure (table 4). In a Par biomarker assay was performed to determine the
+addition, a general trend toward higher exposure on day 1 degree of ParP inhibition in PBMCs as the dose of CeP-
+of cycle 1 than that on day 5 of cycle 1 and day 5 of cycle 9722 was escalated in the study. the laboratory elISa
+2 was observed, which may be related to changes in drug measures Par in an extract from a processed cell pel-
+absorption or metabolism. Mean aUC of CeP-8983 for let of PBMCs. as applied to the clinical setting, the assay
+0–t
+nonsmokers not receiving gastric pH-modifying medica- was found to be sensitive to variations in sample handling
+tions versus those in smokers and/or patients receiving and processing, which introduced considerable variabil-
+gastric pH-modifying medications were, respectively, ity. However, a reduction in Par concentrations relative
+4,960.6 ng h/ml versus 2,747.3 ng h/ml for day 1 of to baseline was observed at the 2 and 6 h post-dose time
+cycle 1; 3,138.0 ng h/ml versus 1,339.3 ng h/ml for day points in cycle 1 when CeP-9722 was given without temo-
+5 of cycle 1; and 2,574.4 ng h/ml versus 1,457.9 ng h/ml zolomide. the reduction in Par concentrations at the 6 h
+for day 5 of cycle 2. post-dose time point in cycle 2 was less marked (Fig. 2).
+1 3
+
+--- Page 7 ---
+Cancer Chemother Pharmacol (2014) 74:257–265 263
+Fig. 2 Inhibition of poly(aDP-
+ribose) polymerase (ParP) as
+measured by poly(aDP-ribose)
+(Par) concentrations in periph-
+eral blood mononuclear cells
+(PBMCs). the figure shows the
+Par concentrations in PBMCs
+at study time points (C cycle,
+D day, HR hour, PD post-dose)
+expressed as a mean (Se)
+percentage inhibition from the
+pre-study baseline concentration
+there was no apparent relationship between dose of CeP- myelosuppression [23]. Potentiation of the myelosuppres-
+9722 and the degree of inhibition of ParP as measured by sive effects of chemotherapy has been observed with other
+the Par elISa. ParP inhibitors, including olaparib and veliparib, and this
+has limited the doses of chemotherapies that can be used in
+these combinations [24]. It was for this reason that CeP-
+Discussion 9722 was of particular interest since nonclinical studies had
+shown that, at concentrations relevant to clinical use, CeP-
+the exquisite sensitivity of tumor cells deficient in BrCa 8983 (the active form of CeP-9722) had only minor effects
+function to ParP inhibitors in vitro has generated much on the myelotoxicity of temozolomide [15].
+hope that this activity could be translated to clinical practice In the current study, CeP-9722 was successfully com-
+[18, 19]. Indeed, early clinical trials of monotherapy with bined with temozolomide at a dose of 150 mg/m2. Dose
+the ParP inhibitor olaparib realized much of this promise delays due to hematological toxicity were infrequent. grade
+with reCISt responses in 30–40 % of breast and ovarian 3/4 neutropenia was not observed at any of the scheduled
+cancer patients with BrCa mutations [14, 20]. although study visits. the MtD of CeP-9722 was eventually defined
+a randomized phase 2 study of olaparib versus liposomal by asthenia and weight loss rather than hematological
+doxorubicin failed to show a benefit in progression-free toxicity. although this lack of potentiation of myelosup-
+survival in BrCa-mutated ovarian cancer patients [21], pression was encouraging, the degree of ParP inhibition
+a randomized study of olaparib versus placebo as mainte- achieved remains unclear. the Par elISa assay selected
+nance therapy following response to a platinum-based regi- for the study had proven reliable in a laboratory setting, but
+men did show such a benefit in patients with ovarian cancer was very sensitive to variations in sample handling and pro-
+[22]. this benefit in progression-free survival was statisti- cessing in the clinic. a clear reduction in PBMC Par con-
+cally significant for both patients with and without BrCa centrations could be observed in samples taken 2 and 6 h
+mutations, indicating the broader potential for ParP inhib- post-dose, relative to a pre-dose baseline value; however,
+itors, and active clinical development for this indication is there was considerable variability and no apparent relation-
+ongoing for many of the agents in the class [11]. ship to dose. the inhibitory effects on Par production also
+the benefit of using a P arP inhibitor in combina- were lost by the 24 h post-dose sample suggesting that a
+tion with chemotherapy is less well established. an early twice-daily dose might be a better treatment schedule.
+study of rucaparib showed that this ParP inhibitor could the pharmacokinetics of CeP-8983 also showed a high
+be successfully combined with temozolomide [9]. In a degree of inter- and intra-patient variability. notably, con-
+subsequent phase 2 study of this combination in patients centrations of CeP-8983 were lower in patients who were
+with metastatic melanoma, the progression-free survival taking proton pump inhibitors and other medications that
+was longer than that expected from historical controls; would raise gastric pH. this is likely to be a result of
+however, approximately half of the patients required a poorer absorption of CeP-8983, which is poorly soluble
+reduction in the dose of temozolomide due to enhanced in nonacidic environments. Patients who smoked also had
+1 3
+
+--- Page 8 ---
+2 64 Cancer Chemother Pharmacol (2014) 74:257–265
+lower CeP-8983 plasma exposure, most probably due to 2. Plummer er, Calvert H (2007) targeting poly(aDP-ribose) pol-
+increased metabolism by the smoking-induced increase in ymerase: a two-armed strategy for cancer therapy. Clin Cancer
+res 13:6252–6256
+cytochrome CYP1a2.
+3. ame J, rolli V, Schreiber V et al (1999) P arP-2, a novel mam-
+Clinical activity in the form of reCISt response was malian Dna damage dependent poly(aDP-ribose) polymerase. J
+limited to 1 patient in this study; a durable partial response Biol Chem 274:17860–17868
+was recorded in 1 patient treated at the highest dose of 4. de Murcia JM, niedergang C, trucco C et al (1997) requirement
+of poly(aDP-ribose) polymerase in recovery from Dna damage
+CeP-9722 (1,000 mg/day). Four additional patients (300–
+in mice and in cells. Proc natl acad Sci USa 94:7303–7307
+750 mg/day) had stable disease as best response. In view of 5. langelier MF, Pascal JM (2013) ParP-1 mechanism for cou-
+the lack of potentiation of myelotoxicity of temozolomide, pling Dna damage detection to poly(aDP-ribose) synthesis.
+and the generally good tolerability observed, further clini- Curr Opin Struct Biol 23:134–143
+6. Davar D, Beumer JH, Hamieh l, tawbi H (2012) role of
+cal study of CeP-9722 would be warranted if the low and
+ParP inhibitors in cancer biology and therapy. Curr Med Chem
+variable absorption of the drug could be overcome by an 19:3907–3921
+improved formulation. twice-daily administration should 7. Jones C, Plummer er (2008) P arP inhibitors and cancer ther -
+also be considered. apy: early results and potential applications. Br J radiol 81(spec
+no 1):S2–S5
+8. Chalmers aJ (2009) the potential role and application of ParP
+inhibitors in cancer treatment. Br Med Bull 89:23–40
+Conclusion 9. Plummer r, Jones C, Middleton M et al (2008) Phase I study
+of the poly(aDP-ribose) polymerase inhibitor, ag014699, in
+combination with temozolomide in patients with advanced solid
+Data from previous preclinical and clinical studies have
+tumors. Clin Cancer res 14:7917–7923
+shown that ParP inhibitors potentiate the cytotoxicity of 10. Samol J, ranson M, Scott e et al (2012) Safety and tolerability
+Dna-damaging chemotherapy and ionizing radiation [8 ]. of the poly(aDP-ribose) polymerase (ParP) inhibitor, olaparib
+the current study confirmed P arP inhibition by CeP- (aZD2281) in combination with topotecan for the treatment of
+patients with advanced solid tumors: a phase I study. Investig
+9722. CeP-9722 at a dose of 750 mg/day was the high-
+new Drugs 30:1493–1500
+est dose that was adequately tolerated in combination 11. Kummar S, Chen a, Parchment re et al (2012) advances
+with temozolomide at a dose of 150 mg/m2. Dlts were in using ParP inhibitors to treat cancer. BMC Med 10:25.
+nonhematological in nature. Pharmacokinetic and phar- doi:10.1186/1741-7015-10-25
+12. Kummar S, Chen a, Ji J et al (2011) Phase I study of ParP
+macodynamic results indicate that further formulation
+inhibitor aBt -888 in combination with topotecan in adults
+development and a twice-daily dosing schedule should be with refractory solid tumors and lymphomas. Cancer res
+considered. 71:5626–5634
+13. Bryant He, Schultz n, thomas HD et al (2005) Specific killing
+of BrCa2-deficient tumours with inhibitors of poly(aDP-ribose)
+Acknowledgments this research was sponsored by and con-
+polymerase. nature 414:913–917
+ducted by teva Branded Pharmaceutical Products r&D, Inc., Frazer,
+14. tutt a, robson M, garber Je et al (2010) Oral poly(aDP-ribose)
+Pa, USa. Funding for editorial and graphics support was provided
+polymerase inhibitor olaparib in patients with BrCa1 or BrCa2
+by teva Branded Pharmaceutical Products r&D, Inc., to the Curry
+mutations and advanced breast cancer: a proof-of-concept trial.
+rockefeller group, llC, tarrytown, nY, USa.
+lancet 376:235–244
+15. Miknyoczki S, Chang H, grobelny J et al (2007) the selec-
+Conflict of interest ruth Plummer has received research funding
+tive poly(aDP-ribose) polymerase-1(2) inhibitor, CeP-8983,
+from Cephalon (now teva). Peter Stephens has no conflicts of inter -
+increases the sensitivity of chemoresistant tumor cells to temozo-
+est to disclose. louiza aissat-Daudigny is an employee of teva labo-
+lomide and irinotecan but does not potentiate myelotoxicity. Mol
+ratories France, and anne Cambois and gilbert Moachon are former
+Cancer ther 6:2290–2302
+employees of Cephalon France. gilbert Moachon has also received
+16. giaccone g, rajan a, Kelly rJ et al (2010) a phase I combina-
+funding from Cephalon France. Peter D. Brown is an employee and
+tion study of olaparib (aZD2281; KU-0059436) and cisplatin (C)
+stockholder of teva Branded Pharmaceutical Products r&D, Inc.
+plus gemcitabine (g) in adults with solid tumors. J Clin Oncol
+Mario Campone has received remuneration and serves as a consultant
+28(Suppl 15):abstract 3027
+for novartis.
+17. engvall e, Perlmann P (1971) enzyme-linked immunosorbent
+assay (elISa) quantitative assay of immunoglobulin g. Immu-
+Open Access this article is distributed under the terms of the Crea- nochemistry 8:871–874
+tive Commons attribution license which permits any use, distribu- 18. Farmer H, McCabe n, lord CJ et al (2005) targeting the Dna
+tion, and reproduction in any medium, provided the original author(s) repair defect in BRCA mutant cells as a therapeutic strategy.
+and the source are credited. nature 434:917–921
+19. ashworth a (2008) a synthetic lethal therapeutic approach:
+poly(aDP) ribose polymerase inhibitors for the treatment of can-
+cers deficient in Dna double-strand break repair. J Clin Oncol
+References 26:3785–3790
+20. audeh MW, Carmichael J, Penson rt et al (2010) Oral
+1. Jagtap P, Szabó C (2005) Poly(aDP-ribose) polymerase and poly(aDP-ribose) polymerase inhibitor olaparib in patients with
+the therapeutic effects of its inhibitors. nat rev Drug Discov BrCa1 or BrCa2 mutations and recurrent ovarian cancer: a
+4:421–440 proof-of-concept trial. lancet 376:245–251
+1 3
+
+--- Page 9 ---
+Cancer Chemother Pharmacol (2014) 74:257–265 265
+21. Kaye SB, lubinski J, Matulonis U et al (2012) Phase II, open- 23. Plummer r, lorigan P, Steven n et al (2013) a phase II study of
+label, randomized, multicenter study comparing the efficacy and the potent ParP inhibitor, rucaparib (PF-01367338, ag014699),
+safety of olaparib, a poly (aDP-ribose) polymerase inhibitor, with temozolomide in patients with metastatic melanoma demon-
+and pegylated liposomal doxorubicin in patients with BrCa1 strating evidence of chemopotentiation. Cancer Chemother Phar-
+or BrCa2 mutations and recurrent ovarian cancer. J Clin Oncol macol 71:1191–1199
+30:372–379 24. Park Sr, Chen a (2012) Poly(adenosine diphosphate-ribose)
+22. ledermann J, Harter P, gourley C et al (2012) Olaparib main- polymerase inhibitors in cancer treatment. Hematol Oncol Clin
+tenance therapy in platinum-sensitive relapsed ovarian cancer. n north am 26:649–670
+engl J Med 366:1382–1392
+1 3

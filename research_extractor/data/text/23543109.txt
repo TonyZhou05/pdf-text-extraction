@@ -1,0 +1,919 @@
+Source: 23543109.pdf
+Extracted on: Fri Sep 12 23:59:14 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+Published in final edited form as:
+Invest New Drugs. 2013 October ; 31(5): 1251–1256. doi:10.1007/s10637-013-9946-7.
+Phase I study of tanespimycin in combination with bortezomib in
+patients with advanced solid malignancies
+Erin Schenk, M.D., Ph.D., Andrea E. Wahner Hendrickson, M.D., Donald Northfelt, M.D.,
+David O. Toft, Ph.D., Matthew M. Ames, Ph.D, Michael Menefee, M.D., Daniel Satele, Rui
+Qin, Ph.D., and Charles Erlichman, M.D.
+Division of Medical Oncology. Division of Biostatistics, Department of Biochemistry and Molecular
+Biology, Mayo Clinic College of Medicine, Rochester, MN
+Summary
+Purpose—To determine the maximum tolerated dose (MTD) and characterize the dose-limiting
+toxicities (DLT) of tanespimycin when given in combination with bortezomib.
+Experimental design—Phase I dose-escalating trial using a standard cohort “3+3” design
+performed in patients with advanced solid tumors. Patients were given tanespimycin and
+bortezomib twice weekly for 2 weeks in a 3 week cycle (days 1, 4, 8, 11 every 21 days).
+Results—Seventeen patients were enrolled in this study, fifteen were evaluable for toxicity, and
+nine patients were evaluable for tumor response. The MTD was 250 mg/m2 of tanespimycin and
+1.0 mg/m2 of bortezomib when used in combination. DLTs of abdominal pain (13%), complete
+atrioventricular block (7%), fatigue (7%), encephalopathy (7%), anorexia (7%), hyponatremia
+(7%), hypoxia (7%), and acidosis (7%) were observed. There were no objective responses. One
+patient had stable disease.
+Conclusions—The recommended phase II dose for twice weekly 17-AAG and PS341 are 250
+mg/m2 and 1.0 mg/m2respectively, on days 1, 4, 8 and 11 of a 21 day cycle.
+Keywords
+Phase I Trials; tanespimycin; bortezomib; solid tumors
+Introduction
+Heat-shock protein 90 (HSP90) is an evolutionarily conserved chaperone protein that
+promotes the folding of a diverse range of nascent proteins, known as “clients.” These client
+proteins include oncogenes such as EGFR, MEK, p53, AKT, v-Src, BRAF, BCR-ABL and
+others critical to signal transduction, transcription, and protein trafficking [1]. As a mediator
+of multiple essential cell pathways, HSP90 is commonly overexpressed in tumor cells and is
+a rational target for drug development [2, 3].
+Geldamycin (GA) is a member of the benzoquinone ansamycin antibiotic family and
+disrupts the association of HSP90 with client proteins by binding to its N-terminal ATP-
+binding pocket [4, 5]. Although early data demonstrated antitumor activity of GA,
+subsequent preclinical animal studies reported significant hepatotoxicity, and GA was
+determined too toxic for human administration [6, 7]. The GA derivative 17-allylamino-17-
+Corresponding Author, Charles Erlichman M.D., Mayo Clinic, Gonda 19, 200 First Street, S.W., Rochester, MN 55905.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Schenk et al. Page 2
+demethoxygeldanamycin (tanespimycin) also disrupts the HSP90 association with client
+proteins but appears to have a more tolerable toxicity profile [8, 9].
+Phase I studies using tanespimycin as a single agent in patients with advanced solid tumors
+established treatment schedules of 1, 2, or 3 doses weekly that were well tolerated [10–15].
+Common dose limiting toxicities were hepatotoxicity, diarrhea, nausea, vomiting, and
+fatigue [10–16]. No complete or partial responses were seen in these trials but some patients
+were found to have stable disease for several months [10–16]. Several Phase II trials using
+tanespimycin as a single agent have been reported in patients with advanced prostate cancer,
+renal cell carcinoma, and metastatic melanoma [17–20]. Toxicities were similar to those
+seen in the Phase I trials but no partial or complete responses were observed [17–20]. As a
+monotherapy, tanespimycin has minimal activity in producing an objective response, but
+early pre-clinical studies suggest tanespimycin may work best as an adjunct to traditional
+agents [21–23].
+By interfering with the chaperone activity of HSP90, members of the benzoquinone
+ansamycin class of compounds promote the rapid down-regulation and proteasomal
+degradation of client proteins such as the HER2/neu and v-src [4, 24, 25]. Experiments with
+tanespimycin and bortezomib, a proteasome inhibitor, demonstrated that concurrent
+treatment of a human breast cancer cell line resulted in increased client protein
+ubiquitination and subsequent accumulation in endoplasmic reticulum-derived perinuclear
+vacuoles [26, 27]. Importantly, this drug combination was preferentially cytotoxic to
+transformed cells [26]. Pre-clinical studies in primary multiple myeloma cell lines have also
+demonstrated that HSP90 inhibition by tanespimycin sensitizes cells to bortezomib [28].
+Again, this drug combination resulted in a marked accumulation of ubiquitinated proteins
+within the myeloma cells through the synergistic suppression of the chymotryptic activity of
+the 20S proteasome [28]. Taken together, these pre-clinical data suggest that interrupting
+intracellular protein homeostasis with tanespimycin and bortezomib promotes improved
+antitumor activity of both compounds.
+Based on these pre-clinical data, we undertook a Phase I trial to determine the maximally
+tolerated dose (MTD) and dose limiting toxicity (DLT) of tanespimycin and bortezomib
+combination therapy in patients with advanced solid tumors. Patients were given
+tanespimycin and bortezomib twice weekly for 2 weeks in a 3 week cycle (days 1, 4, 8, 11
+with the schedule repeated every 21 days). Once the MTD was determined, patients were
+given tanespimycin on days 1, 4, 8, and 11 and bortezomib on days 4, 8, and 11 for cycle 1,
+and then tanespimycin and bortezomib on days 1, 4, 8, and 11 for all subsequent cycles.
+Patients and Methods
+Patients with histologic proof of malignancy that was refractory to standard treatment for
+which no other curative or life-extending therapy was available were eligible for the trial.
+Patients were ≥ 18 years old, had a life expectancy ≥ 12 weeks, an Eastern Cooperative
+Oncology Group performance status ≤ 2, and were willing to return for follow up care and
+monitoring. Adequate hematologic, renal, and hepatic function was demonstrated by
+hemoglobin ≥ 9 g/dL, absolute neutrophil count ≥ 1500/µL, platelets ≥ 100,000/ µL,
+creatinine ≤ 2×upper limit of normal (ULN), total bilirubin ≤ 2×ULN, aspartate
+aminotransferase (AST) ≤ 2.5×ULN, and alkaline phosphatase ≤ 2×ULN or ≤ 5×ULN if
+liver involvement.
+Exclusion criteria included any chemotherapy, radiation therapy, immunotherapy, or
+biologic therapy ≤ 4 weeks prior to study entry (≤ 6 weeks with mitomycin C or
+nitrosoureas). Patients who received radiation to > 25 % of bone marrow,
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Schenk et al. Page 3
+radiopharmaceuticals, chest radiation, or those who had failed to fully recover from
+toxicities of prior therapy were also excluded. Patients with significant cardiac disease
+including New York Heart Association III or IV heart failure, left ventricular ejection
+fraction ≤ 40%, history of serious left ventricular tachycardia or fibrillation, history of
+myocardial infarction or active ischemic heart disease ≤ 1 year prior to study entry,
+uncontrolled dysrhythmias, antiarrhythmic therapy, current warfarin therapy that could not
+be switched to low molecular weight heparin, poorly controlled angina, congenital long QT
+syndrome, QTc > 500 msec, left bundle branch block, or a prior history of cardiac toxicity
+after receiving anthracyclines were also excluded from the study. Patients with significant
+pulmonary disease including diseases that require supplemental oxygen, severely limit
+activity, require medication for dyspnea, pulse oximetry ≤ 88% at rest or with exercise, or a
+prior history of pulmonary toxicity after receiving anthracyclines were also excluded from
+the study.
+Other exclusion criteria included uncontrolled infections, CNS metastases, seizure disorder,
+peripheral neuropathy ≥ grade 1, neuropathic pain of any etiology, history of serious allergic
+reaction to eggs, or use of concomitant medications that are known or suspected to prolong
+QTc. Patients were excluded if receiving other investigational therapies while on study.
+Pregnant women, nursing women, and patients of childbearing potential who were unwilling
+to employ adequate contraception, were excluded.
+Dosage and administration
+Tanespimycin supplied by the National Cancer Institute as a sterile single-use amber vial
+containing 50 mg of tanespimycin in 2 mL of dimethylsulfoxide was diluted in an egg
+phospholipid diluent as previously described and dispensed in a glass bottle [10].
+Bortezomib was also supplied by the National Cancer Institute as a sterile single use 10 mL
+vial, which contained 3.5 mg bortezomib as a lyophilized powder with 35 mg mannitol,
+USP. The intact vials were stored at room temperature and protected from light,
+reconstituted with 3.5 ml normal saline, USP, and given without further dilution as an
+intravenous bolus (over 3–5 seconds). The reconstituted product was discarded within 8
+hours after initial entry.
+The study was an open-label, multiple dose, phase I clinical trial. Patients first received
+tanespimycin IV over 1–2 hours followed by an IV push of bortezomib immediately after
+tanespimycin on days 1, 4, 8, and 11 every 21 days. Only two patients were enrolled at dose
+level 1 before the dose escalation scheme was modified based on new information that
+emerged from the NCI regarding the safety and tolerability of this drug combination at
+higher doses and accrual continued (Table 1). The dose escalation schedule followed the
+standard cohort “3 + 3” design, with observation for a minimum of 3 weeks before new
+patients were treated. If a DLT was not seen in any of the 3 patients, 3 new patients were
+accrued and treated at the next higher dose level. When DLTs were seen in ≥2 patients at a
+given dose level, the next 3 patients were treated at the next lower dose level. In any
+individual patient, doses could be escalated by 1dose level 1 time only but only after 3 new
+patients had completed the next dose level with no DLTs. After enrolling 6 patients at a
+specific dose level, if a DLT was observed in at least 2 patients, then the MTD was exceeded
+and defined as the previous dose level. If only 3 patients were treated at the lower dose level,
+3 additional patients were treated at MTD so that a total of 6 patients were treated at the
+MTD to assess the associated toxicities. Once the MTD was determined, an additional 4
+solid tumor patients were treated at the MTD. Patients at dose level 3 received tanespimycin
+on days 1, 4, 8, and 11 immediately followed by an IV push of bortezomib on days 4, 8, and
+11. For each subsequent cycle, first tanespimycin then an immediate IV push of
+tanespimycin was given on days 1, 4, 8, and 11 every 21 days.
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Schenk et al. Page 4
+DLT was defined as grade 4 neutropenia or grade 3 thrombocytopenia; serum creatinine ≥ 2
+times baseline or ULN, whichever is higher; QTc prolongation of grade 3 or greater; or day
+8 dose omitted during cycle 1. Any other non-hematologic toxicity ≥ grade 3 as per NCI
+Common Terminology Criteria for Adverse Events (CTCAE) version 3.0 was also
+considered a DLT. Grade 3 nausea, vomiting, or diarrhea with maximal supportive
+treatments was considered dose limiting. Alopecia was not considered dose-limiting.
+Patient evaluation
+Each patient underwent a complete history and physical exam, CBC, and chemistry panel
+including electrolytes, total bilirubin, albumin, total protein, creatinine, AST, and alkaline
+phosphatase. An EKG, echocardiogram, and pulse oximetry were performed at baseline.
+Chest x-ray was obtained at baseline and as clinically indicated if chest CT scan was not
+previously obtained. For patients with measureable disease, a CT scan was obtained at
+baseline and after every 2 cycles of therapy to assess tumor response. Complete response,
+partial response, stable disease, and progressive disease were defined according to RECIST
+criteria.
+Statistical Methods
+Per NCI CTACE version 3.0 guidelines, adverse event attributions were defined as possibly,
+probably, or definitely related to study treatment. The number and severity of adverse events
+were tabulated and summarized within each cohort. Responses were summarized by simple
+descriptive statistics delineating complete and partial responses as well as stable and
+progressive disease within each cohort.
+Results
+Between February 11, 2005 and October 28, 2009, seventeen patients were enrolled into the
+study and followed for a maximum of 3 months after being off treatment. Patient
+characteristics are presented in Table 2. The median age of all patients was 61 years with a
+range of 47 to 85. Sixteen patients were Caucasian, and one patient was American Indian or
+Alaska Native. Prior to enrollment in the study, all participating patients had previously
+undergone surgery and chemotherapy. Five patients had received radiation therapy. A
+variety of solid tumor types were treated in this study including colorectal (n=6), pancreatic
+(n=2), and soft tissue sarcoma (n=2), neuroendocrine, lung, ovarian, uterine,
+chondrosarcoma, renal cell, and gastrointestinal (1 each).
+The dose escalation scheme is summarized in Table 1. Initial accrual was at 100 mg/m2
+tanespimycin and 0.7 mg/m2 bortezomib. The second dose level was increased significantly
+because of new information regarding the drug combination from the National Cancer
+Institute indicating that this drug combination was tolerated at higher doses. Patients
+received a median of 1 cycle with a range from 1 to 6 cycles received. Nine patients (60%)
+discontinued treatment because of disease progression while on study, three (20%) due to
+adverse effects, one (6.7%) due to a complicating disease, one (6.7%) declined further
+treatment, and one (6.7%) for other reasons.
+Adverse Events
+Fifteen of the seventeen patients were evaluable for DLT analysis. Table 3 lists the number
+of DLTs for each cohort. At dose level 1, one patient experienced grade 3 abdominal pain,
+fatigue, and encephalopathy. No DLTs were observed in the first 6 patients treated at dose
+level 2. However, one patient of the four additional solid tumor patients entered at that dose
+level experienced complete atrioventricular block. In contrast, 2 DLTs were observed at
+dose level 3. One patient experienced grade 4 hyponatremia, abdominal pain, hypoxia, and
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Schenk et al. Page 5
+colitis in addition to grade 5 acidosis. The other patient experienced grade 3 anorexia.
+Accordingly, we concluded that the MTD was dose level 2, which corresponds to 250 mg/
+m2 tanespimycin and 1.0 mg/m2 bortezomib.
+Toxicities at least possibly related to treatment that were grade 2 or higher, in addition to
+grade 1 toxicities that occurred in >10% of the 15 evaluable patients are listed in Table 3.
+Grade 3 toxicities observed were encephalopathy, abdominal pain, complete atrioventricular
+block, hypertension, fatigue, and anorexia. Grade 1 toxicities at least possibly related to
+treatment occurring in <10% of patients include: decreased platelet count, increased ALT,
+increased AST, hypoalbuminemia, tremor, blurred vision, eye pain, headache, oral pain,
+cough, dyspnea, weight gain, weight loss, bruising, nail changes, and acneiform rash.
+Antitumor activity
+One patient at dose level 2 had stable disease as the best response for 4 cycles. Eight patients
+progressed in their first or second cycle of treatment. Six patients went off study before
+tumor responses were assessed. No complete or partial responses were seen.
+Discussion
+Based on available pre-clinical and phase I data, twice weekly dosing of tanespimycin and
+bortezomib in combination is a tolerable regimen. Data from an earlier study suggest the
+inhibition of HSP90 by tanespimycin is effective for 1 to 5 days based on client protein
+down regulation in tumor samples [11]. Proteasome inhibition by bortezomib was shown to
+reduce proteasome activity 1 hour post infusion and began returning to base line activity
+after 24 hours with a complete return to baseline at 72 hours in patients with advanced solid
+malignancies [29]. Twice weekly treatment of bortezomib resulted in the same level of
+proteasome inhibition 1 hour post administration, suggesting no change in proteasome
+sensitivity [29]. Pre-clinical data supports concomitant administration of tanespimycin and
+bortezomib for improved antitumor activity [26]. Therefore, our phase I study evaluated a
+twice weekly dosing schedule of tanespimycin and bortezomib in patients with advanced
+solid malignancies.
+When used in combination, the MTD of tanespimycin and bortezomib was 250 and 1.0 mg/
+m2respectively. This is similar to the MTD for tanespimycin of 200 and 220 mg/m2
+determined by other single agent phase I trials in patients with advanced solid tumors using
+twice weekly dosing schedules [13, 14]. A phase I study evaluating twice weekly
+tanespimycin and weekly paclitaxel demonstrated an MTD for tanespimycin to be 200 mg/
+m2 [30]. Studies of bortezomib as a single agent in patients with advanced solid tumors on a
+twice weekly dosing schedule have found MTDs of 1.56 and 1.7 mg/m2 [29, 31]. In our
+study, escalation of bortezomib from 1.0 to 1.3 mg/m2 in combination with tanespimycin at
+250 mg/m2 resulted in 2 DLTs. One patient from this cohort experienced grade 3 anorexia
+and the other patient experienced all the reported grade 4 toxicities including colitis and
+grade 5 acidosis. A recent phase II trial with a similar dosing scheme treated 22 myeloma
+patients with 1.3 mg/m2 of bortezomib and 50, 175, or 340 mg/m2 of tanespimycin [32].
+There was no report of acidosis, but grade 3 fatigue and abdominal pain were also observed
+[32]. These differences in MTD and toxicities seen may be due to the sequence of drug
+administration or features of the patient populations such as previous therapies. All 22
+patients in the phase II trial were previously treated with bortezomib while all patients in our
+study were bortezomib naïve [32].
+In this trial, the most common toxicities were fatigue, nausea, diarrhea, and peripheral
+sensory neuropathy. Serious liver toxicity that has previously been dose limiting in other
+trials using tanespimycin was not observed in our study. A tanespimycin dose of 100 mg/m2
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Schenk et al. Page 6
+was associated with a mild increase in AST and a moderate increase in alkaline phosphatase.
+At 250 mg/m2 of tanespimycin, mild increases in ALT and alkaline phosphatase were
+reported. Peripheral neuropathy is the most commonly reported DLT after treatment with
+bortezomib. In our study, only grade 1 sensory and motor neuropathy was found at both
+dose level 1.0 mg/m2 and 1.3 mg/m2.
+The best tumor response was stable disease for 4 cycles of treatment in a patient enrolled in
+dose level 2. No partial or complete responses were seen. In other phase I trials using
+combination therapy with tanespimycin and a second agent, stabilization of disease and
+partial responses were reported in patients with advanced solid malignancies. Disease
+stabilization in patients with advanced solid tumors was observed after treatment with
+tanespimycin and either paclitaxel or irinotecan [30, 33]. Six solid tumor patients
+experienced partial responses from tanespimycin in combination with gemcitabine, and one
+patient with advanced breast cancer achieved a partial response after treatment with
+tanespimycin and trastuzumab [34, 35]. In the myeloma phase II study, 2 patients
+experienced a partial response, 1 patient had a mixed response, and 10 patients across all
+cohorts had stable disease [32]. These results suggest that improved tumor responses could
+be seen if tanespimycin is studied in a specific disease in addition to a more established
+agent for that patient population.
+The lack of response in patients with solid tumors suggests that the underlying hypothesis
+that inhibiting HSP90 combined with proteasomal inhibition has limited activity in patients
+solid tumors. This may be in part because bortezomib has demonstrated little activity in
+solid tumors, however, another possibility is that tanespimycin does not consistently and
+significantly cause client protein degradation with the doses and schedules used here [36].
+The use of other HSP90 inhibitors may overcome this limitation. In conclusion, this phase I
+clinical trial established a twice weekly administration of tanespimycin and bortezomib that
+can be safely given at doses of 250 mg/m2 and 1.0 mg/m2respectively.
+Acknowledgments
+Supported by CA69912
+References
+1. Taipale M, Jarosz DF, Lindquist S. HSP90 at the hub of protein homeostasis: emerging mechanistic
+insights. Nat Rev Mol Cell Biol. 2010; 11(7):515–528. [PubMed: 20531426]
+2. Trepel J, et al. Targeting the dynamic HSP90 complex in cancer. Nat Rev Cancer. 2010; 10(8):537–
+549. [PubMed: 20651736]
+3. Whitesell L, Lindquist SL. HSP90 and the chaperoning of cancer. Nat Rev Cancer. 2005; 5(10):
+761–772. [PubMed: 16175177]
+4. Whitesell L, et al. Inhibition of heat shock protein HSP90-pp60v-src heteroprotein complex
+formation by benzoquinone ansamycins: essential role for stress proteins in oncogenic
+transformation. Proc Natl Acad Sci U S A. 1994; 91(18):8324–8328. [PubMed: 8078881]
+5. Grenert JP, et al. The amino-terminal domain of heat shock protein 90 (hsp90) that binds
+geldanamycin is an ATP/ADP switch domain that regulates hsp90 conformation. J Biol Chem.
+1997; 272(38):23843–23850. [PubMed: 9295332]
+6. Sasaki K, Yasuda H, Onodera K. Growth inhibition of virus transformed cells in vitro and antitumor
+activity in vivo of geldanamycin and its derivatives. J Antibiot (Tokyo). 1979; 32(8):849–851.
+[PubMed: 500504]
+7. Supko JG, et al. Preclinical pharmacologic evaluation of geldanamycin as an antitumor agent.
+Cancer Chemother Pharmacol. 1995; 36(4):305–315. [PubMed: 7628050]
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Schenk et al. Page 7
+8. Schnur RC, et al. Inhibition of the oncogene product p185erbB-2 in vitro and in vivo by
+geldanamycin and dihydrogeldanamycin derivatives. J Med Chem. 1995; 38(19):3806–3812.
+[PubMed: 7562911]
+9. Schulte TW, Neckers LM. The benzoquinone ansamycin 17-allylamino-17-
+demethoxygeldanamycin binds to HSP90 and shares important biologic activities with
+geldanamycin. Cancer Chemother Pharmacol. 1998; 42(4):273–279. [PubMed: 9744771]
+10. Goetz MP, et al. Phase I trial of 17-allylamino-17-demethoxygeldanamycin in patients with
+advanced cancer. J Clin Oncol. 2005; 23(6):1078–1087. [PubMed: 15718306]
+11. Banerji U, et al. Phase I pharmacokinetic and pharmacodynamic study of 17-allylamino, 17-
+demethoxygeldanamycin in patients with advanced malignancies. J Clin Oncol. 2005; 23(18):
+4152–4161. [PubMed: 15961763]
+12. Ramanathan RK, et al. Phase I pharmacokinetic-pharmacodynamic study of 17-(allylamino)-17-
+demethoxygeldanamycin (17AAG, NSC 330507), a novel inhibitor of heat shock protein 90, in
+patients with refractory advanced cancers. Clin Cancer Res. 2005; 11(9):3385–3391. [PubMed:
+15867239]
+13. Nowakowski GS, et al. A phase I trial of twice-weekly 17-allylamino-demethoxy-geldanamycin in
+patients with advanced cancer. Clin Cancer Res. 2006; 12(20 Pt 1):6087–6093. [PubMed:
+17062684]
+14. Ramanathan RK, et al. Phase I and pharmacodynamic study of 17-(allylamino)-17-
+demethoxygeldanamycin in adult patients with refractory advanced cancers. Clin Cancer Res.
+2007; 13(6):1769–1774. [PubMed: 17363531]
+15. Solit DB, et al. Phase I trial of 17-allylamino-17-demethoxygeldanamycin in patients with
+advanced cancer. Clin Cancer Res. 2007; 13(6):1775–1782. [PubMed: 17363532]
+16. Grem JL, et al. Phase I and pharmacologic study of 17-(allylamino)-17-demethoxygeldanamycin in
+adult patients with solid tumors. J Clin Oncol. 2005; 23(9):1885–1893. [PubMed: 15774780]
+17. Heath EI, et al. A phase II trial of 17-allylamino-17-demethoxygeldanamycin in patients with
+hormone-refractory metastatic prostate cancer. Clin Cancer Res. 2008; 14(23):7940–7946.
+[PubMed: 19047126]
+18. Solit DB, et al. Phase II trial of 17-allylamino-17-demethoxygeldanamycin in patients with
+metastatic melanoma. Clin Cancer Res. 2008; 14(24):8302–8307. [PubMed: 19088048]
+19. Ronnen EA, et al. A phase II trial of 17-(Allylamino)-17-demethoxygeldanamycin in patients with
+papillary and clear cell renal cell carcinoma. Invest New Drugs. 2006; 24(6):543–546. [PubMed:
+16832603]
+20. Pacey S, et al. A Phase II trial of 17-allylamino, 17-demethoxygeldanamycin (17-AAG,
+tanespimycin) in patients with metastatic melanoma. Invest New Drugs.
+21. Nguyen, DfM, et al. Sequence-dependent enhancement of paclitaxel toxicity in non-small cell lung
+cancer by 17-allylamino 17-demethoxygeldanamycin. J Thorac Cardiovasc Surg. 1999; 118(5):
+908–915. [PubMed: 10534697]
+22. Nguyen DM, et al. Enhancement of paclitaxel-mediated cytotoxicity in lung cancer cells by 17-
+allylamino geldanamycin: in vitro and in vivo analysis. Ann Thorac Surg. 2001; 72(2):371–378.
+discussion 378-9. [PubMed: 11515869]
+23. Munster PN, et al. Modulation of Hsp90 function by ansamycins sensitizes breast cancer cells to
+chemotherapy-induced apoptosis in an RB- and schedule-dependent manner. See: E. A. Sausville,
+Combining cytotoxics and 17-allylamino, 17-demethoxygeldanamycin: sequence and tumor
+biology matters, Clin. Cancer Res., 7: 2155–2158, 2001. Clin Cancer Res. 2001; 7(8):2228–2236.
+[PubMed: 11489796]
+24. Mimnaugh EG, Chavany C, Neckers L. Polyubiquitination and proteasomal degradation of the
+p185c-erbB-2 receptor protein-tyrosine kinase induced by geldanamycin. J Biol Chem. 1996;
+271(37):22796–22801. [PubMed: 8798456]
+25. Neckers L, Schulte TW, Mimnaugh E. Geldanamycin as a potential anti-cancer agent: its
+molecular target and biochemical activity. Invest New Drugs. 1999; 17(4):361–373. [PubMed:
+10759403]
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Schenk et al. Page 8
+26. Mimnaugh EG, et al. Simultaneous inhibition of hsp 90 and the proteasome promotes protein
+ubiquitination, causes endoplasmic reticulum-derived cytosolic vacuolization, and enhances
+antitumor activity. Mol Cancer Ther. 2004; 3(5):551–566. [PubMed: 15141013]
+27. Mimnaugh EG, et al. Endoplasmic reticulum vacuolization and valosin-containing protein
+relocalization result from simultaneous hsp90 inhibition by geldanamycin and proteasome
+inhibition by velcade. Mol Cancer Res. 2006; 4(9):667–681. [PubMed: 16966435]
+28. Mitsiades CS, et al. Antimyeloma activity of heat shock protein-90 inhibition. Blood. 2006;
+107(3):1092–1100. [PubMed: 16234364]
+29. Aghajanian C, et al. A phase I trial of the novel proteasome inhibitor PS341 in advanced solid
+tumor malignancies. Clin Cancer Res. 2002; 8(8):2505–2511. [PubMed: 12171876]
+30. Ramalingam SS, et al. A phase I study of 17-allylamino-17-demethoxygeldanamycin combined
+with paclitaxel in patients with advanced solid malignancies. Clin Cancer Res. 2008; 14(11):3456–
+3461. [PubMed: 18519777]
+31. Hamilton AL, et al. Proteasome inhibition with bortezomib (PS-341): a phase I study with
+pharmacodynamic end points using a day 1 and day 4 schedule in a 14-day cycle. J Clin Oncol.
+2005; 23(25):6107–6116. [PubMed: 16135477]
+32. Richardson PG, et al. Tanespimycin with bortezomib: activity in relapsed/refractory patients with
+multiple myeloma. Br J Haematol. 2010; 150(4):428–437. [PubMed: 20618338]
+33. Tse AN, et al. A phase 1 dose-escalation study of irinotecan in combination with 17-allylamino-17-
+demethoxygeldanamycin in patients with solid tumors. Clin Cancer Res. 2008; 14(20):6704–6711.
+[PubMed: 18927314]
+34. Modi S, et al. Combination of trastuzumab and tanespimycin (17-AAG, KOS-953) is safe and
+active in trastuzumab-refractory HER-2 overexpressing breast cancer: a phase I dose-escalation
+study. J Clin Oncol. 2007; 25(34):5410–5417. [PubMed: 18048823]
+35. Hubbard J, et al. Phase I study of 17-allylamino-17 demethoxygeldanamycin, gemcitabine and/or
+cisplatin in patients with refractory solid tumors. Invest New Drugs. 2010
+36. Kaufmann SH, Karp JE, Litzow MR, Mesa RA, Hogan W, Steensma DP, Flatten KS, Loegering
+DA, Schneider PA, Maurer MJ, Smith BD, Chen Y, Reid JM, Ivy SP, Ames MM, Adjei AA,
+Erlichman C, Karnitz LM. Phase I and pharmacological study of cytarabine and tanespimycin in
+relapsed and refractory acute leukemia. Haematologica. 2011 in press.
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schenk et al. Page 9
+1
+elbaT
+.emehcs
+noitalacse
+esoD
+sTLD
+fo
+rebmuN
+)2m/gm(
+esoD
+leveL
+esoD
+trohoC
+stneitaP
+bimozetroB
+nicymipsenaT
+1
+2
+7.0
+001
+1
+I
+1
+01
+0.1
+052
+2
+2
+3
+3.1
+052
+3
+ni
+sgurd
+eht
+fo
+ycaciffe
+dna
+ytefas
+eht
+gnidrager
+ICN
+eht
+morf
+noitamrofni
+wen
+no
+desab
+degnahc
+saw
+emehcs
+gnisod
+eht
+erofeb
+1
+level
+esod
+ta
+LTD
+rof
+detaulave
+dna
+dellorne
+erew
+stneitap
+2
+ylnO
+.noitaulave
+TLD
+rof
+decalper
+saw
+2
+level
+esod
+morf
+tneitap
+enO
+.noitanibmoc
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+
+--- Page 10 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schenk et al. Page 10
+2
+elbaT
+scitsiretcarahc
+tneitaP
+II
+trohoC
+AI
+trohoC
+I trohoC
+latoT
+)4=n(
+)01=n(
+)3=n(
+)71=n(
+egA
+25
+66
+16
+16
+naideM
+)75–74(
+)58–05(
+)67–75(
+)58–74(
+egnaR
+redneG
+1
+6
+2
+9
+elameF
+3
+4
+1
+8
+elaM erocS
+ecnamrofreP
+1
+6
+0
+7
+0
+3
+4
+2
+9
+1
+0
+0
+1
+1
+2
+stnemtaerT
+roirP
+4
+9
+3
+61
+yparehtomehC
+0
+4
+1
+5
+noitaidaR
+4
+9
+3
+61
+yregruS etiS
+romuT
+yramirP
+3
+2
+1
+6
+latceroloC
+0
+2
+0
+2
+amocras
+eussit
+tfoS
+0
+1
+1
+2
+saercnaP
+1
+5
+1
+7
+rehtO
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+
+--- Page 11 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schenk et al. Page 11
+3
+elbaT
+.tnemtaert
+ot
+detaler
+ylbissop
+tsael
+ta selcyc
+lla
+rof
+seiticixoT
+5
+edarG
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+yticixoT
+0
+0
+0
+1
+1
+aimenA
+0
+0
+0
+1
+0
+sisylomeH
+0
+0
+0
+0
+1
+ainepotycobmorhT
+0
+0
+0
+0
+1
+desaercni
+TLA
+0
+0
+0
+0
+1
+desaercni
+TSA
+0
+0
+0
+1
+1
+desaercni
+esatahpsohp
+enilaklA
+0
+0
+0
+1
+0
+sitignyrahposaN
+1
+0
+0
+0
+0
+sisodicA
+0
+0
+0
+1
+0
+aimetahpsohpopyH
+0
+1
+0
+0
+0
+aimertanopyH
+0
+0
+0
+1
+0
+noisufnoC
+0
+0
+0
+0
+2
+ssenizziD
+0
+0
+1
+0
+0
+yhtapolahpecnE
+0
+0
+0
+0
+2
+yhtaporuen
+rotom
+larehpireP
+0
+0
+0
+0
+4
+yhtaporuen
+yrosnes
+larehpireP
+0
+1
+1
+0
+0
+niap
+lanimodbA
+0
+0
+0
+1
+0
+sirotcep
+anignA
+0
+1
+0
+0
+0
+aixopyH
+0
+0
+1
+0
+0
+etelpmoc
+kcolb
+ralucirtnevoirtA
+0
+0
+1
+0
+0
+noisnetrepyH
+0
+0
+0
+1
+0
+aidracydarb
+suniS
+0
+0
+1
+1
+2
+eugitaF
+0
+0
+0
+1
+0
+hsaR
+0
+0
+0
+1
+0
+diognihsuC
+0
+0
+1
+1
+0
+aixeronA
+0
+1
+0
+0
+0
+sitiloC
+0
+0
+0
+0
+2
+noitapitsnoC
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.
+
+--- Page 12 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schenk et al. Page 12
+5
+edarG
+4
+edarG
+3
+edarG
+2
+edarG
+1
+edarG
+yticixoT
+0
+0
+0
+1
+0
+noitardyheD
+0
+0
+0
+2
+2
+aehrraiD
+0
+0
+0
+2
+2
+aesuaN
+0
+0
+0
+1
+1
+gnitimoV
+Invest New Drugs. Author manuscript; available in PMC 2014 February 20.

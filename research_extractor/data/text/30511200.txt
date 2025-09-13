@@ -1,0 +1,1097 @@
+Source: 30511200.pdf
+Extracted on: Sat Sep 13 00:00:18 PDT 2025
+==================================================
+
+--- Page 1 ---
+InvestigationalNewDrugs(2019)37:507–518
+https://doi.org/10.1007/s10637-018-0697-3
+PHASEISTUDIES
+First-in-human phase 1 study of novel dUTPase inhibitor
+TAS-114 in combination with S-1 in Japanese patients with advanced
+solid tumors
+ToshihikoDoi1 &KiyotakaYoh1&KoheiShitara2&HideakiTakahashi1&MakotoUeno3&SatoshiKobayashi3&
+ManabuMorimoto3&TakujiOkusaka4&HidekiUeno4&ChigusaMorizane4&NaohiroOkano5&FumioNagashima5&
+JunjiFuruse5
+Received:27September2018/Accepted:12November2018/Publishedonline:4December2018
+#TheAuthor(s)2018
+Summary
+BackgroundThisfirst-in-humanphase1studyassessedthesafetyofTAS-114,anoveldeoxyuridinetriphosphataseinhibitor,
+combined with S-1 to determine its maximum tolerated dose (MTD) and recommended dose (RD). Methods In this dose-
+escalation study with a 3+3 design, TAS-114 and S-1 were concurrently administered orally under fasting conditions at 5–
+240mg/m2and30–36mg/m2,respectively,inpatientswithadvancedsolidtumors.Safety,efficacy,andpharmacokinetics(PK)
+wereevaluated.ResultsSeventy-sixpatientswereenrolled.TheMTDandRDwereTAS-114200mg/m2plusS-136mg/m2and
+TAS-114 240 mg/m2 plus S-1 30 mg/m2, respectively. Common treatment-related adverse events were anemia,
+lymphocytopenia,leukopenia, neutropenia,decreased appetite, rash, nausea, and pigmentationdisorder. Partialresponse(PR)
+wasobservedin10patients(non-smallcelllungcancer[NSCLC],n=5;pancreaticneuroendocrinetumor,n=2;gastriccancer,
+n=2;gallbladdercancer,n=1).Ofthese,fourpatientsachievedPRdespitepriortreatmenthistorywithS-1.Patientsadminis-
+tered TAS-114 exhibited linear PK and CYP3A4 induction, with no effect on the PK of S-1. Conclusion TAS-114 plus S-1
+showed tolerable, safe, and potentially effective results. To confirm safety and efficacy, two phase 2 studies are ongoing in
+NSCLCandgastriccancerpatients.ClinicaltrialregistrationClinicalTrials.gov(NCT01610479).
+Keywords TAS-114 .S-1 .dUTPase .Solidtumor.Phase1 .Dose-escalation
+ToshihikoDoiandKiyotakaYohcontributedequallytothiswork.
+Introduction
+Electronicsupplementarymaterial Theonlineversionofthisarticle
+(https://doi.org/10.1007/s10637-018-0697-3)containssupplementary
+material,whichisavailabletoauthorizedusers.
+Giventhecomplexityandvariabilityofthemolecularprocess-
+esthatleadtocancerdevelopment[1,2],currentcancerther-
+* ToshihikoDoi
+apyismultifaceted.Itincludesmoleculartargetedtherapy[1],
+tdoi@east.ncc.go.jp
+immune therapy [2, 3], and other specific agents targeting
+cellular regulatory factors, oncogenic signalling pathways,
+1 DepartmentofExperimentalTherapeutics,NationalCancerCenter
+tumor-associated angiogenesis, and host immune responses
+HospitalEast,6-5-1Kashiwanoha,Kashiwa,Chiba277-8577,Japan
+[1–3]. Despite these advances, cytotoxic agents still play an
+2 DepartmentofGastroenterologyandGastrointestinalOncology,
+important role in systemic chemotherapy for several tumor
+NationalCancerCenterHospitalEast,6-5-1Kashiwanoha,
+types[4–6].
+Kashiwa,Chiba277-8577,Japan
+Currently, fluoropyrimidines are the cornerstone therapy
+3 DepartmentofGastroenterology,KanagawaCancerCenter,2-3-2
+for different types of cancer, and various efforts to improve
+Nakao,Asahi-ku,Yokohama,Kanagawa241-8515,Japan
+their efficacyhavebeenattempted in the pastthree decades.
+4 DepartmentofHepatobiliaryandPancreaticOncology,National
+Whilecombinedtreatmentwithchemicalmodulatorssuchas
+CancerCenterHospital,5-1-1Tsukiji,Chuo-ku,Tokyo104-0045,
+Japan leucovorin enhanced the clinical efficacy for various tumors
+5 DepartmentofMedicalOncology,KyorinUniversityFacultyof [7], thiswas limited by intrinsic and acquired resistance[8].
+Medicine,6-20-2Shinkawa,Mitaka,Tokyo181-8611,Japan Hence,there isa needfor the development ofa new, highly
+
+--- Page 2 ---
+508 InvestNewDrugs(2019)37:507–518
+efficacious combination to maximize the usefulness of expansionphase(Part2).Thisstudywasconductedinaccor-
+fluoropyrimidinetherapy. dancewithDeclarationofHelsinkiandGoodClinicalPractice
+Deoxyuridine triphosphatase (dUTPase), a gatekeeper guidelines, and it was approved by the institutional review
+protein, is an importantmediator of the antitumor efficacy boardsoftheparticipatingcenters.Allpatientsprovidedwrit-
+of thymidylate synthase (TS)-targeted agents, such as 5- teninformedconsent.
+fluorouracil (5-FU) [9]. Inhibition of TS by 5-FU leads to TAS-114 and S-1 were concurrently administered orally
+depletion of deoxythymidine triphosphate and elevates twice daily under fasting conditionsfor 14consecutive days
+deoxyuridinetriphosphate(dUTP)andfluorodeoxyuridine followedbya7-dayrest,comprisinga21-daytreatmentcycle
+triphosphate (FdUTP), which are recognized as substrates untildiseaseprogression,unacceptabletoxicity,orwithdrawal
+by DNA polymerases. Increased dUTP and FdUTP are ofconsentoccurred.InPart1,theinitialdosesofTAS-114and
+misincorporated into DNA instead of deoxythymidine tri- S-1 were 5 mg/m2 and 30 mg/m2, respectively. The dose of
+phosphate. This causes DNA dysfunction, and it is one of TAS-114wassetaccordingtopre-clinicalstudies,whichsug-
+the mechanisms of antitumor activity of 5-FU. dUTPase gestedthehighestnon-severelytoxicdose.Dose-limitingtox-
+catalyzes the conversion of dUTP and FdUTP to icities(DLTs)ateachdoselevelwereassessedbeforemoving
+deoxyuridine monophosphate and fluorodeoxyuridine ontothenextdoselevel.ThedoseofTAS-114wasincreased
+monophosphate and tightly restricts 5-FU and uracil from 5 mg/m2 to a maximum of 240 mg/m2. Escalation of
+misincorporation into DNA. Suppression of dUTPase by 100% of the TAS-114 dose was permitted until a dose of
+siRNA sensitizes cancer cells to TS-inhibitors [10] and 40 mg/m2 was reached, after which dose increments were
+higher expression of dUTPase in tumors has been associ- allowedinataperedmanner.InJapaneseclinicalpractice,S-
+ated with resistance to 5-FU-based chemotherapy [11]. 1isadministeredatapproximately36mg/m2underfedcon-
+Therefore, dUTPase inhibition aimed at modulating the ditions.Inthepresentstudy,S-130mg/m2wasadministered
+DNAmisincorporationpathwayisanattractivedrugtarget under fasting conditionsinaccordancewithstandardcarein
+toenhancetheantitumoractivityof5-FU,anditrepresents Europe.ThedoseofS-1couldbeincreasedtoamaximum
+a novel strategy in 5-FU-based chemotherapy. of 36 mg/m2 once the safety of the TAS-114 240 mg/m2
+WehavedevelopedTAS-114,anoveloraldUTPaseinhib- doseintheS-130mg/m2cohortwasconfirmed.Whenthe
+itor.WhileTAS-114doesnothaveantitumoractivityinitself, dose of S-1 was to be increased, the dose of TAS-114
+itmaypotentiallybeusedaspartofanewtreatmentstrategy wouldbeonelevellowerthanthedosethatcouldbesafely
+involving5-FU-basedcombinationchemotherapytoenhance administered in combination with 30 mg/m2 of S-1. The
+the antitumor activity of 5-FU through misincorporation of MTD was defined as the dose below the dose level at
+FdUTP and dUTP into DNA [12–14]. The mechanism of whichtwopatients(inacohortofuptosixpatients)expe-
+action of TAS-114 combined with 5-FU is provided in rienced a DLT in Cycle 1. In the MTD level cohort, six
+Supplementary Fig. 1. In preclinical studies, when TAS-114 patients were required to evaluate safety. DLTs were de-
+wascombinedwith5-FUagentssuchasS-1orcapecitabine,it fined as any of the following treatment-related adverse
+enhanced antitumor activity compared with 5-FU alone in events (TRAEs) occurring during Cycle 1: ≥grade 3 non-
+varioushumancancerxenograftmodels[15,16].Previously, hematologic toxicity, ≥grade 3 nausea/vomiting/diarrhea
+thefirst-in-humanphase1trialofTAS-114wasconductedin lasting>48 handuncontrolledbyaggressive medications,
+healthy male volunteers to assess its pharmacokinetics (PK) grade 4 neutropenia lasting >7 days, febrile neutropenia,
+andsafety[14].TAS-114hadlinearPKandafavorablesafety grade 4 thrombocytopenia or grade 3 thrombocytopenia
+profilewithsingleormultipledosing. associated with bleeding and requiring blood transfusion,
+Here,weaimedtoassessthesafetyofTAS-114incombi- anyTRAEthatpreventedcompletionofCycle1(<80%of
+nation with S-1, determine its maximum tolerated dose planned cumulative dose), or any TRAE resulting in a>
+(MTD) and recommended dose (RD), and evaluate its PK, 14-daydelayintheinitiationofCycle2.InPart2,weused
+biomarker profiles, and preliminary efficacy in patients with the dose levels determined in Part 1, and multiple doses
+advancedsolidtumors. could be selected to evaluate the safety and efficacy of
+specific levels.
+In patients who had adverse events (AEs), a total of two
+Methods
+dosereductionswerepermitted.Nodoseescalationwasper-
+mitted once a dose reduction occurred. Dose reduction and
+Studydesignandtreatment interruptionhadtobeimplementedsimultaneouslyforTAS-
+114 and S-1. In case the subsequent cycle was delayed for
+This was a multicenter, open-label, single-arm, dose-escala- more than 3 weeks, study treatment was discontinued.
+tion, phase 1 study with a 3+3 design. The study was con- Additional details are provided in the Supplementary
+ducted in two parts: a dose escalation phase (Part 1) and an Information.
+
+--- Page 3 ---
+InvestNewDrugs(2019)37:507–518 509
+Patientpopulation (CR)orpartialresponse(PR)intheanalysisset.CRandPR
+wereassessed4weeksaftertheinitialresponseforconfirma-
+Patients aged ≥20 years with histologically or cytologically tion.Progression-freesurvival(PFS)wastheperiodfromthe
+confirmed solid tumors in whom the standard or other study enrollmentday to the day of progressive disease (PD)
+standard-equivalent therapy was ineffective or inappropriate documentation or death by any cause. If post-treatment was
+wereeligibleforthestudy.InPart2,patientsforwhom5-FU initiated before PD documentation, the period for PFS was
+chemotherapywasindicatedwerealsoeligiblebasedondis- censored on the last day in which progression was not
+cussions between the investigator and sponsor. Other inclu- observed.
+sioncriteriaincludedalifeexpectancyof≥3months,Eastern
+Cooperative Oncology Group performance status of 0 or 1,
+PKassessment
+ability to receive medications orally, measurable or non-
+measurable lesions based on the Response Evaluation
+ToevaluateTAS-114andS-1PKparameters,bloodsamples
+Criteria In Solid Tumors (RECIST version 1.1, 2009), and
+werecollectedonDay1inCycle1,beforeand1,2,4,6,8,
+adequate hematologic, hepatic, and renal functions. Patient
+and 12 h after study drug administration. After the protocol
+eligibility was confirmed bylaboratoryinvestigationswithin
+amendment,bloodsamplingwasaddedonDays7and14in
+the 7 days before enrollment, which included aspartate ami-
+Cycle1andDay1inCycle2,beforeand1,2,4,6,8,and12h
+notransferaseoralanineaminotransferaseconcentrations,total
+after study drug administration to evaluate the effect of
+bilirubin,absoluteneutrophilcount,plateletcount,hemoglo-
+CYP3A4 induction on TAS-114 PK. Similarly, to measure
+binconcentration,andcreatinineclearance.Patientswereex-
+urine concentrations of cortisol and 6β-hydroxycortisol (6-
+cludedfromthestudyiftheyhadaseverediseaseorclinical
+OHF) as the indexes of CYP3A4 activity induction, 12-h
+condition(e.g.,brainmetastasis,activeinfection,heartorgas-
+urine collections were conducted on Day 0 (before the start
+trointestinal diseases, or HIV- or hepatitis C virus-positive
+ofstudydrugadministration),andafteradministrationinthe
+status). Surgery, extended-field radiotherapy, chemotherapy
+morningonDays1,7,14,and21inCycle1.Theconcentra-
+within28days(35daysformitomycinC),localradiotherapy
+tionsofTAS-114,componentsofS-1(tegafur[FT],5-chloro-
+within 14 days, or other investigational products within
+2,4-dihydroxypyridine [CDHP], and potassium oxonate
+30dayspriortoenrollmentwerenotpermitted.Patientswho
+[Oxo]),and5-FU(ametaboliteoftegafur)weremeasuredin
+werereceivingtreatmentknowntohaveinteractionswithS-1
+plasma by validated bioanalytical methods using liquid
+wereexcluded.
+chromatography-tandem mass spectrometry at Shin Nippon
+Biomedical Laboratories, Ltd., Pharmacokinetics and
+Safetyassessment
+BioanalysisCenter(Tokyo,Japan).Theconcentrationsofcor-
+tisol and 6-OHF were measured in urine by validated
+SafetyassessmentsweredoneatscreeningandthenonDays
+bioanalytical methods using liquid chromatography-tandem
+1,8,and15duringthefirst6cycles;Days1and15forany
+mass spectrometry at Sumika Chemical Analysis Service,
+subsequentcycles;atend-of-treatment;andatfollow-upvisits
+Ltd.(Osaka,Japan).
+(30 days after the last administration). In these assessments,
+patients were monitored for hematology, serum chemistry,
+urinalysis, vital signs and body weight, and Eastern Biomarkerassessment
+Cooperative Oncology Group performance status. AEs were
+reportedateachvisit using the verbatimterm and coded ac- Archival tissue samples were obtained from all enrolled pa-
+cording to the Medical Dictionary for Regulatory Activities tientswhohadconsentedforpharmacogenomicsassessment
+terminology(MedDRA®;MedDRA®trademarkisregistered and formalin-fixed, paraffin-embedded (FFPE) specimens
+by IFPMA on behalf of ICH). The severity of toxicity was were created. Protein expression levels of dUTPase, TS,
+graded using the National Cancer Institute Common dihydropyrimidine dehydrogenase (DPD), thymidine phos-
+TerminologyCriteriaforAdverseEvents(Version4.03). phorylase(TP),andbreastcancer1,earlyonset(BRCA1)in
+FFPEspecimens,weredeterminedbyimmunohistochemistry
+Efficacyassessment bySRL(Tokyo,Japan).GeneexpressionlevelsofdUTPase,
+TS,DPD,TP,uracil-DNAglycosylase,apurinic/apyrimidinic
+Tumorevaluationwasperformedbytheinvestigatoraccord- endodeoxyribonuclease 1, DNA polymerase beta, BRCA1,
+ingtoRECIST1.1.Computedtomographyscanningormag- and breast cancer 2 in FFPE specimens, early onset, were
+neticresonanceimagingwasperformedatbaselineandevery determined by Gentris Corporation (Morrisville, NC, USA)
+42daysfromDay1ofCycle1. using quantitative reverse transcription polymerase chain re-
+Overallresponserate(ORR)wasthepercentageofpatients action. Assessment method details are provided in the
+in whom the best overall response was a complete response SupplementaryInformation.
+
+--- Page 4 ---
+510 InvestNewDrugs(2019)37:507–518
+Statisticalanalysis Doseescalation,DLTs,MTD,andRD
+No formal sample size calculations were performed. To AsummaryofdoseescalationandDLTsisshowninTable2.
+obtain preliminary information on the MTD and safety, Forty-sevenpatientsinPart1wereevaluableforDLTs.Atan
+we planned a maximum enrollment of 80 patients for initialS-1doseof30mg/m2,DLTswerereportedinoneofsix
+DLT evaluations (Part 1) and a maximum enrollment of patients in the TAS-114 10 mg/m2 cohort (grade 2 platelet
+40 patients for the full analysis set (FAS) (Part 2). DLTs count decreased with >14-day delay in Cycle 2 initiation),
+wereevaluatedbasedonthepatientsinPart1whoexperi- and one of six patients in the TAS-114 240 mg/m2 cohort
+enced DLTs and those who did not experience DLTs but (grade3 aspartate aminotransferaseincreased). As thesafety
+received≥80% of the planned total dose of the study drug oftheTAS-114240mg/m2doseintheS-130mg/m2cohort
+in Cycle 1. Safety data were analyzed in patients who re- was confirmed, the dose of S-1 was escalated to 36 mg/m2.
+ceivedatleastonedoseofTAS-114andS-1.Theefficacy ThestartingdoseofTAS-114intheS-136mg/m2cohortwas
+analysiswasbasedontheFAS,definedasallpatientswho setat200mg/m2accordingtotheprotocol.AsnoDLTswere
+received study treatment in Part 1 or Part 2, those who reported in the three initially enrolled patients, the TAS-114
+metallinclusioncriteriaandnoneoftheexclusioncriteria dosewasescalatedto240mg/m2.Becausetwooffivepatients
+andprovidedatleastonemeasuredvalueforefficacyend- reportedDLTs(grade4plateletcountdecreasedandgrade3
+points after the start of study drug administration. dermatitisbullous),thelowerdoselevelcohort(200mg/m2)
+TheincidencesofAEsandgrade≥3AEsandthenumber wasexpandedtosixpatients.Asnootherpatientsdeveloped
+ofpatientswithAEswerecalculatedbyeventandseverity. DLTs, the MTD was determined to be TAS-114 200 mg/m2
+ORR and PFS were analyzed in the FAS; 95% confidence plus S-1 36 mg/m2. However, from a safety and treatment
+intervals(CIs)wereestimated.Summarystatisticswerepre- continuity perspective, the RD was determined to be TAS-
+sentedbydoselevel.TheestimationofplasmaPKparame- 114240mg/m2plusS-130mg/m2becauseallpatientswho
+terswasperformedusingPhoenixWinNonlinProfessional received the MTD required dose reduction or dose interrup-
+(Version 6.1 or later; Pharsight Corporation, Sunnyvale, tionwithinCycle3.
+CA,USA)accordingtothenon-compartmentalmethod.
+Treatmentexposure,dosemodification,
+anddiscontinuation
+Results
+Themedianrelativedoseintensity(RDI)ofTAS-114andS-1
+for all patients was 86% and 87%, respectively. When sum-
+Patients marizedbydoselevel,theRDIoftheRD(TAS-114240mg/
+m2plusS-130mg/m2)cohortwas91%forbothTAS-114and
+A total of 76 patients were enrolled at four sites in Japan S-1,andtheRDIoftheMTD(TAS-114200mg/m2plusS-1
+between May 2012 and April 2016, of whom all patients 36mg/m2)cohortwas63%forTAS-114and68%forS-1.
+(Part 1, n=48; Part 2, n=28) were eligible and received at Amongallpatients,24%and26%ofpatientshadatleast
+least 1 dose of TAS-114 and S-1; 64 and 12 patients were one dose reduction of TAS-114 and S-1, respectively. Dose
+assigned to the S-1 30 mg/m2 and S-1 36 mg/m2 cohorts, interruption and dosing delay in a subsequent cycle was re-
+respectively. Baseline characteristics are listed in Table 1. quired in 60% and 46% of patients, respectively. The major
+Themostfrequentlyreportedcancertypeswerepancreatic reasons forTRAEsleading todosereduction,doseinterrup-
+cancer (n=17), non-small cell lung cancer (NSCLC) (n= tion, and dosing delay in a subsequent cycle were rash, fa-
+16), and colorectal cancer (n=10). The majority of pa- tigue, nausea, and thrombocytopenia. In terms of the dose
+tients (74 patients) had received at least one prior chemo- level,intheRDcohort,30%ofpatientshadadosereduction,
+therapy for metastatic disease, of whom 42 patients were 50%ofpatientshadadoseinterruption,and40%ofpatients
+treated with a 5-FU containing regimen; two patients had hadadosingdelay;intheMTDcohort,allpatientshadbotha
+not received any prior chemotherapy for metastatic dose reduction and interruption, and 80% of patients had a
+disease. dosingdelay.
+PatientanalysissetsaresummarizedinFig.1.Ofthe48 Reasonsfordiscontinuationofthestudytreatmentincluded
+patients in Part 1, one patient, who discontinued study disease progression as defined by RECIST criteria (56 pa-
+treatment in Cycle 1 due to withdrawal of consent, was tients), clinical progression (9 patients), toxicity (7 patients;
+excluded from the DLT evaluation. The FAS comprised neutrophil count decreased, n=2; platelet count decreased,
+74 patients because two patients discontinued study treat- n=1;deepveinthrombosis,n=1;pneumonitis,n=1;inter-
+ment due to withdrawal of consent before the first tumor stitial lung disease, n=1; and dermatitis bullous n=1) and
+assessment. withdrawalofconsent(4patients).
+
+--- Page 5 ---
+InvestNewDrugs(2019)37:507–518 511
+Table1 Baselinepatient
+characteristics S-130mg/m2(n=64) S-136mg/m2(n=12) Total(n=76)
+n n n
+Age,years
+Median(range) 64.0(34–81) 66.0(47–73) 64.0(34–81)
+Sex
+Male 41 10 51
+Female 23 2 25
+ECOGPS
+0 34 6 40
+1 30 6 36
+Cancertype
+Pancreas 17 0 17
+NSCLC 14 2 16
+Colorectal 9 1 10
+Bladder 4 3 7
+p-NET 4 0 4
+Gastric 3 0 3
+Other 13 6 19
+Numberofpriortherapies
+1 7 2 9
+2 19 3 22
+3 20 4 24
+4 8 1 9
+≥5 8 2 10
+Numberofprior5-FUtherapies 38 4 42
+Abbreviations:5-FU5-fluorouracil,ECOGPSEasternCooperativeOncologyGroupperformancestatus,NSCLC
+non-smallcelllungcancer,p-NETpancreaticneuroendocrinetumor
+Safety decreased appetite (n=4), abdominal pain (n=3), malaise
+(n=2), pyrexia (n=2) in the S-1 30 mg/m2 cohort, and py-
+TRAEs occurring in ≥20% of patients are summarized in rexia(n=2)intheS-136mg/m2cohort.NounexpectedSAEs
+Table 3. Seventy-one of 76 patients (93.4%) experienced at ortreatment-relateddeathsoccurredinthisstudy.
+leastoneTRAEduringallcycles.Overall,mostoftheTRAEs
+were grade≤2 and clinically manageable. The incidences of Efficacy
+TRAEsintheS-136mg/m2cohortwerehigherthanthosein
+the S-1 30 mg/m2 cohort. The most frequently reported Among the 74 evaluable patients in the FAS, PR was ob-
+TRAEs (≥30% of patients) were anemia (63%), served in 10 patients (NSCLC, n=5; pancreatic neuroen-
+lymphocytopenia (41%),leukopenia (41%),decreased appe- docrine tumor [p-NET], n=2; gastric cancer, n=2; and
+tite(34%),rash(33%),andnausea(31%)intheS-130mg/m2 gallbladdercancer,n=1).Ofthe10patients,PRwascon-
+cohort, and decreased appetite (83%), rash (67%), anemia firmedinsevenpatients(NSCLC,n=3;p-NET,n=2;gas-
+(67%), nausea (67%), fatigue (67%), thrombocytopenia tric cancer, n=1; and gallbladder cancer, n=1), resulting
+(58%),lymphocytopenia(50%),neutropenia(50%),leukope- inanORRof9.5%(95%CI,3.9–18.5).Furthermore,four
+nia(50%),stomatitis(42%),andpigmentationdisorder(42%) patients(NSCLC,n=1;gastriccancer,n=2;andgallblad-
+intheS-136mg/m2cohort.Commongrade≥3TRAEswere der cancer, n=1) achieved PR despite prior treatment his-
+lymphocytopenia(33%)andanemia(27%)intheS-130mg/ tory with S-1. Best response of stable disease (SD) was
+m2 cohort, and lymphocytopenia (50%), anemia (42%), leu- observed in 28 patients (37.8%). Figure 2 shows the max-
+kopenia (42%), thrombocytopenia (42%), and neutropenia imum shrinkage in the diameter of the target lesions from
+(33%)intheS-136mg/m2cohort. baseline.
+Twenty-fivepatients(32.9%) experienced atleast one se- TheORR,PFS,andnumberofpriorsystemicregimens
+riousAE(SAE)duringallcycles.Themostfrequentlyreport- by cancer type are shown in Supplementary Table 1.
+ed SAEs, which occurred in two or more patients, were Clinical activity was observed for NSCLC (ORR and
+
+--- Page 6 ---
+512 InvestNewDrugs(2019)37:507–518
+Fig.1 Patientanalysissets.Abbreviations:DLT,dose-limitingtoxicity; includedthose who metall inclusion criteria, did not meet any ofthe
+PGx,pharmacogenomics;PK,pharmacokinetic.aAllpatientsenrolledin exclusioncriteria,andprovidedatleastonemeasuredvalueforefficacy
+Part 1 or Part 2.b Of patients enrolled in Part 1 or Part 2, all treated endpoints after the start of study drug administration. e PK evaluable
+patients includingthose who received at least 1 doseofTAS-114and patientsincludedthosewhoreceivedTAS-114andS-1attheassigned
+S-1. c DLTs were evaluated based on the patients in Part 1 who dosesandprovidedbloodandurinesamplesneededforcalculationofPK
+experiencedDLTsandthosewhodidnotexperienceDLTsbutreceived parameters.fOfpatientswhoreceivedstudytreatment,PGxevaluable
+≥80%oftheplannedtotaldoseofthestudydruginCycle1.dOfpatients patientsincludedthosewhoprovidedmeasuredvaluesforPGxanalyses
+who received study treatment in Part1 or Part 2, the full analysis set
+median PFS, 18.8% and 4.1 months, respectively), p-NET PK
+(ORR and PFS, 50% and 14 months, respectively), and
+gastric cancer (ORR and PFS, 33.3% and 2.8 months, PKparametersofTAS-114andS-1componentsonDays1,7,
+respectively). and14inCycle1areshowninSupplementaryTable2Aand
+Table2 Summaryofdose
+escalationandDLTs(DLT S-1 TAS-114 Part1 Patients Patients DescriptionofDLTs
+evaluablepatients,n=47) (mg/ (mg/m2) patients evaluablefor withDLTs,
+m2) treated,n DLTs,n n
+30 5 3 3 0 –
+10 6 6 1 Plateletcountdecreased(G2)with
+a>14-daydelayinCycle2initia-
+tion
+20 3 3 0 –
+40 3 3 0 –
+60 3 3 0 –
+90 3 3 0 –
+120 3 3 0 –
+160 3 3 0 –
+200 3 3 0 –
+240 6 6 1 Aspartateaminotransferaseincreased
+(G3)
+36 200 7 6 0 –
+240 5 5 2 Plateletcountdecreased(G4)
+Dermatitisbullous(G3)
+Abbreviation:DLTdose-limitingtoxicities
+
+--- Page 7 ---
+2B.Theareaunderthecurve(AUC)ofTAS-114aftersingle
+administrationincreasedinadose-proportionalmannerupto
+240mg/m2withlargeinter-individualvariations(correlation
+coefficient[R]of0.907),butrepeatedadministrationsofTAS-
+114 diminished the correlations between the TAS-114 dose
+and AUC (Day 7 and Day 14 in Cycle 1: R 0.259 and
+0.338, respectively) (Fig. 3a–c). The administrationof TAS-
+114didnotaffectthePKofS-1componentsafterS-1admin-
+istration (Supplementary Fig. 2a, 2b, 2c, and2d). The AUC
+for 5-FU after the administration of S-1 30 mg/m2 under
+fasting conditions was comparable to that after S-1 36 mg/
+m2underfedconditions[17],whichistheapproveddosein
+Asiancountries(SupplementaryFig.3aand3b).
+Thecomparisonoftheratioofurine6-OHFconcentrationto
+urinecortisolconcentration(6-OHF/F)onDay0withthaton
+Days1,7,14,and21inCycle1ataTAS-114doseof120,160,
+200,and240mg/m2isshowninSupplementaryFig.4a,4b,4c,
+and4d.ComparedwiththatonDay0,the6-OHF/FsonDays
+1,7,14,and21atTAS-114120mg/m2werenotsignificantly
+different.AtaTAS-114doseof160mg/m2andover,6-OHF/
+Fs on Day 7 and 14 were significantly increased, suggesting
+that TAS-114 induces CYP3A4 activity at 160 mg/m2 and
+higherdoses.Conversely,thevaluesof6-OHF/Fafter1-week
+cessationofchemotherapyweresimilartothoseonDay0.
+Biomarkerassessment
+Archivaltissuesampleswerecollectedfrom49patients,from
+whom47sampleswereevaluableforbiomarkeranalysis.The
+relationshipsbetweenmRNAorproteinexpressionlevelsof
+nucleicacid-metabolisingenzymes(dUTPase,TS,DPD,and
+TP) and DNA repair enzymes (uracil-DNA glycosylase,
+apurinic/apyrimidinic endodeoxyribonuclease 1, DNA poly-
+merase beta, BRCA1, and breast cancer 2, early onset) in
+tumors, disease control, and PFS were evaluated
+(Supplementary Tables 3 and 4). The median nuclear
+BRCA1 protein expression level was significantly lower in
+the CR+PR+SD group (n=15) versus the PD group (n=
+29, P=0.004); median nuclear dUTPase protein expression
+levelwassignificantlylowerintheCR+PR+SDgroup(n=
+15) versus the PD group (n=31, P=0.021). There were no
+statisticallysignificantdifferencesintheotherparameters.
+Patients were then divided into low- and high-expression
+groupsusingthemedianproteingeneexpressionlevelasthe
+cut-off value.The medianPFS inthegroupswithhigh(n=
+23) and low (n=21) BRCA1 protein expression was
+1.5 months (95% CI, 1.4–2.8) and 3.9 months (95% CI,
+2.5–5.6), respectively (hazard ratio, 1.90 [95% CI, 1.00–
+3.60], P=0.045). The median PFS in the groups with high
+(n=25) and low (n=22) dUTPase protein expressioninthe
+nucleus was 2.0 months (95% CI, 1.4–2.8) and 3.9 months (95%CI,1.5–5.8), respectively(hazard ratio,1.92[95%CI,
+1.02–3.61],P=0.038).
+)67=n,stneitapdetaertlla(strohoc2m/gm63dna2m/gm031-Sehtnistneitapfo%02≥nignirruccostneveesrevdadetaler-tnemtaertfoyrammuS
+3elbaT
+63
+03
+)2m/gm(1-S
+latoT
+042
+002
+latoT
+042
+002
+061
+021
+09
+06
+04
+02
+01
+5
+411-SAT
+)21=n(
+)5=n(
+)7=n(
+)46=n(
+)01=n(
+)3=n(
+)02=n(
+)01=n(
+)3=n(
+)3=n(
+)3=n(
+)3=n(
+)6=n(
+)3=n(
+)2m/gm(
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+3≥
+llA
+sedarG
+)24(5
+)76(8
+)06(3
+)08(4
+)92(2
+)75(4
+)72(71
+)36(04
+)03(3
+)07(7
+)33(1
+)001(3
+)02(4
+)08(61
+)05(5
+)06(6
+)76(2
+)001(3
+–
+)33(1
+)33(1
+)33(1
+)33(1
+)001(3
+–
+–
+–
+–
+aimenA
+–
+–
+–
+–
+–
+–
+)2(1
+)32(51
+–
+)03(3
+–
+–
+–
+)53(7
+)01(1
+)02(2
+–
+)33(1
+–
+)33(1
+–
+)33(1
+–
+–
+–
+–
+–
+–
+aehrraiD
+)8(1
+)76(8
+–
+)02(1
+)41(1
+)001(7
+–
+)13(02
+–
+)03(3
+–
+–
+–
+)54(9
+–
+)02(2
+–
+)76(2
+–
+)76(2–
+–
+–
+)33(1
+–
+)71(1
+–
+–
+aesuaN
+)8(1
+)24(5
+–
+)04(2
+)41(1
+)34(3
+–
+)31(8
+–
+–
+–
+)33(1
+–
+)02(4
+–
+)02(2
+–
+–
+–
+)33(1
+–
+–
+–
+–
+–
+–
+–
+–
+sititamotS
+–
+)76(8
+–
+)06(3
+–
+)17(5
+)3(2
+)82(81
+–
+)05(5
+)33(1
+)76(2
+)5(1
+)03(6
+–
+)02(2
+–
+–
+–
+)33(1
+–
+)33(1
+–
+–
+–
+)71(1
+–
+–
+eugitaF
+)05(6
+)05(6
+)06(3
+)06(3
+)34(3
+)34(3
+)33(12
+)14(62
+)05(5
+)05(5
+)33(1
+)33(1
+)53(7
+)54(9
+)04(4
+)05(5
+)76(2
+)76(2
+–
+–
+)76(2
+)001(3
+–
+–
+–
+)71(1
+–
+–
+ainepotycohpmyL
+)33(4
+)05(6
+)06(3
+)06(3
+)41(1
+)34(3
+)6(4
+)03(91
+–
+)02(2
+–
+)33(1
+)51(3
+)52(5
+)01(1
+)04(4
+–
+–
+–
+)33(1
+–
+)001(3
+–
+)33(1
+–
+)71(1
+–
+)33(1
+aineportueN
+)24(5
+)85(7
+)06(3
+)06(3
+)92(2
+)75(4
+)2(1
+)41(9
+)01(1
+)01(1
+–
+–
+–
+)01(2
+–
+)02(2
+–
+–
+–
+)33(1
+–
+–
+–
+)33(1
+–
+)33(2
+–
+–
+ainepotycobmorhT
+)24(5
+)05(6
+)06(3
+)06(3
+)92(2
+)34(3
+)9(6
+)14(62
+–
+)03(3
+–
+)33(1
+)51(3
+)53(7
+)02(2
+)04(4
+–
+)76(2
+–
+)33(1
+)33(1
+)001(3
+–
+)76(2
+–
+)05(3
+–
+–
+ainepokueL
+–
+)38(01
+–
+)06(3
+–
+)001(7
+)2(1
+)43(22
+–
+)05(5
+–
+)33(1
+–
+)53(7
+)01(1
+)05(5
+–
+)33(1
+–
+)33(1–
+–
+–
+)33(1
+–
+)71(1
+–
+–
+etiteppadesaerceD
+–
+)76(8
+–
+)06(3
+–
+)17(5
+–
+)33(12
+–
+)06(6
+–
+–
+–
+)04(8
+–
+)04(4
+–
+–
+–
+)33(1
+–
+)33(1
+–
+–
+–
+–
+–
+)33(1
+hsaR
+–
+)24(5
+–
+)04(2
+–
+)34(3
+–
+)03(91
+–
+)04(4
+–
+)33(1
+–
+)54(9
+–
+)01(1–
+–
+–
+–
+–
+)76(2
+–
+–
+–
+)71(1
+–
+)33(1
+redrosidnoitatnemgiP
+)%(neraataD
+InvestNewDrugs(2019)37:507–518 513
+
+--- Page 8 ---
+514 InvestNewDrugs(2019)37:507–518
+Fig.2 Waterfallplotsshowingthebestpercentchangefrombaselinein ofS-1:Level3=30mg/m2and36mg/m2.Changefrombaseline(%)=
+thelongestdiameterofthetargetlesionsforS-130mg/m2andS-136mg/ min([valueateachdate-baselinevalue]/baselinevalue×100)†S-1
+m2. Abbreviations: NSCLC, non-small cell lung cancer; p-NET, 36mg/m2
+pancreaticneuroendocrinetumor.AnalysisSet:FullAnalysisSet.Dose
+Discussion
+150mg/bodyorbelow;however,ourstudyshowedinduction
+ofCYP3A4activityatahigherdoseofTAS-114[14].
+Thisphase1studyisthefirstclinicaltrialtoevaluateacom- ThemostcommonTRAEs(≥30%)inboththeS-130mg/
+bination therapy of TAS-114 and S-1 in patients with ad- m2andS-136mg/m2cohortswereanemia,lymphocytopenia,
+vanced solid tumors. In this study, the RD was determined leukopenia,decreasedappetite,rash,andnausea.Overallsafe-
+to be TAS-114 240 mg/m2 plus S-1 30 mg/m2 because all ty profiles of this combination therapy were consistent with
+patients who received the MTD required dose reduction or thosecommonlyobservedinpaststudiesofS-1monotherapy,
+dose interruption resulting in lower RDI (63% and 68%, re- except for anemia and rash [18–22]. The incidence of these
+spectively),andtheMTDwasnotconsideredtobeacceptable eventsseemedtobehigherthanthatinpreviousstudies;how-
+inaclinicalsetting. ever,theseeventsweremanageablebydosemodificationand
+AlthoughTAS-114hasamoderateDPDinhibitoryeffect, symptomatic therapy. Notably, none of the patients
+the PK profile of 5-FU was unaffected by TAS-114 as S-1 discontinuedthestudyduetotheseevents.Althoughananal-
+alreadycontainsastrongDPDinhibitor,CDHP.ThePKpro- ysis of the correlation between TAS-114 exposure and inci-
+fileofCDHP,Oxo,andFT,S-1components,wasunaffected dence of anemia and rash was not performed, these events
+aswell.Basedoninvivoefficacyresults,theestimatedeffec- maybeusefulpharmacodynamicsmarkers.
+tivedoseofTAS-114wasconsideredtobethedoseatwhich Thisstudyincludedpatientsheavilypre-treatedwithseveral
+the TAS-114 AUC was approximately 2000–4000 ng·h/mL TAS-114doselevelsandheterogeneoustumortypes;however,
+(datanotshown).Targetexposurewasachievedatdoselevel PRwasobservedin10patients,ofwhomfourpatientsachieved
+3 (3835 ng·hr/mL); however, we decided to continue dose PR,regardlessof treatment history with S-1. In addition, par-
+escalation because clear safety and efficacy effects were not ticularly promising efficacy was observed in patients with
+observed. A pharmacodynamics assessment to evaluate the NSCLC, p-NET, and gastric cancer. For example, despite the
+biologicalinhibitory activity ofTAS-114was not conducted later setting, this combination showed favorable PFS (4.1 vs.
+inthisstudy.Weconsideredthepossibilityoffurtherescalat- 2.86months)andORR(18.8%vs.8.3%)inNSCLCcompared
+ingtheTAS-114doseabove240mg/m2intheS-130mg/m2 withS-1monotherapyinapreviousphase3study.Giventhat
+cohort, but we decided against it because induction of TAS-114 did not have an effect on 5-FU exposure, dUTPase
+CYP3A4 activity was observed at TAS-114 160 mg/m2 and inhibitionbyTAS-114maycontributetoantitumoractivity.
+over,whichisagoodsubstrateforCYP3A4.Thisresultindi- ApreclinicalstudyshowedthatsuppressionofDNArepair
+catedweakcorrelationsbetweentheTAS-114doseandAUC proteins involved in homologous recombination repair by
+after repeated administrations. A previous study suggested siRNA in HeLa cells increased their sensitivity to TAS-114
+thatTAS-114hasnosignificantpotentialofautoinductionat combined with the 5-FU metabolite 5-fluoro-2′-deoxyuridine
+
+--- Page 9 ---
+InvestNewDrugs(2019)37:507–518 515
+Fig.3 Pharmacokinetics.a.CorrelationbetweenTAS-114AUC 0-last on quantifiable concentration; AUC 0–12 , area under the plasma
+C1D1 and BSA dose of TAS-114. b. Correlation between TAS-114 concentration-timecurvefromtime0to12h;BSA,bodysurfacearea;
+AUC 0–12 onC1D7andBSAdoseofTAS-114.c.Correlationbetween C1D1,Day1ofCycle1;C1D7,Day7ofCycle1;C1D14,Day14of
+TAS-114AUC 0–12 onC1D14andBSAdoseofTAS-114.Abbreviations: Cycle1
+AUC ,areaunderplasmaconcentration-timecurvefromtime0tolast
+0-last
+[23].Inthisstudy,theexpressionlevelofBRCA1inpatients OurstudyhadasmallsamplesizeandonlyJapanesepatients
+withCR,PR,orSDwaslowerthanthatinpatientswithPD. wereenrolled.InCaucasiansandEastAsians,differenttolera-
+TheseresultssuggestthatpatientswithlowBRCA1levelmay bility for fluoropyrimidines was reported despite similar PK
+be more sensitive to TAS-114 with S-1 than those with high profiles in the two populations [25, 26]. A phase 1 trial in
+BRCA1 level. Further examination is required because the Europeinvestigatedthetolerabilityofthecombinationtherapy
+analysis set in this study included various tumor types and in European patients with advanced solid tumors, and it sug-
+variousdosesofTAS-114andS-1. gestedthatthecombinationtherapyhadatolerablesafetyprofile
+WhilecombinationtherapyconsistingofS-1andotherche- consistentwiththatinJapanesepatients[27].Furthermore,asS-
+motherapeutic agents has been proven to be clinically effec- 1exertsitsownanti-tumoreffect[18–20,28–31],thecontribu-
+tive,theefficacyofthatcombinationcouldbelimitedgiventhe tionofTAS-114totheanti-tumoreffectneedstobeconfirmed
+emergenceofresistanceto5-FU.Previousstudieshavereport- infurtherstudies.Currently,twophase2studiesareunderwayto
+edthatdUTPasemaybeoneofthecausalfactorsforresistance evaluatethecontributionofTAS-114totheantitumoreffectof
+to 5-FU-based chemotherapies [11, 24]. In the presentstudy, S-1:arandomized,internationalphase2studyofTAS-114plus
+both5-FUnaïveandrefractorypatientsshowedclinicalbene- S-1vs.S-1monotherapyinpatientswithNSCLCwhoare5-FU
+fitswhenreceiving S-1combinedwithTAS-114.Altogether, naïve(ClinicalTrials.govIdentifier:NCT02855125)andaphase
+this evidence suggests that inhibition of dUTPase may be a 2studyevaluatingtheefficacyandsafetyofTAS-114plusS-1
+novel approach in enhancing the activity of 5-FU-based in patients with gastric cancer previously treated with 5-FU
+chemotherapy. (UMINClinicalTrialsRegistryIdentifier:UMIN000028329).
+
+--- Page 10 ---
+516 InvestNewDrugs(2019)37:507–518
+In summary, the RD was determined to be TAS-114 TakedaPharmaceuticals,PfizerInc.,OnoPharmaceuticalCo.,Novartis
+240 mg/m2 plus S-1 30 mg/m2. Combined treatment with Pharma K.K., AbbVie Inc., Yakult Honsha Co., Ltd., Sumitomo
+DainipponPharmaCo.,DaiichiSankyoCo.,TaihoPharmaceuticalCo.,
+TAS-114 and S-1 was well tolerated, safe, and potentially
+ChugaiPharmaceuticalCo.,MSDK.Kinrelationtoworkotherthanthat
+effectiveforpatientswithadvancedsolidtumors. submitted here. Hideaki Takahashi has received honoraria from Taiho
+PharmaceuticalCo.,BayerYakuhin,Ltd.,andToriiPharmaceuticalCo.
+Acknowledgments TheauthorswishtothankSeigoNakamura(Showa Ltd.,aswellasresearchfundingfromBristol-MyersSquibbandBayer
+Yakuhin, Ltd. Makoto Ueno has received honoraria from Taiho
+UniversitySchoolofMedicine),NarikazuBoku(NationalCancerCenter
+Hospital),andKaoruKubota(NipponMedicalSchoolHospital)fortheir Pharmaceutical Co., Yakult Honsha Co., Ltd., AstraZeneca K.K.,
+NovartisPharmaK.K.,EliLillyJapanK.K.,TeijinPharma,Ltd.,Shire
+work in the Data and Safety Monitoring Committee; and Yuh Sakata
+Plc,OnoPharmaceuticalCo.,receivedfeesconsultingoradvisoryrole
+(MisawaCityHospital)forprovidingmedicaladvice.Theauthorswould
+alsoliketo thankMichelleBelanger,MD,andKeyraMartinezDunn, from Eisai Co., and research funding from TaihoPharmaceutical Co.,
+Shire Plc, Daiichi Sankyo Co., Eisai Co., AstraZeneca K.K., Ono
+MD,ofEdanzMedicalWritingforprovidingmedicalwritingassistance.
+PharmaceuticalCo.,MSDK.K.,MerckSeronoCo.,Ltd.,NanoCarrier,
+Thestudydrug,TAS-114,anoveloraldUTPaseinhibitor,isdeveloped
+Co.,Ltd.,SumitomoDainipponPharmaCo.,andIncyteCorp.Satoshi
+byTaihoPharmaceuticalCo.,Ltd.
+ThistrialwassponsoredbyTaihoPharmaceuticalCo.,Ltd. Kobayashi received honoraria from Taiho Pharmaceutical Co., Yakult
+Honsha Co., Ltd., AstraZeneca K.K., Boston Scientific Corp., Merck
+Author’s Contribution Study design: Toshihiko Doi, Kohei Shitara,
+SeronoCo.,NipponKayakuCo.,Ltd.,KyowaHakkoKirinCo.,Ltd.,
+Hideaki Takahashi, Kiyotaka Yoh, Makoto Ueno, Satoshi Kobayashi, DaiichiSankyoCo.,BayerYakuhin,Ltd.,aspeaker’sbureaufromKyowa
+ManabuMorimoto, TakujiOkusaka, HidekiUeno, ChigusaMorizane,
+HakkoKirinCo.,researchfundingfromTaihoPharmaceuticalCo.,Eli
+NaohiroOkano,FumioNagashima,JunjiFuruse.
+Lilly Japan K.K., Sumitomo Dainippon Pharma Co., Chugai
+Data collection: Toshihiko Doi, Kohei Shitara, Hideaki Takahashi,
+PharmaceuticalCo.,andYakultHonshaCo.,Ltd.,andtravel,accommo-
+Kiyotaka Yoh, Makoto Ueno, Satoshi Kobayashi, Manabu Morimoto,
+dation,andexpensesreimbursementfromNovartisPharmaK.K.Manabu
+Takuji Okusaka, Hideki Ueno, Chigusa Morizane, Naohiro Okano,
+MorimotohasreceivedhonorariafromBayerYakuhin,Ltd.,EisaiCo.,
+FumioNagashima,JunjiFuruse.
+Ltd., and NipponKayakuCo., Ltd., aswell asresearch funding from
+Datainterpretation:ToshihikoDoi,KoheiShitara,HideakiTakahashi,
+Bayer Yakuhin, Ltd., Yakult Honsha Co., Ltd., Shionogi & Co., Ltd.,
+Kiyotaka Yoh, Makoto Ueno, Satoshi Kobayashi, Manabu Morimoto,
+and Eli Lilly Japan K.K.Takuji Okusaka has received honoraria,fees
+Takuji Okusaka, Hideki Ueno, Chigusa Morizane, Naohiro Okano,
+for consulting or advisory role, or research funding from Novartis
+FumioNagashima,JunjiFuruse.
+PharmaK.K.,TaihoPharmaceuticalCo.Ltd.,MerckSeronoCo.,Ltd.,
+Manuscript development: Toshihiko Doi, Kohei Shitara, Hideaki
+Eli Lilly Japan K.K., Sumitomo Dainippon Pharma Co., Ltd., Bayer
+Takahashi, Kiyotaka Yoh, Makoto Ueno, Satoshi Kobayashi, Manabu
+Yakuhin, Ltd., Yakult Honsha Co., Ltd., Nobelpharma Co., Ltd.,
+Morimoto, Takuji Okusaka, Hideki Ueno, Chigusa Morizane, Fumio
+NipponKayakuCo.,Ltd.,BaxterLimited,FUJIFILMRIPharmaCo.,
+Nagashima,JunjiFuruse.
+Ltd.,AstraZenecaK.K.,OnoPharmaceuticalCo.,Ltd.,EAPharmaCo.,
+Finalapprovalforsubmission:ToshihikoDoi,KoheiShitara,Hideaki
+Ltd., Nippon Chemiphar Co., Ltd., Celgene, K.K., Chugai
+Takahashi, Kiyotaka Yoh, Makoto Ueno, Satoshi Kobayashi, Manabu
+PharmaceuticalCo.,Ltd.,NipponBoehringerIngelheimCo.,Ltd.,Zeria
+Morimoto,TakujiOkusaka,HidekiUeno, Chigusa Morizane, Naohiro
+PharmaceuticalCo.,Ltd.,DaiichiSankyoCo.,Ltd.,Kowacompany,Ltd.,
+Okano,FumioNagashima,JunjiFuruse.
+Kyowa Hakko Kirin Co., Ltd., Glaxo Smith Kline K.K., Shizuoka
+Dataanalysis:notapplicable.
+IndustryNanoCarrierCo.,Ltd.,andPfizerJapanInc.HidekiUenohas
+receivedhonorariaandresearchfundingfromTaihoPharmaceuticalCo.,
+Availabilityofdataandmaterial Datageneratedoranalyzedduringthis Ltd.ChigusaMorizanehasreceivedhonorariafromPfizerInc.,Novartis
+studyareonfilewithTaihoPharmaceuticalCo.,Ltd.andarenotpublicly PharmaK.K.,YakultHonshaCo.,Ltd.,NobelpharmaCo.,Ltd.,EliLilly
+available.Inquiriesfordataaccessmaybesenttothefollowinge-mail JapanK.K.,andFUJIFILMRIPharmaCo.,Ltd.,feesforconsultingor
+address:TOIAWASE@taiho.co.jp. advisoryrolefromEisaiCo.,Ltd.,DaiichiSankyoCo.,Ltd.,andNovartis
+PharmaK.K.,andresearchfundingfromYakultHonshaCo.,Ltd.,Ono
+Compliancewithethicalstandards PharmaceuticalCo.,Ltd.,EisaiCo.,Ltd.,TaihoPharmaceuticalCo.Ltd.,
+and Pfizer Inc. Naohiro Okano has received honoraria from Taiho
+PharmaceuticalCo.Ltd.andMerckSeronoCo.,Ltd.FumioNagashima
+Conflictofinterest ToshihikoDoihasreceivedfeesforconsultingor
+hasreceivedresearchfundingfromTaihoPharmaceuticalCo.Ltd.,Eli
+advisory role from Eli Lilly Japan K.K., Chugai Pharmaceutical Co.,
+Lilly Japan K.K., Daiichi Sankyo Co., Ltd., Sanofi K.K., MSD K.K.,
+Kyowa Hakko Kirin Co., Ltd., MSD K.K., Daiichi Sankyo Co., Ltd.,
+EisaiCo.,Ltd.,andSumitomoDainipponPharmaCo.,Ltd.JunjiFuruse
+Amgen Inc., Sumitomo Dainippon Pharma Co., and Taiho
+has received honoraria from Taiho Pharmaceutical Co. Ltd., Yakult
+Pharmaceutical Co. Ltd., as well as research funding from Taiho
+Honsha Co., Ltd., Sumitomo Dainippon Pharma Co., Ltd., Eli Lilly
+Pharmaceutical Co. Ltd., Novartis Pharma K.K., Merck Serono Co.,
+Japan K.K., AstellasPharma Inc., Mochida Pharmaceutical Co., Ltd.,
+Ltd., Astellas Pharma Inc., MSD K.K., Janssen Pharmaceutical K.K.,
+Ono Pharmaceutical Co., Ltd., Pfizer Inc., Bayer Yakuhin, Ltd.,
+NipponBoehringerIngelheimCo.,TakedaPharmaceuticals,PfizerInc.,
+NovartisPharmaK.K.,MerckSeronoCo.,Ltd.,EisaiCo.,Ltd.,Takeda
+Eli Lilly Japan K.K., Sumitomo Dainippon Pharma Co., Chugai
+Pharmaceuticals,NipponKayakuCo.,Ltd.,DaiichiSankyoCo.,Ltd.,EA
+PharmaceuticalCo.,KyowaHakkoKirinCo.,Ltd.,DaiichiSankyoCo.,
+PharmaCo.,Ltd.,SawaiPharmaceuticalCo.,Ltd.,andMSDK.K.
+Ltd., Celgene Corporation, Bristol-Myers Squibb, AbbVie Inc., and
+QuintilesIMSHoldings,Inc.KiyotakaYohhasreceivedgrantsandper-
+Ethicsapproval Allproceduresperformedinstudiesinvolvinghuman
+sonalfeesfromTaihoPharmaceutical,duringtheconductofthestudy;
+participantswereinaccordancewiththeethicalstandardsoftheinstitu-
+grantsand/orpersonalfeesfromChugaiPharmaceuticalCo.,AstraZeneca
+tional and/or national researchcommittee and with the 1964 Helsinki
+K.K., Eli Lilly Japan, K.K., Boehringer Ingelheim Co., Ono
+declarationanditslateramendmentsorcomparableethicalstandards.
+PharmaceuticalCo.,NovartisPharmaK.K.,BayerYakuhin,Ltd.,Pfizer
+Inc.,MSDK.K.,Bristol-MyersSquibb,inrelationtoworkotherthanthat
+submitted here. Kohei Shitara hasreceived grants and/or personalfees Informedconsent Informedconsentwasobtainedfromallindividual
+fromAstellasPharmaInc.,EliLillyJapanK.K.,Bristol-MyersSquibb, participantsincludedinthestudy.
+
+--- Page 11 ---
+InvestNewDrugs(2019)37:507–518 517
+Consentforpublication Notapplicable. healthy male volunteers. Cancer Chemother Pharmacol 73:577–
+583.https://doi.org/10.1007/s00280-014-2383-2
+OpenAccess ThisarticleisdistributedunderthetermsoftheCreative 15. Yano W, Yokogawa T, Wakasa T, Yamamura K, Fujioka A,
+Commons Attribution 4.0 International License (http:// YoshisueK,MatsushimaE,MiyaharaS,MiyakoshiH,TaguchiJ,
+creativecommons.org/licenses/by/4.0/), which permits unrestricted use, ChongKT,TakaoY,FukuokaM,MatsuoK(2018)TAS-114,a
+distribution, and reproduction in any medium, provided you give first-in-classdualdUTPase/DPDinhibitor,demonstratespotential
+appropriatecredittotheoriginalauthor(s)andthesource,providealink toimprovetherapeuticefficacyoffluoropyrimidine-basedchemo-
+totheCreativeCommonslicense,andindicateifchangesweremade. therapy.MolCancerTher17:1683–1693.https://doi.org/10.1158/
+1535-7163.MCT-17-0911
+16. YokogawaT,WakasaT,YanoW,YoshisueK,FujiokaA,Eshima
+References K,FukuokaM,MatsuoK,NoguchiK,UtsugiT(2012)TAS-114
+enhances S-1 activity in vivo when used in combination. Eur J
+Cancer 48(6 suppl):22. https://doi.org/10.1016/S0959-8049(12)
+1. SawyersC(2004)Targetedcancertherapy.Nature432:294–297 71863-4
+2. Hughes PE, Caenepeel S, Wu LC (2016) Targeted therapy and 17. Doi T, Yoh K, Shitara K, Takahashi H, Ueno M, Kobayashi S,
+checkpoint immunotherapy combinations for the treatment of MorimotoM,OhkawaS,OkusakaT,UenoH,MorizaneC,Shiba
+Cancer.Trends Immunol37:462–476.https://doi.org/10.1016/j.it. S,OkanoN,NarugeD,NagashimaF,FuruseJ,KobaK,NoguchiK
+2016.04.010 (2015)First-in-mancombinationphaseIstudyofTAS-114andS-1
+3. WeinmannH(2016)Cancerimmunotherapy:selectedtargetsand inpatients(pts)withadvancedsolidtumors.JClinOncol33(15
+small-moleculemodulators.ChemMedChem11:450–466.https:// suppl):2544
+doi.org/10.1002/cmdc.201500566 18. GovindanR,MorgenszternD,KommorMD,HerbstRS,Schaefer
+4. NationalComprehensiveCancerNetwork.NCCNGuidelinewith P,GandhiJ,SaitoK,ZergebelC,SchillerJ(2011)PhaseIItrialof
+NCCNEvidenceBlocks™-GastricCancerVersion2.2018.http:// S-1assecond-linetherapyinpatientswithadvancednon-smallcell
+www.nccn.org/professionals/physician_gls/pdf/gastric_blocks.pdf lung cancer. J Thorac Oncol 6:790–795. https://doi.org/10.1097/
+Accessed1June2018 JTO.0b013e3182103b51
+5. NationalComprehensiveCancerNetwork.NCCNGuidelinewith 19. NokiharaH,LuS,MokTSK,NakagawaK,YamamotoN,ShiYK,
+NCCNEvidenceBlocks™-PancreaticAdenocarcinomaVersion ZhangL,SooRA,YangJC,SugawaraS,NishioM,TakahashiT,
+1.2018. http://www.nccn.org/professionals/physician_gls/pdf/ GotoK,ChangJ,MaemondoM,IchinoseY,ChengY,LimWT,
+pancreatic_blocks.pdfAccessed1June2018 Morita S, Tamura T (2017) Randomized controlled trial of S-1
+6. NationalComprehensiveCancerNetwork.NCCNGuidelinewith versusdocetaxelinpatientswithnon-small-celllungcancerprevi-
+NCCNEvidenceBlocks™-ColonCancerVersion2.2018.http:// ously treated with platinum-based chemotherapy (East Asia S-1
+www.nccn.org/professionals/physician_gls/pdf/colon_blocks.pdf trial in lung Cancer). Ann Oncol 28:2698–2706. https://doi.org/
+Accessed1June2018 10.1093/annonc/mdx419
+20. Ueno H, Ioka T, Ikeda M, Ohkawa S, Yanagimoto H, Boku N,
+7. LongleyDB,HarkinDP,JohnstonPG(2003)5-fluorouracil:mech-
+anismsofactionandclinicalstrategies.NatRevCancer3:330–338 FukutomiA,SugimoriK,BabaH,YamaoK,ShimamuraT,Sho
+M, Kitano M, Cheng AL, Mizumoto K, Chen JS, Furuse J,
+8. Aschele C, Debernardis D, Casazza S, Antonelli G, Tunesi G,
+FunakoshiA,Hatori T, Yamaguchi T, EgawaS,SatoA,Ohashi
+Baldo C, Lionetto R, Maley F, Sobrero A (1999)
+Y, Okusaka T, TanakaM (2013) Randomized phaseIIIstudy of
+Immunohistochemicalquantitationofthymidylatesynthaseexpres-
+gemcitabineplusS-1,S-1alone,orgemcitabinealoneinpatients
+sionincolorectalcancermetastasespredictsforclinicaloutcometo
+fluorouracil-basedchemotherapy.JClinOncol17:1760–1770 withlocallyadvancedandmetastaticpancreaticcancerinJapanand
+Taiwan:GESTstudy.JClinOncol31:1640–1648.https://doi.org/
+9. CanmanCE,RadanyEH,ParselsLA,DavisMA,LawrenceTS,
+10.1200/JCO.2012.43.3680
+MaybaumJ(1994)Inductionofresistancetofluorodeoxyuridine
+21. Shirasaka T (2009) Development history and concept of anoral
+cytotoxicityandDNAdamageinhumantumorcellsbyexpression
+anticanceragentS-1(TS-1):itsclinicalusefulnessandfuturevistas.
+of Escherichia coli deoxyuridinetriphosphatase. Cancer Res 54: JpnJClinOncol39:2–15.https://doi.org/10.1093/jjco/hyn127
+2296–2298
+22. KoizumiW,NaraharaH,HaraT,TakaganeA,AkiyaT,TakagiM,
+10. KoehlerSE,LadnerRD(2004)SmallinterferingRNA-mediated
+Miyashita K, Nishizaki T, Kobayashi O, Takiyama W, Toh Y,
+suppressionofdUTPasesensitizescancercelllinestothymidylate
+NagaieT,TakagiS,YamamuraY,YanaokaK,OritaH,Takeuchi
+synthaseinhibition.MolPharmacol66:620–626
+M(2008)S-1pluscisplatinversusS-1aloneforfirst-linetreatment
+11. LadnerRD,LynchFJ,GroshenS,XiongYP,SherrodA,Caradonna ofadvancedgastriccancer(SPIRITStrial):aphaseIIItrial.Lancet
+SJ, Stoehlmacher J, Lenz HJ (2000) dUTP nucleotidohydrolase Oncol9:215–221.https://doi.org/10.1016/S1470-2045(08)70035-4
+isoform expression in normal and neoplastic tissues: association 23. Tsukioka S, Yano W, Yokogawa T, Wakasa T, Fujioka A,
+with survival and response to5-fluorouracilincolorectal cancer. YamamuraK,ItohS,FukuokaM,MatsuoK,NoguchiK,Utsugi
+CancerRes60:3493–3503
+T(2013)ExpressionofDNAdamagerepairenzymesdetermine
+12. Ladner RD, McNulty DE, Carr SA, Roberts GD, Caradonna SJ theefficacyofanoveldUTPaseinhibitor,TAS-114[abstract].In:
+(1996)Characterizationofdistinctnuclearandmitochondrialforms ProceedingsoftheAACR-NCI-EORTCInternationalConference:
+of human deoxyuridine triphosphate nucleotidohydrolase. J Biol Molecular Targets and Cancer Therapeutics; 2013 Oct 19–23;
+Chem271:7745–7751
+Boston, MA. Philadelphia (PA): AACR; Mol Cancer Ther
+13. Wilson PM, Danenberg PV, Johnston PG,Lenz HJ, Ladner RD 2013;12(11Suppl):AbstractB89
+(2014)Standingthetestoftime:targetingthymidylatebiosynthesis 24. WilsonPM,FazzoneW,LaBonteMJ,DengJ,NeamatiN,Ladner
+incancertherapy.NatRevClinOncol11:282–298.https://doi.org/ RD(2008)Novel opportunitiesfor thymidylate metabolismasa
+10.1038/nrclinonc.2014.51 therapeutictarget.MolCancerTher7:3029–3037.https://doi.org/
+14. Saito K, Nagashima H, Noguchi K, Yoshisue K, Yokogawa T, 10.1158/1535-7163.MCT-08-0280
+MatsushimaE,TaharaT,TakagiS(2014)First-in-human,phaseI 25. ChuahB,GohBC,LeeSC,SoongR,LauF,MulayM,DinolfoM,
+dose-escalationstudyofsingleandmultipledosesofafirst-in-class LimSE,SooR,FuruieT,SaitoK,ZergebelC,RosenLS(2011)
+enhanceroffluoropyrimidines,adUTPaseinhibitor(TAS-114)in ComparisonofthepharmacokineticsandpharmacodynamicsofS-
+
+--- Page 12 ---
+518 InvestNewDrugs(2019)37:507–518
+1betweenCaucasianandeastAsianpatients.CancerSci102:478– CATS trial. Ann Oncol 26:1401–1408. https://doi.org/10.1093/
+483.https://doi.org/10.1111/j.1349-7006.2010.01793.x annonc/mdv190
+26. HallerDG,CassidyJ,ClarkeSJ,CunninghamD,VanCutsemE, 29. TakashimaT,MukaiH,HaraF,MatsubaraN,SaitoT,TakanoT,
+Hoff PM, Rothenberg ML, Saltz LB, Schmoll HJ, Allegra C, ParkY,ToyamaT,HozumiY,TsurutaniJ,ImotoS,WatanabeT,
+BertinoJR,DouillardJY, Gustavsson BG,MilanoG,O’Connell SagaraY, Nishimura R, Shimozuma K, Ohashi Y, SELECTBC
+M,RustumY,TaberneroJ,GilbergF,SirzénF,TwelvesC(2008) StudyGroup(2016)TaxanesversusS-1asthefirst-linechemother-
+Potential regional differences for the tolerability profiles of apyformetastaticbreastcancer(SELECTBC):anopen-label,non-
+fluoropyrimidines.JClinOncol26:2118–2123.https://doi.org/10. inferiority, randomised phase 3 trial. Lancet Oncol 17:90–98.
+1200/JCO.2007.15.2090 https://doi.org/10.1016/S1470-2045(15)00411-8
+27. FasoloA,AoyamaT,StathisA,SessaC,HollebecqueA,SoriaJC, 30. Boku N, Yamamoto S, Fukuda H, Shirao K, Doi T, Sawaki A,
+SobreroA,VanLaethemJ-L,YoshisueK,GianniL(2018)Alarge Koizumi W, Saito H, Yamaguchi K, Takiuchi H, Nasu J, Ohtsu
+phaseIstudyofTAS-114incombinationwithS-1inpatientswith A,Gastrointestinal OncologyStudy Groupofthe Japan Clinical
+advancedsolidtumors[abstract].In:ProceedingsoftheAmerican Oncology Group (2009) Fluorouracil versus combination of
+AssociationforCancerResAnnualMeeting2018;2018Apr14– irinotecanpluscisplatinversusS-1inmetastaticgastriccancer:a
+18; Chicago, IL. Philadelphia (PA): AACR; Cancer Res
+randomisedphase3study.LancetOncol10:1063–1069.https://doi.
+2018;78(13Suppl):AbstractCT014.https://doi.org/10.1158/1538- org/10.1016/S1470-2045(09)70259-1
+7445.AM2018-CT014 31. Yamada Y, Takahari D, Matsumoto H, Baba H, Nakamura M,
+28. KubotaK,SakaiH,KatakamiN,NishioM,InoueA,OkamotoH, Yoshida K, Yoshida M, Iwamoto S, Shimada K, Komatsu Y,
+SasakiY,SatohT,TakahashiK,MishimaH,MuroK,Watanabe
+Isobe H, Kunitoh H, Takiguchi Y, Kobayashi K, Nakamura Y,
+M,SakataY,MoritaS,ShimadaY,SugiharaK(2013)Leucovorin,
+Ohmatsu H, Sugawara S, Minato K, Fukuda M, Yokoyama A,
+fluorouracil, and oxaliplatin plus bevacizumab versus S-1 and
+Takeuchi M, Michimae H, Gemma A, Kudoh S, Tokyo
+CooperativeOncologyGroup(2015)ArandomizedphaseIIItrial oxaliplatinplusbevacizumabinpatientswithmetastaticcolorectal
+cancer(SOFT):anopen-label,non-inferiority,randomisedphase3
+oforalS-1pluscisplatinversusdocetaxelpluscisplatininJapanese
+trial.LancetOncol14:1278–1286.https://doi.org/10.1016/S1470-
+patients with advanced non-small-cell lung cancer: TCOG0701
+2045(13)70490-X

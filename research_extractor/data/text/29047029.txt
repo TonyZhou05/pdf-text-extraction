@@ -1,0 +1,796 @@
+Source: 29047029.pdf
+Extracted on: Sat Sep 13 00:02:22 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Published in final edited form as:
+Invest New Drugs. 2018 June ; 36(3): 416–423. doi:10.1007/s10637-017-0513-5.
+Phase I study of the combination of crizotinib (as a MET
+inhibitor) and dasatinib (as a c-SRC inhibitor) in patients with
+advanced cancer
+Shumei Kato1, Denis L. Jardim1, Faye M. Johnson2,3, Vivek Subbiah1, Sarina Piha-Paul1,
+Apostolia M. Tsimberidou1, Gerald S. Falchook1, Daniel Karp1, Ralph Zinner1, Jennifer
+Wheler1, Filip Janku1, Siqing Fu1, JoAnn Lim1, Stacie Bean1, Ly Nguyen1, Susan Urban1,
+Elsa Browne1, Funda Meric-Bernstam1, and David S. Hong1
+1Department of Investigational Cancer Therapeutics, The University of Texas MD Anderson
+Cancer Center, Houston, TX 77030, USA
+2Department of Thoracic/Head & Neck Medical Oncology, The University of Texas MD Anderson
+Cancer Center, Houston, TX 77030, USA
+3The University of Texas Graduate School of Biomedical Sciences, Houston, TX 77030, USA
+Abstract
+Background—Both MET and c-SRC are important mediators of cancer progression and there is
+cross talk between the two molecules. Preclinical studies have demonstrated combination of MET
+and c-SRC inhibitors is effective in multiple cancer types.
+Methods—We analyzed the safety and efficacy of administering a c-SRC inhibitor (dasatinib) in
+combination with a MET inhibitor (crizotinib) in a two-arm concurrent phase I study. Arm A
+consisted of crizotinib fixed at 250 mg twice per day with escalation of dasatinib. Arm B consisted
+of dasatinib fixed at 140 mg daily with escalation of crizotinib. Endpoints included dose-limiting
+toxicities (DLTs), recommended phase II dose (RP2D), and response (RECIST 1.1).
+Results—We enrolled 61 patients (arm A: 31, arm B: 30). The most common cancers were
+sarcoma (21%) and prostate cancer (16%). In Arm A, at dose level 2 (DL2), 40% (2/5)
+experienced DLTs. In the expanded DL1, 21% (4/19) experienced DLTs (all grade 3). In Arm B, at
+DL2, 50% (2/4) experienced DLTs. In the expanded DL1, 22% (4/18) experienced DLTs (all grade
+3). RP2D was determined to be arm A, DL1 (250 mg crizotinib orally twice per day plus 50 mg
+dasatinib orally daily). Partial response (N=1) and stable disease for ≥6 months (N=3) were seen.
+Corresponding author: David S. Hong, MD, Associate Professor, Deputy Chair, Department of Investigational Cancer Therapeutics,
+Clinical Medical Director of Clinical Center for Targeted Therapy, Division of Cancer Medicine, Unit 455, The University of Texas
+MD Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX 77030-3722, USA; dshong@mdanderson.org, Phone:
+713-563-5844, Fax: 713-563-0566.
+Compliance with Ethical Standards:
+Conflicts of interest: The authors have no conflicts of interest to report.
+Ethical approval: All procedures performed in studies involving human participants were in accordance with the ethical standards of
+the institutional committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.
+Informed consent: Informed consent was obtained from all individual participants included in the study.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Kato et al. Page 2
+Conclusions—The combination of crizotinib and dasatinib is safe to administer but tolerability
+is limited given the high rate of adverse events. Responses and durable stable disease were limited.
+Further precision therapy approach using this specific combination may be difficult given the
+toxicity.
+Keywords
+Crizotinib; dasatinib; phase I; safety; MET; c-Src
+INTRODUCTION
+MET is a receptor tyrosine kinase that is activated by binding with its ligand, hepatocyte
+growth factor/scatter factor (HGF/SF) (1). Various carcinomas overexpress MET, and the
+surrounding stroma overexpresses HGF/SF (1). MET activation leads to modification of
+multiple signaling pathways, including c-SRC, RAS-MAPK, and PI3K-AKT, regulating
+cancer proliferation, invasion, and metastasis (1). Amplification or activation of MET has
+also been associated with resistance to anti-EGFR therapy in EGFR-mutated lung cancer (2)
+and anti-BRAF therapy in BRAF V600-mutated melanoma and colon cancer (3,4). Thus,
+MET has been an attractive target in cancer therapeutics (1), and multiple small-molecule
+inhibitors and antibodies against HGF and MET are in clinical development (5).
+Although MET has been a target of interest, clinical trials targeting the HGF-MET axis have
+not been successful even when a combination approach was used (6). One example is a
+phase III randomized study of erlotinib in combination with onartuzumab (an anti-MET
+monoclonal antibody) or placebo among patients with previously treated advanced MET-
+positive non-small cell lung cancer. That study did not demonstrate clinical benefit when
+onartuzumab was added to erlotinib (for onartuzumab plus erlotinib compared with placebo
+plus erlotinib, median progression-free survival duration of 2.7 months compared with 2.6
+months [p = 0.92] and response rate of 8.4% compared with 9.6% [p = 0.63]) (7).
+The unsuccessful clinical outcomes of MET inhibition could be due to an underlying
+resistance mechanism. One resistance mechanism from MET inhibition involves interaction
+with c-SRC. A preclinical study demonstrated that the downstream effects of MET
+activation by its ligand, HGF, require activation of c-SRC, which leads to interactions among
+key oncogenic pathways, such as RAS-MAPK and PI3K-AKT (8). In head and neck
+squamous cell carcinoma (HNSCC) cell lines, sustained MET activation following c-SRC
+inhibition led to resistance to c-SRC inhibition. The combination of c-SRC and MET
+inhibitors was synergistic and caused apoptosis in HNSCC cell lines in vitro and decreased
+tumor size in vivo (9). Another preclinical study using glioblastoma multiforme cell lines
+showed that among combinations of 12 different tyrosine kinase inhibitors, crizotinib plus
+dasatinib demonstrated the most cytotoxic combination regimen (10).
+Thus, targeting the MET and c-SRC pathways may be effective combination approach to
+control cancer. Given the supporting preclinical evidence (8,9), we have initiated the first
+inhuman attempt to determine the safety of administering the combination of crizotinib
+(multikinase inhibitor including MET) and dasatinib (multikinase inhibitor including c-SRC)
+in patients with solid tumors (NCT01744652). The primary endpoint of this phase I trial was
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Kato et al. Page 3
+to determine dose-limiting toxicities (DLTs) and the recommended phase II dose (RP2D) of
+this two-drug combination. A secondary endpoint was to investigate the antitumor effects of
+this combination.
+PATIENTS AND METHODS
+Patients
+Patients were eligible for the study when they had a pathologically confirmed solid
+malignancy that was metastatic or unresectable and for which standard curative or palliative
+measures that improve survival by at least three months did not exist. Other eligibility
+criteria were as follows: age ≥16 years, Eastern Cooperative Oncology Group performance
+status of 0 to 2, absolute neutrophil count ≥1,000/μL, platelet count ≥75,000/μL, total
+bilirubin ≤2.0 mg/dL, and aspartate aminotransferase/alanine aminotransferase ≤2.5× upper
+limit of normal (if liver metastasis was present, then ≤5.0× upper limit of normal). Patients
+were excluded if they were receiving any concurrent chemotherapy or experiencing any
+severe or uncontrolled medical disease (e.g., active infection, cardiovascular issues),
+symptomatic congestive heart failure (New York Heart Association class III or IV) or
+unstable angina pectoris, known pulmonary hypertension, or inability to swallow oral
+medication. Patient had been off previous investigational or cytotoxic therapies for at least 3
+weeks or within 5 half-lives of biological targeted agents.
+This study was approved by the institutional review board at The University of Texas MD
+Anderson Cancer Center, Houston, TX and written informed consent was obtained from all
+patients (NCT01744652).
+Study design
+This was a two arm Phase I study utilizing modified “3+3” design. One arm (Arm A)
+received crizotinib 250mg PO twice a day plus an increasing dose of dasatinib. The other
+arm (Arm B) received dasatinib 140mg PO daily plus an increasing dose of crizotinib. Both
+arms followed a standard 3+3 phase I dose escalation design. In short, three patients were
+treated at first dose level and evaluated for toxicity. If none of the patient experience DLT,
+the next cohort of three patients were treated at the next higher dose level. If one of three
+patients treated at a dose experiences DLT, then that cohort was expanded to a total of six
+patients. If the incidence of DLT among those six patients is one in six, then the next cohort
+was treated at the next higher dose level. If two or more of six patients treated at a dose level
+experience DLT, then the maximum tolerated dose (MTD) was considered to have been
+exceeded. In the case that both arms defined the same dose level as the MTD, then the
+patient enrollment was expanded to further assess the MTD. DLT was defined as having any
+clinically grade 3 or 4 non-hematologic toxicity and grade 4 neutropenia or
+thrombocytopenia lasting at least 1 week or longer. The expansion cohort helped further
+define the RP2D. The arm with the least percentage of DLTs defined the final RP2D of the
+combination to be used.
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Kato et al. Page 4
+Response assessment
+Response and progression was evaluated using Response Evaluation Criteria in Solid
+Tumors (RECIST) guideline version 1.1 every 8 weeks (11). Changes in the largest diameter
+(unidimensional measurement) of the tumor lesions and the shortest diameter in the case of
+malignant lymph nodes were used in the RECIST criteria.
+Statistical analysis
+Descriptive statistics were used to summarize demographic information, such as age and
+sex, as well as toxic effects and treatment outcomes.
+RESULTS
+Patient characteristics
+The baseline clinical and demographic characteristics of patients enrolled in the study are
+summarized in Table 1. Overall, 61 patients with advanced cancer were enrolled, including
+31 patients in arm A (250 mg of crizotinib by mouth twice per day with dasatinib dose
+escalation) and 30 patients in arm B (140 mg of dasatinib by mouth daily with crizotinib
+dose escalation). Among the 61 patients enrolled, 18 (30%) were female and the median age
+was 58 years (range 16–76 years). Most patients (49/61; 80%) had an Eastern Cooperative
+Oncology Group performance status of 1. Patients were heavily treated with prior systemic
+therapy; the median number of prior therapies was four regimens (range 0–11) in arm A and
+three (range 1–7) in arm B. Among the 61 patients enrolled, the most common diagnosis
+was sarcoma (13/61; 21%), followed by prostate cancer (10/61; 16%) and colorectal cancer
+(5/61; 8%). However, all patients with prostate cancer were enrolled in arm A (Table 1).
+Exposure to study treatment
+Among patients enrolled in arm A, all 31 patients received at least one dose of therapy.
+However, seven patients were considered not evaluable for toxicity because they were not
+able to receive more than 85% of the prescribed dose during the first treatment cycle.
+Reasons for not being able to administer the drugs as prescribed without interruptions
+included grade 2 anorexia, grade 2 nausea, and grade 2 fatigue, among others
+(Supplementary Table 1). In addition, one patient missed excessive doses owing to
+hospitalization for possible ureteral obstruction from the underlying cancer, and another
+patient fell, which led to cerebral hemorrhage and subsequently death not related to the
+study (Supplementary Table 1).
+Among patients enrolled in arm B, all 30 patients received at least one dose of therapy.
+However, eight patients were not evaluable in the DLT assessment because they were not
+able to receive more than 85% of the prescribed dose during the first treatment cycle.
+Reasons for this included tumor progression during the first cycle, development of
+pneumonia, grade 2 nausea and vomiting, hospitalization for acute renal failure, respiratory
+failure, and others (Supplementary Table 1).
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Kato et al. Page 5
+Toxicity
+All patients who received at least one dose of crizotinib and dasatinib were included in the
+toxicity analysis. Among the 31 patients enrolled in arm A, 29 (94%) had drug-related
+adverse events, and 15 (48%) experienced grade 3 adverse events (Table 2). The most
+common drug-related adverse events of any grade were diarrhea (19/31; 61%) and nausea
+(18/31; 58%), followed by fatigue (15/31; 48%), vomiting (12/31; 39%), and anorexia (9/31;
+29%). Among grade 3 drug-related adverse events, gastrointestinal-related adverse events
+were commonly seen (diarrhea: 5/31, 16%; vomiting: 4/31, 13%; and nausea: 3/31, 10%;
+Table 2). There were no grade 4 adverse events.
+Among the 30 patients enrolled in arm B, 29 (97%) had drug-related adverse events, and 11
+(37%) experienced grade 3 adverse events (Table 2). The most common drug-related adverse
+event of any grade was fatigue (16/30; 53%), followed by nausea (13/30; 43%) and diarrhea
+(11/30; 37%). Among grade 3 drug-related adverse events, fatigue and dyspnea each
+occurred in three patients (10%; Table 2).
+Dose-limiting toxicities
+In arm A, 24 patients were enrolled in DL1 (250 mg crizotinib twice per day plus 50 mg
+dasatinib daily) between both the dose escalation and the expansion cohort and seven
+patients were enrolled in DL2 (250 mg crizotinib twice per day plus 70 mg dasatinib daily)
+during the dose escalation. However, as previously mentioned, five patients in DL1 and two
+patients in DL2 were not evaluable for DLT assessment because they were not able to
+receive more than 85% of the prescribed dose during the first cycle of intervention
+(Supplementary Table 1). In arm A, DL1, DLTs were observed in four of the 19 evaluable
+patients (21%), including grade 3 nausea and grade 3 vomiting in two patients each and
+esophageal pain, fatigue, diarrhea, and hematemesis (all grade 3) in one patient each. During
+DL2, DLTs were observed in two of the five evaluable patients (40%), including
+dehydration, infection, nausea, and vomiting (all grade 3) in one patient each (Table 3).
+In arm B, 23 patients were enrolled in DL1 (140 mg dasatinib daily plus 250 mg crizotinib
+every other day) between both the dose escalation and the expansion cohort and seven
+patients were enrolled in DL2 (140 mg dasatinib daily plus 200 mg crizotinib daily) during
+the dose escalation. However, as previously mentioned, five patients in DL1 and three
+patients in DL2 were not evaluable for DLT assessment because they were not able to
+receive more than 85% of the prescribed dose during the first cycle of intervention
+(Supplementary Table 1). In arm B, DL1, DLTs were observed in four of the 18 evaluable
+patients (22%), including grade 3 fatigue in two patients and creatinine increase, nausea, and
+hyponatremia (all grade 3) in one patient each. Among patients enrolled in DL2, DLTs were
+observed in two of the four evaluable patients (50%), including creatinine increase, fatigue,
+and anorexia (all grade 3) in one patient each (Table 4).
+Therefore, the RP2D dose was determined to be 250 mg crizotinib by mouth twice per day
+plus 50 mg dasatinib by mouth daily.
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Kato et al. Page 6
+Antitumor efficacy
+Among the 31 patients enrolled in arm A, one patient with prostate cancer had a partial
+response (−34%) at DL1; however, owing to grade 2 intolerable drug-related adverse events
+(fatigue, anorexia, creatinine increase, and transaminitis), the patient was removed from the
+study 1.1 months after the initiation of therapy. Targeted molecular profiling (46-gene panel)
+did not reveal an underlying genomic alteration. One patient with lung adenocarcinoma had
+stable disease (−13%) for 10.1 months (Figure 1a). Genomic profiling through next-
+generation sequencing did not reveal MET alteration; however, the patient harbored other
+alterations, including RET L730I, EGFR 3115-1G>T, TP53 E221*, FGFR2 K292M, and
+PDGFRB P123H.
+Among the 30 patients enrolled in arm B, no patient experienced a partial response.
+However, two patients had durable stable disease for more than 6 months (Figure 1b). One
+patient with clear cell sarcoma had 7.3 months of stable disease (+6%; no molecular
+profiling done) and another patient with melanoma had prolonged stable disease (−17%,
+41.4+ months; molecular profiling negative for alterations).
+DISCUSSION
+The primary endpoint of this phase I trial was to determine the RP2D for the combination of
+crizotinib and dasatinib. Our results indicated that arm A, DL1 (250 mg of crizotinib by
+mouth twice per day plus 50 mg of dasatinib by mouth daily) had a slightly better toxicity
+profile (DLTs observed in four of 19 patients [21%]) than arm B, DL1 (250 mg of crizotinib
+by mouth every other day plus 140 mg of dasatinib by mouth daily), in which DLTs were
+observed in four of 18 patients (22%). Thus, arm A, DL1 was determined to be the RP2D.
+Unfortunately, more than 90% of patients in the study experienced drug-related adverse
+events and 37–48% of patients experienced grade 3 adverse events (Table 2). Despite
+maximum supportive measures, the most common drug-related adverse events were
+gastrointestinal (diarrhea: 37–61%, nausea 43–58%, vomiting: 30–39%, anorexia: 29–30%;
+Table 2). Moreover, 15 patients (between arms A and B) were not included in DLT
+assessment because they were not able to receive more than 85% of the prescribed dose
+during the first cycle of intervention and were thus determined not to be evaluable in the
+DLT assessment (Supplementary Table 1). The most common reason for not being able to
+complete the first cycle of therapy was gastrointestinal adverse events, which occurred in 8
+of the 15 patients who were not evaluable in the DLT assessment (53%; Supplementary
+Table 1). DLTs included dehydration, infection, nausea, and vomiting in arm A and
+creatinine increase, fatigue, nausea, and anorexia in arm B. A recent meta-analysis that
+evaluated the dosing of two targeted drugs in clinical trials showed that when there is no
+overlapping target, the combination of targeted drugs could be administered at the full dose
+in more than half of the trials (12). However, predicting the toxicity may be challenging
+since dasatinib is known to have broad kinase target (39 proteins) (13). Thus dasatinib most
+likely had overlapping target(s) with crizotinib which may explain the poor tolerability of
+the combination seen in current report.
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Kato et al. Page 7
+The secondary endpoint of the current study was to investigate the antitumor effects of the
+combination of crizotinib and dasatinib. As seen in Figure 1, among the 61 patients enrolled
+in the study (31 in arm A and 30 in arm B), one patient achieved a partial response (−34% in
+a patient with prostate cancer, although the patient was removed from the study after 1.1
+months owing to drug-related adverse events) and three patients achieved stable disease for
+more than 6 months (−13% in a patient with lung adenocarcinoma for 10.1 months, +6% in
+a patient with clear cell sarcoma for 7.3 months, and −17% in a patient with melanoma for
+41.4+ months). Part of the reason for the low response rate could be that we did not select
+the patients on the basis of their molecular profiling results such as MET alteration that
+predicts response to crizotinib or kinase-inactivating BRAF mutations that confer sensitivity
+to dasatinib (14,15) (a total of three patients with known MET aberrations were enrolled;
+Table 1). This is consistent with a recent review (evaluation of 346 published clinical trials)
+showing that the overall response rate from targeted therapy was 5.1% when a biomarker
+was not used for patient selection, whereas the response rate was 42.0% when patients were
+selected on the basis of a genomic biomarker (16). Additionally, because c-SRC has been
+known to be one of the resistance mechanisms from MET inhibition (8), the combination of
+crizotinib and dasatinib may need to be administered in selected patients whose tumor
+previously progressed after treatment with a MET inhibitor. However, we were not able to
+enroll such patients to test our hypothesis. The other potential reason for the low response
+rate may be the poor tolerability of the combination (Table 2 and Supplementary Table 1).
+For future development of this combination regimen or a regimen with a similar mechanism
+of action, researchers should consider current data when determining the dose.
+The current study had a few limitations. First, the patients were heterogeneous; they had
+multiple tumor types and had received various prior therapies. Second, we did not select the
+patients who harbored aberrations that could be targeted with crizotinib or dasatinib.
+Preferably, all patients should undergo next-generation sequencing or proteomics analysis to
+identify the target of interest. For example, the patient with lung adenocarcinoma who
+achieved stable disease (−13%) for 10.1 months had a PDGFRB P123H alteration, which
+was potentially targeted with dasatinib (targets PDGFRB; Figure 1a).
+In summary, the combination of crizotinib and dasatinib among patients with advanced
+cancer was feasible at the RP2D of 250 mg of crizotinib twice daily and 50 mg of dasatinib
+daily. However, to our surprise, most patients experienced drug-related adverse events,
+notably in the form of gastrointestinal adverse events, and the overall tolerability of the
+combination was limited. Thus, further development of this combination may be limited.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+Funding: There is no funding to disclose.
+We thank Erica Goodoff from Department of Scientific Publications, The University of Texas MD Anderson Cancer
+Center, Houston, TX for reviewing the manuscript.
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Kato et al. Page 8
+References
+1. Gherardi E, Birchmeier W, Birchmeier C, Vande Woude G. Targeting MET in cancer: rationale and
+progress. Nat Rev Cancer. 2012; 12(2):89–103. DOI: 10.1038/nrc3205 [PubMed: 22270953]
+2. Engelman JA, Zejnullahu K, Mitsudomi T, Song Y, Hyland C, Park JO, et al. MET amplification
+leads to gefitinib resistance in lung cancer by activating ERBB3 signaling. Science. 2007;
+316(5827):1039–43. DOI: 10.1126/science.1141478 [PubMed: 17463250]
+3. Pietrantonio F, Oddo D, Gloghini A, Valtorta E, Berenato R, Barault L, et al. MET-Driven
+Resistance to Dual EGFR and BRAF Blockade May Be Overcome by Switching from EGFR to
+MET Inhibition in BRAF-Mutated Colorectal Cancer. Cancer Discov. 2016; 6(9):963–71. DOI:
+10.1158/2159-8290.CD-16-0297 [PubMed: 27325282]
+4. Straussman R, Morikawa T, Shee K, Barzily-Rokni M, Qian ZR, Du J, et al. Tumour micro-
+environment elicits innate resistance to RAF inhibitors through HGF secretion. Nature. 2012;
+487(7408):500–4. DOI: 10.1038/nature11183 [PubMed: 22763439]
+5. Garajova I, Giovannetti E, Biasco G, Peters GJ. c-Met as a Target for Personalized Therapy. Transl
+Oncogenomics. 2015; 7(Suppl 1):13–31. DOI: 10.4137/TOG.S30534 [PubMed: 26628860]
+6. Blumenschein GR Jr, Mills GB, Gonzalez-Angulo AM. Targeting the hepatocyte growth factor-
+cMET axis in cancer therapy. J Clin Oncol. 2012; 30(26):3287–96. DOI: 10.1200/JCO.
+2011.40.3774 [PubMed: 22869872]
+7. Spigel DR, Edelman MJ, O’Byrne K, Paz-Ares L, Shames DS, Yu W, et al. Onartuzumab plus
+erlotinib versus erlotinib in previously treated stage IIIb or IV NSCLC: Results from the pivotal
+phase III randomized, multicenter, placebo-controlled METLung (OAM4971g) global trial.
+2014:8000.
+8. Singhal E, Sen P. Hepatocyte growth factor-induced c-Src-phosphatidylinositol 3-kinase-AKT-
+mammalian target of rapamycin pathway inhibits dendritic cell activation by blocking IkappaB
+kinase activity. Int J Biochem Cell Biol. 2011; 43(8):1134–46. DOI: 10.1016/j.biocel.2011.04.006
+[PubMed: 21536148]
+9. Sen B, Peng S, Saigal B, Williams MD, Johnson FM. Distinct interactions between c-Src and c-Met
+in mediating resistance to c-Src inhibition in head and neck cancer. Clin Cancer Res. 2011; 17(3):
+514–24. DOI: 10.1158/1078-0432.CCR-10-1617 [PubMed: 21106725]
+10. Nehoff H, Parayath NN, McConnell MJ, Taurin S, Greish K. A combination of tyrosine kinase
+inhibitors, crizotinib and dasatinib for the treatment of glioblastoma multiforme. Oncotarget. 2015;
+6(35):37948–64. DOI: 10.18632/oncotarget.5698 [PubMed: 26517812]
+11. Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent D, Ford R, et al. New response
+evaluation criteria in solid tumours: revised RECIST guideline (version 1. 1). Eur J Cancer. 2009;
+45(2):228–47. DOI: 10.1016/j.ejca.2008.10.026 [PubMed: 19097774]
+12. Liu S, Nikanjam M, Kurzrock R. Dosing de novo combinations of two targeted drugs: Towards a
+customized precision medicine approach to advanced cancers. Oncotarget. 2016; 7(10):11310–20.
+DOI: 10.18632/oncotarget.7023 [PubMed: 26824502]
+13. Bantscheff M, Eberhard D, Abraham Y, Bastuck S, Boesche M, Hobson S, et al. Quantitative
+chemical proteomics reveals mechanisms of action of clinical ABL kinase inhibitors. Nat
+Biotechnol. 2007; 25(9):1035–44. DOI: 10.1038/nbt1328 [PubMed: 17721511]
+14. Peng S, Sen B, Mazumdar T, Byers LA, Diao L, Wang J, et al. Dasatinib induces DNA damage and
+activates DNA repair pathways leading to senescence in non-small cell lung cancer cell lines with
+kinase-inactivating BRAF mutations. Oncotarget. 2016; 7(1):565–79. DOI: 10.18632/oncotarget.
+6376 [PubMed: 26623721]
+15. Sen B, Peng S, Tang X, Erickson HS, Galindo H, Mazumdar T, et al. Kinase-impaired BRAF
+mutations in lung cancer confer sensitivity to dasatinib. Sci Transl Med. 2012; 4(136):136ra70.doi:
+10.1126/scitranslmed.3003513
+16. Schwaederle M, Zhao M, Lee JJ, Lazar V, Leyland-Jones B, Schilsky RL, et al. Association of
+Biomarker-Based Treatment Strategies With Response Rates and Progression-Free Survival in
+Refractory Malignant Neoplasms: A Meta-analysis. JAMA Oncol. 2016; 2(11):1452–9. DOI:
+10.1001/jamaoncol.2016.2129 [PubMed: 27273579]
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Kato et al. Page 9
+Fig. 1.
+Swimmer plots showing clinical outcomes. (a) Clinical outcomes among patients enrolled in
+arm A (n = 31). One patient with prostate cancer achieved a partial response (PR; −34%);
+however, the patient was removed from the study after 1.1 months owing to drug-related
+adverse events. One patient with lung adenocarcinoma achieved stable disease (SD; −13%)
+for 10.1 months. (b) Clinical outcomes among patients enrolled in arm B (n = 30). Two
+patients had durable SD, including one patient with melanoma (−17%, 41.4+ months) and
+one patient with clear cell sarcoma (+6%, 7.3 months). Abbreviations: PD, progressive
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Kato et al. Page 10
+disease; SCC, squamous cell carcinoma; FISH, fluorescence in situ hybridization; IHC,
+immunohistochemistry.
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kato et al. Page 11
+Table 1
+Baseline demographic and clinical characteristics.
+No. (%)
+Characteristic Arm A, n = 31 Arm B, n = 30 Total, n = 61
+Median age (range) 59 years (28–76 years) 56 years (16–74 years) 58 years (16–76 years)
+Sex
+Female 9 (29) 9 (30) 18 (30)
+Male 22 (71) 21 (70) 43 (70)
+ECOGa performance status
+0 4 (13) 6 (20) 10 (16)
+1 26 (84) 23 (77) 49 (80)
+2 1 (3) 1 (3) 2 (3)
+Diagnosis
+Sarcomab 6 (19) 7 (23) 13 (21)
+Prostate cancer 10 (32) 0 10 (16)
+Colorectal cancer 2 (6) 3 (10) 5 (8)
+Lung adenocarcinoma 1 (3) 2 (7) 3 (5)
+Pancreatic adenocarcinoma 2 (6) 1 (3) 3 (5)
+Renal cell carcinoma 0 3 (10) 3 (5)
+Adenoid cystic carcinoma 1 (3) 1 (3) 2 (3)
+Gastrointestinal stromal tumor 1 (3) 1 (3) 2 (3)
+Head and neck squamous cell carcinoma 1 (3) 1 (3) 2 (3)
+Hepatocellular carcinoma 1 (3) 1 (3) 2 (3)
+Melanoma 1 (3) 1 (3) 2 (3)
+Esophageal cancer 0 (0) 2 (7) 2 (3)
+Cervical cancer 0 (0) 2 (7) 2 (3)
+Desmoid tumor 1 (3) 0 (0) 1 (2)
+Fallopian tube carcinoma 1 (3) 0 (0) 1 (2)
+Ovarian granulosa cell tumor 1 (3) 0 (0) 1 (2)
+Thymic carcinoma 1 (3) 0 (0) 1 (2)
+Uterine cancer 1 (3) 0 (0) 1 (2)
+Breast cancer 0 (0) 1 (3) 1 (2)
+Gastroesophageal junction cancer 0 (0) 1 (3) 1 (2)
+Glioblastoma 0 (0) 1 (3) 1 (2)
+Small cell lung cancer 0 (0) 1 (3) 1 (2)
+Small bowel adenocarcinoma 0 (0) 1 (3) 1 (2)
+Median no. of prior therapies (range) 4 (0–11) 3 (1–7) 3 (0–11)
+MET aberration status
+Tested using FISH or IHC 4 (13) 4 (13) 8 (13)
+Positive for MET amplification or overexpression 1 (3), IHC 1 (3), IHC and FISH 2 (3)
+Tested for targeted sequencing, including MET 28 (90) 22 (73) 50 (82)
+MET M362T 0 (0) 1 (3) 1 (2)
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+
+--- Page 12 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kato et al. Page 12
+a
+Abbreviations: ECOG, Eastern Cooperative Oncology Group; FISH, fluorescence in situ hybridization; IHC, immunohistochemistry.
+b
+Sarcoma diagnoses included clear cell sarcoma (n = 4), chondrosarcoma (n = 2), and n = 1 each for clear cell sarcoma, uterine carcinosarcoma,
+pleomorphic sarcoma, osteosarcoma, liposarcoma, Ewing sarcoma, and pleomorphic fibromyxoid spindle cell sarcoma.
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+
+--- Page 13 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kato et al. Page 13
+Table 2
+Drug-related adverse events in each arm.a
+No. (%)
+Adverse event Any grade Grade 3
+Arm A, n = 31
+Any drug-related adverse event 29 (94) 15 (48)
+Diarrhea 19 (61) 5 (16)
+Nausea 18 (58) 3 (10)
+Fatigue 15 (48) 2 (6)
+Vomiting 12 (39) 4 (13)
+Anorexia 9 (29) 2 (6)
+Edema in limbs 5 (16) 1 (3)
+Transaminitis 5 (16) 0 (0)
+Dysgeusia 4 (13) 0 (0)
+Anemia 3 (10) 0 (0)
+Creatinine increase 3 (10) 2 (6)
+Rash 3 (10) 1 (3)
+Abdominal pain 2 (6) 2 (6)
+Blurred vision 2 (6) 1 (3)
+Constipation 2 (6) 0 (0)
+Dyspnea 2 (6) 1 (3)
+Hypercalcemia 2 (6) 1 (3)
+Leukopenia 2 (6) 0 (0)
+Light sensitivity 2 (6) 0 (0)
+Arm B, n = 30
+Any drug-related adverse event 29 (97) 11 (37)
+Fatigue 16 (53) 3 (10)
+Nausea 13 (43) 1 (3)
+Diarrhea 11 (37) 0 (0)
+Anorexia 9 (30) 1 (3)
+Vomiting 9 (30) 1 (3)
+Dyspnea 6 (20) 3 (10)
+Anemia 4 (13) 0 (0)
+Constipation 4 (13) 0 (0)
+Creatinine increase 4 (13) 2 (7)
+Neuropathy 4 (13) 0 (0)
+Rash 4 (13) 0 (0)
+Thrombocytopenia 3 (10) 0 (0)
+Edema in limbs 2 (7) 0 (0)
+Headache 2 (7) 0 (0)
+Leukopenia 2 (7) 0 (0)
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+
+--- Page 14 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kato et al. Page 14
+a
+Adverse events of any grade that occurred in more than 5% of the arm. For drug-related adverse events that occurred in less than 5% of patients in
+each arm, see Supplementary Table 2. There were no grade 4 adverse events in either arm.
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kato et al. Page 15
+3
+elbaT
+.)13
+=
+n(
+A
+mra
+ni
+devresbo
+)sTLD(
+seiticixot
+gnitimil-esoD
+sliateD
+sTLD
+sTLD
+rof
+elbaulavE
+dellorne
+.on
+latoT
+binitasaD
+binitozirC
+level
+esoD
+3
+edarg
+,niap
+laegahpose
+3
+edarg
+;)2
+= n(
+gnitimov
+3
+edarg
+,)2
+=
+n(
+aesuan
+3
+edarG
+4
+91
+42
+yliad
+gm
+05
+yad
+rep
+eciwt
+htuom
+yb
+gm
+052
+1
+)hcae
+1
+=
+n(
+sisemetameh
+3 edarg
+,aehrraid
+3
+edarg
+,eugitaf
+)hcae
+1
+=
+n
+,3
+edarg
+lla(
+gnitimov
+,aesuan
+,noitcefni
+,noitardyheD
+2
+5
+7
+yliad
+gm
+07
+yad
+rep
+eciwt
+htuom
+yb
+gm
+052
+2
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Kato et al. Page 16
+4
+elbaT
+.)03
+=
+n(
+B
+mra
+ni
+)sTLD(
+seiticixot
+gnitimil-esoD
+sliateD
+sTLD
+sTLD
+rof
+elbaulavE
+dellorne
+.on
+latoT
+binitozirC
+binitasaD
+level
+esoD
+=
+n(
+aesuan
+3
+edarg
+,)1
+=
+n(
+esaercni
+eninitaerc
+3
+edarg
+,)2
+=
+n(
+eugitaf
+3
+edarG
+4
+81
+32
+yad
+rehto
+yreve
+gm
+052
+yliad
+htuom
+yb
+gm
+041
+1
+)1
+=
+n(
+aimertanopyh
+3
+edarg
+,)1
+)hcae
+1
+=
+n
+,3
+edarg
+lla(
+aixerona
+,eugitaf
+,esaercni
+eninitaerC
+2
+4
+7
+yliad
+gm
+002
+yliad
+htuom
+yb
+gm
+041
+2
+Invest New Drugs. Author manuscript; available in PMC 2019 June 01.

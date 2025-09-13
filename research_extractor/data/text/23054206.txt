@@ -1,0 +1,1444 @@
+Source: 23054206.pdf
+Extracted on: Fri Sep 12 23:55:35 PDT 2025
+==================================================
+
+--- Page 1 ---
+HHS Public Access
+Author manuscript
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Published in final edited form as:
+Invest New Drugs. 2013 June ; 31(3): 714–723. doi:10.1007/s10637-012-9876-9.
+A phase 1 study of TRC102, an inhibitor of base excision repair,
+and pemetrexed in patients with advanced solid tumors
+Michael S. Gordon,
+Pinnacle Oncology Hematology, 9055 E. Del Camino, Suite 100, Scottsdale, AZ 85258, USA
+Lee S. Rosen,
+Los Angeles Division of Hematology-Oncology, University of California, Santa Monica, CA, USA
+David Mendelson,
+Pinnacle Oncology Hematology, 9055 E. Del Camino, Suite 100, Scottsdale, AZ 85258, USA
+Ramesh K. Ramanathan,
+Virginia G. Piper Cancer Center Clinical Trials at Scottsdale, Healthcare (VGPCC)/TGen,
+Scottsdale, AZ, USA
+Jonathan Goldman,
+Los Angeles Division of Hematology-Oncology, University of California, Santa Monica, CA, USA
+Lili Liu,
+Seidman Cancer Center, University Hospitals Case Medical Center, Cleveland, OH, USA
+Case Comprehensive Cancer Center, Case Western Reserve University, Cleveland, OH, USA
+Yan Xu,
+Seidman Cancer Center, University Hospitals Case Medical Center, Cleveland, OH, USA
+Case Comprehensive Cancer Center, Case Western Reserve University, Cleveland, OH, USA
+Stanton L. Gerson,
+Seidman Cancer Center, University Hospitals Case Medical Center, Cleveland, OH, USA
+Case Comprehensive Cancer Center, Case Western Reserve University, Cleveland, OH, USA
+Stephen P. Anthony,
+Evergreen Hematology & Oncology, Spokane, WA, USA
+William D. Figg,
+SAIC-Frederick, Inc., Center for Cancer Research, Frederick National Laboratory for Cancer
+Research, and Medical Oncology Branch, National Cancer Institute, NIH, Frederick, MD, USA
+Shawn Spencer,
+mgordon@azpoh.com.
+Presented in part at the following conferences 2009 ASCO Annual Meeting, Orlando, FL; 2010 AACR-IASLC Joint Conference on
+the Molecular Origins of Lung Cancer, Coronado, CA; 2010 IASLC Targeted Therapies for Lung Cancer Meeting, Santa Monica, CA;
+2010 ASCO Annual Meeting, Chicago, IL
+Trial registry number
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 2 ---
+Gordon et al. Page 2
+SAIC-Frederick, Inc., Center for Cancer Research, Frederick National Laboratory for Cancer
+Research, and Medical Oncology Branch, National Cancer Institute, NIH, Frederick, MD, USA
+Bonne J. Adams,
+TRACON Pharmaceuticals, San Diego, CA, USA
+Charles P. Theuer,
+TRACON Pharmaceuticals, San Diego, CA, USA
+Bryan R. Leigh,
+TRACON Pharmaceuticals, San Diego, CA, USA
+Glen J. Weiss
+Virginia G. Piper Cancer Center Clinical Trials at Scottsdale, Healthcare (VGPCC)/TGen,
+Scottsdale, AZ, USA
+Summary
+Introduction—TRC102 potentiates the activity of cancer therapies that induce base excision
+repair (BER) including antimetabolite and alkylating agents. TRC102 rapidly and covalently binds
+to apurinic/apyrimidinic (AP) sites generated during BER, and TRC102-bound DNA causes
+topoisomerase II-dependent irreversible strand breaks and apoptosis. This study assessed the
+safety, maximum-tolerated dose (MTD), pharmacokinetics and pharmacodynamics of TRC102
+alone and in combination with pemetrexed.
+Purpose—Patients with advanced solid tumors received oral TRC102 daily for 4 days. Two
+weeks later, patients began standard-dose pemetrexed on day 1 in combination with oral TRC102
+on days 1 to 4. The pemetrexed-TRC102 combination was repeated every 3 weeks until disease
+progression.
+Methods—Twenty-eight patients were treated with TRC102 at 15, 30, 60 or 100 mg/m2/d. The
+MTD was exceeded at 100 mg/m2/d due to grade 3 anemia in 50 % of patients. TRC102 exposure
+increased in proportion to dose with a mean t of 28 h. A pharmacodynamic assay confirmed that
+1/2
+TRC102 binds to pemetrexed-induced AP sites at all doses studied. Stable disease or better was
+achieved in 15 of 25 patients evaluable for response (60 %), including one patient with recurrent
+metastatic oropharyngeal carcinoma that expressed high levels of thymidylate synthase, who
+achieved a partial response and was progression free for 14 months.
+Conclusions—When administered with pemetrexed, the maximum tolerated dose of oral
+TRC102 is 60 mg/m2/d for 4 days. Randomized controlled studies are planned to evaluate the
+clinical benefit of adding TRC102 to pemetrexed and other agents that induce BER.
+Keywords
+TRC102; Base excision repair; Methoxyamine; Pemetrexed; First-in-human; Phase 1
+Introduction
+Base-excision repair (BER) is a fundamental cellular process employed by malignant cells to
+reduce the cytotoxicity of alkylating and antimetabolite chemotherapies. BER repairs
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 3 ---
+Gordon et al. Page 3
+individual DNA bases that have been damaged directly through alkylation as well as
+abnormal bases incorporated into DNA by the action of antimetabolite agents. Inhibition of
+BER has been proposed as a way to improve the therapeutic index of these agents, although,
+heretofore, no inhibitors of BER have been tested in clinical trials.
+TRC102 (methoxyamine hydrochloride, TRACON Pharmaceuticals Inc.) is a small
+molecule inhibitor of BER with a unique mechanism of action that potentiates the activity of
+a wide variety of antimetabolite and alkylating agents in preclinical studies. [1–9] BER is a
+multiprotein pathway initiated by base-specific DNA glycosylases that generate common
+intermediates, apurinic and apyrimidinic (AP) sites, containing reactive aldehydes [10].
+TRC102 rapidly and covalently binds the reactive aldehyde within the AP sites, thereby
+interrupting the BER pathway. Furthermore, TRC102 bound DNA is a topoisomerase II
+poison, such that DNA cleavage occurs without religation. The resulting accumulation of
+DNA strand breaks then triggers cellular apoptosis [8]. The induction of apoptosis by
+TRC102 is relatively selective for cancer cells, as they typically overexpress topoisomerase
+II. In nonmalignant cells with low topoisomerase II expression, TRC102-bound DNA is
+excised and replaced by the long patch DNA repair system [11, 12]. The activity of TRC102
+is independent of tumor O6-methylguanine-DNA methyltransferase (MGMT) expression,
+DNA mismatch repair status, or p53 status and TRC102 potentiates the activity of other
+DNA repair inhibitors, including PARP inhibitors [1, 8–10, 13–15].
+Pemetrexed induces BER in response to uracil incorporation into DNA, which is removed by
+uracil glycosylase [4]. TRC102 binds resulting AP sites and acts as a topoisomerase II
+poison, causing DNA strand breaks and apoptosis as described above. In mice with human
+non-small cell lung cancer xenografts, TRC102 extended median tumor growth delay from 2
+days with pemetrexed alone to 9 days with the combination without added toxicity [16]. In
+repeat-dose toxicity studies, TRC102 caused anemia by extravascular red cell lysis (i.e.,
+through splenic sequestration of erythrocytes) at a dose 10-fold higher than that required for
+activity. The anemia was reversible, not cumulative or severe and unaffected by
+coadministration of pemetrexed. (TRACON Pharmaceuticals, unpublished data).
+This phase I study evaluated the maximum tolerated dose (MTD), safety profile,
+pharmacokinetics, and pharmacodynamics of TRC102 alone and in combination with
+standard-dose pemetrexed in patients with advanced cancer.
+Patients and methods
+Patient eligibility
+Eligible patients had histologically proven advanced or metastatic solid cancer for which
+curative therapy was unavailable, an Eastern Cooperative Oncology Group performance
+status of 0 or 1, and adequate organ function as demonstrated by an absolute neutrophil
+count ≥1,500 cells/μL, hemoglobin ≥10 g/dL, platelets ≥100,000/μL, prothrombin time or
+international normalized ratio ≤1.5 times the institutional upper limit of normal (ULN),
+creatinine ≤1.5 times the ULN, bilirubin ≤1.5 mg/dL, and aspartate and alanine
+transaminases ≤2.5 times the ULN (or ≤5 times the ULN in patients with liver metastases).
+Patients were excluded if they had a known history of central nervous system disease,
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 4 ---
+Gordon et al. Page 4
+thromboembolic disease, clinically significant malignant effusions, or had received cancer
+therapy within 4 weeks prior to study entry. Patients were also excluded if they had received
+prior high dose chemotherapy associated with stem cell rescue, had a known disorder
+associated with hemolysis, or were pregnant or lactating. All patients signed an institutional
+review board-approved informed consent form prior to undertaking study-related
+procedures. The study was conducted in accordance with the International Conference on
+Harmonization Good Clinical Practice (GCP) guidelines and all applicable local regulatory
+requirements and laws.
+Study design and treatments
+This was a multicenter open-label phase I study to evaluate the safety, maximum-tolerated
+dose, pharmacokinetics and pharmacodynamics of TRC102 dosed alone and in combination
+with pemetrexed (). TRC102 doses studied were 15, 30, 60, and 100 mg/m2/d. The starting
+dose was selected to be more than 10-fold lower than the dose that caused reversible anemia
+from extravascular hemolysis in the most sensitive preclinical species. The TRC102 dose
+was escalated in serial cohorts of patients using a standard 3+3 design. Dose-limiting
+toxicities were defined as any grade 3 nonhematologic adverse event, grade 3 anemia, grade
+4 thrombocytopenia, grade 4 febrile neutropenia or grade 4 neutropenia lasting five or more
+days. Adverse events occurring in cycles 1 and 2 were considered in determining the
+maximum tolerated dose (MTD). Patients who discontinued for reasons other than dose-
+limiting toxicity prior to completion of cycle 2 were replaced to ensure an adequate safety
+assessment of each cohort. The MTD was defined as the highest dose that had an observed
+incidence of dose-limiting toxicity of less than 33 % of patients per cohort. Intrapatient dose
+escalation was not permitted. Patients were allowed to dose reduce for adverse events that
+resolved to grade 1 or baseline and were allowed to interrupt TRC102 or pemetrexed dosing
+following the 5 week dose-limiting toxicity evaluation period.
+TRC102 is a small organic amine that is highly water soluble and nearly completely
+bioavailable after oral administration, and was supplied as a powder reconstituted in Crystal
+Light® lemonade by the study center pharmacist in single use bottles. In cycle 1, patients
+received daily oral TRC102 on days 1 to 4 of a 2-week cycle to allow for single-agent safety
+and pharmacokinetic analyses. In cycle 2 and beyond, patients received the same TRC102
+regimen on days 1 to 4 concurrently with the approved dose of intravenous pemetrexed (500
+mg/m2) on day 1 of 3-weekcycles. Patients were premedicated with vitamin B12 (1,000
+mcg), folic acid (400 ug) and dexamethasone (4 mg twice daily the day prior to and day of
+dosing) according to the Alimta® package insert (Eli Lilly and Company, Indianapolis, IN).
+On day 1 of cycle 3, the TRC102 dose was held to permit assessment of the
+pharmacodynamics of pemetrexed when administered in the absence of TRC102. The two
+drug combination was continued every 3 weeks until disease progression, unacceptable
+toxicity, or withdrawal of consent. Colony stimulating factors including darbepoietin and
+erythropoietin were permitted following cycle 2.
+Study assessments
+Safety was evaluated at regular intervals at baseline, during treatment, and for 28 days after
+completing study therapy. Vitals signs were recorded before and after every infusion and
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 5 ---
+Gordon et al. Page 5
+weekly thereafter. Physical examination was performed every 2 weeks. Hematology, serum
+chemistry and coagulation parameters were analyzed at baseline and weekly thereafter.
+Adverse events were graded using National Cancer Institute Common Terminology Criteria
+for Adverse Events, version 3.0.
+Pharmacokinetic evaluation
+Plasma for PK parameters were collected prior to dosing and 5, 15 and 30 min and 1, 2, 3, 4,
+6, 8 and 24 h following the first and fourth doses of TRC102 in cycle 1 and following
+concurrent dosing of TRC102 with pemetrexed on cycle 2 day 1. TRC102 and pemetrexed
+concentrations were determined using validated pharmacokinetic methods [13, 17].
+Pharmacokinetic properties including the maximum plasma concentration (C ), area
+max
+under the plasma concentration versus time curve to the time of the last measurable
+concentration (AUC ), and terminal elimination half-life (t ), were analyzed for TRC102
+last 1/2
+in each cohort using a non-compartmental model in Winnonlin v. 5.2.1. A separate
+population pharmacokinetic analysis was performed on pooled TRC102 from C1D1 and
+C1D4 using a nonlinear mixed-effect modeling approach to characterize both the variability
+in pharmacokinetic parameters, and potential covariates.
+Population pharmacokinetic analysis
+Parameters were estimated by maximum likelihood estimation (MLE) with linearization
+using the stochastic approximation expectation maximization (SAEM) algorithm combined
+with a MCMC (Markov Chain Monte Carlo) procedure, in the Monolix software [18, 19]. A
+correlation matrix of clearance (CL/F) against potential covariates was used to identify
+initial covariates (Cov) for model development. Final covariate selection was performed by a
+forward stepwise procedure, based on a significant change (p<0.05) in the log-likelihood.
+Other factors, such as parameter precision, general interpretability, and clinical relevance
+were also considered in selecting covariates. The Wald test and the Bayesian information
+criterion (BIC) were used to test different covariate hypotheses regarding the final model.
+For the goodness-of-fit, observed and predicted concentrations versus time, observed
+concentrations vs. population predictions, weighted residuals vs time and weighted residuals
+vs. predictions were evaluated. A proportional error model was used to describe the residual
+variability, and inter-individual variability (HV) was modeled with covariates as exponential
+terms according to Individual Parameter (P
+i
+)=Typical Value Population Parameter (θ) ×
+(Cov)β × eη,Pi, where β was the change in Ln(P i ) per unit change in Ln(Cov), and the IIV is
+reported as the standard deviation (ω) of η error.
+Pharmacodynamic analysis
+Peripheral blood mononuclear cells were collected before treatment with pemetrexed alone
+on cycle 3 day 1 and then at four and 24 h following treatment, and at the same time points
+before and after treatment with pemetrexed and TRC102 on cycle 2 day 1. The number of
+AP sites in peripheral blood mononuclear cells was measured using an aldehyde reactive
+probe from Dojindo Molecular Technologies, Inc. (Gaithersburg, MD) as previously
+described and normalized to the pre-dose value determined for each patient [8].
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 6 ---
+Gordon et al. Page 6
+Thymidylate synthase immunohistochemistry
+Archival tumor samples from selected patients were sent to Caris Life Sciences (Irving, TX)
+for thymidylate synthase (TS) immunohistochemistry. Formalin-fixed, paraffin embedded
+tumors were cut into 4 μm sections and mounted on poly-L-lysine-coated slides, processed
+for epitope retrieval, and stained with a mouse anti-thymidylate synthase cocktail from
+Invitrogen Corporation (Carlsbad, CA) and appropriate controls as previously described
+[20]. Staining intensity was calculated as 0 (none), +1 (weak), +2 (distinct), or +3 (very
+strong). A value designated as the HSCORE was obtained for each tumor by multiplying the
+staining intensity times the percentage of cells that stain at that intensity. An HSCORE ≥30
+was considered TS-positive based on survival correlations reported previously [21].
+Evaluation of tumor response
+Tumor response and progression were assessed using the original Response Evaluation
+Criteria in Solid Tumors (RECIST) [22]. Evaluations were performed at baseline, at the end
+of cycle 3 and then every two to three cycles or earlier if disease progression was suspected.
+Statistical analysis
+The safety population included all patients who received at least one dose of TRC102.
+Descriptive statistics (such as means, medians, standard deviations and ranges for
+continuous data and percentages for categorical data) were used to summarize patient
+characteristics, treatment administration, safety, efficacy, pharmacokinetic, and
+pharmacodynamic parameters.
+Results
+Patient characteristics and disposition
+Between June 2008 and December 2009, 28 patients with advanced or metastatic solid
+tumors were enrolled and treated with escalating doses of TRC102 at 15, 30, 60 or 100
+mg/m2 daily for days 1 through 4 of a 2 week cycle and then days 1 through 4 of a 3 week
+cycle in combination with 500 mg/m2 of pemetrexed on day 1. Baseline patient
+characteristics are summarized in Table 1. All patients enrolled received at least one dose of
+TRC102, and 25 of 28 completed the 5-week evaluation period for dose-limiting toxicity
+(DLT). Reasons for early withdrawal were unrelated adverse events in two patients
+(ischemic stroke and COPD exacerbation) and rapidly progressive disease in a patient with
+metastatic ovarian cancer. Twenty-six of 28 patients enrolled received at least two cycles of
+TRC102 (8 doses), 20 received at least three cycles (11 doses), 12 received at least four
+cycles (15 doses), and one patient at 30 mg/m2/d received 21 cycles (83 doses) of TRC102
+therapy.
+Safety and tolerability
+Dose escalation proceeded stepwise until the top dose of 100 mg/m2/d was reached. Four
+patients were enrolled in the 15 mg/m2/d cohort, as one patient developed a COPD
+exacerbation and received only three doses of TRC102, making him unevaluable for DLT.
+Expansion of the 30 mg/m2/d cohort was required per protocol due to the occurrence of
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 7 ---
+Gordon et al. Page 7
+grade 3 anemia during cycle 2 in a patient with metastatic prostate cancer whose hemoglobin
+decreased from 10.4 g/dL prior to dosing to 7.9 g/dL at cycle 2 day 8. This 81 year old man
+with castrate resistant and chemotherapy refractory prostate cancer and metastases to bone,
+liver and lymph nodes continued on a reduced dose of TRC102 of 15 mg/m2/d for five
+cycles prior to disease progression. One additional patient at this dose level was unevaulable
+due to the occurrence of an unrelated ischemic stroke prior to completion of the DLT
+evaluation period.
+The MTD of TRC102 was exceeded at 100 mg/m2/d due to DLT of grade 3 anemia in three
+of six patients (Table 2). All patients at this dose level developed grade 2 or 3 anemia, five of
+six patients required transfusion, and the one patient who was not transfused was treated
+with darbepoietin. Anemia was generally manifest by cycle 2 in these patients and four
+patients required dose reductions. One 47 year old woman with chemotherapy-refractory
+metastatic ovarian cancer dosed at 100 mg/m2/d developed grade 3 anemia during treatment
+with TRC102 alone in cycle 1 (hemoglobin decrease from 10.9 g/dL at screening 5 days
+prior to treatment, to 9.4 g/dL immediately prior to the initial TRC102 dose, to 7.6 g/dL 1
+week following dosing). The patient remained on study for 7 cycles following transfusion
+and dose reduction to 50 mg/m2/d prior to developing progressive disease.
+Following determination of the MTD at 60 mg/m2/d, eight additional patients were enrolled
+at this dose level to further assess safety. One 74 year old woman with chemotherapy-
+refractory metastatic uterine carcinoma developed grade 3 anemia in cycle 1 following
+dosing with TRC102 alone. This patient with chemotherapy-associated anemia was granted
+an exception to enter the study with a hemoglobin level slightly lower than 10.0 g/dL and
+developed a decrease in hemoglobin from 9.7 g/dL prior to dosing to 7.9 g/dL over 1 week,
+prompting transfusion. The patient remained anemic throughout treatment, developing grade
+4 anemia in cycle 4 that required further transfusion and she elected to discontinue
+treatment.
+Anemia was the only DLT reported and was not accompanied by significant
+thrombocytopenia or leukopenia. Anemia was characterized by an elevated reticulocyte
+production index and laboratory signs of extravascular hemolysis (decreased plasma
+haptoglobin and increased total bilirubin without hemoglobinuria) that were more frequent
+as the dose of TRC102 was escalated (Table 2). Additional laboratory and clinical
+evaluations excluded common causes of anemia including blood loss, plasma volume
+expansion, iron deficiency, and vitamin B-12 or folate deficiency. The severity of anemia
+generally did not increase as the number of treatment cycles accumulated and the anemia
+was reversible and manageable with standard supportive measures including growth factors
+and packed red cell transfusion. The frequency of red blood cell transfusions and growth
+factor support increased with TRC102 dose, as did the need for dose reduction (Table 2).
+Anemia was the only grade 3 or higher treatment-related adverse event noted following
+dosing with TRC102 alone in cycle 1, and treatment with TRC102 and pemetrexed in cycle
+2 and beyond resulted in infrequent episodes of mye-losuppression similar to that reported
+for pemetrexed alone (Table 3). Treatment-related nonhematologic adverse events were
+generally mild to moderate (Table 3). The only exceptions were one patient with grade 3
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 8 ---
+Gordon et al. Page 8
+fatigue and another with grade 3 diarrhea who received 100 mg/m2/d of TRC102 with
+pemetrexed.
+Pharmacokinetics
+TRC102 pharmacokinetic properties are presented in Table 4. The overall mean half life
+(t ) of 28 h was unchanged with increasing doses (p=0.875) or cycle, and the exposure
+1/2
+increased proportionally with dose (Fig. 1, AUC/Dose, ANOVA p=0.98). The target AUC
+was exceeded in all patients who received at least four doses of TRC102. Pharmacokinetic
+parameters were similar when TRC102 was administered without pemetrexed on cycle 1 day
+1 or with pemetrexed on cycle 2 day 1. TRC102 accumulated with daily dosing; the target
+C of 50 ng/mL for in vivo activity was achieved by the fourth daily dose in two of three
+max
+patients treated at 15 mg/m2/d and all patients receiving 30 mg/m2/d and higher doses. In
+addition, pemetrexed exposure analyzed following dosing in cycle 2 day 1 (with
+coadministration of TRC102) was similar to published exposures (Alimta® package insert
+(Eli Lilly and Company, Indianapolis, IN); data not shown).
+The population pharmacokinetics of TRC102 were evaluable in 19 patients who received
+doses on C1D1 thru C1D4. The structural PK model was satisfied as one compartment with
+first-order absorption (Ka) and without lag-time. The fixed and random effects determined in
+the final model are listed in Table 5. Interindividual variability was estimated for the
+elimination rate constant (Kel) and the apparent volume of distribution (V/F). Significant
+covariates were identified to be related to the variability in V/F, namely, sex (M, F), baseline
+alanine transaminase (ALT), baseline serum creatinine (SrCr) and baseline serum albumin
+(Albu), whereas Kel was identified as significantly related to sex. The influence of SrCr on
+volume of distribution (and hence the Clearance) was greater than the other covariates. Table
+6 summarizes the covariate model building steps for the significant covariates, which was
+effective at explaining variability in PK parameters for male patients, but not female patients
+in this study, as the inter-individual variability in Kel and V/F was reduced in males from by
+25 and 56 %, respectively.
+Pharmacodynamics
+The binding of TRC102 to pemetrexed-induced AP sites was evaluated in peripheral blood
+mononuclear cells (PBMC) of a subset of patients. Comparison was made between AP site
+availability in PBMC on cycle 2 day 1 (when TRC102 and pemetrexed were administered
+concurrently) and cycle 3 day 1 (when TRC102 was held and pemetrexed was administered
+alone). As summarized in Table 7 and presented in Fig. 2, administration of pemetrexed in
+the absence of TRC102 on cycle 3 day 1 generally caused an increase in the number of AP
+sites (detected through binding of a reactive aldehyde group) relative to baseline, indicating
+that pemetrexed induced the BER pathway. These sites were masked during concurrent
+administration of pemetrexed and TRC102 on cycle 2 day 1, indicating TRC102 bound AP
+sites could no longer were detectable by the aldehyde reactive probe. Increased AP sites in
+PBMC relative to baseline were noted in 10 of 11 patient samples assayed following
+treatment with pemetrexed alone, and the increase was reduced in PBMC collected
+following treatment with both agents.
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 9 ---
+Gordon et al. Page 9
+Clinical activity
+All 28 patients had RECIST-defined measurable disease, and 25 underwent at least one
+response assessment. Fifteen patients (60 %) had a best response of stable disease or better
+lasting ≥3 cycles, including a 61 year old woman with metastatic oropharyngeal adenoid
+cystic cancer treated previously with cetuximab, docetaxel and carboplatin, who had a
+partial response (with maximal reduction in the diameter of the mediastinal lymph node
+metastasis of 33 %) and remained progression free for 21 cycles (14 months). In addition, 14
+patients had stable disease for ≥3 cycles including patients with squamous cell lung cancer
+(n=3), epithelial ovarian cancer (n=3), colorectal cancer (n=2), nonsquamous non-small cell
+lung cancer (n= 1), pancreatic cancer (n= 1), prostate cancer (n= 1), endometrial cancer (n=
+1), head and neck cancer (n= 1) and breast cancer (n= 1). Patients with prolonged stable
+disease were noted across all four dose cohorts without clear dose dependency.
+Thymidylate synthase immunohistochemistry
+Archival formalin-fixed paraffin-embedded tumor tissue was assessed for thymidylate
+synthase immunohistochemistry in three patients who developed stable disease beyond 3
+cycles with tumor types that may express high levels of TS. The patient with metastatic
+oropharyngeal adenoid cystic carcinoma who achieved a partial response had 1+ staining
+intensity in 30 % of tumor cells giving her a positive HSCORE indicating high thymidylate
+synthase expression and low likelihood of response to pemetrexed [21]. Two patients with
+squamous cell lung cancer, who remained on study for 9 cycles, had 2+ intensity in 1–2 % of
+tumor cells giving them negative HSCORES of <5 %.
+Discussion
+This study is the first to assess the pharmacological effects of TRC102 in humans,
+establishing a maximum tolerated daily oral dose in combination with the approved dose of
+pemetrexed chemotherapy. The MTD was 60 mg/m2/d for 4 days in combination with
+standard-dose pemetrexed every 3 weeks. At 100 mg/m2/d, the MTD was exceeded due to
+extravascular hemolytic anemia requiring transfusion and dose-reduction and was consistent
+with preclinical testing.
+The anemia of TRC102 is remarkably predictable, occurring over a similar time course in
+rats, dogs, and cancer patients, typically within the first 3 weeks of treatment and not
+increasing in severity of anemia as the number of treatment cycles accumulated. In mice,
+TRC102 caused anemia at a dose 10-fold higher than those required for efficacy. Because of
+the large therapeutic window, TRC102 could be administered at a initial dose of 15 mg/m2/d
+that was projected to be efficacious. The wide safety margin is supported by
+pharmacodynamic data from the current study showing TRC102 bound to AP sites and
+achieving desired pharmacokinetic exposures at all doses studied with extravascular
+hemolysis limited to the higher doses.
+The mechanism of TRC102-induced extravascular hemolysis is clearly different from the
+mechanism for activity since erythrocytes lack DNA and AP sites for TRC102 to bind.
+Hemolysis is believed to result from TRC102 binding to reactive aldehydes that accumulate
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 10 ---
+Gordon et al. Page 10
+on the plasma membrane of aging erythrocytes, thereby targeting them for early removal
+from the circulation by reticuloendothelial macrophages, primarily in the spleen [23].
+Importantly, the current trial confirmed preclinical findings indicating that TRC102 does not
+potentiate chemotherapy-induced myelosuppression. In addition, grade 3 or higher drug-
+related nonhematologic toxicity was rare and observed only above the MTD of 60 mg/m2/d.
+TRC102 pharmacokinetic parameters were dose-proportional with an overall mean t >28
+1/2
+h. By the fourth daily TRC102 dose, all patients achieved the target plasma AUC and all but
+one patient achieved the desired C of 50 ng/mL, that was associated with preclinical
+max
+activity. Importantly, drug interactions between TRC102 and pemetrexed were not observed,
+which was consistent with preclinical testing. The variability in pharmacokinetics between
+patients were significantly influenced by both gender and baseline serum creatinine (see
+online Figure S6 and S7). The alanine transaminase and serum albumin were also significant
+covariates, however the beta coefficients were comparatively small and so were not
+considered heavily influential on the PK. Overall, we observed the PK parameters (Kel and
+V/F) were significantly larger in female patients, and therefore Clearance (CL=Kel*V/F)
+was much slower in male patients. The model provides an indication that these covariates
+were important for explaining PK variability among males in this cohort of patients, and are
+generally not considered predictive in other or larger cohorts.
+Durable stable disease was achieved in a variety tumor types including patients with
+squamous and nonsquamous non-small cell lung cancer. A partial response lasting 21 cycles
+(14 months) was seen in a patient with metastatic oropharyngeal cancer that expressed high
+levels of thymidylate synthase. These findings suggest that TRC102 plus pemetrexed should
+be further evaluated in patients with cancers that are typically resistant to pemetrexed alone
+[24, 25].
+In summary, TRC102 is a novel targeted therapy that is well-tolerated at clinically relevant
+doses in combination with pemetrexed chemotherapy, achieved desired PK and PD
+endpoints and was associated with activity when dosed with pemetrexed in patients unlikely
+to respond to pemetrexed treatment alone. The results of the current trial support rationally
+designed phase II studies to determine the clinical benefit of TRC102 in combination with
+pemetrexed in patients with non-small cell lung cancer and other cancer types. TRC102 is
+also undergoing clinical testing combination with temozolomide () and preclinical data
+support additional combination studies with wide variety of cancer therapies including
+antimetabolites, oxidizing agents, alkylating agents, and PARP inhibitors [1–9].
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+The authors would like to express their appreciation to the patients who participated in this investigational study and
+study staff.
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 11 ---
+Gordon et al. Page 11
+Conflict of Interest Statement Ms. Adams, Dr. Leigh and Dr. Theuer are shareholders and employees of
+TRACON Pharmaceuticals. Dr. Gerson is a shareholder of TRACON Pharmaceuticals and he and Dr. Liu are
+inventors of patents relating to TRC102 that are assigned to Case Western Reserve University and licensed to
+TRACON Pharmaceuticals. The remaining authors declare that they have no conflict of interest.
+Research Funding This Research was supported by TRACON Pharmaceuticals Inc San Diego CA
+References
+1. Liu L, Yan L, Donze JR et al. (2003) Blockage of abasic site repair enhances antitumor efficacy of
+1,3-bis-(2-chloroethyl)-1-nitrosourea in colon tumor xenografts. Mol Cancer Ther 2:1061–1066
+[PubMed: 14578471]
+2. Yan T, Seo Y, Schupp JE et al. (2006) Methoxyamine potentiates iododeoxyuridine-induced
+radiosensitization by altering cell cycle kinetics and enhancing senescence. Mol Cancer Ther 5:893–
+902 [PubMed: 16648559]
+3. Bulgar A, Miao Y, Borden E, et al. (2009) Enhancement of decita-bine cytotoxicity by
+methoxyamine via inhibition of base excision repair. AACR Meeting Abstracts (suppl; abstr 5547)
+4. Weeks L, Bulgar A, Donze J et al. (2009) Induction of uracil DNA glycosylase (UDG) in human
+cancer cells in response to antimetabolites combined with methoxyamine. AACR Meeting Abstracts
+(suppl; abstr 3765)
+5. Bulgar AD, Snell M, Donze JR et al. (2010) Targeting base excision repair suggests a new
+therapeutic strategy of fludarabine for the treatment of chronic lymphocytic leukemia. Leukemia
+24:1795–1799 [PubMed: 20811400]
+6. Liu L, Bulgar A, Adams BJ et al. (2010) Combining pemetrexed with temozolomide and TRC102
+(methoxyamine) causes synergistic cytotoxicity in melanoma cells. Proceedings of the 22nd
+EORTC-NCI-AACR Symposium on Molecular Targets and Cancer Therapeutics (Sup; abstr 517)
+7. Bulgar AD, Miao Y, Gerson SL et al. (2010) Dual inhibition of BER by TRC102 and PARP
+inhibitor (ABT 888) synergistically enhances cytotoxicity of TMZ in human melanoma. AACR
+Meeting Abstracts (suppl; abstr 682)
+8. Yan L, Bulgar A, Miao Y et al. (2007) Combined treatment with temozolomide and methoxyamine:
+blocking apurininc/pyrimidinic site repair coupled with targeting topoisomerase Ilalpha. Clin
+Cancer Res 13:1532–1539 [PubMed: 17332299]
+9. Liu L, Gerson SL (2004) Therapeutic impact of methoxyamine: blocking repair of abasic sites in the
+base excision repair pathway. Curr Opin Investig Drugs 5:623–627
+10. Liu L, Nakatsuru Y, Gerson SL (2002) Base excision repair as a therapeutic target in colon cancer.
+Clin Cancer Res 8:2985–2991 [PubMed: 12231545]
+11. Frosina G, Fortini P, Rossi O et al. (1994) Repair of abasic sites by mammalian cell extracts.
+Biochem J 304(Pt 3):699–705 [PubMed: 7818470]
+12. Horton JK, Prasad R, Hou E et al. (2000) Protection against methylation-induced cytotoxicity by
+DNA polymerase beta-dependent long patch base excision repair. J Biol Chem 275:2211–2218
+[PubMed: 10636928]
+13. Yang S, Liu L, Gerson SL et al. (2003) Measurement of anti-cancer agent methoxyamine in plasma
+by tandem mass spectrometry with on-line sample extraction. J Chromatogr B 795:295–307
+14. Taverna P, Liu L, Hwang HS et al. (2001) Methoxyamine potentiates DNA single strand breaks and
+double strand breaks induced by temozolomide in colon cancer cells. Mutat Res 485:269–281
+[PubMed: 11585361]
+15. Liu L, Taverna P, Whitacre CM et al. (1999) Pharmacologic disruption of base excision repair
+sensitizes mismatch repair-deficient and -proficient colon cancer cells to methylating agents. Clin
+Cancer Res 5:2908–2917 [PubMed: 10537360]
+16. Liu L, Bulgar A, Donze J et al. (2007) Prevention of base excision repair by TRC102
+(methoxyamine) potentiates the anti-tumor activity of pemetrexed in vitro and in vivo. J Clin
+Oncol 25(suppl; abst 13005)
+17. Bobin-Dubigeon CAM, Herrenknecht C, Bard JM (2009) Development and validation of an
+improved liquid chromatography-mass spectrometry method for the determination of pemetrexed
+in human plasma. J Chromatogr B Analyt Technol Biomed Life Sei 877:2451–2456
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 12 ---
+Gordon et al. Page 12
+18. http://software.monolix.org/; 2008,
+19. Bauer RJ, Guzy S, Ng C (2007) A survey of population analysis methods and software for complex
+pharmacokinetic and pharmacodynamic models with examples. AAPS J 9:E60–E83 [PubMed:
+17408237]
+20. Nakano J, Huang C, Liu D et al. (2006) Evaluations of biomarkers associated with 5-FU sensitivity
+for non-small-cell lung cancer patients postoperatively treated with UFT. Br J Cancer 95:607–615
+[PubMed: 16880781]
+21. Huang CL, Yokomise H, Kobayashi S et al. (2000) Intratumoral expression of thymidylate
+synthase and dihydropyrimidine dehydrogenase in non-small cell lung cancer patients treated with
+5-FU-based chemotherapy. Int J Oncol 17:47–54 [PubMed: 10853017]
+22. Duffaud F, Therasse P (2000) New guidelines to evaluate the response to treatment in solid tumors.
+Bull Cancer 87:881–886 [PubMed: 11174117]
+23. Antonelou MH, Kriebardis AG, Papassideri IS (2010) Aging and death signalling in mature red
+cells: from basic science to transfusion practice. Blood Transfus 8(Suppl 3)
+24. Bepler G, Sommers KE, Cantor A et al. (2008) Clinical efficacy and predictive molecular markers
+of neoadjuvant gemcitabine and pemetrexed in resectable non-small cell lung cancer. J Thorac
+Oncol 3:1112–1118 [PubMed: 18827606]
+25. Scagliotti GV, Ceppi P, Capelletto E et al. (2009) Updated clinical information on multitargeted
+antifolates in lung cancer. Clin Lung Cancer 10(Suppl 1):S35–S40 [PubMed: 19362945]
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 13 ---
+Gordon et al. Page 13
+Fig. 1.
+Relationship between dose of TRC102 and median AUC for nineteen patients treated on
+∞
+C1D1. The exposure of TRC102 was proportional to dose across the range of 15 to 100
+mg/m2/d
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 14 ---
+Gordon et al. Page 14
+Fig. 2.
+Representative pharmacodynamic data from a patient treated with pemetrexed plus 60
+mg/m2/d TRC102. AP sites in peripheral blood mononuclear cells were detected using a
+fluorescent aldehyde-reactive probe, and results were expressed relative to pre-dose. The
+number of AP sites increased after dosing with pemetrexed alone (cycle 3 day 1) but not
+after dosing with pemetrexed and TRC102 (cycle 2 day 1). These findings are consistent
+with binding of TRC102 to pemetrexed-induced AP sites
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- Page 15 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Gordon et al. Page 15
+Table 1
+Patient characteristics
+Characteristic Number of patients %
+Total number of patients treated 28
+Sex
+Male 12 43
+Female 16 57
+Age, years
+Median 60
+Range 19–86
+ECOG PS
+0 9 32
+1 19 68
+Tumor type
+Epithelial ovarian cancer 4 14
+Non-squamous NSCLC 3 11
+Squamous NSCLC 3 11
+Pancreatic cancer 3 11
+Colorectal cancer 3 11
+Sarcoma 3 11
+Other a 9 32
+No. of prior chemotherapy regimens
+Median 3
+Range 1–11
+ECOG Eastern Cooperative Oncology Group; PS performance status; NSCLC non-small cell lung cancer
+a
+Other tumor types were adenoid cystic, bladder, breast, cholangiocar-cinoma, esophageal, head and neck, prostate, peritoneal and uterine
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+
+--- Page 16 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Gordon et al. Page 16
+2
+elbaT
+)82=N(
+trohoc
+yb
+yduts
+eht
+fo
+noitarud
+lluf
+eht
+revo
+tnemtaert
+dna
+seulav
+yrtsimehc
+detaicossa
+,aimena
+4/3
+edarg
+fo
+ycneuqerF
+ni
+esoD
+201CRT
+noitcuder-esod
+201CRT
+niteiopebrad
+ro
+niteioporhtyrE
+noisufsnart
+llec
+deR
+esaercni
+niburiliB
+esaerced
+nibolgotpaH
+aimena
+4 edarG
+aimena
+3
+edarG
+)n(
+d/2m/gm
+)%
+0(
+0
+)%
+0(
+0
+)%
+52(
+1
+)%
+0(
+0
+)%
+0(
+0
+)%
+0(
+0
+)%
+0(
+0
+)4(
+51
+)%
+41(
+1
+)%
+41(
+1
+)%
+34(
+3
+)%
+41(
+1
+)%
+0(
+0
+)%
+0(
+0
+)%
+41(
+1
+)7(
+03
+)%
+9(
+1
+)%
+72(
+3
+)%
+45(
+6
+)%
+63(
+4
+)%
+9(
+1
+)%
+9(
+1
+)%
+72(
+3
+)11(
+06
+)%
+76(
+4
+)%
+33(
+2
+)%
+38(
+5
+)%
+76(
+4
+)%
+05(
+3
+)%
+0(
+0
+)%
+05(
+3
+)6(
+001
+.ytefas
+rof
+elbaulave
+stneitap
+fo
+rebmunn
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+
+--- Page 17 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Gordon et al. Page 17
+Table 3
+Frequency of adverse events over the full duration of the study related to TRC102, excluding anemia (N= 28)
+Preferred term a Grade 1 Grade 2 Grade 3 Grade 4
+Neutropenia 1 3
+Fatigue 6 3 1 b
+Diarrhea 1 1 b
+Leukopenia 1
+Nausea 3 3
+Vomiting 3
+Anorexia 6
+Mucosal inflammation 3
+Pruritus 3
+Pyrexia 3
+Rash 2
+a
+Includes events occurring in more than 1 patient, and all grade 3 and higher events
+b Patient was enrolled and treated at 100 mg/m2/d TRC102
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+
+--- Page 18 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Gordon et al. Page 18
+4
+elbaT
+trohoc
+yb
+seitreporp
+citenikocamrahp
+201CRT
+)Lm/gn-rh(
+∞−0
+CUA
+)rh(
+2/1
+t
+)Lm/gn(
+xam
+C
+.oN
+1
+yaD
+1
+elcyC
+)2311–912(
+782
+)2.14–1.43(
+3.73
+)4.75–7.21(
+7.91
+3
+d/2m/gm
+51
+)2643–362(
+1401
+)5.52–9.51(
+8.12
+)0.502–7.22(
+3.46
+6
+d/2m/gm
+03
+)1612–3901(
+1991
+)9.92–6.71(
+9.12
+)0.621–7.36(
+0.911
+3
+d/2m/gm
+06
+)1335–789(
+2132
+)0.44–1.41(
+8.62
+)714–5.38(
+0.251
+5
+d/2m/gm
+001
+4
+yaD
+1
+elcyC
+)0852–881(
+6311
+)2.25–0.63(
+5.14
+)921–0.72(
+1.86
+3
+d/2m/gm
+51
+)0325–8511(
+0691
+)4.95–5.62(
+9.03
+)0.282–2.37(
+0.621
+6
+d/2m/gm
+03
+)57011–2362(
+2185
+)8.44–8.52(
+9.62
+)0.626–0.551(
+0.723
+3
+d/2m/gm
+06
+)9697–6602(
+5013
+)6.63–4.61(
+0.52
+)0.534–0.841(
+0.742
+5
+d/2m/gm
+001
+1
+yaD
+2
+elcyC
+)6811–621(
+792
+)4.55–6.5(
+3.43
+)0.65–2.81(
+6.42
+3
+d/2m/gm
+51
+)1702–183(
+349
+)3.34–6.21(
+9.12
+)0.731–6.52(
+4.75
+6
+d/2m/gm
+03
+)6554–2331(
+4561
+)0.82–4.52(
+7.62
+)0.932–6.39(
+0.301
+3
+d/2m/gm
+06
+)6716–049(
+7963
+)5.54–3.52(
+0.73
+)0.583–9.47(
+0.522
+5
+d/2m/gm
+001
+.sesehtnerap
+ni segnar
+htiw
+snaidem
+sa
+desserpxe
+seulav
+llA
+.ytinifni
+ot
+orez
+rof
+evruc
+emit-noitartnecnoc
+mures
+eht
+rednu
+aera
+∞−0CUA
+;efil-flah2
+/1t
+;noitartnecnoc
+mumixamx
+amC
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+
+--- Page 19 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Gordon et al. Page 19
+5
+elbaT
+4D1C
+dna
+1D1C
+no
+sretemarap
+citenikocamrahp
+noitalupop
+201CRT
+.e.s
+±
+etamitse
+ledom
+etairavoC
+e.s
+±
+etamitse
+ledom
+esaB
+sretemarap
+noitalupoP θ stceffe
+dexiF
+2400.0
+9930.0
+6300.0
+9530.0
+)1−rh(
+leK noitanimilE
+6.2
+55.3
+1.1
+37.5
+)2m/L(
+F/V
+noitubirtsiD
+fo emuloV
+63.0
+39.3
+93.0
+71.4
+)1−rh(
+aK noitprosbA η stceffe modnaR
+390.0
+872.0
+90.0
+882.0
+)11=n
+,F=xes( leKω
+VII
+310.0
+134.0
+91.0
+586.0
+)8=n
+,M=xes( leKω
+VII
+51.0
+96.0
+61.0
+187.0
+)11=n
+,F=xes( Vω
+VII
+480.0
+161.0
+81.0
+617.0
+)8=n
+,M=xes( Vω
+VII
+72.0
+583.0
+71.0
+416.0
+)F/V,leK(
+noitalerroC
+VII
+rorre laudiseR
+410.0
+83.0
+410.0
+873.0
+σ
+setairavoC
+42.0
+668.0−
+) M xeS(
+Vβ
+3300.0
+7710.0
+)TLA(
+Vβ
+54.0
+10.1−
+)rCrS(
+Vβ
+41.0
+93.0
+)ublA(
+Vβ
+330.0
+544.0−
+) M xeS(
+leKβ
+puorg
+yb sretemaraP
+2400.0
+9930.0
+)11=n ,F=xes(
+leK
+6400.0
+6520.0
+)8=n ,M=xes(
+leK
+6.1
+55.3
+)11=n ,F=xes(
+F/V
+47.0
+94.1
+)8=n ,M=xes(
+F/V
+nimublau
+blA
+,esanimasnart
+eninalaT
+LA
+,eninitaerc
+muresr
+CrS
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+
+--- Page 20 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Gordon et al. Page 20
+6
+elbaT
+a
+)P(
+seulav-p
+tset
+dlaW
+gnidnopserroc
+eht
+htiw
+)β(
+setairavoc
+eht
+fo
+stceffe
+dexif
+detamitse
+dna
+,)LL(
+doohilekil-gol
+gnisu
+F/V
+no
+dliub
+ledom
+etairavoC
+4 P
+4β
+3 P
+3β
+2 P
+2β
+1 P
+1β
+LL×2−
+4 voC
+3
+voC
+2
+voC
+1 voC
+ledoM
+00.0863
+ledoM
+esaB
+1
+76.0
+3400.0
+51.9763
+egA
+2
+29.0
+5900.0−
+09.8763
+thgieW
+3
+14.0
+935.0−
+24.8763
+ASB
+4
+63.0
+196.0−
+63.8763
+rCrS
+5
+72.0
+7600.0−
+65.7763
+LCrC
+6
+11.0
+641.0
+23.6763
+nimublA
+7
+510.0
+2210.0
+62.6763
+TLA
+8
+710.0
+126.0−
+02.5763
+M xeS
+9
+500-e2.3
+4410.0
+810.0
+283.0
+34.3763
+TLA
+nimublA
+01
+500-e3
+8710.0
+610.0
+73.1−
+86.2763
+TLA
+rCrS
+11
+10.0
+87.0−
+67.0
+632.0−
+35.1763
+M
+xeS
+rCrS
+21
+8100.0
+208.0−
+860.0
+24.0
+40.9663
+M
+xeS
+nimublA
+31
+52000.0
+20.1−
+6300.0
+410.0
+79.6663
+M
+xeS
+TLA
+41
+650.0
+80.1−
+500-e8.3
+7710.0
+2100.0
+88.0−
+30.5663
+rCrS
+TLA
+M xeS
+51
+110.0
+914.0
+500-e5.8
+7410.0
+500-e5.4
+00.1−
+19.2663
+nimublA
+TLA
+M xeS
+61
+6500.0
+93.0
+700-el.l
+7710.0
+330.0
+544.0−
+33000.0
+668.0−
+05.1663
+nimublA
+rCrS
+TLA
+M xeS
+blaniF
+a
+orez
+morf
+tnereffid
+yltnacifingis
+β
+htiw
+)etairavoc(
+gol
+no
+)retemarap(gol
+fo
+ledom
+raenil
+a
+fo
+ecnacifingis
+setacidnI
+330.0=eulav-P
+,544.0−=
+β
+,leK
+no
+MxeS
+dedulcni
+F/V
+no
+MxeS
+rof
+dliub
+ledoM
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.
+
+--- Page 21 ---
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Gordon et al. Page 21
+Table 7
+Percentage increase (or decrease) of apurinic sites in peripheral blood mononuclear cells in the absence of
+TRC102 on cycle 3 day 1 compared to in the presence of TRC102 on cycle 2 day 1, at 4 and 24 hours
+following dosing of pemetrexed
+TRC102 Dose Group = 15 mg/m2
+Patient 4 hr 24 hr
+10063002 29 % 16 %
+10033001 26 % 0%
+10033003 −50 % −51 %
+Mean 2% −12 %
+TRC102 Dose Group=30 mg/m2
+Patient 4 hr 24 hr
+10063003 55 % 11 %
+10013003 18 % 42 %
+10013005 58 % 2%
+Mean 44 % 18 %
+TRC102 Dose Group=60 mg/m2
+Patient 4 hr 24 hr
+10033004 50 % 62 %
+10013006 191 % 122 %
+Mean 121 % 92 %
+TRC102 Dose Group = 100 mg/m2
+Patient 4 hr 24 hr
+10063005 6% 134 %
+10033005 133 % 93 %
+10013007 22 % 8%
+Mean 54 % 78 %
+Invest New Drugs. Author manuscript; available in PMC 2019 July 29.

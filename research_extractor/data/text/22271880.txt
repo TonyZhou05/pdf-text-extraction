@@ -1,0 +1,855 @@
+Source: 22271880.pdf
+Extracted on: Fri Sep 12 23:56:11 PDT 2025
+==================================================
+
+--- Page 1 ---
+NIH Public Access
+Author Manuscript
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+Published in final edited form as:
+Clin Cancer Res. 2012 March 15; 18(6): 1735–1742. doi:10.1158/1078-0432.CCR-11-2544.
+A Phase I Trial of Erlotinib and Concurrent Chemoradiotherapy
+for Stage III and IV (M0) Squamous Cell Carcinoma of the Head
+and Neck
+Jill Gilbert1, Michelle A. Rudek2, Michaela J Higgins3, Ming Zhao2, Sara Bienvenu4, Nancy
+Tsottles2, Richard Wahl5, Arlene Forastiere2, and Maura Gillison6
+1Vanderbilt University School of Medicine, Department of Medicine; Nashville, Tennessee
+2Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Department of Oncology;
+Baltimore, Maryland 3Massachusetts General Cancer Center, Department of Medicine; Boston,
+Massachusetts 4Hospital Corporation of America; Nashville, Tennessee 5Johns Hopkins
+University School of Medicine, Department of Radiology; Baltimore, Maryland 6Ohio State School
+of Medicine, Department of Medicine; Columbus, Ohio Running Title: Phase I of Erlotinib and
+CCR in Head and Neck Cancer
+Abstract
+Purpose—Erlotinib, an orally active selective inhibitor of the EGFR tyrosine kinase has
+synergistic activity with radiation and with cisplatin. The EGFR is overexpressed in the majority
+of head and neck cancers. The primary objective of this Phase I study was to determine the
+Maximally Tolerated Dose (MTD) of erlotinib in combination with low-dose daily cisplatin and
+radiotherapy. We also sought evidence of biological activity of erlotinib alone using serial 18-
+FDG PET imaging.
+Experimental Design—Oral erlotinib was taken daily starting with a 14-day run-in and
+continued until RT was completed. Low-dose daily cisplatin, 6 mg/m2 IV was given concurrently
+with standard fractionation RT to a total dose of 66–70 Gy. Dose escalation followed a modified
+Fibonacci dose escalation design.
+Results—Twenty-two patients were enrolled and 18 patients received therapy on protocol. MTD
+of the combination of erlotinib, cisplatin and radiation therapy was not reached. The recommended
+phase II dose of erlotinib is 150 mg per day in combination with cisplatin and radiation therapy,
+the highest dose of erlotinib evaluated in this study. 18F-FDG PET demonstrated evidence for
+metabolic response to single agent erlotinib. Per PERCIST criteria, the overall metabolic response
+rate at day 14 was 38.8% (95%CI, 17.3–64.3%). On completion of concurrent chemoradiotherapy,
+overall response rate derived from tumor measurements based on imaging studies was 83% for all
+dose levels combined.
+Conclusions—Erlotinib in combination with low dose daily cisplatin and radiation therapy is
+well tolerated and demonstrates evidence of clinical efficacy. The combination should be
+evaluated further.
+Keywords
+Head and Neck/Oral Cancers; Phase I–III trials Head and Neck/Oral Cancers
+Corresponding Author: Jill Gilbert, MD Vanderbilt University School of Medicine, Division of Hematology/Oncology 777 PRB 2220
+Pierce Avenue Nashville, Tennessee 37215, jill.gilbert@vanderbilt.edu.
+NCI Clinical Trials Number NCT00049166
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 2 ---
+Gilbert et al. Page 2
+Introduction
+Forty thousand incident cases of squamous cell carcinoma of the head and neck are
+diagnosed in the United States each year. Despite standard-of-care platinum-based
+concurrent chemoradiotherapy (CCR) or surgery plus adjuvant radiotherapy (with or without
+chemotherapy), the overall survival of patients with local-regionally advanced (stages III–
+IV, M0) oral squamous cell carcinoma (HNC) remains poor. In particular, patients with
+human papillomavirus (HPV) negative cancers have a 2-year overall survival of less than
+60%(1).
+Intergroup Trial 9111 has established high-dose cisplatin concurrently administered with
+radiation therapy as the standard of care for organ preservation for advanced laryngeal
+cancer (2). This combination has also been applied as a non-surgical, curative approach to
+locally advanced cancers arising from other anatomic sites (3–5). A meta-analysis found that
+cisplatin-based concurrent chemoradiotherapy led to the greatest improvement in overall
+survival 4. However the optimal dose and schedule of cisplatin has not been determined by
+comparison in clinical trials. Two clinical trials have demonstrated that low-dose daily
+radiosensitizing cisplatin (6 mg/m2 per radiation fraction), administered concurrent with
+either standard fractionation or hyperfractionation radiation therapy improved local-regional
+control and overall survival and reduced rates of distant metastases when compared to
+radiation alone. This dose and schedule of cisplatin was associated with reduced
+hematological and non-hematological toxicities, and therefore may allow for the safe
+addition of targeted therapies (6–7).
+The Epidermal Growth Factor Receptor (EGFR) and its ligands, EGF and TGF-alpha, play
+important roles in cell proliferation, motility, adhesion, invasion, survival and angiogenesis
+(8). Abnormalities of EGFR signal transduction are common in squamous cell carcinomas of
+the head and neck. Overexpression of EGFR has been demonstrated in the majority (80–
+100%), and may be related to advanced T stage and presence of nodal disease. EGFR
+overexpression has also been shown to be a predictor of survival (9–10).
+Treatment of tumor cells in vitro with anti-EGFR antibody induces arrest of cells in G with
+1
+an increase in the cyclin-dependent kinase inhibitor p27kip1 and a decrease in
+retinoblastoma protein (Rb) phosphorylation (11). Moreover, synergy exists between EGFR
+inhibition, radiation and chemotherapy. Although not completely understood, these
+observations may be related to inhibition of multiple growth-promoting signals such as the
+anti-apoptotic effect of EGFR and EGF-related growth. Additionally, inhibition of cross-talk
+between the EGFR-signaling and other growth-promoting pathways may heighten
+sensitivity to the cytotoxic effects of traditional chemotherapeutic agents (12–15).
+Erlotinib is an orally active potent, selective inhibitor of the EGFR tyrosine kinase. In a
+phase II trial, single agent erlotinib demonstrated a low response rate (~4%) in patients with
+recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN). In
+combination with cisplatin, a response rate of 21% was observed in a phase I/II trial in a
+similar patient population, and rates of grade 3 and 4 toxicity were minimal. Although the
+safety and tolerability of combination therapy with erlotinib, cisplatin and radiation has
+already been investigated in other malignancies this regimen may not be as well tolerated for
+head and neck primary tumors (16–18).
+This trial was designed to evaluate whether the addition of erlotinib to combination
+chemoradiation (CCR) would produce acceptable toxicities and preliminary evidence of
+efficacy in patients with locally advanced oral cavity or oropharyngeal cancer. Moreover,
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 3 ---
+Gilbert et al. Page 3
+the trial aimed to determine the maximum tolerated dose of the combination of daily oral
+erlotinib in combination with cisplatin and radiation therapy. The pharmacokinetic sampling
+scheme employed in this trial was designed to measure the erlotinib steady-state
+concentrations achieved and to ensure that adequate concentrations are sustained during
+chronic oral administration of erlotinib alone and in combination with standard fractionation
+external beam radiation therapy with or without low dose daily cisplatin chemotherapy.
+Finally, the trial evaluated whether a two week window period of erlotinib alone could elicit
+evidence of a metabolic response on serial 18F-FDG PET imaging.
+Patients and Methods
+Patients
+Eligibility requirements included a new diagnosis of histologically confirmed AJCC Stage
+III (T N ) or IV (T N M , T N M ) squamous cell carcinoma of the oral cavity or
+3 0-1 1-4 2-3 0 4 0 0
+oropharynx. Other criteria included: no prior therapy for the SCCHN; no diagnosis of other
+malignancy within the prior 3 years; age ≥ 18 years; ECOG PS 0–2; adequate organ and
+marrow function as denoted by ANC ≥ 1500/mm3, platelets ≥ 100,000/mm3, total bilirubin
+within institutional upper limit of normal (ULN), transaminases < 2.5x ULN, creatinine
+within ULN or creatinine clearance ≥ 60 mL/min/1.73 m2.
+Clinical staging was performed at presentation with a combination of operative direct
+laryngoscopy, esophagoscopy and bronchoscopy. Moreover, appropriate baseline imaging
+was obtained (CT scan or MRI chosen per investigator discretion). Baseline evaluations
+were to be conducted within 1 week prior to start of protocol therapy. Scans and x-rays for
+eligibility were performed ≤4 weeks prior to the start of therapy.
+The protocol was approved by institutional review boards of The Johns Hopkins Hospital in
+Baltimore, MD and the Louisiana State University Health Sciences Center in New Orleans
+(LSUHSC). Patients were required to provide written informed consent.
+Study Design and Dose Escalation
+The principal objective of the study was to determine the Maximally Tolerated Dose (MTD)
+of erlotinib in combination with low-dose daily cisplatin and radiotherapy. Oral erlotinib
+was taken daily starting as a 14-day run-in and continued until RT was completed. Erlotonib
+was allowed to be crushed and placed in a PEG tube. Low-dose daily cisplatin, 6 mg/m2 IV,
+was started together with radiotherapy on day 15 and given for 5 doses each week (Monday-
+Friday) for a total of 35 doses (thus cumulative cisplatin dose was 210 mgs/m2). The
+cisplatin was diluted with sodium chloride (0.45%) to a total volume of 100 ml. Cisplatin
+was administered over 20 minutes, 3 hours prior to radiation therapy. Pre or post-cisplatin
+hydration was not required. Odansetron 8 mg IV was administered prior to cisplatin.
+Carboplatin 25 mg/m2 IV per day was substituted for cisplatin in the event of persistent
+elevation of creatinine to > 1.5 mg/dL despite prehydration or for ≥ grade 2 electrolyte
+wasting.
+Standard fractionation radiation therapy was delivered daily for 5 days per week starting on
+day 15 to a total dose of 66–70 Gy in 2 Gy daily fractions over 7 weeks. Either 3D
+conformal treatment planning or IMRT were used. Clinically positive neck nodes received a
+dose of 68–70- Gy in 35 fractions, and the clinically uninvolved neck received a total dose
+of 50 Gy (including N disease).
+0
+Dose escalation followed a modified Fibonacci dose escalation design (Table 1). The dose
+of erlotinib was escalated from a starting dose of 50 mg/day. This dose represented one third
+the recommended daily dose of single-agent erlotinib in Phase II trials. Patients were treated
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 4 ---
+Gilbert et al. Page 4
+in successive cohorts of 3 patients. Intra-patient dose escalation was not allowed. All
+patients in each cohort completed chemoradiation prior to expansion to the next cohort.
+A Dose Limiting Toxicity (DLT) was defined as the following: grade 3 or 4 neutropenia
+associated with fever or neutropenia lasting longer than 5 days; grade 3 or 4
+thrombocytopenia; any grade 3 or 4 non-hematological toxicity per NCI/CTC criteria with
+the exception of grade 4 mucositis that resolves to grade 2 or less with a treatment break not
+to exceed 10 days. Grade 3 diarrhea was dose limiting only if persistent after the initiation of
+pharmacological anti-diarrheal therapy. Toxicity was graded using NCI Common Toxicity
+Criteria version 2.0.
+The MTD was defined as the dose of erlotinib in combination with cisplatin and radiation
+therapy in which < 2 of 6 patients experiences a DLT. After the recommended Phase II dose
+(MTD) was defined, 6 additional patients were enrolled at that dose level.
+Dose modifications
+Dose adjustments were made for Grade 3 or 4 toxicity. The offending agents could be held
+for up to 14 days until toxicity resolved to grade 1 or less. Radiation therapy was allowed to
+continue if erlotinib, the platinum or both were held. If erlotinib was held, RT and platinum
+could continue at the discretion of the investigator. If platinum held, erlotinib and RT could
+continue at the discretion of the investigator. If RT held, erlotinib could continue but
+platinum was held. If the agent causing the toxicity was unknown, then all 3 were held until
+toxicity resolved to grade 1 or less. The erlotinib was then dose reduced per guidelines.
+Patients were removed from study if toxicity did not resolve within 14 days or if greater than
+two dose adjustments were required.
+Response evaluation and follow-up
+Although response was not the primary endpoint of this trial, patients who completed
+chemoradiotherapy were evaluable for response. Patients with progressive disease were
+evaluable if they received at least 30 days of combined modality therapy. Response and
+progression were evaluated using the Response Evaluation Criteria in Solid Tumors
+(RECIST) (19). Disease response was assessed by clinical exam and repeat of baseline
+imaging on day 15 and day 120 (approximately 12 weeks post completion of RT).
+For investigative purposes only, baseline 18F-FDG PET was performed within 28 days pre-
+therapy and on day 14 of study treatment, prior to initiation of CCR. All PET readings were
+performed by the same designated study radiologist to prevent interpretation variability.
+Assessment of metabolic response to 14 days of single agent erlotinib and to the entire
+treatment algorithm was performed via serial 18F-FDG PET at baseline, day 14 and day 120,
+performed and interpreted per PERRECIST criteria (20). Patients were fasting for at least 4–
+6 hours and had serum glucose < 200 mg/dL. Baseline and repeat PET were obtained within
+50–70 min of tracer injection. Follow-up scan was performed within 15 min of baseline
+injection time. The region of interest was the measurable target lesion in the primary tumor
+with maximal 3.0-cm diameter volume SUV [Lesion 1-SUVmax(3cm)] on the baseline scan.
+Lesion 1-SUVmax(3cm) was adjusted to lean body mass [Lesion 1-SUV-LBMmax(3cm)]
+and normalized to the average liver SUV-LBMmax(3cm). A metabolic response was
+defined as a 30% or greater change in adjusted Lesion 1-SUV-LBMmax(3cm) when values
+from day 14 and day 120 were compared to the baseline values. A modified radical neck
+dissection was planned for patients with initial presentation that demonstrated N2a or greater
+neck involvement at presentation. A biopsy at the primary site was performed if recurrence
+was suspected.
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 5 ---
+Gilbert et al. Page 5
+Pharmacokinetic sampling and analysis
+Whole blood samples were collected on days 1 and 2 and then weekly for 10 weeks before
+drug administration. Plasma was separated by centrifugation and frozen at −70°C until
+analysis. Plasma concentrations of erlotinib 1(range 0 to 10,000 ng/mL ) and OSI-420 (1 to
+1000 ng/mL), the major active metabolite, were measured using a validated reversed-phase
+high-performance liquid chromatography assay with tandem mass spectrometry detection
+(21). Quality control samples were assayed with each analytic run and were within 15% of
+the nominal concentration.
+Erlotinib pretreatment trough concentration (C ) was evaluable if the sample was
+min
+collected 18 to 30 hours after drug dose and the patient was compliant (e.g., 80% of drug
+administration during sampling interval). C at steady state (C ) was determined as
+min ss,min
+the average of the pretreatment erlotinib and OSI-420 concentrations on days 8 and 15
+(when administered alone) and on days 22, 29, 36, 43, 207, 57, and 64 (when administered
+in combination with radiation with or without cisplatin). The C ratio of metabolite to
+ss,min
+erlotinib was calculated.
+Statistical Analysis
+Toxicity, responses, and pharmacokinetics were summarized using descriptive statistics. A
+Wilcoxon matched pairs signed-rank test was used to compare C when administered
+ss,min
+alone versus in combination with radiation with or without cisplatin. A Kruskal-Wallis
+analysis of variance by ranks was used to compare the differencesin dose-normalized C
+ss,min
+as a function of dose level and to correlate pharmacokinetic and pharmacodynamic
+endpoints. Statistical tests were performed using JMP Statistical Discovery software, version
+4.0.4 (SAS Institute, Cary, NC, USA).
+Results
+Patients
+Twenty-two patients were enrolled and 18 patients received therapy on protocol. Four
+patients were excluded due to screening failure (n=2); disease progression prior to treatment
+initiation (n=1); and withdrawal of consent (n=1). The baseline characteristics of the 18
+patients who received therapy are shown in Table 2. Median age was 56 (range 42–66), and
+the majority were Caucasian males.
+Three patients were withdrawn from protocol therapy. One patient experienced grade 3
+pneumonitis (n=1). This patient also had a possible pulmonary infection. The relationship to
+erlotinib was deemed possible and patient was removed from study before completing CCR.
+Two other patients were withdrawn from protocol without experiencing DLT. One patient
+was, diagnosed with Fanconi’s anemia (n=1), and another had a diagnosis of metastatic
+disease by PET on day 14. These three patients were subsequently replaced on study.
+Safety Experience: Dose Escalation
+One of three patients at dose level 1 (50 mg erlotinib) experienced grade 3 neutropenia and
+fever and therefore the first cohort was expanded to 6. No dose limiting toxicity was noted
+in the 3 additional patients. A total of 5 patients were enrolled on dose level 2, erlotinib 100
+mg/day. Two were removed from protocol therapy, one due to grade 3 pneumonitis with an
+attribution of possibly related to erlotinib. One was removed due to a diagnosis of Fanconi’s
+anemia. Three patients completed this dose level without dose limiting toxicity. Three
+patients at the third dose level of erlotinib 150 mg/day had grade 3 anorexia and 1 patient
+demonstrated grade 3 radiation dermatitis. However, these toxicities were not attributed to
+the investigational drug. This cohort was then expanded to 9 patients. In the expanded
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 6 ---
+Gilbert et al. Page 6
+cohort, 1 patient experienced grade 3 neutropenia, 1 experienced grade 3 anorexia.
+However, these toxicities were not considered dose limiting. Grade 3/4 toxicities attributed
+to the addition of erlotinib to CCR include lymphopenia, diarrhea, rash and pneumonitis.
+One patient in dose level 1 required an 8 day treatment break for grade 4 mucositis.
+Otherwise, no treatment breaks greater than 3 days occurred. The details of the RT from the
+LSU site are not known due to destruction of patient records in Hurricane Katrina. See Table
+3 for Grade 3/4 toxicities.
+Response Evaluation
+A total of 18 patients were evaluable for response assessment at the completion of combined
+modality treatment. The average time to clinical response determination was 119 days
+(range 64–194 days). Best overall response is summarized in Table 4.
+Thus, overall response rate derived from tumor measurements based on imaging studies was
+83% for all dose levels combined. Response evaluation took place at an average of 83 days
+post CCR (range 64–194 days).
+Pharmacokinetic Evaluation
+Plasma pharmacokinetic studies were performed on specimens from 16 patients. One patient
+was removed from evaluation due to non-compliance. Trough values were obtained 65% of
+the time. There was no difference in erlotinib C (p=0.30), OSI-420 C (p=0.20), or
+ss,min ss,min
+the C ratio of OSI-410:erlotinib (p=0.30) when erlotinib was administered alone or
+ss,min
+combination with radiation and cisplatin (see Table 5). Additionally, there was no difference
+in dose-normalized C as a function of dose level for erlotinib (p=0.14) or OSI-410
+ss,min
+(p=0.23)or in the ratio of OSI-410:erlotinib (p=0.07) with increasing ratios with increasing
+erlotinib dose.
+Pharmacokinetic-pharmacodynamic Correlations
+No correlation was observed between clinical responses (Table 1) and pharmacokinetic
+parameters (erlotinib C (p=0.55), OSI-410 C (p=0.71), or the C ratio of
+ss,min ss,min ss,min
+OSI-410:erlotinib (p=0.71).
+A summary of the baseline, day 14 and day 120 findings for the primary tumor on 18F-FDG
+PET are shown in Table 6, stratified by erlotinib dose level. Scans for two patients at dose
+level 2 on day 120 were not performed per patient request. There was evidence for
+metabolic response to single agent erlotinib. Per PERCIST criteria, the overall metabolic
+response rate at day 14 was 38.8% (95%CI, 17.3–64.3%). Median percent reduction in
+SUVmax of the primary tumor at day 14 appeared greater at the second and third dose
+levels, but differences were non-significant (median 6.8 vs. 28.7 vs. 21.8, k-wallis p=0.41,
+dose levels 1, 2, and 3, respectively). All but two evaluable patients had a metabolic
+response to treatment at the day 120 evaluation, with the majority (7 of 10) of the patients at
+the highest dose level having no SUV uptake over background at this time point.
+Discussion
+Based on this Phase I investigation, the combination of standard fractionation RT, low dose
+daily cisplatin and daily erlotinib is well tolerated. MTD was not reached. The
+recommended phase II dose of erlotinib is 150 mg per day in combination with cisplatin and
+radiation therapy, the highest dose of erlotinib evaluated in this study. Importantly, while 1
+patient demonstrated Grade 3 rash, overall skin toxicity (including radiation dermatitis) and
+mucositis were consistent with historical controls that used concurrent RT and platinum.
+Additionally, only two patients had treatment breaks and one of these breaks was due to
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 7 ---
+Gilbert et al. Page 7
+non-study related issues again demonstrating the tolerability of the regimen. Only 1 patient
+had a break due to mucositis. Pill diaries and pharmacokinetic assessment demonstrated
+good compliance with the daily dosing of the erlotinib. Our pharmacokinetic data
+demonstrated that cisplatin and RT did not affect steady state levels of erlotinib and is
+consistent with previously published data (18).
+Previous investigations of EGFR inhibitors in combination with RT or chemoRT have been
+reported. Cetuximab concurrent with RT demonstrated clinical benefit but some limitations.
+Bonner et. al. demonstrated the superior clinical outcomes of radiation therapy plus EGFR
+inhibition (cetuximab) versus radiation therapy alone in locally advanced HNC (22). The
+combination of radiation and cetuximab has been associated with grade 3 and 4 skin
+reactions. Moreover, cetuximab has been associated with potentially life-threatening
+infusion reactions, with a higher rate in some parts of the United States. The superiority of
+this regimen over cisplatin-based CCR has not yet been demonstrated. It remains unclear
+whether toxicity of the combination of cisplatin and EGFR inhibition is acceptable. In fact, a
+Phase II trial of concurrent cetuximab 400 mg/m2 weeks 1 and then 250 mg/m2 weekly,
+cisplatin 100 mg/m2 weeks 1 and 4 and concomitant boost RT (1.8 Gy/d for total 70 Gy) for
+locally advanced head and neck cancer closed early due to significant adverse events (23).
+While further investigation of the safety profile of that combination is needed, the study did
+demonstrate a 3 year overall survival rate of 76% and a 3-year progression free survival of
+56%(23).
+Our regimen also demonstrates similar response rates to other Phase I investigations of TKI
+based therapy in HNC. Chen et. al. treated 23 patients with locally advanced HNC with a
+gefitinib plus radiation or gefitinib plus radiation and weekly cisplatin. The most common
+acute grade 3–4 toxicity for gefitinib plus radiotherapy alone was mucositis but the
+prevalence was consistent with RT alone. Clinical complete response rate was 91% (24). In
+a small Phase I trial of gefitinib with paclitaxel and RT, investigators noted prolonged
+stomatitis (beyond expected for RT alone) and a response rate of 70%. In our study, EGFR
+inhibition did not increase the rate of grade 3–4 mucositis over CCR alone and compares
+favorably to others studies of EGFR inhibition plus CCR (25). Our overall response rate of
+83% is consistent with prior reports of EGFR inhibition plus CCR as noted above. While
+Worden et. al. did not evaluate TKI based therapy, this CCR-based study did concentrate on
+oropharyngeal tumors, which provided the mainstay of our study population. Worden
+demonstrated CCR of 92% but this trial was designed to evaluate response rate and the
+majority were HPV positive (26). A phase II trial of the regimen would need to be done in
+order to determine whether responses to this regimen compare favorably to those as noted
+above.
+Thus, investigation of alternate methods of EGFR inhibition proves to be potentially
+important. Ultimately, further questions will need to be addressed: 1) can the addition of
+EGFR inhibition to the backbone of chemotherapy and RT improve clinical outcomes 2) do
+certain head and neck cancer populations benefit more than others (ex: Human
+Papillomavirus positive versus negative tumors). While these questions are outside the scope
+of this investigation, they provide a rational basis for why a well-tolerated, easily
+administered EGFR inhibitor should be evaluated for curative therapy of locally advanced
+HNC. The low dose daily cisplatin regimen proved attractive for this investigation as
+Jeremic et. al. demonstrated its tolerability as well as the oral dosing of erlotinib Moreover,
+the drug can be crushed and placed in a gastrostomy tube if necessary. Given the need to
+identify efficacious, well-tolerated novel regimens, we performed this Phase I trial of RT in
+combination with erlotinib and daily low dose cisplatin.
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 8 ---
+Gilbert et al. Page 8
+The potential for 18F-FDG-PET to evaluate evidence of clinical response was preliminarily
+explored in this study. Interestingly, several patients demonstrated significant decrease in
+FDG avidity from baseline on the day 14 PET. While this did not correlate with any
+pharmacodynamic data, future studies should further evaluate biomarkers for response to
+erlotinib. In summary, this Phase I evaluation demonstrated that the combination is well-
+tolerated. Evidence of biological effect of single agent erlotinib was observed as early as 14
+days after initiation of the drug. Future investigation will evaluate efficacy of this
+combination of agents. It remains unclear whether the addition of erlotinib to CCR improves
+on the efficacy of CCR (cisplatin-based) alone. However, prospective evaluations are
+warranted.
+Acknowledgments
+Supported by NIH/NCI 5P30CA006973 and NIH/NCI UO1-CA-70095
+Supported by NIH grants P30CA069773 and U01CA70095. We would like to thank Susan Davidson for quality
+assurance of the data contained in this manuscript and Lucien Nedzi, Michael Carducci and Sharyn Baker for her
+scientific contributions to the manuscript.
+References
+1. Fakhry LC, Westra WH, Li S, Cmelak A, Ridge JA, Pinto H, et al. Improved survival of patients
+with human papillomavirus-positive head and neck squamous cell carcinoma in a prospective
+clinical trial. J Natl Cancer Inst. 2008; 100:261–269. [PubMed: 18270337]
+2. Forastiere AA, Goepfert H, Maor M, Pajak TF, Weber R, Morriosn W, et al. Concurrent
+chemotherapy and radiotherapy for organ preservation in advanced laryngeal cancer. N Engl J Med.
+2003; 349:2091–2098. [PubMed: 14645636]
+3. Tobias JS, Monson K, Gupta N, Macdougall H, Glaholm J, Hutchison I, et al. Chemoradiotherapy
+for locally advanced head and neck cancer: 10-year follow-up of the UK Head and Neck
+(UKHANA1) trial. Lancet Oncol. 2009; 11:66–74. [PubMed: 19875337]
+4. Cmelak AJ, Li S, Goldwasser MA, Murphy B, Cannon M, Pinto H, et al. Phase II trial of
+chemoradiation for organ preservation in resectable stage III or IV squamous cell carcinomas of the
+larynx or oropharynx: results of Eastern Cooperative Group Study E2399. J Clin Oncol. 2007;
+25:3971–3977. [PubMed: 17761982]
+5. Denis F, Garaud P, Bardet E, Alfonsi M, Sire C, Germain T, et al. Final results of the 94–01 french
+head and neck oncology and radiotherapy group randomized trial comparing radiotherapy alone
+with concomitant radiochemotherapy in advanced stage oropharynx carcinoma. J Clin Oncol. 2004;
+22:69–76. [PubMed: 14657228]
+6. Jeremic B, Milicic B, Dagovic A, Vaskovic Z, Tadic L. Radiation therapy with or without
+concurrent low dose daily chemotherapy in locally advanced, nonmetastatic squamous cell
+carcinoma of the head and neck. J Clin Oncol. 2004; 22:3540–3548. [PubMed: 15337803]
+7. Jeremic B, Shibamoto Y, Milicic B, Nikolic N, Dagovic A, Aleksandrovic J, et al.
+Hyperfractionated radiation therapy with or without concurrent low dose daily cisplatin in locally
+advanced squamous cell carcinoma of the head and neck: a prospective randomized trial. J Clin
+Oncol. 2000; 18:1458–1464. [PubMed: 10735893]
+8. Woodburn J. The epidermal growth factor receptor and its inhibition in cancer therapy. Pharmacol
+Ther. 1999; 82:241–250. [PubMed: 10454201]
+9. Chung CH, Ely K, McGavran L, Varella-Garcia M, Parker J, Parker N, et al. Increased epidermal
+growth factor receptor gene copy number is associated with poor prognosis in head and neck
+squamous cell carcinomas. J Clin Oncol. 2006; 24:4170–4176. [PubMed: 16943533]
+10. Kong CS, Narasimhan B, Cao H, Kwok S, Erickson JP, Koong A, et al. The relationship between
+human papillomavirus status and other molecular prognostic markers in head and neck squamous
+cell carcinomas. Int J Radiat Oncol Biol Phys. 2009; 74:553–561. [PubMed: 19427557]
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 9 ---
+Gilbert et al. Page 9
+11. Huang S, Bock J, Harari P. Epidermal growth factor receptor blockade with C225 modulates
+proliferation, apoptosis, and radiosensitivity in squamous cell carcinomas of the head and neck.
+Cancer Res. 1999; 59:1935–1940. [PubMed: 10213503]
+12. Cerniglia GJ, Pore N, Tsai JH, Schultz S, Mick R, Choe R, et al. Epidermal growth factor receptor
+inhibition modulates the microenvironment by vascular normalization to improve chemotherapy
+and radiotherapy efficacy. PLos One. 2009; 4:e6539. [PubMed: 19657384]
+13. Meira DD, de Almeida VH, Mororo JS, Nobrega I, Bardella L, Silva RL, et al. Combination of
+cetuximab with chemoradiation, trastuzumab or MAPK inhibitors: mechanisms of sensitisation of
+cervical cancer cells. Br J Cancer. 2009; 101:782–791. [PubMed: 19654571]
+14. Ahsan A, Hiniker SM, Davis MA, Lawrence TS, Nyati MK. Role of cell cycle in epidermal growth
+factor receptor inhibitor-mediated radiosensitization. Cancer Res. 2009; 69:5108–5114. [PubMed:
+19509222]
+15. Raben D, Helfrich B, Chan DC, Ciardiello F, Zhao L, Franklin W, et al. The effects of cetuximab
+alone and in combination with radiation and/or chemotherapy in lung cancer. Clin Cancer Res.
+2005; 11:795–805. [PubMed: 15701870]
+16. Thomas F, Rochaix P, Benlyazid A, Sarini J, Rives M, Lefebvre JL, et al. Pilot study of
+neoadjuvant treatment with erlotinib in nonmetastatic head and neck squamous cell carcinoma.
+Clin Cancer Res. 2007; 13:7086–7092. [PubMed: 18056187]
+17. Soulieres D, Senzer NN, Vokes EE, Hidalg M, Agarwala SS, Siu LL. Multicenter phase II study of
+erlotinib and oral epidermal growth factor receptor tyrosine kinase inhibitor, in patients with
+recurrent or metastatic squamous cell cancer of the head and neck. J Clin Oncol. 2004; 22:77–85.
+[PubMed: 14701768]
+18. Siu LL, Soulieres D, Chen EX, Pond GR, Chin SF, Francis P, et al. Phase I/II trial of erlotinib and
+cisplatin in patients with recurrent or metastatic squamous cell carcinoma of the head and neck: a
+Princess Margaret Hospital phase II consortium and National Cancer Institute of Canada Clinical
+Trials Group Study. J Clin Oncol. 2007; 25:2178–2183. [PubMed: 17538162]
+19. Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubinstein L, et al. New
+guidelines to evaluate the response to treatment in solid tumors. JNCI. 2000; 92:205–216.
+[PubMed: 10655437]
+20. Wahl RL, Jacene H, Kasamon Y, Lodge MA. From RECIST to PERCIST: evolving considerations
+for PET response criteria in solid tumors. J Nucl Med. 2009; 50:122s–150s. [PubMed: 19403881]
+21. Zhao M, He P, Rudek MA, Hidalgo M, Baker SD. Specific method for determination of OSI-774
+and its metabolite OSI-420 in human plasma by using liquid chromatography-tandem mass
+spectrometry. J Chromatogr B Analyt Technol Biomed Life Sci. 2003; 793(2):413–20.
+22. Bonner JA, Harari PM, Giralt J, Azarnia N, Shin DM, Cohen RB, et al. Radiotherapy plus
+cetuximab for squamous cell carcinoma of the head and neck. N Engl J Med. 2006; 354:567–578.
+[PubMed: 16467544]
+23. Pfister DG, Su YB, Kraus DH, Wolden SL, Lis E, Aliff TB, et al. Concurrent cetuximab, cisplatin
+and concomitant boost radiotherapy for locoregionally advanced, squamous cell head and neck
+cancer: a pilot phase II study of a new combined modality paradigm. J Clin Oncol. 2006; 24:1072–
+1078. [PubMed: 16505426]
+24. Chen C, Kane M, Song J, Campana J, Raben A, Hu K, et al. Phase I trial of gefitinib in
+combination with radiation or chemoradiation for patients with locally advanced squamous cell
+head and neck cancer. J Clin Oncol. 2007; 25:4880–4886. [PubMed: 17971583]
+25. Van Waes C, Allen CT, Citrin D, Gius D, Colevas AD, Harold NA, et al. Molecular and clinical
+responses in a pilot study of gefitinib with paclitaxel and radiation in locally advanced head and
+neck cancer. Int J Radiat Oncol Biol Phys. 2010; 77:447–454. [PubMed: 19879702]
+26. Worden FP, Kumar B, Lee JS, Wolf GT, Cordell KG, Taylor JM, et al. Chemoselection as a
+strategy for organ preservation in advanced oropharynx cancer: response and survival positively
+associated with HPV16 copy number. J Clin Oncol. 2008; 26:3138–3146. [PubMed: 18474879]
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 10 ---
+Gilbert et al. Page 10
+Statement of Translational Relevance
+This study evaluates the addition of an EGFR inhibitor to the traditional concurrent
+chemoradiotherapy (CCR) backbone of head and neck cancer (HNC) therapy. Given the
+overexpression of the EGFR in a majority of HNC, this regimen potentially builds on the
+efficacy of CCR alone. Additionally, imaging of response to concurrent
+chemoradiotherapy per RECIST criteria proves challenging in both pre-treatment and
+post-treatment HNC and molecularly targeted agents may not elicit traditional
+measurable responses but rather stable disease and progression free survival. This study
+demonstrates the tolerability of erlotinib with traditional CCR. Moreover, the 14 day run-
+in period of erlotinib demonstrated evidence of single agent activity and the potential
+for 18F-FDG-PET to evaluate evidence of clinical response and its role as a potential
+biomarker for response or clinical benefit.
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+
+--- Page 11 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gilbert et al. Page 11
+Table 1
+Dose Escalation and Study Schema
+Dose-Escalation Schedule
+Dose
+Dose Level
+Standard Fraction External Beam Radiation Cisplatin (Given on days of radiation
+Erlotinib* Therapy administration) Cohort Size
+Level 1 50 mg 70 Gy, 2 Gy per fraction 6 mg/m2/d 3
+Level 2 100 mg “ 6 mg/m2/d
+Level 3 150 mg “ 6 mg/m2/d
+Schema:
+Day −28 to −1 Baseline {18F}-FDG PET and CT scan
+Day 1 to 14 induction “window” Single agent, daily oral erlotinib
+Day 14 Repeat {18F}-FDG PET and CT scan
+Day 15 to 63 Radiation therapy X 7 weeks with concurrent daily low dose cisplatin (6 mg/m2) and daily oral erlotinib
+Day 64 (Week 10) Radiation and cisplatin and erlotinib completed Pharmacokinetic studies completed.
+Day 120 (week 18) Repeat imaging including {18F}-FDG PET and CT scan
+*
+Doses are stated as exact dose in mg per day.
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+
+--- Page 12 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gilbert et al. Page 12
+Table 2
+Treated Patient Characteristics
+Patients N=18
+Gender
+Female 3
+Male 15
+Age Range 42–66 yrs
+Median 55
+Mean 58
+Disease Site
+Oral Cavity 2
+Oropharynx 16
+Stage
+III 0
+IV 18
+ECOG Performance Status
+0 13
+1 5
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+
+--- Page 13 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gilbert et al. Page 13
+Table 3
+Grade 3/4 Toxicities
+Grade 3/4 Toxicity N=patients DoseLevel (erlotinib dose mg)
+Nausea 2 50
+Anorexia 2 50
+2 100
+7 150
+Xerostomia 1 50
+1 100
+1 150
+Pneumonitis 1 100
+Diarrhea 1 100
+Lymphopenia 4 50
+4 100
+7 150
+Mucositis 2 50
+2 100
+5 150
+Radiation dermatitis 2 150
+Rash 3 150
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+
+--- Page 14 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gilbert et al. Page 14
+Table 4
+Best Overall Response
+Dose Level Best Overall Response (N=number of patients)
+1 CR 3
+SD 2
+PD 1
+2 CR 1
+PR 2
+3 CR 4
+PR 5
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+
+--- Page 15 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gilbert et al. Page 15
+Table 5
+Plasma exposure to erlotinib during the course of chemoradiation
+Erlotinib C (ng/mL) OSI-420 C (ng/mL) OSI-420 : Erlotinib C ratio
+ss,min ss,min ss,min
+50 mg Alone 563.2 ± 238.9 (4) 39.5 ± 20.9 (4) 0.07 ± 0.01 (4)
+50 mg Combination 808.7 ± 536.4 (4) 61.8 ± 45.5 (4) 0.08 ± 0.01 (4)
+100 mg Alone 489.9, 542.8 (2) 30.6, 59.4 (2) 0.08, 0.12 (2)
+100 mg Combination 299.2 (1) 25.0 (1) 0.09 (1)
+150 mg Alone 741.9 ± 469.6 (7) 67.8 ± 53.7 (7) 0.09 ± 0.03 (7)
+150 mg Combination 949.3 ± 756.2 (9) 101.3 ± 90.9 (9) 0.10 ± 0.03 (9)
+*
+Values are expressed as mean ± standard deviation (n) or as individual concentrations if n <2. Css,min = average steady-state trough plasma
+concentration.
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
+
+--- Page 16 ---
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gilbert et al. Page 16
+6
+elbaT
+puorg
+tnemtaert
+yb
+,)mc3(
+MBL-VUS
+detsujda
+ni
+egnahc
+tnecreP
+eulaV
+detsujdA
+)mc3(
+MBL-VUS
+aegnahC
+%
+021
+yaD
+aegnahC
+%
+41
+yaD
+enilesaB
+leveL
+esoD
+1
+1.28−
+38.1
+2.71−
+0.6
+52.7
+6.76−
+72.1
+7.33−
+6.2
+29.3
+7.17−
+40.2
+6.3
+64.7
+2.7
+8.07−
+80.2
+9.5
+55.7
+31.7
+2
+--
+--
+5.45−
+58.3
+64.8
+--
+--
+6.74−
+52.6
+29.11
+8.78−
+0.1
+4.6−
+56.7
+71.8
+1.85−
+92.4
+8.9−
+52.9
+52.01
+3
+3.85−
+27.2
+4.02−
+2.5
+35.6
+3.92−
+93.2
+1.13−
+33.2
+83.3
+9.7−
+3.4
+8.2
+8.4
+76.4
+9.19−
+0.1
+3.32−
+74.9
+53.21
+4.09−
+0.1
+6.8−
+35.9
+34.01
+6.47−
+0.1
+21−
+28.3
+49.3
+9.68−
+0.1
+3.13−
+52.5
+46.7
+9.88−
+0.1
+9.88−
+0.1
+0.9
+2.88−
+0.1
+8.04−
+0.5
+44.8
+8.28−
+0.1
+5.11−
+51.5
+28.5
+a
+enilesab
+ot
+derapmoC
+Clin Cancer Res. Author manuscript; available in PMC 2013 March 15.
