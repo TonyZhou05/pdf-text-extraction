@@ -9,10 +9,10 @@ from research_extractor.source.pdf import PDFSource
 from research_extractor.util.utils import get_text_files_from_directory
 from research_extractor.extractor.research_value_extractor import (
     LLMClient,
-)  # your Protocol if present
+)
 from research_extractor.extractor.research_value_extractor import (
     ResponseJSONDecoder,
-)  # if exported
+)
 
 
 # -------- dataset IO --------
@@ -166,7 +166,7 @@ def main():
     )
     args = ap.parse_args()
     metrics = run(args.input, args.output, args.provider, args.fields, args.input_type)
-    # lightweight run summary for CI
+
     summary = f"# Run summary\n- Inputs: {metrics['n_inputs']}\n- OK: {metrics['n_ok']}\n- Provider: {metrics['provider']}\n- Input Type: {metrics['input_type']}\n- Output: `{args.output}`\n"
     Path("research_extractor/outputs").mkdir(exist_ok=True)
     Path(f"research_extractor/outputs/report-{args.provider}.md").write_text(

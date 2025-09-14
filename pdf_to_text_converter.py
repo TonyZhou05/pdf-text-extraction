@@ -36,15 +36,6 @@ class PDFToTextConverter:
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
     def extract_text_from_pdf(self, pdf_path: Path) -> Optional[str]:
-        """
-        Extract text from a single PDF file using pdfplumber.
-
-        Args:
-            pdf_path: Path to the PDF file
-
-        Returns:
-            Extracted text as string, or None if extraction failed
-        """
         try:
             text_parts = []
 
@@ -102,13 +93,6 @@ class PDFToTextConverter:
     def convert_all_pdfs(self, verbose: bool = True, resume: bool = True) -> dict:
         """
         Convert all PDFs in the input directory to text files.
-
-        Args:
-            verbose: Whether to show progress bar and detailed output
-            resume: Whether to skip already converted files
-
-        Returns:
-            Dictionary with conversion statistics
         """
         pdf_files = self.get_pdf_files()
 
@@ -207,7 +191,6 @@ Examples:
     args = parser.parse_args()
 
     try:
-        # Create converter instance
         converter = PDFToTextConverter(args.input_dir, args.output_dir)
 
         # Convert all PDFs

@@ -10,15 +10,8 @@ dotenv.load_dotenv()
 
 
 class PDFSource(TextSource):
-    """PDF source for reading pre-extracted text from converted text files."""
 
     def __init__(self, text_file_path: str):
-        """
-        Initialize PDF source from text file.
-
-        Args:
-            text_file_path: Path to the converted text file
-        """
         self.text_file = Path(text_file_path)
 
         # Check if text file exists
@@ -28,12 +21,6 @@ class PDFSource(TextSource):
         self.metaData = {"text_file": str(self.text_file), "file_type": "pdf_text"}
 
     def load(self) -> Document:
-        """
-        Read text from pre-extracted text file and return as Document object.
-
-        Returns:
-            Document object containing extracted text and metadata
-        """
         try:
             # Read the text file
             with open(self.text_file, "r", encoding="utf-8") as f:
@@ -70,11 +57,9 @@ class PDFSource(TextSource):
             raise Exception(f"Failed to read text file {self.text_file}: {str(e)}")
 
     def get_text(self) -> str:
-        """Get the extracted text without creating a Document object."""
         if not hasattr(self, "_text"):
             self.load()
         return self._text
 
     def get_text_file_path(self) -> str:
-        """Get the path to the corresponding text file."""
         return str(self.text_file)
