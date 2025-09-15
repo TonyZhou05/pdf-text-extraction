@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Combination phase I study of nedaplatin and gemcitabine for advanced non-small-cell lung cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2004-04-20">20 April 2004</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">T</forename><surname>Kurata</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kinki University School of Medicine</orgName>
+								<address>
+									<addrLine>377-2 Ohno-Higashi</addrLine>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka-Sayama Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Tamura</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kinki University School of Medicine</orgName>
+								<address>
+									<addrLine>377-2 Ohno-Higashi</addrLine>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka-Sayama Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><surname>Yamamoto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kinki University School of Medicine</orgName>
+								<address>
+									<addrLine>377-2 Ohno-Higashi</addrLine>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka-Sayama Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Nogami</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kinki University School of Medicine</orgName>
+								<address>
+									<addrLine>377-2 Ohno-Higashi</addrLine>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka-Sayama Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Satoh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kinki University School of Medicine</orgName>
+								<address>
+									<addrLine>377-2 Ohno-Higashi</addrLine>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka-Sayama Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Kaneda</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kinki University School of Medicine</orgName>
+								<address>
+									<addrLine>377-2 Ohno-Higashi</addrLine>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka-Sayama Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Nakagawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kinki University School of Medicine</orgName>
+								<address>
+									<addrLine>377-2 Ohno-Higashi</addrLine>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka-Sayama Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>Dr</roleName><forename type="first">M</forename><surname>Fukuoka</surname></persName>
+							<email>mfukuoka@med.kindai.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kinki University School of Medicine</orgName>
+								<address>
+									<addrLine>377-2 Ohno-Higashi</addrLine>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka-Sayama Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kinki University School of Medicine</orgName>
+								<address>
+									<addrLine>377-2 Ohno-Higashi</addrLine>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka-Sayama Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Combination phase I study of nedaplatin and gemcitabine for advanced non-small-cell lung cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2004-04-20">20 April 2004</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7A6433DE321A4356AED9718D9050B9A7</idno>
+					<idno type="DOI">10.1038/sj.bjc.6601817</idno>
+					<note type="submission">Received 30 December 2003; revised 1 March 2004; accepted 2 March 2004;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>combination phase I study</term>
+					<term>maximum tolerated dose</term>
+					<term>nedaplatin</term>
+					<term>gemcitabine</term>
+					<term>non-small-cell lung cancer</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>To establish the toxicities and maximum tolerated dose (MTD) of nedaplatin with gemcitabine, and to observe their antitumour activity, we conducted a combination phase I study in advanced non-small-cell lung cancer (NSCLC). Patients received nedaplatin (60 -100 mg m À2 given intravenously over 90 min) on day 1, and gemcitabine (800 -1000 mg m À2 given intravenously over 30 min) on days 1, 8, every 3 weeks. In total, 20 patients with locally advanced or metastatic NSCLC who received no prior chemotherapy or one previous chemotherapy regimen were enrolled. The most frequent toxicities were neutropenia and thrombocytopenia; nonhaematological toxicities were generally mild. Three out of six patients experienced dose-limiting toxicities (neutropenia, thrombocytopenia and delayed anaemia) at dose level 4, 100 mg m À2 nedaplatin with 1000 mg m À2 gemcitabine, which was regarded as the MTD. There were three partial responses, for an overall response rate of 16.7%. The median survival time and 1-year survival rate were 9.1 months and 34.1%, respectively. This combination is well tolerated and active for advanced NSCLC. The recommended dose is 80 mg m À2 nedaplatin with 1000 mg m À2 gemcitabine. This combination chemotherapy warrants a phase II study and further evaluation in prospective randomised trials with cisplatin-or carboplatin-based combinations as first-line chemotherapy for advanced NSCLC.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Based on the results of a meta-analysis (Non-Small Cell Lung Cancer Collaborative Group, 1995), cisplatin-based chemotherapy is considered the best available therapy for patients with locally advanced or metastatic non-small-cell lung cancer (NSCLC). Although several new agents with novel mechanisms and significant activity against NSCLC have been introduced, such as taxanes, gemcitabine and vinorelbine, any of these agents used in combination with a platinum agent provide equivalent survival improvement <ref type="bibr">(Kelly et al, 2001;</ref><ref type="bibr">Schiller et al, 2002;</ref><ref type="bibr">Fossella et al, 2003)</ref>. The prognosis of advanced NSCLC patients who receive cisplatin-based chemotherapy is still poor, and the renal and gastrointestinal toxicities caused by cisplatin often limit its clinical use. Therefore, development of different treatment strategies is necessary.</p><p>Nedaplatin is a second-generation platinum derivative that has shown equivalent antitumour activity and lower toxicity -less nausea, and lower nephrotoxicity and neurotoxicity -than cisplatin <ref type="bibr">(Kameyama et al, 1990;</ref><ref type="bibr">Ota et al, 1992)</ref>. A phase I study demonstrated the maximum tolerated dose (MTD) and the recommended dose (RD) for phase II studies of nedaplatin was 120 and 100 mg m À2 , respectively, and the dose-limiting toxicity (DLT) was thrombocytopenia <ref type="bibr">(Ota et al, 1992)</ref>. Two independent phase II studies of nedaplatin for NSCLC showed response rates of 14.7 and 20.5%, respectively, and 16.7 and 12.5% with the patients who had received chemotherapy previously <ref type="bibr">(Fukuda et al, 1990;</ref><ref type="bibr">Furuse et al, 1992a)</ref>. Based on these promising results, a randomised study of nedaplatin -vindesine vs cisplatin -vindesine was conducted for previously untreated NSCLC patients in Japan and indicated that nedaplatin-based chemotherapy yielded similar response rates and overall survival <ref type="bibr">(Furuse et al, 1992b)</ref>. Leucopenia, renal toxicities and gastrointestinal toxicities were more frequent in the cisplatin -vindesine arm, while thrombocytopenia was more frequent in the nedaplatin -vindesine arm.</p><p>Gemcitabine, an analogue of deoxycytidine, is a pyrimidine antimetabolite, that shows a reproducible response rates of 420% with a median survival time of 9 months, offering a quality of life benefit in comparison with best supportive care <ref type="bibr" target="#b0">(Abratt et al, 1994;</ref><ref type="bibr" target="#b3">Anderson et al, 1994;</ref><ref type="bibr">Gatzemeier et al, 1996;</ref><ref type="bibr" target="#b2">Anderson et al, 2000)</ref>. The main toxicity of gemcitabine is mild-to-moderate myelosuppression. The combination of gemcitabine and cisplatin showed synergistic effects in preclinical studies because gemcitabine inhibited the repair of DNA damage caused by cisplatin <ref type="bibr">(Bergman et al, 1996)</ref>, and achieved high response rates along with improvements in median survival time in clinical setting <ref type="bibr">(Sandler et al, 2000;</ref><ref type="bibr">Schiller et al, 2002;</ref><ref type="bibr" target="#b1">Alberola et al, 2003)</ref>.</p><p>Recently, carboplatin has attracted attention ahead of nedaplatin because it has similar activity to cisplatin with fewer nonhaematological toxicities. The available data suggest that carboplatinpaclitaxel or carboplatin -gemcitabine should be considered among standard regimen for advanced NSCLC <ref type="bibr">(Kelly et al, 2001;</ref><ref type="bibr">Grigorescu et al, 2002;</ref><ref type="bibr">Rudd et al, 2002;</ref><ref type="bibr">Schiller et al, 2002)</ref>.</p><p>It seems that nedaplatin has activity and toxicity profiles similar to those of carboplatin, although no randomised trial has not been done to allow direct comparison <ref type="bibr">(Fukuda et al, 1990;</ref><ref type="bibr">Furuse et al, 1992a;</ref><ref type="bibr">Ota et al, 1992)</ref>. <ref type="bibr">Moreover, Matsumoto et al (2001)</ref> demonstrated that the combination of nedaplatin and gemcitabine resulted in enhanced inhibition of tumour growth in vivo and the antitumour efficacy of the combination was superior to that of cisplatin -gemcitabine or carboplatin -gemcitabine. Based on the results of a preclinical study, we designed the present phase I study of the efficacy of the combination of nedaplatin and gemcitabine for advanced NSCLC. The purpose of this study was to establish the toxicities and MTD of this combination, to determine the RD for phase II studies, and to observe their antitumour activity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient eligibility</head><p>Patients with histologic or cytologic confirmation of locally advanced or metastatic NSCLC who received either no prior chemotherapy or one previous chemotherapy regimen were eligible. The eligibility criteria were as follows; (1) measurable lesions; (2) age p75 years; (3) Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 -1; (4) adequate organ function (a white blood count (WBC) X4000 ml À1 , a neutrophil count X2000 ml À1 , a platelet count X100 000 ml À1 , a haemoglobin count X9.5 g dl À1 , serum total bilirubin p1.5 mg dl À1 , serum transaminase p2 Â upper normal limits, a serum creatinine p upper normal limits, blood urea nitrogen (BUN) p25 mg dl À1 , PaO 2 X60 mmHg or SpO 2 X90%]; and (5) normal electrocardiogram (ECG). At least 4 weeks must have passed after the completion of previous therapy and the patients had to have recovered from the toxic effects of previous therapy. The exclusion criteria consisted of pulmonary fibrosis or interstitial pneumonitis with symptoms or apparent abnormalities on chest X-ray, massive pleural effusion or ascites, acute inflammation, pregnancy, lactation, symptomatic brain metastases, active concurrent malignancies, severe drug allergies, severe heart disease, cerebrovascular disease, uncontrollable diabetes mellitus or hypertension, severe infection, active peptic ulcer, ileus, paralysis intestinal, diarrhoea and jaundice. This study was performed at Kinki University School of Medicine and was approved by the Institutional Review Board. Written informed consent was obtained from all patients. This study was conducted in accordance with Declaration of Helsinki.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pretreatment and follow-up studies</head><p>Prior to entry, a complete history was taken and physical examination including age, height, weight, performance status, histological diagnosis, tumour stage, contents of previous treatment and presence of a complication was performed. The pretreatment laboratory investigations included a complete blood cell count, differential WBC count, platelet count, serum electrolytes, total protein, albumin, total bilirubin, transaminase, alkaline phosphatase, lactate dehydrogenase, BUN, creatinine, creatinine clearance and urinalysis. After the initiation of therapy, a complete blood cell count with a differential WBC count was performed at least twice a week. Blood chemistry profiles and chest X-ray films were obtained weekly. The lesion measurements were performed during at least every second course. Toxicities were evaluated according to the National Cancer Institute Common Toxicity Criteria (NCI-CTC) version 2 and tumour responses were assessed using the Response Evaluation Criteria in Solid Tumors (RECIST) guidelines <ref type="bibr">(Therasse et al, 2000)</ref>. Time to progression was measured from the date of registration to the date of first progression or death from any cause. Survival time was also measured from the date of registration to the date of death or latest follow-up, and was calculated using the Kaplan -Meier method <ref type="bibr">(Kaplan and Meier, 1958)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drug administration and dose escalation</head><p>The treatment schedule included nedaplatin, diluted with 500 ml of normal saline, given intravenously over 90 min on day 1, and gemcitabine with 100 ml of normal saline, given intravenously over 30 min after the completion of nedaplatin infusion on days 1 and 8, every 3 weeks. All patients were allowed to receive antiemetics with dexamethasone and granisetron, and post-therapy hydration with 1000 ml of normal saline. Granulocyte colony-stimulating factor (G-CSF) prophylaxis was not administered. Doses of gemcitabine on day 8 were given if the WBC count was 42000 ml À1 and/or the platelet count was 4750 000 ml À1 , and/or allergic reaction, fever, elevation of transaminase and pneumonitis were less than grade 2, and/or the other nonhaematological toxicities were less than grade 3. The subsequent courses were withheld until the toxic levels returned to those specified in the eligibility criteria. The doses of both drugs were decreased by one dose level if DLTs occurred. In the case of the initial dose level, the doses of nedaplatin and gemcitabine were reduced by 20 and 200 mg m À2 , respectively. Dose escalations were performed as listed in Table <ref type="table" target="#tab_0">1</ref>. Intrapatient dose escalation was not allowed. At least three patients were treated at each dose level, and three additional patients were entered at the same dose level if DLT was observed in one of the first three patients. The MTD was defined as the dose level at which more than two of three patients, or three of six patients experienced DLT. The definition of DLT was as follows: (1) grade 4 leukopenia, (2) grade 4 neutropenia for more than 4 days, (3) thrombocytopenia o20 000 ml À1 , (4) grade 3 febrile neutropenia, (5) grade 3 nonhaematologic toxicity except for nausea/vomiting, (6) delay of administration of gemcitabine on day 8 over a week for toxicities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Between <ref type="bibr">August 2001 and</ref><ref type="bibr">February 2003, 20</ref> patients were enrolled in this study. The total and the median number of courses were 56 and 3 (range 1 -6), respectively. The patients' characteristics are shown in Table <ref type="table" target="#tab_1">2</ref>. The majority of patients had a PS of 1. There  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><p>were five previously untreated patients (level 3, two patients; level 4, three patients) and 15 (75%) previously treated patients. Of the previously treated patients, five had received prior surgery, five had prior radiotherapy, and 14 had prior chemotherapy. Seven had received platinum-based chemotherapy (cisplatin, three patients; carboplatin, four patients), and four a nonplatinum regimen. Responses to previous chemotherapy included partial response in five patients, stable disease in seven, progressive disease in one, and not evaluable in one. The median interval from previous treatment was 16 weeks (range 4 -92.5 weeks). Out of 20 patients, 18 were assessable for toxicity and response. Two patients at level 3 were excluded from the toxicity and response evaluation because they had refused this study after registration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicities</head><p>The haematological and nonhaematological toxicities observed during the first course are shown in Tables <ref type="table" target="#tab_2">3</ref> and <ref type="table" target="#tab_3">4</ref>, respectively. The most frequent toxicities observed in the first cycle were neutropenia and thrombocytopenia (Table <ref type="table" target="#tab_2">3</ref>). One-third of the patients had grade 3 thrombocytopenia, and one patient received a platelet transfusion the first course. Three patients had grade 4 neutropenia for no longer than 4 days. The nadir for neutropenia and thrombocytopenia occurred on day 15 (median, range 5 -18), and on day 15 (median, range 8 -18), respectively. Nonhaematological toxicities generally were mild because none of the patients had experienced more than grade 3 in the first course (Table <ref type="table" target="#tab_3">4</ref>). The major toxicities following all courses are listed in Table <ref type="table">5</ref>. Grade 3 thrombocytopenia occurred in 16 out of 56 courses, and three patients received platelet transfusion (one patient at level 1, one at level 3 and one at level 4). However, no patient had haemorrhagic complications. The most frequent nonhaematological toxicities were elevation of transaminase activity, nausea and appetite loss, but all were mild. One previously untreated patient at level 3 experienced grade 3 pneumonitis after the fifth course, probably induced by this treatment, and the patient's condition improved after the administration of steroid. There was no treatment-related death. One of the 18 patients at level 4 underwent dose reduction after the first course due to neutropenia, and two patients at level 3 did not receive gemcitabine on day 8 because they had neutropenia, thrombocytopenia and high transaminase activity. Delays in the commencement of subsequent courses occurred in 11 courses, and the median length of the delay before starting the subsequent course was 21 days (21 -35 days).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MTD and DLTs</head><p>At levels 1 and 2, none of the patients had developed a DLT. Haematological and nonhaematological toxicities were generally mild at these levels, although one patient had grade 3 thrombocytopenia at level 1. At level 3, two of six assessable patients had developed DLTs. Both could not receive their scheduled dose of gemcitabine on day 8 because they had neutropenia, thrombocytopenia and high transaminase activity. At level 4, three of six patients had developed DLTs. One patient received G-CSF for neutropenia, not lasting more than 4 days, which was considered as the DLT. Another patient required a platelet infusion because of thrombocytopenia o20 000 ml À1 . The third patient could not receive the second course due to the delayed anaemia, also considered as DLT. Therefore, dose level 4, 100 mg m À2 nedaplatin with 1000 mg m À2 gemcitabine was regarded as the MTD. The recommended dose level for further phase II study was determined to be 80 mg m À2 nedaplatin with 1000 mg m À2 gemcitabine (dose level 3 in this study).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response and survival</head><p>There were three partial responses, for an overall response rate of 16.7%. As for squamous cell carcinoma, only one out of seven   </p><formula xml:id="formula_0">2 3 4 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4 1 3 0 2 1 0 0 0 1 2 0 0 0 1 1 1 0 0 2 1 0 0 2 3 1 0 2 0 0 1 0 1 1 0 0 3 0 0 0 0 1 2 0 0 3 6 1 1 2 1 0 2 0 0 3 1 1 2 1 2 0 3 3 0 0 0 4 6 1 0 3 2 0 0 0 3 1 2 0 2 1 3 0 0 3 3 0 0</formula><formula xml:id="formula_1">2 3 4 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4 1 3 3 0 0 0 0 3 0 0 0 0 2 1 0 0 0 3 0 0 0 0 2 3 1 1 1 0 0 3 0 0 0 0 1 2 0 0 0 1 2 0 0 0 3 6 2 3 1 0 0 5 1 0 0 0 4 2 0 0 0 3 1 2 0 0 4 6 2 2 2 0 0 6 0 0 0 0 6 0 0 0 0 1 5 0 0 0 Infection grade Fever grade Appetite loss grade Constipation grade Dose level No. of patients 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4 1 3 3 0 0 0 0 3 0 0 0 0 3 0 0 0 0 3 0 0 0 0 2 3 2 0 1 0 0 2 1 0 0 0 1 2 0 0 0 3 0 0 0 0 3 6 6 0 0 0 0 6 0 0 0 0 2 4 0 0 0 4 2 0 0 0 4 6 4 0 2 0 0 6 0 0 0 0 2 4 0 0 0 4 2 0 0 0 A phase I</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><p>patients had a partial response. The median progression-free survival time was 5.1 months. The median survival time and 1-year survival rate were 9.1 months and 34.1%, respectively. Out of 15 patients who had received prior treatment, two (13.3%) achieved a partial response, and there was no clear relationship between responses to previous treatment and responses to this regimen. For previously treated patients, the median survival time and 1-year survival rate were 9.2 months and 40.3%, respectively. Among five previously untreated patients, one (20%) achieved a partial response and the median survival time and 1-year survival rate were 12.0 months and 50.0%, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Many recent randomised clinical trials have shown that the combinations of cisplatin with one of the new agents, such as gemcitabine, taxanes or vinorelbine, is the standard therapy for patients with locally advanced or metastatic NSCLC <ref type="bibr">(Non-Small Cell Lung Cancer Collaborative Group, 1995;</ref><ref type="bibr">Kelly et al, 2001;</ref><ref type="bibr">Schiller et al, 2002;</ref><ref type="bibr">Fossella et al, 2003)</ref>. As it is known that cisplatin strongly promotes nephrotoxicity, neurotoxicity and gastrointestinal toxicity, second-generation platinum-containing compounds including carboplatin have attracted attention. Based on several randomised trials that have shown that the combination of carboplatin with paclitaxel produces similar response rates and overall survival with a more favourable toxicity profile than the combination of cisplatin with new agents <ref type="bibr">(Kelly et al, 2001;</ref><ref type="bibr">Scagliotti et al, 2002;</ref><ref type="bibr">Schiller et al, 2002)</ref>, combined therapy of carboplatin and paclitaxel is considered to be a standard therapy. More recently, the combination of carboplatin with gemcitabine has become attractive as a therapy for advanced NSCLC. Some randomised studies have indicated that carboplatin -gemcitabine regimen offers equivalent median survival compared with cisplatin -gemcitabine or mitomycin -vinblastine -cisplatin /mitomycin -ifosfamide -cisplatin <ref type="bibr">(Danson et al, 2003;</ref><ref type="bibr">Zatloukal et al, 2003)</ref>, and results in significant improvements in overall survival over those for gemcitabine alone or the older cisplatin-containing regimens <ref type="bibr">(Grigorescu et al, 2002;</ref><ref type="bibr">Rudd et al, 2002;</ref><ref type="bibr">Sederholm, 2002)</ref>. However, neutropenia and thrombocytopenia were more common in carboplatin -gemcitabine regimens than others; thrombocytopenia was particularly common. Like carboplatin, nedaplatin is also a second-generation platinum derivative that appears to have a similar mechanism and toxicity profile to carboplatin, although direct comparison has not been performed. Moreover, in vivo study suggested that nedaplatin -gemcitabine resulted in more enhanced inhibition of tumour growth than cisplatin -gemcitabine or carboplatingemcitabine. These results prompted us to investigate nedaplatin-based combinations and to conduct this phase I study.</p><p>With respect to toxicities, the most frequent toxicities were haematological toxicities, especially neutropenia and thrombocytopenia. Eight of 18 patients (44.4%) developed more than grade 3 neutropenia after the first courses, and after 16 out of 56 (28.6%) courses overall. On the other hand, six out of 16 patients (37.5%) developed grade 3 thrombocytopenia after the first courses, and after 16 out of 56 courses (37.5%) overall. However, patients required platelet transfusions during only three courses. In addition, one previously untreated patient developed drug-related pneumonitis, which improved with the administration of steroid, at level 3 after the fifth course.</p><p>Overall, the toxicities of the combination of nedaplatin with gemcitabine were generally mild and this combination chemotherapy is both well tolerated and active against advanced NSCLC.</p><p>The overall response rate of 16.7%, the median survival time of 9.1 months, and 1-year survival rate of 34.1% in this study were quite acceptable because most patients had been given prior chemotherapy. As evaluation of antitumour activity was not a primary objective, and our patient population was small and heterogeneous, we are unable to draw definitive conclusions about the activity of this regimen. Currently, it is still controversial whether novel platinum compounds such as carboplatin and nedaplatin could replace cisplatin for the treatment of advanced NSCLC. However, when not only antitumour activity but also palliation are the main goals of treatment, these new platinum compounds might play a useful role because of their favourable toxicity profile. Therefore, nedaplatin -gemcitabine warrants a phase II study, and further evaluation in prospective randomised trials with cisplatin-or carboplatin-based combinations as a firstline chemotherapy for advanced NSCLC in order to investigate whether nedaplatin could replace cisplatin or carboplatin.</p><p>In conclusion, the combination of nedaplatin with gemcitabine is well tolerated and active for advanced NSCLC. The MTD and recommended dose level are 100 mg m À2 nedaplatin with 1000 mg m À2 gemcitabine and 80 mg m À2 nedaplatin with 1000 mg m À2 gemcitabine, respectively.</p><p>Table <ref type="table">5</ref> Toxicities following all courses of nedaplatin and gemcitabine (56)</p><p>Grade 1 2 3 4 W B C 1 3 2 6 1 0 0 A N C 1 5 1 5 1 3 3 Hb 24 27 1 0 Plt 22 14 16 0 Nausea 17 4 0 0 Vomiting 6 0 0 0 Appetite loss 21 0 0 0 Fatigue 15 0 0 0 Constipation 6 7 0 0 Transaminase 27 5 0 0 Neuropathy 5 0 0 0 Pneumonitis 0 0 1 0 Fever 1 0 0 0 Infection 0 3 1 0</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>study of nedaplatin and gemcitabine T Kurata et al 2094 British Journal of Cancer (2004) 90(11), 2092 -2096 &amp; 2004 Cancer Research UK</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Dose-escalation schema</figDesc><table><row><cell></cell><cell cols="3">Nedaplatin dose Gemcitabine dose No. of patients</cell></row><row><cell>Dose level</cell><cell>(mg m À2 )</cell><cell>( m g m À2 )</cell><cell>(courses)</cell></row><row><cell>1</cell><cell>60</cell><cell>800</cell><cell>3 (8)</cell></row><row><cell>2</cell><cell>80</cell><cell>800</cell><cell>3 (10)</cell></row><row><cell>3</cell><cell>80</cell><cell>1000</cell><cell>8 (18)</cell></row><row><cell>4</cell><cell>100</cell><cell>1000</cell><cell>6 (20)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Patients' characteristics</figDesc><table><row><cell>No. of patients</cell><cell></cell><cell>20</cell></row><row><cell>Age, years</cell><cell>Median</cell><cell>63.5</cell></row><row><cell></cell><cell>Range</cell><cell>36 -74</cell></row><row><cell>Sex</cell><cell>Male/female</cell><cell>17/3</cell></row><row><cell>Performance status</cell><cell>0/1</cell><cell>5/15</cell></row><row><cell>Histology</cell><cell>Adeno/squamous</cell><cell>13/7</cell></row><row><cell>Stage</cell><cell>IIIB/IV</cell><cell>4/16</cell></row><row><cell>Prior therapy</cell><cell>None</cell><cell>5</cell></row><row><cell></cell><cell>Surgery</cell><cell>5</cell></row><row><cell></cell><cell>Radiation</cell><cell>6</cell></row><row><cell></cell><cell>Chemotherapy</cell><cell>14</cell></row><row><cell></cell><cell>CDDP-based</cell><cell>3</cell></row><row><cell></cell><cell>CBDCA-based</cell><cell>4</cell></row><row><cell></cell><cell>Nonplatinum</cell><cell>4</cell></row><row><cell></cell><cell>UFT</cell><cell>2</cell></row><row><cell></cell><cell>Gefitinin</cell><cell>1</cell></row></table><note><p>2093 British Journal of Cancer (2004) 90(11), 2092 -2096 &amp; 2004 Cancer Research UK</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Haematological toxicity following first course of nedaplatin and gemcitabine</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>WBC grade</cell><cell>ANC grade</cell><cell>plt grade</cell><cell>Hb grade</cell></row><row><cell>Dose level</cell><cell>No. of patients</cell><cell>0</cell><cell>1</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Nonhaematological toxicity following first course of nedaplatin and gemcitabine</figDesc><table><row><cell></cell><cell>Nausea grade</cell><cell>Vomiting grade</cell><cell>Fatigue grade</cell><cell>Transaminase grade</cell></row><row><cell>Dose level No. of patients 0</cell><cell>1</cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2004) 90(11), 2092 -2096 &amp; 2004 Cancer Research UK</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (2004) 90(11), 2092 -2096 &amp; 2004 Cancer Research UK Clinical</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><p>Bergman AM, Ruiz van Haperen VW, Veerman G, Kuiper CM, Peters <ref type="bibr">GJ (1996)</ref>  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety profile of gemcitabine in non-small-cell lung cancer: a phase II study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Abratt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Bezwoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Falkson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goedhals</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hacking</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rugg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1535" to="1540" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Cisplatin plus gemcitabine versus a cisplatin-based triplet versus nonplatinum sequential doublets in advanced non-small-cell lung cancer: a Spanish Lung Cancer Group phase III randomized trial</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Alberola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Camps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Provencio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Isla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vadell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruiz-Casado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Azagra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Jimenez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Gonzalez-Larriba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Diz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cardenal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Artal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carrato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Morales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Las Penas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Felip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lopez-Vivanco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="3207" to="3213" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Gemcitabine plus best supportive care (BSC) vs BSC in inoperable non-small cell lung cancer -a randomized trial with quality of life as the primary outcome</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hopwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Stephens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thatcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cottier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nicholson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Milroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Maughan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Falk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Bond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Burt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Connolly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Mcillmurray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmichael</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="447" to="453" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Single-agent activity of weekly gemcitabine in advanced non-small cell lung cancer. A phase II study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Back</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thatcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Walling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Hansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1821" to="1826" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

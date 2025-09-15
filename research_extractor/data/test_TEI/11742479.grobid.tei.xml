@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase I and pharmacokinetic study of intraperitoneal topotecan</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Hofstra</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ame</forename><surname>Bos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ege</forename><surname>De Vries</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Agj</forename><surname>Van Der Zee</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Gynaecologic Oncology</orgName>
+								<orgName type="institution">University Hospital Groningen</orgName>
+								<address>
+									<postBox>PO Box 30.001</postBox>
+									<postCode>9700 RB</postCode>
+									<settlement>Groningen</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="department" key="dep2">Slotervaart Hospital</orgName>
+								<address>
+									<addrLine>Louwesweg 6</addrLine>
+									<postCode>1066 EC</postCode>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Rosing</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="department" key="dep2">Slotervaart Hospital</orgName>
+								<address>
+									<addrLine>Louwesweg 6</addrLine>
+									<postCode>1066 EC</postCode>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Mulder</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Aalders</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Gynaecologic Oncology</orgName>
+								<orgName type="institution">University Hospital Groningen</orgName>
+								<address>
+									<postBox>PO Box 30.001</postBox>
+									<postCode>9700 RB</postCode>
+									<settlement>Groningen</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Phb</forename><surname>Willemse</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A phase I and pharmacokinetic study of intraperitoneal topotecan</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EB58671E2E00E8A1FA76673E871623F2</idno>
+					<idno type="DOI">10.1054/bjoc.2001.2161</idno>
+					<note type="submission">Received 27 November 2000 Revised 2 August 2001 Accepted 17 September 2001</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>intraperitoneal</term>
+					<term>topotecan</term>
+					<term>ovarian cancer</term>
+					<term>pharmacokinetics</term>
+					<term>phase I 1627</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>To evaluate the feasibility and pharmacology of intraperitoneal (IP) topotecan. Patients and methods: Fifteen patients with recurrent ovarian cancer in a phase I trial were treated with escalating IP topotecan doses (5-30 mg/m 2 ) for pharmacokinetic analysis. Results: Dose limiting toxicity (DLT) was acute hypotension, chills and fever at the 30 mg/m 2 dose level. Haematological toxicity and abdominal pain were mild for all dose levels studied. Pharmacokinetics: Peak plasma levels of total topotecan were reached at 2.7 ± 1.1 h after IP instillation. The apparent V ss was 69.9 ± 25.4 L/m 2 , plasma clearance 13.4 ± 2.5 L/h/m 2 and plasma T1/2 3.7 ± 1.3 h. The plasma AUC was correlated with the dose (R = 0.95, P &lt; 0.01). The plasma AUC ratio of lactone versus total topotecan (lactone + carboxy-forms) increased with the dose from 16% to 55%, (R = 0.84, P &lt; 0.01). Peritoneal total topotecan was cleared from the peritoneal cavity at 0.4 ± 0.3 L/h.m 2 with a T1/2 = 2.7 ± 1.7 h. The mean peritoneal/plasma AUC ratio for total topotecan was 54 ± 34. Conclusion: A substantial dose of topotecan can be delivered by the IP route, achieving cytotoxic plasma levels of topotecan, with acceptable toxicity. The recommended dose for further phase II trials is 20 mg/m 2 IP, which enables combination with active doses of other cytotoxic drugs, in view of its limited myelotoxicity when given by this route.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Topotecan (Hycamtin), a semisynthetic water-soluble derivate of camptothecin, is a potent inhibitor of DNA topoisomerase I in vitro <ref type="bibr" target="#b17">(Kingsbury et al, 1991)</ref> and has demonstrated promising antitumour activity in a wide variety of tumours, including ovarian cancer and small cell lung cancer <ref type="bibr" target="#b34">(Ten Bokkel Huinink et al, 1997;</ref><ref type="bibr" target="#b2">Ardizzonni et al, 1997)</ref>. A recent study showed that topotecan has efficacy at least equivalent to paclitaxel manifested by a higher response rate and longer time to progression in patients with recurrent epithelial ovarian cancer and it has shown cytotoxic activity in patients refractory to platinum and paclitaxel <ref type="bibr" target="#b34">(Ten Bokkel Huinink et al, 1997)</ref>. In patients who failed platinum based chemotherapy, response rates ranged from 13% to 25% with a duration of 22-32 weeks <ref type="bibr" target="#b24">(Neijt et al, 1991;</ref><ref type="bibr" target="#b18">Kudelka et al, 1996;</ref><ref type="bibr" target="#b34">Ten Bokkel Huinink et al, 1997)</ref>. Topotecan binds with the topoisomerase I-DNA complex and interferes with the process of DNA breakage and resealing, resulting in DNA breaks, fragmentation and cell death <ref type="bibr" target="#b11">(Hertzberg et al, 1989;</ref><ref type="bibr" target="#b15">Hsiang et al, 1989)</ref>. To date, activity has been observed primarily with continuous and frequent dosing schedules, particularly when topotecan is given as a 1.5 mg/m 2 /day infusion on 5 consecutive days every 21 days, with myelotoxicity as the dose limiting factor <ref type="bibr" target="#b18">(Kudelka et al, 1996;</ref><ref type="bibr" target="#b34">Ten Bokkel Huinink et al, 1997)</ref>. Under physiological conditions the active lactone moiety of topotecan undergoes a rapid and reversible pH-dependent conversion into a carboxylated open-ring form, with less topoisomerase I inhibiting activity. At pH 7.4 the open-ring form predominates at equilibrium and topotecan is stable in infusion fluids at pH &lt; 4.0, but unstable in plasma <ref type="bibr" target="#b30">(Rowinsky et al, 1992;</ref><ref type="bibr" target="#b36">Verweij et al, 1993;</ref><ref type="bibr" target="#b9">Herben et al, 1996)</ref>.</p><p>Direct intraperitoneal (IP) installation of some cytotoxic agents offers the potential of exposing the IP tumour to high concentrations with less of the usual systemic side effects <ref type="bibr" target="#b20">(Markman et al, 1992;</ref><ref type="bibr">Markman, 1998a)</ref>. Randomized studies have shown less toxicity and an increased disease free survival in the group treated with IP chemotherapy <ref type="bibr" target="#b1">(Alberts et al, 1996;</ref><ref type="bibr">Markman et al, 1998b;</ref><ref type="bibr" target="#b13">Hofstra et al, 2000)</ref>. A study on the feasibility of a triple drug schedule with cisplatin, paclitaxel and topotecan has shown that full IV doses of these drugs can not be reached due to severe myelotoxicity <ref type="bibr" target="#b10">(Herben et al, 1999)</ref>. We wanted to study if IP instillation of full doses of topotecan would be possible without prohibitive myelotoxicity, with the aim to combine this drug with standard doses of the two other compounds in a subsequent study. Therefore, the aim of this study was to investigate the safety and pharmacokinetic properties of IP topotecan in patients with recurrent ovarian cancer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Eligible patients were between 18 and 75 years of age with advanced recurrent ovarian cancer and with a life expectancy of &gt; 12 weeks. In the absence of histological evidence of disease progression, patients could be entered into this trial on the basis of repeated elevated CA125 levels. Patients had received at least one prior treatment with platinum-and paclitaxel containing chemotherapy, but no topotecan or other topo-isomerase inhibitors. All patients had a performance status of 0-2, according to WHO criteria, normal blood counts (leucocytes 3.0 × 10 9 /L, platelets 100 × 10 9 /L) and adequate renal-(serum creatinine 1.5 × upper normal limit) or liver function (bilirubin 1.5 × upper normal limit). Exclusion criteria included patients with borderline ovarian tumours or germ cell tumours, complete bowel obstruction, a history of atrial or ventricular arrhythmias, congestive heart failure, or documented myocardial infarction within the previous 6 months. Patients with active infection or other serious medical conditions were also excluded. Finally, patients with peritoneal adhesions which preclude homogenous distribution of peritoneal fluid were excluded. The study was approved by the local Ethical Committee. All patients gave written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment plan</head><p>All patients had a surgically implanted peritoneal-access-port (PAP) catheter <ref type="bibr" target="#b3">(Arts et al, 1998)</ref>. Before administration of IP topotecan, fluid distribution was controlled by the instillation of 99 Tc-colloid and an even distribution over all four quadrants was obligatory for study entry. <ref type="bibr" target="#b19">(Levenback et al, 1994)</ref>. Formulated topotecan, dissolved in 1 L of normal saline (pH = 4) was infused over 1 h into the abdominal cavity, after previous infusion of 1 L of normal saline at 37˚C on day 1. The projected dose steps of topotecan were 5-10-15-20-30 mg/m 2 /day IP in 3 patients on each dose level.</p><p>Cycles were repeated every 3 weeks to a maximum of 8. Ondansetron 8 mg was administered IV 1 h prior to topotecan infusion. Standard slow-release morphine 20 mg orally and rectal diazepam 10 mg were administered once before topotecan infusion in order to minimize acute abdominal discomfort to keep the patient comfortable during the period of IP infusion. No steroids were given before or after topotecan. In case of inadequate bone marrow recovery on day 21 (leucocytes &lt;3.0 × 10 9 /L or platelets &lt;100 × 10 9 ), administration was delayed for 1 week. Patients went off study in case of tumour progression, topotecan hypersensitivity, or after completing 8 treatment cycles. Non-haematologic toxicity grade III or higher, infection or bleeding due to haematologic toxicity or haematological toxicity grade IV led to dose reduction to the nearest level and repeated haematological toxicity grade IV to discontinuation of treatment. For the determination of dose-limiting toxicity and the MTD, grade IV haematologic and grade III non-haematologic toxicity were considered as doselimiting for this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment</head><p>At baseline and before each cycle of therapy, a physical examination was performed, with a complete blood count, serum CA125 (IMX Ca-125, Abbott Diagnostics, Chicago, IL) and blood chemical measurements. On day 8 and 15 of each cycle a complete blood count was performed. All initially positive radiology (CTscan, ultrasound) examinations were repeated after completion of therapy. Toxicities were recorded according to the WHO grading system. A complete response was defined as no clinical evidence of disease including a normalized CA125 level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Topotecan pharmacokinetics</head><p>Pharmacokinetic sampling was performed on day 1 of the first treatment cycle. Serum and IP fluid samples were collected at 0, 1, 2, 4, 6, 10 and 24 h after the start of IP topotecan, which was administered at 37˚C over 1 h. Plasma was withdrawn by IV sampling and IP-fluid via the PAP-catheter and both were collected in heparinized tubes on ice. Before the collection of each IP sample, 2 mL of peritoneal fluid was discarded for potential topotecan-residue in the catheter (internal volume about 0.5 mL). All samples were centrifuged immediately after sampling at 3000 g for 5 min at 4˚C. To prevent conversion of the lactone form to the open form, a volume of 1.0 ml methanol at -20˚C was added to 0.5 mL of the separated plasma. The sample was then centrifuged for 5 min and the supernatant was transferred to a clean tube. All samples were stored at -80˚C until analysis. Plasma and peritoneal fluid levels of topotecan were determined using a validated high-performance liquid chromatography (HPLC) method with UV detection as previously reported <ref type="bibr" target="#b29">(Rosing et al, 1995;</ref><ref type="bibr" target="#b9">Herben, 1996)</ref>. The plasma concentration curves were fitted by using the Kinfit computer program (MW\Pharm, Medi\Ware BV, Groningen, The Netherlands) <ref type="bibr" target="#b28">(Proost and Meijer, 1992)</ref>. Kinetic parameters were calculated using standard equations. The total Area Under the Concentrationtime curve (AUC), was calculated by the linear trapezoidal method. For the calculation of the other parameters however, the fitted AUC curve according to the computed exponential model was applied. <ref type="table" target="#tab_0">1</ref>. A total of 75 cycles of IP topotecan were administered to 15 patients enrolled in the study. Dose steps and dose limiting haematologic toxicity are displayed in Table <ref type="table" target="#tab_1">2</ref>. In one patient at 15 mg/m 2 and one at 30 mg/m 2 the dose level was reduced for toxicity as described below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics are summarized in Table</head><p>1628 <ref type="bibr">LS Hofstra et al British Journal of Cancer (2001)</ref>  <ref type="table" target="#tab_0">85(11)</ref>, <ref type="table" target="#tab_3">1627-1633</ref> © 2001 Cancer Research Campaign Only mild to moderate (grade I-III) haematological toxicity was encountered starting from the 15 mg/m 2 dose level. At 15 mg/m 2 one patient experienced a grade IV leukopenia and grade III thrombocytopenia during the first treatment cycle; subsequent treatment with 10 mg/m 2 did not give further myelosuppression. Four of the six patients treated at higher doses had grade III leukopenia and one patient had a grade III thrombocytopenia (Table <ref type="table" target="#tab_1">2</ref>). The duration of myelosuppression was short (&lt; 7 days) and non-cumulative and haematological toxicity resulted in dose reduction in two patients but no delay of the next cycle. One admission on day 9-11 for grade IV neutropenic fever was recorded at the 30 mg/m 2 dose level. No bleeding episodes occurred.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Non-haematological toxicity</head><p>Dose limiting toxicity (DLT) was encountered at the 30 mg/m 2 dose level (Table <ref type="table" target="#tab_3">3</ref>). DLT was an acute reaction in one patient immediately after infusion of the full dose of topotecan comprising severe hypotension, fever (39.7˚C) and chills without an infectious focus. Rapid treatment with volume expanders and IV antihistamines resulted in a full recovery within hours without sequelae. This patient continued with IV topotecan 1.5 mg/m 2 /day over 5 days every 21 days without further problems. She had had no prior exposure to topo-I inhibitors, and had previously been treated with IP paclitaxel without local problems.</p><p>Nausea and/or vomiting grade I-II was recorded in 12 patients. Nausea and vomiting was grade III in three patients at the two highest dose levels. Patients responded to standard anti-emetics and this did not result in prolonged hospitalization.</p><p>Abdominal pain grade I was observed in six patients and was not related to the topotecan dose level. All patients treated with topotecan 15 mg/m 2 or more developed alopecia grade II. A generalized but transient skin rash was observed in four patients starting 3-5 days following IP administration. In one of these four patients, treated at 15 mg/m 2 , for a rash combined with fever and grade IV leukopenia and grade III thrombocytopenia the dose was reduced to 10 mg/m 2 . Re-treatment with topotecan did not result in a reappearance of skin rashes in one of these patients. Two of the three patients treated at 30 mg/m 2 dose level complained of grade II headache, which responded to acetaminophen and did not need dose-reduction or prolonged hospitalization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tumour responses</head><p>In these pretreated patients no complete clinical responses were observed. Seven patients had no clinical parameter and two had no detectable marker. Partial responses, defined by a &gt; 50% decrease in repeated CA125 levels were observed in 6 of 13 biochemically evaluable patients. Stable disease for 6-8 cycles was observed in 5 of 8 clinically evaluable patients. Progressive disease, defined by the appearance of new lesions or an increase by &gt; 50% in tumour measurements or in repeated CA125 levels was observed in six patients, three by marker and three by clinical parameters. The duration of treatment was not different for the dose levels studied.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Topotecan IP pharmacokinetics</head><p>Peritoneal samples for pharmacokinetic analysis were available from seven patients. In the other patients, collection of peritoneal fluid from the PAP-catheter was impossible due to pericatheter fibrosis, leading to backflow valve formation and absent backflow. The intraperitoneal pharmacokinetic parameters of total topotecan are presented in Table <ref type="table">5A</ref> and <ref type="table">B</ref>. The elimination phase of total topotecan (lactone plus carboxy forms) from the peritoneal cavity was best described by a mono-exponential model. The mean T1/2 for the peritoneal compartment was 2.7 ± 1.7 h. The AUC of total topotecan in peritoneal fluid was proportional with dose, as shown in Figure <ref type="figure">1</ref>, R = 0.84, P &lt; 0.01 The peritoneal to plasma AUC ratio for total topotecan was 54 ± 34. The IP lactone showed a shorter half-life of 2.3 ± 2.0 h, probably due to intraperitoneal conversion, as the lactone is unstable in a neutral pH within the abdominal cavity. As a consequence, the peritoneal lactone/total topotecan AUC ratio was 15-52%, median 29%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Topotecan plasma pharmacokinetics</head><p>The plasma kinetics of topotecan of 13 patients were best described by a one compartmental model. The plasma pharmacokinetic parameters of total topotecan and of lactone are presented in Table <ref type="table">4A</ref> and <ref type="table">B</ref>. The plasma peak levels (C max ) of total topotecan were reached at 2.7 ± 1.1 h and of lactone 2.1 ± 0.6 h after the start of IP administration and were dose-dependent (resp. R = 0.92 and R = 0.92, for both P &lt; 0.01). The mean T1/2 was 3.7 ± 1.3 h for total topotecan and 5.2 ± 2.2 h for lactone. The mean AUC, which represents the total plasma exposure time, was proportional with dose, R = 0.95, P &lt; 0.01 for total topotecan</p><p>Topotecan IP in ovarian cancer 1629 British Journal of Cancer (2001) 85(11), 1627-1633 © 2001 Cancer Research Campaign • • • • • I Table 4A Plasma pharmacokinetics of total topotecan Patient Dose Absolute Body AUC CL V ss T1/2 MRT k el T max C max no. (mg/m 2 ) dose surface 0 → ∞ (L/h/m 2 ) ( L / m 2 ) (h) (h) (x/h) (h) (µg/L) (mg) (m 2 ) (h/µg/L) 1 5 8 1.80 181 17.6 20.8 0.8 3.6 0.85 2.1 61.8 2 5 8 1.62 380 14.0 87.7 4.3 8.5 0.16 3.6 33.8 3 10 16 1.60 684 15.8 77.6 3.4 6.6 0.20 2.7 80.2 4 10 16 1.60 690 16.1 74.3 3.2 6.8 0.22 3.2 79.4 5 15 28 1.78 1153 13.9 114.6 5.7 11.9 0.12 5.4 75.3 6 15 28 1.80 1406 13.5 95.1 4.9 8.0 0.14 1.2 153.7 7 15 28 1.80 1910 9.1 49.4 3.8 6.5 0.18 1.4 289.4 8 20 35 1.75 1566 14.2 66.1 3.2 7.0 0.21 3.3 178.5 9 20 43 2.16 1434 12.7 85.6 4.7 8.1 0.15 2.6 169.3 10 20 36 1.80 2036 11.0 30.9 1.9 6.9 0.36 3.5 202.9 11 30 66 2.22 2322 14.7 74.2 3.5 6.0 0.20 1.9 297.2 12 30 52 1.75 2539 12.6 62.0 3.4 6.0 0.20 2.1 341.1 13 30 53 1.70 3784 9.6 70.7 5.1 8.6 0.14 2.4 331.8 Mean 13.4 69.9 3.7 7.3 0.24 2.7 SD 2.5 25.4 1.3 1.9 0.19 1.1 Table 4B Plasma pharmacokinetics of lactone Patient Dose Absolute Body AUC CL V ss T1/2 MRT k el T max C max no. (mg/m 2 ) dose surface 0 → ∞ (L/h/m 2 ) ( L / m 2 ) (h) (h) (x/h) (h) (µg/L) (mg) (m 2 ) (h/µg/L) 1 5 8 1.80 81 52.1 348 4.6 7.0 0.15 1.1 11.0 2 5 8 1.62 66 78.6 664 5.9 9.7 0.12 2.8 5.3 3 10 16 1.60 107 98.1 556 3.9 6.5 0.18 1.7 14.0 4 10 16 1.60 131 83.1 452 3.7 7.0 0.18 2.6 15.3 5 15 28 1.78 185 81.8 1366 11.6 17.7 0.06 1.6 11.1 6 15 28 1.80 489 45.1 365 5.6 9.6 0.12 2.4 35.8 7 15 28 1.80 618 31.2 156 3.5 6.4 0.20 2.5 61.0 8 20 35 1.75 323 66.0 422 4.4 8.1 0.16 3.0 32.9 9 20 43 2.16 652 28.7 212 5.1 8.6 0.14 2.3 73.2 10 20 36 1.80 499 52.9 273 3.6 6.5 0.19 2.5 45.6 11 30 66 2.22 1267 28.4 156 3.8 6.4 0.18 1.8 144.9 12 30 52 1.75 1104 27.8 172 4.3 6.9 0.16 1.5 145.6 13 30 53 1.70 1286 24.2 265 7.6 11.9 0.09 2.2 97.7 Mean 53.7 416 5.2 8.6 0.15 2.1 SD 25.5 326 2.2 3.2 0.04 0.6 Table 5A Intraperitoneal pharmacokinetics of total topotecan (Please note the difference × 1000 in units, mg versus µg as in Table 4A and B) Patient Dose Absolute Body AUC CL V ss T1/2 MRT k el C max no. (mg/m 2 ) dose surface 0 → ∞ (L/h/m 2 ) ( L / m 2 ) (h) (h) (x/h) (mg/L) (mg) (m 2 ) (h/mg/L) 3 10 16 1.60 30 0.3 1.3 1.8 2.6 0.38 5.72 5 15 28 1.78 76 0.2 3.7 6.6 9.5 0.11 8.93 6 15 28 1.80 23 0.9 4.1 1.8 2.6 0.38 9.11 7 15 28 1.80 20 0.9 4.4 1.8 2.6 0.39 7.36 8 20 35 1.75 162 0.2 0.9 2.3 3.3 0.30 36.15 9 20 43 2.16 121 0.4 2.7 2.2 3.2 0.31 11.30 11 30 66 2.22 133 0.3 2.0 2.3 3.4 0.30 34.40 Mean 0.4 2.7 2.7 3.9 0.31 SD 0.3 1.4 1.7 2.5 0.10 Table 5B Intraperitoneal pharmacokinetics of lactone (Please note the difference × 1000 in units, µg versus mg in Table 4A and B) Patient Dose Absolute Body AUC CL V ss T1/2 MRT k el C max no. (mg/m 2 ) dose surface 0 → ∞ (L /h/m 2 ) ( L / m 2 ) (h) (h) (x/h) (mg/L) (mg) (m 2 ) (h/mg/L) 8 20 35 1.75 85 0.2 2.8 4.6 6.7 0.15 12.1 9 20 43 2.16 18 1.2 3.6 1.0 1.4 0.71 10.5 11 30 66 2.22 39 1.0 4.2 1.3 1.8 0.55 21.5 Mean 0.8 3.5 2.3 3.3 0.47 SD 0.5 0.7 2.0 2.9 0.29</p><p>(Figure <ref type="figure">2</ref>) and R = 0.91 P &lt; 0.01 for lactone (Figure <ref type="figure">3</ref>). The mean plasma clearance of total topotecan was 13.4 ± 2.5 L/h/m 2 with a mean volume of distribution (V ss ) of 69.9 ± 25.4 L/m 2 . The mean plasma clearance of lactone was 53.7 ± 25.5 L/h/m 2 with a mean volume of distribution (V ss ) of 416 ± 326 L/m 2 . It might be better to speak of 'apparent' plasma clearance (CI/F) and volume of distribution (V ss /F), as the exact fraction (of the total amount of active lactone administered IP) which reaches the plasma compartment is not known. The AUC ratio between lactone and total topotecan in plasma is shown in Figure <ref type="figure">4</ref>, illustrating a proportional relationship with the dose, R = 0.84, P &lt; 0.01.</p><p>Figure <ref type="figure">5</ref> shows the peritoneal and plasma concentration versus time curve of total topotecan and lactone for one representative patient at 30 mg/m 2 , indicating that peritoneal concentrations are about 100 times higher than plasma levels and that plasma topotecan levels were sustained during several hours above a threshold concentration of 100 µg/L, which is reported as an active concentration in vitro <ref type="bibr" target="#b4">(Burris et al, 1992)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The activity of single-agent topotecan in refractory ovarian cancer, and the fact that IP instillation can avoid myelotoxicity, served as the rationale for this study <ref type="bibr" target="#b20">(Markman et al, 1992;</ref><ref type="bibr" target="#b34">Ten Bokkel Huinink et al, 1997)</ref>. Clinical and pharmacological data of intraperitoneal topotecan administration are sparse <ref type="bibr" target="#b27">(Pratesi et al, 1995;</ref><ref type="bibr" target="#b26">Plaxe et al, 1998)</ref> and topotecan efficacy and pharmacokinetics is mostly studied during IV schedules <ref type="bibr" target="#b9">(Herben et al, 1996;</ref><ref type="bibr" target="#b14">Hoskins et al, 1998)</ref>. The recommended cumulative dose of topotecan in these studies lies between 4 and 22.5 mg/m 2 : 4 mg/m 2 as 24-h continuous IP infusion <ref type="bibr" target="#b26">(Plaxe et al, 1998)</ref>, 7.5 mg/m 2 as daily × 5 bolus IV <ref type="bibr" target="#b34">(Ten Bokkel Huinink et al, 1997)</ref>, 8-10 mg/m 2 as a 24-h continuous IV infusion <ref type="bibr" target="#b0">(Abbruzzese et al, 1993;</ref><ref type="bibr" target="#b35">Van Warmerdam et al, 1995)</ref>, 10.5 mg/m 2 as a continuous 5-day infusion <ref type="bibr" target="#b16">(Kantarjian et al, 1993;</ref><ref type="bibr" target="#b31">Rowinsky et al, 1994)</ref> or 12.6-16.8 mg/m 2 as a continuous 21-day IV infusion <ref type="bibr" target="#b12">(Hochster et al, 1995)</ref> and 17.5-22.5 mg/m 2 as daily × 5 IV bolus combined with G-CSF <ref type="bibr" target="#b30">(Rowinsky et al, 1992;</ref><ref type="bibr" target="#b37">Wall et al, 1992;</ref><ref type="bibr" target="#b32">Rowinsky et al, 1996)</ref>. Repeated exposure seems to be more active, as in the clinic a 5-day schedule has been proven to be more effective than a continuous infusion over 24 h <ref type="bibr" target="#b14">(Hoskins et al, 1998)</ref>, in a so-called 'pick the winner' comparative phase II study design.</p><p>The acute and severely toxic event in the third patient on a dose of 30 mg/m 2 was considered to be dose-limiting and a dose of 20 mg/m 2 topotecan was thought to constitute the maximum tolerated dose (MTD) of topotecan. However, up to this point other WHO grade haematological and non-haematological toxicity was considered acceptable. If this acute toxic event in one 0 0 500 1000 1500 10 20 30 40 Dose (mg/m 2 ) AUC (h.µg/L) 0 0.00 0.25 0.50 0.75 10 20 30 Dose (mg/m 2 ) Ratio Figure 3 AUC of plasma lactone topotecan versus dose administered in µg.h/L for individual patients, R = 0.91. Please note the difference in units (:1000) versus the peritoneal drug levels in Figure 1 Figure 4 Ratio between plasma AUC of lactone and total topotecan for individual patients, R = 0.84 Figure 5 Plasma and IP concentration of lactone and total topotecan in peritoneal fluid and plasma in a representative patient after 30 mg/m 2 topotecan IP. The squares represent lactone, the circles total topotecan; open symbols are peritoneal samples, closed symbols are plasma samples. The interrupted line represents a minimal inhibitory topotecan concentration in vitro of 100 µg/L I</p><formula xml:id="formula_0">• • • • • • • • • • • • • • • I I • • • • • • • • • • • • • • • • •</formula><p>patient would be considered as a random phenomenon, even a dose of 30 mg/m 2 might be acceptable, as it was well-tolerated otherwise.</p><p>In vitro, cytotoxic activity of topotecan has been demonstrated for continuous exposure above a threshold concentration of 100 µg/L <ref type="bibr" target="#b4">(Burris et al, 1992)</ref>. Other studies mention cytotoxic concentrations of 5.5 µg/L <ref type="bibr" target="#b23">(Mi et al, 1995)</ref>, 13.7-229 µg/L <ref type="bibr" target="#b25">(Pizao et al, 1994)</ref> and 128 µg/L <ref type="bibr" target="#b33">(Tanizawa et al, 1994)</ref>, depending on the methods used in the assay. In this study, plasma topotecan concentrations required for cytotoxicity in vitro were reached from the 15 mg/m 2 dose level onwards. In the peritoneal samples, a limit of 100 µg/L is exceeded by a C max of 5000 = a factor 50 at the 10 mg/m 2 dose level.</p><p>Another observation in this study is that the lactone/total topotecan ratio increases and becomes more favourable at the higher dose levels. As the lactone form is mainly responsible for the cytotoxic effects of topotecan, this implies that at higher dose levels there is not only an absolute but also a relative increase in active topotecan; however, the therapeutic relevance of this finding remains to be established.</p><p>The pharmacokinetic data we found after IP administration is in good agreement with the data of others. During continuous IP infusion, Plaxe et al found a terminal T1/2 for peritoneal topotecan of 2.7 ± 0.4 h and for plasma total topotecan a T1/2 of 3.9 ± 2.1 h <ref type="bibr" target="#b26">(Plaxe et al, 1998)</ref>, which is similar to our data. After IV administration of much lower doses (1.5 mg/m 2 bolus), Herben et al reported similar T1/2 for total topotecan, but shorter T1/2 values for the lactone, 2.1 vs 5.5 hours in this study <ref type="bibr" target="#b30">(Rowinsky et al, 1992;</ref><ref type="bibr" target="#b36">Verweij et al, 1993)</ref>. This can probably be explained because there is a steady flow of lactone from the peritoneal cavity into the plasma compartment, keeping the lactone concentration up, in spite of its simultaneous conversion within the plasma to the less active carboxy compound. As a consequence thereof, Herben et al reported a V ss of 94 L/m 2 for lactone, while we found 416 L/m 2 for these higher dosages. Therefore, for plasma kinetics, we should probably use the terms 'apparent clearance' (CI/F) and volume of distribution (V ss /F), as the exact fraction of the total amount of active lactone administered, which contributes to the concentration of total topotecan and lactone in the plasma, is presently unknown.</p><p>The data are in good agreement with those of other studies <ref type="bibr" target="#b10">(Herben et al, 1999;</ref><ref type="bibr" target="#b0">Abbruzzese et al, 1993)</ref>. In view of a plasma T1/2 for total topotecan of about 2 h, after 12 h the concentration of total topotecan would lie around 1.5% of the initial concentration (6 × T1/2). The concentration/ time curves found after 12 hours will then be mainly determined by influx from the peritoneal stores.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity</head><p>In most studies, the dose limiting toxicity for topotecan is neutropenia, which is associated with thrombocytopenia in more prolonged schedules <ref type="bibr" target="#b0">(Abbruzzese et al, 1993;</ref><ref type="bibr" target="#b16">Kantarjian et al, 1993;</ref><ref type="bibr" target="#b31">Rowinsky et al, 1994;</ref><ref type="bibr" target="#b35">Van Warmerdam et al, 1995;</ref><ref type="bibr" target="#b12">Hochster et al, 1995)</ref>. In our study the dose-limiting toxicity was an acute anaphylactoid reaction at the 30 mg/m 2 level with only mild myelosuppression and non-haematological toxicity even at this dose. The severity of the toxic reaction precluded a further extension of the number of patients on this dose level. Furthermore, we felt that an active dose has been reached to use in combined treatment in a follow-up study, as the present level already constituted 2-3 times the cumulative dose level of 8-10 mg/m 2 <ref type="bibr">(Abruzzesse, 1993;</ref><ref type="bibr" target="#b35">van Warmerdam, 1995)</ref> in most IV studies. Further increase of the dose was therefore not deemed clinically meaningful. In sharp contrast with the only other study addressing the intraperitoneal administration of topotecan we arrived at a recommended dosage of 20 mg/m 2 , instead of 3 mg/m 2 when given as a continuous 24-h IP infusion as recommended by the group of Howell et al <ref type="bibr" target="#b26">(Plaxe et al, 1998)</ref>. This difference can only be explained by the regimen, e.g. continuous infusion, but the exact cause for this difference still remains obscure. It might be that less drug is converted to the open-ring carboxy form, if the drug is given by continuous infusion IP, but this has not been further elucidated by pharmacokinetic studies. Although a lower dose will certainly result in lower cost, little can be said about its efficacy in relation to bolus IP infusion. The data of Hoskins et al were not yet available at the time this study was started, as this favoured a five times daily schedule <ref type="bibr" target="#b14">(Hoskins, 1998)</ref>.</p><p>The need for a more effective first-line regimen in advanced ovarian cancer remains paramount. With the introduction of new classes of chemotherapeutic agents that have demonstrated activity in ovarian cancer, such as topotecan, the question of the optimal first-line regimen remains open <ref type="bibr" target="#b5">(Cannistra, 1999)</ref>. The renewed interest in multi-agent chemotherapy in ovarian cancer has resulted in trials with combination of cytotoxic drugs given simultaneously, sequentially or as alternating doublets <ref type="bibr" target="#b10">(Herben et al, 1999;</ref><ref type="bibr" target="#b7">Frasci et al, 1999;</ref><ref type="bibr" target="#b5">Cannistra, 1999)</ref>. However, the limitations of this approach have become apparent; even with growth factor support achieving optimal dosages for the individual agents. Therefore, the key to this problem may lie in IP therapy. IP topotecan can be administered in relevant dosages without major systemic effects. Subsequent trials with multi-agent chemotherapy in ovarian cancer could then employ regimens combining IP topotecan with IV paclitaxel and a platinum compound. This might awaken a renewed interest in the role of IP chemotherapy.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2 Figure 3 Figure 4 Figure 5</head><label>2345</label><figDesc>Figure2AUC of plasma total topotecan versus dose administered in µg.h/L for individual patients, R = 0.95. Please note the difference in units (:1000) versus the peritoneal drug levels in Figure1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient characteristics (n = 15)</figDesc><table><row><cell>Number of patients</cell><cell>15</cell></row><row><cell>Age (years)</cell><cell></cell></row><row><cell>median</cell><cell>55</cell></row><row><cell>range</cell><cell>41-68</cell></row><row><cell>WHO Performance status</cell><cell></cell></row><row><cell>0</cell><cell>9</cell></row><row><cell>1</cell><cell>5</cell></row><row><cell>2</cell><cell>1</cell></row><row><cell>Prior chemotherapy regimens</cell><cell></cell></row><row><cell>IP paclitaxel with IV carboplatin/cyclophosphamide</cell><cell>15</cell></row><row><cell>Second line treatment with</cell><cell></cell></row><row><cell>Oral etoposide</cell><cell>2</cell></row><row><cell>Oral L-PAM</cell><cell>2</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Topotecan dose level, number of cycles and worst haematologic toxicity per dose level</figDesc><table><row><cell>Toxicity</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Topotecan dose level, number of cycles and worst non-haematologic toxicity per dose level</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>200</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>150</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Dose (mg/m 2 ) Number of patients</cell><cell>Toxicity WHO Grade</cell><cell>5 3</cell><cell>10 3</cell><cell>15 3</cell><cell>20 3</cell><cell>30 3</cell><cell>AUC (h.mg/L)</cell><cell>100</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nausea</cell><cell>II III</cell><cell>1 0</cell><cell>2 0</cell><cell>3 0</cell><cell>1 2</cell><cell>1 1</cell><cell></cell><cell>50</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Emesis</cell><cell>II</cell><cell>0</cell><cell>0</cell><cell>2</cell><cell>1</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rash</cell><cell>III II III</cell><cell>0 0 0</cell><cell>0 0 0</cell><cell>0 1 0</cell><cell>2 0 1</cell><cell>1 0 1</cell><cell></cell><cell>0</cell><cell>0</cell><cell>10</cell><cell>20</cell><cell>30</cell><cell>40</cell></row><row><cell>Fatigue</cell><cell>II</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>2</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Dose (mg/m 2 )</cell><cell></cell></row><row><cell></cell><cell>III</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>Figure 1 AUC of peritoneal total topotecan versus dose administered in mg.h/L for individual patients, R = 0.84</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2001) 85(11),1627-1633  © 2001 Cancer Research Campaign   </p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Phase I trial of topotecan (TT) administered by 24-hour infusion without and with G-CSF</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Abbruzzese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Madden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Raber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Assoc Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">329</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Intraperitoneal cisplatin plus intravenous cyclophosphamide versus intravenous cisplatin plus intravenous cyclophosphamide for stage III ovarian cancer</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Alberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Hannigan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'toole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Clarke-Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Malviya</forename><surname>Vk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dubeshter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">335</biblScope>
+			<biblScope unit="page" from="1950" to="1955" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Topotecan, a new active drug in the second-line treatment of small cell lung cancer: A phase II study in patients with refractory and sensitive disease</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ardizzonni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dombernowsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gamucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Postmus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Giaccone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schaefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2090" to="2096" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Laparoscopic placement of PAP catheters for intraperitoneal chemotherapy in ovarian carcinoma</title>
+		<author>
+			<persName><forename type="first">Hjg</forename><surname>Arts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phb</forename><surname>Willemse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Tinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Vries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ege</forename><surname>Van Der Zee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Agj</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gynecol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="32" to="35" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Activity of topotecan, a new topo-isomerase I inhibitor, against human tumor colony forming units in vitro</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Hanauske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Hilsenbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="1816" to="1820" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Back to the future: Multiagent chemotherapy in ovarian cancer revisited</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Cannistra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="741" to="743" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Topotecan, an attractive new antineoplastic agent: review and current status</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Ozols</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Opin Invest Drugs</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="593" to="608" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Cisplatintopotecan-paclitaxel weekly administration with G-CSF support for ovarian and small-cell lung cancer patients: a dose-finding study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Frasci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Panza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Comella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carteni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Guida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Nicolella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Natale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lombardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Apicella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pacilio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gravina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lapenta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Comella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="355" to="358" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A phase II study of gemcitabine in platinum pre-treated patients with advanced epithelial ovarian cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Friedlander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Millward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bugat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Canpbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Varette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ripoche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kayitalire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1343" to="1345" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Clinical pharmacokinetics of topotecan</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Herben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Bokkel Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Pharmacokinet</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="85" to="102" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacologic study of the combination of paclitaxel, cisplatin and topotecan administered intravenously every 21 days as first-line therapy in patients with advanced ovarian cancer</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Herben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">R</forename><surname>Panday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Richel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Van Der Vange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Beusenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hearn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Doyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Bokkel Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="747" to="755" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">On the mechanism of topoisomerase I inhibition by camptothecin: Evidence for binding to an enzyme-DNA complex</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Hertzberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Caranfa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hecht</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="4629" to="4638" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Progressive cleavable complex (CC) formation with 21 day topotecan infusion: A phase I pharmacodynamic study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hochster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liebes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zeleniuch-Jacquotte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Speyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Oratz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wernz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sorich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Taubes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vinci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Potmesil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">1496</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Intraperitoneal chemotherapy in ovarian cancer</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Hofstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Vries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ege</forename><surname>Mulder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Willemse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phb</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rev</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="133" to="143" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Randomized phase II study of two schedules of topotecan in previously treated patients with ovarian cancer: a National Cancer Institute of Canada Clinical Trials Group study</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hoskins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Beare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Drouin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bryson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grimshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Capstick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="2233" to="2237" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Arrest of replicating forks by drugstabilized topoisomere I-DNA cleavable complexes as a mechanism of cell killing by camptothecin</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Hsiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Lihou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="5077" to="5082" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Phase I study of topotecan: a new topoisomerase I inhibitor, in patients with refractory or relapsed acute leukemia</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Kantarjian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zwelling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cazenave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Plunkett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="1146" to="1151" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Synthesis of watersoluble (amino-alkyl)camptothecin analogues: Inhibition of topoisomerase I and antitumor activity</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Kingsbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Boehm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Jakas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Holden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Caranfa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Mccabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Faucette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johnson</forename><surname>Rk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Chem</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="98" to="107" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phase II study of intravenous topotecan as a 5-day infusion for refractory epithelial ovarian carcinoma</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kudelka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tresukosol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Freedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Levenback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chantarawiroj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gonzalez De Leon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Madden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wallin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Verschraegen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Raber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Kavanagh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1552" to="1557" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Image analysis of the distribution of intraperitoneally administered fluids in patients with ovarian cancer</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Levenback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Curtin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hoskins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Gynaecol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="345" to="351" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase I trial of intraperitoneal taxol: A Gynecologic Oncology Group Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Markman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hakes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reichman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Curtin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Barakat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Phillips</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1485" to="1491" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Intraperitoneal therapy of ovarian cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Markman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="356" to="360" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Randomized phase III study of intravenous cisplatin, paclitaxel versus moderately high dose IV carboplatin followed by paclitaxel and intraperitoneal cisplatin in optimal residual ovarian cancer. An Intergroup Trial (SWOG, ECOG)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Markman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Alberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wadler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fowler</forename><forename type="middle">J</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">1392</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Reduced albumin binding promotes the stability and activity of topotecan in human blood</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Mi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Malak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="13722" to="13728" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Long-term survival in ovarian cancer: mature data from the Netherlands Joint Study Group for Ovarian Cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Neijt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Bokkel Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Van Oosterom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Willemse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phb</forename><surname>Vermorken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Van Lindert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Heintz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Aartsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Lent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Trimbos</forename><surname>Jb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1367" to="1372" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Anti-proliferative activity of the topoisomerase I inhibitors topotecan and camptotecin, on sub-and postconfluent tumor cell cultures</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pizao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Smitskamp-Wilms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Ark-Otte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Pinedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Giaccone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1145" to="1154" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacokinetic study of intraperitoneal topotecan</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Plaxe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Christen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Quigley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Braly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Freddo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Mcclay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Heath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest New Drugs</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="147" to="153" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Successful local regional therapy with topotecan of intraperitoneally growing human ovarian carcinoma xenografts</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pratesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tortoreto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Corti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Giardini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zunino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="525" to="528" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">MW/Pharm, an integrated software package for drug dosage regimen calculation and therapeutic drug monitoring</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Proost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Meijer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Biol Med</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="155" to="165" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">High-performance liquid chromatographic analysis of the novel new antitumour drug topotecan in human plasma</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Doyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chromatogr B</title>
+		<imprint>
+			<biblScope unit="volume">668</biblScope>
+			<biblScope unit="page" from="107" to="115" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacologic study of topotecan: A novel topoisomerase I inhibitor</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Grochow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Hendricks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Ettinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Forastiere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Hurowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Sartorius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Lubejko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kaufmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="647" to="656" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacodynamic study of the topoisomerase I inhibitor topotecan in patients with refractory acute leukemia</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Adjei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Donehower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Grochow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kaufmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="2193" to="2203" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Phase I, pharmacologic and pharmacodynamic study of the topoisomerase I inhibitor topotecan (TPT) in adults with refractory acute leukaemia</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaufman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Donehower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">132</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Comparison of topoisomerase I inhibition, DNA damage and cytotoxicity of camptotecin derivatives presently in clinical trials</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tanizawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fujimori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fugimori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Pommier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="836" to="842" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Topotecan versus paclitaxel for the treatment of recurrent epithelial ovarian cancer</title>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Bokkel Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Malfetano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Broom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scarabelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Spanczynski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bolis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Malmstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Heron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2183" to="2193" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Phase I clinical and pharmacokinetic study of topotecan administered by continuous iv infusion</title>
+		<author>
+			<persName><forename type="first">Ljc</forename><surname>Van Warmerdam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Bokkel Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Rodenhuis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Koier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Maes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1768" to="1776" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacokinetics study of topotecan, a new topoisomerase I inhibitor</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Planting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Boer-Dennert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="673" to="678" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">A phase I clinical and pharmacokinetic study of the topoisomerase I inhibitor topotecan (SK&amp;F 104864) given as an intravenous bolus every 21 days</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Wall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kneuper-Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shaffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'rourke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="337" to="345" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

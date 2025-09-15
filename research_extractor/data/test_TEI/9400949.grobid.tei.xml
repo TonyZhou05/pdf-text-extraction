@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I and pharmacological study of sequential intravenous topotecan and oral etoposide</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Vmm</forename><surname>Herben1l2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Ten</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Bokkel</forename><surname>Huinink'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Antoni van Leeuwenhoek Hospital</orgName>
+								<address>
+									<country key="NL">Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Dubbelman1</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Iam</forename><surname>Mandjes'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Antoni van Leeuwenhoek Hospital</orgName>
+								<address>
+									<country key="NL">Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Groot3</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Van Gortel-Van Zomeren2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen1</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">2Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="institution">Cancer Institute</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Netherlands Cancer Institute/ Slotervaart Hospital</orgName>
+								<address>
+									<addrLine>3EORTC New Drug Development Office</addrLine>
+									<settlement>Amsterdam Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="institution" key="instit1">VMM Herben</orgName>
+								<orgName type="institution" key="instit2">Slotervaart Hospital</orgName>
+								<address>
+									<addrLine>Louwesweg 6</addrLine>
+									<postCode>1066 EC</postCode>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I and pharmacological study of sequential intravenous topotecan and oral etoposide</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8EBDD037073CFD44605F80DDFF7556F4</idno>
+					<note type="submission">Received 15 November 1996 Revised 19 February 1997 Accepted 10April 1997</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>topotecan</term>
+					<term>etoposide</term>
+					<term>topoisomerase inhibitor</term>
+					<term>phase I</term>
+					<term>pharmacokinetics</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We performed a phase I and pharmacological study to determine the maximum tolerated dose (MTD) and dose-limiting toxicities (DLT) of a cytotoxic regimen of the novel topoisomerase I inhibitor topotecan in combination with the topoisomerase 11 inhibitor etoposide, and to investigate the clinical pharmacology of both compounds. Patients with advanced solid tumours were treated at 4-week intervals, receiving topotecan intravenously over 30 min on days 1-5 followed by etoposide given orally twice daily on days 6-12. Topotecan-etoposide dose levels were escalated from 0.5/20 to 1.0/20, 1.0/40, and 1.25/40 (mg m-2 day-')/(mg bid). After encountering DLT, additional patients were treated at 3-week intervals with the topotecan dose decreased by one level to 1.0 mg m-2 and etoposide administration prolonged from 7 to 10 days to allow further dose intensification. Of 30 patients entered, 29 were assessable for toxicity in the first course and 24 for response. The DLT was neutropenia. At doses of topotecan-etoposide 1.25/40 (mg m-2)/(mg bid) two out of six patients developed neutropenia grade IV that lasted more than 7 days. Reduction of the treatment interval to 3 weeks and prolonging etoposide dosing to 10 days did not permit further dose intensification, as a time delay to retreatment owing to unrecovered bone marrow rapidly emerged as the DLT. Post-infusion total plasma levels of topotecan declined in a biphasic manner with a terminal half-life of 2.1 ± 0.3 h. Total body clearance was 13.8 ± 2.7 1 h-1 m-2 with a steady-state volume of distribution of 36.7 ± 6.2 m-2. N-desmethyltopotecan, a metabolite of topotecan, was detectable in plasma and urine. Mean maximal concentrations ranged from 0.23 to 0.53 nmol 1-1, and were reached at 3.4 ± 1.0 h after infusion. Maximal etoposide plasma concentrations of 0.75 ± 0.54 and 1.23 ± 0.57 gmol 1-1 were reached at 2.4 ± 1.2 and 2.3 ± 1.0 h after ingestion of 20 and 40 mg respectively. The topotecan area under the plasma concentration vs time curve (AUC) correlated with the percentage decrease in white blood cells (WBC) (r2 = 0.70) and absolute neutrophil count (ANC) (tQ = 0.65). A partial response was observed in a patient with metastatic ovarian carcinoma. A total of 64% of the patients had stable disease for at least 4 months. The recommended dose for use in phase 11 clinical trials is topotecan 1.0 mg m-2 on days 1-5 and etoposide 40 mg bid on days 6-12 every 4 weeks.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Since the recent recognition of DNA topoisomerases as the cellular target of a number of clinically important anti-cancer drugs, including anthracyclines, epipodophyllotoxins and the upcoming class of camptothecins, these enzymes have become the focus of intensive preclinical and clinical research (D 'Arpa et al, 1989;  Cummings et al, 1993; Pommier et al, 1993). Topoisomerases are essential nuclear enzymes that alter the topology of DNA during DNA metabolism by cleavage of DNA strands, strand passage and religation <ref type="bibr" target="#b39">(Wang, 1985)</ref>. Two major topoisomerases, types I and H, have been identified in all mammalian cells, and induce single- and double-strand breaks respectively. Topoisomerase I and II inhibitors poison these enzymes by stabilizing the transient enzyme-DNA cleavable complex, which can result in DNA strand breakage and finally cell death. Although they are inhibitors of similar enzymes, the two classes of agents kill cells in a quite different manner. They have different sites of binding DNA and play a different role in the cell cycle. Topotecan (Hycamtin), a semisynthetic water-soluble derivative of camptothecin, was the first topoisomerase I-targeting drug to undergo clinical testing since the discontinuation of the clinical development of sodium camptothecin in the early 1970s. Currently, topotecan is one of the most promising novel antineo- plastic agents for the treatment of solid tumours, with demon- strated activity in ovarian cancer <ref type="bibr" target="#b1">(Armstrong et al, 1995)</ref>, breast cancer (Chang et al, 1995) and small-cell lung cancer (Ardizzoni  et al, 1995). In view of topotecan's unique mechanism of action and important anti-tumour effects as single agent, recent studies have focused on combination therapies with other effective anti- cancer agents.</p><p>The combination of topoisomerase I inhibitors with topoiso- merase II poisons is in theory an attractive strategy. As resistance to inhibition of one class of topoisomerase enzymes is accompa- nied with an elevated sensitivity to the other class of topoiso- merase inhibitors in vitro <ref type="bibr" target="#b34">(Tan et al, 1989;</ref><ref type="bibr" target="#b32">Sugimoto et al, 1990)</ref>, a combined administration regimen of inhibitors of both topoiso- merases could effectively kill tumour cells. The advantage of this combination over single-agent administration appears to be schedule dependent. Significant synergy in vitro and in vivo has been demonstrated to occur with topoisomerase II inhibitors given after a 24-48-h drug-free interval after treatment with a topoiso- merase I inhibitor (Kozelsky et al, 1995; Masumoto et al, 1995),</p><p>Table I Dose levels Relative dose intensitya Dose level Topotecan (mg m-2 day x 5) Etoposide (mg bid x 7) Treatment interval (days) Topotecan Etoposide Average 1 0.5 20 28 0.25 0.13 0.19 2 1.0 20 28 0.50 0.13 0.32 3 1.0 40 28 0.50 0.27 0.38 4 1.25 40 28 0.63 0.27 0.45 3a 1.0 40 x 10 days 21 0.67 0.51 0.57 2a 1.0 20 x 10 days 21 0.67 0.25 0.46</p><p>aRelative dose intensity is the amount of drug delivered per unit of time in the test regimen relative to the standard single drug regimen, or for a combination regiment the decimal fraction of the ratio of the average dose intensity of all drugs in the combination regimen compared with the standard regimen <ref type="bibr" target="#b11">(DeVita, 1993)</ref>. In the calculations, regimens of topotecan of 1.5 mg m-2 day-' days 1-5 every 21 days, and etoposide 100 mg day-' days 1-21 every 28 days were assumed to be standard single drug regimens.</p><p>whereas the anti-cancer effect was attenuated when topoisomerase II poisons were administered concurrently or immediately after topoisomerase inhibition (D 'Arpa et al, 1990; Kaufmann, 1991;  Bertrand et al, 1992; Kim et al, 1992). These data led us to evaluate a chemotherapeutic regimen of topotecan in combination with etoposide, a representative inhibitor of topoisomerase II. We initiated a phase I and pharmacological study with topotecan and etoposide combined in a schedule that hypothetically maximizes the likelihood of producing synergistic effects while diminishing the likelihood of inhibitory effects, i.e. etoposide dosing preceded by topotecan infusion. Preclinical and clinical data indicate enhanced antineo- plastic activity when topotecan is administered daily for prolonged periods of time. Most clinical responses were observed with a daily 30-min times five infusion schedule. The recommended dose for this schedule is 1.5 mg m-2 day-1 (Rowinsky et al, 1991;  Verweij et al, 1993). Etoposide also exerts schedule dependency, with the greatest activity seen after prolonged exposure. As chronic infusion is cumbersome and expensive and anti-tumour activity is retained with repeated low administration for prolonged periods, an oral 'low-dose' formulation containing 20 mg of etoposide was developed in our hospital pharmacy (Jonkman-De  Vries et al, 1996). The objectives of this phase I study were (a) to determine the maximum-tolerated doses for the combination of daily 30-min infusions of topotecan on days 1-5 followed by oral etoposide on days 6-12, (b) to characterize the dose-limiting toxicities associated with this regimen, and (c) to investigate the clinical pharmacology of topotecan and etoposide.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient population</head><p>Patients were eligible if they had a histologically confirmed diag- nosis of a solid malignant tumour that was not amenable to estab- lished forms of effective therapy. Other eligibility criteria included a Zubrod-ECOG-WHO performance status &lt; 2, anticipated life expectancy of 2 3 months and age 2 18 years. Previous anti-cancer chemotherapy had to be discontinued for at least 4 weeks before entry into the study or 6 weeks in cases of pretreatment with a nitrosourea or mitomycin C. All patients had acceptable bone marrow function white blood cell (WBC) .4 x 109 1-1 and platelets 2 100 x 109 11; normal hepatic function, serum bilirubin &lt; 1.5 mg dl-' (25 pmol 1-1) and other liver function tests &lt; twice the normal upper limit or &lt; five times when related to liver metastases, prothrombin or thrombotest within normal limits; normal renal function, serum creatinine &lt; 1.4 mg dl-1 (120 gmol 1-1). The study protocol was approved by the Medical Ethics Committee of the hospital, and all patients gave written informed consent.</p><p>Treatment plan and study design Topotecan (SmithKline Beecham Pharmaceuticals, King of Prussia, PA, USA) was supplied by the National Cancer Institute as a lyophilized light yellow powder in vials containing 5 mg of topotecan (as the free base), 60 mg of mannitol, 25 mg of tartaric acid and 2 M hydrochloric acid and/or 0.05 M sodium hydroxide for pH adjustment to 3.0. The content of each vial was reconsti- tuted with 2 ml of sterile water for injection, USP, yielding a 2.5 mg ml-1 solution of topotecan. The appropriate dosage of the drug was diluted in 50 or 100 ml of 0.9% sodium chloride and was administered intravenously over 30 min by a syringe pump.</p><p>Etoposide capsules were manufactured at the hospital's phar- macy (Jonkman-de Vries et al, 1996). Etoposide was synthesized by Omnichem and obtained from Pharmachemie (Haarlem, The Netherlands). The capsule was a hard gelatin capsule (no. 3; Spruyt-Hillen, Utrecht, The Netherlands), which contained 20 mg of etoposide and 60 mg of microcrystalline cellulose (Avicel, Brocacef, Maarssen, The Netherlands).</p><p>The starting doses of topotecan and etoposide were 0.5 mg m-2 on days 1-5 and 20 mg twice daily on days 6-12 respectively. The regimen was intended to be repeated every 4 weeks. This could be changed during the study to either shorter or longer intervals depending on bone marrow recovery. Doses were escalated in an alternating way according to the scheme in Table <ref type="table">1</ref>. Upon identifi- cation of the MTD, the study was designed to reduce the topotecan dose by one level and prolong etoposide dosing to 10 days. Treatment cycles were to be repeated at 3-week intervals. Patients were scheduled to receive at least two courses. No dose escalation was permitted in individual patients. Patients with progressive disease were removed from the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient evaluation</head><p>Pretreatment evaluation included a complete medical history and complete physical examination. Before each course, chemistry and haematology profiles, creatinine clearance and urine were checked, as were chest radiographs and electrocardiograms. Haematology was checked twice weekly. Weekly evaluations British Joumal of Cancer (1997) 76(11), 1500-1508 0 Cancer Research Campaign 1997 included serum chemistry screen and urinalysis. Tumour measure- ments were performed every other cycle. All toxicities observed were graded according to the common toxicity criteria (CTC). The dose-limiting toxicity was defined as (a) grade IV neutropenia or thrombocytopenia for more than 7 days or neutropenic fever requiring hospitalization and i.v. antibiotics, (b) the impossibility to re-treat a patient according to schedule, or (c) other grade III-IV toxicities with the exception of alopecia, nausea and vomiting. The MTD was defined as the highest dose that can be safely adminis- tered to a patient producing tolerable, manageable and reversible toxicity of CTC grade III in at least two out of a maximum of six patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetic studies</head><p>Clinical pharmacokinetic studies of topotecan and etoposide were performed in at least two patients per dose level. On day 1, blood samples (5 ml each), taken from an in-dwelling intravenous cannula placed in the arm contralateral to the arm receiving topotecan, were collected in heparinized tubes at 11 time points: preinfusion at 5, 15 and 30 min during the infusion, and at 15 and 30 min and 1, 2, 3, 4, and 6 h after stopping the infusion. On day 6, patients received the moming dose (one or two capsules) of etoposide, and blood samples were taken before dosing and at 15, 30 and 45 min, and 1, 1.5, 2, 3, 4, 8, 12 and 24 h after ingestion. Additional etoposide blood samples were taken on day 12 during the first and subsequent courses to assess steady-state concentrations and possible accumulation. Plasma was obtained by immediate centrifugation of the samples (5 min; 3000 r.p.m.) and stored at -30°C until analysis. Urine was collected as 24-h aliquots from the start of infusion on days 1-5 and samples were frozen until analysis.</p><p>Table 2 Patient characteristics Number of Response patients PR SD PD NA Number of patients 30 Male/female 11/19 Median age (range) 54 (32-73) Performance status 0 15 1 10 2 5 Prior therapy None 3 Chemotherapy 21 Radiotherapy 0 Chemotherapy and radiotherapy 6 Tumour sites Ovary 14 1 6 4 3 Colorectal 7 3 3 1 Lung (SCLC) 2 1 1 Gall bladder 1 1 Stomach 1 1 Pancreas 1 1 Sarcoma 1 1 Head/neck 1 1 Fallopian tube 1 1 Unknown origin 1 1</p><p>Abbreviations: SCLC, small-cell lung cancer; PR, partial response; SD, stable disease; PD, progressive disease; NA, not assessable Plasma levels of total topotecan (lactone plus carboxylate form) were determined by a validated high-performance liquid chromatog- raphy (HPLC) method as developed in our laboratory (Rosing et al,  1995). Urine was diluted (1:50) with methanol, acidified with perchloric acid 2% (1: 1) to a pH of 1.0, and directly injected onto the HPLC column. Plasma levels of etoposide were determined by HPLC using a modification of the method by Sinkule and Evans   (1984). To 500 ,l of plasma, 2 ml of 1,2-dichloro ethane and 100 gl of a 15 nmol ml-1 stock solution of teniposide (used as an internal standard) were added. The sample was vortex-mixed for 10 s and then centrifuged for 10 min at 3000 r.p.m. The plasma layer was removed and the organic layer was evaporated under a nitrogen stream. The residue was reconstituted with 200 ,l of 0.01 M phosphate buffer solution pH 6.5/acetonitrile (1:1, v/v) and aliquots of 50 ,l were injected onto the HPLC column. Separation of the sample was accomplished by reverse-phase HPLC, using a Model SP8875 autosampler [Thermo Separation Products (TSP), Fremont, CA, USA], a Model 510 solvent delivery system (Waters Assoc., Milford, MA, USA), equipped with a ,u-Bondapak phenyl analytical column (300 mm x 3.9 mm i.d.; particle size 10 jum; Waters Assoc.). The mobile phase consisted of water-acetonitrile-acetic acid (690:300:10, v/v/v). The flow rate was 1.0 ml min-m and analyses were performed at ambient temperature. Detection was performed at 281 nm using a Model Spectra 200 programmable wavelength detector (TSP). Quantitative computations were based on the ratio of the peak areas of etoposide and teniposide.</p><p>For either drug, the maximum plasma concentration after a single dose (Cmax), the time to reach the maximum concentration (T ax) and the lag-time (tlag) were determined graphically. The AUC was determined using the linear logarithmic trapezoidal method with extrapolation to infinity. Total body clearance from plasma (CL), apparent volume of distribution at steady-state (VS1), elimination rate constant (k), elimination half-life (t,, 1), and maximal and minimal steady-state concentrations (Cmaxss and Cmons)of etoposide were calculated using standard equations (Rowland and Tozer, 1989). Relationships between systemic exposure to either drug and pharmacodynamics, in particular the dose-limiting toxicities, were explored using scatter plots of the dose or pharmacokinetic para- meters vs the percentage decrease in WBC, absolute neutrophil count (ANC) and platelets. The percentage decrease is defined as: % decrease = Pretreatment value -value of the nadir Pretreatment value x 100%</p><p>The data were fitted using a sigmoidal maximum effect (Emax) model, as described by the modified Hill equation (Holford and  Sheiner, 1982):</p><formula xml:id="formula_0">E = (Emax)(DE)Y (DE50)y + (DE)r</formula><p>where E represents the observed effect (i.e. % decrease) observed at drug exposure DE, Emax denotes the maximal elicitable effect, which is fixed at 100 (i.e. 100% decrease) for cytotoxicity. DE is a measure of drug exposure (i.e. AUC, Cmax, time above a threshold concentration of 10 nmol 1-1 (t &gt; 10 nmol 1-1)), DE50 represents the drug exposure associated with 50% of Emax and y is the Hill coeffi- cient, which describes the sigmoidity of the curve. Statistical analysis was performed with the Number Cruncher Statistical System (NCSS, Kaysville, UH, USA, 1992). Data are presented as means ± s.d.  1.0 (0.5-1.3) 1.1 (0.5-3.0) 58(33-82) 66(30-120) 5.8 (5.0-7.5) 6.1 (4.7-7.5) 3 3 12 1.0 (0.5-1.5) 1.2 (0.4-2.2) 104 (97-195) 175 (91-250) 6.3 (5.9-6.9) 5.7 (5.0-6.9) 4 6 20 0.3 (0.0-0.8) 0.7 (0.0-2.0) 107 (8-187) 164(8-217) 5.5 (4.1-7.4) 6.8 (4.1-7.4) 3a 7 34 0.8 (0.1-1.3) 0.8 (0.1-3.2) 107(31-268) 86(30-378) 6.1 (4.4-7.8) 5.9 (4.4-7.8) 2a 6 27 0.7 (0.4-1.0) 0.8 (0.4-1.6) 68 (31-264) 202 (31-323) 6.5 (4.9-7.5) 6.2 (4.9-7.5)</p><p>Numbers in parentheses show range of nadir values.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>A total of 30 patients was registered onto this trial. Eleven patients were men and 19 were women, with a median age of 54 years (range, 32-73). Twenty-five patients (83%) had a performance status of either 0 or 1. Diagnoses included a predominance of ovarian and colon cancers. All but three patients had received previous cytotoxic therapies. Thirteen and fourteen patients received one and two or more (median 3, range 2-4) previous chemotherapeutic regimens respectively. Additional patient char- acteristics are outlined in Table <ref type="table">2</ref>. A total of 131 full courses was administered, with a median number of four (range, 1-10) per patient. Four patients received only one course. In two patients, this was because of rapid progressive disease. One patient had a rapid deterioration in performance status immediately after registration onto the study and went off-study because of poor condition and unacceptable pre-existing vomiting. One patient developed grade IV neutropenia with fever, most probably atypical pneumonia, with negative blood cultures and fever persisting while on antibiotics. Of all courses administered at dose levels 1-4, two courses (4%) had to be postponed for 1 week because of unresolved neutropenia and fever, and a treatment delay of 2 weeks was required in one course because of an abscess and rapidly increasing ascitic fluid production. With the adjusted 3- week schedule (dose levels 2a and 3a, Table <ref type="table">1</ref>), only 56% of all treatment courses could be given at the planned interval because of unrecovered bone marrow. However, most patients (88%) could be re-treated by day 28. No intrapatient dose reductions or escalations were made. Twenty-nine patients were assessable for toxicity during the first course. One patient was not evaluable because she received only topotecan. Her first course was abrogated because of rapid worsening of her performance status after registration onto the trial. Myelosuppression, primarily neutropenia, was the dose- limiting toxicity for the combination of topotecan and etoposide in this schedule (Table <ref type="table" target="#tab_2">3</ref>). Cohorts of three patients were entered and doses were escalated to topotecan 1.25 mg m-2 and etoposide 40 mg twice daily (dose level 4). At this dose level DLT occurred in two out of six patients. One patient experienced grade IV neutropenia and grade III mucositis, another patient developed grade IV neutropenia with neutropenic fever. Both patients were heavily pretreated. The first patient had received three previous regimens for the treatment of metastasized SCLC, the second patient was an ovarian cancer patient who had received four previous regimens, including platinum-based therapy. To investi- gate further dose intensification, additional patients were treated at 3-week intervals with the topotecan dose reduced by one level to 1.0 mg m-2, but with etoposide administration prolonged from 7 to 10 days. A time delay to retreatment emerged as DLT. In three out of seven patients, treatment was postponed for one week because of unrecovered bone marrow. One patient developed neutropenic fever. The etoposide dose was then reduced by one level to 20 mg twice daily. At this dose level, three out of six patients developed DLT. Two patients had treatment delays of one week because of unresolved neutropenia. One patient experienced grade III neuro- logical toxicity, being motor function loss of the right hand. Pathology was non-diagnostic. Further attempts to dose intensifi- cation were not performed and the study was closed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haematological toxicity</head><p>The principal toxicity was myelosuppression, primarily neutropenia. Table <ref type="table" target="#tab_3">4</ref> lists the median and range of nadir haemato- logical toxicity at each dose level during the first course and all British Journal of Cancer ( <ref type="formula">1997</ref> N-desmethyltopotecan (----) after a 30-mmn intravenous infusion of topotecan 0.5 mg m22(0), 1.0 mg in-2 (A) and 1.25 mg in-2 (0). The arrow indicates the end of infusion courses. The neutrophil nadir occurred on day 16 (range 9-24) for the initial courses, and on day 13 (range 8-24) for all courses. In the first course, the median duration of neutropenia was 9 days (range 3-17), with recovery to grade I on day 24 (range 16-29). At the first dose level, no grade III or IV haematological toxicity occurred. At the second dose level, four episodes of brief grade III neutropenia and one episode of grade IV neutropenia were experienced by two patients, including one heavily pretreated patient. At the third dose level, grade III and IV neutropenia occurred in 25% and 8% of courses respectively. At the fourth dose level, a higher proportion of courses was associated with grade IV neutropenia.</p><p>Both grade III and IV neutropenia developed in 30% of all courses.</p><p>When the protocol was amended to 10 days' etoposide administra- tion in an effort to obtain higher dose intensity, relatively more patients experienced grade IV neutropenia. At dose level 3a, which is identical to dose level 3 except for the length of etoposide administration (10 and 7 days respectively), grade Ill and IV neutropenia was noted in 12% and 56% of courses respectively. The evaluation of nadir neutrophil and platelet counts in patients who received two or more courses showed no evidence of cumula- tive haematological toxicity. Thrombocytopenia occurred less frequently than neutropenia, with only one episode of grade IV thrombocytopenia occurring in a patient at the fourth dose level, whereas 25, 5, 15 and 11% of courses at dose level 2, 4, 3a and 2a respectively, were associated with grade III thrombocytopenia. All but three patients experi- enced anaemia, which was severe (grade III and IV) in ten courses (8%), requiring the transfusion of a total of 72 U of packed red blood cells (RBCs) during 26 courses involving 14 patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Non-haematological toxicities</head><p>Non-haematological drug toxicities were relatively mild. Transient grade I and II nausea and vomiting occurred in 38 and 19% of assess- able courses, respectively, and could generally be controlled by standard antiemetics. Other grade I or II gastrointestinal side-effects  1.4 ± 0.9 2.9 ± 0.5 0.6 ± 0.4</p><p>Abbreviations: see Materials and methods section; AUC(t)O,65 h' area under the plasma concentration vs time curve up to last measured point; AUC(t) ratio, metabolite-to-topotecan AUC(O ratio. British Journal of Cancer ( <ref type="formula">1997</ref>) 76( <ref type="formula">11</ref>), 1500-1508</p><p>Figure <ref type="figure">2</ref> The percentage decrease in ANC vs topotecan AUC dunng course 1 (, -). The curve is fitted to a sigmoidal E,. model (parameters:</p><p>AUC 0 =79.2hnmol-1 1i1; y = 2.1). These data are superimposed on the sigmoidal model derived from a preceding single-agent phase I tral (El, AUCG5 =79.2 hnmol-li-i; y = 1.8) (Van Warmerdam et al, 1995)   included mucositis (I11% of courses; six patients), being severe (grade III) in one patient at the fourth dose level, diarrhoea (17% of courses; 11 patients), obstipation (15% of courses; eight patients), and mouth dryness (7% of courses; three patients).</p><p>Alopecia was observed in 19 patients, and was complete in five patients. Six patients experienced neurotoxicity during 18 courses (14%) at all dose levels, being severe (grade III) in one patient at dose level 2a, who experienced motor function loss of the right hand for several days during his first course. Neurotoxicity primarily manifested in tingling hands and toes and was pre- existing in three patients who had been previously treated with platinum-based regimens. One ovarian cancer patient at dose level 2a had grade I cystitis for 10 days, which was possibly drug- related. Four patients (5% of courses) developed microscopic haematuria (grade I) and eight patients (15% of courses) had mild proteinuria. The most common complaint was fatigue (35% of courses). All toxicities were reversible and not dose-related.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>Twenty-four patients underwent pharmacokinetic monitoring on day of topotecan administration of the first course. Fifteen patients also had blood samples taken with their first dose of etoposide (day 6). Representative plasma concentration vs time curves of total topotecan are shown in Figure <ref type="figure" target="#fig_0">1</ref>. Mea topotecan Cd and AUC increased linearly with dose in the dose range used, but there was considerable overlap in individual values between different dose levels. Individual elimination curves of topotecan were well described using conventional compartmental modelling. A two- compartment model provided the best fit to the data, based on visual inspection and Akaike's information criteria (AIC). Post-infusion   plasma levels declined in a biphasic manner with mean alpha and beta half-lives of 3.8 ± 3.2 min and 2.1 ± 0.3 h respectively. The systemic clearance rate for topotecan was 13.8 ± 2.7 1 hsin-2 and the steady-state volume of distribution was 36.7 ±</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6.2c 1 mota</head><p>Phaomacokinetic parameters are presented in Table <ref type="table" target="#tab_4">5</ref>. Twvo patients at the 1.0 mg md level had ascitic fluid analysed for topotecan.</p><p>Ascitic fluid concentrations of 9.51 and 11.63 nmol1'g were obtained at approximately 2 h after infusion, with ascitic fluid-to- plasma ratios of 0.54 and 0.52. Topotecan 24-h urinary excretion data over 5 days were available for 27 patients. The percentage of the administered dose recovered in the urine was 41 ± 10% (range 25-7 1).</p><p>During HPLC analysis of plasma and urine samples, an uniden- tified peak eluting just after topotecan was observed in the chromatograms, which was not present in blank and calibration samples. The compound was isolated from urine and identified to be as the N-desmethyl derivative of topotecan (Rosing et al, 1997). Under our assay conditions topotecan and N-desmethyltopotecan had equivalent extraction ratios and fluorescence yields that permitted metabolite levels to be quantified using the topotecan calibration curve. Desmethyltopotecan appeared in plasma after cessation of the 30-min topotecan infusion, with a lag-time of 0.58 ± 0.24 h. Maximal metabolite plasma concentrations of 0.23 + 0.10, 0.43 ± 0.21 and 0.53 ± 0.34 nmol 1-were obtained after respective topotecan doses of 0.5, 1.0 and 1.25 mg m-2 (Figure <ref type="figure" target="#fig_0">1</ref> and Table <ref type="table" target="#tab_5">6</ref>). The time to reach maximal plasma levels was 3.4 ± 1.0 h. The metabolite-to-topotecan ratio of maximal plasma levels was 0.5%. At the last measured time point (6 h postinfusion) desmethyltopotecan plasma levels were still at or near the maximal concentration. The AUC(t) was calculated up to this last measured time point. The metabolite-to-topotecan AUC(t) ratio was 0.012. Plasma levels of desmethyltopotecan at 2 h after infusion on days 2 to 5 were significantly higher than on day 1, ranging from 42 ± 26% higher on day 2 to 53 ± 41% on day 5, which suggests accumulation of this species. The 24-h urinary recovery of desmethyltopotecan was 1.4 ± 0.6% of the adminis- tered topotecan dose. In four patients, urine was collected for 48 h after the fifth daily topotecan infusion. An additional 0.4% was excreted in the urine as the metabolite from 24 to 48 hours after infusion.</p><p>Etoposide pharmacokinetics were described using non-compart- mental modelling techniques. Maximum plasma levels of 0.75 ± 0.54 and 1.23 ± 0.57,mol 1-1 were reached at 2.4 ± 1.2 and 2.3 ± 1.0 h after ingestion of respective etoposide single doses of 20 mg and 40 mg (Table <ref type="table" target="#tab_6">7</ref>). The maximum steady-state plasma concentrations were calculated as 1.02 ± 0.49 and 1.82 ± 0.83 gmol 1-' after doses of 20 and 40 mg twice daily respectively. The plateau trough concentrations were calculated as 0.17 ± 0.15 and 0.61 ± 0.65 jmol 1-1 respec- tively. No drug accumulation could be detected from repetitive determination of steady-state etoposide concentrations during the first and subsequent courses. The mean plasma concentrations at day 12 of all courses were 0.71 ± 0.56 jmol 1-' (n = 8) after 20 mg twice daily, and 1.78 ± 0.61 jmol 1-1 (n = 24) after 40 mg twice daily, which are within the range of calculated maximal and minimal steady-state levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacodynamics</head><p>The relationships between topotecan pharmacokinetic parameters (i.e. AUC, t &gt; 10 nmol 1-', Cm.) or dose and myelosuppression during the first course could be adequately described by a sigmoidal Emax model. Topotecan AUC was most predictive of the percentage of decrease in WBC (r2 = 0.70) and ANC (r2 = 0.65). Interestingly, the latter relationship could be superimposed on the model derived from a preceding phase I trial of single-agent topotecan (Van Warmerdam et al, 1995). A plot of this relationship is depicted in Figure <ref type="figure">2</ref>. T &gt; 10 nmol 1-l and dose also correlated well with the percentage of decrease in neutrophils (r2 = 0.60 in both cases). With this model, the dose associated with a 50% decrease in ANC (D50) was 0.6 mg m-2 day-1. In all cases, the British Journal of Cancer (1997) 76( <ref type="formula">11</ref>), 1500-1508   0 Cancer Research Campaign 1997 sigmoidal model produced better fits compared with linear equations. Desmethyltopotecan AUC(t) was not related to myelosuppression. In addition, exploring correlations between etoposide pharmacokinetics (i.e. AUC, Cm,.) or total dose and haematolog- ical toxicity did not yield any significant relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Responses</head><p>Twenty-four patients were assessable for therapeutic efficacy. A partial response occurred in a 55-year-old woman with ovarian cancer. Her response was documented after four courses of topotecan 1.0 mg m-2 day-1 for 5 days and etoposide 40 mg twice daily for 10 days (dose level 3a) and was brief (3 months). Sixteen patients (64%) had stable disease for at least 4 months (range 4-10+). Four ovarian cancer patients had significantly decreased tumour markers (CA-125) to normal values, but remained stable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Preclinical studies have demonstrated mixed results when topoiso- merase I and II inhibitors were combined. The reason for the discrepancies in cytotoxic effects of the combination might relate to the scheduling of both kinds of inhibitors, the cancer cell lines and the camptothecin analogue used. Additive and synergistic effects were observed for simultaneous exposure to etoposide and CPT-l 1 on acute lymphoblastic leukaemia cells and human lung cancer cell lines (Kano et al, 1992; Takada et al, 1992) Contrary to these results, simultaneous treatment of hamster lung fibroblasts (D'Arpa et al, 1990), human leukaemia cells (Kaufmann, 1991), human colon carcinoma cells (Bertrand et al, 1992), and human tumour xenografts (Kim et al, 1992) with camptothecin analogues and etoposide or doxorubicin attenuated the cytotoxicity of these agents over single-agent exposure. Sequential administration of camptothecins and etoposide was shown to circumvent the antago- nistic cytotoxicity (Bertrand et al, 1992; Chang et al, 1992; Cheng  et al, 1994). Bertrand et al (1992) reported additive enhancement of cytotoxicity in human colon carcinoma cells, provided camp- tothecin and etoposide were administered 6-8 h apart. The addi- tive effect did not depend on the order of administration. However, several authors emphasized a sequence dependency in the cyto- toxic effect. Kozelsky et al (1995) showed maximum synergy in hamster lung fibroblast cells with etoposide administration after topotecan exposure compared with the opposite sequence. Masumoto et al (1995) demonstrated that significant synergy occurred only when etoposide was given after a 48-h drug-free interval after treatment with SN-38, the active metabolite of CPT- 11, whereas cytotoxicity was slightly reduced when etoposide was administered concurrently with or immediately after SN-38. CPT- 11 pretreatment was shown to enhance the cytotoxicity of doxo- rubicin by increasing topoisomerase-II mRNA expression and the S-phase cell population 24 and 48 h after CPT-l 1 treatment, respectively, in the case of oesophageal and colon tumour xenografts (Kim et al, 1992).</p><p>We performed a dose-finding study of topotecan combined with etoposide in a sequential fashion. A suitable dose for use in phase II clinical trials is topotecan 1.0 mg m-2 on days 1-5 and etoposide 40 mg twice daily on days 6-12 every 4 weeks. Neutropenia was the principal dose-limiting toxicity of this combination. The rela- tive low dose intensity of etoposide at the recommended dosage (Table <ref type="table">1</ref>) led us to focus on extended etoposide dosing from 7 to 10 days. Concurrently, we attempted to reduce the drug-free interval, as stabilization of the topoisomerase enzyme-DNA complex by topoisomerase inhibitors is a readily reversible process. With the removal of the drug, enzyme activity is restored and DNA damage repaired. However, dose intensification with treatment at a 3-week cycle and protracted etoposide administration was not feasible. With this adjusted schedule, only 56% of all treatment courses could be given at the planned 3-week interval because of unrecov- ered bone marrow, but most patients (88%) could be re-treated by day 28. The definition of DLT in this protocol (time delay to retreatment) results in our recommendation of dose level 3 for phase II trials. However, based on observed complete recovery from neutropenia on day 28 and the absence of cumulative myelotoxicity, treatment at doses of topotecan 1.0 mg m-2 on days 1-5   and etoposide 40 mg twice daily on days 6-15 (dose level 3a) should be possible in 4-week cycles to obtain a higher dose intensity. At these doses, 68% of courses was associated with grade III or IV neutropenia. A comparison of the current study with singleagent phase I studies shows that topotecan in combination with prolonged low-dose oral etoposide could only be given at 67-83% of the single-agent dosage. <ref type="bibr" target="#b27">Rowinsky et al (1991)</ref> and <ref type="bibr" target="#b38">Verweij et al (1993)</ref> recommended a dose of 1.5 mg m-2 day-' for single-agent topotecan in the 30-min daily times five infusion schedule repeated every 3 weeks for both minimally and heavily pretreated patients. At this dose, approximately 75% of courses resulted in grades III or IV leucocytopenia and neutropenia <ref type="bibr" target="#b27">(Rowinsky et al, 1991;</ref><ref type="bibr" target="#b38">Verweij et al, 1993)</ref>. <ref type="bibr" target="#b28">Saltz et al (1993)</ref> recommended doses of 1.5 and 1.25 mg m-2 daily in previously untreated and previously treated patients respectively. This indicates that bone marrow suppression of the combination is more severe compared with topotecan administered singly. Similar results have been reported previously. A combination regimen of topotecan administered as a 72-h infusion followed by bolus doxorubicin on day 5 resulted in unexpected severe neutropenia at the first dose level (topotecan/doxorubicin 0.35/45 mg m-2 day-') <ref type="bibr" target="#b36">(Tolcher et al, 1994)</ref>. Further dose escalation was performed with G-CSF support. Another study investigated a 72-h continuous infusion of topotecan, dose range 0.17-1.05 mg m-2 followed by etoposide 100 mg m-2 given over 2 h on days 7, 8 and 9 <ref type="bibr" target="#b12">(Eckardt et al, 1993)</ref> Haematological toxicities were more severe than expected from singly administered topotecan and etoposide, which was suggested to represent a synergistic effect of the combination. Topoisomerase II levels were found to be markedly increased immediately before etoposide administration on day 7, and were decreased on day 9 <ref type="bibr" target="#b13">(Eckardt et al, 1994)</ref>.</p><p>In the current trial, the sequential combination of topotecan and etoposide induced minimal platelet count depression, with grade III to IV thrombocytopenia occurring in 11% of all courses. Anaemia requiring RBC transfusions occurred in 20% of all courses involving 14 patients. More modest anaemia was noted in most courses. The incidence of non-haematological adverse effects was typical for topotecan. Mild to moderate nausea and fatigue were most troublesome. Reversible neurotoxicity occurred in six patients, being severe (grade III) in one patient at dose level 2a, and was thought to be platinum-related in three patients. Neurotoxicity has not been noted frequently with either topotecan or etoposide. One patient developed mild cystitis (grade I) during her seventh course. Haemorrhagic cystitis was a major toxicity encountered with sodium camptothecin, but has not been observed with topotecan (Rowinsky et al, 1991; Verweij et al, 1993). Except for incidental findings of mild proteinuria and microscopic haematuria, no other episodes of renal toxicity were observed in this study.</p><p>Topotecan pharmacokinetic parameters were similar to those reported in previous pharmacokinetic studies <ref type="bibr" target="#b15">(Herben et al, 1996)</ref>. The current study has used total (lactone plus carboxylate form) topotecan levels in determining drug exposure. The lactone form of topotecan, which is the active cytotoxic form, is quite labile and undergoes a rapid pH-dependent reversible hydrolysis to a carboxylated open-ring form under physiological conditions. Although the carboxylate form lacks topoisomerase inhibiting activity, the potential for conversion to the lactone suggests that cytotoxic activity should be possible regardless of what proportion of topotecan is in the open-ring form in the extracellular space. Previous studies have demonstrated that total topotecan AUC and Cmax values were equally, or even better, related to haematological toxicity compared with lactone AUC or Cma. This finding has led several authors to question the need for all efforts to quantitate lactone levels separately (Grochow et al, 1992;  Stewart et al, 1994).</p><p>This is the first study reporting the pharmacokinetics of a metabolite of topotecan. During HPLC analysis of topotecan plasma and urine samples, we became aware of an unidentified peak eluting just after topotecan that was not present in preinfu- sion samples. The potential metabolite was isolated from urine samples (Rosing et al, 1997). Mass spectrometry data, along with HPLC retention and fluorescence data, demonstrated that this compound was identical to a synthetic reference standard N- desmethyltopotecan (SB 209780) (Boehm et al, 1991). Like topotecan, the desmethyl derivative possesses a lactone ring that is reversibly hydrolysed to an open carboxylate form (Rosing et al,  1997); it has slightly less anti-tumour activity compared with the parent compound (Johnson and Wood, personal communication).</p><p>The metabolite appeared in plasma after cessation of the 30-min topotecan infusion. Maximal plasma levels were reached at approximately 3 h after infusion. Desmethyltopotecan was found to accumulate during 5 consecutive days of treatment. In view of the relative low amounts found in plasma, the clinical importance of the metabolite seems limited.</p><p>Etoposide pharmacokinetic parameters were similar to those reported in a preceding bioavailability study of the etoposide capsules used in the current trial (Jonkman-de <ref type="bibr" target="#b17">Vries et al, 1996)</ref>. This indicates that topotecan does not interfere with etoposide pharmacokinetics. In view of extrapolation of the results of this trial to future studies, it is important to mention that the bioavail- ability of the etoposide capsules used in this study was approxi- mately 34%, which is lower than the normal value of around 70% of the commercially available etoposide capsules (Vepesid; 50 mg). In addition, it appeared that the home-made capsules acted, to some extent, as slow-release devices. The terminal half- life of the drug was significantly higher after oral than after intra- venous administration (Jonkman- de Vries et al, 1996).</p><p>The severity of neutropenia was more closely related to the AUC of topotecan than to the AUC of its metabolite or etoposide. Patients who received equal topotecan doses but different dose intensities to etoposide, show the same sigmoidal relationship between topotecan dose or AUC and the percentage of decrease in ANC. The obtained model superimposed on the sigmoidal curve fit found in the phase I study of a daily times five infusion schedule of topotecan alone. It thus appears that in this schema the percentage decrease in ANC is primarily dependent on systemic exposure to topotecan. Nonetheless, a correlation coefficient of 0.81 (r2 = 0.65) illustrates that the pharmacokinetic variability of topotecan is not the only determinant of this toxicity.</p><p>Conclusive evidence on the contribution of etoposide to the myelotoxicity is lacking. Etoposide-induced toxicity has been shown to be dose and schedule dependent. Prolonged exposure to plasma etoposide concentrations of around 1.7 ,umol 1-l has been advocated to be optimal for anti-tumour activity (Slevin et al,  1989; Thompson et al, 1993), whereas peak plasma concentrations above 17 gmol [-1 are associated with significant toxicity (Clark et   al, 1989). The maximal plasma concentrations obtained in this study are apparently below the threshold concentration needed to cause a marked decrease in neutrophils. This hypothesis is evidenced by results from the bioavailability study of the etopo- side capsules used in this study, in which no episodes of neutropenia were observed among a total of 14 patients receiving 20 mg twice daily for prolonged periods (range 7-21 days) (Jonkman-de Vries et al, 1996).</p><p>In summary, topotecan and etoposide given in combination could not be administered at their individual MTDs. With combinations of myelosuppressive agents, it is difficult to determine whether the observed myelotoxic effect is significantly higher, i.e synergistic, or not statistically different, i.e. additive, compared with the effect that could theoretically be expected (Merlin et al,  1994). Modelling the toxic effects of a two-drug combination requires the relationship between pharmacokinetics and pharma- codynamics of each individual agent to be known. In this study, only the relationship between topotecan pharmacokinetics and resulting toxicity is known. The observed haematological toxicity, measured by the percentage decrease in neutrophil count, is not significantly different from the expected toxicity of topotecan given alone at the same dosage based on the previously documented concentration-effect relationship of topotecan. This implies that the sequential combination of topotecan and etoposide most likely results in additive, rather than synergistic myelosup- pressive interaction. In view of the anti-tumour activity of this combination, only one brief partial response was observed in an ovarian cancer patient, whereas 64% of evaluable patients had stable disease. Phase II trials will be needed to establish the benefit of this combination over single-agent administration.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure1Representative plasma concentration vs time curves of topotecan as the sum of the lactone and carboxylate forms (-) and</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Haematological toxicityNumber of patients developing toxicity in the first course/number of courses causing toxicity for all courses.</figDesc><table><row><cell>Dose</cell><cell>Number of</cell><cell>Number of</cell><cell cols="2">Neutropenia</cell><cell cols="2">Thrombocytopenia</cell><cell cols="2">Anaemia</cell></row><row><cell>level</cell><cell>patients</cell><cell>courses</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Grade 3 Grade 4</cell><cell cols="2">Grade 3 Grade 4</cell><cell>Grade 3</cell><cell>Grade 4</cell></row><row><cell>1</cell><cell>3</cell><cell>22</cell><cell>0/0*</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>0/2</cell><cell>0/1</cell></row><row><cell>2</cell><cell>4</cell><cell>16</cell><cell>2/4</cell><cell>0/1</cell><cell>2/4</cell><cell>0/0</cell><cell>0/2</cell><cell>0/0</cell></row><row><cell>3</cell><cell>3</cell><cell>12</cell><cell>1/3</cell><cell>0/1</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell></row><row><cell>4</cell><cell>6</cell><cell>20</cell><cell>4/6</cell><cell>3/6</cell><cell>1/1</cell><cell>1/1</cell><cell>0/1</cell><cell>1/1</cell></row><row><cell>3a</cell><cell>7</cell><cell>34</cell><cell>1/6</cell><cell>3/13</cell><cell>2/5</cell><cell>0/0</cell><cell>2/3</cell><cell>0/0</cell></row><row><cell>2a</cell><cell>6</cell><cell>27</cell><cell>3/12</cell><cell>2/4</cell><cell>1/3</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell></row></table><note><p>*</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Nadir blood counts</figDesc><table><row><cell>Dose</cell><cell>Patients</cell><cell>Courses</cell><cell>ANC (x 109 1-')</cell><cell>Platelets (x 109 1-')</cell><cell>Haemoglobin (g dl-')</cell></row><row><cell>level</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>First course All courses</cell><cell>First course All courses</cell><cell>First course All courses</cell></row><row><cell>1</cell><cell>3</cell><cell>22</cell><cell cols="2">3.1 (1.4-3.4) 2.0 (1.4-5.2) 264 (203-344) 211 (140-366)</cell><cell>6.6 (5.8-8.1) 5.9 (3.1-8.1)</cell></row><row><cell>2</cell><cell>4</cell><cell>16</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc>Pharmacokinetic parameters of total (lactone plus carboxylate) topotecan following a 30-min infusion</figDesc><table><row><cell>Dose (mg m-2</cell><cell>Number of patients</cell><cell>Cm (nmol 1-')</cell><cell cols="2">AUCo (h nmol-' I-') (I h-' m-2) CL</cell><cell>V, (I m-2)</cell><cell>t12, (h)</cell></row><row><cell>0.5</cell><cell>3</cell><cell>48.9 ± 4.3</cell><cell>80.3 ± 10.2</cell><cell>14.9 ± 1.8</cell><cell>34.0 ± 2.6</cell><cell>1.9 ± 0.1</cell></row><row><cell>1.0</cell><cell>18</cell><cell>81.9±21.6</cell><cell>184.6±38.1</cell><cell>13.4±2.6</cell><cell>36.4±5.2</cell><cell>2.2±0.3</cell></row><row><cell>1.25</cell><cell>3</cell><cell>104.8 ± 8.3</cell><cell>199.8 ± 51.2</cell><cell>15.6 ± 4.0</cell><cell>33.7 ± 6.7</cell><cell>1.8 ± 0.1</cell></row><row><cell>Abbreviations:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>see Materials and methods section.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc>Pharmacokinetic parameters of N-desmethyltopotecan after a 30-min infusion of topotecan</figDesc><table><row><cell>Dose (mg m-2)</cell><cell>Number of patients</cell><cell>Cmax (nmol 1-')</cell><cell cols="2">AUC(40,.5 h) AUC(O (h nmol-' 1-1) ratio (%)</cell><cell>t. x (h)</cell><cell>; (h)</cell></row><row><cell>0.5</cell><cell>3</cell><cell>0.23±0.10</cell><cell>1.04±0.43</cell><cell>1.3±0.6</cell><cell>4.2±0.6</cell><cell>0.7±0.2</cell></row><row><cell>1.0</cell><cell>18</cell><cell>0.43 ± 0.21</cell><cell>2.05 ± 1.09</cell><cell>1.1 ± 0.5</cell><cell>3.4 ± 1.1</cell><cell>0.6 ± 0.2</cell></row><row><cell>1.25</cell><cell>3</cell><cell>0.53 ± 0.34</cell><cell>2.60 ± 1.74</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7</head><label>7</label><figDesc>Pharmacokinetic parameters of etoposide after oral administration</figDesc><table><row><cell cols="2">Dose Number of (mg) patients</cell><cell>Cmax (lmol 1-')</cell><cell>tx (h)</cell><cell>AUCO+. (h,mol-' I-i)</cell><cell>tV20 (h)</cell><cell>C.x3 (imol j-t) (1tmol 1-') Cmin,</cell></row><row><cell>20</cell><cell>7</cell><cell cols="2">0.75±0.54 2.4±1.2</cell><cell>5.39±2.88</cell><cell>4.8±2.5</cell><cell>1.02±0.49 0.17±0.15</cell></row></table><note><p>40 8 1.23 ± 0.57 2.3 ± 1.0 12.97 ± 8.51 7.8 ± 5.3 1.82 ± 0.83 0.61 ± 0.65 Abbreviations: see Materials and methods section.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal ofCancer (1997) 76(11), 1500-1508</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Phase II study of topotecan in refractory and sensitive small cell lung cancer (SCLC)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ardizzoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dombemowsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Postmus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gamucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schaefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<idno>31A: S 19</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Phase n trial of topotecan as salvage therapy in epithelial ovarian cancer</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Donehower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rosenshein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Walczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mcguire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">275</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Topoisomerase-targeting antitumor drugs</title>
+		<author>
+			<persName><forename type="first">D'</forename><surname>Arpa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochim Biophys Acta</title>
+		<imprint>
+			<biblScope unit="volume">989</biblScope>
+			<biblScope unit="page" from="163" to="177" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Involvement of nucleic acid synthesis in cell killing mechanisms of topoisomerase poisons</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>D'arpa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Beardmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="6919" to="6924" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Sequential administration of camptothecin and etoposide circumvents the antagonistic cytotoxicity of simultaneous drug administration in slowly growing human colon carcinoma HT-29 cells</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bertrand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Kerrigan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pommier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="743" to="748" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Water-soluble camptothecin analogs</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Boehm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Holden</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="volume">004</biblScope>
+			<biblScope unit="page">758</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Characterization of camptothecin-resistant Chinese hamster lung cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Dethlefsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Barley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="2443" to="2452" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Clinical and laboratory studies of topotecan in breast cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Garrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Boros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Asbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pandya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Keng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">105</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Schedule-dependent cytotoxicity of topotecan alone and in combination chemotherapeutic regimens</title>
+		<author>
+			<persName><forename type="first">M-F</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chatterjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Berger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncol Res</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="269" to="279" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A pharmacokinetic hypothesis for the clinical efficacy of etoposide in small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joel</forename><surname>Sp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Slevin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Ass Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">66</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">DNA topoisomerase I and II as targets for rational design of new anticancer drugs</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Smyth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="533" to="543" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Principles of chemotherapy</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Devita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Principles and practice of oncology</title>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Devita</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Hellman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Rosenberg</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Philadelphia</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="283" to="286" />
+		</imprint>
+	</monogr>
+	<note>4th edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A phase I study of the topoisomerase I and II inhibitors topotecan (T) and etoposide (E)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Eckardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Fields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Rothenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ganapathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">137</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Measurement of tumor topoisomerase I and II levels during the sequential administration of topotecan and etoposide</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Eckardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Fields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Rothenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Hodges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Cobb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rinaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ford</forename><forename type="middle">J</forename><surname>Ganapathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">141</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics and pharmacodynamics of topotecan in patients with advanced cancer</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Grochow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ludeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kaufmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Mccabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hurowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Delisa</forename><forename type="middle">A</forename><surname>Donehower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Noe</forename><surname>Da</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Metab Dispos</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="706" to="713" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Vmm</forename><surname>Herben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Bokkel Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical pharmacokinetics of topotecan. Clin Pharmacokin</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="85" to="102" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Kinetics of pharmacologic response</title>
+		<author>
+			<persName><forename type="first">Nhg</forename><surname>Holford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Sheiner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol Ther</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="143" to="166" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Oral bioavailability of low-dose (20 mg) &apos;home-made&apos; etoposide capsules</title>
+		<author>
+			<persName><forename type="first">Jonkman-De</forename><surname>Vries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Herben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vmm</forename><surname>Rodenhuis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Drug Invest</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="298" to="307" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>Van Tellingen 0, Dubbelman AC, Ten Bokkel Huinink WW</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Effects of CPT-11 in combination with other anticancer agents in culture</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Akutsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Suda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sakamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Miura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="604" to="610" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Antagonism between camptothecin and topoisomerase IIdirected chemotherapeutic agents in a human leukemia cell line</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kaufmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1129" to="1136" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Experimental studies on biochemical modulation targeting topoisomerase I and II in human tumor xenografts in nude mice</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hirabayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jinushi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Toge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Okada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="760" to="766" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Sequence dependent interaction of etoposide and topotecan</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Kozelsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Bonner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Ass Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">293</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Sequence-dependent modulation of anticancer drug activities by 7-ethyl-10-hydroxycamptothecin in an HST-1 human squamous carcinoma cell line</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Masumoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nakano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Esaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tatsumoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fujishima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Baba</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Niho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="405" to="410" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Concepts of synergism and antagonism</title>
+		<author>
+			<persName><forename type="first">J-L</forename><surname>Merlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="2315" to="2320" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">DNA topoisomerase I and II in cancer chemotherapy: update and perspectives</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Pommier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmwcol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="103" to="108" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">High-performance liquid chromatographic determination of the novel antitumour drug topotecan and topotecan as the total of the lactone plus carboxylate forms, in human plasma</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Doyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JChromB</title>
+		<imprint>
+			<biblScope unit="volume">668</biblScope>
+			<biblScope unit="page" from="107" to="111" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Ten Bokkel Huinink WW and Beijnen JH (1997) Isolation and structural confirmation of N-des-methyl topotecan, a metabolite of topotecan</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vmm</forename><surname>Herben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Van Zomeren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hop</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kettenes-Van Den</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Bosch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint/>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacologic study of topotecan: a novel topoisomerase I inhibitor</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Grochow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Hendriks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Ettinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Forastiere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Hurowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Sartorius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Lubejko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kaufmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Donehower</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="647" to="656" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Phase I clinical and pharmacology study of topotecan given daily for 5 consecutive days to patients with advanced solid tumors, with attempt at dose intensification using recombinant granulocyte colony-stimulating factor</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rowland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tn ;</forename><surname>Tozer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Febiger ; Philadelphia</forename><surname>Lea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Saltz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sirott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Niedzwiecki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tzy-Jyun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Trochanowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Toomasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kelsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1499" to="1507" />
+			<date type="published" when="1989">1989. 1993</date>
+		</imprint>
+	</monogr>
+	<note>Clinical Pharmacokinetics: Concepts and Applications, 2nd edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">High-performance liquid chromatographic analysis of the semisynthetic epipodophyllotoxins teniposide and etoposide using electrochemical detection</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Sinkule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Evans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pharn Sci</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="164" to="168" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">A randomized trial to evaluate the effect of schedule on the activity of etoposide in small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Slevin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Joel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Osbome</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Gregory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Reznek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Wrigley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1333" to="1340" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Clinical pharmacodynamics of continuous infusion topotecan in children: systemic exposure predicts hematologic toxicity</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Heideman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Crom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Pratt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1946" to="1954" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Elevated expression of DNA topoisomerase II in camptothecin-resistant human tumor cell lines</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sugimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tsukahara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Oh-Hara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tsuruo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="7962" to="7965" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Synergistic effects of CPT-1 1 and cisplatin or etoposide on human lung cancer cell lines and xenografts in nude mice</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fukuoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kudoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Masuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kishimoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Ass Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">226</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Nonproductive rearrangement of DNA topoisomerase I and II genes: Correlation with resistance to topoisomerase inhibitors</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Mattem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W-K</forename><surname>Eng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Mccabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johnson</forename><surname>Rk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="1732" to="1735" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Prolonged administration of low-dose, infusional etoposide in patients with etoposide-sensitive neoplasmas: a phase I/II study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Hande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Holzmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Greco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1322" to="1328" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A phase I study of topotecan (a topoisomerase I inhibitor) in combination with doxorubicin (a topoisomerase II inhibitor)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Tolcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Shaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Myhand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hakim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Noone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goldspiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kohler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cowan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">157</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics and pharmacodynamics of topotecan administered daily for 5 days every 3 weeks</title>
+		<author>
+			<persName><forename type="first">Ljc</forename><surname>Van Warmerdam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Boer-Dennert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raa</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="237" to="245" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacokinetics study of topotecan, a new topoisomerase I inhibitor</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Planting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Boer-Dennert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="673" to="678" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">DNA topoisomerases</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Biochem</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="665" to="697" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

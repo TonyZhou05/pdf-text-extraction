@@ -19,5 +19,6 @@ __pycache__/
 *.pickle
 *.pkl
 *.egg-info/
+research_extractor/data/text/*.txt
 dist/
 build/

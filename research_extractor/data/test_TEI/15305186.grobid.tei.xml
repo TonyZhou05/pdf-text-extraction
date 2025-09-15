@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase I trial of preoperative radiotherapy and capecitabine for locally advanced, potentially resectable rectal cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2004-08-10">10 August 2004</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>Dr</roleName><forename type="first">Syk</forename><surname>Ngan</surname></persName>
+							<email>sam.ngan@petermac.org</email>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Radiation Oncology</orgName>
+								<address>
+									<addrLine>Peter MacCallum Cancer Centre St Andrews Place</addrLine>
+									<postCode>3002</postCode>
+									<settlement>East Melbourne</settlement>
+									<region>Victoria</region>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Michael</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Haematology and Medical Oncology</orgName>
+								<address>
+									<addrLine>Peter MacCallum Cancer Centre</addrLine>
+									<settlement>Melbourne</settlement>
+									<region>Victoria</region>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Mackay</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Surgical Oncology</orgName>
+								<address>
+									<addrLine>Peter MacCallum Cancer Centre</addrLine>
+									<settlement>Melbourne</settlement>
+									<region>Victoria</region>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Mckendrick</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution">Box Hill Hospital</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<region>Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Leong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Radiation Oncology</orgName>
+								<address>
+									<addrLine>Peter MacCallum Cancer Centre St Andrews Place</addrLine>
+									<postCode>3002</postCode>
+									<settlement>East Melbourne</settlement>
+									<region>Victoria</region>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><surname>Lim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Radiation Oncology</orgName>
+								<address>
+									<addrLine>Peter MacCallum Cancer Centre St Andrews Place</addrLine>
+									<postCode>3002</postCode>
+									<settlement>East Melbourne</settlement>
+									<region>Victoria</region>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Zalcberg</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Haematology and Medical Oncology</orgName>
+								<address>
+									<addrLine>Peter MacCallum Cancer Centre</addrLine>
+									<settlement>Melbourne</settlement>
+									<region>Victoria</region>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A phase I trial of preoperative radiotherapy and capecitabine for locally advanced, potentially resectable rectal cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2004-08-10">10 August 2004</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D518DF957FB2DD289CC68D0CCC653066</idno>
+					<idno type="DOI">10.1038/sj.bjc.6602106</idno>
+					<note type="submission">Received 26 April 2004; revised 30 June 2004; accepted 30 June 2004;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>capecitabine</term>
+					<term>rectal cancer</term>
+					<term>preoperative radiotherapy</term>
+					<term>phase I trial</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The purpose of the study was to determine the maximum-tolerated dose (MTD) of oral capecitabine, combined with concurrent, standard preoperative pelvic radiotherapy, when given twice daily, from Monday to Friday throughout the course of radiotherapy, for locally advanced potentially resectable rectal cancer. Maximum-tolerated dose was defined as the total (given in two equally divided doses) oral dose of capecitabine that caused treatment-related grade 3 or 4 toxicity in one-third or more of the patients treated. Radiotherapy involved 50.4 Gy given in 28 fractions in 5 weeks and 3 days. Eligible patients had a newly diagnosed clinical stage T3 -4 N0 -2 M0 rectal adenocarcinoma located within 12 cm of the anal verge suitable for curative resection. Surgery was performed 4 -6 weeks from completion of preoperative chemoradiotherapy. In all, 28 patients were enrolled in the study at predefined dose levels: 850 mg m À2 day À1 (n ¼ 3), 1000 mg m À2 day À1 (n ¼ 6), 1250 mg m À2 day À1 (n ¼ 3), 1650 mg m À2 day À1 (n ¼ 3), 1800 mg m À2 day À1 (n ¼ 8) and 2000 mg m À2 day À1 (n ¼ 5). The mean age was 62.3 years (range: 33 -80 years). Five patients were female and 23 male. The median distance of tumour from the anal verge was 6 cm (range: 1 -11 cm). Endorectal ultrasound was performed in 93% of patients. A total of 26 patients (93%) had T3 disease and two patients had resectable T4 disease. Dose-limiting toxicity (DLT) developed in one patient at dose level 1000 mg m À2 day À1 (RTOG grade 3 cystitis). Two of the five patients at dose level 2000 mg m À2 day À1 had a total of three DLT (grade 3 perineal skin reaction, grade 3 diarrhoea and grade 3 dehydration). Dose escalation of capecitabine was ceased at 2000 mg m À2 day À1 after reaching MTD. None of the eight patients at dose level 1800 mg m À2 day À1 developed DLT. All except one patient underwent surgery. A total of 15 patients had the clinical T stage reduced by at least one stage in pathologic specimens. Five patients (19%) achieved a pathologic complete response. We conclude that the MTD of capecitabine was reached at a dose level of 2000 mg m À2 day À1 , given as 1000 mg m À2 twice daily, from Monday to Friday throughout the course of preoperative pelvic irradiation of 50.4 Gy. For patients with resectable rectal cancer receiving concurrent, full dose radiotherapy, the recommended dose of capecitabine for further study is 1800 mg m À2 day À1 when given in this schedule.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Local recurrence after curative treatment remains a very significant cause of morbidity from carcinoma of rectum as the pelvic anatomy limits lateral resection margins <ref type="bibr" target="#b13">(Rich et al, 1983;</ref><ref type="bibr" target="#b1">Chan et al, 1985;</ref><ref type="bibr" target="#b12">Quirke et al, 1986)</ref>. Combined postoperative radiotherapy and chemotherapy reduces the rate of local recurrence and prolongs survival in patients with Dukes B2 and C rectal cancer <ref type="bibr" target="#b20">(Thomas and Lindblad, 1988;</ref><ref type="bibr" target="#b6">Krook et al, 1991;</ref><ref type="bibr" target="#b10">O'Connell et al, 1994)</ref>. As a result, adjuvant chemoradiation has been recommended as standard therapy for Dukes B2 and C rectal cancer <ref type="bibr">(NIH Consensus Conference, 1990)</ref>. Although a quality of life study has confirmed the value of postoperative adjuvant radiotherapy and chemotherapy, concern about treatment-related toxicity remains <ref type="bibr" target="#b11">(Ooi et al, 1999)</ref>.</p><p>Preoperative radiotherapy has the potential advantages of less acute and long-term toxicity <ref type="bibr" target="#b15">(Sauer, 2003)</ref>. Intra-abdominal adhesions are uncommon in the undisturbed peritoneal cavity, in which small bowel is freely mobile. Placing the patient in the prone treatment position allows the small intestine to move out of the radiation volume, thereby reducing the risk of radiation enteritis. In the preoperative setting, the local tissue environment is also more favourable with the tumour having a better blood supply, thus minimising the problem of hypoxia -an important cause of failure of radiotherapy. Another potential advantage is the increased chance of sphincter preservation in locally advanced rectal cancer as a result of tumour response <ref type="bibr" target="#b2">(Crane et al, 2003)</ref>, but it remains a controversial issue.</p><p>Although randomised trials have shown that short-course hypofractionated radiotherapy reduces local recurrence and improves survival <ref type="bibr">(Swedish Rectal Cancer Trial, 1997;</ref><ref type="bibr" target="#b0">Camma et al, 2000;</ref><ref type="bibr" target="#b4">Kapiteijn et al, 2001)</ref>, this approach has not been accepted worldwide as the standard preoperative approach. However, preoperative radiotherapy in conventional fractionation schedules, given concurrently with continuous infusion 5-fluorouracil (5FU), has been widely adopted as the preferred preoperative regimen, given the acceptable toxicity profile and efficacy when this regimen is given in the postoperative setting <ref type="bibr" target="#b10">(O'Connell et al, 1994)</ref>.</p><p>Infusional 5FU requires a central venous access line and an ambulatory delivery system. It is inconvenient to the patient and carries risks including venous thrombosis, infection and intravenous line migration. An effective oral delivery 5FU would overcome these problems.</p><p>Capecitabine is an oral fluoropyrimidine. Its efficacy as first-line treatment in metastatic colorectal cancers (MCRC) has been shown in randomised trials <ref type="bibr" target="#b21">(Twelves, 2002)</ref>. Its safety as an alternative to intravenous 5FU-based adjuvant therapy for colon cancer has been addressed <ref type="bibr" target="#b17">(Scheithauer et al, 2003)</ref>. Capecitabine achieves longterm inhibition of the target enzyme thymidylate synthase, and in this way mimics the continuous intravenous infusion of 5FU. It has the additional important theoretical advantage of the targeted production of 5FU in malignant cells via the enzyme thymidine phosphorylase (TP), which is overexpressed in tumour vs normal tissue <ref type="bibr" target="#b7">(Miwa et al, 1998)</ref>. In addition, radiotherapy is known to further upregulate TP, and in xenograft models, capecitabine and radiation have shown supra-additive activity <ref type="bibr" target="#b16">(Sawada et al, 1999)</ref>. Therefore, the combination of capecitabine with radiotherapy merits clinical investigation. Thus, a phase I trial of the combination of standard, preoperative radiotherapy and escalating doses of concurrent capecitabine was undertaken to assess the risk/benefit ratio.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head><p>The protocol, detailed patient information sheet and consent form were reviewed and approved by the human research ethics committees of participating centres. The trial was conducted in accordance with the Declaration of Helsinki, International Good Clinical Practice principles as described in the International Conference of Harmonisation (ICH) guidelines for Good Clinical Practice, as well as in accordance with all local ethical and regulatory requirements. Signed informed consent of patients was obtained before any trial-specific procedures were performed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eligibility criteria</head><p>For this trial, eligible patients were required to have a pathologically documented adenocarcinoma of the rectum with the lower limit within 12 cm from the anal verge. Patients were 18 -75 years old, although patients over the age of 75 years were eligible if in the opinion of the investigators they were fit and well for the purposes of the trial. Patients had to be considered suitable for curative resection by the participating surgeon at the time of study entry. Tumours were clinical stage T3 -T4 tethered, or with radiological (ultrasound or CT) evidence of perirectal fat infiltration or nodal involvement. Examples of resectable T4 lesions were a rectovaginal or rectovesical fistula. The patient had to have a World Health Organisation (WHO) performance status of 0, 1 or 2. Patients with recurrent rectal cancer were not eligible.</p><p>The exclusion criteria were previous pelvic or abdominal radiotherapy or a scheduled dose of less than 50 Gy or treatment with high-dose per fraction (42 Gy). Patients with evidence of metastatic disease, history of seizures, central nervous system disorders, clinically significant psychiatric disability, dementia, altered mental status or psychosis were not eligible. Patients with a history of severe and unexpected reaction to fluoropyrimidine therapy possibly related to DPD deficiency, or known hypersensitivity to 5FU were excluded. Patients with abnormal haematologic values (absolute neutrophil count o1.5 Â 10 9 l À1 , platelet count o100 Â 10 9 l À1 , Hb o9 g dl À1 ) or moderate to severe renal impairment, that is, creatinine clearance p50 ml min À1 , as calculated by the Crockroft Gault formula were not eligible. The use of blood transfusions to render patients eligible was allowed, but the use of growth factors to aid haematologic recovery was not allowed within 2 weeks before the start of or during the course of treatment. Pregnant or lactating women, women of child-bearing potential with either a positive pregnancy test at baseline or not using a reliable and appropriate contraceptive method were not eligible. Other exclusion criteria were autologous or allogeneic organ grafts, lack of physical integrity of the upper gastrointestinal tract, malabsorption syndromes, inability to tolerate or absorb oral medication or positive hepatitis B surface antigen, hepatitis C antibodies or human immunodeficiency virus type 1 or 2 antibodies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial design</head><p>This was a phase I trial of escalating doses of capecitabine combined with concurrent preoperative conventionally fractionated radiotherapy for locally advanced, potentially resectable rectal cancer. The primary objective was to determine the maximum-tolerated dose (MTD) of intermittent, twice daily oral capecitabine given with pelvic radiotherapy (in the schedule described) through the assessment of both subjective and objective adverse events reported during and up to 6 weeks after treatment. The secondary objectives were to determine the safety profile of the combination regimen and to describe any evidence of antitumour activity. The MTD was defined as the total oral dose (given in approximately two equally divided daily doses) of capecitabine when given intermittently (Monday to Friday) from the first till the last day of standard technique pelvic radiotherapy, which caused drug-related grade 3/4 toxicity in one-third or more of the patients treated (i.e. two or more in a six patient cohort).</p><p>Three patients were entered at each dose level. Subsequent dose levels were not opened until all three patients (or all additional patients where toxicity required more patients to be treated) had reached the 2-week point beyond the completion of concurrent chemotherapy and radiotherapy. If none of the three patients experienced a dose-limiting toxicity (DLT), then recruitment began at the next dose level. Otherwise, (a) when a DLT was seen in one patient out of the three patients, three additional patients were recruited on this dose level. If a DLT was observed in only one of the six patients, then recruitment began at the next dose level. If DLTs were observed in two or more of the six patients, no further dose escalation was to take place. (b) If two or more patients of the first three patients on a dose level had DLTs, no further dose escalation was to take place. The MTD was defined at that dose level. DLT was defined as grade 3 or 4 lower gastrointestinal or genitourinary toxicity (RTOG acute toxicity criteria), or perineal skin toxicity or any other grade 4 toxicity (RTOG acute toxicity criteria or NCIC Toxicity Criteria). A delay of 48 weeks before surgery for toxicity reasons after completing concurrent therapy was also considered a DLT. If the cohort at the starting dose level experienced toxicity defined as DLT, the dose was reduced to the preceding dose level, being two-thirds of the initial level until the treatment was considered to be tolerable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial treatments</head><p>Pelvic radiotherapy was given with a megavoltage machine (6 -18 MeV) using a three-or four-field technique. The patient was treated in the prone position. A belly board and other methods were used to minimise treatment-related toxicity. Computerised dosimetry was routinely performed. The total radiation dose was 50.4 Gy in 1.8 Gy per fraction per day, 5 days per week. The first 45 Gy was given to the pelvic field and 5.4 Gy in three fractions were given to the reduced field. The total duration of treatment was 5 weeks and 3 days. The planning target volume for the pelvic field was: upper border at the L5/S1 junction, inferior border 3 cm below the primary tumour or at the inferior aspect of the obturator foramina, whichever was the most inferior, lateral border 1.5 cm lateral to the widest bony margin of the true pelvic side wall, anterior border 2 cm from the anterior boundary of the British Journal of Cancer ( <ref type="formula">2004</ref>) 91( <ref type="formula">6</ref>), 1019 -1024 &amp; 2004 Cancer Research UK Clinical mesorectum and posterior border a minimum of 1 cm behind the anterior bony sacral margin. For the reduced field, a 2 cm margin was given to the site of gross disease. All radiation fields were treated daily, Monday to Friday. Verification port films were performed weekly.</p><p>Radiotherapy was temporarily interrupted at the investigator's discretion if there was grade 3 or 4 toxicity. The decision to interrupt treatment was taken only after discussion with the principal investigators. Radiotherapy was to recommence once toxicity had decreased to grade 2 or lower. If recovery of toxicity to grade 2 or less had not occurred after a 2-week delay, the treatment was ceased.</p><p>The planned escalating dose levels of capecitabine were 850, 1000, 1250, 1650, 1800, 2000 and 2500 mg m À2 day À1 . Three patients were planned for each cohort. The cohort was expanded according to the previously described schedule. Capecitabine was given twice daily, Monday to Friday. The first daily dose of capecitabine was administered approximately 2 h730 min before radiotherapy, at the same time every day, throughout the entire period of radiation. Capecitabine and radiotherapy treatment were commenced on the same day and were ceased together at completion of the preoperative therapy. The whole duration was 5 weeks and 3 working days (28 days). The total daily dose was divided into two approximately equal lots and administered separately approximately 12 h apart and within 30 min after the ingestion of food. Surgery (using total mesorectal excision) was performed after a rest period of 4 -7 weeks from completion of the preoperative chemoradiation. In patients receiving low anterior resections, defunctioning ileostomy or colostomy was recommended.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose modifications for toxicity</head><p>Treatment was continued without modification for grade 1 toxicity. If a patient experienced any grade 2 toxicity and the toxicity was considered to be mainly due to capecitabine treatment, drug administration was withheld until the grade 2 toxicity resolved to grade 0 -1 before being restarted at the same dose with prophylactic treatment (for nausea, diarrhoea, handfoot syndrome) where necessary and possible. If grade 2 toxicity recurred, capecitabine treatment was withheld until the toxicity resolved to grade 0 -1 and the capecitabine treatment was restarted at the preceding dose level. In cases in which toxicity recurred at the starting dose level, capecitabine treatment was discontinued for the rest of the course of radiotherapy. In each of these circumstances, radiotherapy was not affected unless the described toxicity worsened after discontinuing capecitabine. If a patient experienced any grade 2 toxicity, which was mainly cutaneous, radiotherapy and capecitabine treatment were continued. If a patient experienced any grade 3 or 4 toxicity, with the exception of alopecia, which was considered mainly due to capecitabine treatment, both capecitabine and radiotherapy treatment were discontinued. Radiotherapy was recommenced without capecitabine for the remaining course of treatment once the toxicity had improved to grade 0 -2. Capecitabine treatment was discontinued for any grade 3 or 4 haematological toxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Monitoring for safety</head><p>Assessments before treatment included demographic data, medical history, physical examination, haematology, renal and liver function tests, CEA, pregnancy test (if appropriate), and chest Xray, ECG, abdominal and pelvic CT, endorectal ultrasound and PET scan. Routine assessments, performed prior to the start of treatment, weekly thereafter for 6 weeks and every second week up to 6 weeks after the last radiotherapy administration included vital signs, physical measurements, haematology, blood chemistry, urinalysis and monitoring of adverse events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations</head><p>This trial aimed to identify the MTD of intermittent twice daily oral capecitabine in combination with concurrent, standard radiotherapy. An escalating dose design was employed, in which a maximum of 12 patients could be entered at each dose level. The MTD was defined to be the first dose that caused a DLT (grade 3/4 toxicity -see prior section) in one-third or more of the patients treated. These prespecified rules were based on clinical and ethical considerations, rather than on statistical methods. The analyses of the primary and secondary efficacy variables comprised simple descriptive statistics, summary tables, plots and patient listings. The descriptive statistics included the mean, standard deviation, standard error, minimum and maximum for continuous variables. The median was used as the measure of central tendency for any time-to-failure end points. Counts and percentages were provided for discrete variables. The data were analysed using SAS version 8.2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>In all, 28 patients were enrolled in the trial. The mean age was 62.3 years, with a range of 33 -80 years. Of these, 27 of the patients were Caucasians and one was Asian. Five patients were female and 23 were male. The WHO performance status of patients at the time of screening was mainly level 1 (54%) and level 2 (43%). The median distance of the lower border of the tumour to the anal verge was 6 cm (range: 1 -11 cm). Rectal ultrasound examinations were performed in 93% of patients. A total of 26 patients (93%) had T3 disease and two patients had resectable T4 disease. The clinical stages of disease before treatment are listed in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose level</head><p>The dose levels of the patients accrued into this trial were: 850mgm À2 day À1 (n¼ 3), 1000 mg m À2 day À1 (n¼ 6), 1250 mg m À2 day À1 (n ¼ 3), 1650 mg m À2 day À1 (n ¼ 3), 1800 mg m À2 day À1 (n ¼ 8) and 2000 mg m À2 day À1 (n ¼ 5).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adverse events</head><p>Four DLTs occurred in three patients -one of six patients at a dose of 1000 mg m À2 day À1 and two of five patients at a dose of 2000 mg m À2 day À1 . Dose escalation was stopped at 2000 mg m À2 day À1 -the protocol-defined MTD of capecitabine in this study. After reaching MTD at 2000 mg m À2 day À1 , five additional patients were treated at 1800 mg m À2 day À1 giving the 1800 mg m À2 day À1 cohort a total of eight patients. The patient with a DLT at the dose level of 1000 mg m À2 day À1 developed grade 3 urological toxicity at day 12 of treatment, which resolved slowly after discontinuation of all treatment. One patient at dose level 2000 mg m À2 day À1 developed a DLT with grade 3 perineal skin toxicity requiring opioid analgesics at day 14 of treatment. A second patient at this dose level developed two DLTs -grade 3 diarrhoea and grade 3 dehydration on day 22. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><p>One patient developed pulmonary embolism after completion of the preoperative therapy. The most common adverse events were gastrointestinal disorders with 15 patients (54%) reporting at least one such event, skin and subcutaneous tissue disorders in nine patients (32%) reporting at least one such event, general disorders such as fatigue or pain in eight patients (23%) and renal and urinary disorders in six patients (21%). Hand -foot syndrome occurred in 11% of patients: grade 1, 3.6% and grade 2, 7.1%. There was no grade 2 or 3 neutropenia or thrombocytopenia encountered. Table <ref type="table">2</ref> shows the acute toxicity according to dose levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgical morbidity</head><p>Surgical resection of the rectal cancer was performed after preoperative chemoradiation in 27 patients. One patient refused to have surgery after achieving a clinical complete response. Sphincter sparing surgery was performed in 44% (12 patients). Abdominoperineal resection was performed in 52% (14 patients). Proctocolectomy was performed in one patient. There was one postoperative death. The patient developed an acute myocardial infarct and died 4 days after operation. The postoperative complications are listed in Table <ref type="table" target="#tab_1">3</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Antitumour activity</head><p>Out of a total of 27 patients, 15 had a lower T stage (by at least one stage) in the resected specimen compared with pretreatment clinical stage after preoperative chemoradiation. Five patients (19%) achieved a pathologic complete response (no evidence of disease in the resected specimen). Table <ref type="table">4</ref> shows the correlation between the pretreatment clinical stage and the postsurgery pathologic stage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 2 Acute toxicities (worst grade)</head><p>Toxicities Grade 850 mg m À2 day À1 1000 mg m À2 day À1 1250 mg m À2 day À1 1650 mg m À2 day À1 1800 mg m À2 day À1 2000 mg m À2 day À1 </p><formula xml:id="formula_0">Haemoglobin 0 1 4 2 2 5 4 1 0 0 0 1 2 1 2 2 2 1 0 1 0 Neutrophils 0 3 6 3 3 7 5 1 0 0 0 0 1 0 Platelets 0 3 5 2 2 6 5 1 0 1 1 1 2 0 Genitourinary 0 1 2 3 1 2 2 1 2 2 0 1 6 2 2 0 1 0 1 0 1 3 0 1 0 0 0 0 Lower GI 0 0 2 0 1 2 0 1 2 1 3 2 5 1 2 1 3 0 0 1 3 3 0 0 0 0 0 1 Skin 0 0 0 0 2 1 1 1 1 1 3 1 6 2 2 2 5 0 0 1 1 3 0 0 0 0 0 1 Hand-foot syndrome 0 3 5 3 3 6 5 1 0 0 0 0 1 0 2 0 1 0 0 1 0</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In advanced colorectal cancer, capecitabine is generally administered in an intermittent schedule of 1250 mg m À2 twice daily (2500 mg m À2 day À1 ) for 2 weeks followed by a 1-week treatment break. However, combined with radiotherapy, a continuous regimen seemed to be a hypothetically more attractive schedule, mimicking the postoperative adjuvant setting, in which the optimal approach to the treatment of resected T3 -4/N0 -2 rectal cancer includes radiotherapy combined with concurrent, continuous infusion 5FU <ref type="bibr" target="#b10">(O'Connell et al, 1994)</ref>. Furthermore, in nonrandomised trials of preoperative radiotherapy combined with continuous infusion 5FU, a pathologic complete response rate of 16 -29%, low toxicity profile and no obvious increase in surgical morbidity have been reported <ref type="bibr" target="#b14">(Rich et al, 1995;</ref><ref type="bibr" target="#b8">Ngan et al, 2001)</ref>. Infusional 5FU requires an ambulatory infusion device and continuous intravenous access. It carries risks of infection, venous thrombosis, intravenous line blockage and is inconvenient to patients. Capecitabine, an effective oral agent commonly used in MCRC, avoids all of these problems. In this phase I trial, the schedule of capecitabine was designed to simulate infusional 5FU to maximise radiosensitisation and cytotoxicity. Conventional, fractionated radiotherapy was given 5 days per week (Monday to Friday) and capecitabine was only given on the days of radiotherapy. The advantage of a 'drug-free' period of 2 days per week not only was thought to be more convenient but may have increased the dose intensity and hence radiosensitisation of chemotherapy.</p><p>In this trial, dose escalation of capecitabine was discontinued at the MTD of 2000 mg m À2 day À1 with two of five patients having developed a DLT. The three DLTs that occurred in these two patients were perineal cutaneous reactions, diarrhoea and dehydration. Overall, hand -foot syndrome was uncommon with grade 1 in one patient and grade 2 in two patients out of the total of 28 patients. The haematological toxicity of this regimen was also low with no grade 3 toxicity. Combined with concurrent preoperative conventionally fractionated radiation, a dose of capecitabine of 1800 mg m À2 day À1 was recommended for further study for locally advanced resectable rectal cancer. None of the eight patients at this dose level (1800 mg m À2 day À1 ) experienced a DLT.</p><p>In contrast, in a German trial in which the majority of patients (all with rectal cancer) were treated postoperatively and capecitabine was given 7 days a week throughout the course of pelvic radiotherapy <ref type="bibr" target="#b3">(Dunst et al, 2002)</ref>, two of the six patients treated with capecitabine at a dose of 2000 mg m À2 day À1 experienced grade 3 hand -foot syndrome. Dose escalation was stopped at 2000 and 1650 mg m À2 day À1 was the recommended dose for further evaluation. In a similar phase I trial from Greece <ref type="bibr" target="#b18">(Souglakos et al, 2003)</ref>, in which capecitabine was given continuously throughout the period of radiotherapy (in this study given postoperatively to all patients), three of the six patients developed a DLT, including one with grade 3 hand -foot syndrome and dose escalation was ceased at a capecitabine dose of 1700 mg m À2 day À1 . In this trial, grade 1 hand -foot syndrome was noted in three out of 10 patients and grade 2 in three out of 10 patients. A Korean group has also reported their experience of oral capecitabine and concurrent radiation for rectal cancer treating 45 patients with clinical T3/T4 or node-positive rectal cancer preoperatively to 50.4 Gy <ref type="bibr" target="#b5">(Kim et al, 2002)</ref>. The chemotherapy schedule used in this study consisted of two cycles of the intermittent schedule (14 days of capecitabine 1650 mg m À2 day À1 and leucovorin 20 mg m À2 day À1 followed by a 7-day rest). Grade 3 hand -foot syndrome occurred in 7% of patients (grade 1, 31%, grade 2, 9% of patients). The other grade 3 toxicities included fatigue in 4%, diarrhoea in 4% and radiation dermatitis in 2% of patients.</p><p>Our study only included patients with T3 or resectable T4 rectal cancer. The clinical stage of the tumour was confirmed in the majority of cases (93%) with endorectal ultrasound. All except one patient underwent resection after preoperative therapy, providing a better opportunity than in previous studies to evaluate the antitumour activity of capecitabine combined with concurrent, preoperative radiotherapy. Pathologic complete response was noted in five of the 27 evaluable patients (19%). A total of 15 patients (56%) showed downstaging of the pretreatment clinical T stage by at least one stage compared to the pathologic T stage. This result was similar to a previous Australasian phase II trial with continuous infusion 5FU using similar radiation protocols and selection criteria <ref type="bibr" target="#b8">(Ngan et al, 2001)</ref>. In that trial, the pathologic complete response rate was 16% and downstaging of the pretreatment clinical T stage by at least one stage compared to the pathologic T stage was seen in 54% of patients.</p><p>In the German phase I trial, only 10 patients underwent preoperative chemoradiation, and of these, pathologic complete response was observed in one patient. In the phase I trial from Greece, antitumour activity could not be assessed because all patients were treated postoperatively. In the Korean study, 38 of the 45 patients received definitive surgery. Two patients only had a transanal excision and five patients refused surgery after completing the preoperative chemoradiation. The pathologic complete response rate for the group of patients who underwent definitive surgery was 31% (12 of 38). However, endorectal ultrasound was only performed in 18% of patients so that the extent of downstaging could not be accurately assessed.</p><p>Our trial also provided an opportunity for a formal assessment of the surgical morbidity from preoperative radiotherapy and concurrent capecitabine. The surgical morbidity was comparable with the Australasian preoperative radiotherapy trial with infusional 5FU. Surgical morbidity data were not presented for the 10 patients treated preoperatively in the German trial. In the Korean study, the postoperative complications listed were neurogenic bladder (one patient), intestinal obstruction (two patients including one patient who required surgery), anastomotic leakage requiring surgery (one patient) and rectovaginal fistula requiring surgery (one patient). Postoperative complications of our trial are summarised in Table <ref type="table" target="#tab_1">3</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>We conclude that the MTD of capecitabine was reached at a dose level of 2000 mg m À2 day À1 , given as 1000 mg m À2 twice daily, from Monday to Friday throughout the course of preoperative pelvic irradiation of 50.4 Gy. For patients with resectable rectal cancer receiving concurrent, full dose radiotherapy, the recommended dose of capecitabine for further study is 1800 mg m À2 day À1 when given in this schedule. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Table 4</head><label>4</label><figDesc>Comparison of pretreatment clinical T stage and pathological T stage after preoperative chemoradiationBold numerals represent downstaging by at least one stage. a Patient refused surgery.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Pretreatment clinical stage</figDesc><table><row><cell>Clinical stage</cell><cell></cell></row><row><cell>T3N0</cell><cell>13 (46)</cell></row><row><cell>T3N1</cell><cell>13 (46)</cell></row><row><cell>T4N0</cell><cell>1 (4)</cell></row><row><cell>T4N1</cell><cell>1 (4)</cell></row></table><note><p>1021 British Journal of Cancer (2004) 91(6), 1019 -1024 &amp; 2004 Cancer Research UK</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Postoperative complicationsNote: Surgical procedures n ¼ 27, as one patient refused surgery. Each patient may have more than one event.</figDesc><table><row><cell>Complications</cell><cell>Number of events</cell></row><row><cell>Wound complications</cell><cell>5</cell></row><row><cell>Infection</cell><cell>5</cell></row><row><cell>Urinary tract complications</cell><cell>3</cell></row><row><cell>Nausea and vomiting</cell><cell>3</cell></row><row><cell>Abdominal distension and ileus</cell><cell>2</cell></row><row><cell>Anaemia</cell><cell>2</cell></row><row><cell>Thrombosis</cell><cell>1</cell></row><row><cell>Haemorrhage</cell><cell>1</cell></row><row><cell>Rectal bleeding</cell><cell>1</cell></row><row><cell>Anal ulcer</cell><cell>1</cell></row><row><cell>Abdominal pain</cell><cell>1</cell></row><row><cell>Cardiogenic shock</cell><cell>1</cell></row><row><cell>Cerebral infarction</cell><cell>1</cell></row><row><cell>Leukopenia</cell><cell>1</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2004) 91(6), 1019 -1024 &amp; 2004 Cancer Research UK</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (2004) 91(6), 1019 -1024 &amp; 2004 Cancer Research UK Clinical</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Preoperative radiotherapy for resectable rectal cancer: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Camma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Giunta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fiorica</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pagliaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Craxi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cottone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="page" from="1008" to="1015" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A method of reporting radial invasion and surgical clearance of rectal carcinoma</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Skc</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Histopathology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1319" to="1327" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The addition of continuous infusion 5-FU to preoperative radiation therapy increases tumor response, leading to increased sphincter preservation in locally advanced rectal cancer</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Crane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Skibber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Birnbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Feig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Delclos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Fleshman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Thames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Kodner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lockett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Picus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Phan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chandra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Janjan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Read</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Myerson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="84" to="89" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase I trial evaluating the concurrent combination of radiotherapy and capecitabine in rectal cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dunst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Reese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zuhlke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hinke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kolling-Schlebusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Frings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="3983" to="3991" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Preoperative radiotherapy combined with total mesorectal excision for resectable rectal cancer</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kapiteijn</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Marijnen</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Nagtegaal</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Putter</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Steup</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wiggers</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Rutten</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pahlman</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Glimelius</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Van Krieken</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Leer</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Van De Velde</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Dutch Colorectal Cancer Group</orgName>
+			</affiliation>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="638" to="646" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Preoperative chemoradiation using oral capecitabine in locally advanced rectal cancer</title>
+		<author>
+			<persName><forename type="first">J-S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M-J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K-S</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W-H</forename><surname>Yoon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="403" to="408" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Effective surgical adjuvant therapy for high-risk rectal carcinoma</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Krook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Moertel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Gunderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Wieand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Beart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Kubista</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Poon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Meyers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Mailliard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">324</biblScope>
+			<biblScope unit="page" from="709" to="715" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Design of a novel oral fluoropyrimidine carbamate, capecitabine, which generates 5-fluorouracil selectively in tumours by enzymes concentrated in human liver and cancer tissue</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sawada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ishikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shimma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Umeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ishitsuka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1274" to="1281" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Early toxicity from preoperative radiotherapy with continuous infusion 5-fluorouracil for resectable adenocarcinoma of rectum. A phase II trial for the Trans-Tasman Radiation Oncology Group</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Ngan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Burmeister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rischin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Schache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kneebone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Mackay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Joseph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Goldstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="883" to="887" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Adjuvant therapy for patients with colon and rectal cancer</title>
+	</analytic>
+	<monogr>
+		<title level="m">NIH Consensus Conference</title>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="volume">264</biblScope>
+			<biblScope unit="page" from="1444" to="1450" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Improving adjuvant therapy for rectal cancer by combining protracted -infusion fluorouracil with radiation therapy after curative surgery</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>O'connell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Martenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Wieand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Krook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Haller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Gunderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">331</biblScope>
+			<biblScope unit="page" from="502" to="507" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Morbidities of adjuvant chemotherapy and radiotherapy for resectable rectal cancer: an overview</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Ooi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Tjandra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Green</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dis Colon Rectum</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="403" to="418" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Local recurrence of rectal adenocarcinoma due to inadequate surgical resection. Histopathological study of lateral tumour spread and surgical excision</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Quirke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Durdey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Dixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="996" to="999" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Patterns of recurrence of rectal cancer after potentially curative surgery</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Gunderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Galdibini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Donaldson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1317" to="1329" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Preoperative infusional chemoradiation therapy for stage T3 rectal cancer</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Skibber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ajani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Buchholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Cleary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Dubrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Meterissian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Roubein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1025" to="1029" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Adjuvant vs neoadjuvant combined modality treatment for locally advanced rectal cancer: first results of the German rectal cancer study (CAO/ARO/AIO-94)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="124" to="S125" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">X-ray irradiation induces thymidine phosphorylase and enhances the efficacy of capecitabine (Xeloda) in human cancer xenografts</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sawada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ishikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sekiguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ishitsuka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2948" to="2953" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Oral capecitabine as an alternative to i.v. 5-fluorouracil-based adjuvant therapy for colon cancer: safety results of a randomized, phase III trial</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mckendrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Begbie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Borner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">I</forename><surname>Burns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cassidy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jodrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koralewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Marschner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maroun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Garcia-Alfonso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tujakowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Hazel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zaluski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X-Act Study</forename><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1735" to="1743" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Multicenter dose-finding study of concurrent capecitabine and radiotherapy as adjuvant treatment for operable rectal cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Souglakos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Androulakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mavroudis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kourousis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kakolyris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Vardakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kalbakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pallis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ardavanis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Varveris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Georgoulias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1284" to="1287" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Improved survival with preoperative radiotherapy in resectable rectal cancer</title>
+	</analytic>
+	<monogr>
+		<title level="j">Swedish Rectal Cancer Trial</title>
+		<imprint>
+			<biblScope unit="volume">336</biblScope>
+			<biblScope unit="page" from="980" to="987" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>N Engl J Med</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Adjuvant postoperative radiotherapy and chemotherapy in rectal carcinoma: a review of the Gastrointestinal Tumor Study Group Experience</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Lindblad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="245" to="252" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Capecitabine as firstline treatment in colorectal cancer-Pooled data from two large, phase III trials</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xeloda</forename><surname>Colorectal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cancer</forename><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="15" to="20" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

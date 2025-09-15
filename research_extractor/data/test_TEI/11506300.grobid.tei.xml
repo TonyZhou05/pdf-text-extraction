@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Carboplatin Calculated with Chatelut&apos;s Formula Plus Etoposide for Elderly Patients with Small-Cell Lung Cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Kaoru</forename><surname>Matsui</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Noriyuki</forename><surname>Masuda</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Takashi</forename><surname>Yana</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yoshiaki</forename><surname>Takada</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Masashi</forename><surname>Kobayashi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Takashi</forename><surname>Nitta</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tomonori</forename><surname>Hirashima</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Masahiro</forename><surname>Fukuoka</surname></persName>
+						</author>
+						<title level="a" type="main">Carboplatin Calculated with Chatelut&apos;s Formula Plus Etoposide for Elderly Patients with Small-Cell Lung Cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1A256C4920B3D2E88B6F8FBD6E874B18</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>combination chemotherapy</term>
+					<term>lung cancer</term>
+					<term>dose escalation</term>
+					<term>aea under the concentration curve</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objective This dose escalation was conducted to evaluate the applicability of Chatelut's dosing, and to determine the efficacy and toxicity of carboplatin with etoposide in previously untreated elderly patients (&gt;70 years) with small cell lung cancer. Patients and Methods Seventeen patients were treated with etoposide for 3 days and carboplatin calculated dose using Chatelut's formula on day 1 intravenously. The starting doses of etoposide on days 1 to 3, and carboplatin using the area under the concentration versus time curve (AUC) were 90 mg/m2 and 4 mg/ml min, respectively. Results The median age was 77 years (range 71 to 87). Dose-limiting toxicity (DLT) was seen at level 4 (AUC 5 mg/ ml min of carboplatin and etoposide 100 mg/m2). Hematologic toxicity was the primary DLT. Grade 4 thrombocytopenia and Grade 4 leukopenia were observed at level 4. Non-hematologic toxicity was insignificant. The overall responserate was94%. Conclusion Etoposide at 100 mg/m2 and AUCof carboplatin of 4.5 mg/ml min as calculated using Chatelut's formula every four weeks is the recommendeddose for further phase II trials for elderly patients with small cell lung cancer.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Many elderly patients with small cell lung cancer (SCLC) receive less chemotherapywith more dose reductions and fewer cycles because they may have a lesser ability to tolerate these therapies <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref>. Although an age-related decrease in physi-ologic functions including the glomerular filtration rate is well known(3), increased age is not always associated with reduced function <ref type="bibr" target="#b3">(4)</ref>.</p><p>The combination of carboplatin and etoposide has been proven synergistic against animal tumor models (5, 6). Chatelut's carboplatin calculation dosage formula (Fig. <ref type="figure">1</ref>) is useful for elderly patients, as it includes age, sex, body weight and serum creatinine as the parameters, and excludes 24-hour creatinine clearance <ref type="bibr" target="#b6">(7)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and Methods</head><p>Pa tien t eligibility Patient selection was restricted to those over 70 years of age with no prior chemotherapy or radiotherapy, with histologically or cytologically proven SCLC. Eligibility stipulated measurable or evaluable disease, performance status of 0-3 on the ECOGscale, adequate hepatic function with serum transaminases &lt;2 times upper limit of normal and normal total biliru-</p><p>bin, adequate renal function with normal serum creatinine, adequate pretreatment bone marrowreserve (leukocyte count &gt;4,000/|ll1, and platelet count &gt;100xl03/|nl), and adequate cardiac functions. Written informed consent was obtained from all patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose calculation and administration</head><p>Patients were treated in cohorts of at least three individuals.</p><p>The study was designed to escalate the doses of both etoposide and carboplatin until the maximumtolerated dose (MTD) was reached. Decisions to escalate the doses were based upon acute toxicities in cycle 1. Dose escalation continued with the following dose levels of carboplatin (mg/ml-min)/etoposide (mg/ m2) evaluated: 4/90, 4/100, 4.5/100, 5/100 (Table <ref type="table" target="#tab_1">1</ref>). Toxicities were graded according to the World Health Organization (WHO) criteria <ref type="bibr" target="#b7">(8)</ref>. Dose limiting-toxicity (DLT) was defined as at least one of the following: 1) Absolute neutrophil count (ANC)of &lt;500/|il for &gt;3 days or associated with fever exceeding 38°C; 2) platelet count of &lt;25,000/nl; or 3) grade 3 non-  Level4. AUC5 100 mg/m2</p><formula xml:id="formula_0">5* 2 1 0 0 0 1 2 1 1 3 0 0 1 0 1 0 1 1 0 5** 3 0 2 0 0 0 3 2 0 4 0 1 2 1 0 0 3 1 2#</formula><p>CBDCA: carboplatin, ETP: etoposide, Pits.: platelets, ANC: absolute neutrophil count. *One: massive pleural effusion, **One: bone marrow infiltration. #One patient whoreceived level 4 chemotherapy experienced neutropenic fever and grade 4 neutropenia continuing more than three days using recombinant colony stimulating factor. Another one patient experienced grade 3 thrombocytopenia and neutropenia.</p><p>hematologic toxicities excluding nausea/vomiting and alopecia. The MTDwas defined as the dose at which &gt;33.3% of the patients experienced DLTduring the first cycle of chemotherapy.</p><p>The carboplatin dose which was determined based on Chatelut' s formula <ref type="bibr" target="#b6">(7)</ref> was administered on day 1 intravenously over one hour in a 500 ml dextrose solution. The use of recombinant human granulocyte colony-stimulating factor (rhG-CSF) was allowed only for patients whodeveloped grade 3 or worse leukopenia. Chest irradiation at a dose of 45 Gy in 30 accelerated hyperfractionations over three weeks was given for patients with limited disease (LD) after four cycles of chemotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose modification</head><p>Etoposide dose was reduced on the next cycle to 80 mg/m2/ day whengrade 4 hematologic toxicities were observed during the previous chemotherapy course, and if the platelet count was under 2.5xlO4/jil, only 90% of the calculated dose carboplatin was injected. If grade 2 non-hematologic toxicities excluding nausea/vomiting and alopecia were observed, the following chemotherapy was postponed until the toxicities were completely recovered. If grade 3 or greater non-hematologic toxicities excluding nausea/vomiting and alopecia were observed, chemotherapy was to be discontinued.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response, and response duration</head><p>Tumorresponses were classified in accordancewith the WHO criteria <ref type="bibr" target="#b7">(8)</ref>. The duration of the response was measured from the start of the treatment to disease progression. Patients who did not achieve a complete response (CR) or partial response (PR) after a second course were removedfrom the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characteristics of patients</head><p>Between March 1995 and December 1998, 17 patients were enrolled. There were 13 menand four womenwith a median age of 77 years (range 7 1-87). Eleven patients had limited disease and six had extensive disease. The ECOGperformance status (PS) was 0-1 in twelve patients and 3 in one patient. A patient with a PS of 3 was treated at dose level 2, and his condition got better with a PS 2 after the first course.</p><p>The study was approved in advance by our hospital's Institutional Review Broad.</p><p>Trea tmen t received Three to five patients were enrolled at each dose level. All</p><p>Carboplatin Plus Etoposide for Elderly SCLC </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hematologic toxicity and dose-limiting toxicity</head><p>One of the major clinical toxicities observed during this study was bone marrow suppression, principally neutropenia (Table <ref type="table" target="#tab_1">1</ref>). Grade 4 neutropenia was observed already at the first dose level; however, in all such occurrences, at levels 1-3, grade 4 neutropenia recovered within 3 days and those were thus not considered DLTs. The MTDwas reached at dose level 4 because three of four patients experienced DLTs(grade 4 neutropenia; grade 4 thrombocytopenia; and neutropenic fever). Grade 3 anemia was noted at levels 3 and 4.</p><p>Because of dose modification, the hematologic toxicities were relatively infrequent in all courses, Grade 4 thrombocytopenia was experienced in only one course in level 4 (Table <ref type="table" target="#tab_2">2</ref>). Grade 3/4 neutropenia was seen in 90%and 86%of courses on level 3 and level 4, respectively.</p><p>Non-hematologic toxicity Non-hematologic toxicity was of minor importance in all patients. Grade 3 alopecia and nausea/vomiting were seen in two patients at levels 3 and 4.</p><p>Efficacy Sixteen of 17 patients achieved objective response with 4 CRs and 12 PRs with an overall response rate of 94%(95% Confidence Interval; 8 1.6% to 100%). The response duration was 223 days (range 79 to 121+ days), and overall survival was 375 days (range 132 to 1213+ days).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The age-specific incidence rate for lung cancer increases dramatically with age and specific treatment decisions must be made for elderly patient with lung cancer <ref type="bibr" target="#b8">(9,</ref><ref type="bibr" target="#b9">10)</ref>. Despite the documented potential for survival benefit with treatment, elderly patients are frequently excluded from clinical trials and there is no standard chemotherapy for elderly patients with SCLC. Shepherd et al <ref type="bibr" target="#b0">(1)</ref> reported no significant differences between the three age groups aged 70 to 74, aged 75 to 80 and aged over 80 years. The survival of patients who received chemotherapy is significantly longer than that of untreated patients even though frequent dose reductions for toxicity may be required. The elderly patients who received chemotherapy experienced toxicity more frequent, especially myelosuppression than younger patients. Chemotherapywith oral etoposide was recommended for elderly patients at several phase II trials <ref type="bibr">( 1 1 , 12)</ref>. On the contrary, Miller et al (13) compared three-day oral etoposide plus cisplatin with 21-day oral etoposide plus cisplatin. In their study, more toxicities especially nausea and appetite loss were experienced on 21-day oral etoposide plus cisplatin regimen although the two regimens had equivalent activity for SCLC. The combination of carboplatin and etoposide seems effective and less toxic than the combination of cisplatin and etoposide <ref type="bibr">(6, 14 , 15)</ref>. Carboplatin plus etoposide was generally used at a dose of 320 to 450 mg/m2 of carboplatin and 80 mg/m2 to 100 mg/m2 of intravenous etoposide for three days <ref type="bibr" target="#b15">(16)</ref> but for elderly patients the carboplatin dosage was reduced to 150-300 mg/m2 <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b16">17)</ref>. The renal clearance of anticancer agents is highly variable in elderly patients; this is one of the biggest problems for treatment <ref type="bibr">( 1 8, 19</ref>). Calvert' s carboplatin calculation dosage formula (20) is useful and simple but it includes glomerular filtration rate (GFR). GFRis often substituted by 24-hour creatinine clearance which necessitates hospitalization to measure and increases aberration in elderly patients. Chatelut's carboplatin calculation dosage formula is useful for elderly patients, as it excludes 24-hour creatinine clearance <ref type="bibr" target="#b6">(7)</ref>. This study has shown that the MTDwas reached at an AUC of 5.0 mg/ml#min by Chatelut's formula for carboplatin and etoposide 100 mg/m2of etoposide on days 1-3. DLTswere leukopenia, neutropenia, thrombocytopenia, and neutropenic fever. In 17 elderly SCLCpatients, we observed encouraging 12 (71%) partial responses and 4 (23%) complete responses, with an overall response rate of 94%. For future phase II studies, the recommendeddoses are carboplatin at an AUCof 4.5 mg/ml»min on day 1 and etoposide 100 mg/m2 of etoposide on days 1-3 at 4-week intervals. Recent studies for LD-SCLCthat included thoracic irradiation, especially concurrent use reported superior response rates, time to progression, and overall survival rates <ref type="bibr" target="#b20">(21)</ref>. However, elderly patients over age 70 years or over age 75 years were excluded in such studies <ref type="bibr" target="#b21">(22,</ref><ref type="bibr" target="#b22">23)</ref>, and the meta-analysis performed by Pignon et al <ref type="bibr" target="#b23">(24)</ref> did not demonstrate the benefit of chest irradiation for elderly patients over age 70 years. To confirm the efficacy of thoracic irradiation for elderly patients, a randomized study is needed.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>From the Second Department of Internal Medicine, Osaka Prefectural Habikino Hospital, Osaka and *the 4th Department of Internal medicine, Kinki University School of Medicine, Osaka Received for publication April 1 1 , 2000; Accepted for publication October 30, 2000 Reprint requests should be addressed to Dr. Kaoru Matsui, the Second Department of Internal Medicine, Osaka Prefectural Habikino Hospital, 3-7-1 Habikino, Habikino, Osaka 583-8588 Internal Medicine Vol. 40, No. 7 (July 2001)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Using Chatelut's formula, the carboplatin dosage determined with target area under the concentrationversus time curve (AUC)and carboplatin clearance, we performed dose escalation study with carboplatin dosing based on Chatelut's formula and intravenous three-day etoposide. Internal Medicine Vol. 40, No. 7 (July 2001)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Chatelut's formula. Carboplatin (CBDCA)dosage were calculated with target AUCby CBDCAclearance. Body weight is expressed by the kilogram (kg). As for "sex", Chatelut et al substituted zero for male and one for female.Dose Escalation Scheme and Dose Limiting Toxicity on the First Course at Each Level</figDesc><table><row><cell cols="2">CBDCA (CL) (ml/min)</cell><cell></cell></row><row><cell cols="4">=0.134xBody weight + [218xBody weightx(1-0.00457xAge)</cell><cell>x(1-0.314xSex)]</cell><cell>xil3/ScrXl04</cell></row><row><cell cols="4">Sen Serum creatinine=mg/dl,</cell><cell>Body weight=kg,</cell></row><row><cell cols="2">Sex (Male=0,</cell><cell cols="2">Female=1)</cell></row><row><cell cols="2">CL: clearance</cell><cell></cell></row><row><cell cols="4">CBDCAdosage (mg/body) =target AUC (mg-min/ml) XCBDCA(CL) ml/min</cell></row><row><cell cols="4">Figure 1. CBDCA ETP No.of Pits,nadirgrade patients 1 2 3 4 ANCnadir grade Neutropenic 1 2 3 4 fever</cell></row><row><cell cols="2">Level 1. AUC4</cell><cell></cell><cell>90mg/m2</cell></row><row><cell cols="2">Level 2. AUC4</cell><cell></cell><cell>100mg/m2</cell></row><row><cell>Level3.</cell><cell cols="2">AUC4.5</cell><cell>100mg/m2</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Grade 3/4 Thrombocutopenia, Leukopenia, Neutropenia and Neutropenic Fever on All Courses</figDesc><table><row><cell></cell><cell>No. of</cell><cell>Dose</cell><cell>Grade 3, 4</cell></row><row><cell></cell><cell cols="3">Courses modification Grade3,4 Neutropenic Useof neutropenia fever G-CSF Thrombocytopeni a Grade 3 Grade 4 leukopenia</cell></row><row><cell></cell><cell>20</cell><cell></cell></row><row><cell></cell><cell>10</cell><cell></cell></row><row><cell></cell><cell>20</cell><cell></cell></row><row><cell>2(10%) 5(36%) 2(10%) 2(20%) 7(35%) 6(43%) 13(65%) 5(50%) 18(90%) 12(86%) 0 0 2(1pt) 4(2pts) 5(3pts) 7(3pts) 1(5%) 0 3 (30%) 0 2 (10%) 0 5(36%) 1(7%)</cell><cell>14</cell><cell></cell></row><row><cell cols="4">Dose modification were needed two courses in level 3 and five courses in level 4. pt: patient.</cell></row><row><cell cols="4">17 patients received at least two courses. Carboplatin doses calculated with Chatelut's formula were 242 mg/m2 (193 to</cell></row><row><cell cols="4">305 mg/m2) in level 1, 192 mg/m2 (190 to 245 mg/m2) in level</cell></row><row><cell cols="4">2, 363 mg/m2 (286 to 363 mg/m2) in level 3 and 297 mg/m2</cell></row><row><cell cols="2">(280 to 316 mg/m2) in level 4.</cell><cell></cell></row><row><cell cols="4">Three patients (2 LDand one ED) received three courses and 13 received four or more courses. Seven of ll (63.4%) LD</cell></row><row><cell cols="4">patients received chest irradiation after chemotherapy. One LD</cell></row><row><cell cols="4">patient experienced no change with chemotherapy and received</cell></row><row><cell cols="4">chest irradiation after two courses of chemotherapy.Another</cell></row><row><cell cols="4">patient whoachieved a partial response received chest irradia-</cell></row><row><cell cols="4">tion after three cycles of chemotherapy. Four LD patients did</cell></row><row><cell cols="4">not receive chest irradiation because of poor respiratory func-</cell></row></table><note><p>tion, and/or patient's refusal.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Internal Medicine Vol. 40, No. 7 (July 2001)</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements: Wewish to thank <rs type="person">Mr. Seiji Ito</rs>, <rs type="affiliation">Oncology Department staff, Bristol-Myers Squibb K.K., Tokyo, Japan</rs>, for his help in the data collection and analysis and <rs type="person">Dr. Nydia E.C. Cottely</rs>, Executive Director, <rs type="affiliation">Medical Affairs, Intercontinental, Bristol-Myers Squibb Pharmaceutical Research Institute, Princeton, New Jersey, U.S.A.</rs>, for critically reviewing multiple drafts of the manuscript.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Treatment of small-cell lung cancer in the elderly</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Amdemichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Evans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J AmGeriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="64" to="70" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Influence of age on the treatment of limited-stage small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Siu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Feld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="821" to="828" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Functional Defects in the Aging Kidney</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Raizner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="41" to="45" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Treatment of small cell lung carcinoma in the elderly</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dajczman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Small</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wolkove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kreisman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="2032" to="2038" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Carboplatin (CBDCA, JM-8) and VP-16-213 in previously untreated patients with small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Raghavan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stuart-Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1574" to="1578" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Oral etoposide and carboplatin-Effective therapy for elderly patients with small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Radwi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tomiak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AmJ Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="149" to="155" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Prediction of carboplatin clearance from standard morphological and biological patient characteristics</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chatelut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Canal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Brunner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="573" to="580" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">WHOHandbook for Reporting Results of Cancer Treatment</title>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>World Health Organization</publisher>
+			<biblScope unit="volume">48</biblScope>
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Small Cell Lung Cancer in the Elderly Patient</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="484" to="491" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Significant trends in cancer in the elderly</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Coebergh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="569" to="571" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A phase II study of oral etoposide in elderly patients with small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Carney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Sleijfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Postmus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Thorax</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="631" to="633" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Single-agent oral etoposide for elderly small cell lung cancer patients</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Carney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Berendsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Postmus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="49" to="53" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Schedule dependency of21-day oral versus 3-day intravenous etoposide in combination with intravenous cisplatin in extensive-stage small-cell lung cancer: A randomized phase III study of the Cancer and Leukemia Group B</title>
+		<author>
+			<persName><surname>Milleraa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Herndon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Hollis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1871" to="1879" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Carboplatin (Paraplatin; JM8) and Etoposide (VP-16) as first-line combination therapy for small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Gore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="185" to="189" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Carboplatin/etoposide combination chemotherapy in the treatment of poor prognosis patients with small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Carney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">Suppl 3</biblScope>
+			<biblScope unit="page" from="77" to="83" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Review of therapeutic trials of carboplatin in lung cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Bunn</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="27" to="33" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Phase II trial ofcarboplatin plus oral etoposide for elderly patients with small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Masuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fukuoka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="1961" to="1965" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Pharmacology of antineoplastic agents in the elderly patient</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Balducci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sexton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tantranond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="76" to="84" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Problems in the use of anticancer drugs in the elderly</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Phister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Jue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Cusack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drugs</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="551" to="565" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Carboplatin dosage: Prospective evaluation of a simple formula based on renal function</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Calvert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Newell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Gumbrell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1748" to="1756" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Multimodality therapy for limited stage small cell lung cancer: Combining chemotherapy and thoracic irradiation, in: Lung Cancer-Principles and Practice</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Payne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Coldman</surname></persName>
+		</author>
+		<editor>Lippincott-Raven</editor>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="875" to="892" />
+			<pubPlace>NewYork</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Combination chemotherapy with or without thoracic radiotherapy in limited-stage small-cell lung cancer: A randomized trial of the Southeastern Cancer Study Group</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Einhorn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">ll</biblScope>
+			<biblScope unit="page" from="1223" to="1229" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Initial versus delayed accelerated hyperfractionated radiation therapy and concurrent chemotherapy in limited small-cell lung cancer: A randomized study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jeremic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shibamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Acimovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Milisavljevic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="893" to="900" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A meta-analysis of thoracic radiotherapy for small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Pignon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Arriagada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Ihde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">327</biblScope>
+			<biblScope unit="page" from="1618" to="1624" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

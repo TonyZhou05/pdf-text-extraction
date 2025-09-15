@@ -6,7 +6,7 @@ from research_extractor.extractor.research_value_extractor import ResearchValueE
 from research_extractor.prompts.builder import PromptBuilder
 from research_extractor.source.abstract import AbstractSource
 from research_extractor.source.pdf import PDFSource
-from research_extractor.util.utils import get_text_files_from_directory
+from research_extractor.util.utils import get_text_files_from_directory, get_xml_files_from_directory
 from research_extractor.extractor.research_value_extractor import (
     LLMClient,
 )
@@ -113,14 +113,14 @@ def run(
 
     elif input_type == "pdf_text_dir":
         # Process text files using PDFSource
-        text_files = get_text_files_from_directory(input_path)
-        for text_file in text_files:
-            src = PDFSource(str(text_file))
+        xml_files = get_xml_files_from_directory(input_path)
+        for xml_file in xml_files:
+            src = PDFSource(str(xml_file))
             pb = PromptBuilder(doc=src.load(), fields=fields)
             extractor = ResearchValueExtractor(
                 llm_client=llm, prompt_builder=pb, decoder=decoder
             )
-            rec_id = text_file.stem  # Use filename as ID
+            rec_id = xml_file.stem  # Use filename as ID
             try:
                 out = extractor.extract()
                 out = {"input_id": rec_id, **out} if rec_id else out

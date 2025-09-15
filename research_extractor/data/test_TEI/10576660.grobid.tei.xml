@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">  </title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">M</forename><surname>Brada</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">I</forename><surname>Judson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Cancer Research</orgName>
+								<orgName type="institution">The Royal Marsden NHS Trust</orgName>
+								<address>
+									<addrLine>Downs Road</addrLine>
+									<postCode>SM2 5PT</postCode>
+									<settlement>Sutton</settlement>
+									<region>Surrey</region>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Beale</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Cancer Research</orgName>
+								<orgName type="institution">The Royal Marsden NHS Trust</orgName>
+								<address>
+									<addrLine>Downs Road</addrLine>
+									<postCode>SM2 5PT</postCode>
+									<settlement>Sutton</settlement>
+									<region>Surrey</region>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Moore</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Cancer Research</orgName>
+								<orgName type="institution">The Royal Marsden NHS Trust</orgName>
+								<address>
+									<addrLine>Downs Road</addrLine>
+									<postCode>SM2 5PT</postCode>
+									<settlement>Sutton</settlement>
+									<region>Surrey</region>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Schering-Plough Research Institute</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Road</addrLine>
+									<postCode>07033</postCode>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Reidenberg</surname></persName>
+							<affiliation key="aff1">
+								<address>
+									<addrLine>637 South Chestnut Street Westfield</addrLine>
+									<postCode>07090</postCode>
+									<region>NJ</region>
+									<country>USA;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Schering-Plough Research Institute</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Road</addrLine>
+									<postCode>07033</postCode>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Statkevich</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Schering-Plough Research Institute</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Road</addrLine>
+									<postCode>07033</postCode>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Dugan</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Schering-Plough Research Institute</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Road</addrLine>
+									<postCode>07033</postCode>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">V</forename><surname>Batra</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Schering-Plough Research Institute</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Road</addrLine>
+									<postCode>07033</postCode>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><surname>Cutler</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Schering-Plough Research Institute</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Road</addrLine>
+									<postCode>07033</postCode>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>N-Ch</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Schering-Plough Research Institute</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Road</addrLine>
+									<postCode>07033</postCode>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Ch</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Schering-Plough Research Institute</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Road</addrLine>
+									<postCode>07033</postCode>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">'</forename><surname>I I '\--/</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Cancer Research</orgName>
+								<orgName type="institution">The Royal Marsden NHS Trust</orgName>
+								<address>
+									<addrLine>Downs Road</addrLine>
+									<postCode>SM2 5PT</postCode>
+									<settlement>Sutton</settlement>
+									<region>Surrey</region>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">  </title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6F76E70CA3ACF400390DA146A2E81A6F</idno>
+					<note type="submission">Received 4 January 1999 Revised 30 April 1999 Accepted 7 June 1999</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>oral</term>
+					<term>cytotoxic</term>
+					<term>chemotherapy</term>
+					<term>pharmacokinetics</term>
+					<term>dose escalation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Temozolomide is a novel oral cytotoxic agent that has demonstrated schedule-dependent clinical activity in two highly resistant cancers, malignant glioma and metastatic melanoma, as well as other refractory cancers (Stephens et al, 1987;<ref type="bibr" target="#b13">Newlands et al, 1992;</ref><ref type="bibr" target="#b15">O'Reilly et al, 1993;</ref> Bleehan et al, 1995). Temozolomide, a second-generation imidazotetrazine derivative, does not require hepatic metabolism to form the cytotoxic methylating agent, 5-(3methyltriazen-1-y1) imidazole-4-carboxamide (MTIC), whereas 5-(3,3-dimethyl-1-triazeno) imidazole-4-carboxamide (DTIC) requires hepatic activation to form MTIC <ref type="bibr" target="#b23">(Tsang et al, 1990)</ref>. Temozolomide degrades spontaneously to MTIC at physiologic pH and, therefore, is not subject to high interpatient variability in its pharmacokinetics or tissue distribution (Figure <ref type="figure">1</ref>). Temozolomide cytotoxicity appears to be mediated principally through methylation of DNA at the O 6 position of guanine <ref type="bibr" target="#b4">(Catapano et al, 1987;</ref><ref type="bibr" target="#b6">D'Atri et al, 1995;</ref><ref type="bibr" target="#b25">Wedge et al, 1996)</ref>, although other mechanisms have been proposed <ref type="bibr" target="#b12">(Liu et al, 1997)</ref>.</p><p>In preclinical and clinical studies, temozolomide demonstrated extensive tissue distribution, including penetration of the blood-brain barrier and the cerebrospinal fluid (</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>I</p><p>cause resistance to temozolomide <ref type="bibr" target="#b4">(Catapano et al, 1987;</ref><ref type="bibr" target="#b17">Plowman et al, 1994;</ref><ref type="bibr" target="#b9">Friedman et al, 1995;</ref><ref type="bibr" target="#b24">Waud et al, 1996;</ref><ref type="bibr">Wedge et al, 1997a)</ref>. <ref type="bibr" target="#b13">Newlands et al (1992)</ref> enrolled 51 patients in a two-part phase I study to investigate the safety and efficacy of a single oral dose of temozolomide. In five patients investigated, the mean absolute oral bioavailability of temozolomide was approximately 100%. Based on the observed schedule dependency of the anti-tumour activity in mice <ref type="bibr" target="#b22">(Stevens et al, 1987)</ref>, <ref type="bibr" target="#b13">Newlands et al (1992)</ref> administered escalating oral temozolomide once a day for 5 days to an additional 42 patients. In this population, the dose-limiting toxicity (DLT) of temozolomide was predictable and easily controlled mild to moderate myelosuppression (neutropenia and thrombocytopenia); the maximum tolerated dose (MTD) was established as 200 mg m -2 day -1 <ref type="bibr" target="#b13">(Newlands et al, 1992)</ref>. Consequently, a dosage of 750-1000 mg m -2 day -1 , divided over 5 days, was recommended for phase II studies. Clinical responses were observed in patients with recurrent high-grade glioma, melanoma and mycosis fungoides <ref type="bibr" target="#b13">(Newlands et al, 1992)</ref>. Subsequent phase II studies using the 5-day schedule, repeated every 4 weeks, have confirmed clinical activity against metastatic melanoma <ref type="bibr">(Bleehan et al, 1995)</ref>, recurrent highgrade glioma and newly diagnosed astrocytomas <ref type="bibr" target="#b15">(O'Reilly et al, 1993;</ref><ref type="bibr" target="#b14">Newlands et al, 1996;</ref><ref type="bibr" target="#b1">Bower et al, 1997;</ref><ref type="bibr" target="#b11">Levin et al, 1997)</ref>. In 1993, Schering-Plough Research Institute began worldwide clinical testing of temozolomide using machine-filled capsules. This preparation of temozolomide, currently available for clinical studies, is different from the hand-filled preparation used in initial clinical studies conducted by <ref type="bibr" target="#b13">Newlands et al (1992)</ref>. The phase I trial reported here evaluates the safety, pharmacokinetics and antitumour activity of temozolomide, administered once daily for 5 days, repeated every 28 days, using the new machine-filled preparation. Additionally, the effect of food on the pharmacokinetics of temozolomide was assessed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head></head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>All patients enrolled in this study were adults with a life expectancy of at least 12 weeks, a histologically confirmed malignancy and measurable or evaluable disease refractory to standard therapy. Additional criteria included an Eastern Cooperative Oncology Group (ECOG) performance status of &gt; 2; white blood cell count of ≥ 4.0 × 10 9 l -1 ; platelet count of ≥ 130 × 10 9 l -1 ; haemoglobin of ≥ 10 g dl -1 ; and serum creatinine and bilirubin levels within the upper limit of normal.</p><p>Patients with central nervous system (CNS) metastases, uncontrolled infection, multiple myeloma, chronic leukaemia or bone marrow involvement, as well as those who were pregnant or nursing, were excluded from the study. Also excluded were patients who had received chemotherapy, biological therapy or radiation within 4 weeks before study initiation, patients who had received nitrosourea or mitomycin C within 6 weeks before study initiation or those who experienced frequent vomiting or conditions that would prevent administration of oral capsules. Written informed consent was obtained from all patients before they entered the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study evaluations/design</head><p>Prestudy evaluations included complete blood count (white blood cells, platelets and haemoglobin), serum chemistries, chest radio-graph, computerized tomography (CT) of the head, radiological assessment of the tumour (CT or magnetic resonance imaging <ref type="bibr">[MRI]</ref>) and electrocardiogram (ECG). A full history was taken and a physical examination was performed on all patients before study entry and at each dosing cycle. Blood tests were performed at least once a week.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose-escalation patients</head><p>To determine the nature and incidence of DLT and define the MTD, temozolomide capsules (Schering-Plough Research Institute, Kenilworth, NJ, USA) were administered orally to cohorts of three patients at an initial dosage of 100 mg m -2 day -1 for 5 days, followed by sequential escalation to 150, 200 or 250 mg m -2 day -1 for 5 days to additional three-patient cohorts, until a DLT was observed. The capsules contained 20 and 100 mg of temozolomide, and daily doses were rounded up to the nearest 20 mg to achieve 5-day dosages of 500, 750, 1000 and 1250 mg m -2 as closely as possible. No intrasubject dose escalation was allowed. Patients were instructed to fast after midnight before each dose and to continue fasting 2 h after each dose. Patients did not receive prophylactic treatment for nausea or vomiting in the first treatment cycle.</p><p>The DLT was defined by the Common Toxicity Criteria (CTC) as grade 4 neutropenia (absolute neutrophil count of &lt; 0.5 × 10 9 l -1 ), grade 4 anaemia (haemoglobin of &lt; 6.5 g dl -1 ), or grade 3 thrombocytopenia (platelet count of &lt;50 × 10 9 l -1 ), serum creatinine of &gt; 2.0 mg dl -1 , or another grade 3 or 4 adverse event (with the exception of controllable nausea or vomiting) occurring during the first course of treatment. When a DLT was encountered in one patient, a maximum of three additional patients was treated at that level. If no DLT was observed in any patients, three new patients were treated at the next-higher dosage. If a DLT was observed in any of these patients, six patients were treated at the next-lower dosage. When two patients experienced a DLT at a given dosage level, no more patients were treated at this dosage level. The MTD was defined as the dosage at which ≤ one of the six patients experienced a DLT during the first course of treatment and ≥ two patients experienced a DLT at the next-higher level. All patients continued treatment with temozolomide beyond cycle 1 until a DLT occurred or disease progressed. Grade 3-4 toxicities had to be resolved before dosing was continued.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Food-effect patients</head><p>Fifteen patients were enrolled to assess the effect of food on the relative oral bioavailability of temozolomide in a two-way crossover design. Twelve of 15 patients met the following criteria: correct dosage of temozolomide administered on days 1 and 2 of cycle 1, pharmacokinetics evaluation performed on days 1 and 2 of cycle 1, and no occurrence of vomiting within 2 h after dosing. All patients received temozolomide, 200 mg m -2 day -1 , once daily for 5 days, repeated every 4 weeks. Patients were randomized to one of two treatment groups: group A (fasted) or group B (fed). All patients fasted from 22:00 the previous night with water ad lib. All patients received ondansetron, 8 mg orally, 1 h before dosing as prophylaxis for nausea. On the first day of cycle 1, group A patients remained fasting for 4 h after dosing, whereas group B patients were given a modified high-fat breakfast (587 calories, 36.3 g of fat) 1 h before dosing, to be eaten within 30 min. On the second day, patients in group A followed the day 1 schedule of group B and vice versa.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>Pharmacokinetic evaluation of temozolomide was performed during the first treatment cycle in each study. In chilled, heparinized tubes, 5-ml samples of blood were collected and cooled immediately in an ice-water bath. For the dose-escalation patients, blood samples were collected prior to dosing with temozolomide and at 10, 20 and 30 min, and then 1, <ref type="bibr">1.5, 2, 2.5, 3, 4, 6, 8, 12</ref> and 24 h post-dose on days 1 and 5. To determine the minimum temozolomide plasma concentrations, blood samples were also collected prior to temozolomide administration on days 2, 3 and 4. For the food-effect patients, 5 ml of blood were collected prior to temozolomide administration and at 10, 20, 30, 45 min and then 1, 1. <ref type="bibr">25, 1.5, 2, 2.5, 3, 4, 6, 8, 12</ref> and 24 h postdose on days 1 and 2.</p><p>To stabilize temozolomide in plasma and determine temozolomide plasma concentrations, plasma was separated by centrifugation at 4°C, and 2 ml was transferred to a plastic tube containing 0.1 mL of 8.5% phosphoric acid <ref type="bibr" target="#b21">(Shen et al, 1995;</ref><ref type="bibr" target="#b10">Kim et al, 1997)</ref>. The acidified plasma was vortexed briefly, separated into two equal portions and stored at -20°C. Plasma temozolomide concentrations were determined using a validated highperformance liquid chromatography (HPLC) assay with UV detection with a limit of quantification of 0.10 µg ml -1 and a linear range of 0.10-20.0 µg ml -1 , using a 0.5-ml plasma sample.</p><p>Additionally, urine samples were collected on day 1 and day 5 from 0-4, 4-8 and 8-24 h after dosing to determine the amount of temozolomide excreted in the urine. Samples were collected in containers with 2 ml of 8.5% phosphoric acid. If samples had a pH of &gt; 4, additional aliquots of 8.5% phosphoric acid were added until the pH was &lt; 4. Samples were stored at -20°C. Urinary temozolomide concentrations were determined using a validated HPLC assay with UV detection with a limit of quantification of 1.0 µg ml -1 and a linear range of 1.0-200 µg ml -1 using a 0.5-ml sample. Plasma and urine assays were shown to be sensitive, specific, linear, accurate and reproducible <ref type="bibr" target="#b21">(Shen et al, 1995)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetic parameters</head><p>Temozolomide pharmacokinetic analyses were performed using model-independent methods. The maximum plasma concentration (C max ) and time to maximum plasma concentration (T max ) were the observed values. The terminal phase rate constant (k) was calculated as the negative of the slope of the log-linear terminal portion of the plasma concentration time curve using linear regression. The elimination half-life (t 1/2 ) was calculated as t 1/2 = 0.693/k. The area under the plasma concentration curve (AUC) from time 0 to time of final quantifiable sample (tf) was calculated using the linear trapezoidal method from start of treatment (0 h) to the last detectable plasma concentration and extrapolated to infinity as AUC∞ = AUC tf + C tf /k, where C tf is the estimated final concentration at tf, determined by linear regression. Since temozolomide was rapidly eliminated and did not accumulate with multiple dosing, the AUC∞ was used to approximate AUC from 0 to 24 h (AUC 0-24 h ). Total body clearance (CL F ) was calculated as CL F = Dose/AUC∞. The apparent volume of distribution (V d/F ) was calculated as V d/F = [Dose/AUC∞]/k. The accumulation ratio or index (R) was determined as the ratio of AUC 0-24 from day 5/AUC 0-24 day 1. The renal clearance (CL r ) was calculated as CL r = amount of temozolomide excreted in the urine from time 0 to24 h/AUC 0-24 . </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical methods</head><p>Means and standard deviations were determined for temozolomide concentration data at each time point for the dose-escalation patients. Because the sample size was small at each dose, no statistical methods were used to determine differences between doses. Individual time points and pharmacokinetic parameters (original scale AUC and C max , T max , k, t 1/2 CL F and volumes) were evaluated using a crossover analysis of a variance model for the food-effect evaluations. Ninety per cent confidence intervals for the mean difference between the two treatments were determined for the log-transformed AUC and C max values. For the food-effect evaluation, the effects of sequence of temozolomide administration, subject within sequence, phase and treatment were extracted. The pharmacokinetic parameters were analysed using the t-test and examined for extreme values by comparing the ranges of deviations generated from the t-test to the expected values derived from the analysis of variance to see if any value exceeded 3.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anti-tumour activity</head><p>Anti-tumour activity of temozolomide was assessed for all patients, and disease response was defined according to World Health Organization criteria. The best response for each patient was derived from the objective tumour response at each cycle. A complete response was defined as complete disappearance of all clinically detectable malignant disease, determined by two observations not less than 4 weeks apart. A partial response was defined as 50% decrease in the product of two perpendicular diameters of all lesions as determined by two observations not less than 4 weeks apart. Stable disease was defined as a &lt; 50% decrease or a &lt; 25% increase in the sum of the diameters of all lesions. Progressive disease was defined as a ≥ 25% increase in the size of at least one measurable lesion or the appearance of a new lesion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head></head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients' characteristics</head><p>Thirty patients were enrolled in the study from <ref type="bibr">28 February, 1994, until 27</ref> March 1995. Fifteen patients were enrolled in the doseescalation portion of the study. Once the MTD was determined, an additional 15 patients were enrolled in the food-effect portion of the study. Patients received 120 cycles of therapy: 80 treatment cycles for the 15 dose-escalation patients and 40 treatment cycles for the 15 food-effect patients. Dose escalation was performed over 5 days as follows: three patients at 500 mg m -2 , three patients at 750 mg m -2 , six patients at 1000 mg m -2 and three patients at 1250 mg m -2 .</p><p>The study population included patients with a range of advanced cancers. The majority had good performance status (73% ECOG ≤ 1) and, at the time of the study, had been diagnosed with cancer for at least 1 year. The most common diagnosis was glioma (10/30); the second most common was sarcoma (7/30). Most patients with glioma (8/10) had received cranial radiation, whereas only one had also undergone chemotherapy. Other tumour types, in order of incidence, included mesothelioma (3/30), ovarian carcinoma (3/30), lung carcinoma (3/30), melanoma (2/30), adenocarcinoma (1/30) and bladder carcinoma (1/30). Most patients (20/30) had received prior treatment with at least 1-2 regimens of chemotherapy (range 1-5 regimens). The majority of patients (77%) had had prior surgery. Of the 30 patients enrolled, 27 received five consecutive daily doses of temozolomide during each cycle. Patient characteristics are detailed in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haematological toxicity</head><p>Patients who completed at least one cycle of temozolomide or had a DLT during cycle 1 were evaluated for safety. No cumulative toxicity was observed at any dosage level when temozolomide was administered on a once-daily, 5-day schedule. Myelosuppression occurred in cycle 1 or 2 with a nadir occurring late in the cycle (day 24 to 26 for thrombocytopenia and days 30-31 for neutropenia) and rapidly recovered. Although 91% of the cycles were administered without evidence of haematological toxicity prior to dosing, five patients required a dosage reduction when haematological toxicities reappeared: three dose-escalation patients who received 1250 mg m -2 and two food-effect patients  required dosage reduction to prevent haematological toxicity. The most common reason for discontinuation of treatment was progression of disease. Three dose-escalation patients discontinued the study: one patient's treatment was discontinued for an adverse event (pain in the shoulder) not attributable to the drug; one patient died at the end of the first cycle because of tumour progression; and one patient was removed from the study for administrative reasons. One patient in the food-effect portion of the study elected to discontinue treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose-escalation patients</head><p>Fifty-three of 80 (67%) cycles of therapy administered to doseescalation patients were evaluated for haematological toxicity. Dose-limiting myelosuppression, particularly thrombocytopenia, occurred at the 1250 mg m -2 dosage level. When temozolomide was escalated to 1250 mg m -2 , two of three patients developed CTC grade 4 thrombocytopenia, with a nadir at days 24-25 of cycle 1, and CTC grade 3 neutropenia, with a nadir on days 29 and 36. After a dosage reduction to 1000 mg m -2 , one patient remained thrombocytopenic (grade 4) and required a further reduction. Two of the three patients demonstrated grade 2 thrombocytopenia. No evidence of cumulative toxicity was reported at any dosage level in patients treated on a 5-day schedule.</p><p>Food-effect patients Grade 3 thrombocytopenia was observed after cycles 1 and 2 in 20% of patients (3/15) and was associated with grade 3 neutropenia in two patients. This was not significantly different from the incidence of grade 4 thrombocytopenia observed in the MTD cohort of the dose-escalation patients (17%). The dosage was decreased to 750 mg m -2 in one patient with no further toxicity observed. Patients in the food-effect cohort had no grade 4 haematological toxicities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Non-haematological toxicity</head><p>All non-haematological toxicities were mild (CTC grade 1 or 2) and easily controlled. Table <ref type="table" target="#tab_2">3</ref> presents a summary of all treatmentrelated non-haematological adverse events that occurred in more than one patient during the first cycle of treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose-escalation patients</head><p>The most frequent non-haematological toxicities during the first cycle for the dose-escalation patients were nausea (80%) and vomiting (73%), which occurred at all dosage levels. These toxicities usually occurred on day 1 and were considered mild to moderate in most cases. As anti-emetics were withheld until CTC Grade 3-4 nausea and vomiting occurred, this represents the actual incidence of nausea and vomiting. Gastrointestinal disturbance was generally transient, lasting an average of 1-2 days, and was relieved by ondansetron alone or in combination with metoclopramide or haloperidol. Other mild treatment-related adverse events for the first cycle included somnolence (33%), constipation (27%) and headache (27%). In all cases, the event was rated as mild to moderate. The adverse reaction profile as well as incidence and severity of adverse events remained the same in subsequent cycles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Food-effect patients</head><p>The most common treatment-related non-haematological adverse events during the first cycle of treatment for patients in the foodeffect portion of the study were nausea (53%), fatigue (47%), headache (40%), constipation (33%) and vomiting (27%). The majority of adverse events, including nausea and vomiting, were mild to moderate and generally consistent with those observed for the dose-escalation patients. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose escalation</head><p>Single-and multiple-dose pharmacokinetics were assessed for all 15 dose-escalation patients on days 1 and 5 of cycle 1 (Table <ref type="table" target="#tab_3">4</ref>).</p><p>Temozolomide was absorbed rapidly after oral administration of a 100-250 mg m -2 dose of temozolomide, with a mean C max of 5.71-13.9 µg ml -1 achieved within approximately 1 h (range 0.33-2.5 h) following oral administration. Elimination of temozolomide was rapid, with a mean elimination t 1/2 of 1.8 h. There was no evidence of accumulation with multiple dosing. The minimum observed plasma concentrations on days 1 through 5 were below the limit of quantification of the assay, and the mean accumulation index at each dosage level was 1.0. Dosage-related increases in C max , AUC tf , AUC 0-24 , and AUC ∞ were observed, and the plasma concentration of temozolomide was similar on days 1 and 5 (Figure <ref type="figure">2</ref>). The interpatient variability in the AUC observed on day 1 was small (% coefficient of variation [CV] ≤ 15) except for the 150 mg m -2 dosage level (% CV = 35). The higher variability observed in this group was attributed to the considerably lower AUC value for one of the three patients in that group. Mean CL T/F values (range 2.43-4.12 ml min -1 kg -1 ) were similar on days 1 and 5 and were independent of the dosage of temozolomide. The mean V d/f ranged from 0.37 to 0.63 l kg -1 , suggesting that temozolomide distribution approximates that of total body water.</p><p>The recovery of unchanged temozolomide in the urine was also dosage related and ranged from 4.8% to 9.6% of the administered dose over the 24-h collection period. The mean CL R (range 0.12-0.26 ml min -1 kg -1 ) was dosage-independent and small in comparison with CL T/F as a result of the rapid and extensive degradation of temozolomide at physiologic pH. The mean values for urinary excretion and CL R for temozolomide are presented in Table <ref type="table">5</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of food</head><p>The administration of temozolomide after a modified high-fat meal had an effect on the rate and extent of temozolomide absorption (Table <ref type="table" target="#tab_5">6</ref>). The mean T max increased from 1.07 to 2.25 h (P = 0.01), the C max decreased from 9.55 µg ml -1 to 6.51 µg ml -1 , and the mean AUC 0-24 decreased from 30.8 to 28.1 (P = 0.048) when temozolomide was administered after a meal. Although these data indicate that the presence of food results in a decrease in the rate and extent of absorption of temozolomide, the reduction in AUC was small (9.1%) and the AUC confidence levels were within 80-125% (AUC 0-24 range, 84-98%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anti-tumour activity</head><p>Evidence of clinical activity was observed in 33% (10/30) of patients enrolled in the study. Stable disease was reported in nine</p><p>Temozolomide in refractory or relapsing malignancies 1027 British Journal of Cancer (1999) 81(6), 1022-1030 © 1999 Cancer Research Campaign 100 10 1 0.1 0 1 2 3 4 5 6 7 8 Time (h) Day 1 Day 5</p><p>Temozolomide (µg ml -1 plasma)</p><p>Figure <ref type="figure">2</ref> Representative plasma-concentration profile for days 1 and 5 after oral administration of temozolomide 200 mg m -2 in a patient with advanced cancer</p><p>Table <ref type="table">5</ref> Mean urinary excretion (mg) and CL R of temozolomide on days 1 and 5 following oral administration to adult patients with advanced cancer 100 mg m -2 day -1 150 mg m -2 day -1 200 mg m -2 day -1 250 mg m -2 day</p><p>-1 Day 1 Time (h) Mean % CV Mean (n = 3) % Mean (n = 6) % Mean % (n = 3) CV CV (n = 3) CV 4 7.71 40 11.9 66 20.5 b 28 25.8 16 8 1.94 36 4.33 a 29 7.73 44 5.15 94 24 0.00 -1.65 102 2.32 107 1.60 117 AUC 0-24 h (µg h ml -1 ) 15.50 8 17.0 a 35 33.2 15 43.0 7 Cl r (kg) (ml min -1 kg) 0.12 42 0.21 a 10 0.19 b 15 0.17 8 Day 5 Time (h) Mean % CV Mean (n = 3) % Mean (n = 6) % Mean % (n = 3) CV CV (n = 3) CV 4 8.26 24 15.3 40 21.3 48 29.6 54 8 1.51 12 5.01 45 7.16 64 11.4 55 24 0.36 173 0.63 173 1.61 96 3.52 100 AUC 0-24 h (µg h ml -1 ) 16.7 9 16.8 13 34.5 15 42.6 3 CL r (kg) (ml min -1 kg) 0.12 29 0.26 16 0.18 45 0.23 17 a n = 2. b n = 5. patients: four with glioma, three with sarcoma, one with mesothelioma and one with ovarian carcinoma. One patient with malignant glioma who was treated at the 1000 mg m -2 dose level had a partial response that lasted 6.3 months. Four patients were not assessed for objective response to therapy and consequently could not be evaluated. Median time to disease progression for the four glioma patients with stable disease was 8.7 months (range 4.1-13.4 months). The median time to progression for the three sarcoma patients who experienced disease stabilization was 8.4 months (range 4.1-11.5 months). <ref type="bibr" target="#b13">Newlands et al (1992)</ref> demonstrated the schedule-dependent clinical activity of temozolomide in glioma and melanoma. This study showed that temozolomide, when administered on an oral 5-day schedule as machine-filled capsules currently available for phase II clinical studies, is similar in safety and efficacy to the hand-filled capsules used in the original studies <ref type="bibr" target="#b13">(Newlands et al, 1992)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head></head><p>The DLT, a rapidly reversible and noncumulative delayed thrombocytopenia, was observed at the 250 mg m -2 day -1 dosage level when given on a 5-day schedule, repeated every 28 days. These results are similar to the results of the first phase I study in advanced cancer, which also indicated that DLT was thrombocytopenia <ref type="bibr" target="#b13">(Newlands et al, 1992)</ref>.</p><p>The results reported here are consistent with results of a phase I study reported by the National Cancer Institute that evaluated the safety of the machine-filled temozolomide capsules in patients stratified on the basis of prior exposure to nitrosourea <ref type="bibr" target="#b8">(Dhodapkar et al, 1997)</ref>. Patients received the machine-filled capsules of temozolomide once daily for 5 days, every 28 days. The DLT for patients with and without prior exposure to nitrosourea was thrombocytopenia. The MTD for patients with prior exposure to nitrosourea was 150 mg m -2 , and the MTD for patients without prior exposure was 250 mg m -2 <ref type="bibr" target="#b8">(Dhodapkar et al, 1997)</ref>. The MTD for temozolomide was also established as 150 mg m -2 in a similar study that used machine-filled capsules to evaluate the safety and tolerance of temozolomide in 24 patients who were stratified by extent of prior treatment <ref type="bibr" target="#b19">(Reidenberg, 1996)</ref>. All but one of 24 patients had been pretreated with chemotherapy regimen, with or without radiation. In contrast, the majority of patients in the present dose-escalation study either had had no prior chemotherapy or had been minimally pretreated (fewer than two regimens), which may account for the slight difference observed between these studies in the dosage level that caused DLT and MTD. The results of the study reported here indicate that a 200 mg m -2 dosage of temozolomide given on a 5-day schedule and repeated every 28 days is an appropriate dosage for future phase II studies for patients who are not pretreated with radiation and/or chemotherapy. Previous studies suggested that patients who are pretreated with chemotherapy receive a lower starting dosage of temozolomide (i.e. 150 mg m -2 ), which can be escalated to 200 mg m -2 in subsequent courses in the absence of grade 3 or 4 myelosuppression <ref type="bibr" target="#b19">(Reidenberg, 1996;</ref><ref type="bibr" target="#b8">Dhodapkar et al, 1997)</ref>.</p><p>The most common non-haematological side-effects associated with temozolomide were gastrointestinal toxicity with a relatively rapid onset and short duration. In all instances, it was mild to moderate and clinically manageable with standard anti-emetics. This profile is consistent with the side-effects observed in other phase I clinical studies <ref type="bibr" target="#b13">(Newlands et al, 1992;</ref><ref type="bibr" target="#b19">Reidenberg, 1996;</ref><ref type="bibr" target="#b8">Dhodapkar et al, 1997)</ref>.</p><p>The results indicated that the pharmacokinetics of temozolomide is linear and reproducible with minimal intrapatient and interpatient variability. Temozolomide was rapidly and extensively absorbed with mean peak plasma concentrations achieved within 0.33-2.5 h (mean, approximately 1 h) after oral dosing and rapidly eliminated with a mean t 1/2 of 1.8 h. The C max and AUC were similar after single and multiple doses, indicating that temozolomide does not accumulate in the plasma after multiple dosing. CL F was independent of dosage, indicating that temozolomide pharmacokinetics are linear. Additionally, low interpatient variability in temozolomide pharmacokinetics also reflects the fact that temozolomide does not require hepatic metabolism for conversion to MTIC. These study results indicate that the machine-filled capsule preparation of temozolomide demonstrates pharmacokinetics and clinical characteristics similar to those of the hand-filled capsules in the previous phase I study <ref type="bibr" target="#b13">(Newlands et al, 1992)</ref>, which demonstrated that temozolomide was essentially 100% bioavailable.</p><p>The results of this study indicate that emesis that occurred on day 1 did not affect the plasma concentration of temozolomide. Emesis was observed on day 1 in 11 of the 15 patients. Subsequently, all patients were given antiemetics to control nausea and vomiting post-dose on day 1 and predose on day 5. As a result, no emesis was observed on day 5. Since the day 1 and day 5 concentration versus time profiles were similar, emesis on day 1 and the administration of ondansetron predose on day 5 did not appear to affect the pharmacokinetics of temozolomide.</p><p>Administration of temozolomide after food resulted in a small decrease in its oral bioavailability. Peak plasma concentrations for the fasted patients were observed within 0.5 and 2 h (mean, 1.07 h) post-dose, whereas peak plasma concentrations for the fed patients were observed within 0.75-4 h (mean, 2.25 h) post-dose. Thus, the mean C max decreased by 33% when temozolomide was administered with a meal. However, the extent of absorption was only slightly reduced (9%) for the fed patients as compared with the fasted patients. The relative oral bioavailability under fed conditions ranged from 64% to 108%, with only three of the 12 patients in the fed group having a relative oral bioavailability that was ≤ 80%. Although the reduction in the extent of absorption was statistically significant (P = 0.048), the decrease was small and the AUC confidence intervals were within the 80-125% guidelines for bioequivalence. Because the effect on the AUC is small, it is unlikely that the slight reduction observed in the oral bioavailability of temozolomide in the presence of a meal has any clinical significance. The incidence of emesis was similar in the fed and fasted groups, further indicating that temozolomide can be taken with food.</p><p>There was an objective response in one patient with glioma. Nine patients, including four with glioma, three with sarcoma, one with ovarian carcinoma and one with mesothelioma, had stable disease. Similar antitumor activity has been observed in phase I trials in patients with glioma, melanoma and mycosis fungoides <ref type="bibr" target="#b13">(Newlands et al, 1992;</ref><ref type="bibr" target="#b8">Dhodapkar et al, 1997)</ref>. Temozolomide has demonstrated clinical activity in phase II trials in metastatic melanoma <ref type="bibr">(Bleehan et al, 1995)</ref> and recurrent high-grade glioma <ref type="bibr" target="#b15">(O'Reilly et al, 1993;</ref><ref type="bibr" target="#b14">Newlands et al, 1996;</ref><ref type="bibr" target="#b1">Bower et al, 1997)</ref>.</p><p>In contrast to DTIC and other alkylating agents that are prodrugs, temozolomide has the advantage of spontaneous chemical conversion to its active species, MTIC, and thus does not require hepatic metabolism. This conversion is controlled only by the pH of the local environment <ref type="bibr" target="#b7">(Denny et al, 1994)</ref>. This property will potentially result in lower patient-to-patient variability when assessing the pharmacokinetics of temozolomide. Additionally, the spontaneous conversion of temozolomide to MTIC should not be affected by the co-administration of potentially hepatotoxic agents (e.g. high-dose chemotherapy for bone marrow transplantation) and reduce the potential for interactions with other therapeutic agents.</p><p>Although temozolomide and DTIC share the same reactive moiety, MTIC, temozolomide differs from DTIC in its ability to penetrate the blood-brain barrier and cerebrospinal fluid <ref type="bibr" target="#b16">(Patel et al, 1995;</ref><ref type="bibr">Data on file, Schering-Plough Research Institute;</ref><ref type="bibr" target="#b2">Brock et al, 1997)</ref>. As a result, temozolomide is currently being explored for the treatment of primary and metastatic CNS tumours, particularly tumours with a high propensity for CNS metastasis, such as malignant melanoma, small-cell lung carcinoma, breast carcinoma and high-grade lymphoma.</p><p>In summary, this phase I study demonstrated an acceptable safety profile for the new chemotherapeutic agent temozolomide. The pharmacokinetics are reproducible with low interpatient variability and are only slightly modified by food. The DLT is thrombocytopenia that is reversible and non-cumulative. Temozolomide is well tolerated with manageable gastrointestinal toxicities. Unlike many other chemotherapeutic agents, temozolomide does not cause alopecia or diarrhoea, which can have a significant effect on the patient's quality of life. Temozolomide's broad spectrum of antitumour activity is encouraging and is being further confirmed in ongoing randomized phase II/III trials. Temozolomide is a welltolerated novel oral cytotoxic agent with convenient once-daily oral administration for 5 days, a schedule that may prove to be effective in the treatment of highly resistant cancers such as recurrent glioma and metastatic melanoma.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head></head><p>This study was supported by Schering-Plough Research Institute, Kenilworth, NJ, USA</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Pathway for conversion of temozolomide and DTIC to the active moiety MTIC</figDesc><graphic coords="1,311.02,537.45,204.96,138.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>D</head></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patients' characteristics</figDesc><table><row><cell></cell><cell>All patients</cell><cell>Dose-escalation patients</cell><cell>Food-effect patients</cell></row><row><cell></cell><cell>n = 30 (%)</cell><cell>n = 15 (%)</cell><cell>n = 15 (%)</cell></row><row><cell>Age (years)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean (range)</cell><cell>50 (25-71)</cell><cell>47 (25-63)</cell><cell>51 (27-71)</cell></row><row><cell>Sex</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Men</cell><cell>20 (67)</cell><cell>11 (73)</cell><cell>9 (60)</cell></row><row><cell>Women</cell><cell>10 (33)</cell><cell>4 (27)</cell><cell>6 (40)</cell></row><row><cell>Prior therapies</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Radiation</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>19 (63)</cell><cell>13 (87)</cell><cell>6 (40)</cell></row><row><cell>No</cell><cell>11 (37)</cell><cell>2 (13)</cell><cell>9 (60)</cell></row><row><cell>Surgery</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>23 (77)</cell><cell>13 (87)</cell><cell>10 (67)</cell></row><row><cell>No</cell><cell>7 (23)</cell><cell>2 (13)</cell><cell>5 (33)</cell></row><row><cell>Chemotherapy</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>20 (67)</cell><cell>6 (40)</cell><cell>14 (93)</cell></row><row><cell>No</cell><cell>10 (33)</cell><cell>9 (60)</cell><cell>1 (7)</cell></row><row><cell>Prior cycles of</cell><cell></cell><cell></cell><cell></cell></row><row><cell>chemotherapy</cell><cell>10 (33)</cell><cell>9 (60)</cell><cell>1 (7)</cell></row><row><cell>0</cell><cell>6 (20)</cell><cell>1 (7)</cell><cell>5 (33)</cell></row><row><cell>1</cell><cell>7 (23)</cell><cell>3 (20)</cell><cell>4 (27)</cell></row><row><cell>2</cell><cell>7 (23)</cell><cell>2 (13)</cell><cell>5 (33)</cell></row><row><cell>≥3</cell><cell></cell><cell></cell><cell></cell></row><row><cell>ECOG performance</cell><cell></cell><cell></cell><cell></cell></row><row><cell>status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>2 (7)</cell><cell>1 (7)</cell><cell>1 (7)</cell></row><row><cell>1</cell><cell>20 (67)</cell><cell>12 (80)</cell><cell>8 (53)</cell></row><row><cell>2</cell><cell>8 (27)</cell><cell>2 (13)</cell><cell>6 (40)</cell></row></table><note><p>Percentages may not add up to 100% as a result of rounding. Data on file, Schering-Plough Research Institute.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Haematological toxicities: patients reporting adverse events after cycle 1</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="2">Dose-escalation</cell><cell></cell></row><row><cell></cell><cell>n</cell><cell></cell><cell>WHO grade</cell><cell></cell><cell></cell></row><row><cell>Dose level (mg m -2 )</cell><cell></cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell></row><row><cell>Thrombocytopenia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>500</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>750</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>1000</cell><cell>6</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>1250</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>2</cell></row><row><cell>Total</cell><cell>15</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>2 (13%)</cell></row><row><cell>Anaemia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>500</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>750</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>1000</cell><cell>6</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>1</cell></row><row><cell>1250</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>0</cell></row><row><cell>Total</cell><cell>15</cell><cell>0</cell><cell>0</cell><cell>1 (6%)</cell><cell>1 (6%)</cell></row><row><cell>Neutropenia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>500</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>750</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>1000</cell><cell>6</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>1250</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>2</cell><cell>0</cell></row><row><cell>Total</cell><cell>15</cell><cell>0</cell><cell>0</cell><cell cols="2">2 (13%) 0</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Non-haematological toxicities: number (%) of treatment-related adverse events (grades 1-4) reported for cycle 1</figDesc><table><row><cell>Adverse events</cell><cell>Dose escalation</cell><cell>Food effects</cell></row><row><cell>Fatigue</cell><cell>2 (13)</cell><cell>7 (47)</cell></row><row><cell>Headache</cell><cell>4 (27)</cell><cell>6 (40)</cell></row><row><cell>Pain</cell><cell>2 (13)</cell><cell>-</cell></row><row><cell>Constipation</cell><cell>4 (27)</cell><cell>5 (33)</cell></row><row><cell>Nausea</cell><cell>12 (80)</cell><cell>8 (53)</cell></row><row><cell>Vomiting</cell><cell>11 (73)</cell><cell>4 (27)</cell></row><row><cell>Somnolence</cell><cell>5 (33)</cell><cell>-</cell></row><row><cell>Dizziness</cell><cell>-</cell><cell>1 (7)</cell></row><row><cell>Fever</cell><cell>-</cell><cell>1 (7)</cell></row><row><cell>Anorexia</cell><cell>-</cell><cell>3 (20)</cell></row><row><cell>Diarrhoea</cell><cell>-</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Summary of pharmacokinetic parameters from dose-escalation patients(n = 15)    </figDesc><table><row><cell>Temozolomide</cell></row></table><note><p>a n = 3. b n = 6. % CV = per cent coefficient of variation.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc>Summary of mean pharmacokinetic parameters, point estimates and 90% confidence intervals from food-effects patients following oral administration of temozolomide (200 mg m -2 ) Expressed as a percent of treatment group A (fasted). b Based on log-transformed data; α = 0.05. c Based on log-transformed data. d Based on linear-scale data.</figDesc><table><row><cell></cell><cell></cell><cell>Group A</cell><cell></cell><cell>Group B</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(fasted)</cell><cell>%</cell><cell>(fed)</cell><cell>%</cell><cell></cell><cell>Point estimate</cell><cell>90% Confidence</cell></row><row><cell>Parameter</cell><cell>Units</cell><cell>n = 6</cell><cell>CV</cell><cell>P</cell><cell>(%) a</cell><cell>intervals b</cell><cell></cell><cell></cell></row><row><cell>C max</cell><cell>µg ml -1</cell><cell>9.55</cell><cell>18</cell><cell>6.51</cell><cell>27</cell><cell>0.001 c</cell><cell>67.3</cell><cell>58-79</cell></row><row><cell>AUC tf</cell><cell>µg h ml -1</cell><cell>30.0</cell><cell>14</cell><cell>27.3</cell><cell>16</cell><cell>0.029 c</cell><cell>90.9</cell><cell>85-97</cell></row><row><cell>AUC 0-24 h</cell><cell>µg h ml -1</cell><cell>30.8</cell><cell>14</cell><cell>28.1</cell><cell>16</cell><cell>0.048 c</cell><cell>90.9</cell><cell>84-98</cell></row><row><cell>T max</cell><cell>h</cell><cell>1.07</cell><cell>40</cell><cell>2.25</cell><cell>48</cell><cell>0.010 d</cell><cell>-</cell><cell>-</cell></row></table><note><p>a</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (1999) 81(6), 1022-1030 © 1999 Cancer Research Campaign</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1"><p>(7)   </p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Cancer Research Campaign phase II trial of temozolomide in metastatic melanoma</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Bleehen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Thatcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Selby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Calvert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gjs</forename><surname>Rustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mfg</forename><surname>Stevens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="910" to="913" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Multicentre CRC phase II trial of temozolomide in recurrent or progressive high-grade glioma</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Bleehen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rjh</forename><surname>Begent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Calvert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Colquhoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lewis</forename><forename type="middle">P</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="484" to="488" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">In vivo demonstration of 11 C-temozolomide uptake by human recurrent high-grade astrocytomas</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Price</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page">1241</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">In vitro and in vivo methazolastone-induced DNA damage and repair in L1210 leukemia sensitive and resistant to chloroethylnitrosoureas</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Catapano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Broggini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Erba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ponti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Marianti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Citti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'</forename><surname>Incalci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page">4884</biblScope>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Responses of human melanoma, ovarian, and colon tumor xenografts in nude mice to oral temozolomide</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Waud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Plowman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Assoc Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">297</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>abstract 1769</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Chemosensitivity to triazene compounds and O 6 -alkylguanine-DNA alkyltransferase levels: studies with blasts of leukaemic patients</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>D'atri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Piccioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Castellano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Tuorto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Franchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Christiansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Frankel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Rustum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Papa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mandelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bonmassar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="389" to="393" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">NMR and molecular modeling investigation of the mechanism of activation of the antitumor drug temozolomide and its interaction with DNA</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Denny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Wheelhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mfg</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Llh</forename><surname>Tsang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="9045" to="9051" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Phase I clinical trial of temozolomide (NSC 362856) in patients with advanced cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dhodapkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Burch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Pitot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Buckner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Ames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Suman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1093" to="1100" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Activity of temozolomide, the treatment of central nervous system tumor xenografts</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Dolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Pegg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marcelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Keir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Catino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Bigner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Schold</forename><surname>Sc</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="2853" to="2857" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">High-performance liquid chromatographic determination and stability of 5-(3-methyltriazen-1-yl)-imidazo-4-carboximide, the biologically active product of the antitumor agent temozolomide, in human plasma</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Veals</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Likhari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Statkevich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marco</forename><forename type="middle">A</forename><surname>Nomeir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chromatogr B</title>
+		<imprint>
+			<biblScope unit="volume">703</biblScope>
+			<biblScope unit="page" from="225" to="233" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Phase II study of Temodal ® (temozolomide) at first relapse in anaplastic astrocytoma (AA) patients</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Prados</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Poisson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rosenfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Albright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bruner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dugan</forename><forename type="middle">M</forename><surname>Temodal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brain</forename><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">384</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>abstract 1370</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Blockade of base excision repair appears to mediate cytotoxicity to temozolomide in mismatch repair deficient tumor cells</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chatterjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Gerson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Assoc Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page">288</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>abstract 1536</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Phase I trial of temozolomide (CCRG 81045: M&amp;B 39831: NSC 362856)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Grp</forename><surname>Blackledge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gjs</forename><surname>Rustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nsa</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Quarterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mfg</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="287" to="291" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Charing Cross Hospital experience with temozolomide in patients with gliomas</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Glaser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Bower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Colquhoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rice</forename><forename type="middle">-</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Illingworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="2236" to="2241" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Temozolomide: a new oral cytotoxic chemotherapeutic agent with promising activity against primary brain tumours</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>O'reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Glaser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rice</forename><forename type="middle">-</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Illingworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Kennard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Colquohoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lewis</forename><forename type="middle">P</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mfg</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="940" to="942" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Plasma and cerebrospinal fluid pharmacokinetics of temozolomide</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mccully</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Godwin</forename><forename type="middle">K</forename><surname>Balis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">461</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>abstract 1485</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Preclinical antitumor activity of temozolomide in mice: efficacy against human brain tumor xenografts and synergism with 1,3-bis(2-chloroethyl)-1 nitrosourea</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Plowman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Waud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Koutsoukos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Rubinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moore</forename><surname>Td</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Grever</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="3793" to="3799" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1022" to="1030" />
+			<date type="published" when="1999">1999. 1999</date>
+		</imprint>
+	</monogr>
+	<note>Cancer Research Campaign</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Phase I clinical and pharmacokinetic study of temozolomide in advanced cancer patients stratified by extent of prior therapy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Reidenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Villalona</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>abstract 344</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">99</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Determination of temozolmide in human plasma and urine by highperformance liquid chromatography after solid-phase extraction</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Decosterd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Leyvraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biollaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Lejeune</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chromatogr B</title>
+		<imprint>
+			<biblScope unit="volume">667</biblScope>
+			<biblScope unit="page" from="291" to="300" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">H)-one; a novel drug with potential as an alternative to dacarbazine</title>
+		<author>
+			<persName><forename type="first">Mfg</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hickman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Langdon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chubb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vickers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Baig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Goddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Bigson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fizames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lavelle</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="5846" to="5852" />
+			<date type="published" when="1987">1987. -3methylimidazo (5,1-d)-1,2,3,5-tetrazin-4(3</date>
+		</imprint>
+	</monogr>
+	<note>Anti-tumor activity and pharmacokinetics in mice of 8-carbamoyl</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Characterization of urinary metabolites of temozolomide in humans and mice and evaluation of their cytotoxicity</title>
+		<author>
+			<persName><forename type="first">Llh</forename><surname>Tsang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Farmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gescher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="429" to="436" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">In vivo combination chemotherapy evaluations of topotecan with cisplatin and temozolomide</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Waud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Rubinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaldandrug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Plowman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alley</forename><surname>Mc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Assoc Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page">292</biblScope>
+			<date type="published" when="1988">1996. 1988</date>
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">3-Aminobenzamide and/or O 6 benzylguanine evaluated as an adjunct to temozolomide or BCNU treatment in cell lines of variable mismatch repair status and O 6 -alkylguanine-DNA alkyltransferase activity</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wedge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Porteous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="1030" to="1036" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Effect of single and multiple administration of an O 6 -benzylguanine/temozolomide combination: an evaluation in a human melanoma xenograft model</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wedge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Porteous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="266" to="272" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">In vitro evaluation of temozolomide combined with X-irradiation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wedge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Porteous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Glaser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcus</forename><forename type="middle">K</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="92" to="97" />
+			<date type="published" when="1997">1997b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

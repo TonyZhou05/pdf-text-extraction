@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I/II study of oral etoposide plus GM-CSF as second-line chemotherapy in platinum-pretreated patients with advanced ovarian cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2005-03-08">8 March 2005</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">M</forename><surname>Baur</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Applied Cancer Research-Institute for Translational Research VIEnna (ACR-ITR VIEnna)</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Ludwig Boltzmann-Institute for Applied Cancer Research (LBI-ACR VIEnna)</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">3rd Medical Department with Oncology</orgName>
+								<orgName type="institution">Kaiser Franz Josef-Spital</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><surname>Schernhammer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Applied Cancer Research-Institute for Translational Research VIEnna (ACR-ITR VIEnna)</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Ludwig Boltzmann-Institute for Applied Cancer Research (LBI-ACR VIEnna)</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Harvard Medical School</orgName>
+								<orgName type="department" key="dep2">Brigham and Women&apos;s Hospital</orgName>
+								<orgName type="laboratory">Channing Laboratory</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+									<country>USA;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Gneist</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Applied Cancer Research-Institute for Translational Research VIEnna (ACR-ITR VIEnna)</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Ludwig Boltzmann-Institute for Applied Cancer Research (LBI-ACR VIEnna)</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Sevelda</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Gynecology and Obstetrics</orgName>
+								<orgName type="institution">Krankenhaus Lainz</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Speiser</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Gynecology and Obstetrics</orgName>
+								<orgName type="institution">University of Vienna</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Hudec</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Applied Cancer Research-Institute for Translational Research VIEnna (ACR-ITR VIEnna)</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Statistics</orgName>
+								<orgName type="institution">University of Vienna</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Ch</forename><surname>Dittrich</surname></persName>
+							<email>christian.dittrich@wienkav.at</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Applied Cancer Research-Institute for Translational Research VIEnna (ACR-ITR VIEnna)</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Ludwig Boltzmann-Institute for Applied Cancer Research (LBI-ACR VIEnna)</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">3rd Medical Department with Oncology</orgName>
+								<orgName type="institution">Kaiser Franz Josef-Spital</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Dr Ch Dittrich</orgName>
+								<orgName type="department" key="dep2">3rd Medical Department with Oncology</orgName>
+								<orgName type="institution" key="instit1">Applied Cancer Research-Institute for Translational Research Vienna (ACR-ITR VIEnna)</orgName>
+								<orgName type="institution" key="instit2">Ludwig Boltzmann- Institute for Applied Cancer Research (LBI-ACR VIEnna)</orgName>
+								<orgName type="institution" key="instit3">Kaiser Franz Josef-Spital</orgName>
+								<address>
+									<addrLine>Kundratstr. 3</addrLine>
+									<postCode>A- 1100</postCode>
+									<settlement>Vienna</settlement>
+									<country>Austria;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I/II study of oral etoposide plus GM-CSF as second-line chemotherapy in platinum-pretreated patients with advanced ovarian cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2005-03-08">8 March 2005</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D2542D879D1F25AE475083164ABFA3E6</idno>
+					<idno type="DOI">10.1038/sj.bjc.6602427</idno>
+					<note type="submission">Revised 17 November 2004; accepted 24 December 2004;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>etoposide</term>
+					<term>dose intensity</term>
+					<term>GM-CSF</term>
+					<term>advanced ovarian cancer</term>
+					<term>salvage therapy</term>
+					<term>platinum pretreatment</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The aim of this phase I/II study was to determine the maximum tolerated dose (MTD) and the dose-limiting toxicities of chronic oral etoposide given on days 1 -10 followed by rescue with subcutaneous (s.c.) granulocyte-macrophage colony-stimulating factor (GM-CSF) on days 12 -19 as second-line chemotherapy in platinum-pretreated patients (pts) with advanced ovarian carcinoma. Cohorts of three to six pts were treated with doses of oral etoposide from 750 mg m À2 cycle À1 escalated to 1250 mg m À2 cycle À1 over 10 days, every 3 weeks. Subcutanous GM-CSF, 400 mg once daily, days 12 -19, was added if dose-limiting granulocytopenia was encountered. In total, 18 pts with a median Karnofsky index of 80% (range, 70 -100%) and a median time elapsed since the last platinum dose of 10 months (range, 1 -24 months), 30% of whom showed visceral metastases, were treated at four dose levels (DLs) of oral etoposide on days 1 -10 of each cycle as follows: DL 1, 750 mg m À2 cycle À1 , without GM-CSF, three pts; DL 2, 1000 mg m À2 cycle À1 , without GM-CSF, three pts; DL 3, 1000 mg m À2 cycle À1 , with GM-CSF, six pts; and DL 4, 1250 mg m À2 cycle À1 , with GM-CSF, six pts. All pts were assessable for toxicity and 16 pts for response. Dose-limiting toxicity (DLT) was reached at DL 4 by three of six pts, showing World Health Organization (WHO) toxicity grade 4. One patient died from gram-negative sepsis associated with granulocytopenia grade 4. Two more pts developed uncomplicated granulocytopenia grade 4. Thus, we recommend that DL 3 can be used for further phase II evaluation (i.e. oral etoposide 1000 mg m À2 cycle À1 , days 1 -10, followed by s.c. GM-CSF 400 mg, days 12 -19). The clinical complete or partial responses in each patient cohort were: DL 1, one of three pts; DL 2, one of three pts; DL 3, three of five pts; and DL 4, two of five pts. In conclusion, in this phase I/II study, we defined the MTD and the dose recommended for the therapy with oral etoposide given over 10 days followed by s.c. GM-CSF in platinumpretreated patients with advanced ovarian cancer. Our data demonstrate encouraging activity of this regimen and strongly support its further investigation in a phase II study.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Optimal treatment for patients with resistant ovarian cancer has not been standardised to date. The main goals of salvage therapy in these patients are maximisation of their disease-free survival, performance status, and quality of life, depending on the patient's cumulative toxicities due to previous chemotherapy <ref type="bibr" target="#b25">(Salom et al, 2002)</ref>. A variety of treatment options are available for resistant ovarian cancer, including topotecan, pegylated liposomal doxorubicin, gemcitabine, and etoposide.</p><p>Until today, etoposide has remained the only substance available as an oral formulation, allowing for outpatient treatment, thereby markedly increasing the convenience for the patient. Etoposide is a cell-cycle, late S-or early G2-phase-specific cytotoxic agent that inhibits topoisomerase II, which is responsible for the cytotoxic activity of etoposide. Inhibition of topoisomerase II is rapidly reversible when plasma levels of etoposide decline <ref type="bibr" target="#b7">(Greco et al, 1991)</ref>. Therefore, it was hypothesised that chronic oral administration of etoposide may result in significant killing of tumour cells. Clinical data have clearly demonstrated the superiority of the delivery of etoposide in a multiple-day schedule compared with delivery of a single dose every 3 -4 weeks <ref type="bibr" target="#b27">(Slevin et al, 1989)</ref>.</p><p>In ovarian carcinoma, various schedules of peroral administration of etoposide exist that range from 3 to 21 consecutive days of application per cycle, with single daily doses ranging from 25 to 200 mg m À2 and with treatment cycles lasting 2 -4 weeks. These schedules result in intended dose intensities ranging from 131 to 283 mg m À2 week À1 <ref type="bibr" target="#b19">(Maskens et al, 1981;</ref><ref type="bibr" target="#b11">Hillcoat et al, 1985;</ref><ref type="bibr" target="#b10">Hansen et al, 1990;</ref><ref type="bibr" target="#b5">Garrow et al, 1992;</ref><ref type="bibr" target="#b17">Markman et al, 1992;</ref><ref type="bibr" target="#b18">Marzola et al, 1993;</ref><ref type="bibr" target="#b3">De Wit et al, 1994;</ref><ref type="bibr" target="#b12">Hoskins and Swenerton, 1994;</ref><ref type="bibr" target="#b26">Seymour et al, 1994;</ref><ref type="bibr" target="#b13">Kavanagh et al, 1995;</ref><ref type="bibr" target="#b33">Yasumizu and Kato, 1995;</ref><ref type="bibr" target="#b15">Kuhn et al, 1996;</ref><ref type="bibr" target="#b28">Tuxen et al, 1997;</ref><ref type="bibr" target="#b24">Rose et al, 1998;</ref><ref type="bibr" target="#b0">Alici et al, 2003)</ref>. However, the optimal schedule of chronic oral administration of etoposide is still to be defined.</p><p>Granulocyte-macrophage colony-stimulating factor (GM-CSF) given subcutaneously (s.c.) is known to reduce the incidence and duration of severe granulocytopenia and to enhance the dose intensity of cytotoxic therapy by stimulating the proliferation and differentiation of haematopoietic progenitor cells as well as the functional activity of effector cells <ref type="bibr" target="#b4">(Font et al, 1999)</ref>.</p><p>In this study, we administered GM-CSF s.c. after peroral treatment with etoposide to overcome the dose-limiting myelotoxicity of etoposide and to increase the dose intensity per treatment cycle, thereby increasing the response rate, which ultimately would lead to a prolonged progression-free interval and a shorter time to response.</p><p>The aim of this phase I/II study was to determine the maximum tolerated dose (MTD) of oral etoposide given on days 1 -10 followed by s.c. GM-CSF on days 12 -19. These data could serve as the basis for recommendations for future phase II trials in patients with recurring ovarian cancer and/or patients with ovarian cancer refractory to previous platinum-based treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eligibility criteria</head><p>Women between the ages of 18 and less than 75 years with histologically proven epithelial ovarian cancer and measurable progressive disease or relapse were eligible for entry into this phase I/II study. Patients must have received only one previous chemotherapeutic regimen containing either cisplatin or carboplatin; previous additional treatment with a taxane also was permitted. Further eligibility criteria included adequate bone marrow function (platelets4100 000 ml À1 , haemoglobin410 g dl À1 , leucocytes43.500 ml À1 ), normal renal function (serum creatinineo 1.3 mg dl À1 and/or creatinine clearance460 ml min À1 ), normal liver function (transaminases o2 Â the normal value, bilirubin o1.5 g dl À1 ), Karnofsky performance status X70%, and freedom from other malignancies for 5 years or more (except successfully treated basal cell and squamous cell carcinoma of the skin or carcinoma in situ of the cervix). Patients were excluded if their expected survival was less than 3 months, had an uncontrolled systemic infection, had received an investigational drug within the last 30 days, had received chemotherapy within 30 days of the first cycle of etoposide, or had been pretreated with etoposide. Written informed consent was obtained from all patients. The study was carried out after having received approval of the hospital's ethics committee.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment plan</head><p>Oral etoposide (Vepesid s ) 100 mg capsules were given on days 1 -10 of each treatment cycle in two daily doses, divided equally, over the 10-day period until the projected cumulative dose per cycle was reached. GM-CSF 400 mg (Leukomax s ) was administered s.c. over eight consecutive days per cycle (days 12 -19), preferably in the evening.</p><p>Cycles were repeated every 3 weeks. The duration of treatment was at least three cycles per patient, with an evaluation of the first response planned after this period, and up to six cycles per patient.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose-escalation algorithm</head><p>A dose level (DL) was defined as a cohort of three patients who received at least one cycle of the same DL of oral etoposide. The projected DLs of oral etoposide started with 750 mg m À2 cycle À1 (without GM-CSF) and were increased in a stepwise manner by 250 mg m À2 cycle À1 . At any given DL, an increase of oral etoposide to the next DL was projected if none of the three patients showed a dose-limiting toxicity (DLT), defined as grade 4 (G4) haematotoxicity and/or G3 or G4 nonhaematological toxicity during the previous therapy cycle. If a DLT occurred in at least one of three patients, three additional patients were treated with this dose level. Maximum tolerated dose was reached when two of three patients or two or more of six patients showed G4 haematotoxicity and/or G3 or G4 nonhaematological toxicity. The DL at which fewer than two of six patients showed a DLT represents the dose recommended for further treatment. No individual intrapatient dose escalation was planned.</p><p>Granulocyte-macrophage colony-stimulating factor 400 mg s.c. once daily on days 12 -19 was added for all consecutive cycles in patients who had experienced G4 granulocytopenia and, at all further DLs once dose-limiting, that is, World Health Organization (WHO) G4 granulocytopenia, had been encountered. Antiemetic prophylaxis consisted of ondansetron 8 mg b.i.d. and, if necessary, the addition of dexamethasone t.i.d. 8 mg perorally.</p><p>Termination of treatment after the completion of six therapy cycles was planned. However, in cases of disease progression, treatment was terminated after the third treatment course, the time when patients underwent their first scheduled treatment evaluation. Furthermore, treatment could be stopped at any time in case of unacceptable toxicity or at the request of the patient.</p><p>In cases of G4 granulocytopenia or G4 thrombocytopenia, the protocol required a dose reduction to the previous DL for all further treatment. If the patients' granulocytes and/or thrombocytes did not meet entry criteria at the scheduled retreatment, a delay in treatment of up to 3 weeks was permitted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pretreatment, response and follow-up evaluation</head><p>Within 21 days before the first dose of oral etoposide, baseline disease was documented by radiologic imaging (chest X-ray, computed tomography). Within 1 week before application of oral etoposide, all patients underwent a physical examination, including laboratory analyses (complete blood count, serum chemistry, CA-125 analysis, urine analysis) and assessment of their medical history. A physical examination, serum chemistries, and CA-125 analyses were repeated at each cycle, and a complete blood cell count was obtained weekly. Radiologic reassessment (using the same methodology used at baseline) was performed after the third and sixth treatment cycles.</p><p>The evaluation of a patient's response to oral etoposide was based on WHO criteria <ref type="bibr" target="#b29">(UICC, 1987)</ref>. Patients had to have received a minimum of three cycles of therapy to be eligible for the evaluation of response. If there was clinical indication for early progression of disease, however, an evaluation was performed earlier. Assessment of serologic response was performed by serial CA-125 measurements, defining a decrease of the CA-125 baseline value of at least 50% as a clinical response.</p><p>For the definition of platinum responsiveness, patients were considered truly platinum resistant if they relapsed within 6 months of completion of their first-line treatment with platinumcontaining therapy or showed disease progression during first-line treatment with platinum-containing therapy.</p><p>All patients who had received at least one cycle of oral etoposide were included in the safety analyses. Patient monitoring and scoring of toxicity were performed weekly according to the WHO Toxicity Criteria <ref type="bibr" target="#b31">(WHO, 1979)</ref>. For determination of the DLT, the occurrence of WHO G4 granulocytopenia or thrombocytopenia or WHO G3 or G4 nonhaematological toxicities were assessed and considered.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Time to progression (i.e. time between the start of treatment and the first objective evidence of tumour progression, or the time to censoring) was estimated by the Kaplan -Meier method. Since previous trials did not specify body surface areas, we based comparisons of dose intensities on a standard of 1.75 m 2 body surface area, which corresponded to a woman with an average weight of 68 kg and an average height of 165 cm.</p><p>In calculations that involved treatment duration, 3 weeks was considered 100%, with 1 week corresponding to 33.3%.</p><p>In the analyses of the influence of a specific line of oral etoposide on response rate of oral etoposide (see Table <ref type="table" target="#tab_4">7</ref>), we compared the response rates of patients treated in first-line to response rates of patients treated in second-line to response rates of patients treated in third-line, and to response rates of patients treated in fifth-line treatment. Thereby, the group termed 'thirdline' therapy consisted of studies administering oral etoposide in mixed lines (either third-line, or second/third-or fourth-line, or third/fourth-line or second/third-line treatment).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>A total of 18 patients were entered into this phase I/II study. Their characteristics are shown in Table <ref type="table" target="#tab_0">1</ref>. In accordance with protocol requirements, all patients received first-line pretreatment with a platinum-based regimen and 30% also received a taxane.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose escalation</head><p>Patients were entered at four DLs (Table <ref type="table">2</ref>), escalating the dose of oral etoposide from 750 mg m À2 cycle À1 at DL 1 to 1250 mg m À2 cycle À1 at DL 4. We enrolled three patients at DL 1(750 mg m À2 cycle À1 without GM-CSF), three patients at DL 2 (1000 mg m À2 cycle À1 without GM-CSF), six at DL 3 (1000 mg m À2 cycle À1 with GM-CSF), and six at DL 4 (1250 mg m À2 cycle À1 with GM-CSF).</p><p>No DLT was observed in the first three patients treated at DL 1. One of three patients treated at DL 2 experienced WHO G4 granulocytopenia. In conformity with the protocol, we therefore added GM-CSF to the consecutive DL 3. At DL 3, none of three patients showed haematological toxicity G4 or any other nonhaematological toxicity G3/G4.Thus, we increased the dose of oral etoposide to 1250 mg m À2 cyle À1 in combination with GM-CSF. One patient of three treated at DL 4 developed granulocytopenia G4 and an associated fatal gram-negative sepsis. Consequently, three additional patients were entered at DL 4, totaling six patients at this DL. One of these additional patients developed granulocytopenia G4 associated with a G3 infection including fever and G2 mucositis, necessitating hospitalisation and treatment with broad-spectrum antibiotics. The patient's recovery was uncomplicated, and treatment could be resumed following a delay of only 1 week and with a reduced dose of oral etoposide. A third patient at DL 4 developed G4 granulocytopenia and had to be given antibiotics on the ward in response to G2 phlebitis. Overall, at DL 4, three of six patients experienced G4 granulocytopenia that demanded antibiotic treatment on the ward and prohibited a further escalation in dose. Subsequently, three additional patients were entered at DL 3. Overall, only one of six patients at DL 3 developed G4 granulocytopenia, which was associated with fungal esophagitis and necessitated antimicrobial treatment on the ward. We conclude that, for oral etoposide, the DL 3 dosage of 1000 mg m À2 cycle À1 on days 1 -10 plus GM-CSF s.c. 400 mg daily on days 12 -19, repeated every 3 weeks, should be recommended for further phase II studies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicities per patient over all cycles</head><p>Haematological and nonhaematological toxicities over all the cycles administered to the 18 patients who entered our study are summarised in Tables <ref type="table" target="#tab_2">3</ref> and <ref type="table">4</ref>. At DL 3, that is, at the dose we recommend for phase II studies, we observed G3 or G4 granulocytopenia in three of six patients. The median granulocyte nadirs during the first cycles were 1600 ml À1 at DL 1, 600 ml À1 at DL 2, 800 ml À1 at DL 3, and 300 ml À1 at DL 4. In contrast, the median nadirs of granulocytes from cycles 2 -6 were 1900 ml À1 at DL 1, 1150 ml À1 at DL 2, 1200 ml À1 at DL 3, and 2200 ml À1 at DL 4. If GM-CSF was administered, recovery from granulocytopenia occurred 6 days earlier, that is, after a median of 14 days (range, 6 -29 days), whereas granulocytopenia occurred after a median of 20 days (range, 5 -33 days) without the addition of GM-CSF. Overall, no cumulative toxicity was observed. Owing to an allergy to GM-CSF in one patient, granulocyte colony-stimulating factor was used for her further treatment. One patient with G4 thrombocytopenia required a one-time platelet transfusion. Severe nonhaematological Table 2 Number of patients with World Health Organization grade 4 toxicities, by dose level, at the first treatment cycle Oral etoposide and GM-CSF in advanced ovarian cancer toxicity was restricted to colitis, which presented with G3 intensity in one patient and with G4 intensity accompanied by eosinophilic infiltration in another patient. All other toxicities were negligible and manageable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose-intensity analysis</head><p>A total of 93 cycles (median, 6; range, 1 -6) were administered in 18 patients. A mean of 98% (range, 83 -100%) of the planned dose of oral etoposide could be administered, with a mean treatment duration of 116% (range, 100 -140%; 100% corresponding to 3 weeks). In 12 of 18 patients, the duration of treatment had to be extended because of granulocytopenia in nine patients (four patients experienced a delay of 1 week, one patient for 2 weeks, and one for 3 weeks, and in three patients for an overall of 6 weeks each), G2 phlebitis in one patient, G2 mycotic esophageal infection in another patient, and G4 eosinophilic colitis in one other patient.</p><p>A median effective dose intensity of 234 mg m À2 week À1 at DL 1, of 238 mg m À2 week À1 at DL 2, of 272 mg m À2 week À1 at DL 3, and of 417 mg m À2 week À1 at DL 4 was reached. Overall, an effective median dose intensity of 292 mg m À2 week À1 for all DLs was achieved.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response to treatment and progression-free interval</head><p>In total, 16 of 18 patients were evaluable for response. One patient died after the first cycle at DL 4 of gram-negative sepsis associated with G4 granulocytopenia. In another patient, treatment was stopped at the request of the patient after the second treatment cycle at DL 3, and could therefore not be evaluated for response. Clinical complete or partial responses in each patient cohort were observed at DL 1 in one of three patients, at DL 2 in one of three patients, at DL 3 in three of five patients, and at DL 4 in two of five patients. Overall, four patients reached a complete response, three patients reached a partial response, seven patients had no change, and two patients showed disease progression. Seven (44%) patients of 16 patients objectively responded to oral etoposide as secondline therapy. The two patients with tumour progression belonged to the patient cohorts of DL 2 and DL 4. Six of nine platinum-sensitive patients responded to etoposide as compared with only one of seven platinum-resistant patients (Table <ref type="table" target="#tab_3">5</ref>).</p><p>Two of three patients, whose response to pretreatment with a taxane was evaluable, responded to oral etoposide as second-line therapy, whereas five of 12 patients without taxane pretreatment did so. When the evaluation of tumour response was based on the WHO tumour response criteria, the median time to response was 2 months and decreased to 1.5 months when response criteria included levels of serological CA-125 tumour marker.</p><p>The median progression-free interval for all patients was 7 months (range, 1 þ to 9 months).</p><p>In accordance with the protocol, treatment was discontinued in seven patients after they had completed six treatment cycles without disease progression, in eight patients because of tumour progression, in two patients by request of the patient, and in one patient because of death due to sepsis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In this study, we achieved an increase in dose intensity of etoposide by using GM-CSF, which advanced by 6 days, the granulocyte nadir following etoposide.</p><p>In previous trials, several groups <ref type="bibr" target="#b26">(Seymour et al, 1994;</ref><ref type="bibr" target="#b13">Kavanagh et al, 1995;</ref><ref type="bibr" target="#b28">Tuxen et al, 1997;</ref><ref type="bibr" target="#b24">Rose et al, 1998)</ref> succeeded in intensifying the dose of etoposide administered without severe haematotoxicity by escalating stipulated doses on an individual basis. In contrast, <ref type="bibr" target="#b5">Garrow et al (1992)</ref> and <ref type="bibr" target="#b3">De Wit et al (1994)</ref>, who did not make such intraindividual increases in etoposide doses, achieved only the lower median dose intensities of etoposide. We did not design our study to consider individual intrapatient escalation of dose. However, with the use of GM-CSF at DL 3, we achieved the same high dose intensity as did Rose et al (1998), <ref type="bibr" target="#b28">Tuxen et al (1997)</ref>, <ref type="bibr" target="#b26">Seymour et al (1994)</ref>, and <ref type="bibr" target="#b13">Kavanagh et al (1995)</ref> . It remains to be determined whether further increases in dose intensity could be reached in patients without severe haematoxicity if doses were escalated on an individual basis, in addition to using GM-CSF. However, it is not clear whether still higher dose intensities are of clinical relevance, particularly since previous studies do not support a clear relationship between effective dose intensities and response rates (Table <ref type="table">6</ref>) <ref type="bibr" target="#b5">(Garrow et al, 1992;</ref><ref type="bibr" target="#b3">De Wit et al, 1994;</ref><ref type="bibr" target="#b26">Seymour et al, 1994;</ref><ref type="bibr" target="#b13">Kavanagh et al, 1995;</ref><ref type="bibr" target="#b28">Tuxen et al, 1997;</ref><ref type="bibr" target="#b24">Rose et al, 1998)</ref>.</p><p>When comparing our dose recommendation with that of other phase I trials, smaller total doses of etoposide can be administered in schedules with treatment durations of 1 -5 days compared to longer lasting treatments. Data from a randomised trial by <ref type="bibr" target="#b2">Clark et al (1994)</ref>, comparing a schedule of 1 -5 days to a schedule of 1 -8 days, support these findings <ref type="bibr" target="#b20">(Nissen et al, 1976;</ref><ref type="bibr" target="#b16">Lau et al, 1979</ref>;  Oral etoposide and GM-CSF in advanced ovarian cancer <ref type="bibr" target="#b22">Ogawa et al, 1983;</ref><ref type="bibr" target="#b14">Kimura et al, 1985)</ref>. Furthermore, two other phase I trials that explored schedules extended to 21 days recommended a dosage of 50 -75 mg m À2 day À1 , which cumulatively corresponds to our total dose of 1000 mg m À2 per cycle <ref type="bibr" target="#b8">(Hainsworth et al, 1989;</ref><ref type="bibr" target="#b21">Noda et al, 1994)</ref>.</p><p>The median response rate in our study was 44%, compared with median response rates of 26% (range, 0 -43%) of other second-line treatment trials in patients with ovarian cancer <ref type="bibr" target="#b19">(Maskens et al, 1981;</ref><ref type="bibr" target="#b12">Hoskins and Swenerton, 1994;</ref><ref type="bibr" target="#b33">Yasumizu and Kato, 1995;</ref><ref type="bibr" target="#b15">Kuhn et al, 1996;</ref><ref type="bibr" target="#b24">Rose et al, 1998)</ref>. Thus, our treatment regimen can be classified as very effective. Reviewing and comparing the duration of treatment of all second-line oral etoposide regimens in patients with ovarian cancer, we observed a marked difference: One 5-day regimen resulted in a 0% response rate <ref type="bibr" target="#b19">(Maskens et al, 1981)</ref>, whereas 10-to 21-day regimens resulted in response rates between 20 and 45% <ref type="bibr" target="#b12">(Hoskins and Swenerton, 1994;</ref><ref type="bibr" target="#b33">Yasumizu and Kato, 1995;</ref><ref type="bibr" target="#b15">Kuhn et al, 1996;</ref><ref type="bibr" target="#b24">Rose et al, 1998)</ref>, lending further support to the superiority of our 10-day design. Another potential explanation for the high efficacy of our regimen could be related to an additional cytotoxic effect of GM-CSF, which has been shown to enhance the number of circulating blood monocytes and their functional cytotoxic impact <ref type="bibr" target="#b32">(Wing et al, 1989)</ref>.</p><p>In our study, patients with platinum-sensitive disease responded better than patients with platinum-resistant disease (67 vs 14%) (Table <ref type="table" target="#tab_3">5</ref>). Previous studies investigating responsiveness to etoposide in platinum-resistant patients describe a median response rate of 20% (range, 0 -27%) <ref type="bibr" target="#b17">(Markman et al, 1992;</ref><ref type="bibr" target="#b12">Hoskins and Swenerton, 1994;</ref><ref type="bibr" target="#b13">Kavanagh et al, 1995;</ref><ref type="bibr" target="#b15">Kuhn et al, 1996;</ref><ref type="bibr" target="#b24">Rose et al, 1998;</ref><ref type="bibr" target="#b0">Alici et al, 2003)</ref>.Thus, our findings correspond well with those from other trials, lending further support to a definite, although modest, activity in this cohort of patients.</p><p>We observed a 2-month median time to response when we evaluated response by objective measurements of tumour dimension, and a 1.5-month median time when the evaluation also included additional, serological measurements of CA-125. Response that occurs early after the start of therapy is important with regard to symptom palliation and should play a role in the selection of treatment. The primary reason for the early tumoricidal effect we observed could be attributed to the 10-day schedule of our regimen. <ref type="bibr" target="#b1">Clark and Cottier (1992)</ref> also demonstrated a time-to-response advantage of a 10-day regimen as compared with a 21-day regimen of prolonged oral etoposide in patients with small-cell lung cancer.</p><p>A review of 16 studies performed in 395 evaluable ovarian cancer patients treated with oral etoposide reveals a clear relationship between response to oral etoposide and the sequence of etoposide as first-, second-, third-, fourth-, or fifth-line therapy (Table <ref type="table" target="#tab_4">7</ref>) <ref type="bibr" target="#b19">(Maskens et al, 1981;</ref><ref type="bibr" target="#b11">Hillcoat et al, 1985;</ref><ref type="bibr">Hansen et al, Table 6</ref> Overview of clinical studies using oral etoposide in advanced ovarian cancer regarding effective median dose intensity of oral etoposide and response rate</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Schedule of etoposide</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose escalation of oral etoposide planned</head><p>Effective median dose intensity (mg m À2 week À1 ) Response rate (%) Line of therapy <ref type="bibr" target="#b5">Garrow et al (1992)</ref> 50 mg m À2 day À1 Â 21 days q 4 weeks 175 20 Third De <ref type="bibr" target="#b3">Wit et al (1994)</ref> 50 mg m À2 day À1 Â 21 days q 4 weeks 218 16 Second, third <ref type="bibr" target="#b13">Kavanagh et al (1995)</ref> 50 mg m À2 day À1 Â 21 days q 4 weeks Yes 247 0 Fifth <ref type="bibr" target="#b24">Rose et al (1998)</ref> 50 mg m À2 day À1 Â 21 days q 4 weeks Yes 263 31 Second <ref type="bibr" target="#b26">Seymour et al (1994)</ref> 100 mg day À1 Â 7 days q 3 weeks Yes 267 24 Second, third <ref type="bibr" target="#b28">Tuxen et al (1997)</ref> 170 mg m À2 day À1 Â 5 days q 3 weeks Yes 4283 48 First Baur et al 75 mg m À2 day À1 Â 10 days q 3 weeks Yes+use of GM-CSF 292 44 Second 1990; <ref type="bibr" target="#b5">Garrow et al, 1992;</ref><ref type="bibr" target="#b17">Markman et al, 1992;</ref><ref type="bibr" target="#b18">Marzola et al, 1993;</ref><ref type="bibr" target="#b3">De Wit et al, 1994;</ref><ref type="bibr" target="#b12">Hoskins and Swenerton, 1994;</ref><ref type="bibr" target="#b26">Seymour et al, 1994;</ref><ref type="bibr" target="#b13">Kavanagh et al, 1995;</ref><ref type="bibr" target="#b33">Yasumizu and Kato, 1995;</ref><ref type="bibr" target="#b15">Kuhn et al, 1996;</ref><ref type="bibr" target="#b28">Tuxen et al, 1997;</ref><ref type="bibr" target="#b24">Rose et al, 1998;</ref><ref type="bibr" target="#b0">Alici et al, 2003;</ref><ref type="bibr">our study)</ref>. Studies describe reasonable response rates to second-and third-line therapy. Furthermore, a lack of crossresistance between taxanes and oral etoposide was found in our study, which was confirmed by Rose et al (1998), <ref type="bibr" target="#b0">Alici et al (2003)</ref>, <ref type="bibr" target="#b12">Hoskins and Swenerton (1994)</ref>, but not by <ref type="bibr" target="#b13">Kavanagh et al (1995)</ref>.These data support the value and acceptability of oral etoposide as a treatment option in recurring ovarian cancer. The progression-free interval of a median of 7 months in our trial compared favourably with a median of 6 months in the GOG study by <ref type="bibr" target="#b24">Rose et al (1998)</ref>, which, similar to our study, treated patients in second-line therapy with chronic oral etoposide. In contrast, a trial using topotecan or pegylated liposomal doxorubicin as second-line therapy in patients with recurring ovarian carcinoma reported a median progressionfree interval of only 4 months <ref type="bibr" target="#b6">(Gordon et al, 2001)</ref>. It is conceivable that the high response rate in our patients had a positive influence on the duration of the progression-free interval among our patients.</p><p>Consistant with other studies <ref type="bibr" target="#b15">(Kuhn et al, 1996;</ref><ref type="bibr" target="#b24">Rose et al, 1998)</ref>, myelotoxicity was the predominant and DLT in our trial. <ref type="bibr" target="#b33">Yasumizu and Kato (1995)</ref>, who administered approximately half the dose of oral etoposide administered by <ref type="bibr" target="#b24">Rose et al (1998)</ref>, observed G3 or G4 leucopenia in only 12% of their patients. In our study, one patient with granulocytopenia died due to sepsis; other groups have reported similar adverse events <ref type="bibr" target="#b19">(Maskens et al, 1981;</ref><ref type="bibr" target="#b15">Kuhn et al, 1996;</ref><ref type="bibr" target="#b24">Rose et al, 1998)</ref>, whereas no patients died in the trial of <ref type="bibr" target="#b33">Yasumizu and Kato (1995)</ref>. In sum, because of the wide intrapatient and interpatient variability in the bioavailability of oral etoposide, patients who receive oral etoposide must be carefully monitored for myelosuppression and might need to discontinue therapy or have their dose modified if they experience G3 or G4 granulocytopenia <ref type="bibr" target="#b9">(Hande et al, 1993)</ref>. To improve the bioavailability of oral etoposide and to optimise the therapeutic index of etoposide, the prodrug etoposide phosphate can be administered in a prolonged intraveneous low-volume infusion in an ambulant setting as an alternative treatment option to oral etoposide. A further phase I trial consisting of intravenous etoposide phosphate as continuous infusion over 10 days in combination with subcutaneous GM-CSF on days 12 -19 is needed to determine the MTD of etoposide phosphate with subcutaneous GM-CSF for recommendations for future phase II trials in patients with recurring ovarian cancer.</p><p>The deepest granulocyte nadir occurred in the first cycles, independent of GM-CSF administration or DLs. Moreover, in our study, the positive influence of GM-CSF on the granulocyte counts started only on the second cycle and continued onward. This observation has not been described previously; however, Paccagnella et al provided a potential explanation in his investigation of the bone marrow myeloid precursor proliferative activity in patients with lung cancer treated with chemotherapy and GM-CSF. They demonstrated a significantly higher rate of production of the myeloid precursor cells only after the start of the second treatment cycle <ref type="bibr" target="#b23">(Paccagnella et al, 1993)</ref>. Thus, the decision to increase the dose of etoposide at the consecutive DLs in our study was less likely than we expected to be influenced by administration of GM-CSF. Thus, in our trial, an increase of dose intensity achieved by administration of GM-CSF was achieved only from cycle 2 onward. <ref type="bibr" target="#b30">Weiss et al (1996)</ref> suggested an alternative option for enhancing dose intensities and improving neutrophil nadirs of the first cycle in a randomised phase I study in which GM-CSF was administered 5 days before the start of the first treatment cycle.</p><p>In conclusion, we defined the dose of oral etoposide in combination with GM-CSF s.c. recommended for furture phase II trials in patients with advanced ovarian cancer pretreated with platinum. Keeping in mind all the limitations of nonrandomised small clinical trials, we submit that our 44% response rate is superior to the rates achieved by similar trials testing second-line therapy. Moreover, we observed responses in platinum-sensitive and platinum-resistant patients and no crossresistance with taxanes. Thus, in sum, our treatment regimen can be highly recommended for second-and third-line therapy in patients with recurring ovarian cancer.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>cumulative dose: mg m À2 cycle À1 ) 750, granulocyte-macrophage colony-stimulating factor; ÀGM-CSF ¼ without GM-CSF; + GM-CSF ¼ with GM-CSF.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>Number of patients (n)</cell><cell>1 8</cell></row><row><cell>Age (years) median (range)</cell><cell>58 (43 -72)</cell></row><row><cell>Sites of metastases</cell><cell></cell></row><row><cell>One site</cell><cell>9</cell></row><row><cell>Two sites</cell><cell>8</cell></row><row><cell>Three sites</cell><cell>1</cell></row><row><cell>Tumour grade (n)</cell><cell></cell></row><row><cell>Well differentiated</cell><cell>1</cell></row><row><cell>Moderately differentiated</cell><cell>5</cell></row><row><cell>Poorly or undifferentiated</cell><cell>12</cell></row><row><cell>Performance status according to Karnofsky (%)</cell><cell></cell></row><row><cell>70</cell><cell>1</cell></row><row><cell>80</cell><cell>8</cell></row><row><cell>90</cell><cell>4</cell></row><row><cell>100</cell><cell>4</cell></row><row><cell>NE</cell><cell>1</cell></row><row><cell>Time (months) elapsing from last platinum dose to start of oral</cell><cell></cell></row><row><cell>etoposide</cell><cell></cell></row><row><cell>Median (range)</cell><cell>10 (1 -24)</cell></row><row><cell>Previous chemotherapy as first-line therapy (no. of patients)</cell><cell></cell></row><row><cell>Platinum based</cell><cell>18</cell></row><row><cell>Cyclophosphamide</cell><cell>9</cell></row><row><cell>Epidoxorubicin</cell><cell>1</cell></row><row><cell>Paclitaxel</cell><cell>5</cell></row><row><cell>Response to previous platinum (no. of patients)</cell><cell></cell></row><row><cell>Platinum sensitive</cell><cell>9</cell></row><row><cell>Platinum resistant</cell><cell>9</cell></row></table><note><p>NE ¼ not evaluable.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Number of patients (n ¼ 18) with haematological toxicities (World Health Organization (WHO) grade) over all cycles</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>WHO grade</cell><cell></cell><cell></cell></row><row><cell>Toxicity</cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell></row><row><cell>Leucocytes</cell><cell>0</cell><cell>6</cell><cell>5</cell><cell>4</cell><cell>3</cell></row><row><cell>Granulocytes</cell><cell>1</cell><cell>5</cell><cell>3</cell><cell>2</cell><cell>7</cell></row><row><cell>Thrombocytes</cell><cell>6</cell><cell>3</cell><cell>2</cell><cell>5</cell><cell>2</cell></row><row><cell>Haemoglobin</cell><cell>0</cell><cell>3</cell><cell>10</cell><cell>5</cell><cell>0</cell></row><row><cell cols="6">Table 4 Number of patients (n ¼ 18) with nonhaematological toxicities</cell></row><row><cell cols="4">(World Health Organization (WHO) grade) over all cycles</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>WHO grade</cell><cell></cell><cell></cell></row><row><cell>Toxicity</cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell></row><row><cell>Nausea/vomiting</cell><cell>5</cell><cell>2</cell><cell>7</cell><cell>4</cell><cell>0</cell></row><row><cell>Mucositis</cell><cell>9</cell><cell>6</cell><cell>3</cell><cell>0</cell><cell>0</cell></row><row><cell>Diarrhoea</cell><cell>9</cell><cell>2</cell><cell>5</cell><cell>1</cell><cell>1</cell></row><row><cell>Constipation</cell><cell>11</cell><cell>1</cell><cell>6</cell><cell>0</cell><cell>0</cell></row><row><cell>Infection</cell><cell>9</cell><cell>6</cell><cell>1</cell><cell>1</cell><cell>1</cell></row><row><cell>Alopecia</cell><cell>0</cell><cell>0</cell><cell>2</cell><cell>16</cell><cell>0</cell></row><row><cell>Skin</cell><cell>12</cell><cell>5</cell><cell>1</cell><cell>0</cell><cell>0</cell></row><row><cell>Paraesthesia</cell><cell>17</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Lethargy</cell><cell>16</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>GOT</cell><cell>16</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Bilirubin</cell><cell>17</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Creatinine</cell><cell>17</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>0</cell></row><row><cell>Alkaline phosphatase</cell><cell>16</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>0</cell></row></table><note><p>GOT ¼ glutamate oxaloacetic transaminase (U l À1 ), alkaline phosphatase (U l À1 ), bilirubin (mg % À1 ), creatinine (mg % À1 ).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 5</head><label>5</label><figDesc>Response to treatment with etoposide referring to response to previous platinum treatment (n ¼ 18)</figDesc><table><row><cell></cell><cell>CR</cell><cell>PR</cell><cell>NC</cell><cell>PD</cell><cell>NE</cell></row><row><cell>Platinum sensitive</cell><cell>4</cell><cell>2</cell><cell>3</cell><cell></cell></row><row><cell>Platinum resistant</cell><cell></cell><cell>1</cell><cell>4</cell><cell>2</cell><cell>2</cell></row></table><note><p>CR ¼ complete remission; PR ¼ partial remission; NC ¼ no change; PD ¼ progressive disease; NE ¼ not evaluable.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 7</head><label>7</label><figDesc>Relationship of response to oral etoposide and sequence of chemotherapy in patients with advanced ovarian cancer</figDesc><table><row><cell>Grouped according to line of therapy</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2005) 92(6), 1019 -1025 &amp; 2005 Cancer Research UK</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (2005) 92(6), 1019 -1025 &amp; 2005 Cancer Research UK Clinical Studies</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Oral etoposide (VP16) in platinum-resistant epithelial ovarian cancer (EOC)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Alici</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Saip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Eralp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aydiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Topuz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="358" to="362" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The activity of 10-, 14-, and 21-day schedules of single-agent etoposide in previously untreated patients with extensive small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cottier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">Suppl 14</biblScope>
+			<biblScope unit="page" from="36" to="39" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A randomized trial of two etoposide schedules in small-cell lung cancer: the influence of pharmacokinetics on efficacy and toxicity</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Slevin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Joel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Talbot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reznek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Masud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gregory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Wrigley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1427" to="1435" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase II study of prolonged oral etoposide in patients with ovarian cancer refractory to or relapsing within 12 months after platinum-containing chemotherapy</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Wit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mel</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">D</forename><surname>Gaast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Logmans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stoter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="656" to="657" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Increasing dose intensity of cisplatin -etoposide in advanced nonsmall cell lung carcinoma: a phase III randomized trial of the Spanish Lung Cancer Group</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Font</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Moyano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Puerto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Garcia-Giron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Barneto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anton</forename><forename type="middle">A</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Salvador</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="855" to="863" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Prolonged administration of oral etoposide in previously-treated epithelial ovarian cancer: a phase II trial</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Garrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Greco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc ASCO</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">759</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Recurrent epithelial ovarian carcinoma: a randomized phase III study of pegylated liposomal doxorubicin versus topotecan</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Fleagle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Guthrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Parkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Lacave</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="3312" to="3322" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Chronic oral etoposide</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Greco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="303" to="309" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Chronic daily administration of oral etoposide -a phase I trial</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Frazier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Greco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="396" to="401" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Bioavailability of low-dose oral etoposide</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Hande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Krozely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Greco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="374" to="377" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase II clinical trial of VP-16-213 (Etoposide) administered orally in advanced ovarian cancer</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Malthe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krog</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gynecol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="369" to="370" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Phase II trial of VP 16-213 in advanced ovarian carcinoma</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Hillcoat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pepperell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gynecol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="162" to="166" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Oral etoposide is active against platinumresistant epithelial ovarian cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Hoskins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Swenerton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="60" to="63" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Phase II study of prolonged oral etoposide in refractory ovarian cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Kavanagh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tresukosol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gonzalez</forename><surname>De Leon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Freedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Hord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lenzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Krakoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Kudelka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Gynecol Cancer</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="351" to="354" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Phase I clinical study of NK 171 (etoposide)</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Niitani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gan To Kagaku Ryoho</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="851" to="856" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Die intraveno ¨se oder orale Etoposid-Therapie des Platinrefrakta ¨ren Ovarialkarzinom-Fru ¨hrezidivs</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schmalfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ulm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Freitag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ja</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Graeff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geburtsh Frauenheilk</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="105" to="110" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Phase I trial of a new form of an oral administration of VP-16-213</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">I</forename><surname>Nissen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pedersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="485" to="487" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Phase 2 trial of chronic low-dose oral etoposide as salvage therapy of platinum-refractory ovarian cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Markman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hakes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reichman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Curtin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Barakat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Almadrones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hoskins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="55" to="57" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Low-dose oral etoposide in epithelial cancer of the ovary</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marzola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zucchetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Colombo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sessa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Pagani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>'incalci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cavalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mangioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="517" to="519" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Phase II clinical trial of VP-16-213 in ovarian cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Maskens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-P</forename><surname>Armand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Lacave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Dejager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-Pm</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="329" to="330" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase I clinical trial of an oral solution of VP-16-213</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">I</forename><surname>Nissen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dombernowsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Larsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="943" to="945" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Phase I clinical study of 21-consecutive-day oral administration of etoposide</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Noda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fukuoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Komatsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hayashihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ariyoshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Terashima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nagao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Furuse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gan To Kagaku Ryoho</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1633" to="1639" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Phase I study of an oral administration of VP 16-213</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ogawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fukuoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>San</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ohnoshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kuraishi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gan To Kagaku Ryoho</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="2403" to="2407" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Granulocyte-macrophage colony-stimulating factor increases dose intensity of chemotherapy in small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Paccagnella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Favaretto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Riccardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Danova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ghiotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Giordano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pappagallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Comis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Panozzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chieco-Bianchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fiorentino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="697" to="706" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Prolonged oral etoposide as second-line therapy for platinum-resistant and platinumsensitive ovarian carcinomas: a Gynecologic Oncology Group Study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Blessing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Homesley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="405" to="410" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Management of recurrent ovarian cancer: evidence-based decisions</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Salom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mirhashemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Opin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="519" to="527" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Protracted oral etoposide in epithelial ovarian cancer: a phase II study in patients with relapsed or platinumresistant disease</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Mansi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Trj</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Slevin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="191" to="195" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A randomized trial to evaluate the effect of schedule on the activity of etoposide in small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Slevin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Joel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Gregory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Reznek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pfm</forename><surname>Wrigley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1333" to="1340" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Oral etoposide in elderly previously untreated ovarian cancer patients with residual disease</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Tuxen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bertelsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Gynecol Cancer</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="213" to="217" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Manual of adult and paediatric medical oncology</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uicc ; Monfardini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Crowther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eckhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Olive</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tanneberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Veronesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jma</forename><surname>Whitehouse</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Wittes; Heidelberg</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">A randomized phase I study of oral etoposide with or without granulocyte-macrophage colony-stimulating factor for the treatment of patients with advanced cancer</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Shaffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Demoor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Rinaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Eckardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stephens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anti Cancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="402" to="409" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">WHO Handbook for Reporting Results of Cancer Treatment</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>WHO</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Recombinant human granulocyte/macrophage colony-stimulating factor enhances monocyte cytotoxicity and secretion of tumor necrosis factor a and interferon in cancer patients</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Wing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Magee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Whiteside</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Shadduck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="643" to="646" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Clinical trial of daily low-dose oral etoposide for patients with residual or recurrent cancer of the ovary or uterus</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yasumizu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="569" to="576" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Oral etoposide and GM-CSF in advanced ovarian cancer</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

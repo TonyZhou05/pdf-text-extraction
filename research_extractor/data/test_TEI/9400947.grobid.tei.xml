@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I study of gemcitabine using a once every 2 weeks schedule</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Vermorken'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Guastalla2</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">3Lilly Research Centre</orgName>
+								<orgName type="laboratory">4Lilly Research Laboratories</orgName>
+								<orgName type="institution">&apos;University Hospital &apos;Vrije Universiteit&apos;</orgName>
+								<address>
+									<addrLine>5New Drug Development Office</addrLine>
+									<settlement>Amsterdam Centre Leon Berard Lyon Windlesham Indianapolis Amsterdam</settlement>
+									<region>Netherlands Surrey IA</region>
+									<country>France UK; USA Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>DE Seitz4, B Tanis1, C McDaniels5</roleName><forename type="first">S</forename><forename type="middle">R</forename><surname>Hatty3</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Clavel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Vermorken</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">University Hospital Antwerp</orgName>
+								<address>
+									<addrLine>Wilrijkstraat 10</addrLine>
+									<postCode>2650</postCode>
+									<settlement>Edegem</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I study of gemcitabine using a once every 2 weeks schedule</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">24049DB3EA5B5119F4B995C604698F97</idno>
+					<note type="submission">Received 31 October 1996 Revised 21 April 1997 Accepted 19 May 1997</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>anti-cancer agent</term>
+					<term>difluorodeoxycytidine</term>
+					<term>gemcitabine</term>
+					<term>phase l</term>
+					<term>nucleoside analogue</term>
+					<term>solid tumour Gemcitabine (2&apos;,2&apos;-difluorodeoxycytidine) is a novel nucleoside</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Gemcitabine (2',2'-difluorodeoxycytidine) is a novel nucleoside analogue. As part of a series of studies to determine the maximum tolerated dose (MTD) of gemcitabine and the most appropriate schedule, a two-centre phase I study of gemcitabine was undertaken in patients with advanced refractory solid tumours using a once every 2 weeks schedule. Fifty-two patients were entered into the study at 14 different dose levels (40-5700 mg m-2). Weekly evaluations for toxicity were performed and the MTD for this once every 2 weeks schedule was 5700 mg m-2. The dose-limiting toxicity was myelosuppression, with neutropenia being most significant. Other toxicities were nausea, vomiting, fever and asthenia. One minor response was seen in a heavily pretreated breast cancer patient treated at 1200 mg m-2. Preclinical studies suggest that the efficacy of gemcitabine is more schedule than dose related, and it is concluded that this is not the most appropriate dosing schedule for gemcitabine. However, this study demonstrates the safety profile of gemcitabine, as doses over fourfold greater than that recommended for the weekly schedule of 1000 mg m-2 could be tolerated.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>analogue. It is a potent and quite specific deoxycytidine analogue, with 1 ng ml-l of gemcitabine inhibiting growth of CCRF-CEM human leukemia cells by 50% (Grindey et al, 1990). Initial precin- ical testing using a daily dosing schedule was disappointing because there was greater toxicity than with an intermittent schedule. A staggered dosing schedule (e.g. every 3-4 days) provided excellent anti-tumour activity and a broad therapeutic index against a broad spectrum of murine solid tumour, murine leukaemia and human tumour xenograft models (Grindey et al, 1990).</p><p>Cytosine arabinoside (ara-C) is also a deoxycytidine analogue. It has proven activity in several haematological malignancies but, unlike gemcitabine, it does not show activity in solid tumours. Plunkett and colleagues (1989) have conducted extensive cellular pharmacology studies to account for these apparent differences in anti-tumour effect between ara-C and gemcitabine. Inside the cell, both compounds are converted to the active triphosphate metabolite by deoxycytidine kinase. However, in several different cell types the accumulation of gemcitabine triphosphate is more rapid and greatly exceeds the concentrations of ara-C triphosphate achieved under similar conditions. In addition, the tumour cells can eliminate ara-C triphosphate much more rapidly than the gemcitabine triphosphate. The reason that gemcitabine triphosphate accumulates within the cell at comparatively high levels and for a long period appears to be due to three novel mechanisms of self-potentiation, which have been discussed previously (Carmichael et al, 1996).</p><p>To determine a suitable dose and schedule for phase II studies the following phase I schedules have been studied: daily x 5 every 3 weeks; twice weekly x 6 every 4 weeks; weekly x 3 every 4 weeks and this once every 2 weeks schedule. The last schedule was chosen in order to determine a maximum tolerated dose (MTD) for gemcitabine using an intermittent schedule. Although a safe starting dose for intermittent schedules of 20 mg m-2 was predicted, data from the weekly x 3 every 4 weeks phase I study <ref type="bibr" target="#b1">(Abbruzzese et al, 1991</ref>) allowed a starting dose of 40 mg m-2 for this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS Patients</head><p>Patients with solid tumours had to have advanced refractory disease that was not amenable to conventional therapy or investi- gational therapy of higher potential efficacy or advanced disease for which no standard therapy existed. Patients had to have recov- ered from the toxic effects of any previous therapy. Patients had to be aged 18-75 years with a WHO performance status of 0-2. They had to have adequate organ function and normal prothrombin and partial thromboplastin times. Patients with haematological malignancies and those who had received previous therapy with fluorinated nucleotides, apart from 5-fluorouracil and its derivatives, were excluded. Patients receiving &gt; 10 mg day-' of prednisone (or equivalent) were excluded, unless this dose had been established more than 1 month before entry. All patients had to give written informed consent before entering the study, which was approved by local ethics committees. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design</head><p>This phase I, dose-ranging, open-label, non-randomized study was performed to determine the MTD of gemcitabine given as a 30- min infusion once every 2 weeks. Secondary objectives of the study were to determine the toxicities of gemcitabine using this schedule, a safe dose for phase II evaluation, the basic pharmaco- kinetics and to document any possible anti-tumour effect. Gemcitabine was administered as an i.v. 30-min infusion. The first dose level was 40 mg m-2. A minimum of three patients was entered at each dose level and doses could be escalated by 100% increments until grade 1 toxicity was seen. The MTD was defined as the highest dose that can be safely administered to a patient producing tolerable, manageable and reversible toxicity.</p><p>Pretreatment evaluation included full history and clinical exam- ination as well as assessment of performance status and weight. In addition, haematology and biochemistry tests, electrocardiogram (ECG), chest radiograph, urinalysis and assessment of extent of disease were performed.</p><p>Patients who received treatment for 6 weeks were evaluable for response and all patients receiving at least one injection of gemcitabine were evaluable for toxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>Fifty-two patients were entered into the study; all received at least one dose of gemcitabine and were therefore evaluable for toxicity. Overall, 221 injections of gemcitabine were given. Twenty-three patients completed at least three injections, had measurable or evaluable disease and were therefore evaluable for response. The characteristics of all 52 patients are summarized in Table <ref type="table" target="#tab_0">1</ref>. Seventy per cent of patients were aged 2 50 years. Patients were entered with a wide range of different tumours, head and neck, aincluding one patient with dose escalation; b60-min infusion; c120-min infusion. </p><formula xml:id="formula_0">&lt; 1200 18 1 0 1 0 1 0 1200 3 0 0 1 0 0 0 1500 2 1 0 2 0 0 0 1875 5 0 0 1 0 1 0 2345 3 0 0 0 0 0 0 2930 4 0 0 0 0 0 0 3650 3 0 0 0 0 0 0 4560 3 0 0 0 0 0 0 5700 5 2 0 0 3 0 1</formula><p>colorectal and breast tumours being the most common. Most patients had received previous surgery, chemotherapy or chemotherapy plus radiotherapy, and only four (8%) patients had not received any previous chemotherapy or radiotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Laboratory toxicity</head><p>Thirteen dose escalations were required to define the MTD (Table <ref type="table" target="#tab_1">2</ref>). All toxicities were WHO graded. Overall changes in laboratory parameters were mild apart from at the highest dose. Some mild myelosuppression was seen in the 960-1875 mg m-2 dose range, but significant toxicity was not seen until 5700 mg m-2. The dose- limiting toxicity was neutropenia, appearing rather abruptly at the 5700 mg m-2 dose level, in which three of five patients experienced grade 4 toxicity (Table <ref type="table" target="#tab_2">3</ref>). The neutropenic nadir tended to occur 7 days after dosing but was short-lived and usually recov- ered to &gt; 1 x 109 1-1 within a week. Leucopenia was mild with the highest toxicity being grade 3 (four patients, i.e. 8%), and in two of these patients leucopenia occurred at the highest dose (Table <ref type="table" target="#tab_2">3</ref>). Thrombocytopenia was mild, with only three patients (6%) having grade 3 or 4 (one patient with grade 3 at 960 mg m-2, another grade 3 at 1875 mg m-2 and British Joumal of Cancer (1997) 76( <ref type="formula">11</ref>), 1489-1493  Gemcitabine in a phase / schedule once every 2 weeks 1491 one patient grade 4 at 5700 mg m-2) (Table <ref type="table" target="#tab_2">3</ref>). The platelet nadir occurred at about 10 days but again was short-lived. Anaemia was also seen and seemed to be dose related as the only grade 4 toxici- ties occurred at the highest dose of 5700 mg m-2, but it did not appear to be cumulative. Myelosuppression appeared to be dose related because of the myelosuppression seen at 5700 mg m-2. One common laboratory abnormality was a transient rise in hepatic transaminases, with 66% of patients having 2 grade 1 rise in serum aspartate aminotransferase (AST). The increases were generally mild (22 patients with grade 1; ten with grade 2; two with grade 3; zero with grade 4). AST seemed to be a more sensitive indicator than the serum alanine aminotransferase (ALT). The increases resolved within a few days and did not worsen with subsequent dosing. There may be a dose relationship for this effect because more patients at the higher doses had increases in transaminases, although the severity of the increase was no greater than at lower doses (Table <ref type="table" target="#tab_3">4</ref>). Raised bilirubin was rare (four patients with grade 1 and one patient grade 2) and only two patients seemed to show a temporal relationship to gemcitabine, although both patients had liver metastases (one grade 1 at 40 mg m-2 and one at 1875 mg m-2).</p><p>Serum creatinine was raised in six patients, although increases were mild, with five patients developing a grade 1 rise and one grade 2. There was no clear dose relationship because, although five of these six patients received a dose 2 1875 mg m-2, none of the patients treated at the highest level of 5700 mg m-2 developed any WHO grade changes in creatinine level. Of these six patients, three developed a grade 1 rise in creatinine just before they were taken off the study because of progressive disease. Two developed a grade 1 rise during therapy, which returned to grade 0 despite receiving further gemcitabine. The only patient to develop a grade 2 rise developed this 19 days after gemcitabine administration after he had been prescribed diuretics for ascites.</p><p>Owing to the need for dilution, when higher doses were admin- istered the infusion duration was extended to 60 or 120 min in some patients (Table <ref type="table" target="#tab_1">2</ref>). Although the numbers of cycles adminis- tered with a longer infusion time is small, there was no evidence of increased toxicity with the longer infusion times. Indeed, at the highest dose level of 5700 mg m-2, the only cycles with grade 3 or 4 leucopenia or thrombocytopenia were those administered over a 30-min infusion time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptomatic toxicity</head><p>Non-laboratory toxicity at all doses is shown in Table <ref type="table" target="#tab_3">4</ref>. Overall, the toxicity was again mild, with no grade 4 toxicity and only eight (15%) patients having any grade 3 toxicity (four nausea and vomiting; two diarrhoea; two neurotoxicity). Indeed, the only grade 2 symptomatic toxicities seen in more than three patients were nausea and vomiting (11 patients) and fever (six patients).</p><p>Asthenia was commonly reported (23 patients, 44%) and seemed to be dose related, with four out of five patients reporting it at 5700 mg m-2, but it did not appear to be cumulative in nature.</p><p>Four patients were removed from the study because of possible gemcitabine-related adverse events: anxiety (80 mg m-2, after one injection); asthenia (1200 mg m-2, after five injections); peroneal nerve paralysis (1500 mg m-2, after 11 injections); and constipation (2930 mg m-2, after two injections). Two patients died during this study. A 53-year-old man with head and neck carcinoma developed pneumonia 1 day after the first injection at 320 mg m-2. He had an elevated white blood cell count and died 1 day later from septicaemia. The relationship of gemcitabine to this infection and death is unlikely. A 61-year old man with mesothelioma became progressively dysarthric and developed paraplegia after the fourth injection at 2930 mg m-2. Nystagmus, paraparesis and hypothermia were also observed. He later developed dyspnoea, generally deteriorated and died. A post-mortem showed signifi- cant pulmonary oedema but no abnormality of the central nervous system, including normal histology of the Purkinje cells. A causal relationship to gemcitabine treatment could not be excluded. Other unusual toxicities included cramps in fingers at 5700 mg m-2 in one patient and painful burning in the skin of the extremities and hyperpigmentation at 5700 mg m-2 in one patient.</p><p>Again, there was no evidence that the toxicity was increased in the cycles when gemcitabine was administered over 60 or 120 min compared with 30 min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response</head><p>Overall, 27 patients had measurable or evaluable disease. However, four of these patients were inevaluable for response. Early progressive disease developed in one patient after only one injection and in three patients after two injections. Of the 23 patients evaluable for response, there was one minor response in a patient with breast cancer. This patient was a 62-year-old woman who had a mastectomy and adjuvant 5-flourouracil, adriamycin, cyclophosphamide (FAC) and CMF for node-positive breast cancer 7 years previously. She relapsed 4 years later and had radio- therapy, which resulted in a minor response that lasted 1.9 months. She was then treated with aminoglutethemide followed by four separate different combination chemotherapy regimens but had progressed through all these.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>This study describes our clinical experience with gemcitabine using a once every 2 weeks schedule. Myelosuppression (mainly neutropenia) was the dose-limiting toxicity. Other laboratory toxi- cities seen were mild transient rises in hepatic transaminases and mild hyperbilirubinaemia. The most common non-haematological toxicity was nausea and vomiting, which occurred in half of the patients but was generally mild.</p><p>Toxicities of particular importance to the patient, such as mucositis and alopecia, were not a problem. There was no WHO grade 3 or 4 alopecia. Three out of four patients with grade 3 nausea and vomiting received gemcitabine at the two highest dose levels (4560 mg m-2and 5700 mg m-2), but there was no grade 4 toxicity.</p><p>Asthenia was a common complaint, being reported in 23 out of 52 (44%) patients. It appeared to be dose related as four out of five patients at the highest dose were affected. The asthenia was usually mild but the patient with a minor response was removed after six courses because of asthenia.</p><p>One patient treated at 2930 mg m-2 developed probable neuro- logical toxicity with dysarthria and paraplegia. He deteriorated and died, but no abnormality of the central nervous system was found at post-mortem. Similar clinical pictures have been seen with the use of high-dose ara-C (Salinsky et al, 1983). However, in these cases typical histological abnormalities of the Purkinje cell have been seen. Although a causal relationship to gemcitabine could not be excluded, another three patients were treated at 2930 mg m-2 and a further 12 patients at higher doses and no other similar neurological toxicity was seen, although two patients at 5700 mg m-2developed grade 2 paraesthesiae.</p><p>Gemcitabine has shown marked schedule dependency in its toxicity profile. The initial phase I studies using a 30-min infusion have shown very different toxicities and marked differences in MTD in the four schedules tested (Table <ref type="table" target="#tab_4">5</ref>).</p><p>When the drug was given daily x 5 every 3 weeks, significant toxicity was seen at doses . 7 mg m-2 (O'Rourke et al, 1994), non- haematological toxicity in the form of fever and flu-like symptoms and severe hypotension being the main problems. That study was stopped because the non-haematological toxicity made it an unattractive schedule. The maximum dose given was 12 mg m-2.</p><p>When gemcitabine was given twice weekly x 6 every 4 weeks, the MTD was 65 mg M-2day-' (Poplin et al, 1992), thrombo- cytopenia was dose limiting and non-haematological toxicities such as fatigue, fever, flu-like symptoms and skin rash were common. This schedule has been used more recently (Lund et al,   1994a) in a phase II setting at a dose of 90 mg m-2 in chemonaive patients, and again flu-like symptoms were dose limiting.</p><p>When gemcitabine was given weekly x 3 every 4 weeks, the MTD was 790 mg m-2. The dose limiting toxicity was myelosuppression and non-haematological toxicity was minimal <ref type="bibr" target="#b1">(Abbruzzese et al, 1991)</ref>.</p><p>In our study using a once every 2 weeks schedule, the MTD was 5700 mg m-2 i.e. a 95-fold increase in dose per course than the maximum given on the daily x 5 schedule. The dose-limiting toxicity was myelosuppression and, in keeping with the other less frequent schedules, the non-haematological toxicities, such as hypotension and flu-like symptoms, were not a problem. Obviously, this schedule enabled a much higher dose of gemcitabine to be given, and this may account for the increased incidence of asthenia. Although the starting dose for this study was above that predicted from animal studies because of the progress of other phase I trials, it still took 13 dose escalations to determine the MTD. Pharmacokinetically determined dose escalations might have allowed more aggressive dose escalation and hence fewer steps.</p><p>Overall, gemcitabine was well tolerated using this once every 2 weeks schedule, although the subjective feeling of asthenia was of clinical significance but difficult to quantify. However, preclinical data suggest that more frequent administration of gemcitabine is required for optimal activity (Grindey et al, 1990). In addition, pharmacokinetic data from both this study (Peters et al, 1990; manuscript in preparation) and the phase I weekly study (Abbruzzese et al, 1991) suggested that saturation of the active metabolite gemcitabine 5'-phosphate accumulation occurs in peripheral blood mononuclear cells when plasma gemcitabine levels exceed 20 gmol 1-1. This level can be achieved by a dose of 350-1000 mg m-2using a 30-min infusion and so these levels were greatly exceeded in this study.</p><p>However, the half-life of gemcitabine is short (Plunkett et al,   1989) (t 12 a 8 min) and so the optimal duration of infusion may be considerably longer than 30 min to achieve maximal production of the active triphosphate metabolite. Thus, alternative schedules and longer durations of infusion should be and are being investigated. Two responses were seen in the phase I weekly schedule, and in view of this and pharmacokinetic data suggesting that the blood levels achieved were adequate to potentially achieve maximal loading of gemcitabine triphosphate, it was decided not to proceed with the once every 2 weeks schedule. Instead, the weekly schedule has been developed further. Clinical responses have been seen using a weekly x 3 every 4 weeks 30-min infusion in non- small-cell lung cancer (Anderson et al, 1994; Abratt et al, 1994,  Gatzemeier et al, 1996), breast cancer (Carmichael et al, 1995), pancreatic cancer (Carmichael et al, 1996) and ovarian cancer (Carmichael et al, 1996 and Lund et al, 1994b).</p><p>Gemcitabine in a phase I schedule once every2 weeks 1493</p><p>This study does, however, confinn the wide therapeutic window of gemcitabine, as doses over fourfold of that recommended for use with the weekly schedule (1000 mg m-2) could be tolerated. In addition, this 2-weekly schedule is now being used in the clinic in combination with other agents to avoid treating patients at the time of the nadir on day 8 and to try to optimize the combinations (Lilly, data on file).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient characteristicsTotal entered (male/female)</figDesc><table><row><cell></cell><cell>52 (22/30)</cell></row><row><cell>Median age (years)</cell><cell>54.5 (30-73)</cell></row><row><cell>Median WHO performance status (range)</cell><cell>1 (0-2)</cell></row><row><cell>Prior therapy</cell><cell></cell></row><row><cell>Radiotherapy only</cell><cell></cell></row><row><cell>Chemotherapy only</cell><cell>13</cell></row><row><cell>Radio-and chemotherapy</cell><cell>34</cell></row><row><cell>None except surgery</cell><cell>1</cell></row><row><cell>None</cell><cell>3</cell></row><row><cell>Tumour types</cell><cell></cell></row><row><cell>Head and neck</cell><cell>12</cell></row><row><cell>Colorectal</cell><cell>9</cell></row><row><cell>Breast</cell><cell>8</cell></row><row><cell>Non-small-cell lung</cell><cell>3</cell></row><row><cell>Ovary</cell><cell>3</cell></row><row><cell>Soft tissue sarcoma</cell><cell>4</cell></row><row><cell>Stomach</cell><cell>2</cell></row><row><cell>Bladder</cell><cell></cell></row><row><cell>Cervix</cell><cell>1</cell></row><row><cell>Melanoma</cell><cell>2</cell></row><row><cell>Mesothelioma</cell><cell></cell></row><row><cell>Oesophagus Uterus Unknown primary</cell><cell>2 1 1</cell></row><row><cell>Others</cell><cell>2</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Patients and courses per dose level</figDesc><table><row><cell>Dose (mg m-2)</cell><cell>Patients</cell><cell>Initial</cell><cell>Subsequent</cell><cell>Total</cell></row><row><cell></cell><cell></cell><cell>courses</cell><cell>courses</cell><cell>courses</cell></row><row><cell>40</cell><cell>3</cell><cell>3</cell><cell>10</cell><cell>13</cell></row><row><cell>80</cell><cell>3</cell><cell>3</cell><cell>4</cell><cell>7</cell></row><row><cell>160</cell><cell>3</cell><cell>3</cell><cell>5</cell><cell>8</cell></row><row><cell>320</cell><cell>4a</cell><cell>3</cell><cell>11</cell><cell>14</cell></row><row><cell>640</cell><cell>6</cell><cell>5</cell><cell>10</cell><cell>15</cell></row><row><cell>960</cell><cell>3</cell><cell>3</cell><cell>7</cell><cell>10</cell></row><row><cell>1200</cell><cell>3</cell><cell>3</cell><cell>12</cell><cell>15</cell></row><row><cell>1500</cell><cell>5</cell><cell>5</cell><cell>32 (2b)</cell><cell>37</cell></row><row><cell>1875</cell><cell>5</cell><cell>5</cell><cell>19</cell><cell>24</cell></row><row><cell>2345</cell><cell>3</cell><cell>3</cell><cell>11</cell><cell>14</cell></row><row><cell>2930</cell><cell>4</cell><cell>4</cell><cell>10</cell><cell>14</cell></row><row><cell>3650</cell><cell>4</cell><cell>4</cell><cell>7</cell><cell>11</cell></row><row><cell>4560</cell><cell>3</cell><cell>3</cell><cell>11 (2b,2c)</cell><cell>14</cell></row><row><cell>5700</cell><cell>5</cell><cell>5 (2b)</cell><cell>20 (3b, 3c)</cell><cell>25</cell></row><row><cell>Total</cell><cell>52</cell><cell>52</cell><cell>169</cell><cell>221</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Grade 3 and 4 haematological toxicity (maximum per patient)</figDesc><table><row><cell>Dose</cell><cell>Evaluable</cell><cell></cell><cell cols="2">WHO grade</cell><cell></cell></row><row><cell>(mg m-2)</cell><cell>patients</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">Leucocytes</cell><cell cols="2">Neutrophils</cell><cell></cell><cell>Platelets</cell></row><row><cell></cell><cell>3</cell><cell>4</cell><cell>3</cell><cell>4</cell><cell>3</cell><cell>4</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Non-haematological and liver function follow-up data in one patient. LFT, liver function tests.</figDesc><table><row><cell></cell><cell></cell><cell cols="3">Numbers with WHO grade 1-3 toxicity</cell><cell></cell></row><row><cell></cell><cell cols="4">&lt;1200 1200-2345 2930-4560 5700</cell><cell>All</cell></row><row><cell></cell><cell cols="2">(n =19a) (n = 16)</cell><cell cols="3">(n = 11) (n = 5) (n = 51)</cell></row><row><cell>Increased LFT</cell><cell>12</cell><cell>9</cell><cell>8</cell><cell>5</cell><cell>34</cell></row><row><cell>Nausea/vomiting</cell><cell>4</cell><cell>9</cell><cell>4</cell><cell>5</cell><cell>22</cell></row><row><cell>Fever</cell><cell>2</cell><cell>2</cell><cell>2</cell><cell>1</cell><cell>7</cell></row><row><cell>Alopecia</cell><cell>0</cell><cell>2</cell><cell>0</cell><cell>3</cell><cell>5</cell></row><row><cell>Diarrhoea</cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>1</cell><cell>4</cell></row><row><cell>Cutaneous</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>3</cell><cell>4</cell></row><row><cell>Neurological</cell><cell>2</cell><cell>1</cell><cell>1</cell><cell>2</cell><cell>6</cell></row><row><cell>Cardiac rhythm</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell>2</cell></row></table><note><p>aNo</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc>Summary of dose-limiting toxicities in four dosing schedules of gemcitabine</figDesc><table><row><cell>Dosing schedule</cell><cell>Recommended phase 11 dose</cell><cell>Toxicity profile</cell><cell>Reference</cell></row><row><cell>Daily x 5 every 3 weeks</cell><cell>Significant toxicity</cell><cell>Non-haematological</cell><cell>O'Rourke et al (1994)</cell></row><row><cell></cell><cell>2 7 mg m-2, maximum dose</cell><cell>(fever, flu-like, hypotension)</cell><cell></cell></row><row><cell></cell><cell>given 12 mg m-2</cell><cell></cell><cell></cell></row><row><cell>Twice-weekly x 6 every 4 weeks</cell><cell>65 mg m-2</cell><cell>Thrombocytopenia dose-</cell><cell>Poplin et al (1992)</cell></row><row><cell></cell><cell></cell><cell>limiting, non-</cell><cell></cell></row><row><cell></cell><cell></cell><cell>haematological toxicity</cell><cell></cell></row><row><cell></cell><cell></cell><cell>(fatigue, fever, flu-like,</cell><cell></cell></row><row><cell></cell><cell></cell><cell>skin rash)</cell><cell></cell></row><row><cell>Weekly x 3 every 4 weeks</cell><cell>790 mg m-2</cell><cell>Myelosuppression dose-</cell><cell>Abbruzzese (1991)</cell></row><row><cell></cell><cell></cell><cell>limiting, non-</cell><cell></cell></row><row><cell></cell><cell></cell><cell>haematological toxicity</cell><cell></cell></row><row><cell></cell><cell></cell><cell>minimal</cell><cell></cell></row><row><cell>Once every 2 weeks</cell><cell>4560 mg m-2</cell><cell>Myelosuppression dose-</cell><cell>This paper</cell></row><row><cell></cell><cell></cell><cell>limiting, asthenia, other</cell><cell></cell></row><row><cell></cell><cell></cell><cell>non-haematological</cell><cell></cell></row><row><cell></cell><cell></cell><cell>toxicity maintained</cell><cell></cell></row></table><note><p>British Joumal of Cancer (1997) 76(11), 1489-1493 0 Cancer Research Campaign 1997</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>*Deceased, formerly at Centre Leon Berard, Lyon, France</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (1997) 76(11),[1489][1490][1491][1492][1493] </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_2"><p>Cancer Research Campaign 1997British Journal of Cancer (1997) 76(11), 1489-1493</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety profile of gemcitabine in non-small cell lung cancer: a phase II study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Abratt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Bezwoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Falkson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goedhals</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hacking</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rugg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1535" to="1540" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A phase I clinical, plasma and pharmacological study of gemcitabine</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Abbruzzese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grunewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Weeks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gravel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nowak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mineishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tarassoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Satterlee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Raber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Plunkett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="491" to="498" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Single agent activity of weekly gemcitabine in advanced non-small cell lung cancer: A phase II study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thatcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Walling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Hansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1821" to="1826" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase II study of gemcitabine in patients with advanced pancreatic cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Fink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rcg</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Spittle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Hamfis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Spiessi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blatter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="101" to="105" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Advanced breast cancer: a phase II trial with gemcitabine</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Possinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Phillip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beykirch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Walling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="2731" to="2736" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Activity of gemcitabine in patients with non-small cell lung cancer: A multicenter extended phase II study</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Gatzemeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Chevalier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Weynants</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cottier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Groen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hjm</forename><surname>Rosso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mattson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cortes-Funes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tonato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Gottfried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Voi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="243" to="248" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Cytotoxicity and antitumour effect of 2&apos;,2&apos;-difluorodeoxycytidine (gemcitabine)</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Grindey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Hertel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Plunkett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Invest</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">313</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">a) Phase H study of gemcitabine (2&apos;,2&apos;difluorodeoxycytidine) given as a twice weekly schedule to previously untreated patients with non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Ryberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meidahl-Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thatcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dombemowsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="852" to="853" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Phase II study of gemcitabine (2&apos;,2&apos;-difluorodeoxycytidine) in previously treated ovarian cancer</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Theilade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Neijt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JNatl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1530" to="1533" />
+			<date type="published" when="1994">1994b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Phase I clinical trial of gemcitabine given as an intravenous bolus on 5 consecutive days</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>O'rourke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Havlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Satterlee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Tarassoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="417" to="418" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics of gemcitabine (LY18801 1; difluorodeoxycytidine) administered every two weeks in a phase I study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tanis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clavel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guastalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Quik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Osbome</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcdaniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Maanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Steenbergen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vd</forename><surname>Vijgh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Assoc Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">1070</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">) 2&apos;,2&apos;-difluorodeoxycytidine metabolism and mechanism of action in human leukaemia cells</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Plunkett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gandhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chubb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nowak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mineishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Hertel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Grindey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleosides Nucleotides</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="775" to="785" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Difluorodeoxycytidine (dFdC)-Gemcitabine: A phase I study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Poplin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Corbett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Flaherty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tarassoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Redman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Valdivieso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest New Drugs</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="165" to="170" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Acute cerebellar dysfunction with high-dose Ara-C therapy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Salinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Aubuchon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Schutta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="462" to="469" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

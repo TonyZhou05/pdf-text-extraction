@@ -110,11 +110,10 @@ jobs:
           AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
         run: |
           python -m research_extractor.scripts.run_experiment \
-            --input research_extractor/data/test/ \
-            --output research_extractor/outputs/results-pdf-text-azure.jsonl \
+            --input research_extractor/data/test_TEI/ \
+            --output research_extractor/outputs/results-pdf-azure.jsonl \
             --input-type 'pdf_text_dir' \
             --provider 'azure'
-      
       
       - name: Job summary
         if: always()
