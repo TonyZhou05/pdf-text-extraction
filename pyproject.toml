@@ -19,7 +19,8 @@ dependencies = [
   "tqdm>=4.66",
   "pypdf>=4.0",
   "openai>=1.00",
-  "python-dotenv>=1.0.0"
+  "python-dotenv>=1.0.0",
+  "lxml>=4.9"
 ]
 
 [project.optional-dependencies]
