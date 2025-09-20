@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase I (tumour site-specific) study of carboplatin and temozolomide in patients with advanced melanoma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Strauss</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Mount Vernon Cancer Centre</orgName>
+								<address>
+									<addrLine>Rickmansworth Road</addrLine>
+									<postCode>HA6 2RN</postCode>
+									<settlement>Northwood</settlement>
+									<region>Middlesex</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Marples</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Mount Vernon Cancer Centre</orgName>
+								<address>
+									<addrLine>Rickmansworth Road</addrLine>
+									<postCode>HA6 2RN</postCode>
+									<settlement>Northwood</settlement>
+									<region>Middlesex</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Napier</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Mount Vernon Cancer Centre</orgName>
+								<address>
+									<addrLine>Rickmansworth Road</addrLine>
+									<postCode>HA6 2RN</postCode>
+									<settlement>Northwood</settlement>
+									<region>Middlesex</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Meyer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Mount Vernon Cancer Centre</orgName>
+								<address>
+									<addrLine>Rickmansworth Road</addrLine>
+									<postCode>HA6 2RN</postCode>
+									<settlement>Northwood</settlement>
+									<region>Middlesex</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Boxall</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Mount Vernon Cancer Centre</orgName>
+								<address>
+									<addrLine>Rickmansworth Road</addrLine>
+									<postCode>HA6 2RN</postCode>
+									<settlement>Northwood</settlement>
+									<region>Middlesex</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gjs</forename><surname>Rustin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Mount Vernon Cancer Centre</orgName>
+								<address>
+									<addrLine>Rickmansworth Road</addrLine>
+									<postCode>HA6 2RN</postCode>
+									<settlement>Northwood</settlement>
+									<region>Middlesex</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A phase I (tumour site-specific) study of carboplatin and temozolomide in patients with advanced melanoma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F1D83E9D64F36DB6FFD813EC5DAC2DD4</idno>
+					<idno type="DOI">10.1038/sj.bjc.6601414</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>advanced melanoma</term>
+					<term>temozolomide</term>
+					<term>carboplatin</term>
+					<term>phase I study</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Temozolomide is an oral alkylating agent that readily crosses the blood -brain barrier and has activity in patients with advanced melanoma. Carboplatin is a convenient outpatient treatment that also has activity in patients with melanoma. The purpose of this study was to assess the safety of a combination of temozolomide and carboplatin, and provide preliminary evidence of efficacy. In all, 30 patients were treated in two stages. In stage 1, patients received temozolomide 750 mg m À2 , with escalating doses of carboplatin AUC 3 -6. In stage 2, patients received temozolomide 1000 mg m À2 , with increasing doses of carboplatin until dose-limiting toxicity (DLT) was experienced. In stage 1, 12 patients received 33 cycles of treatment. No grade 3/4 haematological toxicity was experienced up to carboplatin AUC 6. In stage 2, 18 patients received 55 cycles of treatment. The DLT was haematological with grade 4 myelosuppression seen with carboplatin AUC 5. In all, 11 patients were treated with carboplatin AUC 4 to gain further information on toxicity. Myelosuppression remained significant and common with grade 4 thrombocytopenia experienced in 50% of cycles. Two of 28 patients (7%) assessable for efficacy achieved a partial response. None of the 11 patients with brain metastases responded to treatment. The addition of carboplatin to temozolomide 1000 mg m À2 significantly adds to toxicity with frequent grade 3/4 myelosuppression. Preliminary information on efficacy demonstrates that it is unlikely that the combination can be given in doses sufficient to improve on the efficacy of temozolomide alone.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Patients with advanced melanoma have a poor prognosis, despite the use of chemotherapeutic and biological agents. Response rates to cytotoxic agents are generally poor, although a number of agents have activity. The most active agent is thought to be dacarbazine (DTIC) with a response rate of 11 -25%; however, responses are not durable, and the median survival for this group of patients is 4.5 -6 months <ref type="bibr" target="#b7">(Lee et al, 1995)</ref>. Combination chemotherapy has not added significantly to outcome. The Dartmouth regimen, comprising DTIC, cisplatin, carmustine and tamoxifen initially demonstrated a response rate of 55% in 20 patients treated <ref type="bibr" target="#b4">(Del Prete et al, 1984)</ref>. Subsequent single-centre phase II trials confirmed response rates of 40 -50% <ref type="bibr" target="#b8">(McClay et al, 1992;</ref><ref type="bibr" target="#b12">Richards et al, 1992)</ref>, but this was not substantiated in phase III randomised trials. A randomised trial examining the contribution of tamoxifen to the regimen showed response rates of 20 -30%, but no benefit from its addition <ref type="bibr" target="#b13">(Rusthoven et al, 1996)</ref>. Recently, single-agent DTIC has been compared to the Dartmouth regimen in a randomised-controlled trial, with no difference in survival between the two treatment arms being seen. There was a nonsignificant increase in the response rate with the combination arm. Toxicity, particularly relating to myelosuppression, was significantly increased with the Dartmouth regimen <ref type="bibr" target="#b3">(Chapman et al, 1999)</ref>. As chemotherapy for this group of patients is palliative, improvements in tolerability and ease of administration are worth investigating.</p><p>Temozolomide is an oral alkylating agent of the imidazotetrazine group, with a broad spectrum of antitumour activity. Its active metabolite (MTIC) is the same as that of dacarbazine <ref type="bibr" target="#b16">(Tsang et al, 1991)</ref>. It was developed as a potential alternative to DTIC and was found to have 490% oral bioavailability, and extensive tissue distribution, including penetration of the blood -brain barrier and the cerebrospinal fluid (CSF) <ref type="bibr" target="#b14">(Stevens et al, 1987)</ref>. This is particularly advantageous in patients with metastatic melanoma, as up to 75% of patients develop brain metastases <ref type="bibr" target="#b5">(Dreiling et al, 1996)</ref>. The initial phase I study demonstrated that temozolomide is well tolerated with a maximum tolerated dose (MTD) of 1000 mg m À2 (given as 200 mg m À2 once a day over 5 consecutive days). The dose-limiting toxicity (DLT) is myelosuppression with a nadir at 21 days and recovery usually by 28 days. Mild to moderate emesis occurs in approximately a third of patients, but is easily controlled with standard antiemetics. Prolonged or severe emesis is unusual <ref type="bibr" target="#b11">(Newlands et al, 1992)</ref>. A phase II trial of temozolomide conducted in patients with metastatic melanoma demonstrated an objective response rate of 21%, with three complete responses and nine partial responses in 56 evaluable patients <ref type="bibr" target="#b2">(Bleehen et al, 1995)</ref>. In a randomised phase III trial of 305 patients, temozolomide was compared to DTIC and demonstrated equal efficacy with improved health-related quality of life <ref type="bibr" target="#b9">(Middleton et al, 2000)</ref>.</p><p>Platinum compounds have been evaluated in the treatment of metastatic melanoma, both alone and in combination. Single-agent cisplatin yields responses of over 10% <ref type="bibr" target="#b0">(Al-Sarraf et al, 1982)</ref> and has also been used in combination with DTIC in phase II trials, showing responses of over 30% <ref type="bibr" target="#b10">(Murren et al, 1991)</ref>. The Received 12 <ref type="bibr">May 2003;</ref><ref type="bibr">revised 18 July 2003;</ref><ref type="bibr">accepted 15 August 2003</ref> combination is better tolerated than other combinations including the Dartmouth regimen, and avoids the delayed myelosuppressive problems associated with carmustine. These results, however, have not been evaluated in any phase III trials. Carboplatin has similar single-agent activity to cisplatin, with a dose of 400 mg m À2 demonstrating a response rate of 16% in a phase II trial of 23 patients <ref type="bibr" target="#b6">(Evans et al, 1987)</ref>. Carboplatin is an attractive alternative to cisplatin because of the ease of administration and favourable side effect profile.</p><p>Temozolomide and carboplatin have not previously been used in combination, but is a potentially attractive regimen as carboplatin is administered as a short intravenous infusion, which can be given in an outpatient setting unlike cisplatin-containing therapies, and temozolomide is given orally. There is the potential for overlapping toxicities especially relating to myelosuppression, but the median time to nadir leucocyte and platelet count is different for the two drugs. Other toxicities are expected to be uncommon. The combination of temozolomide and carboplatin potentially offers patients with advanced melanoma an improvement in efficacy with a convenient regimen.</p><p>The primary aim of the trial was to treat cohorts of patients with advanced melanoma with escalating doses of carboplatin and temozolomide to establish the MTD and DLT of this combination. The trial was conducted in two stages, the first with temozolomide at a dose of 750 mg m À2 , and the second at a dose of 1000mg m À2 . We report on the principal toxicities of the combination of carboplatin and temozolomide and provide preliminary data of efficacy, in patients with bidimensionally measurable disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient selection</head><p>Patients with histologically confirmed, unresectable or metastatic, malignant melanoma, with measurable or assessable lesions, were eligible for the study. Patients were required to be over 18 years, have a life expectancy of at least 3 months and have an Eastern Cooperative Oncology Group (ECOG) performance status of o2. No prior chemotherapy was allowed, but radiotherapy was permissible to nonindicator lesions completed at least 3 weeks prior to entry. Eligibility criteria included Hb 410 g dl À1 , WBC 43 Â 10 9 l À1 , platelets 4100 Â 10 9 l À1 , serum creatinine of o120 mmol l À1 or creatinine clearance of 450 ml min À1 , bilirubin o30 mmol l À1 , AST o3 Â upper limit of normal (ULN) and alkaline phosphatase o3 Â ULN. Written informed consent was obtained from all patients prior to entry. The study had local ethical and scientific committee approval.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pretreatment investigations</head><p>Blood investigations including full blood count, renal function and liver function were measured. Renal function was measured using 51 Cr-EDTA clearance technique, and urinalysis was also performed. Radiological assessment of site/s of disease was carried out with computer tomography (CT), magnetic resonance imaging (MRI) or clinical photographic measurement, as appropriate. Chest radiograph and ECG were performed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment schedule</head><p>In the first stage, patients in cohort 1 were given carboplatin AUC 3 intravenously on day 1, and temozolomide 150 mg m À2 administered orally for 5 days. Treatment was given at 28-day intervals for up to six cycles. In successive cohorts, doses of carboplatin were increased by AUC 1 until AUC 6 was reached. In stage 2, patients in the first cohort were given temozolomide 200 mg m À2 orally for 5 days and carboplatin AUC 3 intravenously on day 1, at 28-day intervals, up to six cycles. Carboplatin dose was escalated by AUC 1 in further cohorts until DLT was experienced. Patients who responded to treatment, or had stable disease on completion of six cycles of the combination were eligible for continuation of temozolomide alone for six further cycles of treatment in accordance with the regimen used in the phase III trial comparing temozolomide with DTIC, where up to 12 cycles of treatment were permitted <ref type="bibr" target="#b9">(Middleton et al, 2000)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>Cohorts of three patients were treated at escalating doses of the study drugs. Patients were assessed for CALGB expanded Common Toxicity Criteria prior to each treatment cycle. At each dose level, the first patient was observed for 3 weeks or until recovery from acute toxicity (4 weeks for grade 4 toxicity) before further patients were entered at the same dose level. The DLT was defined as grade 3 or 4 haematological toxicity, grade 4 nonhaematological toxicity or grade 2 cardiac or pulmonary toxicity. Dose escalation was considered when at least three patients had been entered at a given dose, and two patients followed for 3 weeks or until all acute toxicities had resolved. If no patients in a cohort had unacceptable toxicity, dose escalation was undertaken. If one of three patients had unacceptable toxicity, then three further patients were treated at the same dose. The DLT level was reached when two of three patients experienced DLT. A minimum of 10 patients were to be treated at the dose level immediately below which DLT was experienced in an attempt to establish the MTD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity evaluation and dose modification for toxicity</head><p>Patients were evaluated for toxicity prior to each treatment cycle, and full blood count and renal and liver function tests were performed. Nadir full blood counts were measured on days 15 and 22 of each cycle. The ANC was required to be 41.5 Â 10 9 l À1 and the platelet count 4100 Â 10 9 l À1 on day 28 for further treatment. The use of growth factors to maintain dose was not permitted. Dose modification was specified according to toxicity. Chemotherapy was delayed for up to 1 week without modification if ANC count on day 28 was 1 -1.5 Â 10 9 l À1 or platelet count 450 -o100 Â 10 9 l À1 . If ANC was o1 Â 10 9 l À1 or platelet count o50 Â 10 9 l À1 on day 28, treatment was delayed until recovery and carboplatin dose reduced by AUC ¼ 1. Dose delays of 42 weeks constituted unacceptable toxicity and chemotherapy was withdrawn.</p><p>All nonhaematological toxicity 4grade 1 was required to have resolved to grade 1 or baseline prior to repeat dosing. No dose adjustments were made for resolved grade 2 toxicity. In patients with grade 3 nonhaematological toxicity, the dose of carboplatin was reduced by AUC 1 for further cycles of treatment. Patients experiencing grade 4 nonhaematological toxicity, unless considered unrelated to study drugs, were withdrawn from the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response assessment</head><p>Prior to treatment, patients underwent clinical and radiological assessment of site/s of disease with radiographs, CT or MRI where appropriate. Patients could be assessed for response or progressive disease if they received one or more cycles of treatment, although radiological response was assessed after every two cycles of treatment. Patients could be assessed for progressive disease after one cycle of treatment if symptoms dictated. Tumour response was defined according to EORTC response criteria <ref type="bibr" target="#b15">(Therasse et al, 2000)</ref>. Further investigations were undertaken according to clinical evaluation.</p><p>British Journal of Cancer ( <ref type="formula">2003</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>In all, 30 patients with a median age of 54 years were treated between December 1998 and January 2001. Of these, 22 patients had multiple sites of metastases and 11 had brain metastases. Patient characteristics are listed in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>In total, 30 patients received 89 cycles of treatment (Table <ref type="table" target="#tab_1">2</ref>). In stage 1, at temozolomide 750 mg m À2 , 12 patients received 33 cycles of treatment. The median number of courses per patient was two (range 1 -6). One patient completed six cycles of treatment. No patients experienced DLT. In stage 2 (temozolomide 1000 mg m À2 ), 18 patients received 56 cycles of treatment. The median number of courses was two (range 1 -6). Five patients completed six courses of treatment, of whom two continued on temozolomide alone (at 1000 mg m À2 ) for a further six cycles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haematological toxicity</head><p>Stage 1 Mild myelosuppression was the most common toxicity observed, but no patients experienced grade 3/4 toxicity. There was one delay for neutropenia. There were no dose reductions (Table <ref type="table" target="#tab_2">3</ref>).</p><p>Stage 2 In stage 2, in all cohorts, 53 cycles of treatment were evaluable for toxicity. No patients experienced significant haematological toxicity at a dose of carboplatin AUC 3. At a carboplatin dose of AUC 4, myelosuppression became more common and significant. The first patient at AUC 4 tolerated two cycles of treatment without significant toxicity. The second patient experienced grade 4 neutropenia and thrombocytopenia with the first cycle of treatment, but recovered to receive the second cycle after the required interval. The third patient also experienced grade 4 neutropenia and thrombocytopenia. However, as the first two patients had tolerated the treatment with minimal subjective toxicity and recovered to receive further treatment on schedule, the dose was then escalated to AUC 5 in accordance with the protocol. Dose escalation should have stopped after two patients experienced DLT, but this only became apparent after the first patient at AUC 5 had tolerated that dose well, which in retrospect led us to treat three further patients at AUC 5 incorrectly.</p><p>At AUC 5, the first patient completed two cycles of treatment without significant haematological toxicity. The second patient died on day 15 of treatment. This patient had multiple sites of disease at diagnosis, including liver, splenic and lung metastases, and was taking nonsteroidal analgesia for back pain from bone metastases. On day 6 after the first cycle of treatment, analgesia was increased because of worsening back pain, and on day 15 the patient had a suspected intra-abdominal catastrophe after an episode of vomiting. There was no obvious haematemesis or melaena, so it is unknown whether this was a bleeding complication. The patient did not have a full blood count (it was due that day), so it is unknown whether she was myelosuppressed at the time of death. A postmortem was refused. This was thus recorded as an early death, although it is unknown to what extent chemotherapy contributed to her death.   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><p>Two further patients were treated at this dose level, one of whom experienced grade 3 haematological toxicity after the second cycle of treatment, and the other grade 4 haematological toxicity. There were no infectious complications; however, the fourth patient treated at this level required blood transfusions after cycles 1, 2, and 3, and a platelet transfusion after cycle 4 for an episode of epistaxis. Imaging at this time demonstrated a partial response. The patient, however, was considered not to be fit for further chemotherapy due to general debilitation and the response was not sustained. The DLT was thus haematological at carboplatin AUC 5 and further patients were treated at carboplatin AUC 4 to gain further information about tolerability.</p><p>In the total cohort of 11 patients treated at carboplatin AUC 4, haematological toxicity remained significant (Table <ref type="table" target="#tab_3">4</ref>). Thrombocytopenia was a frequent toxicity, with six patients experiencing grade 4 toxicity, in 16 of 32 cycles administered. The platelet nadir in all cases was at day 21, but was generally transient and there was only one episode of epistaxis for which the patient received platelet support. The majority of patients recovered their platelet count in time for the next treatment cycle; however, five cycles were delayed because of thrombocytopenia. The dose of carboplatin was reduced in two patients. One patient required a 2-week treatment delay after the first cycle of treatment, and the dose of carboplatin was reduced to AUC 3. Despite this, further thrombocytopenia causing treatment delay was observed and the carboplatin dose was reduced to AUC 2 for the fourth cycle. Grade 4 thrombocytopenia occurred once again and due to ongoing myelosuppression treatment was stopped. The second patient experienced significant anaemia and thrombocytopenia, and the carboplatin dose was reduced to AUC 3 for the sixth cycle of treatment after a 2-week treatment delay for neutropenia.</p><p>Neutropenia was observed less frequently. However, prolonged neutropenia resulted in treatment delay in five cycles, and dose reduction was required in two patients. Furthermore, two patients experienced grade 4 toxicity, in one case resulting in neutropenic sepsis requiring hospital admission. This patient died of probable cardiac failure while in hospital following treatment for neutropenic sepsis, although bone marrow recovery had occurred at the time of death. Prolonged neutropenia resulted in treatment delay in five cycles, and dose reduction was required in two patients.</p><p>With expansion of the AUC 4 cohort, grade 3/4 myelosuppression remained significant and common, and was thus not found to be the maximum tolerated dose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nonhaematological toxicities</head><p>Nonhaematological toxicity was mild, but included gastrointestinal toxicity, with grade 1 nausea and vomiting in six patients, grade 2 in two patients and grade 3 in three patients. Six patients also experienced grade 1 constipation and one grade 3. Five patients experienced grade 1 mucositis. There was no renal or hepatic toxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response</head><p>Stage 1 No patients in phase 1 responded to the treatment combination, athough three patients achieved transient stabilisation of their disease. In all, 12 patients progressed on treatment.</p><p>Stage 2 Two of 18 patients were not assessable for response due to early death or deterioration. In the whole cohort, two patients achieved a partial response to treatment, one patient in cohort 1 (carboplatin AUC 3) and one patient in cohort 2 at carboplatin AUC 4. Both patients had multiple sites of disease, including lung and soft tissue, and one patient also had liver involvement. Three patients achieved disease stabilisation, and the other 11 patients progressed on treatment. The median duration of response in the two patients achieving a partial response was 7.2 months.</p><p>The median overall survival in this group of patients was 5.6 months.</p><p>Two patients with stable disease after six cycles of the combination received six further cycles of temozolomide alone. The treatment was well tolerated in both patients, and no progression of disease was seen while they remained on treatment. One patient progressed 4 months after the completion of treatment and the other 11 months later.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Chemotherapy for patients with advanced melanoma is largely palliative with short survival times, thus outpatient regimens with low toxicity are preferable. Temozolomide is an attractive agent for use in melanoma, as it has excellent oral bioavailability, it penetrates the CSF and has the same active component as DTIC, the standard therapy for melanoma. In the Cancer Research Campaign (CRC) phase II trial of temozolomide in melanoma, the results were promising, with an overall response rate of 21% in 49 patients assessable for response. Most patients had multiple sites of metastases. All patients initially received 750 mg m À2 given over 5 days, and if no grade 3 or 4 toxicity was observed, subsequent courses were administered at 1000 mg m À2 again given over 5 days. In 43 of 55 patients, dose escalation was possible and only two episodes of grade 4 thrombocytopenia and five episodes of grade 4 neutropenia were observed. Tolerability was confirmed in a large phase III trial comparing temozolomide with DTIC, where only 64 of 581 cycles (11%) resulted in grade 3 or 4 neutropenia or thrombocytopenia. In all, 3% of patients discontinued treatment due to adverse events.</p><p>Here, when carboplatin (AUC 3 -6) was added to temozolomide at 750 mg m À2 , the regimen was well tolerated with no grade 3 or 4 toxicity. However, when the temozolomide dose was increased to the recommended phase II dose of 1000 mg m À2 myelosuppression became more common and significant. The DLT was haematological at carboplatin AUC 5 with two of four patients experiencing grade 3/4 thrombocytopenia and neutropenia. At this dose, there was also an early death on day 15 of the first treatment cycle. Eight patients, in addition to the initial cohort of three patients, were treated at a carboplatin dose of AUC 4 to further assess toxicity. This demonstrated persistent significant myelosuppression with 16 of 32 cycles (50%), resulting in grade 4 thrombocytopenia. In addition, four patients experienced grade 3 or 4 neutropenia, which resulted in neutropenic sepsis requiring hospitalisation admission in one patient. Two patients discontinued treatment due to toxicity, one due to ongoing myelosuppression despite two dose reductions and the other due to general debility after four cycles. </p><formula xml:id="formula_0">Carboplatin AUC 5 Anaemia 4 (3) 1 (1) 1 (1) 1 (1) 0 (0) Thrombocytopenia 2 (1) 0 (0) 0 (0) 3 (2) 2 (1) Neutropenia 3 (2) 1 (1) 0 (0) 2 (2) 1 (1)</formula><p>Owing to the significance of the toxicity in the expanded cohort at carboplatin AUC 4, this was not the MTD. Although response was not a primary end point, the response rate was poor in both phases of the trial. At 750 mg m À2 temozolomide no patients responded to treatment, although three out 12 achieved disease stabilisation. At 1000 mg m À2 temozolomide, two of 18 patients achieved a partial response, and a further three achieved disease stabilisation. Thus, the overall response rate was two of 28 (7%). There were no responses noted in any of the 11 patients with brain metastases. This appears inferior to results from the initial phase I trial of temozolomide that included 23 patients with metastatic melanoma <ref type="bibr" target="#b11">(Newlands et al, 1992)</ref>. There, four patients (17%) responded to temozolomide, two at 750 mg m À2 and two at 1000 mg m À2 using the same 5day scheduling. In general, higher response rates have been observed in subcutaneous and lymph node disease, although in the CRC phase II study of temozolomide as a single agent there were three complete responses in patients with lung metastases, and partial responses noted in another nine patients with miscellaneous sites of disease. There were no responses in the brain metastases of four patients. The disease mix here was similar to that in the CRC phase II trial, with 71% patients in our trial having multiple sites of disease, compared to 80% in the CRC trial. However, there was a much higher patient number with brain metastases in the present study (37%). It is disappointing that no responses occurred in our study in patients with cerebral metastases as temozolomide is known to cross the blood -brain barrier, and responses are found in primary brain tumours. In the larger phase III trial where 156 patients received temozolomide, the overall response rate was 13.5%. It was not stated how many patients had multiple sites of metastases, but patients with cerebral metastases were excluded from the trial. A recent phase II trial examined a combination of docetaxel and temozolomide 1000 mg m À2 given 4-weekly in 62 patients with metastatic melanoma <ref type="bibr" target="#b1">(Bafaloukos et al, 2002)</ref>. Again the treatment was well tolerated with only eight patients (13%) experiencing grade 3/4 thrombocytopenia, and an overall response rate of 27% was achieved. Three of eight patients with brain metastases responded to treatment.</p><p>Despite the poor response rate of the combination of treatment in the present study, the median survival in this group of patients was 5.6 months, which was in keeping with that of treatment with other chemotherapy agents.</p><p>In conclusion, the addition of carboplatin to temozolomide 1000 mg m À2 significantly adds to myelosuppression when the carboplatin dose is escalated over AUC 3. Grade 4 thrombocytopenia is common at day 21 with carboplatin AUC 4, although the regimen is otherwise well tolerated. In this population of patients, with a high proportion of brain metastases, the response rates were low (7%) and less than previously reported. Owing to poor response rates, it was not thought justifiable to expand the cohort of patients receiving a carboplatin dose of AUC 3, and thus the MTD was not defined. It is unlikely that the combination of temozolomide and carboplatin can be given in sufficient doses to improve on the efficacy of temozolomide given as a single agent in advanced melanoma.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>) 89(10), 1901 -1905  &amp; 2003  Cancer Research UK</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>Total number of patients</cell><cell>30</cell></row><row><cell>Sex</cell><cell></cell></row><row><cell>Male</cell><cell>16</cell></row><row><cell>Female</cell><cell>14</cell></row><row><cell>Age (years)</cell><cell></cell></row><row><cell>Median</cell><cell>54</cell></row><row><cell>Range</cell><cell>40 -81</cell></row><row><cell>ECOG performance status</cell><cell></cell></row><row><cell>0</cell><cell>1 6</cell></row><row><cell>1</cell><cell>1 0</cell></row><row><cell>2</cell><cell>4</cell></row><row><cell>Time to distant progression from diagnosis (months)</cell><cell></cell></row><row><cell>Median</cell><cell>35.4</cell></row><row><cell>Range</cell><cell>0 -126</cell></row><row><cell>Site of disease</cell><cell></cell></row><row><cell>Skin/soft tissue</cell><cell>14</cell></row><row><cell>Nodal disease</cell><cell>9</cell></row><row><cell>Lung</cell><cell>15</cell></row><row><cell>Liver</cell><cell>11</cell></row><row><cell>Brain</cell><cell>11</cell></row><row><cell>Bone</cell><cell>5</cell></row><row><cell>Visceral disease (nonhepatic)</cell><cell>4</cell></row><row><cell>Single site only</cell><cell>8</cell></row></table><note><p>ECOG ¼ Eastern Cooperative Oncology Group.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Dose escalations</figDesc><table><row><cell cols="2">No. assessable</cell><cell></cell><cell>No. with</cell></row><row><cell>Carboplatin dose</cell><cell>patients</cell><cell>No. courses</cell><cell>DLT</cell></row><row><cell cols="2">Stage 1: Temozolomide dose 750 mg m À2</cell><cell></cell><cell></cell></row><row><cell>AUC 3</cell><cell>3</cell><cell>10</cell><cell>0</cell></row><row><cell>AUC 4</cell><cell>3</cell><cell>11</cell><cell>0</cell></row><row><cell>AUC 5</cell><cell>3</cell><cell>7</cell><cell>0</cell></row><row><cell>AUC 6</cell><cell>3</cell><cell>5</cell><cell>0</cell></row><row><cell cols="2">Stage 2: Temozolomide dose 1000 mg m À2</cell><cell></cell><cell></cell></row><row><cell>AUC 3</cell><cell>3</cell><cell>13</cell><cell>0</cell></row><row><cell>AUC 4</cell><cell>11</cell><cell>35</cell><cell>8</cell></row><row><cell>AUC 5</cell><cell>4</cell><cell>8</cell><cell>2</cell></row><row><cell>DLT ¼ dose limiting toxicity.</cell><cell></cell><cell></cell><cell></cell></row><row><cell>AUC=Area under curve.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Stage 1 grade of haematological toxicity</figDesc><table><row><cell>0</cell><cell>1</cell><cell>2</cell></row><row><cell></cell><cell>Cycles (patients)</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Stage 2 grade of haematological toxicity</figDesc><table><row><cell></cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell></row><row><cell></cell><cell></cell><cell cols="3">Cycles (patients)</cell><cell></cell></row><row><cell>Carboplatin AUC 3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Anaemia</cell><cell>2 (1)</cell><cell>10 (3)</cell><cell>2 (2)</cell><cell>0 (0)</cell><cell>0 (0)</cell></row><row><cell>Thrombocytopenia</cell><cell>7 (3)</cell><cell>2 (1)</cell><cell>5 (2)</cell><cell>0 (0)</cell><cell>0 (0)</cell></row><row><cell>Neutropenia</cell><cell>11 (3)</cell><cell>3 (2)</cell><cell>0 (0)</cell><cell>0 (0)</cell><cell>0 (0)</cell></row><row><cell>Carboplatin AUC 4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Anaemia</cell><cell>20 (9)</cell><cell>6 (4)</cell><cell>3 (3)</cell><cell>2 (1)</cell><cell>1 (1)</cell></row><row><cell>Thrombocytopenia</cell><cell>13 (4)</cell><cell>0 (0)</cell><cell>0 (0)</cell><cell>3 (2)</cell><cell>16 (6)</cell></row><row><cell>Neutropenia</cell><cell>17 (5)</cell><cell>2 (2)</cell><cell>7 (2)</cell><cell>3 (2)</cell><cell>3 (2)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2003) 89(10), 1901 -1905 &amp; 2003 Cancer Research UK</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (2003) 89(10), 1901 -1905 &amp; 2003 Cancer Research UK Clinical</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Carboplatin AUC 6 Anaemia 4 (2) 0 (0) 1 (1) Thrombocytopenia 4 (3) 1 (1) 0 (0) Neutropenia 4 (3) 1 (1) 0 (0)</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Cisplatin hydration with and without mannitol diuresis in refractory disseminated malignant melanoma: a Southwest Oncology Group Study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Al-Sarraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Oishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Hewlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Balducci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mccracken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Padilla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="31" to="35" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Temozolomide in combination with docetaxel in patients with advanced melanoma: a phase II study of the Hellenic Cooperative Oncology Group</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bafaloukos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gogas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Georgoulias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Briassoulis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fointzilas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Samantas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kalofonos</forename><surname>Ch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Skarlos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Karabelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kosmidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="420" to="425" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cancer Research Campaign phase II trial of temozolamide in metastatic melanoma</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Bleehen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thatcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Selby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Calvert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Rustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Stevens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="910" to="913" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase III multicenter randomized trial of the Dartmouth regimen versus dacarbazine in patients with metastatic melanoma</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Chapman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Einhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Meyers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saxman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Destro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Panageas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Begg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Agarwala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Schuchter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Ernstoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Houghton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kirkwood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="2745" to="2751" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Combination chemotherapy with cisplatin, carmustine, dacarbazine, and tamoxifen in metastatic melanoma</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Del Prete</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Maurer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Donnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Forcier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Lemarbre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1403" to="1405" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Melanoma: epidemiology, pathogenesis, and new modes of treatment</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dreiling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robinson</forename><forename type="middle">Wa</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="553" to="604" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Phase II trial of carboplatin in advanced malignant melanoma</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Caspar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosenbluth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canc Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="171" to="172" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Melanoma: chemotherapy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Betticher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thatcher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Med Bull</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="609" to="630" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Effective combination chemo/hormonal therapy for malignant melanoma: experience with three consecutive trials</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Mcclay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mastrangelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Berd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bellet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="553" to="556" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Randomised phase III study of temozolomide versus dacarbazine in the treatment of patients with advanced metastatic malignant melanoma</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Middleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Grob</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aaronson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fierlbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tilgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aamdal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lebon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Coates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Henz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schadendorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Fraass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Statkerich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thatcher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="158" to="166" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">High-dose cisplatin plus dacarbazine in the treatment of metastatic melanoma</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Murren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Derosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Durivage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Makuch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Portlock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="1514" to="1517" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Phase I trial of temozolomide. (CCRG 81045: M&amp;B 39831: NSC 362856)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Blackledge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Rustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Quarterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="287" to="291" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Effective chemotherapy for melanoma after treatment with interleukin-2</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Gilewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ramming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Doane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Vogelzang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="427" to="429" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Randomised, double-blind placebo controlled trial comparing the response rates of carmustine, dacarbazine, and cisplatin with and without tamoxifen in patients with metastatic melanoma</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Rusthoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Quirt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Iscoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Mccullock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Lohmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Berdelle-Radoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Borduth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Silver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Armitage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="2083" to="2890" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Cancer Institute of Canada Clinical Trials Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Antitumour activity and pharmacokinetics in mice of 8-carbamoyl-3-methylimidazol</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hickman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Langdon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chubb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vickers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Baig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Goddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Slack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fizames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lavelle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="5846" to="5852" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note>5,1-d] 1,2,3,5-tetrazin-4 (3H) one (CCRG) 81045; M&amp;B 39831 with potential as an alternative to dacarbazine</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">New guidelines to evaluate the response to treatment in solid tumours</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Arbrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisanhauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Warden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rubinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Glabbeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Van Oosterom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Christian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gwythe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="2005" to="2216" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Comparison of the cytotoxicity in vitro of temozolomide and dacarbazine, prodrugs of 3methyl-(triazen-1-yl) imidazole-4-carboxide</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Tsang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Quarterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gescher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="342" to="346" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

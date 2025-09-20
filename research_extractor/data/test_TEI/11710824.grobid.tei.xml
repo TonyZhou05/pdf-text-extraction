@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dose and schedule-finding study of oral topotecan and weekly cisplatin in patients with recurrent ovarian cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">H</forename><surname>Gelderblom</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution">Leiden University Medical Centre</orgName>
+								<address>
+									<addrLine>KI-p</addrLine>
+									<postBox>PO Box 9600</postBox>
+									<postCode>2300 RC</postCode>
+									<settlement>Leiden</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Sparreboom</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mja</forename><surname>De Jonge</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Loos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><surname>Wilms</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Pharmacy</orgName>
+								<orgName type="institution">Rotterdam Cancer Institute (Daniel den Hoed Kliniek) and University Hospital Rotterdam</orgName>
+								<address>
+									<postCode>3075 AE</postCode>
+									<settlement>Rotterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mantel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><surname>Hennis</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">SmithKline Beecham Pharmaceuticals</orgName>
+								<address>
+									<settlement>Zeist</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">I</forename><surname>Camlett</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">New Frontiers Science Park (South)</orgName>
+								<orgName type="institution">Glaxo SmithKline Beecham Pharmaceuticals</orgName>
+								<address>
+									<addrLine>Third Avenue</addrLine>
+									<postCode>CM19 5AW</postCode>
+									<settlement>Harlow Essex</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mel</forename><surname>Van Der Burg</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dose and schedule-finding study of oral topotecan and weekly cisplatin in patients with recurrent ovarian cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FF324E9F4CC78C3522FF999A3A1409D1</idno>
+					<idno type="DOI">10.1054/bjoc.2001.2014</idno>
+					<note type="submission">Received 16 February 2001 Revised 11 June 2001 Accepted 5 July 2001</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>cisplatin</term>
+					<term>oral topotecan</term>
+					<term>cremophor EL</term>
+					<term>ovarian cancer 1124</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Both weekly cisplatin chemotherapy and single agent topotecan have proven to be effective in recurrent ovarian cancer. Preclinical data show synergism between cisplatin and topotecan. Side effects for this combination are drug sequence dependent and predominantly haematologic. Since preclinical data suggest that Cremophor EL (CrEL), the formulation vehicle of paclitaxel, has a protective effect on haematological toxicity of cisplatin, CrEL was added to the combination cisplatin and topotecan. In this phase I study, escalating doses of oral topotecan administered on day 1</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Ovarian cancer is the most common cause of death among patients with gynaecological malignancies <ref type="bibr" target="#b15">(Parker et al, 1997)</ref>. At the time of presentation the majority of patients have advanced disease, which is not amenable to cure by surgery alone. The standard treatment is a multimodality approach, consisting of cytoreductive surgery and platinum/paclitaxel combination chemotherapy <ref type="bibr" target="#b13">(McGuire and Ozols, 1998)</ref>. Salvage chemotherapy may result in prolonged secondary remissions with alleviation of symptoms and improvement of the quality of life. The response to salvage chemotherapy is related to the therapy-free interval. The longer this interval, the greater the probability of response to retreatment with platinum-based regimens. Dose-intense combination therapy might increase the response rates and the disease and overall survival. There is no standard therapy for patients with early recurrent ovarian cancer. Studies with new agents, including topotecan, have shown activity <ref type="bibr" target="#b3">(Creemers et al, 1994;</ref><ref type="bibr" target="#b18">Swisher et al, 1997;</ref><ref type="bibr" target="#b18">ten Bokkel Huinink et al, 1997)</ref>. Cisplatin administered weekly at a dose of 70 mg m -2 in combination with either continuous oral etoposide or with weekly i.v. paclitaxel to patients with progressive or recurrent ovarian cancer yielded a high dose intensity with response rates up to 84% in second-line treatment <ref type="bibr" target="#b19">(van der Burg et al, 1996</ref><ref type="bibr" target="#b20">(van der Burg et al, , 1998))</ref>.</p><p>Since there is preclinical evidence of synergistic action between cisplatin and topotecan <ref type="bibr" target="#b1">(Chou et al, 1994;</ref><ref type="bibr" target="#b16">Romanelli et al, 1998)</ref> and both agents are active in ovarian cancer, while their toxicity profile is mostly non-overlapping, we investigated a dose-intense weekly combination of these agents in recurrent ovarian cancer. We administered topotecan orally since preclinical studies suggested that prolonged exposure, as can be achieved more conveniently by oral administration, might result in higher antitumour activity <ref type="bibr" target="#b10">(Hochster et al, 1994)</ref>.</p><p>Combining topotecan with i.v. cisplatin in more conventional 3-weekly schedules required considerable dose reduction of topotecan as compared to the single agent dose, even with G-CSF support <ref type="bibr" target="#b14">(Miller et al, 1994)</ref>. Dose-limiting toxicities (DLT) consisted mainly of haematological toxicity, which was sequence dependent, with topotecan following cisplatin as the most haematotoxic sequence <ref type="bibr" target="#b17">(Rowinsky et al, 1996;</ref><ref type="bibr" target="#b4">de Jonge et al, 2000)</ref>. Whether drug sequencing clinically is also relevant for antitumour activity is as yet unknown. To evaluate the sequence-dependent effects we administered the oral topotecan 2 days a week preceding weekly cisplatin or following cisplatin.</p><p>The third schedule was based on the preclinical observation that CrEL protected from cisplatin-induced haematological toxicity <ref type="bibr" target="#b12">(Ma et al, 1996;</ref><ref type="bibr" target="#b5">de Vos et al, 1997;</ref><ref type="bibr" target="#b0">Badary et al, 2000)</ref>. In these studies CrEL inhibited DNA adduct formation and the intracellular accumulation of cisplatin in human leukocytes, and in mice CrEL protected from cisplatin induced myelotoxicity. We might have observed this effect clinically in a study with weekly cisplatin preceded by paclitaxel (van der <ref type="bibr">Burg et al, 1998)</ref>. In this study an unexpected high dose of weekly paclitaxel 90 mg m -2 could be safely combined with weekly cisplatin 70 mg m -2 . Therefore, to evaluate the possibility of an increase of the oral topotecan dose i.v. CrEL was administered prior to the weekly cisplatin infusions in the third cohort of the current study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients selection</head><p>Patients with progressive or recurrent ovarian cancer were eligible for this phase I study. In case of prior treatment with a weekly cisplatin-based regimen, a minimal progression-free interval of 3 months after the completion of the weekly cisplatin schedule, was mandatory. Other eligibility criteria included: WHO performance status 0-2, evaluable disease, no more than 2 prior chemotherapy regimens, no chemotherapy, hormonal or radiotherapy for at least 4 weeks prior to entry in the study, no signs of bowel obstruction, neutrophils ≥ 1.5 × 10 9 l -1 , platelet count ≥ 100 × 10 9 l -1 , total bilirubin &lt; 1.25 times the upper limit of normal, creatinine clearance &gt; 60 ml min -1 , peripheral neurotoxicity ≤ grade 1, no condition precluding adequate intake of oral topotecan, and no prior therapy with a topoisomerase I inhibitor. The study was approved by the institution's medical ethics committee and all patients signed written informed consent prior to entry in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment assessment</head><p>Before therapy a complete medical history was taken and a physical examination was performed. A complete blood count (CBC) including white blood cell (WBC) differential, and serum biochemistry, which involved sodium, potassium, calcium, phosphorus, urea, creatinine, total protein, albumin, total bilirubin, alkaline phosphatase, aspartate aminotransferase (ASAT), alanine transferase (ALAT), γ-glutamyl transferase, glucose and uric acid, were performed, as was 24-hour creatinine clearance. During the induction regimen, weekly evaluations included history, physical examination, toxicity assessment according to the National Cancer Institute Common Toxicity Criteria (NCI-CTC) version 2.0, and serum chemistry. CBC was determined twice weekly. Tumour evaluation according to the World Health Organisation (WHO) criteria for response was performed before and after the induction regimen and every 2 courses during the maintenance regimen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drug administration</head><p>Cisplatin (Platosin) was supplied as a powder by Pharmachemie (Haarlem, the Netherlands). All patients received cisplatin dissolved in 250 ml of hypertonic saline (3% (w/v) sodium chloride) as a 3-h infusion on a weekly base during the induction regimen and 3-weekly during the maintenance regimen. Topotecan capsules containing either 0.25 or 1.00 mg of the active compound were supplied by Smith Kline Beecham Pharmaceuticals (Harlow, UK). Topotecan was administered orally immediately at the start of the cisplatin infusion and the following day (scheme A and C) or the previous day (scheme B) during the induction regimen and for 5 consecutive days during the maintenance regimen (days 1-5) on an empty stomach, at least 10 min before meals. CrEL was obtained from Duchefa (Haarlem, the Netherlands), and administered through a polyvinylchloride-free infusion system in 3 h before the cisplatin infusions in scheme C.</p><p>In all patients standard pre-medication consisted of ondansetron (8 mg i.v.) combined with dexamethasone (10 mg i.v.), and an additional 2 mg of clemastine in scheme C. To avoid cisplatininduced renal damage, the administration of cisplatin was preceded by the infusion of 1 l of a mixture of 2.5% (w/v) dextrose and 0.45% (w/v) sodium chloride over 4 h, and followed by another 3 l with the addition of 20 mM potassium chloride and 2 g l -1 magnesium sulfate applied over 16 h. Further anti-emetic therapy consisted of oral dexamethason 3 mg twice daily and ondansetron 8 mg twice daily on the first 2 days following cisplatin infusion, followed by oral metoclopramide or domperidon as needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment and dose escalation</head><p>Patients were treated with an induction regimen consisting of oral topotecan day <ref type="bibr">1,</ref><ref type="bibr">2,</ref><ref type="bibr">8,</ref><ref type="bibr">9,</ref><ref type="bibr">15,</ref><ref type="bibr">16,</ref><ref type="bibr">29,</ref><ref type="bibr">30,</ref><ref type="bibr">36,</ref><ref type="bibr">37,</ref><ref type="bibr">43,</ref><ref type="bibr">44</ref> in combination with weekly cisplatin 70 mg m -2 d -1 on day 1, 8, 15, 29, 36, 43 (scheme A) or the same administration scheme of topotecan in the presumably less myelotoxic sequence with weekly cisplatin on day 2, 9, 16, 30, 37, 44 (scheme B). In scheme C CrEL (12 ml) was administered prior to cisplatin using the sequence of scheme A. The dose of CrEL was similar to that administered with paclitaxel at a dose of 90 mg m -2 , as used in our weekly cisplatin/paclitaxel schedule. 8 All schemes are outlined in Figure <ref type="figure" target="#fig_0">1</ref>. The topotecan starting dose was 0.45 mg m -2 d -1 , a dose deduced from previous phase I studies with single agent topotecan, and our recently completed study with oral topotecan given daily 5 times every 3 weeks in combination with 3-weekly cisplatin <ref type="bibr" target="#b4">(de Jonge et al, 2000)</ref>. Topotecan dose was escalated depending on the observed toxicity. Weekly treatment was postponed if the neutrophil count had not recovered to ≥ 1.0 × 10 9 l -1 and the platelet count to ≥ 100 × 10 9 l -1 on the day of retreatment. If the treatment was delayed, haematology was assessed twice a week to enable treatment re-start as soon as possible. Dose-limiting toxicity (DLT) was defined as</p><p>scheme A scheme B scheme C d1d2 d8 d9 d15 d29 d30 d36 d37 d43 d44 d16 d1d2 d8 d9 d15 d29 d30 d36 d37 d43 d44 d16 d1d2 d8 d9 d15 d29 d30 d36 d37 d43 d44 d16 NCI-CTC version 2.0 grade 4 neutropenia lasting for 5 days or more, or complicated with fever requiring hospitalisation, grade 4 thrombocytopenia and/or non-haematological toxicity ≥ grade 3, excluding nausea. Treatment delay of more than 2 weeks due to toxicity was also considered DLT. Dose (de-)escalation, if any, was based on the toxicities observed at previous dose levels. In all patients response evaluation took place after completion of the induction regimen. In case of response or stable disease it was left to the judgement of the treating physician to proceed with a maintenance therapy consisting of cisplatin and/or oral topotecan in a 3-weekly schedule.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose modifications</head><p>If neutrophils were &lt; 1.0 × 10 9 l -1 and/or platelet count ≤ 100 × 10 9 l -1 on day 8, 15, 29, 36, 43 or preceding each maintenance course, treatment was delayed until recovery.</p><p>Prior to the first course creatinine clearance should exceed 60 ml min -1 , as stated in the inclusion criteria. If the creatinine clearance was impaired due to dehydration or insufficient intake of fluids, prehydration was intensified followed by new creatinine clearance measurements. If the creatinine clearance after additional prehydration remained &lt; 50 ml min -1 during the induction regimen, cisplatin was withdrawn from the combination regimen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample collection and drug analysis</head><p>Blood samples for pharmacokinetics of cisplatin and topotecan were obtained on the day of cisplatin infusion during the first 3 weekly administrations of the induction regimen in scheme C. All blood samples were obtained and analysed as described previously <ref type="bibr" target="#b4">(de Jonge et al, 2000)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>18 patients entered this study between March 1999 and May 2000. Patient characteristics are listed in Table <ref type="table" target="#tab_1">1</ref>. All patients had progressive or recurrent ovarian cancer after prior cisplatin-based chemotherapy and were eligible. The median WHO performance status was 1 (range 0-2), and age 51 years (range 34-68). The median cisplatin-free interval of 7 months (range 0-17) was short, rendering a poor prognosis. A total of 85 weekly induction administrations (cycles) were given. Overall, only 7 patients received all 6 weekly induction administrations: 2 patients were withdrawn because of an allergic reaction to cisplatin infusion during the 4th administration, 7 patients could not complete all 6 induction administrations due to haematological toxicity, 1 patient was not able to receive her 6th induction administration due to electrolyte disturbances related to the weekly platinum infusions, and 1 patient went off study after the 4th cycle due to early progressive disease.</p><p>In scheme A, 10 patients received cisplatin 70 mg m -2 d -1 on day 1 followed by oral topotecan at 0.45 mg m -2 d -1 on day 1 and 2. In scheme B, a total of 2 patients were treated at the same dose level in the reverse sequence. In scheme C, 3 patients were treated at the initial dose level of topotecan at 0.45 mg m -2 d -1 on day 1 and 2 and another 3 patients at 0.6 mg m -2 d -1 , all preceded by CrEL and cisplatin on day 1.</p><p>Haematological toxicity and in one case vomiting were the dose-limiting toxicities (DLTs) of the induction regimen. In scheme A 4 out of 10 patients experienced DLT, in scheme B 2 out of 2 and in scheme C no DLTs were observed at the initial dose level and in 2 out of 3 at the higher dose level. The toxicity of the induction regimen A, B and C will be described separately in more detail in the following paragraphs. The main toxicity of the maintenance regimen was uncomplicated myelotoxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haematological toxicity</head><p>The haematological toxicity observed during the induction regimen is shown in Table <ref type="table">2</ref>. In scheme A, 3 patients were judged as having DLT for haematological reasons: 1 patient had her 3rd weekly cisplatin administration (cycle) postponed more than 2 weeks due to persistent thrombocytopenia, 1 patient developed grade 4 neutropenia lasting for 5 days or more after cycle 3 and 1 patient had grade 4 thrombocytopenia, following cycle 3. In scheme B both patients had DLT based on delay of their 4th cycle by more than 2 weeks because of prolonged neutropenia (1 patient) or neutro-and thrombocytopenia (1 patient). Both patients continued induction treatment with weekly cisplatin monotherapy. At the first dose level in scheme C, with the addition of CrEL, no DLTs were observed, rendering this dose level feasible. Only 1 grade 4 neutropenia was observed and all patients completed the weekly cisplatin on time. However, in scheme C, at the dose of topotecan at 0.6 mg m -2 d -1 , again DLT was encountered in 2 out of 3 patients. The 3rd cycle was delayed by more than 2 weeks because of thrombocytopenia in 1 patient and thrombocytopenia followed by neutropenia in another patient. The MTD in scheme C was determined as topotecan at 0.45 mg m -2 d -1 (days 1 and 2) combined with CrEL 12 ml and cisplatin at 70 mg m -2 week -1 . In scheme A, B, C first dose level and C highest dose level, the percentage of cycles associated with grade 3 or 4 neutropenia were respectively: 21, 33, 11 and 11%, but none of the neutropenic periods was complicated by fever. Thrombocytopenia grade 3 or 4 was observed in only a limited number of cycles (9, 17, 0 and 6%), all without bleeding, only 2 patients received a prophylactic platelet transfusion. Mild (grade 1 or 2) anaemia occurred in almost all patients, only 3 patients (1 in scheme A and 2 in scheme C) had grade 3 anaemia. A total of 20 blood transfusions were administered during induction chemotherapy (8 in scheme A, 4 in scheme B and 8 in scheme C). 3 patients received erythropoietine injections during the last induction cycles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Non-haematological toxicity</head><p>Nausea and vomiting were the most frequently reported nonhaematological side effects (data shown in Table <ref type="table" target="#tab_2">3</ref>). One patient in scheme A was judged as having DLT because of grade 4 vomiting 1 week after cycle 6. The event was only possibly related to the chemotherapy, because she had experienced these symptoms once prior to treatment.</p><p>Other side effects included fatigue (grade 1 in 28%, grade 2 in 11%), alopecia in 22%, tinnitus in 17% and nephrotoxicity grade 1 in 28%. Mild headache was reported in 50% of patients, but this might also partially be related to the administration of ondansetron.</p><p>2 patients were withdrawn from the study because of an allergic reaction to cisplatin. These patients continued treatment with oral topotecan monotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Antitumour activity</head><p>3 patients were not assessable for response due to early discontinuation of the induction regimen for reasons other than progression of the disease. 7 patients had early response evaluation after having received more than 3 weekly cycles. Of the 15 patients evaluable for response after the weekly induction regimen, 9 patients (60%) reached a partial response, another 5 (33%) had stable disease, only 1 patient (7%) had early progressive disease. Due to the various maintenance treatments and the small sample size, assessment of the overall response and response duration is not really possible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>Full kinetic data following the administration of cisplatin and topotecan during the first 3 cycles were obtained from 6 patients in scheme C. Cisplatin and topotecan pharmacokinetic data (apparent clearance of unbound platinum fraction of 32.2 ± 24.8 l h -1 m -2 (mean ± SD), cisplatin unbound/bound ratio of 0.082 ± 0.045, apparent oral topotecan clearance of 142 ± 95.7 l h -1 m -2 and topotecan lactone to total drug AUC ratio of 0.36 ± 0.05) were comparable to single agent data <ref type="bibr" target="#b8">(Gerrits et al, 1998)</ref>. The variability in C max and AUC for the 6 patients who had full kinetic data were 4.97-41.8% and 28.7-32.2%, respectively, which is also in agreement with earlier data <ref type="bibr" target="#b8">(Gerrits et al, 1998;</ref><ref type="bibr">Gelderblom et al, 2000a)</ref>. These findings indicate that there was no cisplatin/topotecan/CrEL pharmacokinetic drug interaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>This study, using weekly cisplatin, with and without CrEL, in combination with oral topotecan in different sequences, was based on a number of (pre-)clinical observations: (a) combining cisplatin and topotecan, 2 potentially active agents in ovarian cancer in a dose-dense scheme, is attractive given their preclinical synergism; (b) Dose-dense weekly cisplatin combination chemotherapy regimens seem to yield improved response rates in recurrent ovarian cancer; (c) Administration of oral topotecan enables prolonged systemic exposure, which is more effective in pre-clinical models and (d) single agent oral topotecan is as effective as i.v., with less grade 4 neutropenia in advanced ovarian cancer <ref type="bibr" target="#b9">(Gore et al, 1998)</ref>, (e) while patients have a preference for oral chemotherapy when equally effective <ref type="bibr" target="#b11">(Liu et al, 1997)</ref>. In order to study drug-sequencedependent haematological effects for the combination cisplatin and i.v. topotecan, with cisplatin following topotecan as the least toxic sequence, both administration sequences were evaluated. Since, in the 3-weekly schedules combining cisplatin and topotecan, considerable dose reduction of topotecan was necessary, compared with single agent dose, we also studied the possible myeloprotective effect of co-administration of CrEL in scheme C. CrEL was used since in vitro studies indicate that CrEL selectively inhibits cisplatin accumulation in white blood cells, but not in tumour cells <ref type="bibr" target="#b12">(Ma et al, 1996;</ref><ref type="bibr" target="#b5">de Vos et al, 1997)</ref>. This effect might have been responsible for improvement of therapeutic index observed in a combination study with paclitaxel (van der <ref type="bibr">Burg et al, 1998)</ref>.</p><p>In the current study, in this quite heavily pretreated population, haematological toxicity was the main dose-limiting side effect. However with no patients experiencing febrile neutropenia or requiring platelet transfusions because of bleeding, the observed haematological toxicity was, albeit dose-limiting, relatively easy manageable. Nevertheless dose delays were needed, thereby limiting the projected dose-intensity in scheme A. Since the projected dose-intensity could already not be achieved at the first dose, lower dose was not studied. Also, using the same dose of topotecan studied in scheme A, in the theoretically less toxic sequence of cisplatin following topotecan (scheme B) resulted in 2 out of 2 patients experiencing DLT at the first dose level. Therefore, this schedule was also considered non-feasible. The fact that topotecan was given on the day of cisplatin administration in both schedules, with the only difference consisting of an additional administration of topotecan on the day preceding or following cisplatin, may have accounted for the lack of the initially expected sequence-dependent reduction of haematological toxicity in scheme B. As expected, the drug sequence had no apparent influence on the severity and frequency of non-haematological side effects. These side-effects were mostly mild and mainly consisted of nausea, vomiting, alopecia, headache and neurotoxicity. With the addition of CrEL in scheme C, no DLTs were observed at the first dose level of topotecan at 0.45 mg m -2 and all patients completed the induction without delays, in contrast to the observation in scheme A and B. A dose escalation of 33% for topotecan however again resulted in 2 DLTs in the first 3 patients because of treatment delay for more than 2 weeks due to persistent haematological toxicity. The non-haematological side-effects in scheme C were comparable to those observed for the other 2 schemes. The number of patients in this study was too small to draw unambiguous conclusions on CrELs myeloprotective effect for this combination. However the fact that (1) no haematological DLTs were seen in scheme C compared to 4 out of 10 patients at the same dose level in scheme A, (2) all patients treated on the first dose level of scheme C completed the cycles without delay, and (3) 11 and 0% of cycles in scheme C resulted in grade 3 or 4 neutropenia and thrombocytopenia, as compared to respectively 21 and 9% for scheme A at the same dose level, may all at least suggest a myeloprotective effect of CrEL. The fact that, nevertheless, a dose escalation in scheme C was impossible is likely related to the fact that preclinical data indicate a myeloprotective effect of CrEL on cisplatin toxicity but not on topotecan toxicity, while the administered topotecan might have accounted for most of the haematological toxicity. A randomised study in a patient population treated with a cisplatin-based regimen would be required to further elucidate CrELs potential myeloprotective effect in patients.</p><p>Pharmacokinetic analysis revealed no interaction between the compounds in this combination regimen and the apparent clearance of topotecan was independent of dose and schedule. CrEL did not affect the pharmacokinetics of the cytotoxic agents.</p><p>The scheduled cisplatin dose intensity of the patients completing all 6 weekly cycles of cisplatin, calculated over a treatment period of 8 weeks was 52.5 mg m -2 week -1 . The achieved median dose intensity of patients completing all 6 weekly induction cycles was 50.5 mg m -2 week -1 for scheme A; 52.5 mg m -2 week -1 for scheme B; 60 mg m -2 week -1 for scheme C first dose level; and 39.5 mg m -2 week -1 for scheme C second dose level. In comparison to the cisplatin dose intensity 17-25 mg m -2 week -1 achieved with the standard 3-weekly cisplatin/oral topotecan combination regimens <ref type="bibr" target="#b4">(de Jonge et al, 2000;</ref><ref type="bibr">Gelderblom et al, 2000b)</ref>, the currently achieved dose intensity of cisplatin in this study is still much higher with all schemes. It is important to note however, that similar dose-intensity of cisplatin can be also achieved in combination with agents such as paclitaxel where the paclitaxel dose-intensity is relatively higher than the currently feasible topotecan dose intensity. The overall 11% of patients withdrawn from the induction regimen due to an allergic reaction to cisplatin is not higher than reported in the literature for highly cisplatin-pretreated populations <ref type="bibr" target="#b2">(Ciesielski-Carlucci et al, 1997)</ref>. Notably, no allergic reactions were observed in the patients treated with weekly cisplatin preceded by CrEL.</p><p>The response rate of 60% in this heavily pretreated population with a relatively short cisplatin-free interval is interesting, but not better compared to weekly cisplatin regimens with agents that can more easily added than topotecan (van der <ref type="bibr">Burg et al, 1996</ref><ref type="bibr">Burg et al, , 1998))</ref>.</p><p>In conclusion, this study suggests, but does not prove, some myeloprotective effect of CrEL on cisplatin-induced toxicity. However a weekly schedule of cisplatin with oral topotecan seems less attractive than a weekly combination of cisplatin with either paclitaxel or etoposide in recurrent ovarian cancer.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Outline of the different induction regimens: scheme A, B and C. Cisplatin administration (closed symbols), oral topotecan administration (open symbols) and CrEL administration (grey symbols)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>Characteristic</cell><cell>No. of patients</cell></row><row><cell>No. of patients entered</cell><cell>18</cell></row><row><cell>No. of patients assessable</cell><cell>18</cell></row><row><cell>Cisplatin free interval, months</cell><cell></cell></row><row><cell>&lt; 6</cell><cell>7</cell></row><row><cell>6-12</cell><cell>8</cell></row><row><cell>&gt; 12</cell><cell>3</cell></row><row><cell>Age (years)</cell><cell></cell></row><row><cell>Median</cell><cell>51</cell></row><row><cell>Range</cell><cell>34-68</cell></row><row><cell>WHO performance status</cell><cell></cell></row><row><cell>0</cell><cell>9</cell></row><row><cell>1</cell><cell>7</cell></row><row><cell>2</cell><cell>2</cell></row></table><note><p>a Patients who had their topotecan dose reduced to 0.45 mg m -2 d -1 due to earlier toxicity were included in this table.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Non-haematological toxicity (worst per cycle) Patients who had their topotecan dose reduced to 0.45 mg m -2 d -1 due to earlier toxicity were included in this table.</figDesc><table><row><cell>Scheme</cell><cell>Topotecan mg m -2 d -1</cell><cell>No. of patients/cycles</cell><cell></cell><cell cols="2">Nausea grade</cell><cell></cell><cell cols="2">Vomiting grade</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell></row><row><cell>A</cell><cell>0.45</cell><cell>10/43</cell><cell>15</cell><cell>11</cell><cell>0</cell><cell>7</cell><cell>11</cell><cell>0</cell><cell>1</cell></row><row><cell>B</cell><cell>0.45</cell><cell>2/6</cell><cell>2</cell><cell>4</cell><cell>0</cell><cell>1</cell><cell>4</cell><cell>0</cell><cell>0</cell></row><row><cell>C</cell><cell>0.45</cell><cell>3/18</cell><cell>4</cell><cell>2</cell><cell>0</cell><cell>2</cell><cell>2</cell><cell>0</cell><cell>0</cell></row><row><cell>C a</cell><cell>0.60</cell><cell>3/18</cell><cell>7</cell><cell>2</cell><cell>1</cell><cell>6</cell><cell>1</cell><cell>0</cell><cell>0</cell></row><row><cell>a</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2001) 85(8),1124-1129  © 2001 Cancer Research Campaign   </p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Differential alteration of cisplatin cytotoxicity and myelotoxicity by the vehicle Cremophor EL</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">A</forename><surname>Badary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdel</forename><forename type="middle">-</forename><surname>Naim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Khalifa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Hamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fma</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Naunyn-Schmiedeberg Arch Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">361</biblScope>
+			<biblScope unit="page" from="339" to="334" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Computerised quantitation of synergism and antagonism of Taxol, Topotecan and Cisplatin against human teratocarcinoma cell growth: a rational approach to clinical protocol design</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Motze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Bosl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1517" to="1524" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Case report of anaphylaxis from cisplatin/paclitaxel and a review of their hypersensitivity reaction profiles</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ciesielski-Carlucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Leong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jacobs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Oncol (CCT)</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="373" to="375" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Topotecan, an active drug in the second line treatment of epithelian ovarian cancer: Results of a large European Phase II study</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Creemers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bolis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Scarfone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Lacave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Guastalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Despax</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Favalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kleinberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Van Belle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bokkel</forename><surname>Ten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Huinink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1748" to="1753" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacological study of oral topotecan and intravenous cisplatin: sequence-dependent haematologic side effects</title>
+		<author>
+			<persName><forename type="first">Mja</forename><surname>De Jonge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Loos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Gelderblom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ast</forename><surname>Planting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mel</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sparreboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Brouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Van Beurden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mantel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Doyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hearn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ross</forename><forename type="middle">G</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2104" to="2115" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Differential modulation of cisplatin accumulation in leukocytes and tumour cell lines by the paclitaxel vehicle Cremophor EL</title>
+		<author>
+			<persName><forename type="first">Al</forename><surname>De Vos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nooter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Loos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Brouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>De Bruijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Ruijgrok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mel</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sparreboom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1145" to="1150" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gelderblom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Loos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Brouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mel</forename><surname>Sparreboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<title level="m">Modulation of cisplatin pharmacodynamics by Cremophor EL: Experimental and clinical studies</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>Submitted</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">b) Phase I and pharmacological study of increased dose oral topotecan in combination with intravenous cisplatin</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gelderblom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Loos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mja</forename><surname>De Jonge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sparreboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ast</forename><surname>Planting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mel</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Brouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Verheij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ouwens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hearn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1205" to="1207" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Five days of oral topotecan (Hycamtin), a phase I and pharmacological study in adult patients with solid tumours</title>
+		<author>
+			<persName><forename type="first">Cjh</forename><surname>Gerrits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ast</forename><surname>Planting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mel</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rodriguez</forename><surname>Gl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Van Beurden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Loos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1030" to="1035" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A multicentre randomized phase III study of topotecan administered intravenously or orally for advanced epithelial ovarian carcinoma</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Calvert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bezwoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bokkel</forename><surname>Ten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Malfetano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Falkson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clarke-Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Dane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Z</forename><surname>Fields</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc ASCO</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">1346</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase 1 trial of low continuous topotecan infusion in patients with cancer: An active and well tolerated regimen</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hochster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liebes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Speyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sorich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Taubes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Oratz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wernz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chachoua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zeleniuch-Jacquotte A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="553" to="559" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Patient preferences for oral versus intravenous palliative chemotherapy</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Franssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Fitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Warner</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="110" to="115" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Docetaxel and paclitaxel inhibit DNA adduct formation and intracellular accumulation of cisplatin in human leukocytes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ast</forename><surname>Planting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Kolker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Loos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Boer-Dennert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mel</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="382" to="382" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Chemotherapy of advanced ovarian cancer</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Ozols</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="340" to="348" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Phase 1 study of topotecan and cisplatin in patients with advanced solid tumours: a cancer and leukemia group B study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Hargis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Lilenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Z</forename><surname>Fields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Rosner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Schilsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="2743" to="2750" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Cancer statistics, 1997</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bolden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Wingo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA Cancer J Clin</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="5" to="27" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">In vitro and in vivo interaction between cisplatin and topotecan in ovarian carcinoma systems</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Romanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Perego</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pratesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Carenini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tortoreto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zunino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="385" to="390" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Sequences of topotecan and cisplatin: Phase 1, pharmacologic, and in vitro studies to examine sequence dependence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kaufmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Grochow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T-L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Peereboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Bowling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Sartorius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Ettinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Forastiere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Donehower</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="3074" to="3084" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Topotecan versus paclitaxel for the treatment of recurrent epithelial ovarian cancer</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Swisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Mutch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Rader</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elbendary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tj ; Ten</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bokkel Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Malfetano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Broom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scarabelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spanczynski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bolis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Malmstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Fields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Heron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="2183" to="2193" />
+			<date type="published" when="1997">1997. 1997</date>
+		</imprint>
+	</monogr>
+	<note>Topotecan in Platinum-and Paclitaxel-resistant ovarian cancer Gyn Oncol</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Weekly high dose cisplatin and oral vepesid: a highly active regimen for ovarian cancer failing on or relapsing after conventional platinum containing combination chemotherapy</title>
+		<author>
+			<persName><forename type="first">Mel</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Logmans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Wit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Lent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wjh</forename><surname>Kruit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc ASCO</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">722</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase 1 study of weekly cisplatin and weekly or 4-weekly taxol: a highly active regimen in advanced epithelian cancer</title>
+		<author>
+			<persName><forename type="first">Mel</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Wit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc ASCO</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">1370</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

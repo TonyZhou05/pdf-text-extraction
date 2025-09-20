@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I/II study of docetaxel and cisplatin with concurrent thoracic radiation therapy for locally advanced non-small-cell lung cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">K</forename><surname>Kiura</surname></persName>
+							<email>kkiura@md.okayama-u.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Second Department of Internal Medicine</orgName>
+								<orgName type="institution">Okayama University Medical School</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Ueoka</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Second Department of Internal Medicine</orgName>
+								<orgName type="institution">Okayama University Medical School</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Segawa</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">National Shikoku Cancer Center Hospital</orgName>
+								<address>
+									<settlement>Matsuyama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Tabata</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Second Department of Internal Medicine</orgName>
+								<orgName type="institution">Okayama University Medical School</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Kamei</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Sumitomo Besshi General Hospital</orgName>
+								<address>
+									<settlement>Niihama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><surname>Takigawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Second Department of Internal Medicine</orgName>
+								<orgName type="institution">Okayama University Medical School</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Hiraki</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Okayama Red Cross Hospital</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Watanabe</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Okayama Red Cross Hospital</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Bessho</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">National Shikoku Cancer Center Hospital</orgName>
+								<address>
+									<settlement>Matsuyama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Eguchi</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">National Shikoku Cancer Center Hospital</orgName>
+								<address>
+									<settlement>Matsuyama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><surname>Okimoto</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Kawasaki Medical School</orgName>
+								<orgName type="institution">Kawasaki Hospital</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Harita</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Mutual Aid Association of Public School Teachers</orgName>
+								<orgName type="institution">Chugoku Chuoh Hospital</orgName>
+								<address>
+									<settlement>Fukuyama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Takemoto</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiology</orgName>
+								<orgName type="institution">Okayama University Medical School</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Hiraki</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiology</orgName>
+								<orgName type="institution">Okayama University Medical School</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Harada</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Second Department of Internal Medicine</orgName>
+								<orgName type="institution">Okayama University Medical School</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Tanimoto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Second Department of Internal Medicine</orgName>
+								<orgName type="institution">Okayama University Medical School</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="department">Second Department of Internal Medicine</orgName>
+								<orgName type="institution">Okayama University Medical School</orgName>
+								<address>
+									<addrLine>2-5-1 Shikata-cho</addrLine>
+									<postCode>700-8558</postCode>
+									<region>Okayama</region>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I/II study of docetaxel and cisplatin with concurrent thoracic radiation therapy for locally advanced non-small-cell lung cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">31D875CD7D3C1EFCDD89C4EBC2B64E1F</idno>
+					<idno type="DOI">10.1038/sj.bjc.6601217</idno>
+					<note type="submission">Received 18 November 2002; revised 30 May 2005; accepted 29 June 2003</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>combination chemotherapy</term>
+					<term>concurrent chemoradiation</term>
+					<term>lung cancer</term>
+					<term>cisplatin</term>
+					<term>docetaxel</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Recent studies have suggested the superiority of concomitant over sequential administration of chemotherapy and radiotherapy. Docetaxel and cisplatin have demonstrated efficacy in advanced non-small-cell lung cancer (NSCLC). This study evaluated the safety, toxicity, and antitumour activity of docetaxel/cisplatin with concurrent thoracic radiotherapy for patients with locally advanced NSCLC. Patients with locally advanced NSCLC (stage IIIA or IIIB), good performance status, age p75 years, and adequate organ function were eligible. Both docetaxel and cisplatin were given on days 1, 8, 29, and 36. Doses of docetaxel/cisplatin (mg m À2 ) in the phase I study portion were escalated as follows: 20/30, 25/30, 30/30, 30/35, 30/40, 35/40, 40/40, and 45/40. Beginning on day 1 of chemotherapy, thoracic radiotherapy was given at a total dose of 60 Gy with 2 Gy per fraction over 6 weeks. In the phase I portion, the maximum tolerated doses (MTD) among 33 patients were docetaxel 45 mg m À2 and cisplatin 40 mg m À2 . The major doselimiting toxicity (DLT) was radiation oesophagitis. The recommended doses (RDs) for the phase II study were docetaxel 40 mg m À2 and cisplatin 40 mg m À2 . A total of 42 patients were entered in the phase II portion. Common toxicities were leukopenia, granulocytopenia, anaemia, and radiation oesophagitis, with frequencies of grade X3 toxicities of 71, 60, 24, and 19%, respectively. Toxicity was significant, but manageable according to the dose and schedule modifications. Dose intensities of docetaxel and cisplatin were 86 and 87%, respectively. Radiotherapy was completed without a delay in 67% of 42 patients. The overall response rate was 79% (95% confidence interval (CI), 66 -91%). The median survival time was 23.4 þ months with an overall survival rate of 76% at 1 year and 54% at 2 years. In conclusion, chemotherapy with cisplatin plus docetaxel given on days 1, 8, 29, and 36 and concurrent thoracic radiotherapy is efficacious and tolerated in patients with locally advanced NSCLC and should be evaluated in a phase III study.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Stage III non-small-cell lung cancer (NSCLC) represents a large patient population, accounting for approximately 30% of all NSCLC patients <ref type="bibr" target="#b42">(van Meerbeeck, 2001)</ref>. This stage has been intensively investigated for the last 10 years. Several studies and meta-analyses have documented an improvement in patients with stage III disease treated with chemotherapy followed by thoracic radiation therapy, compared with radiation therapy alone <ref type="bibr" target="#b20">(Marino et al, 1995;</ref><ref type="bibr" target="#b10">Dillman et al, 1996;</ref><ref type="bibr" target="#b32">Sause et al, 2000)</ref>. Full-dose cisplatin-based chemotherapy with concurrent thoracic radiation therapy produced encouraging results with relatively severe toxicities <ref type="bibr" target="#b18">(Lee et al, 1996;</ref><ref type="bibr" target="#b28">Reboul et al, 1996;</ref><ref type="bibr" target="#b35">Segawa et al, 2000)</ref>.</p><p>Furthermore, results of a randomised trial demonstrated that concurrent administration of cisplatin-based chemotherapy and radiation significantly improved response rate and median survival compared with sequential administration <ref type="bibr" target="#b12">(Furuse et al, 1999)</ref>; this finding is being confirmed by the Radiation Therapy Oncology Group (RTOG) 9410 trial <ref type="bibr" target="#b7">(Curran et al, 2000)</ref>. Recently, several new agents with potent activity in the treatment of NSCLC have become available. The use of combination chemotherapy including these new drugs has improved the survival of patients with advanced NSCLC <ref type="bibr" target="#b13">(Giaccone et al, 1998)</ref>. The feasibilities obtained with concomitant chemoradiotherapy regimens that include new agents are being reported <ref type="bibr" target="#b15">(Greco et al, 1996;</ref><ref type="bibr" target="#b24">Mauer et al, 1998)</ref>.</p><p>Cisplatin causes a synergistic effect when given simultaneously with radiation both ex vivo and in vivo <ref type="bibr" target="#b1">(Alvarez et al, 1978;</ref><ref type="bibr" target="#b9">Dewit, 1987)</ref>. Docetaxel also shows a potential radiosensitising effect both ex vivo and in vivo <ref type="bibr" target="#b21">(Mason et al, 1997;</ref><ref type="bibr" target="#b6">Creane et al, 1999)</ref>. The combination of docetaxel and cisplatin shows additive effects in lung cancer cell lines <ref type="bibr" target="#b2">(Aoe et al, 1999)</ref>, and the antitumour spectrums of cisplatin and docetaxel on various lung cancer cell lines are completely different <ref type="bibr" target="#b23">(Matsushita et al, 1999)</ref>. In clinical trials, the docetaxel/cisplatin combination is one of the most active treatments of advanced NSCLC <ref type="bibr" target="#b30">(Rodriguez et al, 2001)</ref>. Moreover, patients with relapsed NSCLC treated with single-agent docetaxel had prolonged survival, even after receiving cisplatin-based chemotherapy previously <ref type="bibr" target="#b36">(Shepherd et al, 2000)</ref>. Studies demonstrated that a weekly administration schedule of docetaxel resulted in markedly reduced myelosuppression compared with every 3week administration <ref type="bibr" target="#b38">(Tomiak et al, 1994;</ref><ref type="bibr" target="#b16">Hainsworth et al, 1998)</ref>. Since the weekly schedule may improve therapeutic outcome by increasing the dose intensity of docetaxel while reducing bone marrow toxicity from concurrent radiation therapy, the divided schedule of docetaxel on days on 1, 8, 29, and 36 was also considered to have the same advantage.</p><p>Based on these concepts, this phase I/II study was conducted to evaluate the safety, toxicity, antitumour activity, and survival effects of chemotherapy consisting of docetaxel plus cisplatin given on days 1, 8, 29, and 36 and concurrent thoracic radiation therapy in patients with locally advanced NSCLC. We planned to administer both cisplatin and docetaxel in as high doses and as early as possible to pursue both local control and eradication of distant micrometastasis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eligibility criteria</head><p>Patients with histologically or cytologically confirmed NSCLC, unresectable stage IIIA or IIIB disease, were eligible for the study; however, those with T3N1 disease, malignant pleural effusion, pericardial effusion, or pleural dissemination were excluded. Other entry criteria included previously untreated disease, measurable lesion, Eastern Cooperative Oncology Group (ECOG) performance status (PS) <ref type="bibr" target="#b27">(Oken et al, 1982)</ref> p1, age p75 years, and no history of malignancy within 5 years of study. Before enrolment, each patient had a complete medical history and physical, laboratory, and staging assessments. The laboratory examinations consisted of complete blood cell count (CBC), serum chemistry and tumour marker analyses, 24-h creatinine clearance evaluation, arterial blood gas analysis, urinalysis, electrocardiogram, and pulmonary function tests. Staging work-up included chest plain radiographs, computed tomography (CT) scan of the chest and abdomen (ultrasonography of the abdomen could be substituted), magnetic resonance imaging of the brain, radionuclide bone scan, and bronchofiberscopy. Mediastinoscopy was not included in the staging work-up. A mediastinal lymph node X10 mm along the short axis by CT scan was defined as a metastatic lymph node (N2-3). Patients were required to have a white blood cell (WBC) count X4000 ml À1 , platelet (PLT) count X100,000 ml À1 , haemoglobin level X9 g dl À1 , serum bilirubin level p1.5 mg dl À1 , serum aspartate aminotransferase and alanine aminotransferase levels p2.5 times the upper normal limit, serum creatinine level p1.5 mg dl À1 , 24-h creatinine clearance level X60 ml min À1 , and arterial oxygen pressure (PaO 2 )X60 mmHg. Patients were excluded if they had markedly diminished vital capacity and/or forced expiratory volume in 1 s, any serious underlying diseases or complications, or were women who were pregnant, breast feeding, or of childbearing age. Written informed consent was obtained from all patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response and toxicity evaluations</head><p>For the evaluation of response and toxicity, all patients underwent a CBC and serum chemistry analysis two to three times a week, urinalysis, and chest plain radiograph at least weekly during the treatment and at least monthly thereafter; a CT scan of the chest was taken on days 22 and 50 and every 3 months for 2 years; examinations performed at staging work-up were repeated after the completion of treatment. Response was assessed by extramural reviewers using ECOG criteria <ref type="bibr" target="#b27">(Oken et al, 1982)</ref>. The response rate was determined on an 'intention-to-treat' basis. Toxicity was assessed and graded using ECOG common toxicity criteria <ref type="bibr" target="#b27">(Oken et al, 1982)</ref>. The grading of acute oesophageal and pulmonary toxicities due to radiation was in accordance with RTOG/European Organization for Research and Treatment of Cancer (EORTC) radiation acute toxicity criteria <ref type="bibr" target="#b5">(Cox et al, 1995)</ref>. Dose limiting toxicity (DLT) was defined as grade X3 haematologic toxicity lasting 3 days or longer, grade X3 radiation oesophagitis, or any nonhaematologic grade 3 or higher toxicities except hair loss and nausea/vomiting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phase I study</head><p>The primary end point of the phase I portion of the study was to determine the maximum-tolerated doses (MTDs) and the recommended doses (RDs) of docetaxel and cisplatin for the phase II study when combined with 60 Gy of concurrent thoracic radiation therapy for patients with locally advanced and surgically unresectable NSCLC.</p><p>Dose escalation scheme Dose levels of docetaxel and cisplatin are shown in Table <ref type="table" target="#tab_0">1</ref>. At least three patients were entered at each dose level. If a DLT occurred in two of three initial patients at a particular dose level, then three additional patients were treated at the same dose level to define the frequency of that toxicity. If three of three patients or at least four of six patients experienced the DLT, enrolment at this dose level was ceased, the dose level was determined as the MTD, and the preceding dose level was designated as the RD for the phase II study.</p><p>Treatment schedule and modifications The treatment scheme is shown in Figure <ref type="figure" target="#fig_0">1</ref>. Docetaxel was administered intravenously over 1 h followed by 1-h infusion of cisplatin before radiation therapy. Before and after cisplatin instillation, all patients received 2000 -2500 ml of normal saline and 5% glucose by infusion over 4 h. Prophylactic antiemetic therapy using 5-hydroxytriptamine type III receptor blocker and dexamethasone was given to all patients. Patients experiencing grade 3 granulocytopenia with infection or grade 4 leukopenia or granulocytopenia subsequently received </p><formula xml:id="formula_0">0 0 0 1 0 1 4 Principal toxicity a Oesophagitis G3 2 (2) b 1 (1) 2 (2) Liver G3 1 (1) Granulocytopenia G3 1 1(1) 1 4 (1) 2 (1) G4 2 (1) Anaemia G3 1 1 G4 1 1 Thrombocytopenia G3 1 (1)</formula><p>DLT ¼ dose-limiting toxicity; G3 ¼ grade 3; G4 ¼ grade 4. a Toxicity was assessed and graded using ECOG common toxicity criteria <ref type="bibr" target="#b27">(Oken et al, 1982)</ref>, and grading of acute oesophageal toxicity due to radiation was evaluated in accordance with RTOG/ EORTC radiation acute toxicity criteria <ref type="bibr" target="#b5">(Cox et al, 1995</ref>). b Number of patients with grade 3 or 4 toxicity (numbers in parentheses indicate number of patients with the DLT).</p><p>recombinant human granulocyte colony-stimulating factor (rhG-CSF: 2 mg kg À1 ) subcutaneously until leucocyte or neutrophil count recovered to X5000 ml À1 or X2000 ml À1 , respectively. Chemotherapy dose and schedule modifications for toxicity are shown in Table <ref type="table" target="#tab_2">2</ref>.</p><p>Radiation therapy was administered from day 1 of chemotherapy using a linear accelerator (6 -10 MeV), in 2 Gy single daily fractions for five consecutive days each week to a total dose of 60 Gy.</p><p>Treatment planning was constructed for a curative radiation field using chest plain radiograph and contrast-enhanced CT scan before concomitant chemoradiotherapy. Principally, the initial radiation field was planned not to exceed 50% of one lung. The initial dose (B40 Gy) was administered to the original volume that consisted of primary tumour including the movement area by respiration and the ipsilateral hilum with 2 cm margin, and all enlarged mediastinal lymph nodes (X10 mm along the short axis) detected by CT scan with 1 cm margin, extending inferiorly to 3 cm below the carina if subcarinal lymph nodes were involved. Other prophylactic radiation fields were not set up. The supraclavicular region was not routinely included if lymph nodes metastasis or primary tumour invasion was not detected. Subsequently, an additional 20 Gy dose was administered to the boost volume, including the sites of primary tumour and hilar/mediatinal lymph nodes according to the tumour and lymph nodes shrinkage determined by contrast-enhanced CT scan on day 29 or later. The original volume was treated with an anterior -posterior parallelopposed pair of portals, and the boost volume was treated with the same pair or with a pair of oblique fields if the cumulative radiation dose to the spinal cord exceeded 40 Gy. Radiation therapy dose and schedule modifications for toxicity are shown in Table <ref type="table" target="#tab_2">2</ref>.</p><p>The patients were carefully treated on an inpatient basis during the concomitant chemoradiotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phase II study</head><p>The primary end points of the phase II portion of the study were objective response rate and safety of this combined treatment modality at the RD level. The secondary end point was the 2-year survival rate. The same patient eligibility requirements, treatment schedules, dose and schedule modifications, and response and toxicity criteria as in the phase I portion of the study applied.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations</head><p>The sample size for the phase II study portion was calculated as 36 patients on the assumption that 70% of patients would respond, with a 95% confidence interval (CI) 7 15%. Assuming that 10% of patients would not be evaluable for response, the accrual goal was 42 patients, including those who received chemoradiotherapy at the RD level in the phase I portion of the trial. The survival time was defined as the period from initiation of treatment to death or last follow-up evaluation, and event-free survival was defined as the period from initiation of treatment to PD or death due to causes other than NSCLC. The survival and event-free survival curves were calculated using the Kaplan and Meier method.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>Between June 1997 and December 1999, 69 patients at Okayama University Hospital and 11 affiliated hospitals in Japan were enrolled in this phase I/II study. All patients had ECOG PS of 0 -1. In the phase I portion of the study, 33 patients were treated at one of eight dose levels (Table <ref type="table" target="#tab_0">1</ref>). The patients comprised 30 men and three women with a median age of 63 years (range, 29 -75 years). Fourteen (42%) patients had squamous cell carcinoma, 13 (39%) adenocarcinoma, three (9%) large-cell carcinoma, and three (9%) unclassified carcinoma. Nine (27%) patients had stage IIIA and 24 (73%) stage IIIB disease. Forty-two patients, including six who had received chemoradiotherapy at the RD level in phase I, were analysed in the phase II portion of the study (Table <ref type="table" target="#tab_3">3</ref>). Overall, 36 men and six women with a median age of 67 years (range, 29 -75 years) were included. Twenty-six (62%) patients had squamous cell carcinoma, 12 (29%) adenocarcinoma, and four (10%) unclassified carcinoma. Eight (19%) patients had stage IIIA and   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phase I study</head><p>Dose escalation and toxicity The dose-escalation scheme and principal toxicities observed in the phase I portion of the study are summarised in Table <ref type="table" target="#tab_0">1</ref>. At the first dose level, two of the initial three patients developed grade 3 radiation oesophagitis that lasted for 19 and 8 days, respectively, and one of the two patients had grade 3 hepatic toxicity. None of three additional patients treated at the first dose level developed DLT. At dose level 5, one patient encountered grade 3 granulocytopenia on day 72, which continued to day 82. Although six patients were enrolled at dose level 7 for the safety, only one patient experienced DLT (grade 3 radiation oesophagitis and grade 3 granulocytopenia). Four of six patients at dose level 8 developed DLT (two with grade 3 radiation oesophagitis, one each with grade 4 granulocytopenia, and grade 3 granulocytopenia and thrombocytopenia). The MTD was determined to be dose level 8 (docetaxel 45 mg m À2 , cisplatin 40 mg m À2 ), and dose level 7 (docetaxel 40 mg m À2 , cisplatin 40 mg m À2 ) was adopted as the RD for the phase II study.</p><p>Response and survival Among 33 entered patients, one (3%) had complete response (CR), 22 (67%) had partial response (PR), eight (24%) had no change (NC), and one (3%) had progressive disease (PD), for an overall response rate of 70% (95% CI, 55 -85%). Overall and event-free survival curves for the 33 patients are shown in Figure <ref type="figure" target="#fig_2">2A</ref>. At a median follow-up time of 39 months (range, 32 -51 months), 21 (64%) patients had died and 12 (36%) were still alive without disease. The causes of death were directly related to NSCLC in 20 patients and unrelated in one (suicide).</p><p>Overall survival rates at 1, 2, and 3 years were 76, 49, and 36%, respectively. The median survival time was 24 months. Event-free survival rates (mean) at 1, 2, and 3 years were 39, 36, and 36%, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phase II study</head><p>Response and survival Responses in 42 patients entered in the phase II portion of the study were CR in one (2%), PR in 32 (76%), NC in eight (19%), and PD in one (2%), for an overall response rate of 79% (95% CI, 66 -91%). Figure <ref type="figure" target="#fig_2">2B</ref> shows overall survival for the 42 patients. At a median follow-up time of 26 months (range, 21 -36 months), 20 (48%) patients had died and 22 (52%) were still alive. The causes of death were directly related to NSCLC in 19 patients and pneumonia and radiation pneumonitis in one. Overall survival rates (mean) at 1 and 2 years were 76 and 54%, respectively. The median survival time was 23.4 þ months. Eventfree survival rates at 1 and 2 years were 55 and 38%, respectively.</p><p>Toxicity Toxicities observed in 42 patients during treatment and follow-up are listed in Tables <ref type="table" target="#tab_4">4</ref> and <ref type="table" target="#tab_5">5</ref>. The most common toxicity was leukopenia, which often occurred in conjunction with granulocytopenia. Grade X3 leukopenia and granulocytopenia occurred in 30 (71%) and 25 (60%) patients, respectively. Recombinant human granulocyte colony stimulating factor was administered to 18 (43%) patients for a median duration of 4 days (range, 1 -10 days). Grade X3 thrombocytopenia and anaemia occurred in 10 (24%) and three (7%) patients, respectively. Grade X3 radiation oesophagitis, radiation pneumonitis, hepatic dysfunction, and diarrhoea occurred in eight (19%), two (5%), one (2%), and three (7%) patients, respectively. The median WBC count nadir in eight patients with grade X3 radiation oesophagitis was 1150 ml À1 (range, 500 -2300 ml À1 ); grade X3 leukopenia also occurred in 88% of these eight patients. Overall, 32 (76%) patients experienced any grade X3 toxicity (haematologic only, 45%; nonhaematologic only, 5%; both, 26%). At day 102 from the beginning of radiation therapy, one patient died of pneumonia and radiation pneumonitis. This patient was admitted to a local hospital because of acute respiratory failure, was treated as pneumonia, but died within a week. Autopsy was not carried out.</p><p>Initial relapse site Nineteen patients were evaluable for sites of initial relapse in the phase II portion. The primary site was the first  site of failure in nine patients (nine without and one with distant metastasis). Distant metastasis was the first site of the failure in 10 patients. Failure sites were as follows: lung (n ¼ 3), adrenal gland (n ¼ 2), bone (n ¼ 2), penis (n ¼ 1), brain (n ¼ 1), and skin (n ¼ 1).</p><p>Completion of therapy As shown in Table <ref type="table" target="#tab_6">6</ref>, 36 of 42 (86%) patients completed chemotherapy as planned. One patient skipped chemotherapy only on day 8. Doses of cisplatin and docetaxel were reduced in two (5%) and seven (17%) patients, respectively. Reasons for not completing chemotherapy were toxicity (n ¼ 3), patient refusal (n ¼ 1), or physician discretion (n ¼ 2). The median interval (range) between chemotherapy courses 1 and 2, courses 2 and 3, and courses 3 and 4 were 7 days (7 -12 days), 21 days (21 -51 days), and 7 days (7 -33 days), respectively. Ratios of actual to projected doses of cisplatin and docetaxel were 96 and 95%, respectively. As shown in Table <ref type="table" target="#tab_7">7</ref>, 28 (67%) and 24 (57%) patients were able to receive chemotherapy on time on days 29 and 36, respectively. On day 43 or later, 13 (31%) patients received cycles 3 and/or 4 of chemotherapy with or without concurrent radiotherapy. Accordingly, the actual dose intensities of cisplatin and docetaxel were 87 and 86%, respectively. A total of 36 (86%) patients completed radiation therapy (Table <ref type="table" target="#tab_8">8</ref>); however, eight (19%) required a rest from radiation (median, 10 days; range, 4 -28 days) due to granulocytopenia (n ¼ 6), radiation oesophagitis (n ¼ 1), and granulocytopenia plus oesophagitis (n ¼ 1). Reasons for not completing radiation therapy were radiation oesophagitis (n ¼ 3), radiation pneumonitis (n ¼ 1), patient refusal (n ¼ 1), or physician discretion (n ¼ 1). The total mean radiation doses and durations were 57.2 Gy and 45.6 days, respectively. Overall, 57% of 42 patients completed both chemotherapy and radiation therapy without any modifications according to the protocol. Three (7%) patients who achieved PR (determined by CT scan) after completing chemoradiotherapy underwent surgery, although this was not part of the study protocol. Postsurgically, two patients with T4N2 disease were downstaged to a pathological CR and pT1N0 disease, and one patient with T2N2 disease still had pT1N2 disease. Microscopic assessment of pT1N0 and pT1N2 tumour samples demonstrated only a few scattered viable tumour cells in necrotic tissue of a primary tumour and/or a mediastinal lymph node. These three patients were still alive without recurrence at the last follow-up evaluation <ref type="bibr">(25, 27, and 36 months, respectively)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>This phase I/II study demonstrated encouraging results with concomitant chemoradiotherapy using cisplatin and docetaxel in patients with advanced NSCLC. In the phase I portion of the study, the maximum tolerated chemotherapy doses were determined to be docetaxel 45 mg m À2 and cisplatin 40 mg m À2 . The most common DLTs were radiation oesophagitis and myelosuppression. Recommended doses for the phase II study were docetaxel 40 mg m À2 and cisplatin 40 mg m À2 . In the phase II portion of the study, 79% of patients responded to concomitant chemoradiotherapy with cisplatin and docetaxel, with a median survival time 423 months, and survival rates of 76% at 1 year and 54% at 2 years.</p><p>One reason for the favourable results may be the dose intensities of cisplatin and docetaxel achieved in this trial. The doses of docetaxel and cisplatin with concurrent standard radiotherapy (60 Gy in 6 weeks) were escalated more than we expected in the phase I portion. We did not plan dose levels 6 -8 at the beginning of this trial, because standard doses without concurrent thoracic radiation therapy in Japan were docetaxel 60 mg m À2 and cisplatin 80 mg m À2 at a 3-week interval <ref type="bibr" target="#b17">(Kubota et al, 2002)</ref>, which corresponded to docetaxel 30 mg m À2 and cisplatin 40 mg m À2 on days 1 and 8 at dose level 5. In the phase II portion, the projected dose intensity of both cisplatin and docetaxel in combination with 60 Gy standard thoracic radiation therapy was 27 mg m À2 week À1 , which was comparable to full doses of docetaxel and cisplatin at a 3-week interval <ref type="bibr" target="#b44">(Zalcberg et al, 1998)</ref>. This study demonstrated that the divided schedule could result in similar dose intensities as a weekly schedule. Thus, chemotherapy doses with concomitant chemoradiotherapy in the current trial were similar to or higher than those in the previous phase II trials that did not include concurrent thoracic radiotherapy.</p><p>Another advantage of the present regimen is the flexibility of the treatment schedule. To reduce toxicity, we often use the divided schedule on days 1 and 8 as previously reported <ref type="bibr" target="#b39">(Ueoka et al, 1998</ref><ref type="bibr" target="#b40">(Ueoka et al, , 1999</ref><ref type="bibr" target="#b41">(Ueoka et al, , 2001;;</ref><ref type="bibr" target="#b8">Date et al, 2002)</ref>. We conducted a previous, unsuccessful dose-escalation trial of cisplatin/etoposide chemotherapy in a divided schedule with concurrent thoracic radiation therapy <ref type="bibr" target="#b34">(Segawa et al, 2003)</ref>. In that trial, we strictly fixed the chemotherapy administration on days 29 and 36, and dose and schedule modifications were inhibited on days 29 and 36. Based on that failure, this protocol included the flexible dose and schedule modifications. Accordingly, chemotherapy could be fully administered on days 1 and 8 to all except one patient. On days 29, 36, or later, dosing was individualised according to the prescribed dose and schedule modifications.</p><p>Toxicity, although significant, was tolerable according to the dose and schedule modifications of the protocol. In the phase II portion of the study, 76% of 42 patients experienced any grade X3 toxicity, most commonly grade X3 granulocytopenia. However, 57% of 42 patients completed both chemotherapy and radiation therapy without any modifications, and 88% of 42 patients were able to complete the planned chemotherapy and 86% completed radiation therapy according to dose and schedule modifications of the protocol. The dose modifications of chemotherapy based on haematogic toxicity were carried out on days 8, 29, and 36. Leukopenia/granulocytopenia is transient and easily controlled by rhG-CSF, and life-threatening infections or treatment-related Haematologic toxicity was assessed and graded using ECOG common toxicity criteria <ref type="bibr" target="#b27">(Oken et al, 1982)</ref>. Nonhaematologic toxicity was assessed and graded using ECOG common toxicity criteria <ref type="bibr" target="#b27">(Oken et al, 1982)</ref>, and grading of acute oesophageal and pulmonary toxicities due to radiation was in accordance with RTOG/EORTC radiation acute toxicity criteria <ref type="bibr" target="#b5">(Cox et al, 1995)</ref>.</p><p>British Journal of Cancer ( <ref type="formula">2003</ref>) 89( <ref type="formula">5</ref>), 795 -802 &amp; 2003 Cancer Research UK Clinical deaths by acute toxicity were not experienced. Grade X3 radiation oesophagitis occurred in 19% of patients, which was comparable to that occurring with other concomitant chemoradiotherapy regimens (e.g., 20% with cisplatin and etoposide <ref type="bibr" target="#b0">(Albain et al, 2002)</ref>, 26% with cisplatin and paclitaxel <ref type="bibr" target="#b29">(Robert et al, 2002)</ref>, and 46% with carboplatin and paclitaxel <ref type="bibr" target="#b4">(Choy et al, 1998)</ref>). We have observed a low incidence of grade X3 radiation pneumonitis among patients analysed at a median follow-up time of 26 months in the phase II portion. When paclitaxel/cisplatin was combined with concurrent radiation therapy, 20% of grade X3 late lung toxicity including 8% of grade 5 was reported <ref type="bibr" target="#b29">(Robert et al, 2002)</ref>. Mauer also reported two cases (7%) of grade 5 pulmonary toxicity using docetaxel with concurrent radiotherapy. In our trial, the incidence of grade X3 radiation pneumonitis is low. Although careful follow-up for late radiation pneumonitis is needed, there was no additional grade X3 radiation pneumonitis in April 2003.</p><p>Chemotherapy was postponed or skipped on day 29 in 33% of the patients and on day 36 in 43% of patients, although the real/ projected doses of cisplatin and docetaxel were 96 and 95%, respectively. Radiation treatment delays were observed in 19% of patients, and 14% did not complete radiation therapy. While treatment compliance is very important, a goal of chemoradiotherapy for locally advanced NSCLS is cure. We increased the chemotherapy doses to the limit, even if that slightly decreased compliance to radiotherapy. In this study, dose and schedule modifications worked very well, and there was no acute treatmentrelated death.</p><p>According to the current phase II trials, concomitant chemoradiotherapy is required to attain median survival time exceeding 17 months, survival rates X65% at 1 year and X35 % at 2 years, and p50% grade 3/4 toxicity in stage III NSCLC <ref type="bibr" target="#b14">(Gandara et al, 2001)</ref>. Survival has to be balanced against toxicity and compliance. The current trial succeeds in achieving satisfactory 1-year and 2year survival rates, whereas improvements are needed in reducing toxicities and enhancing compliance in the future.</p><p>Recently, the Southwest Oncology Group (SWOG) trial 9504 evaluated docetaxel as consolidation therapy after full-dose cisplatin and etoposide with concurrent radiotherapy <ref type="bibr" target="#b14">(Gandara et al, 2001)</ref>. The updated results were very impressive, with a 26-month median survival time and survival rates of 76% at 1 year and 53% at 2 years, although patients with pathological stage IIIB disease were enrolled. Direct comparison of the results is very difficult, because our study included eight (19%) patients with stage IIIA disease in the phase II portion and excluded minimal pathological N2 or N3 disease by mediastinoscopy. The treatment period of our schedule was shorter by at least 9 weeks compared with that in SWOG 9504. For the patients with stage III disease who receive adjuvant surgery, the shorter treatment period might have an advantage.</p><p>Many clinical trials are now assessing combinations of taxanes, platinums, and concurrent radiotherapy for patients with locally advanced NSCLC. <ref type="bibr" target="#b11">Frasci et al (1997)</ref> suggested that weekly cisplatin/paclitaxel could be safely administered with concurrent standard radiotherapy. <ref type="bibr" target="#b29">Robert et al (2002)</ref> reported the feasibility of cisplatin/paclitaxel and conventional radiation therapy. <ref type="bibr" target="#b43">Wu et al (2002)</ref> reported that the RDs of docetaxel and cisplatin administered weekly with concurrent radiotherapy were both 20 mg m À2 . Choy et al (1998) reported a phase II study of weekly paclitaxel (50 mg m À2 ) and carboplatin at area under the curve 2 with concurrent radiation therapy.</p><p>It is very difficult to select the ideal drugs for concurrent radiotherapy. We prefer to use cisplatin in a concomitant chemoradiotherapy regimen when we pursue the CR. First, Schaake-Koning et al (1992) demonstrated that daily cisplatin acted as a radiosensitiser in a phase III trial as well as in ex vivo and in vivo experiments. Second, although a Hoosier Oncology   Group study reported that cisplatin administered every 3 weeks and concurrent radiotherapy did not improve overall survival, the data indicated possible improved long-term survival with concomitant chemoradiotherapy <ref type="bibr" target="#b3">(Blanke et al, 1995)</ref>. Patients treated with the combination therapy had 3-and 5-year survival rates of 9 and 5%, respectively, whereas the rates were 3 and 2% with radiation alone. Recent results from a large, international phase III trial comparing docetaxel/cisplatin, docetaxel/carboplatin, and vinorelbine/cisplatin seem to favour the docetaxel/cisplatin combination even in patients with advanced NSCLC <ref type="bibr" target="#b30">(Rodriguez et al, 2001)</ref>. Moreover, paclitaxel/cisplatin has shown significantly longer median survival when compared to paclitaxel/carboplatin <ref type="bibr" target="#b31">(Rosell et al, 2002)</ref>.</p><p>Taxanes are also very attractive drugs for concomitant chemoradiotherapy. Taxanes are known to enhance radiation sensitivity of tumour cells through processes including the following: (1) reoxygenation of hypoxic cells within the tumour, since taxane-killed cells are removed by apoptosis <ref type="bibr" target="#b25">(Milas et al, 1995)</ref>, (2) arrest of cells in both G 2 and M phases, the most radiation-sensitive phases of the cell cycle <ref type="bibr" target="#b37">(Tishler et al, 1992)</ref>, and (3) mobilisation of T cells and natural killer cells to the tumour <ref type="bibr" target="#b22">(Mason et al, 2001)</ref>. Although the majority of studies including taxanes have assessed paclitaxel, radiosensitisation with docetaxel has also been demonstrated both ex vivo and in vivo. <ref type="bibr" target="#b21">(Mason et al, 1997;</ref><ref type="bibr" target="#b6">Creane et al, 1999)</ref> Moreover, docetaxel combined with radiation showed a synergistic or additive effect in NSCLC cell lines tested both ex vivo and in vivo <ref type="bibr" target="#b26">(Nishizaki et al, 2001)</ref>. In a clinical trial of docetaxel used weekly at the MTD, no grade 4 myelosuppression or peripheral neuropathy was observed <ref type="bibr" target="#b16">(Hainsworth et al, 1998)</ref>. The divided schedule might also prove advantageous when combined with cisplatin and concurrent radiotherapy based on nonoverlapping toxicities like a weekly schedule of docetaxel.</p><p>There is no evidence of the superiority of concomitant chemoradiotherapy using new drugs (taxanes, vinorelbine)/cisplatin as compared with the older standard, full-dose, cisplatin-based chemotherapy. Our group is now conducting a phase III trial of docetaxel/cisplatin vs mitomycin/vindesine/cisplatin with concurrent thoracic radiotherapy.</p><p>In conclusion, a regimen comprising cisplatin, docetaxel, and radiation is an exciting approach in the treatment of locally advanced NSCLC. The results of our study showed that chemotherapy consisting of cisplatin and docetaxel given on days 1, 8, 29, and 36 with concurrent radiation therapy might be the effective treatment modality in patients with locally advanced NSCLC.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Treatment scheme of the phase I/II study of concurrent chemoradiotherapy with cisplatin and docetaxel in patients with advanced NSCLC. The arrow indicates shrinkage of the radiation field at a total dose of 40 Gy.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Concomitant chemoradiotherapy for NSCLC British Journal of Cancer (2003) 89(5), 795 -802 &amp; 2003 Cancer Research UK Clinical 34 (81%) had stage IIIB disease including three (7%) with swelling of supraclavicular lymph nodes. Five (12%) patients had 5% or more weight loss within 6 months.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2</head><label>2</label><figDesc>Figure 2 (A) Overall (solid line) and event-free (dotted line) survival for 33 patients with locally advanced NSCLC in the phase I portion of the study. (B) Overall (solid line) and event-free (dotted line) survival for 42 patients with locally advanced NSCLC in the phase II portion of the study. Censored cases are denoted by tics.</figDesc><graphic coords="4,51.33,332.46,236.08,257.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Dose-escalation scheme and principal toxicities in the phase I portion of the trial (n ¼ 33)</figDesc><table><row><cell>Dose level</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>6</cell><cell>7</cell><cell>8</cell></row><row><cell>Docetaxel (mg m À2 )</cell><cell>20</cell><cell cols="4">25 30 30 30</cell><cell cols="2">35 40</cell><cell>45</cell></row><row><cell>Cisplatin (mg m À2 )</cell><cell>30</cell><cell cols="4">30 30 35 40</cell><cell cols="2">40 40</cell><cell>40</cell></row><row><cell>No. of patients</cell><cell>6</cell><cell>3</cell><cell>3</cell><cell>3</cell><cell>3</cell><cell>3</cell><cell>6</cell><cell>6</cell></row><row><cell>No. of DLTs</cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Chemotherapy and radiotherapy dose and schedule modifications for toxicity aRadiation discontinued and rhG-CSF (2 mg kg À1 ) administered until leucocyte count X5000 ml À1 or neutrophil count X2000 ml À1 Grade X3 thrombocytopenia Radiation withheld until platelet count X25 000 ml À1</figDesc><table><row><cell>Toxicity</cell></row></table><note><p>a Chemotherapy and radiotherapy were discontinued if toxicities did not resolve within 12 weeks.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Patient characteristics (phase II portion)</figDesc><table><row><cell>No. of patients</cell></row></table><note><p>ECOG ¼ Eastern Corporative Oncology Group; PS ¼ performance status.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4</head><label>4</label><figDesc>Haematologic toxicities (phase II portion) (n ¼ 42)</figDesc><table><row><cell></cell><cell></cell><cell cols="3">No. of patients with grade</cell><cell></cell><cell></cell></row><row><cell></cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>% of toxicities</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>grade X3</cell></row><row><cell>Leukopenia</cell><cell>0</cell><cell>2</cell><cell>10</cell><cell>24</cell><cell>6</cell><cell>71</cell></row><row><cell>Granulocytopenia</cell><cell>2</cell><cell>3</cell><cell>12</cell><cell>18</cell><cell>7</cell><cell>60</cell></row><row><cell>Anaemia</cell><cell>1</cell><cell>12</cell><cell>19</cell><cell>9</cell><cell>1</cell><cell>24</cell></row><row><cell>Thrombocytopenia</cell><cell>35</cell><cell>2</cell><cell>2</cell><cell>3</cell><cell>0</cell><cell>7</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5</head><label>5</label><figDesc>Nonhaematologic toxicities (phase II portion) (n ¼ 42)</figDesc><table><row><cell></cell><cell></cell><cell cols="4">No. of patients with grade</cell><cell></cell><cell></cell></row><row><cell></cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>%o ftoxicities</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>grade X3</cell></row><row><cell>Nausea/vomiting</cell><cell>9</cell><cell>13</cell><cell>15</cell><cell>5</cell><cell>0</cell><cell>0</cell><cell>11.9</cell></row><row><cell>Diarrhoea</cell><cell>28</cell><cell>6</cell><cell>5</cell><cell>2</cell><cell>1</cell><cell>0</cell><cell>7.1</cell></row><row><cell>Stomatitis</cell><cell>37</cell><cell>4</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>2.4</cell></row><row><cell>Neurologic</cell><cell>40</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Liver</cell><cell>38</cell><cell>1</cell><cell>2</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>2.4</cell></row><row><cell cols="2">Renal dysfunction 41</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Fever</cell><cell>36</cell><cell>1</cell><cell>5</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Alopecia</cell><cell>2</cell><cell>28</cell><cell>12</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>Oesophagitis</cell><cell>13</cell><cell>12</cell><cell>9</cell><cell>7</cell><cell>1</cell><cell>0</cell><cell>19.0</cell></row><row><cell>Pneumonitis</cell><cell>38</cell><cell>3</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>1</cell><cell>4.8</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 6</head><label>6</label><figDesc>Chemotherapy dose intensityIndicates administered dose per time unit/projected dose per time unit (mean7s.d.). b One patient skipped chemotherapy only on day 8.</figDesc><table><row><cell></cell><cell cols="2">Chemotherapy (cycle no.)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. 1</cell><cell>No. 2</cell><cell>No. 3</cell><cell>No. 4</cell><cell>All</cell><cell>Dose intensity a</cell></row></table><note><p>a</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 7</head><label>7</label><figDesc>Schedule of chemotherapy compliance</figDesc><table><row><cell></cell><cell></cell><cell cols="3">Days from the beginning of</cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="3">concomitant chemoradiotherapy</cell><cell></cell></row><row><cell></cell><cell>Cycle No. 1</cell><cell>No. 2</cell><cell>No. 3</cell><cell>No. 4</cell><cell>No. 3 and/or</cell></row><row><cell></cell><cell>(on day 1)</cell><cell>(on day 8)</cell><cell>(on day 29)</cell><cell>(on day 36)</cell><cell>No. 4 (on day</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>43 or later)</cell></row><row><cell>No. of patients administered (%)</cell><cell>42 (100)</cell><cell>41 (98)</cell><cell>28 (67)</cell><cell>24 (57)</cell><cell>13 (31)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 8</head><label>8</label><figDesc>Compliance with radiotherapy</figDesc><table><row><cell>Thoracic radiation therapy</cell><cell>No. (%) of patients</cell></row><row><cell>Completed</cell><cell>36 (86)</cell></row><row><cell>without rest period</cell><cell>28 (67)</cell></row><row><cell>with rest period</cell><cell>8 (19)</cell></row><row><cell>Not completed</cell><cell>6 (14)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2003) 89(5), 795 -802 &amp; 2003 Cancer Research UK</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (2003) 89(5), 795 -802 &amp; 2003 Cancer Research UK Clinical</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>We thank <rs type="person">Drs Masaaki Kataoka</rs> (<rs type="affiliation">National Shikoku Cancer Center Hospital</rs>), <rs type="person">Noriko Kanzaki</rs> (<rs type="affiliation">National South Okayama Hospital</rs>), <rs type="person">Hidehiro Hayashi</rs> (<rs type="affiliation">Okayama Red Cross Hospital</rs>), and <rs type="person">Katsuyoshi Sakae</rs> (<rs type="affiliation">National Sanyo Hospital</rs>) for their collaborations as radiation oncologists.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Concurrent cisplatin, etoposide, and chest radiotherapy in pathological stage IIIB non-smallcell lung cancer: a Southwest Oncology Group Phase II study, SWOG 9019</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Albain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Crowley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iii</forename><surname>Turrisi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>At</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Gandara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Farrar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Beasley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Livingston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="3454" to="3460" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Studies on cisdichloro diammineplatinum (II) as a radiosensitizer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Alvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cobreros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lopez</forename><surname>Zumel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename></persName>
+		</author>
+		<idno>): S68 -S72</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Effect of docetaxel with cisplatin or vinorelbine on lung cancer cell lines</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Aoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kiura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chikamori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Matsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kohara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1A</biblScope>
+			<biblScope unit="page" from="291" to="299" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase III trial of thoracic irradiation with or without cisplatin for locally advanced unresectable non-small-cell lung cancer: a Hoosier Oncology Group protocol</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blanke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ansari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mantravadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gonin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tokars</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pennington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rynard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Einhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1425" to="1429" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Multiinstitutional phase II trial of paclitaxel, carboplatin, and concurrent radiation therapy for locally advanced non-small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Choy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Akerley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Safran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Graziano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="3316" to="3322" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Toxicity criteria of the Radiation Therapy Oncology Group (RTOG) and the European Organization for Research and Treatment of Cancer (EORTC)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Pajak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1341" to="1346" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Radiobiological effects of docetaxel (Taxotere): a potential radiation sensitizer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Creane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Colucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mothersill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Biol</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="731" to="737" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Phase III comparison of sequential vs concurrent chemoradiation for patients (pts) with unresected stage III non-small cell lung cancer (NSCLC): initial report of Radiation Therapy Oncology Group (RTOG) 9410</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Curran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Langer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Komaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Movsas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Byhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">484</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>Abstr</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Preoperative induction chemotherapy with cisplatin and irinotecan for pathological N(2) non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Date</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kiura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Andou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shibayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shimizu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="530" to="533" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Combined treatment of radiation and cisdiamminedichloroplatinum (II): a review of experimental and clinical data</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dewit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="403" to="426" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Improved survival in stage III non-small-cell lung cancer: seven-year follow-up of cancer and leukemia group B (CALGB) 8433 trial</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Dillman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Herndon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Seagren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eaton</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="1210" to="1215" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Weekly paclitaxel and cisplatin with concurrent radiotherapy in locally advanced non-small-cell lung cancer: a phase I study</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Frasci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Comella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Scoppa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Guida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gravina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fiore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Casaretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Daponte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Parziale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Comella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1409" to="1417" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Phase III study of concurrent versus sequential thoracic radiotherapy in combination with mitomycin, vindesine, and cisplatin in unresectable stage III non-small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Furuse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fukuoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kawahara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nishikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Takada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kudoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Katagami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ariyoshi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="2692" to="2699" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">An update on European randomized studies in non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Giaccone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Manegold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Gatzemeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Quoix</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="11" to="17" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Integration of new chemotherapeutic agents into chemoradiotherapy for stage III non-small cell lung cancer: focus on docetaxel</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Gandara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lara</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">Suppl 9</biblScope>
+			<biblScope unit="page" from="26" to="S32" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Paclitaxel in combination chemotherapy with radiotherapy in patients with unresectable stage III non-small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Greco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Stroup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1642" to="1648" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Phase I trial of docetaxel administered by weekly infusion in patients with advanced refractory cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Erland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Greco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="2164" to="2168" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Final results of a randomized phase III trial of docetaxel and cisplatin versus vindesine and cisplatin in stage IV non-small cell lung cancer (NSCLC)</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kubota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kunitoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Noda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ichinose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Katakami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sugiura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kawahara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yokoyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Nishiwaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ohashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Niitani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">296</biblScope>
+			<date type="published" when="1180">2002. Abstr 1180</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Concurrent chemoradiation therapy with oral etoposide and cisplatin for locally advanced inoperable non-small-cell lung cancer: Radiation Therapy Oncology Group Protocol 91-06</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Komaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Dundas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Byhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Curran</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1055" to="1064" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Research UK Clinical</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="795" to="802" />
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+	<note>British Journal of Cancer</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Randomized trials of radiotherapy alone versus combined chemotherapy and radiotherapy in stages IIIa and IIIb non small cell lung cancer. A meta analysis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Preatoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cantoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="593" to="601" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Docetaxel enhances tumor radioresponse in vivo</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Milas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Abbruzzese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Milas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="2431" to="2438" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Enhancement of tumor radioresponse by docetaxel: involvement of immune system</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Staab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mcbride</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Terry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Milas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="599" to="606" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Establishment of a drug sensitivity panel using human lung cancer cell lines</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Matsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kiura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shibayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Aoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kohara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Med Okayama</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="67" to="75" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Phase I study of docetaxel with concomitant thoracic radiation therapy</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Masters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Haraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Golomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Vokes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="159" to="164" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Role of reoxygenation in induction of enhancement of tumor radioresponse by paclitaxel</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Milas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Abbruzzese</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="3564" to="3568" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Synergistic inhibition of human lung cancer cell growth by adenovirus-mediated wild-type p53 gene transfer in combination with docetaxel and radiation therapeutics in vitro and in vivo</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishizaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Meyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Atkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ji</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="2887" to="2897" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Toxicity and response criteria of the Eastern Cooperative Oncology Group</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Oken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Creech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Tormey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Horton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Mcfadden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Carbone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="649" to="655" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Concurrent cisplatin, etoposide, and radiotherapy for unresectable stage III nonsmall cell lung cancer: a phase II study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Reboul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vincent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chauvet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Faure</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Taulelle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="343" to="350" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Concurrent chemoradiation therapy with cisplatin and paclitaxel for locally advanced non-small cell lung cancer: long-term follow-up of a phase I trial</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iii</forename><surname>Childs</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Meredith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Carey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="189" to="199" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Multicenter, randomized phase III study of docetaxel+cisplatin (DC) and docetaxel+carboplatin (DCB) vs. vinorelbine+cisplatin (VC) in chemotherapy-naive patients with advanced and metastatic non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pawel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pluzanska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gorbounova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kaukel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mattson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Millward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gamza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Berille</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Belani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">314</biblScope>
+			<date type="published" when="1252">2001. Abstr 1252</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Phase III randomised trial comparing paclitaxel/carboplatin with paclitaxel/cisplatin in patients with advanced non-small-cell lung cancer: a cooperative multinational trial</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Gatzemeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Betticher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Keppler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Macha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pirker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Berthet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Breau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lianes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nicholson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ardizzoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chemaissani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bogaerts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gallant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1539" to="1549" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Final results of phase III trial in regionally advanced unresectable nonsmall cell lung cancer: Radiation Therapy Oncology Group</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kolesar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iv</forename><forename type="middle">S</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Livingston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Komaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Emami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Curran</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Byhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Turrisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iii</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chest</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="358" to="364" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>Eastern Cooperative Oncology Group, and Southwest Oncology Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Effects of concomitant cisplatin and radiotherapy on Inoperable non-small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schaake-Koning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Van Den Bogaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Dalesio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Festen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hoogenhout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Van Houtte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kirkpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koolen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Maat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nijs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">326</biblScope>
+			<biblScope unit="page" from="524" to="530" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Phase I/II study of altered schedule of cisplatin and etoposide administration and concurrent accelerated hyperfractionated thoracic radiotherapy for limited-stage small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Segawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kiura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Takigawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hiraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yonci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Moritaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hiraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tanimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hatada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="13" to="20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A phase II study of cisplatin and 5-fluorouracil with concurrent hyperfractionated thoracic radiation for locally advanced non-small-cell lung cancer: a preliminary report from the Okayama Lung Cancer Study Group</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Segawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kiura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kamei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sakae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hiraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kawahara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hiraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="104" to="111" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Prospective randomized trial of docetaxel versus best supportive care in patients with non-small-cell lung cancer previously treated with platinum-based chemotherapy</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dancey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ramlau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mattson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gralla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'rourke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gressot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vincent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Coughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Berille</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2095" to="2103" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Taxol sensitizes human astrocytoma cells to radiation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Tishler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Geard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Schiff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="3495" to="3497" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Phase I study of docetaxel administered as a 1-hour intravenous infusion on a weekly basis</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tomiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Piccart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Awada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>De Valeriola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ravoet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lossignol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Sculier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Auzannet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bayssas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Klastersky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1458" to="1467" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">A randomized trial of hybrid administration of cyclophosphamide-adriamycin-vincristine (CAV)/cisplatin-etoposide versus sequential administration of CAV-PVP for the treatment of small-cell lung cancer: results of long term follow-up</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kiura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kamei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gemba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sakae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hiraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hiraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Segawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="283" to="290" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Fractionated administration of irinotecan and cisplatin for treatment of lung cancer: a phase I study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kiura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shibayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gemba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Segawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chikamori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yonei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hiraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">5/6</biblScope>
+			<biblScope unit="page" from="984" to="990" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Fractionated administration of irinotecan and cisplatin for treatment of non-small-cell lung cancer: a phase II study of Okayama Lung Cancer Study Group</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ueoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tanimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kiura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Takigawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Segawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Takata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Okimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Harita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kamei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shibayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hiraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="13" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Staging of non-small cell lung cancer: consensus, controversies and challenges</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Van Meerbeeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="95" to="S107" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Phase I study of weekly docetaxel and cisplatin concurrent with thoracic radiotherapy in stage III non-small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Suh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="75" to="80" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Phase II study of docetaxel and cisplatin in advanced non-smallcell lung cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zalcberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Millward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mckeage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zimet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Toner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Friedlander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Barter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rischin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Loret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bougan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Berille</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1948" to="1953" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

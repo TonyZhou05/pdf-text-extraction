@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I-II study of biweekly paclitaxel administration with fixed-dose-rate cisplatin in advanced gastric cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Kensei</forename><surname>Yamaguchi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastroenterology</orgName>
+								<orgName type="institution">Saitama Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>Komuro 818 Ina-machi</addrLine>
+									<postCode>362-0806</postCode>
+									<settlement>Saitama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tomotaka</forename><surname>Shimamura</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastroenterology</orgName>
+								<orgName type="institution">Saitama Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>Komuro 818 Ina-machi</addrLine>
+									<postCode>362-0806</postCode>
+									<settlement>Saitama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yoshito</forename><surname>Komatsu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Third Department of Internal Medicine</orgName>
+								<orgName type="institution">Hokkaido University School of Medicine</orgName>
+								<address>
+									<settlement>Sapporo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Akinori</forename><surname>Takagane</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">First Department of Surgery</orgName>
+								<orgName type="institution">Iwate Medical University</orgName>
+								<address>
+									<settlement>Morioka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Takashi</forename><surname>Yoshioka</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Soh</forename><surname>Saitoh</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Gastroenterology</orgName>
+								<orgName type="institution">Aomori Prefectural Central Hospital</orgName>
+								<address>
+									<settlement>Aomori</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Masaki</forename><surname>Munakata</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">Misawa Municipal Hospital</orgName>
+								<address>
+									<settlement>Misawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yu</forename><surname>Sakata</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">Misawa Municipal Hospital</orgName>
+								<address>
+									<settlement>Misawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tsukasa</forename><surname>Sato</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Gastroenterology</orgName>
+								<orgName type="institution">Yamagata Prefectural Kahoku Hospital</orgName>
+								<address>
+									<settlement>Yamagata</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tatsuhiro</forename><surname>Arai</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution">Tochigi Cancer Center Hospital</orgName>
+								<address>
+									<settlement>Utsunomiya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hiroshi</forename><surname>Saitoh</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Gastroenterology</orgName>
+								<orgName type="institution">Yamagata Prefectural Central Hospital</orgName>
+								<address>
+									<settlement>Yamagata</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">East</forename><surname>Japan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gastric</forename><surname>Cancer</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Study</forename><surname>Group</surname></persName>
+						</author>
+						<title level="a" type="main">Phase I-II study of biweekly paclitaxel administration with fixed-dose-rate cisplatin in advanced gastric cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B040C69A34384D362DE2BD2A2323252B</idno>
+					<idno type="DOI">10.1007/s10120-005-0355-2</idno>
+					<note type="submission">Received: August 3, 2005 / Accepted: December 8, 2005</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Paclitaxel</term>
+					<term>Cisplatin</term>
+					<term>Gastric cancer</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background. Both paclitaxel (TXL) and cisplatin (CDDP)</head><p>show efficacy against gastric cancer. The aim of this phase I-II study was to determine the maximum tolerated dose (MTD) and to evaluate the toxicity and efficacy of combination chemotherapy with these two agents. Methods. Nineteen patients entered the phase I part of the study, and 21 patients entered the phase II part. TXL infusions were administered on days 1 and 15, with a fixed 30 mg/m 2 dose of CDDP. Results. In the phase I part of the study, we determined dose level 5, which represented a TXL dose of 180 mg/m 2 , with CDDP 30 mg/m 2 , to be the MTD. The recommended dose (RD) was level 4, with a TXL dose of 160 mg/m 2 with CDDP, 30 mg/m 2 . In the phase II part of the study, the response rate was 25.0%; five patients had a partial response, seven had stable disease, 6 had progressive disease, and 2 were not evaluable. Grade 3 or 4 neutropenia was the most common adverse event and occurred in 65% of the patients. During treatment, 25% of the patients received granulocyte colonystimulating factor, but febrile neutropenia was not shown in any of the patients. Major nonhematological toxicities were nausea/vomiting, anorexia, fatigue, alopecia, and sensory neuropathy. Adverse reactions of grade 3 or 4 were shown by two patients, one with anorexia (5%) and the other with sensory neuropathy (5%). Conclusion. The RD was determined to be TXL 140 mg/m 2 , with CDDP 30 mg/m 2 .</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Although various chemotherapy regimens have been reported for use in patients with gastric cancer, the median prognosis for survival in patients with chemotherapy for advanced gastric cancer remains less than 9-12 months <ref type="bibr" target="#b0">[1]</ref>. Given these conditions, we sought to develop a new active combination therapy regimen to prolong median survival, while also seeking a regimen that would be suitable for outpatient clinical use, in order to decrease time of hospitalization.</p><p>Paclitaxel (TXL) is thought to be an effective drug for gastric cancer, with reported response rates ranging from 20% to 28% in single-agent phase II studies <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>. In two of these studies, median survival times were 234 and 340 days, respectively, although more than 50% of the patients had previously received chemotherapy <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. Thus, it appears that TXL may prolong survival in gastric cancer patients.</p><p>Cisplatin (CDDP) is an active chemotherapeutic agent against gastric cancer. Treatment regimens including CDDP have shown high response rates <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>. CDDP has demonstrated synergism with variety of cytotoxic drugs, and synergism between TXL and CDDP has been established and reported <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>.</p><p>Therapy combining CDDP and TXL has been reported in various regimens <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>. Most of these regimens consisted of administering 60 to 80 mg/m 2 of CDDP. However, patients receiving more than 50 mg/m 2 of CDDP may suffer nausea and vomiting <ref type="bibr" target="#b14">[15]</ref>, and they would then need hydration to prevent CDDP renal toxicity. Thus, more than 50 mg/m 2 of CDDP is not suitable for outpatient clinical use.</p><p>We sought to confirm the efficacy and toxicity of combination therapy with TXL and a fixed-dose administration of 30 mg/m 2 CDDP.</p><p>A biweekly regimen has been proposed to increase the dose intensity of TXL and to improve the ease of adoption for outpatient use. For this reason, we planned to evaluate biweekly TXL with a 30 mg/m 2 fixed-dose CDDP regimen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>The objectives of this study were to determine the maximum tolerated dose (MTD) and to evaluate the toxicity and the preliminary activity of the above combination.</p><p>The criteria for eligibility included the following: (1) prior chemotherapy regimen completed 4 weeks before entry; (2) adequate bone marrow function (white blood cell [WBC] count ≥ 4000/mm 3 , platelet count ≥ 100 000/ mm 3 , hemoglobin ≥ 9.0 g/dl), adequate liver function (serum bilirubin level ≤ 1.5 mg/dl and serum transaminase level ≤ twice the upper limit of the normal range; if hepatic metastasis had been documented, then serum transaminase level ≤ three times normal range) and adequate renal function (serum creatinine level ≤ 1.5 mg/ dl, 24-h creatinine clearance ≥ 60 ml/min), normal electrocardiogram (ECG); (3) Eastern Clinical Oncology Group (ECOG) performance status (PS) of 2 or less; <ref type="bibr" target="#b3">(4)</ref> age between 20 and 79 years; (5) absence of any other serious medical conditions; (6) absence of any other active malignancy; <ref type="bibr" target="#b6">(7)</ref> life expectancy greater than 2 months.</p><p>Written informed consent was obtained from all patients prior to study entry. This study was approved by the Ethics Committees at the participating sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment regimens</head><p>TXL infusions were administered on days 1 and 15, with a fixed 30 mg/m 2 dose of CDDP. To prevent hypersensitivity reactions, all patients were premedicated with 20 mg of dexamethasone intravenously, 50 mg of diphenhydramine orally, and 50 mg of ranitidine intravenously 1 h before TXL infusion. The starting dose of TXL was 100 mg/m 2 , and it was intravenously infused within 1 to 3 h before 1-to 3-h infusion of CDDP. The TXL dose then consisted of increments of 20 mg/m 2 until severe or life-threatening toxicities were observed. Patients were administered this regimen once every 2 weeks unless disease progress or intolerable toxicity was observed. If WBC counts fell below 3000/mm 3 or platelet counts fell below 75 000/mm 3 ; or if grade 3 or 4 nonhematological toxicity occurred; or if body temperature rose over 38 °C or PS was over 3 immediately before administration, treatment was postponed.</p><p>For the first cycle of this therapy, the dose-limiting toxicity (DLT) was defined as National Cancer Institute Common Toxicity Criteria (NCI-CTC) grade 3 or 4 neutropenia with infection or fever; or thrombocytopenia of 25 000/mm 3 or less; or NCI-CTC grade 3 or 4 nonhematological toxicity, except for anorexia, nausea/ vomiting, and alopecia. Treatment delay DLT was defined as treatment delay of 1 to 2 weeks for reasons of toxicity. The treatment dose at each level is summarized in Table <ref type="table" target="#tab_0">1</ref>.</p><p>At least three patients were treated at each dose level. If none of the first three patients experienced DLT, escalation to the next TXL level was permitted. If one of three patients experienced a DLT, three other patients were enrolled at this level. Among the resulting six patients, if one or two experienced DLT, escalation was permitted; if more than two patients experienced DLT, that level was deemed the MTD. If two or three of three patients experienced DLT, that level was also considered the MTD. After confirmation of the MTD, the recommended dose (RD) for a phase II study was defined as one level below the MTD.</p><p>In the phase II part of the study, patients were not eligible if they had received chemotherapy that involved more than one regimen or contained platinum derivatives and/or taxane derivatives, or if they had suffered more than grade 2 peripheral neuropathy in prior chemotherapy. If the following adverse events had been observed during the previous treatment, the dose for the following treatment would be reduced by one level: hematological toxicity of at least grade 4; nonhematological toxicity of at least grade 3; peripheral neuropathy of at least grade 2. For other inclusion and exclusion criteria, treatment schedules were the same as for the phase I part of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response evaluation and toxicity</head><p>Patients were evaluated before entry into this study, to determine the extent of disease, by physical examination, chest X-ray, computed tomographic (CT) scan of NCI-CTC version 2 was applied to evaluate adverse drug reactions during the first and second cycles of treatment. The response criteria of the Japanese Research Society for Gastric Cancer <ref type="bibr" target="#b15">[16]</ref> and the Response Evaluation Criteria in Solid Tumors Group criteria <ref type="bibr" target="#b16">[17]</ref> were used to evaluate objective tumor response. In brief, the response criteria of the Japanese Research Society for Gastric Cancer define complete response (CR) as the complete disappearance of all measurable and evaluable lesions for a minimum of 4 weeks. A partial response (PR) is defined as a 50% or greater reduction in the sum of the products of the longest diameters of measurable lesions for a minimum of 4 weeks. Stable disease (SD) is defined as failure to observe a PR or CR and progressive disease for at least 4 weeks. Progressive disease (PD) is defined as a 25% or greater increase in the sum of the products of the longest perpendicular diameters of measurable lesions, or the appearance of new lesions. The response to primary tumors was assessed by the same Japanese criteria, based on roentgenographic and endoscopic findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations</head><p>The phase II part of this study was designed to test the null hypothesis that the true response probability is less than the not clinically significant level of 20%. The response rate was expected to be 40%. The probability of accepting the treatment with response probability (20%) is P = 0.05. The probability of rejecting the treatment with response probability (40%) is P = 0.10. Therefore, the sample size was 50 patients with P = 0.05; P = 0.1. After the enrollment of 20 patients, we planned to evaluate the toxicity, with the main point of the evaluation being suitability for an outpatient setting.</p><p>In the phase II part of the study, survival was calculated, from the date of treatment initiation, by the Kaplan-Meier method.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>In the phase I part of the study, 19 patients entered this trial between September 2001 and May 2003. Patient characteristics are summarized in Table <ref type="table" target="#tab_1">2</ref>. All 19 patients were evaluated for toxicity, and 13 patients exhibited measurable lesions evaluable for response. The median age of the patients was 62 years (range, 50 to 78 years). Ten patients had gastric cancer as a primary lesion, while 8 patients had undergone surgical resection for primary gastric cancer. Six patients had an ECOG PS of 0, and 13 patients had an ECOG PS of 1. Histologically, 11 patients had intestinal-type adenocarcinoma, and 8 patients had the diffuse type. All patients had metastatic lesions. The metastatic sites were the lung in 1 patient, the liver in 6, the lymph nodes in 7, and the peritoneum in 8. Fourteen patients had received prior chemotherapy; 13 patients had received S-1 alone, and 1 had received S-1 plus CDDP. All prior chemotherapy was completed 4 or more weeks before entry: 5 patients were prior chemotherapy-naïve.</p><p>In the phase II part of the study, 21 patients entered between July 2003 and May 2004. One patient refused to receive the treatment regimen after the first administration, and this patient was excluded from analysis. Characteristics of the phase II patients are summarized in Table <ref type="table" target="#tab_1">2</ref>. In an interim analysis of safety, our group decided to cease continuing this part of the study because of the high proportion of dose reductions and treatments delays within the first cycle.</p><p>The median age of the patients was 60 years (range, 45 to 76 years). Eight patients had gastric cancer as a primary lesion, and 12 patients had undergone surgical resection for primary gastric cancer. Eleven patients had an ECOG PS of 0, 8 had an ECOG PS of 1, and 1 had an ECOG PS of 2. Histologically, 7 patients had intestinaltype adenocarcinoma, and 13 had the diffuse type. All patients had metastatic lesions. The metastatic sites were the lymph node in 15 patients; liver in 15; peritoneum in 4; and bone, ovary, and esophagus in 1 patient each. Sixteen patients had received chemotherapy; 11 had received T-S1 alone, 1 had received S-1 plus irinotecan (CPT-11), 1 had received T-S1 plus CDDP, 1 had received methotrexate plus 5-fluorouracil (5FU), 1 had received uracil/tegafur (UFT), and 1 had received mitomycin C as intraarterial chemotherapy for liver metastasis. All prior chemotherapy was completed 4 or more weeks before entry: 4 patients were chemotherapy-naive (3 had had adjuvant chemotherapy only).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Determination of MTD in the phase I part of the study</head><p>In the phase I part of the study, all patients were evaluable for adverse reactions, and 18 patients completed one or more cycles of treatment. At levels 1 and 2, one patient exhibited grade 4 neutropenia during the first cycle. At level 4, one of the first three patients exhibited grade 4 febrile neutropenia, while three other patients were enrolled to this level. At level 5, one patient exhibited grade 3 motor neuropathy, while one exhibited grade 3 myalgia with grade 3 dyspnea. We therefore determined dose level 5, which represented a TXL dose of 180 mg/m 2 , with CDDP 30 mg/m 2 , to be the MTD, and the RD to be level 4, with a TXL dose of 160 mg/m 2 plus CDDP 30 mg/m 2 . The most common adverse reactions in the phase I part of the study are summarized in Table <ref type="table" target="#tab_2">3</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>All 20 patients enrolled in the phase II part of the study were assessable for safety, and received a total of 48.5 cycles. The median number of cycles was 2. In these 20 patients, treatment delay, dose reduction, or both, occurred in 6, 2, and 3 patients, respectively, within 1 cycle (a total of 11 patients could not be administered the RD) and all of the dose reductions and treatment delays were due to a decrease in the WBC count or delay in recovery of neutropenia.</p><p>For the phase II part of the study, the overall numbers of hematological and nonhematological toxicities are listed in Table <ref type="table" target="#tab_2">3</ref>. Grade 3 or 4 neutropenia was the most common adverse event and occurred in 65% of the patients. During treatment, 25% of the patients received granulocyte colony-stimulating factor (G-CSF), but no patients had febrile neutropenia. Major nonhematological toxicities were nausea/vomiting, anorexia, fatigue, alopecia, and sensory neuropathy. Two patients showed adverse reactions of grade 3 or 4. One patient had anorexia (5%) and other had sensory neuropathy (5%). None of the patients had an increase of serum creatinine of more than grade 3 within two cycles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>In the phase I part of the study, 4 of the 19 patients showed no measurable lesions, while 2 patients discontinued the protocol due to DLT, all 6 being determined as not evaluable (NE). The remaining 13 patients were evaluable for efficacy. This group included 6 patients with a PR, 4 with SD, and 3 with PD, yielding a response rate of 46.1% in the evaluable patients (6 of 13 patients). The response rates in the evaluable patients with intestinal-type adenocarcinoma and diffuse-type adenocarcinoma were 50% (4/8) and 40% (2/5), respectively. The response rate of the evaluable patients with prior chemotherapy was 55.5% (5/9). The response rate of the evaluable patients without prior chemotherapy was 25% (1/4). (Table <ref type="table" target="#tab_3">4</ref>).</p><p>In the phase II part of the study, a total of 20 patients were evaluated to determine the response rate at the RD. The overall response rate was 25.0%; 5 patients had PR as the best response, 7 had SD, 6 had PD, and 2 were defined as not evaluable (NE). Subgroup analysis by pathological type for the 20 patients showed that the response rates were 28.6% (2/7) for those with intestinal-type adenocarcinoma who were evaluable and 23.1% (3/13) for evaluable patients with the diffuse type. Subgroup analysis by prior chemotherapy for the 20 patients showed that the response rate was 25.0% (4/16) for the evaluable patients with prior chemotherapy and 25.0% (1/4) for those without prior chemotherapy (Table <ref type="table" target="#tab_3">4</ref>).</p><p>The median survival time was 272 days and the 1-year survival rate was 30% (Fig. <ref type="figure" target="#fig_1">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Determination of MTD in the phase II part of the study</head><p>As mentioned above, 11 of the 20 patients (55% of the study subjects) could not be administered the RD on a biweekly schedule, so we decided on a new RD, as one level under the previous RD, which represented a TXL dose of 140 mg/m 2 with CDDP 30 mg/m 2 . At this new RD, we are now performing a new phase II study to check the efficacy and feasibility of the regimen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This study determined the MTD and RD, and also evaluated the preliminary toxicity and activity of TXL with fixed doses of CDDP for advanced gastric cancer. TXL is a promising drug for use in combination with 4 1 0 0 0 Constipation 0 2 0 0 0 Anorexia 4 2 0 0 0 Fatigue 1 2 0 0 0 Rash 1 0 0 0 0 Alopecia 2 1 --0 Dyspnea 0 0 1 0 5.3 Neuropathy -motor 1 0 1 0 5.3 Neuropathy -sensory 2 0 0 0 0 Myalgia 2 0 1 0 5.3 Arthralgia 2 0 0 0 0 Earache 1 0 0 0 0 Heartburn 1 0 0 0 0 Phase II Hematological Leucopenia 4 5 5 1 30.0 Neutropenia 1 1 6 7 65.0 Anemia 3 7 3 0 15.0 Thrombocytopenia 0 0 1 0 5.0 Nonhematological Fever (noninfection) 2 0 0 0 0 Nausea/Vomiting 4 4 0 0 0 Diarrhea 3 0 0 0 0 Constipation 0 1 0 0 0 Stomatitis 2 0 0 0 0 Anorexia 3 2 1 0 5.0 Fatigue 4 3 0 0 0 Rash 1 1 0 0 0 Alopecia 8 3 --0 Neuropathy -motor 3 0 0 0 0 Neuropathy -sensory 5 1 1 0 5.0 Myalgia 4 0 0 0 0 Arthralgia 4 0 0 0 0 Hypotension 1 0 0 0 0 Creatinine 1 1 0 0 0</p><p>CDDP, and there are several phase I reports of combination chemotherapy involving TXL and CDDP. These two drugs have different mechanisms of action and fewer overlapping toxicities than other combinations, without neurotoxicity. When TXL was administered in combination with CDDP, treatment was sometimes delayed by the resulting neurotoxicity. When TXL administered every 3 weeks was compared to weekly TXL, the toxicity profile was better tolerated (particularly with respect to myelosuppression and peripheral neuropathy) at the weekly schedule, while efficacy remained almost unchanged <ref type="bibr" target="#b17">[18]</ref>. This result shows that divided administrations of TXL may reduce myelosuppression and neuropathy. Before increasing dose-intensity, we Although high doses of CDDP are often used in combination regimens for gastric cancer, the efficacy of high doses is still open for debate. We set the CDDP dose at 30 mg/m 2 (because high doses of CDDP add to toxicity and require intense intravenous hydration to protect against renal toxicity) to develop a well-tolerated regimen ideal for the outpatient setting.</p><p>Compared with the results of a phase II study of a TXL-containing regimen for gastric cancer, our regimen was less toxic than the triweekly administration of TXL in that study <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>, with especially notable reduced risks of grade 3 or 4 neutropenia and neuropathy. Kornek et al. <ref type="bibr" target="#b18">[19]</ref> reported a phase II study of a biweekly schedule of combination therapy with 160 mg/m 2 TXL and 60 mg/m 2 CDDP in gastric cancer patients, with the regimen being based on a phase I study reported by van der Gaast et al. <ref type="bibr" target="#b13">[14]</ref>. In the report of Kornek et al. <ref type="bibr" target="#b18">[19]</ref>, the regimen offered promising therapeutic activity, with a response rate of 44% among patients who had not undergone previous chemotherapy. However, 73% of their patients received G-CSF, 49% suffered peripheral neuropathy, and 11% developed documented infections though G-CSF support. An important issue in patients with gastric cancer is toxicity. The elderly or poor-performance-status patient population cannot tolerate aggressive regimens such as those with high doses of CDDP. Because treatment regimens with G-CSF support are still under consideration <ref type="bibr" target="#b19">[20]</ref>, we should confirm the safety and the absence of need for G-CSF support treatment.</p><p>In the present study, we developed a treatment regimen without fluoropyrimidine for advanced gastric cancer. As most of the regimens that are expected to be first-line therapy contain fluoropyrimidines to prolong survival, treatments for fluoropyrimidine-resistant gastric cancer are necessary as second-line therapy. TXL is a good candidate for this situation because of its lack of cross-resistance to fluoropyrimidine. In the phase II part of the present study, about 75% of the patients had received a fluoropyrimidine-based regimen as first-line therapy. We found a response rate of 25.0% in the phase II part of the study, although more than 50% of the patients could not receive the RD on the biweekly schedule.</p><p>In our determination of the new RD, we discussed a dose reduction of the RD in the interim analysis, in which treatment delay and dose reduction had occurred in a total of 11 patients within one cycle on the enrollment of 20 patients in the phase II part of the study. Based on the phase I part of the study, we discussed that we should reduce the dose of TXL and start a new phase II study at the TXL dose of 140 mg/m 2 . The outcome will depend on the point of whether efficacy can be observed at dose level one or dose level two (level 1 showed two PRs and one SD, while level 2 showed two PRs and two SDs) and whether these treatments could be continued until disease progression (data not shown) in the phase I part. Our initial concept was to develop a new treatment option which has good feasibility within the outpatient setting.</p><p>To determine the optimal RD is sometimes very difficult in a phase I study. The IFL regimen (irinotecan, 5FU, and leucovorin combination regimen) is a good example of such a difficulty. A phase I study of the IFL regimen was first reported by Saltz et al. <ref type="bibr" target="#b20">[21]</ref>, and after a phase III study <ref type="bibr" target="#b21">[22]</ref>, this regimen showed a high mortality rate within 60 days, and a new RD was decided upon as a modified IFL regimen. In the light of this example, we decided to decrease the TXL dose to one level below that in the phase I part of the present study.</p><p>Finally, we decided to reduce the dose of TXL from 160 mg/m 2 to 140 mg/m 2 . We are now conducting a phase II study at the new RD to evaluate the efficacy and longterm feasibility of the regimen, particularly with respect to peripheral neuropathy, a characteristic side effect of TXL administration.</p><p>In conclusion, with regard to the TXL-plus-CDDP combination in our study: (1) the recommended dose was determined to be TXL 140 mg/m 2 with CDDP 30 mg/m 2 ; and (2) we found that this regimen showed modest efficacy and a safe toxicity profile so that it could be offered as a candidate component of standard regimens for treating gastric cancer. We are now performing another phase II study, with the Korea-Japan Collaborative Study Group, to confirm the efficacy and feasibility of TXL 140 mg/m 2 with CDDP 30 mg/m 2 .</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Overall survival in the phase II part of the study</figDesc><graphic coords="6,44.40,345.72,241.22,168.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Dose levels (phase I)</figDesc><table><row><cell></cell><cell>Paclitaxel</cell><cell>Cisplatin</cell><cell></cell></row><row><cell>Level</cell><cell>(mg/m 2 )</cell><cell>( m g/m 2 )</cell><cell>No. of patients</cell></row><row><cell>1</cell><cell>100</cell><cell>30</cell><cell>3</cell></row><row><cell>2</cell><cell>120</cell><cell>30</cell><cell>4</cell></row><row><cell>3</cell><cell>140</cell><cell>30</cell><cell>3</cell></row><row><cell>4</cell><cell>160</cell><cell>30</cell><cell>6</cell></row><row><cell>5</cell><cell>180</cell><cell>30</cell><cell>3</cell></row></table><note><p>chest and abdomen, and endoscopic examination of the upper gastrointestinal tract. Complete blood cell counts, liver function test, renal function test, and urinalysis were assessed at least once every 2 weeks during treatment. CT scans were repeated as necessary to evaluate measurable lesions.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Patient characteristics</figDesc><table><row><cell>Phase I (n = 19)</cell><cell>Phase II (n = 20)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Adverse reactions</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Grade (no. of patients)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Grades 3 and 4</cell></row><row><cell>Toxic effects</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>(%)</cell></row><row><cell>Phase I</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hematological</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Leucopenia</cell><cell>3</cell><cell>6</cell><cell>4</cell><cell>0</cell><cell>21.1</cell></row><row><cell>Neutropenia</cell><cell>4</cell><cell>1</cell><cell>4</cell><cell>5</cell><cell>47.4</cell></row><row><cell>Anemia</cell><cell>6</cell><cell>8</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Thrombocytopenia</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Nonhematological</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fever (noninfection)</cell><cell>2</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Nausea/Vomiting</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Overall response to treatment</figDesc><table><row><cell>Patients</cell><cell>n</cell><cell>CR</cell><cell>PR</cell><cell>SD</cell><cell>PD</cell><cell>NE</cell><cell>RR (%) a</cell></row><row><cell>Phase I</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Overall</cell><cell>19</cell><cell>0</cell><cell>6</cell><cell>4</cell><cell>3</cell><cell>6</cell><cell>46.1</cell></row><row><cell>Level</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>3</cell><cell>0</cell><cell>2</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>66.6</cell></row><row><cell>2</cell><cell>4</cell><cell>0</cell><cell>2</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>50.0</cell></row><row><cell>3</cell><cell>3</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell>50.0</cell></row><row><cell>4</cell><cell>6</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell>2</cell><cell>2</cell><cell>25.0</cell></row><row><cell>5</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>3</cell><cell>0.0</cell></row><row><cell>Histological type</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Intestinal</cell><cell>11</cell><cell>0</cell><cell>4</cell><cell>2</cell><cell>2</cell><cell>3</cell><cell>50.0</cell></row><row><cell>Diffuse</cell><cell>7</cell><cell>0</cell><cell>2</cell><cell>2</cell><cell>1</cell><cell>2</cell><cell>40.0</cell></row><row><cell>Prior chemotherapy</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No</cell><cell>4</cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>1</cell><cell>0</cell><cell>25.0</cell></row><row><cell>Yes</cell><cell>15</cell><cell>0</cell><cell>5</cell><cell>2</cell><cell>2</cell><cell>6</cell><cell>55.5</cell></row><row><cell>Phase II</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Overall</cell><cell>20</cell><cell>0</cell><cell>5</cell><cell>7</cell><cell>6</cell><cell>2</cell><cell>25.0</cell></row><row><cell>Histological type</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Intestinal</cell><cell>7</cell><cell>0</cell><cell>2</cell><cell>2</cell><cell>3</cell><cell>0</cell><cell>28.6</cell></row><row><cell>Diffuse</cell><cell>13</cell><cell>0</cell><cell>3</cell><cell>5</cell><cell>3</cell><cell>2</cell><cell>23.1</cell></row><row><cell>Prior chemotherapy</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No</cell><cell>4</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell>2</cell><cell>0</cell><cell>25.0</cell></row><row><cell>Yes</cell><cell>16</cell><cell>0</cell><cell>4</cell><cell>7</cell><cell>4</cell><cell>2</cell><cell>25.0</cell></row><row><cell cols="5">a Response rate (RR) was estimated in evaluable patients only</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="5">conducted a phase I-II study of a biweekly regimen,</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="5">because a biweekly schedule is suitable for outpatient</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">clinical use.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We would like to thank <rs type="person">Dr. Ryunosuke Kanemaru</rs> for his contributions as a committee member of the East Japan Gastric Cancer Treatment Study Group in Japan for evaluating the efficacy and safety of this treatment.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Phase II study of Taxol in patients with advanced gastric carcinoma</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ajani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fairweather</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dumas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Z</forename><surname>Patt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pazdur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Mansfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer J Sci Am</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="269" to="274" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">An early phase II study of a 3-h infusion of paclitaxel for advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ohtsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Boku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Muro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shimada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Saigenji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="416" to="419" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Phase II trial of paclitaxel by 3-h infusion for advanced gastric cancer with short premedication for prophylaxis against paclitaxel-associated hypersensitivity reactions</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shirao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ohtsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Boku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hyodo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Saitoh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1133" to="1137" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase II study of paclitaxel with 3-h infusion in patients with advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yamaguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Horikoshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Otani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Takiuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saitoh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gastric Cancer</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="90" to="95" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A phase II study of 5-fluorouracil, leucovorin and cisplatin (FLP) for metastatic gastric cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ychou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Astre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rouanet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Fabre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Saint-Aubert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Domergue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1933" to="1937" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Docetaxel (Taxotere)-cisplatin (TC): an effective drug combination in gastric carcinoma. Swiss Group for Clinical Cancer Research (SAKK), and the European Institute of Oncology (EIO)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Maibach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Martinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fazio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Aapro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Pagani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="301" to="306" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Phase II study of a combination of irinotecan and cisplatin against metastatic gastric cancer</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Boku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ohtsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shimada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shirao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Saito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="319" to="323" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Computerized quantitation of synergism and antagonism of taxol, topotecan, and cisplatin against human teratocarcinoma cell growth: a rational approach to clinical protocol design</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Bosl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1517" to="1524" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Paclitaxel, cisplatin, and cyclophosphamide in human ovarian cancer: molecular rationale and early clinical results</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Kohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sarosy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dabholkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jacob</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="90" to="96" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Dose-dense cisplatin/paclitaxel. a welltolerated and highly effective chemotherapeutic regimen in patients with advanced ovarian cancer</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>De Jongh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Wit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sparreboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Den Bent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="2005" to="2013" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase I study of a weekly schedule of a fixed dose of cisplatin and escalating doses of paclitaxel in patients with advanced oesophageal cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Polee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Siersema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Tilanus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Splinter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1495" to="1500" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Phase I/II trial of biweekly paclitaxel and cisplatin in the treatment of metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Gelmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Tolcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bryce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ragaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1185" to="1191" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacological study of paclitaxel given over 3 h with cisplatin for advanced non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kurata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shinkai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ohe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kunitoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kodama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="93" to="99" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Phase I study of a biweekly schedule of a fixed dose of cisplatin with increasing doses of paclitaxel in patients with advanced oesophageal cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Der Gaast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Kok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kerkhofs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Siersema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Tilanus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Splinter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="1052" to="1057" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Recommendations for the use of antiemetics: evidencebased, clinical practice guidelines</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Gralla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Osoba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kirkbride</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Hesketh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Chinnery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="2971" to="2994" />
+			<date type="published" when="1999">1999</date>
+			<publisher>American Society of Clinical Oncology</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Response assessment of chemotherapy for gastric carcinoma</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Omori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Miwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Editors</forename><surname>Part</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">V</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Kanehara Syuppan</publisher>
+			<pubPlace>Tokyo</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Japanese classification of gastric carcinoma First English edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">New guidelines to evaluate the response to treatment in solid tumors</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Arbuck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rubinstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="205" to="216" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>European Organization for Research and Treatment of Cancer, National Cancer Institute of the United States, National Cancer Institute of Canada</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Randomized trial of single agent paclitaxel given weekly versus every 3 weeks and with peroral versus intravenous steroid premedication to patients with ovarian cancer previously treated with platinum</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Boman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ridderheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sorbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Puistola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Oncol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="418" to="424" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Effective combination chemotherapy with paclitaxel and cisplatin with or without human granulocyte colony-stimulating factor and/or erythropoietin in patients with advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Kornek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Raderer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fiebiger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gedlicka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lenauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1858" to="1863" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">2000 update of recommendations for the use of hematopoietic colony-stimulating factors: evidence-based, clinical practice guidelines</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ozer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Armitage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Demetri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Pizzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="3558" to="3585" />
+			<date type="published" when="2000">2000</date>
+			<publisher>American Society of Clinical Oncology Growth Factors Expert Panel</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase I clinical and pharmacokinetic study of irinotecan, fluorouracil, and leucovorin in patients with advanced solid tumors</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Saltz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kanowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Kemeny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schaaf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Spriggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Staton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="2959" to="2967" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Irinotecan plus fluorouracil and leucovorin for metastatic colorectal cancer. Irinotecan Study Group</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Saltz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blanke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fehrenbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">343</biblScope>
+			<biblScope unit="page" from="905" to="914" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

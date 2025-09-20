@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase I dose-finding and pharmacokinetic study of subcutaneous semisynthetic homoharringtonine (ssHHT) in patients with advanced acute myeloid leukaemia</title>
+				<funder>
+					<orgName type="full">Ligue Nationale contre le Cancer</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2006-07-18">18 July 2006</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">V</forename><surname>Le</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Centre d&apos;Investigations Cliniques</orgName>
+								<orgName type="laboratory">Inserm CIC 9504</orgName>
+								<orgName type="institution" key="instit1">Ho ˆpital Saint Louis</orgName>
+								<orgName type="institution" key="instit2">AP-HP</orgName>
+								<address>
+									<addrLine>1 Avenue Claude Vellefaux</addrLine>
+									<postCode>75475</postCode>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Inserm U717</orgName>
+								<orgName type="institution">Ho ˆpital Saint Louis</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Zohar</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Centre d&apos;Investigations Cliniques</orgName>
+								<orgName type="laboratory">Inserm CIC 9504</orgName>
+								<orgName type="institution" key="instit1">Ho ˆpital Saint Louis</orgName>
+								<orgName type="institution" key="instit2">AP-HP</orgName>
+								<address>
+									<addrLine>1 Avenue Claude Vellefaux</addrLine>
+									<postCode>75475</postCode>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Inserm U717</orgName>
+								<orgName type="institution">Ho ˆpital Saint Louis</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Inserm U717</orgName>
+								<orgName type="department" key="dep2">De ´partement de Biostatistique et Infomatique Me ´dicale</orgName>
+								<orgName type="institution">Ho ˆpital Saint Louis</orgName>
+								<address>
+									<postCode>AP-HP</postCode>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Bardin</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Service de Pharmacie Pharmacologie Toxicologie</orgName>
+								<orgName type="institution">AP-HP</orgName>
+								<address>
+									<addrLine>Ho ˆtel Dieu de Paris</addrLine>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Vekhoff</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">De ´partement d&apos;He ´matologie et d&apos;Oncologie Me ´dicale</orgName>
+								<orgName type="institution">AP- HP</orgName>
+								<address>
+									<addrLine>Ho ˆtel Dieu</addrLine>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><surname>Chaoui</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">De ´partement d&apos;He ´matologie et d&apos;Oncologie Me ´dicale</orgName>
+								<orgName type="institution">AP- HP</orgName>
+								<address>
+									<addrLine>Ho ˆtel Dieu</addrLine>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><surname>Rio</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">De ´partement d&apos;He ´matologie et d&apos;Oncologie Me ´dicale</orgName>
+								<orgName type="institution">AP- HP</orgName>
+								<address>
+									<addrLine>Ho ˆtel Dieu</addrLine>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">O</forename><surname>Legrand</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">De ´partement d&apos;He ´matologie et d&apos;Oncologie Me ´dicale</orgName>
+								<orgName type="institution">AP- HP</orgName>
+								<address>
+									<addrLine>Ho ˆtel Dieu</addrLine>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Sentenac</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Service de Pharmacie Pharmacologie Toxicologie</orgName>
+								<orgName type="institution">AP-HP</orgName>
+								<address>
+									<addrLine>Ho ˆtel Dieu de Paris</addrLine>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Rousselot</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Service d&apos;He ´matologie Clinique</orgName>
+								<orgName type="institution" key="instit1">Ho ˆpital Saint Louis</orgName>
+								<orgName type="institution" key="instit2">AP-HP</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><surname>Raffoux</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Service d&apos;He ´matologie Clinique</orgName>
+								<orgName type="institution" key="instit1">Ho ˆpital Saint Louis</orgName>
+								<orgName type="institution" key="instit2">AP-HP</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">F</forename><surname>Chast</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Service de Pharmacie Pharmacologie Toxicologie</orgName>
+								<orgName type="institution">AP-HP</orgName>
+								<address>
+									<addrLine>Ho ˆtel Dieu de Paris</addrLine>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Chevret</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Inserm U717</orgName>
+								<orgName type="institution">Ho ˆpital Saint Louis</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Inserm U717</orgName>
+								<orgName type="department" key="dep2">De ´partement de Biostatistique et Infomatique Me ´dicale</orgName>
+								<orgName type="institution">Ho ˆpital Saint Louis</orgName>
+								<address>
+									<postCode>AP-HP</postCode>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Marie</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">De ´partement d&apos;He ´matologie et d&apos;Oncologie Me ´dicale</orgName>
+								<orgName type="institution">AP- HP</orgName>
+								<address>
+									<addrLine>Ho ˆtel Dieu</addrLine>
+									<settlement>Paris</settlement>
+									<country>France;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">V</forename><surname>Le ´vy</surname></persName>
+						</author>
+						<title level="a" type="main">A phase I dose-finding and pharmacokinetic study of subcutaneous semisynthetic homoharringtonine (ssHHT) in patients with advanced acute myeloid leukaemia</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2006-07-18">18 July 2006</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">364A780ABDCBE76DD1F2F08F0E1371EA</idno>
+					<idno type="DOI">10.1038/sj.bjc.6603265</idno>
+					<note type="submission">Received 17 May 2006; revised 14 June 2006; accepted 14 June 2006;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>homoharringtonine</term>
+					<term>phase I</term>
+					<term>continual reassessment method</term>
+					<term>stopping rules</term>
+					<term>leukaemia</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>To determine the maximum-tolerated dose (MTD), dose-limiting toxicities and pharmacokinetic of semisynthetic homoharringtonine (ssHHT), given as a twice daily subcutaneous (s.c.) injections for 9 days, in patients with advanced acute leukaemia, 18 patients with advanced acute myeloid leukaemia were included in this sequential Bayesian phase I dose-finding trial. A starting dose of 0.5 mg m À2 day À1 was explored with subsequent dose escalations of 1, 3, 5 and 6 mg m À2 day À1 . Myelosuppression was constant. The MTD was estimated as the dose level of 5 mg m À2 day À1 for 9 consecutive days by s.c. route. Dose-limiting toxicities were hyperglycaemia with hyperosmolar coma at 3 mg m À2 , and (i) one anasarque and haematemesis, (ii) one life-threatening pulmonary aspergillosis, (iii) one skin rash and (iv) one scalp pain at dose level of 5 mg m À2 day À1 . The mean half-life of ssHHT was 11.0173.4 h, the volume of distribution at steady state was 271.4 l kg À1 and the plasma clearance was 11.6710.4 l h À1 . Eleven of the 12 patients with circulating leukaemic cells had blood blast clearance, two achieved complete remission and one with blast crisis of CMML returned in chronic phase. The recommended daily dose of ssHHT on the 9-day schedule is 5 mg m À2 day À1 .</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Homoharringtonine (HHT) (Cephalotaxine, 4 0 -methyl (2 0 R)-hydroxy-2 0 -(4 00 -hydroxy-4 00 -methylpentyl)-butanedioate (ester), [3(R)]-(9CI)) is a cephalotaxus alkaloid obtained by extraction from the evergreen tree Cephalotaxus sp present in China. Seeds of this genus of conifers were part of the traditional Chinese medicine <ref type="bibr" target="#b11">(Huang et al, 1983</ref>). In the 1970s, collaboration between US and Chinese investigators led to isolation of the active extract of Cephalotaxus. Homoharringtonines (and its analogues) are inhibitor of protein synthesis with an effect on DNA that may be important. Their effects are dose and time dependent <ref type="bibr" target="#b12">(Huang, 1975)</ref>. Homoharringtonine was found to be a selective inhibitor of transpeptidation during the elongation cycle <ref type="bibr" target="#b8">(Fresno et al, 1977;</ref><ref type="bibr" target="#b28">Tujebajeva et al, 1989;</ref><ref type="bibr" target="#b33">Zhou et al, 1995)</ref>. Moreover, recent studies on chronic myeloid leukaemia (CML) suggest both apoptosis and differentiation as potential downstream effectors of HHT <ref type="bibr" target="#b16">(Kuliczkowski, 1989;</ref><ref type="bibr" target="#b22">O'Brien et al, 1993;</ref><ref type="bibr" target="#b29">Visani et al, 1997)</ref>. Homoharringtonine had been shown to induce apoptosis in different types of leukaemic cells in vitro and the HHT-induced apoptotic cascade is characterised by cytochrome c release and caspase activation <ref type="bibr" target="#b3">(Cai et al, 2001)</ref>. More recently, HHT has been shown to regulate vascular endothelial growth factor expression in K562 cells <ref type="bibr" target="#b32">(Ye and Lin, 2004)</ref>. Preclinical studies demonstrated a wide range of cytotoxic effects mainly directed at rapidly proliferating cells, irrespective of their lymphoid or myeloid origin <ref type="bibr" target="#b27">(Takemura et al, 1985;</ref><ref type="bibr" target="#b0">Baguley et al, 1989)</ref>. In vitro combination with other cytotoxic agents was consistently nonsynergistic with the notable exception of cytarabine <ref type="bibr" target="#b31">(Wilkoff et al, 1989;</ref><ref type="bibr" target="#b34">Zhou et al, 1990)</ref>.</p><p>Original studies of HHT in cancer and leukaemia patients were dated from the 1970s in China. Phase I trials were later performed in the US using purified alkaloids. Chinese studies were summarised by <ref type="bibr" target="#b10">Grem et al (1988)</ref> with data available for 350 patients with leukaemia. Almost 25% of the acute myeloid leukaemia (AML) patients achieved complete remission (CR), but these results were difficult to evaluate <ref type="bibr" target="#b10">(Grem et al, 1988)</ref>. In US, purified HHT was tested first in bolus infusion <ref type="bibr" target="#b19">(Neidhart et al, 1983;</ref><ref type="bibr" target="#b17">Legha et al, 1984;</ref><ref type="bibr" target="#b26">Stewart and Krakoff, 1985)</ref> and later replaced by continuous infusion schedule to avert HHT-associated cardiovascular complications <ref type="bibr" target="#b5">(Coonley et al, 1983;</ref><ref type="bibr" target="#b20">Neidhart et al, 1986)</ref>. Five phase I/II clinical studies in patients with acute leukaemia were conducted (excluding myelodysplasia (MDS), APL or paediatric AML) with variable schedule of continuous infusion with CR rate ranging from 0 to 25% <ref type="bibr" target="#b30">(Warrell et al, 1985;</ref><ref type="bibr" target="#b13">Kantarjian et al, 1989;</ref><ref type="bibr">Feldman et al, 1992a, b)</ref> (for complete reference, see <ref type="bibr" target="#b15">Kantarjian et al (2001)</ref>).</p><p>Homoharringtonine is currently widely used in China for the treatment of AML, but the extraction from the barks of Cephalotaxus sp raised the problem of extinction of the raw material (scarcity and poor growth rate of Cephalotaxus sp) and the presence of impurities (at least 1% of related compounds). Therefore, a highly purified semisynthetic HHT, using the leaves of the tree, was produced by Oncopharm Corporation with the perspective of registration.</p><p>In this context, we conducted a sequential phase I dose-finding clinical study in order to determine the maximum-tolerated dose (MTD) and pharmacokinetic of semisynthetic homoharringtonine (ssHHT). We choose the subcutaneous (s.c.) route to facilitate the administration of the drug, especially in the elderly patients, given as a twice daily s.c. injection for 9 days, in patients with advanced myeloid leukaemia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eligibility (patients' selection)</head><p>The study was approved by the Local Ethics Committee at the Ho ˆtel Dieu Hospital. Adult patients (418 and o80 years old) with a WHO performance status p3 and with documented advanced myeloid malignancies were eligible for the study, that is, either (i) AML refractory to one (age 460 years) or two (p60 years) induction courses of chemotherapy or in first relapse or more; relapse after autologous stem cell transplantation or allogeneic stem cell transplantation without possibility of allogeneic lymphocytes re-injection; (ii) accelerated or acute myeloproliferative disorders not responding to conventional treatments; (iii) MDS refractory to chemotherapy or in relapse after treatment (chemotherapy or stem cell transplantation); (iv) CML in accelerated or acute phase or refractory to interferon a. Patients provided signed, informed consent. Those patients who received chemotherapy within 4 weeks of study entry, with active severe infection, and with cardiac, renal or liver dysfunctions, were excluded. Pregnant and lactating women were excluded.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment plan and follow-up studies</head><p>On entry, all patients received appropriate supportive care, including hydratation, alkalinisation of the urine, allopurinol at the discretion of the treating physician and diagnostic evaluation and treatment of the documented or suspected infections. Prophylactic antiemetics were given to all patients. Menstruating women received hormone therapy to prevent menstruation. Patients were transfused to maintain haemoglobin level 48 g dl À1 and platelets 410 Â 10 3 ml À1 , or as clinically indicated. Haematopoietic growth factors were not permitted, with exceptions granted at the discretion of the principal investigator.</p><p>Protocol treatment consisted of one 9-day course of chemotherapy with ssHHT administered by s.c. route twice a day. Following the cycle of chemotherapy, an additional course of ssHHT could be administered in case of response at the discretion of the treating physician, or any other additional chemotherapy. Semisynthetic homoharringtonine was manufactured by Oncopharm (Le Mans, France).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial design and dose allocation rule</head><p>The design of this dose-finding phase I clinical trial was chosen to assess the MTD of ssHHT in the treatment of patients with advanced myeloid leukaemia. The MTD was defined as the dose that achieves a dose-limiting toxicity (DLT) in 33% of patients. Five dose levels were tested, namely 0.5, 1, 3, 5 and 6 mg m À2 day À1 . The continual reassessment method (CRM) <ref type="bibr" target="#b23">(O'Quigley et al, 1990;</ref><ref type="bibr" target="#b9">Garrett-Mayer, 2006;</ref><ref type="bibr" target="#b24">O'Quigley and Zohar, 2006)</ref> was used as the dose allocation rule in the trial. It is based on a mathematical modelling of dose -DLT relationship, iteratively updated using Bayes theorem along the trial, as follows. First, before trial onset, each dose level is arbitrarily associated with initial guesses of DLT probability by the investigator. These initial guesses, which relied on his (her) personal experience and on literature, were fixed at 0.05, 0.1, 0.15, 0.33 and 0.5, respectively. The uncertainty in this dose -DLT relationship is incorporated into a prior. Then, patient accrual begins, with grouped inclusions of three patients per dose level. The first cohort is administered the first dose level. Then, on the basis of observed responses (DLT or not) of patient cohort, DLT probabilities of all dose levels are updated using Bayes theorem. The dose level associated with an updated DLT probability close to 33% is recommended to be administered to the next patient cohort. All this process is re-run until fixed sample size is reached, or in case of fulfilled stopping criteria measuring futility of trial continuation <ref type="bibr" target="#b35">(Zohar and Chevret, 2001)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of toxicity and response</head><p>Dose-limiting toxicity was defined, using National Cancer Institute Common Toxicity Criteria (version 2.0), as at least grade 2 neurological or urinary toxicities, at least grade 3 cardiac toxicity and higher than grade 3 pulmonary and digestive toxicities. All other toxicities were considered as limiting if they were graded at least 3. Persistent myelosuppression defined by neutrophil o500 ml À1 and/or platelets o20 000 ml À1 associated with empty bone marrow for 40 days or more was also considered as DLT.</p><p>Local tolerance at the point of injection was analysed apart from pain and local reaction.</p><p>Patient response was evaluated by the examination of marrow and peripheral blood smears, and assessed using criteria established by the National Cancer Institute workshop <ref type="bibr" target="#b4">(Cheson et al, 1990)</ref>. Complete remission was defined as follows: absolute neutrophil count X1500 ml À1 , platelets X100 Â 10 3 ml À1 , absence of leukaemic blast in peripheral blood, 420% cellularity of bone marrow with maturation of all the cell lines, o5% leukaemic blasts in the bone marrow and absence of Auer rods. Partial remission was similarly defined, except that the percentage of blast in the marrow was between 5 and 20%, and Auer rods could be present as long as the percentage of the blasts was p5%. Bone marrow leukemic cell clearance was checked at the end of ssHHT treatment (D10) if no leukaemic cells were circulating. If there was a response on the basis of peripheral blood differential, bone marrow examination was performed at day 28 or whenever the ANC recovered to more than 1 Â 10 3 ml À1 , and in any case at day 40 in case of persisting pancytopaenia without circulating leukaemic cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetic studies</head><p>Blood samples (6 ml) were collected in sodium heparin tubes at 12 h after the administration on day 3, at 0.25, 0.5, 0.75, 1, 2, 4, 8 and 12 h after the administration on day 5 and at 4, 8, 12, 24, 36 and 48 h after the last injection on day 9. Samples were immediately centrifuged at 3000 g for 10 min and then plasma was divided into two aliquots of at least 1.5 ml and frozen at À201C until the time of analysis. Plasma samples were assayed by a specific and sensitive liquid chromatographic assay with fluorimetric detection by monitoring the emission at 320 nm with excitation wavelength of 280 nm. Analytical column was a 5-mm Lichrospher s C18 column (250 mm Â 4 mm I.D.) (Merck, Darmstadt, Germany). Sample preparation (1 ml) consisted of addition of internal standard (0.1 ml of quinidine 50 mg ml À1 ), solvent extraction 2.5 ml of ethyl acetate and evaporation to dryness for 50 min at 601C. The residue was dissolved in 100 ml of mobile phase. An 80 ml aliquot was injected onto the column. The mobile phase was tetrahydrofurane-acetonitrile-citrate/phosphate buffer adjusted to pH 4.2 (5/15/80, v v À1 ). Flow rate was 0.8 ml min À1 . The retention times of ssHHT and IS quinidine were 5.4 and 8.4 min, respectively. Between-run and within-run coefficients of variation, measured at nine concentrations (1 -60 ng ml À1 ), were less than 11.0%. The lower limit of quantification of this assay was 1 ng ml À1 .</p><p>Estimates of pharmacokinetics parameters for ssHHT were derived from individual concentration -time data sets by noncompartmental analysis using the software package WinNonLin version 4.0 (Pharsight Corporation, Mountain View, CA, USA). The peak plasma, trough plasma concentrations and the time to peak concentrations were the observed values observed at day 5. The area under the plasma concentration vs time curve (AUC) was calculated using the linear trapezoidal method from time zero to the time of the final quantifiable concentration. The AUC was then extrapolated to infinity (AUC inf ) after the last injection by dividing the last measured concentration by the rate constant of the terminal phase (k), which was determined by linear regression analysis of the final three or four time points of the log-linear concentration -time plot. The apparent s.c. total plasma clearance of ssHHT (CL/F) was calculated by dividing the administered dose by the observed AUC inf . The apparent volume of distribution (V d b/ F) was defined as CL/k after the last injection. The terminal elimination half-life (T 1/2 ) was defined as ln 2/k after the last injection at day 9. Pharmacokinetic data were reported as mean and standard deviation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical estimation</head><p>All along the trial, updated DLT probability of each dose level was iteratively computed after each completed cohort of three patients, using the BPCT software <ref type="bibr" target="#b36">(Zohar et al, 2003)</ref>. Stopping criteria, aiming at detecting futility of trial continuation, were also computed. They are based on the computation of predictive gains from further inclusions, both on the estimated DLT probability of the MTD and on precision of DLT probability of the MTD as measured on the width of its 95% credibility interval. Trial is recommended to stop when expected gains appear too tiny (ref.</p><p>).</p><p>Qualitative and quantitative results were expressed as percentage and median (Q1 -Q3), respectively, using R 8.1 software (the R development core team, 2003). Survival curve was estimated by the Kaplan -Meier method, using SPLUS2000 software (MathSoft Inc., Seattle, WA, USA). The terminal elimination half-life of ssHHT was analysed as a function of ssHHT dose level using the Kruskal -Wallis test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>General</head><p>Between February 2001 and July 2003, 19 patients were registered into the study. The median age of study participants was 57 years (range, 20 -79 years), with eight patients (42%) aged over 60 years. There were eight men (42%) and 11 women (58%). Three (16%) subjects had a baseline performance status (WHO) of 0, 8 (42%) of 1, 7 (37%) of 2 and (5%) of 3. Sixteen (84%) patients had an AML, among them two (10.5%) had secondary AML (one MDS and one CMML). Two (10.5%) patients had accelerated CML and one acute phase of CMML (5%). Among the 16 AML patients, seven (44%) were in first relapse, three (19%) in second relapse and three (19%) in third relapse. One (6%) patient was in first relapse after allogeneic stem cell transplantation and two (12.5%) patients were primary refractory to chemotherapy. Among the cohort, nine patients (47%) had received high-dose Ara-C, two (10%) were allografted and two (10%) were autografted.</p><p>Among the 19 patients, 18 (95%) were treated and evaluable. One patient (5%) died from progressive disease before evaluation. Thus, all the results are presented on the 18 evaluated patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Estimation of the MTD</head><p>The assigned ssHHT dose levels and observed responses in terms of DLT of the 18 assessable patients are listed in Table <ref type="table" target="#tab_0">1</ref>. The first cohort of three patients was treated at 0.5 mg m À2 day À1 with no DLT. None of the three patients exhibited DLT, resulting in updated DLT probabilities for the five dose levels of 0.001, 0.003, 0.006, 0.035 and 0.11, respectively. As the fifth dose level was associated with DLT probability of 0.11, close to 0.33, it should have been recommended to the next three patient cohorts. Nevertheless, for ethical reasons, investigators preferred not to skip up to the fifth highest dose level, but the third dose level. Thus, the second patient cohort was administered 3 mg m À2 day À1 . One DLT out of three was observed. Incorporated in the analysis, the updated dose -DLT relationship showed increased DLT probability at each dose level. The fourth dose level, 5 mg m À2 day À1 , was then recommended from the third up to the sixth patient cohort.</p><p>Based on the six patient cohorts, stopping trial decision was made by the expert committee, with three over four stopping criteria detecting futility of trial continuation. The estimated DLT probability associated with the dose level of 5 mg m À2 would have been expected to change by less than 5% even if three further patients were included. At the end of the trial, the MTD was selected to be the fifth dose level, that is, 5 mg m À2 day À1 , with estimated DLT probability of 36.1% (95% credibility interval: 15.8 -58.6%). Dose-limiting toxicities were recorded in four (33%) out of the 12 patients who actually received the 5 mg m À2 day À1 ssHHT-loading dose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity</head><p>The designation and grade of all significant toxicities observed during the treatment are summarised in Table <ref type="table">2a</ref>. Five DLTs were observed, one grade 3 hyperglycaemia with hyperosmolar coma at 3 mg m À2 requiring insulin and rehydration, and four DLTs at dose level of 5 mg m À2 day À1 : (i) one anasarque and haematemesis, (ii) one life-threatening pulmonary aspergillosis, (iii) one skin rash and (iv) one scalp pain. The only significant toxicities experienced by the three patients who received the starting dose of 0.5 mg m À2 day À1 were grade 2 digestive toxicities in two patients and grade 2 infectious disease in one patient. The second patient entered into the first dose level died at day 19 owing to progressive disease (AML). Similarly, three patients were treated with the third dose level (3 mg m À2 day À1 ) without any notable drug-related toxicities, aside from one grade 3 endocrine (diabetes with hyperosmolar coma) and one grade 3 infectious episode (systemic candidosis) observed in the same patient. Twelve patients were treated at the estimated MTD (5 mg m À2 day À1 ); in this setting, five grade 3 and one grade 4 toxicities were noted. Grade 3 toxicities were one infectious (pneumopathy), one digestive (haematemesis), one cardiovascular (anasarque), one pain (scalp) and two cutaneous. Grade 4 toxicity was an invasive aspergillosis (Table <ref type="table">2b</ref>).</p><p>Myelosuppression occurred in 100% of the patients, with a median duration of 31 days (24 -45 days).</p><p>Local tolerance was carefully monitored for all patients. Six (33%) patients had a grade 1 pain at the site of injection, 12 patients (67%) experienced local erythema and three (17%) a local haematoma. From the 313 injections given, 16 (5%), 70 (22%) and 6 (2%) presented pain, local erythema or haematoma, respectively. All theses toxicities were grade 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response and survival</head><p>Antileukaemic effect is summarised in Table <ref type="table" target="#tab_2">3</ref>. Blood leukaemic clearance occurred in 12 patients with leukaemic-circulating cells, including one patient at 0.5 mg m À2 and two at 3 mg m À2 . Bone marrow blast clearance at the end of chemotherapy was evaluated at day 10 in 14 patients. Five patients showed an empty bone marrow, one out of three patients at 3 mg m À2 and four out of 10 patients at the DLT. Two patients (11%) achieved CR (duration 4</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 2a Summary of clinical toxicities during the trial</head><p>No of toxicities (grade 1/grade 2/grade 3/grade 4) at dose levels of 0.5 mg m À2 (n ¼ three patients)</p><formula xml:id="formula_0">3 mg m À2 (n ¼ three patients) 5 mg m À2 (n ¼ 12 patients) Cardiovascular - - 5/2/1/0 Cutaneous 2/0/0/0 1/0/0/0 6/1/2/0 Digestive 1/2/0/0 2/1/0/0 2/2/1/0 Endocrinian - 0/0/1/0 2/4/0/0 Neurological - - 1/2/0/0 Infectious 1/1/0/0 0/0/1/0 1/1/0/1 Muscular - - 2/0/0/0 Pain 1/0/0/0 1/0/0/0 4/1/1/0 Total 5/3/0/0 4/1/2/0 23/13/5/1</formula><p>Table 2b Detailed grade 3 and grade 4 clinical toxicities per patient during the trial Patient no. Dose (mg m À2 ) Type of toxicity Grade of toxicity Details DLT UPN 7 3 Endocrinian 3 Diabetes Yes Infectious 3 Candidiasis septicaemia No UPN 10 5 Cardiovascular 3 Anasarque Yes Digestive 3 Haematemesis Yes UPN 12 5 Infectious 3 Pneumonia No UPN 15 5 Infectious 4 Aspergillosis Yes UPN 17 5 Cutaneous 3 Rash Yes UPN 19 5 Pain 3 Scalp Yes DLT ¼ dose-limiting toxicity. A phase I dose-finding and pharmacokinetic study months and 3 months, respectively), and one patient with blast crisis of CMML return in chronic phase for 6 months. These three patients had been treated at the estimated MTD (5 mg m À2 day À1 ).</p><p>The two patients who achieved CR had been treated for AML in first relapse and second relapse, treated by conventional daunorubicine Ara-C combination and high-dose Ara-C, respectively. The patient with CMML who returned to chronic phase was treated after the failure of daunorubicin and conventional doses of Ara-C. The median survival of the 18 treated patients was 4.2 months and survival at 6 months was 38.9% (95% CI, 21.8 -69.4%) (Figure <ref type="figure">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>Pharmacokinetic studies were performed in 17 patients with complete concentration -time profiles available. Figure <ref type="figure">2</ref> shows plasma concentration vs time profiles of ssHHT at day 9 after the last injection at the dose levels of 0.5 mg m À2 day À1 (n ¼ 3), 3 mg m À2 day À1 (n ¼ 2) and 5 mg m À2 day À1 (n ¼ 12). The mean pharmacokinetic parameters of ssHHT are summarised in Table <ref type="table" target="#tab_3">4</ref>. Interpatient variability in pharmacokinetic parameters was low, more particularly for C max at the 5 mg m À2 day À1 level (CV ¼ 21.1%). T max was short and consistent with s.c. absorption (range 0.25 -1.1 h). The AUCs but not C max increased in near proportion with increasing doses of ssHHT. Disappearance of ssHHT from the central plasma compartment was characterised by elimination in an apparent monoexponential manner. The estimate apparent terminal half-life was relatively consistent in all patients, exhibiting a mean value of 11.0173.4 h when all doses were combined. T 1/2 was dose independent (P ¼ 0.52). Evolution in C min between days 5 and 9 shows no apparent accumulation of ssHHT. Plasma concentrations of ssHHT were still detectable 48 h after last injection at day 9.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Traditional induction regimen for AML, such as combination of cytarabine and an anthracycline, consistently leads to CR; however, relapse is common. Only 25 -45% of patients younger than 60 years remain in CR at 4 years <ref type="bibr" target="#b1">(Bennett et al, 1997)</ref>. Patients who develop AML after a pre-existing MDS have even worse responses <ref type="bibr" target="#b14">(Kantarjian et al, 1997)</ref>. New approaches are therefore needed to address this problem.</p><p>Homoharringtonine has demonstrated promising activity in several haematological malignancies, and has been extensively studied in the 1980s, demonstrating an interesting efficacy in CML and AML. However, hypotension was the DLT when HHT was used at high doses and/or in short schedule infusions, whereas myelosuppression was DLT for continuous low-dose infusions. Nonhaematologic toxicities were considered as mild and reversible. Moreover, despite its significant antileukaemic activity, its difficult production, the unreliability of source supply, the difficulty of extraction and the low level of purity of product limited its evaluation in large randomised studies or its use in clinical practice.</p><p>The results of the present phase I study, in which a purer and easier to produce semisynthetic form of HHT is given by s.c. route, prove that the regimen is feasible in patients with advanced/refractory acute leukaemia, with an acceptable toxicity profile.</p><p>Our pharmacokinetic data indicate low interpatient variability after s.c. administration of ssHHT. The volume of distribution, total plasma clearance and terminal elimination half-life of ssHHT are very close to pharmacokinetic data published with continuous 1 10 100 0 1 0 2 0 3 0 4 0 5 0 6 0 Time (h) HHT (ng ml -1 ) 5 mg m -2 3 mg m -2 0.5 mg m -2 Figure 2 Concentration -time profiles of HHT at dose levels ranging from 0.5 to 5 mg m À2 day À1 after last injection at day 9. Data from the same dose levels were grouped and are presented as mean values (symbols)7s.e. (error bar). The legend indicates each of the dose levels used. intravenous administration of ssHHT. As an illustration, <ref type="bibr" target="#b25">Savaraj et al (1986)</ref> explored the pharmacokinetic of continuous infusion of HHT at doses of 3 -4 mg m À2 day À1 . V d b/F, CL/F and T 1/2 were 2.470.4 l kg À1 , 12.471.9 l h À1 and 9.371.4 h, respectively. Semisynthetic homoharringtonine inhibits protein synthesis in a doseand time-dependent manner. Peak plasma of ssHHT at 3 and 5 mg m À2 day À1 levels were above the concentrations required in vitro to inhibit 50% of the growth of human leukaemic HL-60 cells <ref type="bibr" target="#b33">(Zhou et al, 1995)</ref>.</p><p>The design of the trial used the CRM, a Bayesian sequential design, to determine the MTD. This method allowed us a precise estimation of the MTD, with an estimated toxicity probability at the 5 mg m À2 dosage of 36.1% (95% credibility interval: 15.8 -58.6%), 12 patients being treated at this dose. This estimation compares favourably with classical estimation of the MTD in phase I trial using, for example, the standard 3 þ 3 method in which a maximum of six patients are treated at the MTD.</p><p>This trial demonstrates that, in patients with advanced AML, the MTD of ssHHT is 5 mg m À2 day À1 during 9 days by s.c. route. This regimen is primarily associated with a haematological toxicity, with a prolonged myelosuppression and, in several cases, febrile neutropenia with life-threatening infection in two cases.</p><p>Antileukaemic activity was not the primary end point of this study, and patient population was heavily pretreated with few young patients or patients having been treated by allogeneic stem cell transplantation. Nevertheless, three out of 18 (17%) patients benefited from the treatment, experiencing either CR or return to a chronic phase of a CMML. Taken together with the toxicity profile of the drug, this suggests that ssHHT should be tested early in the course of the disease.</p><p>Subcutaneous dose schedule of ssHHT may provide easier administration for patients and will permit the exploration of novel dosing schedule in chronic disease such as MDS or AML in remission as maintenance therapy <ref type="bibr" target="#b2">(Buchner et al, 2001)</ref>. Moreover, consideration should be given to re-exploring the potential value of ssHHT in other haematological malignancies such as CML <ref type="bibr" target="#b21">(O'Brien et al, 2003;</ref><ref type="bibr" target="#b18">Marin et al, 2005)</ref>, specially in cases of bcr-abl mutation T315I, refractory to several tyrosine kinase inhibitors. Furthermore, manipulation in the side chain of ssHHT may provide second-generation analogues that may have a broader or different spectrum of activity.</p><p>In conclusion, the recommended dose of ssHHT by s.c. route is 5 mg m À2 day À1 for 9 days. Semisynthetic homoharringtonine is well tolerated and has a favourable pharmacokinetic profile with low interpatient variability. It merits further evaluation in phase II studies. A clinical development plan aiming for registration of ssHHT is currently ongoing, sponsored by ChemGenex Phamraceutical Ltd (CA, USA) and Stragen Pharma (Geneva, Switzerland).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 Figure 2</head><label>12</label><figDesc>Figure 1 Kaplan -Meier survival curve in treated patients (n ¼ 18).</figDesc><graphic coords="5,60.09,185.59,215.64,124.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Updated DLT probabilities of the five tested dose levels, computed after each newly included cohort of three patients per dose level through the use of Bayes theorem</figDesc><table><row><cell></cell><cell cols="3">HHT-loading dose (mg m À2 day À1 )</cell><cell></cell></row><row><cell></cell><cell cols="3">Initial guesses of toxicity probability</cell><cell></cell></row><row><cell>0.5</cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>6</cell></row><row><cell></cell><cell cols="3">Updated estimated probability of DLT</cell><cell></cell></row></table><note><p>DLT ¼ dose-limiting toxicity; HHT ¼ homoharringtonine; NT ¼ no toxicity; T ¼ DLT. In bold: the dose level closest to the toxicity target (33%).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>In vivo antileukaemic effect of ssHHT</figDesc><table><row><cell>Patient</cell><cell>Dose</cell><cell>Blood blast</cell><cell>Bone marrow</cell><cell>Blood/bm at the</cell><cell></cell></row><row><cell>no.</cell><cell>(mg m À2 )</cell><cell>clearance</cell><cell>D10</cell><cell>end of cytopaenia</cell><cell>Result of treatment</cell></row><row><cell>1</cell><cell>0.5</cell><cell>D8</cell><cell>94% blasts</cell><cell>Leukaemic</cell><cell>Blood blast clearance</cell></row><row><cell>2</cell><cell>0.5</cell><cell>No clearance</cell><cell>Not done</cell><cell>Leukaemic</cell><cell>No effect</cell></row><row><cell>3</cell><cell>0.5</cell><cell>Not evaluable</cell><cell>Not done</cell><cell>Leukaemic</cell><cell>No effect</cell></row><row><cell>4</cell><cell>3</cell><cell>D7</cell><cell>74% blasts</cell><cell>Leukaemic</cell><cell>Blood blast clearance</cell></row><row><cell>6</cell><cell>3</cell><cell>Not evaluable</cell><cell>63% blasts</cell><cell>Leukaemic</cell><cell>No effect</cell></row><row><cell>7</cell><cell>3</cell><cell>D4</cell><cell>Clearance</cell><cell>Death</cell><cell>Blood and bm clearance</cell></row><row><cell>8</cell><cell>5</cell><cell>D6</cell><cell>70% blasts</cell><cell>Leukaemic</cell><cell>Blood blast clearance</cell></row><row><cell>9</cell><cell>5</cell><cell>D11</cell><cell>Clearance</cell><cell>15% in bm</cell><cell>Blood and bm clearance</cell></row><row><cell>10</cell><cell>5</cell><cell>D7</cell><cell>Not done</cell><cell>Death</cell><cell>Blood blast clearance</cell></row><row><cell>11</cell><cell>5</cell><cell>Not evaluable</cell><cell>76% blasts</cell><cell>18% in bm</cell><cell>Reduction of bone marrow blasts</cell></row><row><cell>12</cell><cell>5</cell><cell>Not evaluable</cell><cell>25% blasts</cell><cell>Leukaemic</cell><cell>No effect</cell></row><row><cell>13</cell><cell>5</cell><cell>D3</cell><cell>Clearance</cell><cell>Aplastic at D36</cell><cell>Blood and bm clearance</cell></row><row><cell>14</cell><cell>5</cell><cell>D5</cell><cell>Clearance</cell><cell>4% in bm</cell><cell>CR (4 months)</cell></row><row><cell>15</cell><cell>5</cell><cell>D4</cell><cell>Not done</cell><cell>4% in bm</cell><cell>CR (3 months)</cell></row><row><cell>16</cell><cell>5</cell><cell>D6</cell><cell>41% blasts</cell><cell>42% in bm</cell><cell>Blood blast clearance</cell></row><row><cell>17</cell><cell>5</cell><cell>Not evaluable</cell><cell>12% blasts</cell><cell>5.5% in bm</cell><cell>Blood and bm clearance</cell></row><row><cell>18</cell><cell>5</cell><cell>D7</cell><cell>Clearance</cell><cell>7.5% in bm</cell><cell>Return to CMML (6 months)</cell></row><row><cell>19</cell><cell>5</cell><cell>D6</cell><cell>Not done</cell><cell>Aplastic at D38</cell><cell>Blood and bm clearance</cell></row></table><note><p>CMML, chronic myelomonocytic leukaemia; CR, complete remission.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>HHT Pharmacokinetic parameters</figDesc><table><row><cell>Dose</cell><cell></cell><cell></cell><cell cols="2">C max day 5 (ng ml À1 )</cell><cell cols="2">T max day 5 (h)</cell><cell cols="2">C min day 5 (ng ml À1 )</cell><cell cols="2">C min day 9 (ng ml À1 )</cell><cell cols="6">AUC day 9 (ng h ml À1 ) V d b/F (l kg À1 ) CL/F (l h À1 )</cell><cell cols="2">T 1/2 (h)</cell></row><row><cell>mg m À2 day À1</cell><cell>mg</cell><cell cols="17">No. Pts Mean s.d. Mean s.d. Mean s.d. Mean s.d. Mean s.d. Mean s.d. Mean s.d. Mean s.d.</cell></row><row><cell>0.5</cell><cell>0.9 -1.0</cell><cell>3</cell><cell>10.5</cell><cell>8.8</cell><cell>1.0</cell><cell>0.12</cell><cell>3.4</cell><cell>0.9</cell><cell></cell><cell></cell><cell>169</cell><cell>38</cell><cell>1.52</cell><cell>0.39</cell><cell>5.9</cell><cell cols="2">1.60 13.4</cell><cell>3.8</cell></row><row><cell>3</cell><cell>4.8 -5.4</cell><cell>2</cell><cell>78.0</cell><cell>18.2</cell><cell>0.6</cell><cell>0.53</cell><cell>27.4</cell><cell>27.9</cell><cell>14.7</cell><cell>8.3</cell><cell>441</cell><cell>291</cell><cell>2.54</cell><cell>0.75</cell><cell>14.2</cell><cell>8.77</cell><cell>8.9</cell><cell>3.7</cell></row><row><cell>5</cell><cell>7.0 -10.0</cell><cell>12</cell><cell>96.1</cell><cell>20.3</cell><cell>0.6</cell><cell>0.43</cell><cell>31.3</cell><cell>16.7</cell><cell>25.6</cell><cell>20.3</cell><cell>909</cell><cell>550</cell><cell>2.02</cell><cell>1.43</cell><cell cols="2">11.6 10.4</cell><cell>10.8</cell><cell>3.2</cell></row><row><cell>Grand mean</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">11.01 3.4*</cell></row></table><note><p>*P-value for Kruskall -Wallis test (P ¼ 0.52).</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2006) 95(3), 253 -259 &amp; 2006 Cancer Research UK</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (2006) 95(3), 253 -259 &amp; 2006 Cancer Research UK Clinical Studies</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>This work was supported by the <rs type="funder">Ligue Nationale contre le Cancer</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Comparison of the effects of flavone acetic acid, fostriecin, homoharringtonine and tumour necrosis factor alpha on colon 38 tumours in mice</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Baguley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Calveley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Crowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Fray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Rourke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="263" to="269" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Long-term survival in acute myeloid leukemia: the Eastern Cooperative Oncology Group experience</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Cassileth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Tallman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Paietta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Wiernik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="2205" to="2209" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Acute myeloid leukaemia (AML): treatment of the older patient</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Buchner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hiddemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schoch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Haferlach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Sauerland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heinecke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Best Pract Res Clin Haematol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="139" to="151" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Apoptotic response to homoharringtonine in human wt p53 leukemic cells is independent of reactive oxygen species generation and implicates Bax translocation, mitochondrial cytochrome c release and caspase activation</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wuchter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ruppert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dorken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Karawajew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="567" to="574" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Report of the National Cancer Institutesponsored workshop on definitions of diagnosis and response in acute myeloid leukemia</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Cassileth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Head</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Schiffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Bloomfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brunning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Gale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Grever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sawitsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Weinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Woods</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="813" to="819" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Phase I trial of homoharringtonine administered as a 5-day continuous infusion</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Coonley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Warrell</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="693" to="696" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Homoharringtonine in combination with cytarabine for patients with acute myelogenous leukemia</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Arlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mittelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Puccio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Baskind</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1189" to="1191" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Homoharringtonine is safe and effective for patients with acute myelogenous leukemia</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Arlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mittelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Puccio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Baskind</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1185" to="1188" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Inhibition of translation in eukaryotic systems by homoharringtonine</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fresno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jimenez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vazquez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Biochem</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="323" to="330" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The continual reassessment method for dosefinding studies: a tutorial</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Garrett-Mayer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Trials</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="57" to="71" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Cephalotaxine esters: antileukemic advance or therapeutic failure?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Grem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Leyland-Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Suffness</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="1095" to="1103" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Cytotoxicity and sister chromatid exchanges induced in vitro by six anticancer drugs developed in the People&apos;s Republic of China</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">F</forename><surname>Yue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="841" to="847" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Harringtonine, an inhibitor of initiation of protein biosynthesis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="511" to="519" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Phase II study of low-dose continuous infusion homoharringtonine in refractory acute myelogenous leukemia</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Kantarjian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Walters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Mccredie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Freireich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="813" to="817" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Chronic myelogenous leukemiaprogress at the MD Anderson Cancer Center over the past two decades and future directions: first</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Kantarjian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Talpaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kurzrock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gutterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mccredie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Freireich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Emil J Freireich Award Lecture. Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="2723" to="2733" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Kantarjian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Talpaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Santini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Murgo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Homoharringtonine: history, current research, and future direction</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1591" to="1605" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Influence of harringtonine on human leukemia cell differentiation</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuliczkowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Immunol Ther Exp (Warsz)</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="69" to="76" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Phase I clinical investigation of homoharringtonine</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Legha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Picket</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ajani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Bodey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1085" to="1091" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phase I/II trial of adding semisynthetic homoharringtonine in chronic myeloid leukemia patients who have achieved partial or complete cytogenetic response on imatinib</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Kaeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Andreasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Olavarria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Apperley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="1850" to="1855" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Phase I trial of homoharringtonine</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Neidhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Derocher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Metz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="801" to="804" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase I trial of homoharringtonine administered by prolonged continuous infusion</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Neidhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kraut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Howinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Metz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="967" to="969" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Results of triple therapy with interferon-alpha, cytarabine, and homoharringtonine, and the impact of adding imatinib to the treatment sequence in patients with Philadelphia chromosomepositive chronic myelogenous leukemia in early chronic phase</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Talpaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cortes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Rios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Andreeff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kornblau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Faderl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Garcia-Manero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mallard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Freireich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Kantarjian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="888" to="893" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Results of fludarabine and prednisone therapy in 264 patients with chronic lymphocytic leukemia with multivariate analysis-derived prognostic model for response to treatment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kantarjian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Estey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Robertson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lerner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Keating</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="1695" to="1700" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Continual reassessment method: a practical design for phase 1 clinical trials in cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>O'quigley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pepe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="33" to="48" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Experimental designs for phase I and phase I/II dose-finding studies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>O'quigley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zohar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="609" to="613" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Clinical pharmacology of homoharringtonine</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Savaraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dimery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Feun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Loo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="1403" to="1407" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Homoharringtonine: a phase I evaluation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Krakoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest New Drugs</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="279" to="286" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Biologic and pharmacologic effects of harringtonine on human leukemialymphoma cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Takemura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ohnuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Holland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="206" to="210" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Alkaloid homoharringtoninie inhibits polypeptide chain elongation in human ribosomes on the step of peptide bond formation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tujebajeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Graifer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Karpova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Ajtkhozhina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEBS Lett</title>
+		<imprint>
+			<biblScope unit="volume">257</biblScope>
+			<biblScope unit="page" from="254" to="256" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Effects of homoharringtonine alone and in combination with alpha interferon and cytosine arabinoside on &apos;in vitro&apos; growth and induction of apoptosis in chronic myeloid leukemia and normal hematopoietic progenitors</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Visani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ottaviani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Damiani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michelutti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Manfroi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baccarani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="624" to="628" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Homoharringtonine: an effective new drug for remission induction in refractory nonlymphoblastic leukemia</title>
+		<author>
+			<persName><forename type="first">Warrell</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Coonley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Gee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="617" to="621" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Effect of homoharringtonine on the viability of murine leukemia P388 cells resistant to either adriamycin, vincristine, or 1-beta-D-arabinofuranosylcytosine</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Wilkoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Dulmadge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laster</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Griswold</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="145" to="150" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Homoharringtonine induces apoptosis of endothelium and down-regulates VEGF expression of K562 cells</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">J</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Zhejiang Univ Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="230" to="234" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Homoharringtonine: an effective new natural product in cancer chemotherapy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zittoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Marie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull Cancer</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="987" to="995" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Effect of homoharringtonine on proliferation and differentiation of human leukemic cells in vitro</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">S</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Koeffler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="2031" to="2035" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The continual reassessment method: comparison of Bayesian stopping rules for dose-ranging studies</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zohar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chevret</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="2827" to="2843" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Software to compute and conduct sequential Bayesian phase I or II dose-ranging clinical trials with stopping rules</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zohar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Latouche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Taconnet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chevret</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Methods Programs Biomed</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="117" to="125" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

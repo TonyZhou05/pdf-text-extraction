@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Protracted infusional 5-fluorouracil plus high-dose folinic acid combined with bolus mitomycin C in patients with gastrointestinal cancer: a phase I/II dose escalation study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hartmann</surname></persName>
+							<email>joerg.hartmann@med.uni-tuebingen.de</email>
+							<affiliation key="aff0">
+								<orgName type="department">Abt. Ha ¨matologie/Onkologie/Immunologie/Rheumatologie</orgName>
+								<orgName type="institution" key="instit1">Medizinische Klinik II</orgName>
+								<orgName type="institution" key="instit2">Eberhard-Karls-Universita ¨t</orgName>
+								<address>
+									<addrLine>Tu ¨bingen</addrLine>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Oechsle</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Abt. Ha ¨matologie/Onkologie/Immunologie/Rheumatologie</orgName>
+								<orgName type="institution" key="instit1">Medizinische Klinik II</orgName>
+								<orgName type="institution" key="instit2">Eberhard-Karls-Universita ¨t</orgName>
+								<address>
+									<addrLine>Tu ¨bingen</addrLine>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><surname>Quietzsch</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Abt. fu ¨r Internistische Onkologie</orgName>
+								<orgName type="institution">Innere Medizin II</orgName>
+								<address>
+									<addrLine>Klinikum Chemnitz</addrLine>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Wein</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Medizinische Klinik I</orgName>
+								<orgName type="institution">Universita ¨t Erlangen-Nu ¨rnberg</orgName>
+								<address>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Hofheinz</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Medizinische Klinik III</orgName>
+								<address>
+									<addrLine>Klinikum Mannheim</addrLine>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">F</forename><surname>Honecker</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Abt. Ha ¨matologie/Onkologie/Immunologie/Rheumatologie</orgName>
+								<orgName type="institution" key="instit1">Medizinische Klinik II</orgName>
+								<orgName type="institution" key="instit2">Eberhard-Karls-Universita ¨t</orgName>
+								<address>
+									<addrLine>Tu ¨bingen</addrLine>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">O</forename><surname>Nehls</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Abt. Gastroenterologie/Hepatologie/Infektiologie</orgName>
+								<orgName type="institution" key="instit1">Medizinische Klinik I</orgName>
+								<orgName type="institution" key="instit2">Eberhard-Karls-Universita ¨t</orgName>
+								<address>
+									<addrLine>Tu ¨bingen</addrLine>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">C-H</forename><surname>Ko ¨hne</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution" key="instit1">Medizinische Klinik I</orgName>
+								<orgName type="institution" key="instit2">Universita ¨t Dresden</orgName>
+								<address>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">G</forename><surname>Ka ¨fer</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Hematology/Oncology/ Immunology/Rheumatology</orgName>
+								<orgName type="institution" key="instit1">Kliniken Sigmaringen</orgName>
+								<orgName type="institution" key="instit2">Innere Medizin</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">L</forename><surname>Kanz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Abt. Ha ¨matologie/Onkologie/Immunologie/Rheumatologie</orgName>
+								<orgName type="institution" key="instit1">Medizinische Klinik II</orgName>
+								<orgName type="institution" key="instit2">Eberhard-Karls-Universita ¨t</orgName>
+								<address>
+									<addrLine>Tu ¨bingen</addrLine>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Bokemeyer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Abt. Ha ¨matologie/Onkologie/Immunologie/Rheumatologie</orgName>
+								<orgName type="institution" key="instit1">Medizinische Klinik II</orgName>
+								<orgName type="institution" key="instit2">Eberhard-Karls-Universita ¨t</orgName>
+								<address>
+									<addrLine>Tu ¨bingen</addrLine>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution" key="instit1">UKT-Medical Center II</orgName>
+								<orgName type="institution" key="instit2">Eberhard-Karls- University Tuebingen</orgName>
+								<address>
+									<addrLine>Otfried-Mueller-Str. 10</addrLine>
+									<postCode>72076</postCode>
+									<settlement>Tuebingen</settlement>
+									<country>Germany;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Protracted infusional 5-fluorouracil plus high-dose folinic acid combined with bolus mitomycin C in patients with gastrointestinal cancer: a phase I/II dose escalation study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">67AF5585FBABAFC98ED2ABCD14DE2AC9</idno>
+					<idno type="DOI">10.1038/sj.bjc.6601412</idno>
+					<note type="submission">Received 22 April 2003; revised 26 August 2003; accepted 15 September 2003</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>advanced gastrointestinal cancer</term>
+					<term>colorectal carcinoma</term>
+					<term>gastric cancer</term>
+					<term>mitomycin C</term>
+					<term>continuous infusional 5-flourouracil</term>
+					<term>phase I/II study</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The aim of this study was to define the maximum tolerated dose (MTD) of bolus mitomycin C (MMC) in combination with 24 hcontinuous infusion of 5-flourouracil (FU) plus folinic acid, and to assess the toxicity and activity in patients with previously treated colorectal and gastric cancer. Escalating doses of MMC starting from 6 mg m À2 in 2 mg m À2 -steps to a maximum of 10 mg m À2 were applied on days 1 and 22, given to fixed doses of 5-FU (2.600 mg m À2 ) as 24 h infusion and folinic acid 500 mg m À2 prior to 5-FU weekly for 6 weeks. At least three patients were treated at each dose level. A total of 16 patients have been included in the phase I study. At the highest dose level (MMC 10 mg m À2 ), grade III thrombocytopenia, dyspnoea, mucositis and diarrhoea were observed in one patient each (17 %). In the phase II study 45 patients, 33 with colorectal cancer and 12 with gastric cancer, 23 patients after failure of first-and 22 patients after at least second-line or subsequent chemotherapy have been treated. Seven partial responses (PR) were registered (16%), one (3%; CI 95% , 0 -16) in colorectal and six (50%; CI 95% , 21 -79%) in gastric cancer patients. In all, 17 (38%) achieved disease stabilisation, 15 colorectal (45%, CI 95% , 28 -64%) and two gastric cancer patients (17%; CI 95% , 2 -48%). The median progression-free survival was 3.1 months (range, 0.9 -9.1) in colorectal and 4.6 months (range, 0.7 -12.4) in gastric cancer. The median overall survival time was 6.6 months (range, 1.9 -15.6) in colorectal and 7.1 months (range, 1.7 -20.8) in patients with gastric cancer. This regimen was considered to be safe and well tolerated for pretreated patients with gastrointestinal adenocarcinoma. In gastric cancer,MMC plus infusional 5-FU/folinic acid may be a potential second-line regimen with promising antitumour activity.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Mitomycin C (MMC) is a quinone-containing antitumour antibiotic that is reductively activated by a variety of enzymatic systems to metabolites that alkylate and crosslink DNA <ref type="bibr" target="#b10">(Dorr, 1988)</ref>. The treatment with MMC results in the formation of reactive oxygen species, which also contribute to its cytotoxicity <ref type="bibr" target="#b9">(Doroshow, 1986;</ref><ref type="bibr" target="#b24">Pritsos and Sartorelli 1986;</ref><ref type="bibr" target="#b11">Dusre et al, 1990)</ref>. Intracellular glutathione (GSH) participates in the detoxification of alkylating agents by converting reactive intermediates into noncytotoxic metabolites, and cells with increased pools of GSH have been shown to develop resistance to MMC <ref type="bibr" target="#b10">(Dorr, 1988)</ref>.</p><p>Single-agent MMC reaches remission rates of approximately 10 -20% in patients with advanced gastrointestinal cancer, in first-line as well as in second-line therapy <ref type="bibr" target="#b23">(Moertel et al, 1968;</ref><ref type="bibr" target="#b22">Moertel, 1975)</ref>. In patients refractory to 5-flourouracil (FU) /folinic acid, first-line chemotherapy single-agent MMC has shown antitumour efficacy <ref type="bibr">(Hartmann et al, 1998a;</ref><ref type="bibr" target="#b17">Hartmann et al, 1999)</ref>. Partial remissions have been found particularly in gastric cancer, as well as disease stabilisations in colorectal cancer patients. When combined with continuous infusional 5-FU/folinic acid, an increased antitumour activity was found in pretreated gastrointestinal adenocarcinomas with objective remission rates of about 10% in colorectal and up to 46% in gastric cancer patients <ref type="bibr" target="#b4">(Chester et al, 2000;</ref><ref type="bibr" target="#b21">Kretzschmar et al, 2000;</ref><ref type="bibr" target="#b19">Hofheinz et al, 2002)</ref>. Different schedules and dosages of MMC have been used in previous trials <ref type="bibr" target="#b26">(Ross et al, 1997;</ref><ref type="bibr" target="#b21">Kretzschmar et al, 2000;</ref><ref type="bibr" target="#b3">Chang et al, 2002;</ref><ref type="bibr" target="#b19">Hofheinz et al, 2002;</ref><ref type="bibr" target="#b36">Tebbutt et al, 2002)</ref>, but no systematic investigation to determine the maximum tolerated dose (MTD) of MMC when combined with 5-FU/folinic acid has been performed so far.</p><p>The aim of this nonrandomised multicentre phase I/II study was first to define the MTD of bolus MMC in combination with continuous infusional 5-FU plus high-dose folinic acid. In the phase II part, the question of antitumour activity was addressed adding MMC to 5-FU/folinic acid in 5-FU-resistant patients with metastatic gastrointestinal adenocarcinomas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eligibility</head><p>Patients eligible for this study had advanced disease of a histologically confirmed gastrointestinal adenocarcinoma. In the phase I part of this study, patients were allowed to be pretreated with any palliative chemotherapy. Objective evidence of tumour progression must have occurred while the patient was receiving chemotherapy or within 6 months from receiving the last dose of prior chemotherapy. Disease must have been bidimensional measurable in X-ray, ultrasound or computed tomography.</p><p>In the phase II part of the trial, patients were allowed to have up to two prior 5-FU-based chemotherapy regimens, bolus and/or continuous infusion of 5-fluorouracil/folinic acid. Adjuvant chemotherapy was also permitted. Patients must have been between 18 and 75 years, have a performance status of 0 -2 according to the ECOG criteria and a life expectancy of at least 3 months. Other inclusion criteria consisted of pretreatment neutrophile count X2000 ml À1 , platelet count X150 000 ml À1 , serum creatinine concentration p2.0 mg dl À1 and total bilirubin levels p2.0 mg dl À1 . Exclusion criteria were known incompatibility to 5-FU or MMC, the presence of central nervous metastases, serious or uncontrolled concurrent medical illness or secondary malignancies except for basal cell carcinoma of the skin or carcinoma in situ of cervix uteri. All patients were informed of the investigational nature of this study and had to provide written informed consent in accordance with institutional and federal guidelines. The multicentre study was reviewed and approved by the local ethical committee of all participating centres. Treatment was performed according to the Declaration of Helsinki.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment protocol</head><p>Chemotherapy consisted of 7-weekly courses of 2600 mg m À2 5-FU i.v. as a 24-h continuous infusion combined with 500 mg m À2 folinic acid i.v. applied over 2 h or simultaneously in one infusion bag as a 24-h infusion with 5-FU (Oncolfolic s , Medac, Hamburg, FRG), both given weekly for 6 weeks followed by 1 week rest. The treatment was restarted on day 50. Mitomycin C was administrated as bolus injection in three dose escalation steps of 6, 8 and 10 mg m À2 on days 1 and 22. At least three patients were treated at each dose level in the first part (phase I). Treatment was continued for at least two treatment cycles. Escalation proceeded to dose level 3 unless two out of three or four out of six patients experienced a dose-limiting toxicity (DLT) after the first cycle. Treatment was applied in an outpatient oncology setting. All patients prophylactically received 50 mg of prednisolone i.v. before mitomycin application. Antiemetic premedication was left up to the decision of the treating physician. Most patients received 5-HT 3 -antagonists or metoclopramide prior to treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluation of response and toxicity</head><p>All patients were assessed prior to treatment by physical examination, routine haematology and biochemistry analysis, chest X-ray and CT scan to define the extent of disease. Complete blood cell counts with platelets and differential counts were obtained weekly during chemotherapy, and serum chemistry analyses were repeated at least once every course. Subjective symptoms, physical examination, performance status and all adverse reactions were recorded before each treatment cycle. Tumour size was measured every cycle by CT scan, X-ray or any other technique that allows retrospective and independent assessment. Determination of tumour response followed WHO standard criteria: complete remission (CR) was defined as a complete disappearance of all evidence of disease. A partial response (PR) was defined as radiological response 450% in tumour size, and response o50% or progression o25% was defined as stable disease. Progressive disease was defined as either residual lesions increasing in size or occurrence of new lesions.</p><p>Treatment was continued until one of the following criteria was met: development of progressive disease or of unacceptable toxicity; intercurrent, noncancer-related illness that prevented continuation of therapy or regular follow-up evaluation; withdrawal of consent. The duration of response was defined as the interval from the onset of response until evidence of disease progression. Overall survival was defined as the interval from the date of study until death (or last contact if the patient was still alive).</p><p>Dose-limiting toxicity was defined as grade IV haematological toxicity (neutrophile granulocyte, thrombocytes), diarrhoea grade III, febrile neutropenia grade III with any grade of diarrhoea or any organ toxicity grade III (nephrotoxicity grade II), except alopecia and nausea. Dose modifications for the following treatment cycles were based on the worst toxicity observed during the previous cycle of chemotherapy. Treatment was delayed in case of leucocytes o3000 ml À1 or thrombocytes o75000 ml À1 to a maximum length of 2 weeks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>All information was included into a database at Tuebingen University Medical Center, Germany. Statistical analyses were performed using the SPSS system (SPSS for windows 10.0 software, Microsoft Corp., Redmond, WA, USA). Exact 95% confidence intervals (CI) around the observed response rate were calculated from the binominal distribution. The Kaplan -Meier method was used to determine overall and progression-free survival distributions. The overall survival calculation used death due to any reason as the endpoint <ref type="bibr" target="#b20">(Kaplan and Maier, 1958)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Between September 1999 and May 2002, a total of 61 patients with advanced gastrointestinal cancer failing 5-FU-based chemotherapy were included according to the study protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phase I</head><p>A total of 16 patients were entered into the phase I part and all three planned consecutive dose levels, including 6, 8 and 10 mg m À2 of bolus MMC, have been tested. At the highest dose level (10 mg m À2 mitomycin) grade III thrombocytopenia, dyspnoea, mucositis and diarrhoea were observed in one patient each (17%). No grade IV toxicity was seen in this phase I part of the study and no grade III toxicity occurred at the dose levels of 6 or 8 mg m À2 MMC. Therefore, 10 mg m À2 was considered to be the MTD of mitomycin given on days 1 and 22 in combination with weekly infusional 5-FU plus folinic acid. Toxicity according to WHO criteria at dose level 3 during the phase I study is listed in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phase II</head><p>Patients' characteristics In total, 45 patients, 37 men and 8 women, were entered into the phase II study. All were assessable for response evaluation, survival analysis and toxicity. A summary of baseline patients' characteristics is given in Table <ref type="table" target="#tab_1">2</ref>. In all, 11 patients (24%) had colon, 22 (49%) rectal and 12 (27%) had gastric adenocarcinomas. The majority of patients were symptomatic, with 27 patients (60%) having an ECOG-performance status of 1 and six patients (13%) of 2. A total of 23 patients (51%) were included after failure of first-and 22 patients (49%) after at least one further line of chemotherapy. In all, 50% of the patients (n ¼ 6) with gastric cancer had been pretreated with continuous infusional 5-FU as prior treatment and 33% of the patients (n ¼ 4) had received 5-FU-combination chemotherapy with cisplatin. In patients with colorectal cancer, previous chemotherapy consisted of bolus 5-FU in 27% (n ¼ 9) and continuous infusion of 5-FU in 46% (n ¼ 15). A total of 27% (n ¼ 9) had received continuous 5-FU plus either irinotecan or oxaliplatin.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety and toxicity assessment</head><p>A median number of two cycles of MMC and 5-FU/folinic acid (range, 1 -3) have been applied during the phase II trial. The combination of continuous infusional 5-FU plus folinic acid and bolus MMC was well tolerated. The side effects observed in the phase II are listed in Table <ref type="table" target="#tab_2">3</ref>.</p><p>No renal dysfunction, pulmonary toxicity such as irreversible interstitial pneumonia or evidence of haemolytic uraemic syndrome or haemolytic anaemia was observed. The most frequent severe haematological toxicity (grade III/IV according to the WHO criteria) during the phase II trial was thrombocytopenia in 16% of the patients (n ¼ 7). In three of those seven patients, thrombocytopenia occurred during the first cycle, and in the remaining four patients in the second cycle. Treatment has to be delayed for 2 weeks in one single patient. One of seven patients had thrombopenia grade II prior to the start of treatment with MMC/ 5-FU due to pretreatment. Patients with severe thrombopenia regenerated slowly after withdrawal of treatment. Mild thrombocytopenia was more frequent (n ¼ 17, 38%). Leucocytopenia grade I/II occurred in 47% of the patients (n ¼ 21), and grade III/IV was seen in 7% of the patients (n ¼ 3). In all, 4% of the patients (n ¼ 2) experienced severe neutropenic infections. Nonhaemolytic anaemia grade III occurred in 7% of the patients (n ¼ 3). These patients all had mild anaemia prior to the study. Diarrhoea was the most frequent nonhaematologic grade III/IV toxicity in 16% of the patients (n ¼ 7), followed by nausea and emesis in 7% (n ¼ 3). Mild hand -foot syndrome was observed in 20% of the patients (n ¼ 9). No treatment-related death was seen and no catheter-related complications were observed. The treatment dosage had to be reduced in 11% of the patients (n ¼ 5) due to toxicity. Treatment was delayed for at least 1 week during the whole treatment in 20 patients (44%) due to toxicity. Seven patients (16%) were hospitalised as a result of toxicity in seven of 85 cycles (8%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response evaluation</head><p>Seven patients (16%) attained an objective response to the combination of infusional 5-FU plus folinic acid and MMC, one of 33 patients with colorectal and six of 12 patients with gastric carcinoma. This represents a 50% response rate (CI 95% 21 -79) for the 12 patients with gastric adenocarcinoma, and a 3% response rate (CI 95% 0 -16) in colorectal cancer patients. No complete response was seen. Disease stabilisations were achieved in 17 patients (38%), 15 with colorectal cancer (45%, CI 95% 28 -64) and  The median progression-free survival was 3.1 months (range, 0.9 -9.1) in patients with advanced colorectal cancer and 4.6 months (range, 0.7 -12.4) in gastric cancer patients. The median overall survival in patients with colorectal cancer was 6.6 months (range, 1.9 -15.6) and 7.1 months in patients with gastric cancer <ref type="bibr">(range, 1.7 -20.8)</ref>. Patients responding to treatment and those with tumour stabilisation achieved a median survival of 9.5 months <ref type="bibr">(range, 3.8 -20.8)</ref>, whereas in patients with progressive disease the median survival was 5.3 months (range, 1.7 -12.4).</p><p>The 23 patients with one previous line of chemotherapy prior to the start of 5-FU/folinic acid plus MMC had a median survival of 8.4 months (range, 1.6 -18.3), and the 22 patients with at least two previous chemotherapy regimen survived for only 5.9 months (range, 1.3 -15.6). Of the patients, 14 (61%) with second-line 5-FU/ folinic acid plus MMC treatment achieved at least disease stabilisation and 10 patients (39%) had progressive disease, while in patients X2 previous regimens, only 45% (n ¼ 10) responded to treatment and 55% (n ¼ 12) had progressive disease. Patients with gastric cancer developing progressive disease while receiving previous chemotherapy had a lower probability to attain an objective response compared to the subgroup of patients with progressive or recurrent disease within 6 months of receiving the last dose of previous chemotherapy (P ¼ 0.02) (see Table <ref type="table" target="#tab_3">4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The prognosis of patients with recurrent metastatic gastric cancer is dismal, with a median survival ranging between 3 and 5 months in untreated patients <ref type="bibr" target="#b12">(Glimelius et al, 1997)</ref>. In advanced gastric cancer, first-line use of palliative combination chemotherapy compared with best supportive care is superior in terms of quality of life and overall survival. Whether this is also true for patients with relapse after first-line chemotherapy is currently not proven. Comparable to the treatment strategies in colorectal cancer, in recent years, several attempts have been made to improve the results by introducing continuous 5-FU infusion into polychemotherapy regimens in this disease. Mitomycin C is among the most effective single agents for the treatment of advanced gastric cancer <ref type="bibr" target="#b32">(Schnall and Macdonald, 1993)</ref>.</p><p>Although second-line chemotherapy in gastric cancer is not considered as a standard approach, phase II data are available for 5-FU/folinic acid, docetaxel, fotemustine and paclitaxel, demonstrating objective remission rates in a range of 0 -22% and overall survival times ranging from 3 to 8 months <ref type="bibr" target="#b38">(Vanhoefer et al, 1994;</ref><ref type="bibr" target="#b8">Di Bartolomeo et al, 1996;</ref><ref type="bibr" target="#b29">Rougier et al, 1996;</ref><ref type="bibr" target="#b2">Cascinu et al, 1998;</ref><ref type="bibr" target="#b40">Wilke et al, 1998)</ref>. By using continuous infusional MMC as a single agent, 30% of pretreated gastric cancer patients will achieve an objective remission. However, the median survival time is short with approximately 3 -4 months <ref type="bibr">(Hartmann et al, 1998a;</ref><ref type="bibr" target="#b17">Hartmann et al, 1999)</ref>.</p><p>The cellular mechanism of the clinically observed synergy between MMC and infusional 5-FU has not been further elucidated, although time-dependent interactions between both drugs on human cancer cell lines have been reported <ref type="bibr" target="#b30">(Russello et al, 1989)</ref>. In previous trials, MMC was applied either using absolute doses (e.g. 15 mg; <ref type="bibr" target="#b3">Chang et al, 2002)</ref> or in relation to body surface with 7 -10 mg m À2 on a 3-weekly basis. However, a systematic investigation to determine the MTD of MMC when combined with 5-FU/folinic acid has not been performed so far <ref type="bibr" target="#b26">(Ross et al, 1997;</ref><ref type="bibr" target="#b21">Kretzschmar et al, 2000;</ref><ref type="bibr" target="#b19">Hofheinz et al, 2002;</ref><ref type="bibr" target="#b36">Tebbutt et al, 2002)</ref>. With different schedules -one single injection of 15 mg m À2 mitomycin on day 1 <ref type="bibr" target="#b21">(Kretzschmar et al, 2000)</ref> or by combining infusional 5-FU with folinic acid with 10 mg m À2 MMC every 3, respectively every 6, weeks <ref type="bibr" target="#b19">(Hofheinz et al, 2002;</ref><ref type="bibr" target="#b36">Tebbutt et al, 2002)</ref> -survival in gastric cancer patients ranging from 5.3 to 10.2 months has been reported. Objective remission rates between 37 and 51% have been observed <ref type="bibr" target="#b21">(Kretzschmar et al, 2000;</ref><ref type="bibr" target="#b19">Hofheinz et al, 2002;</ref><ref type="bibr" target="#b36">Tebbutt et al, 2002)</ref>. In the phase I part of the present study, the MTD of MMC when combined to weekly infusional 5-FU plus folinic acid was 10 mg m À2 at days 1 and 22, and the rate of partial responses in the phase II was 50% lasting for a median of 3.5 months in pretreated gastric cancer patients. Furthermore, 31% of the patients achieved disease stabilisation. The overall survival for these patients was 7.1 months; not significantly longer compared to investigations of other agents as second-line treatment. This demonstrates the aggressive biology of the disease with a short interval between progression after chemotherapy and death.</p><p>Several trials have demonstrated that MMC also displays some activity in previously treated patients with colorectal cancer <ref type="bibr" target="#b23">(Moertel et al, 1968;</ref><ref type="bibr" target="#b6">Conti et al, 1995;</ref><ref type="bibr">Hartmann et al, 1998a)</ref>. A recent phase III trial in advanced colorectal cancer comparing protracted infusion of 5-FU with or without the addition of MMC demonstrated an overall response rate of 45% for the combination and 38% for 5-FU alone. The failure-free survival was 7.9 months in favour of the combination compared to 5.4 months for 5-FU alone. In addition, the global quality of life scores at 6 months was better for 5-FU and MMC <ref type="bibr" target="#b26">(Ross et al, 1997)</ref>. In the second-line setting, a considerable number of trials using MMC plus continuous infusional 5-FU have been carried out demonstrating that the addition of MMC to 5-FU can overcome resistance to firstline chemotherapy in a distinct number of patients <ref type="bibr" target="#b6">(Conti et al, 1995;</ref><ref type="bibr" target="#b1">Becker et al, 1997;</ref><ref type="bibr" target="#b33">Seitz et al, 1998;</ref><ref type="bibr" target="#b4">Chester et al, 2000;</ref><ref type="bibr" target="#b35">Tassinari et al, 2000;</ref><ref type="bibr" target="#b13">Grumett et al, 2001;</ref><ref type="bibr" target="#b25">Ross et al, 2002)</ref>.</p><p>In the present investigation, using MMC at maximum doses in combination with infusional 5-FU, a low remission rate of 3% was observed. However, 45% of patients revealed disease stabilisation lasting for a median interval of 3.2 months. These data are clearly inferior to other agents such as irinotecan (CPT-11) <ref type="bibr" target="#b27">(Rothenberg et al, 1996;</ref><ref type="bibr" target="#b28">Rougier et al, 1997;</ref><ref type="bibr" target="#b37">Van Cutsem et al, 1999)</ref> or oxaliplatin plus 5-FU/folinic acid (de Gramont et al, 1997), and appear equal to infusional 5-FU plus high-dose folinic acid <ref type="bibr" target="#b0">(Ardalan et al, 1991;</ref><ref type="bibr" target="#b39">Weh et al, 1994;</ref><ref type="bibr" target="#b16">Hartmann et al, 1998b)</ref> alone. Thus, with currently available treatment options for metastatic colorectal cancer, a clear role for infusional 5-FU/bolus MMC cannot be identified <ref type="bibr" target="#b18">(Hejna et al, 2000;</ref><ref type="bibr" target="#b5">Comella et al, 2001;</ref><ref type="bibr" target="#b34">Sobrero et al, 2001;</ref><ref type="bibr" target="#b31">Scheithauer et al, 2002)</ref>.</p><p>In conclusion, infusional 5-fluorouracil plus folinic acid combined with 10 mg m À2 bolus MMC is a safe and well-tolerated regimen that can be given on an outpatient basis. Toxicity was generally mild and treatment was well tolerated. Despite other reports, we did not observe adverse events such as a haemolytic uraemic syndrome, severe pulmonary toxicity, nephrotoxicity or microangiopathic haemolytic anaemia The median dose of MMC applied was 34.7 mg m À2 ranging from 17.5 to 61.8 mg m À2 . Thus, a relationship between the cumulative dose of MMC applied and the risk of developing haemolytic uraemic syndrome remains unclear <ref type="bibr" target="#b1">(Becker et al, 1997)</ref>. However, all patients in the present trial prophylactically received 50 mg prednisolone prior to MMC <ref type="bibr">(Hartmann et al, 1998a</ref><ref type="bibr" target="#b17">(Hartmann et al, , 1999</ref><ref type="bibr" target="#b15">(Hartmann et al, , 2000))</ref>. Treatment delays were mainly due to cumulative thrombocytopenia. While no substantial efficacy was seen in pretreated patients with colorectal cancer, this regimen possess clear antitumour activity in patients with pretreated gastric cancer, particularly in patients with temporary disease stabilisation after completion of preceding chemotherapy.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Toxicity at dose level 3 (10 mg m À2 MMC) according to the WHO criteria in the phase I (n ¼ 6 patients; n ¼ 9 cycles) Definition of toxicity Grade I/II (%) Grade III (%) Grade IV (%)</figDesc><table><row><cell>Neutropenia</cell><cell>2 (33 %)</cell><cell>0</cell><cell>0</cell></row><row><cell>Thrombocytopenia</cell><cell>2 (33 %)</cell><cell>1 (17%)</cell><cell>0</cell></row><row><cell>Anemia (nonhaemolytic)</cell><cell>2 (33%)</cell><cell>0</cell><cell>0</cell></row><row><cell>Nausea</cell><cell>1 (17%)</cell><cell>0</cell><cell>0</cell></row><row><cell>Emesis</cell><cell>1 (17%)</cell><cell>0</cell><cell>0</cell></row><row><cell>Diarrhoea</cell><cell>1 (17%)</cell><cell>1 (17%)</cell><cell>0</cell></row><row><cell>Constipation</cell><cell>2 (33%)</cell><cell>0</cell><cell>0</cell></row><row><cell>Dyspnoea</cell><cell>0</cell><cell>1 (17%)</cell><cell>0</cell></row><row><cell>Mucositis</cell><cell>1 (17%)</cell><cell>1 (17%)</cell><cell>0</cell></row><row><cell>Hand -foot syndrome</cell><cell>1 (17%)</cell><cell>0</cell><cell>0</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Characteristics of patients treated at dose level 3 (10 mg m À2 MMC) during the phase II study (n ¼ 45 patients)</figDesc><table><row><cell></cell><cell>N (patients)</cell><cell>%</cell></row><row><cell>Sex</cell><cell>37</cell><cell>82</cell></row><row><cell>Male</cell><cell></cell><cell></cell></row><row><cell>Female</cell><cell>8</cell><cell>18</cell></row><row><cell>Median age</cell><cell>59 years (range, 44 -73)</cell><cell></cell></row><row><cell>Performance status (ECOG)</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>1 2</cell><cell>2 7</cell></row><row><cell>1</cell><cell>2 7</cell><cell>6 0</cell></row><row><cell>2</cell><cell>6</cell><cell>1 3</cell></row><row><cell>Site of primary tumour</cell><cell></cell><cell></cell></row><row><cell>Colon carcinoma</cell><cell>11</cell><cell>24</cell></row><row><cell>Rectal carcinoma</cell><cell>22</cell><cell>49</cell></row><row><cell>Gastric carcinoma</cell><cell>12</cell><cell>27</cell></row><row><cell>Sites of metastases</cell><cell></cell><cell></cell></row><row><cell>Liver</cell><cell>35</cell><cell>78</cell></row><row><cell>Lymph node</cell><cell>16</cell><cell>36</cell></row><row><cell>Lung</cell><cell>20</cell><cell>44</cell></row><row><cell>Locoregional recurrence</cell><cell>15</cell><cell>33</cell></row><row><cell>Bone</cell><cell>2</cell><cell>4</cell></row><row><cell>Other</cell><cell>7</cell><cell>16</cell></row><row><cell>No. of previous chemotherapy regimens</cell><cell></cell><cell></cell></row><row><cell>n ¼ 1</cell><cell>2 3</cell><cell>5 1</cell></row><row><cell>nX2</cell><cell>2 2</cell><cell>4 9</cell></row><row><cell>Prior chemotherapeutic regimens</cell><cell></cell><cell></cell></row><row><cell>in gastric cancer (n ¼ 12)</cell><cell></cell><cell></cell></row><row><cell>c.i. 5-FU</cell><cell>6</cell><cell>50</cell></row><row><cell>c.i. 5-FU combined with cisplatin</cell><cell>4</cell><cell>33</cell></row><row><cell>Other</cell><cell>2</cell><cell>22</cell></row><row><cell>First-line chemotherapeutic regimen</cell><cell></cell><cell></cell></row><row><cell>in colorectal cancer (n ¼ 33)</cell><cell></cell><cell></cell></row><row><cell>Bolus 5-FU</cell><cell>9</cell><cell>27</cell></row><row><cell>c.i. 5-FU</cell><cell>15</cell><cell>46</cell></row><row><cell>c.i. 5-FU combined with irinotecan</cell><cell>3</cell><cell>9</cell></row><row><cell>c.i. 5-FU combined with oxaliplatin</cell><cell>6</cell><cell>18</cell></row><row><cell>c.i. ¼ continuous infusion.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Worst toxicity per patient during treatment with 5-FU/folinic acid and MMC in phase II (n ¼ 45 patients; n ¼ 85 cycles)</figDesc><table><row><cell>Anaemia</cell><cell>25 (55 %)</cell><cell>3 (7 %)</cell><cell>0</cell></row><row><cell>Leucocytopenia</cell><cell>21 (47 %)</cell><cell>3 (7 % )</cell><cell>0</cell></row><row><cell>Thrombocytopenia</cell><cell>17 (38 %)</cell><cell>7 (16 %)</cell><cell>0</cell></row><row><cell>Infection</cell><cell>3 (7 %)</cell><cell>2 (4 %)</cell><cell>0</cell></row><row><cell>Diarrhoea</cell><cell>15 (33 %)</cell><cell>7 (16 %)</cell><cell>0</cell></row><row><cell>Mucositis</cell><cell>11 (24 %)</cell><cell>2 (4 %)</cell><cell>0</cell></row><row><cell>Constipation</cell><cell>7 (16 %)</cell><cell>0</cell><cell>0</cell></row><row><cell>Emesis</cell><cell>22 (49 %)</cell><cell>3 (7 %)</cell><cell>0</cell></row><row><cell>Nausea</cell><cell>16 (36 %)</cell><cell>3 (7 %)</cell><cell>0</cell></row><row><cell>Hand -foot -syndrome</cell><cell>9 (20 %)</cell><cell>0</cell><cell>0</cell></row></table><note><p>Definition of toxicity Grade I/II (%) Grade III (%) Grade IV (%)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Response to infusional 5-FU/folinic acid plus MMC depending on the progression-free interval during prior chemotherapy P ¼ 0.02. MMC ¼ mitomycin C; FU ¼ 5-fluorouracil; FS ¼ folinic acid; PR ¼ partial remission; NC ¼ no change; PD ¼ progressive disease; PFI ¼ progression-free interval ; n.e. ¼ not evaluable.</figDesc><table><row><cell>Response to</cell><cell>PD during</cell><cell></cell><cell></cell><cell></cell></row><row><cell>MMC/FU/FS</cell><cell>pretreatment</cell><cell>PD after PFI</cell><cell>N.e.</cell><cell>Total</cell></row><row><cell>PR/NC</cell><cell>À/2</cell><cell>5/À</cell><cell>1/À</cell><cell>8</cell></row><row><cell>PD</cell><cell>3</cell><cell>1</cell><cell>-</cell><cell>4</cell></row><row><cell>Total</cell><cell>5</cell><cell>6</cell><cell>1</cell><cell>12</cell></row><row><cell>w 2 ,</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2003) 89(11), 2051 -2056 &amp; 2003 Cancer Research UK Clinical</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A phase II study of weekly 24-hour infusion with high-dose fluorouracil with leucovorin in colorectal carcinoma</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ardalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sridhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Benedetto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Richman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Legaspi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Waldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Morrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Morrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Feun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Savaraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Livingstone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="625" to="630" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">High-dose 5-fluourouracil/folinic acid plus mitomycin C in patients with refractory colorectal cancer</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Rinas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Weidmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Niederle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">283</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Phase II study of paclitaxel in pretreated advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cascinu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Graziano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cardarelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marcellini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Giordani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Menichetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Catalano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="307" to="310" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A phase III randomized trial of 5-fluorouracil, doxorubicin, and mitomycin C versus 5-fluorouracil and mitomycin C versus 5-fluorouracil alone in curatively resected gastric cancer</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">U</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Choe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Heo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1779" to="1785" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Protracted infusional 5-fluorouracil (5-FU) with bolus mitomycin in 5-FU-resistant colorectal cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Chester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Dent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ride</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Seymour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="235" to="237" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Irinotecan and mitomycin C in 5-fluorouracil-refractory colorectal cancer patients. A phase I/II study of the Southern Italy Cooperative Oncology Group</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Comella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Biglietto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Casaretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Lucia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Avallone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Maiorino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Lullo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Cataldis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rivellini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Comella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="127" to="133" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Continuous infusion fluorouracil/leucovorin and bolus mitomycin-C as a salvage regimen for patients with advanced colorectal cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Conti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Kemeny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Saltz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Andre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Grossano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Bertino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="769" to="774" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Oxaliplatin with highdose leucovorin and 5-fluorouracil 48-hour continuous infusion in pretreated metastatic colorectal cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Gramont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vignoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tournigand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Louvet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Andre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Varette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Raymond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Krulik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="214" to="219" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Doxifluridine as palliative treatment in advanced gastric and pancreatic cancer patients</title>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Bartolomeo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bajetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Somma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Carnaghi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bandieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Vecchio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Buzzoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="54" to="57" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Role of hydrogen peroxide and hydroxyl radical formation in the killing of Ehrlich tumor cells by anticancer quinones</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Doroshow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="4514" to="4518" />
+			<date type="published" when="1986">1986</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">New findings in the pharmacokinetic, metabolic, and drugresistance aspects of mitomycin C</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Dorr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="32" to="41" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">DNA interstrand cross-link and free radical formation in a human multidrugresistant cell line from mitomycin C and its analogues</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dusre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rajagopalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Eliot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Covey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sinha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="648" to="652" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Randomized comparison between chemotherapy plus best supportive care with best supportive care in advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Glimelius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ekstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Graf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">O</forename><surname>Sjoden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Haglund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Svensson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Linne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sellstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heuman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="163" to="168" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The role of mitomycin C in the treatment of patients with advanced colorectal cancer resistant to 5-fluorouracil-folinic acid chemotherapy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Grumett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">R</forename><surname>Archer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Midgley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mulholland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nicum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Blewitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kerr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">575</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">a) Phase II study of continuous 120 h infusion of mitomycin C as salvage chemotherapy in patients with progressive or rapidly recurrent colorectal cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Harstrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Daikeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kollmannsberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seeber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bokemeyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="427" to="431" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Phase II study of continuous 120-hour-infusion of mitomycin C as salvage chemotherapy in patients with progressive or rapidly recurrent gastrointestinal adenocarcinoma</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bokemeyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1177" to="1182" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Is continuous 24-hour infusion of 5-fluorouracil plus high-dose folinic acid effective in patients with progressive or recurrent colorectal cancer? A phase II study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Kohne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Schmoll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Daikeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bokemeyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="320" to="325" />
+			<date type="published" when="1998">1998b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Mitomycin C continuous infusion as salvage chemotherapy in pretreated patients with advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Quietzsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Daikeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kollmannsberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bokemeyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="729" to="733" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phase II study of second-line oxaliplatin, irinotecan and mitomycin C in patients with advanced or metastatic colorectal cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hejna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Kostler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Raderer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tomek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brodowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wiltschke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Zielinski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="629" to="634" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">High-dose 5-fluorouracil/ folinic acid in combination with three-weekly mitomycin C in the treatment of advanced gastric cancer. A phase II study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Hofheinz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hartung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Samel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hochhaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Pichlmeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Post</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hehlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Queisser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Onkologie</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="255" to="260" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Non-parametric estimation from incomplete observations</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Stat Assoc</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="457" to="481" />
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Weekly 24-hour infusion of high-dose 5-fluorouracil plus folinic acid in combination with mitomycin C for the treatment of advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kretzschmar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Reichardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Thuss-Patience</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hohenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Benter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dorken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Kohne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="14" to="17" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Clinical management of advanced gastrointestinal cancer</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Moertel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="675" to="682" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Mitomycin C therapy in advanced gastrointestinal cancer</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Moertel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Reitemeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Hahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">204</biblScope>
+			<biblScope unit="page" from="1045" to="1048" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Generation of reactive oxygen radicals through bioactivation of mitomycin antibiotics</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Pritsos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Sartorelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="3528" to="3532" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Prospective randomized trial comparing mitomycin, cisplatin, and protracted venous-infusion fluorouracil (PVI 5-FU) with epirubicin, cisplatin, and PVI 5-FU in advanced esophagogastric cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nicolson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Iveson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hickish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lofts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1996" to="2004" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A prospective randomised trial of protracted venous infusion 5-fluorouracil with or without mitomycin C in advanced colorectal cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Iveson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Padhani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prendiville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Massey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Popescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oates</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="995" to="1001" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Phase II trial of irinotecan in patients with progressive or rapidly recurrent colorectal cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Rothenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Eckardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iii</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nelson</forename><forename type="middle">J</forename><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Hilsenbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Eckhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Elfring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Rinaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Schaaf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1128" to="1135" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Phase II study of irinotecan in the treatment of advanced colorectal cancer in chemotherapy-naive patients and patients pretreated with fluorouracil-based chemotherapy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rougier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bugat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Douillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Culine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Suc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brunet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Becouarn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ychou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Extra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bonneterre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Adenis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Seitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ganem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Namer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Conroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Negrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Merrouche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Burki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mousseau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Herait</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mahjoubi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="251" to="260" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Fotemustine in patients with advanced gastric cancer, a phase II trial from the EORTC-GITCCG (European Organization for Research and Treatment of Cancer, Gastrointestinal Tract Cancer Cooperative Group)</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rougier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Van Pottelsberghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Paillot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wagener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Greve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fabri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Gerard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Van Glabbeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bleiberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1432" to="1433" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Time-dependent interactions between 5-fluorouracil and mitomycin C on a human colon carcinoma cell line, HCT-8, in vitro</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Russello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romanini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Civalleri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nicolin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sobrero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="571" to="572" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">2051 -2056 &amp; 2003 Cancer Research UK Clinical patients with advanced fluoropyrimidine/leucovorin-pretreated colorectal cancer</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Kornek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brugger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ullrich-Pur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Valencak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Raderer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fiebiger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kovats</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Depisch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">C in British Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="60" to="68" />
+			<date type="published" when="2002">2002. 2003</date>
+		</imprint>
+	</monogr>
+	<note>Randomized phase II study of irinotecan plus mitomycin C vs oxaliplatin plus mitomycin Cancer Invest</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Mitomycin therapy in gastric cancer</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schnall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Macdonald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="70" to="77" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">5-Fluorouracil, high-dose folinic acid and mitomycin C combination chemotherapy in previously treated patients with advanced colorectal carcinoma</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Seitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Perrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Giovannini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Capodano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bernardini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Bardou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chemother</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="258" to="265" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">5-Fluorouracil modulated by leucovorin, methotrexate and mitomycin: highly effective, low-cost chemotherapy for advanced colorectal cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sobrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guglielmi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cirillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Recaldin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Frassineti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Aschele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ravaioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Testore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Caroti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Pessi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cortesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Turci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Grossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Labianca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="1023" to="1028" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Infusional 5-FU and leucovorin plus mitomycin-C as II line treatment in metastatic colorectal cancer</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tassinari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Arcangeli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Oliverio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Panzini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Drudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Milandri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gianni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Alessandrini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sartori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ravaioli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">1084</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A multicentre, randomised phase III trial comparing protracted venous infusion (PVI) 5-fluorouracil (5-FU) with PVI 5-FU plus mitomycin C in patients with inoperable oesophago-gastric cancer</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Tebbutt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Iveson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hickish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Maisey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mochlinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Prior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1568" to="1575" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Clinical activity and benefit of irinotecan (CPT-11) in patients with colorectal cancer truly resistant to 5fluorouracil (5-FU)</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bokkel</forename><surname>Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Punt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Alexopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Dirix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Symann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Blijham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Cholet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Van Groeningen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vannetzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Levi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Panagos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Unger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cote</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blanc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herait</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bleiberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="54" to="59" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Weekly high-dose 5-fluorouracil and folinic acid as salvage treatment in advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Vanhoefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wilke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Weh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clemens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Harstrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Hossfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seeber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="850" to="851" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Weekly therapy with folinic acid (FA) and high-dose 5-fluorouracil (5-FU) 24-hour infusion in pretreated patients with metastatic colorectal carcinoma. A multicenter study by the Association of Medical Oncology of the German Cancer Society (AIO)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Weh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Wilke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dierlamm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Klaassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Siegmund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Illiger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schalhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Kreuser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Hilgenfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Steinke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="233" to="237" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Phase II study of doxetaxel as salvage chemotherapy in patients with advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wilke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Vanhoefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Harstrick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">305</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

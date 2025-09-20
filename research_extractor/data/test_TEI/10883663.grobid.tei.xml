@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">  </title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Pronk</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Rotterdam Cancer Institute (Daniel den Hoed Kliniek) and University Hospital</orgName>
+								<address>
+									<settlement>Rotterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Vasey</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Beatson Oncology Centre</orgName>
+								<orgName type="laboratory">Cancer Research Campaign</orgName>
+								<address>
+									<settlement>Glasgow</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Sparreboom</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Rotterdam Cancer Institute (Daniel den Hoed Kliniek) and University Hospital</orgName>
+								<address>
+									<settlement>Rotterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><surname>Reigner</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Quintiles Oncology</orgName>
+								<orgName type="institution">Hospital Universitario &apos;12 de Octubre&apos;</orgName>
+								<address>
+									<addrLine>Hoffmann-La Roche</addrLine>
+									<settlement>Strasbourg Basel</settlement>
+									<country>France Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Asth</forename><surname>Planting</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Rotterdam Cancer Institute (Daniel den Hoed Kliniek) and University Hospital</orgName>
+								<address>
+									<settlement>Rotterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Gordon</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Quintiles Oncology</orgName>
+								<orgName type="institution">Hospital Universitario &apos;12 de Octubre&apos;</orgName>
+								<address>
+									<addrLine>Hoffmann-La Roche</addrLine>
+									<settlement>Strasbourg Basel</settlement>
+									<country>France Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><surname>Osterwalder</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Quintiles Oncology</orgName>
+								<orgName type="institution">Hospital Universitario &apos;12 de Octubre&apos;</orgName>
+								<address>
+									<addrLine>Hoffmann-La Roche</addrLine>
+									<settlement>Strasbourg Basel</settlement>
+									<country>France Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Rotterdam Cancer Institute (Daniel den Hoed Kliniek) and University Hospital</orgName>
+								<address>
+									<settlement>Rotterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Twelves</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Beatson Oncology Centre</orgName>
+								<orgName type="laboratory">Cancer Research Campaign</orgName>
+								<address>
+									<settlement>Glasgow</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Servicio de Oncología Médica</orgName>
+								<address>
+									<addrLine>Carretera de Andalucia Km 5,4</addrLine>
+									<postCode>28041</postCode>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">  </title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">54BB6C621E6B30289CA5A455257F3E3E</idno>
+					<idno type="DOI">10.1054/bjoc.2000.1160</idno>
+					<note type="submission">Received 20 October 1999 Revised 1 February 2000 Accepted 17 February 2000</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>phase I</term>
+					<term>pharmacokinetics</term>
+					<term>capecitabine</term>
+					<term>docetaxel</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Capecitabine (Xeloda™, Hoffmann-La Roche, Basel, Switzerland) is an orally administered prodrug of 5-fluorouracil (5-FU) that passes intact through the intestinal mucosa. It is activated by a cascade of three enzymes to 5′-deoxy-5-fluorocytidine (5′-DFCR), then to 5′-deoxy-5-fluorouridine (5′-DFUR), resulting in an intratumoural release of 5-FU. This final, tumour-selective, enzyme reaction is mediated by the tumour-associated angiogenic factor, thymidine phosphorylase (TP). Capecitabine is cytotoxic only after conversion to 5′-DFUR and 5-FU. In human cancer xenograft murine models, capecitabine was substantially more active than 5-FU against colon CXF 280 and HCT 116, gastric MKN 45 and GXF 97, breast MAXF 401 and MX-1, cervical YUMOTO, HT-3 and SK-OV-3, ovarian NAKAJIMA, bladder SCABER and hepatoma IH-3. This anti-tumour activity in mice correlated with tumour 5-FU and blood 5′-DFUR levels (Investigational drug brochure: capecitabine 1997). The cytotoxicity of capecitabine correlated well with the activity ratio in tumours of TP and dihydropyrimidine dehydrogenase, the enzymes for the conversion of capecitabine to 5-FU and the catabolism of 5-FU respectively <ref type="bibr" target="#b19">(Ishikawa et al, 1997)</ref>. Furthermore, in preclinical studies, paclitaxel and docetaxel were more active in combination with capecitabine than with 5-FU or UFT. Recently, it was demonstrated that thymidine phosphorylase is up-regulated in murine model systems exposed to taxanes <ref type="bibr" target="#b33">(Sawada et al, 1998)</ref>.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In phase I studies of capecitabine as a single agent different treatment schedules were investigated. Capecitabine was given either continuously for 6 weeks or using an intermittent twice daily schedule <ref type="bibr" target="#b36">(Taguchi et al, 1996;</ref><ref type="bibr" target="#b38">Twelves et al, 1996;</ref><ref type="bibr" target="#b7">Budman et al, 1998;</ref><ref type="bibr" target="#b22">Mackean et al, 1998)</ref>. Each of those schedules were active and common adverse events included diarrhoea, hand-foot syndrome, nausea, vomiting, stomatitis and asthenia.</p><p>In a randomized phase II study of capecitabine in patients with advanced colorectal cancer the following three treatment schedules were evaluated: capecitabine 1331 mg m -2 day -1 continuously, capecitabine 2510 mg m -2 day -1 for 14 days repeated every 21 days and capecitabine 1657 mg m -2 day -1 combined with leucovorin 60 mg day -1 orally (p.o.) given intermittently <ref type="bibr" target="#b13">(Findlay et al, 1997)</ref>. Time to progression reported for these three administration schedules was 17, 30 and 24 weeks respectively. Furthermore, dose intensity appeared highest with the intermittent single-agent schedule which was therefore selected for phase III evaluation. Capecitabine was recently registered in the USA for treatment of patients with breast cancer refractory to paclitaxel and anthracyclines <ref type="bibr" target="#b3">(Blum et al, 1999)</ref>. Docetaxel (Taxotere™, Rhône-Poulenc Rorer, Antony, France) is an antimicrotubule agent that enhances polymerization of tubulin into stable microtubules and inhibits microtubule depolymerization. This disrupts the equilibrium within the microtubule system and ultimately leads to cell death <ref type="bibr">(Guerrite-Voegelein et al, 1991;</ref><ref type="bibr" target="#b30">Ringel and Horwitz, 1991;</ref><ref type="bibr" target="#b31">Rowinsky and Donehower, 1991)</ref>. In phase I studies of single-agent docetaxel the major doselimiting toxicity (DLT) was a short-lasting, dose-dependent, schedule independent and non-cumulative neutropenia <ref type="bibr" target="#b1">(Aapro et al, 1992;</ref><ref type="bibr" target="#b26">Pazdur et al, 1992;</ref><ref type="bibr" target="#b2">Bisset et al, 1993;</ref><ref type="bibr" target="#b8">Burris et al, 1993;</ref><ref type="bibr" target="#b12">Extra et al, 1993;</ref><ref type="bibr" target="#b37">Tomiak et al, 1993)</ref>. Based on these phase I studies the recommended single-agent dose and schedule for docetaxel was 100 mg m -2 given as a 1-h infusion every 3 weeks.</p><p>Phase II studies on docetaxel among others showed activity in breast cancer <ref type="bibr" target="#b4">(Ten Bokkel-Huinink et al, 1994;</ref><ref type="bibr" target="#b11">Chevallier et al, 1995)</ref>, non-small-cell lung cancer <ref type="bibr" target="#b10">(Cerny et al, 1994;</ref><ref type="bibr" target="#b15">Fossella et al, 1995;</ref><ref type="bibr" target="#b24">Miller et al, 1995)</ref>, head and neck cancer <ref type="bibr" target="#b9">(Catimel et al, 1994)</ref>, gastric cancer <ref type="bibr" target="#b35">(Sulkes et al, 1994)</ref>, melanoma <ref type="bibr" target="#b0">(Aamdal et al, 1994)</ref>, soft tissue sarcoma <ref type="bibr" target="#b18">(Van Hoesel et al, 1994)</ref> and pancreatic cancer <ref type="bibr" target="#b14">(De Forni et al, 1994)</ref>. Again, the most important side-effect was early but short-lasting neutropenia, that was complicated by infection in 20% of the patients <ref type="bibr" target="#b28">(Pronk et al, 1995)</ref>. Alopecia was common, but other toxicities were usually mild and included nausea, vomiting, diarrhoea, mucositis, asthenia, infrequent hypersensitivity reactions, skin reactions, nail changes, mild sensory neuropathy and fluid retention. Corticosteroid premedication has markedly reduced the incidence of hypersensitivity reactions <ref type="bibr" target="#b34">(Schrijvers et al, 1993)</ref> as well as the severity of fluid retention <ref type="bibr" target="#b27">(Piccart et al, 1997)</ref>, and is now standard therapy.</p><p>In this phase I study the combination of capecitabine with docetaxel was studied because given as single agents both drugs are active in a variety of cancers and their toxicity profiles are only partly overlapping. The aims of this study were: to determine the maximum tolerated dose (MTD); to determine the safety profile of the combination; to evaluate if there is any pharmacokinetic interaction between capecitabine and its metabolites and docetaxel; to report any evidence of anti-tumour activity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head></head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eligibility</head><p>Patients with histologically confirmed solid tumours for whom no other therapy with greater potential benefit existed than the combination of capecitabine with docetaxel, were entered into this study. The study was approved by the institutional ethics committee.</p><p>Eligibility criteria included: age 18 years and older; Karnofsky performance status ≥ 70; no more than two prior single-agent chemotherapy regimens or one prior combination chemotherapy regimen; no prior treatment with docetaxel and/or capecitabine; normal bone marrow (haemoglobin &gt; 9.0 g dl -1 , granulocytes &gt; 1.5 × 10 9 l -1 , platelet count &gt; 100 × 10 9 l -), renal (serum creatinine &lt; 1.5 × upper normal limit) and hepatic function (bilirubin &lt; 1.25 × upper normal limit, alkaline phosphatase &lt; 2.5 × upper normal limit, and transaminases &lt; 1.5 × upper normal limit); uric acid &lt; 1.25 × upper normal limit, calcium &lt; 2.88 mmol l -1 , no clinically significant cardiac disease or myocardial infarction within the last 12 months; no radiation therapy within 4 weeks of treatment start; no major surgery to the gastrointestinal tract, the liver or kidney within 4 weeks of study entry which may impact on the pharmacokinetics of capecitabine or docetaxel; no participation in any investigational drug study within 4 weeks preceding treatment start; no history of peptic ulcer, ulcerative colitis, ulcerative stomatitis and/or lack of physical integrity of the upper intestinal tract. All patients provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pretreatment and follow-up studies</head><p>Before the start of treatment a medical history was taken and physical examination, laboratory studies, electrocardiogram, chest X-ray and imaging studies, if appropriate, were performed.</p><p>Laboratory studies included a full blood count with differential white count, sodium, potassium, creatinine, uric acid, serum calcium, total protein, albumin, total bilirubin, ALAT, ASAT, alkaline phosphatase and urinalysis.</p><p>History, physical examination and toxicity scoring according to National Cancer Institute Common Toxicity Criteria (NCI-CTC) <ref type="bibr" target="#b5">(Brundage et al, 1993)</ref> were performed every 3 weeks and laboratory studies weekly. Formal tumour assessments were performed after every 2 courses of chemotherapy according to standard World Health Organization (WHO) response criteria <ref type="bibr">(WHO Handbook 1979)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drug administration</head><p>Patients received treatment every 3 weeks. Docetaxel was administered on day 1 of each cycle as a 1-h intravenous (i.v.) infusion. Capecitabine was to be administered orally within 30 min after the end of a meal. The first cycle of capecitabine was given twice daily starting on days 1-14. In the second cycle capecitabine was given from day 3 to 14, the first 2 days of capecitabine being omitted to allow pharmacokinetics samples to be taken. Subsequent cycles combined capecitabine twice daily (b.i.d.) from day 1 to 14 with docetaxel given on day 1. The prophylactic use of growth-factors was not allowed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Routine comedication</head><p>Oral dexamethasone (8 mg) or methylprednisolone (32 mg) was given to all patients 12 and 3 h before docetaxel infusion, and then 12 and 24 h after the end of docetaxel infusion, followed by either 8 mg or 32 mg twice daily for an additional 3 days. No standard i.v. anti-emetic prophylaxis was given.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetic studies</head><p>For pharmacokinetic analyses, blood samples (5 ml) were obtained from an indwelling i.v. canula in the contralateral arm, and collected in haemogard vacutainer tubes (Becton Dickinson, Meylan, France) containing EDTA as an anticoagulant. On days 1 and 14 blood was taken to measure levels of capecitabine and its metabolites, and on days 1-3 and 22-24 to measure docetaxel levels. Blood was collected on days 1-3 to explore any possible interaction between the two drugs. Blood samples (5 ml) were taken before the morning capecitabine dose and at 0.5, 1, 2, 3, 4, 5 and 7 h after drug administration; a final blood sample was taken at 10 h after the morning capecitabine dose, but prior to the evening drug administration. Blood samples (5 ml) for docetaxel pharmacokinetics were taken before administration of docetaxel, halfway through the infusion (0.5 h) and within 5 min of completing the infusion (at 1 h). Additional samples were taken at 1.5, 2, 3, 5, 7, 10, 24, 30 and 48 h after the start of infusion. On day 14 blood was collected as described above, for the determination of capecitabine pharmacokinetic parameters without potential interference from docetaxel. On days 22-24 blood was collected as described above, for the determination of docetaxel pharmacokinetic parameters without potential interference from capecitabine.</p><p>Concentrations of capecitabine and its metabolites 5′-DFCR, 5′-DFUR, 5-FU and α-fluoro-β-alanine (FBAL) in plasma were determined by liquid chromatography with mass-spectrometic Phase I study of capecitabine and docetaxel 23 detection (LC-MS) as described previously <ref type="bibr" target="#b29">(Reigner et al, 1999)</ref>.</p><p>Pharmacokinetics of capecitabine and its metabolites were estimated by model-independent analysis using SAS Companion for the Microsoft Environment version 6 (SAS Institute Inc., Cary, NC, USA). The area under the plasma concentration-time curve (AUC) was estimated by the trapezoidal rule using data until the last measurable concentration, and was extrapolated to infinity using the ratio of drug level at the last sampling point and the apparent rate constant of the terminal phase. The terminal elimination half-life of the compounds was calculated using least-squares linear regression of the final part of the plasma concentration-time plot. Peak plasma concentrations (C max ) and the time to reach the peak concentration (t max ) were also determined graphically.</p><p>Plasma samples for docetaxel analysis were prepared by a single solvent extraction and assayed by a validated reversed-phase highperformance liquid chromatographic (HPLC) method with UV detection as reported elsewhere <ref type="bibr" target="#b21">(Loos et al, 1997)</ref>. Docetaxel concentration-time curves were analysed by determination of slopes and intercepts of plotted curves with multi-exponential functions. Initial parameter estimates were determined by the SIPHAR version 4.0 program (Simed, Creteil, France) and improved using an iterative numerical algorithm based on Powell's method. Model discrimination was assessed by a variety of considerations, including visual inspection of the predicted curves, dispersion of residuals, minimization of the sum of weighted squares residuals, and the Akaike and Schwartz information criteria <ref type="bibr" target="#b32">(Rowland and Tozer, 1995)</ref>. In all cases, concentration-time profiles were best fitted to a bi-exponential model after zero-order input with weighting according to l/Y obs . Final values of the iterated parameters of the best fit equation were used to calculate kinetic parameters using standard equations <ref type="bibr" target="#b32">(Rowland and Tozer, 1995)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Kinetic parameters for capecitabine, its metabolites and docetaxel are reported as arithmetic mean values ± standard deviation or as median values (t max only). Variability in parameters between the various docetaxel dose levels was evaluated using the Kruskal-Wallis statistic followed by a Dunn's test. Interpatient differences in pharmacokinetics were assessed from the coefficient of variation (CV), expressed as the ratio of the standard deviation and the observed mean. To test parameter differences for statistical significance among treatment courses, a two-tailed paired Student's t-test was performed. Probability values of less than 0.05 were regarded as statistically significant. All statistical calculations were performed using NCSS (version 5.X; Dr Jerry Hintze, Kayesville, UT, USA) and STATGRAPHICS Plus (version 2; Manugistics Inc., Rockville, MA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Doses</head><p>In this study dose escalation was performed in two phases, firstly combining a fixed dose of capecitabine with increasing doses of docetaxel. In the second phase the dose of capecitabine was increased with a fixed dose of docetaxel demonstrated in the first phase of escalation to be tolerable. The following dose levels of capecitabine/docetaxel were explored: 825 mg m -2 b.i.d. -1 75 mg m -2 ; 825 mg m -2 b.i.d 85 mg m -2 ; 825 mg m -2 b.i.d. 100 mg m -2 ; 1000 mg m -2 b.i.d. 100 mg m -2 ; 1000 mg m -2 b.i.d. 75 mg m -2 ; 1250 mg m -2 b.i.d. 75 mg m -2 .</p><p>The docetaxel and capecitabine doses were escalated according to a pre-established schedule. Dose escalation was continued until DLTs were experienced in the first 2 cycles of treatment in two or more of six patients, which was defined as the MTD. DLT was defined as: (1) granulocytes &lt; 0.5 × 10 9 l -1 for more than 7 days;</p><p>(2) grade 4 granulocytopenia with complications such as fever or other non-haematological toxicities; (3) gastrointestinal toxicity &gt; grade 2; (4) skin toxicity (i.e. hand-foot syndrome) &gt; grade 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head></head><p>A total of 33 patients entered this study. Patient characteristics are given in Table <ref type="table" target="#tab_0">1</ref>. The most frequent tumour types were colorectal cancer, adenocarcinoma of unknown primary (ACUP) and breast cancer. All patients were evaluable for toxicity and tumour response. Eight patients were not evaluable for pharmacokinetics; in six patients blood was collected only on days 1-3, while in two patients samples at essential time points were missing. The dose levels studied, the number of patients at each dose level and the number of evaluable courses at each dose level are given in Table <ref type="table">2</ref>.</p><p>A total of 123 courses were assessable for toxicity. No DLTs were reported for the first 2 cycles at dose levels I and II. Significant toxicities were observed in cycle 1 at dose levels III and IV, consisting of febrile neutropenia. In one patient severe anorexia was reported in cycle 1 at dose level IV, and another patient showed in cycle 1 of dose level VI a reversible hepatotoxicity grade 3 consisting of an elevation of the serum bilirubin level.  MTD was reached when the capecitabine dose was increased to 1000 mg m -2 b.i.d. (dose level IV). At this dose level all patients showed grade 2-3 asthenia that was considered dose limiting. The docetaxel dose was then reduced to 75 mg m -2 , while the capecitabine dose was escalated to full single-agent dose (dose level VI). DLTs as defined in the protocol were not encountered. No toxic deaths were reported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haematological toxicity</head><p>The relevant haematological toxicities are shown in Table <ref type="table" target="#tab_1">3</ref>. Neutropenia grade 3 and 4, lasting &lt; 7 days were observed at all dose levels in 68% (range 31-88%) of all courses, but febrile neutropenia requiring hospital admission was reported in only three courses (2.4%). Anaemia grades 1 and 2 were common at all dose levels and occurred in 89% of all courses; more severe anaemia was not reported. Thrombocytopenia grade 4 requiring platelet transfusion was only observed in 1 course.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Non-haematological toxicity</head><p>The most common non-haematological toxicities are shown in Table <ref type="table" target="#tab_2">4</ref>. Nausea and vomiting were usually mild (grade 1 and 2) and occurred in 33% and 11% of courses respectively. Grade 3 nausea was observed in three courses at dose levels II, III and VI, while vomiting grade 3 was only reported in one course at dose level VI. Mucositis grade 1-2 was documented in 42% of courses. Severe mucositis was observed in two courses at dose levels II and IV respectively. Diarrhoea grade 1-2 was reported in 33% of courses and was severe in one course at dose level V. Asthenia (or fatigue) was an important side-effect; grade 2-3 asthenia was documented in 26% of courses. At dose level IV grade 2-3 asthenia was observed in all patients in 93% of courses, which was considered dose-limiting. Alopecia was common at all dose levels. Hand-foot syndrome was reported in 26.8% of courses which required dose reduction in three patients and treatment delay in two patients. Nail toxicity was observed in 24% of courses and  </p><formula xml:id="formula_0">G 3-4 - 1 1 - - 1 3 (2.4) Vomiting G 1-2 2 - 2 2 5 3 13 (11) G 3-4 - - - - - 1 1 (0.8) Diarrhoea G 1-2 8 9 4 4 13 3 41 (33) G 3-4 - - - - 1 - 1 (0.8) Mucositis G</formula><p>1-2 6 11 8 8 13 5 51 (42) G 3-4 -1 -1 --2 (1.6) Asthenia G 1 5 11 4 -3 7 30 (24) G 2-3 2 4 1 13 6 6 32 (26) Alopecia G 1-2 9 24 12 9 18 18 90 (73) Hand-foot G 1-2 4 15 3 -8 2 32 (26) G 3-4 -1 ----1 (0.8) Nail toxicity b 4 7 1 4 6 7 29 (24) Neurotoxicity G 1-2 4 7 5 4 5 1 26 (21) Oedema G 1-2 6 2 --1 1 10 (8) Allergy -3 3 1 1 1 9 (7) a No. of courses affected/total courses; b see text.</p><p>was complicated with paronychia in four patients. One patient treated at dose level II developed septic paronychia that required dose reduction. Docetaxel related toxicities like neuropathy, oedema and allergy were mild and never a reason to stop therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tolerability of multiple cycles</head><p>Three patients at dose level II, one patient at dose level IV and one patient at dose level V underwent dose reduction. The method of dose reduction was not pre-established. In two of the three patients at dose level II the dose of both drugs was reduced by 25% because of hand-foot syndrome in cycle 3 in one patient and in cycle 4 in the other patient. One patient at dose level II developed thrombocytopenia grade 4 in cycle 4 that required a dose reduction by 50% of only capecitabine, because it was assumed that capecitabine rather than docetaxel contributed to the occurrence of thrombo-cytopenia. The patient at dose level IV underwent a dose reduction by 25% of both drugs in cycle 2 because of grade 2 nausea and anorexia. The patient at dose level V underwent a dose reduction by 25% of both drugs because of hand-foot syndrome in cycle 4. Treatment was delayed because of hand-foot syndrome in two patients at dose level II after cycle 3 and 4 respectively. Both hand-foot syndrome and nail toxicity were sometimes problematic with prolonged treatment. However, no other cumulative toxicity was observed. The dose intensity of this treatment schedule was high at all dose levels (0.95-1), but lower at dose level IV (0.84).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>In the pharmacokinetic calculations only patients with complete AUC were taken into consideration. Capecitabine pharmacokinetics were characterized by a rapid absorption after oral dosing, with peak plasma levels occurring at approximately 1 h. In the majority of patients the main circulating compounds were 5′-DFUR (the immediate precursor of 5-FU) and the 5-FU metabolite FBAL. The pharmacokinetic characteristics of capecitabine and the metabolities are listed in Table <ref type="table">5</ref> as a function of the dose. In general, the pharmacokinetics demonstrated high interpatient variability. Overall the kinetic data of capecitabine and the metabolites in the presence of docetaxel indicate a very minor effect of co-treatment with the taxane (Table <ref type="table">5</ref>). However, whereas identical parameters were observed for capecitabine, 5′-DFCR, 5′-DFUR and FBAL between study courses, the systemic exposure to 5-FU tended to decrease in the presence of docetaxel. This effect was particularly striking at the 1250 mg m -2 b.i.d. dose level, resulting in a 1.8-and 1.9-fold lower values for C max and AUC (Table <ref type="table">5</ref>).</p><p>The plasma concentration-time profiles for docetaxel were similar with and without capecitabine co-treatment. In both cases, disposition phases of docetaxel exhibited a bi-exponential decay and could be best fitted to a two-compartmental model. The mean estimated pharmacokinetic parameters of docetaxel for both study courses are summarized as a function of the treatment cohort in Table <ref type="table" target="#tab_6">6</ref>.</p><p>Substantial interpatient kinetic variability was apparent with values for the coefficient of variation up to 50%. There were no significant differences in dose-normalized pharmacokinetic parameters between the docetaxel dose levels, as shown by the doseindependent values for docetaxel plasma clearance. The mean overall total body clearance of docetaxel across all dose levels without capecitabine co-treatment was 25.4 ± 8.79 l h -1 m -2 (mean ± standard deviation). Docetaxel pharmacokinetics were not significantly altered by co-treatment with capecitabin (P &lt; 0.05 for all kinetic parameters using two-tailed Student's t-test), indicating no mutual kinetic interaction between these two drugs (Table <ref type="table" target="#tab_6">6</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Responses</head><p>Two complete responses were documented in a patient with ACUP (total disappearance of previously found metastatic sites: lymphnodes, adrenal glands and soft tissue) and in another patient with gastric cancer (metastatic sites: lymph nodes and pancreatic region). Time to progression was 8 months in both patients. Partial</p><p>26 LC Pronk et al British Journal of Cancer (2000) 83(1), 22-29 © 2000 Cancer Research Campaign</p><p>Table 5 Summary of paired capecitabine and metabolities pharmacokinetics in the presence or absence of docetaxel a Capecitabine (mg m -2 b.i.d.) 825 825 1000 1000 1250 1250 Docetaxel (mg m -2 ) 75,100 -75,100 -75 -Capecitabine t 1/2 (h) 0.59 ± 0.31 0.55 ± 0.31 0.69 ± 0.29 0.70 ± 0.32 0.58 ± 0.28 0.66 ± 0.38 AUC (µg h ml -1 ) 5.19 ± 3.01 3.82 ± 1.31 5.58 ± 2.96 5.66 ± 2.38 7.01 ± 4.21 6.39 ± 0.83 5′-DFCR t 1/2 (h) 0.82 ± 0.24 0.86 ± 0.38 0.80 ± 0.13 0.87 ± 0.20 0.87 ± 0.24 0.76 ± 0.09 AUC (µg h ml -1 ) 3.56 ± 2.35 4.35 ± 2.65 7.61 ± 3.35 8.23 ± 3.95 11.9 ± 5.24 9.78 ± 1.08 5′-DFUR t 1/2 (h) 0.65 ± 0.12 0.70 ± 0.23 0.79 ± 0.32 0.71 ± 0.18 0.81 ± 0.27 0.63 ± 0.12 AUC (µg h ml -1 ) 12.3 ± 3.20 10.8 ± 3.24 12.6 ± 2.27 11.8 ± 3.78 16.1 ± 3.70 16.9 ± 2.37 5-FU t 1/2 (h) 0.71 ± 0.16 0.70 ± 0.17 0.87 ± 0.47 0.72 ± 0.18 0.92 ± 0.50 0.68 ± 0.09 AUC (µg h ml -1 ) 0.36 ± 0.19 0.41 ± 0.15 0.48 ± 0.15 0.61 ± 0.31 0.42 ± 0.13 0.80 ± 0.28 FBAL t 1/2 (h) 2.43 ± 0.36 2.83 ± 0.45 2.76 ± 0.61 2.96 ± 0.50 2.11 ± 0.36 2.24 ± 0.11 AUC (µg h ml -1 ) 16.8 ± 5.38 21.1 ± 4.85 23.3 ± 9.55 25.4 ± 9.65 20.8 ± 2.29 20.4 ± 0.61 a</p><p>Data were obtained from 16, ten and four patients treated at capecitabine dose levels of 825, 1000 and 1250 mg m -2 b.i.d. respectively. Kinetic terms are arithmetic mean values ± standard deviation (t 1/2 , and AUC). Abbreviations: t 1/2 , terminal elimination half-life; AUC, area under the plasma concentration-time curve; 5′-DFCR, 5′-deoxy-5-fluorocytidine; 5′-DFUR, 5′-deoxy-5-fluorouridine; 5-FU, 5-fluorouracil; (FUH 2 ), dihydro-5-fluorouracil; FBAL, α-fluoro-β-alanine responses were reported in two patients with breast cancer (metastatic sites: liver in 1 patient and skin and lymphnodes in the other patient) and in one patient with colon cancer (metastatic sites: liver and peritoneal). Time to progression in these patients was 6 months for the patients with breast cancer and 9.5 months for the patient with colon cancer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head></head><p>Capecitabine is a new orally available tumour-selective fluoropyrimidine carbamate, that is bioactivated by a three-enzyme process to provide prolonged high levels of the active moiety, 5-FU, in tumour cells (Investigational drug brochure: capecitabine 1997). Capecitabine is active against advanced breast cancer that is resistant to anthracyclines and taxanes <ref type="bibr" target="#b3">(Blum et al, 1999)</ref>. In most cases, however, combination therapy is prefered to singleagent treatment. Docetaxel was selected for the combination with capecitabine, since it is probably the most active single agent in the treatment of breast cancer <ref type="bibr" target="#b4">(Ten Bokkel Huinink et al, 1994;</ref><ref type="bibr" target="#b11">Chevallier et al, 1995)</ref>. In addition, docetaxel and capecitabine have toxicity profiles that only partially overlap. In this phase I study we have shown that capecitabine and docetaxel can be combined safely and effectively, giving both agents at doses where they possess single-agent activity. Dose escalation was performed in 2 phases, firstly combining a fixed dose of capecitabine with increasing doses of docetaxel. In the second phase the dose of capecitabine was increased with a fixed dose of docetaxel demonstrated to be tolerable in the first phase of dose escalation. A starting dose of 75 mg m -2 of docetaxel was chosen as phase I studies showed this dose to be active with a favourable toxicity profile <ref type="bibr" target="#b28">(Pronk et al, 1995)</ref>. A dose of 825 mg m -2 bid of capecitabine when given as an intermittent schedule was well tolerated and active in phase I studies <ref type="bibr" target="#b7">(Budman et al, 1998;</ref><ref type="bibr" target="#b22">Mackean et al, 1998)</ref>. These starting doses were combined as it was anticipated that this combination would be active and tolerable.</p><p>The most important non-haematological toxicity was asthenia which was considered dose-limiting when 1000 mg m -2 b.i.d. of capecitabine was combined with 100 mg m -2 of docetaxel (dose level IV). Other DLTs as foreseen in the protocol were not encountered. The major haematological toxicity of the combination was neutropenia grade 3 and 4, lasting &lt; 7 days, which occurred in 68% of all courses. However, in only three courses was neutropenia complicated with fever requiring hospital admission. Gastrointestinal toxicity was frequent but again usually mild. Hand-foot syndrome, which is characteristic of capecitabine, was reported in 26.8% of courses; in most cases this was not severe and only required dose reduction in three patients and treatment delay in two patients. The incidence of docetaxel-specific toxicities like fluid retention and allergy was low and did not constitute a major clinical problem, probably because all patients received corticosteroid comedication. Neurotoxicity was also mild and only occurred in 21% of courses, which is less than reported in patients treated with docetaxel as a single agent <ref type="bibr" target="#b17">(Hilkens et al, 1996)</ref>. However, nail toxicity was sometimes problematic in patients with prolonged treatment.</p><p>The evaluation of pharmacokinetic interaction when combining novel, active chemotherapy agents is extremely relevant. In this study the possible up-regulation of TP by taxanes raised the possibility that exposure to 5-FU may be increased by co-administration of docetaxel. Pharmacokinetic studies were performed for capecitabine as a single agent and in the presence of docetaxel. Plasma peak concentrations for the drug were reached shortly after oral dosing. As predicted by earlier investigations, capecitabine was extensively metabolized by hepatic carboxylesterases into 5′-DFCR with subsequent cytidine deamination to form the 5-FU precursor 5′-DFUR <ref type="bibr" target="#b7">(Budman et al, 1998;</ref><ref type="bibr" target="#b22">Mackean et al, 1998)</ref>. The latter compound was, together with the 5-FU metabolite FBAL, the main circulating compound in the majority of patients. The pharmacokinetics of capecitabine showed high interpatient variability and were highly consistent with recently published values obtained in patients treated at a single-agent dose of 1657 mg m -2 day -1 <ref type="bibr" target="#b7">(Budman et al, 1998)</ref>. Overall, the kinetic data of capecitabine and its metabolites were similar for capecitabine as a single agent and in the presence of docetaxel. However, the systemic exposure to 5-FU tended to decrease in the presence of docetaxel. This effect was particularly striking at the 1250 mg m -2 b.i.d. dose level. More pharmacokinetic studies will be needed to explain the significance of this observation.</p><p>The plasma concentration-time profiles for docetaxel given as a single agent and with capecitabine were similar. The interpatient kinetic variability, particularly at the 75 mg m -2 dose level, was  substantial which could in part be accounted for by missing samples at essential time points in some patients. (There was no systemic reason for the missing data.) The mean overall total body clearance of docetaxel as a single agent across all dose levels was 25.4 ± 8.79 l h -1 m -2 (mean ± standard deviation). This is consistent with previously published values obtained in phase 1 clinical trials on docetaxel as a single agent <ref type="bibr" target="#b6">(Bruno and Sanderink 1993)</ref>. These data indicate that capecitabine has no significant effect on docetaxel pharmacokinetics. The combination of capecitabine and docetaxel is clearly active with two complete responses (one patient with ACUP, one with gastric cancer) and three partial responses (two with breast cancer, one with colon cancer). The antitumour activity of capecitabine as a single agent in patients with advanced breast cancer has been demonstrated in series of phase II trials. A randomized phase II study in women aged 55 years or older compared capecitabine with CMF as first-line treatment <ref type="bibr" target="#b25">(O'Shaugnessy et al, 1998)</ref>; preliminary results showed that capecitabine monotherapy is at least comparable with CMF combination chemotherapy. However, severe hand-foot syndrome and diarrhoea were more frequent in the capecitabine treatment arm. In a multicenter phase II trial in patients with paclitaxel-refractory metastatic breast cancer, who were all also pretreated with anthracyclines, patients received a dose of 2510 mg m -2 day -1 given for 2 weeks followed by a 1week rest period, repeated every 3 weeks <ref type="bibr" target="#b20">(Blum et al, 1998)</ref>. The toxicity profile was acceptable and the response rate was 20%, with a median response duration of 8.1 months and a median survival of 12.8 months. The median time to disease progression was 93 days. This study shows that capecitabine is active in paclitaxel/anthracycline resistant breast cancer, and suggests that there is no cross-resistance between capecitabine and taxanes, a further justification for the use of capecitabine and docetaxel in combination. The combination of capecitabine with paclitaxel is also under investigation in a phase I study in patients with previously treated metastatic breast cancer <ref type="bibr" target="#b20">(Khoury et al, 1998)</ref>. The combination appears to be active, even in patients who had prior bone marrow transplantation.</p><p>Based on the experience obtained in this phase I study, repeated cycles of capecitabine 825 mg m -2 bid combined with docetaxel 100 mg m -2 or capecitabine 1250 mg m -2 b.i.d. with docetaxel 75 mg m -2 are both feasible. A randomized phase III study comparing the combination of capecitabine 1250 mg m -2 and docetaxel 75 mg m -2 with docetaxel 100 mg m -2 as a single agent is ongoing in patients with metastatic breast cancer as first-line treatment.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>24</head><figDesc>LC Pronk et al British Journal of Cancer (2000) 83(1), 22-29 © 2000 Cancer Research Campaign</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Phase I study of capecitabine and docetaxel 25 British Journal of Cancer (2000) 83(1), 22-29 © 2000 Cancer Research Campaign</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>Phase I study of capecitabine and docetaxel 27 British Journal of Cancer (2000) 83(1), 22-29 © 2000 Cancer Research Campaign</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>Patients treated</cell><cell></cell><cell></cell><cell>33</cell><cell></cell><cell></cell></row><row><cell>Age</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Median (range)</cell><cell></cell><cell cols="2">57 (33-74)</cell><cell></cell></row><row><cell>Karnofsky PS</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Median (range)</cell><cell></cell><cell cols="2">80 (70-100)</cell><cell></cell></row><row><cell>Sex</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Male/female</cell><cell></cell><cell></cell><cell>15/18</cell><cell></cell><cell></cell></row><row><cell cols="2">Previous chemotherapy</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>None</cell><cell></cell><cell></cell><cell>13</cell><cell></cell><cell></cell></row><row><cell>1 regimen</cell><cell></cell><cell></cell><cell>18</cell><cell></cell><cell></cell></row><row><cell>2 regimens</cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>Tumour type</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Colorectal</cell><cell></cell><cell></cell><cell>9</cell><cell></cell><cell></cell></row><row><cell>ACUP</cell><cell></cell><cell></cell><cell>6</cell><cell></cell><cell></cell></row><row><cell>Breast</cell><cell></cell><cell></cell><cell>3</cell><cell></cell><cell></cell></row><row><cell>Miscellaneous</cell><cell></cell><cell></cell><cell>15</cell><cell></cell><cell></cell></row><row><cell cols="2">Table 2 Patient accrual</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="6">Dose level Capecitabine Docetaxel No. patients No. cycles Range</cell></row><row><cell cols="3">(mg m -2 b.i.d.) (mg m -2 )</cell><cell></cell><cell></cell><cell></cell></row><row><cell>I</cell><cell>825</cell><cell>75</cell><cell>4</cell><cell>14</cell><cell>1-6</cell></row><row><cell>II</cell><cell>825</cell><cell>85</cell><cell>6</cell><cell>32</cell><cell>3-6</cell></row><row><cell>III</cell><cell>825</cell><cell>100</cell><cell>6</cell><cell>16</cell><cell>1-6</cell></row><row><cell>IV</cell><cell>1000</cell><cell>100</cell><cell>5</cell><cell>14</cell><cell>1-6</cell></row><row><cell>V</cell><cell>1000</cell><cell>75</cell><cell>6</cell><cell>24</cell><cell>2-6</cell></row><row><cell>VI</cell><cell>1250</cell><cell>75</cell><cell>6</cell><cell>23</cell><cell>1-6</cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell>33</cell><cell>123</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Haematological toxicity a</figDesc><table><row><cell>Dose level</cell><cell></cell><cell>I</cell><cell>II</cell><cell>III</cell><cell>IV</cell><cell>V</cell><cell>VI</cell><cell>Total (%)</cell></row><row><cell cols="2">Capecitabine (mg m -2 b.i.d.)</cell><cell>825</cell><cell>825</cell><cell>825</cell><cell>1000</cell><cell>1000</cell><cell>1250</cell><cell></cell></row><row><cell>Docetaxel (mg m -2 )</cell><cell></cell><cell>75</cell><cell>85</cell><cell>100</cell><cell>100</cell><cell>75</cell><cell>75</cell><cell></cell></row><row><cell>No. evaluable courses</cell><cell></cell><cell>14</cell><cell>32</cell><cell>16</cell><cell>14</cell><cell>24</cell><cell>23</cell><cell>123</cell></row><row><cell>Neutropenia</cell><cell>G3</cell><cell>3</cell><cell>13</cell><cell>1</cell><cell>2</cell><cell>6</cell><cell>4</cell><cell>29 (24)</cell></row><row><cell></cell><cell>G4</cell><cell>6</cell><cell>15</cell><cell>4</cell><cell>9</cell><cell>7</cell><cell>13</cell><cell>54 (44)</cell></row><row><cell>Febrile neutropenia</cell><cell></cell><cell>-</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>-</cell><cell>-</cell><cell>3 (2.4)</cell></row><row><cell>Thrombopenia</cell><cell>G1-2</cell><cell>-</cell><cell>4</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>1</cell><cell>5 (4)</cell></row><row><cell></cell><cell>G3-4</cell><cell>-</cell><cell>1</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>1 (0.8)</cell></row><row><cell>Anaemia G1-2</cell><cell></cell><cell>13</cell><cell>28</cell><cell>11</cell><cell>13</cell><cell>23</cell><cell>22</cell><cell>110 (89)</cell></row></table><note><p>a</p><p>No. of courses affected/total courses.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4</head><label>4</label><figDesc>Non-haematological toxicity a</figDesc><table><row><cell>Dose level</cell><cell></cell><cell>I</cell><cell>II</cell><cell>III</cell><cell>IV</cell><cell>V</cell><cell>VI</cell><cell>Total (%)</cell></row><row><cell cols="2">Capecitabine (mg m -2 b.i.d.)</cell><cell>825</cell><cell>825</cell><cell>825</cell><cell>1000</cell><cell>1000</cell><cell>1250</cell><cell></cell></row><row><cell cols="2">Docetaxel (mg m -2 )</cell><cell>75</cell><cell>85</cell><cell>100</cell><cell>100</cell><cell>75</cell><cell>75</cell><cell></cell></row><row><cell cols="2">No. evaluable courses</cell><cell>14</cell><cell>32</cell><cell>16</cell><cell>14</cell><cell>24</cell><cell>23</cell><cell>123</cell></row><row><cell>Nausea</cell><cell>G 1-2</cell><cell>3</cell><cell>15</cell><cell>4</cell><cell>7</cell><cell>8</cell><cell>3</cell><cell>40 (33)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 6</head><label>6</label><figDesc>Summary of paired docetaxel pharmacokinetics in the presence or absence of capecitabine a Kinetic terms are mean values ± standard deviation. Abbreviations: n, number of patients with complete paired kinetic data; C max , peak plasma level; t 1/2 , terminal elimination half-life; AUC, area under the plasma concentration-time curve; CL, total body clearance; V ss , volume of distribution at steady state.</figDesc><table><row><cell>Docetaxel</cell><cell>Capecitabine</cell><cell>n</cell><cell>C max</cell><cell>t 1/2</cell><cell>AUC</cell><cell>CL</cell><cell>V ss</cell></row><row><cell>(mg m -2 )</cell><cell>(mg m -2 b.i.d.)</cell><cell></cell><cell>(µg ml -1 )</cell><cell>(h)</cell><cell>(µg h ml -1 )</cell><cell>(l h -1 m -2 )</cell><cell>(l m -2 ) (h)</cell></row><row><cell>75 75 85 85 100 100 100 100 75 75 75 75</cell><cell>825 -825 -825 -1000 -1000 -1250 -</cell><cell>3 3 4 4 4 4 3 3 6 6 5 5</cell><cell>2.25 ± 0.23 2.10 ± 1.04 2.57 ± 0.53 2.64 ± 0.47 3.28 ± 0.78 3.96 ± 1.76 3.78 ± 0.56 3.73 ± 0.06 2.29 ± 0.11 2.54 ± 0.70 2.34 ± 0.67 2.78 ± 0.55</cell><cell>2.83 ± 1.19 1.81 ± 0.96 7.52 ± 5.42 5.88 ± 2.87 12.2 ± 9.24 9.81 ± 4.62 12.4 ± 9.24 9.39 ± 2.88 6.90 ± 3.71 5.40 ± 2.41 8.15 ± 9.05 8.46 ± 9.36</cell><cell>2.47 ± 0.35 2.32 ± 1.16 3.74 ± 1.09 3.37 ± 0.97 4.45 ± 1.26 6.07 ± 2.48 5.09 ± 0.97 5.13 ± 0.51 3.05 ± 0.56 3.45 ± 1.29 3.25 ± 1.08 3.16 ± 0.70</cell><cell>30.9 ± 4.53 32.8 ± 15.6 25.0 ± 7.92 27.7 ± 8.86 24.5 ± 7.00 18.7 ± 5.44 20.4 ± 3.86 19.7 ± 2.01 25.4 ± 4.44 24.3 ± 7.11 26.1 ± 9.45 25.1 ± 6.23</cell><cell>41.3 ± 12.9 33.3 ± 15.9 63.1 ± 24.4 68.5 ± 24.8 123 ± 89.9 75.9 ± 44.3 86.7 ± 1.75 72.0 ± 28.5 82.0 ± 42.8 57.4 ± 14.2 95.9 ± 100 115 ± 134</cell></row></table><note><p>a</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2000) 83(1), 22-29 © 2000 Cancer Research Campaign</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Taxotere in advanced malignant melanoma: a phase II trial of the EORTC Clinical Trials Group</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aamdal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Wolff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Paridaens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schachter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Franklin</forename><forename type="middle">H</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1061" to="1064" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacokinetic study of RP 56976 in a new ethanol-free formulation of Taxotere</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Aapro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zulian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alberto</forename><forename type="middle">P</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Oulid-Aissa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">208</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>suppl 5</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacokinetic study of Taxotere (RP 56976) administered as a 24-hour infusion</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bisset</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Setanoians</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cassidy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Chadwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Auzannet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kaye</forename><surname>Sb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kerr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="523" to="527" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Multicenter phase II study of capecitabine in paclitaxel-refractory metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Buzdar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Lorusso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kuter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Osterwalder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">U</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Griffin</forename><forename type="middle">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="485" to="493" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A phase II trial with docetaxel (Taxotere) in second-line treatment with chemotherapy for advanced breast cancer. A study of the EORTC Early Clinical Trials Group</title>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Bokkel-Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Prove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Piccart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tursz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Clavel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Alaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayssas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="527" to="532" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Assessing the reliability of two toxicity scales: implications for interpretating toxicity data</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Brundage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Pater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1138" to="1148" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Pharmacokinetics and metabolism of Taxotere</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Sanderink</surname></persName>
+		</author>
+		<editor>Pharmacokinetics and Cancer Chemotherapy, Workman P and Graham MA</editor>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="305" to="313" />
+			<pubPlace>Cold Spring Harbor Laboratory; New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Preliminary results of a novel oral fluoropyrimidine carbamate</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Budman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Meropol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reigner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Creaven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lichtman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Berghorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Behr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Osterwalder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Griffin</forename><forename type="middle">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1795" to="1802" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Phase I clinical trial of Taxotere administered as either a 2-hour or 6-hour intravenous infusion every 3 weeks</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Irvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kalter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shaffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eckardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rinaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vreeland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayssas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="950" to="958" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Docetaxel (Taxotere): an active drug for the treatment of patients with advanced squamous cell carcinoma of the head and neck</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Catimel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mattijsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hanauske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piccart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Clavel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="533" to="537" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Docetaxel (Taxotere) is active in non-small cell lung cancer: a phase II trial of the EORTC Clinical Trials Group</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cerny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pavlidis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schöffski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Epelbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Meerbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Franklin</forename><surname>Hr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kaye</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="384" to="387" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Docetaxel is a major cytotoxic drug for the treatment of advanced breast cancer: a phase II trial of the Clinical Screening Cooperative Group of the European Organization for Research and Treatment of Cancer</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chevallier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fumoleau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kerbrat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Dieras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Krakowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Azli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayssas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lentz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Glabbeke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="314" to="322" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacokinetic study of Taxotere (RP 56976; NSC 628503) given as a short intravenous infusion</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Extra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rousseau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clavel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marty</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1037" to="1042" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A randomized phase II study of Xeloda (Capecitabine) in patients with advanced colorectal cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Findlay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kocha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Allman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Laffranchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Osterwalder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dalley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pazdur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">227</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>a abstract 798</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Phase II study of Taxotere in locally advanced and/or metastatic pancreatic cancer</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Forni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rougier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Adenis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ducreux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Djazouli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clouet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Blanc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bayssas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bonneterre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Armand</forename><surname>Jp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">509</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>suppl 5</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Phase II study of docetaxel for advanced or metastatic platinum-refractory nonsmall cell lung cancer</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Calayag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Perez-Soler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lippman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Benner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Glisson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chasen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ki</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Raber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="645" to="651" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Relationships between the structure of Taxol analogues and their antimitotic activity</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gueritte-Voegelein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Guenard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lavelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Goff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Mangatal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Poitier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Chem</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="992" to="998" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName><forename type="first">Phe</forename><surname>Hilkens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vecht</forename><surname>Ch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wlj</forename><surname>Van Putten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Den Bent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Investigational drug brochure: Capecitabine (Ro 09-1978) Fourth Version</title>
+		<imprint>
+			<date type="published" when="1996-12">1996. December 1997</date>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="104" to="108" />
+		</imprint>
+	</monogr>
+	<note>Peripheral neurotoxicity induced by docetaxel</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phase II study with docetaxel (Taxotere) in advanced soft tissue sarcomas of the adult</title>
+		<author>
+			<persName><forename type="first">Qgcm</forename><surname>Van Hoesel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Catimel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clavel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kerbrat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Van Oosterom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tursz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Glabbeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Van Pottelsberghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mouridsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="539" to="542" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+		<respStmt>
+			<orgName>EORTC Soft Tissue and Bone Sarcoma Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Xeloda™ (Capecitabine), a new oral fluoropyrimidine carbamate with an improved efficacy profile over other fluoropyrimidines</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ishikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sawada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sekiguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ishitsuka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">226</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>a abstract 796</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase I study of capecitabine in combination with paclitaxel in patients with previously treated metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Villalona-Calero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Diab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Elledge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kraynak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Moczygemba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kromelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Morales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">206</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>a abstract 793</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Sensitive determination of docetaxel in human plasma by liquid-liquid extraction and reversed-phase high-performance liquid chromatography</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Loos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nooter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sparreboom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chromatogr B</title>
+		<imprint>
+			<biblScope unit="volume">693</biblScope>
+			<biblScope unit="page" from="437" to="441" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Phase I and pharmacologic study of Phase I study of capecitabine and docetaxel 29</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mackean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Planting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Allman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Osterwalder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reigner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kaye</forename><forename type="middle">S</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">© 2000 Cancer Research Campaign intermittent twice-daily oral therapy with capecitabine in patients with advanced and/or metastatic cancer</title>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="2977" to="2985" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>J Clin Oncol</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Phase II trial of a 75 mg m -2 dose of docetaxel with prednisone premedication for patients with advanced nonsmall-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Rigas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kmw</forename><surname>Pisters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Venkatraman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Woolley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Heelan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kris</forename><surname>Mg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="968" to="972" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A randomized phase II study of Xeloda (Capecitabine) vs CMF as first-line chemotherapy of breast cancer in women &gt; 55 years</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>O'shaugnessy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Moiseyenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Nabholtz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gorbunova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laws</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Griffin</forename><forename type="middle">T</forename><surname>Osterwalder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">103</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>a abstract 398</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Phase I trial of Taxotere: 5-day schedule</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pazdur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fuentes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benvenuto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bready</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jaiyesimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vreeland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmg</forename><surname>Bayssas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Raber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="1781" to="1788" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Corticosteroids significantly delay the onset of docetaxel-induced fluid retention: final results of a randomized study of the European Organization for Research and Treatment of Cancer investigational drug branch for breast cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Piccart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Klijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Paridaens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nooij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mauriac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bontenbal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Awada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Selleslags</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Vreckem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Glabbeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="3149" to="3155" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Docetaxel (Taxotere): single agent activity, development of combination treatment and reducing side effects</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Pronk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treatment Rev</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="463" to="478" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Influence of the antacid Maalox on the pharmacokinetics of capecitabine in cancer patients</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reigner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clive</forename><forename type="middle">S</forename><surname>Cassidy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jodrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goggin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Banken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Roos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Utoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mulligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Weidekamm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Studies with RP 56976 (Taxotere): a semisynthetic analog of Taxol</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ringel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Horwitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="288" to="291" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The clinical pharmacology and use of antimicrotubule agents in cancer chemotherapeutics</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Donehower</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmac Ther</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="35" to="84" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Clinical pharmacokinetics: concepts and applications</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rowland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Tozer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<pubPlace>Media, Williams and Wilkins</pubPlace>
+		</imprint>
+	</monogr>
+	<note>3rd Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Induction of thymidine phosphorylase activity and enhancement of capecitabine efficacy by Taxol/Taxotere in human cancer xenografts</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sawada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ishikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yoshikubo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ishitsuka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1013" to="1019" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Coping with toxicities of docetaxel (Taxotere)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schrijvers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dirix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Vonck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Oosterom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kaye</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="610" to="611" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Docetaxel (Taxotere) in advanced gastric cancer: results of a phase II clinical trial</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sulkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sessa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Van Oosterom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vermorken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="380" to="383" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>for the EORTC Early Clinical Studies Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A Japanese phase I study of continuous twice daily treatment with capecitabine in patients with advanced and/or metastatic solid tumors</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Taguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ishitani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Saitoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kurihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fukuyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Saigenji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Toge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Takashima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sugimachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">87</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Phase I study of Taxotere (RP 56976, NSC 628503) administered as a one hour intravenous infusion on a weekly basis</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tomiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Piccart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Awada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>De Valeriola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ravoet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lossignol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Sculier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Auzannet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bayssas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Klastersky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1458" to="1467" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics (PK) and pharmacodynamics (PD) of capecitabine in two phase I studies</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Budman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Creaven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kuruma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dumont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Osterwalder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Reigner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">476</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>abstract 1509</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Handbook for Reporting Results of Cancer Treatment</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">WHO Offset Publication</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="22" to="26" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

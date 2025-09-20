@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I dose-escalating study of docetaxel in combination with 5-day continuous infusion of 5-fluorouracil in patients with advanced gastric cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2005-07-22">22 July 2005</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Se</forename><forename type="middle">Hoon</forename><surname>Park</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep3">Gachon Medical School Gil Medical Center</orgName>
+								<address>
+									<postCode>405- 760</postCode>
+									<settlement>Incheon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Soo-Mee</forename><surname>Bang</surname></persName>
+							<email>smbang@gilhospital.com</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep3">Gachon Medical School Gil Medical Center</orgName>
+								<address>
+									<postCode>405- 760</postCode>
+									<settlement>Incheon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eun</forename><forename type="middle">Kyung</forename><surname>Cho</surname></persName>
+							<email>ekcho@gilhospital.com</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep3">Gachon Medical School Gil Medical Center</orgName>
+								<address>
+									<postCode>405- 760</postCode>
+									<settlement>Incheon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dong</forename><forename type="middle">Bok</forename><surname>Shin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep3">Gachon Medical School Gil Medical Center</orgName>
+								<address>
+									<postCode>405- 760</postCode>
+									<settlement>Incheon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jae</forename><forename type="middle">Hoon</forename><surname>Lee</surname></persName>
+							<email>jhlee@gilhospital.com</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep3">Gachon Medical School Gil Medical Center</orgName>
+								<address>
+									<postCode>405- 760</postCode>
+									<settlement>Incheon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Woon</forename><forename type="middle">Ki</forename><surname>Lee</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of General Surgery</orgName>
+								<orgName type="department" key="dep2">Gachon Medical School Gil Medical Center</orgName>
+								<address>
+									<postCode>405-760</postCode>
+									<settlement>Incheon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Min</forename><surname>Chung</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of General Surgery</orgName>
+								<orgName type="department" key="dep2">Gachon Medical School Gil Medical Center</orgName>
+								<address>
+									<postCode>405-760</postCode>
+									<settlement>Incheon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I dose-escalating study of docetaxel in combination with 5-day continuous infusion of 5-fluorouracil in patients with advanced gastric cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2005-07-22">22 July 2005</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EFD5AEB41DF1CDBF2C2426E4A77975CD</idno>
+					<idno type="DOI">10.1186/1471-2407-5-87</idno>
+					<note type="submission">Received: 31 January 2005 Accepted: 22 July 2005</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Published data suggests that docetaxel combined with 5-fluorouracil (5-FU) may have synergistic activity in treating advanced gastric cancer. We performed a phase I study of docetaxel and 5-FU to determine the maximum tolerated dose (MTD), the recommended dose for phase II studies, and the safety of this combination.</p><p>Methods: Eligible patients had recurrent and/or metastatic advanced gastric cancer with normal cardiac, renal and hepatic function. Traditional phase I methodology was employed in assessing dose-limiting toxicity (DLT) and MTD. On day 1 every 3 weeks, docetaxel 75 mg/m 2 (fixed dose) was infused over 1-h, followed immediately by 5-FU as a 5-day continuous infusion.</p><p>Results: Dose escalation schema was as follows: dose level (DL) 1 (5-FU 250 mg/m 2 /day), 2 (500), 3 (750), and 4 (1000). Three patients were enrolled on DL1, without DLT. On DL2, 1 DLT (grade 3 stomatitis) was developed in first 3 patients, and this cohort was expanded to 6 patients. Three patients had been enrolled on DL3. Because two out of 3 patients had DLTs, the MTD was reached at DL3.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion:</head><p>The recommended phase II dose of this combination is 75 mg/m 2 docetaxel on day 1 immediately followed by a 5-day continuous infusion of 5-FU 500 mg/m 2 /day.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Gastric cancer remains the most common cause of cancerrelated death in Korea <ref type="bibr" target="#b0">[1]</ref>. For patients with unresectable, locally advanced, or metastatic disease, chemotherapy can provide significant palliation of symptoms <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. When used as single agents, 5-fluorouracil (5-FU), doxorubicin, cisplatin, and mitomycin C are considered active in gastric cancer, producing response rates in up to 20% of patients <ref type="bibr" target="#b3">[4]</ref>. Of these, 5-FU is an central cytostatic antimetabolite with a broad range of antitumor activity in breast, gastrointestinal, head and neck, and ovarian cancers. When given as a prolonged continuous infusion, stomatitis and diarrhea are the principal toxicities, whereas myelosuppression is more commonly observed with intravenous bolus injections <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>. Because 5-FU has demonstrated synergistic interaction with many antineoplastic agents, it is currently most often administered in the setting of combination chemotherapy regimens. However, most trials with different combinations of these drugs provided similar survivals ranging from 6 to 10 months <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>. No regimen has been universally recognized as standard.</p><p>Among the new agents, docetaxel is a novel semisynthetic taxane with significant antitumor activity and manageable toxicity consisting primarily of myelosuppression <ref type="bibr" target="#b8">[9]</ref>. Results of docetaxel-containing regimen in the treatment of gastric cancer are encouraging. Phase I and II clinical trials have confirmed that docetaxel is effective in patients with advanced gastric cancer when used as monotherapy, yielding response rates of 20% <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11]</ref>. Docetaxel and 5-FU are highly synergistic <ref type="bibr" target="#b11">[12]</ref>, and clinical evidence suggests lack of cross-resistance.</p><p>When this study was initiated, most previous studies used docetaxel 60-85 mg/m 2 on day 1, followed by a 5-day continuous infusion of 5-FU 500-1000 mg/m 2 /day, every 3 weeks <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref>. However, we had experienced severe toxicities such as febrile neutropenia and grade 3 or 4 stomatitis in treating patients with advanced gastric cancer as a practice with docetaxel 75 mg/m 2 and 5-FU 1000 mg/m 2 / day for 5 days. Therefore, we performed a phase I study of docetaxel and 5-FU to determine the maximum tolerated dose (MTD) and the safety of this combination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>This was a phase I dose-escalating study conducted between Mar 2002 and Aug 2002. The study was conducted according to the principles stated in the latest version of the Declaration of Helsinki. This study protocol was reviewed and approved by the Gil Medical Center institutional review board, and signed informed consent was obtained from all patients prior to their enrollment.</p><p>Patients enrolled into this study had to be at least 18 years of age and have a histologically confirmed diagnosis of metastatic or recurrent gastric adenocarcinoma that was previously treated with, though not necessarily resistant to, cytotoxic chemotherapy. The patients were required to have a Eastern Cooperative Oncology Group (ECOG) performance status ≤2, normal blood counts, normal renal and hepatic functions, no history of anaphylaxis and no peripheral neuropathy of any origin. Patients had to have received at least one chemotherapy regimen, either as adjuvant treatment or for metastatic disease. Patients could have received prior 5-FU, provided it was administered in intravenous bolus or in oral form, but not with paclitaxel or docetaxel. Patients had to have fully recov-ered from the toxic effects of previous chemotherapy except for alopecia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment plan</head><p>The treatment consisted of docetaxel 75 mg/m 2 on day 1 in a 1-h infusion followed by 5-FU in continuous infusion from day 1 to day 5, according to the escalating dose levels. The starting dose of 5-FU was 250 mg/m 2 /day for 5 days. In the absence of DLT, dose escalation in additional cohorts continued at a dose increase of 250 mg/m 2 /dose. Traditional phase I methodology was employed in assessing dose-limiting toxicity (DLT) and MTD. Patients were to be treated at the same dose level in groups of three. If no DLT, defined as febrile neutropenia and/or grade 3/4 toxicity of any other kind apart from alopecia, occurred, the next 3 patients were treated at the next higher dose level. If one DLT occurred, 3 additional patients had to be treated at the same dose level. If 2 or more DLTs occurred at a given dose level, the MTD would be considered to be reached and the dose escalation had to be stopped. The dose just below would be considered to be the recommended dose for further evaluation in phase II trials.</p><p>Only the first cycle of treatment was evaluated to determine DLT. However, to adequately determine to safety of this combination, the recruitment of further patients at the recommended dose level was planned in a subsequent phase II study <ref type="bibr" target="#b15">[16]</ref>. All patients received a standard supportive regimen consisting of dexamethasone and 5-HT3 inhibitors. The use of hematological growth factors was not allowed during the first cycle of treatment, but was permitted thereafter among patients who had one episode of febrile neutropenia or infection according to the guideline provided by American Society of Clinical Oncology <ref type="bibr" target="#b16">[17]</ref>.</p><p>Table 1: Patient characteristics Number of patients N = 16 Age Median 59 Range 36-73 Male:female 14:2 ECOG performance status 0 6 37% 1 8 50% 2 2 13% Disease status Primary metastatic 12 75% Locally-advanced 4 25% Prior chemotherapy Uracil-tegafur 4 25% 5-FU bolus + folinic acid 1 6% 5-FU + cisplatin 4 25% Epirubicin + cisplatin + capecitabine 5 31% Epirubicin + doxorubicin + cisplatin 2 13%</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient evaluation</head><p>Toxicity was graded according to National Cancer Institute Common Toxicity Criteria for adverse events (NCI-CTC) <ref type="bibr" target="#b17">[18]</ref>. Dose modifications were planned for toxicity. The primary objective of the study was to define the MTD of the regimen under investigation. Evaluation at baseline and during the study included a medical history, data on toxicity and physical examination every courses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>Sixteen patients received a total of 45 cycles of treatment (median 3, range 1-6). Patient characteristics are listed in Table <ref type="table">1</ref>. All patients previously received one cytotoxic chemotherapy regimen, with 88% having received prior fluoropyrimidines. Previous chemotherapy was commonly administered as adjuvant treatment (4 patients, 25%) or for metastatic disease (12 patients; 75%). Twelve patients (75%) had no measurable lesions to evaluate treatment efficacy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity</head><p>All patients were evaluable for toxicity. Of three patients enrolled on dose level 1 (5-FU 250 mg/m 2 /day for 5 days), none experienced DLT. On dose level 2 (5-FU 500 mg/m 2 /day for 5 days), a 63-year-old male with peritoneal dissemination developed grade 3 stomatitis and fatigue. Three additional patients were enrolled at this dose level did not experience DLT. Dose escalation thus proceeded to dose level 3 (5-FU 750 mg/m 2 /day for 5 days). One of the 3 initial patients at this level, a 57-yearold male with peritoneal dissemination developed grade 3 stomatitis and another patient, a 60-year-old male with liver metastasis had febrile neutropenia. Because two out of 3 patients had DLTs, the MTD was reached at dose level 3. Dose level 2 was therefore the recommended regimen with docetaxel 75 mg/m 2 on day 1 and 5-FU 750 mg/m 2 / day in a 5-day continuous infusion.</p><p>Toxicity analysis is based on 16 patients and 45 cycles of treatment. Table <ref type="table">2</ref> summarizes DLTs per patients and per cycles. No treatment-related death was observed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This phase I trial determined the recommended phase II dose of 5-FU to be 500 mg/m 2 /day as a 5-day continuous infusion when combined with 75 mg/m 2 docetaxel every 3 weeks. DLTs included stomatitis, neutropenia, diarrhea, and asthenia. Toxicity in our study did not differ significantly from that seen in other phase I studies that evaluated docetaxel combined with 5-FU continuous infusion. A phase I trial showed that docetaxel at 85 mg/m 2 with 5-FU given in continuous infusion over 5 days at 750 mg/ m 2 /day was tolerable without any major mucosal toxicity or any substantial increase in docetaxel-induced myelotoxicity <ref type="bibr" target="#b11">[12]</ref>. Ando et al. <ref type="bibr" target="#b12">[13]</ref> determined the MTDs of docetaxel and 5-FU on this schedule to be 50 mg/m 2 and 500 mg/m 2 /day, respectively, and neutropenia to be the primary DLT, with diarrhea also dose limiting. Using a similar schedule, Van den Neste et al. <ref type="bibr" target="#b13">[14]</ref> reported the MTDs of docetaxel and 5-FU to be 85 mg/m 2 and 750 mg/ m 2 /day, with diarrhea, stomatitis and neutropenia as DLTs.</p><p>Because of the relatively high incidence of hematologic toxicity induced by docetaxel, it was felt that only a moderately myelotoxic agent could be added as a combination. 5-FU given in continuous infusion could be an interesting option since it is known to induce very little myelotoxicity, if any.</p><p>With the addition of 5-FU, the main changes in the nonhematologic toxicity were observed in the occurrence of stomatitis and diarrhea, and in the appearance of handfoot syndrome. All three toxicities are known to be associated with 5-FU. Hawkins et al. <ref type="bibr" target="#b14">[15]</ref> compared docetaxel with the addition of irinotecan or 5-FU in a randomized phase II study. Both docetaxel/irinotecan and docetaxel/ 5-FU were well-tolerated with acceptable toxicity profiles. Three-drug combination of docetaxel, 5-FU and cisplatin for patients with gastric cancer was also investigated by some authors. Roth et al. <ref type="bibr" target="#b18">[19]</ref> administered combination chemotherapy with docetaxel 85 mg/m 2 , cisplatin 75 mg/ m 2 , and 5-FU 300 mg/m 2 /day on days 1-14, resulting in a 51% objective response. The major toxicity was neutro-</p><p>Table 2: Dose-limiting toxicities (DLTs) according to dose level. Dose level (5-FU/day) Pts/cycles After first cycle After all courses (pts/cycles) Neutropenia FN 1 stomatitis diarrhea asthenia Level 1 (250 mg) 3/4 None 1/1 1/1 Level 2 (500 mg) 10/35 Stomatitis (1) 4/5 6/11 1/1 4/7 Level 3 (750 mg) 3/4 Stomatitis (1) FN (1) 2/2 1/1 2/2 1/1 1/1 1 FN denotes febrile neutropenia.</p><p>penia which reached grade 3 or 4 in 79% of 52 patients. Ajani et al. <ref type="bibr" target="#b19">[20]</ref> evaluated a combination of docetaxel, cisplatin, and 5-FU (DCF) for chemotherapy-naïve patients with advanced gastric cancer. They achieved a response rate of 39% and median survival of 10.2 months, and toxicity was manageable. It is apparent that the more complex a chemotherapy regimen, the more toxic and difficult for patients to tolerate. Although cisplatin is often used in combination with other agents, it is well known that cisplatin is associated with significant toxicity and usually requires high level of clinical monitoring and supportive care including intensive intravenous hydration. Thuss-Patience et al. <ref type="bibr" target="#b20">[21]</ref> recently reported that docetaxel/5-FU had similar efficacy to epirubicin/cisplatin/5-FU (ECF) and even to DCF.</p><p>Since nearly 80% of the patients did not have measurable disease, an efficacy assessment could not be performed in this patient population. Our randomized phase II trial with docetaxel/5-FU versus paclitaxel/5-FU is currently ongoing <ref type="bibr" target="#b15">[16]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In conclusion, the recommended dose of this combination is 75 mg/m 2 docetaxel on day 1 immediately followed by a 5-day continuous infusion of 5-FU 500 mg/ m 2 /day. Further evaluation of efficacy and safety is currently underway in a randomized phase II trial of 5-FU combined with docetaxel versus paclitaxel.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>(page number not for citation purposes)</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The author(s) declare that they have no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors' contributions</head><p>SHP collected the data, performed the statistical analysis and drafted the manuscript. SB, EKC, JHL, WKL and MC followed the patients. DBS designed the study and helped with the manuscript. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pre-publication history</head><p>The pre-publication history for this paper can be accessed here: <ref type="url" target="http://www.biomedcentral.com/1471-2407/5/87/prepub">http://www.biomedcentral.com/1471-2407/5/87/prepub</ref> </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Annual report of the Korean central cancer registry program 2000</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Bae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Won</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res Treat</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="77" to="83" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Randomised comparison of fluorouracil, epidoxorubicin and methotrexate (FEMTX) plus supportive care with supportive care alone in patients with non-resectable gastric cancer</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pyrhonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kuitunen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nyandoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kouri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="587" to="591" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Randomized comparison between chemotherapy plus best supportive care with best supportive care in advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Glimelius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ekstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Graf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">O</forename><surname>Sjoden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Haglund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Svensson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Linne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sellstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heuman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="163" to="168" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Chemotherapy for Advanced Gastric Cancer: Focus on New Agents and Combinations</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Murad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Control</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="361" to="368" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Vaitkevicius VK: Comparison of continuously infused 5-fluorouracil with bolus injection in treat-ment of patients with colorectal adenocarcinoma</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Seifert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="123" to="128" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A prospective randomized comparison of continuous infusion fluorouracil with a conventional bolus schedule in metastatic colorectal carcinoma: a Mid-Atlantic Oncology Program Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Lokich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ahlgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Gullo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Philips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Fryer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="425" to="432" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Controlled evaluation of three drug combination regimens versus fluorouracil alone for the therapy of advanced gastric cancer. North Central Cancer Treatment Group</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Cullinan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Moertel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Wieand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Connell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Poon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Krook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Mailliard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Tschetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="412" to="416" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Randomized phase III trial of fluorouracil alone versus fluorouracil plus cisplatin versus uracil and tegafur plus mitomycin in patients with unresectable, advanced gastric cancer: The Japan Clinical Oncology Group Study (JCOG9205)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ohtsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shimada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shirao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Boku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hyodo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yamamichi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Miyata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ikeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fukuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yoshida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="54" to="59" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Studies with RP 56976 (taxotere): a semisynthetic analogue of taxol</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ringel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Horwitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="288" to="291" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Docetaxel (Taxotere) in advanced gastric cancer: results of a phase II clinical trial. EORTC Early Clinical Trials Group</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sulkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sessa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Dirix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Vermorken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lebail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="380" to="383" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase II trial of docetaxel (Taxotere) in patients with adenocarcinoma of the upper gastrointestinal tract previously untreated with cytotoxic chemotherapy: the Eastern Cooperative Oncology Group (ECOG) results of protocol E1293</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Einzig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Neuberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Remick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Karp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Benson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="87" to="93" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">rd: Docetaxel in combination with fluorouracil for advanced solid tumors</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="50" to="52" />
+			<date type="published" when="1997">1997</date>
+			<pubPlace>Williston Park</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A phase I trial of docetaxel and 5-day continuous infusion of 5-fluorouracil in patients with advanced or recurrent breast cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ando</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Ying</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Omuro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Katsumata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Narabayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tokue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fujii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Igarashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wakita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ohtsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Itoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Adachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Taguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="1937" to="1943" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A phase I and pharmacokinetic study of docetaxel administered in combination with continuous intravenous infusion of 5-fluorouracil in patients with advanced solid tumors</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Den Neste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>De Valeriola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bleiberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Kusenda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brassinne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bartholomeus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Selleslags</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hennebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wythouck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Cazenave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lefresne-Soulas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piccart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="64" to="71" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Randomized phase II trial of docetaxel plus irinotecan versus docetaxel plus 5-fluorouracil (5FU) in patients with untreated advanced gastric adenocarcinoma (AGAC)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Soerbye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Adenis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Canon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lopez-Vivanco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jacques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stenger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zuber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Misset</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">257</biblScope>
+			<date type="published" when="1032">2003. abstr 1032</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Interim analysis from a prospective randomized trial of taxanes plus 5-FU in advanced gastric cancer</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">361</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>abstr 4191</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">2000 update of recommendations for the use of hematopoietic colony-stimulating factors: evidence-based, clinical practice guidelines</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ozer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Armitage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Demetri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Pizzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Schiffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Somlo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Wade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Wade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Winn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Wozniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Somerfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="3558" to="3585" />
+			<date type="published" when="2000">2000</date>
+			<publisher>American Society of Clinical Oncology Growth Factors Expert Panel</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Comprehensive criteria for assessing therapy-induced toxicity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ajani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Raber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Fields</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Krakoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Invest</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="147" to="159" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">F: 5-Fluorouracil as protracted continuous intravenous infusion can be added to fulldose docetaxel (Taxotere)-cisplatin in advanced gastric carcinoma: a phase I-II trial</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Maibach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fazio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sessa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Morant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Herrmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Borner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goldhirsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Braud</forename><surname>De</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="759" to="764" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Docetaxel (D), cisplatin, 5fluorouracil compare to cisplatin (C) and 5-fluorouracil (F) for chemotherapy-naive patients with metastatic or locally recurrent, unresectable gastric carcinoma (MGC): Interim results of a randomized phase III trial (V325)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ajani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Moiseyenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tjulandin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fodor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Majlis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Boni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zuber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blattmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">249</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>abstr 999</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Docetaxel and Continuous-Infusion Fluorouracil Versus Epirubicin, Cisplatin, and Fluorouracil for Advanced Gastric Adenocarcinoma: A Randomized Phase II Study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Thuss-Patience</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kretzschmar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Repp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kingreen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hennesser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Micheel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dorken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Reichardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="494" to="501" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

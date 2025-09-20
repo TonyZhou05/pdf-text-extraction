@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I study of simultaneous dose escalation and schedule acceleration of cyclophosphamide-doxorubicin-etoposide using granulocyte colony- stimulating factor with or without antimicrobial prophylaxis in patients with small-cell lung cancer</title>
+				<funder>
+					<orgName type="full">Amgen-Roche Italy</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">A</forename><surname>Ardizzonil</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Pennucci1</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Danova2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Viscoli3</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Marianil</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">G</forename><surname>Giorgi'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Medical Oncology I</orgName>
+								<orgName type="institution">Istituto Nazionale per la Ricerca sul Cancro</orgName>
+								<address>
+									<settlement>Genoa</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Venturinil</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Mereu4</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Scolaro5</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><surname>Rosso'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Medical Oncology I</orgName>
+								<orgName type="institution">Istituto Nazionale per la Ricerca sul Cancro</orgName>
+								<address>
+									<settlement>Genoa</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Ardizzoni</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">2Internal Medicine and Medical Oncology</orgName>
+								<orgName type="laboratory">3Section of Clinical Immunology -Infectious Diseases of the Compromised Host and 4Section of Respiratory Endoscopy</orgName>
+								<orgName type="institution">University and IRCCS S Matteo</orgName>
+								<address>
+									<settlement>Pavia</settlement>
+									<country>Italy;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Istituto di Oncologia</orgName>
+								<orgName type="institution">University of Genoa</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Medical Oncology I</orgName>
+								<orgName type="institution" key="instit1">SDivision of Radiotherapy</orgName>
+								<orgName type="institution" key="instit2">Istituto Nazionale per la Ricerca sul Cancro</orgName>
+								<address>
+									<settlement>Genoa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Istituto Nazionale per la Ricerca sul Cancro</orgName>
+								<orgName type="institution" key="instit2">Largo Rosanna Benzi XV</orgName>
+								<address>
+									<addrLine>10.</addrLine>
+									<postCode>16132</postCode>
+									<settlement>Genoa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I study of simultaneous dose escalation and schedule acceleration of cyclophosphamide-doxorubicin-etoposide using granulocyte colony- stimulating factor with or without antimicrobial prophylaxis in patients with small-cell lung cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FB56FD458E844109442001C87D4FD6C1</idno>
+					<note type="submission">Received 5 February 1996; revised 2 April 1996; accepted 17 April 1996</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>small-cell lung cancer</term>
+					<term>chemotherapy dose intensity</term>
+					<term>granulocyte colony-stimulating factor</term>
+					<term>anti- microbial prophylaxis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A phase I study was designed to assess whether dose intensity of an 'accelerated' cyclophosphamide -doxorubicin -etoposide (CDE) regimen plus granulocyte colony-stimulating factor (G-CSF) could be increased further, in an outpatient setting, by escalating the dose of each single drug of the regimen. Patients with previously untreated small-cell lung cancer (SCLC) received escalating doses of cyclophosphamide (C) 1100-1300 mg m-2 intravenously (i.v.) on day 1, doxorubicin (D) 50-60 mg m-2 i.v. on day 1, etoposide (E) 110-130 mg m-2 i.v. on days 1, 2, 3 and every 14 days for at least three courses. Along with chemotherapy, G-CSF (filgastrim) 5 jug kg-1 from day 5 to day 11 was administered subcutaneously (s.c.) to all patients. Twenty-five patients were enrolled into the study. All patients at the first dose level (C 1100, D 50, E 110 x 3) completed three or more cycles at the dose and schedule planned by the protocol and no 'dose-limiting toxicity' (DLT) was seen. At the second dose level (C 1200, D 55, E 120 x 3) three out of five patients had a DLT consisting of 'granulocytopenic fever' (GCPF). Another six patients were treated at this dose level with the addition of ciprofloxacin 500 mg twice a day and only two patients had a DLT [one episode of documented oral candidiasis and one of 'fever of unknown origin' (FUO) with generalised mucositis]. Accrual of patients proceeded to the third dose level (C 1300, D 60, E 130 x 3) with the prophylactic use of ciprofloxacin. Four out of six patients experienced a DLT consisting of GCPF or documented non-bacterial infection. Accrual of patients at the third dose level was then resumed adding to ciprofloxacin anti-fungal prophylaxis (fluconazole 100 mg daily) and anti-viral prophylaxis (acyclovir 800 mg twice a day) from day 5 to 11. Out of five patients treated three experienced a DLT consisting of severe leucopenia and fever or infection. With a simultaneous dose escalation and schedule acceleration it is indeed possible to take maximum advantage of G-CSF activity and to increase CDE dose intensity by a factor 1.65 -1.80 for a maximum of 3 -4 courses. The role of anti- microbial prophylaxis in this setting deserves to be investigated further.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Combination chemotherapy is the mainstay of small-cell lung cancer (SCLC) treatment <ref type="bibr">(Idhe, 1992)</ref>. Whereas an agreement has been reached as to the optimal chemotherapy duration, the importance of dose intensity is still being discussed. However, at least part of the retrospective (Klasa et al., 1991)  and prospective (Arriagada et al., 1993) data available seem to indicate a possible improvement in clinical outcome with the increase of chemotherapy dose intensity. Cyclophosphamide-doxorubicin-etoposide (CDE) is accepted world- wide as one of the standard chemotherapy regimens in the treatment of SCLC. This drug combination has also been used successfully in other solid tumours (Somlo et al., 1994)  and haematological malignancies including non-Hodgkin's lymphomas (Sparano et al., 1993) and myeloma (Ohrling et  al., 1993). The dose-limiting toxicity of CDE is myelosuppression, particularly neutropenia, with an incidence of febrile neutropenia varying from 53% (Trillet-Lenoir et al.,  1993) to 77% (Crawford et al., 1993). The recent availability of haemopoietic growth factors has fostered studies of CDE dose intensification in SCLC. Randomised studies have shown that both granulocyte-macrophage colony-stimulat- ing factor (GM-CSF) (Hamm et al., 1994) and granulocyte colony-stimulating factor (G-CSF) (Trillet-Lenoir et al., 1993;   Crawford et al., 1993) can reduce myelosuppression associated with standard dose CDE chemotherapy in SCLC, allowing full dose chemotherapy to be delivered on time in the majority of patients. By using G-CSF or GM- CSF prophylactically, an attempt to increase the dose intensity of CDE beyond the standard has also been made. We have shown that CDE chemotherapy can be delivered every 2 weeks instead of the usual 3 weeks. This chemotherapy 'acceleration' yields a 50% increase in the projected CDE dose intensity (Ardizzoni et al., 1993). Preliminary results from a multicentre randomised study would indicate that 'accelerated' chemotherapy in SCLC may result in a better clinical outcome (Steward et al., 1995). The present phase I study was designed to evaluate whether dose intensity of an accelerated CDE could be increased further by escalating the dose of each single drug of the regimen. G-CSF alone or combined with anti-microbial therapy has been used to support CDE dose escalation, the aim being to assess the maximum tolerated dose intensity and the dose-limiting toxicity (DLT) of an outpatient CDE.  included: no previous or concurrent malignancy; no other serious medical or psychiatric illness which would preclude informed consent or prevent the administration of an intensive treatment. All patients gave their informed consent according to national and institutional guidelines. The prestudy work-up included complete history, physical examination and recording of weight, height, performance status and tumour stage. Computed tomography (CT) scan of the thorax and brain, bone marrow biopsy, fibreoptic bronchoscopy with biopsy, bone nuclear scan, upper abdo- men CT scan or echography and ECG were performed in all patients. Initial laboratory data obtained included complete blood chemistries and blood cell count with differential, NSE and CEA test. Patients with brain metastasis, those under steroid treatment, those with fever &gt;38°C or infection were not eligible for the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>A standard phase I study design was used to define the 'maximum tolerated dose' (MTD) of a CDE regimen administered on an outpatient basis every 14 days. The MTD was defined as the dose level at which the next higher dose level produced a DLT in three or more of six patients.</p><p>A minimum of three patients were treated at each CDE dose level and, if no DLT was seen, then subsequent patients were treated at the next dose level. If one or two of three No DLT patients experienced a DLT, then three more patients were entered at the same dose level and dose escalation proceeded only if fewer than three of six patients experienced a DLT at a given dose level. On the contrary, if three or more patients experienced a DLT at any new dose level, no further dose escalation was undertaken. No intrapatient chemotherapy dose escalation was allowed. The DLTs were defined as follows: (1) grade IV haematological toxicity lasting more than 4 days; (2) grade IV thrombocytopenia at any duration associated with bleeding or grade IV anaemia of any duration associated with cardiac failure; (3) grade IV non-haematolo- gical toxicity (other than alopecia and vomiting); (4) granulocytopenic fever (GCPF) (granulocytes &lt;0.5 x 09 1 -' or WBC&lt; 1.0 x 109 1-1 with at least one episode of fever&gt; 38.2°C); (5) clinically or microbiologically documen- ted infection requiring anti-microbial parenteral therapy; (6) fever (&gt;38.20C) of unknown origin (FUO), regardless of the WBC count, lasting more than 3 days and requiring anti- microbial parenteral therapy; (7) no haematological recovery by day 21.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>The starting dose level of CDE consisted of cyclophosphamide (C) 1100 mg m2 i.v. on day 1, doxorubicin (D) 50 mg m-2 i.v. on day 1, etoposide (E) 110 mg m-2 i.V. on days 1, 2 and 3. At the second dose level patients had to</p><p>First dose level q l4+G-CSF DLT *-Stop Second dose level q 1 4+G-CSF No DLT Third dose level q 1 4+G-CSF No DLT DLT /I /Other toxicit Febrile Stop neutropenia or infection Third dose level q 1 4+G-CSF +ciprofloxacin ties DLT -* Other toxicities Febrile neutropenia or infection Second dose level ql 4+G-CSF +ciprofloxacin No DLT DLT Stop Stop Third dose level ql 4+G-CSF +ciprofloxacin No DLT DLT -* Other toxicities Febrile neutropenia Stop or infection or mucositis Third dose level q 1 4+G-CSF +ciprofloxacin +fluconazole +acyclovir Figure 1 Study design.</p><p>-1 .</p><p>---.</p><p>receive C 1200 mg m-2, D 55 mg m-2, E 120 mg m-2 x 3 and, at the third level, C 1300 mg m-2, D 60 mg m-2, E 130 mg m-2 x 3. All patients received G-CSF (filgastrim) at the dose of 5 ig kg -self-administered s.c. from day 5 to day 11. If GCPF or infection were found as the DLT, the protocol established that another cohort of patients at the same dose level would have been treated with the addition of anti-microbial prophylaxis from day 5 to day 11, assuming GCPF was caused by occult bacterial, fungal or viral infection (Figure <ref type="figure">1</ref>). Anti-microbial prophylaxis had to consist of ciprofloxacin 500 mg twice a day, fluconazole 100 mg and acyclovir 800 mg twice a day (Table <ref type="table">I</ref>).</p><p>Chemotherapy courses were repeated every 14 days if complete haematological recovery occurred (WBC&gt;3.0x 1091-1 or granulocytes&gt;2.Ox l091-1, plat- lets&gt; 100 x l09 1-1 and in the absence of any more than grade I non-haematological toxicity. In the case of an inadequate recovery from toxicity, patients were rechecked daily in order to resume treatment as soon as clinical and haematological conditions permitted. Chemotherapy had to be given for a minimum of three courses. No dose escalation was permitted until all the patients in the previous dose level had completed three courses of treatment.</p><p>No dose reduction was foreseen; if a DLT ocurred, the patient had to be removed from the study and to continue the treatment with a standard CDE (C 1000 mg m-2 day 1, D 45 mg m-2 day 1 and 100 mg m-2 days 1, 2 and 3 every 21 days).</p><p>Patients who did not experience DLTs during the first three cycles were offered one or two more cycles of therapy. As supportive therapy, all patients with granulocytes &lt;0.5 x I09 l-I were given oral antibiotic prophylaxis with ciprofloxacin 500 mg twice a day and fluconazole 100 mg daily. In the case of GCPF, FUO or documented infection, an outpatient empirical antibiotic therapy consisting of ceftazidime 1 g three times a day intramuscularly was started. Packed RBCs were administered with Hb levels&lt;8 g 1-1 and platelets were transfused to maintain a platelet count &gt; 15 x 109 1-l1.</p><p>Patient evaluation and follow-up During treatment complete blood cell counts and differentials were obtained every other day. In case a grade IV haematological toxicity was documented, blood counts were performed daily until recovery of grade IV toxicity. Clinical examination, recording of toxicity, performance status, weight and blood chemistry were performed before starting Intensified CDE in SCLC A Ardizzoni et a! 1143 each chemotherapy cycle.</p><p>Patients were instructed to measure their axillary body temperature at least three times a day. In case of fever &gt; 38.2°C they had a contact their physician as soon as possible. At the hospital, axillary temperature was taken again and a complete blood count obtained; if the temperature was &gt; 38.2°C and the granulocytes were &lt;500 ml -the patient was considered as having a GCPF. In this case routine cultures of blood, urine and other suspected sources were performed and empirical parenteral antibiotic treatment started. Evaluation of response was due after three cycles with CT scan of thorax and repetition of all previously positive tests. Patients with limited disease, achieving partial or complete response, received thoracic radiotherapy and only those in complete response were enrolled into a prospective multicentre randomised study of prophylactic cranial irradiation.</p><p>Response criteria and dose intensity calculation Standard WHO criteria for response and toxicity evaluation were used (Miller et al., 1981). Dose intensity was expressed in mg m-2 day-1 and calculated according to Hryniuk and   Bush (1984). As reference standard regimen to calculate the 'relative' dose intensity (RDI) planned at each dose level, a standard dose intensity CDE (C 1000 mg m-2, D 45 mg m-2, E 100x3 mg m-2 every 21 days) was used. The reported dose intensity was the average (ARDI) of the three drugs used (C, D and E). The increase over the standard in the planned dose intensity at each dose level has been calculated as follows: Dose m-2 at a given dose level x 3 (No. of planned courses)</p><p>No. of weeks elapsing between the first and the third course- Standard dose m-2 x 3</p><p>No. of weeks elapsing between the first and the third course As an example, the increase in cyclophosphamide dose intensity at the first dose level is reported: 1100 x 3 1000 x 3 4 : 6 = 825: 500 = 1.65 4 6</p><p>The actual dose intensity was calculated at the third and at the fourth cycle. All patients were considered for actual dose intensity analysis including the patients who had to stop</p><p>Table I Dose escalation programme First level Second level Second level (b) Third level Third level (b) Cyclophosphamidea 1100 1200 1200 1300 1300 (mg m-2 day 1) Doxorubicina 50 55 55 60 60 (mg m 2 day 1) Etoposidea 110 120 120 130 130 (mg m-2 days 1 -3) Filgastrim No No No No Yes (800 mgx 2 days 5 -11) Dose intensity (DI) 65% 80% 80% 95% 95%</p><p>increaseb aCycles ofchemotherapy repeated every 14 days. bIncrease in planned DI compared with a standard CDE (C 1000, D 45, E 100 x 3 every 21 days).</p><p>See 'Patients and methods' for the calculation of dose-intensity increase.</p><p>Intensified CDE in SCLC A Ardizzoni et at treatment before the third or the fourth cycle. In these patients the total dose of chemotherapy received was divided by the time required to complete three or four cycles of therapy (4 and 6 weeks respectively), regardless of the number of courses actually received.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>From February 1992 to June 1994 25 SCLC patients were enrolled into the study. Patient characteristics are shown in Table <ref type="table">II</ref>. A total of 73 cycles, with a median of three (range 1-5) cycles per patient, were administered according to protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose-limiting toxicity</head><p>All the three patients enrolled at the first dose level completed three or more cycles of chemotherapy at the dose and schedule planned by the protocol and no DLT was seen.</p><p>Table II Patient characteristics and response to treatment No. of patients 25 Median age (range) 58 (41 -69) Sex (M/F) 21/4 Median PS (range) 0 (0-1) Stage LD 12 ED 13 Response CR 8 PR 13 NE 4a aOne patient treated as adjuvant therapy after surgery, one patient lost to follow-up before evaluation and two patients died before evaluation.</p><p>At the second dose level, three out of five patients had a DLT. Two had GCPF after the first or second cycle and one had GCPF with a clinically documented infection (dental abscess) after the second cycle. However, the duration of GCPF was only 1 day in all the patients and no systemic infection was documented.</p><p>According to the protocol, the enrolment of patients was resumed at the same dose level adding prophylactic antibiotics consisting of ciprofloxacin 500 mg twice a day from day 5 to 11. Six more patients were treated at this dose level and only two had a DLT. One patient had a microbiologically documented infection (oral candidiasis) after the second cycle and one patient had one episode of FUO lasting for 6 days associated with stomatitis and balanoproctitis after the third cycle. The second dose level, with the addition of prophylactic ciprofloxacin, was therefore considered feasible and patient accrual proceeded to the third dose level using ciprofloxacin in adjunct to G-CSF prophylaxis. Four out of six patients experienced a DLT. One patient had GCPF and a microbiologically documented infection (oral candidiasis) after the first cycle; another had a thoracic herpes zoster infection without GCPF after three cycles; the third developed GCPF before the second cycle; and the last patient had GCPF with generalised mucositis (stomatitis and balanoproctitis) during the second cycle. Based on the observation that, with the addition of ciprofloxacin prophylaxis, all documented infections seen in our study were non-bacterial, another cohort of patients was treated at the third dose level adding to ciprofloxacin anti- fungal (fluconazole 100 mg daily) and anti-viral (acyclovir 800 mg twice a day) prophylaxis from day 5 to 11. Five more patients were accrued of which three experienced a DLT. One patient had GCPF and a clinically documented infection (pneumonia) after the second cycle; he died 20 days later with leucocytosis (WBC=56.0x l01-') and multiple cerebral ischaemic lesions revealed at brain CT scan. Another patient had grade IV leucopenia lasting for 5 days along with grade IV thrombocytopenia requiring platelet transfusion and hospital admission for 6 days. The third patient with DLT had GCPF without documented infection during the third course (Table <ref type="table">III</ref>).</p><p>Table III Results No. of No. of days with Patients courses GCPF GCPF or FUO Infection DLT 1 5 0 First level 2 3 -0 3 4 0 4 4 0 5 3 0 Second level 6 2 Yes 1 -GCPF 7 1 Yes 1 -GCPF 8 2 Yes 1 Dental abscess GCPF/INF 9 4 0 10 4 0 11 3 0 Second level (b) 12 3 Yes 1 Oral candidiasis GCPF/INF 13 3 0 14 3 6 FUO/mucositisa FUO 15 2 Yes 3 Oral candidiasis GCPF/INF 16 3 0 17 4 0 Third level 18 4 0 Zoster INF 19 1 Yes 1 -GCPF 20 2 Yes 2 Mucositisa GCPF 21 3 0 22 2 Yes 2 Pulmonary GCPF/NF 23 1 0 WBC IV Third level 24 3 Yes 2 -GCPF 25</p><p>4 0 FUO, fever of unknown origin; WBC IV, grade IV leucopenia for 5 days; INF, infection; GCPF, granulocytopenic fever. aStomatitis and balanoproctitis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Other toxicities</head><p>The nadir haematological toxicity is shown in Table <ref type="table">IV</ref>. At the first dose level no patient developed grade IV toxicity. At the second and third dose levels 22.5% and 31% of cycles produced grade IV leucopenia whose median duration was 2 (range 1-4) and 3 (range 1-5) days respectively. The median WBC, Hb and platelet nadirs tended to worsen with dose escalation but remained relatively constant throughout the first three cycles. Only one patient required platelet transfusion after the first cycle and no RBC transfusion had to be given during the first three cycles. Four patients out of eight who continued chemotherapy beyond the third cycle required RBC transfusions for the occurrence of k grade 3 anaemia. Non-haematological toxicity was mild and in no instance did it exceed grade II with the exception of the two cases of generalised mucositis mentioned above. Particularly, no case of significant cardiac, renal or hepatic toxicity was reported.</p><p>Dose intensity At all dose levels the median interval between cycles was 14 days (range 14-21 days). The percentages of cycles delivered on day 15, as scheduled by the protocol, at the three dose levels were 100%, 58% and 56% respectively. No dose reduction was applied. Seventeen patients were able to complete the planned three courses. Among these, seven and one patients, respectively, were given one and two more courses (Table <ref type="table">III</ref>).</p><p>The median percentages of actually delivered vs planned dose intensity, calculated for all patients at the third cycle, were 96%, 85%, 82% in the three dose levels respectively. At the fourth cycle, they were 85%, 75% and 71% respectively.</p><p>Response and survival Results in terms of objective response to treatment are reported in Table <ref type="table">II</ref>. Four patients were not evaluable for response. One patient received chemotherapy as adjuvant treatment after surgery. One patient was lost to follow-up and two others died before response evaluation. Out of 21 evaluable patients there were eight complete responses and 13 partial responses. Median time to progression and median overall survival, calculated according to the method of Kaplan and Meier, were 44 and 68 weeks respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Since the demonstration of the important role played by dose intensity in the treatment outcome of a number of drugsensitive tumours <ref type="bibr" target="#b10">(Gurney et al., 1993)</ref> and the availability for clinical use of haemopoietic growth factors, phase I-II studies of chemotherapy intensification have abounded (Bronchud, 1993). The primary objective of these studies was to assess whether haemopoietic growth factors, by ameliorating chemotherapy haematological toxicity, were able to allow chemotherapy dose intensification. Increase of dose intensity above that of standard chemotherapy can be accomplished with both dose escalation and schedule acceleration. Since the main effect of GM-and G-CSF is in accelerating neutrophil recovery, and only to a lesser extent in reducing the severity of neutrophil nadir, we first aimed at verifying the possibility of accelerating chemotherapy administration. In a study of 15 SCLC patients we were able to deliver a CDE regimen, at standard doses, combined with GM-CSF every 2 weeks as opposed to the usual 3 weeks, resulting in a 50% projected dose intensity escalation (Ardizzoni et al., 1993). Two subsequent randomised trials confirmed that such an acceleration was not possible in the absence of the use of GM-CSF (Ardizzoni et al., 1994;  Pennella et al., 1995). The DLT of accelerated chemotherapy is cumulative thrombocytopenia which becomes severe, requiring platelet transfusions, after the fourth cycle and often precludes the completion of treatment.</p><p>In the present study we aimed at identifying the maximum tolerated dose intensity by exploring the feasibility of dose escalating a CDE regimen repeated at 2 week intervals on an outpatient basis for at least three courses. The decision to administer a fourth course of therapy was left open and was indeed taken, with no serious adverse events, in the majority of patients who did not develop a DLT. This number of courses seems adequate in the treatment of SCLC based on the results of a recent randomised British study (Bleehen et   al., 1993).</p><p>Given the definition of DLT used in our study, the MTD turned out to be the first dose level (C 1l1O mg m-2, D 50 mg m-2, E 110 mg m-2 x 3) which corresponds to a 65% projected dose intensity increase compared with a standard every 21 days CDE. This poor level of dose escalation, even in the presence of G-CSF support, is not surprising since a number of other phase I studies, most of which used GM- CSF as a haemopoietic growth factor, came to a similar conclusion in SCLC (Paccagnella et al., 1993), breast (Hoekman et al., 1991), ovarian (Rusthoven et al., 1991)  and urothelial cancer (Scher et al., 1992). The lack of a significant impact of myelocytic growth factors on the depth of neutrophil nadir may account for this result.</p><p>At the second dose level three of five patients developed GCPF. However, GCPF lasted only 1 day in all patients and in no instance did it require parenteral antibiotic treatment or hospitalisation. Therefore, using less strict criteria for defining a DLT, the second dose level, corresponding to an 80% projected dose intensity increase, might also be considered feasible. This amount of dose intensity increase is probably the maximum achievable on an outpatient basis, with a strategy of combined dose escalation and schedule acceleration using haemopoietic growth factors as the only supportive treatment. Further dose intensification is hindered by the development of GCPF and infection.</p><p>The efficacy of antibiotic prophylaxis in preventing infections in patients undergoing conventional chemotherapy for solid tumours is still 'sub judice'. Previous trials of prophylactic cotrimoxazole as adjunct to chemotherapy of SCLC have shown moderate benefit in reducing the infection rate (Figueredo et al., 1985; de Jongh et al., 1983). Quinolones have been found to be more effective than cotrimoxazole in the prevention of infectious complications in the treatment of haematological malignancies (Dekker et al.,  1987). As yet no such study is available for solid tumours.</p><p>In our study, the addition of ciprofloxacin at the second</p><p>Table IV Nadir haematological toxicity Media WBC x 109 r1 Media Hb g dt' Median platelets x 109 1-l (range) (range) (range) Cycles 1 2 3 1 2 3 1 2 3 First level 3.0 2.0 2.1 12.8 12.3 12.1 140 120 100</p><p>(1.4-3.4) (1.2-2.9) (2.0-2.5) (12.6-13.5) (11.5-12.5) (9.5-12.5) (115-180) (100-148) (98-150) Second level 1.5 0.9 1.8 11.5 10.1 9.3 100 88 85 (0.5-2.9) (0.3-1.8) (0.8-2.8) (8.6-13.8) (8.2-13.5) (7.5-13.5) (30-</p><p>280) (56-173) (65-140) Third level 1.0 1.2 1.8 12.1 10.8 10.3 98 101 118 <ref type="table">(0.4-2.1)</ref> (0.3-1.5) (0.5-2.1) (9.1 -14.5) (7.8-12.4) (8.2-11.1) (9-184) (40-203) (80-202) 14</p><p>Intensffied CDE in SCLC A Ardizzoni et at 1146 dose level almost abrogated the occurrence of GCPF. The small number of patients does not allow us to draw firm conclusions on the role of quinolone prophylaxis in this setting. However, since GCPF remains the dose-limiting toxicity of dose-intensified CDE, despite the use of G-CSF, the efficacy of antibiotic prophylaxis in conjunction with haemopoietic growth factors deserves further exploration with specific trials. Given the increasing prevalence of Gram- positive infection in patients receiving prophylactic quino- lones (Meunier, 1990), ciprofloxacin alone may not be the optimal antibiotic treatment and the combination of ciprofloxacin with other agents such as vancomycin, rifampicin or roxithromycin is currently advocated <ref type="bibr" target="#b0">(Archimbaud et al., 1991)</ref>. Most patients receiving G-CSF plus ciprofloxacin at the second and third dose level developed non-bacterial infections or mucositis. Both fluconazole and acyclovir have been found to be effective in preventing, respectively, fungal and viral infections in patients undergoing intensive anti-neoplastic therapy for the treatment of haematological malignancies (Wade et al., 1984; Winston et  al., 1993). Despite the use of anti-mitotic and anti-viral prophylactic therapy, the third dose level did not appear feasible in our study owing again to the occurrence of severe leucopenia and fever. However, none of the patients developed mucositis or oral candidiasis, which, on the contrary, was frequently observed in previous patient cohorts where no anti-fungal or anti-viral prophylaxis was used. Also this observation, owing to the small sample size and to the type of study design, only permits one to hypothesise on the possible role of fluconazole and acyclovir prophylaxis in moderately dose-intensive treatments for solid tumours which would need to be addressed with more appropriate studies.</p><p>In conclusion, with a simultaneous dose escalation and schedule acceleration it is indeed possible to take maximum advantage of G-CSF activity and to increase CDE dose intensity by a factor 1.65-1.80 for a maximum of 3-4 courses. The next step is to assess the impact of such a dose intensity increase on the treatment outcome of SCLC patients. A randomised prospective study comparing standard CDE vs CDE at the MTD identified in the present study is presently ongoing in Europe. The study is also designed to address the role of antibiotic prophylaxis in this setting (Tjan-Heijnen et al).</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We are indebted to <rs type="person">Marina Di Dino</rs> for reviewing the English of the manuscript and to <rs type="person">Giuliana Vaglio</rs> for her help in the preparation of tables and figures. We also thank <rs type="funder">Amgen-Roche Italy</rs> for the supply of G-CSF.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Pefloxacin and vancomycin versus gentamicin, colistin sulphate and vancomicin for prevention of infections in granulocytopenic patients: a randomised double-blind study</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Archimbaud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Guyotat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maupas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ploton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nageotte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Devaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">X</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fleurette J And</forename><surname>Fiere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="174" to="178" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">High dose-intensity chemotherapy, with accelerated cyclophosphamidedoxorubicin-etoposide and granulocyte -macrophage colony stimulating factor, in the treatment of small cell lung cancer</title>
+		<author>
+			<persName><surname>Ardizzoni A</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Venturini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sertoli</forename><surname>Crino' L</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bruzzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pennucci</forename><surname>Mc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mariani</forename><surname>Gl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bracarda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rosso</forename><surname>Van Zandwijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="687" to="692" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Granulocyte-macrophage colony stimulating factor (GM-CSF) allows acceleration and dose-intensity of CEF chemotherapy: a randomised study in patients with advanced breast cancer</title>
+		<author>
+			<persName><surname>Ardizzoni A</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Venturini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sertoli</forename><surname>Mr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giannessi</forename><surname>Pg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Brema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Danova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Testore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mariani</forename><surname>Gl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pennucci</forename><surname>Mc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Queirolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Silvestro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bruzzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Latini</forename><surname>Lionetto R</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rosso R</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="385" to="391" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Initial chemotherapeutic doses and survival in patients with limited small-cell lung cancer</title>
+		<author>
+			<persName><surname>Arriagada R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lechevalier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pignon</forename><surname>Jp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Riviere</forename><forename type="middle">A</forename><surname>Monnet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Chomy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tuchais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tarayre</forename><surname>Ruffie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="page" from="1848" to="1852" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A randomised trial of three or six courses of etoposide cyclophosphamide methotrexate and vincristine or six courses of etoposide and ifosfamide in small cell lung cancer (SCLC) I: survival and prognostic factors</title>
+		<author>
+			<persName><forename type="first">Girling</forename><surname>Bleehen Nm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Machin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bolger</forename><surname>Stephens Rj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clark Pi And</forename><surname>Jj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hasleton Ps</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1150" to="1156" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Can hematopoietic growth factors be used to improve the success of cytotoxic chemotherapy? Anti-Cancer Drugs</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bronchud</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="127" to="139" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Reduction by granulocyte colony-stimulating factor of fever and neutropenia induced by chemotherapy in patients with small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ozer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stoller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johnson</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lyman</forename><forename type="middle">G</forename><surname>Tabbara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kriss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Picozzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rausch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Smith R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gradishar</forename><forename type="middle">W</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yahanda</forename><forename type="middle">A</forename><surname>Vincent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stewart M And</forename><surname>Glaspy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">325</biblScope>
+			<biblScope unit="page" from="164" to="170" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Trimethoprim/sulfamethoxazole versus placebo: a double-blind comparison of infection prophylaxis in patients with small cell carcinoma of the lung</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wade</forename><surname>Gc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Finley</forename><surname>Rs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joshi</forename><surname>Jh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aisner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wiernik</forename><surname>Ph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schimpff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="302" to="307" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Infection prophylaxis in acute leukemia: a comparison of ciprofloxacin with trimethoprim-sulfamethoxazole and colistin</title>
+		<author>
+			<persName><forename type="first">Rozemberg-Arska</forename><surname>Dekker Aw</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verhoef</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Int. Med</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="7" to="12" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Co-trimoxazole prophylaxis during highdose chemotherapy of small-cell lung cancer</title>
+		<author>
+			<persName><forename type="first">Hryniuk</forename><surname>Figueredo At</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Strautmanis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank G And</forename><surname>Rendell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="54" to="64" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Escalating drug delivery in cancer therapy: a review of concepts and practice</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gurney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dodwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thatcher N And Tattersall</forename><surname>Mhn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="103" to="115" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note>II</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Dose-ranging study of recombinant human granulocyte-macrophage colony-stimulating factor in small cell lung carcinoma</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hamm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Schiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cuffie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Oken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fisher</forename><surname>Ri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shepherd F And</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="2667" to="2676" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Effect of recombinant human granulocyte-macrophage colony-stimulating factor on myelosuppression induced by multiple cycles of high-dose chemotherapy in patients with advanced breast cancer</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hoekman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wagstaff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vermorken</forename><surname>Van Groeningen Cj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Boven</forename><surname>Jb</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pinedo Hm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1546" to="1553" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The importance of dose intensity in chemotherapy of metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bush</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1281" to="1288" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Drug therapy: chemotherapy of lung cancer</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Ihde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">327</biblScope>
+			<biblScope unit="page" from="1434" to="1441" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Dose-intensity meta-analysis of chemotherapy regimens in small-cell carcinoma of the lung</title>
+		<author>
+			<persName><forename type="first">Murray N And</forename><surname>Klasa Rj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Coldman Aj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="499" to="508" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Prevention of infection in neutropenic patients with pefloxacin</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Meunier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Antimicrob. Chemother</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="69" to="73" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Reporting results of cancer treatment</title>
+		<author>
+			<persName><forename type="first">Hoogstraten</forename><surname>Miller Ab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Straquet</forename><surname>Ab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Winkler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="207" to="214" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Granulocyte-macrophage colony stimulating factor increases dose-intensity of chemotherapy in small cell lung cancer</title>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="697" to="706" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Can cytotoxic dose-intensity be increased by using granulocyte colony-stimulating factor? A randomized controlled trial of lenograstim in smallcell lung cancer</title>
+		<author>
+			<persName><surname>Jw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hodgetts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lomax</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bildet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cour-Chabernaud V And</forename><surname>Thatcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="652" to="659" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Two phase I studies of carboplatin dose-escalation in chemotherapy-naive ovarian cancer patients supported with granulocyte-macrophage colony-stimulating factor</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rusthoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Levin</forename><forename type="middle">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eisenhauer</forename><forename type="middle">E</forename><surname>Mazurka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carmi-Chael J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'connel G</forename><surname>Bryson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hirte</forename><surname>Koski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="1748" to="1753" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Escalated methotrexate, vinblastine, adriamycin and cisplatin (E-MVAC) with granulocyte colony stimulating factor (G-CSF) in urothelial cancer</title>
+		<author>
+			<persName><forename type="first">Siedman</forename><surname>Scherr Hi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bajorin</forename><surname>Ad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Motzer</forename><surname>Df</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Curley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'dell M</forename><surname>Quinlivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Herr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sheinfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sogani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dershaw</forename><surname>Dd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Begg</forename><surname>Bosl Gj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Am. Soc. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">199</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>abstract 610</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">High dose doxorubicin, etoposide and cyclophosphamide with stem cell reinfusion in patients with metastatic or high-risk primary breast cancer</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Somlo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Doroshow</forename><surname>Jh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Forman</forename><surname>Sj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Leong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Margolin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Morgan</forename><surname>Rj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raschko</forename><surname>Jw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akman</forename><surname>Sa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nagasa-Wa S And</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="1678" to="1685" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Infusional cyclophosphamide, doxorubicin, and etoposide in relapsed and resistant non-Hodgkin&apos;s lymphoma: evidence for a schedule-dependent effect favoring infusional administration of chemotherapy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Sparano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wiernik</forename><surname>Ph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leaf A And Duther</forename><surname>Jp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1071" to="1079" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Dose-intensification of V-ICE chemotherapy with GM-CSF in small cell lung cancer (SCLC). A prospective randomised study of 301 patients</title>
+		<author>
+			<persName><forename type="first">Von Pawel J</forename><surname>Steward Wp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gatzemeier</forename><forename type="middle">U</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thatcher N And Frish J For Sclc Study</forename><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 5), 31A, S18</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">A phase III study of standard CDE versus intensified CDE with G-CSF (filgrastim) with or without prophylactic antibiotics in small cell lung cancer (SCLC)</title>
+		<author>
+			<persName><forename type="first">Tjan-Heijnen</forename><surname>Vcg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Postmus</forename><surname>Pe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ardizzoni</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>EORTC-LCCG Clinical Study Protocol 08923</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Recombinant granulocyte colony stimulating factor reduces the infectious complications of cytotoxic chemotherapy</title>
+		<author>
+			<persName><forename type="first">Trillet-Lenoir V</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Manegold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von Pawel J</forename><surname>Gatzemeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Lebeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Depierre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johnson</forename><forename type="middle">P</forename><surname>Decoster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tomita</forename><surname>Ewen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="319" to="324" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Oral acyclovir for the prevention of herpes symplex virus reactivation after marrow transplatation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Wade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Newton</forename><forename type="middle">B</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Flournoy</forename><surname>Meyers Jd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Int. Med</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="823" to="828" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Fluconazole prophylaxis of fungal infections in patients with acute leukemia. Results of a randomized placebo-controlled, double-blind, multicenter trial</title>
+		<author>
+			<persName><forename type="first">Chandrasekar</forename><surname>Winston Dj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lazarus</forename><surname>Ph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Goodman</forename><surname>Hm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Silber</forename><surname>Jl</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Horowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shadduck</forename><surname>Rk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rosenfeld</forename><surname>Cs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Islam</forename><surname>Buell Dn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Int. Med</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="495" to="503" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I clinical trial and pharmacokinetic evaluation of NK911, a micelle-encapsulated doxorubicin</title>
+				<funder>
+					<orgName type="full">Nippon Kayaku Co</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2004-10-12">12 October 2004</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">Y</forename><surname>Matsumura</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Investigative Treatment Division</orgName>
+								<orgName type="institution">National Cancer Center Research Institute East</orgName>
+								<address>
+									<addrLine>6-5-1 Kashiwanoha</addrLine>
+									<postCode>277-8577</postCode>
+									<settlement>Kashiwa</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Hamaguchi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Ura</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Muro</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Yamada</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Shimada</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Shirao</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Okusaka</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Ueno</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Ikeda</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><surname>Watanabe</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Pharmacokinetics Group</orgName>
+								<orgName type="department" key="dep2">Technical Development Department</orgName>
+								<orgName type="institution">Nippon Kayaku Co. Ltd</orgName>
+								<address>
+									<addrLine>Kita-ku</addrLine>
+									<postCode>3-31-12</postCode>
+									<settlement>Shimo Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I clinical trial and pharmacokinetic evaluation of NK911, a micelle-encapsulated doxorubicin</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2004-10-12">12 October 2004</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2A647AC317DA130E6061276117F4F70E</idno>
+					<idno type="DOI">10.1038/sj.bjc.6602204</idno>
+					<note type="submission">Revised 26 August 2004; accepted 2 September 2004;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>DDS</term>
+					<term>pharmacokinetics</term>
+					<term>NK911</term>
+					<term>micelle</term>
+					<term>doxorubicin</term>
+					<term>EPR effect</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>NK911 is a novel supramolecular nanocarrier designed for the enhanced delivery of doxorubicin (DXR) and is one of the successful polymer micelle systems to exhibit an efficient accumulation in solid tumours in mice. The purpose of this study was to define the maximum-tolerated dose (MTD) and dose-limiting toxicities (DLTs) of NK911 and to evaluate its pharmacokinetic profile in man. NK911 was given intravenously to patients with solid tumours every 3 weeks using an infusion pump at a rate of 10 mg DXR equivalent min À1 . The starting dose was 6 mg DXR equivalent m À2 , and the dose was escalated according to the accelerated titration method. A total of 23 patients participated in this study. Neutropenia was the predominant haematological toxicity, and grade 3 or 4 neutropenia was observed at doses of 50 and 67 mg m À2 . Common nonhaematological toxicities were mild alopecia, stomatitis, and anorexia. In the dose identification part of the study, DLTs were observed at a dose of 67 mg m À2 (grade 4 neutropenia lasting more than 5 days). Thus, this dosage level was determined to be the MTD. Infusion-related reactions were not observed in any cases. The C 5 min and area under the concentration curve parameters of NK911 exhibited dose-dependent characteristics. Among the 23 patients, a partial response was obtained in one patient with metastatic pancreatic cancer. NK911 was well tolerated and produced only moderate nausea and vomiting at myelosuppressive dosages. The recommended phase II dose was determined to be 50 mg m À2 every 3 weeks.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Agents categorised as drug delivery systems (DDSs) have been developed based on the characteristic macroscopic features of solid tumours, such as hypervascularity, an irregular vascular architecture, the presence of several vascular permeability factors stimulating extravasation within the cancer, and the relatively poor drainage of macromolecules and particulates from cancer tissue. These characteristics, which are unique to solid tumours, constitute the basis of the enhanced permeability and retention (EPR) effect <ref type="bibr" target="#b2">(Matsumura and Maeda, 1986;</ref><ref type="bibr" target="#b1">Maeda et al, 2000)</ref>. Macromolecules have long plasma half-lives because they are too large to pass through normal vessel walls unless they are trapped by the reticuloendothelial system (RES) in the cells of various organs. Such macromolecular agents can diffuse out of tumour blood vessels, reach the solid tumour tissue, and be retained for a long period because of the EPR effect.</p><p>To maximise the EPR effect, several techniques have been developed to modify the structures of drugs and to construct drug carriers. Doxil is comprised of doxorubicin (DXR) encapsulated in STEALTHt liposomes, which are composed of a phospholipid bilayer with surface-bound methoxypolyethyleneglycol. Doxil recently received the US Food and Drug Administration's (FDA) approval for use in the treatment of Kaposi sarcoma or ovarian cancer after the clinical benefits of this drug were clearly shown in recent clinical trials <ref type="bibr" target="#b4">(Muggia et al, 1996;</ref><ref type="bibr" target="#b8">Stewart et al, 1998;</ref><ref type="bibr">Gordon et al, 2001)</ref>.</p><p>Polymeric micelles have also been utilised as a drug carrier system. The original form of micellar DXR contained two trapped components: a DXR monomer and a DXR dimer in the inner core <ref type="bibr">(Yokoyama et al, 1990a, b)</ref>. However, the lyophilised micelle containing DXR dimers became insoluble after long periods of storage. To improve the solubility of this drug carrier system, a new type of polymeric micelle containing only the DXR monomer, known as NK911, has been developed <ref type="bibr" target="#b5">(Nakanishi et al, 2001)</ref>. The DXR monomers, rather than the DXR dimers, were thought to play a major role in the antitumour activity of the original micellar DXR drug preparation. The DXR dimers, on the other hand, were thought to stabilise the drug's conformation. Thus, NK911, which only contains DXR monomers, is less stable in aqueous media than the original form of micellar DXR <ref type="bibr" target="#b5">(Nakanishi et al, 2001;</ref><ref type="bibr" target="#b9">Tsukioka et al, 2002)</ref>.</p><p>Both polyethyleneglycol (PEG)-liposomal and micellar DXR have longer plasma half-lives, accumulate in tumours more effectively because of the EPR effect, and exhibit a stronger antitumour activity than free DXR when administered in mice. Both the plasma area under the concentration -time curve (AUC) and the tumour AUC of NK911 are, however, lower than those of doxil because NK911 is less stable in the bloodstream than doxil <ref type="bibr" target="#b11">(Working et al, 1994;</ref><ref type="bibr" target="#b5">Nakanishi et al, 2001)</ref>. At this stage, however, we have no definitive idea as to which formulation exerts a superior antitumour activity in vivo because an evaluation of the activity in vivo cannot be based solely on the enhanced tumour AUC; several additional factors, including the efficiency of the free drug inside the formulation and the distribution of the free drug throughout the tumour tissue, must also be taken into consideration. Proper selection of the type of DDS formulation is likely to depend on the tumour vessel density of the tumour tissue. With this in mind, we conducted a phase I clinical trial on the use of NK911 in patients with solid tumours. The study was performed at the National Cancer Center Hospital, Tokyo, Japan. Our objectives were to assess the safety and toxicity profile of NK911 and to determine the maximum-tolerated dose (MTD), the phase II recommended dose, and the pharmacokinetics of NK911 in man.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head><p>The study protocol was reviewed and approved by the Institutional Review Board of the National Cancer Center, Tokyo.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Therapeutic agent</head><p>Figure <ref type="figure" target="#fig_0">1</ref> shows the schematic structure of NK911, a DXRentrapped polymeric micelle formulation. The polymeric micelle consists of a PEG -poly(aspartic acid) block copolymer conjugated with DXR. Polyethyleneglycol is believed to form the outer shell of the micelle, producing a 'stealth' effect that prevents NK911 from being captured by the RES. The DXR-conjugated poly(aspartic acid) chain is hydrophobic and is believed to form the hydrophobic inner core of the micelles in aqueous media. The hydrophobic inner core enables NK911 to entrap a sufficient amount of DXR. NK911 has a diameter of about 40 nm <ref type="bibr" target="#b5">(Nakanishi et al, 2001)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Patients with metastatic or recurrent solid tumours refractory to conventional chemotherapy and for whom no effective therapy was available were eligible for enrolment in this study, provided that the following criteria were met: a histologically confirmed malignant tumour; a performance status of p2; an age of X20 and o75 years; a normal haematological profile (neutrophil count X2000 ml À1 , platelet count X100 000 ml À1 , haemoglobin X8 g dl À1 ); normal hepatic function (total bilirubin level p1.5 mg dl À1 , aspartate aminotransferase (AST) and alanine aminotransferase (ALT) p2.5 times the upper normal limit); normal renal function (serum creatinine p1.5 mg dl À1 ); normal cardiac function (New York Heart Association (NYHA) classification of p1); normal pulmonary function (PaO 2 X60 mgHg); no chemotherapy within 4 weeks (6 weeks for nitrosourea or mitomycin C chemotherapy) of the administration of NK911; and a life expectancy of more than 2 months. Patients with any serious infection (including hepatitis B, hepatitis C, or HIV), symptomatic brain metastasis, and pre-existing cardiac disease (including congestive heart failure, myocardial infarction, or angina pectoris within 3 months) were ineligible for enrolment in the study. Patients were also excluded if they were pregnant or lactating or showed signs of gastrointestinal bleeding. Additionally, any patients whom the investigators considered ineligible were excluded. Written informed consent was obtained from all patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drug administration</head><p>NK911 was dissolved in sterile phosphate-buffered saline for injection at room temperature at a concentration of 2 mg DXR equivalent ml À1 . NK911 solution was infused intravenously using an electric pump at a speed of 10 mg DXR equivalent min À1 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dosage and dose escalation</head><p>The starting dosage of NK911 was 6 mg DXR equivalent, which is one-tenth of the LD 10 in rats. NK911 was administered once every 3 weeks, and the treatment was continued unless a severe adverse event or disease progression was observed. Dose escalation was performed according to the previously described accelerated titration method <ref type="bibr" target="#b7">(Simon et al, 1997)</ref>. Toxicity was graded from 1 to 4 using the NCI common toxicity criteria (version 12). Intrapatient dose escalation was not permitted. The dose-limiting toxicity (DLT) was confirmed in at least six out of 23 patients. The MTD was defined as the level at which three out of six patients experienced a DLT. The recommended dosage for a phase II trial was defined by the Efficacy and Safety Assessment Committee, based on the safety and efficacy results of this trial. The DLT was defined as grade 4 neutropenia lasting more than 5 days or an associated neutropenic fever of more than 38.51C, a platelet count of less than 25 000 ml À1 , or grade 3 or higher nonhaematological toxicity, with the exception of nausea, vomiting, appetite loss, constipation, and hyperglycaemia. British Journal of Cancer (2004) 91(10), 1775 -1781 &amp; 2004 Cancer Research UK Clinical performed only in the presence of a specific clinical indication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pretreatment assessment and follow-up care</head><p>Patients were physically examined everyday until the second administration of NK911; CBC and blood chemistry tests were performed on days 1, 2, and 4 and weekly thereafter. Electrocardiogram and ultrasonic cardiography studies were repeated prior to each administration of NK911. Tumour markers were also measured prior to each administration. Tumour response was evaluated according to the WHO guidelines <ref type="bibr">(World Health Organization, 1979)</ref>. A complete response (CR) was defined as the disappearance of the cancerous lesion(s), and a partial response (PR) was defined as a reduction of more than 50% of the sum of the bidimensional products when the results for two observations, separated by at least 4 weeks, were compared. Stable disease (SD) was defined as a reduction of less than 50% or a growth of less than 25% over a period of at least 4 weeks. Progressive disease (PD) was defined as a growth of more than 25%, the appearance of new malignant lesion(s), or the unequivocal worsening of other clinical evidence of malignancy.</p><p>High-performance liquid chromatography determination of DXR and its metabolites Doxorubicin and its metabolites (doxorubicinol and aglycones) were extracted from human plasma and urine using Abselut NEXUS cartridges (Varian), pretreated with methanol (2 ml), 1% phosphoric acid (1 ml), and sodium phosphate buffer (2 ml of 25 mmol l À1 NaH 2 PO 4 (pH 4) containing 0.2% sodium lauryl sulphate). Daunorubicin was added to the plasma (0.5 ml) or urine (0.1 ml) samples as an internal standard. The diluted plasma or urine was applied to the above-mentioned cartridges and then washed with distilled water (1 ml) or 40% methanol (2 ml) and eluted with methanol (2 ml). The eluate was evaporated to dryness at 401C under a stream of nitrogen. The residue was dissolved in sodium phosphate buffer (200 ml of 25 mmol l À1 NaH 2 PO 4 (pH 4) containing 0.2% sodium lauryl sulphate/acetonitrile ¼ 75/25, v v À1 ), and 50 ml of the resulting solution was injected onto the analytical column. The analyses of DXR and its metabolites in plasma and urine samples were performed using high-performance liquid chromatography (HPLC) with fluorescence detection.</p><p>The DXR concentrations determined in the present Phase I study represented the total drug concentrations (both micelle-entrapped and nonencapsulated). The HPLC system (HP1100 series, Hewlett Packard) consisted of a binary pump, an automatic sample injector, a reversed-phase CAPCELL PAK C 8 (2.0 mm i.d. Â 150 mm, 5 mm, SHISEIDO), and a fluorescence detector with excitation and emission wavelengths of 500 and 550 nm, respectively. A gradient elution was employed, consisting of 25 mmol l À1 NaH 2 PO 4 (pH 4) containing 0.2% sodium lauryl sulphate/ acetonitrile at ratios of 75/25 to 55/45 (v v À1 ), at a flow rate of 0.2 ml min À1 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetic analysis</head><p>The pharmacokinetic parameters were calculated after fitting the data to a three-compartment model using the Win Nonlin program. The plasma DXR concentration, C(t), at each time (t), was computed using the equation</p><formula xml:id="formula_0">CðtÞ ¼ D=T ½A=aðe aT À 1Þ e À a ðt þ TÞ þ B=b ðe bT À 1Þ e ÀbðtþTÞ þ C=g ðe gT À 1Þ e Àg ðtþTÞ</formula><p>where D is the dose and T is the infusion time.</p><p>The AUC, total clearance (CL tot ), volume of distribution at steady state (V ss ), area under the first moment curve (AUMC), volume of distribution of the central compartment (V1), half-lives (t 1/2a , t 1/2b , t 1/2g ), and mean residence time (MRT) of DXR were calculated using the equations listed below. </p><formula xml:id="formula_1">AUC ¼A=a þ B=b þ C=g ðng h ml À1 Þ CL tot ¼dose=AUC ðml min À1 kg À1 Þ V ss ¼doseÂAUMC= ðAUCÞ 2 ðl kg À1 Þ V1 ¼dose=A þ B þ C ðl kg À1 Þ T 1=2 ¼0:</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>A total of 23 eligible patients were recruited for the study. Their clinical characteristics are shown in Table <ref type="table" target="#tab_1">1</ref>. With the exception of one patient with a leiomyosarcoma, all the patients had received chemotherapy prior to enrolment in the study. Prior therapies ranged from 0 to 6 regimens of chemotherapy. None of the patients had received anthacycline chemotherapy. As a deviation from the ordinary phase I trial protocol, patients with metastatic pancreatic cancer were deliberately recruited, based on the previously described characteristics of NK911. All patients were included in the safety and response analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dosing</head><p>Dosage escalation started at 6.0 mg DXR equivalent m À2 and was increased up to 67 mg DXR equivalent m À2 . Infusion time ranged from 58 s to 12 min and 15 s depending on the absolute dosage of NK911. In total, 63 administrations were performed in 23 patients. A total of 14 patients received more than two administrations. The maximum number of treatments was 10 courses at level 3; the average number of administrations at all levels was 2.7 courses. Up until the third level, grade 2 toxicity was not observed during the first course of chemotherapy. According to the original protocol, the dosage of NK911 should have been doubled for each escalation. However, the safety committee recommended that the dosage should be raised by 50%, instead of 100%, at level 4 and that a modified Fibonacci escalation method should be implemented. Therefore, we recruited three patients at this dosage level and restarted the dose identification study using a modified Fibonacci method.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haematological toxicity</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>As shown in</head><p>Table 2, significant myelosuppression was not observed up to level 4. At level 5, two patients died because of tumour progression. The progression of the disease was confirmed </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><p>by autopsy in both cases. Since these two patients could not be assessed for safety, an additional two patients were enrolled at level 5. Two patients developed grade 3 neutropenia and one patient developed grade 4 neutropenia. However, none of the patients developed a DLT at this dosage level. At level 6, all six patients who entered at this level developed grade 4 neutropenia; three of the six patients appeared to have acquired a DLT (grade 4 neutropenia lasting for more than 5 days). Based on these results, level 6 was considered to be the MTD, with neutropenia as the DLT. Since a dosage of 50 mg m À2 was considered to be the recommended dosage for phase II studies, an additional six patients were enrolled at a dosage of 50 mg m À2 ; one of these six patients developed a DLT in the form of febrile grade 4 neutropenia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nonhaematological toxicity</head><p>The NK911 injection was generally uneventful and well tolerated. The major nonhaematological toxicities were nausea, vomiting, and anorexia. All of these toxicities were controllable. Severe mucositis and skin toxicity in the form of hand-foot syndrome did not occur. Alopecia was also mild, and only three patients experienced grade 2 alopecia after repeated doses of NK911 at levels 5 and 6 (Table <ref type="table" target="#tab_3">3</ref>). A few patients at level 5 or 6 developed a grade 2 elevation in AST or ALT, but these changes were transient. No pain or local toxicity in the area of injection was observed in any of the patients treated with NK911, except in one patient treated at level 2. No infusion-related reactions were observed in any cases; such reactions sometimes occur during liposomal drug administration. Cardiac function was monitored at baseline and serially in all patients enrolled in the study. Clinical congestive heart failure did not occur. The left ventricular ejection fraction did not decrease significantly from the baseline level in any of the patients except for one patient treated at level 5 whose LVEF decreased to 45% after one cycle. Since this patient was transferred to another hospital, this change could not be confirmed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>The plasma concentrations of DXR after the intravenous infusion of NK911 were determined in all of the patients enrolled in the present phase I study; the results are shown in Figure <ref type="figure">2</ref>. The C 5 min and AUC parameters increased at doses between 6 and 67 mg m À2 , as shown in Figure <ref type="figure" target="#fig_3">3</ref>. The peak plasma concentrations ranged from 586.8 ng ml À1 at a dose level of 6 mg m À2 to 6188.2 ng ml À1 at a dose level of 67 mg m À2 .</p><p>The pharmacokinetic parameters are summarised in Table <ref type="table" target="#tab_4">4</ref>. The initial distribution half-life (t 1/2a ) was about 5 -8 min, t 1/2b was 1.6 -4.7 h, and t 1/2g was 29.4 -241.4 h. The V1 was 0.116 -0.183 l kg À1 . The CL tot was 3.9 -9.8 ml min À1 kg À1 , and the V ss was 11.7 -52.3 l kg À1 . No significant differences in these parameters were seen among patients, with the exception of patients receiving doses of 6, 12, and 24 mg m À2 . These observations may be attributed to the fact that DXR was difficult to detect at 168 h after dosing at levels of below 24 mg m À2 , possibly resulting in an underestimation or an overestimation of the tails of the clearance curve. The half-lives (t 1/2a , t 1/2b , and t 1/2g ) were longer for NK911 than for free DXR <ref type="bibr" target="#b3">(Mross et al, 1988)</ref>. The AUC of NK911 was twofold larger than that of free DXR at a dose of 50 mg m À2 . The V ss and CL tot of NK911 were lower than those of free DXR. As expected, the parameters for NK911 were more than 100-fold lower than those previously described for doxil <ref type="bibr" target="#b0">(Gabizon et al, 1994)</ref>.</p><p>The cumulative urinary excretion rates of DXR and its metabolites (0 -72 h) after the administration of NK911 were 7.1 -16.6%, similar to those after the administration of free DXR.</p><p>Table 2 Haematological toxicity: cycle 1</p><p>Leucocytopenia Neutropenia Thrombocytopenia Grade Grade Grade Dose level (mg m À2 ) n 1 2 3 4 1 2 3 4 1 2 3 4 6 1 0 0 0 0 0 0 0 0 0 0 0 0 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 2 4 1 1 0 0 0 1 0 0 0 0 0 0 0 3 6 3 1 0 0 0 0 1 0 0 0 0 0 0 5 0 1 1 3 5 3 0 1 3 5 2 2 0 0 0 6 7 6 0 1 5 0 0 0 0 6 3 0 1 0 Total 23 5 6 8 0 2 4 5 8 5 0 1 0 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Therapeutic response</head><p>At the time of the study's completion, eight patients (including one patient with colonic cancer and two patients with stomach cancer) had exhibited a stable disease for longer than 4 weeks (Table <ref type="table" target="#tab_5">5</ref>). A partial response was seen in one patient with metastatic pancreatic cancer who had been treated at a dosage level of 6; the size of the liver metastasis had decreased by more than 50%, compared to the baseline scan, in this patient (Figure <ref type="figure" target="#fig_4">4A</ref> and <ref type="figure">B</ref>). The tumour marker (CA19-9 and CEA) levels in this patient had also decreased remarkably (Figure <ref type="figure" target="#fig_4">4C</ref>). This patient had previously undergone gemicitabine chemotherapy. Initially, this patient received an NK911 dosage of 67 mg m À2 . The dosage was decreased to 50 mg m À2 for the second course, however, because the patient experienced grade 4 neutropenia. The antitumour response was maintained even after the dosage was reduced.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The utility of polymeric micelles in cancer chemotherapy was demonstrated in mice for the first time using DXR-incorporated polymeric micelles in the early 1990s <ref type="bibr">(Yokoyama et al, 1990a</ref><ref type="bibr">(Yokoyama et al, , b, 1991))</ref>. The original form of micellar DXR contained two entrapped components, DXR monomers and DXR dimers, in the inner core.</p><p>The DXR dimers were thought to contribute to the stabilisation of the micellar DXR conformation. However, the DXR dimers in this formulation caused freeze-dried samples of micellar DXR to become water-insoluble after prolonged storage. To improve the solubility of micellar DXR, a new polymeric micellar preparation, NK911, containing only DXR monomers was created <ref type="bibr" target="#b5">(Nakanishi et al, 2001)</ref>.</p><p>In this phase I study, the toxicity spectrum of NK911 resembled that of free DXR: the DLT was neutropenia, and no adverse effects appeared other than those also encountered with the use of free DXR. Regarding nonhaematological toxicities, nausea and vomiting were mild. Mucositis was also rare and mild. No infusionrelated reactions, which are sometimes seen in cases of liposomal drug administration <ref type="bibr" target="#b10">(Uziely et al, 1995;</ref><ref type="bibr" target="#b4">Muggia et al, 1996;</ref><ref type="bibr" target="#b8">Stewart et al, 1998;</ref><ref type="bibr">Gordon et al, 2001)</ref>, occurred in this trial. Ultimately, this phase I study showed that the recommended dosage of NK911 (50 mg m À2 ) using a 3-week schedule was similar to the recommended dosage of free DXR (40 -60 mg m À2 ). In preclinical studies using several kinds of animals, the pharmacokinetics of NK911 differed from those of free DXR <ref type="bibr" target="#b5">(Nakanishi et al, 2001)</ref>.   When compared with free DXR, NK911 exhibited longer halflives (t 1/2a , t 1/2b , and t 1/2g ), a lower CL tot , and a larger AUC; these findings suggest that the circulation of NK911 in plasma was prolonged. Furthermore, the extent of the NK911 distribution in the tumour tissue was thought to differ from that of free DXR because of the smaller V ss of NK911 compared with that of free DXR. The V1 of NK911 was smaller than the volume of extracellular fluid in humans, which may lead to a smaller distribution of NK911 in tumour tissue during the early phase of chemotherapy. Although the value of V1 in humans after the injection of free DXR has not been reported, the V1 of free DXR was two-fold larger than that of NK911 in a dog model and a different distribution in the early phase was observed (data not shown); a similar tendency in humans is expected. As mentioned above, the micelle-forming ability of NK911 seems to result in different physicochemical behaviours and a specific retention in plasma, compared with DXR, because NK911 circumvents the early distribution phase. The early pharmacokinetic phase may represent a very important stage in the overall behaviour of DXR in the body <ref type="bibr" target="#b6">(Robert et al, 1987)</ref>. Therefore, the inherent characteristic pharmacokinetics of NK911 in human subjects seems to be useful and significant for the enhancement of clinical responses to DXR.</p><p>Concerning the release of DXR from the conjugated block copolymer, the DXR concentrations in plasma were assessed after administering a DXR-conjugated polymer in a dog model. The released DXR concentration from the polymer was estimated to be 100-fold less than that of NK911 containing the same amount of DXR-conjugated polymer in dogs. Consequently, conjugated DXR is likely to have little effect on the plasma DXR concentration after the injection of NK911 in patients. When [ 14 C]DXR-conjugated polymer was intravenously administered to rats, the polymer was excreted via both urine and faeces (urine : faeces ¼ 2 : 1). In the rat urine, several kinds of fragmented polymers derived from the DXR-conjugated polymer were observed, as well as a nonfragmented polymer. In rat faeces, only the fragmented polymers were observed, and [ 14 C]DXR was not seen in either urine or faeces. These results indicated that the DXR-conjugated polymer was excreted after extensive metabolism, but that the free DXR was hardly released from the polymer. Until now, the structure of the excreted high-molecular fragments could not be determined because of the difficulty in developing an analytical methodology for these molecular species. In the present clinical trial, which examined the urinary excretion of the physically trapped DXR in NK911, the excretion rate was similar to that of free DXR over a 72-h period. The present results suggest that the major route of excretion of DXR and its metabolites after NK911 injection in human subjects is likely biliary, the same as for DXR administration.</p><p>When compared with the historical data for doxil <ref type="bibr" target="#b0">(Gabizon et al, 1994)</ref>, the plasma AUC of NK911 was more than 100-fold lower than that of doxil, and the plasma clearance of NK911 was approximately 400-fold higher than that of doxil at a DXR equivalent dosage of 50 mg m À2 . These results indicate that NK911 is less stable in plasma than doxil, since the DXR dimers in the micellar DXR have not been included in NK911 for the reason described earlier. Thus, doxil appears to deliver DXR to solid tumours via the EPR effect more efficiently than NK911, since doxil is more stable in the bloodstream. However, the V ss of NK911 at a dose of 50 mg m À2 was about 180-fold higher than that of doxil at the same dose level. This observation suggests that the distribution of DXR in tumour tissue may be wider in the case of NK911 administration compared to that of doxil, once each formulation extravasates from the tumour vessels. Therefore, to determine whether doxil is more effective for the treatment of solid tumours than NK911, several factors must be considered, including drug pharmacokinetics, pharmacodynamics, tumour vasculature, the tumour interstitium, the efficiency of drug release from the formulation, and the distribution of free drug throughout the tumour tissue.</p><p>In conclusion, the toxicity characteristics and antitumour activity of NK911 justify its continued clinical evaluation. A phase II clinical trial of NK911 for the treatment of metastatic pancreatic cancer is ongoing. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>AFigure 1</head><label>1</label><figDesc>Figure1Schematic structure of NK911. A polymeric micelle carrier of NK911 consists of a block copolymer of PEG (molecular weight of about 5000) and poly(aspartic acid) (about 30 units). Polyethyleneglycol is believed to be the outer shell of the micelle. NK911 has a highly hydrophobic inner core, and therefore can entrap sufficient amounts of DXR.</figDesc><graphic coords="2,106.08,577.13,50.37,97.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>693=k ðhÞ ðk ¼ a; b; gÞ MRT ¼AUMC=AUC ðhÞ</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Correlations between dosage and AUC 0 -inf (A) and C 5 min (B) after a single intravenous administration of NK911.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Serial CT scans of a 69-year-old male with pancreatic cancer who was treated with NK911 at an initial dosage level of 67 mg m À2 during the first course and at 50 mg m À2 after the second course. Changes in tumour marker levels are also shown. (A) Baseline scan showing a metastasis in the left lateral lobe. (B) Partial response, characterised by a more than 50% decrease in the size of the liver metastasis compared with the baseline scan. (C) Tumour markers, CA19-9 and CEA, decreased remarkably after treatment.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>Number of patients</cell><cell>23</cell></row><row><cell>Male/female</cell><cell>15/8</cell></row><row><cell>Age (years)</cell><cell></cell></row><row><cell>Median</cell><cell>61.5</cell></row><row><cell>Range</cell><cell>48 -72</cell></row><row><cell>ECOG PS</cell><cell></cell></row><row><cell>Median</cell><cell>1</cell></row><row><cell>0</cell><cell>6</cell></row><row><cell>1</cell><cell>1 7</cell></row><row><cell>Prior treatment chemotherapy regimens</cell><cell></cell></row><row><cell>Median</cell><cell>2</cell></row><row><cell>Range</cell><cell>0 -6</cell></row></table><note><p>British Journal of Cancer (2004) 91(10), 1775 -1781 &amp; 2004 Cancer Research UK</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Nonhaematological toxicity</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Grade</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>1</cell><cell>2</cell><cell></cell><cell>3</cell><cell></cell><cell>4</cell><cell>Total</cell></row><row><cell cols="2">Nausea</cell><cell>10</cell><cell>2</cell><cell></cell><cell>3</cell><cell></cell><cell>0</cell><cell>15</cell></row><row><cell cols="2">Vomiting</cell><cell>5</cell><cell>2</cell><cell></cell><cell>1</cell><cell></cell><cell>0</cell><cell>8</cell></row><row><cell cols="2">Anorexia</cell><cell>11</cell><cell>3</cell><cell></cell><cell>3</cell><cell></cell><cell>0</cell><cell>17</cell></row><row><cell cols="2">Fatigue</cell><cell>1</cell><cell>1</cell><cell></cell><cell>0</cell><cell></cell><cell>0</cell><cell>2</cell></row><row><cell cols="2">Stomatitis</cell><cell>5</cell><cell>0</cell><cell></cell><cell>0</cell><cell></cell><cell>0</cell><cell>5</cell></row><row><cell cols="2">Alopecia</cell><cell>12</cell><cell>0</cell><cell></cell><cell>-</cell><cell></cell><cell>-</cell><cell>12</cell></row><row><cell cols="8">There was no DLT regarding nonhaematological toxicities within this trial.</cell></row><row><cell>) Plasma DXR conc. (ng ml -1</cell><cell>1 10 100 1000 10 000</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">6 mg m -2 12 mg m -2 24 mg m -2 36 mg m -2 50 mg m -2 67 mg m -2</cell></row><row><cell></cell><cell>0.1 -24</cell><cell>0</cell><cell>24</cell><cell>48</cell><cell>72</cell><cell>96</cell><cell>120 144</cell><cell>168</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Time (h)</cell><cell></cell><cell></cell></row><row><cell cols="9">Figure 2 Mean plasma levels of doxorubicin following the intravenous administration of NK911 at dosages of 6, 12, 24, 36, 50, and 67 mg m À2 in</cell></row><row><cell cols="2">23 patients.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>British Journal of Cancer (2004</p><p>) 91(10),1775 -1781  &amp; 2004  </p><p>Cancer Research UK</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4</head><label>4</label><figDesc>Pharmacokinetic parameters</figDesc><table><row><cell cols="4">Dose (mg m À2 ) n t 1/2a (min) t 1/2b (h)</cell><cell>T 1/2c (h)</cell><cell cols="3">AUC 0 -inf (ng h ml À1 ) CL tot (ml min À1 kg À1 ) V ss (l kg À1 )</cell><cell>V 1 (l kg À1 )</cell><cell>MRT 0 -inf</cell></row><row><cell>NK911</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>6</cell><cell>1</cell><cell>5.1</cell><cell>2.3</cell><cell>159.7</cell><cell>601.4</cell><cell>3.9</cell><cell>36.8</cell><cell>0.116</cell><cell>158.2</cell></row><row><cell>12</cell><cell>1</cell><cell>5.0</cell><cell>1.6</cell><cell>29.4</cell><cell>495.3</cell><cell>9.8</cell><cell>11.7</cell><cell>0.153</cell><cell>19.9</cell></row><row><cell>24</cell><cell>1</cell><cell>6.8</cell><cell>4.7</cell><cell>241.4</cell><cell>2257.7</cell><cell>46.1</cell><cell>52.3</cell><cell>0.163</cell><cell>210.9</cell></row><row><cell>36</cell><cell>3</cell><cell>6.670.5</cell><cell cols="2">2.870.0 54.874.8</cell><cell>2460.57469.9</cell><cell>6.471.2</cell><cell>12.072.3</cell><cell cols="2">0.183.1370.030 32.078.8</cell></row><row><cell>50</cell><cell>11</cell><cell>7.570.7</cell><cell cols="2">2.870.3 64.278.9</cell><cell>3262.77425.2</cell><cell>6.771.1</cell><cell>14.973.6</cell><cell cols="2">0.16770.035 37.078.2</cell></row><row><cell>67</cell><cell>6</cell><cell>8.171.1</cell><cell cols="2">2.970.5 73.6721.4</cell><cell>4174.17471.2</cell><cell>6.871.1</cell><cell>16.376.1</cell><cell cols="2">0.18370.051 41.2717.8</cell></row><row><cell>DXR a</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>50</cell><cell>7</cell><cell>2.470.9</cell><cell cols="2">0.871.1 25.8711.4</cell><cell>1620.371062.9</cell><cell>14.475.6</cell><cell>24712</cell><cell>-</cell><cell>-</cell></row><row><cell>PLD b</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>50</cell><cell>14</cell><cell>84</cell><cell>45.9</cell><cell>-</cell><cell>902000</cell><cell>0.02</cell><cell>0.08</cell><cell>-</cell><cell>62.7</cell></row></table><note><p>a Cited from Mross et al (1998). b Cited from<ref type="bibr" target="#b0">Gabizon et al (1994)</ref></p><p>.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5</head><label>5</label><figDesc>Antitumour activity</figDesc><table><row><cell>Primary tumour</cell><cell>n</cell><cell>PR</cell><cell>SD</cell><cell>PD</cell></row><row><cell>Pancreas</cell><cell>7</cell><cell>1</cell><cell>1</cell><cell>5</cell></row><row><cell>Colorectal</cell><cell>7</cell><cell>0</cell><cell>4</cell><cell>3</cell></row><row><cell>Oesophagus</cell><cell>3</cell><cell>0</cell><cell>1</cell><cell>2</cell></row><row><cell>Gall bladder</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>3</cell></row><row><cell>Stomach</cell><cell>2</cell><cell>0</cell><cell>2</cell><cell>0</cell></row><row><cell>Leiomyosarcoma</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>1</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2004) 91(10), 1775 -1781 &amp; 2004 Cancer Research UK Clinical</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>This study was supported by <rs type="funder">Nippon Kayaku Co</rs>. Ltd. We thank <rs type="person">Drs K Kataoka</rs> and <rs type="person">M Yokoyama</rs> for their scientific advice. We also thank <rs type="person">Mrs K Shiina</rs> and <rs type="person">Miss H Orita</rs> for their secretarial assistance.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Prolonged circulation time and enhanced accumulation in malignant exudates of doxorubicin encapsulated in polyethylene-glycol coated liposomes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gabizon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Catane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Uziely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kaufman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Safra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Barenholz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="987" to="992" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Tumor vascular permeability and the EPR effect in macromolecular therapeutics: a review</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Maeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Matsumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Control Release</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="271" to="284" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A new concept for macromolecular therapeutics in cancer chemotherapy: mechanism of tumoritropic accumulation of proteins and the antitumor agent smancs</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Matsumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Maeda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="6387" to="6392" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics and metabolism of epidoxorubicin and doxorubicin in humans</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maessen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Van Der Vijgh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Boven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Pinedo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="517" to="526" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Phase II study of liposomal doxorubicin in refractory ovarian cancer: antitumor activity and toxicity modification by liposomal encapsulation</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Muggia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hamsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jeffers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Groshen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Roman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Uziely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Muderspach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gracia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Burnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Greco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Morrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Paradiso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Liang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="987" to="993" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Development of the polymer micelle carrier system for doxorubicin</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakanishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fukushima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Okamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Matsumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yokoyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sakurai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kataoka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Control Release</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="295" to="302" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics of doxorubicin in sarcoma patients</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Bui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vrignaud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Clin Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="695" to="699" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Accelerated titration designs for phase I clinical trials in oncology</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Freidlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rubinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Arbuck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Mc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="1138" to="1147" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Randomized comparative trial of pegylated liposomal doxorubicin vs bleomycin and vincristine in the treatment of AIDS-related Kaposi&apos;s sarcoma. International Pegylated Liposomal Doxorubicin Study Group</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jablonowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Goebel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Arasteh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spittle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aboulafia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Galleshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Dezube</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="683" to="691" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Pharmaceutical and biomedical differences between micellar doxorubicin (NK911) and liposomal doxorubicin (Doxil)</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tsukioka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Matsumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hamaguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Koike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Moriyasu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kakizoe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="1145" to="1153" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Liposomal doxorubicin: antitumor activity and unique toxicities during two complementary phase I studies</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Uziely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jeffers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Isacson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kutsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wei-Tsao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yehoshua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Libson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Muggia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gabizon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1777" to="1785" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics, biodistribution and therapeutic efficacy of doxorubicin encapsulated in stealth liposomes (DoxilR)</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Working</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mayhew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vaage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Lasic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Liposome Res</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="667" to="687" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">a) Characterization and anticancer activity of the micelleforming polymeric anticancer drug adriamycin-conjugated poly(ethylene glycol) -poly(aspartic acid) block copolymer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yokoyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miyauchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sakurai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kataoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Inoue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1693" to="1700" />
+			<date type="published" when="1979">1979. 1990</date>
+			<publisher>WHO Office Publication</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+	<note>WHO Handbook for Reporting Results of Cancer Treatment</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Toxicity and antitumor activity against solid tumors of micelleforming polymeric anticancer drug and its extremely long circulation in blood</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yokoyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sakurai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ekimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shibazaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kataoka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="3229" to="3236" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Polymer micelles as novel drug carrier: adriamycin-conjugated poly(ethylene glycol) -poly(aspartic acid)block copolymer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Yokoyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Okano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sakurai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kataoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Inoue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Control Release</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="269" to="278" />
+			<date type="published" when="1990">1990b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Phase I study of NK911</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I and pharmacokinetic study of the combination of topotecan and ifosfamide administered intravenously every 3 weeks</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2004-05-11">11 May 2004</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>Dr</roleName><forename type="first">T</forename><surname>Kerbusch</surname></persName>
+							<email>thomas_kerbusch@sandwich.pfizer.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="institution">Cancer Institute/Slotervaart Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Cancer Institute/Antoni van Leeuwenhoek Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">G</forename><surname>Groenewegen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">University Medical Center</orgName>
+								<address>
+									<settlement>Utrecht</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Raa</forename><surname>Matho</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="institution">Cancer Institute/Slotervaart Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Vmm</forename><surname>Herben</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="institution">Cancer Institute/Slotervaart Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Ten</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Bokkel</forename><surname>Huinink</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Cancer Institute/Antoni van Leeuwenhoek Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Swart</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Cancer Institute/Antoni van Leeuwenhoek Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><surname>Ambaum</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">University Medical Center</orgName>
+								<address>
+									<settlement>Utrecht</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Rosing</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="institution">Cancer Institute/Slotervaart Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Jansen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="institution">Cancer Institute/Slotervaart Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Voest</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">University Medical Center</orgName>
+								<address>
+									<settlement>Utrecht</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Pharmacy and Pharmacology</orgName>
+								<orgName type="institution">Cancer Institute/Slotervaart Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Pharmaceutical sciences</orgName>
+								<orgName type="institution">University of Utrecht</orgName>
+								<address>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Cancer Institute/Antoni van Leeuwenhoek Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands The Netherlands;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Pharmaceutical sciences</orgName>
+								<orgName type="institution">University of Utrecht</orgName>
+								<address>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Clinical Pharmacology</orgName>
+								<orgName type="department" key="dep2">IPC 746</orgName>
+								<orgName type="department" key="dep3">Pfizer Global Research and Development</orgName>
+								<orgName type="institution">Pfizer Ltd</orgName>
+								<address>
+									<addrLine>Ramsgate Road</addrLine>
+									<postCode>CT13 9NJ</postCode>
+									<settlement>Sandwich Labora- tories Sandwich Kent</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I and pharmacokinetic study of the combination of topotecan and ifosfamide administered intravenously every 3 weeks</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2004-05-11">11 May 2004</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8E9ECAEFC2ABF53F20CFD53518C8DDD0</idno>
+					<idno type="DOI">10.1038/sj.bjc.6601861</idno>
+					<note type="submission">Received 27 November 2003; revised 11 March 2004; accepted 22 March 2004;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>phase I</term>
+					<term>pharmacokinetics</term>
+					<term>pharmacodynamics</term>
+					<term>topotecan</term>
+					<term>ifosfamide</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>To determine the maximum-tolerated dose (MTD), dose-limiting toxicities, and pharmacokinetics of topotecan administered as a 30min intravenous (i.v.) infusion over 5 days in combination with a 1-h i.v. infusion of ifosfamide (IF) for 3 consecutive days every 3 weeks. Patients with advanced malignancies refractory to standard therapy were entered into the study. The starting dose of topotecan was 0.4 mg m À2 day À1 Â 5 days. Ifosfamide was administered at a fixed dose of 1.2 g m À2 day À1 Â 3 days. In all, 36 patients received 144 treatment courses. Owing to toxicities, the schedule of topotecan administration was reduced from 5 to 3 days. The MTD was reached at topotecan 1.2 mg m À2 day À1 Â 3 days with IF 1.2 g m À2 day À1 Â 3 days. Haematological toxicities were dose limiting. Neutropenia was the major toxicity. Thrombocytopenia and anaemia were rare. Nonhaematological toxicities were relatively mild. Partial responses were documented in three patients with ovarian cancer dosed below the MTD. Topotecan and IF did not appear to interact pharmacokinetically. The relationships between the exposure to topotecan lactone and total topotecan, and the decrease in absolute neutrophil count and the decrease in thrombocytes, were described with sigmoidal -E max models. The combination of 1.0 mg m À2 day À1 topotecan administered as a 30-min i.v. infusion daily times three with 1.2 g m À2 day À1 IF administered as a 1-h i.v. infusion daily times three every 3 weeks was feasible. However, the combination schedule of topotecan and IF did result in considerable haematological toxicity and in conjunction with previously reported pronounced nonhaematological toxicities and treatment related deaths, it may be concluded that this is not a favourable combination.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Topotecan (Hycamtin s ) is a semisynthetic analogue of the alkaloid camptothecin that acts as a specific inhibitor of the nuclear enzyme topoisomerase-I <ref type="bibr" target="#b5">(Herben et al, 1996)</ref>. Inhibition of this enzyme results in lethal DNA damage during transcription and replication. The E-ring lactone in the basic structure of topotecan is considered essential for the interaction with topoisomerase-I <ref type="bibr" target="#b5">(Herben et al, 1996)</ref> In vivo, rapid conversion of the active lactone to the inactive carboxylate form occurs. Topotecan is indicated for second-line treatment of advanced ovarian cancer or refractory small-cell lung cancer, and has demonstrated antitumour activity in non-small-cell lung cancer, prostate cancer, and colorectal cancer <ref type="bibr" target="#b5">(Herben et al, 1996)</ref>.</p><p>Ifosfamide (IF) (Holoxan s , Ifex s ) is an alkylating agent, which is indicated as third-line agent in the treatment of germ cell testicular cancer in combination with other chemotherapeutic agents. It is also used to treat cancers of the head and neck, breast, cervix, ovaries, soft tissue sarcoma, Ewing's sarcoma, osteosarcoma, both Hodgkin's and non-Hodgkin's lymphomas, non-smallcell lung cancer, acute lymphocytic leukaemia, and neuroblastoma <ref type="bibr">(Kerbusch et al, 2001a)</ref>. Ifosfamide is a prodrug, which needs to undergo activation by cytochrome P450-3A4 (CYP3A4) to 4hydroxyifosfamide (4OHIF). Intracellular spontaneous decomposition of 4OHIF yields the ultimate alkylating metabolite ifosforamide mustard (IFM). Ifosfamide is deactivated to the noncytotoxic metabolites 2-and 3-dechloroethylifosfamide (2DCE and 3DCE), yielding an equimolar amount of neurotoxic chloroacetaldehyde <ref type="bibr" target="#b2">(Cerny and Ku ¨pfer, 1992)</ref>. Ifosfamide metabolism is autoinducible <ref type="bibr">(Kerbusch et al, 2000b)</ref>.</p><p>In a phase I study with the combination topotecan and cyclophosphamide, an isomer of IF, synergism was suggested between alkylating agents and topoisomerase-I inhibitors <ref type="bibr" target="#b15">(Murren et al, 1997)</ref>. It was proposed that DNA alkylation triggers DNA repair mechanisms, which may depend on topoisomerase-I. Ifosfamide was chosen as representative alkylator because it is associated with less haematological toxicity than cyclophosphamide <ref type="bibr">(Kerbusch et al, 2001a)</ref>.</p><p>These data led us to evaluate a chemotherapeutic regimen of topotecan in combination with IF. Aims of this phase I trial were to determine the maximum-tolerated dose (MTD), dose-limiting toxicity (DLT), and the safety profile of the combination of daily 30-min infusions of topotecan on days 1 -5 followed by 1.2 g m À2 IF administered as a 1-h infusion daily on days 1 -3 every 3 weeks in patients with advanced malignancies. Secondary aims were the assessment of the pharmacokinetics of topotecan and IF and its main metabolites when given in combination and documentation of any antitumour activity of this regimen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eligibility criteria</head><p>The eligibility criteria were histologically confirmed metastatic or locally advanced cancer, no proven benefit of existing anticancer therapy, age between 18 and 75 years, World Health Organisation <ref type="bibr">(WHO, 1979)</ref> performance status p2, adequate bone marrow function (white blood cells (WBC) X3.5 Â 10 9 l À1 , granulocytes X1.5 Â 10 9 l À1 , platelets X100 Â 10 9 l À1 , haemoglobin X6 mmol l À1 ), adequate hepatic function (serum bilirubin p20 mmol l À1 , alanine-aminotransferase (ALAT), aspartate-aminotransferase (ASAT), and alkaline phosphatase (AP) p2 Â the upper limit of the reference range or p5 Â the upper limit of the reference range if the elevation was directly contributed to the presence of metastatic disease), adequate renal function (serum creatinine p120 mmol l À1 or creatinine clearance (CL) X60 ml min À1 ), evaluable disease, and a life expectancy X3 months. The exclusion criteria were breast feeding, pregnancy or inadequate contraceptive protection, drug, medication or alcohol abuse, treatment with an investigational drug p1 month prior to the study entry, surgery, radiotherapy (except for analgesic indications) or chemotherapy (mitomycin C or nitrosoureas p1.5) p1 month prior to the study entry, other diseases altering procedures of the trial, history of seizures or central nervous system disorders, severe intercurrent infection, serious uncontrolled concurrent medical or psychiatric disease, known hypersensitivity to IF or topotecan, and prior treatment with IF or topotecan. The study protocol was approved by the Ethics Review Boards of the Antoni van Leeuwenhoek Hospital/The Netherlands Cancer Institute and University Medical Center Utrecht. The trial was conducted in these two centres according to Good Clinical Practice and the current edition of the Declaration of Helsinki. Written informed consent was obtained from all patients entering the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity and response evaluation</head><p>Pretreatment evaluation included a complete medical history and complete physical examination. Before each course, blood chemistry and haematological profiles were checked, and urinalysis was performed. Complete blood cell counts and blood chemistry were repeated weekly. Electrocardiograms and tumour measurements (by physical examination, chest X-ray, other radiological investigations or ultrasound) were performed every other cycle. All toxicities were graded according to the National Cancer Institute Common Toxicity Criteria (NCI-CTC, 1998). Dose-limiting toxicities were defined as any of the following events occurring during the first treatment cycle and attributable to either IF or topotecan: (1) grade IV neutropenia lasting X7 days or of any duration associated with severe systemic infection requiring parental treatment; (2) febrile neutropenia; (3) grade III or IV thrombocytopenia with or without haemorrhagic complications; or (4) grade III or IV nonhaematological toxicity excluding nausea/ vomiting responsive to treatment, anorexia, and alopecia. The MTD was defined as the dose at which Xtwo out of three or Xtwo out of six patients experienced DLT. The next lower dose level below the MTD was the recommended dose for phase II studies. Responses were determined according to the WHO criteria <ref type="bibr">(WHO, 1979)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose escalation</head><p>Doses of topotecan were escalated during the study. Starting dose was 0.4 mg m À2 day À1 topotecan for 5 days by means of a 30-min infusion. Escalation was planned with 0.2 mg m À2 day À1 increments per dose level. Ifosfamide was administered at a fixed dose of 1.2 g m À2 day À1 for 3 days by means of a 1-h infusion. Ifosfamide was administered directly after the topotecan infusion. Upon identification of the MTD, the protocol was amended to reduce topotecan dosing from 5 to 3 days. Treatment cycles were repeated every 21 days, provided patients had sufficiently recovered from any drug-related toxicity associated with the previous course (nonhaematological toxicity Xgrade I, alopecia excluded, haemoglobin X6 mmol l À1 and return of blood cell counts to X1.5 Â 10 9 l À1 neutrophils and X100 Â 10 9 l À1 platelets). Dose modifications of both IF and topotecan were made if poor subjective tolerance to treatment occurred. Neutrophils o0.5 Â 10 9 l À1 associated with temperature X38.51C or lasting longer X7 days, neutrophils o1.0 Â 10 9 l À1 lasting longer X21 days, platelets o50 Â 10 9 l À1 or any nonhaematological toxicity requiring a delay in treatment resulted in dose reduction of 25% and platelets o25 Â 10 9 l À1 resulted in dose reduction of 50%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drug administration</head><p>Topotecan (Hycamtin s ) was supplied by GlaxoSmithKline (Zeist, The Netherlands) in vials containing topotecan HCl, equivalent to 5 mg of free base. Inactive ingredients were 60 mg mannitol and 25 mg tartaric acid. The content of each vial was reconstituted with 2 ml sterile water for injection. The appropriate dosage of the drug was diluted in 50 ml of 0.9% NaCl solution. Topotecan was administered through a peripheral venous access device using a syringe pump. Ifosfamide (Holoxan s ) was supplied by Asta Medica BV (Diemen, The Netherlands) in vials containing 0.5, 1 or 2 g without excipients. Ifosfamide was diluted in 0.9% NaCl to approximately 1 l and administered through a peripheral venous access device using an ambulatory infusion pump. Supportive care consisted of 5HT 3 -antagonists, corticosteroids and mesna. Mesna was administered as protective agent for IF-induced bladder toxicity. The bolus dose of mesna was 50% of the dose of IF, which was followed by continuous intravenous (i.v.) infusion of mesna at a dose of 50% of the dose of IF during and 8 h after the IF infusion. The protocol did not allow the use of bone marrow granulocyte colony-stimulating factors (G-CSF).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetic sampling</head><p>Pharmacokinetic studies were performed for topotecan (total and lactone form) and <ref type="bibr">4OHIF,</ref><ref type="bibr">and IFM)</ref> during the first two treatment courses. Intravenous samples were drawn from an indwelling intravenous cannula placed in the arm contralateral to the arm receiving chemotherapy prior to the topotecan infusion and at the following time points after the start of the topotecan infusion: 15, 30 (prior to the end of the topotecan infusion), 60 and 90 min (prior to the end of the IF infusion), and 2, 3, 4.5, 7.5, 11, and 24 h (prior to the start of the following topotecan infusion). Pharmacokinetic sampling was executed according to this schedule on days 1 and 3 of cycle 1 and day 1 of cycle 2. Blood samples were immediately placed on icewater. The plasma was immediately separated by centrifugation at 1000 g for 5 min at 41C. For the analysis of topotecan lactone plasma protein precipitation was performed by adding 1 ml plasma to 2 ml cold methanol (À201C). The sample was mixed on a whirl mixer for 10 s and centrifuged for 3 min at 1000 g at 41C. The clear supernatant was transferred to a polypropylene tube and immediately stored at À701C pending analysis. Furthermore, plasma was aliquoted in three 1-ml volumes. Two aliquots were used for 4OHIF analysis after stabilisation with semicarbazide and one aliquot was used for IFM analysis after stabilisation with semicarbazide and sodium chloride. The remaining plasma was aliquoted to two 0.5-ml volumes for the analysis of IF, 2DCE and 3DCE, and total topotecan. Urine was collected during the first course for 96 h after the start of the IF infusion and an aliquot was analysed for IF, 2DCE and 3DCE. Both plasma and urine samples were immediately stored at À701C, pending analysis. Total topotecan (lactone plus carboxylate form) and the lactone form were determined separately using a high-performance liquid chromatographic (HPLC) system with fluorometric detection <ref type="bibr" target="#b17">(Rosing et al, 1995)</ref>. Gas chromatography with selective nitrogen -phosphorous detection was used for the determination of IF, 2DCE and 3DCE, in urine and plasma <ref type="bibr">(Kerbusch et al, 2000c)</ref>. Two separate HPLC methods were used for the determination of 4OHIF and IFM concentrations <ref type="bibr" target="#b9">(Kerbusch et al, 1998</ref><ref type="bibr">(Kerbusch et al, , 2000a))</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetic evaluation</head><p>The pharmacokinetics of lactone and total topotecan were described with a two-compartment model, yielding CL (l h À1 ), volume of distribution of the central compartment (V, l), volume of distribution at steady state (V ss , l) and intercompartmental CL (Q, l h À1 ). The pharmacokinetics of IF and its main metabolites were described using an integrated nonlinear model with autoinduction <ref type="bibr">(Kerbusch et al, 2000b</ref><ref type="bibr">(Kerbusch et al, , 2001b, c), c)</ref>. This model described the pharmacokinetics of IF with an initial CL of IF (CL init , lh À1 ) and a volume of distribution (V ifo , l), and autoinduction with a first-order rate constant for enzyme degradation/inactivation (K enz,out , h À1 ) and an IF concentration at 50% of the maximum inhibition of enzyme degradation (IC 50 , mM). The induction half-life of the enzyme (t 1/2,enz , h) was calculated by the ratio of ln(2) and K enz,out . The pharmacokinetics of the metabolites were described with a ratio of the fraction of IF metabolised and the volume of distribution of that metabolite (F m / V m ¼ F * , l À1 ), an elimination rate constant (K, h À1 ) and a rate constant (F ** ) from 4OHIF to IFM <ref type="bibr">(Kerbusch et al, 2001b)</ref>. The exposure to a compound was described by the area under the plasma concentration -time curve (AUC). All pharmacokinetic models were fitted to the data from the individuals using the population pharmacokinetic program NONMEM (Non-linear Mixed Effects Modelling, Version V) <ref type="bibr" target="#b1">(Boeckman et al, 1994)</ref>, with first-order conditional estimation (FOCE). The residual or intraindividual variability of the pharmacokinetics were described separately with a combined proportional and additive term. The interindividual variability (IIV) of each pharmacokinetic parameter was estimated using a proportional error model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetic -pharmacodynamic relationships</head><p>Relationships between the AUC of lactone and total topotecan and myelosuppression were explored using scatter plots of the AUC vs the percentage decrease in absolute neutrophil count (ANC) and thrombocytes (THR). The percentage decrease was defined as:</p><formula xml:id="formula_0">% decrease ¼ base line count À nadir count base line count Â100%</formula><p>The data were fit to a sigmoidal maximum effect (E max ) model, as described by the modified Hill equation <ref type="bibr" target="#b7">(Holford and Sheiner, 1992)</ref>:</p><formula xml:id="formula_1">%decrease ¼ ðE max ÂDE g Þ ðDE g 50 þ DE g</formula><p>Þ where E max denotes the maximal effect that can be elicited, DE is a measure of drug exposure (ie AUC), DE 50 represents the drug exposure associated with 50% of E max and g is the Hill coefficient, which describes the sigmoidicity of the curve. Since the percentage decrease could not exceed 100%, E max was fixed to 100. Separate exposure -response models were described for total and lactone form of topotecan using NONMEM with FOCE and interaction. The residual variability (RV) was described with an additive term. The interoccasion variability (IOV) of AUC 50 was estimated using a proportional error model. In addition, combined exposure -effect models (additive) were explored of the topotecan plus IF -myelosupression relationship. Additivity was modelled by assuming separate terms (Hill equations) for each active moiety (A and B) plus a scaling for relative potency (RP):</p><formula xml:id="formula_2">%decrease ¼ðRPÞÂ ðE max ÂAUC gA A Þ ðAUC gA 50;A þ AUC gA A Þ þ ð1 À RPÞÂ ðE max ÂAUC gB B Þ ðAUC gB 50;B þ AUC gB B Þ</formula><p>The active moieties (A and B) tested were topotecan lactone/total and 4OHIF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>At the end of the study, 36 patients received 144 courses at seven dose levels. Patient characteristics are listed in Table <ref type="table" target="#tab_1">1</ref>. The medium number of courses administered per patient was 3 (range 1 -10). In four patients only one treatment course was administered because of rapidly progressive disease. Two of these patients developed an ileus, one with a septic shock and one with lethal intestinal bleeding. This was considered disease related. Two courses were delayed in one patient and treatment discontinued in another at dose level 5 (1.0 mg m À2 day À1 Â 3), due to the occurrence of an ileus.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose escalation</head><p>All patients were assessable for toxicity during the first treatment course. Doses of topotecan were escalated according to the scheme depicted in Table <ref type="table" target="#tab_2">2</ref>. Myelosuppression was the DLT for the combination of topotecan and IF in this schedule (Table <ref type="table" target="#tab_3">3</ref>). To investigate further dose-intensification topotecan dosing was reduced from 5 to 3 days, yielding a total dose at level 3 (1.8 mg topotecan) similar to level 1 (2.0 mg topotecan). At dose level 3, six patients were included, because the first three only had five evaluable courses due to progressive disease. At dose level 6, two out of eight patients experienced DLT meeting the MTD criteria of Xtwo out of six patients, and it was concluded that the MTD was achieved at dose level 6 (topotecan 1.2 mg m À2 day À1 Â 3 and IF 1.2 g m À2 day À1 Â 3). Four additional patients were entered at dose level 5 at the recommended dose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haematological toxicity</head><p>Myelosuppression was the principal toxicity.</p><p>Table 3 lists the frequency of the grade III and IV haematological toxicities during treatment course 1 and during all courses. A total of 144 courses were evaluated, involving all 36 patients. Overall, grade III thrombocytopenia (3%) and grade III (6%) and IV (1%) anaemia</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><p>were rare. The single observed grade IV anaemia was considered not related to the study drugs. Neutropenia grades III and IV occurred in 29 (20%) and 59 (41%) of all courses, respectively. Neutropenic fever was observed in seven (5%) courses. In all, 23 (16%) of all treatment courses were delayed for 1 week. Three patients had unresolved neutropenia at day 21, one patient had two episodes of ileus, one patient had two episodes of severe ascitis, and three courses were postponed upon patients' request. Dose reductions due to neutropenia were performed in 18 (13%) of 144 treatment courses involving nine patients. At dose level 2 (0.6 mg m À2 day À1 Â 5), one patient received two courses at 75% of the intended dose and another patient received four courses with topotecan for 3 days instead of 5 days. At dose level 3, one patient received one course at 75% of the intended topotecan dose. At dose level 6, one patient developed grade IV neutropenia with fever, which was resolved before the start of the second course. However, the fever reoccurred during the second day of the second course. This prompted an early infusion discontinuation after the first day of the second course.</p><p>One patient at dose level 6 experienced grade III thrombocytopenia and grade IV neutropenia with neutropenic fever and another patient at dose level 6 and two at dose level 7 experienced grade IV neutropenia 47 days. Consequently, the dose of topotecan and IF was reduced by 25% in all subsequent courses in these patients.</p><p>There was no indication of cumulative myelosuppression on repeated dosing, evidenced by similar or less prominent haemoglobin, neutrophil, and platelet nadirs in later courses compared with the first course (Table <ref type="table" target="#tab_4">4</ref>). The neutrophil nadir typically occurred between days 7 and 14 (median 10 days). Absolute neutrophil counts at dose level 2 (dose intensity 3.0 mg m À2 ) were comparable to dose levels 5 and 6 (dose intensities 3.0 and 3.6 mg m À2 , respectively). A similar pattern was observed with the haemoglobin and platelet levels of dose levels 2 and 6. Most patients in the study received infusions of packed cells due to anaemia.   </p><p>0%)/1 (5%) 0 (0%)/0 (0%) 1 (20%)/1 (5%) 0 (0%)/2 (10%) 0 (0%)/0 (0%) 0 (0%)/0 (0%) 2 0.6 mg m À2 Â 5 days 3 10 0 (0%)/0 (0%) 1 (33%)/1 (10%) 0 (0%)/0 (0%) 2 (67%)/4 (40%) 1 (33%)/1 (10%) 0 (0%)/0 (0%) 3 0.6 mg m À2 Â 3 days 6 17 0 (0%)/0 (0%) 0 (0%)/0 (0%) 0 (0%)/6 (35%) 2 (33%)/4 (24%) 0 (0%)/0 (0%) 0 (0%)/0 (0%) 4 0.8 mg m À2 Â 3 days 3 22 0 (0%)/1 (5%) 0 (0%)/0 (0%) 0 (0%)/6 (27%) 1 (33%)/7 (32%) 0 (0%)/0 (0%) 0 (0%)/0 (0%) 5</p><p>1.0 mg m À2 Â 3 days 7 32 2 (29%)/4 (13%) 0 (0%)/0 (0%) 2 (29%)/8 (25%) 4 (57%)/9 (28%) 0 (0%)/0 (0%) 0 (0%)/0 (0%) 6</p><p>1.2 mg m À2 Â 3 days 8 25 1 (13%)/2 (8%) 0 (0%)/0 (0%) 0 (0%)/4 (16%) 7 (88%)/19 (76%) 1 (13%)/2 (8%) 0 (0%)/0 (0%) 7</p><p>1.4 mg m À2 Â 3 days 4 18 0 (0%)/0 (0%) 0 (0%)/0 (0%) 0 (0%)/4 (22%) 4 (100%)/14 (78%) 0 (0%)/1 (6%) 0 (0%)/0 (0%) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nonhaematological toxicity</head><p>Nonhaematological toxicities were relatively mild and not dose related (Table <ref type="table" target="#tab_5">5</ref>). One patient (six courses) with peripheral neuropathy grade I had pre-existing neuropathy due to cisplatin pretreatment. In one patient, an episode of sensory neuropathy grade II was suspected to be treatment related, but in another patient an episode of grade III was considered not to be related, because of confirmed CNS metastases. All toxicities, including neuropathy, were reversible and rapidly vanished after therapy was stopped.</p><p>Blood chemistry prior to treatment did not exceed reference values. The median creatinine CL prior to treatment was 92 ml min À1 and ranged between 48 and 148 ml min À1 ; this was unaltered prior to the second course. In one patient, increased levels of AP, ASAT, and ALAT (946, 103, and 132 U/l, respectively) were observed after the first course. Later, this patient was found to have an obstructed biliary tract due to tumour growth. Between courses 1 and 2, a total of six and 10 patients had calcium and magnesium levels below the reference values of 2.2 and 0.7 mmol l À1 , respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>Total topotecan pharmacokinetic data were obtained in the first course of 32 patients and in the second course of 17 patients, respectively. Lactone topotecan pharmacokinetic data were obtained in the first course of 16 patients and in the second course of 15 patients. Typical plasma profiles of topotecan lactone and total topotecan of a patient receiving 1.2 mg m À2 day À1 topotecan are displayed in Figure <ref type="figure">1</ref>. The lactone form was the predominant form during the infusion, but approximately 30 min after the end of the infusion the open-ring (carboxylate) form concentrations exceeded lactone levels. The mean (7s.d.) lactoneto-total topotecan ratio at the end of the infusion was 0.7470.10 (n ¼ 23). After the end of the infusion, lactone curves exhibited a biexponential decay. The population pharmacokinetic parameters of topotecan lactone and total topotecan are listed in Table <ref type="table" target="#tab_6">6</ref>. Variability between patients and between courses 1 and 2 was modest. The relationship between the AUC of lactone and total  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><p>topotecan with the absolute topotecan dose is represented in Figure <ref type="figure">2</ref>. Moderate IIV in exposure was observed. Plasma concentration -time profiles of IF and its metabolites are presented in Figure <ref type="figure">3</ref>. A decrease in the elimination half-life of IF was observed when comparing the monoexponential decays on days 1 and 3, due to the autoinduction of the IF metabolism. This effect was reset at the start of the next course. The population pharmacokinetic parameters of IF and its metabolites are listed in Table <ref type="table" target="#tab_7">7</ref>. The concentration -time data did not allow estimation of IC 50 and it was therefore fixed at 0.001 mM, which was below the lower limit of quantification. Fixing IC 50 resulted in an adequate description of the development of autoinduction of the IF metabolism. Insufficient data were available to estimate the elimination rate of the hydroxylated metabolite (K 4OHIF ), which was therefore fixed to a value (73.8 h À1 ) obtained from a prior analysis <ref type="bibr">(Kerbusch et al, 2001b)</ref>. Variability between patients in IF pharmacokinetics was modest and somewhat larger for the metabolites. The mean (7s.d.) urinary excretion of IF was 34.7712.1% of the administered dose with 17.8710.0% as unchanged <ref type="bibr">IF,</ref><ref type="bibr">5.672.2% as 2DCE,</ref><ref type="bibr">and 11.273</ref>.8% as 3DCE.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacodynamics</head><p>The relationships between the AUC for the lactone and total topotecan and the percentage decrease in neutrophils could adequately be described by sigmoidal -E max models (Figure <ref type="figure" target="#fig_2">4</ref>). Estimates for AUC 50 and the Hill coefficient are presented in Table <ref type="table" target="#tab_8">8</ref>. The individual estimates of the AUC 50 between courses 1 and 2 decreased with 9 and 12%, respectively. However, this difference in potency was not statistically significant (Po0.05), because including a nonrandom course effect only resulted in a  Course 1 Course 2 0.01 0 2 4 4 8 7 2 0.1 1 10 100 1000 Time (h) 0 2 4 4 8 7 2 Time (h) Conc. ( M) 0.01 0.1 1 10 100 1000 Conc. ( M) IFO 2DCE 3DCE 4OHIF IFM Figure 3 Typical plasma concentration -time profiles of IF, 2DCE, 3DCE, 4OHIF, and IFM of a patient receiving a 1-h infusion of 1.2 g m À2 day À1 ifosfamide for 3 consecutive days with a 3-week interval.</p><p>drop of the objective function of 1. Differences between courses 1 and 2 were better described with random variability in AUC 50 . The high Hill coefficients (44) indicated a steep dose -response relationship for both compounds. Adding 4OHIF exposure to the model did not result in an improvement of goodness-of-fit of this relationship. Various nested models were tested where the Hill coefficients and AUC 50 's of the active moieties were assumed equal. None of the models achieved a successful description of the additivity.</p><p>The relationships between the AUC for the lactone and total topotecan and the percentage decrease in THR could also be described by sigmoidal -E max models (Figure <ref type="figure" target="#fig_3">5</ref>). The relatively high standard errors of the estimates indicated lack of goodnessof-fit, probably due to a lack of information on either end of the extremes of the curve. Estimates of AUC 50 and the Hill coefficient are also presented in Table <ref type="table" target="#tab_8">8</ref>. The RV and IIV were confounded due to insufficient data for the lactone form topotecan -THR relationship. Therefore, the RV could not be estimated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Responses</head><p>In all, 34 patients were assessable for therapeutic activity. Of these, 22 patients demonstrated stable disease and nine progressive disease during treatment. Partial responses were documented in three heavily pretreated patients all with ovarian cancer, which was the predominant primary tumour site (61%) in this study. One partial responder was dosed at the recommended dose and the other two at the two underlying three-daily dose levels.   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>There are few anticancer agents that have significant therapeutic impact when used alone, particularly in the treatment of solid tumours. The single-agent and combination therapy activities of topotecan and IF have been extensively studied <ref type="bibr" target="#b5">(Herben et al, 1996;</ref><ref type="bibr">Kerbusch et al, 2001a)</ref>. <ref type="bibr" target="#b15">Murren et al (1997)</ref> proposed a synergistic cytotoxicity between topoisomerase-I inhibitors and alkylating agents. Bioactivation of IF leads to the alkylating compound IFM, which possesses a high affinity for macromolecules such as DNA. DNA alkylation leads to crosslink formation finally resulting in cytotoxicity and cell death through apoptosis.</p><p>DNA alkylation initiates DNA repair mechanisms. Topoisomerase-I may be involved in this machinery through unwinding of the DNA. However, its direct relationship to the cytotoxic events of IF is at present unclear. The suggested synergism encouraged us to evaluate the feasibility and safety profile of the combination topotecan with IF in cancer patients. Haematological toxicity, especially neutropenia was the DLT for this combination. Topotecan could not be safely administered in the approved single agent (1.5 mg m À2 ) daily times five schedule. Severe neutropenia and thrombocytopenia occurred at a dose of 0.6 mg m À2 day À1 for 5 days. To investigate further dose intensification, topotecan dosing was reduced from 5 to 3 days. With the adjusted schedule, topotecan was escalated to 1.4 mg m À2 day À1 . At that dose level DLT was observed. Additional patients at one dose level below the highest also demonstrated unacceptable toxicity. Therefore, the recommended dose was found to be 1.0 mg m À2 day À1 topotecan Â 3 days and 1.2 g m À2 day À1 IF Â 3 days. Seven patients were treated at the recommended dose with acceptable toxicity.</p><p>The neutropenia was correlated with the dose intensity of topotecan (Table <ref type="table" target="#tab_3">3</ref>), which was also observed in the previous studies (van <ref type="bibr" target="#b22">Warmerdam et al, 1995)</ref>. Neutropenia is the most frequently observed toxicity associated with single-agent topotecan. In phase II trials of single-agent topotecan in adult patients with solid tumours receiving 30-min infusions of 1.5 -2.0 mg m À2 day À1 for 5 days every 3 or 4 weeks, grade III -IV neutropenia was observed in 71 -75% of all courses <ref type="bibr" target="#b3">(Creemers et al, 1995;</ref><ref type="bibr">Perez-Soler et al, 1996)</ref>. The haematological toxicity was generally of short duration, noncumulative, and manageable. Ifosfamide's principal toxicity is also haematological, albeit less severe than of its isomer cyclophosphamide. A WBC count o3 Â 10 9 l À1 is expected in approximately 50% of patients and platelet counts o100 Â 10 9 l À1 in 20% of patients treated with single-agent IF at a dose of 1.2 g m À2 day À1 for 5 days <ref type="bibr" target="#b20">(Telekes and Hendrich, 1996)</ref>. Their overlapping toxicity profiles prevented escalation of topotecan, in combination with IF, to a dose near the single-agent MTD of 1.5 mg m À2 day À1 for 5 consecutive days.</p><p>Eight episodes (6%) of grade III anaemia were observed in all courses, which were considered related to the study drugs. This is in accordance with the observation that significant anaemia occurred in 2 -14% of all courses of phase II studies in patients receiving single-agent topotecan at 1.5 -2.0 mg m À2 day À1 for 5 days <ref type="bibr" target="#b3">(Creemers et al, 1995;</ref><ref type="bibr">Perez-Soler et al, 1996)</ref>.</p><p>Only four episodes (3%) of grade III thrombocytopenia were observed in our study. Thrombocytopenia associated with singleagent topotecan is rare and mainly reported after prolonged infusion schedules <ref type="bibr" target="#b6">(Herben et al, 1998)</ref>. Severe thrombocytopenia was observed in 2 -10% of all courses in the above-mentioned phase II studies of the daily Â 5 schedule <ref type="bibr" target="#b3">(Creemers et al, 1995;</ref><ref type="bibr">Perez-Soler et al, 1996)</ref>.</p><p>Bone marrow G-CSF was not allowed in this study. Granulocyte colony-stimulating factor could potentially improve the tolerance to the combination regimen. However, preliminary results presented by <ref type="bibr" target="#b0">Bienvenu et al (2000)</ref> suggest the impact of G-CSF to be limited. They recommended a dose of 1.0 mg m À2 day À1 topotecan in combination with 1.5 g m À2 day À1 IF, both daily for 3 consecutive days with G-CSF support from days 5 to 12.</p><p>Recently, <ref type="bibr" target="#b19">Schneider et al (2002)</ref> published a study of this combination therapy with G-CSF (when indicated) based on a 5day schedule. They observed pronounced nonhaematological toxicity (hepatic and renal) and two treatment-related deaths out of 11 patients. This is in contrast to our findings. No hepatic toxicity, renal tubular abnormalities, or haemorrhagic cystitis were observed. All nonhaematological toxicities were relatively mild, not dose related, and transient with nausea, vomiting, fatigue, constipation, and alopecia being the most observed. These have been described before in phase II studies of single-agent topotecan with similar incidence rates <ref type="bibr" target="#b3">(Creemers et al, 1995)</ref>. Peripheral neuropathy or paresthesia has occurred rarely with topotecan treatment and a causal relationship is uncertain. The relatively high incidence of neuropathy in our study may be related to prior treatment with paclitaxel in three and cisplatin in one of five patients <ref type="bibr" target="#b18">(Rowinsky et al, 1992)</ref>. No encephalopathy, a specific IFrelated toxicity, was observed in this study <ref type="bibr" target="#b2">(Cerny and Ku ¨pfer, 1992)</ref>.</p><p>Population pharmacokinetic parameters of topotecan were similar to previously reported parameter estimates obtained using a population approach <ref type="bibr" target="#b4">(Gallo et al, 2000)</ref> and a standard two-stage analysis <ref type="bibr" target="#b21">(Wall et al, 1992;</ref><ref type="bibr" target="#b22">van Warmerdam et al, 1995)</ref> after singleagent administration of 0.5 -2.0 mg m À2 topotecan in the daily times five schedule. Gallo et al reported a CL of 32 l h À1 and volume of distribution at steady state (V ss ) of 120 l, whereas the current analysis found 29 l h À1 and 80 l, respectively. This minor discrepancy may be explained by differences in the characteristics of the studied patients. Gallo et al identified weight, height serum creatinine, and sex as significant covariates for CL and V ss . The median values/frequency of these covariates were lower in the current study resulting in lower estimates of CL and V ss . The CL of the lactone (68 l h À1 ) form exceeded the total form (29 l h À1 ). This apparent CL of the lactone form is actually CL/F with F being the fraction of the total concentration/amount of dose in lactone form. Similar reasoning can be followed for V, V ss and Q. Metabolic interactions of topotecan with concomitantly administered IF were not anticipated, because topotecan metabolism to N-desmethyltopotecan is only 0.4 -3% of the dose <ref type="bibr" target="#b6">(Herben et al, 1998)</ref>.</p><p>Nephrotoxicity is frequently encountered with IF treatment. Since approximately 40% of topotecan is eliminated by the kidneys, IF-induced renal tubular damage could potentially alter the renal CL of topotecan. In the current study, no episodes of renal toxicity were observed. Creatinine CL, an indicator of renal function, did not exceed reference values. In agreement with these clinical findings, plasma profiles of topotecan on days 2 and 3 were similar to those on day 1, which indicates that IF coadministration at the applied dose regimen most likely did not interfere with topotecan CL.</p><p>Population pharmacokinetic parameters of IF and metabolites were similar to those reported in a previous pharmacokinetic study using an identical model <ref type="bibr">(Kerbusch et al, 2001b)</ref>. In another study, high doses of IF (9 -12 g m À2 ) were administered as single agent by a 72-h continuous infusion <ref type="bibr">(Kerbusch et al, 2000b)</ref>. A four-fold higher value for t 1/2,enz was obtained in the current study. Furthermore, no IC 50 could be estimated in the current study. This may be explained by the fact that estimation of autoinduction in a pharmacokinetic profile of a 1-h infusion is inherently less feasible than in that of a 72-h continuous infusion of IF. Although the combination was never administered in reverse order, topotecan and IF did not appear to interact pharmacokinetically in the studied combination regimen, since the observed pharmacokinetics were similar to those after single-agent administration.</p><p>The estimates for the parameters used to describe the sigmoidal -E max relationship of the pharmacokinetics and the myelosuppression were similar to previously reported values. van Warmerdam et al (1995) reported an AUC 50 for total topotecan of 173 nM h À1 after single-agent topotecan (0.5 -1.5 mg m À2 day À1 Â 5). In contrast, the Hill coefficients were two-fold higher than previously reported (1.8), possibly indicating the additive effect of IF on the myelosuppression. The relationship between the topotecan exposure and the decrease in THR indicated that the maximum decrease is not likely to be reached with the doses studied. No structural differences (only random) were observed in the estimates for the AUC 50 in the first and second course. This was in accordance with the observation that neutropenia was not cumulative. So far, dose escalation of topotecan only reached approximately 50% of the MTD of single-agent treatment with topotecan. This indicated a considerable additive myelosuppressive effect of IF. Exposure to the activated metabolites of IF (4OHIF and IFM) ranged approximately five-fold in the study, although the IF dose was not escalated. However, no clear relationship between the exposure to these active metabolites and the myelosuppression was observed (data not shown). Additive modelling of topotecan lactone/total and 4OHIF did not result in an increased goodnessof-fit of the relationship with myelosuppression. The inability to detect this relationship can be explained by the limited number of subjects, in which all data were available (n ¼ 14) and the lack of an IF dose escalation or myelosuppresion data after single-agent topotecan or IF administration.</p><p>This phase I dose-escalating study was not designed for an evaluation of efficacy. Nonetheless, 8% of the patients refractory to standard therapy did demonstrate clinical benefit (partial response) from this combination with dosing at and below the recommended dose.</p><p>It was concluded that the combination treatment of topotecan at 1.0 mg m À2 day À1 Â 3 days with IF at 1.2 g m À2 day À1 Â 3 days was feasible. Possible clinical benefit and synergism of this combination can only be evaluated in a phase II trials. However, the combination schedule of topotecan and IF did result in considerable haematological toxicity and in conjunction with previously reported pronounced nonhaematological toxicities and treatment-related deaths, it may be concluded that this is not a favourable combination. The combined tolerated dose was lower than expected based on single-agent experiences. No pharmacokinetic interaction could be detected. It is therefore likely that the combination is characterised by overlapping toxicity.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>a</head><figDesc>Number (percentage) of patients developing toxicity in the first course/number (percentage) of courses causing toxicity. Phase I and pharmacokinetic study of topotecan and ifosfamide British Journal of Cancer (2004) 90(12), 2268 -2277 &amp; 2004 Cancer Research UK</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 Figure 3</head><label>23</label><figDesc>Figure2Relationship between the total topotecan dose (mg) per course and the area under the plasma concentration -time curve (AUC) of total topotecan (upper graph) and topotecan lactone (lower graph) in course 1 (solid marker) and 2 (open marker).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Percentage decrease in absolute neutrophil count (ANC) vs the area under plasma concentration -time curve (AUC) of total (upper graph) and lactone (lower graph) topotecan during course 1 (solid markers) and course 2 (open markers). The line indicates the best fit of the data to the sigmoidal -E max model.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 5</head><label>5</label><figDesc>Figure 5 Percentage decrease in thrombocytes (THR) vs the area under plasma concentration -time curve (AUC) of total (upper graph) and lactone (lower graph) topotecan during course 1 (solid markers) and course 2 (open markers). The line indicates the best fit of the data to the sigmoidal -E max model.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>Characteristic</cell><cell>Number</cell><cell>%</cell></row><row><cell>Number of patients</cell><cell>36</cell><cell></cell></row><row><cell>Male/female</cell><cell>6/30</cell><cell></cell></row><row><cell>Age (years)</cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>57</cell><cell></cell></row><row><cell>Range</cell><cell>32 -77</cell><cell></cell></row><row><cell>Performance status</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>1 2</cell><cell>3 3</cell></row><row><cell>1</cell><cell>2 0</cell><cell>5 6</cell></row><row><cell>2</cell><cell>4</cell><cell>1 1</cell></row><row><cell>Primary tumour site</cell><cell></cell><cell></cell></row><row><cell>Colon</cell><cell>2</cell><cell>6</cell></row><row><cell>Cervix</cell><cell>1</cell><cell>3</cell></row><row><cell>Melanoma</cell><cell>1</cell><cell>3</cell></row><row><cell>Ovarian</cell><cell>22</cell><cell>61</cell></row><row><cell>Gastric</cell><cell>2</cell><cell>6</cell></row><row><cell>Pancreas</cell><cell>1</cell><cell>3</cell></row><row><cell>Renal</cell><cell>1</cell><cell>3</cell></row><row><cell>Oropharynx</cell><cell>1</cell><cell>3</cell></row><row><cell>Non-small-cell lung cancer</cell><cell>4</cell><cell>11</cell></row><row><cell>Urogenital</cell><cell>1</cell><cell>3</cell></row><row><cell>Prior palliative chemotherapy</cell><cell>34</cell><cell>94</cell></row><row><cell>Number of previous regimens</cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>1</cell><cell></cell></row><row><cell>Range</cell><cell>1 -6</cell><cell></cell></row><row><cell>Prior radiotherapy</cell><cell>7</cell><cell>19</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Topotecan dose escalationWhen level 7 resulted in DLT additional patients were recruited at level 6 and subsequently at level 5. The latter is the advised level for further studies. T ¼ thrombocytopenia;</figDesc><table><row><cell>Dose level</cell><cell>Number of patients</cell><cell>DLT type and grade</cell><cell>Topotecan dose</cell><cell>Total topotecan dose (mg m À2 )</cell></row><row><cell>1 2 1 3 4 5 6 7 6 5</cell><cell>3 3 (DLT in one of three) 2 6 3 3 6 (DLT in one of six) 4 (DLT in two of four) 2 (DLT in one of two) 4</cell><cell>T III, N IV, A IV, toxic death N IV, feverX7 days N IV, feverX7 days (both) N IV, feverX7 days</cell><cell>0.4 mg m À2 day À1 Â 5 days 0.6 mg m À2 day À1 Â 5 days 0.4 mg m À2 day À1 Â 5 days 0.6 mg m À2 day À1 Â 3 days 0.8 mg m À2 day À1 Â 3 days 1.0 mg m À2 day À1 Â 3 days 1.2 mg m À2 day À1 Â 3 days 1.4 mg m À2 day À1 Â 3 days 1.2 mg m À2 day À1 Â 3 days 1.0 mg m À2 day À1 Â 3 days</cell><cell>2.0 3.0 2.0 1.8 2.4 3.0 3.6 4.2 3.6 3.0</cell></row></table><note><p>N ¼ neutropenia; A ¼ anaemia; DLT ¼ dose-limiting toxicity.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Haematological toxicities in 144 courses</figDesc><table><row><cell>Anaemia a</cell><cell>Neutropenia a</cell><cell>Thrombocytopenia a</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4</head><label>4</label><figDesc>Nadir blood counts in 144 courses</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">ANC ( Â 10 9 l À1 )</cell><cell cols="2">Haemoglobin (mmol l À1 )</cell><cell cols="2">Platelets ( Â 10 9 l À1 )</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>1st course</cell><cell>All courses</cell><cell>1st course</cell><cell>All courses</cell><cell>1st course</cell><cell>All courses</cell></row><row><cell></cell><cell></cell><cell>Number</cell><cell>Number</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Dose</cell><cell>Topotecan</cell><cell>of</cell><cell>of</cell><cell>Median</cell><cell>Median</cell><cell>Median</cell><cell>Median</cell><cell>Median</cell><cell>Median</cell></row><row><cell>level</cell><cell>dose</cell><cell>patients</cell><cell>courses</cell><cell>(range)</cell><cell>(range)</cell><cell>(range)</cell><cell>(range)</cell><cell>(range)</cell><cell>(range)</cell></row><row><cell>1 2 3 4 5 6 7</cell><cell>0.4 mg m À2 Â 5 days 0.6 mg m À2 Â 5 days 0.6 mg m À2 Â 3 days 0.8 mg m À2 Â 3 days 1.0 mg m À2 Â 3 days 1.2 mg m À2 Â 3 days 1.4 mg m À2 Â 3 days</cell><cell>5 3 6 3 7 8 4</cell><cell>20 10 17 22 32 25 18</cell><cell cols="2">1.9 (0.7 -3.5) 0.4 (0.2 -1.3) 1.4 (0.1 -3.7) 2.1 (0.3 -3.5) 0.5 (0.1 -1.1) 0.2 (0.02 -2.1) 0.3 (0.02 -2.1) 2.0 (0.4 -3.5) 1.0 (0.2 -2.4) 0.7 (0.04 -4.0) 0.7 (0.1 -3.5) 0.8 (0.1 -2.3) 0.3 (0.05 -0.3) 0.3 (0.05 -0.6)</cell><cell>6.4 (5.4 -7.1) 5.6 (3.4 -5.7) 6.2 (5.9 -7.0) 6.1 (5.7 -7.5) 5.5 (4.0 -6.8) 6.2 (4.9 -7.0) 7.1 (5.3 -7.8)</cell><cell>6.5 (4.4 -7.1) 5.7 (3.4 -6.6) 5.9 (5.0 -7.3) 6.5 (4.7 -7.5) 5.7 (4.0 -7.1) 6.1 (4.8 -7.1) 6.3 (5.2 -7.8)</cell><cell cols="2">230 (99 -403) 79 (25 -231) 190 (125 -283) 175 (78 -283) 165 (99 -445) 212 (25 -282) 176 (129 -230) 197 (129 -279) 193 (115 -269) 175 (110 -514) 101 (44 -201) 131 (37 -419) 112 (66 -237) 150 (38 -279)</cell></row><row><cell cols="2">ANC ¼ absolute neutrophil count.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5</head><label>5</label><figDesc>Nonhaematological toxicity in 144 courses of 36 patients</figDesc><table><row><cell></cell><cell cols="3">Percentage of courses (number of patients)</cell><cell></cell><cell></cell><cell cols="3">Percentage of courses (number of patients)</cell></row><row><cell>Toxicity</cell><cell>Grade I</cell><cell>Grade II</cell><cell>Grade III</cell><cell>Toxicity</cell><cell></cell><cell>Grade I</cell><cell>Grade II</cell><cell>Grade III</cell></row><row><cell>Vomiting</cell><cell>24% (16)</cell><cell>10% (8)</cell><cell>1% (1)</cell><cell cols="2">Peripheral neuropathy</cell><cell>14% (6)</cell><cell>2% (1)</cell></row><row><cell>Nausea</cell><cell>35% (23)</cell><cell>20% (14)</cell><cell>3% (4)</cell><cell>Vertigo</cell><cell></cell><cell>3% (4)</cell><cell></cell></row><row><cell>Abdominal cramps</cell><cell>4% (5)</cell><cell>2% (2)</cell><cell></cell><cell>Headache</cell><cell></cell><cell>5% (6)</cell><cell>2% (2)</cell></row><row><cell>Constipation</cell><cell>30% (23)</cell><cell>8% (9)</cell><cell>1% (2)</cell><cell>Anxiety</cell><cell></cell><cell></cell><cell>5% (4)</cell></row><row><cell>Anorexia</cell><cell></cell><cell>2% (3)</cell><cell></cell><cell>Pain</cell><cell></cell><cell>15% (9)</cell><cell>5% (6)</cell><cell>5% (5)</cell></row><row><cell>Diarrhoea</cell><cell>8% (10)</cell><cell>3% (3)</cell><cell>1% (1)</cell><cell>Myalgia</cell><cell></cell><cell>4% (5)</cell><cell>1% (1)</cell></row><row><cell>Fatigue</cell><cell>15% (13)</cell><cell>17% (13)</cell><cell>2% (2)</cell><cell>Dyspnoea</cell><cell></cell><cell>1% (2)</cell><cell>3% (3)</cell><cell>2% (3)</cell></row><row><cell>Fever</cell><cell>7% (8)</cell><cell>5% (5)</cell><cell>3% (4)</cell><cell>Infection</cell><cell></cell><cell>3% (5)</cell><cell>4% (6)</cell></row><row><cell>Asthenia</cell><cell>6% (4)</cell><cell>4% (3)</cell><cell>2% (3)</cell><cell>Cough</cell><cell></cell><cell>7% (7)</cell><cell></cell></row><row><cell>Alopecia</cell><cell>9% (9)</cell><cell>47% (26)</cell><cell></cell><cell cols="2">Haemorrhage (urine)</cell><cell>1% (1)</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>100</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Topotecan conc. (nM)</cell><cell>0.001 0.01 0.1 1 10</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell>2 4</cell><cell>4 8</cell><cell>7 2</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Time (h)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">Figure 1 A typical plasma concentration -time profile of total topotecan</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">(solid markers) and topotecan lactone (open markers) of a patient receiving a 30-min administration of 1.2 mg m À2 day À1 topotecan for 3</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">consecutive days.</cell><cell></cell><cell></cell></row></table><note><p>British Journal of Cancer (2004) 90(12), 2268 -2277 &amp; 2004 Cancer Research UK</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 6</head><label>6</label><figDesc>Pharmacokinetics of topotecan lactone and total topotecan (lactone and carboxylate form) with their s.e., IIV, IOV and RV V ¼ volume of distribution of central compartment, V ss ¼ volume of distribution at steady state, Q ¼ intercompartmental clearance, PE ¼ proportional error, AE ¼ additive error; s.e. ¼ standard error; IIV ¼ interindividual variability; IOV ¼ interoccasion variability; RV ¼ residual variability.</figDesc><table><row><cell></cell><cell></cell><cell>Topotecan lactone</cell><cell></cell><cell></cell><cell></cell><cell>Total topotecan</cell><cell></cell></row><row><cell></cell><cell>Estimate (7s.e.)</cell><cell>IIV</cell><cell>IOV</cell><cell>RV</cell><cell>Estimate (7s.e.)</cell><cell>IIV</cell><cell>IOV</cell><cell>RV</cell></row><row><cell>CL (l h À1 )</cell><cell>68.073.2</cell><cell>16%</cell><cell>9%</cell><cell></cell><cell>24.971.2</cell><cell>23%</cell><cell>12%</cell></row><row><cell>V (l)</cell><cell>29.571.2</cell><cell>22%</cell><cell>-</cell><cell></cell><cell>16.673.5</cell><cell>45%</cell><cell>-</cell></row><row><cell>V ss (l) Q (l h À1 )</cell><cell>13377 66.372.3</cell><cell>16% 4%</cell><cell>--</cell><cell></cell><cell>80.072.8 129723</cell><cell>17% 12%</cell><cell>--</cell></row><row><cell>PE</cell><cell></cell><cell></cell><cell></cell><cell>15.9%</cell><cell></cell><cell></cell><cell></cell><cell>13.0%</cell></row><row><cell>AE (mm)</cell><cell></cell><cell></cell><cell></cell><cell>0.150</cell><cell></cell><cell></cell><cell></cell><cell>0.392</cell></row><row><cell>CL ¼ clearance,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 7</head><label>7</label><figDesc>Pharmacokinetics of IF, 2DCE, 3DCE, 4OHIF, and IFM with their s.e., IIV, IOV, and RV initial ifosfamide clearance; V IFO ¼ volume of distribution of central compartment of ifosfamide; K enz,out ¼ first-order rate constant for enzyme degradation/inactivation; t 1/2,enz (h) ¼ induction half-life of the enzyme; AUC ¼ area under the plasma concentration -time curve during the first course; PE ¼ proportional error; AE ¼ additive error; F * ¼ ratio of fraction metabolised and volume of distribution of metabolite; K ¼ first-order rate constant for metabolite elimination; F ** ¼ formation rate constant; IF ¼ ifosfamide; 2DCE ¼ 2-dechloroethylifosfamide; 3DCE ¼ 3-dechloroethylifosfamide; 4OHIF ¼ 4-hydroxyifosfamide; IFM ¼ ifosforamide mustard; s.e. ¼ standard error; IIV ¼ interindividual variability; IOV ¼ interoccasion variability; RV ¼ residual variability.</figDesc><table><row><cell></cell><cell cols="2">Ifosfamide</cell><cell></cell><cell></cell><cell cols="3">Deactivated metabolites</cell><cell cols="2">Activated metabolites</cell></row><row><cell></cell><cell cols="3">Estimate (7s.e.) IIV (%) IOV RV</cell><cell></cell><cell cols="3">Estimate (7s.e.) IIV (%) RV</cell><cell cols="2">Estimate (7s.e.) IIV (%) RV</cell></row><row><cell>CL init (l h À1 ) V IFO (l) K enz, out (h À1 )</cell><cell>3.5270.18 32.371.0 0.013770.0012</cell><cell>22 14 20</cell><cell>6% --</cell><cell>F * 2DCE (l À1 ) K 2DCE (h À1 ) AUC 2DCE (mm h)</cell><cell>0.0040670.00077 0.11870.021 0.86170.132</cell><cell>70 27</cell><cell cols="2">F * 4OHIF (l À1 ) K 4OHIF (h À1 ) AUC 4OHIF (mm h) 0.048270.0044 0.14770.013 73.8</cell><cell>43 -</cell></row><row><cell>t 1=2;enzðhÞ</cell><cell>50.6</cell><cell></cell><cell></cell><cell>PE</cell><cell></cell><cell></cell><cell>0% PE</cell><cell></cell><cell>23.0%</cell></row><row><cell>AUC IFO (mm h) PE AE (mm)</cell><cell>4.6770.27</cell><cell></cell><cell cols="2">AE (mm) 14.3% F * 3DCE (l À1 ) 4.51 K 3DCE (h À1 )</cell><cell>0.0063370.00044 0.075270.0038</cell><cell>29 -</cell><cell>5.10 AE (mm) F ** IFM (h À1 ) K IFM (h À1 )</cell><cell>0.5670.36 4.071.5</cell><cell>-76</cell><cell>0.274</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>AUC 3DCE (mm h)</cell><cell>2.0470.13</cell><cell></cell><cell>AUC IFM (mm h)</cell><cell>0.39970.089</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>PE</cell><cell></cell><cell></cell><cell>17.3% PE</cell><cell></cell><cell>10.7%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>AE (mm)</cell><cell></cell><cell></cell><cell>3.22 AE (mm)</cell><cell></cell><cell>4.50</cell></row><row><cell>CL init ¼</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 8</head><label>8</label><figDesc>Estimated parameters with their s.e. of the relationship between the area under the plasma concentration -time curve (AUC) of lactone and total topotecan and the percentage decrease in ANC and THRs in courses 1 and 2 of 23 patients</figDesc><table><row><cell></cell><cell cols="2">Topotecan lactone</cell><cell>Total topotecan</cell><cell></cell></row><row><cell></cell><cell>Estimate (7s.e.)</cell><cell>IOV</cell><cell>Estimate (7s.e.)</cell><cell>IOV</cell></row><row><cell>Decrease in ANC</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>E max (%)</cell><cell>100 fixed</cell><cell></cell><cell>100 fixed</cell><cell></cell></row><row><cell>AUC 50 (mm)</cell><cell>10578</cell><cell>22%</cell><cell>263723</cell><cell>29%</cell></row><row><cell>g</cell><cell>4.5471.14</cell><cell></cell><cell>4.1170.66</cell><cell></cell></row><row><cell>AE</cell><cell>0.4%</cell><cell></cell><cell>0.1%</cell><cell></cell></row><row><cell cols="2">Decrease in thrombocytes</cell><cell></cell><cell></cell><cell></cell></row><row><cell>E max (%)</cell><cell>100 fixed</cell><cell></cell><cell>100 fixed</cell><cell></cell></row><row><cell>AUC 50 (mm)</cell><cell>131711</cell><cell>41%</cell><cell>376741</cell><cell>64%</cell></row><row><cell>g</cell><cell>1.7770.58</cell><cell></cell><cell>1.0970.36</cell><cell></cell></row><row><cell>AE</cell><cell>-</cell><cell></cell><cell>8.9%</cell><cell></cell></row><row><cell cols="5">IOV ¼ interoccasion variability (random variability between courses 1 and 2);</cell></row><row><cell>E</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>max ¼ maximum effect; AUC 50 ¼ topotecan AUC associated with 50% of E max ; g ¼ Hill coefficient; AE ¼ additive error; s.e. ¼ standard error; ANC ¼ absolute neutrophil count; THR ¼ thrombocyte; AE ¼ additive error. British Journal of Cancer (2004) 90(12), 2268 -2277 &amp; 2004 Cancer Research UK</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2004) 90(12),2268 -2277  &amp; 2004  Cancer Research UK</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (2004) 90(12), 2268 -2277 &amp; 2004 Cancer Research UK Clinical</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Phase I dose escalation study of topotecan and ifosfamide in patients with refractory non-haematological malignancies</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Bienvenu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Soinet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Aghajanianh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Waltzman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Peyton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pezzuli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Spriggs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Assoc Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">223</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>abstract 871</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Boeckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Sheiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Beal</surname></persName>
+		</author>
+		<title level="m">NONMEM Users Guide -Part V: Introductory Guide</title>
+		<meeting><address><addrLine>San Francisco, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+		<respStmt>
+			<orgName>NONMEM Project Group, University of California</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The enigma of ifosfamide encephalopathy</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cerny</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ku ¨pfer A</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="679" to="681" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Topotecan in colorectal cancer: a phase II study of the EORTC early clinical trials group</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Creemers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gamucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vallentin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Dirix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schoffski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="844" to="846" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Population pharmacokinetic model for topotecan derived from phase I clinical trials</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Laub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Grochow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Baker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2459" to="2467" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Clinical pharmacokinetics of topotecan</title>
+		<author>
+			<persName><forename type="first">Vmm</forename><surname>Herben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Bokkel Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Pharmacokinet</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="85" to="102" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Continuous infusion of low-dose topotecan: pharmacokinetics and pharmacodynamics during a phase II study in patients with small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">Vmm</forename><surname>Herben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ten</forename><surname>Bokkel Huinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Schot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="411" to="419" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Kinetics of pharmacologic response</title>
+		<author>
+			<persName><forename type="first">Nhg</forename><surname>Holford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Sheiner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol Ther</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="143" to="166" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Simultaneous determination of ifosfamide and its metabolite ifosforamide mustard in human plasma by high-performance liquid chromatography</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kerbusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adr</forename><surname>Huitema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M-Jj</forename><surname>Jeuken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Derraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Tibben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Liq Chromatogr Relat Technol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2991" to="3010" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">High-performance liquid chromatographic determination of stabilized 4-hydroxyifosfamide in human plasma and erythrocytes</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kerbusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adr</forename><surname>Huitema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Kettenes-Van Den Bosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Keizer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ouwerkerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chromatogr B</title>
+		<imprint>
+			<biblScope unit="volume">716</biblScope>
+			<biblScope unit="page" from="275" to="284" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Evaluation of the autoinduction of ifosfamide metabolism by a population pharmacokinetic approach using NON-MEM</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kerbusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adr</forename><surname>Huitema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ouwerkerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Keizer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Matho ˆt Raa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Clin Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="555" to="561" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Determination of ifosfamide, 2-and 3-dechloroethylifosfamide using gas chromatography with nitrogen-phosphorus or mass spectrometry detection</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kerbusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M-Jj</forename><surname>Jeuken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Derraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jwg</forename><surname>Van Putten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adr</forename><surname>Huitema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ther Drug Monitor</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="613" to="620" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kerbusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Kraker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Keizer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jwg</forename><surname>Putten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hjm</forename><surname>Groen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rlh</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Pharmacokinetics and Pharmacodynamics of Ifosfamide and its Metabolites. Clin Pharmacokinet</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="41" to="62" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Influence of dose and infusion duration on the pharmacokinetics of ifosfamide and metabolites</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kerbusch</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Matho ˆt Raa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Keizer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Kaijser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Metab Disp</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="967" to="975" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Population pharmacokinetics of ifosfamide and its 2and 3-dechloroethylated and 4-hydroxylated metabolites in resistant small cell lung cancer patients</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kerbusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jwg</forename><surname>Van Putten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hjm</forename><surname>Groen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adr</forename><surname>Huitema</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Matho ˆt Raa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="53" to="61" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">&amp; 2004 Cancer Research UK Clinical escalation and pharmacodynamic study of topotecan in combination with cyclophosphamide in patients with refractory cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Murren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fedele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pizzorno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Belliveau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zelterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Burtness</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tocino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Flynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Beidler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="148" to="157" />
+			<date type="published" when="1997">1997. 2004</date>
+		</imprint>
+	</monogr>
+	<note>Dose-Phase I and pharmacokinetic study of topotecan and ifosfamide J Clin Oncol</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Phase II study of topotecan in patients with advanced non-small cell lung cancer previously untreated with chemotherapy</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Soler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Glisson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Kemp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kurie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Raber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Hong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="503" to="513" />
+			<date type="published" when="1996">1998. 1996</date>
+			<publisher>National Cancer Institute</publisher>
+			<pubPlace>Bethesda, MD, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Division of Cancer Treatment, National Cancer Institute Perez-</orgName>
+		</respStmt>
+	</monogr>
+	<note>Guidelines for Reporting Adverse Drug Reactions</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">High-performance liquid chromatographic determination of the novel anti-tumour drug topotecan and topotecan as the total of the lactone and carboxylate forms, in human plasma</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Doyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chromatogr B</title>
+		<imprint>
+			<biblScope unit="volume">668</biblScope>
+			<biblScope unit="page" from="107" to="111" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacologic study of topotecan: a novel topoisomerase I inhibitor</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Grochow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Hendricks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Ettinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Forastiere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Hurowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Sartorius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Lubejko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kaufmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Donehower</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="647" to="656" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Phase I clinical and pharmacokinetic study of combination chemotherapy with topotecan and ifosfamide in patients with progressive or relapsed solid tumors</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Merkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Gru ¨bner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ho ¨ffken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hoffmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cancer Res Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="313" to="318" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Holoxan s Product Monograph</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Telekes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hendrich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>ASTA Medica AG</publisher>
+			<pubPlace>Frankfurt, Germany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A phase I clinical and pharmacokinetic study of the topoisomerase I inhibitor topotecan (SK&amp;F 104864) given as an intravenous bolus every 21 days</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Wall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iii</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kneuper-Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shaffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'rourke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Clarck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mcvea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="337" to="345" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics and pharmacodynamics of topotecan administered daily for 5 days every 3 weeks</title>
+		<author>
+			<persName><forename type="first">Ljc</forename><surname>Van Warmerdam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Boer-Dennert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raa</forename><surname>Maes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="237" to="245" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">World Health Organization Phase I and pharmacokinetic study of topotecan and ifosfamide</title>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>World Health Organization</publisher>
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+	<note>WHO Handbook for Reporting Results of Cancer Treatment</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

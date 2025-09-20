@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">CLINICAL TRIAL REPORT</title>
+				<funder ref="#_pDMP5yK">
+					<orgName type="full">National Institutes of Health</orgName>
+				</funder>
+				<funder ref="#_bR9U4Je">
+					<orgName type="full">Fashion Footwear Association of New York/QVC Presents Shoes on Sale ä, and the University of Michigan General Clinical Research Center</orgName>
+				</funder>
+				<funder ref="#_F8SKQXH">
+					<orgName type="full">GlaxoSmithKline</orgName>
+				</funder>
+				<funder ref="#_kHc4Eq6">
+					<orgName type="full">National Institutes of General Medical Sciences</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2005-11-08">8 November 2005</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Anne</forename><forename type="middle">F</forename><surname>Schott Ae</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Rae</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Kent</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ae</forename><forename type="middle">J M</forename><surname>Griffith</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Michigan Comprehensive Cancer Center</orgName>
+								<address>
+									<postCode>C349 MIB 48109-0848</postCode>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Vered</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sterns</forename><surname>Ae</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Laurence</forename><forename type="middle">H</forename><surname>Baker</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Breast Oncology Program</orgName>
+								<orgName type="institution" key="instit1">Johns Hopkins School of Medicine</orgName>
+								<orgName type="institution" key="instit2">Sidney Kimmel Comprehensive Cancer Center</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Schott</surname></persName>
+							<email>aschott@umich.edu</email>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Pharmacology</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country>USA V. Sterns</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Michigan Comprehensive Cancer Center</orgName>
+								<address>
+									<postCode>C349 MIB 48109-0848</postCode>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ae</forename><forename type="middle">J M</forename><surname>Rae</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Pharmacology</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country>USA V. Sterns</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ae</forename><forename type="middle">D F</forename><surname>Hayes</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Pharmacology</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country>USA V. Sterns</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ae</forename><forename type="middle">L H</forename><surname>Baker</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Pharmacology</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country>USA V. Sterns</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ae</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Michigan Comprehensive Cancer Center</orgName>
+								<address>
+									<postCode>C349 MIB 48109-0848</postCode>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ae</forename><forename type="middle">D F</forename><surname>Rae</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Michigan Comprehensive Cancer Center</orgName>
+								<address>
+									<postCode>C349 MIB 48109-0848</postCode>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Hayes</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Michigan Comprehensive Cancer Center</orgName>
+								<address>
+									<postCode>C349 MIB 48109-0848</postCode>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">CLINICAL TRIAL REPORT</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2005-11-08">8 November 2005</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FCF655312676C950E31EFF4A4B31F30A</idno>
+					<idno type="DOI">10.1007/s00280-005-0132-2</idno>
+					<note type="submission">Received: 1 July 2005 / Accepted: 18 September 2005 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Purpose: This study sought to determine the maximum tolerated dose of flat-dosed vinorelbine in combination with capecitabine in patients with metastatic breast cancer. At the time of study initiation, it was anticipated that vinorelbine would be developed as an oral capsule. A flat dosing scheme of both drugs was used to facilitate development of the oral regimen, and because neither drug's clearance is associated with body surface area (BSA), pharmacokinetic and pharmacogenetic endpoints were explored. Experimental Design: Capecitabine was administered orally at 3,000 mg/day on days 1-14. The starting dose of vinorelbine was 20 mg intravenously on days 1 and 8 of a 21-day cycle. The vinorelbine dose was escalated until dose limiting toxicity (DLT). Vinorelbine pharmacokinetics were measured after the first dose. Patients underwent genotype analysis for polymorphisms in the CYP3A5 gene, and the erythromycin breath test (ERMBT), a phenotypic test of CYP3A enzyme activity. Results: Twenty five eligible patients were enrolled. Hematologic DLT was seen at the 50 and 45 mg vinorelbine doses; thus the recommended dose is 40 mg on days 1 and 8. Response rate was 30%, and disease stabilization rate was 64% (all dose levels included). Vinorelbine clearance was not associated with ERMBT, BSA, or age. CYP3A5 genotype in this small sample did not have an obvious relationship to clearance or toxicity. Conclusions: A non-BSA based dosing scheme of capecitabine and vinorelbine is safe and efficacious. BSA did not affect vinorelbine clearance. We recommend future studies with capecitabine and/or vinorelbine to compare the safety and efficacy of flat dosed versus BSA-dosed treatment.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The primary goals of treatment of metastatic breast cancer are: <ref type="bibr" target="#b0">(1)</ref> to improve quality of life by palliation of symptoms, and (2) to lengthen survival. These goals are most readily met in patients with hormone-responsive tumors by the use of low-toxicity endocrine therapies. Unfortunately, approximately 30% of breast cancers are hormone receptor negative, and eventually hormoneresponsive metastatic disease becomes refractory to endocrine manipulations. In hormone-refractory patients, combination chemotherapy results in higher response rates, longer times to progression <ref type="bibr" target="#b22">[23]</ref>, and in some studies prolonged overall survival <ref type="bibr" target="#b17">[18]</ref>, when compared to single agent therapy. Unfortunately, these benefits are often countered by increased toxicity and complexity of the regimen <ref type="bibr" target="#b15">[16]</ref>. An effective combination chemotherapy regimen that is both simple and has low toxicity would be of value.</p><p>Vinorelbine has been examined in combination with 3-5 day infusions of fluorouracil in advanced breast cancer <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>. This combination has been well tolerated, with response rates from 47-62% (both first line and previously treated patients) <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>. However, continuous infusions of 5-fluorouracil are inconvenient due to the need for a portable infusion pump and permanent venous access devices. Daily oral administration of chemotherapeutic agents is much more convenient for patients. Capecitabine, a nucleoside prodrug of 5-fluorouracil with excellent oral bioavailability, is active in patients with previously treated <ref type="bibr" target="#b2">[3]</ref> or untreated <ref type="bibr" target="#b18">[19]</ref> metastatic breast cancer. The tolerability of vinorelbine and capecitabine as single agents, their non-overlapping toxicity profiles, and the previously demonstrated efficacy of vinorelbine combined with continuous infusion of fluorouracil makes this an attractive drug combination to evaluate further in metastatic cancer. At the time we initiated this study, it was anticipated that vinorelbine, which has an excellent bioavailability profile, was going to be developed as an oral capsule as well.</p><p>Normalizing drug doses to body surface area (BSA) is the traditional approach to oncology drug dosing, but in many cases it is not scientifically supportable <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b21">22]</ref>. This dosing approach has been validated for drugs formulated in vehicles that cause drug volume distribution to be similar to total blood volume (such as paclitaxel solubilized in polyoxyethylated castor oil) <ref type="bibr" target="#b23">[24]</ref>. In these cases, BSA is possibly acting as a surrogate for drug volume of distribution (Vss), since Vss approximates total blood volume, which approximates BSA <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b29">29]</ref>.</p><p>It has been demonstrated that capecitabine clearance is unrelated to BSA <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">4]</ref>.Variability in capecitabine pharmacokinetics is likely to be primarily due to variability in the activity of the enzymes involved in capecitabine metabolism, and not body size <ref type="bibr" target="#b20">[21]</ref>. Likewise, clearance of drugs primarily metabolized by the liver, such as vinorelbine, is not correlated with BSA <ref type="bibr" target="#b21">[22]</ref>. Plasma clearance of vinorelbine is high, approaching hepatic blood flow in humans, and its volume of distribution is large, indicating extensive extravascular distribution <ref type="bibr" target="#b26">[26]</ref>. For these reasons, we hypothesized that BSA-based dosing of capecitabine and vinorelbine was unnecessary. Thus, with the goal of increasing safety and convenience, this study utilized a flat dosing scheme of both capecitabine and vinorelbine. The dose of vinorelbine was escalated based on a pharmacodynamic toxicity, myelosuppression.</p><p>The metabolism of vinorelbine has been shown to be mediated by hepatic cytochrome P450 isoenzymes in the CYP3A subfamily. <ref type="bibr" target="#b9">[10]</ref> This subfamily plays a dominant role in the metabolism of more drugs than does any other biotransformation enzyme. However, CYP3A expression varies due to environmental stimuli (such as smoking, drug intake or diet), by disease state (such as hepatic dysfunction), and by genetic mutations. Genetic variations in the CYP3A4 gene have not been shown to be related to differences in CYP3A-dependent drug clearance. However, polymorphisms in CYP3A5 have been shown to cause variation in metabolism of such drugs as cyclosporine <ref type="bibr" target="#b16">[17]</ref> and midazolam. <ref type="bibr" target="#b4">[5]</ref> The mutant allele, CYP3A5*3 <ref type="bibr" target="#b7">[8]</ref> is associated with low CYP3A5 protein and this allele frequency varies from 50% in African Americans to 90% in Caucasians. <ref type="bibr" target="#b11">[12]</ref> As exploratory endpoints, CYP3A5 genotype analysis and vinorelbine pharmacokinetics were performed, and vinorelbine clearance was correlated with age, BSA, and the erythromycin breath test (ERMBT). The ER-MBT has previously been shown to predict steady state trough blood levels of drugs which are CYP3A substrates <ref type="bibr" target="#b10">[11]</ref>. We hypothesized that homozygosity for CYP3A5*3 and low ERMBT would be associated with reduced clearance of vinorelbine.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Entry criteria</head><p>Eligible patients had metastatic breast cancer, with measurable or evaluable disease by RECIST criteria. Karnofsky performance status was ‡70, and patients had normal hematologic, renal, and hepatic function defined as ANC&gt;1500, platelet count&gt;100 K, calculated creatinine clearance&gt;60 ml/min, AST/ALTPatients were excluded if they had previous treatment with continuous infusion or daily oral administration of fluorouracil, capecitabine, or vinca alkaloids and if they had baseline Grade 2 or greater peripheral neuropathy, or if they were pregnant or nursing. Patients who required concurrent treatment within 7 days prior to initial vinorelbine with drugs known to induce or inhibit CYP3A activity were also ineligible. Excluded drugs included midazolam, anti-mycotic agents (ketoconazole and related compounds), macrolide antibiotics (erythromycin and related compounds), nifedipine, anti-seizure drugs, H2 blockers, grapefruit juice, and rifampin.All patients signed an informed consent regarding the experimental nature of this therapy after approval by the University of Michigan Institutional Review Board and in accordance with an assurance filed with and approved by the Department of Health and Human Services.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment plan</head><p>This study was a Phase I/II study of the combination of oral capecitabine and weekly intravenous vinorelbine. Eligible patients were identified from the patient population of the University of Michigan Health System.</p><p>Both agents were given flat doses regardless of BSA. All chemotherapy was delivered on a 21-day cycle. Capecitabine was administered orally at 1,500 mg twice daily (3000 mg/day) on days 1-14. The starting dose of vinorelbine was 20 mg administered intravenously weekly on days 1 and 8. The dose was escalated in 10 mg increments until dose limiting toxicity (DLT), which was defined as Grade 3 or 4 toxicities (non-hematologic), or Grade 3 or 4 thrombocytopenia at any time during the first cycle. Neutropenia was considered dose-limiting if it reached Grade 3 or 4 on day 21 in the first cycle. Once DLT was defined, an intermediate dose level (À5 mg) was tested, and if more than one-sixth of the patients had DLT, the next lower dose level was used. The recommended Phase II dose was the dose at which one of six or fewer patients experienced DLT. Subsequently, eight additional patients were treated at the Phase II dose in order to increase the sample size for secondary analyses.</p><p>Prior to study treatment, the ERMBT was administered in the outpatient setting within 2 weeks of the first dose of vinorelbine, performed as previously described. <ref type="bibr" target="#b27">[27]</ref> Patients had blood drawn for pharmacokinetic analysis after the first administration of vinorelbine. Blood was collected before infusion, immediately at the end of infusion, and at 20, 45, 75 min after infusion, then at 2, 3, 4, 6, 8 12, 24, 36, 48, and 72 h. Blood samples were analyzed for vinorelbine with a liquid chromatography with mass spectrometry method as described previously. <ref type="bibr" target="#b25">[25]</ref> Pharmacokinetic parameters were calculated using standard non-compartmental methods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CYP3A5 Genotype determination</head><p>DNA was extracted from whole blood using the Qiagen DNeasyÒ Tissue kit and the QIAampÒ DNA Blood Midi kit (Qiagen Inc., Valencia, CA, USA), respectively, according the manufacture's instructions and the yield was determined by spectrophotometry (Beckman DU 640; Beckman Coulter, Inc., Fullerton, CA, USA). DNA samples were assayed for the common CYP3A5*3 genetic polymorphism using polymerase chain reactionrestriction fragment length polymorphism (PCR-RFLP) assay as described previously <ref type="bibr" target="#b8">[9]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose escalation and toxicity</head><p>A total of 25 eligible patients were enrolled; all were Caucasian with 24 females and 1 male. Patient characteristics are described in Table <ref type="table">1</ref>. The flat-dosed capecitabine was well tolerated, as there were no instances of Grade 3 hand-foot syndrome or diarrhea. Three patients had a dose reduction for Grade 2 capecitabine toxicity, including hand-foot syndrome and diarrhea. There was no apparent relationship between BSA and necessity for dose reduction of capecitabine.</p><p>The vinorelbine dose was escalated as described in Table <ref type="table">2</ref>. All 25 patients completed at least two cycles of treatment, and no patient discontinued therapy due to toxicity. Three patients were treated at the 20 , 30 , and 40 mg dose levels with no DLT. At both the 50 mg and 45 mg dose levels, there were two hematologic DLTs (Table <ref type="table">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>Twenty of 25 (80%) patients had disease that was measurable by RECIST criteria. Overall, six of the patients with measurable disease responded [30, 95% CI (11.9-54.3)], with one complete response. Nine of 25 patients progressed within the first 12 weeks of treatment (36, 95% CI [18.0-57.5]), and the remaining 16 patients had stable disease or better for over 12 weeks, with a clinical benefit rate of 64, 95% CI (42.5-82.0).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>Pharmacokinetic analysis of vinorelbine was performed on the last 13 patients enrolled in the study, including 5 patients treated at 45 mg/week, and 8 patients treated at 40 mg/week. The mean vinorelbine clearance of the</p><p>Table 2 Genotype, ERMBT, body surface area (BSA), and dose limiting toxicity (DLT) Patient Genotype ERMBT BSA (m 2 ) Vinorelbine dose (mg) DLT 1 NA 3.01 1.69 20.0 none 2 *3/*3 1.44 1.75 20.0 none 3 wt/*3 2.71 1.62 20.0 none 4 *3/*3 2.83 1.90 30.0 none 5 wt/*3 2.89 1.73 30.0 none 6 *3/*3 3.74 1.65 30.0 none 7 wt/*3 3.09 1.59 40.0 none 8 wt/*3 1.58 2.40 40.0 none 9 *3/*3 3.48 1.99 40.0 none 10 *3/*3 3.81 1.75 50.0 Low ANC 11 *3/*3 4.19 2.03 50.0 none 12 *3/*3 1.77 1.78 50.0 Low ANC 13 *3/*3 3.05 1.72 45.0 none 14 wt/*3 3.32 1.74 45.0 none 15 *3/*3 2.35 1.69 45.0 none 16 *3/*3 2.06 1.70 45.0 Low ANC 17 *3/*3 2.07 1.78 45.0 Low ANC 18 *3/*3 2.75 1.56 40.0 none 19 *3/*3 3.03 1.72 40.0 none 20 *3/*3 1.90 2.29 40.0 none 21 *3/*3 2.87 1.60 40.0 none 22 *3/*3 0.86 2.12 40.0 none 23 *3/*3 3.15 1.67 40.0 none 24 *3/*3 1.62 1.77 40.0 none 25 *3/*3 2.57 1.60 40.0 none Table 1 Patient characteristics Number of eligible patients 25 Average patient age (years) 50 (29-69) Number with measurable disease 20 (80%) Number: prior chemotherapies for metastatic disease 0 10 (40%) 1 12 (48%) 2 3 (12%) Prior anthracycline 23 (92%) Prior taxane 25 (100%) Hormone receptor status Positive 16 (64%) Negative 9 (36%)</p><p>population was 57.7 l/h (SD 12.7 l/h), similar to that reported in the literature (Table <ref type="table" target="#tab_1">3</ref>) <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b26">26]</ref>. Clearance in l/hr was found to be unrelated to BSA, age, or ERMBT (Fig. <ref type="figure" target="#fig_0">1</ref>). Vinorelbine was found to have a large volume of distribution at steady state (Vss) of 1,428 l (SD 510 l), as previously reported. BSA showed no relationship to Vss of vinorelbine (Fig. <ref type="figure" target="#fig_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CYP3A5 genotype</head><p>All patients were genotyped for the common CYP3A5*3 polymorphism. None of the patients were homozygous wild-type, while 20% (n = 5) were heterozygous CYP3A5*1/*3 and 80% (n = 20) were homozygous variant CYP3A5*3/*3. the results consistent with known allelic frequencies <ref type="bibr" target="#b10">[11]</ref>. Low ERMBT result did not predict heterozygous CYP3A5 genotype (Fig. <ref type="figure" target="#fig_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Our data demonstrate the feasibility and safety of flat dosing of capecitabine and vinorelbine in a typical metastatic breast cancer population. For this combination therapy we recommend flat-dose capecitabine 1,500 mg twice daily plus vinorelbine 40 mg on day 1 and day 8 as being efficacious and tolerable. In comparison with other trials of this combination, the median BSA of our patient population was 1.74 m 2 , and the average per-meter-squared dose of capecitabine delivered was 1,724 mg/m 2 on days 1-14 (range 1,250-1887 mg/m 2 ). The recommended dose of vinorelbine in our study averages 23 mg/m 2 on days 1 and 8, of a 21day cycle. Three Phase I studies of vinorelbine and capecitabine combination therapy in metastatic breast cancer have been published. Two of the studies ultimately recommended doses of capecitabine of 2,000 mg/ m 2 /d and vinorelbine 25 mg/m 2 on days 1 and 8 <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b28">28]</ref>; the other study in elderly patients recommended capecitabine 1,250 mg/m 2 /d and vinorelbine 20 mg/m 2 on days 1 and 8. <ref type="bibr" target="#b5">[6]</ref> Our patient population primarily included patients being treated first-or second-line with chemotherapy, but all had received prior taxanes and most had also received prior anthracyclines, either in the metastatic or adjuvant setting. The historical data would suggest a 20%-30% response rate from single agent capecitabine in this population <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b18">19]</ref>. The observed 30% response rate and 65% disease stabilization rate compares favorably to the historical sample, despite the escalating doses of vinorelbine received by the patients, with minimal hematologic or non-hematologic toxicity.</p><p>The a priori hypothesis was that there would be no association between toxicity of the flat-dosed combination regimen with BSA, and this hypothesis is supported by our data. We also found no association between BSA and clearance of vinorelbine, as has been previously shown with capecitabine <ref type="bibr" target="#b3">[4]</ref>. This is not surprising, since the impact of BSA on the variability in drug pharmacokinetics is more likely to be apparent for drugs where the distribution is similar to total blood volume (and thus to BSA).</p><p>Despite the fact the vinorelbine is largely metabolized by P450 enzymes of the CYP3A subfamily <ref type="bibr" target="#b9">[10]</ref>, there was also no association noted between the ERMBT, vinorelbine clearance, or toxicity. This observation suggests that the ERMBT would not be a useful test in tailoring the dose of vinorelbine to an individual's metabolic phenotype, in contrast to our finding in a prior study of the ERMBT and docetaxel <ref type="bibr" target="#b6">[7]</ref>.</p><p>Only five patients in our population were heterozygous for the CYP3A5*3 allele while the remainder were homozygous CYP3A5*3. The CYP3A5*3 allele codes for an aberrantly spliced mRNA with a premature stop codon, therefore, patients with two CYP3A5*3 alleles exhibit a nearly complete lack of CYP3A5 protein expression <ref type="bibr" target="#b10">[11]</ref>. We hypothesized that increased vinorelbine clearance and decreased toxicity would correlate with homozygosity for the wild-type CY3A5 allele (*1) and less so with CYP3A5*1/*3. Since our study had n=0 homozygous wild-type CYP3A5*1 and only n=5 heterozygous CYP3A5*3 patients, the lack of any genotype/phenotype association makes a false negative result highly likely. A larger study is needed to confirm these results. In conclusion, this study demonstrates that a non-BSA-based dosing scheme of capecitabine and vinorelbine is safe and efficacious. Based on these data, we recommend future studies with capecitabine and/or vinorelbine to compare the safety and efficacy of flat-dosed versus BSA-dosed treatment. We cannot determine from this Phase I study whether this combi-nation therapy is more effective than single-agent sequential vinorelbine or capecitabine, and a randomized Phase III study would have to be performed in order to make this treatment a standard recommendation <ref type="bibr" target="#b0">[1]</ref> If vinorelbine is ever developed as an oral formulation, further study of this combination therapy is clearly indicated.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Lack of relationship of Erythromycin breath test (ERMBT) (a) age or (b) body surface area (c) to vinorelbine clearance</figDesc><graphic coords="5,51.02,46.77,493.44,319.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Volume of distribution of vinorelbine is unrelated to body surface area (BSA)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Vinorelbine pharmacokinetics in the study population</figDesc><table><row><cell></cell><cell>Vinorelbine</cell><cell>AUC (0-t)</cell><cell>AUC (0-¥)</cell><cell>CL</cell><cell>C max</cell><cell>T max</cell><cell>T 1/2</cell><cell>Vss</cell></row><row><cell></cell><cell>dose (mg)</cell><cell>(h*ng/ml)</cell><cell>(h*ng/ml)</cell><cell>(l/h)</cell><cell>(ng/ml)</cell><cell>(h)</cell><cell>(h)</cell><cell>(l)</cell></row><row><cell></cell><cell>45.0</cell><cell>900.0</cell><cell>936.1</cell><cell>48.1</cell><cell>860.6</cell><cell>0.25</cell><cell>19.1</cell><cell>876.0</cell></row><row><cell></cell><cell>45.0</cell><cell>649.1</cell><cell>693.4</cell><cell>64.9</cell><cell>1000.6</cell><cell>0.15</cell><cell>31.9</cell><cell>1487.5</cell></row><row><cell></cell><cell>45.0</cell><cell>604.0</cell><cell>643.8</cell><cell>69.9</cell><cell>1073.0</cell><cell>0.15</cell><cell>35.6</cell><cell>1628.5</cell></row><row><cell></cell><cell>45.0</cell><cell>853.8</cell><cell>878.4</cell><cell>51.2</cell><cell>1185.8</cell><cell>0.17</cell><cell>23.6</cell><cell>885.7</cell></row><row><cell></cell><cell>45.0</cell><cell>762.3</cell><cell>806.8</cell><cell>55.8</cell><cell>918.5</cell><cell>0.17</cell><cell>33.0</cell><cell>1219.8</cell></row><row><cell></cell><cell>40.0</cell><cell>941.9</cell><cell>975.9</cell><cell>41.0</cell><cell>1516.7</cell><cell>0.17</cell><cell>25.2</cell><cell>744.7</cell></row><row><cell>AUC (0-¥) systemic exposure; CL mean plasma clearance; C max maximum concentration; T max time to maximum con-centration; t 1/2 terminal phase half-life; Vss volume of distri-bution at steady state</cell><cell>40.0 40.0 40.0 40.0 40.0 40.0 40.0</cell><cell>625.5 599.0 959.6 770.2 679.7 395.7 559.5</cell><cell>665.9 641.8 1002.0 850.3 767.3 440.7 602.8</cell><cell>60.1 62.3 39.9 47.0 52.1 90.8 66.4</cell><cell>598.1 633.7 965.3 294.0 1410.9 360.8 670.5</cell><cell>0.27 0.17 0.18 0.25 0.18 0.18 0.18</cell><cell>26.2 31.3 25.3 26.6 53.9 46.6 31.8</cell><cell>1873.8 1553.6 850.2 1330.6 1677.0 2777.6 1657.6</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowlegements This research was supported (in part) by the <rs type="funder">National Institutes of Health</rs> through the <rs type="grantName">University of Michigan's Cancer Center Support Grant</rs> (<rs type="grantNumber">5 P30 CA46592</rs>) and <rs type="funder">National Institutes of General Medical Sciences</rs> grant <rs type="grantNumber">GM61373</rs> (<rs type="grantNumber">UO1</rs>). Additional support was provided by <rs type="institution">GlaxoSmithKline</rs>, the <rs type="funder">Fashion Footwear Association of New York/QVC Presents Shoes on Sale ä, and the University of Michigan General Clinical Research Center</rs> Grant <rs type="grantNumber">M01 RR000042</rs>. We would like to acknowledge the contribution of <rs type="person">A. Benjamin Suttle, Ph.D.</rs>, Clinical Pharmacology and <rs type="person">Discovery Medicine</rs>, <rs type="funder">GlaxoSmithKline</rs>, <rs type="person">Research Triangle Park</rs>, <rs type="person">North Carolina</rs>, for the pharmacokinetic analysis. Special thanks to <rs type="person">Janet Tarolli</rs> for her assistance in preparing this manuscript.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_pDMP5yK">
+					<idno type="grant-number">5 P30 CA46592</idno>
+					<orgName type="grant-name">University of Michigan&apos;s Cancer Center Support Grant</orgName>
+				</org>
+				<org type="funding" xml:id="_kHc4Eq6">
+					<idno type="grant-number">GM61373</idno>
+				</org>
+				<org type="funding" xml:id="_bR9U4Je">
+					<idno type="grant-number">UO1</idno>
+				</org>
+				<org type="funding" xml:id="_F8SKQXH">
+					<idno type="grant-number">M01 RR000042</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Evaluation of combination vs. sequential cytotoxic chemotherapy in the treatment of advanced breast cancer</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Vaughn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Al-Sarraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Vaitkevicius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="513" to="518" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Role of body surface area in dosing of investigational anticancer agents in adults</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Donehower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jhm</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Grochow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sparreboom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JNCI Cancer Spect</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="1883" to="1888" />
+			<date type="published" when="1991">2002. 1991-2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Multicenter phase II study of capecitabine in paclitaxelrefractory metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Buzdar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Lorusso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kuter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Osterwalder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">U</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Griffin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Oncology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="485" to="493" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Bioequivalence to two tablet formulations of capecitabine and exploration of age, gender, body surface area, and creatinine clearance as factors influencing systemic exposure in cancer patients</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cassidy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Steward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jodrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Baken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goggin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Roos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bush</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wedidekamm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Reigner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother &amp; Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="453" to="460" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Explaining interindividual variability of docetaxel pharmacokinetics and pharmacodynamics in Asians through phenotyping and genotyping strategies</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schuetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Ong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="3683" to="3690" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Swiss Group of Clinical Cancer Research (2004) Capecitabine and vinorelbine in elderly patients (&gt;or=65 years) with metastatic breast cancer: a phase I trial (SAKK 25/99)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thurlimann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Pagani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aebi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rauch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ballabeni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rufener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Castiglione-Gertsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goldhirsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1760" to="1765" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The effect of an individual&apos;s cytochrome CYP3A4 activity on docetaxel clearance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hirth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Watkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Strawderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Baker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1255" to="1258" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hustert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haberl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Burk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wolbold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Q</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Nuessler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Neuhaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Klattig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Eiselt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zibat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brockmoller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Halpert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">M</forename><surname>Zanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wojnowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacogenetics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="773" to="779" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>The genetic determinants of the CYP3A5 polymorphism</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">CYP2D6 genotype, antidepressant use, and tamoxifen metabolism during adjuvant breast cancer treatment</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Desta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Stearns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Skaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Storniolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Araba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Blanchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ullmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hayden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lemler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Weinshilboum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Flockhart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="30" to="39" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">CYP3A4 is mainly responsibile for the metabolism of a new vinca alkaloid, vinorelbine, in human liver microsomes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kajita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kuwabara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kobayashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Metab Dispos</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1121" to="1127" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Sequence diversity in CYP3A promoters and characterization of the genetic basis of polymorphic CYP3A5 expression</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kuehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Assem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schuetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Watkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Daly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wrighton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maurel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Relling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Venkataramanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Strom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thummel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Boguski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schuetz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Genet</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="383" to="391" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Genetic contribution to variable human CYP3A-mediated metabolism</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Lamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Schuetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Thummel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Drug Deliv Rev</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="1271" to="1294" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Clinical pharmacokinetics of vinorelbine</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Leveque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jehl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Pharmacokinet</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="184" to="197" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A phase I study of capecitabine in combination with vinorelbine in advanced breast cancer</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lorusso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Crucitta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Silvestris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Guida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Misino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Latorre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Lena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Breast Cancer</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="138" to="141" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics of vinorelbine in man</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lachatre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Debord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Eichler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bonnaud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nicot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Clin Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="545" to="547" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Combination versus sequential single-agent therapy in metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Minckwitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Seidman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncologist</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="13" to="19" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">CYP3A5 polymorphism and the ethnic differences in cyclosporine pharmacokinetics in healthy subjects</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Ellingrod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mcleod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ther Drug Monit</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="524" to="528" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Superior survival with capecitabine plus docetaxel combination therapy in anthracycline-pretreated patients with advanced breast cancer: phase III trial results</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>O'shaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vukelja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Moiseyenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Ayoub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cervantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fumoleau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Lui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mauriac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Hazel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="2812" to="2823" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Randomized, open-label, phase II trial of oral capecitabine (Xeloda) vs. a reference arm of intravenous CMF (cyclophosphamide, methotrexate and 5-fluorouracil) as firstline therapy for advanced/metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Oshaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Moiseyenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mauriac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Osterwalder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">U</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laws</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1247" to="1254" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Body-surface area as a basis for dosing of anticancer agents: science, myth, or habit?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Ratain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="2297" to="2298" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Clinical pharmacokinetics of capecitabine</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reigner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blesch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Weidekamm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Pharmacokinet</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="85" to="104" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Body surface area as a determinant of pharmacokinetics and drug dosing</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sawyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Ratain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest New Drugs</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="171" to="177" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Phase III trial of doxorubicin, paclitaxel, and the combination of doxorubicin and paclitaxel as front-line chemotherapy for metastatic breast cancer: an intergroup trial (E1193)</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Sledge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Neuberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bernardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Ingle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Martino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rowinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Wood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="588" to="592" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Randomized cross-over evaluation of body-surface area-based dosing versus flat-fixed dosing of paclitaxel.[see comment]</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Smorenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sparreboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bontenbal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stoter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nooter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="197" to="202" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">3 ERMBT results in the heterozygous and homozygous mutant genotypes seen</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">New sensitive liquid chromatography method coupled with tandem mass spectrometric detection for the clinical analysis of vinorelbine and its metabolites in blood, plasma, urine and faeces</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vanheugen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Degraeve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zorza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Puozzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chromatogr A</title>
+		<imprint>
+			<biblScope unit="volume">926</biblScope>
+			<biblScope unit="page" from="11" to="20" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The clinical pharmacokinetics of vinorelbine (Navelbine)</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Wargin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Lucas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin in Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="21" to="27" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Noninvasive tests of CYP3A enzymes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Watkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacogenetics</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="171" to="184" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Phase I/II study of capecitabine and vinorelbine in pretreated patients with metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Welt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Von Minckwitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Oberhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Borquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schleucher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Loibl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Harstrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaufmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seeber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Vanhoefer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="64" to="69" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">On a simple relation between blood volume and body surface area</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wolner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Domanig</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elkadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Helmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Romer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Z Kreislaufforsch</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="79" to="84" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I dose escalation and pharmacokinetic study of pluronic polymer-bound doxorubicin (SP1049C) in patients with advanced cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2004-05-04">4 May 2004</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">S</forename><surname>Danson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Christie Hospital NHS Trust</orgName>
+								<address>
+									<addrLine>Wilmslow Road</addrLine>
+									<postCode>M20 4BX</postCode>
+									<settlement>Withington Manchester</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><surname>Ferry</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Queen Elizabeth University Hospital Trust</orgName>
+								<address>
+									<postCode>B15 2TH</postCode>
+									<settlement>Birmingham</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">V</forename><surname>Alakhov</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Supratek Pharma Inc</orgName>
+								<address>
+									<addrLine>531 Blvd des Prairies, Build. 18</addrLine>
+									<postCode>H7B 1B7</postCode>
+									<settlement>Laval</settlement>
+									<region>Quebec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Margison</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Christie Hospital NHS Trust</orgName>
+								<address>
+									<addrLine>Wilmslow Road</addrLine>
+									<postCode>M20 4BX</postCode>
+									<settlement>Withington Manchester</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><surname>Kerr</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Queen Elizabeth University Hospital Trust</orgName>
+								<address>
+									<postCode>B15 2TH</postCode>
+									<settlement>Birmingham</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><surname>Jowle</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Christie Hospital NHS Trust</orgName>
+								<address>
+									<addrLine>Wilmslow Road</addrLine>
+									<postCode>M20 4BX</postCode>
+									<settlement>Withington Manchester</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Brampton</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Cancer Research UK</orgName>
+								<address>
+									<postBox>PO Box 123</postBox>
+									<postCode>WC2A 3PX</postCode>
+									<settlement>London</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">G</forename><surname>Halbert</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Pharmaceutical Studies</orgName>
+								<orgName type="laboratory">Cancer Research UK Formulation Unit</orgName>
+								<orgName type="institution" key="instit1">University of Strathclyde</orgName>
+								<orgName type="institution" key="instit2">Royal College Building</orgName>
+								<address>
+									<addrLine>204 George Street</addrLine>
+									<postCode>G1 1XW</postCode>
+									<settlement>Glasgow</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">M</forename><surname>Ranson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Christie Hospital NHS Trust</orgName>
+								<address>
+									<addrLine>Wilmslow Road</addrLine>
+									<postCode>M20 4BX</postCode>
+									<settlement>Withington Manchester</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I dose escalation and pharmacokinetic study of pluronic polymer-bound doxorubicin (SP1049C) in patients with advanced cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2004-05-04">4 May 2004</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C24B27751D18D945B749D70578195186</idno>
+					<idno type="DOI">10.1038/sj.bjc.6601856</idno>
+					<note type="submission">Received 19 November 2003; revised 15 March 2004; accepted 16 March 2004;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>SP1049C</term>
+					<term>doxorubicin</term>
+					<term>polymer</term>
+					<term>pharmacokinetics</term>
+					<term>phase I</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>SP1049C is a novel anticancer agent containing doxorubicin and two nonionic pluronic block copolymers. In preclinical studies, SP1049C demonstrated increased efficacy compared to doxorubicin. The objectives of this first phase I study were to determine the toxicity profile, dose-limiting toxicity, maximum tolerated dose and pharmacokinetic profile of SP1049C, and to document any antitumour activity. The starting dose was 5 mg m À2 (doxorubicin content) as an intravenous infusion once every 3 weeks for up to six cycles. A total of 26 patients received 78 courses at seven dose levels. The dose-limiting toxicity was myelosuppression and DLT was reached at 90 mg m À2 . The maximum tolerated dose was 70 mg m À2 and is recommended for future trials. The pharmacokinetic profile of SP1049C showed a slower clearance than has been reported for conventional doxorubicin. Evidence of antitumour activity was seen in some patients with advanced resistant solid tumours. Phase II trials with this agent are now warranted to further define its antitumour activity and safety profile.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Doxorubicin is one of the most widely used and active anticancer agents. Its clinical usefulness is limited by inherent or induced drug resistance and by toxicity considerations. Several approaches have been used to try and improve the therapeutic efficacy and toxicity profile of doxorubicin including the development of anthracycline analogues and the incorporation of anthracyclines into drug delivery vehicles, such as liposomes and polymeric drug conjugates <ref type="bibr" target="#b15">(Ranson et al, 1997;</ref><ref type="bibr" target="#b18">Vasey et al, 1999)</ref>. SP1049C represents a novel approach in which doxorubicin is formulated with two nonionic pluronic block copolymers, Pluronic L61 and Pluronic F127 (Figure <ref type="figure" target="#fig_0">1</ref>) <ref type="bibr" target="#b3">(Collet, 2003)</ref>. Doxorubicin is noncovalently incorporated into micelles with the block copolymers, and in standard XTT in vitro cytotoxicity assays <ref type="bibr" target="#b19">(Venne et al, 1996)</ref>, SP1049C exhibits greater efficacy than doxorubicin against a variety of drug-resistant tumour cell lines. This improved efficacy of SP1049C in vitro appears to be due to increase in cellular drug influx, inhibition of energy-dependent drug efflux and changes in intracellular drug trafficking <ref type="bibr" target="#b19">(Venne et al, 1996)</ref>. Compared to doxorubicin, SP1049C demonstrated superior antitumour activity in vivo in multiple animal tumour models and activity in doxorubicin-resistant settings <ref type="bibr">(Batrakova et al, 1996;</ref><ref type="bibr" target="#b0">Alakhov et al, 1999)</ref>. The plasma pharmacokinetics and tissue distribution of doxorubicin when administered as SP1049C have been studied in normal and tumour-bearing mice. Increased tissue area under the curves (AUC) were seen in tumour and brain with SP1049C compared to those seen with equivalent doses of free doxorubicin. Area under the curves and maximal tissue concentrations were similar for SP1049C and free doxorubicin in liver, kidney, heart, lung and plasma. SP1049C exhibited similar toxicology to conventional doxorubicin in toxicology studies in mice and rats <ref type="bibr" target="#b0">(Alakhov et al, 1999)</ref>. This is the first clinical trial of SP1049C. The primary objectives were to determine the toxicity profile, dose-limiting toxicity (DLT), maximum-tolerated dose (MTD) and pharmacokinetic profile of SP1049C. The secondary objective was to evaluate the antitumour effects of SP1049C in patients with advanced cancer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inclusion and exclusion criteria</head><p>Patients with histologically proven cancer refractory to conventional treatment or for which no suitable conventional therapy existed were considered for entry into this study. Patients were required to be X18 years of age with a Karnofsky Performance Status of 80 or greater and an expected survival of 12 weeks or more. They needed adequate haematological and biochemical function with haemoglobin X10.0 g dl À1 , total white blood cells (WBC) X3.0 Â 10 9 l À1 , absolute neutrophil count (ANC) X2.0 Â 10 9 l À1 and platelets X100 Â 10 9 l À1 , and serum creatinine p130 mmol l À1 (if 4130 mmol l À1 then creatinine clearance must be 450 ml min À1 ), serum bilirubin p20 mmol l À1 , serum AST or ALT p2 Â upper limit of the normal. A left ventricular ejection fraction (LVEF) X55% by multinucleated gated angiography (MUGA) was also required.</p><p>Patients were excluded if they fulfilled any of the following: major thoracic or abdominal surgery in the preceding 4 weeks; chemotherapeutic agents, experimental drugs or radiation therapy (other than local radiotherapy not involving bone marrow reserves) within the 4 weeks prior to therapy; mitomycin C or nitrosoureas within the previous 6 weeks; any persistent toxic manifestations of previous treatments (except alopecia) must have resolved, or be no greater than Grade 1 and have been stable for over 4 weeks prior to entry; active uncontrolled infection, or other significant nonmalignant intercurrent illness; pregnant or lactating women (negative serum pregnancy test prior to enrolment in those women with child-bearing potential and all patients were required to use medically approved contraceptive precautions during the study and for 4 weeks afterwards); known or suggested central nervous system metastases; known hypersensitivity to anthracycline therapy; prior radiotherapy to more than one-third of haemopoietic sites; clinically significant hepatic disease other than involvement by tumour; history of cardiac disease with New York State Heart Association Class II level or greater or myocardial infarction within the past year; any other condition which in the Investigator's opinion would not make the patient a good candidate for the study.</p><p>The study was conducted under the auspices of the Cancer Research Campaign (now Cancer Research UK) in accordance with the principles of the International Conference on Harmonisation of Good Clinical Practice (ICH-GCP) guidelines and the Declaration of Helsinki. The trial protocol was approved by the Local Research Ethics Committee covering each trial centre and all patients gave informed written consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>SP1049C carrier solution was supplied by Supratek Pharma Inc. (Canada) in 100 ml vials containing Pluronic L61 (0.25% w v À1 ) and Pluronic F127 (2% w v À1 ) in 0.9% sodium chloride for injection. Doxorubicin hydrochloride from Pharmacia Upjohn was provided in 10 and 50 mg vials. In total, 25 ml (or 5 ml for smaller doses) of SP1049C carrier solution for intravenous (i.v.) injection was used to reconstitute 50 mg (or 10 mg for smaller doses) vials of doxorubicin hydrochloride under aseptic conditions to provide a solution of doxorubicin hydrochloride 2.0 mg ml À1 in carrier solution. The reconstituted SP1049C contained 2.0 mg ml À1 doxorubicin hydrochloride, 2.5 mg ml À1 Pluronic L61 and 20 mg ml À1 Pluronic F127 in 0.9% sodium chloride. The pluronic carrier solution and reconstituted SP1049C were stored at 41C.</p><p>Reconstituted SP1049C stored at 41C was used within 24 h of reconstitution.</p><p>SP1049C was administered via a peripheral i.v. cannula at a rate of 2 ml min À1 . The starting dose (expressed as doxorubicin content) was 5 mg m À2 , which was approximately a tenth of the MTD in the mouse and rat toxicology studies. An i.v. infusion of SP1049C was given once every 3 weeks for a maximum of six cycles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity and response evaluation</head><p>Pretreatment evaluation included a complete medical history and physical examination as well as full blood count, biochemical profile, routine urinalysis, 12-lead electrocardiogram (ECG) and MUGA. Female subjects with child-bearing potential also underwent a pregnancy test. A baseline chest radiograph and appropriate radiology to evaluate the disease were performed. Tumour markers were also measured if applicable.</p><p>Safety was evaluated by recording signs and symptoms during the study period, monitoring vital signs, urinalysis, ECG, MUGA (at baseline, after every two courses and at withdrawal) and laboratory tests (haematological and biochemical). All toxicities were graded according to the National Cancer Institute Common Toxicity Criteria Version 2 (NCI, 1998) and were assessed weekly and at the end of each cycle of SP1049C. Dose-limiting toxicities were defined as any of the following events: (1) two out of six (or X30%) patients experienced Grade 4 neutropenia lasting 45 days or if associated with fever, (2) two out of six (or X30%) patients experienced Grade 4 thrombocytopenia, (3) two out of six (or X30%) patients had Grade 3 or Grade 4 nonhaematological toxicity (excluding Grade 3 nausea and vomiting in patients who have not received optimal treatment with antiemetics), (4) drugrelated death. The MTD was defined as the dose level of SP1049C below that at which 30% or more of the patient population experience DLT due to SP1049C. The MTD was to be the dose recommended for phase II studies. Patients were to be followed up until 4 weeks after the last administration of SP1049C. Response was assessed using WHO response criteria (WHO, 1979) at baseline, after every two cycles and after withdrawal. The duration of response was defined as the interval from the date of first treatment to the date of documented disease progression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose escalation</head><p>It was planned that cohorts of patients would be treated with SP1049C at 5, 10, 20, 35, 50, 70 and 90 mg m À2 (expressed as doxorubicin content). At the first three dose levels (5, 10 and 20 mg m À2 ) if no toxicity greater than Grade 1 was encountered during the first cycle of SP1049C in the first patient at that level, then subsequent patients could enter at the next dose level at the 2086 British Journal of Cancer (2004) 90(11), 2085 -2091 &amp; 2004 Cancer Research UK</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><p>discretion of the investigators. At other dose levels, a total of three patients had to complete 21 days on study before a decision to dose escalate was made. If a patient withdrew from treatment before day 22 of SP1049C, then this patient was replaced. If DLT was not reached at the seventh dose level of 90 mg m À2 , further dose increments would be in steps of 20 -25% above the prior dose level. If one instance of DLT was observed in three patients, then the dose level would be expanded and an additional three patients treated at that dose level. If one out of six patients experienced DLT, dose escalation would continue. If two out of six patients experienced DLT, three more patients would be treated at a lower dose. This lower dose level would be defined as the MTD unless two out of six patients at that dose level developed DLT, in which case further dose reduction would be made. Patients were assigned to a dose level at the time of enrolment. Intrapatient dose escalation was not permitted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment delay or dose modification</head><p>A treatment delay of up to 3 weeks was allowed for resolution of DRT. If a patient who had shown clinical benefit from SP1049C developed a DLT, SP1049C could be continued at a lower dose level, up to a maximum of six cycles (in total), at the discretion of the Investigator.</p><p>Patients could be withdrawn from the study for any of the following reasons: progressive disease; unacceptable toxicity; cardiac ejection fraction o50% or fall of X15% from baseline; serious adverse event requiring discontinuation of study drug treatment; serious violation of the study drug protocol (including persistent patient attendance failure and noncompliance); withdrawal of consent (if a patient had been in the study for less than 22 days, then an additional patient would be recruited to replace them); any unforeseen event or clinical reason which the investigator felt made further treatment inadvisable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>With the first dose of SP1049C, venous blood samples were drawn for assay of doxorubicin concentrations as follows: predose, on completion of infusion and at 5, 10, 20 and 40 min, and at 1, 2, 4, 8, 24, 48, 72 and 96 h after the infusion. Samples of venous blood (7 -9 ml) were drawn into heparinised sample tubes from a site separate from the drug administration site. Samples were centrifuged within 20 min of collection at 2000 g for 20 min and the plasma was transferred into an appropriately labelled polypropylene tube and stored frozen and protected from light at À701C until analysis. In the absence of sensitive methods for the analysis of free vs pluronic-associated doxorubicin, the determination of plasma concentrations of total doxorubicin was performed by reverse-phase high-performance liquid chromatography (HPLC) following extraction of doxorubicin from plasma. Briefly, standard curves of doxorubicin alone and SP1049C were prepared covering 1 -500 ng ml À1 . Two patient plasma samples obtained 10 min postinfusion were used as internal controls in each analysis run. Within run and between run coefficients of variation were o10% and typically less than 5%. The lower limit of detection was 0.5 ng ml À1 with lower limit of quantitation of 1 ng ml À1 . Standards, internal control and patient samples (500 ml) were extracted with 1 ml methanol/50 ml 20% citric acid and assayed by HPLC with fluorescence detection <ref type="bibr" target="#b2">(Bronchud et al, 1990)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>Adverse events were graded according to CTC Criteria Version 2. Tumour response was defined according to WHO criteria. Pharmacokinetic analysis was performed using ABBOTTBASE pharmacokinetic systems software on plasma concentration time point data for total doxorubicin for each patient. AUC extrapolated to infinity (AUC 0 -N ) of doxorubicin was calculated using the trapezoidal rule for the sum of AUC to the last measured time point and C pred /lz, where C pred is the predicted concentration at the last measured time point and the terminal elimination rate constant (lz) is derived from the final log linear phase of the concentration time curve using least-squares regression analysis with visual inspection of the data to determine the appropriate number of data points to include in the calculation of lz, and the goodness of fit was assessed by Akaike's information criteria. Each patient's data was analysed by nonlinear least-squares regression analysis to determine individual pharmacokinetic parameters.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient and tumour characteristics</head><p>A total of 26 patients were enrolled into the study and the baseline demographics are shown in Table <ref type="table" target="#tab_0">1</ref>. The following dose levels were evaluated: 5, 10, 20, 35, 50, 70 and 90 mg m À2 . At the time of analysis, all patients had completed SP1049C treatment. In all, 78 courses of treatment were administered at seven dose levels. At the first three dose levels, one patient was treated per dose level as no toxicity greater than grade 1 was observed. At subsequent dose levels, cohorts of at least three patients were treated. Dose levels were expanded when DLT was observed. A total of seven patients were treated at 35 mg m À2 (including one patient who died before day 22 of cycle 1), six patients at 50 mg m À2 , seven patients at 70 mg m À2 (including one patient withdrawn before day 22 of cycle 1) and three patients at 90 mg m À2 . In total, five patients received six cycles of treatment; 20 stopped earlier because of disease progression or treatment-related toxicity; one patient requested to discontinue treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity</head><p>All 26 patients were evaluable for toxicity. SP1049C showed a predictable spectrum of toxicities at doses of 35 mg m À2 and above. These included reversible, dose-related leucopenia, neutropenia Ewing's sarcoma (one), ovary (one), kidney (one), cholangiocarcinoma (one), liver (one), neuroblastoma (one), unknown primary (one).</p><p>and stomatitis. In addition nausea/vomiting, fatigue and alopecia were common drug-related adverse events. Four patients had grade 2 decrease in LVEF. Overall, the spectrum of adverse events was similar to that seen with conventional doxorubicin. No plantar palmar erythrodysthesia was seen in any patient.</p><p>Haematological toxicity for each dose level is shown in Table <ref type="table">2</ref>. The dose-limiting toxicity comprised myelosuppression and DLT was reached at 90 mg m À2 . The incidence of grade 3 or worse neutropenia at below 35 mg m À2 was zero out of three patients, at 35 mg m À2 one out of seven patients, at 50 mg m À2 two out of sixpatients, at 70 mg m À2 four out of seven patients, at 90 mg m À2 three out of three patients. Neutropenia was seen at dose levels of 35 -90 mg m À2 in 17 (65%) of patient with the nadir occurring between days 8 and 15 postinfusion and with recovery to baseline levels by day 22. Thrombocytopenia of grades 1 -3 was seen from dose levels 35 -90 mg m À2 in 10 (38%) patients. Anaemia grades 1 -3 was seen from dose levels 20 -90 mg m À2 in 20 (77%) patients. There was no grade 4 thrombocytopenia or anaemia at any dose level.</p><p>SP1049C induced nonhaematological toxicity at each dose level is shown in Table <ref type="table" target="#tab_2">3</ref>.</p><p>Cardiac Four patients had a grade 2 fall (420%) in their LVEF. The total cumulative dose of anthracyclines (including previous therapy) for these patients was as follows: 320 mg m À2 (SP1049C, doxorubicin and epirubicin), 210 mg m À2 (SP1049C only), 440 mg m À2 (SP1049C and doxorubicin) and 870 mg m À2 (SP1049C and doxorubicin). In three of the four patients, there were no changes in ECGs or clinical signs of cardiac impairment. One patient who had received a total of 870 mg m À2 , who had normal LVEF during SP1049C therapy and had an LVEF at the end of the study of 29%, died subsequent to trial completion during an</p><p>Table 2 Haematological toxicities (worst grade per patient)</p><p>Adverse event Dose level (mg m À2 ) Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Neutrophils 5 1 0 </p><formula xml:id="formula_0">0 0 0 1 0 1 0 0 0 0 2 0 1 0 0 0 0 3 5 4 1 1 1 0 5 0 1 2 1 1 1 7 0 1 0 2 0 4 9 0 0 0 0 0 3 Leucocytes (WBC) 5 1 0 0 0 0 1 0 1 0 0 0 0 2 0 0 1 0 0 0 3 5 4 1 1 1 0 5 0 2 1 1 1 1 7 0 1 1 1 2 2 9 0 0 0 0 1 2 Haemoglobin 5 1 0 0 0 0 1 0 1 0 0 0 0 2 0 0 1 0 0 0 3 5 1 3 2 1 0 5 0 1 2 3 0 0 7 0 2 1 4 0 0 9 0 0 1 1 1 0 Platelets 5 1 0 0 0 0 1 0 1 0 0 0 0 2 0 1 0 0 0 0 3 5 5 2 0 0 0 5 0 3 2 0 1 0 7 0 4 1 1 1 0 9 0 1 1 1 0 0</formula><formula xml:id="formula_1">Nausea 5 0 0 0 NA 1 0 0 0 0 N A 2 0 0 1 0 N A 3 5 0 4 0 N A 5 0 2 2 1 N A 7 0 3 2 0 N A 9 0 0 1 0 N A Stomatitis 5 0 0 0 0 1 0 0 0 0 0 2 0 0 0 0 0 3 5 2 1 0 0 5 0 1 1 0 0 7 0 1 3 1 0 9 0 0 1 1 0 Vomiting 5 0 0 0 0 1 0 0 0 0 0 2 0 0 0 0 0 3 5 1 1 1 0 5 0 3 0 0 0 7 0 1 3 0 0 9 0 1 1 0 0 Reduction in LVEF 5 0 0 0 0 1 0 0 0 0 0 2 0 0 0 0 0 3 5 1 1 0 0 5 0 0 0 0 0 7 0 1 3 0 0 9 0 0 0 0 0 Fatigue 5 0 0 0 0 1 0 0 0 0 0 2 0 0 0 0 0 3 5 0 1 0 0 5 0 0 2 1 0 7 0 2 4 0 0 9 0 2 1 0 0 Alopecia 5 0 0 - - 10 0 0 - - 20 0 0 - - 35 2 1 - - 50 3 1 - - 70 1 4 - - 90 2 0 - - Bilirubin 5 0 0 0 0 1 0 0 0 0 0 2 0 0 0 0 0 3 5 0 0 0 0 5 0 1 0 0 0 7 0 0 1 0 0 9 0 1 0 0 0 AST/ALT 5 0 0 0 0 1 0 0 0 0 0 2 0 0 0 0 0 3 5 1 0 0 0 5 0 1 1 0 0 7 0 1 0 0 0 9 0 1 1 0 0 NA ¼ not</formula><p>applicable. ALT ¼ alanine aminotransferase; AST ¼ aspartate aminotransferase; LVEF ¼ left ventricular ejection fraction.</p><p>episode of sepsis. The impaired LVEF from SP1049C and prior anthracycline therapy was considered to have contributed to the death.</p><p>Gastrointestinal At doses of 420 mg m À2 , anorexia, nausea and vomiting were observed although grade 3 or 4 gastrointestinal toxicity was uncommon. Nausea and vomiting responded well to standard antiemetics. Grade 1 -3 stomatitis was experienced by 12 (46%) of patients at dose levels 35 -90 mg m À2 , with grade 3 only at the highest two dose levels. At dose levels of 35 mg m À2 and above, treatment-related fatigue and alopecia were seen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>A total of 21 patients (81%) were evaluable for response. No patients had a complete or partial response. One patient with oesophageal carcinoma and liver metastases (previous progression on three cycles of cisplatin 80 mg m À2 þ 5 fluorouracil 1 g m À2 days 1 -4) treated at 70 mg m À2 had a rapid symptomatic improvement in tumour-related dysphagia and pain. During treatment, tumour shrinkage occurred and the CT scan after six cycles showed a partial response, with a complete response in the liver metastases. However, the response was not confirmed 4 weeks later. A second patient with Ewing's sarcoma and lung metastases (previous doxorubicin-containing IVAD with partial response) was treated with 35 mg m À2 for five cycles. A chest X-ray indicated a partial response after five cycles, but the patient declined followup and the partial response could not therefore be confirmed. A third patient with carcinosarcoma of the uterus, ovary and peritoneum (previous progression with both carboplatin single agent and carboplatin-ifosfamide) was treated with SP1049C at 35 mg m À2 and had a 28% reduction in measurable disease and a 50% reduction in CA125 level. However, after six cycles of SP1049C, both the tumour dimensions and CA125 had increased slightly. Eight (31%) patients had stable disease with a median time to progression of 17.5 weeks (range 9 -24 weeks). A total of 13 (50%) patients had progressive disease. At the time of analysis, 54% of the patients had died. Two of these occurred within 4 weeks of the drug being administered. One patient with oesophageal carcinoma and liver metastases received one cycle of SP1049C at 35 mg m À2 but developed total dysphagia 12 days after this and subsequently died of progressive disease. A second patient with adenocarcinoma of the lung received one cycle of SP1049C at 70 mg m À2 and 4 days afterwards died of progressive disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>In all, 25 (96%) patients were evaluable for pharmacokinetics. One patient had poor venous access precluding sampling. The plasma pharmacokinetic profile of SP1049C was best described by a threecompartment model with an initial 'distributional' phase (mean half-life of 6.6 min), an intermediate phase (mean half-life of 2.83 h) and an 'elimination' phase (mean half-life 48.8 h) (Table <ref type="table" target="#tab_4">4</ref>). These values are similar to those reported for conventional doxorubicin although the terminal half-life for conventional doxorubicin in most reports has been shorter at circa 30 h <ref type="bibr" target="#b7">(Eksborg, 1989)</ref>. The AUC (0 -N) of doxorubicin following SP1049C increased linearly (r 2 ¼ 0.71) with increasing dose for the dose range of the study (Figure <ref type="figure">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Several approaches have been used to try to improve the therapeutic efficacy and toxicity profile of doxorubicin including the development of anthracycline analogues and the incorporation of anthracyclines into drug delivery vehicles. Liposomal drug delivery systems with doxorubicin have been extensively investigated in relapsed ovarian cancer <ref type="bibr" target="#b13">(Muggia et al, 1997)</ref>, breast cancer <ref type="bibr" target="#b15">(Ranson et al, 1997)</ref> and others <ref type="bibr" target="#b11">(Law et al, 1994;</ref><ref type="bibr" target="#b16">Schwartz and Caspar, 1995;</ref><ref type="bibr" target="#b6">Ellerhorst et al, 1999;</ref><ref type="bibr" target="#b8">Harrington et al, 2001;</ref><ref type="bibr" target="#b9">Judson et al, 2001)</ref>. A number of trials have been performed with polymer -doxorubicin conjugate where there is covalent linkage of polymer to doxorubicin. Initial clinical experience of PK1, a covalent doxorubicin -polymer conjugate, demonstrated anticancer activity and a reduction in doxorubicin dose-limiting toxicities <ref type="bibr" target="#b18">(Vasey et al, 1999)</ref>. For the covalently linked polymer formulation of doxorubicin, PK1 (mw 30 000), the phase I trial MTD of 320 mg m À2 on a 3 weekly regimen is much higher than that for doxorubicin or for SP1049C <ref type="bibr" target="#b18">(Vasey et al, 1999)</ref>. This was predicted by preclinical toxicology of PK1 which demonstrated an rodent LD 10 of approximately 150 mg m À2 <ref type="bibr" target="#b5">(Duncan et al, 1998)</ref> compared to circa 50 mg m À2 for doxorubicin and SP1049C <ref type="bibr" target="#b0">(Alakhov et al, 1999)</ref>. For the liposomal doxorubicin formulation TLC D-99, the MTD in preclinical toxicology in rodents of approximately 100 mg m À2 translated well into the clinic where a clinical MTD of 75 -90 mg m À2 was seen <ref type="bibr" target="#b12">(Lohri et al, 1991;</ref><ref type="bibr" target="#b4">Cowens et al, 1993;</ref><ref type="bibr" target="#b17">Swenson et al, 1998)</ref>. The clinical use of a pegylated liposomal formulation of doxorubicin (Caelyx/Doxil) was associated with dose-limiting palmar plantar erythrodysthesia when administered at 3 weekly dosing at X45 mg m À2 <ref type="bibr" target="#b15">(Ranson et al, 1997)</ref>. This cutaneous toxicity was seen during preclinical evaluation but was not fully predicted by short-term toxicology studies <ref type="bibr" target="#b21">(Working, 1998)</ref>.</p><p>SP1049C is a distinct and novel approach in which doxorubicin is incorporated into micelles with two nonionic copolymers, Pluronic L61 and Pluronic F127. Of particular note is the evidence of antitumour activity of SP1049C in doxorubicin-resistant tumours <ref type="bibr">(Batrakova et al, 1996)</ref> and in multiple drug resistance (MDR) cells <ref type="bibr" target="#b19">(Venne et al, 1996;</ref><ref type="bibr" target="#b0">Alakhov et al, 1999)</ref>. There appear to be several potential mechanisms, including inhibition of drug efflux transporters, abolishment of drug sequestration in acidic compartments, inhibition of the glutathione (GSH)/glutathione (GST) detoxification system and reduction of ATP selectively in MDR cells <ref type="bibr" target="#b19">(Venne et al, 1996;</ref><ref type="bibr" target="#b1">Batrakova et al, 2001;</ref><ref type="bibr" target="#b10">Kabanov et al, 2002)</ref>. In preclinical models, in vivo SP1049C was found to be superior to convential doxorubicin in all nine models tested. This is the first phase I study with SP1049C. SP1049C was evaluated at seven dose levels between 5 -90 mg m À2 (all doses expressed as doxorubicin equivalent). Single patient cohorts were evaluated at 5, 10 and 20 mg m À2 and these dose levels were not associated with any significant drug-related toxicity. SP1049C exhibited a predictable toxicity spectrum in line with other anthracyclines at doses of 35 mg m À2 and above. Dose-related myelosuppression was seen and DLT (neutropenic sepsis) was reached at 90 mg m À2 . The MTD of SP1049C defined in this study was 70 mg m À2 . Neutropenia occurred with a nadir between day 8 and 15 post dose, with recovery to baseline levels by day 22. Thrombocytopenia was less pronounced and not dose limiting. As is common with cytotoxic chemotherapy in patients with advanced cancer who have received prior therapy, mild anaemia was common. Nonhaematological toxicity included transient lethargy (similar to that seen with other cytotoxic chemotherapeutic agents in patients with advanced cancer), stomatitis and reversible alopecia. No skin toxicity or palmar plantar erythrodysthesia was seen. Nausea and vomiting was easily controlled with standard antiemetics.</p><p>Given the activity of SP1049C in anthracycline-resistant tumours in animal models, the design of this trial allowed patients to have received prior anthracycline therapy. It was required that patients have a baseline LVEF of 55% or more and that they have LVEF reassessments during therapy. Four patients, three of whom had received prior anthracyclines, had a fall in LVEF of CTC Grade 2 during SP1049C. In three cases, no clinical signs of cardiac decompensation or cardiac failure were encountered. However, in one patient the fall in cardiac ejection fraction was felt to contribute to death during an episode of sepsis after trial completion. The cardiac safety of SP1049C cannot be accurately delineated in a phase I study such as this because of the small number of patients studied, the marked hetererogeneity in prior treatment and the variable extent of SP1049C exposure. There remains a need for the monitoring of cardiac safety during phase II and III trials. The pharmacokinetic profile was similar to that described previously with conventional doxorubicin but with a slower terminal clearance.</p><p>Evidence of antitumour activity following SP1049C was seen in several patients with advanced solid tumours (Ewing's sarcoma, carcinosarcoma, and oesophageal adenocarcinoma). These three patients had received prior therapy to which one patient had responded but the other two had not. Given the promising preclinical data in anthracycline-resistant tumour settings and the data from this phase I trial, phase II trials of SP1049C at 70 mg m À2 in selected advanced cancers are now required to further define its antitumour efficacy and safety in larger cohorts of patients. Phase II trials are currently underway in metastatic oesophageal carcinoma and soft-tissue sarcoma. )</p><p>Figure <ref type="figure">2</ref> AUC vs dose level.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Structures of (A) doxorubicin (B) block copolymers.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>Batrakova EV, Dorodonych TY, Klinski EY, Kliushnenkova EN, Shemchukova OB, Goncharova ON, Arjakov SA, Alakhov VY, Kabanov AV (1996) Anthracycline antibiotics, non-covalently incorporated into block copolymer micelles: in vivo evaluation of anti-cancer activity. Br J Cancer 74: 1545 -1552</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient and tumour characteristics</figDesc><table><row><cell>No. of patients</cell><cell>26</cell></row><row><cell>Male/female</cell><cell>19/7</cell></row><row><cell>Median age, years (range)</cell><cell>52 (28 -74)</cell></row><row><cell>Performance status (Karnofsky)</cell><cell></cell></row><row><cell>100</cell><cell>2</cell></row><row><cell>80/90</cell><cell>24</cell></row><row><cell>Primary tumour site</cell><cell></cell></row><row><cell>Colorectal</cell><cell>5</cell></row><row><cell>Oesophagus</cell><cell>5</cell></row><row><cell>Soft-tissue sarcoma</cell><cell>4</cell></row><row><cell>Lung</cell><cell>3</cell></row><row><cell>Mesothelioma</cell><cell>2</cell></row><row><cell>Others</cell><cell>7 a</cell></row><row><cell>Prior treatment</cell><cell></cell></row><row><cell>Surgery</cell><cell>26</cell></row><row><cell>Radiotherapy</cell><cell>6</cell></row><row><cell>Hormonal/biological</cell><cell>6</cell></row><row><cell>Chemotherapy</cell><cell>25</cell></row><row><cell>Prior chemotherapy</cell><cell></cell></row><row><cell>Median number of regimens (range)</cell><cell>2 (1 -4)</cell></row><row><cell>Previous anthracycline treatment</cell><cell>9</cell></row><row><cell>a</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Nonhaematological toxicities (worst grade per patient)</figDesc><table><row><cell>Adverse</cell><cell>Dose level</cell><cell></cell></row><row><cell>event</cell><cell>(mg m À2 )</cell><cell>Grade 1 Grade 2 Grade 3 Grade 4</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4</head><label>4</label><figDesc>Plasma pharmacokinetics of SP1049C doxorubicin</figDesc><table><row><cell>Patient number</cell><cell>Dose (mg m À2 )</cell><cell>Dose (mg)</cell><cell>AUC (h lg ml À1 )</cell><cell>Vc (l)</cell><cell>Cl (l h À1 )</cell><cell>T 1/2 a (h)</cell><cell>T 1/2 b (h)</cell><cell>T 1/2 c (h)</cell></row><row><cell>1</cell><cell>5</cell><cell>10.2</cell><cell>0.10</cell><cell>1.27</cell><cell>0.60</cell><cell>0.110</cell><cell>2.02</cell><cell>25.20</cell></row><row><cell>2</cell><cell>10</cell><cell>17.0</cell><cell>0.16</cell><cell>1.81</cell><cell>0.46</cell><cell>0.073</cell><cell>1.76</cell><cell>NA</cell></row><row><cell>3</cell><cell>20</cell><cell>33.0</cell><cell>0.38</cell><cell>12.20</cell><cell>84.2</cell><cell>0.083</cell><cell>0.25</cell><cell>31.10</cell></row><row><cell>4</cell><cell>35</cell><cell>50.0</cell><cell>2.19</cell><cell>22.70</cell><cell>34.4</cell><cell>0.114</cell><cell>1.96</cell><cell>65.50</cell></row><row><cell>6</cell><cell>35</cell><cell>53.0</cell><cell>2.02</cell><cell>26.40</cell><cell>30.2</cell><cell>0.160</cell><cell>3.15</cell><cell>68.00</cell></row><row><cell>7</cell><cell>35</cell><cell>55.0</cell><cell>1.44</cell><cell>36.90</cell><cell>40.8</cell><cell>0.157</cell><cell>4.76</cell><cell>59.10</cell></row><row><cell>8</cell><cell>35</cell><cell>77.0</cell><cell>1.13</cell><cell>56.90</cell><cell>81.4</cell><cell>0.162</cell><cell>9.55</cell><cell>97.00</cell></row><row><cell>9</cell><cell>35</cell><cell>66.0</cell><cell>2.15</cell><cell>35.20</cell><cell>33.1</cell><cell>0.142</cell><cell>6.82</cell><cell>98.70</cell></row><row><cell>10</cell><cell>35</cell><cell>60.0</cell><cell>1.37</cell><cell>8.48</cell><cell>41.7</cell><cell>0.071</cell><cell>0.83</cell><cell>25.90</cell></row><row><cell>11</cell><cell>50</cell><cell>108.0</cell><cell>2.19</cell><cell>12.70</cell><cell>44.5</cell><cell>0.073</cell><cell>0.69</cell><cell>27.10</cell></row><row><cell>12</cell><cell>50</cell><cell>84.0</cell><cell>1.58</cell><cell>55.60</cell><cell>48.6</cell><cell>0.129</cell><cell>1.89</cell><cell>64.10</cell></row><row><cell>13</cell><cell>50</cell><cell>121.5</cell><cell>1.65</cell><cell>15.10</cell><cell>63.3</cell><cell>0.069</cell><cell>3.88</cell><cell>47.60</cell></row><row><cell>14</cell><cell>50</cell><cell>85.0</cell><cell>2.16</cell><cell>8.51</cell><cell>34.9</cell><cell>0.065</cell><cell>0.89</cell><cell>25.40</cell></row><row><cell>15</cell><cell>50</cell><cell>95.0</cell><cell>1.54</cell><cell>50.40</cell><cell>78.7</cell><cell>0.176</cell><cell>6.05</cell><cell>102.00</cell></row><row><cell>16</cell><cell>50</cell><cell>95.0</cell><cell>1.93</cell><cell>10.60</cell><cell>47.3</cell><cell>0.084</cell><cell>1.24</cell><cell>35.20</cell></row><row><cell>17</cell><cell>70</cell><cell>140.0</cell><cell>4.08</cell><cell>35.90</cell><cell>65.2</cell><cell>0.132</cell><cell>1.07</cell><cell>42.00</cell></row><row><cell>18</cell><cell>70</cell><cell>120.0</cell><cell>3.21</cell><cell>10.80</cell><cell>37.7</cell><cell>0.086</cell><cell>2.96</cell><cell>31.50</cell></row><row><cell>19</cell><cell>70</cell><cell>134.0</cell><cell>4.20</cell><cell>5.85</cell><cell>29.0</cell><cell>0.089</cell><cell>2.79</cell><cell>31.00</cell></row><row><cell>20</cell><cell>70</cell><cell>123.0</cell><cell>2.19</cell><cell>25.00</cell><cell>67.1</cell><cell>0.093</cell><cell>3.05</cell><cell>32.70</cell></row><row><cell>21</cell><cell>90</cell><cell>167.0</cell><cell>3.70</cell><cell>39.30</cell><cell>56.4</cell><cell>0.183</cell><cell>4.94</cell><cell>65.50</cell></row><row><cell>22</cell><cell>90</cell><cell>185.0</cell><cell>2.91</cell><cell>8.04</cell><cell>46.2</cell><cell>0.062</cell><cell>0.73</cell><cell>22.30</cell></row><row><cell>23</cell><cell>90</cell><cell>189.0</cell><cell>4.29</cell><cell>45.40</cell><cell>56.8</cell><cell>0.105</cell><cell>2.96</cell><cell>49.50</cell></row><row><cell>24</cell><cell>70</cell><cell>125.0</cell><cell>1.62</cell><cell>18.30</cell><cell>71.4</cell><cell>0.089</cell><cell>1.73</cell><cell>21.30</cell></row><row><cell>25</cell><cell>70</cell><cell>154.0</cell><cell>2.95</cell><cell>49.40</cell><cell>87.4</cell><cell>0.108</cell><cell>2.83</cell><cell>39.20</cell></row><row><cell>26</cell><cell>70</cell><cell>120.0</cell><cell>2.09</cell><cell>24.10</cell><cell>56.8</cell><cell>0.082</cell><cell>1.91</cell><cell>56.50</cell></row></table><note><p>AUC ¼ area under the curves; Vc ¼ Volume (central); Cl ¼ Clearance.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2004) 90(11), 2085 -2091 &amp; 2004 Cancer Research UK Clinical</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Block copolymer-based formulation of doxorubicin. From cell screen to clinical trials</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Alakhov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Klinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pietrzynski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Venne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Batrakova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bronich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kabanov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surfaces B: Biointerfaces</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="113" to="134" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Mechanism of sensitisation of MDR cancer cells by Pluronic block copolymers: selective energy depletion</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Batrakova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Elmquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Y</forename><surname>Alakhov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Kabanov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1987" to="1997" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Comparative pharmacokinetics of escalating doses of doxorubicin in patients with metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Bronchud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Margison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Wilkinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="435" to="439" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Poloxamers</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Collet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Pharmaceutical Excipients</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Rowe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Sheskey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Weller</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Pharmaceutical Association</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>th edn. pp 447 -450</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Initial (phase I) clinical trial of TLC D-99 (doxorubicin encapsulated in liposomes)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Cowens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Creaven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Greco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ostro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pilkiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ginsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Petrelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2796" to="2802" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Preclinical toxicology of a novel polymeric antitumour agent. HMPA copolymer doxorubicin (PK1)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Coatsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Burtles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum Exp Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="93" to="104" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Phase II trial of doxil for patients with metastatic melanoma refractory to front-line therapy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ellerhorst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bedikian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Buzaid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Eton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Legha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncol Rep</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1097" to="1099" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics of anthracyclines</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eksborg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="873" to="876" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Phase II study of pegylated liposomal doxorubicin (Caelyx) as induction chemotherapy for patients with squamous cell cancer of the head and neck</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lewanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Northcote</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Whittaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Vile</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2015" to="2022" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Randomised phase II trial of pegylated liposomal doxorubicin (DOXIL/CAELYX) versus doxorubicin in the treatment of advanced or metastatic soft tissue sarcoma: a study by the EORTC Soft Tissue and Bone Sarcoma Group</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Judson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Radford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Blay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Van Hoesel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Le Cesne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Van Oosterom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Clemons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kamby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hermans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Whittaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donato</forename><surname>Di Paulo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="870" to="877" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Pluronic copolymers for overcoming drug resistance in cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Kabanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Batrakova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Y</forename><surname>Alakhov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Drug Delivery Rev</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="759" to="779" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Phase II trial of liposomal encapsulated doxorubicin in patients with advanced renal cell carcinoma</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Law</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mencel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest New Drugs</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="323" to="325" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Phase I/II study of liposome encapsulated doxorubicin (TLC-D-99) in non small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lohri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Gelmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Embree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cullis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saletan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Goldie</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">292</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Phase II study of liposomal doxorubicin in refractory ovarian cancer: antitumor activity and toxicity modification by liposomal encapsulation</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Muggia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jeffers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Groshen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Roman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Uziely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Muderspach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Burnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Greco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Morrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Paradiso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Liang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="987" to="993" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Guidelines for Reporting of Adverse Drug Reactions</title>
+		<author>
+			<persName><surname>Nci</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>National Cancer Institute</publisher>
+			<pubPlace>Bethseda, MD</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Treatment of advanced breast cancer with sterically stabilised liposomal doxorubicin: results of a multicenter phase II trial</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Ranson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="3185" to="3191" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A phase II trial of doxorubicin HCl liposome injection in patients with advanced pancreatic adenocarcinoma</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Caspar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest New Drugs</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="77" to="82" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Lipid based pharmaceuticals in clinical development</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Swenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Freitag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Janoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medical Applications of Liposomes</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Lasic</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Papahadjopoulos</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="605" to="624" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phase I clinical and pharmacokinetic study of PK1 [N-(2-hydroxypropyl)methacrylamide copolymer doxorubicin]: first member of a new class of chemotherapeutic agents -drug -polymer conjugates. Cancer Research Campaign Phase I/II Committee</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Vasey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Hilditch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Burtles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fraier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frigerio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cassidy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="83" to="94" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Hypersensitising effect of Pluronic L61 on cytotoxic activity, transport and subcellular distribution of doxorubicin in multiple drug resistant cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Venne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mandeville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kabanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Alakhov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="3626" to="3629" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">World Health Organisation: The WHO Handbook for Reporting Results of Cancer Treatment</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>World Health Organisation</publisher>
+			<biblScope unit="volume">48</biblScope>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Pre-clinical studies of lipid complexed and liposomal drugs</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Working</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medical Applications of Liposomes</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Lasic</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Papahadjopoulos</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="605" to="624" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

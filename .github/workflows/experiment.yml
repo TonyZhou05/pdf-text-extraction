@@ -24,7 +24,7 @@ jobs:
           python -m pip install --upgrade pip setuptools wheel
           pip install -e .
 
-      - name: Run experiment script
+      - name: Run experiment script (Abstract JSONL)
         env:
           # OpenAI and Azure keys should be stored in GitHub Secrets
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -35,7 +35,15 @@ jobs:
         run: |
           python -m research_extractor.scripts.run_experiment \
             --input research_extractor/data/abstract.sample.jsonl \
-            --out research_extractor/outputs/results-fake.jsonl \
+            --output research_extractor/outputs/results-fake.jsonl \
+            --provider 'fake'
+      
+      - name: Run experiment script (PDF Text Directory)
+        run: |
+          python -m research_extractor.scripts.run_experiment \
+            --input research_extractor/data/test_TEI/ \
+            --output research_extractor/outputs/results-pdf-text-fake.jsonl \
+            --input-type 'pdf_text_dir' \
             --provider 'fake'
 
       - name: Job summary
@@ -47,6 +55,13 @@ jobs:
           else
             echo "No report-fake.md found." >> $GITHUB_STEP_SUMMARY
           fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "## PDF Text Directory Test (Fake)" >> $GITHUB_STEP_SUMMARY
+          if [ -f research_extractor/outputs/results-pdf-text-fake.jsonl ]; then
+            echo "PDF text directory processing completed successfully with fake provider." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "PDF text directory processing may have failed." >> $GITHUB_STEP_SUMMARY
+          fi
 
       - name: Upload outputs
         if: always()
@@ -57,6 +72,7 @@ jobs:
             research_extractor/outputs/results-fake.jsonl
             research_extractor/outputs/metrics-fake.json
             research_extractor/outputs/report-fake.md
+            research_extractor/outputs/results-pdf-text-fake.jsonl
 
   integration:
     needs: run_dummy
@@ -73,7 +89,20 @@ jobs:
       - run: |
           python -m pip install --upgrade pip setuptools wheel
           pip install -e .
-      - name: Run experiment script (Azure)
+      # - name: Run experiment script (Azure)
+      #   if: ${{ env.AZURE_OPENAI_API_KEY != '' && env.AZURE_OPENAI_ENDPOINT != '' }}
+      #   env:
+      #     MODEL_NAME: 'gpt-4o'
+      #     AZURE_OPENAI_API_KEY: ${{ secrets.AZURE_OPENAI_API_KEY }}
+      #     AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+      #   run: |
+      #     python -m research_extractor.scripts.run_experiment \
+      #       --input research_extractor/data/abstract.sample.jsonl \
+      #       --output research_extractor/outputs/results-azure.jsonl \
+      #       --input-type 'abstract_jsonl' \
+      #       --provider 'azure'
+      
+      - name: Run experiment script (PDF Text Directory - Azure)
         if: ${{ env.AZURE_OPENAI_API_KEY != '' && env.AZURE_OPENAI_ENDPOINT != '' }}
         env:
           MODEL_NAME: 'gpt-4o'
@@ -81,8 +110,9 @@ jobs:
           AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
         run: |
           python -m research_extractor.scripts.run_experiment \
-            --input research_extractor/data/abstract.sample.jsonl \
-            --out research_extractor/outputs/results-azure.jsonl \
+            --input research_extractor/data/test_TEI/ \
+            --output research_extractor/outputs/results-pdf-azure.jsonl \
+            --input-type 'pdf_text_dir' \
             --provider 'azure'
       
       - name: Job summary
@@ -94,6 +124,13 @@ jobs:
           else
             echo "No report-azure.md found." >> $GITHUB_STEP_SUMMARY
           fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "## PDF Text Directory Test (Azure)" >> $GITHUB_STEP_SUMMARY
+          if [ -f research_extractor/outputs/results-pdf-azure.jsonl ]; then
+            echo "PDF text directory processing completed successfully with Azure provider." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "PDF text directory processing may have failed." >> $GITHUB_STEP_SUMMARY
+          fi
 
       - name: Upload outputs
         if: always()
@@ -104,3 +141,4 @@ jobs:
             research_extractor/outputs/results-azure.jsonl
             research_extractor/outputs/metrics-azure.json
             research_extractor/outputs/report-azure.md
+            research_extractor/outputs/results-pdf-azure.jsonl

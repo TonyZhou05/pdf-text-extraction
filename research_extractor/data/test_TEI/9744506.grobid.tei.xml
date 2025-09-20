@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I study of temozolomide in paediatric patients with advanced cancer</title>
+				<funder ref="#_2UFM3SX #_xerzHPa #_6a6Rn8M">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_NtRU2c4">
+					<orgName type="full">University Hospital. Queens Medical British Journal of Cancer</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Estlin'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">L</forename><surname>Lashford1</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Ablett'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">L</forename><surname>Price'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><surname>Gowing'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Gholkarl</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Kohler'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Lewis'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><surname>Morland'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Pinkerton'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mcg</forename><surname>Stevens'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Mott'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><surname>Stevens'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Newell'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><surname>Walker'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Dicks-Mireaux1</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Mcdowell'</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Reidenberg2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Statkevich2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Marco2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">V</forename><surname>Batra2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Dugan2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Adj</forename><surname>Pearson'</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Children&apos;s Cancer Study Group &apos;UKCCSG Data Centre. Department of Epidemiology and Public Health</orgName>
+								<orgName type="institution">University of Leicester</orgName>
+								<address>
+									<addrLine>22-28 Prncess Road West</addrLine>
+									<postCode>LE1 6TP</postCode>
+									<settlement>Leicester</settlement>
+									<country>United Kingdom UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Galloping Hill Rd. Kenilworth</orgName>
+								<orgName type="institution">2Schenng-Plough Research Institute</orgName>
+								<address>
+									<postCode>2015 07033-0539</postCode>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">EJ Estlin. Sir James Spence Institute of Child Health. Royal Victoria Infirmary</orgName>
+								<address>
+									<postCode>NE1 4LP</postCode>
+									<settlement>Newcastle upon Tyne</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I study of temozolomide in paediatric patients with advanced cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1F3ED21823E3621E9ABF3EFFE4FEEB5B</idno>
+					<note type="submission">Received 12 September 1997 Revised 30 January 1998 Accepted 10 February 1998</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>temozolomide</term>
+					<term>SCH 52365</term>
+					<term>phase I study</term>
+					<term>children Temozolomide (3.4-dihydro-3methN14-oxoimidazo-[5. 1.d]-1.2.3</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A phase study of temozolomide administered orally once a day, on 5 consecutive days, between 500 and 1200 mg m-2 per 28- day cycle was performed. Children were stratified according to prior craniospinal irradiation or nitrosourea therapy. Sixteen of 20 patients who had not received prior craniospinal irradiation or nitrosourea therapy were evaluable. Myelosuppression was dose limiting, with Common Toxicity Criteria (CTC) grade 4 thrombocytopenia occurring in one of six patients receiving 1000 mg m-2 per cycle, and two of four patients treated at 1200 mg in-2 per cycle. Therefore, the maximum-tolerated dose (MTD) was 1000 mg m-2 per cycle. The MTD was not defined for children with prior craniospinal irradiation because of poor recruitment. Plasma pharmacokinetic analyses showed temozolomide to be rapidly absorbed and eliminated, with linear increases in peak plasma concentrations and systemic exposure with increasing dose. Responses (CR and PR) were seen in two out of five patients with high-grade astrocytomas, and one patient had stable disease. One of ten patients with diffuse intrinsic brain stem glioma achieved a long-term partial response, and a further two patients had stable disease. Therefore, the dose recommended for phase II studies in patients who have not received prior craniospinal irradiation or nitrosoureas is 1000 mg n-2 per cycle. Further evaluation in diffuse intrinsic brain stem gliomas and other high-grade astrocytomas is warranted.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In preclinical testing. temozolomide was found to have schedule- dependent anti-tumour activity against a broad spectrum of murine tusmonrs in vivo. including leukaemias. lymphomas and solid tumours (Stevens et al. 1987). The initial phase I study in adults used a Cancer Research Campaign (CRC) formulation of temozolomide (CCRG 81045: Newlands et al. 1992). Temozolomide was initially studied with a single-dose schedule and demonstrated linear pharmacokinetics with increasing dose and myelosuppression as the dose- limiting toxicity. No anti-tumour activity was seen in the 51 patients studied (Newlands et al. 1992). However, when temozolomide was given orally over 5 consecutive days. activity was observed in patients with high-grade astrocytomas (HGA). malignant melanoma and in one patient with mycosis fungoides. As in the single-dose schedule. myelosuppression was found to be dose limiting <ref type="bibr" target="#b14">(Newlands et al. 1992</ref>). The recommended phase HI dose was 750 mO M-' for the first treatment cycle. followed by 1000 mg m-' for subsequent cycles if there was no dose-limiting myelosuppression on the first cycle. Phase H studies with the CRC formulation of temozolomide have subsequently shown activity in phase H trials with HGA (O' Reilly et al. 1993) and metastatic melanoma <ref type="bibr" target="#b0">(Bleehen et al. 1995)</ref> but not with low-grade non-Hodgkin's lymphoma (Woll et al. 1995).</p><p>For clinical development in the USA. a phase I trial of temozolomide (NSC 362856). which differs from the CRC preparation with regard to inert ingredients. has also demonstrated dose-limiting myelosuppression <ref type="bibr" target="#b5">(Dhodapkar et al. 1997</ref>). Subsequently. a new formulation of temozolomide. SCH 52365. has been developed by Schering-Plough.   SCH 52365 has been re-evaluated in phase I studies in adult patients. confirming similar toxicity findings and maximum-tolerated dose for this formulation <ref type="bibr" target="#b1">(Brada et al. 1995</ref><ref type="bibr">: Reidenberg et al. 1996)</ref>.</p><p>Phase I tral of ternozolomide (SCH52365) in children 653  <ref type="bibr">(SCH 52365)</ref> and the active cytotoxic species MTIC High-grade astrocytomas are relatively common paediatric brain tumours that have a poor prognosis and against which there is a paucity of active anti-tumour agents. As preliminary studies with temozolomide in adults have demonstrated a tolerable safety profile and promising clinical activity. particularly in patients with HGA. evaluation of temozolomide in children with these tumours is required. The primary aims of this multicentre phase I trial were to characterize the safety profile and to determine the dose- limiting toxicity (DLT). maximum-tolerated dose (MTD) and pharmacokinetics of temozolomide (SCH 52365) administered orally. once daily for 5 days. in paediatric patients with advanced cancers not involving the bone marrow. Patients were stratified according to whether or not they had received prior craniospinal irradiation (CSI) or nitrosourea therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS Patient demography, diagnosis and prior therapy</head><p>The study was open from March 1994 to  <ref type="bibr">March 1996</ref>. Patients aged less than 18 years. with histologically proven malignancy. for whom no conventional therapies were available to offer a reasonable hope of cure or significant palliation were eligible. Neuroradiological imaging alone was accepted for diffuse intrinsic brain stem gliomas. Patients were required to have a Common Toxicity Criteria (CTC) performance status of 0. 1 or 2 (except for patients with brain stem tumours who were allowed a performance status of 3). One patient with a brain stem glioma and performance status of 4 was entered and was not evaluable because of death due to disease progression in the first cycle. No nitrosourea or mito- mycin C therapy was allowed within 6 weeks. and no other chemotherapy or radiotherapy was to have been received within 4 weeks of the first dose of temozolomide. The following patients were not eligible to enter the study: patients who had a malignancy that involved the bone marrow: those who were a poor medical risk because of systemic disease: HIV-positive patients: those who had received prior allogeneic or autologous bone marrow transplanta- tion: those who had received a prior peripheral stem cell transplan- tation and those with previous or concurrent malignancies. Eligible patients were stratified according to whether they had not (Arn A) or had (Arm B) received prior CSI or nitrosourea therapy.</p><p>Twenty-eight patients were entered into the study. The patient characteristics for each arm of the study are shown in Table <ref type="table">1</ref>. Twenty patients (16 evaluable) were entered into Arm A. Four patients were not evaluable for toxicity as two patients died of disease progression during the first treatment cycle, one patient was regarded as non-evaluable because of non-compliance. and one patient was unable to swallow the capsules. Eight patients were entered into Arm B. and six of these were evaluable. One patient progressed during the first cycle and did not complete the safety evaluation for that cycle. and one patient died of disease progression during the first treatment cycle. The majority of patients enrolled into the study had a diagnosis of a primary central nervous system tumour. Fifteen of 20 patients in Arm A had either a diffuse intrinsic brain stem glioma or high-grade astro- cytoma Six of the eight patients in Arm B had a diagnosis of primitive neuroectodermal tumour. Three patients in Arm A were enrolled with performance status scores of 3 or 4. and all these patients had a diagnosis of brain stem glioma. Seven of the 20 patients in Arm A had received prior chemotherapy (three patients had received doxorubicin: four cisplatin: three carboplatin: four</p><p>Tabe 1 The patient demography, diagnosis, evaluablity and pnor therapy for Arn A and Arm B</p><p>Tmnozobmide phase I stud patwd ch_ i a c te 1-1 -_ C SArm A Arm B Total number entered 20 8 Total number evaluable for toxicity 16 6 Sex Male 8 4 Female 12 4 Age (years) Mean 9 9 Median 9 8 Range 4-18 4-17 CTC performance status at entry 0 4 4 1 7 3 2 6 1 3 2 -4 1 -Diagnoss Brain stem glioma 10 High-grade astrocytoma 5 Haemangiopeitcoma 1 Rhabdomyosarcoma 1 1 Chondrosarcoma 1 -Osteogenic sarcoma 1 -Pancreatic neuroendocrie tumour 1 -Primitive neuroectodermal tumour -6 Ependymoma -1 Pror therapy Ch erapy 7 7 Radiotherapya 16 8 Surgery 8 6 aladiotherapy for Arm B -craniospinal irradiation. Radiotherapy for Arm A directed at sites other tan the craniospinal axis. British Journal of Cancer (1998) 78(5), 652-661 NH2 0---C N NH N, H CH3 0 Cancer Research Campaign 1998</p><p>vincristine: three ifosfamide: two actinomycin-D: three etoposide: one cyclophosphamide and one thiotepa). Eight patients had prior surgery. and 16 radiotherapy (excluding craniospinal irradiation).</p><p>Seven of the eight patients in Arm B had received prior chemotherapy. and all had undergone surgery and radiotherapy Laboratory investigations were performed within 14 days before the first dose of temozolomide to ensure adequate haemato- logical (Hb &gt; 9 g dl-'. neutrophil count &gt; 1 x 109 1-1 platelet count &gt; 100 x 10 1-1). renal (serum creatinine &lt; 1.5 x the upper limit of laboratory normal for age) and hepatic (serum total bilirubin within the upper limit of laboratory normal. aspartate transaminase (AST) or alanine transaminase (ALT) &lt; two times the upper limit of laboratory normal) function. Patients were expected to have a life expectancy of at least 9 weeks. Written. informed and witnessed consent was obtained from all patients or their parents. The study was approved by the relevant local ethics committee.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design Administration and drug supply</head><p>Patients were entered into the study from seven participating centres. Registration. requests for temozolomide. adverse event reporting and notification of withdrawal from study was coordi- nated by the UKCCSG data centre. A pre-registration procedure. whereby referring physicians were advised of the availability of a place within a treatment cohort. was introduced as it became necessary to freeze recruitment if a full cohort of patients had not been evaluated for toxicity in the first treatment cycle. The study was performed to full Good Clinical Practice guidelines (CPMP Working Party. 1990) and was sponsored. monitored and reported by Schering-Plough. As well as baseline haernatological and bio- chemical investigations. a full physical examination. electrocardiogram. urinalysis and radiological imaging of any tumour sites were performed within 14 days of the first dose of temozolomide.</p><p>Temozolomide (SCH 52365) was manufactured in the USA by Schering-Plough (Kenilworth. NJ. USA) and was supplied in 20 mg or 100 mg gelatin capsules by the CRC Formulation Unit. Department of Pharmaceutical Sciences. University of Strathclyde. Glasgow. UK. Temozolomide was administered daily for 5 consecutive days. Patients fasted for 8 h before. and for 2 h after. each dose of temozolomide. Antiemetics were administered after the first episode of emesis and were then allowed on a prophylactic basis. Treatment cycles were repeated every 28 days. provided there was recovery from toxicity. All responding patients. or those with stable disease. continued on therapy with temozolomide for 1 year. unless disease progression was observed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient evaluation</head><p>Patient review. physical examination and measurement of the full blood count and serum concentrations of urea, creatinine. elec- trolytes. calcium. phosphate. magnesium. glucose. total bilirubin. total protein. albumin. alanine aminotransferase. alkaline phos- phatase were carried out weekly for the first two cycles. Patients were then reviewed at the end of each treatment cycle and the above assessments repeated. Radiological evaluation of tumour sites was performed at the end of each of the first two treatment cycles. and then after alternate cycles. Patients were evaluable for response if they received 5 days of temozolomide and were evalu- able for toxicity if they survived for at least a further 23 days. Tumour responses were graded according to WHO guidelines (WHO. 1979). Complete response (CR) was defined as the complete disappearance of all detectable disease. Partial response (PR) was defined as greater than 50% reduction in the sum of the products of the two largest perpendicular diameters of all measur- able lesions. Stable disease (SD) was defined as a less than 50% reduction but not greater than 25% increase in the sum of the products of the two largest perpendicular diameters of all measurable lesions. All assessments of response and stable disease were determined by two observations not less than 4 weeks apart.</p><p>Progressive disease (PD) was defined as a greater than 25% increase in the sum of the products of the two largest perpendicular diameters of all measurable lesions. or the appearance of any new lesions. Radiological imaging before therapy. after two courses and at time of maximal response was reviewed centrally and independently by two experienced paediatric neuroradiologists. The pathology of all responding patients was reviewed centrally.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose escalation</head><p>Temozolomide dosage was based on body surface area, which was calculated according to the formula recommended by <ref type="bibr" target="#b13">Mosteller (1987)</ref>:</p><formula xml:id="formula_0">Height (cm) x weight (kg) 3600</formula><p>The dose given was the nearest that the capsules allowed. with approximation increasing the dose if necessary. Arm A was esca- lated through four dose levels: 500. 800. 1000 and 1200 ma m-' per cycle. Arm B was dose escalated from 500 to 600 mg m-2 per cycle before this arm of the trial was closed. Patients were recruited in cohorts of three per dose level. and dose-limiting toxicity was defined from the safety profile of cycle 1 for each patient. No within-patient dose escalations were allowed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definition of DLT and MTD</head><p>Toxicity was evaluated according to the Common Toxicity Criteria (CTC). A dose-limiting toxicity was defined during the first 28 days after the first daily dose of SCH 52365 as follows:</p><p>1. CTC grade 4 neutropenia that did not resolve within 7 days.</p><p>grade 4 anaemia or grade 3 thrombocytopenia that did not resolve within 7 days. CTC grade 4 thrombocytopenia of any duration was also taken to be dose limiting.</p><p>2. Other CTC grade 3 or 4 toxicity except for grade 3 nausea and vomiting, grade 3 fever (in the absence of infection) and grade 3 hepatic toxicity that returned to a minimum of grade 1 before the commencement of the next treatment cycle.</p><p>When DLT was encountered in one patient of a cohort of three. a maximum of three additional patients were treated at that level. If DLT was not observed with the additional patients. then the next dose level was entered. The MTD was defined as that dose level immediately below the dose level at which a minimum of two patients in a cohort of three to six patients experienced DLT. A maximum of one out of six patients could experience DLT at the MTD dose level. A total of six patients were treated at the MTD dose level to fully assess toxicity. This strategy allowed the MTID to be estimated using a minimum number of patients <ref type="bibr">(Kom et al. 1994</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>Pharmacokinetic evaluations were performed during cycle 1 for at least two evaluable patients per dose level. Blood samples were aIncludes three cydes as dose reduction after DLT. "includes four cycles as dose reduction after DLT.  drawn into pre-chilled syringes immediately before each dailx dose of SCH 52365 and at the following times after the fifth oral SCH 52365 dose: 10. 20. 30. 60. 90. 120. 150. 180. 240 and 360 min. and 8. 12 and 24 h. The blood samples were placed in pre-chilled heparinized tubes. kept on ice and centrifuged at 4°C within 30 min of collection. A 2-ml volume of plasma was trans- ferred to a plastic tube containing 0.1 ml of 8.5% (%,/v) phosphoric acid. The acidified plasma sample was then briefl vortexed and placed into labelled plastic tubes and stored at -'0'C until analysis. The exact time of dosing and withdrawal of pharmaco- kinetic samples was noted. Urine A-as also collected at baseline (0 h) and 0-4. 4-8 and 8-24 h after the fifth dose of SCH 52365.</p><p>The collected urine was kept below pH 4 by the addition of 8.5%7</p><p>(w/v) phosphoric acid. At the end of each collecting period. the total volume and pH of the urine was recorded. and a 20-ml aliquot of well-mixed urine frozen at -20 C until analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement of temozolomide in plasma samples</head><p>The reagents used for sample preparation and analysis included acetonitrile. ethyl acetate. o-phosphoric acid 8.5%7 (w/x-) and water (Fisher. Pittsburgh. PA. USA). Stock solutions of temozolomide (200 jig ml-' ) and the internal standard (IS) ethazolastone (100 igo ml-' ) were prepared in 20% (v/v) methanol in w ater containing 0.4% (v/v glacial acetic acid. Spiking solutions for the plasma calibration curve standards and quality control samples were prepared by dilution with 20% v/X methanol in water containing 0.4% (v/v) glacial acetic acid. A 1.0 PCg ml' working solution of the IS was prepared in water containing 200 pil of glacial acetic acid per 100 ml of water. The eight standards required to construct the standard cursve 0.1-20 pj ml-') and at least six or nine quality control (QC) samples (0.2. 1.5. 15 jg ml-) were made up in acidified analyte-free human plasma (120 il of 8.5% (/vlx) phosphoric acid per 4 ml of human plasma). Patient plasma samples were allowed to thaw in a water bath at room temperature. and 0.5-ml aliquots pipetted into separate 16 x 125-mm screw cap glass culture tubes. This was followed bv the addition of 0.5 ml of the IS working solution and all samples were acidified by the addition of 50 il of 1 N hydrochloric acid. Five millilitres of ethvl acetate was then added to each tube. and the contents mixed in a shaker for 10 min. The samples were centrifuged at 3000 g for 5 min. and the organic layer transferred to a separate 16 x 100-mm culture lass tube by freezing the aqueous laver in a drx ice bath. The organic layer was evaporated to drvness at 45 C under air. The residue was then reconstituted in 0.3 ml of mobile phase ( 10:90 (X/X) acetonitrile and 0.1%c (c/I) glacial acetic). The samples were analysed by high- performance liquid chromatography (HPLC) using a Waters 501 pump. a TOSOH 6080 autoinjector. a Waters Lambda Max 481 LV detector and an Ultrasphere ODS analytical column (15 cm x 4.6 mm. 5 jim particle size). The chromatographic conditions were: LIV. 316 nm: injection volume. 20 il: temozolo- mide retention time. 2.5-3.5 min: IS retention time. 5.0-6.5 min: HPLC flow rate. 1 ml min-'.</p><p>The equation for each calibration curve A as calculated by linear regression VAith 1/v weighting. using the peak height ratio of temozolomide to the internal standard for each calibration curve standard. The concentration of temozolomide in each plasma sample was determined using the slope and intercept values from the calibration curve equation. The louVer limit of quantification for temozolomide w'as 0.1 jIg ml-'.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement of temozolomide in urine samples</head><p>The same HPLC methodology w-as used for measurement of SCH 52365 in patient urine samples waith the follow-ing differences: mobile phase. 7:93 (v/v) methanol and 0.09% (-/v) glacial acetic acid: standard curve. 1-200 jg ml-': QCs. 2. 15 and 150 jg ml-': SCH 52365 retention time. approximately 5 min: IS retention time. approximately 14 min: lower limit of quantification. 1 jgo ml-'.</p><p>For the plasma and urine SCH 52365 assays. the accuracy. precision and inter/intraday variabilities were &lt; 15%c.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetic data</head><p>The following pharmacokinetic parameters A-ere summarized for each patient:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cog</head><p>Maximum plasma concentration. To MaN Time of maximum plasma concentration. al! Elimination half-life. This was calculated as 0.693/K. K Terminal phase rate constant. This was calculated as the negative slope of the log-linear terminal portion of the plasma concentration -time curve using linear regression.</p><p>AUC(tf) Area under the concentration vs time curve (AUC) from time 0 to last measurable concentration <ref type="bibr">[Ctfi]</ref>. This was calculated using the linear trapezoidal method.</p><p>AUC( I) AUC from time 0 to infinity. This was calculated bx extrapolating the AUC (tf) to infinitv usine the formnula AUC (1) = AUC (tf) + C (tf)/K. where C (tf)</p><p>is the estimated concentration determined from linear regression at time tf.</p><p>British Joumal of Cancer (1998) 78( <ref type="formula">5</ref>). 652,661 0 Cancer Research Campaign 1998</p><p>Table 4 Most commonly encountered non-haematogical adverse events for children receiving SCH </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CLR</head><p>Renal clearance. This was calculated using the equation CIR = Ae (0-24 h)/AUC (0-24 h). where Ae (0-24 h) is the amount of temozolomide excreted in the urine from time 0 to 24 h. Vdarea/F Apparent volume of distribution (absolute and normalized for surface area). This was calculated using the equation Vdarea/F = [Dose/AUC(I)YIK F Fraction of oral dose absorbed (assumed to be 1.0)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity</head><p>Myelosuppression was found to be dose limiting. Details of the neutropenia and thrombocytopenia encountered in this study are shown in Tables <ref type="table" target="#tab_2">2</ref> and <ref type="table" target="#tab_3">3</ref> respectively. For Arm A of the study. dose-limiting haematological toxicity was encountered at 1000 mg m-2 per cycle and 1200 mg m-2 per cycle, with minimal toxicity observed in earlier dose levels. Thrombocytopenia was dose limiting. with grade 4 toxicity occurring in one of six patients during the first course at the 1000 mg m-2 dose level, and two of four patients during the first course at the 1200 mg m 2dose level.</p><p>In addition, two of these patients, one at 1000 mg m-2 per cycle and one at 1200 mg m-2 dose level, experienced grade 4 neutropenia of 7 days' duration. Grade 3 or 4 myelosuppression was not observed before day 20. The nadir platelet count occurred</p><p>100--. m lo-8. 's 0 1 ! LO co 0 co 0.1 E 0.0.01 0 2 4 6 8 10 12 Time (h) 00 rngM ;00mg m2 M0 mg m2 00O mgm2 0OOmg m2</p><p>Figure <ref type="figure">2</ref> SCH 52365 plasma pharmacoinetic profiles for day 5 of cycle 1 are shown for each dose level; 500, 600, 800,1000 and 1200 mg mr per cycle of Arm A and Arm B combined. The values represent the mean plasma SCH 52365 concentration for each time point at days 22. 23 and 23 for the three patients with dose-limiting thrombocytopenia. In these three patients. the platelet count recov- ered to &gt; 100 x 109/1-' by days 29. 32 and 65. The nadir neutrophil count occurred at days 29 and 24 and recovered to &gt; 1 x l09/1-1 by days 43 and 27. Two of the six evaluable patients at the 1000 Mmgm2 per cycle dose level had received prior chemo- therapy. and dose-limiting thrombocytopenia was observed in one of these patients (who had received prior vincristine and cisplatin). Two of the four evaluable patients entered at the 1200 mg m-2per cycle dose level had received prior chemotherapy. and dose- limiting thrombocytopenia was observed in one of these patients (who had received prior thiotepa). The three patients experiencing dose-limiting myleosuppression during cycle 1 had a 20% reduc- tion in their temozolomide dosage for cycle 2. In addition. one further patient at the 1200 mg m-2 dose level experienced grade 4 neutropenia and grade 4 thrombocytopenia in cycle 2 and continued temozolomide after a dose reduction. Grade 3 anaemia was also observed in those patients experiencing dose-limiting myelosuppression. No haematological toxicity was observed in Arm B. except for one patient who had been misrandomized and who had received the highest dose of Arn A (1200 mg mu2 per cycle). This patient experienced CTC grade 4 thrombocytopenia and neutropenia, and grade 3 anaemia The MTD of temozolomide was therefore defined as 1000 mg m-2 per cycle in patients who had not received prior spinal irradiation or nitrosoureas.</p><p>The main non-haematologcal toxicities associated with temozolomide in Arm A were nausea. vomiting, headache, constipation and ataxia (Table <ref type="table">4</ref>). Nausea and vomiting were common but were easily controlled with standard antiemetic therapy. The majority of non- haematological adverse events were CTC grade 1 or 2 (Table <ref type="table" target="#tab_5">5</ref>).  <ref type="formula">16</ref>) 45 ( <ref type="formula">16</ref>) 1.4 ( <ref type="formula">22</ref>) 117 ( <ref type="formula">35</ref>) 93 ( <ref type="formula">14</ref>) 13.6 (43) 10.7 (11) aRelapse of astrocytoma in contralateral, non-irradiated cerebral hemiphere. bSCH 52365 commenced 24 days after completion of radiothey. Pharmacokiwnetics Temozolomide plasma pharmacokinetics were evaluable in 19</p><p>patients, and the plasma pharmacokinetic analyses for these patients are shown in Table <ref type="table" target="#tab_5">5</ref>. Pharmacokinetic profiles for each dose level (both arms combined) are shown in Figure <ref type="figure">2</ref> and demon- strate the rapid absorption and elimination of oral temozolomide in this patient population. A significant linear relationship was found between the peak plasma concentration of temozolomide and increasing dose of temozolomide (r' = 0.36. P &lt; 0.01; Figure <ref type="figure" target="#fig_4">3</ref>). Similarly, a significant linear relationship was found for the AUC (I) and increasing doses of temozolomide (r2 = 0.69. P &lt; 0.0001:</p><p>Figure <ref type="figure">4</ref>). Interpatient variability for systemic exposure (AUC) to temozolomide was small at each dose level, with a coefficient of variation of less than 20% (Figure <ref type="figure">4</ref> and Table <ref type="table" target="#tab_6">6</ref>). Temozolomide was undetectable before administration on each of the 5-day courses of treatment. On day 5, maximum plasma temozolomide concentrations were achieved approximately 1.5 h after dosing. and the mean to:1 ranged from 1.4 to 1.9 h. Individual apparent total body clearance (CLEF) ranged from 56.1 to 107 ml min-' m-' and was dose independent, assuming that temozolomide has a bio- availability of 100% in this paediatric population. The individual Vdarea/F ranged from 8.27 to 15.41 m-2. Pharmacokinetic compar- isons between the two arms of the study were only possible for the 500 mg m-' per cycle dose level. and similar results for each arm were obtained.</p><p>0 0 500 1000 1500 SCH 52365 dose (mg m-2 per cycle)</p><p>Figure <ref type="figure">4</ref> The relationship between dose administered (mg m-2 per cycle) and Fe day 5 AUC (I) of SCH 52365 (1g9 h mMt) for Arm A and Arm B combined Plasma pharmacokinetics were measured in four of the six patients who encountered grade 3 or 4 haematological toxicity. Three patients achieved an AUC of &gt; 50 jg h mlF. and two of these patients experienced dose-limiting thrombocytopenia. However. one patient at the 800 mg m-' per cycle dose level experienced only grade 2 thrombocytopenia with an AUC of 62 lag h ml-'.</p><p>Urinary excretion was measured in 13 patients. Urinary recovery of temozolomide ranged from 5% to 15% of the dose administered over the 24-h collection period. Individual renal clearances ranged from 2.7 to 10.7 ml min-' M-2 and was dose independent. Because temozolomide undergoes chemical degrada- tion in the body at physiological pH. the limited renal clearance. compared with the apparent total body clearance (CU/F) was expected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>Three of 15 patients with high-grade astrocytomas and diffuse intrinsic brain stem gliomas responded (one CR and two PR). In addition, three patients had stable disease of 6, 6 and 4 months duration (Table <ref type="table" target="#tab_6">6</ref>). One of the ten patients with brain stem glioma had a partial response and was withdrawn from the study in response after 13 cycles of treatment. This patient. a 4-year-old girl with a grade 3 astrocytoma. progressed during radiotherapy (54 Gy). as documented on computerized tomography (CT) scan.</p><p>Britsh Joural of Cancer ( <ref type="formula">1998</ref> A was taken at progression, 24 days after completxio of radioherapy and emergency surgery. B demonstrates te response after two courses of temozoloride (stable disease) and C demonstrates fe maimmal response (partial response at 28 weeks). The paint was a 4-year-old gir, with a diffuse intrinsic brain stem gioma (grade 3 astrocytoma), who progressed despite radio erapy Debulking surgery was required in the 5th week of the 6-week course of radiotherapy. Radiotherapy was completed 24 days before commencing temozolomide, and the radiological response is demonstrated in Figure <ref type="figure" target="#fig_6">5</ref>. After one course of temozolomide. the tumour remained unchanged in size, but showed less enhancement than at baseline. After two courses, the tumour appeared necrotic. with a 12.5% reduction in the product of two maximal perpendic- ular diameters. A maximum response of a 81% reduction was observed after 32 weeks of therapy. Clinical improvement was noted during the first cycle of therapy and was maintained. allowing the gradual withdrawal of dexamethasone by week 10. The patient received 1 year of therapy in total. In two further patients with diffuse intrinsic brain stem gliomas, stable disease was observed for 20 and 27 weeks. Five patients progressed after two courses, and one patient progressed after one course of therapy. A further patient died on the 14th day of cycle 1 because of disease progression.</p><p>Two of five patients with high-grade astrocytoma responded (one complete response and one partial response). An 8-year-old girl with a grade 3 anaplastic astrocytoma progressed after radiotherapy (54 Gy) to an unresected left cerebral hemisphere tumour.</p><p>Therapy with temozolomide was commenced 44 days after the completion of radiotherapy. A 30% reduction in the product of the A was taken at relapse, B after two courses of SCH 52365 (partal response) and C at the time of maxinal response (at 17 weeks), in a 9-year-old girl with a glooblastoma, which recurred 62 weeks after total excision and radiotherapy two maximal perpendicular diameters of the tumour was observed after two cycles of therapy, and no tumour was detectable after 52 weeks of therapy. During this time. the patient showed continued improvement in her right-sided hemiplegia, and therapy with dexamethasone was withdrawn by week 14. The patient relapsed with disease in the contralateral (non-irradiated) cerebral hemi- sphere 5 months after temozolomide was discontinued.</p><p>Another patient. a 9-year-old girl with a right cerebral giant-cell glioblastoma. had a total resection and radiotherapy (54 Gy) 14 months before her relapse. After two courses of therapy with temozolomide, a 70% reduction in the product of the two maximal perpendicular diameters of the tumour was observed, and the maximum response of a 81% reduction was observed after 16 weeks (Figure <ref type="figure" target="#fig_7">6</ref>). This patient became asymptomatic during the course of her therapy with temozolomide. allowing the withdrawal of dexamethasone by week 8. The partial response lasted for 20 weeks. One further patient had stable disease lasting 4 months.</p><p>All patients with primitive neuroectodermal tumours (six). ependymoma (one). rhabdomyosarcoma (one), chondrosarcoma (one). osteogenic sarcoma (one). pancreatic neuroendocrine tumour (one) and haemangiopericytoma (one) progressed after one or two courses of therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>This phase I study has determined the dose-limiting toxicities. MTD and pharmacokinetics of oral temozolomide in children who have not received prior therapy with CSI or nitrosoureas. Although the MTD of temozolomide given orally for 5 days has been established in adults <ref type="bibr" target="#b14">(Newlands et al. 1992</ref><ref type="bibr">: Brada et al. 1995: Reidenberg et</ref> al. British Journal of Cancer (1998) 78(5), 652-661 A B 0 Cancer Research Campaign 1998</p><p>1996) it was necessary to define the MTD of temozolomide in children, as the MTD of anti-cancer agents can be markedly different between children and adults (Marsoni et al, 1985).</p><p>As previous studies in children have shown that the MT) of anti-cancer agents can be influenced by the intensity of prior therapy (Pearson et al, 1994), patients were initially stratified according to whether or not they had received prior CSI or nitrosourea therapy. However, entry to the prior CSI/nitrosourea arm of the study was closed after the initial two dose levels because of poor recruitment Because, at the beginning of this phase I study, SCH 52365 had not been fully evaluated in an adult phase I trial, the starting dose level for both arms of the trial was 50% of the adult MTD estabfished with the original CRC formulation (Newlands et al, 1992).</p><p>The finding of thrombocytopenia as the dose-limiting toxicity in this study is in keeping with the original adult phase I trial of oral temozolomide, in which myelosuppression was found to be dose limiting. As in the adult phase I study (Newlands et al, 1992), thrombocytopenia occurred 20 days after the beginning of the first treatment cycle and persisted for between 7 and 42 days. Although, in this present study, dose-limiting myelosuppression was not observed in cycle I in one patient at the 1200 mgm-2dose level, grade 4 thrombocytopenia was observed in this patient on subsequent courses, necessitating a dose reduction. Furthermore, a recent phase I study of SCH 52365 in adults has also established thrombocytopenia as the dose-limiting toxicity, with an MTD of 1000 mg m-2per cycle (Brada et al, 1995). The importance of prior therapy has also been reported, with a lower MTD reported for patients receiving heavy prior chemotherapy (Reidenberg et al.  1996; Dhodapkar et al, 1997). For this present study, for patients who had not received prior CSI or nitosoureas, no relationship between the intensity of prior therapy and dose-limiting toxicity could be determined.</p><p>The other main toxicities associated with temozolomide in this paediatric phase I study were nausea and vomiting. These symp- toms were usually limited to day 1 of the first cycle and were easily controlled with standard antiemetic therapy. The toxicities of headache observed in Arm A and Arm B, and ataxia, pain and constipation in Arm B were thought to be due to the patients' underlying CNS tumours. or to treatment for constipation. Oral temozolomide was very well tolerated, with all but one child able to swallow the capsules. However, the necessity of swallowing whole capsules meant that very young children could not be entered into the study. There were no deaths attributed to temo- zolomide-related toxicity.</p><p>The results of the pharmacokinetic analyses of this phase I study were compatible with the findings from the adult phase'l studies (Newlands et al, 1992: Schering-Plough Research Institute. 1996), with rapid absorption, rapid elimination, no accumulation on day 5 and a linear increase in peak plasma concentration and systemic exposure with increasing dose. Overall, the plasma concentrations of temozolomide in paediatric patients were approximately 15-30% higher than those observed at similar dose levels in the adult phase I study of SCH 52365 (Brada et al. 1995; Schering-Plough Research   Institute, 1996). Similarly, systemic exposure (AUC) to temozolo- mide was higher in paediatric patients, with an increase of approxi- mately 40% compared with adult patients (Schering-Plough Research Institute, 1996). Moreover, an important characteristic of temozolomide is that the pharmacokinetics are reproducible in this patient population, as demonstrated by the small interpatient vari- ability in systemic exposure. Other pharmacokinetic parameters in this pediatric study, i.e. T and tr,. were similar to those observed in adults. As in the adult phase I study of SCH 52365, the urinary clearance of temozolomide was small compared with apparent total body clearance. However, urinary excretion may have been underes- tiatd 1because of the breakdown of temozolomide in the urine, before micturition and subsequent stabilization of temozolomide by acidification of the urine.</p><p>In an adult phase II study of temozolomide in primary brain tuinours (O'Reilly et al, 1993), major clinical improvement was found in six out of ten evaluable patients with high-grade astrocy- tomas who had relapsed after radiotherapy. This was accompanied by a marked improvement in radiological appearance in five out of ten patients. Moreover, reduction in the size of tumours was also seen in four out of seven patients with unirradiated astrocytomas <ref type="bibr" target="#b15">(O'Reilly et al, 1993)</ref>, confirming the suggestion of activity against HGA observed in the original phase I study (Newlands et   al, 1992). Activity in this paediatric study has been demonstrated in patients with high-grade astrocytoma and brain stem glioma, with measurable and confirmed responses (CR or PR) found in two out of five cases of high-grade astrocytoma, and one out of ten cases of diffuse intrinsic brain stem glioma. Although temozolo- mide was commenced 24 days after the completion of radiotherapy for the responding patient with a brain stem glioma, it was felt that the clinical and radiological responses seen were attribut- able to therapy with this agent Response assessment in patients with CNS tumours is known to be difficult; however, only neuro- radiological responses were considered in this study. All tumour sizes were measured independently by the local and two central radiologists to ensure a non-biased conclusion. Maximal responses were seen after more than two cycles of therapy in these three patients, in whom the greatest response occurred at 16, 32 and 52 weeks. Two patients with stable disease after two courses subsequently achieved a CR and a PR.</p><p>The cytotoxicity of temozolomide is thought to relate primarily to methylation of guanine at the 06 position, and this DNA lesion is repaired by the protein 06-alkylguanine DNA alkyltransferase <ref type="bibr" target="#b2">(Catapano et al, 1987)</ref>. The finding that this repair protein cannot be detected in 22% of primary brain tumours <ref type="bibr" target="#b3">(Citron et al, 1991)</ref> and that the levels of MGMT in human tumour cells correlate with temozolomide cytotoxicity <ref type="bibr" target="#b20">(Wedge et al, 1996)</ref> may prove to be clinically important observations. Indeed, rapid and sustained depletion of MGMT occurs in adult patients with a 200 mg m-2 bolus dose of temozolomide followed by a twice-daily oral regimen for 5 days <ref type="bibr" target="#b6">(Gerson et al, 1996)</ref>.</p><p>As the prognosis for both high-grade astrocytoma and brain stem glioma in children is poor with current therapy, phase H eval- uation of temozolomide is warranted for both of these conditions. Consideration should also be given to evaluating activity of temozolomide in other poor-risk tumours, such as neuroblastoma. in which dacarbazine is known to be active.</p><p>Centre, Nottingham NG7 2UH. UK: Christie Hospital NHS Trust. Manchester M20 4BX. UK; and the Bristol Royal Hospital for Sick Children, Bristol BS2 8BJ. UK.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure1The chemical structures of temozolomide(SCH 52365)  and the active cytotoxic species MTIC</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>as dose reduction after DLT. Includes four cycles as dose reduction afterDLT.   </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>52365. The values refer to the percentage of children who experienced each adverse Apparent total body clearance (absolute and normalized for surface area). This was calculated as CLUF = Dose/AUC (I).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3</head><label>3</label><figDesc>Figure3The relationship between dose administered (mg rnr2 per cycle) and day 5 peak plasma concentration of SCH 52365 (jg ml-') forArm A and   Arm B combined   </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>FIgure 5</head><label>5</label><figDesc>FIgure 5 Response to ftwrapy with SCH 52365 as imaged by CT scan.A was taken at progression, 24 days after completxio of radioherapy and</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>cFigure 6</head><label>6</label><figDesc>Figure6Response to therapy with SCH 52365 as imaged by CT scan.</figDesc><graphic coords="8,29.52,49.44,233.52,599.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Neutropenia occurmng in children receivingSCH 52365   </figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>CTC Grade</cell><cell></cell><cell></cell></row><row><cell>Dose level</cell><cell>Evaluable</cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell></row><row><cell>(mg M-2</cell><cell>courses</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>per cycle)</cell><cell>n</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>500</cell><cell>21</cell><cell>18</cell><cell>3</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>600</cell><cell>4</cell><cell>3</cell><cell>1</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>800</cell><cell>25a</cell><cell>23</cell><cell>2</cell><cell>-</cell><cell></cell><cell></cell></row><row><cell>1000</cell><cell>16:</cell><cell>6</cell><cell>4</cell><cell>3</cell><cell>-</cell><cell>6</cell></row><row><cell>1200</cell><cell>8</cell><cell>1</cell><cell>1</cell><cell>2</cell><cell>1</cell><cell>3</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Thrombocytopenia occurring in children receivingSCH 52365   </figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>CTC grade</cell><cell></cell><cell></cell></row><row><cell>Dose level</cell><cell>Evaluable</cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell></row><row><cell>(mng M-2</cell><cell>courses</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>per cycle)</cell><cell>n</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>500</cell><cell>21</cell><cell>21</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>600</cell><cell>4</cell><cell>4</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>800</cell><cell>25a</cell><cell>22</cell><cell>-</cell><cell>1</cell><cell>2</cell><cell>-</cell></row><row><cell>1000</cell><cell>16:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5</head><label>5</label><figDesc>Pharmacokinetic analyses for children receiving SCH 52365. The results are expressed as mean ± % cv</figDesc><table><row><cell cols="2">Dose level (Mg M-2 per cycle) patens Number of</cell><cell>C. (ig Mil)</cell><cell>T_, (h)</cell><cell cols="3">AUC (tf) (pg h ml-) (bg h nil) (h) AUC (1) tu</cell><cell cols="4">CL/F (ml minn-) (nl mimn..2) I) CL/F (in2) Vdarea/F VdarealF (i2) (l me</cell></row><row><cell>500</cell><cell>5</cell><cell cols="2">9.48 (42) 1.27 (75)</cell><cell>23 (11)</cell><cell cols="2">24 (11) 1.7 (11)</cell><cell>68.6 (42)</cell><cell>73 (15)</cell><cell>10.5 (55)</cell><cell>11.0 (24)</cell></row><row><cell>600</cell><cell>3</cell><cell cols="2">9.35 (24) 1.4 (36)</cell><cell>27 (19)</cell><cell cols="2">28 (17) 1.7 (9)</cell><cell>97 (36)</cell><cell>77 (18)</cell><cell>13.9 (29)</cell><cell>11.0 (9)</cell></row><row><cell>800</cell><cell>3</cell><cell>11.1 (32)</cell><cell>1.9 (53)</cell><cell>37 (2)</cell><cell>37 (2)</cell><cell>1.7 (8)</cell><cell>68.(9)</cell><cell>72 (2)</cell><cell>10.4 (16)</cell><cell>10.9 (10)</cell></row><row><cell>1000</cell><cell>5</cell><cell>14.6 (24)</cell><cell>1.9 (40)</cell><cell>48 (17)</cell><cell cols="2">49 (17) 1.7 (4)</cell><cell>71 (29)</cell><cell>72 (16)</cell><cell>10.5 (30)</cell><cell>10.6 (19)</cell></row><row><cell>1200</cell><cell>3</cell><cell>17 (22)</cell><cell>1.7 (46)</cell><cell>45 (</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 6</head><label>6</label><figDesc>Patients with high-grade astrocytoma or diffuse intrinsic brain stem gliorna with either stable disease (SD), partial response (PR) or complete renission (CR) on Arm A</figDesc><table><row><cell></cell><cell>Dose level</cell><cell>Tumour</cell><cell>No. of</cell><cell>Response</cell><cell>Mainum</cell><cell>TIme to</cell><cell>Progressionfre</cell></row><row><cell></cell><cell>(mg m-2 per cycle)</cell><cell>type</cell><cell>courses</cell><cell>after two</cell><cell>response</cell><cell>maximum</cell><cell>free</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>courses</cell><cell></cell><cell>response</cell><cell>intel</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(wek)</cell><cell>(wek)</cell></row><row><cell>1</cell><cell>500</cell><cell>High-grade astrocytoma</cell><cell>13</cell><cell>SD</cell><cell>CR</cell><cell>52</cell><cell>71a</cell></row><row><cell>2</cell><cell>800</cell><cell>High-grade asbocytoma</cell><cell>6</cell><cell>PR</cell><cell>PR</cell><cell>16</cell><cell>27</cell></row><row><cell>3</cell><cell>1200</cell><cell>Highrade astroytoma</cell><cell>4</cell><cell>SD</cell><cell>SD</cell><cell></cell><cell>16</cell></row><row><cell>4</cell><cell>800</cell><cell>Brain stem glioma</cell><cell>13</cell><cell>SD</cell><cell>PRb</cell><cell>32</cell><cell>54</cell></row><row><cell>6</cell><cell>1000</cell><cell>Brain stem glioma</cell><cell>7</cell><cell>SD</cell><cell>SD</cell><cell></cell><cell>27</cell></row><row><cell>7</cell><cell>1200</cell><cell>Brain stem glioma</cell><cell>5</cell><cell>SD</cell><cell>SD</cell><cell></cell><cell>20</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Britsh Journal ofCancer (1998) 78(5), 652-661</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (1998) 78(5), 652-661</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>British Journal of Cancer (1998) 78(5),652-661   B   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>The authors gratefully acknowledge the participation of the following UKCCSG centres during this study: <rs type="institution">Royal Victoria Infirmary. Newcastle upon Tyne</rs> <rs type="grantNumber">NE1 4LP. UK</rs>: <rs type="affiliation">Royal Marsden Hospital, Sutton, Surrey SM2 SPT, UK; St James University Hospital, Leeds LS9 TIF, UK; Alder Hey Childrens Hospital, Liverpool L12 2AP, UK; Birmingham Childrens Hospital, Birmingham</rs> B <rs type="grantNumber">16 8ET</rs>, <rs type="projectName">UK; Southampton General Hospital</rs>, Southampton <rs type="grantNumber">S09 4XY</rs>. UK: <rs type="funder">University Hospital. Queens Medical British Journal of Cancer</rs> (1998) 78( <ref type="formula">5</ref>), [652][653][654][655][656][657][658][659][660][661] </p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_2UFM3SX">
+					<idno type="grant-number">NE1 4LP. UK</idno>
+				</org>
+				<org type="funded-project" xml:id="_xerzHPa">
+					<idno type="grant-number">16 8ET</idno>
+					<orgName type="project" subtype="full">UK; Southampton General Hospital</orgName>
+				</org>
+				<org type="funding" xml:id="_NtRU2c4">
+					<idno type="grant-number">S09 4XY</idno>
+				</org>
+				<org type="funding" xml:id="_6a6Rn8M">
+					<idno type="grant-number">1998) 78( 5), [652][653][654][655][656][657][658][659][660][661</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Cancer Research Campaign Phase II trial of temozoklnide in metastatic melanoma</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Bleehen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tbatcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Selby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Calvert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gjs</forename><surname>Rustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mfg</forename><surname>Stevens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="910" to="913" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A Phase I study of SCH 52365 (temozolomide) in adult patients with advanced cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Judson</forename><forename type="middle">S L</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Batra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Quartey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dugan</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">484</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">In vitro and in vivo methazolastone-induced DNA damage and repair in L-12 10 leukaemia sensitive and resistant to chloroethylnitrsoureas</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Catapano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Broggini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Erba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ponti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mariani L Citti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dlincalci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="4884" to="4889" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">06-alkylguanine DNA methyltransferase in human normal and tumour tissue from brain. lung. and ovary</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Citron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">S</forename><surname>Decker R. Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Graver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kleynerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="4131" to="4134" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">European Community Commission notes for guidance: Good Clincal Practe for trials of Medicinal Prixucts in the European Community</title>
+	</analytic>
+	<monogr>
+		<title level="m">CPMP Working Party on the efficacy of Medicinal Products</title>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="361" to="372" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Phase I tral of temozolomide (NSC 362856) in patients with advanced cancer</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dhodapkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Burch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Pitot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Buckner</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Suman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1093" to="1100" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Rapid depletion of O6alkylguanine DNA alkyltransferase with twice daily oral temozolomide (SCH 52365) in patients with advanced cancer</title>
+		<author>
+			<persName><forename type="first">Spiro</forename><forename type="middle">Tp</forename><surname>Gerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Reidenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu L Haaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Majka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Statkevich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Batra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dugan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jkv</forename><surname>Willson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">178</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Mitozolomide (NSC3545 1). a new active drug in the treatment of malignant melanoma Phase II trial in patients with advanced disease</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gundersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fodstad</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1249" to="1250" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A comparison of two Phase I trial designs</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Korn El Midthune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Rubinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Christian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1799" to="1806" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mismatch repair mutations override alkyltransferase in conferring resistance to temozolomide but not to 1.3-Bis(2chlorethyl)nitiosourea</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu L Markovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gerson</forename><surname>Sl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="5375" to="5379" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Research</title>
+		<imprint>
+			<date type="published" when="1998">7 Camnpaign 1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Phase I tal of temozolomide (SCH52365</title>
+		<imprint>
+			<biblScope unit="page">661</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Tolerance to antineoplastic agents in children and adults</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Marsoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ungerleider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hurson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hammershaimb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rep</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="1263" to="1269" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Simplified calculation of body-surface area</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Mosteller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Engl 1 Med</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page">1098</biblScope>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Phase I trial of temozolomide (CCRG 81045: M&amp;B 39831: NSC 362856)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Grp</forename><surname>Blackridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gjs</forename><surname>Rustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">Db</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nsa</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Quaterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mfg</forename><surname>Hoffman R Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="287" to="291" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Temozolomide: a new oral cytotoxic chemotherapeutic agent with promising activity against primary brain tumours</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>O'reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Glaser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rice-Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kennard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Colquhoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mfg</forename><surname>Stevens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="940" to="942" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Phase I study of continuous intravenous infusion of low dose thiotepa in children</title>
+		<author>
+			<persName><forename type="first">Adj</forename><surname>Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hofer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lashford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">1j</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Newell Dr Pinkerton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Windebank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Paediatr Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">270</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Phase I clinical and pharnacokinc study of temozolomide in advanced cancer patients stratified by extent of prior therapy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Reidenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Villalona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eckhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Statke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">'</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Batra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Dugan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eckhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc 9th NCIIEORTC Symp New Drugs Cancer Ther</title>
+		<meeting>9th NCIIEORTC Symp New Drugs Cancer Ther</meeting>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">344</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">A Phase I study of SCH 52365 in adult patients with advanced cancer. Appendix B-1: Pharmacokinetics of SCH 52365 (temozolomide)</title>
+		<idno>193-114- 01</idno>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+		<respStmt>
+			<orgName>Schering-Plough Research Institute. Department of Drug Metabolism and Pharmacokinetics ; Plough Research Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Report Number</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Antitumour actinitv and pharmacokinetics in mice of 8-carbamoyl-3-methyl-imidazo [5.1-d-1.3.5tetrazin-413f)-one (CCRG 81045: M&amp;B 39831 ). a novel drug with potential as an alternative to dacarbazine</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hickman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Lngdon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chubb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vickers L Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Baig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Goddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Slack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="5846" to="5852" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">3-aminobenzamide and/or O6benylguanine evaluated as an adjuvant to temozolomide or BCNU treatment in cell lines of variable mismatch repair status and 06-alkylguanine-DNA alkyltransferase activity</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wedge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Porteus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Newlands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="1030" to="1103" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">WHO Handbookfor Reporting Results of Cancer Treatment</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">WHO Offset Publication</title>
+		<imprint>
+			<biblScope unit="issue">48</biblScope>
+			<date type="published" when="1979">1979</date>
+			<publisher>Geneva</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Phase H1 trial of temozolomide in low-grade non-Hodgkin&apos;s lymphoma</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Woll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Crowther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pwm</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Soukop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Brampton</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Newlands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="183" to="184" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

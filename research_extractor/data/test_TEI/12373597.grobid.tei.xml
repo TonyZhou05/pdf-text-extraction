@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I study of docetaxel plus ifosfamide in patients with advanced cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">G</forename><surname>Marx</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Prince of Wales Hospital</orgName>
+								<address>
+									<settlement>Sydney</settlement>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>Dr</roleName><forename type="first">C</forename><surname>Lewis</surname></persName>
+							<email>lewisc@sesahs.nsw.gov.au</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Prince of Wales Hospital</orgName>
+								<address>
+									<settlement>Sydney</settlement>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Newcastle Mater Misericordiae Hospital</orgName>
+								<address>
+									<region>NSW</region>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Levi</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Royal North Shore Hospital</orgName>
+								<address>
+									<settlement>Sydney</settlement>
+									<region>NSW</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Ackland</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Newcastle Mater Misericordiae Hospital</orgName>
+								<address>
+									<region>NSW</region>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Prince of Wales Hospital</orgName>
+								<address>
+									<addrLine>High Street</addrLine>
+									<postCode>2031</postCode>
+									<settlement>Randwick Sydney</settlement>
+									<region>NSW</region>
+									<country>Australia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I study of docetaxel plus ifosfamide in patients with advanced cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">917D786A5A6EDE77442036D9A3C6E5E0</idno>
+					<idno type="DOI">10.1038/sj.bjc.6600542</idno>
+					<note type="submission">Received 22 March 2002; revised 1 July 2002; accepted 15 July 2002</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>ifosfamide</term>
+					<term>docetaxel</term>
+					<term>malignancy</term>
+					<term>toxicity</term>
+					<term>G-CSF</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The aim of this study was to determine the maximum tolerated dose of a fixed dose of docetaxel when combined with continuous infusion ifosfamide, with and without G-CSF support, in the treatment of advanced cancer, and to evaluate antitumour activity of this combination. Thirty-one patients with advanced malignancies were treated with docetaxel 75 mg/m 2 intravenously on days 1, and ifosfamide at increasing dose levels from 1500 mg/m 2 /day to 2750 mg/m 2 /day as a continuous infusion from day 1 -3, every 3 weeks. A total of 107 cycles of treatment were administered. Without G-CSF support doselimiting toxicity of grade 4 neutropenia greater than 5 days duration occurred at dose level 1. With the addition of G-CSF the maximum tolerated dose was docetaxel 75 mg/m 2 on day 1 and ifosfamide 2750 mg/m 2 /day on days 1 -3. Dose limiting toxicity (DLT) included ifosfamide-induced encephalopathy, febrile neutropenia and grade three mucositis. Three complete responses and 3 partial responses were seen. This combination of docetaxel and infusional ifosfamide is feasible and effective. The recommended dose for future phase II studies is docetaxel 75 mg/m 2 on day 1 and ifosfamide 2500 mg/m 2 /day continuous infusion on days 1 -3.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Docetaxel and ifosfamide have both demonstrated significant single agent anti-tumour activity in a number of tumours. This phase I study was performed to assess the feasibility, toxicity and maximum tolerated dose (MTD) of this combination.</p><p>Ifosfamide is an alkylating agent with activity in a variety of solid tumours, including non-small cell lung cancer (NSCLC), sarcoma, testicular cancer, breast cancer and lymphoma <ref type="bibr" target="#b13">(Pinedo and Verweij, 1986;</ref><ref type="bibr" target="#b18">Shirinian et al, 1992;</ref><ref type="bibr" target="#b6">Kaye et al, 1998;</ref><ref type="bibr" target="#b10">Moskowitz et al, 1999)</ref>. The major toxicities of ifosfamide include myelosuppression and haemorrhagic cystitis. The incidence of cystitis can be reduced with co-administration of mesna, which functions as a regional detoxicant of acrolein, the urotoxic metabolite of ifosfamide. Other side effects include nephrotoxicity, encephalopathy, nausea, vomiting and alopecia. Encephalopathy appears to be more common in patients receiving oral or bolus ifosfamide and in patients with low serum albumin, low serum potassium or renal dysfunction <ref type="bibr" target="#b8">(Meanwell et al, 1986;</ref><ref type="bibr" target="#b21">Watkin et al, 1989;</ref><ref type="bibr" target="#b2">Cerny et al, 1990)</ref>.</p><p>The optimum dosing schedule for ifosfamide is still uncertain. The pharmacokinetics of ifosfamide is schedule dependent, but large inter-patient variability in ifosfamide pharmacokinetics and metabolism is seen <ref type="bibr" target="#b7">(Lind et al, 1990)</ref>. It has been administered orally or intravenously as bolus injection, short-term or continuous infusion, and either in 1 day, or in divided doses over several days. In this study ifosfamide was administered as a continuous infusion over 3 days, as this schedule has been demonstrated to have a lower incidence of haemorrhagic cystitis and neutropenia <ref type="bibr" target="#b7">(Lind et al, 1990)</ref>.</p><p>Docetaxel is a semi-synthetic taxane with clinical activity in a wide range of tumours <ref type="bibr" target="#b12">(Pazdur et al, 1992;</ref><ref type="bibr" target="#b15">Ravdin et al, 1995;</ref><ref type="bibr" target="#b4">Kavanagh et al, 1996;</ref><ref type="bibr" target="#b16">Roth et al, 2000;</ref><ref type="bibr" target="#b17">Shepherd et al, 2000;</ref><ref type="bibr" target="#b5">Kaye 2001;</ref><ref type="bibr" target="#b11">Nabholtz et al, 2001;</ref><ref type="bibr" target="#b0">Aihara et al, 2002;</ref><ref type="bibr" target="#b19">Smith et al, 2002)</ref>. The major dose limiting toxicity (DLT) is myelosuppression, predominantly neutropenia, which is usually short lasting, dose dependent and non-cumulative <ref type="bibr" target="#b3">(Extra et al, 1993;</ref><ref type="bibr" target="#b20">Tomiak et al, 1994;</ref><ref type="bibr" target="#b14">Pronk et al, 1998)</ref>. Other toxicities are usually mild and easily managed or prevented. Fluid retention is a significant and well-documented cumulative side effect of docetaxel, which is reduced by pre-medication with corticosteroids <ref type="bibr" target="#b1">(Bizzari and Bail 1994)</ref>. A fixed dose of docetaxel was chosen because of concerns regarding the toxicities of fatigue, neuropathy and fluid retention at doses 475 mg/m 2 .</p><p>Although the DLT for both drugs is neutropenia, the absence of other significant overlapping toxicity and the availability of G-CSF support renders this combination a potentially useful therapy for a variety of advanced cancers.</p><p>The objectives of this phase I study were to identify the MTD of docetaxel plus ifosfamide with and without G-CSF support, and to characterize the toxicity profile of the combination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient selection</head><p>Patients were enrolled onto this study if they met the following criteria: histologically confirmed advanced cancer, for which other forms of therapy had failed or were considered inappropriate; no more than one previous line of chemotherapy, 44 weeks prior to enrollment; no prior exposure to a taxane or ifosfamide.</p><p>Other eligibility criteria included age 517 years; ECOG performance status 42; expected survival duration of 53 months; adequate bone marrow function (absolute neutrophil count 52.0610 9 /l, platelets 5100610 9 /l and Hb 5100 g/l); adequate hepatic function (total bilirubin 516upper limit of normal (ULN); AST and ALT 42.56ULN, ALP 456ULN (except in presence of bone only metastases and other liver function tests normal, if both AST and/or ALT 51.56ULN and ALP 52.56ULN patients were excluded)); adequate renal function (serum creatinine 41.56ULN). Patients were excluded with significant co-morbid medical conditions; symptomatic peripheral neuropathy 4grade 2 according to NCIC Common Toxicity Criteria; and presence of CNS disease. The Research Ethics Committee at each participating institution approved the study. Written informed consent was obtained from all patients prior to study entry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drug administration</head><p>Docetaxel (Taxotere; RP56976) was supplied in vials by Rhone-Poulenc Rorer as a concentrated sterile solution containing 40 mg in 1 ml or 80 mg in 2 ml polysorbate 80. The appropriate amount of drug was diluted in 500 ml of 5% dextrose and administered as a 1-hour infusion at a fixed dose of 75 mg/m 2 on day 1.</p><p>Ifosfamide was diluted in 3 litres of dextrose -saline with mesna at an equimolar dose and administered as a 24-h continuous infusion daily for 3 days, commencing immediately after completion of docetaxel. An intravenous bolus dose of 500 mg mesna was given immediately prior to commencing the ifosfamide infusion on day 1, and at completion of the treatment on day 3. Treatment cycles were repeated every 3 weeks.</p><p>Premedication with dexamethasone orally at a dose of 8 mg at 13, 7, and 1 h prior to treatment and then at 12, 24, and 36 h post therapy. Anti-emetics were administered as per physician and institution preference. These usually included a 5HT 3 antagonist.</p><p>Granulocyte-colony stimulating factor (G-CSF, Granocyte 1 , Amrad Australia) was administered at a dose 150 mg/m 2 /day (=1 vial daily) to all patients prophylactically after all three patients entered on level 1A experienced grade 4 neutropenia greater than 5 days duration during the first cycle of treatment. G-CSF was commenced on day 4 and continued until the absolute neutrophil count was 510610 9 /l at all other dose levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dosage and dose escalation procedure</head><p>Docetaxel dose was fixed at 75 mg/m 2 , and ifosfamide dose was escalated in groups of at least three patients according to a predefined schedule until the MTD was identified (see Table <ref type="table" target="#tab_0">2</ref>). Dose escalation within patients was not permitted. Three patients were recruited at each dose level. Before escalating to the next dose level at least three patients should have received one cycle and been observed for toxicity for 2 weeks. If one out of three patients at any dose level developed a DLT, three more patients were entered at that dose level. The MTD was defined as the dose at which three or more out of six patients developed a dose limiting toxicity. Dose limiting toxicity was defined as febrile neutropenia, grade 4 neutropenia greater than 5 days duration, grade 4 thrombocytopenia, and any grade 3 potentially life threatening toxicity occurring in cycle 1. The intention of the study was to treat at full doses at each dose level and avoid dose reductions. If patients experienced significant toxicity other than the defined dose limiting events, treatment was delayed until recovery to grade 0 -1, and then restarted, for the subsequent cycles, at the dose level below. All toxicity data was reported as per the initial dose level. Toxicities were graded according to the NCIC Common Toxicity Criteria.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluation</head><p>Pre-treatment evaluation included a full medical history and physical examination, complete blood count, differential white blood cell (WBC), biochemistry tests (serum electrolytes, renal function, hepatic function, calcium, phosphate, glucose), electrocardiogram and urinalysis. Disease assessment included routine chest radiograph, computerized tomography of chest, abdomen and pelvis, and radionuclide bone scan as clinically indicated within 3 weeks of commencing treatment.</p><p>Clinical review and serum biochemistry were repeated weekly during the first cycle of treatment and then every 3 weeks. A neurological examination was performed at baseline and at the beginning of each treatment cycle. Complete blood cell count was undertaken twice weekly. Urinalysis was performed before, during and after the ifosfamide infusion. Formal disease assessment was performed after every two cycles of treatment. Tumour response was classified according to standard World Health Organization criteria <ref type="bibr" target="#b9">(Miller, et al, 1981)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Thirty-one patients were entered into the study. All patients were evaluable for toxicity and 28 were evaluable for response. Patient characteristics are shown in Table <ref type="table">1</ref>. The median age was 49 years (range of 24 -71). Eighteen patients were male and 13 were female. Seventeen patients had not received prior chemotherapy while the remainder had received one prior chemotherapy regimen. One hundred and seven cycles of treatment were given over six dose levels (median three cycles per patient, range 1 -8, see Table <ref type="table" target="#tab_0">2</ref>). Dose limiting toxicity was reported in cycle 1 at the following dose levels: two episodes of encephalopathy at level 3; two episodes of febrile neutropenia at level 4; and two episodes of febrile neutropenia, two of encephalopathy, and one of mucositis at level 6 (docetaxel 75 mg/m 2 with ifosfamide 2750 mg/m 2 /day), which was defined as the MTD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haematological toxicity</head><p>Neutropenia grades 3 and 4 were experienced at all dose levels (Table <ref type="table" target="#tab_1">3</ref>). At level 1A, all three patients had grade 4 neutropenia lasting greater than 5 days, so prophylactic G-CSF was incorporated into the treatment of all future patients as planned. The severity of neutropenia was reduced at dose level 1, with G-CSF support, compared to without G-CSF support. At all higher dose levels the incidence of grade 3 -4 neutropenia was ifosfamide dose dependent, but the duration of grade 4 neutropenia was less than 5 days. There were 10 episodes (9%) of febrile neutropenia but no septic deaths. Severe anaemia, grades 3 and 4, was seen in 17 cycles (16%). Grade 3 -4 thrombocytopenia was uncommon, occurring in 7% of cycles at all dose levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Non-haematological toxicity</head><p>Significant toxicities included nausea and vomiting, which was severe (grade 3 -4) in only 6% of cycles (Table <ref type="table" target="#tab_2">4</ref>). Six episodes resulted in admission for intravenous fluids. Alopecia was universal. Mucositis was generally mild with only two episodes of grade 3 mucositis at dose level 6. There were no episodes of docetaxel induced peripheral oedema. There were no episodes of grade 3 or 4 peripheral neuropathy. Most patients reported mild fatigue.</p><p>Ifosfamide-related encephalopathy occurred in eight patients, mainly at higher dose levels (level 3: two episodes, level 5: one episode, level 6: five episodes). Most episodes resolved spontaneously following cessation of the ifosfamide, but one patient required treatment with methylene blue. One episode was asso-ciated with deterioration in renal function but there was no correlation with patient hypoalbuminaemia or hypokalaemia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Responses</head><p>Twenty-eight of the 31 patients were assessable for response. One patient received only one cycle of treatment and ceased due to hepatic toxicity, compounded by the co-administration of ketoconazole. Complete response (CR) was achieved in three patients adenocarcinoma of oesophagus (duration of response 12 months), non-small cell lung cancer (18 months), and breast cancer (8 months). Three patients had a partial response adenocarcinoma of oesophagus (6 months), adenocarcinoma of unknown primary (7 months) and non-small cell lung cancer (3 months).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In this study the MTD of the combination of docetaxel and ifosfamide was identified at 75 mg/m 2 docetaxel on day 1 and 2750 mg/ m 2 /day ifosfamide as a continuous infusion on days 1 -3 with G-CSF cover. The dose limiting toxicities included encephalopathy, febrile neutropenia and mucositis.</p><p>The combination of docetaxel and ifosfamide is potentially effective in view of their non-cross resistant activity, and nonoverlapping toxicity except for neutropenia. The major toxicity, as expected, was neutropenia, which was grade 3 -4 neutropenia in 64% of cycles with 10 (9%) episodes of febrile neutropenia. Without G-CSF support, the MTD was reached at level 1A. The use of G-CSF allowed delivery of doses of each drug close to their single agent MTD, and significant non-haematological toxicity was then seen.</p><p>For this study we used a continuous infusion over three days because of a low reported incidence of haemorrhagic cystitis and myelosuppression compared with other schedules <ref type="bibr" target="#b2">(Cerny et al, 1990;</ref><ref type="bibr" target="#b7">Lind et al, 1990)</ref>. No instances of haemorrhagic cystitis were observed in this study but myelosuppression was common and dose-limiting as expected. We can speculate that other schedules of ifosfamide may also be combined with docetaxel but the appropriate dose in such circumstances is unclear. This protocol mandated a 3-day hospital admission, but administration using an outpatient-based drug infusion may be feasible.</p><p>In a previous phase I study of this combination, Pronk et al escalated the dose of both agents, and ifosfamide was infused over a 24-h period on day 1 only <ref type="bibr" target="#b14">(Pronk et al, 1998)</ref>. In addition they addressed the issue of scheduling, with docetaxel administered prior to ifosfamide in the first phase of the study, and reversal of the order of administration in the second part. When ifosfamide was given first, there was a higher incidence of gastrointestinal   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical</head><formula xml:id="formula_0">(42%) (73%) (17%) (75%) (61%) (75%) (56%) G d e3-4 3 2 0 1 0 0 3 (%) (16%) (18%) (4%) (33%) Nausea/Vomiting Gde 1 -2 7 2 2 19 12 5 8 (%) (37%) (18%) (33%) (79%) (52%) (63%) (50%) G d e3-4 0 0 1 2 1 0 2 (%) (17%) (8%) (4%) (13%) Constipation G d e1-2 3 1 0 1 1 5 1 4 (%) (16%) (9%) (46%) (22%) (13%) (25%) G d e3-4 0 1 0 0 2 0 0 (%) (9%) (9%) Mucositis G d e1-2 3 2 1 2 2 1 4 (%) (16%) (18%) (17%) (8%) (22%) (13%) (25%) G d e3-4 0 0 0 0 0 0 2 (%) (13%) Encephalopathy 0 0 0 2 0 1 5 Diarrhoea G d e1-2 4 4 1 5 3 0 3 (%) (21%) (36%) (17%) (21%) (13%) 0 (19%) G d e3-4 0 1 0 0 0 0 0 0 (%) (9%)</formula><p>toxicity including vomiting and diarrhoea. As well, the DLT of neutropenic fever (common to both schedules) occurred at a lower dose when the ifosfamide was administered prior to docetaxel. The MTD occurred at docetaxel 85 mg/m 2 and ifosfamide 5000 mg/m 2 , and the authors recommended that docetaxel be given prior to ifosfamide. In contrast to our study, there were no episodes of ifosfamide encephalopathy noted, and greater than 50% incidence of mild peripheral neuropathy, possibly due to a higher cumulative dose of docetaxel delivered <ref type="bibr" target="#b14">(Pronk et al, 1998)</ref>. It is difficult to compare different schedules of ifosfamide for relative efficacy or toxicity. However the total dose of ifosfamide deliverable in combination with 75 mg/m 2 docetaxel is greater with a 3-day infusion (8500 mg/m 2 ) than with a 24-hour infusion (5000 mg/m 2 ). Anti-tumour activity was seen at all dose levels. Of particular interest were the responses seen in two of four patients with adenocarcinoma of the oesophagus, and in two of four patients with non-small cell lung cancer.</p><p>In conclusion, the combination of docetaxel and infusional ifosfamide for patients with advanced cancer is tolerable and effective. The recommended dose for phase II studies is docetaxel 75 mg/m 2 day 1 and ifosfamide 2500 mg/m 2 on days 1 -3 for previously untreated, good performance status patients, and docetaxel 75 mg/m 2 and ifosfamide 2250 mg/m 2 for previously treated patients. This schedule is worthy of further exploration in nonsmall cell lung cancer and upper gastro-intestinal malignancies.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc>Dose levels</figDesc><table><row><cell>Dose</cell><cell>Docetaxel</cell><cell>Ifosfamide</cell><cell>No. of</cell><cell>No. cycles</cell></row><row><cell>level</cell><cell>mg/m 2</cell><cell>mg/m 2 /day*</cell><cell>patients</cell><cell>(range)</cell></row><row><cell>1A</cell><cell>75</cell><cell>1500</cell><cell>3</cell><cell>19 (4 -8)</cell></row><row><cell>1</cell><cell>75</cell><cell>1500</cell><cell>3</cell><cell>11 (1 -8)</cell></row><row><cell>2</cell><cell>75</cell><cell>1750</cell><cell>3</cell><cell>6 (1 -3)</cell></row><row><cell>3</cell><cell>75</cell><cell>2000</cell><cell>7</cell><cell>24 (1 -6)</cell></row><row><cell>4</cell><cell>75</cell><cell>2250</cell><cell>6</cell><cell>23 (2 -8)</cell></row><row><cell>5</cell><cell>75</cell><cell>2500</cell><cell>3</cell><cell>8 (2 -4)</cell></row><row><cell>6</cell><cell>75</cell><cell>2750</cell><cell>6</cell><cell>16 (1 -5)</cell></row><row><cell cols="4">*Ifosfamide dose by continuous infusion per day, days 1 -3</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Haematological toxicity</figDesc><table><row><cell></cell><cell>1A</cell><cell>1 (+G)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Dose level</cell><cell>(7G ) *</cell><cell>@</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>6</cell></row><row><cell>No. of patients</cell><cell>3</cell><cell>3</cell><cell>3</cell><cell>7</cell><cell>6</cell><cell>3</cell><cell>6</cell></row><row><cell>No. of Cycles</cell><cell>19</cell><cell>11</cell><cell>6</cell><cell>24</cell><cell>23</cell><cell>8</cell><cell>16</cell></row><row><cell>Neutropenia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>G d e3</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>2</cell><cell>2</cell><cell>0</cell><cell>1</cell></row><row><cell>(% cycles)</cell><cell>(5%)</cell><cell></cell><cell></cell><cell>(8%)</cell><cell>(9%)</cell><cell></cell><cell>(6%)</cell></row><row><cell>Gde 4</cell><cell>12</cell><cell>3</cell><cell>1</cell><cell>14</cell><cell>11</cell><cell>6</cell><cell>15</cell></row><row><cell>(% cycles)</cell><cell>(63%)</cell><cell cols="6">(27%) (16%) (58%) (48%) (75%) (94%)</cell></row><row><cell>Febrile neutropenia</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>4</cell><cell>2</cell><cell>0</cell><cell>4</cell></row><row><cell>Thrombocytopenia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Gde 1 -2</cell><cell>3</cell><cell>6</cell><cell>1</cell><cell>10</cell><cell>4</cell><cell>4</cell><cell>10</cell></row><row><cell>(% cycles)</cell><cell>(16%)</cell><cell cols="6">(55%) (17%) (42%) (17%) (50%) (63%)</cell></row><row><cell>G d e3-4</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>2</cell><cell>0</cell><cell>1</cell><cell>4</cell></row><row><cell>(% cycles)</cell><cell>(5%)</cell><cell></cell><cell></cell><cell>(8%)</cell><cell></cell><cell cols="2">(13%) (25%)</cell></row><row><cell cols="3">*; without G-CSF, @; with G-CSF</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4</head><label>4</label><figDesc>Non-haematological toxicities</figDesc><table><row><cell></cell><cell>1 A</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>6</cell></row><row><cell>No. of patients</cell><cell>3</cell><cell>3</cell><cell>3</cell><cell>7</cell><cell>6</cell><cell>3</cell><cell>6</cell></row><row><cell>No. of Cycles</cell><cell>19</cell><cell>11</cell><cell>6</cell><cell>24</cell><cell>23</cell><cell>8</cell><cell>16</cell></row><row><cell>Fatigue</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Gde 1 -2</cell><cell>8</cell><cell>8</cell><cell>1</cell><cell>18</cell><cell>14</cell><cell>6</cell><cell>9</cell></row><row><cell>(%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>ª 2002 Cancer Research UK British Journal of Cancer (2002) 87(8), 846 -849</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>British Journal of Cancer (2002) 87(8), 846 -849 ª 2002 Cancer Research UK</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>The authors wish to acknowledge the following clinicians for their contribution to this study: <rs type="person">Dr D Bell</rs>, <rs type="person">Dr H Wheeler</rs>, <rs type="person">Dr D Goldstein</rs> and <rs type="person">Professor M Friedlander</rs>.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Phase II study of weekly docetaxel in patients with metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Takatsuka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="286" to="292" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Taxotere. Docetaxel:RP56976. Integrated safety summary. Updated analysis 25 October 1994</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bizzari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Bail</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+		<respStmt>
+			<orgName>Data on file Rhone-Poulenc Rorer</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Ifosfamide by continuous infusion to prevent encephalopathy</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cerny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Castiglione</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kupfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Martinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lind</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">335</biblScope>
+			<biblScope unit="page">175</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacokinetic study of Taxotere (RP 56976; NSC 628503) given as a short intravenous infusion</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Extra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rousseau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clavel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marty</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1037" to="1042" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Phase II study of docetaxel in patients with epithelial ovarian carcinoma refractory to platinum</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Kavanagh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kudelka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>De Leon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tresukosol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Finnegan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Varma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Forman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Freedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Verschraegen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="837" to="842" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The integration of docetaxel into first-line chemotherapy for ovarian cancer</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Kaye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Gynecol Cancer</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">Suppl 1</biblScope>
+			<biblScope unit="page" from="31" to="33" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Intensive induction-sequential chemotherapy with BOP/VIP-B compared with treatment with BEP/EP for poor-prognosis metastatic nonseminomatous germ cell tumor: a Randomized Medical Research Council/European Organization for Research and Treatment of Cancer study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Mead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fossa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cullen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Wit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bodrogi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Van Groeningen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sylvester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Collette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stenning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Prijck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lallemand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Demuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="692" to="701" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The effect of route of administration and fractionation of dose on the metabolism of ifosfamide</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Lind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thatcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Idle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="105" to="111" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Prediction of ifosfamide/mesna associated encephalopathy</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Meanwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Honigsberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Blackledge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="815" to="819" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Reporting results of cancer treatment</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hoogstraten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Staquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Winkler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="207" to="214" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Ifosfamide, carboplatin, and etoposide: a highly effective cytoreduction and peripheral-blood progenitor-cell mobilization regimen for transplant-eligible patients with non-Hodgkin&apos;s lymphoma</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Moskowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Bertino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Glassman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Hedrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hunte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Coady-Lyons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Agus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jurcic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Noy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Portlock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Straus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Childs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Yahalom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Filippa</forename><forename type="middle">D</forename><surname>Louie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Zelenetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="3776" to="3785" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Phase II study of docetaxel, doxorubicin, and cyclophosphamide as first-line chemotherapy for metastatic breast cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Nabholtz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Mackey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Smylie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Paterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Noel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Al-Tweigeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tonkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>North</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Azli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Riva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="314" to="321" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Phase I trial of Taxotere: five-day schedule</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pazdur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fuentes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benvenuto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bready</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="1781" to="1788" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The treatment of soft tissue sarcomas with focus on chemotherapy: a review</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Pinedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="193" to="205" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Phase I study on docetaxel and ifosfamide in patients with advanced solid tumours</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Pronk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schrijvers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>De Bruijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Planting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Locci-Tonelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Groult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Oosterom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="153" to="158" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Phase II trial of docetaxel in advanced anthracycline-resistant or anthracenedione-resistant breast cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Ravdin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iii</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Eisenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Bierman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mortimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Genevois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Bellet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="2879" to="2885" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Docetaxel (Taxotere)-cisplatin (TC): an effective drug combination in gastric carcinoma. Swiss Group for Clinical Cancer Research (SAKK), and the European Institute of Oncology (EIO)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Maibach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Martinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fazio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Aapro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Pagani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Morant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Borner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Herrmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Honegger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cavalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Alberto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Castiglione</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goldhirsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="301" to="306" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Prospective randomized trial of docetaxel versus best supportive care in patients with non-small-cell lung cancer previously treated with platinum-based chemotherapy</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dancey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ramlau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mattson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gralla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'rourke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gressot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vincent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Coughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Berille</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2095" to="2103" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phase II study of cisplatin, ifosfamide, and etoposide combination for advanced non-small cell lung cancer: final report</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shirinian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Dhingra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Hong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="58" to="63" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Neoadjuvant chemotherapy in breast cancer: significantly enhanced response with docetaxel</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Heys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Hutcheon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Payne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Ah-See</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Eremin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Sarkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Eggleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Ogston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1456" to="1466" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase I study of docetaxel administered as a 1-hour intravenous infusion on a weekly basis</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tomiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Piccart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Awada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>De Valeriola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1458" to="1467" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Ifosfamide encephalopathy: a reappraisal</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Watkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Husband</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Warenius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1303" to="1310" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

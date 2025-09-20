@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase I and pharmacological study of the matrix metalloproteinase inhibitor BB-3644 in patients with solid tumours</title>
+				<funder ref="#_5Wjjpk4">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">L</forename><surname>Wall</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Cancer Research UK Oncology Unit</orgName>
+								<orgName type="institution">Western General Hospital</orgName>
+								<address>
+									<postCode>EH4 2XR</postCode>
+									<settlement>Edinburgh</settlement>
+									<country>Scotland UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Talbot</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Cancer Research UK Medical Oncology Unit</orgName>
+								<orgName type="institution">Churchill Hospital</orgName>
+								<address>
+									<postCode>OX3 7LJ</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Bradbury</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Cancer Research UK Medical Oncology Unit</orgName>
+								<orgName type="institution">Churchill Hospital</orgName>
+								<address>
+									<postCode>OX3 7LJ</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Jodrell</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Cancer Research UK Oncology Unit</orgName>
+								<orgName type="institution">Western General Hospital</orgName>
+								<address>
+									<postCode>EH4 2XR</postCode>
+									<settlement>Edinburgh</settlement>
+									<country>Scotland UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A phase I and pharmacological study of the matrix metalloproteinase inhibitor BB-3644 in patients with solid tumours</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1FC034C65B084887DDF310D83DC2991D</idno>
+					<idno type="DOI">10.1038/sj.bjc.6601594</idno>
+					<note type="submission">Received 9 October 2003; revised 26 November 2003; accepted 26 November 2003</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-15T00:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>BB-3644</term>
+					<term>matrix metalloprotease inhibitor</term>
+					<term>phase I</term>
+					<term>pharmacokinetics</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>BB-3644 is an oral, broad-spectrum matrix metalloproteinase inhibitor (MMPI) structurally related to marimastat and BB-94. It is also 410-fold more active than marimastat in inhibiting the processing of cell-bound TNF-a. Preclinical studies suggested a favourable toxicity profile when compared to marimastat, and therefore it was selected for clinical evaluation. Patients with advanced solid tumours against which established treatments had failed, or for which no satisfactory treatment exists and of good performance status, were eligible. Treatment consisted of twice daily (bd) oral BB-3644 for 84 days. The initial dose was 5 mg bd, and subsequent cohorts were treated with 10, 20 and 30 mg bd. In all, 22 patients were enrolled. The dose-limiting toxicity (DLT) was musculoskeletal pain. For 28 days of treatment with BB-3644, 20 mg bd was the maximum tolerated dose (MTD), as at 30 mg bd, six of nine patients developed significant musculoskeletal toxicity by day 28. Following chronic oral dosing (428 days) with BB-3644, three of five patients treated at 10 mg bd developed musculoskeletal DLT by day 84, defining the MTD as 5 mg bd. As dose-limiting musculoskeletal toxicity was encountered at doses of BB-3644 unlikely to provide an advantage over currently available MMPIs, further evaluation is not recommended.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>There are more than 20 members of the matrix metalloproteinase (MMP) family of zinc-dependent proteinases, which are involved in degradation of the extracellular matrix. They have been implicated in the processes of tumour growth, invasion and metastasis <ref type="bibr" target="#b3">(Nelson et al, 2000)</ref>. Inhibition of the MMPs inhibits tumour cell invasion in vitro, and reduces metastasis formation after injection of malignant cells in xenograft models <ref type="bibr" target="#b3">(Nelson et al, 2000)</ref>.</p><p>The role of the MMPs in tumour invasion and metastasis prompted the development of therapeutic strategies targeting MMPs. Marimastat was the first orally bioavailable MMP inhibitor (MMPI) to enter clinical testing. Musculoskeletal pain and inflammation were the treatment-limiting toxicities <ref type="bibr" target="#b9">(Wojtowicz-Praga et al, 1998;</ref><ref type="bibr" target="#b8">Tierney et al, 1999;</ref><ref type="bibr" target="#b1">Evans et al, 2001)</ref>. Cumulative toxicity often necessitated treatment interruption and subsequent dose reduction or termination of therapy. Phase I and II studies reported a reduction in the rate of rise of tumour markers associated with MMPI administration, and an apparent associated prolongation of survival <ref type="bibr" target="#b4">(Nemunaitis et al, 1998)</ref>. Although some authors have reported clinical benefit in association with MMPI administration with respect to the reaccumulation of effusions <ref type="bibr" target="#b2">(Macaulay et al, 1999)</ref> or pain <ref type="bibr" target="#b1">(Evans et al, 2001)</ref>, randomised studies have shown no evidence of a survival advantage following MMPI administration <ref type="bibr" target="#b5">(Phuphanich et al, 2001;</ref><ref type="bibr">Bramhall et al, 2002a, b;</ref><ref type="bibr" target="#b7">Shepherd et al, 2002;</ref><ref type="bibr" target="#b6">Rosenbaum et al, 2003)</ref>.</p><p>Due to the role of MMPs in tumour invasion and metastasis, there is interest in chronic administration for patients with minimal residual disease. Attempts have therefore continued to develop MMPIs with a more favourable toxicity profile than currently available agents.</p><p>BB-3644 was developed as an oral, broad-spectrum MMPI. It is structurally related to marimastat and BB-94, in that it is a hydroxamic acid-based metalloproteinase inhibitor. It demonstrates activity against the different subtypes of MMP ranging between an IC 50 of 3 nM against collagenase-3 to 80 nM against gelatinase A. It also shows activity against the unrelated metalloproteinase enkephalinase (IC 50 40 nM). It is more than 10-fold more active than marimastat in the inhibition of the processing of cell-bound TNF-a.</p><p>In animal studies, BB-3644 showed activity in inhibiting tumour growth in a range of tumour models including the MDA-435 human breast carcinoma and B16-BL6 murine melanoma models <ref type="bibr">(British Biotech, unpublished data)</ref>. In a model of lung colonisation by HODP.IP rat mammary carcinoma cells, BB-3644 had similar antitumour activity to marimastat, but, unlike marimastat, did not cause tendinitis of the hind limbs <ref type="bibr">(British Biotech, unpublished data)</ref>.</p><p>Toxicity studies in animals have shown the principal toxicity of BB-3644 in marmosets and rhesus macaques was cell debris in the gall bladder, with mucosal erosions and epithelial hyperplasia. In dogs, ocular changes consisting of conjunctival hyperaemia, chemosis, corneal stromal limbal vascularisation and diffuse corneal haze and flocculation were noted. Encephalopathy occurred at higher doses. In marmosets, BB-3644 induced inflammation of joint ligaments and tendons (British Biotech, unpublished data).</p><p>The primary aims of this study were:</p><p>K to determine the DLT and maximum tolerated dose (MTD) of BB-3644 administered on a protracted daily oral dosing schedule; K to recommend a dose for further activity studies; K to evaluate the PK parameters of BB-3644.</p><p>The secondary aim of this study was:</p><p>K To seek preliminary evidence of antitumour activity and clinical benefit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study centres</head><p>The study was performed at the Cancer Research UK Oncology Units at the Churchill Hospital, Oxford, England and the Western General Hospital, Edinburgh, Scotland. The trial was designed to comply with the ethical principals of Good Clinical Practice in accordance with the Declaration of Helsinki. The study was approved by the Medicine and Clinical Oncology Research Ethics Subcommittee, Lothian Research Ethics Committee (Reference 1999/4/119) and the Oxford Research Ethics Committee (C00.149). All patients gave written, informed consent prior to studyscreening procedures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pretreatment evaluation</head><p>Patients were eligible for the study if they had a histologically proven diagnosis of a solid tumour for which no satisfactory treatment exists or against which established treatments had failed.</p><p>Patients over the age of 18 were required to be of ECOG performance status 0, 1 or 2, and to have a predicted survival of at least 3 months. All patients had satisfactory haematological function, as defined by a haemoglobin level X10 g dl À1 , neutrophil count X1.5 Â 10 9 l À1 and a platelet count X100 Â 10 9 l À1 . They also had to have satisfactory renal and hepatic function, with a serum creatinine within the normal range (p110 mmol l À1 ) and/or calculated creatinine clearance X60 ml min À1 , serum bilirubin p17 mmol l À1 and other liver function tests less than twice the upper limit of the normal.</p><p>Patients with upper gastrointestinal cancers were excluded, as it was felt that this may alter the pharmacokinetics of an orally administered drug. Patients with recent ocular surgery were also excluded. In premenopausal women, pregnancy was excluded and adequate contraception was required for the duration of treatment and follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and treatment</head><p>This was a phase I, open-label, dose-escalation study. BB-3644 was supplied as capsules comprising 5, 10, 20 and 40 mg BB-3644 (with maize starch, colloidal silica, magnesium stearate and lactose) by British Biotech Pharmaceuticals Ltd, UK. BB-3644 was administered orally twice daily for 84 days to cohorts of patients at doses 5, 10, 20 and 30 mg. Dose escalation was performed in subsequent cohorts if three patients had been treated at a dose level without dose-limiting toxicity (DLT) by day 28. Dose-limiting toxicity was defined as 'an adverse reaction likely to be caused by the study drug and unlikely to be attributed to concurrent disease or other drugs or chemicals'. Essentially, any toxicity graded by CTC criteria as at least grade II was considered to be a DLT, as this could preclude chronic oral administration of a drug. If one patient experienced DLT, the cohort size was increased to six patients for that dose level. Further dose escalation was performed, provided that no more than two of the six patients experienced DLT by day 28. Nine patients were to be treated at the highest dose level. Patients experiencing DLT were eligible to continue treatment at a reduced dose following resolution of toxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>Blood samples were collected in heparinised tubes before treatment, every 15 min for 2 h, at 2 h 30 min, 3, 4, 6, 8, 10 and 24 h on days 1 and 14 for the measurement of BB-3644. Blood samples were kept on ice. They were centrifuged at 41C (1500 g for 10 min) within 30 min of collection. The supernatant plasma was collected and frozen at À701C or cooler, until sent for analysis. Samples were analysed centrally in the Department of Drug Metabolism and Pharmacokinetics at British Biotech, UK.</p><p>Samples were analysed for BB-3644 content using a validated reverse-phase HPLC method with mass spectrometric detection. The limit of quantification was 1 ng ml À1 . The data were analysed using WinNonlin v2.1 Standard version (Pharsight Corporation, USA). PK parameters were derived from individual plasma concentration -time data, using noncompartmental analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Monitoring</head><p>Physical examination, chest radiograph, haematology and serum chemistry were checked at baseline, every 4 weeks and at study termination. Abdominal ultrasound scans were performed at the same times, with particular attention to the gallbladder in view of the gallbladder lesions found in animal studies. Patients were also reviewed by an opthalmologist at these times, to check the visual acuity, visual fields, and examine the whole eye and the fundi.</p><p>Disease assessment was performed at baseline and repeated at 84 days or at withdrawal from the study. Patients were reviewed 4 weeks after withdrawal from the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient demographics</head><p>Between November 1999 and March 2001, 22 patients were treated within the study. One patient entered did not fully meet the inclusion criteria on the basis of hepatic function, as alkaline phosphatase and gamma-GT were increased to twice the upper limit of the reference range, but data from this patient have been included in the analysis. Two patients had creatinine levels above that specified in the protocol, but within the normal range of their local laboratory, and were deemed eligible.</p><p>The characteristics of patients within the study are listed in Table <ref type="table" target="#tab_1">1</ref>. The patients were relatively young (median age 55.5 years, range 31 -71 years). The majority of patients (86%) had previously received chemotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment administered</head><p>Early dose levels were expanded, as per protocol, due to patient drop-out before day 28. At 5 mg bd, two patients withdrew within 4 weeks, one due to an adverse event not considered to be related to the study drug, and one due to disease progression. These patients were replaced in the study. As these events were not considered to be related to the study drug, this was not considered to represent DLT. At 10 mg bd, again patient withdrawal was not considered to be related to the study drug, so dose escalation continued. At 20 mg bd, all patients completed 28 days of treatment without experiencing DLT, so the dose was increased to 30 mg bd. At this dose, two patients received less than 4 weeks of treatment, and so were replaced. Three other patients were withdrawn before completion of the 84 days of treatment, two due to adverse events and one due to disease progression. For 28 days of treatment with the drug 20 mg bd was therefore considered to be the MTD.</p><p>One patient, treated at 10 mg bd, had stable disease after 84 days of treatment, and continued the study drug on an extension protocol. While in the extension phase of the study, she had a pulmonary embolus, and subsequently further thromboembolic episodes despite adequate anticoagulation. She died after 250 days on study, after a probable cerebrovascular infarction with a leftsided hemiparesis.</p><p>One patient in the 30 mg bd group received 20 mg on days 0 and 1, and so, for PK analysis, was included with the 20 mg bd group on day 0 and with the 30 mg bd group on day 14.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adverse events and DLTs</head><p>There was no significant opthalmological or gall bladder-related toxicity seen. All patients did, however, experience adverse events during the study. These were considered to be treatment-related in three patients at 5 mg bd, five at 10 mg bd, one at 20 mg bd and eight at 30 mg bd. The most common treatment-related events were musculoskeletal in nature and were reported for one, three, one and eight patients, respectively. Recovery from musculoskeletal toxicity was often delayed, but was not related to the dose, type of event or NCI CTC grade. At 5 -20 mg bd, 94% of musculoskeletal events resolved, with a median time to resolution of 175 days. At 30 mg bd, only 78% of events resolved, but the median time to resolution was 49 days.</p><p>The musculoskeletal events were considered dose-limiting in three patients at 10 mg bd, and six at 30 mg bd (Table <ref type="table" target="#tab_2">2</ref>). The dose was escalated, according to the protocol, if three patients had been treated at that dose for 28 days, without experiencing DLT. The dose was therefore increased, despite the high proportion of patients experiencing DLTs at early dose levels.</p><p>Two patients experienced dose-limiting malaise (NCI CTC toxicity 4grade 1) on treatment, considered to be possibly related to the study drug. Two patients developed phlebitis, and one of these patients subsequently had a deep venous thrombosis and pulmonary embolism. Again, there was considered to be a possible relationship to the study drug. Other symptoms considered to be possibly related to the study medication were taste changes (one patient), shortness of breath (one patient), neurosensory changes (one patient) and anorexia (one patient).</p><p>Serious adverse events (SAEs) consisted of events requiring hospitalisation (seven patients) and events resulting in death (two patients). SAEs were reported for eight patients during the main study and for a ninth patient during the continuation of treatment.</p><p>One SAE was considered to be possibly related to the study drug (thromboembolic episodes). This was attributed to the drug, on the basis of the temporal relationship between drug administration and the development of thromboembolic phenomena. Thromboembolic episodes have not previously been reported in relation to MMPI administration.</p><p>All other SAEs were considered to be related to the underlying malignancy. These consisted of sepsis (one patient); nausea and vomiting (two patients); hypercalcaemia (two patients); abdominal pain (two patients) and acute renal failure (one patient).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of response</head><p>Response was formally assessed radiologically after 3 months of therapy. Of the 13 patients that completed 12 weeks of therapy, two had stable disease and 11 had progressive disease radiologically. Three patients completed less than 28 days of therapy, and disease was therefore deemed nonevaluable. Five patients progressed clinically and one patient progressed radiologically prior to the 3month timepoint. It was therefore concluded that in our study we had no evidence of beneficial therapeutic activity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plasma pharmacokinetics</head><p>On the days of PK sampling, only the morning dose of BB-3644 was taken. On day 0, BB-3644 was rapidly absorbed (Figure <ref type="figure">1</ref>; Phase I study of BB-3644</p><p>Table <ref type="table">3</ref>), achieving a mean maximal concentration between 30 and 90 min following administration. The maximal concentration achieved was dose-dependent and linear, varying between 58 and 315 ng ml À1 for the maximum BB-3644 dose. The initial decline in plasma concentrations was rapid and elimination was multiphasic, with BB-3644 detectable 24 h after dosing.</p><p>After repeated oral administration (day 14) (Figure <ref type="figure">2</ref> and Table <ref type="table">3</ref>), the drug was again rapidly absorbed. The mean maximum concentration achieved was higher than that on day 1 (134 -536 ng ml À1 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In this phase I study of the novel matrix metalloprotease inhibitor BB-3644 administered by mouth twice daily, the start dose was 5 mg bd and the dose was escalated to a dose of 30 mg bd, based on the incidence of toxicities before day 28. Dose escalation was discontinued at a dose of 30 mg bd, due to the development of significant musculoskeletal toxicity in six out of nine patients by day 28.</p><p>When treatment was continued beyond 28 days, however, patients developed DLT at ALL doses of BB-3644. For a 28-day administration of BB-3644, 20 mg might be considered to be the MTD. However, it is anticipated that administration of such agents should be tolerable over longer periods and therefore, for chronic oral administration, 5 mg bd could have been considered to be the MTD, as three out of five patients developed DLT at 10 mg bd within 84 days.</p><p>The DLT was musculoskeletal. Musculoskeletal DLTs were recorded in 14 of the patients (64%). No other DLT was observed in more than two patients (9% of patients).</p><p>PK analysis demonstrated that the BB-3644 was rapidly absorbed when orally administered and the drug was still identifiable after 24 h. At the maximum dose of BB-3644, we achieved an AUC of 4401 ng h ml À1 . In the phase I studies of marimastat, the AUC achieved at the MTD was 2623 ng h ml À1 (Wojtowicz-Praga et al, 1998), which had been our target AUC in this study. The PK assessment confirmed that our dosing strategy had been appropriate to achieve adequate plasma exposure of the drug.</p><p>It had been hoped that, by virtue of its different biochemical profile, BB-3644 would be better tolerated than marimastat with respect to musculoskeletal toxicity. Indeed, preclinical cancer models and toxicity studies had indicated that an improved therapeutic margin might be achievable in patients. The tolerability of BB-3644 in our study was no better than that reported in phase I and II studies of marimastat, with a very similar pattern of musculoskeletal toxicity <ref type="bibr" target="#b9">(Wojtowicz-Praga et al, 1998;</ref><ref type="bibr" target="#b8">Tierney et al, 1999;</ref><ref type="bibr" target="#b1">Evans et al, 2001)</ref>.</p><p>In view of the toxicity that was experienced at dose levels associated with similar plasma exposure, it was felt unlikely that the drug offered any benefit over currently available MMPIs and clinical development was terminated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Chronic oral administration of BB-3644 in patients with cancer is associated with musculoskeletal toxicities from doses of 5 mg bd upwards, and offers no advantage over marimastat in terms of systemic exposure and tolerability.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>Total patients treated</cell><cell>22</cell></row><row><cell>Male/female</cell><cell>13/9</cell></row><row><cell>Age (years)</cell><cell></cell></row><row><cell>Median</cell><cell>55.5</cell></row><row><cell>Range</cell><cell>31 -71</cell></row><row><cell>WHO performance status</cell><cell></cell></row><row><cell>0</cell><cell>6</cell></row><row><cell>1</cell><cell>1 5</cell></row><row><cell>2</cell><cell>1</cell></row><row><cell>Primary tumour site</cell><cell></cell></row><row><cell>Carcinoma (not otherwise specified)</cell><cell>5</cell></row><row><cell>Cervical cancer</cell><cell>2</cell></row><row><cell>Colorectal cancer</cell><cell>6</cell></row><row><cell>Lung cancer</cell><cell>8</cell></row><row><cell>Ovarian cancer</cell><cell>1</cell></row><row><cell>Previous treatment</cell><cell></cell></row><row><cell>Surgery</cell><cell>13</cell></row><row><cell>Chemotherapy</cell><cell>19</cell></row><row><cell>Radiotherapy</cell><cell>12</cell></row><row><cell>Hormone/immuno/biological therapy</cell><cell>2</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Dose-limiting toxicity</figDesc><table><row><cell></cell><cell>Toxicity within 28 days</cell><cell>Toxicity at any time</cell></row><row><cell>5 mg bd</cell><cell>1/5 (20%)</cell><cell>1/5 (20.0%)</cell></row><row><cell>10 mg bd</cell><cell>0/5</cell><cell>3/5 (60.0%)</cell></row><row><cell>20 mg bd</cell><cell>0/3</cell><cell>1/3 (33.3%)</cell></row><row><cell>30 mg bd</cell><cell>4/9 (44%)</cell><cell>6/9 (66.7%)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>British Journal of Cancer (2004) 90(4), 800 -804 &amp; 2004 Cancer Research UK Clinical</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>We thank <rs type="person">Mr R Rye</rs> and <rs type="person">Sr S Wellman</rs> for help with data management. We also thank <rs type="person">Drs Bal Dhillon</rs> and <rs type="person">Lynda Lindsall</rs> for opthalmological review of the patients. Clinical trial costs were reimbursed by <rs type="institution">British Biotech Pharmaceuticals Ltd</rs>, Oxford <rs type="grantNumber">OX4 5LY, UK</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_5Wjjpk4">
+					<idno type="grant-number">OX4 5LY, UK</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REFERENCES</head><p>Patient 18 received 20 mg bd in error on days 0 and 1, but his data are included with those of the 30 mg bd group. Phase I study of BB-3644</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">a) A double-blind placebo-controlled, randomised study comparing gemcitabine and marimastat with gemcitabine and placebo as first line therapy in patients with advanced pancreatic cancer</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Bramhall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nemunaitis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Buckels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="161" to="167" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A phase II trial of marimastat in advanced pancreatic cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Buckels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Imrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Neoptolemos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1865" to="1870" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Phase I study of intrapleural batimastat (BB-94), a matrix metalloproteinase inhibitor, in the treatment of malignant pleural effusions</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Macaulay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Braybrooke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gleeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Talbot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="513" to="520" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Matrix metalloproteinases: biologic activity and clinical implications</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fingleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Rothenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Matrisian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1135" to="1149" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Combined analysis of studies of the effects of the matrix metalloproteinase inhibitor marimastat on serum tumour markers in advanced cancer: selection of a biologically active and tolerable dose for longer-term studies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nemunaitis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Poole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Primrose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosemurgy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Malfetano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Berrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cornish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Millar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1101" to="1109" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A multicenter, randomized, double-blind, placebo (PB) controlled trial of marimastat (MT) in patients with glioblastoma multiforme (GBM) or gliosarcoma (GS) following completion of conventional, first-line treatment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Phuphanich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Yung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Forsyth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Maestro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Perry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Onc</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">205</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Evidence of a dose/response relationship with marimastat in patients with biochemically relapsed prostate cancer</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rosenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sinibaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Carducci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zahurak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Denmeade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sokoll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pertin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eisenberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Onc</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">1762</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prospective, randomized, double-blind, placebo-controlled trial of marimastat after response to first-line chemotherapy in patients with small-cell lung cancer: a trial of the National Cancer Institute of Canada-Clinical Trials Group and the European Organization for Research and Treatment of Cancer</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Giaccone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Debruyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bezjak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hirsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Smylie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lamont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Krzakowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sadura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="4434" to="4439" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A pilot study of the safety and effects of the matrix metalloproteinase inhibitor Marimastat in gastric cancer</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Tierney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kasem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Lury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Millar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rjc</forename><surname>Steele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Parsons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="563" to="568" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Phase I trial of Marimastat, a novel matrix metalloproteinase inhibitor, administered orally to patients with advanced lung cancer</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wojtowicz-Praga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Torri</forename><forename type="middle">J</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ness</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dickson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Avanzato</forename><surname>Chiodo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2150" to="2156" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

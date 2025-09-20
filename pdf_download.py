@@ -3,34 +3,32 @@ import pandas as pd
 import os
 
 # Read the table
-df = pd.read_csv('drugcombo-data-main/observed_dlt.csv', sep=',')  # or sep=',' if CSV
-pmids = df['PMID'].dropna().astype(str).unique()
+df = pd.read_csv("drugcombo-data-main/observed_dlt.csv", sep=",")  # or sep=',' if CSV
+pmids = df["PMID"].dropna().astype(str).unique()
 
 # Set save path
-os.makedirs('pdfs', exist_ok=True)
+os.makedirs("pdfs", exist_ok=True)
 
 # Unpaywall requires email as identification
-EMAIL = 'zhiyis3@illinois.edu'
+EMAIL = "zhiyis3@illinois.edu"
+
 
 def get_doi_from_pmid(pmid):
     """Get DOI from PMID via PubMed API"""
     url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
-    params = {
-        "db": "pubmed",
-        "id": pmid,
-        "retmode": "json"
-    }
+    params = {"db": "pubmed", "id": pmid, "retmode": "json"}
     res = requests.get(url, params=params)
     if res.status_code == 200:
         try:
             data = res.json()
-            article = data['result'][pmid]
+            article = data["result"][pmid]
             for id_ in article.get("articleids", []):
                 if id_["idtype"] == "doi":
                     return id_["value"]
         except Exception:
             return None
     return None
+
 
 def get_pdf_link_from_doi(doi):
     """Get open access PDF link via Unpaywall API"""
@@ -43,14 +41,18 @@ def get_pdf_link_from_doi(doi):
             return data["best_oa_location"]["url_for_pdf"]
     return None
 
+
 def download_pdf(url, filename):
     """Download PDF file"""
     res = requests.get(url)
-    if res.status_code == 200 and 'application/pdf' in res.headers.get('Content-Type', ''):
-        with open(filename, 'wb') as f:
+    if res.status_code == 200 and "application/pdf" in res.headers.get(
+        "Content-Type", ""
+    ):
+        with open(filename, "wb") as f:
             f.write(res.content)
         return True
     return False
+
 
 # Main logic
 for pmid in pmids:
