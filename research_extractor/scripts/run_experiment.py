@@ -6,13 +6,25 @@ from research_extractor.extractor.research_value_extractor import ResearchValueE
 from research_extractor.prompts.builder import PromptBuilder
 from research_extractor.source.abstract import AbstractSource
 from research_extractor.source.pdf import PDFSource
-from research_extractor.util.utils import get_text_files_from_directory, get_xml_files_from_directory
+from research_extractor.util.utils import (
+    get_text_files_from_directory,
+    get_xml_files_from_directory,
+)
 from research_extractor.extractor.research_value_extractor import (
     LLMClient,
 )
 from research_extractor.extractor.research_value_extractor import (
     ResponseJSONDecoder,
 )
+
+# Import evaluation functionality
+try:
+    from research_extractor.eval.evaluate_completeness import FieldCompletenessEvaluator
+
+    EVALUATION_AVAILABLE = True
+except ImportError:
+    EVALUATION_AVAILABLE = False
+    print("Warning: Evaluation module not available. Install required dependencies.")
 
 
 # -------- dataset IO --------
@@ -143,6 +155,41 @@ def run(
     }
 
 
+def run_evaluation(
+    results_file: Path, output_dir: Optional[Path] = None
+) -> Optional[Dict[str, Any]]:
+    """Run field completeness evaluation on the generated results file."""
+    if not EVALUATION_AVAILABLE:
+        print("Evaluation not available. Skipping completeness analysis.")
+        return None
+
+    if not results_file.exists():
+        print(f"Results file not found: {results_file}. Skipping evaluation.")
+        return None
+
+    print(f"\n{'='*60}")
+    print("RUNNING FIELD COMPLETENESS EVALUATION")
+    print(f"{'='*60}")
+
+    try:
+        evaluator = FieldCompletenessEvaluator(str(results_file))
+        stats = evaluator.run_evaluation(
+            create_plots=False, export_results=True  # Skip plots for automated runs
+        )
+
+        if stats and "overall_completeness" in stats:
+            print(f"\nEvaluation completed successfully!")
+            print(f"Overall completeness: {stats['overall_completeness']:.2f}%")
+            return stats
+        else:
+            print("Evaluation completed but no statistics returned.")
+            return None
+
+    except Exception as e:
+        print(f"Error during evaluation: {e}")
+        return None
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument(
@@ -164,9 +211,23 @@ def main():
         default="abstract_jsonl",
         help="Type of input: 'abstract_jsonl' for abstract metadata file, 'pdf_text_dir' for directory of text files",
     )
+    ap.add_argument(
+        "--no-eval",
+        action="store_true",
+        help="Skip running field completeness evaluation after extraction",
+    )
+    ap.add_argument(
+        "--eval-output-dir",
+        type=Path,
+        default=Path("evaluation_outputs"),
+        help="Directory to save evaluation outputs (default: evaluation_outputs)",
+    )
     args = ap.parse_args()
+
+    # Run the extraction process
     metrics = run(args.input, args.output, args.provider, args.fields, args.input_type)
 
+    # Generate summary report
     summary = f"# Run summary\n- Inputs: {metrics['n_inputs']}\n- OK: {metrics['n_ok']}\n- Provider: {metrics['provider']}\n- Input Type: {metrics['input_type']}\n- Output: `{args.output}`\n"
     Path("research_extractor/outputs").mkdir(exist_ok=True)
     Path(f"research_extractor/outputs/report-{args.provider}.md").write_text(
@@ -175,6 +236,42 @@ def main():
     Path(f"research_extractor/outputs/metrics-{args.provider}.json").write_text(
         json.dumps(metrics, indent=2), encoding="utf-8"
     )
+
+    # Run evaluation if not disabled
+    evaluation_stats = None
+    if not args.no_eval:
+        evaluation_stats = run_evaluation(args.output, args.eval_output_dir)
+
+        # Add evaluation results to summary if available
+        if evaluation_stats:
+            summary += f"- Overall Completeness: {evaluation_stats['overall_completeness']:.2f}%\n"
+            summary += f"- Evaluation Results: detailed_completeness_analysis.json\n"
+
+            # Update the report with evaluation results
+            Path(f"research_extractor/outputs/report-{args.provider}.md").write_text(
+                summary, encoding="utf-8"
+            )
+
+    # Final summary
+    print(f"\n{'='*60}")
+    print("EXPERIMENT COMPLETED")
+    print(f"{'='*60}")
+    print(f"Extraction Results:")
+    print(f"  - Total inputs: {metrics['n_inputs']}")
+    print(f"  - Successful extractions: {metrics['n_ok']}")
+    print(f"  - Success rate: {(metrics['n_ok']/metrics['n_inputs']*100):.1f}%")
+    print(f"  - Output file: {args.output}")
+
+    if evaluation_stats:
+        print(f"\nEvaluation Results:")
+        print(
+            f"  - Overall completeness: {evaluation_stats['overall_completeness']:.2f}%"
+        )
+        print(f"  - Detailed analysis: detailed_completeness_analysis.json")
+    elif not args.no_eval:
+        print(f"\nEvaluation: Skipped (evaluation not available)")
+    else:
+        print(f"\nEvaluation: Disabled by user")
 
 
 if __name__ == "__main__":

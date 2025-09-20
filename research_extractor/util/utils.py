@@ -22,15 +22,16 @@ def get_text_files_from_directory(directory: Path) -> List[Path]:
 
     return sorted(text_files)
 
+
 def get_xml_files_from_directory(directory: Path) -> List[Path]:
-        """
-        Get all .xml files from a directory.
-        """
-        if not directory.exists():
-            raise FileNotFoundError(f"Directory not found: {directory}")
+    """
+    Get all .xml files from a directory.
+    """
+    if not directory.exists():
+        raise FileNotFoundError(f"Directory not found: {directory}")
 
-        xml_files = list(directory.glob("*.xml"))
-        if not xml_files:
-            raise ValueError(f"No .xml files found in directory: {directory}")
+    xml_files = list(directory.glob("*.xml"))
+    if not xml_files:
+        raise ValueError(f"No .xml files found in directory: {directory}")
 
-        return sorted(xml_files)
+    return sorted(xml_files)
