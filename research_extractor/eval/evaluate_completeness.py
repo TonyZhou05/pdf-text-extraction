@@ -147,7 +147,26 @@ class FieldCompletenessEvaluator:
             "overall_completeness": self._calculate_overall_completeness(
                 field_stats, total_records
             ),
+            "per_study_completeness": self._calculate_per_study_completeness(),
         }
+
+    def _calculate_per_study_completeness(self):
+        per_study = []
+        for record in self.data:
+            input_id = record.get("input_id")
+            if "result" not in record:
+                continue
+            filled = 0
+            for field in record["result"]:
+                if "name" in field and "value" in field:
+                    if self.is_field_complete(field["value"]):
+                        filled += 1
+            total = len(self.field_names)
+            per_study.append({
+                "input_id": input_id,
+                "completeness_rate": filled / total
+            })
+        return per_study
 
     def _calculate_overall_completeness(
         self, field_stats: Dict, total_records: int
@@ -165,6 +184,25 @@ class FieldCompletenessEvaluator:
             for field in self.field_names
         ]
         return sorted(ranking, key=lambda x: x[1], reverse=True)
+    
+    def get_per_study_stats(self, stats: Dict) -> Dict[str, Any]:
+        """Calculate per-study completeness statistics."""
+        per_study = stats.get("per_study_completeness", [])
+        if not per_study:
+            return {}
+        
+        completeness_rates = [study["completeness_rate"] for study in per_study]
+        
+        return {
+            "total_studies": len(per_study),
+            "avg_completeness": sum(completeness_rates) / len(completeness_rates) * 100,
+            "min_completeness": min(completeness_rates) * 100,
+            "max_completeness": max(completeness_rates) * 100,
+            "studies_100_percent": sum(1 for rate in completeness_rates if rate == 1.0),
+            "studies_80_plus": sum(1 for rate in completeness_rates if rate >= 0.8),
+            "studies_50_plus": sum(1 for rate in completeness_rates if rate >= 0.5),
+            "studies_below_50": sum(1 for rate in completeness_rates if rate < 0.5),
+        }
 
     def print_summary(self, stats: Dict):
         """Print a summary of completeness statistics."""
@@ -176,12 +214,19 @@ class FieldCompletenessEvaluator:
         print(f"Overall Completeness: {stats['overall_completeness']:.2f}%")
         print(f"Total Fields Analyzed: {len(self.field_names)}")
 
-        print("\nField Completeness Ranking:")
-        print("-" * 50)
-        ranking = self.get_field_ranking(stats)
-        for i, (field, percentage) in enumerate(ranking, 1):
-            status = "✓" if percentage >= 80 else "⚠" if percentage >= 50 else "✗"
-            print(f"{i:2d}. {status} {field:<15} {percentage:6.2f}%")
+        # Add per-study statistics
+        per_study_stats = self.get_per_study_stats(stats)
+        if per_study_stats:
+            print(f"\nPer-Study Completeness Statistics:")
+            print("-" * 50)
+            print(f"Average Study Completeness: {per_study_stats['avg_completeness']:.2f}%")
+            print(f"Min Study Completeness: {per_study_stats['min_completeness']:.2f}%")
+            print(f"Max Study Completeness: {per_study_stats['max_completeness']:.2f}%")
+            print(f"Studies with 100% completeness: {per_study_stats['studies_100_percent']}/{per_study_stats['total_studies']}")
+            print(f"Studies with 80%+ completeness: {per_study_stats['studies_80_plus']}/{per_study_stats['total_studies']}")
+            print(f"Studies with 50%+ completeness: {per_study_stats['studies_50_plus']}/{per_study_stats['total_studies']}")
+            print(f"Studies below 50% completeness: {per_study_stats['studies_below_50']}/{per_study_stats['total_studies']}")
+
 
         print("\nDetailed Field Statistics:")
         print("-" * 50)

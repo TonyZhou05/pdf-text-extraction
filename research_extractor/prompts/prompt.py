@@ -46,6 +46,6 @@ fields = \"\"\"{fields}\"\"\"
 
 inputs = {{
     "paper_content": paper_content,
-    "fields": fields
+    "fields": fields{tables_input}
 }}
 """

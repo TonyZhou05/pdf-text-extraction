@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I study of high-dose epirubicin and vinorelbine in previously untreated non-small-cell lung cancer stage IIIB -IV</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">M</forename><surname>Bakker'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Pulmonary Diseases</orgName>
+								<orgName type="institution">University Hospital</orgName>
+								<address>
+									<settlement>Groningen</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hjm</forename><surname>Groen'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Pulmonary Diseases</orgName>
+								<orgName type="institution">University Hospital</orgName>
+								<address>
+									<settlement>Groningen</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Smit'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Pulmonary Diseases</orgName>
+								<orgName type="institution">University Hospital</orgName>
+								<address>
+									<settlement>Groningen</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Smeets2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Riggi2</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Postmus3</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hjm</forename><surname>Groen</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">2Medical Department</orgName>
+								<address>
+									<settlement>Pharmacia</settlement>
+									<country>The Netherlands and Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Pulmonary Diseases</orgName>
+								<orgName type="institution">Free University Hospital</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Pulmonary Diseases</orgName>
+								<orgName type="institution">University Hospital Groningen</orgName>
+								<address>
+									<addrLine>Hanzeplein 1</addrLine>
+									<postCode>9713 GZ</postCode>
+									<settlement>Groningen</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I study of high-dose epirubicin and vinorelbine in previously untreated non-small-cell lung cancer stage IIIB -IV</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">50F5ACF5694E528A18E3E4F7397DF2FB</idno>
+					<note type="submission">Received 24 March 1995; revised 3 July 1995; accepted 10 July 1995.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-14T23:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The aim of the study was to determine the maximum tolerated dose (MTD)  for the combination of high-dose epirubicin and vinorelbine in chemotherapy-naive patients with inoperable non-small-cell lung cancer (NSCLC). Twenty-one patients with stage IIIB and IV NSCLC were treated in a single-centre study with escalating doses of epirubicin and vinorelbine given on an outpatient basis. The first dose level comprised epirubicin 100 mg m-2 on day I and vinorelbine 20 mg m-2 (days 1 and 8) given intravenously every 3 weeks. Escalating doses for epirubicin and vinorelbine were respectively 120 (day 1) and 20 (days I and 8), 120 (day 1) and 25 (days 1 and 8) and 135 (day 1) and 25 (days 1 and 8) mg m2. Inclusion criteria were age &lt;75 years, ECOG performance score &lt; 2 and normal renal, hepatic and bone marrow functions. Dose-limiting toxicities were thrombocytopenia grade II and neutropenia grade III on day 8, febrile neutropenia, and neutropenia lasting &gt;7 days. No dose-limiting toxicity (DLT) was observed at the first dose level; at the 135/25 mg m-2 dose level three out of six patients had a DLT which was considered as unacceptable. The only non-haematological toxicity reaching grade III was nausea/vomiting. One patient showed cardiac toxicity. No neurotoxicity and no treatment-related deaths were seen. The maximum tolerated dose of epirubicin and vinorelbine is 135 mg m-2 (day 1) and 25 mg m-2 (days 1 and 8) respectively, causing mainly haematological toxicity. The recommended dose of epirubicin and vinorelbine for phase II studies is found to be 120 mg m2 and 20mg m2 respectively.</p><p>Keywords: non-small-cell lung cancer; phase I; epirubicin; vinorelbine less than 90% of lower normal institutional limit as measured by multiple ECG-gated radionuclide study (MUGA scan), arrhythmias requiring permanent medication, uncontrolled hypertension or ischaemic heart disease were ineligible. Approval of the Medical Ethical Committee of the Univer- sity Hospital in Groningen, The Netherlands, was obtained, and all patients gave written informed consent before entry into the study. Before treatment all patients underwent baseline measurements of bone marrow and cardiac function and staging procedures including physical examination, chest radiograph, computerised tomography (CT) scan of thorax and upper abdomen, ECG and MUGA scan and laboratory tests including complete blood cell counts, electrolytes, liver</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Patients with non-small-cell lung cancer (NSCLC) are often diagnosed with locally advanced or disseminated disease des- pite few or no symptoms. Median survival for patients with advanced locoregional inoperable NSCLC is 8-10 months <ref type="bibr" target="#b0">(Bunn, 1991)</ref>, for patients with metastatic NSCLC median survival is 6 months <ref type="bibr" target="#b6">(Ihde, 1992)</ref>. To improve the prognosis of patients with inoperable NSCLC, chemotherapy with or without radiotherapy is the only currently available treatment modality. A meta-analysis of results of (combination) chemotherapy trials in these patients has shown improvement of survival compared with best supportive care only (Souquet   et al., 1993), although the benefit at 1 year is only marginal <ref type="bibr" target="#b5">(Grilli et al., 1993)</ref>. A limited number of cytotoxic drugs induce more than 15% objective responses as single agent in NSCLC. One of these agents is epirubicin, the 4' epimer of the anthracycline antibiotic doxorubicin (DXR). The major acute dose-limiting toxicity (DLT) of anthracyclines is myelosuppression; the most important chronic DLT is car- diotoxicity which is manifested as irreversible car- diomyopathy <ref type="bibr" target="#b12">(Plosker et al., 1993)</ref>. In previous comparative studies vs DXR, epirubicin has demonstrated less bone mar- row and cardiac toxicity at equipotent dosages; its major acute DLT is myelosuppression (Launchbury and <ref type="bibr" target="#b8">Habboubi, 1993)</ref>. In NSCLC high-dose epirubicin (&gt; 120 mg m-2) as a single agent has shown promising objective response rates of 21-56% <ref type="bibr" target="#b20">(Wils et al., 1990;</ref><ref type="bibr" target="#b10">Martoni et al., 1991;</ref><ref type="bibr" target="#b18">Villar et al., 1991;</ref><ref type="bibr" target="#b3">Feld et al., 1992;</ref><ref type="bibr" target="#b14">Smit et al., 1992)</ref>. One way to improve these results is to combine high-dose epirubicin with other active agents in NSCLC. Vinorelbine (nor-5'anhydrovinblastine) is a new semisynthetic vinca alkaloid chemically different from vinblastine by a substitution of the catharan- thine moiety. Like other vinca alkaloids, vinorelbine inhibits tubulin polymerisation into microtubules, and as in the parent vinblastine, neurotoxicity appears to be mild (Kri- korian et al., 1991; Zhou et al., 1992). Vinorelbine has been under investigation in phase II trials and showed activity against NSCLC with response rates ranging from 14% to 65% (Cvitovic et al., 1992; Sorensen, 1992; Lilenbaum et al.,  1993). The major toxicities of vinorelbine are myelosuppression and nausea and vomiting. One large multicentre study has shown favourable survival rates for vinorelbine combined with cisplatin compared with single-agent vinorelbine <ref type="bibr" target="#b1">(Le Chevalier et al., 1994)</ref>. We conducted a phase I study com- bining high-dose epirubicin with vinorelbine in stage IIIB/IV NSCLC patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and staging</head><p>Between March 1992 and January 1994 21 patients were entered into this study. Eligibility criteria were histologically proven NSCLC with disseminated or unresectable disease not amenable to surgery. No prior chemotherapy was allowed. Patients who had received prior radiotherapy had to have finished treatment at least 4 weeks before entry. Additional inclusion criterion were age between 18 and 75 years, Eastern Cooperation Oncology Group (ECOG) performance score (PS) &lt; 2, white blood count (WBC) &gt;4.0 x 1091-1, neut- rophils&gt;2.0 x 1091-, platelets &gt; 100 x 1091-, bilirubin&lt; 35 tmoll-[ and creatinine&lt;120tgmoll1'. Patients wtih symptomatic brain metastases, myocardial infarction within the last 12 months, left ventricular ejection fraction <ref type="bibr">(LVEF)</ref> 4,8 tigraphy or CT scan of the brain were performed on indica- tion of suspected metastases.</p><p>Toxicity Toxicity was measured according to the WHO grading system (WHO, 1978). Complete blood cell counts including WBC and differentials were performed on days 1, 8, 10, 12, 15, 17 and 22 of each course. In the last week of each course an ECG was obtained, and liver and renal functions as well as tumour measurements and toxicity scores were deter- mined. LVEF was measured by MUGA scan after three cycles and/or at discontinuation of therapy. Patients who completed treatment were assessed for chronic toxicity every 2 months until death. Haematological DLT was defined as WHO grade III neutropenia or thrombocytopenia grade II on day 8, grade IV neutropenia lasting longer than 7 days, febrile neutropenia or thrombocytopenia grade IV at any time during the cycle. Non-haematological DLT was defined as any toxicity exceeding WHO grade II (except alopecia) and nausea and vomiting exceeding WHO grade III. Cardiac toxicity was defined as symptomatic cardiac failure and/or a decrease in LVEF of more than 15% from baseline or more than 10% below the lower normal institutional limit (55%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose and dose adjustments</head><p>Epirubicin was dissolved in 250 ml 0.9% sodium chloride and given on day 1 as a 30 min intravenous (i.v.) infusion.</p><p>Vinorelbine was dissolved in 125 ml 0.9% sodium chloride and given on days 1 and 8 as a 10 min i.v. infusion. The interval between courses was 3 weeks with a maximum of six cycles or until disease progression. The starting dose of epirubicin (E) was 100 mg m-2 on day 1, and that of vinorel- bine (V) 20 mg m-2 on days 1 and 8. Level II consisted of E 120 (day 1) and V 20 mg m-2 (days 1 and 8), level III: E 120 (day 1)/V (days 1 and 8) 25 mg m-2 and level IV: E 135 (day 1)/V 25 mg m2 (days 1 and 8) respectively. Routine pro- phylaxis for nausea and vomiting (ondansetron chloride 2 x 8 mg oral on day 1 and 1 x 8 mg oral on day 2, dex- amethasone 1 x 8 mg i.v. on day 1) was given at all dose levels. At each level at least three patients were entered. If no DLT was found during their first cycle, the following three patients would start at the next dose level. Three additional patients had to be treated at the same dose level if a single patient experienced DLT in the first cycle. If not more than two out of six patients reached DLT, patients were entered into the next dose level. If at least three out of six patients had one (or more) DLT at a certain dose level during the first chemotherapy cycle, the study was finished. This level was defined as the maximum tolerated dose (MTD); the dose one level lower would be the recommended dose for phase II studies. Dose adjustments or treatment delay up to a max- imum of 14 days were made for neutrophil and platelet nadir and day 21 counts. Criteria for dose modifications for haematological toxicity are summarised in Table <ref type="table">I</ref>. The dose of both drugs had to be reduced by 50% if bilirubin was between 35 and 50 jLmo 1-' and/or aspartate aminotrans- ferase (ASAT) was between three and five times upper nor- mal limits in the absence of liver metastases. If bilirubin levels were more than 50 ymol 1I-or ASAT more than five times upper normal limits in the absence of liver metastases, patients would go off study. In case of mucositis grade III or IV the dose of both vinorelbine and epirubicin had to be reduced by 25%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response criteria</head><p>Complete response (CR) indicated the disappearance of all known disease, determined by two observations not less than 4 weeks apart. A partial response (PR) was defined as a decrease by 50% or more in the sum of the products of the two largest perpendicular diameters of all measurable lesions, as determined by two consecutive observations not less than 4 weeks apart. A situation in which less than 50% decrease or less than 25% increase in total tumour size occurred was defined as stable disease or no change (NC). Progressive disease (PD) was defined as &gt; 25% increase in the size of one or more measurable lesions, or the appearance of new lesions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Twenty-one patients were entered into this study: three patients in dose level I and six patients each in dose levels II, III and IV. Their characteristics are summarised in Table <ref type="table">II</ref>.</p><p>No DLT was observed in the first dose level. At the second dose level one patient had grade IV neutropenia. The same patient showed WHO grade IV alanine aminotransferase (ALAT) elevation in absence of known liver metastases. Liver function tests returned to normal on day 22. At the third dose level one patient had febrile neutropenia and grade III neutropenia on day 8, another had grade IV neutropenia lasting 8 days. At the fourth dose level, three patients experienced a DLT (grade III neutropenia on day 8 in two patients, and one patient with febrile neutropenia). At this dose level, defined as the MTD, the study was closed. The incidence (median duration, range) of WHO grade IV neut- ropenia in the first cycle was 33% (one patient, duration 3 days) in level I, 100% in level II (3 days, 1-4 days) and IV (5 days, 1-6 days) and 84% in level III (3 days, 1-6 days). The combination of epirubicin and vinorelbine induces short-lived neutropenia. Myelosuppression was dose related. The median nadirs of leucocytes, neutrophils and platelets are listed in Table <ref type="table">III</ref>. The median time to nadir counts was 12 days (range 8-15 days). The percentages of cycles associated with haematological toxicity &gt; WHO grade III are shown in Table <ref type="table">IV</ref>. WHO grade IV leucopenia and neutropenia occur- red in 14% and 50% of all cycles respectively. Four patients</p><p>Table I Criteria for dose modifications for haematological toxicity Day 21 counts Nadir Dose adjustment Neutrophils &gt; 1.5 x IO' 1' Neutrophils &gt; 0.2 x IO' 1 100% of day 1 of previous cycle AND AND</p><p>(epirubicin and vinorelbine)</p><p>Platelets &gt; I100 x 109 1-' Platelets &gt;, 50 x 109 1-' Neutrophils ) 1. Table II Patient characteristics Number of patients 21 Sex M/F 17/4 Age (range) years 53 (36-73) PS (ECOG) 0 6 1 12 2 3 Stagea IIIB 10 IV 11 Histology Squamous 5 Adeno 10 Large cell 6 Weight loss &lt; 10% 16 &gt;10% 5 Number of cycles Median 4 Total 84 Reason for discontinuation of treatment PD 12 PD and decrease of LVEF 1 Patient refusal 2 Toxic deaths 0 aAccording to the American Joint Committee for Cancer Staging (1986).</p><p>had to be hospitalised for neutropenic fever for a total of six admissions. Grade IV thrombocytopenia or anaemia was not observed. Dose adjustments were necessary after the first (11 out of 13 dose reductions) and third course (two out of 13 dose reductions respectively) at all dose levels owing to a neutrophil nadir&lt;0.2 x 109 IP-in 11 and neutropenic fever in two courses. At the fourth level one patient received more than one full-dose course, the remaining five patients treated at this dose level had dose reduction. None of the patients required a second dose reduction. Only one course had to be postponed for 1 week owing to insufficient haematological recovery on day 21. Received dose intensity (RDI) in the four levels in mg m-2 week-' was E/V 32/6.4 in level I, 37/6.2 in level II, 35/7.2 in level III and E/V 38/7.1 in level IV. RDI/projected dose intensity (PDI) for the ascending dose levels were 0.97, 0.93, 0.87 and 0.85 respectively. Non- haematological toxicity consisted mainly of nausea/vomiting, stomatitis and phlebitis. The percentages of cycles associated with non-haematological toxicity are listed in Table <ref type="table">V</ref>. Twenty-eight cycles were associated with nausea/vomiting grade I-III despite prophylactic anti-emetic treatment. The median duration of nausea/vomiting was 2.5 days with a range of 1-8 days. From their second or third cycle on, 16 out of 21 patients showed grade I or II phlebitis. Only two of these patients had to be treated with analgesics. Neurotox- icity was not observed. Cardiac toxicity could not be exc- luded in one patient who complained of fatigue and slight shortness of breath. LVEF measured by MUGA scan decreased from 74% to 50% after four courses corresponding to a total dose of 416 mg m-2 epirubicin. This patient even- tually died of progressive disease measured on chest radio-</p><p>Table III Median (range) nadir of blood cell counts Dose No. of patientsl WBC Neutrophils Platelets Haemoglobin mg m-2 No. of cycles 109l-] 109l-] 109l-] g lOOml-, 100/20 3/8 2.0 (1.2-3.1) 0.8 (0.2-1.3) 209 (140-386) 105 (88-113) 120/20 6/30 1.3 (0.7-2.3) 0.2 (0.1-0.6) 122 (36-199) 82 (68-113) 120/25 6/23 1.1 (0.4-2.5) 0.2 (0.01-0.5) 128 (87-192) 89 (76-127) 135/25 6/23 0.9 (0.2-2.0) 0.06 (0.02-0.2) 89 (76-118) 104 (56-274)</p><p>Table IV Cycles (%) with haematological toxicity&gt; WHO III Dose No. of patientsl Toxicity WBC Neutrophils Haemoglobin Platelets (mg m-2) no. of cycles grade (%) (%) (%) (%) 100/20 3/8 III 50 25 0 0 IV 0 40 0 0 120/20 6/30 III 27 7 0 3 IV 0 30 0 0 120/25 6/23 III 52 35 0 0 IV 17 48 0 0 135/25 6/23 III 22 9 4 0 IV 35 57 0 0 Table V Cycles (%) with non haematological toxicity Nausea/ Dose No. ofpatients/ Toxicity vomiting Phlebitis Stomatitis (mg m-2) No. of cycles grade (%) (%) (%) 100/20 3/8 I 38 13 24 II 0 25 0 III 13 0 0 IV 0 0 0 120/20 6/30 I 13 23 7 II 13 7 3 III 3 0 0 IV 0 0 0 120/25 6/23 I 9 35 0 II 0 13 9 III 13 0 0 IV 0 0 0 135/25 6/23 I 30 22 4 II 13 4 0 III 0 0 0 IV 0 0 0 High-dose epirubicin and vinorelbine in NSCLC M Bakker et al 1 550</p><p>graph, however, without clinical signs of congestive heart failure. Sixteen patients had to be hospitalised during their treatment for a total of 24 admissions. Reasons for hospital admission were red blood cell transfusion (12 patients), neut- ropenic fever (four patients), pneumonia (one patient) and ischaemic colitis (one patient). Although tumour response was not an end point of this study, we observed two partial responses (one in level II and one in level III), and ten patients with stable disease out of 20 evaluable patients. Response durations were 12 and 4 weeks. Survival of this group showed a range of 3-106 weeks with a median of 21 weeks (with one patient still alive at time of evaluation).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The objective of this study was to determine the MTD of the combination of high-dose epirubicin and vinorelbine in chemotherapy-naive patients with grade IIIB-IV NSCLC. We found neutropenia, neutropenic fever and throm- bocytopenia on day 8 as dose-limiting toxicities. In this phase I study we determined the MTD at 135 mg m2 epirubicin (day 1) combined with 25 mg m-2 vinorelbine (days 1 and 8). Leucocyte, neutrophil and platelet nadirs occurred on day 12 with dose-related myelosuppression. In only one out of 84 cycles haematological recovery was not complete before day 22. Non-haematological toxicity consisted mainly of nausea and vomiting (in spite of prophylactic anti-emetic treatment), although neither this nor a frequently observed phlebitis of the infusion vein has been a major problem. Cardiac toxicity was possibly encountered in only one out of 21 patients; the decrease in LVEF was not accompanied by clinical signs. Analysis of other high-dose epirubicin studies has shown that high incidences of decreasing LVEF go together with low incidences of congestive heart failure (Feld et al., 1992). Nielsen et al. (1990) conclude from their study of 135 epirubicin-treated patients that LVEF is of no predictive value for congestive heart failure, and should only be measured if there is clinical suspicion of cardiac disease. For higher cumulative dosages endomyocardial biopsy may be more indicative for congestive heart failure than LVEF (Torti  et al., 1986). A considerable risk of cardiac toxicity was found in patients treated with a cumulative dose of epirubicin above 1000 mg m2 <ref type="bibr" target="#b13">(Shepherd et al., 1989)</ref>. Therefore, it is questionable whether MUGA scans should be performed routinely in patients who are treated at lower cumulative dosages. In the present study no neurotoxicity and no treatment-related deaths were observed. The MTD for epirubicin and vinorelbine as established in this phase I study differs from an earlier report <ref type="bibr" target="#b4">(Gridelli et al., 1993)</ref>. They found an MTD of 60 mg m-2 epirubicin without granulocyte colony-stimulating factor (G-CSF) and an MTD of 90 mg m-2 epirubicin with G-CSF with a fixed dose of 25 mg m-2 vinorelbine. Myelosuppression was the dose-limiting toxicity for both treatment groups, as it was in our study. Gridelli et  al. (1993) defined MTD as the dose that caused myelotoxicity grade III in 50% of cases and grade IV in 20% of cases. In our definition of MTD the duration of the neutropenia was more important than the degree of nadir, which might ex- plain the difference in MTD between these two studies. Myelotoxicity in our study was comparable with that reported for single-agent epirubicin at dosages of 160-180 mg m-2 (Feld et al., 1992). From data of this phase I study, we conclude that combination treatment of high-dose epirubicin with vinorelbine causes considerable toxicity. In dose level III only two out of six patients could receive a full-dose second course compared with four out of six patients at dose level II. Also, the RDI in these two levels were almost identical owing to more dose reductions in the higher dose level. Both arguments suggest that dose level II (epirubicin 120 mg m-2 combined with vinorelbine 20 mg m-2) is the recommended dose for phase II studies. However, as leuco-and neutropenia are the major toxicities of this regimen, a more obvious combination might be high-dose epirubicin with gemcitabine or carboplatin since these drugs cause less leuco-and neutropenia compared with vinorelbine.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>&lt; 1.5 x 109 1' Any Hold therapy. Repeat CBC weekly OR until neutrophils L.5 x 1091-AND Platelets&lt;100 x 109 1-' platelets &gt;100 x 109 1-and then treat patients with dose adjustments according to nadir evaluation. If no recovery is reached after 2 weeks the patient will go off study 154 a R</figDesc></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The role of systemic chemotherapy in non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Bunn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Current Topics in Lung Cancer</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Bunn</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="3" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Randomized study of vinorelbine and cisplatin vs vindesine and cisplatin vs vinorelbine alone in advanced non-small-cell lung cancer: results of a European multicenter trial including 612 patients</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Le Chevalier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brisgand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Douillard</forename><surname>Jy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pujol</forename><surname>Jl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Alberola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Monnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Riviere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lianes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chomy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cigolari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gottfried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ruffie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Panizo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Gaspard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ravaioli</forename><forename type="middle">A</forename><surname>Besenval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Besson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ber-Thaud P And</forename><surname>Tursz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="360" to="367" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The current and future place of vinorelbine in cancer chemotherapy</title>
+		<author>
+			<persName><forename type="first">Cvitkovic E And</forename><surname>Izzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drugs</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="36" to="45" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>suppl 4P</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase I-II study of high-dose epirubicin and advanced non-small cell lung cancer</title>
+		<author>
+			<persName><surname>Feld R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Walde</forename><surname>Wierzbicki R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shepherd</forename><surname>Pld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evans</forename><surname>Fa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shannon P And</forename><surname>Lassus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="297" to="303" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Phase I study of epirubicin plus vinorelbine with or without G-CSF in advaned non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gridelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Placido S</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pepe</forename><forename type="middle">R</forename><surname>Incoronato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Airoma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Palazzo</forename><surname>Bianco Ar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1729" to="1731" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Chemotherapy for advanced non-small cell lung cancer: how much benefit is enough?</title>
+		<author>
+			<persName><forename type="first">Oxman Ad And</forename><surname>Grilli R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Julian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1866" to="1872" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Ihde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Manual of Oncologic Therapeutics, Wittes RE</title>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="137" to="141" />
+		</imprint>
+	</monogr>
+	<note>Lippincott: Philadelphia</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A new semisynthetic vinca alkaloid</title>
+		<author>
+			<persName><surname>Krikorian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Breillout</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Onkologie</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="7" to="12" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>Vinorelbine (Navelbine)</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Epirubicin and doxorubicin: a comparison of their characteristics, therapeutic activity and toxicity</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Habboubi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat. Rev</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="197" to="228" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Novel chemotherapeutic agents in the treatment of non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">Lilenbaum Rc And</forename><surname>Green Mr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1391" to="1402" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Activity of high-dose epirubicin in advanced non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Martoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Melotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guaraldi</forename><surname>Pannuti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1231" to="1234" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Epirubicin cardiotoxicity: a study of patients with advanced breast cancer</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dombernovsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fogh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Brynjolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Havsteen</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1806" to="1810" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Epirubicin: A review of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in cancer chemotherapy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Faulds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drugs</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="788" to="856" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Administration of high dose bolus epirubicin (EPI) is not associated with increased cardiotoxicity</title>
+		<author>
+			<persName><surname>Shepherd Fa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Feld R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Blackstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cook</forename><surname>Dj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lassus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Am. Soc. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">335</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A phase II study of high dose epirubicin in unresectable non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">Berendsen</forename><surname>Smit Ef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Piers</forename><surname>Hh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Da</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Smeets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Riva A And Postmus</forename><surname>Pe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="405" to="408" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Vinorelbine. A review of its antitumour activity in lung cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Sorensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drugs</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="60" to="65" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>suppl 4P</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Polychemotherapy in advanced nonsmall cell lung cancer: a meta-analysis</title>
+		<author>
+			<persName><surname>Souquet Pj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chauvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Boissel</forename><surname>Jp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cellerino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cormier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ganz</forename><surname>Pa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kaasa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pater</forename><surname>Jl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Quoix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rapp</forename><surname>Tumarello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="19" to="21" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName><forename type="first">Bristow</forename><surname>Torti Fm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lum</forename><surname>Mm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carter</forename><surname>Bl</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Howes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aston</forename><surname>Da</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brown</forename><surname>Bw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannigan</forename><surname>Jf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meyers</forename><surname>Fj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mit-Chell Ep And</forename><surname>Billingham Me</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cardiotoxicity of epirubicin and doxorubicin: Assessment by endomyocardial biopsy</title>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="3722" to="3727" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Fractioned high dose (HD) of epirubicin (E) in adenocarcinoma of the lung (ADL)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Villar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anton E And</forename><surname>Jimeno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">122</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Handbookfor Reporting Results of Cancer Treatment. Nijhoff: The Hague</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<pubPlace>The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase II study of high-dose epirubicin in non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Utnama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Smeets J And</forename><surname>Riva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1140" to="1141" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Preclinical and clinical pharmacology of vinca alkaloids</title>
+		<author>
+			<persName><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rahmani R</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drugs</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>suppl 4P</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

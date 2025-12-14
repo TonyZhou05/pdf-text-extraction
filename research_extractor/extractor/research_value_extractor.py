@@ -19,6 +19,7 @@ class ResearchValueExtractor:
     def extract(self) -> Dict[str, str]:
         prompt = self.prompt_builder.build_prompt()
         response = self.llm_client.chat(prompt)
+        print("response:", response)
         return self.parse_response(response)
 
     def parse_response(self, response: str) -> Dict[str, str]:

@@ -41,7 +41,7 @@ jobs:
       - name: Run experiment script (PDF Text Directory)
         run: |
           python -m research_extractor.scripts.run_experiment \
-            --input research_extractor/data/test_TEI/ \
+            --input research_extractor/data/test_TEI_batch/ \
             --output research_extractor/outputs/results-pdf-text-fake.jsonl \
             --input-type 'pdf_text_dir' \
             --provider 'fake'
@@ -110,7 +110,7 @@ jobs:
           AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
         run: |
           python -m research_extractor.scripts.run_experiment \
-            --input research_extractor/data/test_TEI/ \
+            --input research_extractor/data/test_TEI_batch/ \
             --output research_extractor/outputs/results-pdf-azure.jsonl \
             --input-type 'pdf_text_dir' \
             --provider 'azure'

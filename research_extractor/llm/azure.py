@@ -17,8 +17,18 @@ class AzureOpenAIClient(LLMClient):
         )
         self.model = model
 
-    def chat(self, messages: str, **kwargs) -> str:
+    def chat(self, messages, **kwargs) -> str:
+        """
+        Accept either a plain string prompt or a fully-formed messages list.
+        This is required for multimodal requests (text + image) used by the table analyzer.
+        """
+        payload = (
+            [{"role": "user", "content": messages}]
+            if isinstance(messages, str)
+            else messages
+        )
+
         response = self.client.chat.completions.create(
-            model=self.model, messages=[{"role": "user", "content": messages}], **kwargs
+            model=self.model, messages=payload, **kwargs
         )
         return response.choices[0].message.content.strip()

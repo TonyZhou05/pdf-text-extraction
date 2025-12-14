@@ -9,6 +9,8 @@ from research_extractor.source.pdf import PDFSource
 from research_extractor.util.utils import (
     get_text_files_from_directory,
     get_xml_files_from_directory,
+    get_xml_pdf_pairs_from_directory,
+    get_pdf_file_for_xml,
 )
 from research_extractor.extractor.research_value_extractor import (
     LLMClient,
@@ -16,6 +18,7 @@ from research_extractor.extractor.research_value_extractor import (
 from research_extractor.extractor.research_value_extractor import (
     ResponseJSONDecoder,
 )
+from research_extractor.table_extractor.table_extractor import TableExtractor
 
 # Import evaluation functionality
 try:
@@ -125,10 +128,32 @@ def run(
 
     elif input_type == "pdf_text_dir":
         # Process text files using PDFSource
-        xml_files = get_xml_files_from_directory(input_path)
-        for xml_file in xml_files:
+        # Get XML files and their corresponding PDF files
+        xml_pdf_pairs = get_xml_pdf_pairs_from_directory(input_path)
+        
+        # Initialize table extractor (reused for all files)
+        table_extractor = TableExtractor()
+        print("here")
+        for xml_file, pdf_file in xml_pdf_pairs:
+            print(pdf_file.exists())
             src = PDFSource(str(xml_file))
-            pb = PromptBuilder(doc=src.load(), fields=fields)
+            
+            # Extract table images  from PDF if PDF file exists
+            extracted_table_binaries = []
+            if pdf_file and pdf_file.exists():
+                print("exist")
+                extracted_tables = table_extractor.extract_from_pdf(
+                    str(pdf_file), 
+                    threshold=0.9, 
+                    padding=20
+                )
+                print(extracted_tables[0].keys())
+            
+            pb = PromptBuilder(
+                doc=src.load(), 
+                fields=fields, 
+                extracted_tables=extracted_tables
+            )
             extractor = ResearchValueExtractor(
                 llm_client=llm, prompt_builder=pb, decoder=decoder
             )
@@ -136,9 +161,15 @@ def run(
             try:
                 out = extractor.extract()
                 out = {"input_id": rec_id, **out} if rec_id else out
+                # Add extracted table binary data
+                if extracted_table_binaries:
+                    out["extracted_tables"] = extracted_table_binaries
                 n_ok += 1
             except Exception as e:
                 out = {"input_id": rec_id, "error": str(e)}
+                # Add extracted table binary data even if extraction failed
+                if extracted_table_binaries:
+                    out["extracted_tables"] = extracted_table_binaries
             results.append(out)
 
     else:
@@ -215,12 +246,18 @@ def main():
         "--no-eval",
         action="store_true",
         help="Skip running field completeness evaluation after extraction",
+        default=True,
     )
     ap.add_argument(
         "--eval-output-dir",
         type=Path,
         default=Path("evaluation_outputs"),
         help="Directory to save evaluation outputs (default: evaluation_outputs)",
+    )
+    ap.add_argument(
+        "--eval-flag",
+        help="Flag to enable evaluation",
+        default=False
     )
     args = ap.parse_args()
 
@@ -245,6 +282,19 @@ def main():
         # Add evaluation results to summary if available
         if evaluation_stats:
             summary += f"- Overall Completeness: {evaluation_stats['overall_completeness']:.2f}%\n"
+            
+            # Add per-study completeness statistics
+            per_study_stats = evaluation_stats.get('per_study_completeness', [])
+            if per_study_stats:
+                completeness_rates = [study['completeness_rate'] for study in per_study_stats]
+                avg_study_completeness = sum(completeness_rates) / len(completeness_rates) * 100
+                studies_100_percent = sum(1 for rate in completeness_rates if rate == 1.0)
+                studies_80_plus = sum(1 for rate in completeness_rates if rate >= 0.8)
+                
+                summary += f"- Average Study Completeness: {avg_study_completeness:.2f}%\n"
+                summary += f"- Studies with 100% completeness: {studies_100_percent}/{len(per_study_stats)}\n"
+                summary += f"- Studies with 80%+ completeness: {studies_80_plus}/{len(per_study_stats)}\n"
+            
             summary += f"- Evaluation Results: detailed_completeness_analysis.json\n"
 
             # Update the report with evaluation results
@@ -267,6 +317,19 @@ def main():
         print(
             f"  - Overall completeness: {evaluation_stats['overall_completeness']:.2f}%"
         )
+        
+        # Add per-study completeness to console output
+        per_study_stats = evaluation_stats.get('per_study_completeness', [])
+        if per_study_stats:
+            completeness_rates = [study['completeness_rate'] for study in per_study_stats]
+            avg_study_completeness = sum(completeness_rates) / len(completeness_rates) * 100
+            studies_100_percent = sum(1 for rate in completeness_rates if rate == 1.0)
+            studies_80_plus = sum(1 for rate in completeness_rates if rate >= 0.8)
+            
+            print(f"  - Average study completeness: {avg_study_completeness:.2f}%")
+            print(f"  - Studies with 100% completeness: {studies_100_percent}/{len(per_study_stats)}")
+            print(f"  - Studies with 80%+ completeness: {studies_80_plus}/{len(per_study_stats)}")
+        
         print(f"  - Detailed analysis: detailed_completeness_analysis.json")
     elif not args.no_eval:
         print(f"\nEvaluation: Skipped (evaluation not available)")
