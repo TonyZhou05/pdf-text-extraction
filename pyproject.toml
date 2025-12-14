@@ -20,7 +20,12 @@ dependencies = [
   "pypdf>=4.0",
   "openai>=1.00",
   "python-dotenv>=1.0.0",
-  "lxml>=4.9"
+  "lxml>=4.9",
+  "transformers>=4.34.0",
+  "torch>=2.0.0",
+  "pillow>=9.0.0",
+  "timm",
+  "pdf2image"
 ]
 
 [project.optional-dependencies]
