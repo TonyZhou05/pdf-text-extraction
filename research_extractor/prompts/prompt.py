@@ -41,11 +41,57 @@ def extract_fields_from_input_study(inputs: Dict[str, Any]) -> str:
 Respond exclusively with the generated JSON string.
 
 # User provided inputs
-paper_content = \"\"\"{paper_content}\"\"\"
+doc_text = \"\"\"{doc_text}\"\"\"
 fields = \"\"\"{fields}\"\"\"
 
 inputs = {{
-    "paper_content": paper_content,
-    "fields": fields{tables_input}
+    "doc_text": doc_text,
+    "fields": fields
+    {tables_input}
 }}
+Format:
+    ```json
+    {{  "result": [
+        {{ "name": "Study Year", "value": "2023", "source_id": [1] }},
+        ...
+    ] }}
+    ```
 """
+
+TREATMENT_EXTRACTION_PROMPT = """... (Similar Intro) ...
+
+    IMPORTANT FOR SAFETY DATA:
+    You are extracting linked events. Do NOT separate DLTs from their Grades.
+    Group every adverse event into a single object.
+    
+    Returns: A syntactically correct JSON string with a "safety_events" key.
+        Format:
+        ```json
+        {{  "safety_events": [
+            {{
+                "DLT": "Neutropenia",
+                "Grade": "3",
+                "At_Level": "4",
+                "Frequency": "2",
+                "Total_Patients": "10",
+                "source_id": [5]
+            }},
+            {{
+                "DLT": "Fatigue",
+                "Grade": "2",
+                ...
+            }}
+        ] }}
+        ```
+    
+    # User provided inputs
+    doc_text = \"\"\"{doc_text}\"\"\"
+    fields = \"\"\"{fields}\"\"\"
+    
+    inputs = {{
+        "doc_text": doc_text,
+        "fields": fields{tables_input}
+    }}
+"""
+
+

@@ -110,22 +110,36 @@ class TableExtractor:
 
             table_analyzer = TableAnalyzer()
 
-            prompt = """
-                Analyze this clinical table image.
-                1. Identify the column headers (e.g., Treatment Group vs Placebo).
-                2. Extract the row data into a JSON list of objects.
-                3. If values have confidence intervals (e.g. "15.4 (12.0-18.1)"), keep them as strings.
+            meta_prompt = """
+            Analyze this clinical table image. Return a JSON object with exactly two keys:
+            
+            1. "metadata": An object containing:
+               - "title": The table title or number (e.g. "Table 1").
+               - "keywords": A list of strings describing the contents (e.g. ["Demographics", "Safety", "Adverse Events", "Pharmacokinetics"]).
+               - "summary": A one-sentence summary of what the table shows.
+               
+            2. "html": A semantic HTML string representation of the table data.
+               - Use colspan/rowspan for merged headers.
+               - Do not use CSS.
             """
-            table_extracted = table_analyzer.analyze(b64_string, prompt)
+            analysis_result = table_analyzer.analyze(b64_string, meta_prompt)
+
+            if isinstance(analysis_result, str):
+                metadata = {"keywords": [], "title": "Unknown"}
+                html_content = analysis_result
+            else:
+                metadata = analysis_result.get("metadata", {"keywords": [], "title": "Unknown"})
+                html_content = analysis_result.get("html", "")
 
             # Store result
             table_data = {
                 "id": i + 1,
                 "confidence": round(score.item(), 4),
                 "original_box": [round(x, 2) for x in box.tolist()],
-                "cropped_box": [round(left, 2), round(top, 2), round(right, 2), round(bottom, 2)],
                 "image": cropped_img,        # Useful if you want to save to disk later
-                "table_extracted": table_extracted        # Useful for sending to LLM
+                "base64": b64_string,      # For Vision Verification
+                "metadata": metadata,      # For Selection/Filtering
+                "html": html_content       # For Text Extraction
             }
             extracted_tables.append(table_data)
             
@@ -139,29 +153,6 @@ class TableExtractor:
         threshold: float = 0.9, 
         padding: int = 20
     ) -> List[Dict[str, Any]]:
-        """
-        Extract tables from a PDF file by converting pages to images and detecting tables.
-        
-        Args:
-            pdf_path: Path to the PDF file
-            threshold: Confidence threshold for table detection
-            padding: Padding around detected tables in pixels
-            
-        Returns:
-            List of dictionaries containing extracted table information:
-            [
-                {
-                    "page": 1,
-                    "table_id": 1,
-                    "confidence": 0.99,
-                    "base64_binary": "base64_encoded_string",
-                    "original_box": [x1, y1, x2, y2],
-                    "cropped_box": [x1, y1, x2, y2]
-                },
-                ...
-            ]
-        """
-        print("extract_from_pdf")
         extracted_tables = []
         pdf_path_obj = Path(pdf_path)
         
@@ -180,7 +171,9 @@ class TableExtractor:
                 extracted_tables.append({
                     "page": page_num,
                     "table_id": table["id"],
-                    "table_extracted": table["table_extracted"]
+                    # "base64": table["base64"],
+                    "metadata": table["metadata"],
+                    "html": table["html"]
                 })
         
         return extracted_tables

@@ -1,4 +1,5 @@
 import os
+import json
 from research_extractor.llm.azure import AzureOpenAIClient
 from typing import Dict, Any
 
@@ -10,43 +11,38 @@ class TableAnalyzer:
         
         self.client = AzureOpenAIClient()
 
-    def analyze(self, raw_string: str, user_prompt: str) -> str:
-        """
-        Sends the base64 encoded table to GPT-4o for analysis.
-        """
+    def analyze(self, raw_string: str, user_prompt: str) -> Dict[str, Any]:
         if not raw_string:
-            raise ValueError("No raw string found")
+            return {}
         
         data_url = f"data:image/jpeg;base64,{raw_string}"
 
-        # 4. Make the API Call
         try:
             response = self.client.chat(
                 messages=[
                     {
                         "role": "system", 
-                        "content": "You are a specialized clinical research assistant. Extract data accurately from medical tables. Return valid JSON only."
+                        # CRITICAL: You must mention 'JSON' in the prompt for JSON mode to work
+                        "content": "You are a clinical assistant. Output JSON only."
                     },
                     {
                         "role": "user",
                         "content": [
-                            {
-                                "type": "text", 
-                                "text": user_prompt
-                            },
-                            {
-                                "type": "image_url",
-                                "image_url": {
-                                    "url": data_url,
-                                    "detail": "high" # Forces high-res processing for small text
-                                }
-                            }
+                            {"type": "text", "text": user_prompt},
+                            {"type": "image_url", "image_url": {"url": data_url, "detail": "high"}}
                         ]
                     }
                 ],
-                max_tokens=1500
+                max_tokens=2000,
+                response_format={"type": "json_object"}
             )
+
+            print(response)
+            
+            # Now it is safe to load directly
             return response
             
         except Exception as e:
-            return f"Error during OpenAI inference: {str(e)}"
+            print(f"Error: {e}")
+            # Fallback structure so your pipeline doesn't crash
+            return {"metadata": {"keywords": [], "title": "Error"}, "html": ""}

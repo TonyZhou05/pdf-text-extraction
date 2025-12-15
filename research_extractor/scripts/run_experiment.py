@@ -133,15 +133,11 @@ def run(
         
         # Initialize table extractor (reused for all files)
         table_extractor = TableExtractor()
-        print("here")
         for xml_file, pdf_file in xml_pdf_pairs:
-            print(pdf_file.exists())
             src = PDFSource(str(xml_file))
             
-            # Extract table images  from PDF if PDF file exists
             extracted_table_binaries = []
             if pdf_file and pdf_file.exists():
-                print("exist")
                 extracted_tables = table_extractor.extract_from_pdf(
                     str(pdf_file), 
                     threshold=0.9, 
@@ -151,7 +147,6 @@ def run(
             
             pb = PromptBuilder(
                 doc=src.load(), 
-                fields=fields, 
                 extracted_tables=extracted_tables
             )
             extractor = ResearchValueExtractor(
