@@ -20,7 +20,7 @@ class PDFSource(TextSource):
             raise FileNotFoundError(f"Text file not found: {file_path}")
 
         self.metaData = {"text_file": str(self.file_path), "file_type": "pdf_text"}
-        
+
     def get_text(self) -> str:
         if not hasattr(self, "_text"):
             self.load()
@@ -52,15 +52,18 @@ class PDFSource(TextSource):
 
             for div in body.findall("tei:div", ns):
                 heading_el = div.find("tei:head", ns)
-                heading = heading_el.text.strip() if heading_el is not None else "Untitled"
+                heading = (
+                    heading_el.text.strip() if heading_el is not None else "Untitled"
+                )
                 paras = [
-                    "".join(p.itertext()).strip()
-                    for p in div.findall("tei:p", ns)
+                    "".join(p.itertext()).strip() for p in div.findall("tei:p", ns)
                 ]
                 div_text = "\n".join([p for p in paras if p])
 
                 if div_text.strip():
-                    segments.append(f"[SourceID: {source_id}] {heading}\n{div_text.strip()}")
+                    segments.append(
+                        f"[SourceID: {source_id}] {heading}\n{div_text.strip()}"
+                    )
                     source_id += 1
         except Exception as e:
             print(f"Error parsing TEI XML {self.file_path}: {e}")
@@ -80,6 +83,4 @@ class PDFSource(TextSource):
             }
         )
 
-        return Document(
-            doc_id=self.file_path.stem, text=self._text, meta=self.metaData
-        )
+        return Document(doc_id=self.file_path.stem, text=self._text, meta=self.metaData)

@@ -22,3 +22,4 @@ __pycache__/
 research_extractor/data/text/*.txt
 dist/
 build/
+temp_segmented_text/
